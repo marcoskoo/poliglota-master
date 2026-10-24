@@ -154,6 +154,11 @@ function jobDone(id: string): boolean {
   if (!existsSync(dir)) return false;
   return readdirSync(dir).some((f) => f.startsWith(`${id}-p`) && f.endsWith(".txt"));
 }
+/** id ocupado si existe su .md O sus part (evita sobrescribir pools tras rollbacks) */
+function idTaken(id: string): boolean {
+  if (existsSync(`${JOBS}/${id}.md`)) return true;
+  return jobDone(id);
+}
 
 function jobMarkdown(j: Job): string {
   const excl = j.excl.length
@@ -242,14 +247,18 @@ function main() {
       const band = BAND_OF[g.levels[0]];
       const topics = TOPICS.filter((t) => t.band === band).map((t) => t.t);
       for (let i = 0; i < nJobs; i++) {
-        jobN++;
-        const lvl = g.levels.length > 1 ? (i % 2 === 0 ? g.levels[0] : g.levels[1]) : g.levels[0];
+        const lvl2 = g.levels.length > 1 ? (i % 2 === 0 ? g.levels[0] : g.levels[1]) : g.levels[0];
+        let id = "";
+        do {
+          jobN++;
+          id = `${lang}-${lvl2.toLowerCase()}-${String(jobN).padStart(2, "0")}`;
+        } while (idTaken(id));
         const tPer = Math.max(4, Math.floor(topics.length / nJobs));
         const start = (i * tPer) % topics.length;
         const slice = Array.from({ length: Math.min(tPer, topics.length) }, (_, k) => topics[(start + k) % topics.length]);
         jobs.push({
-          id: `${lang}-${lvl.toLowerCase()}-${String(jobN).padStart(2, "0")}`,
-          lang, langName: LANG_NAME[lang], level: lvl, count: per,
+          id,
+          lang, langName: LANG_NAME[lang], level: lvl2, count: per,
           topics: slice, excl: sampleLemmas(lemmas, band, 110),
         });
       }

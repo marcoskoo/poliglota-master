@@ -2736,3 +2736,17 @@ Task ID: v9.43/gen/en-b1-02 · Agent: subagent · lexicón EN B1: 1032 entradas 
 Task ID: v9.43/gen/en-b2-03 · Agent: subagent · lexicón EN B2: 1032 entradas · awk OK
 Task ID: v9.43/gen/de-b1-02 · Agent: subagent · lexicón DE B1: 1032 entradas · awk OK
 Task ID: v9.43/gen/de-c2-17 · Agent: subagent · lexicón DE C2: 1040 entradas · awk OK
+Task ID: v9.43/gen/it-b2-01 · Agent: subagent · lexicón IT B2: 408 entradas · awk OK
+Task ID: v9.43/gen/it-c1-04 · Agent: subagent · lexicón IT C1: 874 entradas · awk OK
+Task ID: v9.43/gen/it-c1-02 · Agent: subagent · lexicón IT C1: 874 entradas · awk OK
+Task ID: v9.43/gen/it-c1-05 · Agent: subagent · lexicón IT C1: 874 entradas · awk OK
+Task ID: v9.43/gen/it-c2-06 · Agent: subagent · lexicón IT C2: 937 entradas · awk OK
+Task ID: v9.43/gen/en-b2-02 · Agent: subagent · lexicón EN B2: 1032 entradas · awk OK
+Task ID: v9.43/gen/en-c1-03 · Agent: subagent · lexicón EN C1: 953 entradas · awk OK
+Task ID: v9.43/gen/en-b2-01 · Agent: subagent · lexicón EN B2: 1032 entradas · awk OK
+Task ID: v9.43/gen/it-c1-03 · Agent: subagent · lexicón IT C1: 874 entradas · awk OK
+Task ID: v9.43/gen/en-c1-01 · Agent: subagent · lexicón EN C1: 926 entradas · awk OK
+Task ID: v9.43/gen/en-c1-05 · Agent: subagent · lexicón EN C1: 926 entradas · awk OK
+Task ID: v9.43/gen/en-c1-04 · Agent: subagent · lexicón EN C1: 926 entradas · awk OK
+Task ID: v9.43/gen/en-c2-07 · Agent: subagent · lexicón EN C2: 1068 entradas · awk OK
+Task ID: v9.43/gen/en-c2-06 · Agent: subagent · lexicón EN C2: 1068 entradas · awk OK

@@ -1,0 +1,344 @@
+[
+ {
+  "id": "it-b2-02",
+  "lang": "it",
+  "level": "B2",
+  "count": 235
+ },
+ {
+  "id": "it-c1-06",
+  "lang": "it",
+  "level": "C1",
+  "count": 908
+ },
+ {
+  "id": "it-c2-09",
+  "lang": "it",
+  "level": "C2",
+  "count": 827
+ },
+ {
+  "id": "en-c1-01",
+  "lang": "en",
+  "level": "C1",
+  "count": 926
+ },
+ {
+  "id": "en-c1-02",
+  "lang": "en",
+  "level": "C1",
+  "count": 926
+ },
+ {
+  "id": "en-c1-04",
+  "lang": "en",
+  "level": "C1",
+  "count": 926
+ },
+ {
+  "id": "en-c1-05",
+  "lang": "en",
+  "level": "C1",
+  "count": 926
+ },
+ {
+  "id": "en-c2-06",
+  "lang": "en",
+  "level": "C2",
+  "count": 1068
+ },
+ {
+  "id": "en-c2-07",
+  "lang": "en",
+  "level": "C2",
+  "count": 1068
+ },
+ {
+  "id": "en-c2-08",
+  "lang": "en",
+  "level": "C2",
+  "count": 1068
+ },
+ {
+  "id": "en-c2-09",
+  "lang": "en",
+  "level": "C2",
+  "count": 1068
+ },
+ {
+  "id": "pt-a1-01",
+  "lang": "pt",
+  "level": "A1",
+  "count": 473
+ },
+ {
+  "id": "pt-b1-02",
+  "lang": "pt",
+  "level": "B1",
+  "count": 925
+ },
+ {
+  "id": "pt-b1-03",
+  "lang": "pt",
+  "level": "B1",
+  "count": 925
+ },
+ {
+  "id": "pt-b2-04",
+  "lang": "pt",
+  "level": "B2",
+  "count": 849
+ },
+ {
+  "id": "pt-b2-05",
+  "lang": "pt",
+  "level": "B2",
+  "count": 849
+ },
+ {
+  "id": "pt-b2-06",
+  "lang": "pt",
+  "level": "B2",
+  "count": 849
+ },
+ {
+  "id": "pt-b2-07",
+  "lang": "pt",
+  "level": "B2",
+  "count": 849
+ },
+ {
+  "id": "pt-c1-08",
+  "lang": "pt",
+  "level": "C1",
+  "count": 1037
+ },
+ {
+  "id": "pt-c1-09",
+  "lang": "pt",
+  "level": "C1",
+  "count": 1037
+ },
+ {
+  "id": "pt-c1-10",
+  "lang": "pt",
+  "level": "C1",
+  "count": 1037
+ },
+ {
+  "id": "pt-c1-11",
+  "lang": "pt",
+  "level": "C1",
+  "count": 1037
+ },
+ {
+  "id": "pt-c1-12",
+  "lang": "pt",
+  "level": "C1",
+  "count": 1037
+ },
+ {
+  "id": "pt-c2-13",
+  "lang": "pt",
+  "level": "C2",
+  "count": 881
+ },
+ {
+  "id": "pt-c2-14",
+  "lang": "pt",
+  "level": "C2",
+  "count": 881
+ },
+ {
+  "id": "pt-c2-15",
+  "lang": "pt",
+  "level": "C2",
+  "count": 881
+ },
+ {
+  "id": "pt-c2-16",
+  "lang": "pt",
+  "level": "C2",
+  "count": 881
+ },
+ {
+  "id": "pt-c2-17",
+  "lang": "pt",
+  "level": "C2",
+  "count": 881
+ },
+ {
+  "id": "pt-c2-18",
+  "lang": "pt",
+  "level": "C2",
+  "count": 881
+ },
+ {
+  "id": "fr-a1-01",
+  "lang": "fr",
+  "level": "A1",
+  "count": 469
+ },
+ {
+  "id": "fr-b1-02",
+  "lang": "fr",
+  "level": "B1",
+  "count": 953
+ },
+ {
+  "id": "fr-b1-03",
+  "lang": "fr",
+  "level": "B1",
+  "count": 953
+ },
+ {
+  "id": "fr-b2-04",
+  "lang": "fr",
+  "level": "B2",
+  "count": 856
+ },
+ {
+  "id": "fr-b2-05",
+  "lang": "fr",
+  "level": "B2",
+  "count": 856
+ },
+ {
+  "id": "fr-b2-06",
+  "lang": "fr",
+  "level": "B2",
+  "count": 856
+ },
+ {
+  "id": "fr-b2-07",
+  "lang": "fr",
+  "level": "B2",
+  "count": 856
+ },
+ {
+  "id": "fr-c1-08",
+  "lang": "fr",
+  "level": "C1",
+  "count": 1035
+ },
+ {
+  "id": "fr-c1-09",
+  "lang": "fr",
+  "level": "C1",
+  "count": 1035
+ },
+ {
+  "id": "fr-c1-10",
+  "lang": "fr",
+  "level": "C1",
+  "count": 1035
+ },
+ {
+  "id": "fr-c1-11",
+  "lang": "fr",
+  "level": "C1",
+  "count": 1035
+ },
+ {
+  "id": "fr-c1-12",
+  "lang": "fr",
+  "level": "C1",
+  "count": 1035
+ },
+ {
+  "id": "fr-c2-13",
+  "lang": "fr",
+  "level": "C2",
+  "count": 879
+ },
+ {
+  "id": "fr-c2-14",
+  "lang": "fr",
+  "level": "C2",
+  "count": 879
+ },
+ {
+  "id": "fr-c2-15",
+  "lang": "fr",
+  "level": "C2",
+  "count": 879
+ },
+ {
+  "id": "fr-c2-16",
+  "lang": "fr",
+  "level": "C2",
+  "count": 879
+ },
+ {
+  "id": "fr-c2-17",
+  "lang": "fr",
+  "level": "C2",
+  "count": 879
+ },
+ {
+  "id": "fr-c2-18",
+  "lang": "fr",
+  "level": "C2",
+  "count": 879
+ },
+ {
+  "id": "de-a2-01",
+  "lang": "de",
+  "level": "A2",
+  "count": 529
+ },
+ {
+  "id": "de-b1-03",
+  "lang": "de",
+  "level": "B1",
+  "count": 895
+ },
+ {
+  "id": "de-b2-04",
+  "lang": "de",
+  "level": "B2",
+  "count": 865
+ },
+ {
+  "id": "de-b2-05",
+  "lang": "de",
+  "level": "B2",
+  "count": 865
+ },
+ {
+  "id": "de-b2-06",
+  "lang": "de",
+  "level": "B2",
+  "count": 865
+ },
+ {
+  "id": "de-b2-07",
+  "lang": "de",
+  "level": "B2",
+  "count": 865
+ },
+ {
+  "id": "de-c1-08",
+  "lang": "de",
+  "level": "C1",
+  "count": 817
+ },
+ {
+  "id": "de-c1-09",
+  "lang": "de",
+  "level": "C1",
+  "count": 817
+ },
+ {
+  "id": "de-c1-13",
+  "lang": "de",
+  "level": "C1",
+  "count": 817
+ },
+ {
+  "id": "de-c2-15",
+  "lang": "de",
+  "level": "C2",
+  "count": 1150
+ }
+]
