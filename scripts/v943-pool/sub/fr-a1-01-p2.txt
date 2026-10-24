@@ -1,0 +1,234 @@
+église|iglesia||S|cit|A1
+piscine|piscina||S|cit|A1
+stade|estadio||S|cit|A1
+théâtre|teatro||S|cit|A1
+poste|oficina de correos||S|cit|A1
+immeuble|edificio||S|cit|A1
+rue|calle||S|cit|A1
+avenue|avenida||S|cit|A1
+boulevard|bulevar||S|cit|A1
+feu rouge|semáforo||S|cit|A1
+passage piéton|paso de peatones||S|cit|A1
+tourner|girar||V|cit|A1
+tout droit|todo recto||E|cit|A1
+froid|frío||A|cli|A1
+soleil|sol||S|cli|A1
+nuage|nube||S|cli|A1
+pluie|lluvia||S|cli|A1
+orage|tormenta||S|cli|A1
+brouillard|niebla||S|cli|A1
+il fait beau|hace buen tiempo||E|cli|A1
+hiver|invierno||S|cli|A1
+saison|estación (del año)||S|cli|A1
+pantalon|pantalón||S|rop|A1
+chemise|camisa||S|rop|A1
+pull|jersey||S|rop|A1
+manteau|abrigo||S|rop|A1
+jupe|falda||S|rop|A1
+short|pantalón corto||S|rop|A1
+maillot de bain|bañador||S|rop|A1
+chaussure|zapato||S|rop|A1
+écharpe|bufanda||S|rop|A1
+casquette|gorra||S|rop|A1
+parapluie|paraguas||S|rop|A1
+bonnet|gorro||S|rop|A1
+collier|collar||S|rop|A1
+sac à dos|mochila||S|rop|A1
+portable|móvil||S|tec|A1
+tablette|tableta||S|tec|A1
+écran|pantalla||S|tec|A1
+souris|ratón||S|tec|A1
+clavier|teclado||S|tec|A1
+écouteurs|auriculares||S|tec|A1
+appareil photo|cámara de fotos||S|tec|A1
+internet|internet||S|tec|A1
+site web|página web||S|tec|A1
+mot de passe|contraseña||S|tec|A1
+mail|correo electrónico||S|tec|A1
+message|mensaje||S|tec|A1
+envoyer|enviar||V|tec|A1
+recevoir|recibir||V|tec|A1
+football|fútbol||S|spt|A1
+tennis|tenis||S|spt|A1
+natation|natación||S|spt|A1
+volley-ball|voleibol||S|spt|A1
+judo|judo||S|spt|A1
+ski|esquí||S|spt|A1
+boxe|boxeo||S|spt|A1
+ballon|balón||S|spt|A1
+balle|pelota||S|spt|A1
+raquette|raqueta||S|spt|A1
+filet|red||S|spt|A1
+but|portería||S|spt|A1
+arbitre|árbitro||S|spt|A1
+match|partido||S|spt|A1
+piano|piano||S|mus|A1
+guitare|guitarra||S|mus|A1
+violon|violín||S|mus|A1
+batterie|batería||S|mus|A1
+flûte|flauta||S|mus|A1
+trompette|trompeta||S|mus|A1
+accordéon|acordeón||S|mus|A1
+musique|música||S|mus|A1
+rock|rock||S|mus|A1
+pop|pop||S|mus|A1
+jazz|jazz||S|mus|A1
+rap|rap||S|mus|A1
+classique|clásico (música)||A|mus|A1
+film|película||S|cin|A1
+comédie|comedia||S|cin|A1
+dessin animé|dibujos animados||S|cin|A1
+horreur|terror||S|cin|A1
+série|serie||S|cin|A1
+télé|televisión||S|cin|A1
+copain|amigo||S|rel|A1
+camarade|compañero||S|rel|A1
+sortie|salida (de ocio)||S|rel|A1
+invitation|invitación||S|rel|A1
+ensemble|juntos||D|rel|A1
+sortir|salir||V|rel|A1
+s'amuser|divertirse||V|rel|A1
+compte|cuenta bancaria||S|fin|A1
+distributeur de billets|cajero automático||S|fin|A1
+prêt|préstamo||S|fin|A1
+banquier|banquero||S|fin|A1
+agence|sucursal||S|fin|A1
+virement|transferencia||S|fin|A1
+plat du jour|plato del día||S|ris|A1
+entrée|entrante||S|ris|A1
+frites|patatas fritas||S|ris|A1
+omelette|tortilla francesa||S|ris|A1
+sandwich|bocadillo||S|ris|A1
+sauce|salsa||S|ris|A1
+quiche|tarta salada||S|ris|A1
+addition|cuenta||S|ris|A1
+carte|carta||S|ris|A1
+pourboire|propina||S|ris|A1
+serveuse|camarera||S|ris|A1
+couvert|cubierto||S|ris|A1
+commande|comanda||S|ris|A1
+boire un verre|tomar algo||E|ris|A1
+bleu|azul||A|col|A1
+blanc|blanco||A|col|A1
+violet|violeta||A|col|A1
+marron|marrón||A|col|A1
+couleur|color||S|col|A1
+forme|forma||S|col|A1
+rond|redondo||A|col|A1
+pied|pie||S|cor|A1
+œil|ojo||S|cor|A1
+épaule|hombro||S|cor|A1
+genou|rodilla||S|cor|A1
+dent|diente||S|cor|A1
+bouche|boca||S|cor|A1
+cou|cuello||S|cor|A1
+chat|gato||S|ani|A1
+lapin|conejo||S|ani|A1
+tortue|tortuga||S|ani|A1
+hamster|hámster||S|ani|A1
+poisson rouge|pez de colores||S|ani|A1
+nourrir|alimentar||V|ani|A1
+vache|vaca||S|ani|A1
+mouton|oveja||S|ani|A1
+chèvre|cabra||S|ani|A1
+poule|gallina||S|ani|A1
+coq|gallo||S|ani|A1
+canard|pato||S|ani|A1
+ferme|granja||S|ani|A1
+loup|lobo||S|ani|A1
+ours|oso||S|ani|A1
+renard|zorro||S|ani|A1
+singe|mono||S|ani|A1
+écureuil|ardilla||S|ani|A1
+lion|león||S|ani|A1
+éléphant|elefante||S|ani|A1
+aigle|águila||S|ani|A1
+hibou|búho||S|ani|A1
+pigeon|paloma||S|ani|A1
+canari|canario||S|ani|A1
+cygne|cisne||S|ani|A1
+moineau|gorrión||S|ani|A1
+mouche|mosca||S|ani|A1
+moustique|mosquito||S|ani|A1
+abeille|abeja||S|ani|A1
+fourmi|hormiga||S|ani|A1
+papillon|mariposa||S|ani|A1
+araignée|araña||S|ani|A1
+escargot|caracol||S|ani|A1
+forêt|bosque||S|nat|A1
+lac|lago||S|nat|A1
+colline|colina||S|nat|A1
+désert|desierto||S|nat|A1
+champ|campo||S|nat|A1
+vallée|valle||S|nat|A1
+cascade|cascada||S|nat|A1
+plante|planta||S|nat|A1
+feuille|hoja||S|nat|A1
+racine|raíz||S|nat|A1
+herbe|hierba||S|nat|A1
+tulipe|tulipán||S|nat|A1
+tournesol|girasol||S|nat|A1
+branche|rama||S|nat|A1
+sable|arena||S|nat|A1
+vague|ola||S|nat|A1
+coquillage|concha||S|nat|A1
+crème solaire|crema solar||S|nat|A1
+serviette de plage|toalla de playa||S|nat|A1
+parasol|sombrilla||S|nat|A1
+se baigner|bañarse||V|nat|A1
+soir|tarde (última hora del día)||S|tmp|A1
+midi|mediodía||S|tmp|A1
+minuit|medianoche||S|tmp|A1
+après-midi|tarde (después de comer)||S|tmp|A1
+quelle heure est-il|qué hora es||E|tmp|A1
+tôt|temprano||D|tmp|A1
+maintenant|ahora||D|tmp|A1
+lundi|lunes||S|tmp|A1
+mardi|martes||S|tmp|A1
+mercredi|miércoles||S|tmp|A1
+jeudi|jueves||S|tmp|A1
+vendredi|viernes||S|tmp|A1
+samedi|sábado||S|tmp|A1
+dimanche|domingo||S|tmp|A1
+jeu|juego||S|sve|A1
+jouer|jugar||V|sve|A1
+lecture|lectura||S|sve|A1
+passe-temps|pasatiempo||S|sve|A1
+loisir|ocio||S|sve|A1
+puzzle|puzzle||S|sve|A1
+se promener|pasear||V|sve|A1
+anniversaire|cumpleaños||S|sve|A1
+cadeau|regalo||S|sve|A1
+bonbon|caramelo||S|sve|A1
+bougie|vela||S|sve|A1
+danser|bailar||V|sve|A1
+célébrer|celebrar||V|sve|A1
+bouquet|ramo de flores||S|sve|A1
+peur|miedo||S|emo|A1
+content|contento||A|emo|A1
+triste|triste||A|emo|A1
+joyeux|alegre||A|emo|A1
+fâché|enfadado||A|emo|A1
+adorer|encantar (amar)||V|emo|A1
+espérer|esperar||V|emo|A1
+sympathique|simpático||A|emo|A1
+timide|tímido||A|emo|A1
+intelligent|inteligente||A|emo|A1
+drôle|gracioso||A|emo|A1
+sérieux|serio||A|emo|A1
+poli|educado||A|emo|A1
+paresseux|perezoso||A|emo|A1
+appel|llamada||S|cmu|A1
+sonner|sonar||V|cmu|A1
+décrocher|descolgar||V|cmu|A1
+raccrocher|colgar||V|cmu|A1
+texto|mensaje de texto||S|cmu|A1
+numéro|número||S|cmu|A1
+répondeur|contestador||S|cmu|A1
+peinture|pintura||S|art|A1
+pinceau|pincel||S|art|A1
+toile|lienzo||S|art|A1
+craie|tiza||S|art|A1
+ciseaux|tijeras||S|art|A1
+colle|pegamento||S|art|A1
+aquarelle|acuarela||S|art|A1

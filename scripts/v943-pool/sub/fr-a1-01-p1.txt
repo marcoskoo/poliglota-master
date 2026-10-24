@@ -1,0 +1,235 @@
+bonjour|buenos días||I|sal|A1
+au revoir|adiós||E|sal|A1
+bonne nuit|buenas noches||E|sal|A1
+bon après-midi|buenas tardes||E|sal|A1
+je m'appelle|me llamo||E|sal|A1
+comment t'appelles-tu|cómo te llamas||E|sal|A1
+enchanté|encantado (de conocerle)||E|sal|A1
+merci|gracias||I|sal|A1
+merci beaucoup|muchas gracias||E|sal|A1
+de rien|de nada||E|sal|A1
+pardon|perdón||I|sal|A1
+je vous en prie|no hay de qué||E|sal|A1
+avec plaisir|con mucho gusto||E|sal|A1
+féliciter|felicitar||V|sal|A1
+mère|madre||S|fam|A1
+père|padre||S|fam|A1
+sœur|hermana||S|fam|A1
+grand-mère|abuela||S|fam|A1
+oncle|tío||S|fam|A1
+tante|tía||S|fam|A1
+neveu|sobrino||S|fam|A1
+canapé|sofá||S|cas|A1
+fauteuil|sillón||S|cas|A1
+bibliothèque|librería (mueble para libros)||S|cas|A1
+machine à laver|lavadora||S|cas|A1
+lave-vaisselle|lavavajillas||S|cas|A1
+micro-ondes|microondas||S|cas|A1
+congélateur|congelador||S|cas|A1
+salon|salón||S|cas|A1
+salle à manger|comedor||S|cas|A1
+couloir|pasillo||S|cas|A1
+balcon|balcón||S|cas|A1
+toit|tejado||S|cas|A1
+mur|pared||S|cas|A1
+fourchette|tenedor||S|cas|A1
+cuillère|cuchara||S|cas|A1
+bol|cuenco||S|cas|A1
+poêle|sartén||S|cas|A1
+saladier|ensaladera||S|cas|A1
+tire-bouchon|sacacorchos||S|cas|A1
+nettoyer|limpiar||V|cas|A1
+laver|lavar||V|cas|A1
+balayer|barrer||V|cas|A1
+éponge|esponja||S|cas|A1
+seau|cubo||S|cas|A1
+poubelle|cubo de basura||S|cas|A1
+poussière|polvo||S|cas|A1
+marteau|martillo||S|cas|A1
+tournevis|destornillador||S|cas|A1
+clou|clavo||S|cas|A1
+vis|tornillo||S|cas|A1
+perceuse|taladro||S|cas|A1
+échelle|escalera de mano||S|cas|A1
+robinet|grifo||S|cas|A1
+pomme|manzana||S|ali|A1
+citron|limón||S|ali|A1
+fraise|fresa||S|ali|A1
+cerise|cereza||S|ali|A1
+pêche|melocotón||S|ali|A1
+pastèque|sandía||S|ali|A1
+ananas|piña||S|ali|A1
+carotte|zanahoria||S|ali|A1
+tomate|tomate||S|ali|A1
+pomme de terre|patata||S|ali|A1
+oignon|cebolla||S|ali|A1
+ail|ajo||S|ali|A1
+salade|lechuga||S|ali|A1
+poulet|pollo||S|ali|A1
+bœuf|carne de vacuno||S|ali|A1
+agneau|cordero||S|ali|A1
+steak|filete||S|ali|A1
+crevette|gamba||S|ali|A1
+moule|mejillón||S|ali|A1
+thon|atún||S|ali|A1
+yaourt|yogur||S|ali|A1
+œuf|huevo||S|ali|A1
+œuf dur|huevo duro||S|ali|A1
+fromage blanc|queso fresco batido||S|ali|A1
+pain|pan||S|ali|A1
+pain de mie|pan de molde||S|ali|A1
+biscuit|galleta||S|ali|A1
+riz|arroz||S|ali|A1
+farine|harina||S|ali|A1
+miel|miel||S|ali|A1
+brioche|bollo dulce (brioche)||S|ali|A1
+bière|cerveza||S|ali|A1
+limonade|limonada||S|ali|A1
+soda|refresco||S|ali|A1
+sirop|jarabe||S|ali|A1
+eau minérale|agua mineral||S|ali|A1
+cidre|sidra||S|ali|A1
+sel|sal||S|ali|A1
+sucre|azúcar||S|ali|A1
+vinaigre|vinagre||S|ali|A1
+moutarde|mostaza||S|ali|A1
+huile|aceite||S|ali|A1
+huile d'olive|aceite de oliva||S|ali|A1
+persil|perejil||S|ali|A1
+haricot|judía||S|ali|A1
+lentille|lenteja||S|ali|A1
+pois chiche|garbanzo||S|ali|A1
+noix|nuez||S|ali|A1
+amande|almendra||S|ali|A1
+cacahuète|cacahuete||S|ali|A1
+noisette|avellana||S|ali|A1
+boutique|tienda||S|cmp|A1
+épicerie|tienda de alimentación||S|cmp|A1
+boucherie|carnicería||S|cmp|A1
+pâtisserie|pastelería||S|cmp|A1
+librairie|librería (tienda de libros)||S|cmp|A1
+caisse|caja (para pagar)||S|cmp|A1
+euro|euro||S|cmp|A1
+pièce|moneda||S|cmp|A1
+carte bancaire|tarjeta bancaria||S|cmp|A1
+payer|pagar||V|cmp|A1
+espèces|efectivo||S|cmp|A1
+cher|caro||A|cmp|A1
+coûter|costar||V|cmp|A1
+boîte|caja||S|cmp|A1
+paquet|paquete||S|cmp|A1
+pot|tarro||S|cmp|A1
+sachet|bolsita (sobre)||S|cmp|A1
+gramme|gramo||S|cmp|A1
+kilo|kilo||S|cmp|A1
+litre|litro||S|cmp|A1
+métro|metro||S|tra|A1
+tramway|tranvía||S|tra|A1
+arrêt de bus|parada de autobús||S|tra|A1
+conducteur|conductor||S|tra|A1
+voyageur|viajero||S|tra|A1
+descendre|bajar||V|tra|A1
+ligne|línea||S|tra|A1
+conduire|conducir||V|tra|A1
+volant|volante||S|tra|A1
+pneu|neumático||S|tra|A1
+roue|rueda||S|tra|A1
+frein|freno||S|tra|A1
+essence|gasolina||S|tra|A1
+train|tren||S|tra|A1
+quai|andén||S|tra|A1
+voie|vía||S|tra|A1
+wagon|vagón||S|tra|A1
+contrôleur|revisor||S|tra|A1
+départ|salida||S|tra|A1
+arrivée|llegada||S|tra|A1
+embarquement|embarque||S|tra|A1
+carte d'embarquement|tarjeta de embarque||S|tra|A1
+atterrir|aterrizar||V|tra|A1
+décoller|despegar||V|tra|A1
+escale|escala||S|tra|A1
+douane|aduana||S|tra|A1
+compagnie aérienne|compañía aérea||S|tra|A1
+vélo|bicicleta||S|tra|A1
+faire du vélo|montar en bicicleta||E|tra|A1
+pédale|pedal||S|tra|A1
+casque|casco||S|tra|A1
+cycliste|ciclista||S|tra|A1
+piste cyclable|carril bici||S|tra|A1
+trottinette|patinete||S|tra|A1
+destination|destino||S|vig|A1
+voyager|viajar||V|vig|A1
+séjour|estancia||S|vig|A1
+touristique|turístico||A|vig|A1
+souvenir|recuerdo (de viaje)||S|vig|A1
+carte postale|postal||S|vig|A1
+retour|regreso||S|vig|A1
+tente|tienda de campaña||S|vig|A1
+camping|camping||S|vig|A1
+dormir|dormir||V|vig|A1
+feu de camp|fuego de campamento||S|vig|A1
+lampe de poche|linterna||S|vig|A1
+sac de couchage|saco de dormir||S|vig|A1
+randonnée|excursión a pie||S|vig|A1
+réception|recepción||S|htl|A1
+réserver|reservar||V|htl|A1
+réservation|reserva||S|htl|A1
+clé de chambre|llave de la habitación||S|htl|A1
+formulaire|formulario||S|htl|A1
+remplir|rellenar||V|htl|A1
+annuler|anular||V|htl|A1
+chambre double|habitación doble||S|htl|A1
+étage|planta (piso del edificio)||S|htl|A1
+ascenseur|ascensor||S|htl|A1
+climatisation|aire acondicionado||S|htl|A1
+drap|sábana||S|htl|A1
+couverture|manta||S|htl|A1
+oreiller|almohada||S|htl|A1
+malade|enfermo||A|sla|A1
+douleur|dolor||S|sla|A1
+toux|tos||S|sla|A1
+blessure|herida||S|sla|A1
+se sentir|sentirse||V|sla|A1
+grippe|gripe||S|sla|A1
+mal de dents|dolor de muelas||S|sla|A1
+docteur|doctor||S|sla|A1
+infirmier|enfermero||S|sla|A1
+patient|paciente||S|sla|A1
+consultation|consulta||S|sla|A1
+examen|revisión (examen médico)||S|sla|A1
+ambulance|ambulancia||S|sla|A1
+urgence|urgencia||S|sla|A1
+pharmacie|farmacia||S|sla|A1
+médicament|medicamento||S|sla|A1
+cachet|pastilla||S|sla|A1
+pansement|tirita||S|sla|A1
+pharmacien|farmacéutico||S|sla|A1
+vitamine|vitamina||S|sla|A1
+ouvrier|obrero||S|pro|A1
+agriculteur|agricultor||S|pro|A1
+vendeur|vendedor||S|pro|A1
+coiffeur|peluquero||S|pro|A1
+électricien|electricista||S|pro|A1
+secrétaire|secretario||S|pro|A1
+maçon|albañil||S|pro|A1
+travail|trabajo||S|lav|A1
+stylo|bolígrafo||S|lav|A1
+papier|papel||S|lav|A1
+enveloppe|sobre||S|lav|A1
+collègue|compañero de trabajo||S|lav|A1
+réunion|reunión||S|lav|A1
+agenda|agenda||S|lav|A1
+maître|maestro||S|stu|A1
+étudiant|estudiante||S|stu|A1
+classe|clase||S|stu|A1
+tableau|pizarra||S|stu|A1
+copier|copiar||V|stu|A1
+apprendre|aprender||V|stu|A1
+écrire|escribir||V|stu|A1
+mathématiques|matemáticas||S|stu|A1
+géographie|geografía||S|stu|A1
+chimie|química||S|stu|A1
+physique|física||S|stu|A1
+anglais|inglés||S|stu|A1
+dessin|dibujo||S|stu|A1
+règle|regla||S|stu|A1

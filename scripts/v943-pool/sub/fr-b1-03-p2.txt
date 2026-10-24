@@ -1,0 +1,330 @@
+impressionnisme|impresionismo||S|art|B1
+cubisme|cubismo||S|art|B1
+surréalisme|surrealismo||S|art|B1
+romantisme|romanticismo||S|art|B1
+classicisme|clasicismo||S|art|B1
+baroque|barroco||A|art|B1
+avant-garde|vanguardia||S|art|B1
+chef-d'œuvre|obra maestra||S|art|B1
+courant|corriente (artística)||S|art|B1
+toile|lienzo||S|art|B1
+aquarelle|acuarela||S|art|B1
+sculpture|escultura||S|art|B1
+fresque|fresco||S|art|B1
+mécène|mecenas||S|art|B1
+académique|académico||A|art|B1
+contemporain|contemporáneo||A|art|B1
+galerie|galería de arte||S|art|B1
+mouvement|movimiento||S|art|B1
+cathédrale|catedral||S|art|B1
+basilique|basílica||S|art|B1
+clocher|campanario||S|art|B1
+façade|fachada||S|art|B1
+voûte|bóveda||S|art|B1
+colonne|columna||S|art|B1
+dôme|cúpula||S|art|B1
+patrimoine|patrimonio||S|art|B1
+monument historique|monumento histórico||L|art|B1
+restaurer|restaurar||V|art|B1
+restauration|restauración||S|art|B1
+vétuste|destartalado||A|art|B1
+ravalement|arreglo de fachada||S|art|B1
+charpente|armazón de madera||S|art|B1
+héritage|legado||S|art|B1
+arcade|arcada||S|art|B1
+escalier en colimaçon|escalera de caracol||L|art|B1
+voisinage|vecindario||S|cit|B1
+copropriété|comunidad de vecinos||S|cas|B1
+syndic|administrador de fincas||S|cit|B1
+copropriétaire|copropietario||S|cit|B1
+assemblée générale|junta general||L|cit|B1
+quote-part|cuota de participación||S|cas|B1
+nuisance|molestia||S|cit|B1
+tapage|ruido molesto||S|cit|B1
+palier|rellano||S|cas|B1
+espaces communes|zonas comunes||L|cas|B1
+gardien d'immeuble|portero||L|cit|B1
+mitoyen|medianero||A|cit|B1
+bon voisinage|buena vecindad||L|cit|B1
+local à vélos|guardabicis||L|cas|B1
+ascenseur|ascensor||S|cas|B1
+cour intérieure|patio interior||L|cas|B1
+sonnette|timbre de puerta||S|cas|B1
+étiquette|etiqueta||S|ali|B1
+étiquetage|etiquetado||S|ali|B1
+valeur nutritionnelle|valor nutricional||L|ali|B1
+calorie|caloría||S|ali|B1
+calorique|calórico||A|ali|B1
+matières grasses|grasas||L|ali|B1
+acide gras|ácido graso||L|ali|B1
+sucre ajouté|azúcar añadido||L|ali|B1
+additif|aditivo||S|ali|B1
+conservateur|conservador (aditivo)||S|ali|B1
+colorant|colorante||S|ali|B1
+date de péremption|fecha de caducidad||L|ali|B1
+conditionnement|envasado||S|ali|B1
+ultra-transformé|ultraprocesado||A|ali|B1
+teneur|contenido nutricional||S|ali|B1
+allégé|light||A|ali|B1
+fibre|fibra||S|ali|B1
+glucide|hidrato de carbono||S|ali|B1
+wagon|vagón||S|tra|B1
+couchette|litera||S|tra|B1
+correspondance|transbordo||S|tra|B1
+quai|andén||S|tra|B1
+voie|vía||S|tra|B1
+contrôleur|revisor||S|tra|B1
+tarif réduit|tarifa reducida||L|tra|B1
+réservation|reserva||S|tra|B1
+place assise|asiento reservado||L|tra|B1
+rater son train|perder el tren||E|tra|B1
+grande vitesse|alta velocidad||L|tra|B1
+annulation|anulación||S|tra|B1
+remboursement|reembolso||S|tra|B1
+train de nuit|tren nocturno||L|tra|B1
+billet électronique|billete electrónico||L|tra|B1
+annonce|anuncio por megafonía||S|tra|B1
+retard|retraso||S|tra|B1
+blessure|lesión||S|sla|B1
+blessé|herido||S|sla|B1
+entorse|esguince||S|sla|B1
+foulure|torcedura||S|sla|B1
+plaie|herida||S|sla|B1
+pansement|tirita||S|sla|B1
+bandage|vendaje||S|sla|B1
+attelle|férula||S|sla|B1
+garrot|torniquete||S|sla|B1
+brûlure|quemadura||S|sla|B1
+premier secours|primeros auxilios||L|sla|B1
+secouriste|socorrista||S|sla|B1
+massage cardiaque|masaje cardíaco||L|sla|B1
+défibrillateur|desfibrilador||S|sla|B1
+brancard|camilla||S|sla|B1
+hémorragie|hemorragia||S|sla|B1
+antiseptique|antiséptico||S|sla|B1
+coupure|corte||S|sla|B1
+télétravail|teletrabajo||S|lav|B1
+télétravailler|teletrabajar||V|lav|B1
+présentiel|modalidad presencial||S|lav|B1
+distanciel|modalidad a distancia||S|lav|B1
+flexibilité|flexibilidad||S|lav|B1
+mi-temps|media jornada||S|lav|B1
+congé parental|permiso parental||L|lav|B1
+concilier|conciliar||V|lav|B1
+conciliation|conciliación||S|lav|B1
+droit à la déconnexion|derecho a la desconexión||L|lav|B1
+visioconférence|videoconferencia||S|lav|B1
+partage d'écran|pantalla compartida||L|lav|B1
+productivité|productividad||S|lav|B1
+isolement|aislamiento||S|lav|B1
+horaires flexibles|horario flexible||L|lav|B1
+équilibre|equilibrio||S|lav|B1
+outil collaboratif|herramienta colaborativa||L|lav|B1
+formation continue|formación continua||L|lav|B1
+se former|formarse||V|lav|B1
+compétence|competencia||S|lav|B1
+acquérir|adquirir||V|lav|B1
+perfectionnement|perfeccionamiento||S|lav|B1
+promotion|ascenso||S|lav|B1
+mutation|traslado laboral||S|lav|B1
+mobilité interne|movilidad interna||L|lav|B1
+bilan de compétences|balance de competencias||L|lav|B1
+alternance|formación en alternancia||S|lav|B1
+apprentissage|aprendizaje||S|lav|B1
+tutorat|tutoría||S|lav|B1
+mentor|mentor||S|lav|B1
+certification|certificación||S|lav|B1
+progression|progresión||S|lav|B1
+reconversion|reconversión profesional||S|lav|B1
+évolution de carrière|desarrollo de carrera||L|lav|B1
+échange|intercambio||S|stu|B1
+bourse d'études|beca de estudios||L|stu|B1
+boursier|becario||S|stu|B1
+campus|campus||S|stu|B1
+études supérieures|estudios superiores||L|stu|B1
+année universitaire|curso académico||L|stu|B1
+université d'accueil|universidad de destino||L|stu|B1
+mobilité|movilidad||S|stu|B1
+résidence universitaire|residencia universitaria||L|stu|B1
+programme d'échange|programa de intercambio||L|stu|B1
+colocation|piso compartido||S|cas|B1
+colocataire|compañero de piso||S|cas|B1
+carte d'étudiant|carné de estudiante||L|stu|B1
+droits d'inscription|tasas de matrícula||L|stu|B1
+équivalence|equivalencia||S|stu|B1
+reconnaissance des diplômes|reconocimiento de títulos||L|stu|B1
+immersion linguistique|inmersión lingüística||L|stu|B1
+hypothèque|hipoteca||S|fin|B1
+crédit immobilier|préstamo hipotecario||L|fin|B1
+apport personnel|entrada inicial||L|fin|B1
+notaire|notario||S|pro|B1
+acte de vente|escritura de compraventa||L|fin|B1
+compromis de vente|contrato de arras||L|fin|B1
+frais de notaire|honorarios de notaría||L|fin|B1
+zone pavillonnaire|zona de chalets||L|cit|B1
+périphérie|afueras||S|cit|B1
+agence immobilière|inmobiliaria||L|fin|B1
+surface habitable|superficie útil||L|cas|B1
+mensualité|cuota mensual||S|fin|B1
+taxe foncière|IBI (impuesto municipal)||L|fin|B1
+travaux de rénovation|obras de reforma||L|cas|B1
+rénover|reformar||V|cas|B1
+estimation|tasación||S|fin|B1
+cave|sótano (trastero)||S|cas|B1
+grenier|desván||S|cas|B1
+boutique en ligne|tienda online||L|cmp|B1
+panier|cesta de compra||S|cmp|B1
+commande|pedido||S|cmp|B1
+passer commande|hacer un pedido||E|cmp|B1
+livraison|entrega||S|cmp|B1
+frais de livraison|gastos de envío||L|cmp|B1
+colis|paquete||S|cmp|B1
+numéro de suivi|número de seguimiento||L|cmp|B1
+retour|devolución||S|cmp|B1
+avis client|reseña de cliente||L|cmp|B1
+commentaire|comentario||S|cmp|B1
+paiement sécurisé|pago seguro||L|cmp|B1
+code promo|código promocional||L|cmp|B1
+soldes|rebajas||S|cmp|B1
+bon d'achat|vale de compra||L|cmp|B1
+chèque cadeau|cheque regalo||L|cmp|B1
+vendeur|vendedor||S|cmp|B1
+acheter en ligne|comprar online||E|cmp|B1
+appli|aplicación móvil||S|tec|B1
+télécharger|descargar||V|tec|B1
+téléchargement|descarga||S|tec|B1
+mettre à jour|actualizar||E|tec|B1
+mise à jour|actualización||L|tec|B1
+notification|notificación||S|tec|B1
+batterie|batería||S|tec|B1
+chargeur|cargador||S|tec|B1
+recharger|recargar||V|tec|B1
+câble|cable||S|tec|B1
+forfait|tarifa móvil||S|tec|B1
+opérateur|operador||S|tec|B1
+données mobiles|datos móviles||L|tec|B1
+stockage|almacenamiento||S|tec|B1
+mot de passe|contraseña||L|tec|B1
+identifiant|usuario||S|tec|B1
+profil|perfil||S|tec|B1
+coupure de réseau|pérdida de cobertura||L|tec|B1
+amateur|aficionado||S|spt|B1
+tournoi|torneo||S|spt|B1
+championnat|campeonato||S|spt|B1
+champion|campeón||S|spt|B1
+s'entraîner|entrenarse||V|spt|B1
+entraînement|entrenamiento||S|spt|B1
+échauffement|calentamiento||S|spt|B1
+récupération|recuperación||S|spt|B1
+performance|rendimiento||S|spt|B1
+adversaire|adversario||S|spt|B1
+coéquipier|compañero de equipo||S|spt|B1
+maillot|camiseta deportiva||S|spt|B1
+crampons|tacos||S|spt|B1
+vestiaire|vestuario||S|spt|B1
+chronomètre|cronómetro||S|spt|B1
+demi-marathon|medio maratón||S|spt|B1
+esprit d'équipe|espíritu de equipo||L|spt|B1
+festival|festival||S|mus|B1
+billetterie|taquilla||S|mus|B1
+fosse|pista de conciertos||S|mus|B1
+tournée|gira||S|mus|B1
+interprète|intérprete||S|mus|B1
+idole|ídolo||S|mus|B1
+admirateur|admirador||S|mus|B1
+scène|escenario||S|mus|B1
+placement debout|zona de pie||L|mus|B1
+festivalier|asistente al festival||S|mus|B1
+bénévole|voluntario||S|mus|B1
+programmation|programación (cartel)||S|mus|B1
+complet|entradas agotadas||A|mus|B1
+file d'attente|cola||L|mus|B1
+revender|revender (entradas)||V|mus|B1
+entrée en scène|salida a escena||L|mus|B1
+acoustique|acústico||A|mus|B1
+plateforme de streaming|plataforma de streaming||L|cin|B1
+saison|temporada||S|cin|B1
+épisode|episodio||S|cin|B1
+pilote|episodio piloto||S|cin|B1
+sous-titres|subtítulos||S|cin|B1
+doublage|doblaje||S|cin|B1
+synopsis|sinopsis||S|cin|B1
+scénario|guion||S|cin|B1
+réalisateur|director de cine||S|cin|B1
+téléspectateur|telespectador||S|cin|B1
+audimat|datos de audiencia||S|cin|B1
+spoiler|spoiler||S|cin|B1
+catalogue|catálogo||S|cin|B1
+être accro à|estar enganchado a||E|cin|B1
+publicité|anuncios||S|cin|B1
+générique|cabecera||S|cin|B1
+figurant|extra||S|cin|B1
+noces|boda||S|rel|B1
+robe de mariée|vestido de novia||L|rel|B1
+voile|velo de novia||S|rel|B1
+alliance|alianza (anillo)||S|rel|B1
+fiançailles|pedida de mano||S|fam|B1
+se fiancer|prometerse||V|fam|B1
+témoin|padrino de boda||S|rel|B1
+faire-part|participación de boda||S|rel|B1
+traiteur|servicio de catering||S|rel|B1
+lune de miel|luna de miel||L|rel|B1
+jeunes mariés|recién casados||L|rel|B1
+noces d'or|bodas de oro||L|rel|B1
+divorce|divorcio||S|fam|B1
+baptême|bautizo||S|rel|B1
+obsèques|funeral||S|rel|B1
+deuil|luto||S|rel|B1
+adolescence|adolescencia||S|fam|B1
+budget|presupuesto||S|fin|B1
+budget limité|presupuesto ajustado||L|fin|B1
+dépense|gasto||S|fin|B1
+dépenser|gastar||V|fin|B1
+économiser|ahorrar||V|fin|B1
+économies|ahorros||S|fin|B1
+épargne|ahorro (dinero guardado)||S|fin|B1
+revenu|ingreso||S|fin|B1
+facture|factura||S|fin|B1
+allocation|prestación||S|fin|B1
+arnaque|timo||S|fin|B1
+arnaquer|timar||V|fin|B1
+escroquerie|estafa||S|fin|B1
+escroc|estafador||S|fin|B1
+fraude|fraude||S|fin|B1
+contrefaçon|falsificación||S|fin|B1
+argent de poche|paga||L|fin|B1
+torréfaction|tueste||S|ali|B1
+torréfié|tostado||A|ali|B1
+café serré|café corto||L|ris|B1
+café allongé|café largo||L|ris|B1
+brunch|brunch||S|ris|B1
+bruncher|hacer brunch||V|ris|B1
+viennoiserie|bollería||S|ali|B1
+salon de thé|salón de té||L|ris|B1
+pourboire|propina||S|fin|B1
+addition|cuenta||S|fin|B1
+smoothie|batido||S|ali|B1
+jus pressé|zumo natural||L|ali|B1
+granola|granola||S|ali|B1
+terrasse|terraza||S|ris|B1
+comptoir|barra||S|ris|B1
+spécialité de la maison|especialidad de la casa||L|ris|B1
+pâtisserie|pastelería||S|ris|B1
+fait divers|suceso||L|att|B1
+attentat|atentado||S|att|B1
+alerte|alerta||S|att|B1
+évacuation|evacuación||S|att|B1
+évacuer|evacuar||V|att|B1
+sinistré|damnificado||S|att|B1
+sinistre|siniestro||S|att|B1
+catastrophe|catástrofe||S|att|B1
+incendie|incendio||S|att|B1
+pompier|bombero||S|att|B1
+cambriolage|robo en vivienda||S|att|B1
+cambrioleur|ladrón de viviendas||S|att|B1
+agression|agresión||S|att|B1
+agresser|agredir||V|att|B1
+vol|hurto||S|att|B1
+porter plainte|poner una denuncia||E|ist|B1
+interpellation|detención policial||S|ist|B1
+intervention|intervención||S|att|B1

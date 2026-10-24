@@ -1,0 +1,308 @@
+expérience|experimento||S|sci|B1
+hypothèse|hipótesis||S|sci|B1
+théorie|teoría||S|sci|B1
+théorique|teórico||A|sci|B1
+démonstration|demostración||S|sci|B1
+démontrer|demostrar||V|sci|B1
+laboratoire|laboratorio||S|sci|B1
+chercheur|investigador||S|sci|B1
+découverte|descubrimiento||S|sci|B1
+échantillon|muestra||S|sci|B1
+statistiques|estadísticas||S|sci|B1
+vulgarisation|divulgación||S|sci|B1
+cerveau|cerebro||S|sci|B1
+neurone|neurona||S|sci|B1
+atome|átomo||S|sci|B1
+molécule|molécula||S|sci|B1
+gravité|gravedad||S|sci|B1
+best-seller|superventas||S|let|B1
+club de lecture|club de lectura||L|let|B1
+dédicace|firma de ejemplares||S|let|B1
+édition|edición||S|let|B1
+maison d'édition|editorial||L|let|B1
+tirage|tirada||S|let|B1
+exemplaire|ejemplar||S|let|B1
+suite|secuela||S|let|B1
+trilogie|trilogía||S|let|B1
+saga|saga||S|let|B1
+polar|novela negra||S|let|B1
+thriller|novela de suspense||S|let|B1
+bande dessinée|cómic||L|let|B1
+livre audio|audiolibro||L|let|B1
+couverture|portada||S|let|B1
+coup de cœur|favorito del momento||L|let|B1
+roman graphique|novela gráfica||L|let|B1
+randonnée|senderismo||S|sve|B1
+sentier|sendero||S|nat|B1
+balisage|señalización de rutas||S|nat|B1
+balisé|señalizado||A|nat|B1
+parcours|recorrido||S|nat|B1
+gourde|cantimplora||S|sve|B1
+refuge|refugio de montaña||S|nat|B1
+belvédère|mirador||S|nat|B1
+cascade|cascada||S|nat|B1
+ruisseau|arroyo||S|nat|B1
+étang|estanque||S|nat|B1
+sous-bois|sotobosque||S|nat|B1
+mousse|musgo||S|nat|B1
+fougère|helecho||S|nat|B1
+chêne|roble||S|nat|B1
+champignon|seta||S|nat|B1
+hérisson|erizo||S|ani|B1
+escapade|escapada||S|vig|B1
+week-end|fin de semana||S|vig|B1
+séjour|estancia||S|vig|B1
+itinéraire|itinerario||S|vig|B1
+circuit organisé|circuito organizado||L|vig|B1
+visite guidée|visita guiada||L|vig|B1
+guide touristique|guía turística||L|vig|B1
+quartier historique|barrio histórico||L|cit|B1
+centre historique|casco histórico||L|cit|B1
+vieille ville|casco antiguo||L|cit|B1
+office de tourisme|oficina de turismo||L|vig|B1
+plan de la ville|plano de la ciudad||L|vig|B1
+audioguide|audioguía||S|vig|B1
+flâner|pasear sin rumbo||V|vig|B1
+flânerie|paseo sin rumbo||S|vig|B1
+entrée libre|entrada gratuita||L|vig|B1
+coupe-file|acceso prioritario||S|vig|B1
+estime de soi|autoestima||L|emo|B1
+s'accepter|aceptarse||V|emo|B1
+acceptation|aceptación||S|emo|B1
+se fixer des objectifs|fijarse metas||E|emo|B1
+résolution|propósito||S|emo|B1
+habitude|hábito||S|emo|B1
+discipline|disciplina||S|emo|B1
+discipliné|disciplinado||A|emo|B1
+assidu|constante||A|emo|B1
+progresser|progresar||V|emo|B1
+se dépasser|superarse||V|emo|B1
+fierté|orgullo||S|emo|B1
+fier|orgulloso||A|emo|B1
+épanouissement|realización personal||S|emo|B1
+s'épanouir|realizarse||V|emo|B1
+lâcher prise|soltar el control||E|emo|B1
+petit à petit|poco a poco||L|emo|B1
+réclamation|reclamación||S|cmu|B1
+réclamer|reclamar||V|cmu|B1
+s'excuser|disculparse||V|cmu|B1
+excuse|disculpa||S|cmu|B1
+malentendu|malentendido||S|cmu|B1
+quiproquo|equívoco||S|cmu|B1
+contresens|contrasentido||S|cmu|B1
+confondre|confundir||V|cmu|B1
+confusion|confusión||S|cmu|B1
+s'expliquer|explicarse||V|cmu|B1
+se fâcher|enojarse||V|cmu|B1
+agacer|irritar||V|cmu|B1
+agaçant|irritante||A|cmu|B1
+se réconcilier|reconciliarse||V|cmu|B1
+réconciliation|reconciliación||S|cmu|B1
+navré|apenado||A|cmu|B1
+faire amende honorable|reconocer el error||E|cmu|B1
+pièce d'identité|documento de identidad||L|ist|B1
+titre de séjour|permiso de residencia||L|ist|B1
+visa|visado||S|ist|B1
+autorisation|autorización||S|ist|B1
+autoriser|autorizar||V|ist|B1
+duplicata|duplicado||S|ist|B1
+copie conforme|copia fiel||L|ist|B1
+légaliser|legalizar||V|ist|B1
+légalisation|legalización||S|ist|B1
+timbre fiscal|papel timbrado||L|ist|B1
+justificatif de domicile|justificante de domicilio||L|ist|B1
+convocation|citación||S|ist|B1
+convoquer|citar oficialmente||V|ist|B1
+sur rendez-vous|con cita previa||L|ist|B1
+déclaration|declaración||S|ist|B1
+signature|firma||S|ist|B1
+signer|firmar||V|ist|B1
+eh bien|bueno, pues||I|cmu|B1
+au fait|por cierto||L|cmu|B1
+à propos|a propósito||L|cmu|B1
+en fait|en realidad||L|cmu|B1
+tiens|oye||I|cmu|B1
+tenez|oiga||I|cmu|B1
+du coup|así que||L|cmu|B1
+euh|em (duda)||I|cmu|B1
+en quelque sorte|por así decirlo||L|cmu|B1
+laissez-moi réfléchir|déjeme pensar||E|cmu|B1
+si vous voulez|si quiere||E|cmu|B1
+si tu veux|si quieres||E|cmu|B1
+vous voyez|¿ve?||E|cmu|B1
+tu vois|¿sabes?||E|cmu|B1
+tout ça pour dire|en resumen||E|cmu|B1
+n'est-ce pas|¿verdad?||L|cmu|B1
+bref|en una palabra||D|cmu|B1
+chance|suerte||S|ast|B1
+hasard|azar||S|ast|B1
+par hasard|por casualidad||L|ast|B1
+coïncidence|coincidencia||S|ast|B1
+destin|destino||S|ast|B1
+changement|cambio||S|ast|B1
+transformation|transformación||S|ast|B1
+phase|fase||S|ast|B1
+étape|etapa||S|ast|B1
+instant|instante||S|ast|B1
+patience|paciencia||S|ast|B1
+patienter|esperar con paciencia||V|ast|B1
+urgence|urgencia||S|ast|B1
+urgent|urgente||A|ast|B1
+perdre du temps|perder el tiempo||E|ast|B1
+gagner du temps|ganar tiempo||E|ast|B1
+malheur|desgracia||S|ast|B1
+bonheur|felicidad||S|ast|B1
+exposition temporaire|exposición temporal||L|art|B1
+vernissage|inauguración||S|art|B1
+groupe scolaire|grupo escolar||L|art|B1
+vitrine|vitrina||S|art|B1
+aile|ala (del museo)||S|art|B1
+collection permanente|colección permanente||L|art|B1
+réserves|depósitos del museo||S|art|B1
+acquisition|adquisición||S|art|B1
+donation|donación||S|art|B1
+legs|legado||S|art|B1
+mécénat|mecenazgo||S|art|B1
+historien d'art|historiador del arte||L|art|B1
+inestimable|inestimable||A|art|B1
+gratuité|gratuidad||S|art|B1
+visite commentée|visita comentada||L|art|B1
+horaires d'ouverture|horario de apertura||L|art|B1
+fréquentation|afluencia de público||S|art|B1
+embarquement|embarque||S|tra|B1
+carte d'embarquement|tarjeta de embarque||L|tra|B1
+enregistrement|facturación||S|tra|B1
+enregistrer ses bagages|facturar el equipaje||E|tra|B1
+bagage en soute|equipaje facturado||L|tra|B1
+bagage à main|equipaje de mano||L|tra|B1
+douane|aduana||S|tra|B1
+douanier|aduanero||S|tra|B1
+rien à déclarer|nada que declarar||E|tra|B1
+contrôle des passeports|control de pasaportes||L|tra|B1
+transit|tránsito||S|tra|B1
+zone de transit|zona de tránsito||L|tra|B1
+escale|escala||S|tra|B1
+vol direct|vuelo directo||L|tra|B1
+portique de sécurité|arco de seguridad||L|tra|B1
+décollage|despegue||S|tra|B1
+atterrissage|aterrizaje||S|tra|B1
+réceptionniste|recepcionista||S|htl|B1
+service d'étage|servicio de habitaciones||L|htl|B1
+serviette de toilette|toalla||L|htl|B1
+climatisation|aire acondicionado||S|htl|B1
+climatisé|con aire acondicionado||A|htl|B1
+pension complète|pensión completa||L|htl|B1
+demi-pension|media pensión||S|htl|B1
+supplément|suplemento||S|htl|B1
+supplémentaire|adicional||A|htl|B1
+taxe touristique|tasa turística||L|htl|B1
+insonorisé|insonorizado||A|htl|B1
+vue sur la mer|vistas al mar||L|htl|B1
+en panne|averiado||L|htl|B1
+clé de chambre|llave de la habitación||L|htl|B1
+blanchisserie|lavandería||S|htl|B1
+pressing|lavandería en seco||S|htl|B1
+coffre-fort|caja fuerte||S|htl|B1
+entretien d'embauche|entrevista de trabajo||L|lav|B1
+recruteur|reclutador||S|lav|B1
+recrutement|reclutamiento||S|lav|B1
+lettre de candidature|carta de presentación||L|lav|B1
+poste|puesto||S|lav|B1
+postuler|presentarse a un puesto||V|lav|B1
+période d'essai|período de prueba||L|lav|B1
+intérim|trabajo temporal||S|lav|B1
+intérimaire|trabajador temporal||S|lav|B1
+remplaçant|suplente||S|lav|B1
+fiche de poste|ficha de puesto||L|lav|B1
+hiérarchie|jerarquía||S|lav|B1
+supérieur hiérarchique|superior jerárquico||L|lav|B1
+s'intégrer|integrarse||V|lav|B1
+intégration|integración||S|lav|B1
+débutant|principiante||S|lav|B1
+savoir-être|habilidades personales||S|lav|B1
+génération|generación||S|fam|B1
+aîné|hermano mayor||S|fam|B1
+cadet|hermano menor||S|fam|B1
+benjamin|pequeño de la familia||S|fam|B1
+ancêtre|antepasado||S|fam|B1
+lignée|linaje||S|fam|B1
+originaire|originario||A|fam|B1
+nostalgie|nostalgia||S|fam|B1
+nostalgique|nostálgico||A|fam|B1
+anecdote|anécdota||S|fam|B1
+démodé|pasado de moda||A|fam|B1
+à l'ancienne|a la antigua usanza||L|fam|B1
+à l'époque|en aquella época||L|fam|B1
+jadis|antaño||D|fam|B1
+autrefois|antiguamente||D|fam|B1
+vieillir|envejecer||V|fam|B1
+vieillesse|vejez||S|fam|B1
+sommeil|sueño||S|sla|B1
+sommeil profond|sueño profundo||L|sla|B1
+insomnie|insomnio||S|sla|B1
+insomniaque|insomne||A|sla|B1
+s'endormir|quedarse dormido||V|sla|B1
+endormissement|conciliación del sueño||S|sla|B1
+sieste|siesta||S|sla|B1
+faire la sieste|echarse una siesta||E|sla|B1
+se réveiller|despertarse||V|sla|B1
+cauchemar|pesadilla||S|sla|B1
+rêver|soñar||V|sla|B1
+tonus|energía||S|sla|B1
+être en forme|estar en forma||E|sla|B1
+épuisé|exhausto||A|sla|B1
+épuisement|agotamiento||S|sla|B1
+ronfler|roncar||V|sla|B1
+ronflement|ronquido||S|sla|B1
+rendez-vous amoureux|cita romántica||L|rel|B1
+rencard|cita (coloquial)||S|rel|B1
+prévu|previsto||A|cmu|B1
+imprévu|imprevisto||S|cmu|B1
+de dernière minute|de última hora||L|cmu|B1
+annuler|cancelar||V|cmu|B1
+remettre à plus tard|dejar para más tarde||E|cmu|B1
+se décommander|anular su asistencia||V|cmu|B1
+avoir un empêchement|tener un impedimento||E|cmu|B1
+libérer|liberar (tiempo)||V|cmu|B1
+disponibilité|disponibilidad||S|cmu|B1
+disponible|disponible||A|cmu|B1
+créneau|hueco (horario)||S|cmu|B1
+planifier|planificar||V|cmu|B1
+au dernier moment|en el último momento||L|cmu|B1
+finalement|finalmente||D|cmu|B1
+avertir|avisar||V|cmu|B1
+animal de compagnie|mascota||L|ani|B1
+litière|arenero||S|ani|B1
+laisse|correa||S|ani|B1
+collier|collar||S|ani|B1
+puce|microchip||S|ani|B1
+vaccin|vacuna||S|ani|B1
+vaccination|vacunación||S|ani|B1
+vétérinaire|veterinario||S|ani|B1
+croquettes|pienso||S|ani|B1
+gamelle|comedero||S|ani|B1
+dressage|adiestramiento||S|ani|B1
+dresser|adiestrar||V|ani|B1
+obéissance|obediencia||S|ani|B1
+friandise|premio (para mascotas)||S|ani|B1
+stériliser|esterilizar||V|ani|B1
+abandon|abandono||S|ani|B1
+abandonner|abandonar||V|ani|B1
+fourrière|perrera municipal||S|ani|B1
+covoiturage|coche compartido||S|tra|B1
+covoiturer|compartir coche||V|tra|B1
+chauffeur|chófer||S|tra|B1
+trajet|trayecto||S|tra|B1
+conducteur|conductor||S|tra|B1
+point de rencontre|punto de encuentro||L|tra|B1
+heure de pointe|hora punta||L|tra|B1
+embouteillage|atasco||S|tra|B1
+circulation|tráfico||S|tra|B1
+répartition des coûts|reparto de gastos||L|tra|B1
+géolocalisation|geolocalización||S|tec|B1
+géolocaliser|geolocalizar||V|tec|B1
+durée du trajet|duración del trayecto||L|tra|B1
+chiffrer|calcular el precio||V|tra|B1
+aller-retour|ida y vuelta||S|tra|B1
+borne|punto de recarga||S|tra|B1
+voiture électrique|coche eléctrico||L|tra|B1

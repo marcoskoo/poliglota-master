@@ -1,0 +1,318 @@
+stressé|estresado||A|sla|B1
+dépression|depresión||S|sla|B1
+se détendre|relajarse||V|sla|B1
+respirer|respirar||V|sla|B1
+méditation|meditación||S|sla|B1
+psychologue|psicólogo||S|sla|B1
+thérapie|terapia||S|sla|B1
+soutien|apoyo||S|sla|B1
+consulter|consultar (acudir al médico)||V|sla|B1
+faire du sport|hacer deporte||E|spt|B1
+échauffement|calentamiento||S|spt|B1
+s'étirer|estirarse||V|spt|B1
+musculation|musculación||S|spt|B1
+salle de sport|gimnasio||S|spt|B1
+endurance|resistencia||S|spt|B1
+recherche d'emploi|búsqueda de empleo||S|lav|B1
+offre d'emploi|oferta de empleo||S|lav|B1
+candidat|candidato||S|lav|B1
+candidature|candidatura (solicitud)||S|lav|B1
+postuler|presentarse a un puesto||V|lav|B1
+lettre de motivation|carta de motivación||S|lav|B1
+expérience professionnelle|experiencia laboral||S|lav|B1
+compétences|competencias (habilidades)||S|lav|B1
+stage|prácticas||S|lav|B1
+stagiaire|becario||S|lav|B1
+recrutement|reclutamiento||S|lav|B1
+recruteur|reclutador||S|lav|B1
+agence d'intérim|agencia de trabajo temporal||S|lav|B1
+intérim|trabajo temporal||S|lav|B1
+salaire minimum|salario mínimo||S|lav|B1
+négocier|negociar||V|lav|B1
+petites annonces|anuncios por palabras||S|lav|B1
+entretien|entrevista (conversación formal)||S|lav|B1
+faire bonne impression|causar buena impresión||E|lav|B1
+période d'essai|periodo de prueba||S|lav|B1
+contrat de travail|contrato de trabajo||S|lav|B1
+embaucher|contratar (a un empleado)||V|lav|B1
+être retenu|quedar seleccionado||E|lav|B1
+lettre de recommandation|carta de recomendación||S|lav|B1
+recommander|recomendar||V|lav|B1
+référence|referencia||S|lav|B1
+avantages en nature|retribución en especie||S|lav|B1
+engagement|compromiso (obligación asumida)||S|lav|B1
+poste|puesto (cargo)||S|lav|B1
+profil|perfil||S|lav|B1
+savoir-faire|saber hacer||S|lav|B1
+mi-temps|media jornada||S|lav|B1
+plein temps|jornada completa||S|lav|B1
+à temps partiel|a tiempo parcial||L|lav|B1
+se présenter|presentarse||V|lav|B1
+évolution de carrière|progresión profesional||S|lav|B1
+carrière|carrera profesional||S|lav|B1
+avancement|ascenso||S|lav|B1
+promouvoir|promocionar (ascender a alguien)||V|lav|B1
+augmentation|subida (de sueldo)||S|lav|B1
+augmenter|aumentar||V|lav|B1
+prime|paga extra||S|lav|B1
+démission|dimisión||S|lav|B1
+démissionner|dimitir||V|lav|B1
+licenciement|despido||S|lav|B1
+licencier|despedir||V|lav|B1
+plan social|expediente de regulación de empleo||S|lav|B1
+reconversion|reconversión (cambio profesional)||S|lav|B1
+se reconvertir|reconvertirse||V|lav|B1
+rémunération|retribución||S|lav|B1
+indemnité|indemnización||S|lav|B1
+avancer|avanzar (progresar)||V|lav|B1
+bureau|despacho (oficina)||S|lav|B1
+réunion|reunión||S|lav|B1
+compte rendu|acta (informe de reunión)||S|lav|B1
+ordre du jour|orden del día||S|lav|B1
+participant|asistente||S|lav|B1
+animer|dirigir (una reunión)||V|lav|B1
+contribuer|contribuir||V|lav|B1
+apport|aportación||S|lav|B1
+prendre la parole|tomar la palabra||E|lav|B1
+échanger|intercambiar (opiniones)||V|cmu|B1
+coopérer|cooperar||V|lav|B1
+collaborer|colaborar||V|lav|B1
+travail d'équipe|trabajo en equipo||S|lav|B1
+déléguer|delegar||V|lav|B1
+responsabilité|responsabilidad||S|lav|B1
+responsable|responsable (jefe)||S|lav|B1
+subordonné|subordinado||S|lav|B1
+compromis|compromiso (acuerdo)||S|lav|B1
+syndicat|sindicato||S|lav|B1
+syndicaliste|sindicalista||S|lav|B1
+grève|huelga||S|lav|B1
+gréviste|huelguista||S|lav|B1
+manifestation|manifestación||S|cit|B1
+droit du travail|derecho laboral||S|lav|B1
+convention collective|convenio colectivo||S|lav|B1
+négociation|negociación||S|lav|B1
+revendication|reivindicación||S|lav|B1
+revendiquer|reivindicar (exigir)||V|lav|B1
+temps de travail|jornada laboral||S|lav|B1
+congé parental|permiso parental||S|lav|B1
+congés payés|vacaciones pagadas||S|lav|B1
+protection sociale|seguridad social||S|ist|B1
+inspection du travail|inspección de trabajo||S|lav|B1
+adhérent|afiliado||S|lav|B1
+patronat|patronal (empresariado)||S|lav|B1
+examen|examen||S|stu|B1
+passer un examen|presentarse a un examen||E|stu|B1
+matière|asignatura||S|stu|B1
+coefficient|coeficiente (de una asignatura)||S|stu|B1
+mention|mención (matrícula de honor)||S|stu|B1
+rattrapage|examen de recuperación||S|stu|B1
+bulletin de notes|boletín de notas||S|stu|B1
+brevet|título de ESO||S|stu|B1
+baccalauréat|bachillerato (selectividad)||S|stu|B1
+diplôme|título (diploma)||S|stu|B1
+diplômé|titulado||S|stu|B1
+certification|certificación||S|stu|B1
+certifier|certificar||V|stu|B1
+réussite|éxito (buen resultado)||S|stu|B1
+échec|fracaso||S|stu|B1
+épreuve|prueba (examen parcial)||S|stu|B1
+équivalence|convalidación||S|stu|B1
+campus|campus||S|stu|B1
+université|universidad||S|stu|B1
+amphithéâtre|anfiteatro (aula magna)||S|stu|B1
+résidence universitaire|residencia de estudiantes||S|stu|B1
+inscription|matrícula||S|stu|B1
+s'inscrire|matricularse||V|stu|B1
+semestre|semestre||S|stu|B1
+cours magistral|clase magistral||S|stu|B1
+travaux dirigés|clases prácticas (seminarios)||S|stu|B1
+tutorat|tutorías||S|stu|B1
+filière|rama de estudios||S|stu|B1
+licence|grado (primer ciclo)||S|stu|B1
+master|máster||S|stu|B1
+doctorat|doctorado||S|stu|B1
+thèse|tesis||S|stu|B1
+soutenance|defensa (de tesis)||S|stu|B1
+aide financière|ayuda económica||S|stu|B1
+apprendre par cœur|aprender de memoria||E|stu|B1
+mémoriser|memorizar||V|stu|B1
+réviser|repasar||V|stu|B1
+fiche|ficha (de estudio)||S|stu|B1
+prendre des notes|tomar apuntes||E|stu|B1
+surligner|resaltar||V|stu|B1
+résumé|resumen||S|stu|B1
+résumer|resumir||V|stu|B1
+reformuler|reformular||V|stu|B1
+corriger|corregir||V|stu|B1
+se tromper|equivocarse||V|stu|B1
+erreur|error||S|stu|B1
+orthographe|ortografía||S|stu|B1
+prononciation|pronunciación||S|stu|B1
+vocabulaire|vocabulario||S|stu|B1
+immersion|inmersión||S|stu|B1
+apprentissage|aprendizaje||S|stu|B1
+urbanisme|urbanismo||S|cit|B1
+quartier|barrio||S|cit|B1
+immeuble|edificio (bloque de viviendas)||S|cit|B1
+gratte-ciel|rascacielos||S|cit|B1
+banlieue|extrarradio (afueras)||S|cit|B1
+périphérie|periferia||S|cit|B1
+lotissement|urbanización (de chalets)||S|cit|B1
+embouteillage|retención (gran atasco)||S|cit|B1
+stationnement|estacionamiento||S|cit|B1
+se garer|aparcar||V|cit|B1
+dégradation|deterioro||S|cit|B1
+incivilité|incivilidad||S|cit|B1
+nuisance|molestia (ruidos y olores)||S|cit|B1
+bruit|ruido||S|cit|B1
+voisin|vecino||S|cit|B1
+espace vert|zona verde||S|cit|B1
+chantier|obra (de construcción)||S|cit|B1
+graffiti|graffiti||S|cit|B1
+service public|servicio público||S|ist|B1
+mairie|ayuntamiento||S|cit|B1
+maire|alcalde||S|cit|B1
+conseil municipal|pleno municipal||S|cit|B1
+élections municipales|elecciones municipales||S|cit|B1
+voter|votar||V|cit|B1
+bulletin de vote|papeleta||S|cit|B1
+liste électorale|censo electoral||S|cit|B1
+élu|elegido (cargo público)||S|cit|B1
+citoyen|ciudadano||S|cit|B1
+démarche|trámite||S|cit|B1
+guichet|ventanilla||S|cit|B1
+horaires d'ouverture|horario de atención||S|cit|B1
+état civil|registro civil||S|cit|B1
+acte de naissance|acta de nacimiento||S|cit|B1
+collecte|recogida (de basuras)||S|cit|B1
+poubelle|cubo de basura||S|cit|B1
+climat|clima||S|cli|B1
+climatique|climático||A|cli|B1
+canicule|ola de calor||S|cli|B1
+crue|crecida (del río)||S|nat|B1
+tempête|tormenta (de viento)||S|nat|B1
+ouragan|huracán||S|nat|B1
+tremblement de terre|terremoto||S|nat|B1
+avalanche|alud de nieve||S|nat|B1
+glissement de terrain|desprendimiento de tierra||S|nat|B1
+feux de forêt|incendios forestales||S|nat|B1
+catastrophe naturelle|catástrofe natural||S|nat|B1
+secours|socorro (equipos de rescate)||S|nat|B1
+victime|víctima||S|nat|B1
+sinistré|damnificado||S|nat|B1
+évacuation|evacuación||S|nat|B1
+alerte|alerta||S|nat|B1
+foudre|rayo||S|nat|B1
+effet de serre|efecto invernadero||S|nat|B1
+mode|moda||S|rop|B1
+tendance|tendencia||S|rop|B1
+démodé|pasado de moda||A|rop|B1
+défilé|desfile de moda||S|rop|B1
+passerelle|pasarela||S|rop|B1
+mannequin|modelo (de pasarela)||S|rop|B1
+couturier|modisto||S|rop|B1
+essayage|prueba de ropa||S|rop|B1
+essayer|probarse (una prenda)||V|rop|B1
+taille|talla||S|rop|B1
+pointure|número de calzado||S|rop|B1
+coudre|coser||V|rop|B1
+aiguille|aguja||S|rop|B1
+fil|hilo||S|rop|B1
+tissu|tela||S|rop|B1
+cuir|cuero||S|rop|B1
+fourrure|piel (de abrigo)||S|rop|B1
+réseau social|red social||S|tec|B1
+abonné|suscriptor||S|tec|B1
+s'abonner|suscribirse||V|tec|B1
+publication|publicación (post)||S|tec|B1
+partager|compartir||V|tec|B1
+messagerie instantanée|mensajería instantánea||S|tec|B1
+influenceur|influencer (creador de contenido)||S|tec|B1
+écran tactile|pantalla táctil||S|tec|B1
+recharger|recargar||V|tec|B1
+application|aplicación||S|tec|B1
+téléchargement|descarga||S|tec|B1
+télécharger|descargar||V|tec|B1
+mettre à jour|actualizar||V|tec|B1
+navigateur|navegador||S|tec|B1
+mot de passe|contraseña||S|tec|B1
+se connecter|conectarse (iniciar sesión)||V|tec|B1
+numérique|digital||A|tec|B1
+cybersécurité|ciberseguridad||S|tec|B1
+piratage|piratería (informática)||S|tec|B1
+pirater|piratear||V|tec|B1
+virus|virus (informático)||S|tec|B1
+courrier indésirable|correo no deseado||S|tec|B1
+hameçonnage|suplantación de identidad (phishing)||S|tec|B1
+vol de données|robo de datos||S|tec|B1
+données personnelles|datos personales||S|tec|B1
+confidentialité|confidencialidad||S|tec|B1
+vie privée|vida privada||S|tec|B1
+sécuriser|asegurar (poner a salvo)||V|tec|B1
+cryptage|cifrado||S|tec|B1
+crypter|cifrar||V|tec|B1
+sauvegarde|copia de seguridad||S|tec|B1
+sauvegarder|hacer una copia de seguridad||V|tec|B1
+authentification à deux facteurs|autenticación en dos pasos||S|tec|B1
+faille|brecha (de seguridad)||S|tec|B1
+programmation|programación||S|tec|B1
+programmeur|programador||S|tec|B1
+coder|programar (escribir código)||V|tec|B1
+code source|código fuente||S|tec|B1
+développeur|desarrollador||S|tec|B1
+développer|desarrollar||V|tec|B1
+algorithme|algoritmo||S|tec|B1
+logiciel|software (programa informático)||S|tec|B1
+serveur|servidor||S|tec|B1
+base de données|base de datos||S|tec|B1
+intelligence artificielle|inteligencia artificial||S|tec|B1
+tester|probar (someter a prueba)||V|tec|B1
+fonctionnalité|funcionalidad||S|tec|B1
+interface|interfaz||S|tec|B1
+utilisateur|usuario||S|tec|B1
+variable|variable||S|tec|B1
+informaticien|informático||S|tec|B1
+compétition|competición||S|spt|B1
+compétitif|competitivo||A|spt|B1
+championnat|campeonato||S|spt|B1
+champion|campeón||S|spt|B1
+demi-finale|semifinal||S|spt|B1
+finale|final||S|spt|B1
+match nul|empate||S|spt|B1
+prolongation|prórroga||S|spt|B1
+tirs au but|tanda de penaltis||S|spt|B1
+arbitre|árbitro||S|spt|B1
+entraîneur|entrenador||S|spt|B1
+entraînement|entrenamiento||S|spt|B1
+supporter|hincha||S|spt|B1
+record|récord||S|spt|B1
+podium|podio||S|spt|B1
+médaille|medalla||S|spt|B1
+médaille d'or|medalla de oro||S|spt|B1
+fédération|federación (deportiva)||S|spt|B1
+blessure|lesión||S|sla|B1
+se blesser|lesionarse||V|sla|B1
+entorse|esguince||S|sla|B1
+foulure|torcedura||S|sla|B1
+claquage|tirón muscular||S|sla|B1
+fracture|fractura||S|sla|B1
+tendinite|tendinitis||S|sla|B1
+tendon|tendón||S|sla|B1
+rééducation|rehabilitación||S|sla|B1
+chirurgien|cirujano||S|sla|B1
+opération|operación (intervención)||S|sla|B1
+opérer|operar||V|sla|B1
+infirmier|enfermero||S|sla|B1
+arrêt de travail|baja laboral||S|sla|B1
+convalescence|convalecencia||S|sla|B1
+kinésithérapie|fisioterapia||S|sla|B1
+reprise|reanudación (vuelta al deporte)||S|spt|B1
+solfège|solfeo||S|mus|B1
+portée|pentagrama||S|mus|B1
+mesure|compás||S|mus|B1
+rythme|ritmo||S|mus|B1
+tempo|tempo||S|mus|B1
+gamme|escala (musical)||S|mus|B1
+accord|acorde||S|mus|B1
+harmonie|armonía||S|mus|B1
+mélodie|melodía||S|mus|B1

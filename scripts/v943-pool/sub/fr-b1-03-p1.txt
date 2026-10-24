@@ -1,0 +1,315 @@
+intrigue|trama||S|let|B1
+narrateur|narrador||S|let|B1
+recueil|recopilación||S|let|B1
+nouvelle|relato breve||S|let|B1
+vers|verso||S|let|B1
+rime|rima||S|let|B1
+fable|fábula||S|let|B1
+conte|cuento||S|let|B1
+essai|ensayo||S|let|B1
+biographie|biografía||S|let|B1
+plagiat|plagio||S|let|B1
+métaphore|metáfora||S|let|B1
+dénouement|desenlace||S|let|B1
+narratif|narrativo||A|let|B1
+lectorat|público lector||S|let|B1
+critique littéraire|crítica literaria||L|let|B1
+genre|género (literario)||S|let|B1
+œuvre|obra||S|let|B1
+muscle|músculo||S|cor|B1
+tendon|tendón||S|cor|B1
+nerf|nervio||S|cor|B1
+artère|arteria||S|cor|B1
+veine|vena||S|cor|B1
+poumon|pulmón||S|cor|B1
+foie|hígado||S|cor|B1
+colonne vertébrale|columna vertebral||L|cor|B1
+vertèbre|vértebra||S|cor|B1
+étirement|estiramiento||S|cor|B1
+s'étirer|estirarse||V|cor|B1
+souplesse|flexibilidad||S|cor|B1
+endurance|resistencia física||S|cor|B1
+respiration|respiración||S|cor|B1
+souffle|aliento||S|cor|B1
+circulation sanguine|circulación sanguínea||L|cor|B1
+rythme cardiaque|ritmo cardíaco||L|cor|B1
+tanière|guarida||S|ani|B1
+nid|nido||S|ani|B1
+terrier|madriguera||S|ani|B1
+ruche|colmena||S|ani|B1
+meute|manada||S|ani|B1
+troupeau|rebaño||S|ani|B1
+hibernation|hibernación||S|ani|B1
+instinct|instinto||S|ani|B1
+prédateur|depredador||S|ani|B1
+proie|presa||S|ani|B1
+gibier|caza (animales)||S|ani|B1
+fourrure|pelaje||S|ani|B1
+plume|pluma||S|ani|B1
+bec|pico||S|ani|B1
+griffe|garra||S|ani|B1
+museau|hocico||S|ani|B1
+migrateur|migratorio||A|ani|B1
+extinction|extinción||S|nat|B1
+menacé|amenazado||A|ani|B1
+réserve naturelle|reserva natural||L|nat|B1
+braconnage|caza furtiva||S|nat|B1
+braconnier|cazador furtivo||S|nat|B1
+déforestation|deforestación||S|nat|B1
+biodiversité|biodiversidad||S|nat|B1
+écosystème|ecosistema||S|nat|B1
+faune|fauna||S|ani|B1
+flore|flora||S|ani|B1
+sanctuaire|santuario||S|nat|B1
+réintroduction|reintroducción||S|nat|B1
+survie|supervivencia||S|nat|B1
+sauvegarde|salvaguarda||S|nat|B1
+disparition|desaparición||S|nat|B1
+espèce protégée|especie protegida||L|ani|B1
+habitat naturel|hábitat natural||L|nat|B1
+éolienne|aerogenerador||S|nat|B1
+panneau solaire|panel solar||L|nat|B1
+hydraulique|hidroeléctrico||A|nat|B1
+biomasse|biomasa||S|nat|B1
+géothermie|geotermia||S|nat|B1
+tri sélectif|recogida selectiva||L|nat|B1
+recyclage|reciclaje||S|nat|B1
+compost|compost||S|nat|B1
+empreinte carbone|huella de carbono||L|nat|B1
+effet de serre|efecto invernadero||L|nat|B1
+déchet|residuo||S|nat|B1
+décharge|vertedero||S|nat|B1
+pétrole|petróleo||S|nat|B1
+charbon|carbón||S|nat|B1
+énergie fossile|energía fósil||L|nat|B1
+décarboné|descarbonizado||A|nat|B1
+nucléaire|nuclear||A|nat|B1
+orage|tormenta||S|cli|B1
+éclair|relámpago||S|cli|B1
+tonnerre|trueno||S|cli|B1
+foudre|rayo||S|cli|B1
+grêle|granizo||S|cli|B1
+verglas|hielo en la calzada||S|cli|B1
+brouillard|niebla||S|cli|B1
+giboulée|chubasco primaveral||S|cli|B1
+canicule|ola de calor||S|cli|B1
+gel|helada||S|cli|B1
+averse|chubasco||S|cli|B1
+rafale|racha de viento||S|cli|B1
+tempête|temporal||S|cli|B1
+anticyclone|anticiclón||S|cli|B1
+pression atmosphérique|presión atmosférica||L|cli|B1
+bulletin météo|boletín meteorológico||L|cli|B1
+conditions météorologiques|condiciones meteorológicas||L|cli|B1
+éclaircie|escampada||S|cli|B1
+durée|duración||S|tmp|B1
+échéance|vencimiento||S|tmp|B1
+délai|plazo||S|tmp|B1
+dans les délais|dentro del plazo||L|tmp|B1
+intervalle|intervalo||S|tmp|B1
+fréquence|frecuencia||S|tmp|B1
+ponctuel|puntual||A|tmp|B1
+sporadique|esporádico||A|tmp|B1
+hebdomadaire|semanal||A|tmp|B1
+mensuel|mensual||A|tmp|B1
+trimestriel|trimestral||A|tmp|B1
+semestre|semestre||S|tmp|B1
+bisannuel|bianual||A|tmp|B1
+ajourner|aplazar||V|tmp|B1
+reporter|posponer||V|tmp|B1
+proroger|prorrogar||V|tmp|B1
+ponctualité|puntualidad||S|tmp|B1
+soirée|fiesta nocturna||S|sve|B1
+discothèque|discoteca||S|sve|B1
+nocturne|nocturno||A|sve|B1
+noctambule|trasnochador||S|sve|B1
+ambiance|ambiente||S|sve|B1
+veillée|velada||S|sve|B1
+nuit blanche|noche en vela||L|sve|B1
+karaoké|karaoke||S|sve|B1
+billard|billar||S|sve|B1
+fléchettes|dardos||S|sve|B1
+apéro|aperitivo entre amigos||S|sve|B1
+piste de danse|pista de baile||L|sve|B1
+soirée dansante|baile||L|sve|B1
+faire la fête|festejar||E|sve|B1
+branché|a la última||A|sve|B1
+sortie|salida (de ocio)||S|sve|B1
+fêtard|fiestero||S|sve|B1
+jeu de société|juego de mesa||L|sve|B1
+dé|dado||S|sve|B1
+pion|ficha||S|sve|B1
+plateau|tablero||S|sve|B1
+règle du jeu|reglas del juego||L|sve|B1
+tricher|hacer trampas||V|sve|B1
+tricheur|tramposo||S|sve|B1
+casse-tête|rompecabezas||S|sve|B1
+échecs|ajedrez||S|sve|B1
+dames|damas||S|sve|B1
+joueur|jugador||S|sve|B1
+collectionneur|coleccionista||S|sve|B1
+timbre|sello (de coleccionismo)||S|sve|B1
+maquette|maqueta||S|sve|B1
+tricot|labores de punto||S|sve|B1
+couture|costura||S|sve|B1
+broderie|bordado||S|sve|B1
+loisirs créatifs|manualidades||L|sve|B1
+motivation|motivación||S|emo|B1
+motivé|motivado||A|emo|B1
+stress|estrés||S|emo|B1
+stresser|estresar||V|emo|B1
+angoisse|angustia||S|emo|B1
+anxiété|ansiedad||S|emo|B1
+pression|presión||S|emo|B1
+découragement|desánimo||S|emo|B1
+décourager|desanimar||V|emo|B1
+persévérance|perseverancia||S|emo|B1
+confiance en soi|confianza en uno mismo||L|emo|B1
+objectif|objetivo||S|emo|B1
+récompense|recompensa||S|emo|B1
+détente|relajación||S|emo|B1
+se détendre|relajarse||V|emo|B1
+apaisement|calma||S|emo|B1
+procrastination|procrastinación||S|emo|B1
+surmenage|sobrecarga||S|emo|B1
+débat|debate||S|cmu|B1
+débattre|debatir||V|cmu|B1
+argument|argumento||S|cmu|B1
+argumenter|argumentar||V|cmu|B1
+thèse|tesis||S|cmu|B1
+réfuter|refutar||V|cmu|B1
+objection|objeción||S|cmu|B1
+soutenir|sostener (una opinión)||V|cmu|B1
+affirmer|afirmar||V|cmu|B1
+nuancer|matizar||V|cmu|B1
+concéder|conceder||V|cmu|B1
+polémique|polémica||S|cmu|B1
+controverse|controversia||S|cmu|B1
+convaincre|convencer||V|cmu|B1
+persuader|persuadir||V|cmu|B1
+contester|cuestionar||V|cmu|B1
+remettre en question|poner en entredicho||E|cmu|B1
+point de vue|punto de vista||L|cmu|B1
+exposé|exposición oral||S|cmu|B1
+diapositive|diapositiva||S|cmu|B1
+diaporama|presentación de diapositivas||S|cmu|B1
+auditoire|auditorio||S|cmu|B1
+allocution|discurso breve||S|cmu|B1
+prise de parole|intervención en público||L|cmu|B1
+trac|miedo escénico||S|cmu|B1
+gestuelle|gestualidad||S|cmu|B1
+posture|postura||S|cmu|B1
+auditeur|oyente||S|cmu|B1
+tribune|tribuna||S|cmu|B1
+conférencier|conferenciante||S|cmu|B1
+modérateur|moderador||S|cmu|B1
+prendre la parole|tomar la palabra||E|cmu|B1
+s'adresser au public|dirigirse al público||E|cmu|B1
+conclusion|conclusión||S|cmu|B1
+débit|ritmo del habla||S|cmu|B1
+concession|concesión||S|cmu|B1
+céder|ceder||V|cmu|B1
+compromis|acuerdo intermedio||S|cmu|B1
+consensus|consenso||S|cmu|B1
+s'entendre|entenderse||V|cmu|B1
+accord|acuerdo||S|cmu|B1
+désaccord|desacuerdo||S|cmu|B1
+médiateur|mediador||S|cmu|B1
+pourparlers|negociaciones||S|cmu|B1
+proposition|propuesta||S|cmu|B1
+clause|cláusula||S|cmu|B1
+accommodant|complaciente||A|cmu|B1
+prendre des gants|andarse con cuidado||E|cmu|B1
+ménager|tratar con tacto||V|cmu|B1
+doigté|tacto||S|cmu|B1
+diplomate|diplomático||S|cmu|B1
+tact|tino||S|cmu|B1
+tribunal|tribunal||S|ist|B1
+juge|juez||S|ist|B1
+avocat|abogado||S|ist|B1
+témoignage|testimonio||S|ist|B1
+preuve|prueba||S|ist|B1
+verdict|veredicto||S|ist|B1
+coupable|culpable||A|ist|B1
+acquitter|absolver||V|ist|B1
+condamner|condenar||V|ist|B1
+peine|pena||S|ist|B1
+amende|multa||S|ist|B1
+prison|cárcel||S|ist|B1
+délit|delito||S|ist|B1
+infraction|infracción||S|ist|B1
+poursuites|acciones judiciales||S|ist|B1
+jugement|sentencia||S|ist|B1
+plaider|defender (en juicio)||V|ist|B1
+cour d'appel|tribunal de apelación||L|ist|B1
+dossier|expediente||S|ist|B1
+formulaire|formulario||S|ist|B1
+guichet|ventanilla||S|ist|B1
+administration|administración||S|ist|B1
+service public|servicio público||L|ist|B1
+fonctionnaire|funcionario||S|ist|B1
+mairie|ayuntamiento||S|ist|B1
+préfecture|prefectura||S|ist|B1
+certificat|certificado||S|ist|B1
+acte de naissance|certificado de nacimiento||L|ist|B1
+tampon|sello oficial||S|ist|B1
+cachet|sello institucional||S|ist|B1
+photocopie|fotocopia||S|ist|B1
+accusé de réception|acuse de recibo||L|ist|B1
+courrier recommandé|carta certificada||L|ist|B1
+demandeur|solicitante||S|ist|B1
+joindre un document|adjuntar un documento||E|ist|B1
+élection|elección||S|ist|B1
+électeur|elector||S|ist|B1
+voter|votar||V|ist|B1
+scrutin|escrutinio||S|ist|B1
+urne|urna||S|ist|B1
+candidat|candidato||S|ist|B1
+candidature|candidatura||S|ist|B1
+campagne présidentielle|campaña presidencial||L|ist|B1
+sondage|encuesta||S|ist|B1
+parti politique|partido político||L|ist|B1
+conseiller municipal|concejal||L|ist|B1
+abstention|abstención||S|ist|B1
+bulletin de vote|papeleta electoral||L|ist|B1
+isoloir|cabina electoral||S|ist|B1
+majorité|mayoría||S|ist|B1
+référendum|referéndum||S|ist|B1
+démocratique|democrático||A|ist|B1
+gouverner|gobernar||V|ist|B1
+toutefois|sin embargo||C|cnn|B1
+néanmoins|no obstante||C|cnn|B1
+en revanche|en cambio||L|cnn|B1
+par conséquent|por consiguiente||L|cnn|B1
+en effet|efectivamente||L|cnn|B1
+d'ailleurs|además||L|cnn|B1
+tout d'abord|en primer lugar||L|cnn|B1
+en somme|en suma||L|cnn|B1
+en conclusion|en conclusión||L|cnn|B1
+par ailleurs|por otra parte||L|cnn|B1
+d'une part|por una parte||L|cnn|B1
+d'autre part|por otra parte||L|cnn|B1
+certes|cierto es que||D|cnn|B1
+quoique|aunque||C|cnn|B1
+tandis que|mientras que||C|cnn|B1
+dès que|en cuanto||C|cnn|B1
+en outre|además (formal)||L|cnn|B1
+autrement dit|es decir||L|cnn|B1
+vérité|verdad||S|ast|B1
+mensonge|mentira||S|ast|B1
+sincérité|sinceridad||S|ast|B1
+injustice|injusticia||S|ast|B1
+équité|equidad||S|ast|B1
+équitable|equitativo||A|ast|B1
+égalité|igualdad||S|ast|B1
+beauté|belleza||S|ast|B1
+laideur|fealdad||S|ast|B1
+esthétique|estética||S|ast|B1
+harmonie|armonía||S|ast|B1
+élégance|elegancia||S|ast|B1
+vertu|virtud||S|ast|B1
+morale|moral||S|ast|B1
+dignité|dignidad||S|ast|B1
+tolérance|tolerancia||S|ast|B1
+sagesse|sabiduría||S|ast|B1
+véracité|veracidad||S|ast|B1

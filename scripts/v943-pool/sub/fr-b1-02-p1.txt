@@ -1,0 +1,318 @@
+naissance|nacimiento||S|fam|B1
+enfance|infancia||S|fam|B1
+adolescence|adolescencia||S|fam|B1
+vieillesse|vejez||S|fam|B1
+décès|fallecimiento||S|fam|B1
+grossesse|embarazo||S|fam|B1
+accoucher|dar a luz||V|fam|B1
+nourrisson|recién nacido||S|fam|B1
+jumeau|gemelo||S|fam|B1
+aîné|el mayor (de los hijos)||S|fam|B1
+benjamin|el pequeño de la familia||S|fam|B1
+beau-père|suegro o padrastro||S|fam|B1
+belle-mère|suegra o madrastra||S|fam|B1
+demi-frère|hermanastro||S|fam|B1
+belle-fille|nuera||S|fam|B1
+se marier|casarse||V|fam|B1
+élever|criar (a los hijos)||V|fam|B1
+fiançailles|pedida de mano||S|fam|B1
+punir|castigar||V|fam|B1
+punition|castigo||S|fam|B1
+récompenser|recompensar||V|fam|B1
+obéir|obedecer||V|fam|B1
+interdit|prohibido||A|fam|B1
+permission|permiso||S|fam|B1
+bêtise|travesura||S|fam|B1
+caprice|capricho||S|fam|B1
+se fâcher|enfadarse||V|fam|B1
+querelle|riña||S|fam|B1
+se disputer|pelearse||V|fam|B1
+dialogue|diálogo||S|fam|B1
+autorité parentale|patria potestad||S|fam|B1
+faire une scène|montar una escena||E|fam|B1
+poser des limites|poner límites||E|fam|B1
+donner l'exemple|dar ejemplo||E|fam|B1
+conflit|conflicto||S|fam|B1
+déménagement|mudanza||S|cas|B1
+déménager|mudarse||V|cas|B1
+emménager|mudarse (a la vivienda nueva)||V|cas|B1
+locataire|inquilino||S|cas|B1
+propriétaire|casero (propietario)||S|cas|B1
+bail|contrato de alquiler||S|cas|B1
+loyer|alquiler (renta mensual)||S|cas|B1
+caution|fianza||S|cas|B1
+charges|gastos de comunidad||S|cas|B1
+préavis|preaviso||S|cas|B1
+agence immobilière|inmobiliaria||S|cas|B1
+étage|planta (del edificio)||S|cas|B1
+rez-de-chaussée|planta baja||S|cas|B1
+sous-sol|sótano||S|cas|B1
+ascenseur|ascensor||S|cas|B1
+syndic|administrador de fincas||S|cas|B1
+résilier|rescindir (un contrato)||V|cas|B1
+renouveler|renovar (un contrato)||V|cas|B1
+travaux|obras||S|cas|B1
+devis|presupuesto||S|cas|B1
+maçon|albañil||S|cas|B1
+plombier|fontanero||S|cas|B1
+électricien|electricista||S|cas|B1
+peintre|pintor||S|cas|B1
+carreleur|azulejador||S|cas|B1
+rénover|reformar||V|cas|B1
+peinture|pintura||S|cas|B1
+papier peint|papel pintado||S|cas|B1
+carrelage|azulejos (del suelo)||S|cas|B1
+parquet|suelo de madera||S|cas|B1
+rideau|cortina||S|cas|B1
+store|estor||S|cas|B1
+tapis|alfombra||S|cas|B1
+coussin|cojín||S|cas|B1
+fauteuil|butaca||S|cas|B1
+canapé|sofá||S|cas|B1
+gastronomie|gastronomía||S|ali|B1
+spécialité|especialidad (plato típico)||S|ali|B1
+terroir|terroir (carácter de la tierra)||S|ali|B1
+apéritif|aperitivo||S|ali|B1
+charcuterie|embutidos||S|ali|B1
+pâtisserie|pastelería||S|ali|B1
+baguette|barra de pan||S|ali|B1
+crêpe|crep||S|ali|B1
+blanquette de veau|estofado de ternera en salsa blanca||S|ali|B1
+pot-au-feu|puchero||S|ali|B1
+vinaigrette|vinagreta||S|ali|B1
+recette|receta||S|ali|B1
+ingrédient|ingrediente||S|ali|B1
+mijoter|cocer a fuego lento||V|ali|B1
+rôtir|asar||V|ali|B1
+hacher|picar||V|ali|B1
+saveur|sabor||S|ali|B1
+mets|plato (manjar)||S|ali|B1
+régime|dieta (régimen alimenticio)||S|ali|B1
+végétarien|vegetariano||A|ali|B1
+végétalien|vegano||A|ali|B1
+équilibré|equilibrado||A|ali|B1
+alimentation|alimentación||S|ali|B1
+nutriments|nutrientes||S|ali|B1
+protéines|proteínas||S|ali|B1
+glucides|hidratos de carbono||S|ali|B1
+obésité|obesidad||S|sla|B1
+diabète|diabetes||S|sla|B1
+cholestérol|colesterol||S|sla|B1
+intolérance|intolerancia alimentaria||S|sla|B1
+sans gluten|sin gluten||L|ali|B1
+sans lactose|sin lactosa||L|ali|B1
+biologique|ecológico (bio)||A|ali|B1
+grignoter|picar entre horas||V|ali|B1
+sauter un repas|saltarse una comida||E|ali|B1
+wok|wok||S|ali|B1
+sushi|sushi||S|ali|B1
+couscous|cuscús||S|ali|B1
+tajine|tajine||S|ali|B1
+falafel|falafel||S|ali|B1
+curry|curry||S|ali|B1
+épice|especia||S|ali|B1
+épicé|especiado||A|ali|B1
+safran|azafrán||S|ali|B1
+cannelle|canela||S|ali|B1
+cumin|comino||S|ali|B1
+gingembre|jengibre||S|ali|B1
+sauce soja|salsa de soja||S|ali|B1
+nouilles|fideos||S|ali|B1
+huile d'olive|aceite de oliva||S|ali|B1
+parfumer|sazonar (dar aroma)||V|ali|B1
+accompagnement|guarnición||S|ali|B1
+exotique|exótico||A|ali|B1
+vignoble|viñedo||S|ali|B1
+cépage|variedad de uva||S|ali|B1
+vendanges|vendimia||S|ali|B1
+dégustation|cata||S|ali|B1
+déguster|catar||V|ali|B1
+millésime|añada||S|ali|B1
+sommelier|sumiller||S|ali|B1
+tanin|tanino||S|ali|B1
+cru|cru (zona de producción)||S|ali|B1
+cafetière|cafetera||S|ali|B1
+torréfaction|torrefacción||S|ali|B1
+expresso|expreso||S|ali|B1
+corsé|fuerte (de café o vino)||A|ali|B1
+amer|amargo||A|ali|B1
+acide|ácido||A|ali|B1
+fade|soso||A|ali|B1
+arôme|aroma||S|ali|B1
+publicité|publicidad||S|cmp|B1
+annonce|anuncio (de piso o empleo)||S|cmp|B1
+slogan|eslogan||S|cmp|B1
+marque|marca||S|cmp|B1
+consommateur|consumidor||S|cmp|B1
+acheteur|comprador||S|cmp|B1
+soldes|rebajas||S|cmp|B1
+remise|descuento||S|cmp|B1
+vitrine|escaparate||S|cmp|B1
+faire du lèche-vitrine|mirar los escaparates||E|cmp|B1
+faire les courses|hacer la compra||E|cmp|B1
+rayon|sección (del supermercado)||S|cmp|B1
+caisse|caja (del supermercado)||S|cmp|B1
+étiquette|etiqueta (de precio)||S|cmp|B1
+emballage|envoltorio||S|cmp|B1
+dépenser|gastar||V|cmp|B1
+publicité mensongère|publicidad engañosa||S|cmp|B1
+rendre|devolver||V|cmp|B1
+retour|devolución||S|cmp|B1
+échange|cambio (de artículo)||S|cmp|B1
+remboursement|reembolso||S|cmp|B1
+rembourser|reembolsar||V|cmp|B1
+garantie|garantía||S|cmp|B1
+réclamation|reclamación||S|cmp|B1
+réclamer|reclamar||V|cmp|B1
+service après-vente|servicio posventa||S|cmp|B1
+facture|factura||S|cmp|B1
+ticket de caisse|ticket de compra||S|cmp|B1
+defectueux|defectuoso||A|cmp|B1
+abîmé|estropeado||A|cmp|B1
+réparer|reparar||V|cmp|B1
+se plaindre|quejarse||V|cmp|B1
+satisfait|satisfecho||A|cmp|B1
+d'occasion|de segunda mano||L|cmp|B1
+boutique en ligne|tienda en línea||S|cmp|B1
+commande|pedido||S|cmp|B1
+commander|hacer un pedido||V|cmp|B1
+livraison|entrega||S|cmp|B1
+livrer|entregar (un paquete)||V|cmp|B1
+frais de livraison|gastos de envío||S|cmp|B1
+expédition|envío||S|cmp|B1
+colis|paquete||S|cmp|B1
+suivi|seguimiento (del envío)||S|cmp|B1
+point relais|punto de recogida||S|cmp|B1
+délai de livraison|plazo de entrega||S|cmp|B1
+carte bancaire|tarjeta bancaria||S|cmp|B1
+avis client|reseña de cliente||S|cmp|B1
+fraude|fraude||S|cmp|B1
+arnaque|estafa||S|cmp|B1
+arnaquer|estafar||V|cmp|B1
+ajouter au panier|añadir al carrito||E|cmp|B1
+code de la route|código de circulación||S|tra|B1
+feu tricolore|semáforo||S|tra|B1
+priorité à droite|prioridad a la derecha||L|tra|B1
+céder le passage|ceder el paso||E|tra|B1
+excès de vitesse|exceso de velocidad||S|tra|B1
+permis de conduire|carné de conducir||S|tra|B1
+contravention|infracción de tráfico||S|tra|B1
+amende|multa||S|tra|B1
+radar|radar (control de velocidad)||S|tra|B1
+crevaison|pinchazo||S|tra|B1
+pneu|neumático||S|tra|B1
+moteur|motor||S|tra|B1
+tableau de bord|salpicadero||S|tra|B1
+rétroviseur|retrovisor||S|tra|B1
+clignotant|intermitente||S|tra|B1
+vidange|cambio de aceite||S|tra|B1
+panne|avería||S|tra|B1
+en panne|averiado||L|tra|B1
+carburant|combustible||S|tra|B1
+mobilité douce|movilidad sostenible||S|tra|B1
+covoiturage|coche compartido||S|tra|B1
+autopartage|alquiler de coche compartido||S|tra|B1
+transports en commun|transporte público||S|tra|B1
+abonnement|abono||S|tra|B1
+titre de transport|título de transporte||S|tra|B1
+correspondance|transbordo||S|tra|B1
+quai|andén||S|tra|B1
+wagon|vagón||S|tra|B1
+terminus|final de línea||S|tra|B1
+piste cyclable|carril bici||S|tra|B1
+trottinette|patinete||S|tra|B1
+trottoir|acera||S|tra|B1
+piéton|peatón||S|tra|B1
+circulation|tráfico||S|tra|B1
+bouchon|atasco||S|tra|B1
+gare|estación||S|tra|B1
+horaires|horarios||S|tra|B1
+voyage d'affaires|viaje de negocios||S|vig|B1
+frais de déplacement|gastos de desplazamiento||S|vig|B1
+itinéraire|itinerario||S|vig|B1
+escale|escala||S|vig|B1
+retard|retraso||S|vig|B1
+annulation|cancelación||S|vig|B1
+annuler|cancelar||V|vig|B1
+surbooking|sobreventa||S|vig|B1
+valise|maleta||S|vig|B1
+enregistrer les bagages|facturar el equipaje||E|vig|B1
+porte d'embarquement|puerta de embarque||S|vig|B1
+vol|vuelo||S|vig|B1
+compagnie aérienne|compañía aérea||S|vig|B1
+billet d'avion|billete de avión||S|vig|B1
+aller-retour|ida y vuelta||S|vig|B1
+aller simple|solo ida||S|vig|B1
+réservation|reserva||S|vig|B1
+bagage|equipaje||S|vig|B1
+frontière|frontera||S|vig|B1
+passeport|pasaporte||S|vig|B1
+visa|visado||S|vig|B1
+carte d'identité|documento de identidad||S|vig|B1
+douanier|aduanero||A|vig|B1
+contrôle des passeports|control de pasaportes||S|vig|B1
+titre de séjour|permiso de residencia||S|vig|B1
+permis de travail|permiso de trabajo||S|vig|B1
+expatrié|expatriado||S|vig|B1
+expatriation|expatriación||S|vig|B1
+naturalisation|naturalización||S|ist|B1
+ambassade|embajada||S|ist|B1
+consulat|consulado||S|ist|B1
+formulaire|formulario||S|vig|B1
+remplir|rellenar||V|vig|B1
+justificatif|justificante||S|vig|B1
+tampon|sello||S|vig|B1
+chambre d'hôtel|habitación de hotel||S|htl|B1
+réception|recepción||S|htl|B1
+réceptionniste|recepcionista||S|htl|B1
+demi-pension|media pensión||S|htl|B1
+vue sur mer|vistas al mar||S|htl|B1
+climatisation|aire acondicionado||S|htl|B1
+hôtel de luxe|hotel de lujo||S|htl|B1
+auberge|albergue||S|htl|B1
+auberge de jeunesse|albergue juvenil||S|htl|B1
+gîte|casa rural||S|htl|B1
+chambre d'hôtes|casa de huéspedes||S|htl|B1
+séjour|estancia||S|htl|B1
+hébergement|alojamiento||S|htl|B1
+héberger|alojar||V|htl|B1
+destination|destino||S|vig|B1
+guide touristique|guía turística||S|vig|B1
+haute saison|temporada alta||S|htl|B1
+prévention|prevención||S|sla|B1
+préventif|preventivo||A|sla|B1
+bilan de santé|revisión de salud||S|sla|B1
+dépistage|detección precoz (cribado)||S|sla|B1
+dépister|cribar (detectar)||V|sla|B1
+mode de vie|estilo de vida||S|sla|B1
+hygiène de vie|hábitos de vida sanos||S|sla|B1
+tabagisme|tabaquismo||S|sla|B1
+fumeur|fumador||S|sla|B1
+arrêter de fumer|dejar de fumar||E|sla|B1
+sédentaire|sedentario||A|sla|B1
+fatigue|cansancio||S|sla|B1
+repos|descanso||S|sla|B1
+sommeil|sueño (descanso nocturno)||S|sla|B1
+insomnie|insomnio||S|sla|B1
+bien-être|bienestar||S|sla|B1
+facteur de risque|factor de riesgo||S|sla|B1
+assurance maladie|seguro de enfermedad||S|sla|B1
+mutuelle|mutua (seguro complementario)||S|sla|B1
+consultation|consulta||S|sla|B1
+prise en charge|cobertura (de gastos sanitarios)||S|sla|B1
+honoraires|honorarios (tarifa médica)||S|sla|B1
+spécialiste|médico especialista||S|sla|B1
+médecin traitant|médico de cabecera||S|sla|B1
+généraliste|médico de familia||S|sla|B1
+urgences|urgencias (del hospital)||S|sla|B1
+clinique|clínica||S|sla|B1
+pharmacie|farmacia||S|sla|B1
+ordonnance|receta médica||S|sla|B1
+sans ordonnance|sin receta||L|sla|B1
+générique|genérico (medicamento)||S|sla|B1
+comprimé|comprimido||S|sla|B1
+kinésithérapeute|fisioterapeuta||S|sla|B1
+arrêt maladie|baja médica||S|sla|B1
+anxiété|ansiedad||S|sla|B1
+anxieux|ansioso||A|sla|B1
+stress|estrés||S|sla|B1

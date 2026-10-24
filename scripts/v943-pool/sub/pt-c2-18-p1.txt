@@ -1,0 +1,294 @@
+cordato|condescendiente (complaciente)||A|ast|C2
+pusilânime|pusilánime (apocado)||A|ast|C2
+magnânimo|magnânimo||A|ast|C2
+mesquinho|mezquino (vil)||A|ast|C2
+altivo|altivo (altanero)||A|ast|C2
+servil|servil (rastrero)||A|ast|C2
+pretensioso|pretencioso||A|ast|C2
+displicente|displicente (desdeñoso)||A|ast|C2
+longânime|longánime (indulgente)||A|ast|C2
+volúvel|voluble (inconstante)||A|ast|C2
+arguto|agudo (perspicaz)||A|ast|C2
+obtuso|obtuso (lerdo)||A|ast|C2
+sisudo|adusto (hosco)||A|ast|C2
+austero|austero||A|ast|C2
+indulgente|indulgente||A|ast|C2
+lacónico|lacónico (parco)||A|cmu|C2
+loquaz|locuaz||A|cmu|C2
+palrador|parlanchín||A|cmu|C2
+erudito|erudito||A|stu|C2
+assisado|asisado (sensato)||A|ast|C2
+íntegro|íntegro (honrado)||A|ast|C2
+despótico|despótico||A|ist|C2
+tirânico|tiránico||A|ist|C2
+benévolo|benévolo||A|ast|C2
+malévolo|malévolo||A|ast|C2
+ufano|ufano (orgulloso)||A|ast|C2
+impassível|impasible||A|emo|C2
+intransigente|intransigente||A|ast|C2
+pérfido|pérfido||A|ast|C2
+aleivoso|alevoso (desleal)||A|ast|C2
+crédulo|crédulo||A|ast|C2
+rabugento|regañadizo (irritable)||A|emo|C2
+asseverar|aseverar||V|cmu|C2
+sustentar|sostener (defender una tesis)||V|cmu|C2
+rebater|rebatir (refutar)||V|cmu|C2
+refutar|refutar||V|cmu|C2
+escarnecer|escarnecer (burlarse)||V|cmu|C2
+vilipendiar|vilipendiar||V|cmu|C2
+denegrir|denegrir||V|cmu|C2
+pontificar|pontificar||V|cmu|C2
+conjecturar|conjeturar||V|sci|C2
+ponderar|ponderar (sopesar)||V|cmu|C2
+disertar|disertar||V|cmu|C2
+verberar|reprender con dureza (protestar)||V|cmu|C2
+aludir a|aludir a||E|cmu|C2
+invocar|invocar (alegar)||V|cmu|C2
+contrapor|contraponer||V|cmu|C2
+corroborar|corroborar||V|cmu|C2
+impugnar|impugnar (contestar)||V|ist|C2
+desdizer|desdecirse (retractarse)||V|cmu|C2
+divagar|divagar||V|cmu|C2
+elucubrar|elucubrar||V|cmu|C2
+preconizar|preconizar (abogar por)||V|cmu|C2
+retrucar|retrucar (replicar)||V|cmu|C2
+atalhar|atajar (cortar por lo corto)||V|cmu|C2
+desmentir|desmentir||V|cmu|C2
+ilidir|refutar (invalidar)||V|cmu|C2
+propugnar|propugnar (defender)||V|cmu|C2
+enaltecer|enaltecer (exaltar)||V|cmu|C2
+denostar|denostar||V|cmu|C2
+maldizer|maldecir||V|cmu|C2
+invectivar|invectivar (apostrofar)||V|cmu|C2
+replicar|replicar (responder)||V|cmu|C2
+rezingar|renegir (refunfuñar)||V|cmu|C2
+recriminar|recriminar||V|cmu|C2
+epistemologia|epistemología||S|stu|C2
+heurística|heurística||S|sci|C2
+heurístico|heurístico||A|sci|C2
+taxonomia|taxonomía||S|sci|C2
+dogma|dogma||S|sci|C2
+dogmático|dogmático||A|sci|C2
+antítese|antítesis||S|stu|C2
+silogismo|silogismo||S|stu|C2
+hermenêutica|hermenéutica||S|stu|C2
+exegese|exégesis||S|stu|C2
+dissertação|disertación||S|stu|C2
+doutoramento|doctorado||S|stu|C2
+bolseiro|becario||S|stu|C2
+investigador|investigador||S|pro|C2
+erudição|erudición||S|stu|C2
+sapiência|sapiencia||S|stu|C2
+cognição|cognición||S|sci|C2
+epifenómeno|epifenómeno||S|sci|C2
+causalidade|causalidad||S|sci|C2
+axioma|axioma||S|sci|C2
+corolário|corolario||S|stu|C2
+premissa|premisa||S|sci|C2
+postulado|postulado||S|sci|C2
+interdisciplinaridade|interdisciplinariedad||S|stu|C2
+nota de rodapé|nota al pie||S|stu|C2
+resenha|reseña||S|stu|C2
+recensão|recensión (reseña crítica)||S|let|C2
+monografia|monografía||S|stu|C2
+compêndio|compendio||S|stu|C2
+tratado|tratado (obra)||S|let|C2
+regente|docente (profesor de cátedra)||S|pro|C2
+plágio|plagio||S|stu|C2
+teorização|teorización||S|sci|C2
+falácia|falacia||S|sci|C2
+sofisma|sofisma||S|sci|C2
+mendacidade|mendacidad||S|cmu|C2
+perfídia|perfidia||S|rel|C2
+fingimento|fingimiento||S|emo|C2
+embuste|engaño (mentira)||S|cmu|C2
+veracidade|veracidad||S|sci|C2
+verossimilhança|verosimilitud||S|let|C2
+verossímil|verosímil||A|let|C2
+plausibilidade|plausibilidad||S|sci|C2
+artimanha|artimaña (astucia)||S|ast|C2
+logro|engaño (fraude)||S|att|C2
+subterfúgio|subterfugio||S|att|C2
+calúnia|calumnia||S|ist|C2
+difamação|difamación||S|ist|C2
+impostura|impostura||S|att|C2
+trapaça|trampa (engaño)||S|att|C2
+falsear|falsear (tergiversar datos)||V|att|C2
+deturpar|tergiversar (distorsionar)||V|cmu|C2
+meia-verdade|media verdad||S|att|C2
+má-fé|mala fe||S|rel|C2
+credulidade|credulidad||S|ast|C2
+obscurantismo|oscurantismo||S|att|C2
+miragem|espejismo||S|att|C2
+quimera|quimera (ilusión vana)||S|let|C2
+patifaria|canallada||S|att|C2
+velhaco|bellaco (pícaro)||A|let|C2
+apócrifo|apócrifo||A|let|C2
+espúrio|espurio||A|sci|C2
+burla|burla (estafa)||S|ist|C2
+falsário|falsario||S|pro|C2
+contrafação|falsificación (de moneda)||S|fin|C2
+impugnação|impugnación (jurídica)||S|ist|C2
+esbelto|esbelto||A|cor|C2
+airoso|airoso (garboso)||A|ast|C2
+formosura|hermosura||S|ast|C2
+beldade|beldad||S|ast|C2
+desalinho|desaliño||S|rop|C2
+garbo|garbo (porte)||S|ast|C2
+primor|primor (esmero)||S|ast|C2
+primoroso|primoroso||A|art|C2
+esmero|esmero||S|ast|C2
+esmerado|esmerado||A|ast|C2
+virtuosismo|virtuosismo||S|mus|C2
+desajeitado|desmañado (torpe)||A|cor|C2
+galanteio|galanteo (cortejo)||S|rel|C2
+galantear|galantear (cortejar)||V|rel|C2
+primazia|primacía||S|ast|C2
+decoro|decoro||S|rel|C2
+pundonor|pundonor||S|rel|C2
+vilania|villanía||S|let|C2
+abjeto|abyecto||A|ast|C2
+baixeza|bajeza||S|ast|C2
+mesquinhez|mezquindad||S|ast|C2
+desbocado|soez (grosero)||A|cmu|C2
+louvável|loable||A|ast|C2
+louvor|loor (alabanza)||S|ast|C2
+saloio|paleto (rústico)||S|cit|C2
+aprimoramento|perfeccionamiento||S|stu|C2
+aprimorar|perfeccionar||V|stu|C2
+suntuosidade|suntuosidad||S|art|C2
+recato|recato (pudor)||S|ast|C2
+hediondo|hediondo (asqueroso)||A|att|C2
+galhardia|gallardía (lozanía)||S|ast|C2
+exíguo|exiguo||A|sci|C2
+acanhado|corto (escaso)||A|fin|C2
+irrisório|irrisorio||A|fin|C2
+módico|módico||A|fin|C2
+avultado|abultado (cuantioso)||A|fin|C2
+avultar|ascender a (montar)||V|fin|C2
+mirrado|raquítico (escaso)||A|cor|C2
+minguado|menguado (escaso)||A|fin|C2
+minguar|menguar||V|fin|C2
+sobejo|sobra (exceso)||S|ast|C2
+de sobejo|en demasía||L|ast|C2
+desafogado|desahogado (holgado)||A|fin|C2
+desafogo|desahogo (alivio)||S|emo|C2
+faustoso|fastuoso||A|art|C2
+sumptuoso|suntuoso||A|art|C2
+opulento|opulento||A|fin|C2
+a descoberto|en descubierto (bancario)||L|fin|C2
+erário|erario||S|fin|C2
+pecúlio|peculio||S|fin|C2
+proventos|proventos (ingresos)||S|fin|C2
+à larga|con holgura||L|ast|C2
+sobremaneira|sobremanera||D|ast|C2
+assaz|harto (bastante)||D|ast|C2
+desmesurado|desmesurado||A|ast|C2
+infindo|inacabable (sin fin)||A|let|C2
+embolsar|embolsarse (percibir)||V|fin|C2
+desembolso|desembolso||S|fin|C2
+um sem-número de|un sinfín de||L|ast|C2
+às dúzias|a docenas||L|cmp|C2
+descomedido|excesivo (desaforado)||A|ast|C2
+um tanto ou quanto|en cierto modo||L|ast|C2
+a olho|a ojo (sin medir)||L|cmp|C2
+resma|resma (quinientos pliegos)||S|cmp|C2
+passar desta para melhor|pasar a mejor vida||E|sla|C2
+exalar o último suspiro|exhalar el último suspiro||E|sla|C2
+os dias contados|los días contados||S|att|C2
+pôr a nu|poner al desnudo||L|cmu|C2
+mexericar|cotillear (chismear)||V|rel|C2
+mexerico|cotilleo (chisme)||S|rel|C2
+adular|adular (halagar)||V|rel|C2
+lisonja|lisonja||S|rel|C2
+lisonjeiro|lisonjero||A|rel|C2
+escusado será dizer|huelga decir||E|cmu|C2
+sem mais demora|sin más demora||L|cmu|C2
+a título de|a título de||L|cmu|C2
+com a devida vénia|con la debida venia||L|ist|C2
+vénia|venia (reverencia)||S|rel|C2
+malquistar|malquistar (enemistar)||V|rel|C2
+malquerença|malquerencia||S|rel|C2
+de má vontade|de mala gana||L|emo|C2
+de boa vontade|de buena gana||L|emo|C2
+agastar|irritar (disgustar)||V|emo|C2
+estar nas últimas|estar en las últimas||E|sla|C2
+indisposição|indisposición||S|sla|C2
+resguardo|convalecencia (resguardo)||S|sla|C2
+dar por findo|dar por concluido||E|cmu|C2
+findar|concluir (fenecer)||V|cmu|C2
+fenecer|fenecer (fallecer)||V|let|C2
+finado|difunto (fallecido)||S|sla|C2
+ludíbrio|ludibrio (objeto de burla)||S|cmu|C2
+escárnio|escarnio (mofa)||S|cmu|C2
+mofa|mofa (burla)||S|cmu|C2
+restos mortais|restos mortales||S|sla|C2
+exéquias|exequias (funerales)||S|sla|C2
+catafalco|catafalco||S|sla|C2
+derradeiro|postrero||A|let|C2
+alvor|alba||S|nat|C2
+alvorada|alborada||S|tmp|C2
+lusco-fusco|penumbra (crepúsculo)||S|tmp|C2
+azinhaga|callejón (vereda)||S|nat|C2
+morriña|morriña (añoranza)||S|emo|C2
+plangente|plañidero||A|mus|C2
+pranto|llanto||S|emo|C2
+perene|perenne||A|nat|C2
+etéreo|etéreo||A|ast|C2
+clangor|clangor (sonido de clarín)||S|mus|C2
+marulho|rumor de las olas||S|nat|C2
+cantiga|cantiga (canción antigua)||S|mus|C2
+endecha|endecha (canto fúnebre)||S|mus|C2
+elegia|elegía||S|let|C2
+redondilha|redondilla||S|let|C2
+hemistíquio|hemistiquio||S|let|C2
+sinédoque|sinécdoque||S|let|C2
+versificar|versificar||V|let|C2
+prosaico|prosaico||A|let|C2
+leda|leda (alegre)||A|let|C2
+prantejar|plañir (lamentarse)||V|let|C2
+viço|lozanía||S|nat|C2
+estiagem|estiaje (sequía)||S|nat|C2
+sereno|rocío nocturno||S|nat|C2
+outeiro|otero||S|nat|C2
+lagar|lagar (de aceite)||S|ali|C2
+engenho|ingenio (artefacto)||S|tec|C2
+entardecer|atardecer||V|tmp|C2
+penhasco|peñasco||S|nat|C2
+elipse|elipsis||S|let|C2
+alfaia|ajuar (utillaje)||S|cas|C2
+mester|menester (oficio)||S|lav|C2
+haver por bem|tener a bien||L|ist|C2
+quando muito|a lo sumo||L|ast|C2
+porventura|por ventura (acaso)||D|cmu|C2
+outrossim|asimismo (igualmente)||D|cnn|C2
+tão-somente|tan solo (solamente)||D|cnn|C2
+entrementes|entretanto (mientras tanto)||D|tmp|C2
+frol|flor (arcaico literario)||S|let|C2
+mancebo|mancebo (joven)||S|pro|C2
+donzela|doncella||S|let|C2
+fidalgo|hidalgo||S|ist|C2
+vassalo|vasallo||S|ist|C2
+regalia|regalía (privilegio)||S|ist|C2
+botica|botica (farmacia antigua)||S|sla|C2
+boticário|boticario||S|pro|C2
+letrado|letrado (jurista)||S|pro|C2
+almotacé|almotacén (alguacil de medidas)||S|ist|C2
+escanção|escanciador (sumiller)||S|ris|C2
+aio|ayo||S|pro|C2
+aia|aya||S|pro|C2
+pendão|pendón (estandarte)||S|ist|C2
+arauto|heraldo (mensajero)||S|cmu|C2
+menestrel|juglar (músico errante)||S|mus|C2
+trovador|trovador||S|mus|C2
+meirinho|alguacil (oficial judicial)||S|ist|C2
+corregedor|corregidor||S|ist|C2
+clausura|clausura (reclusión monástica)||S|ist|C2
+voto de silêncio|voto de silencio||S|ist|C2
+benesse|prebenda (ventaja)||S|fin|C2
+desembargador|oidor (magistrado)||S|ist|C2
+prosápia|prosapia (linaje)||S|fam|C2
+alcaide|alcaide (gobernador de fortaleza)||S|ist|C2
+por conseguinte|por consiguiente||L|cnn|C2
+porquanto|por cuanto (ya que)||C|cnn|C2
+não raro|no pocas veces (a menudo)||L|cnn|C2
