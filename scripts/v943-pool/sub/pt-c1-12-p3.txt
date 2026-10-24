@@ -1,0 +1,260 @@
+anamnese|anamnesis||S|sla|C1
+remissão|remisión||S|sla|C1
+recaída|recaída||S|sla|C1
+recidiva|recidiva||S|sla|C1
+eutimia|eutimia||S|sla|C1
+distimia|distimia||S|sla|C1
+anedonia|anhedonia||S|sla|C1
+disforia|disforia||S|sla|C1
+alexitimia|alexitimia||S|sla|C1
+ruminação|rumiación||S|sla|C1
+catarse|catarsis||S|sla|C1
+contratransferência|contratransferencia||S|sla|C1
+mecanismo de defesa|mecanismo de defensa||E|sla|C1
+sublimação|sublimación||S|sla|C1
+dissociação|disociación||S|sla|C1
+somatização|somatización||S|sla|C1
+psicossomático|psicosomático||A|sla|C1
+psicofármaco|psicofármaco||S|sla|C1
+ansiolítico|ansiolítico||S|sla|C1
+posologia|posología||S|sla|C1
+efeitos adversos|efectos adversos||E|sla|C1
+iatrogenia|iatrogenia||S|sla|C1
+adesão à terapia|cumplimiento terapéutico||E|sla|C1
+mitigar|mitigar||V|sla|C1
+exacerbar|exacerbar||V|sla|C1
+inquietação|inquietud||S|emo|C1
+luto|duelo||S|emo|C1
+esgotamento profissional|desgaste profesional||E|lav|C1
+síndrome|síndrome||S|sla|C1
+estigmatizar|estigmatizar||V|sla|C1
+letargia|letargia||S|sla|C1
+sonambulismo|sonambulismo||S|sla|C1
+libertinagem|libertinaje||S|ast|C1
+concupiscência|concupiscencia||S|ast|C1
+avareza|avaricia||S|ast|C1
+sovinice|tacañería||S|ast|C1
+pródigo|pródigo||A|ast|C1
+prodigalidade|prodigalidad||S|ast|C1
+esbanjador|derrochador||A|ast|C1
+dilapidar|dilapidar||V|fin|C1
+parcimónia|parquedad||S|ast|C1
+parco|parco||A|ast|C1
+temperança|templanza||S|ast|C1
+malevolência|malevolencia||S|ast|C1
+longanimidade|longanimidad||S|ast|C1
+mansidão|mansedumbre||S|ast|C1
+fatuidade|fatuidad||S|ast|C1
+jactância|jactancia||S|cmu|C1
+fanfarronice|fanfarronería||S|cmu|C1
+desfaçatez|desfachatez||S|ast|C1
+bravata|bravuconada||S|cmu|C1
+bravio|indómito (salvaje)||A|ani|C1
+ociosidade|ociosidad||S|ast|C1
+presteza|presteza||S|ast|C1
+louvor|alabanza||S|rel|C1
+encómio|encomio||S|cmu|C1
+execrar|execrar||V|cmu|C1
+excomungar|excomulgar||V|rel|C1
+anátema|anatema||S|rel|C1
+depravação|depravación||S|ast|C1
+pecúlio|peculio||S|fin|C1
+prevaricação|prevaricación||S|ist|C1
+venal|venal||A|ast|C1
+abjeto|abyecto||A|ast|C1
+torpe|torpe||A|ast|C1
+empreendedorismo|emprendimiento||S|lav|C1
+escalabilidade|escalabilidad||S|tec|C1
+validação de mercado|validación de mercado||E|fin|C1
+produto mínimo viável|producto mínimo viable||E|tec|C1
+ronda de financiamento|ronda de financiación||E|fin|C1
+capital de risco|capital riesgo||E|fin|C1
+capital semente|capital semilla||E|fin|C1
+investidor-anjo|inversor ángel||S|fin|C1
+incubadora de empresas|incubadora de empresas||E|lav|C1
+aceleradora|aceleradora (de empresas emergentes)||S|lav|C1
+prototipagem|prototipado||S|tec|C1
+iteração|iteración||S|tec|C1
+pivotar|pivotar (cambiar de modelo)||V|fin|C1
+disrupção|disrupción||S|tec|C1
+tração|tracción (empuje en el mercado)||S|fin|C1
+vantagem competitiva|ventaja competitiva||E|fin|C1
+proposta de valor|propuesta de valor||E|fin|C1
+modelo de negócio|modelo de negocio||E|fin|C1
+fluxo de caixa|flujo de caja||E|fin|C1
+ponto de equilíbrio|punto de equilibrio||E|fin|C1
+autofinanciamento|autofinanciación||S|fin|C1
+tesouraria|tesorería||S|fin|C1
+risco calculado|riesgo calculado||E|fin|C1
+perspicácia|perspicacia||S|ast|C1
+tino|tino (buen juicio)||S|ast|C1
+discernimento|discernimiento||S|ast|C1
+previdência|previsión||S|fin|C1
+antever|antever||V|ast|C1
+insolvência|insolvencia||S|fin|C1
+rentabilizar|rentabilizar||V|fin|C1
+alavancar|apalancar||V|fin|C1
+lastrear|respaldar||V|fin|C1
+cadeia de abastecimento|cadena de suministro||E|tra|C1
+armazenagem|almacenaje||S|tra|C1
+estiva|estiba||S|tra|C1
+estivador|estibador||S|pro|C1
+paletização|paletización||S|tra|C1
+contentorização|containerización||S|tra|C1
+empilhador|carretilla elevadora||S|tra|C1
+transbordo|transbordo||S|tra|C1
+expedidor|expedidor||S|pro|C1
+consignatário|consignatario||S|fin|C1
+rastreabilidade|trazabilidad||S|tec|C1
+ruptura de stock|rotura de existencias||E|fin|C1
+rotação de stocks|rotación de existencias||E|fin|C1
+última milha|última milla||E|tra|C1
+manuseamento|manejo (manipulación de mercancías)||S|tra|C1
+sinistro|siniestro||S|fin|C1
+porta-contentores|portacontenedores||S|tra|C1
+graneleiro|granelero||S|tra|C1
+carga a granel|carga a granel||E|tra|C1
+cadeia de frio|cadena de frío||E|ali|C1
+plataforma logística|plataforma logística||E|tra|C1
+entreposto|depósito franco (de aduanas)||S|fin|C1
+despachante|agente de aduanas||S|pro|C1
+desalfandegamento|despacho de aduanas||S|fin|C1
+pauta aduaneira|arancel aduanero||E|fin|C1
+unitização|unitización||S|tra|C1
+consolidação de cargas|consolidación de carga||E|tra|C1
+melhoria contínua|mejora continua||E|lav|C1
+gargalo|cuello de botella||S|lav|C1
+previsão de vendas|previsión de ventas||E|fin|C1
+sazonalidade|estacionalidad||S|fin|C1
+cadência de produção|cadencia de producción||E|lav|C1
+postergar|posponer||V|lav|C1
+fidelização|fidelización||S|cmp|C1
+retenção de clientes|retención de clientes||E|fin|C1
+angariação|captación (de clientes)||S|fin|C1
+taxa de abandono|tasa de abandono||E|tec|C1
+funil de vendas|embudo de ventas||E|fin|C1
+segmentação|segmentación||S|fin|C1
+nicho de mercado|nicho de mercado||E|fin|C1
+público-alvo|público objetivo||S|fin|C1
+posicionamento|posicionamiento||S|fin|C1
+reposicionamento|reposicionamiento||S|fin|C1
+notoriedade|notoriedad (de marca)||S|fin|C1
+reconhecimento de marca|reconocimiento de marca||E|fin|C1
+imagem de marca|imagen de marca||E|fin|C1
+padrão de consumo|pauta de consumo||E|fin|C1
+comportamento do consumidor|comportamiento del consumidor||E|fin|C1
+compra por impulso|compra por impulso||E|cmp|C1
+carrinho abandonado|carrito abandonado||E|tec|C1
+painel de consumidores|panel de consumidores||E|fin|C1
+assessoria de imprensa|asesoría de prensa||E|cmu|C1
+mecenato|mecenazgo||S|art|C1
+mecenas|mecenas||S|pro|C1
+endossamento|aval publicitario||S|fin|C1
+amostragem|muestreo||S|fin|C1
+retalho|venta al por menor||S|cmp|C1
+grossista|mayorista||S|pro|C1
+margem de lucro|margen de beneficio||E|fin|C1
+custo de aquisição|coste de adquisición||E|fin|C1
+programa de pontos|programa de puntos||E|cmp|C1
+publicidade enganosa|publicidad engañosa||E|fin|C1
+taxa de retenção|tasa de retención||E|fin|C1
+cartão de fidelização|tarjeta de fidelización||E|cmp|C1
+oferta relâmpago|oferta flash||E|cmp|C1
+certificação de produto|certificación de producto||E|tec|C1
+conformidade|conformidad||S|ist|C1
+norma técnica|norma técnica||E|tec|C1
+normalização|normalización||S|tec|C1
+acreditação|acreditación||S|ist|C1
+homologação|homologación||S|ist|C1
+auditoria de qualidade|auditoría de calidad||E|lav|C1
+gestão da qualidade|gestión de la calidad||E|lav|C1
+indicador de desempenho|indicador de rendimiento||E|lav|C1
+não conformidade|no conformidad||E|tec|C1
+calibração|calibración||S|tec|C1
+tolerância dimensional|tolerancia dimensional||E|tec|C1
+folga|huelgo (juego mecánico)||S|tec|C1
+padronização|estandarización||S|tec|C1
+boas práticas|buenas prácticas||E|lav|C1
+diretiva|directiva||S|ist|C1
+regulamentação|reglamentación||S|ist|C1
+auditor|auditor||S|pro|C1
+vício de fabrico|defecto de fabricación||E|tec|C1
+retrabalho|reproceso||S|lav|C1
+exequibilidade|viabilidad de ejecución||S|ist|C1
+incumprimento|incumplimiento||S|ist|C1
+rotulagem|etiquetado||S|cmp|C1
+rotulagem ecológica|etiquetado ecológico||E|nat|C1
+quociente|cociente||S|sci|C1
+metrologia|metrología||S|tec|C1
+ensaio não destrutivo|ensayo no destructivo||E|tec|C1
+controlo dimensional|control dimensional||E|tec|C1
+instrução de trabalho|instrucción de trabajo||E|lav|C1
+certificação ambiental|certificación ambiental||E|nat|C1
+ação corretiva|acción correctora||E|lav|C1
+manual de procedimentos|manual de procedimientos||E|lav|C1
+plano de controlo|plan de control||E|tec|C1
+arguido|imputado (procesado)||S|ist|C1
+réu|reo||S|ist|C1
+despacho|auto judicial||S|ist|C1
+intimação|requerimiento (emplazamiento)||S|ist|C1
+escritura|escritura pública||S|ist|C1
+mandatário|mandatario||S|ist|C1
+outorgante|otorgante||S|ist|C1
+caução|fianza (caución)||S|fin|C1
+penhora|embargo (de bienes)||S|ist|C1
+execução fiscal|ejecución tributaria||E|ist|C1
+litígio|litigio||S|ist|C1
+contencioso|contencioso||S|ist|C1
+jurisprudência|jurisprudencia||S|ist|C1
+prazo de prescrição|plazo de prescripción||E|ist|C1
+impugnação|impugnación||S|ist|C1
+recurso de apelação|recurso de apelación||E|ist|C1
+acórdão|sentencia de tribunal colegiado||S|ist|C1
+agravante|agravante||S|ist|C1
+atenuante|atenuante||S|ist|C1
+eximente|eximente||S|ist|C1
+coação|coacción||S|ist|C1
+dolo|dolo||S|ist|C1
+culposo|culposo||A|ist|C1
+contravenção|contravención||S|ist|C1
+exculpatório|exculpatorio||A|ist|C1
+ilicitude|ilicitud||S|ist|C1
+usucapião|usucapión||S|ist|C1
+usufruto|usufructo||S|ist|C1
+tutela|tutela||S|ist|C1
+curatela|curatela||S|ist|C1
+testamenteiro|albacea||S|ist|C1
+magistrado|magistrado||S|pro|C1
+etiologia|etiología||S|sla|C1
+patogenia|patogenia||S|sla|C1
+fisiopatologia|fisiopatología||S|sla|C1
+semiologia|semiología||S|sla|C1
+sintomatologia|sintomatología||S|sla|C1
+comorbidade|comorbilidad||S|sla|C1
+morbimortalidade|morbimortalidad||S|sla|C1
+letalidade|letalidad||S|sla|C1
+prevalência|prevalencia||S|sla|C1
+metástase|metástasis||S|sla|C1
+neoplasia|neoplasia||S|sla|C1
+punção|punción||S|sla|C1
+laparoscopia|laparoscopia||S|sla|C1
+sedação|sedación||S|sla|C1
+intubação|intubación||S|sla|C1
+cuidados intensivos|cuidados intensivos||E|sla|C1
+reanimação|reanimación||S|sla|C1
+desfibrilhação|desfibrilación||S|sla|C1
+cateterismo|cateterismo||S|sla|C1
+enxerto|injerto||S|sla|C1
+recetor|receptor||S|sla|C1
+medicamento genérico|medicamento genérico||E|sla|C1
+princípio ativo|principio activo||E|sla|C1
+antissépsia|antisepsia||S|sla|C1
+sépsis|sepsis||S|sla|C1
+antibiograma|antibiograma||S|sla|C1
+resistência antimicrobiana|resistencia antimicrobiana||E|sla|C1
+estirpe|cepa (estirpe bacteriana)||S|sci|C1
+incubação|incubación||S|sla|C1
+endoscopia|endoscopia||S|sla|C1
+penso rápido|tirita||E|sla|C1
+eritema|eritema||S|sla|C1
+imunossupressor|inmunosupresor||S|sla|C1

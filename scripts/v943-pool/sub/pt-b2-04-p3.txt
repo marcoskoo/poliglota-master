@@ -1,0 +1,283 @@
+bem-estar|bienestar||S|sla|B2
+saúde mental|salud mental||L|sla|B2
+treino|entrenamiento||S|spt|B2
+treinador|entrenador||S|spt|B2
+aquecimento|calentamiento||S|spt|B2
+alongamento|estiramiento||S|spt|B2
+flexibilidade|flexibilidad||S|spt|B2
+resistência|resistencia||S|spt|B2
+musculação|musculación||S|spt|B2
+exercício físico|ejercicio físico||L|spt|B2
+competição|competición||S|spt|B2
+competir|competir||V|spt|B2
+caminhada|caminata||S|spt|B2
+patinagem|patinaje||S|spt|B2
+natação|natación||S|spt|B2
+ioga|yoga||S|spt|B2
+meditar|meditar||V|emo|B2
+meditação|meditación||S|emo|B2
+relaxamento|relajación||S|emo|B2
+relaxar|relajar||V|emo|B2
+autoestima|autoestima||S|emo|B2
+motivação|motivación||S|emo|B2
+psicólogo|psicólogo||S|pro|B2
+terapia|terapia||S|sla|B2
+vitalidade|vitalidad||S|sla|B2
+lesão|lesión||S|spt|B2
+lesionar-se|lesionarse||V|spt|B2
+fisioterapia|fisioterapia||S|sla|B2
+fisioterapeuta|fisioterapeuta||S|pro|B2
+higiene do sono|higiene del sueño||L|sla|B2
+desafio|desafío||S|spt|B2
+superação|superación||S|spt|B2
+procura de emprego|búsqueda de empleo||L|lav|B2
+candidato|candidato||S|lav|B2
+candidatura|candidatura (solicitud)||S|lav|B2
+currículo|currículum||S|lav|B2
+carta de motivação|carta de motivación||L|lav|B2
+recomendação|recomendación (aval)||S|lav|B2
+experiência profissional|experiencia profesional||L|lav|B2
+habilitações|titulación (estudios)||S|stu|B2
+habilitações literárias|nivel de estudios||L|stu|B2
+competências|competencias (aptitudes)||S|lav|B2
+habilidade|habilidad||S|lav|B2
+qualificação|cualificación||S|lav|B2
+perfil|perfil||S|lav|B2
+vaga|vacante||S|lav|B2
+oferta de emprego|oferta de empleo||L|lav|B2
+recrutamento|reclutamiento||S|lav|B2
+recrutar|reclutar||V|lav|B2
+mercado de trabalho|mercado laboral||L|lav|B2
+desempregado|desempleado||S|lav|B2
+desemprego|desempleo (paro)||S|lav|B2
+estágio|prácticas||S|lav|B2
+estagiário|practicante||S|lav|B2
+rede de contactos|red de contactos||L|lav|B2
+referências|referencias||S|lav|B2
+formação profissional|formación profesional||L|lav|B2
+aptidão|aptitud||S|lav|B2
+apto|apto||A|lav|B2
+atualizar|actualizar||V|tec|B2
+recolocação|recolocación||S|lav|B2
+remuneração|remuneración||S|lav|B2
+vencimento|sueldo (salario)||S|fin|B2
+entrevista|entrevista||S|lav|B2
+videochamada|videollamada||S|tec|B2
+entrevistador|entrevistador||S|lav|B2
+contratar|contratar||V|lav|B2
+admissão|admisión||S|lav|B2
+período experimental|período de prueba||L|lav|B2
+vínculo|vínculo||S|lav|B2
+expetativas salariais|pretensiones salariales||L|lav|B2
+demonstrar|demostrar||V|lav|B2
+pontualidade|puntualidad||S|lav|B2
+apresentação|presentación||S|lav|B2
+apresentar-se|presentarse||V|lav|B2
+código de vestuário|código de vestimenta||L|lav|B2
+linguagem corporal|lenguaje corporal||L|cor|B2
+contacto visual|contacto visual||L|cmu|B2
+escuta ativa|escucha activa||L|cmu|B2
+pontos fortes|puntos fuertes||L|lav|B2
+pontos fracos|puntos débiles||L|lav|B2
+disponibilidade|disponibilidad||S|lav|B2
+mudança de residência|cambio de residencia||L|lav|B2
+jornada de trabalho|jornada laboral||L|lav|B2
+horário flexível|horario flexible||L|lav|B2
+teletrabalho|teletrabajo||S|lav|B2
+ajudas de custo|ayudas de coste (dietas)||L|fin|B2
+ordenado|sueldo (en Portugal)||S|fin|B2
+processo de seleção|proceso de selección||L|lav|B2
+seleção|selección||S|lav|B2
+primeira impressão|primera impresión||L|lav|B2
+aperto de mão|apretón de manos||L|lav|B2
+tom de voz|tono de voz||L|cmu|B2
+postura|postura||S|cor|B2
+carreira|carrera||S|lav|B2
+ascensão|ascenso||S|lav|B2
+ascender|ascender||V|lav|B2
+despedimento|despido||S|lav|B2
+despedimento coletivo|despido colectivo||L|lav|B2
+rescisão|rescisión||S|lav|B2
+justa causa|justa causa||L|lav|B2
+cessação|cese||S|lav|B2
+pré-aviso|preaviso||S|lav|B2
+aposentação|jubilación||S|lav|B2
+aposentar-se|jubilarse||V|lav|B2
+mérito|mérito||S|lav|B2
+avaliação de desempenho|evaluación del desempeño||L|lav|B2
+desempenho|desempeño (rendimiento)||S|lav|B2
+metas|objetivos (metas)||S|lav|B2
+ambição|ambición||S|lav|B2
+ambicioso|ambicioso||A|lav|B2
+estagnação|estancamiento||S|lav|B2
+estagnar|estancarse||V|lav|B2
+teto de vidro|techo de cristal||L|lav|B2
+aumento salarial|aumento salarial||L|lav|B2
+bónus|bonus||S|fin|B2
+comissões|comisiones||S|fin|B2
+incentivo|incentivo||S|lav|B2
+demissão|renuncia||S|lav|B2
+progressão|progresión||S|lav|B2
+progredir|progresar||V|lav|B2
+excedência|excedencia||S|lav|B2
+responsabilidades|responsabilidades||S|lav|B2
+transição de carreira|transición profesional||L|lav|B2
+realização pessoal|realización personal||L|lav|B2
+funções|funciones (tareas)||S|lav|B2
+reunião|reunión||S|lav|B2
+agendar|agendar||V|lav|B2
+convocatória|convocatoria||S|cmu|B2
+convocar|convocar||V|cmu|B2
+ata|acta||S|lav|B2
+ordem do dia|orden del día||L|lav|B2
+deliberação|deliberación||S|lav|B2
+deliberar|deliberar||V|lav|B2
+consenso|consenso||S|lav|B2
+votação|votación||S|lav|B2
+decisão|decisión||S|lav|B2
+tomada de decisão|toma de decisiones||L|lav|B2
+chuva de ideias|lluvia de ideas||L|lav|B2
+partilha de opiniões|intercambio de opiniones||L|cmu|B2
+equipa|equipo||S|lav|B2
+espírito de equipa|espíritu de equipo||L|lav|B2
+colaborador|compañero de trabajo||S|lav|B2
+delegar|delegar||V|lav|B2
+delegação|delegación||S|lav|B2
+coordenar|coordinar||V|lav|B2
+coordenação|coordinación||S|lav|B2
+líder|líder||S|lav|B2
+liderança|liderazgo||S|lav|B2
+subordinado|subordinado||S|lav|B2
+impasse|punto muerto||S|ast|B2
+adiamento|aplazamiento||S|lav|B2
+fecho|cierre||S|lav|B2
+acompanhamento|seguimiento||S|lav|B2
+intervenção|intervención||S|cmu|B2
+intervir|intervenir||V|cmu|B2
+videoconferência|videoconferencia||S|tec|B2
+sindicato|sindicato||S|lav|B2
+sindical|sindical||A|lav|B2
+manifestação|manifestación||S|cit|B2
+manifestar-se|manifestarse||V|cit|B2
+protesto|protesta||S|cit|B2
+protestar|protestar||V|cit|B2
+reivindicação|reivindicación||S|lav|B2
+reivindicar|reivindicar||V|lav|B2
+convenção coletiva|convenio colectivo||L|lav|B2
+acordo coletivo|acuerdo colectivo||L|lav|B2
+trabalhador|trabajador||S|lav|B2
+empregador|empleador||S|lav|B2
+patronal|patronal||S|lav|B2
+direitos laborais|derechos laborales||L|lav|B2
+direito do trabalho|derecho laboral||L|lav|B2
+inspeção do trabalho|inspección de trabajo||L|ist|B2
+tribunal de trabalho|juzgado de lo social||L|ist|B2
+piquete|piquete (de huelga)||S|lav|B2
+horas extraordinárias|horas extraordinarias||L|lav|B2
+retribuição mínima|salario mínimo||L|lav|B2
+subsídio de férias|paga extra de vacaciones||L|lav|B2
+licença parental|permiso parental||L|lav|B2
+licença de maternidade|permiso de maternidad||L|lav|B2
+segurança social|seguridad social||L|ist|B2
+contribuições|cotizaciones||S|fin|B2
+exploração|explotación (laboral)||S|lav|B2
+assédio|acoso||S|lav|B2
+assédio sexual|acoso sexual||L|lav|B2
+discriminação|discriminación||S|lav|B2
+igualdade de oportunidades|igualdad de oportunidades||L|lav|B2
+conciliação|conciliación (laboral y familiar)||S|lav|B2
+trabalhador-estudante|trabajador estudiante||L|lav|B2
+prova|examen (prueba)||S|stu|B2
+época de exames|período de exámenes||L|stu|B2
+teste|test||S|stu|B2
+frequência|examen (evaluación continua)||S|stu|B2
+inscrição|inscripción||S|stu|B2
+inscrever-se|inscribirse||V|stu|B2
+bacharelato|bachillerato||S|stu|B2
+ensino secundário|educación secundaria||L|stu|B2
+classificação|calificación||S|stu|B2
+média|nota media||S|stu|B2
+aprovação|aprobación||S|stu|B2
+aprovar|aprobar||V|stu|B2
+chumbar|suspender (un examen)||V|stu|B2
+certificação|certificación||S|stu|B2
+certificado|certificado||S|stu|B2
+equivalência|equivalencia||S|stu|B2
+reconhecimento|reconocimiento (de títulos)||S|stu|B2
+curso profissional|ciclo formativo||L|stu|B2
+correção|corrección||S|stu|B2
+corrigir|corregir||V|stu|B2
+folha de respostas|hoja de respuestas||L|stu|B2
+recurso|revisión (de examen)||S|stu|B2
+arguição|defensa oral||S|stu|B2
+proficiência|competencia (dominio)||S|stu|B2
+domínio da língua|dominio de la lengua||L|stu|B2
+quadrimestre|cuatrimestre||S|tmp|B2
+ano letivo|año escolar||L|stu|B2
+perguntas de desenvolvimento|preguntas de desarrollo||L|stu|B2
+escolha múltipla|opción múltiple||L|stu|B2
+resolução|resolución (de problemas)||S|stu|B2
+módulo|módulo||S|stu|B2
+bolsa de estudo|beca de estudios||L|stu|B2
+bolseiro|becario||S|stu|B2
+faculdade|facultad||S|stu|B2
+campus|campus||S|stu|B2
+reitor|rector||S|pro|B2
+caloiro|novato (estudiante de primer año)||S|stu|B2
+praxe|iniciación universitaria||S|stu|B2
+cantina|comedor universitario||S|stu|B2
+residência universitária|residencia universitaria||L|stu|B2
+propinas|tasas universitarias||S|fin|B2
+créditos|créditos (de asignaturas)||S|stu|B2
+cadeira|asignatura||S|stu|B2
+optativa|optativa||S|stu|B2
+obrigatória|obligatoria||A|stu|B2
+faltas|faltas (de asistencia)||S|stu|B2
+assiduidade|asiduidad||S|stu|B2
+presencial|presencial||A|stu|B2
+seminário|seminario||S|stu|B2
+palestra|charla||S|stu|B2
+tutoria|tutoría||S|stu|B2
+orientador|director de tesis||S|pro|B2
+tese|tesis||S|stu|B2
+dissertação|tesina||S|stu|B2
+mestrado|máster||S|stu|B2
+doutoramento|doctorado||S|stu|B2
+pós-graduação|posgrado||S|stu|B2
+licenciatura|grado (carrera)||S|stu|B2
+intercâmbio|intercambio||S|stu|B2
+vida académica|vida académica||L|stu|B2
+académico|académico||A|stu|B2
+tuna|tuna universitaria||S|mus|B2
+politécnico|politénico (centro de formación superior)||S|stu|B2
+método de estudo|método de estudio||L|stu|B2
+resumo|resumen||S|stu|B2
+apontamentos|apuntes||S|stu|B2
+apontar|apuntar (tomar notas)||V|stu|B2
+sublinhar|subrayar||V|stu|B2
+destacar|destacar (lo importante)||V|stu|B2
+reler|releer||V|stu|B2
+revisão|repaso (revisión)||S|stu|B2
+revisar|repasar||V|stu|B2
+dedicação|dedicación||S|lav|B2
+dedicar|dedicar||V|lav|B2
+concentração|concentración||S|emo|B2
+concentrar-se|concentrarse||V|emo|B2
+distração|distracción||S|emo|B2
+distrair-se|distraerse||V|emo|B2
+procrastinação|procrastinación||S|stu|B2
+procrastinar|procrastinar||V|stu|B2
+gerir o tempo|gestionar el tiempo||L|stu|B2
+planear|planificar||V|stu|B2
+planeamento|planificación||S|stu|B2
+mnemónica|regla mnemotécnica||S|stu|B2
+mapa mental|mapa mental||L|stu|B2
+mapa de conceitos|mapa conceptual||L|stu|B2
+exposição|exposición (presentación)||S|stu|B2
+aprofundar|profundizar||V|stu|B2
+autodidata|autodidacta||S|stu|B2
+ensino online|enseñanza online||L|stu|B2
+rotina|rutina||S|tmp|B2
+compreensão|comprensión||S|stu|B2
+consolidação|consolidación||S|stu|B2
+conteúdos|contenidos||S|stu|B2

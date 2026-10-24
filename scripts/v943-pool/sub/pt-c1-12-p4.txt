@@ -1,0 +1,257 @@
+betão armado|hormigón armado||E|tec|C1
+cofragem|encefrado (cimbra)||S|tec|C1
+sapata|zapata (de cimentación)||S|tec|C1
+terraplanagem|movimiento de tierras||S|tec|C1
+compactação|compactación||S|tec|C1
+pavimentação|pavimentación||S|tec|C1
+betuminoso|betuminoso||A|tec|C1
+subestação|subestación||S|tec|C1
+cablagem|cableado||S|tec|C1
+disjuntor|disyuntor||S|tec|C1
+binário de aperto|par de apriete||E|tec|C1
+rebite|remache||S|tec|C1
+rolamento|rodamiento||S|tec|C1
+estanqueidade|estanqueidad||S|tec|C1
+junta de dilatação|junta de dilatación||E|tec|C1
+fresadora|fresadora||S|tec|C1
+maquinação|mecanizado (de peças)||S|tec|C1
+treliça|celosía (armadura)||S|tec|C1
+tirante|tirante (tensor)||S|tec|C1
+andaime|andamio||S|tec|C1
+dissipador térmico|disipador térmico||E|tec|C1
+tensão de rutura|tensión de rotura||E|tec|C1
+ductilidade|ductilidad||S|tec|C1
+fragilizar|fragilizar||V|tec|C1
+maleabilidade|maleabilidad||S|tec|C1
+tenacidade|tenacidad||S|tec|C1
+ensaio de tração|ensayo de tracción||E|tec|C1
+torção|torsión||S|tec|C1
+esbeltez|esbeltez (de columna)||S|tec|C1
+desenho de investigação|diseño de investigación||E|stu|C1
+revisão bibliográfica|revisión bibliográfica||E|stu|C1
+estado da arte|estado de la cuestión||E|stu|C1
+revisão por pares|revisión por pares||E|stu|C1
+fator de impacto|factor de impacto||E|stu|C1
+referência bibliográfica|referencia bibliográfica||E|stu|C1
+nota de rodapé|nota al pie||E|stu|C1
+índice remissivo|índice de materias||E|let|C1
+errata|errata||S|let|C1
+adenda|adenda||S|let|C1
+tiragem|tirada||S|let|C1
+coletânea|recopilación (antología)||S|let|C1
+miscelânea|miscelánea||S|let|C1
+compêndio|compendio||S|let|C1
+monografia|monografía||S|stu|C1
+defesa de tese|defensa de tesis||E|stu|C1
+orientando|doctorando||S|stu|C1
+habilitações|titulación académica||S|stu|C1
+provimento|provisión de plazas||S|ist|C1
+bolseiro|becario||S|stu|C1
+bolsa de investigação|beca de investigación||E|stu|C1
+bibliometria|bibliometría||S|stu|C1
+reprodutibilidade|reproducibilidad||S|sci|C1
+enviesamento|sesgo (parcialidad)||S|sci|C1
+grupo de controlo|grupo de control||E|sci|C1
+variável independente|variable independiente||E|sci|C1
+causalidade|causalidad||S|sci|C1
+espúrio|espurio||A|sci|C1
+entrevista semiestruturada|entrevista semiestructurada||E|sci|C1
+antiquário|anticuario||S|pro|C1
+leiloeiro|subastador||S|pro|C1
+lance|puja (postura)||S|fin|C1
+licitante|postor||S|fin|C1
+arrematar|adjudicarse en subasta||V|fin|C1
+adjudicação|adjudicación||S|ist|C1
+peritagem|peritaje||S|ist|C1
+pechincha|chollo||S|cmp|C1
+pechinchar|regatear||V|cmp|C1
+contrafação|falsificación (piratería)||S|ist|C1
+apócrifo|apócrifo||A|let|C1
+escambo|trueque||S|fin|C1
+penhor|empeño||S|fin|C1
+curadoria|comisariado (de exposición)||S|art|C1
+pátina|pátina||S|art|C1
+craquelado|craquelado||S|art|C1
+douramento|dorado||S|art|C1
+filigrana|filigrana||S|art|C1
+faiança|fayenza (loza)||S|art|C1
+incrustação|incrustación||S|art|C1
+marchetaria|marquetería||S|art|C1
+orfebre|orfebre||S|pro|C1
+numismática|numismática||S|sci|C1
+filatelia|filatelia||S|sve|C1
+colecionismo|coleccionismo||S|sve|C1
+bibliófilo|bibliófilo||S|pro|C1
+incunábulo|incunable||S|let|C1
+lombada|lomo (del libro)||S|let|C1
+requinte|refinamiento||S|ris|C1
+ementa|carta (de restaurante)||S|ris|C1
+carta de vinhos|carta de vinos||E|ris|C1
+menu degustação|menú degustación||E|ris|C1
+prova de vinhos|cata de vinos||E|ris|C1
+escanção|sumiller||S|pro|C1
+cozinha de autor|cocina de autor||E|ris|C1
+cozinha molecular|cocina molecular||E|ris|C1
+macerar|macerar||V|ali|C1
+emulsificar|emulsionar||V|ali|C1
+desfiar|deshebrar||V|ali|C1
+estufar|estofar (guisar)||V|ali|C1
+panar|empanar||V|ali|C1
+alourar|dorar||V|ali|C1
+caramelizar|caramelizar||V|ali|C1
+flambar|flambear||V|ali|C1
+gratinar|gratinar||V|ali|C1
+espessar|espesar||V|ali|C1
+geleificar|gelificar||V|ali|C1
+estaladiço|crujiente||A|ali|C1
+aveludado|aterciopelado||A|ali|C1
+untuoso|untuoso||A|ali|C1
+glutão|glotón||S|ali|C1
+gulodice|gula (golosina)||S|ali|C1
+empratamento|emplatado||S|ris|C1
+crítica gastronómica|crítica gastronómica||E|ris|C1
+miudezas|menudillos||S|ali|C1
+moelas|mollejas||S|ali|C1
+dobradas|callos||S|ali|C1
+descortesia|descortesía||S|cmu|C1
+afabilidade|afabilidad||S|cmu|C1
+condescendência|condescendencia||S|cmu|C1
+solícito|solícito||A|cmu|C1
+solicitude|solicitud (deferencia)||S|cmu|C1
+deferência|deferencia||S|cmu|C1
+obsequiar|obsequiar (agasajar)||V|cmu|C1
+lisonja|lisonja||S|cmu|C1
+rixa|riña||S|rel|C1
+querela|querella||S|ist|C1
+contenda|contienda||S|rel|C1
+dissídio|conflicto colectivo laboral||S|ist|C1
+reaproximação|reaproximación||S|rel|C1
+arbitragem|arbitraje||S|ist|C1
+conluio|concierto ilícito||S|ast|C1
+confabulação|conspiración (confabulación)||S|ast|C1
+conivência|connivencia||S|ast|C1
+cumplicidade|complicidad||S|rel|C1
+colusão|colusión||S|ist|C1
+coligação|coalición||S|ist|C1
+concertação|concertación||S|ist|C1
+conchavo|acuerdo ilícito||S|ast|C1
+galanteio|galanteo||S|rel|C1
+cavalheiresco|caballeroso||A|ast|C1
+afronta|afrenta||S|cmu|C1
+escárnio|escarnio (burla)||S|cmu|C1
+chalaça|pulla||S|cmu|C1
+motejo|mote (burla)||S|cmu|C1
+fadiga|fatiga (cansancio)||S|cor|C1
+fôlego|aliento||S|cor|C1
+ofegante|jadeante||A|cor|C1
+arquejar|jadear||V|cor|C1
+taquicardia|taquicardia||S|sla|C1
+pulsómetro|pulsómetro||S|spt|C1
+frequência cardíaca|frecuencia cardíaca||E|spt|C1
+limiar de lactato|umbral de lactato||E|spt|C1
+anaeróbio|anaeróbico||A|spt|C1
+hipoxia|hipoxia||S|sci|C1
+catabolismo|catabolismo||S|sci|C1
+anabolismo|anabolismo||S|sci|C1
+sobrecarregar|sobrecargar||V|cor|C1
+sobretreino|sobreentrenamiento||S|spt|C1
+distensão muscular|distensión muscular||E|cor|C1
+contratura|contractura||S|cor|C1
+alongamento|estiramiento||S|spt|C1
+propriocepção|propiocepción||S|sci|C1
+hipertrofia|hipertrofia||S|cor|C1
+atrofia|atrofia||S|cor|C1
+tonificação|tonificación||S|spt|C1
+índice de massa corporal|índice de masa corporal||E|cor|C1
+eletrólito|electrolito||S|sci|C1
+dopagem|dopaje||S|spt|C1
+suplementação|suplementación||S|sla|C1
+saturação de oxigénio|saturación de oxígeno||E|sla|C1
+glucogénio|glucógeno||S|sci|C1
+perseverança|perseverancia||S|ast|C1
+assiduidade|asiduidad||S|ast|C1
+equino|equino||A|ani|C1
+equídeo|équido||S|ani|C1
+montaria|montura||S|ani|C1
+ginete|jinete||S|spt|C1
+bridão|bridón||S|ani|C1
+cilha|cincha||S|ani|C1
+cabresto|cabestro||S|ani|C1
+doma|doma||S|ani|C1
+cernelha|cruz (del caballo)||S|ani|C1
+ferrador|herrador||S|pro|C1
+poldro|potro||S|ani|C1
+garanhão|semental||S|ani|C1
+cobrição|cubrición||S|ani|C1
+canil|perrera (criadero de perros)||S|ani|C1
+trela|correa||S|ani|C1
+ganir|gañir||V|ani|C1
+pedigree|pedigrí||S|ani|C1
+linhagem|linaje||S|ani|C1
+raça pura|raza pura||E|ani|C1
+cruzamento|cruce (mestizaje)||S|ani|C1
+mestiçagem|mestizaje||S|ani|C1
+atavismo|atavismo||S|sci|C1
+picadeiro|picadero||S|spt|C1
+alazão|alazán||A|ani|C1
+ruão|ruano||A|ani|C1
+pelagem|pelaje||S|ani|C1
+garupa|grupa||S|ani|C1
+corcel|corcel||S|ani|C1
+previsão do tempo|previsión del tiempo||E|cli|C1
+boletim meteorológico|boletín meteorológico||E|cli|C1
+frente fria|frente fría||E|cli|C1
+frente oclusa|frente ocluida||E|cli|C1
+depressão atmosférica|borrasca||E|cli|C1
+anticiclone|anticiclón||S|cli|C1
+isóbara|isobara||S|sci|C1
+gradiente de pressão|gradiente de presión||E|sci|C1
+pressão barométrica|presión barométrica||E|cli|C1
+humidade relativa|humedad relativa||E|cli|C1
+cinzina|calina||S|cli|C1
+saraivada|granizada||S|cli|C1
+tromba de água|manga de agua||E|cli|C1
+cheia|crecida (avenida)||S|cli|C1
+enxurrada|arroyada||S|cli|C1
+aluvião|aluvión||S|nat|C1
+aridez|aridez||S|cli|C1
+desertificação|desertización||S|cli|C1
+nortada|viento del norte||S|cli|C1
+garoa|calabobos||S|cli|C1
+onda de frio|ola de frío||E|cli|C1
+onda de calor|ola de calor||E|cli|C1
+pluviosidade|pluviosidad||S|cli|C1
+pluviosímetro|pluviómetro||S|sci|C1
+anemómetro|anemómetro||S|sci|C1
+rosa dos ventos|rosa de los vientos||E|cli|C1
+alerta laranja|alerta naranja||E|cli|C1
+plano de contingência|plan de contingencia||E|ist|C1
+sem sombra de dúvida|sin sombra de duda||E|cnn|C1
+decerto|ciertamente||D|cnn|C1
+indubitavelmente|indudablemente||D|cnn|C1
+redondamente|rotundamente||D|cnn|C1
+às escâncaras|a las claras||E|cmu|C1
+peremptório|perentorio||A|cmu|C1
+taxativo|taxativo||A|cmu|C1
+terminantemente|terminantemente||D|cnn|C1
+alto e bom som|en voz alta y clara||E|cmu|C1
+aos quatro ventos|a los cuatro vientos||E|cmu|C1
+a ferro e fogo|a sangre y fuego||E|ast|C1
+com unhas e dentes|con uñas y dientes||E|ast|C1
+a todo o custo|a toda costa||E|ast|C1
+a qualquer preço|a cualquier precio||E|ast|C1
+por nada deste mundo|por nada del mundo||E|ast|C1
+assim e tudo|aun así||E|cnn|C1
+por muito que|por mucho que||L|cnn|C1
+ainda quando|aun cuando||L|cnn|C1
+se bem que|si bien||L|cnn|C1
+malgrado|a pesar de||R|cnn|C1
+a despeito de|a despecho de||E|cnn|C1
+salvo melhor juízo|salvo mejor juicio||E|cnn|C1
+salvo indicação em contrário|salvo indicación en contrario||E|cnn|C1
+se bem me lembro|si bien recuerdo||E|cmu|C1
+para ser franco|para ser franco||E|cmu|C1
+quem dera|ojalá||E|cnn|C1
+ponto final|punto y final||E|cnn|C1
+grandiloquente|grandilocuente||A|cmu|C1
+veementemente|con vehemencia||D|cmu|C1

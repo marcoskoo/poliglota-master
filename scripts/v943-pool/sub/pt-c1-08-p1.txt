@@ -1,0 +1,260 @@
+acórdão|sentencia (de tribunal de recurso)||S|ist|C1
+arrendamento|arrendamiento (contrato de alquiler)||S|ist|C1
+arrendatário|arrendatario (inquilino)||S|ist|C1
+cláusula|cláusula (disposición de un contrato)||S|ist|C1
+cláusula penal|cláusula de penalización||L|ist|C1
+coação|coacción (anulación de la voluntad)||S|ist|C1
+credor|acreedor||S|fin|C1
+devedor|deudor||S|fin|C1
+dolo|dolo (engaño intencionado)||S|ist|C1
+embargos|embargos (retención judicial de bienes)||S|ist|C1
+escritura|escritura pública (notarial)||S|ist|C1
+escrivão|actuario (oficial judicial)||S|pro|C1
+fiança|fianza (garantía)||S|fin|C1
+foro|fuero (jurisdicción)||S|ist|C1
+hipoteca|hipoteca (garantía real sobre inmueble)||S|fin|C1
+indemnização|indemnización||S|fin|C1
+indemnizar|indemnizar||V|fin|C1
+jurisprudência|jurisprudencia||S|ist|C1
+legatário|legatario||S|ist|C1
+legítima|legítima (reserva hereditaria forzosa)||S|ist|C1
+litígio|litigio||S|ist|C1
+litigar|litigar||V|ist|C1
+mora|mora (retraso culpable en el cumplimiento)||S|ist|C1
+outorga|otorgamiento||S|ist|C1
+outorgar|otorgar||V|ist|C1
+prescrição|prescripción (extinción de derechos por plazo)||S|ist|C1
+procuração|poder notarial||S|ist|C1
+quitação|carta de pago||S|fin|C1
+sentença|sentencia||S|ist|C1
+sentenciar|dictar sentencia||V|ist|C1
+testamenteiro|albacea (ejecutor testamentario)||S|ist|C1
+tutela|tutela||S|ist|C1
+usufruto|usufructo||S|ist|C1
+usucapião|usucapión (adquisición por uso prolongado)||S|ist|C1
+absolvição|absolución||S|ist|C1
+arguição|alegación (cuestión procesal)||S|ist|C1
+audiência de julgamento|vista oral (del juicio)||L|ist|C1
+autos|autos (expediente judicial)||S|ist|C1
+advogado de ofício|abogado de oficio||L|pro|C1
+contestação|contestación (a la demanda)||S|ist|C1
+contestar|contestar (responder a la demanda)||V|ist|C1
+culposo|culposo (imprudente, no intencional)||A|ist|C1
+depoimento|declaración testifical||S|ist|C1
+depor|declarar (como testigo)||V|ist|C1
+despacho|proveído (auto del juez)||S|ist|C1
+diligência|diligencia (trámite procesal)||S|ist|C1
+instrução|instrucción (fase de investigación)||S|ist|C1
+exceção|excepción (procesal)||S|ist|C1
+intimar|citar (requerir oficialmente)||V|ist|C1
+intimação|citación (requerimiento oficial)||S|ist|C1
+julgamento|juicio (vista y fallo)||S|ist|C1
+julgar|juzgar||V|ist|C1
+legista|médico forense||S|pro|C1
+magistrado|magistrado||S|pro|C1
+magistratura|magistratura (cuerpo de magistrados)||S|pro|C1
+ministério público|ministerio fiscal (fiscalía)||L|ist|C1
+nulidade|nulidad||S|ist|C1
+pronúncia|auto de procesamiento||S|ist|C1
+recorrer|recurrir||V|ist|C1
+recurso|recurso (de apelación)||S|ist|C1
+requerimento|escrito (solicitud procesal)||S|ist|C1
+requerer|solicitar (por escrito)||V|ist|C1
+réu|reo (acusado)||S|ist|C1
+testemunha de acusação|testigo de acusación||L|ist|C1
+habeas-corpus|habeas corpus (garantía contra detención ilegal)||S|ist|C1
+veredicto|veredicto||S|ist|C1
+testemunhal|testifical (prueba testifical)||A|ist|C1
+assembleia|asamblea (cámara legislativa)||S|ist|C1
+autarquia|entidad local (municipio)||S|ist|C1
+autárquico|municipal (de ente local)||A|ist|C1
+carta constitucional|carta constitucional (constitución)||L|ist|C1
+constitucional|constitucional||A|ist|C1
+constitucionalidade|constitucionalidad||S|ist|C1
+deputado|diputado||S|pro|C1
+eleitoral|electoral||A|ist|C1
+eleitorado|electorado||S|ist|C1
+emenda|enmienda (modificación legislativa)||S|ist|C1
+imunidade parlamentar|inmunidad parlamentaria||L|ist|C1
+moção|moción (propuesta sometida a votación)||S|ist|C1
+parlamentar|parlamentario (diputado)||S|pro|C1
+plebiscito|plebiscito||S|ist|C1
+poder judicial|poder judicial||L|ist|C1
+ratificação|ratificación||S|ist|C1
+ratificar|ratificar||V|ist|C1
+regimento|reglamento (norma assemblearia)||S|ist|C1
+sufrágio|sufragio||S|ist|C1
+sufrágio universal|sufragio universal||L|ist|C1
+soberania|soberanía||S|ist|C1
+soberano|soberano||A|ist|C1
+veto|veto||S|ist|C1
+vetar|vetar||V|ist|C1
+autodeterminação|autodeterminación||S|ist|C1
+Estado de direito|Estado de derecho||L|ist|C1
+separação de poderes|separación de poderes||L|ist|C1
+direitos fundamentais|derechos fundamentales||L|ist|C1
+legislativo|legislativo||A|ist|C1
+legislatura|legislatura||S|ist|C1
+sancionar|sancionar (dar fuerza de ley)||V|ist|C1
+sanção|sanción (aprobación de una ley)||S|ist|C1
+discricionário|discrecional (arbitrario)||A|ist|C1
+ambulatório|consultas externas (ambulatorio)||S|sla|C1
+anestesia|anestesia||S|sla|C1
+anestesiar|anestesiar||V|sla|C1
+benigno|benigno (de naturaleza no maligna)||A|sla|C1
+maligno|maligno||A|sla|C1
+biópsia|biopsia||S|sla|C1
+cirurgia|cirugía (intervención quirúrgica)||S|sla|C1
+cirúrgico|quirúrgico||A|sla|C1
+diagnóstico diferencial|diagnóstico diferencial||L|sla|C1
+ecografia|ecografía||S|sla|C1
+endoscopia|endoscopia||S|sla|C1
+entubar|intubar||V|sla|C1
+esterilização|esterilización||S|sla|C1
+hemograma|hemograma||S|sla|C1
+médico assistente|médico responsable (del paciente)||L|pro|C1
+metástase|metástasis||S|sla|C1
+metastizar|metastatizar||V|sla|C1
+monitorização|monitorización||S|sla|C1
+monitorizar|monitorizar||V|sla|C1
+pós-operatório|postoperatorio||A|sla|C1
+prognóstico|pronóstico||S|sla|C1
+reanimação|reanimación||S|sla|C1
+reanimar|reanimar||V|sla|C1
+remissão|remisión (mejoría clínica)||S|sla|C1
+recaída|recaída (reaparición de la enfermedad)||S|sla|C1
+sala de operações|quirófano (sala de operaciones)||L|sla|C1
+sintomatologia|sintomatología||S|sla|C1
+sintomático|sintomático||A|sla|C1
+triagem|triaje (clasificación de pacientes)||S|sla|C1
+utente|usuario (paciente del sistema de salud)||S|sla|C1
+alta hospitalar|alta hospitalaria||L|sla|C1
+drenagem|drenaje||S|sla|C1
+enxerto|injerto||S|sla|C1
+adjuvante|adyuvante (tratamiento complementario)||A|sla|C1
+ensaio clínico|ensayo clínico||L|sla|C1
+posologia|posología||S|sla|C1
+fármaco|fármaco||S|sla|C1
+farmacovigilância|farmacovigilancia||S|sla|C1
+genérico|genérico (medicamento sin marca)||S|sla|C1
+interação medicamentosa|interacción medicamentosa||L|sla|C1
+contraindicação|contraindicación||S|sla|C1
+contraindicar|contraindicar||V|sla|C1
+dosagem|dosificación||S|sla|C1
+reação adversa|reacción adversa||L|sla|C1
+excipiente|excipiente||S|sla|C1
+princípio ativo|principio activo||L|sla|C1
+via de administração|vía de administración||L|sla|C1
+terapêutica|terapéutica||S|sla|C1
+terapêutico|terapéutico||A|sla|C1
+grupo de controlo|grupo control||L|sla|C1
+duplo-cego|doble ciego (estudio)||A|sla|C1
+placebo|placebo||S|sla|C1
+randomização|aleatorización||S|sla|C1
+randomizado|aleatorizado||A|sla|C1
+meia-vida|semivida (vida media)||S|sci|C1
+biodisponibilidade|biodisponibilidad||S|sci|C1
+tolerabilidade|tolerabilidad||S|sla|C1
+eficácia|eficacia (de un fármaco)||S|sla|C1
+perfil de segurança|perfil de seguridad||L|sla|C1
+sobredosagem|sobredosis||S|sla|C1
+endovenoso|endovenoso||A|sla|C1
+subcutâneo|subcutáneo||A|sla|C1
+inalatório|inhalatorio||A|sla|C1
+medicamento órfão|medicamento huérfano||L|sla|C1
+ensaio multicêntrico|ensayo multicéntrico||L|sla|C1
+desassossego|desasosiego (inquietud sin causa)||S|emo|C1
+compulsão|compulsión||S|emo|C1
+compulsivo|compulsivo||A|emo|C1
+delírio|delirio||S|sla|C1
+delirante|delirante||A|sla|C1
+depressivo|depresivo||A|sla|C1
+euforia|euforia||S|emo|C1
+eufórico|eufórico||A|emo|C1
+fobia|fobia||S|emo|C1
+fobia social|fobia social||L|emo|C1
+perturbação|trastorno (alteración psicopatológica)||S|sla|C1
+psicose|psicosis||S|sla|C1
+psicopatia|psicopatía||S|sla|C1
+esquizofrenia|esquizofrenia||S|sla|C1
+alucinação|alucinación||S|sla|C1
+alucinar|alucinar||V|sla|C1
+paranoia|paranoia||S|sla|C1
+catatonia|catatonía||S|sla|C1
+letargia|letargia||S|sla|C1
+bulimia|bulimia||S|sla|C1
+somatização|somatización||S|sla|C1
+dissociação|disociación||S|sla|C1
+regressão|regresión (retorno a fases anteriores)||S|sla|C1
+repressão|represión (exclusión de lo consciente)||S|sla|C1
+despersonalização|despersonalización||S|sla|C1
+histeria|histeria||S|sla|C1
+abstinência|abstinencia (síndrome de abstinencia)||S|sla|C1
+estabilizador do humor|estabilizador del ánimo||L|sla|C1
+antidepressivo|antidepresivo||S|sla|C1
+ansiolítico|ansiolítico||S|sla|C1
+neuroléptico|neuroléptico||S|sla|C1
+ruminação|rumiación (pensamiento repetitivo)||S|sla|C1
+bioética|bioética||S|sla|C1
+eutanásia|eutanasia||S|sla|C1
+obstinação terapêutica|encarnizamiento terapéutico||L|sla|C1
+distanásia|distanasia||S|sla|C1
+diretiva antecipada de vontade|testamento vital (instrucciones previas)||L|sla|C1
+consentimento informado|consentimiento informado||L|sla|C1
+comité de ética|comité de ética||L|ist|C1
+confidencialidade|confidencialidad||S|sla|C1
+segredo médico|secreto médico||L|sla|C1
+deontologia|deontología||S|pro|C1
+deontológico|deontológico||A|pro|C1
+dignidade humana|dignidad humana||L|sla|C1
+justiça distributiva|justicia distributiva||L|ast|C1
+beneficência|beneficencia (principio de)||S|sla|C1
+não maleficência|no maleficencia (principio de)||L|sla|C1
+autonomia do doente|autonomía del paciente||L|sla|C1
+paternalismo|paternalismo||S|ast|C1
+paternalista|paternalista||A|ast|C1
+morte encefálica|muerte encefálica||L|sla|C1
+dador|donante||S|sla|C1
+dador de órgãos|donante de órganos||L|sla|C1
+colheita de órgãos|extracción de órganos||L|sla|C1
+cuidados paliativos|cuidados paliativos||L|sla|C1
+sedação|sedación||S|sla|C1
+futilidade terapêutica|futilidad terapéutica||L|sla|C1
+cobaia|cobaya (animal de experimentación)||S|ani|C1
+fraude científica|fraude científica||L|sci|C1
+princípio da proporcionalidade|principio de proporcionalidad||L|sla|C1
+raciocínio clínico|juicio clínico||L|sla|C1
+iatrogénico|iatrogénico||A|sla|C1
+prontuário|historia clínica||S|sla|C1
+austeridade|austeridad||S|fin|C1
+balança comercial|balanza comercial||L|fin|C1
+balança de pagamentos|balanza de pagos||L|fin|C1
+base monetária|base monetaria||L|fin|C1
+emissão|emisión (de deuda o moneda)||S|fin|C1
+emissor|emisor||S|fin|C1
+dívida soberana|deuda soberana||L|fin|C1
+taxa de juro|tipo de interés||L|fin|C1
+juro|interés (rendimiento de capital)||S|fin|C1
+política monetária|política monetaria||L|fin|C1
+inflacionário|inflacionario||A|fin|C1
+deflação|deflación||S|fin|C1
+estagflação|estanflación (estancamiento con inflación)||S|fin|C1
+convergência|convergencia (de criterios económicos)||S|fin|C1
+orçamental|presupuestario||A|fin|C1
+défice orçamental|déficit presupuestario||L|fin|C1
+superávit|superávit||S|fin|C1
+resgate|rescate (ayuda financiera externa)||S|fin|C1
+resgatar|rescatar (a una entidad)||V|fin|C1
+despesa pública|gasto público||L|fin|C1
+receita pública|ingreso público||L|fin|C1
+pressão fiscal|presión fiscal||L|fin|C1
+fisco|fisco (hacienda pública)||S|fin|C1
+desvalorização|devaluación (pérdida de valor)||S|fin|C1
+valorização|revalorización (plusvalía)||S|fin|C1
+liquidez|liquidez||S|fin|C1
+solvência|solvencia||S|fin|C1
+insolvente|insolvente||A|fin|C1
+moratória|moratoria||S|fin|C1
+incumprimento|incumplimiento (impago)||S|fin|C1
+expansionista|expansionista||A|fin|C1
+agregado monetário|agregado monetario||L|fin|C1

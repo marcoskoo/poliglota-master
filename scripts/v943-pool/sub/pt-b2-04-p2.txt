@@ -1,0 +1,283 @@
+devolução|devolución||S|cmp|B2
+reembolso|reembolso||S|cmp|B2
+reembolsar|reembolsar||V|cmp|B2
+garantia|garantía||S|cmp|B2
+reclamação|reclamación||S|cmp|B2
+livro de reclamações|libro de reclamaciones||L|cmp|B2
+talão|recibo (tique)||S|cmp|B2
+fatura|factura||S|cmp|B2
+troca|cambio (de un artículo)||S|cmp|B2
+trocar|cambiar (un artículo)||V|cmp|B2
+defeito|defecto||S|cmp|B2
+defeituoso|defectuoso||A|cmp|B2
+avaria|avería||S|cmp|B2
+avariado|averiado||A|cmp|B2
+assistência técnica|servicio técnico||L|cmp|B2
+reparação|reparación||S|cmp|B2
+reparar|reparar||V|cmp|B2
+arranjar|arreglar (reparar)||V|cmp|B2
+vício|defecto (vicio oculto)||S|cmp|B2
+prazo de garantia|plazo de garantía||L|cmp|B2
+queixa|queja||S|cmp|B2
+denúncia|denuncia||S|ist|B2
+proteção do consumidor|protección del consumidor||L|ist|B2
+acordo amigável|acuerdo amistoso||L|cmp|B2
+indemnização|indemnización||S|cmp|B2
+indemnizar|indemnizar||V|cmp|B2
+compensação|compensación||S|cmp|B2
+insatisfeito|insatisfecho||A|emo|B2
+insatisfação|insatisfacción||S|emo|B2
+atendimento ao cliente|atención al cliente||L|cmp|B2
+serviço pós-venda|servicio posventa||L|cmp|B2
+desistência|desistimiento||S|cmp|B2
+loja online|tienda online||L|cmp|B2
+comércio eletrónico|comercio electrónico||L|cmp|B2
+cesto de compras|carrito de la compra||L|cmp|B2
+pagamento|pago||S|cmp|B2
+cartão de crédito|tarjeta de crédito||L|fin|B2
+débito direto|domiciliación bancaria||L|fin|B2
+transferência bancária|transferencia bancaria||L|fin|B2
+portes|gastos de envío||S|cmp|B2
+expedição|envío (expedición)||S|cmp|B2
+expeditar|expedir||V|cmp|B2
+encomenda|paquete (pedido)||S|cmp|B2
+encomendar|hacer un pedido||V|cmp|B2
+remetente|remitente||S|cmp|B2
+destinatário|destinatario||S|cmp|B2
+transportadora|transportista||S|tra|B2
+estafeta|mensajero||S|pro|B2
+seguimento|seguimiento (de un envío)||S|cmp|B2
+prazo de entrega|plazo de entrega||L|cmp|B2
+entrega em casa|entrega a domicilio||L|cmp|B2
+ponto de recolha|punto de recogida||L|cmp|B2
+assinatura|suscripción||S|cmp|B2
+assinar|suscribirse||V|cmp|B2
+política de privacidade|política de privacidad||L|tec|B2
+dados pessoais|datos personales||L|tec|B2
+palavra-passe|contraseña||S|tec|B2
+nome de utilizador|nombre de usuario||L|tec|B2
+esgotado|agotado||A|cmp|B2
+disponível|disponible||A|cmp|B2
+em stock|en stock||E|cmp|B2
+clicar|hacer clic||V|tec|B2
+descarregar|descargar||V|tec|B2
+lojista|tendero||S|pro|B2
+multa|multa||S|tra|B2
+coima|multa (sanción administrativa)||S|tra|B2
+excesso de velocidade|exceso de velocidad||L|tra|B2
+radar|radar||S|tra|B2
+alcoolemia|alcoholemia||S|tra|B2
+teste de alcoolemia|control de alcoholemia||L|tra|B2
+carta de condução|carné de conducir||L|tra|B2
+conduzir|conducir||V|tra|B2
+via rápida|vía rápida||L|tra|B2
+portagem|peaje||S|tra|B2
+rotunda|rotonda||S|tra|B2
+berma|arcén||S|tra|B2
+passadeira|paso de peatones||S|tra|B2
+semáforo|semáforo||S|tra|B2
+sinalização|señalización||S|tra|B2
+limite de velocidade|límite de velocidad||L|tra|B2
+ultrapassar|adelantar||V|tra|B2
+marcha atrás|marcha atrás||L|tra|B2
+buzina|bocina||S|tra|B2
+travão|freno||S|tra|B2
+travar|frenar||V|tra|B2
+pneu|neumático||S|tra|B2
+pneu furado|pinchazo||L|tra|B2
+roda suplente|rueda de repuesto||L|tra|B2
+óleo do motor|aceite del motor||L|tra|B2
+matrícula|matrícula (placa)||S|tra|B2
+inspeção|inspección técnica del vehículo||S|tra|B2
+oficina|taller||S|pro|B2
+mecânico|mecánico||S|pro|B2
+embraiagem|embrague||S|tra|B2
+reboque|grúa||S|tra|B2
+assistência em viagem|asistencia en carretera||L|tra|B2
+mobilidade|movilidad||S|tra|B2
+mobilidade suave|movilidad sostenible||L|tra|B2
+sustentável|sostenible||A|nat|B2
+sustentabilidade|sostenibilidad||S|nat|B2
+pegada de carbono|huella de carbono||L|nat|B2
+emissões de carbono|emisiones de carbono||L|nat|B2
+poluição|contaminación||S|nat|B2
+poluição sonora|contaminación acústica||L|nat|B2
+gases de escape|gases de escape||L|nat|B2
+transporte público|transporte público||L|tra|B2
+passe|abono (de transporte)||S|tra|B2
+elétrico|tranvía||S|tra|B2
+ciclovia|carril bici||S|tra|B2
+bicicleta partilhada|bicicleta compartida||L|tra|B2
+trotinete|patinete||S|tra|B2
+boleia|aventón||S|tra|B2
+veículo elétrico|vehículo eléctrico||L|tra|B2
+ponto de carregamento|punto de recarga||L|tra|B2
+combustível|combustible||S|tra|B2
+gasóleo|gasóleo (diésel)||S|tra|B2
+híbrido|híbrido||S|tra|B2
+autonomia|autonomía (de la batería)||S|tra|B2
+congestionamento|congestión (tráfico)||S|tra|B2
+hora de ponta|hora punta||L|tra|B2
+passageiro|pasajero||S|tra|B2
+paragem|parada||S|tra|B2
+apeadeiro|apeadero||S|tra|B2
+interface|intercambiador (de transportes)||S|tra|B2
+zona de emissões reduzidas|zona de bajas emisiones||L|tra|B2
+pedonal|peatonal||A|tra|B2
+zona pedonal|zona peatonal||L|tra|B2
+transporte ativo|transporte activo||L|tra|B2
+viagem de negócios|viaje de negocios||L|vig|B2
+voo|vuelo||S|vig|B2
+voo direto|vuelo directo||L|vig|B2
+escala|escala||S|vig|B2
+partida|salida (de un vuelo)||S|vig|B2
+atraso|retraso||S|vig|B2
+embarque|embarque||S|vig|B2
+portão de embarque|puerta de embarque||L|vig|B2
+bagagem de mão|equipaje de mano||L|vig|B2
+despachar a bagagem|facturar el equipaje||L|vig|B2
+bagageiro|maletero (portaequipajes)||S|vig|B2
+companhia aérea|compañía aérea||L|vig|B2
+assistente de bordo|tripulante de cabina||L|pro|B2
+turbulência|turbulencia||S|vig|B2
+aterragem|aterrizaje||S|vig|B2
+descolagem|despegue||S|vig|B2
+extravio|extravío||S|vig|B2
+itinerário|itinerario||S|vig|B2
+deslocação|desplazamiento||S|vig|B2
+deslocar-se|desplazarse||V|vig|B2
+estadia|estancia||S|vig|B2
+diárias|dietas (viáticos)||S|fin|B2
+relatório de despesas|informe de gastos||L|lav|B2
+conferência|conferencia (congreso)||S|lav|B2
+feira|feria (certamen)||S|lav|B2
+greve|huelga||S|lav|B2
+alojamento|alojamiento||S|htl|B2
+ligação|conexión (de vuelos)||S|vig|B2
+cancelamento|cancelación||S|vig|B2
+remarcar|reprogramar (un vuelo)||V|vig|B2
+milhas|millas (de viajero frecuente)||S|vig|B2
+fronteira|frontera||S|vig|B2
+controlo de passaportes|control de pasaportes||L|vig|B2
+posto de fronteira|puesto fronterizo||L|vig|B2
+visto|visado||S|vig|B2
+visto de residência|visado de residencia||L|vig|B2
+autorização de residência|autorización de residencia||L|ist|B2
+autorização de trabalho|autorización de trabajo||L|ist|B2
+imigrante|inmigrante||S|ist|B2
+imigração|inmigración||S|ist|B2
+requerimento|solicitud||S|ist|B2
+requerer|solicitar (pedir formalmente)||V|ist|B2
+certidão|acta (certificado registral)||S|ist|B2
+cartão de cidadão|documento de identidad||L|ist|B2
+título de residência|tarjeta de residencia||L|ist|B2
+prorrogar|prorrogar||V|ist|B2
+prorrogação|prórroga||S|ist|B2
+renovação|renovación||S|ist|B2
+legalização|legalización||S|ist|B2
+legalizar|legalizar||V|ist|B2
+validade|validez||S|ist|B2
+expirar|expirar||V|ist|B2
+caducar|caducar||V|ist|B2
+aduaneiro|aduanero||A|ist|B2
+taxa de importação|tasa de importación||L|ist|B2
+registo criminal|antecedentes penales||L|ist|B2
+consulado|consulado||S|ist|B2
+embaixada|embajada||S|ist|B2
+número de contribuinte|número de identificación fiscal||L|ist|B2
+apátrida|apátrida||S|ist|B2
+asilo|asilo||S|ist|B2
+refugiado|refugiado||S|ist|B2
+estalagem|hostería||S|htl|B2
+pousada|posada||S|htl|B2
+hospedaria|hospedería||S|htl|B2
+meia pensão|media pensión||L|htl|B2
+albergue|albergue||S|htl|B2
+turismo rural|turismo rural||L|vig|B2
+casa de campo|casa rural||L|htl|B2
+quarto duplo|habitación doble||L|htl|B2
+quarto individual|habitación individual||L|htl|B2
+vista de mar|vistas al mar||L|htl|B2
+pequeno-almoço incluído|desayuno incluido||L|htl|B2
+confortável|confortable||A|htl|B2
+classificação hoteleira|categoría hotelera||L|htl|B2
+hotelaria|hostelería||S|htl|B2
+receção|recepción||S|htl|B2
+recepcionista|recepcionista||S|pro|B2
+empregada de andares|camarera de pisos||L|pro|B2
+temporada alta|temporada alta||L|vig|B2
+época baixa|temporada baja||L|vig|B2
+destino turístico|destino turístico||L|vig|B2
+guia turístico|guía turístico||S|pro|B2
+visita guiada|visita guiada||L|sve|B2
+bilheteira|taquilla||S|vig|B2
+avaliação|reseña (valoración)||S|vig|B2
+alojamento local|alojamiento turístico||L|htl|B2
+roteiro|ruta (itinerario)||S|vig|B2
+conforto|confort||S|htl|B2
+atendimento|servicio (atención al cliente)||S|htl|B2
+instalações|instalaciones||S|htl|B2
+limpeza|limpieza||S|htl|B2
+categoria|categoría||S|htl|B2
+prevenção|prevención||S|sla|B2
+prevenir|prevenir||V|sla|B2
+exame de rotina|revisión (chequeo)||L|sla|B2
+rastreio|cribado (detección precoz)||S|sla|B2
+diagnóstico|diagnóstico||S|sla|B2
+sintoma|síntoma||S|sla|B2
+vacina|vacuna||S|sla|B2
+vacinação|vacunación||S|sla|B2
+imunidade|inmunidad||S|sla|B2
+sistema imunitário|sistema inmunitario||L|sla|B2
+sedentarismo|sedentarismo||S|sla|B2
+sedentário|sedentario||A|sla|B2
+tabagismo|tabaquismo||S|sla|B2
+fumador|fumador||S|sla|B2
+stress|estrés||S|sla|B2
+ansiedade|ansiedad||S|emo|B2
+depressão|depresión||S|emo|B2
+análise ao sangue|análisis de sangre||L|sla|B2
+glicemia|glucemia||S|sla|B2
+hábito|hábito||S|sla|B2
+estilo de vida|estilo de vida||L|sla|B2
+insónia|insomnio||S|sla|B2
+hidratação|hidratación||S|sla|B2
+deteção precoce|detección precoz||L|sla|B2
+fatores de risco|factores de riesgo||L|sla|B2
+hereditário|hereditario||A|sla|B2
+predisposição|predisposición||S|sla|B2
+saúde pública|salud pública||L|sla|B2
+patologia|patología||S|sla|B2
+sinais de alerta|señales de alerta||L|sla|B2
+protetor solar|protector solar||S|cor|B2
+seguro de saúde|seguro de salud||L|sla|B2
+seguradora|aseguradora||S|fin|B2
+apólice|póliza||S|fin|B2
+franquia|franquicia (seguro)||S|fin|B2
+cobertura|cobertura||S|fin|B2
+copagamento|copago||S|fin|B2
+rede convencionada|cuadro médico||L|sla|B2
+centro de saúde|centro de salud||L|sla|B2
+urgências|urgencias||S|sla|B2
+internamento|ingreso hospitalario||S|sla|B2
+consulta|consulta||S|sla|B2
+especialista|especialista||S|pro|B2
+enfermeiro|enfermero||S|pro|B2
+cirurgia|cirugía||S|sla|B2
+cirurgião|cirujano||S|pro|B2
+operar|operar||V|sla|B2
+anestesia|anestesia||S|sla|B2
+alta hospitalar|alta hospitalaria||L|sla|B2
+prescrição|prescripción||S|sla|B2
+medicamento|medicamento||S|sla|B2
+genérico|genérico (medicamento)||S|sla|B2
+utente|usuario (paciente del sistema de salud)||S|sla|B2
+número de utente|número de usuario sanitario||L|sla|B2
+taxa moderadora|tasas moderadoras (copago)||L|sla|B2
+subsídio de doença|subsidio por enfermedad||L|sla|B2
+baixa por doença|baja médica||L|sla|B2
+ecografia|ecografía||S|sla|B2
+enfermaria|enfermería (sala)||S|sla|B2
+parto|parto||S|cor|B2
+obstetra|obstetra||S|pro|B2
+pediatra|pediatra||S|pro|B2

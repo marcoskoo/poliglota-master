@@ -1,0 +1,257 @@
+narratologia|narratología||S|let|C1
+narrador|narrador||S|let|C1
+focalizador|focalizador||S|let|C1
+homodiegético|homodiegético (narrador interno)||A|let|C1
+estrutura narrativa|estructura narrativa||L|let|C1
+arco narrativo|arco narrativo||L|let|C1
+analepse|analepsis||S|let|C1
+prolepse|prolepsis||S|let|C1
+cronotopo|cronotopo||S|let|C1
+actante|actante||S|let|C1
+discurso indireto livre|estilo indirecto libre||L|let|C1
+monólogo interior|monólogo interior||L|let|C1
+fluxo de consciência|flujo de conciencia||L|let|C1
+desfecho|desenlace||S|let|C1
+epílogo|epílogo||S|let|C1
+sinopse|sinopsis||S|cin|C1
+peripécia|peripecia||S|let|C1
+agnição|anagnórisis||S|let|C1
+mímesis|mímesis||S|let|C1
+plausibilidade|plausibilidad||S|let|C1
+estilo indireto|estilo indirecto||L|let|C1
+polifonia|polifonía||S|let|C1
+dialogismo|dialogismo||S|let|C1
+carnavalização|carnavalización||S|let|C1
+ambivalência|ambivalencia||S|ast|C1
+arquétipo|arquetipo||S|let|C1
+subtexto|subtexto||S|let|C1
+autoral|autoral (relativo al autor)||A|let|C1
+figurante|figurante||S|cin|C1
+alvorada|alborada||S|nat|C1
+crepúsculo|crepúsculo (luz del atardecer)||S|nat|C1
+penumbra|penumbra||S|nat|C1
+saudade|saudade (nostalgia melancólica)||S|emo|C1
+morrinha|morriña (añoranza de la tierra)||S|emo|C1
+estância|estancia (estrofa camoniana)||S|let|C1
+oitava|octava real||S|let|C1
+égloga|égloga||S|let|C1
+elegia|elegía||S|let|C1
+sextina|sextina (forma métrica)||S|let|C1
+cantiga|cantiga (poema medieval)||S|let|C1
+louvor|loor (elogio)||S|let|C1
+enaltecer|ensalzar (exaltar)||V|let|C1
+pluma|pluma (de ave, para escribir)||S|let|C1
+mote|mote (verso inicial de una glosa)||S|let|C1
+glosa|glosa (comentario poético)||S|let|C1
+vilancete|villancico (poema popular)||S|let|C1
+endecha|endecha (canto triste)||S|let|C1
+acalanto|arrullo (canción de cuna)||S|mus|C1
+pranto|llanto||S|emo|C1
+clangor|clangor (sonido de metales)||S|let|C1
+derradeiro|postrero||A|let|C1
+desdita|desdicha||S|emo|C1
+desventura|desventura||S|emo|C1
+ventura|ventura (fortuna favorable)||S|emo|C1
+menestrel|juglar||S|pro|C1
+trovador|trovador||S|mus|C1
+clarão|clarón (resplandor súbito)||S|nat|C1
+negregado|ingrato (penoso y laborioso)||A|let|C1
+epistemologia|epistemología||S|ast|C1
+epistemológico|epistemológico||A|ast|C1
+ceticismo|escepticismo||S|ast|C1
+dogmatismo|dogmatismo||S|ast|C1
+dogmático|dogmático||A|ast|C1
+paradigma|paradigma||S|ast|C1
+revolução científica|revolución científica||L|sci|C1
+incomensurabilidade|inconmensurabilidad||S|ast|C1
+falsificabilidade|falsabilidad||S|ast|C1
+relativismo|relativismo||S|ast|C1
+relativista|relativista||A|ast|C1
+utilitarismo|utilitarismo||S|ast|C1
+imperativo categórico|imperativo categórico||L|ast|C1
+autonomia da vontade|autonomía de la voluntad||L|ast|C1
+equidade|equidad||S|ast|C1
+equitativo|equitativo||A|ast|C1
+virtude|virtud||S|ast|C1
+imputabilidade|imputabilidad||S|ast|C1
+volição|volición||S|ast|C1
+livre-arbítrio|libre albedrío||S|ast|C1
+determinismo|determinismo||S|ast|C1
+determinista|determinista||A|ast|C1
+contingência|contingencia (lo que puede no ser)||S|ast|C1
+solipsismo|solipsismo||S|ast|C1
+alteridade|alteridad||S|ast|C1
+juízo de valor|juicio de valor||L|ast|C1
+estoicismo|estoicismo||S|ast|C1
+hedonismo|hedonismo||S|ast|C1
+ascetismo|ascetismo||S|ast|C1
+metafísica|metafísica||S|ast|C1
+metafísico|metafísico||A|ast|C1
+ontologia|ontología||S|ast|C1
+ontológico|ontológico||A|ast|C1
+ente|ente (lo que es)||S|ast|C1
+existencial|existencial||A|ast|C1
+existencialismo|existencialismo||S|ast|C1
+niilismo|nihilismo||S|ast|C1
+monismo|monismo||S|ast|C1
+dualismo|dualismo||S|ast|C1
+idealismo|idealismo||S|ast|C1
+materialismo|materialismo||S|ast|C1
+empirismo|empirismo||S|ast|C1
+racionalismo|racionalismo||S|ast|C1
+fenomenologia|fenomenología||S|ast|C1
+fenomenológico|fenomenológico||A|ast|C1
+intencionalidade|intencionalidad||S|ast|C1
+sublime|sublime||A|art|C1
+juízo estético|juicio estético||L|art|C1
+catarse|catarsis||S|let|C1
+figurativo|figurativo||A|art|C1
+vanguarda|vanguarda||S|art|C1
+modernidade|modernidad||S|ast|C1
+pós-moderno|posmoderno||A|ast|C1
+grotesco|grotesco||A|art|C1
+sátira|sátira||S|let|C1
+paródia|parodia (imitación burlesca)||S|let|C1
+pastiche|pastiche||S|art|C1
+apócrifo|apócrifo (de autoría dudosa)||A|let|C1
+historiografia|historiografía||S|sci|C1
+história oral|historia oral||L|sci|C1
+fonte primária|fuente primaria||L|sci|C1
+fonte secundária|fuente secundaria||L|sci|C1
+periodização|periodización||S|sci|C1
+longa duração|larga duración||L|sci|C1
+estruturalismo|estructuralismo||S|ast|C1
+estruturalista|estructuralista||A|ast|C1
+representações coletivas|representaciones colectivas||L|sci|C1
+anacronismo|anacronismo||S|sci|C1
+anacrónico|anacrónico||A|sci|C1
+revisionismo|revisionismo||S|sci|C1
+memória coletiva|memoria colectiva||L|sci|C1
+genealogia|genealogía (de los conceptos)||S|sci|C1
+arqueologia do saber|arqueología del saber||L|sci|C1
+prosopografia|prosopografía||S|sci|C1
+palimpsesto|palimpsesto||S|let|C1
+heráldica|heráldica||S|sci|C1
+epigrafia|epigrafía||S|sci|C1
+numismática|numismática||S|sci|C1
+datação|datación (de restos)||S|sci|C1
+parcialidade|parcialidad||S|sci|C1
+saudosismo|saudosismo (culto de la saudade)||S|let|C1
+lusofonia|lusofonía||S|ast|C1
+lusófono|lusófono||A|ast|C1
+iberismo|iberismo||S|ast|C1
+descobrimentos|descubrimientos (época de los descubrimientos)||S|sci|C1
+contrafactual|contrafactual||A|sci|C1
+medievalista|medievalista||S|pro|C1
+linguística|lingüística||S|sci|C1
+linguístico|lingüístico||A|sci|C1
+fonologia|fonología||S|sci|C1
+fonético|fonético||A|sci|C1
+morfologia|morfología||S|sci|C1
+sintaxe|sintaxis||S|sci|C1
+sintático|sintáctico||A|sci|C1
+semântica|semántica||S|sci|C1
+pragmática|pragmática||S|sci|C1
+semiótica|semiótica||S|sci|C1
+signo|signo (lingüístico)||S|sci|C1
+significante|significante||S|sci|C1
+denotação|denotación||S|sci|C1
+conotação|connotación||S|sci|C1
+polissemia|polisemia||S|sci|C1
+morfema|morfema||S|sci|C1
+fonema|fonema||S|sci|C1
+grafia|grafía (modo de escribir una palabra)||S|sci|C1
+etimologia|etimología||S|sci|C1
+cognato|cognado (palabra emparentada)||S|sci|C1
+diacronia|diacronía||S|sci|C1
+sincronia|sincronía||S|sci|C1
+bilinguismo|bilingüismo||S|sci|C1
+diglossia|diglosia||S|sci|C1
+calão|jerga (lengua coloquial)||S|cmu|C1
+gíria|argot||S|cmu|C1
+prosódia|prosodia||S|sci|C1
+elisão|elisión||S|sci|C1
+psicanálise|psicoanálisis||S|sla|C1
+inconsciente|inconsciente||S|ast|C1
+recalcamento|represión (término freudiano)||S|sla|C1
+sublimar|sublimar (canalizar hacia la creación)||V|ast|C1
+transferência|transferencia (psicoanalítica)||S|sla|C1
+acto falhado|acto fallido||L|sla|C1
+conteúdo manifesto|contenido manifiesto||L|sla|C1
+conteúdo latente|contenido latente||L|sla|C1
+pulsão|pulsión||S|sla|C1
+pulsão de morte|pulsión de muerte||L|sla|C1
+libido|libido||S|sla|C1
+narcisismo|narcisismo||S|sla|C1
+complexo de inferioridade|complejo de inferioridad||L|sla|C1
+neurose|neurosis||S|sla|C1
+regredir|regredir (retroceder)||V|ast|C1
+elaboração|elaboración (perlaboración)||S|sla|C1
+perlaboração|perlaboración||S|sla|C1
+teoria crítica|teoría crítica||L|ast|C1
+indústria cultural|industria cultural||L|ast|C1
+heteronomia|heteronomía||S|ast|C1
+biopolítica|biopolítica||S|ast|C1
+panóptico|panóptico||S|ast|C1
+dispositivo|dispositivo (estructura de poder)||S|ast|C1
+divã|diván||S|sla|C1
+casuística|casuística||S|sci|C1
+desconstrução|deconstrucción||S|let|C1
+deslocamento|desplazamiento (psicoanalítico)||S|ast|C1
+mal-estar|malestar (inconformidad difusa)||S|emo|C1
+geopolítica|geopolítica||S|ast|C1
+hegemonia|hegemonía||S|ast|C1
+hegemónico|hegemónico||A|ast|C1
+multipolaridade|multipolaridad||S|ast|C1
+dissuasão|disuasión||S|ast|C1
+contenção|contención (política de disuasión)||S|ast|C1
+proliferação nuclear|proliferación nuclear||L|ast|C1
+desarmamento|desarme (de armamentos)||S|ast|C1
+escalada|escalada (armamentista)||S|ast|C1
+tratado internacional|tratado internacional||L|ast|C1
+esfera de influência|esfera de influencia||L|ast|C1
+protetorado|protectorado||S|ast|C1
+descolonização|descolonización||S|ast|C1
+neocolonialismo|neocolonialismo||S|ast|C1
+anexação|anexión||S|ast|C1
+cessação|cese (de hostilidades)||S|ast|C1
+cessar-fogo|alto el fuego||S|ast|C1
+beligerante|beligerante||A|ast|C1
+guerra fria|guerra fría||L|ast|C1
+asilo político|asilo político||L|ast|C1
+apátrida|apátrida||A|ast|C1
+extradição|extradición||S|ast|C1
+genocídio|genocidio||S|ast|C1
+limpeza étnica|limpieza étnica||L|ast|C1
+desmilitarização|desmilitarización||S|ast|C1
+ordem mundial|orden mundial||L|ast|C1
+multilateralismo|multilateralismo||S|ast|C1
+equilíbrio de forças|equilibrio de fuerzas||L|ast|C1
+governança|gobernanza||S|ast|C1
+governabilidade|gobernabilidad||S|ast|C1
+legitimidade|legitimidad||S|ast|C1
+legitimação|legitimación||S|ast|C1
+populista|populista||A|ast|C1
+clientelismo|clientelismo||S|ast|C1
+corporativismo|corporativismo||S|ast|C1
+tecnocracia|tecnocracia||S|ast|C1
+meritocracia|meritocracia||S|ast|C1
+nepotismo|nepotismo||S|ast|C1
+grupos de interesse|grupos de interés||L|ast|C1
+sociedade civil|sociedad civil||L|ast|C1
+fraude eleitoral|fraude electoral||L|ast|C1
+políticas públicas|políticas públicas||L|ast|C1
+Estado-providência|Estado de bienestar||S|ast|C1
+subsídio de desemprego|subsidio de desempleo||L|fin|C1
+rendimento mínimo|renta mínima (de inserción)||L|fin|C1
+regulação|regulación||S|ast|C1
+regulamentação|reglamentación||S|ast|C1
+descentralização|descentralización||S|ast|C1
+regionalização|regionalización||S|ast|C1
+planeamento|planificación||S|ast|C1
+previdência|previsión (social)||S|ast|C1
+deliberação|deliberación||S|ast|C1
+deliberativo|deliberativo||A|ast|C1
+parlamentarismo|parlamentarismo||S|ast|C1
+semipresidencialismo|semipresidencialismo||S|ast|C1
+orçamento participativo|presupuesto participativo||L|ast|C1

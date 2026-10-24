@@ -1,0 +1,260 @@
+singularidade|singularidad (gravitacional)||S|sci|C1
+buraco negro|agujero negro||L|sci|C1
+horizonte de eventos|horizonte de sucesos||L|sci|C1
+supernova|supernova||S|sci|C1
+estrela de neutrões|estrella de neutrones||L|sci|C1
+nebulosa|nebulosa||S|sci|C1
+exoplaneta|exoplaneta||S|sci|C1
+cosmológico|cosmológico||A|sci|C1
+astrofísica|astrofísica||S|sci|C1
+expansão do universo|expansión del universo||L|sci|C1
+desvio para o vermelho|desplazamiento al rojo||L|sci|C1
+comprimento de onda|longitud de onda||L|sci|C1
+espetro|espectro (de ondas)||S|sci|C1
+espectroscopia|espectroscopia||S|sci|C1
+radiação cósmica de fundo|radiación cósmica de fondo||L|sci|C1
+lente gravitacional|lente gravitacional||L|sci|C1
+anã vermelha|enana roja||L|sci|C1
+equinócio|equinoccio||S|sci|C1
+solstício|solsticio||S|sci|C1
+interestelar|interestelar||A|sci|C1
+aglomerado de galáxias|cúmulo de galaxias||L|sci|C1
+paralaxe|paralaje||S|sci|C1
+ano-luz|año luz||S|sci|C1
+matéria escura|materia oscura||L|sci|C1
+energia escura|energía oscura||L|sci|C1
+gigante gasoso|gigante gaseoso||L|sci|C1
+vento solar|viento solar||L|sci|C1
+matéria bariónica|materia bariónica||L|sci|C1
+nuvem molecular|nube molecular||L|sci|C1
+protoestrela|protoestrella||S|sci|C1
+enxame globular|cúmulo globular||L|sci|C1
+telescópio espacial|telescopio espacial||L|sci|C1
+clonagem|clonación||S|sci|C1
+clonar|clonar||V|sci|C1
+transgénico|transgénico (organismo modificado)||A|sci|C1
+engenharia genética|ingeniería genética||L|sci|C1
+células estaminais|células madre||L|sci|C1
+embrião|embrión||S|sci|C1
+fecundação in vitro|fecundación in vitro||L|sci|C1
+barriga de aluguer|alquiler de vientre||L|sla|C1
+rastreio|cribado (detección precoz)||S|sla|C1
+xenotransplante|xenotransplante||S|sci|C1
+biobanco|biobanco||S|sci|C1
+biorreator|biorreactor||S|sci|C1
+patenteabilidade|patentabilidad||S|fin|C1
+biopirataria|biopiratería||S|sci|C1
+bioprospecção|bioprospección||S|sci|C1
+cultivo celular|cultivo celular||L|sci|C1
+engenharia de tecidos|ingeniería de tejidos||L|sci|C1
+criopreservação|criopreservación||S|sci|C1
+gameta|gameto||S|sci|C1
+zigoto|cigoto||S|sci|C1
+ovócito|ovocito||S|sci|C1
+medicina regenerativa|medicina regenerativa||L|sci|C1
+diagnóstico pré-natal|diagnóstico prenatal||L|sci|C1
+teste de paternidade|prueba de paternidad||L|sci|C1
+pipetar|pipetear||V|sci|C1
+banco de sêmen|banco de semen||L|sci|C1
+terapia génica|terapia génica||L|sci|C1
+organismo geneticamente modificado|organismo genéticamente modificado||L|sci|C1
+vetor viral|vector viral||L|sci|C1
+linhagem celular|estirpe celular (línea celular)||L|sci|C1
+manipulação genética|manipulación genética||L|sci|C1
+seleção artificial|selección artificial||L|sci|C1
+inferência estatística|inferencia estadística||L|sci|C1
+hipótese nula|hipótesis nula||L|sci|C1
+intervalo de confiança|intervalo de confianza||L|sci|C1
+significância estatística|significación estadística||L|sci|C1
+desvio padrão|desviación típica||L|sci|C1
+variância|varianza||S|sci|C1
+amostragem|muestreo||S|sci|C1
+amostra aleatória|muestra aleatoria||L|sci|C1
+enviesamento|sesgo (distorsión sistemática)||S|sci|C1
+enviesar|sesgar (introducir sesgo)||V|sci|C1
+correlação|correlación||S|sci|C1
+causalidade|causalidad||S|sci|C1
+concomitância|concomitancia (coocurrencia de variables)||S|sci|C1
+replicabilidade|replicabilidad||S|sci|C1
+variável dependente|variable dependiente||L|sci|C1
+variável independente|variable independiente||L|sci|C1
+confundente|confusora (variable de confusión)||A|sci|C1
+sondagem|sondeo (encuesta)||S|sci|C1
+pré-teste|prueba piloto (pretest)||S|sci|C1
+operacionalização|operacionalización (de variables)||S|sci|C1
+metodológico|metodológico||A|sci|C1
+validade|validez (de un estudio)||S|sci|C1
+fidedignidade|fiabilidad||S|sci|C1
+cruzamento de dados|cruce de datos||L|sci|C1
+representatividade|representatividad||S|sci|C1
+taxa de resposta|tasa de respuesta||L|sci|C1
+meta-análise|metaanálisis||S|sci|C1
+longitudinal|longitudinal (de diseño longitudinal)||A|sci|C1
+transversal|transversal (de diseño transversal)||A|sci|C1
+ponderação|ponderación (peso estadístico)||S|sci|C1
+distribuição normal|distribución normal||L|sci|C1
+teste de hipóteses|prueba de hipótesis||L|sci|C1
+regressão linear|regresión lineal||L|sci|C1
+endémico|endémico (propio de una endemia)||A|sci|C1
+endemia|endemia||S|sci|C1
+incidência|incidencia||S|sci|C1
+prevalência|prevalencia||S|sci|C1
+letalidade|letalidad||S|sci|C1
+morbidade|morbilidad||S|sci|C1
+mortalidade|mortalidad||S|sci|C1
+vigilância epidemiológica|vigilancia epidemiológica||L|sci|C1
+notificação obrigatória|declaración obligatoria (de enfermedad)||L|sci|C1
+via de transmissão|vía de transmisión||L|sci|C1
+vetor|vector (transmisor de enfermedad)||S|sci|C1
+reservatório|reservorio (del patógeno)||S|sci|C1
+portador assintomático|portador asintomático||L|sci|C1
+assintomático|asintomático||A|sla|C1
+curva epidémica|curva epidémica||L|sci|C1
+razão de prevalência|razón de prevalencias||L|sci|C1
+fator de risco|factor de riesgo||L|sci|C1
+determinante de saúde|determinante de salud||L|sci|C1
+promoção da saúde|promoción de la salud||L|sci|C1
+literacia em saúde|alfabetización en salud||L|sci|C1
+sobremortalidade|exceso de mortalidad||S|sci|C1
+coorte|cohorte (estudio de cohortes)||S|sci|C1
+estudo caso-controlo|estudio de casos y controles||L|sci|C1
+medicina preventiva|medicina preventiva||L|sci|C1
+doença crónica|enfermedad crónica||L|sla|C1
+carga de doença|carga de enfermedad||L|sci|C1
+natalidade|natalidad||S|sci|C1
+envelhecimento demográfico|envejecimiento demográfico||L|sci|C1
+mortalidade infantil|mortalidad infantil||L|sci|C1
+desinfeção|desinfección||S|sla|C1
+saneamento básico|saneamiento básico||L|cit|C1
+resíduos hospitalares|residuos hospitalarios||L|sci|C1
+crosta terrestre|corteza terrestre||L|nat|C1
+manto|manto (capa interna de la Tierra)||S|nat|C1
+tectónica de placas|tectónica de placas||L|sci|C1
+placa tectónica|placa tectónica||L|sci|C1
+sismologia|sismología||S|sci|C1
+hipocentro|hipocentro||S|sci|C1
+falha geológica|falla geológica||L|sci|C1
+anticlinal|anticlinal||S|sci|C1
+sinclinal|sinclinal||S|sci|C1
+orogenia|orogénesis||S|sci|C1
+sedimentação|sedimentación||S|sci|C1
+metamorfismo|metamorfismo||S|sci|C1
+rocha ígnea|roca ígnea||L|sci|C1
+rocha sedimentar|roca sedimentaria||L|sci|C1
+estrato|estrato (capa geológica)||S|sci|C1
+fossilização|fosilización||S|sci|C1
+geodesia|geodesia||S|sci|C1
+topográfico|topográfico||A|sci|C1
+batimetria|batimetría||S|sci|C1
+plataforma continental|plataforma continental||L|sci|C1
+circulação oceânica|circulación oceánica||L|sci|C1
+cristalização|cristalización||S|sci|C1
+mineralogia|mineralogía||S|sci|C1
+vulcanologia|vulcanología||S|sci|C1
+cinza vulcânica|ceniza volcánica||L|sci|C1
+plúton|plutón (roca intrusiva)||S|sci|C1
+glaciação|glaciación||S|nat|C1
+degelo|deshielo||S|nat|C1
+coordenadas geográficas|coordenadas geográficas||L|sci|C1
+abissal|abisal||A|sci|C1
+fossa abissal|fosa abisal||L|sci|C1
+batimétrico|batimétrico||A|sci|C1
+corolário|corolario||S|sci|C1
+axioma|axioma||S|sci|C1
+lema|lema (auxiliar de demostración)||S|sci|C1
+conjectura|conjetura||S|sci|C1
+dedução|deducción||S|sci|C1
+indução|inducción (razonamiento inductivo)||S|sci|C1
+tautologia|tautología||S|sci|C1
+paradoxo|paradoja (contradicción lógica)||S|sci|C1
+silogismo|silogismo||S|sci|C1
+premissa|premisa||S|sci|C1
+quantificador|cuantificador||S|sci|C1
+determinante|determinante (de una matriz)||S|sci|C1
+autovalor|valor propio (autovalor)||S|sci|C1
+autovetor|vector propio||S|sci|C1
+topologia|topología||S|sci|C1
+topológico|topológico||A|sci|C1
+fractal|fractal||S|sci|C1
+combinatória|combinatoria||S|sci|C1
+estocástico|estocástico||A|sci|C1
+recursividade|recursividad||S|sci|C1
+infinitesimal|infinitesimal||A|sci|C1
+cálculo diferencial|cálculo diferencial||L|sci|C1
+cálculo integral|cálculo integral||L|sci|C1
+derivada|derivada (de una función)||S|sci|C1
+integral|integral (de una función)||S|sci|C1
+sucessão|sucesión (matemática)||S|sci|C1
+convolução|convolución||S|sci|C1
+divergência|divergencia (de una serie)||S|sci|C1
+teoria dos conjuntos|teoría de conjuntos||L|sci|C1
+cardinalidade|cardinalidad||S|sci|C1
+continuidade|continuidad (de una función)||S|sci|C1
+contraexemplo|contraejemplo||S|sci|C1
+demonstração|demostración (matemática)||S|sci|C1
+cânone|canon (de obras clásicas)||S|let|C1
+classicismo|clasicismo||S|art|C1
+simbolismo|simbolismo||S|let|C1
+estética|estética (teoría del arte)||S|art|C1
+esteticismo|esteticismo||S|art|C1
+figura de estilo|figura estilística||L|let|C1
+metonímia|metonimia||S|let|C1
+sinédoque|sinécdoque||S|let|C1
+hipérbole|hipérbole||S|let|C1
+litote|lítote||S|let|C1
+prosopopeia|prosopopeya||S|let|C1
+alegoria|alegoría||S|let|C1
+paratexto|paratexto||S|let|C1
+intertextualidade|intertextualidad||S|let|C1
+hipertexto|hipertexto||S|tec|C1
+hermenêutica|hermenéutica||S|let|C1
+exegese|exégesis||S|let|C1
+crítica textual|crítica textual||L|let|C1
+edição crítica|edición crítica||L|let|C1
+acervo|acervo (conjunto de obras)||S|let|C1
+ensaísta|ensayista||S|pro|C1
+oralidade|oralidad||S|let|C1
+literariedade|literariedad||S|let|C1
+verossímil|verosímil||A|let|C1
+verosimilhança|verosimilitud||S|let|C1
+diegese|diegesis||S|let|C1
+focalização|focalización||S|let|C1
+estilística|estilística||S|let|C1
+versificação|versificación||S|let|C1
+poética|poética (teoría literaria)||S|let|C1
+épica|épica (género narrativo en verso)||S|let|C1
+lírica|lírica (género poético)||S|let|C1
+elocução|elocución||S|let|C1
+peroração|peroración||S|let|C1
+exórdio|exordio||S|let|C1
+entimema|entimema||S|let|C1
+quiasmo|quiasmo||S|let|C1
+anáfora|anáfora||S|let|C1
+epífora|epífora||S|let|C1
+polissíndeto|polisíndeton||S|let|C1
+assíndeto|asíndeton||S|let|C1
+anacoluto|anacoluto||S|let|C1
+pleonasmo|pleonasmo||S|let|C1
+elipse|elipsis (figura gramatical)||S|let|C1
+hipálage|hipálage||S|let|C1
+sinestesia|sinestesia (figura sensorial)||S|let|C1
+catacrese|catacresis||S|let|C1
+metalinguagem|metalenguaje||S|let|C1
+decassílabo|decasílabo||S|let|C1
+redondilha|redondilla||S|let|C1
+escansão|escansión||S|let|C1
+heptassílabo|heptasílabo||S|let|C1
+cesura|cesura||S|let|C1
+cadência|cadencia (prosódica)||S|let|C1
+aliteração|aliteración||S|let|C1
+assonância|asonancia||S|let|C1
+onomatopeia|onomatopeya||S|let|C1
+gradação|gradación (figura retórica)||S|let|C1
+antítese|antítesis||S|let|C1
+oxímoro|oxímoron||S|let|C1
+eufemismo|eufemismo||S|let|C1
+silepse|silepsis||S|let|C1
+hipérbato|hipérbaton||S|let|C1
+anástrofe|anástrofe||S|let|C1
+apóstrofe|apóstrofe (invocación lírica)||S|let|C1
+anticlímax|anticlímax||S|let|C1

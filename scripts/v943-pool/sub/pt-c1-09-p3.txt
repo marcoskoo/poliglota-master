@@ -1,0 +1,260 @@
+paradoxo|paradoja||S|ast|C1
+ontologia|ontología||S|ast|C1
+ontológico|ontológico||A|ast|C1
+epistemologia|epistemología||S|ast|C1
+virtude|virtud||S|ast|C1
+vício|vicio||S|ast|C1
+hedonismo|hedonismo||S|ast|C1
+estoicismo|estoicismo||S|ast|C1
+ceticismo|escepticismo||S|ast|C1
+niilismo|nihilismo||S|ast|C1
+determinismo|determinismo||S|ast|C1
+existencialismo|existencialismo||S|let|C1
+fenomenologia|fenomenología||S|ast|C1
+teleologia|teleología||S|ast|C1
+axiologia|axiología||S|ast|C1
+imanência|inmanencia||S|ast|C1
+transcendência|trascendencia||S|ast|C1
+contingência|contingencia||S|ast|C1
+quididade|quiddidad (esencia)||S|ast|C1
+ente|ente||S|ast|C1
+ubiquidade|ubicuidad||S|ast|C1
+efemeridade|efemeridad||S|ast|C1
+imutável|inmutable||A|ast|C1
+mutabilidade|mutabilidad||S|ast|C1
+vicissitude|vicisitud||S|ast|C1
+aporia|aporía||S|ast|C1
+dicotomia|dicotomía||S|ast|C1
+dualismo|dualismo||S|ast|C1
+reducionismo|reduccionismo||S|ast|C1
+mecanicismo|mecanicismo||S|ast|C1
+voluntarismo|voluntarismo||S|ast|C1
+fatalismo|fatalismo||S|ast|C1
+conato|conato (ímpetu)||S|ast|C1
+a priori|a priori||L|ast|C1
+a posteriori|a posteriori||L|ast|C1
+ad hoc|ad hoc||L|ast|C1
+grosso modo|grosso modo||L|ast|C1
+mutatis mutandis|mutatis mutandis||L|ast|C1
+status quo|statu quo||L|ast|C1
+in loco|in loco (en el sitio)||L|ast|C1
+de jure|de iure||L|ist|C1
+ethos|ethos (carácter de un pueblo)||S|ast|C1
+pathos|pathos||S|ast|C1
+húbris|hybris (soberbia trágica)||S|ast|C1
+idiossincrasia|idiosincrasia||S|ast|C1
+paroxismo|paroxismo||S|ast|C1
+cataclismo|cataclismo||S|nat|C1
+panaceia|panacea||S|ast|C1
+quimera|quimera (ilusión inalcanzable)||S|ast|C1
+saudosismo|saudosismo||S|ast|C1
+snob|esnob||S|ast|C1
+talismã|talismán||S|ast|C1
+ipsis verbis|ipsis verbis (literalmente)||L|ast|C1
+in extremis|in extremis (en el último momento)||L|ast|C1
+sui generis|sui generis (único en su especie)||L|ast|C1
+sine qua non|sine qua non (condición indispensable)||L|ast|C1
+ex abrupto|ex abrupto (de improviso)||L|ast|C1
+ex professo|ex professo (a propósito)||L|ast|C1
+urbi et orbi|urbi et orbi (a todo el mundo)||L|ast|C1
+apriorismo|apriorismo (juicio previo)||S|ast|C1
+ataraxia|ataraxia||S|ast|C1
+anacoreta|anacoreta (ermitaño)||S|ast|C1
+escatológico|escatológico (de las postrimerías)||A|ast|C1
+acédia|acedia (desgana espiritual)||S|ast|C1
+litúrgico|litúrgico||A|ast|C1
+a bem dizer|hablando con propiedad||L|ast|C1
+em rigor|en rigor||L|ast|C1
+por demais|en exceso (por demás)||L|ast|C1
+em boa verdade|a decir verdad||L|ast|C1
+em última análise|en última instancia||L|ast|C1
+por assim dizer|por así decirlo||L|ast|C1
+diga-se de passagem|dicho sea de paso||L|ast|C1
+sem delongas|sin más dilación||L|ast|C1
+em boa hora|en buena hora||L|ast|C1
+ao sabor de|al antojo de||L|ast|C1
+à mercê de|a merced de||L|ast|C1
+por conseguinte|por consiguiente||L|cnn|C1
+com efeito|en efecto||L|cnn|C1
+em síntese|en síntesis||L|cnn|C1
+de cor e salteado|de corrida (de memoria)||L|stu|C1
+sem tirar nem pôr|sin quitar ni poner||L|ast|C1
+com unhas e dentes|con uñas y dientes||L|ast|C1
+ao que consta|por lo que consta||L|cmu|C1
+refrão|refrán (dicho popular)||S|let|C1
+sentencioso|sentencioso||A|let|C1
+aforismo|aforismo||S|let|C1
+máxima|aforismo (sentencia clásica)||S|let|C1
+brocardo|brocardo (aforismo jurídico)||S|ist|C1
+dístico|dístico||S|let|C1
+mote|mote (motivo, pretext)||S|let|C1
+quimérico|quimérico (visionario)||A|ast|C1
+farisaico|farisaico||A|ast|C1
+sapiência|sapiencia (sabiduría)||S|ast|C1
+sagacidade|sagacidad||S|ast|C1
+perspicácia|perspicacia||S|ast|C1
+circunspecção|circunspección||S|ast|C1
+verosímil|verosímil||A|let|C1
+plausível|plausible||A|ast|C1
+eufemismo|eufemismo||S|let|C1
+ironizar|ironizar||V|cmu|C1
+mordacidade|mordacidad||S|emo|C1
+mordaz|mordaz||A|emo|C1
+sobrentendido|sobreentendido||S|cmu|C1
+subtilidade|sutileza||S|ast|C1
+hipérbole|hipérbole||S|let|C1
+ironia socrática|ironía socrática||L|let|C1
+escárnio|escarnio||S|cmu|C1
+escarnecer|escarnecer||V|cmu|C1
+remoque|pulla (indirecta)||S|cmu|C1
+fingimento|fingimiento||S|ast|C1
+dissimulação|disimulación||S|ast|C1
+dissimular|disimular||V|ast|C1
+beatice|beatería||S|ast|C1
+pudor|pudor||S|ast|C1
+pejorativo|peyorativo||A|let|C1
+conotação|connotación||S|let|C1
+circunlóquio|circunloquio||S|let|C1
+nas entrelinhas|entre líneas (en el subtexto)||L|cmu|C1
+meias palavras|medias palabras (insinuación)||S|cmu|C1
+segunda intenção|segunda intención||L|cmu|C1
+falsa modéstia|falsa modestia||L|cmu|C1
+afetação|afectación (pose)||S|ast|C1
+pedantaria|pedantería||S|ast|C1
+achincalhar|escarnecer publicamente||V|cmu|C1
+denegrir|denigrir||V|cmu|C1
+mesura|mesura (reverencia)||S|cmu|C1
+velado|velado (encubierto)||A|ast|C1
+cavilação|cavilación||S|ast|C1
+tergiversação|tergiversación||S|cmu|C1
+subterfúgio|subterfugio||S|ast|C1
+gozação|tomadura de pelo||S|cmu|C1
+chalaço|pulla (chiste burlón)||S|cmu|C1
+engolir sapos|tragar sapos||L|emo|C1
+pulga atrás da orelha|pulga detrás de la oreja||L|emo|C1
+tresloucado|trastornado (demente)||A|ast|C1
+atónito|aturdido (pasmado)||A|ast|C1
+encarniçado|encarnizado||A|ast|C1
+desnorteado|despistado (confundido)||A|ast|C1
+espertalhão|listillo||S|ast|C1
+salafrário|pícaro (timo)||S|ast|C1
+velhaco|bellaco||S|ast|C1
+calão|jerga (argot)||S|cmu|C1
+pachorra|pachorra (paciencia burlona)||S|emo|C1
+açafato|agitación (apuro)||S|ast|C1
+atropelo|atropello (agobio)||S|ast|C1
+patifaria|trastada||S|ast|C1
+estapafúrdio|estrafalario||A|ast|C1
+esquisitice|rareza (extravagancia)||S|ast|C1
+de soslaio|de reojo||L|ast|C1
+à socapa|a escondidas||L|ast|C1
+bulha|pelea (riña)||S|ast|C1
+maçada|faena (molestia)||S|ast|C1
+mangonha|maniobra (ardid)||S|ast|C1
+arranhar a vida|ganarse la vida (a duras penas)||L|fin|C1
+descomunal|descomunal||A|ast|C1
+sova|paliza (tunda)||S|ast|C1
+canseira|cansancio (fatiga)||S|emo|C1
+apoquentado|afligido (preocupado)||A|emo|C1
+esfarrapado|andrajoso (hecho trizas)||A|rop|C1
+esparramado|desparramado (por el suelo)||A|ast|C1
+empanturrado|empachado (harto)||A|ali|C1
+sarilho|enredo (lío)||S|ast|C1
+fumos|humos (enfado repentino)||S|cmu|C1
+almocreve|arriero||S|pro|C1
+alforge|alforja||S|tra|C1
+gadanho|gadaño (hoz de segar)||S|lav|C1
+mantilha|mantilla||S|rop|C1
+tricana|moza (chica guapa)||S|ast|C1
+maninho|manito (hermano querido)||S|fam|C1
+bairrismo|chauvinismo local (apego al terruño)||S|ast|C1
+aprisco|redil (majada)||S|nat|C1
+restolho|restropajo (rastrojo)||S|nat|C1
+lagar|almazara||S|lav|C1
+ceifa|siega||S|nat|C1
+socalco|bancale (terraza agrícola)||S|nat|C1
+malga|taza (cuenco de leche)||S|cas|C1
+broa|broa (pan de maíz)||S|ali|C1
+caldo verde|caldo verde (sopa de col)||L|ali|C1
+vira|vira (baile tradicional)||S|mus|C1
+adufe|adufe (pandereta)||S|mus|C1
+boião|bote (recipiente de vidro)||S|cas|C1
+petiz|chiquillo||S|ast|C1
+alvorada|alborada (canto al alba)||S|mus|C1
+endecha|endecha (canto elegíaco)||S|let|C1
+azenha|aceña (molino de agua)||S|lav|C1
+palheiro|pajar (casa de campo)||S|cas|C1
+herdade|cortijo (finca rústica)||S|lav|C1
+sobreiro|alcornoque (encina)||S|nat|C1
+azinheira|encina||S|nat|C1
+lampreia|lamprea||S|ali|C1
+sável|sábalo||S|ali|C1
+febra|chuleta de cerdo||S|ali|C1
+farinheira|morcilla de harina||S|ali|C1
+alheira|morcilla de pan||S|ali|C1
+requeijão|requesón||S|ali|C1
+desassossego|desasosiego||S|emo|C1
+enleio|aturdimiento (embeleso)||S|emo|C1
+acanhamento|apocamiento (sonrojo)||S|emo|C1
+acanhado|apocado (tímido)||A|emo|C1
+pejo|sonrojo (vergüenza)||S|emo|C1
+recato|recato||S|emo|C1
+ufania|ufanía (jactancia)||S|emo|C1
+jactância|jactancia||S|emo|C1
+despeito|despecho (resentimiento)||S|emo|C1
+complacência|complacencia||S|emo|C1
+afabilidade|afabilidad||S|emo|C1
+sobranceria|altanería (soberbia desdeñosa)||S|emo|C1
+desdenhoso|desdeñoso||A|emo|C1
+altivez|altivez||S|emo|C1
+longanimidade|longanimidad||S|ast|C1
+magnanimidade|magnanimidad||S|ast|C1
+prodigalidade|prodigalidad (derroche generoso)||S|ast|C1
+avareza|avaricia||S|ast|C1
+mesquinhez|mezquindad||S|ast|C1
+pusilanimidade|pusilanimidad||S|ast|C1
+temeridade|temeridad||S|ast|C1
+desassombro|desenvoltura (desfachatismo)||S|emo|C1
+desenvoltura|desenvoltura||S|emo|C1
+langor|languidez||S|emo|C1
+maledicência|maledicencia||S|cmu|C1
+comiseração|conmiseración||S|emo|C1
+obstinação|obstinación||S|emo|C1
+intransigência|intransigencia||S|emo|C1
+bonacheirão|bonachón||S|ast|C1
+rabugice|malacrencia (malhumor senil)||S|ast|C1
+amua|enfurruño||S|emo|C1
+fleuma|flema (serenidad imperturbable)||S|emo|C1
+enternecimento|enternecimiento||S|emo|C1
+balancete|balance de comprobación||S|fin|C1
+conselho de administração|consejo de administración||L|fin|C1
+auditoria fiscal|auditoría fiscal||L|fin|C1
+reestruturação|reestructuración||S|fin|C1
+externalização|externalización (tercerización)||S|fin|C1
+endividamento|endeudamiento||S|fin|C1
+morosidade|morosidad (dilación en el pago)||S|fin|C1
+insolvência|insolvencia||S|fin|C1
+liquidação de sociedades|liquidación de sociedades||L|fin|C1
+cadeia de valor|cadena de valor||L|fin|C1
+vantagem competitiva|ventaja competitiva||L|fin|C1
+quadro de pessoal|plantilla de personal||L|lav|C1
+organograma|organigrama||S|fin|C1
+intangível|intangible||A|fin|C1
+margem operacional|margen operativa||L|fin|C1
+confederação patronal|confederación patronal||L|ist|C1
+negociação coletiva|negociación colectiva||L|lav|C1
+convenção coletiva|convenio colectivo||L|ist|C1
+piquete de greve|piquete de huelga||L|lav|C1
+gestão de topo|alta dirección||L|fin|C1
+administrador delegado|consejero delegado||S|pro|C1
+conselho fiscal|consejo de vigilancia||L|fin|C1
+assembleia geral|junta general (de accionistas)||L|ist|C1
+capital social|capital social||L|fin|C1
+fundo de maneio|fondo de maniobra||S|fin|C1
+balanço social|balance social (informe de sostenibilidad)||L|fin|C1
+demonstração de resultados|cuenta de resultados||L|fin|C1
+amortização|amortización (contable)||S|fin|C1
+créditos incobráveis|créditos incobrables||L|fin|C1
+participação societária|participación societaria||L|fin|C1
+aquisição hostil|adquisición hostil (opa hostil)||L|fin|C1
+sociedade anónima|sociedad anónima||L|fin|C1

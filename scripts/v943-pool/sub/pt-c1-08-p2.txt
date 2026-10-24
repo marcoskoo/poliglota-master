@@ -1,0 +1,260 @@
+pauta aduaneira|arancel de aduanas||L|fin|C1
+aduaneiro|aduanero||A|fin|C1
+alfândega|aduana||S|fin|C1
+armazém alfandegário|depósito aduanero||L|fin|C1
+contingente|contingente (cuota de importación)||S|fin|C1
+subsídio à exportação|subvención a la exportación||L|fin|C1
+protecionismo|proteccionismo||S|fin|C1
+protecionista|proteccionista||A|fin|C1
+livre-câmbio|libre cambio||S|fin|C1
+certificação|certificación||S|fin|C1
+homologação|homologación||S|fin|C1
+homologar|homologar||V|fin|C1
+barreira comercial|barrera comercial||L|fin|C1
+barreira não tarifária|barrera no arancelaria||L|fin|C1
+concorrência desleal|competencia desleal||L|fin|C1
+transitário|transitario (agente de aduanas)||S|pro|C1
+vantagem comparativa|ventaja comparativa||L|fin|C1
+termos de troca|términos de intercambio||L|fin|C1
+reciprocidade|reciprocidad||S|fin|C1
+retorsão|retorsión (represalia comercial)||S|fin|C1
+retaliação|represalia (comercial)||S|fin|C1
+nação mais favorecida|nación más favorecida||L|fin|C1
+acordo bilateral|acuerdo bilateral||L|fin|C1
+multilateral|multilateral||A|fin|C1
+certificado de origem|certificado de origen||L|fin|C1
+guerra comercial|guerra comercial||L|fin|C1
+praça financeira|plaza financiera||L|fin|C1
+proveniência|procedencia (origen de mercancías)||S|fin|C1
+quota de importação|cuota de importación||L|fin|C1
+livre circulação de mercadorias|libre circulación de mercancías||L|fin|C1
+carga a granel|carga a granel||L|fin|C1
+carta de crédito|carta de crédito||L|fin|C1
+balancete|balance de comprobación||S|fin|C1
+balanço|balance (de situación)||S|fin|C1
+escrituração|contabilización (registro contable)||S|fin|C1
+amortização|amortización||S|fin|C1
+amortizar|amortizar||V|fin|C1
+provisão|provisión||S|fin|C1
+depreciação|depreciación||S|fin|C1
+depreciar|depreciar||V|fin|C1
+reconciliação|conciliación (bancaria)||S|fin|C1
+auditar|auditar||V|fin|C1
+auditoria|auditoría||S|fin|C1
+demonstração de resultados|cuenta de resultados||L|fin|C1
+demonstrações financeiras|estados financieros||L|fin|C1
+fluxo de caixa|flujo de caja||L|fin|C1
+passivo|pasivo (obligaciones totales)||S|fin|C1
+ativo circulante|activo corriente||L|fin|C1
+acionista|accionista||S|fin|C1
+conselho de administração|consejo de administración||L|fin|C1
+sem fins lucrativos|sin ánimo de lucro||L|fin|C1
+rentabilidade|rentabilidad||S|fin|C1
+rácio|ratio (indicador contable)||S|fin|C1
+rácio de endividamento|ratio de endeudamiento||L|fin|C1
+endividamento|endeudamiento||S|fin|C1
+valor acrescentado bruto|valor añadido bruto||L|fin|C1
+consolidação de contas|consolidación de cuentas||L|fin|C1
+exercício fiscal|ejercicio fiscal||L|fin|C1
+lucro tributável|beneficio tributable||L|fin|C1
+peritagem|peritaje (avalúo pericial)||S|fin|C1
+apólice|póliza||S|fin|C1
+resseguro|reaseguro||S|fin|C1
+notário|notario||S|pro|C1
+capital próprio|capital propio (fondos propios)||L|fin|C1
+capital social|capital social||L|fin|C1
+cotação|cotización (precio de mercado)||S|fin|C1
+cotar|cotizar||V|fin|C1
+derivado|derivado (instrumento financiero)||S|fin|C1
+opção de compra|opción de compra||L|fin|C1
+opção de venda|opción de venta||L|fin|C1
+contrato de futuros|contrato de futuros||L|fin|C1
+cobertura de risco|cobertura de riesgo||L|fin|C1
+volatilidade|volatilidad||S|fin|C1
+volátil|volátil||A|fin|C1
+especulativo|especulativo||A|fin|C1
+arbitragem|arbitraje||S|fin|C1
+alavancagem|apalancamiento||S|fin|C1
+corretagem|corretaje (comisión de intermediación)||S|fin|C1
+corretor|corredor (agente de bolsa)||S|pro|C1
+ordem de compra|orden de compra||L|fin|C1
+exposição ao risco|exposición al riesgo||L|fin|C1
+gestão de risco|gestión de riesgos||L|fin|C1
+gestor de carteira|gestor de carteras||L|pro|C1
+ativo subjacente|activo subyacente||L|fin|C1
+bolha especulativa|burbuja especulativa||L|fin|C1
+colusão|colusión||S|fin|C1
+abuso de informação privilegiada|abuso de información privilegiada||L|fin|C1
+morosidade|morosidad||S|fin|C1
+liquidação|liquidación (cierre de operaciones)||S|fin|C1
+colateral|colateral (garantía real)||S|fin|C1
+tesouraria|tesorería||S|fin|C1
+valor mobiliário|valor negociable (título valor)||L|fin|C1
+obrigacionista|obligacionista||S|fin|C1
+acionista maioritário|accionista mayoritario||L|fin|C1
+título de renda fixa|título de renta fija||L|fin|C1
+prazo de vencimento|plazo de vencimiento||L|fin|C1
+mercado bolsista|mercado bursátil||L|fin|C1
+operação a descoberto|operación en descubierto||L|fin|C1
+genoma|genoma||S|sci|C1
+genótipo|genotipo||S|sci|C1
+fenótipo|fenotipo||S|sci|C1
+cromossoma|cromosoma||S|sci|C1
+alelo|alelo||S|sci|C1
+heterozigoto|heterocigoto||S|sci|C1
+homozigoto|homoicigoto||S|sci|C1
+recessivo|recesivo||A|sci|C1
+mutagénese|mutagénesis||S|sci|C1
+mutagénico|mutagénico||A|sci|C1
+sequenciação|secuenciación||S|sci|C1
+sequenciar|secuenciar||V|sci|C1
+base nitrogenada|base nitrogenada||L|sci|C1
+dupla hélice|doble hélice||L|sci|C1
+ribossoma|ribosoma||S|sci|C1
+mitocôndria|mitocondria||S|sci|C1
+meiose|meiosis||S|sci|C1
+mitose|mitosis||S|sci|C1
+cariótipo|cariotipo||S|sci|C1
+citogenética|citogenética||S|sci|C1
+epigenética|epigenética||S|sci|C1
+transcrição|transcripción (genética)||S|sci|C1
+replicação|replicación (del ADN)||S|sci|C1
+polimerase|polimerasa||S|sci|C1
+nucleótido|nucleótido||S|sci|C1
+aminoácido|aminoácido||S|sci|C1
+proteómica|proteómica||S|sci|C1
+codão|codón||S|sci|C1
+hereditariedade|hereditariedad (heredabilidad)||S|sci|C1
+consanguinidade|consanguinidad||S|sci|C1
+linhagem|linaje (estirpe o cepa)||S|sci|C1
+plasmídeo|plásmido||S|sci|C1
+enzima de restrição|enzima de restricción||L|sci|C1
+soropositivo|seropositivo||A|sla|C1
+imunossupressão|inmunosupresión||S|sci|C1
+anticorpo monoclonal|anticuerpo monoclonal||L|sci|C1
+antígeno|antígeno||S|sci|C1
+sorologia|serología||S|sla|C1
+patógeno|patógeno||S|sci|C1
+virulência|virulencia||S|sci|C1
+cepa|cepa (estirpe microbiana)||S|sci|C1
+meio de cultura|medio de cultivo||L|sci|C1
+resistência antimicrobiana|resistencia antimicrobiana||L|sci|C1
+microbiano|microbiano||A|sci|C1
+microbioma|microbioma||S|sci|C1
+infeção oportunista|infección oportunista||L|sci|C1
+anaeróbio|anaerobio||A|sci|C1
+esporo|espora||S|sci|C1
+bacteriófago|bacteriófago||S|sci|C1
+biofilme|biofilm (biopelícula)||S|sci|C1
+leucócito|leucocito||S|cor|C1
+linfócito|linfocito||S|sci|C1
+fagócito|fagocito||S|sci|C1
+fagocitose|fagocitosis||S|sci|C1
+macrófago|macrófago||S|sci|C1
+citocina|citocina||S|sci|C1
+interferão|interferón||S|sci|C1
+zoonose|zoonosis||S|sci|C1
+hospedeiro|hospedador (huésped)||S|sci|C1
+simbiose|simbiosis||S|sci|C1
+comensalismo|comensalismo||S|sci|C1
+septicemia|septicemia||S|sla|C1
+estafilococo|estafilococo||S|sci|C1
+micose|micosis||S|sla|C1
+aglutinina|aglutinina||S|sci|C1
+esporulação|esporulación||S|sci|C1
+neurónio|neurona||S|sci|C1
+sinapse|sinapsis||S|sci|C1
+sináptico|sináptico||A|sci|C1
+córtex|corteza (córtex cerebral)||S|sci|C1
+hipocampo|hipocampo (estructura cerebral)||S|sci|C1
+neurotransmissor|neurotransmisor||S|sci|C1
+dopamina|dopamina||S|sci|C1
+mielina|mielina||S|sci|C1
+axónio|axón||S|sci|C1
+dendrite|dendrita||S|sci|C1
+glia|glía||S|sci|C1
+plasticidade neuronal|plasticidad neuronal||L|sci|C1
+cognitivo|cognitivo||A|sci|C1
+cognição|cognición||S|sci|C1
+psicomotor|psicomotor||A|sci|C1
+neuromuscular|neuromuscular||A|sci|C1
+degenerativo|degenerativo||A|sci|C1
+degenerescência|degeneración (degenerescencia)||S|sci|C1
+estupor|estupor||S|sla|C1
+neuroimagem|neuroimagen||S|sci|C1
+tomografia computorizada|tomografía computarizada||L|sci|C1
+ressonância magnética|resonancia magnética||L|sci|C1
+latência|latencia||S|sci|C1
+hemisfério|hemisferio||S|sci|C1
+afasia|afasia||S|sci|C1
+disfunção|disfunción||S|sla|C1
+encefálico|encefálico||A|sci|C1
+encéfalo|encéfalo||S|sci|C1
+medula espinal|medula espinal||L|sci|C1
+condicionamento clássico|condicionamiento clásico||L|sci|C1
+gânglio|ganglio (nervioso)||S|sci|C1
+lóbulo|lóbulo||S|sci|C1
+catálise|catálisis||S|sci|C1
+catalisador|catalizador||S|sci|C1
+ligação covalente|enlace covalente||L|sci|C1
+iónico|iónico||A|sci|C1
+valência|valencia||S|sci|C1
+isómero|isómero||S|sci|C1
+estereoquímica|estereoquímica||S|sci|C1
+estequiometria|estequiometría||S|sci|C1
+titulação|valoración (titulación)||S|sci|C1
+solvatação|solvatación||S|sci|C1
+precipitado|precipitado (sólido de una reacción)||S|sci|C1
+alcalino|alcalino||A|sci|C1
+hidrocarboneto|hidrocarboneto||S|sci|C1
+polímero|polímero||S|sci|C1
+polimerização|polimerización||S|sci|C1
+monómero|monómero||S|sci|C1
+radical livre|radical libre||L|sci|C1
+destilação fracionada|destilación fraccionada||L|sci|C1
+sublimação|sublimación||S|sci|C1
+viscosidade|viscosidad||S|sci|C1
+halogéneo|halógeno||A|sci|C1
+aquoso|acuoso||A|sci|C1
+anfotérico|anfotérico||A|sci|C1
+quelante|quelante||S|sci|C1
+grupo funcional|grupo funcional||L|sci|C1
+isótopo|isótopo||S|sci|C1
+ponte de hidrogénio|puente de hidrógeno||L|sci|C1
+reação exotérmica|reacción exotérmica||L|sci|C1
+equilíbrio químico|equilibrio químico||L|sci|C1
+solução saturada|disolución saturada||L|sci|C1
+hidrólise|hidrólisis||S|sci|C1
+afinidade eletrónica|afinidad electrónica||L|sci|C1
+quantização|cuantización||S|sci|C1
+quântico|cuántico||A|sci|C1
+entrelaçamento|entrelazamiento||S|sci|C1
+superposição|superposición (cuántica)||S|sci|C1
+incerteza|incertidumbre||S|sci|C1
+indeterminação|indeterminación||S|sci|C1
+probabilístico|probabilístico||A|sci|C1
+observável|observable (magnitud medible)||S|sci|C1
+função de onda|función de onda||L|sci|C1
+partícula elementar|partícula elemental||L|sci|C1
+acelerador de partículas|acelerador de partículas||L|sci|C1
+colisor de hadrões|colisionador de hadrones||L|sci|C1
+neutrino|neutrino||S|sci|C1
+bóson|bosón||S|sci|C1
+férmion|fermión||S|sci|C1
+antimatéria|antimateria||S|sci|C1
+decaimento|desintegración (decaimiento radiactivo)||S|sci|C1
+espalhamento|dispersión (de partículas)||S|sci|C1
+fissão nuclear|fisión nuclear||L|sci|C1
+fusão nuclear|fusión nuclear||L|sci|C1
+relatividade|relatividad||S|sci|C1
+espaço-tempo|espaciotiempo||S|sci|C1
+gravitacional|gravitacional||A|sci|C1
+ondulatório|ondulatorio||A|sci|C1
+corpuscular|corpuscular||A|sci|C1
+corpúsculo|corpúsculo (partícula)||S|sci|C1
+efeito fotoelétrico|efecto fotoeléctrico||L|sci|C1
+transição de fase|transición de fase||L|sci|C1
+quebra de simetria|ruptura de simetría||L|sci|C1
+fotão|fotón||S|sci|C1
+interação forte|interacción fuerte||L|sci|C1
+número quântico|número cuántico||L|sci|C1

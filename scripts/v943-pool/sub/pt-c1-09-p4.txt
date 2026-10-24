@@ -1,0 +1,257 @@
+gestão de desempenho|gestión del desempeño||L|lav|C1
+clima organizacional|clima organizacional||L|lav|C1
+psicometria|psicometría||S|sci|C1
+assertividade|asertividad||S|emo|C1
+proatividade|proactividad||S|lav|C1
+esgotamento profissional|desgaste profesional (burnout)||L|sla|C1
+assédio moral|acoso moral (laboral)||L|lav|C1
+absenteísmo|absentismo (laboral)||S|lav|C1
+plano de formação|plan de formación||L|lav|C1
+polivalência|polivalencia||S|lav|C1
+conciliação trabalho-família|conciliación trabajo-familia||L|lav|C1
+reconversão profissional|reconversión profesional||L|lav|C1
+negociação salarial|negociación salarial||L|lav|C1
+psicologia organizacional|psicología organizacional||L|sci|C1
+comprometimento organizacional|compromiso organizacional||L|sci|C1
+desemprego estrutural|paro estructural||L|fin|C1
+descrição de funções|descripción de funciones||L|lav|C1
+remuneração variável|retribución variable||L|fin|C1
+subsídio de refeição|ayuda de comedor||L|fin|C1
+progressão na carreira|progresión de carrera||L|lav|C1
+captação de talentos|captación de talentos||L|lav|C1
+rotação de pessoal|rotación de personal||L|lav|C1
+aviso prévio|preaviso||L|lav|C1
+cessação de contrato|extinción del contrato||L|ist|C1
+justa causa de despedimento|despido justificado||L|ist|C1
+indemnização por despedimento|indemnización por despido||L|ist|C1
+período experimental|período de prueba||L|lav|C1
+recrutamento|reclutamiento||S|lav|C1
+trabalhador-estudante|trabajador-estudiante||S|lav|C1
+andragogia|andragogia (educación de adultos)||S|stu|C1
+currículo oculto|currículo oculto||L|stu|C1
+avaliação formativa|evaluación formativa||L|stu|C1
+aprendizagem significativa|aprendizaje significativo||L|stu|C1
+aula invertida|aula invertida (clase al revés)||L|stu|C1
+literacia|alfabetización (competencia lectora)||S|stu|C1
+literacia mediática|alfabetización mediática||L|stu|C1
+iletrismo|analfabetismo funcional||S|stu|C1
+psicomotricidade|psicomotricidad||S|stu|C1
+construtivismo|constructivismo||S|stu|C1
+docência|docencia||S|pro|C1
+retenção escolar|repetición de curso (fracaso escolar)||L|stu|C1
+sobredotação|sobredotación (altas capacidades)||S|stu|C1
+necessidades educativas especiais|necesidades educativas especiales||L|stu|C1
+disgrafia|disgrafia||S|stu|C1
+discalculia|discalculia||S|stu|C1
+educação inclusiva|educación inclusiva||L|stu|C1
+ensino recorrente|enseñanza recurrente (de adultos)||L|stu|C1
+diferenciação pedagógica|diferenciación pedagógica||L|stu|C1
+conselho de turma|consejo de clase (junta de evaluación)||L|stu|C1
+diretor de turma|tutor de clase||S|pro|C1
+departamento curricular|departamento curricular||L|stu|C1
+projeto educativo|proyecto educativo (del centro)||L|stu|C1
+provas de aferição|pruebas de diagnóstico||L|stu|C1
+assiduidade|asiduidad||S|stu|C1
+formação contínua|formación continua||L|lav|C1
+supervisão pedagógica|supervisión pedagógica||L|stu|C1
+estágio pedagógico|prácticas del profesorado||L|stu|C1
+psicologia da educação|psicología de la educación||L|sci|C1
+escritura pública|escritura pública||L|ist|C1
+habeas corpus|hábeas corpus||L|ist|C1
+quórum|quórum||S|ist|C1
+álibi|coartada||S|ist|C1
+exoneração|exoneración (destitución)||S|ist|C1
+sobreseimento|sobreseimiento||S|ist|C1
+sentença transitada em julgado|sentencia firme (cosa juzgada)||L|ist|C1
+instrução do processo|instrucción del proceso||L|ist|C1
+arguido|imputado||S|ist|C1
+prova pericial|prueba pericial||L|ist|C1
+peritagem|peritaje||S|ist|C1
+comarca|comarca (circunscripción judicial)||S|ist|C1
+acórdão|auto (sentencia de segunda instancia)||S|ist|C1
+usufruto|usufructo||S|ist|C1
+penhora|embargo (de bienes)||S|ist|C1
+usucapião|usucapión||S|ist|C1
+providência cautelar|medida cautelar||L|ist|C1
+prescrição do crime|prescripción del delito||L|ist|C1
+boa-fé|buena fe||S|ist|C1
+notarial|notarial||A|ist|C1
+tabelião|notario||S|pro|C1
+solicitador|gestor administrativo (procurador)||S|pro|C1
+jurisconsulto|jurisconsulto||S|pro|C1
+ambulatório|ambulatorio (consulta externa)||S|sla|C1
+posologia|posología (pauta de medicación)||S|sla|C1
+ensaio clínico|ensayo clínico||L|sla|C1
+consentimento informado|consentimiento informado||L|sla|C1
+vigilância epidemiológica|vigilancia epidemiológica||L|sla|C1
+rastreio|cribado (detección precoz)||S|sla|C1
+iatrogenia|yatrogenia||S|sla|C1
+nosocomial|nosocomial (intrahospitalario)||A|sla|C1
+ergonomia|ergonomía||S|tec|C1
+desavença|desavenencia (disputa)||S|rel|C1
+benevolência|benevolencia||S|emo|C1
+predileção|predilección||S|emo|C1
+desapego|desapego||S|emo|C1
+suspeição|recelo (sospecha fundada)||S|emo|C1
+desafeição|desafecto (enfriamiento)||S|rel|C1
+conivência|connivencia (complicidad)||S|rel|C1
+implicar com|meterse con (molestar a)||L|rel|C1
+desforra|desquite (venganza)||S|rel|C1
+acerto de contas|ajuste de cuentas||L|rel|C1
+bem-querer|aprecio (afecto)||S|rel|C1
+desvelos|desvelos (cuidados)||S|rel|C1
+quernência|apego arraigado (al terruño)||S|emo|C1
+deferência|deferencia (respeto)||S|rel|C1
+urbanidade|urbanidad||S|cmu|C1
+descomedido|descomedido (desmesurado)||A|ast|C1
+fatuidade|fatuidad (vanidad)||S|emo|C1
+presunçoso|presumido (engreído)||S|ast|C1
+afago|consuelo (mimo)||S|rel|C1
+compadrio|compadrazgo (clientelismo social)||S|ast|C1
+cizânia|cizaña (discordia)||S|ast|C1
+emulação|emulación||S|ast|C1
+mexerico|chisme (cotilleo)||S|cmu|C1
+gracejo|gracia (chiste)||S|cmu|C1
+desagravio|desagravio||S|ast|C1
+agravo|agravio||S|ist|C1
+desfeita|desplante (afrenta)||S|ast|C1
+desplante|desplante||S|ast|C1
+desgarro|desgarro (arrojo)||S|ast|C1
+coxia|camarino (tras el escenario)||S|art|C1
+encenação|puesta en escena||S|cin|C1
+encenador|director de escena||S|pro|C1
+solilóquio|soliloquio||S|let|C1
+dramaturgia|dramaturgia||S|art|C1
+versificação|versificación||S|let|C1
+redondilha|redondilla||S|let|C1
+decassílabo|decasílabo||S|let|C1
+asonância|asonancia||S|let|C1
+écloga|égloga||S|let|C1
+cancioneiro|cancionero||S|let|C1
+cenografia|escenografía||S|art|C1
+elocução|elocución||S|let|C1
+trovadorismo|trovadorismo||S|let|C1
+mal-dizer|sátira (poesía satírica medieval)||S|let|C1
+vilancico|villancico (canción popular sacra)||S|mus|C1
+madrigal|madrigal||S|mus|C1
+motete|motete||S|mus|C1
+recitativo|recitativo (pasaje declamado)||S|mus|C1
+corifeu|corifeo||S|let|C1
+histrião|histrión||S|pro|C1
+teatro de revista|teatro de revista (comedia musical)||S|art|C1
+auto sacramental|auto sacramental||L|let|C1
+entremez|entremés||S|art|C1
+bailado|ballet (danza)||S|mus|C1
+subtexto|subtexto||S|let|C1
+focalização|focalización||S|let|C1
+narratologia|narratología||S|let|C1
+estilística|estilística||S|let|C1
+expedição científica|expedición científica||L|vig|C1
+diário de bordo|diario de a bordo||L|vig|C1
+periplo|periplo||S|vig|C1
+acampamento base|campamento base||L|vig|C1
+cordada|cordada (en montaña)||S|spt|C1
+bivaque|vivac||S|vig|C1
+subsistência|subsistencia||S|nat|C1
+mantimentos|víveres (provisiones)||S|ali|C1
+altímetro|altímetro||S|tec|C1
+arnês|arnés (arnés de seguridad)||S|spt|C1
+intrepidez|intrepidez||S|ast|C1
+fiorde|fiordo||S|nat|C1
+espeleologia|espeleología||S|sci|C1
+topográfico|topográfico||A|nat|C1
+montanhismo|montañismo||S|spt|C1
+fundeio|fondeo (anclaje)||S|tra|C1
+patrão de embarcação|patrón de embarcación||L|pro|C1
+estibordo|estribor||S|tra|C1
+bombordo|babor||S|tra|C1
+ancoradouro|fondeadero||S|tra|C1
+vigia|vigía (atalaya)||S|tra|C1
+cumeeira|cumbrera (caballete del tejado)||S|cas|C1
+bacia hidrográfica|cuenca hidrográfica||L|nat|C1
+esteiro|estero (braço de mar)||S|nat|C1
+andarilho|andariego (vagabundo)||S|ast|C1
+desbravador|desbravador (pionero)||S|ast|C1
+orográfico|orográfico||A|nat|C1
+atol|atolón||S|nat|C1
+calhau|guijarro||S|nat|C1
+cinematografia|cinematografía||S|cin|C1
+cinematográfico|cinematográfico||A|cin|C1
+plano-sequência|plano secuencia||S|cin|C1
+montagem paralela|montaje paralelo||L|cin|C1
+elipse|elipsis (narrativa)||S|cin|C1
+analepse|analepsis (salto atrás)||S|let|C1
+prolepse|prolepsis (salto adelante)||S|let|C1
+diegese|diegesis||S|cin|C1
+guião de rodagem|guion de rodaje||L|cin|C1
+rodagem|rodaje||S|cin|C1
+curta-metragem|cortometraje||S|cin|C1
+longa-metragem|largometraje||S|cin|C1
+dobragem|doblaje||S|cin|C1
+coadjuvante|de reparto (secundario)||A|cin|C1
+cariz|cariz (índole)||S|ast|C1
+foco narrativo|foco narrativo (punto de vista)||L|let|C1
+adaptação literária|adaptación literaria||L|cin|C1
+cinefilia|cinofilia (afición al cine)||S|cin|C1
+cineclube|cineclub||S|sve|C1
+sessão contínua|sesión continua||L|cin|C1
+pré-estreia|preestreno||S|cin|C1
+locução|locución||S|cin|C1
+desenho de som|diseño de sonido||L|cin|C1
+direção de fotografia|dirección de fotografía||L|cin|C1
+contra-plano|contraplano||S|cin|C1
+grande-angular|gran angular||S|cin|C1
+profundidade de campo|profundidad de campo||L|cin|C1
+cinema de autor|cine de autor||L|cin|C1
+linguagem cinematográfica|lenguaje cinematográfico||L|cin|C1
+pirâmide etária|pirámide de población||L|sci|C1
+índice de natalidade|índice de natalidad||L|sci|C1
+fecundidade|fecundidad||S|sci|C1
+fluxos migratórios|flujos migratorios||L|sci|C1
+saldo migratório|saldo migratorio||L|sci|C1
+recenseamento|censo (padrón)||S|ist|C1
+agregado familiar|unidad familiar||L|fam|C1
+monoparental|monoparental||A|fam|C1
+parentesco por afinidade|parentesco por afinidad||L|fam|C1
+consanguinidade|consanguinidad||S|fam|C1
+estirpe|estirpe||S|fam|C1
+gerontologia|gerontología||S|sci|C1
+despopulação|despoblación||S|sci|C1
+despovoamento do interior|despoblamiento del interior||L|sci|C1
+nupcialidade|nupcialidad||S|sci|C1
+união de facto|unión de hecho||L|fam|C1
+envelhecimento demográfico|envejecimiento demográfico||L|sci|C1
+longevidade|longevidad||S|sci|C1
+coortes|cohortes||S|sci|C1
+mobilidade pendular|movilidad pendular||L|sci|C1
+periurbanização|periurbanización||S|cit|C1
+intergeracional|intergeneracional||A|fam|C1
+primogenitura|primogenitura||S|fam|C1
+curatela|curatela||S|ist|C1
+responsabilidades parentais|responsabilidades parentales||L|ist|C1
+nepotismo|nepotismo||S|ist|C1
+arquitetura civil|arquitectura civil||L|art|C1
+casario|caserío||S|cit|C1
+calçada portuguesa|adoquín (empedrado artístico)||L|cit|C1
+beiral|alero||S|cas|C1
+azulejaria|azulejería||S|art|C1
+cantaria|cantería (sillería)||S|art|C1
+talha dourada|talla dorada (retablo barroco)||L|art|C1
+alpendre|cobertizo (porche)||S|cas|C1
+solar|solar (casa señorial)||S|cit|C1
+paço|palacio (casa señorial régia)||S|cit|C1
+pelourinho|picota (rollo de justicia)||S|cit|C1
+adarve|adarve (paseo de ronda)||S|cit|C1
+atalaia|atalaya (torre vigía)||S|cit|C1
+amuralhado|amurallado||A|cit|C1
+ogival|ojival||A|art|C1
+arquitrave|arquitrabe||S|art|C1
+clarabóia|claraboya||S|art|C1
+logradouro|vía pública (terreno urbano)||S|cit|C1
+malaposta|diligencia (coche de correias)||S|tra|C1
+mestre de obras|maestro de obras||S|pro|C1
+transepto|crucero (transepto)||S|art|C1
+deambulatório|deambulatorio||S|art|C1
+pedonal|peatonal||A|cit|C1
+coreto|quiosco de música||S|cit|C1
+varina|pescadera (mujer del pueblo)||S|pro|C1

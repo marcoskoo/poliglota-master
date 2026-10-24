@@ -1,0 +1,260 @@
+pecuária|ganadería||S|nat|C1
+pastagem|pasto||S|nat|C1
+pastorícia|pastoreo||S|nat|C1
+aprisco|redil||S|ani|C1
+tosquia|esquila||S|ani|C1
+engorda|engorde (cebo del ganado)||S|ani|C1
+estabulação|estabulación||S|ani|C1
+inseminação artificial|inseminación artificial||E|ani|C1
+ração|pienso (alimento para ganado)||S|ani|C1
+ovino|ovino||A|ani|C1
+caprino|caprino||A|ani|C1
+suíno|porcino||A|ani|C1
+aves de capoeira|aves de corral||E|ani|C1
+capoeira|gallinero||S|cas|C1
+aquacultura|acuicultura||S|nat|C1
+mariscar|mariscar||V|ali|C1
+marisqueira|marisquería||S|ris|C1
+arrastão|red de arrastre||S|lav|C1
+defeso|veda (temporada de pesca cerrada)||S|lav|C1
+aquicultor|acuicultor||S|pro|C1
+viveiro de mexilhões|criadero de mejillones||E|nat|C1
+desova|desove||S|ani|C1
+alevim|alevín||S|ani|C1
+lota|lonja (de pescado)||S|fin|C1
+apascentar|apacentar||V|nat|C1
+ceifa|siega||S|nat|C1
+mangual|mayal||S|lav|C1
+eira|era (de trillar)||S|nat|C1
+socalco|bancal (terraza de cultivo)||S|nat|C1
+regadio|regadío||S|nat|C1
+sequeiro|secano||S|nat|C1
+rotação de culturas|rotación de cultivos||E|nat|C1
+silvicultura|silvicultura||S|nat|C1
+povoamento florestal|poblamiento forestal||E|nat|C1
+matagal|matorral||S|nat|C1
+sub-bosque|sotobosque||S|nat|C1
+clareira|claro (del bosque)||S|nat|C1
+desmatamento|deforestación||S|nat|C1
+reflorestação|repoblación forestal||S|nat|C1
+abate|tala (de árboles)||S|nat|C1
+eucaliptal|eucaliptal (plantación de eucaliptos)||S|nat|C1
+sobreiral|alcornocal||S|nat|C1
+carvalhal|robledal||S|nat|C1
+incêndio florestal|incendio forestal||E|nat|C1
+deflagração|deflagración||S|nat|C1
+mato|maleza||S|nat|C1
+rebento|brote (renuevo)||S|nat|C1
+cepa|cepa (tocón)||S|nat|C1
+resinoso|resinoso||A|nat|C1
+caducifólio|caducifolio||A|sci|C1
+corta-fogos|cortafuegos||S|nat|C1
+regeneração natural|regeneración natural||E|nat|C1
+silvicultor|silvicultor||S|pro|C1
+sebe|seto vivo||S|nat|C1
+arvoredo|arbolado||S|nat|C1
+folhagem|follaje||S|nat|C1
+lenho|leño (madera)||S|nat|C1
+incendiário|incendiario||S|nat|C1
+urze|brezo||S|nat|C1
+tojo|tojo||S|nat|C1
+esteva|jara||S|nat|C1
+sobreiro|alcornoque||S|nat|C1
+azinheira|encina||S|nat|C1
+desbravar|desbrozar||V|nat|C1
+desmoronamento|derrumbamiento||S|nat|C1
+resíduo|residuo||S|nat|C1
+aterro sanitário|vertedero controlado||E|cit|C1
+ecoponto|punto limpio (de reciclaje)||S|cit|C1
+recolha seletiva|recogida selectiva||E|cit|C1
+economia circular|economía circular||E|fin|C1
+reaproveitamento|reaprovechamiento||S|nat|C1
+reutilização|reutilización||S|nat|C1
+descarte|descarte||S|nat|C1
+embalagem|envase||S|cmp|C1
+embalagem retornável|envase retornable||E|cmp|C1
+obsoleto|obsoleto||A|tec|C1
+obsolescência programada|obsolescencia programada||E|tec|C1
+sucata|chatarra||S|cmp|C1
+ferro-velho|depósito de chatarra||S|cmp|C1
+compostagem|compostaje||S|nat|C1
+digestão anaeróbia|digestión anaerobia||E|sci|C1
+incineração|incineración||S|nat|C1
+incineradora|incineradora||S|cit|C1
+lixo eletrónico|residuos electrónicos||E|tec|C1
+lixo orgânico|residuos orgánicos||E|nat|C1
+triagem|triaje (clasificación de residuos)||S|cit|C1
+gestão de resíduos|gestión de residuos||E|ist|C1
+ciclo de vida|ciclo de vida||E|sci|C1
+pegada ecológica|huella ecológica||E|nat|C1
+pegada de carbono|huella de carbono||E|nat|C1
+valorização energética|valorización energética||E|sci|C1
+logística inversa|logística inversa||E|fin|C1
+efluente|efluente||S|sci|C1
+escória|escoria||S|sci|C1
+entulho|escombros||S|cas|C1
+demolição|demolición||S|cas|C1
+biomassa|biomasa||S|sci|C1
+perspicaz|perspicaz||A|ast|C1
+sagaz|sagaz||A|ast|C1
+ponderado|ponderado||A|ast|C1
+imperturbável|imperturbable||A|ast|C1
+inabalável|inquebrantable||A|ast|C1
+incólume|incólume||A|ast|C1
+criterioso|criterioso||A|ast|C1
+volúvel|voluble||A|ast|C1
+diletante|diletante||A|ast|C1
+pedante|pedante||A|ast|C1
+presunçoso|presumido||A|ast|C1
+altivo|altivo||A|ast|C1
+mesquinho|mezquino||A|ast|C1
+magnânimo|magnánimo||A|ast|C1
+pusilânime|pusilánime||A|ast|C1
+indolente|indolente||A|ast|C1
+displicente|displicente||A|ast|C1
+insolente|insolente||A|ast|C1
+impudente|impúdico||A|ast|C1
+dissimulado|disimulado||A|ast|C1
+cândido|cándido||A|ast|C1
+crédulo|crédulo||A|ast|C1
+obtuso|obtuso||A|ast|C1
+taciturno|taciturno||A|ast|C1
+loquaz|loquaz||A|ast|C1
+lacónico|lacónico||A|ast|C1
+estoico|estoico||A|ast|C1
+impávido|impávido||A|ast|C1
+fleumático|flemático||A|ast|C1
+mordaz|mordaz||A|ast|C1
+contumaz|contumaz||A|ast|C1
+esmerado|esmerado||A|ast|C1
+ilibado|ilibado||A|ast|C1
+asseverar|aseverar||V|cmu|C1
+fundamentar|fundamentar||V|cmu|C1
+refutar|refutar||V|cmu|C1
+rebater|refutar (rebatir)||V|cmu|C1
+contrapor|contraponer||V|cmu|C1
+esgrimir|esgrimir (como argumento)||V|cmu|C1
+invocar|invocar||V|cmu|C1
+insinuar|insinuar||V|cmu|C1
+dar a entender|dar a entender||E|cmu|C1
+subentender|sobrentender||V|cmu|C1
+pressupor|presuponer||V|cmu|C1
+postular|postular||V|cmu|C1
+inferir|inferir||V|cmu|C1
+preconizar|preconizar||V|cmu|C1
+advogar|abogar por||V|cmu|C1
+encarecer|encarecer||V|cmu|C1
+denegrir|denigrir||V|cmu|C1
+vilipendiar|vilipendiar||V|cmu|C1
+menosprezar|despreciar||V|cmu|C1
+denostar|denostar||V|cmu|C1
+difamar|difamar||V|cmu|C1
+vociferar|vociferar||V|cmu|C1
+cochichar|cuchichear||V|cmu|C1
+gaguejar|tartamudear||V|cmu|C1
+balbuciar|balbucir||V|cmu|C1
+dissertar|disertar||V|cmu|C1
+enunciar|enunciar||V|cmu|C1
+explicitar|explicitar||V|cmu|C1
+pormenorizar|pormenorizar||V|cmu|C1
+desdizer-se|desdecirse||V|cmu|C1
+escudar-se em|escudarse en||E|cmu|C1
+divagar|divagar||V|cmu|C1
+pressuposto|presupuesto (base de razonamiento)||S|ast|C1
+axioma|axioma||S|sci|C1
+corolário|corolario||S|sci|C1
+conjetura|conjetura||S|sci|C1
+epistemologia|epistemología||S|sci|C1
+ontologia|ontología||S|sci|C1
+heurística|heurística||S|sci|C1
+exegese|exégesis||S|let|C1
+hermenêutica|hermenéutica||S|let|C1
+dissertação|disertación||S|stu|C1
+antítese|antítesis||S|let|C1
+paradoxo|paradoja||S|ast|C1
+vigência|vigencia||S|ast|C1
+conotação|connotación||S|let|C1
+polissemia|polisemia||S|let|C1
+sinestesia|sinestesia||S|let|C1
+cânone|canon||S|let|C1
+aferição|contraste (calibración de medida)||S|sci|C1
+delimitação|delimitación||S|sci|C1
+operacionalização|operacionalización||S|sci|C1
+problematização|problematización||S|sci|C1
+interdisciplinaridade|interdisciplinariedad||S|stu|C1
+docência|docencia||S|stu|C1
+discente|discente||S|stu|C1
+erudição|erudición||S|stu|C1
+lucubração|lucubración||S|let|C1
+anacronismo|anacronismo||S|let|C1
+etnocentrismo|etnocentrismo||S|sci|C1
+reducionismo|reduccionismo||S|sci|C1
+idiossincrasia|idiosincrasia||S|ast|C1
+obscurantismo|oscurantismo||S|let|C1
+quintessência|quintaesencia||S|ast|C1
+narratologia|narratología||S|let|C1
+falácia|falacia||S|cmu|C1
+sofisma|sofisma||S|cmu|C1
+falaz|falaz||A|cmu|C1
+veracidade|veracidad||S|ast|C1
+verídico|verídico||A|cmu|C1
+mendaz|mendaz||A|cmu|C1
+embuste|embuste||S|cmu|C1
+logro|engaño||S|cmu|C1
+ludibriar|engañar (burlarse de)||V|cmu|C1
+engodo|cebo (engaño)||S|cmu|C1
+ardil|ardid||S|ast|C1
+dissimulação|disimulo||S|cmu|C1
+fingimento|fingimiento||S|cmu|C1
+farisaísmo|fariseísmo||S|ast|C1
+cantilena|cantinela||S|cmu|C1
+tergiversação|tergiversación||S|cmu|C1
+reticência|reticencia||S|cmu|C1
+subterfúgio|subterfugio||S|cmu|C1
+escapatória|escapatoria||S|ast|C1
+evasiva|evasiva||S|cmu|C1
+indubitável|indudable||A|cmu|C1
+insofismável|insofismable||A|cmu|C1
+incontestável|incontestable||A|cmu|C1
+inquestionável|incuestionable||A|cmu|C1
+verossímil|verosímil||A|cmu|C1
+verossimilhança|verosimilitud||S|let|C1
+credulidade|credulidad||S|ast|C1
+desmentido|desmentido||S|cmu|C1
+vigarice|timo (estafa)||S|fin|C1
+patranha|patraña||S|cmu|C1
+mentira piedosa|mentira piadosa||E|cmu|C1
+meia-verdade|media verdad||S|cmu|C1
+esbelto|esbelto||A|cor|C1
+escultural|escultural||A|cor|C1
+etéreo|etéreo||A|let|C1
+fugaz|fugaz||A|let|C1
+translúcido|translúcido||A|col|C1
+diáfano|diáfano||A|col|C1
+nacarado|nacarado||A|col|C1
+irisado|irisado||A|col|C1
+cromático|cromático||A|art|C1
+policromia|policromía||S|art|C1
+asseio|aseo||S|cas|C1
+puído|desgastado (raído)||A|rop|C1
+sórdido|sórdido||A|ast|C1
+vil|vil||A|ast|C1
+baixeza|bajeza||S|ast|C1
+ignomínia|ignominia||S|ast|C1
+opróbrio|oprobio||S|ast|C1
+vitupério|vituperio||S|ast|C1
+infâmia|infamia||S|ast|C1
+decoro|decoro||S|ast|C1
+pudor|pudor||S|ast|C1
+recato|recato||S|ast|C1
+comedimento|comedimiento||S|ast|C1
+sobriedade|sobriedad||S|ast|C1
+austeridade|austeridad||S|ast|C1
+austero|austero||A|ast|C1
+frugalidade|frugalidad||S|ali|C1
+sumptuoso|suntuoso||A|art|C1
+opulência|opulencia||S|fin|C1
+brio|brío||S|ast|C1
+virtuosismo|virtuosismo||S|art|C1
+enlevo|embeleso||S|let|C1
+embevecimento|embelesamiento||S|let|C1

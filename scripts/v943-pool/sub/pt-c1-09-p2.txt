@@ -1,0 +1,260 @@
+telecomunicações|telecomunicaciones||S|tec|C1
+fibra ótica|fibra óptica||L|tec|C1
+largura de banda|ancho de banda||L|tec|C1
+latência|latencia||S|tec|C1
+comutação|conmutación||S|tec|C1
+encaminhamento de pacotes|encaminamiento de paquetes||L|tec|C1
+pacote de dados|paquete de datos||L|tec|C1
+repetidor de sinal|repetidor de señal||L|tec|C1
+satélite geoestacionário|satélite geoestacionario||L|sci|C1
+telemetria|telemetría||S|tec|C1
+interoperabilidade|interoperabilidad||S|tec|C1
+congestionamento de rede|congestión de red||L|tec|C1
+neutralidade da rede|neutralidad de la red||L|tec|C1
+multiplexagem|multiplexado||S|tec|C1
+cabo submarino|cable submarino||L|tec|C1
+topologia de rede|topología de red||L|tec|C1
+redundância|redundancia||S|tec|C1
+nó de rede|nodo de red||L|tec|C1
+espectro radioelétrico|espectro radioeléctrico||L|tec|C1
+estação base|estación base||L|tec|C1
+protocolo de rede|protocolo de red||L|tec|C1
+digitalização|digitalización||S|tec|C1
+rede de sensores|red de sensores||L|tec|C1
+taxa de transferência|tasa de transferencia||L|tec|C1
+meios de comunicação social|medios de comunicación social||L|cmu|C1
+radiofrequência|radiofrecuencia||S|tec|C1
+guia de ondas|guía de ondas||L|sci|C1
+atenuação|atenuación (de señal)||S|tec|C1
+onda portadora|onda portadora||L|tec|C1
+radiodifusão|radiodifusión||S|tec|C1
+descodificador|descodificador||S|tec|C1
+supervisão de rede|supervisión de red||L|tec|C1
+simulação de rede|simulación de red||L|tec|C1
+central nuclear|central nuclear||L|sci|C1
+fissão nuclear|fisión nuclear||L|sci|C1
+fusão nuclear|fusión nuclear||L|sci|C1
+resíduos radioativos|residuos radiactivos||L|sci|C1
+meia-vida|periodo de semidesintegración||S|sci|C1
+decaimento radioativo|desintegración radiactiva||L|sci|C1
+isótopo|isótopo||S|sci|C1
+urânio enriquecido|uranio enriquecido||L|sci|C1
+barragem hidroelétrica|presa hidroeléctrica||L|sci|C1
+parque eólico|parque eólico||L|sci|C1
+central termoelétrica|central termoeléctrica||L|sci|C1
+sobretensão|sobretensión||S|sci|C1
+interligação|interconexión||S|tec|C1
+apagão|apagón||S|tec|C1
+descarbonização|descarbonización||S|sci|C1
+pegada de carbono|huella de carbono||L|sci|C1
+biocombustível|biocombustible||S|sci|C1
+torre de arrefecimento|torre de refrigeración||L|sci|C1
+reator nuclear|reactor nuclear||L|sci|C1
+blindagem|blindaje (protección radiológica)||S|sci|C1
+gerador de emergência|generador de emergencia||L|sci|C1
+subestação elétrica|subestación eléctrica||L|sci|C1
+consumo de ponta|consumo de punta||L|sci|C1
+armazenamento de energia|almacenamiento de energía||L|sci|C1
+hidrogénio verde|hidrógeno verde||L|sci|C1
+electrólise|electrólisis||S|sci|C1
+cogeração|cogeneración||S|sci|C1
+rendimento energético|rendimiento energético||L|sci|C1
+combustível nuclear|combustible nuclear||L|sci|C1
+desativação|desactivación (nuclear)||S|sci|C1
+desmantelamento|desmantelamiento (de la central)||S|sci|C1
+efluente|efluente (residuo líquido)||S|sci|C1
+aeronáutica|aeronáutica||S|sci|C1
+cabine de pilotagem|cabina de pilotaje||L|tra|C1
+aterragem de emergência|aterrizaje de emergencia||L|tra|C1
+turbulência|turbulencia||S|tra|C1
+sonda espacial|sonda espacial||L|sci|C1
+módulo lunar|módulo lunar||L|sci|C1
+voo tripulado|vuelo tripulado||L|sci|C1
+estação espacial|estación espacial||L|sci|C1
+órbita geoestacionária|órbita geoestacionaria||L|sci|C1
+aerodinâmica|aerodinámica||S|sci|C1
+empuxo|empuje||S|sci|C1
+voo rasante|vuelo rasante||L|sci|C1
+pressurização|presurización||S|sci|C1
+despressurização|despresurización||S|sci|C1
+caixa negra|caja negra||S|tra|C1
+estratosfera|estratosfera||S|nat|C1
+exosfera|exosfera||S|sci|C1
+ionosfera|ionosfera||S|sci|C1
+foguetão|cohete||S|sci|C1
+tripulação|tripulación||S|tra|C1
+controlo aéreo|control aéreo||L|tra|C1
+trajetória balística|trayectoria balística||L|sci|C1
+engenho espacial|ingenio espacial||L|sci|C1
+base de lançamento|base de lanzamiento||L|sci|C1
+trem de aterragem|tren de aterrizaje||L|tra|C1
+motor a reação|motor a reacción||L|tra|C1
+velocidade de cruzeiro|velocidad de crucero||L|tra|C1
+teto de serviço|techo de servicio||L|tra|C1
+plano de voo|plan de vuelo||L|tra|C1
+hipoxia|hipoxia||S|sla|C1
+cadeira ejetora|asiento eyector||L|tra|C1
+envergadura|envergadura (distancia entre alas)||S|tra|C1
+robótica|robótica||S|tec|C1
+automatização|automatización||S|tec|C1
+braço robótico|brazo robótico||L|tec|C1
+atuador|actuador||S|tec|C1
+sensor de proximidade|sensor de proximidad||L|tec|C1
+linha de montagem|línea de montaje||L|lav|C1
+precisão milimétrica|precisión milimétrica||L|tec|C1
+lote de produção|lote de producción||L|lav|C1
+controlo numérico computorizado|control numérico computerizado||L|tec|C1
+paragem técnica|parada técnica||L|tec|C1
+manutenção preditiva|mantenimiento predictivo||L|tec|C1
+calibração|calibración||S|tec|C1
+tolerância dimensional|tolerancia dimensional||L|tec|C1
+prototipagem|prototipado||S|tec|C1
+exoesqueleto|exoesqueleto||S|tec|C1
+sensorização|sensorización (equipamiento de sensores)||S|tec|C1
+célula de fabricação|celda de fabricación||L|tec|C1
+interface homem-máquina|interfaz persona-máquina||L|tec|C1
+paletização|paletizado||S|tec|C1
+transportador de correia|transportador de correa||L|tec|C1
+fabrico assistido por computador|fabricación asistida por ordenador||L|tec|C1
+desenho assistido por computador|diseño asistido por ordenador||L|tec|C1
+impressão aditiva|impresión aditiva||L|tec|C1
+maquinação|mecanizado||S|tec|C1
+torneamento|torneado||S|tec|C1
+fresagem|fresado||S|tec|C1
+estampagem|estampado (embutición)||S|tec|C1
+fundição|fundición||S|tec|C1
+balanceamento de linha|balanceo de línea||L|tec|C1
+gargalo de produção|cuello de botella (en la producción)||L|lav|C1
+rastreabilidade|trazabilidad||S|tec|C1
+ciclo de fabrico|ciclo de fabricación||L|tec|C1
+climatologia|climatología||S|sci|C1
+paleoclimatologia|paleoclimatología||S|sci|C1
+variabilidade climática|variabilidad climática||L|sci|C1
+inversão térmica|inversión térmica||L|sci|C1
+ilha de calor|isla de calor||L|sci|C1
+anticiclone|anticiclón||S|sci|C1
+precipitação|precipitación||S|sci|C1
+degelo|deshielo||S|nat|C1
+permafrost|permafrost||S|nat|C1
+projeção climática|proyección climática||L|sci|C1
+aridez|aridez||S|nat|C1
+desertificação|desertificación||S|nat|C1
+erosão costeira|erosión costera||L|nat|C1
+captura de carbono|captura de carbono||L|sci|C1
+geoengenharia|geoingeniería||S|sci|C1
+sumidouro de carbono|sumidero de carbono||L|sci|C1
+mitigação|mitigación||S|sci|C1
+sazonalidade|estacionalidad||S|sci|C1
+glaciar|glaciar||S|nat|C1
+moreia|morena (depósito glacial)||S|nat|C1
+criosfera|criosfera||S|sci|C1
+anemómetro|anemómetro||S|sci|C1
+aerosol atmosférico|aerosol atmosférico||L|sci|C1
+nebulosidade|nebulosidad||S|sci|C1
+vulnerabilidade climática|vulnerabilidad climática||L|sci|C1
+balão sonda|globo sonda||S|sci|C1
+previsão numérica do tempo|predicción numérica del tiempo||L|sci|C1
+corrente de jato|corriente en chorro||L|sci|C1
+testemunho de gelo|testigo de hielo||L|sci|C1
+datação por radiocarbono|datación por radiocarbono||L|sci|C1
+antropogénico|antropogénico (de origen humano)||A|sci|C1
+biogeografia|biogeografía||S|sci|C1
+fenologia|fenología||S|sci|C1
+oceanografia|oceanografía||S|sci|C1
+batimetria|batimetría||S|sci|C1
+circulação oceânica|circulación oceánica||L|sci|C1
+circulação termohalina|circulación termohalina||L|sci|C1
+ressurgência|afloramiento (resurgencia costera)||S|sci|C1
+plataforma continental|plataforma continental||L|sci|C1
+fossa abissal|fosa abisal||L|sci|C1
+abissal|abisal||A|sci|C1
+fitoplâncton|fitoplancton||S|sci|C1
+zooplâncton|zooplancton||S|sci|C1
+branqueamento de corais|blanqueamiento de corales||L|nat|C1
+acidificação dos oceanos|acidificación de los océanos||L|sci|C1
+bentónico|bentónico||A|sci|C1
+cetáceo|cetáceo||S|ani|C1
+rota migratória|ruta migratoria||L|ani|C1
+desova|desove||S|ani|C1
+brânquia|branquia||S|ani|C1
+fumarola hidrotermal|fumarola hidrotermal||L|sci|C1
+mangal|manglar||S|nat|C1
+estuário|estuario||S|nat|C1
+salinidade|salinidad||S|sci|C1
+macroalga|macroalga||S|nat|C1
+sargaço|sargazo (alga parda)||S|nat|C1
+alforreca|medusa (aguamala)||S|ani|C1
+talude continental|talud continental||L|sci|C1
+dorsal oceânica|dorsal oceánica||L|sci|C1
+endémico|endémico (propio de un lugar)||A|nat|C1
+área marinha protegida|área marina protegida||L|nat|C1
+nidificação|anidamiento (nidificación)||S|ani|C1
+submersível|sumergible||S|sci|C1
+escafandro|escafandro||S|tec|C1
+arqueologia subaquática|arqueología subacuática||L|sci|C1
+pesca de arrasto|pesca de arrastre||L|lav|C1
+direito ambiental|derecho ambiental||L|ist|C1
+avaliação de impacto ambiental|evaluación de impacto ambiental||L|ist|C1
+licenciamento ambiental|licenciamiento ambiental||L|ist|C1
+delito ambiental|delito ambiental||L|ist|C1
+comércio de emissões|comercio de emisiones||L|ist|C1
+compensação ambiental|compensación ambiental||L|nat|C1
+pegada ecológica|huella ecológica||L|nat|C1
+reflorestação|repoblación forestal||S|nat|C1
+economia circular|economía circular||L|fin|C1
+logística reversa|logística inversa (de residuos)||L|fin|C1
+ordenamento do território|ordenación del territorio||L|ist|C1
+incumprimento|incumplimiento||S|ist|C1
+dano ecológico|daño ecológico||L|ist|C1
+aterro sanitário|vertedero controlado||S|nat|C1
+incineração|incineración||S|nat|C1
+resíduos perigosos|residuos peligrosos||L|nat|C1
+espécie invasora|especie invasora||L|nat|C1
+corredor ecológico|corredor ecológico||L|nat|C1
+desflorestação|deforestación||S|nat|C1
+fragmentação de habitat|fragmentación del hábitat||L|sci|C1
+repovoamento|repoblamiento||S|nat|C1
+princípio da precaução|principio de precaución||L|ist|C1
+monitorização ambiental|monitorización ambiental||L|sci|C1
+tratamento de efluentes|tratamiento de efluentes||L|sci|C1
+valorização energética|valorización energética (de residuos)||L|sci|C1
+ecoeficiência|ecoeficiencia||S|fin|C1
+escassez hídrica|escasez hídrica||L|nat|C1
+aquífero|acuífero||S|nat|C1
+ação popular|acción popular||L|ist|C1
+seguro ambiental|seguro ambiental||L|fin|C1
+passivo ambiental|pasivo ambiental||L|fin|C1
+lavagem verde|lavado verde (greenwashing)||L|fin|C1
+anatomia patológica|anatomía patológica||L|sla|C1
+patológico|patológico||A|sla|C1
+biópsia|biopsia||S|sla|C1
+autópsia|autopsia||S|sla|C1
+metástase|metástasis||S|sla|C1
+carcinoma|carcinoma||S|sla|C1
+melanoma|melanoma||S|sla|C1
+isquemia|isquemia||S|sla|C1
+embolia|embolia||S|sla|C1
+trombose|trombosis||S|sla|C1
+aneurisma|aneurisma||S|sla|C1
+sístole|sístole||S|sla|C1
+diástole|diástole||S|sla|C1
+menisco|menisco||S|cor|C1
+hérnia discal|hernia discal||L|sla|C1
+sinapse|sinapsis||S|sci|C1
+neurónio|neurona||S|sci|C1
+gânglio|ganglio||S|cor|C1
+esfíncter|esfínter||S|cor|C1
+laparotomia|laparotomía||S|sla|C1
+imunossupressão|inmunosupresión||S|sla|C1
+prognóstico|pronóstico||S|sla|C1
+assintomático|asintomático||A|sla|C1
+remissão|remisión||S|sla|C1
+cardiopatia|cardiopatía||S|sla|C1
+deglutição|deglución||S|cor|C1
+peristalse|peristalsis||S|cor|C1
+linfoma|linfoma||S|sla|C1
+esclerose|esclerosis||S|sla|C1
+triagem|triaje||S|sla|C1
+hemodiálise|hemodiálise||S|sla|C1
+cateterismo|cateterismo||S|sla|C1
+espirometria|espirometría||S|sla|C1

@@ -1,0 +1,260 @@
+envelhecimento populacional|envejecimiento poblacional||S|ast|C1
+mobilidade social|movilidad social||L|ast|C1
+estratificação social|estratificación social||L|ast|C1
+marginalidade|marginalidad||S|ast|C1
+marginalização|marginalización||S|ast|C1
+assimilação|asimilación||S|ast|C1
+aculturação|aculturación||S|ast|C1
+gentrificação|gentrificación||S|cit|C1
+cosmopolitismo|cosmopolitismo||S|cit|C1
+segregação urbana|segregación urbana||L|cit|C1
+êxodo rural|éxodo rural||L|ast|C1
+natalidade|natalidad||S|sci|C1
+velhice|vejez||S|ast|C1
+miscigenação|mestizaje||S|ast|C1
+patriarcado|patriarcado||S|ast|C1
+matriarcado|matriarcado||S|ast|C1
+empoderamento|empoderamiento||S|ast|C1
+disparidade|disparidad||S|ast|C1
+abismo social|abismo social||L|ast|C1
+exclusão social|exclusión social||L|ast|C1
+inclusão social|inclusión social||L|ast|C1
+cosmovisão|cosmovisión||S|ast|C1
+anomia|anomia||S|ast|C1
+estatuto social|estatus social||L|ast|C1
+classe operária|clase obrera||L|ast|C1
+lumpesinato|lumpemproletariado||S|ast|C1
+empobrecimento|empobrecimiento||S|fin|C1
+abastado|acomodado (adinerado)||A|fin|C1
+urbanização|urbanización||S|cit|C1
+conurbação|conurbación||S|cit|C1
+meritocracia|meritocracia||S|ast|C1
+ociosidade|ociosidad||S|ast|C1
+etnografia|etnografía||S|sci|C1
+etnocentrismo|etnocentrismo||S|sci|C1
+relativismo cultural|relativismo cultural||L|sci|C1
+folclore|folclore||S|art|C1
+folclórico|folclórico||A|art|C1
+rito de passagem|rito de paso||L|ast|C1
+sincretismo|sincretismo||S|ast|C1
+cosmogonia|cosmogonía||S|sci|C1
+xamanismo|chamanismo||S|sci|C1
+totemismo|totemismo||S|sci|C1
+animismo|animismo||S|sci|C1
+endogamia|endogamia||S|fam|C1
+exogamia|exogamia||S|fam|C1
+diáspora|diáspora||S|ast|C1
+genealogia|genealogía||S|fam|C1
+linhagem|linaje||S|fam|C1
+clã|clan||S|fam|C1
+ancestral|ancestral||A|ast|C1
+ancestrais|ancestros||S|fam|C1
+oralidade|oralidad||S|let|C1
+autóctone|autóctono||A|sci|C1
+tribalismo|tribalismo||S|sci|C1
+primitivismo|primitivismo||S|art|C1
+paganismo|paganismo||S|ast|C1
+mitema|mitema (motivo mítico)||S|let|C1
+arquetípico|arquetípico||A|let|C1
+observação participante|observación participante||L|sci|C1
+trabalho de campo|trabajo de campo||L|lav|C1
+usos e costumes|usos y costumbres||L|ast|C1
+sacralidade|sacralidad||S|ast|C1
+curandeirismo|curanderismo||S|sci|C1
+maloca|maloca (vivienda colectiva indígena)||S|cas|C1
+mestiçagem|mestizaje (mezcla de razas)||S|ast|C1
+escamotear|escamotear (ocultar con habilidad)||V|cmu|C1
+furo de reportagem|exclusiva periodística||L|cmu|C1
+sensacionalismo|sensacionalismo||S|cmu|C1
+manchete|titular de portada||S|cmu|C1
+tabloide|tabloide||S|cmu|C1
+jornalismo de investigação|periodismo de investigación||L|cmu|C1
+difamação|difamación||S|ist|C1
+calúnia|calumnia||S|ist|C1
+linchamento mediático|linchamiento mediático||L|cmu|C1
+pluralismo mediático|pluralismo mediático||L|cmu|C1
+desinformação|desinformación||S|cmu|C1
+pós-verdade|posverdad||S|cmu|C1
+verificação de factos|verificación de datos||L|cmu|C1
+correspondente de guerra|corresponsal de guerra||L|cmu|C1
+sala de redação|sala de redacción||L|pro|C1
+revisor|corrector de pruebas||S|pro|C1
+colunista|columnista||S|pro|C1
+articulista|articulista||S|pro|C1
+rodapé|pie de página||S|cmu|C1
+suplemento dominical|suplemento dominical||L|cmu|C1
+assinante|suscriptor||S|cmu|C1
+tiragem|tirada (número de ejemplares)||S|cmu|C1
+censura prévia|censura previa||L|ist|C1
+emissora|cadena (emisora)||S|cmu|C1
+linha editorial|línea editorial||L|cmu|C1
+segredo profissional|secreto profesional||L|ist|C1
+plágio|plagio||S|let|C1
+conluio|conspiración (contubernio)||S|ast|C1
+pasquim|pasquín (hoja satírica)||S|cmu|C1
+artigo de fundo|artículo de fondo||L|cmu|C1
+imprensa de referência|prensa de referencia||L|cmu|C1
+quarto poder|cuarto poder||L|ist|C1
+partitura|partitura||S|mus|C1
+compasso|compás||S|mus|C1
+tonalidade|tonalidad||S|mus|C1
+atonalidade|atonalidad||S|mus|C1
+cromatismo|cromatismo||S|mus|C1
+contraponto|contrapunto||S|mus|C1
+polifonia|polifonía||S|mus|C1
+arpejo|arpegio||S|mus|C1
+dissonância|disonancia||S|mus|C1
+sinfonia|sinfonía||S|mus|C1
+regente|director de orquesta||S|mus|C1
+soprano|soprano||S|mus|C1
+contralto|contralto||S|mus|C1
+barítono|barítono||S|mus|C1
+libreto|libreto||S|mus|C1
+libretista|libretista||S|mus|C1
+virtuoso|virtuoso||S|mus|C1
+oitava|octava||S|mus|C1
+timbre|timbre||S|mus|C1
+ornamentação|ornamentación||S|mus|C1
+cadência|cadencia||S|mus|C1
+modulação|modulación||S|mus|C1
+fado|fado||S|mus|C1
+fadista|fadista||S|mus|C1
+musicologia|musicología||S|mus|C1
+musicólogo|musicólogo||S|mus|C1
+solfejo|solfeo||S|mus|C1
+colcheia|corchea||S|mus|C1
+adágio|adagio||S|mus|C1
+crescendo|crescendo (aumento gradual)||S|mus|C1
+oratório|oratorio||S|mus|C1
+opereta|opereta||S|mus|C1
+ária|aria||S|mus|C1
+restauro|restauración (de obras)||S|art|C1
+restaurador|restaurador (de obras de arte)||S|pro|C1
+curadoria|curaduría||S|art|C1
+museografia|museografía||S|art|C1
+museologia|museología||S|art|C1
+retrospectiva|retrospectiva (exposición antológica)||S|art|C1
+vitrina|vitrina||S|art|C1
+pedestal|pedestal||S|art|C1
+inventário|inventario (catálogo)||S|art|C1
+acervo|acervo||S|art|C1
+catalogação|catalogación||S|art|C1
+códice|códice||S|let|C1
+incunábulo|incunable||S|let|C1
+pergaminho|pergamino||S|let|C1
+afresco|afresco||S|art|C1
+têmpera|témpera||S|art|C1
+policromia|policromía||S|art|C1
+verniz|barniz||S|art|C1
+montagem de exposição|montaje de la exposición||L|art|C1
+itinerância|itinerancia (de la exposición)||S|art|C1
+peça de resistência|plato fuerte (obra principal)||L|art|C1
+espólio|espolio (conjunto de obras)||S|art|C1
+património edificado|patrimonio arquitectónico||L|art|C1
+degradação|degradación||S|art|C1
+preservação|preservación||S|art|C1
+decalque|calco (copia)||S|art|C1
+moldagem|moldeado (vaciado)||S|art|C1
+estuque|estuco||S|art|C1
+tríptico|tríptico||S|art|C1
+políptico|políptico||S|art|C1
+camafeu|camafeo||S|art|C1
+ourivesaria|orfebrería||S|art|C1
+esteticismo|esteticismo||S|art|C1
+vanguarda|vanguardia||S|art|C1
+vanguardista|vanguardista||A|art|C1
+sublimidade|sublimidad||S|art|C1
+sublime|sublime||A|art|C1
+kitsch|cursi (estética de mal gusto)||A|art|C1
+sinestesia|sinestesia||S|art|C1
+alegoria|alegoría||S|let|C1
+metonímia|metonimia||S|let|C1
+catarse|catarsis||S|let|C1
+mímese|mímesis||S|let|C1
+canónico|canónico||A|let|C1
+grandiloquência|grandilocuencia||S|ast|C1
+epifania|epifanía||S|ast|C1
+hermenêutica|hermenéutica||S|ast|C1
+exegese|exégesis||S|let|C1
+epígrafe|epígrafe||S|let|C1
+liminar|liminar (preliminar)||A|let|C1
+paradigma|paradigma||S|ast|C1
+fruição|frución (disfrute estético)||S|art|C1
+apoteose|apoteosis||S|art|C1
+iconografia|iconografía||S|art|C1
+patetismo|patetismo||S|art|C1
+maneirismo|manierismo||S|art|C1
+artífice|artífice (hacedor)||S|pro|C1
+feitura|hechura (facción)||S|art|C1
+primor|primor||S|art|C1
+esmero|esmero||S|art|C1
+acabamento|acabado (remate)||S|art|C1
+pormenor|pormenor||S|art|C1
+claro-escuro|claroscuro||S|art|C1
+natureza-morta|bodegón||S|art|C1
+puntilhismo|puntillismo||S|art|C1
+algoritmo|algoritmo||S|tec|C1
+algorítmico|algorítmico||A|tec|C1
+aprendizagem automática|aprendizaje automático||L|tec|C1
+ciência de dados|ciencia de datos||L|tec|C1
+mineração de dados|minería de datos||L|tec|C1
+predição|predicción||S|sci|C1
+inferência|inferencia||S|sci|C1
+amostragem|muestreo||S|sci|C1
+enviesamento|sesgo||S|sci|C1
+enviesar|sesgar||V|sci|C1
+aleatoriedade|aleatoriedad||S|sci|C1
+quantificação|cuantificación||S|sci|C1
+heurística|heurística||S|sci|C1
+otimização|optimización||S|sci|C1
+modelação|modelado (modelización)||S|sci|C1
+parâmetro|parámetro||S|sci|C1
+iteração|iteración||S|sci|C1
+recursividade|recursividad||S|sci|C1
+rotulagem|etiquetado||S|sci|C1
+limpeza de dados|limpieza de datos||L|sci|C1
+visualização de dados|visualización de datos||L|sci|C1
+extração de dados|extracción de datos||L|sci|C1
+espúrio|espurio||A|sci|C1
+axiomático|axiomático||A|sci|C1
+probabilístico|probabilístico||A|sci|C1
+rede neuronal|red neuronal||L|tec|C1
+regressão|regresión||S|sci|C1
+variância|varianza||S|sci|C1
+desvio padrão|desviación típica||L|sci|C1
+visão computacional|visión por computador||L|tec|C1
+dados de treino|datos de entrenamiento||L|tec|C1
+processamento de linguagem natural|procesamiento del lenguaje natural||L|tec|C1
+criptografia|criptografía||S|tec|C1
+criptografia de chave pública|criptografía de clave pública||L|tec|C1
+chave pública|clave pública||L|tec|C1
+cifrar|cifrar||V|tec|C1
+decifrar|descifrar||V|tec|C1
+encriptação|encriptación||S|tec|C1
+firewall|cortafuegos||S|tec|C1
+burla informática|fraude informática||L|tec|C1
+porta traseira|puerta trasera (acceso oculto)||L|tec|C1
+engenharia social|ingeniería social||L|tec|C1
+falha de segurança|brecha de seguridad||L|tec|C1
+sequestro de dados|secuestro de datos||L|tec|C1
+autenticação|autenticación||S|tec|C1
+biometria|biometría||S|tec|C1
+intrusão|intrusión||S|tec|C1
+ciberataque|ciberataque||S|tec|C1
+cibersegurança|ciberseguridad||S|tec|C1
+pseudonimização|pseudonimización||S|tec|C1
+navegação anónima|navegación anónima||L|tec|C1
+branqueamento de capitais|blanqueo de capitales||L|fin|C1
+esteganografia|esteganografía||S|tec|C1
+ofuscação|ofuscación (código ofuscado)||S|tec|C1
+engenharia reversa|ingeniería inversa||L|tec|C1
+assinatura digital|firma digital||L|tec|C1
+descodificação|descodificación||S|tec|C1
+espionagem industrial|espionaje industrial||L|tec|C1
+registo de acessos|registro de accesos||L|tec|C1
+verificação de duas etapas|verificación en dos pasos||L|tec|C1
+criptoanálise|criptoanálisis||S|tec|C1
+ataque de força bruta|ataque de fuerza bruta||L|tec|C1
+teste de intrusão|prueba de intrusión||L|tec|C1
+segredo partilhado|secreto compartido||L|tec|C1
+chave simétrica|clave simétrica||L|tec|C1

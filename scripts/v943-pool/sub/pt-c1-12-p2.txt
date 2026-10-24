@@ -1,0 +1,260 @@
+exíguo|exiguo||A|ast|C1
+ínfimo|ínfimo||A|ast|C1
+acanhado|tímido (recatado)||A|ast|C1
+ténue|tenue||A|ast|C1
+desmedido|desmesurado||A|ast|C1
+incomensurável|inconmensurable||A|ast|C1
+inumerável|innumerable||A|ast|C1
+miríade|miríada||S|ast|C1
+sensivelmente|considerablemente||D|ast|C1
+respetivamente|respectivamente||D|ast|C1
+ordem de grandeza|orden de magnitud||E|sci|C1
+de longa data|de larga data||E|tmp|C1
+a duras penas|a duras penas||E|ast|C1
+por um triz|por un tris||E|ast|C1
+em larga escala|a gran escala||E|sci|C1
+dúplice|doble (con doble sentido)||A|ast|C1
+quantitativo|cuantitativo||A|sci|C1
+qualitativo|cualitativo||A|sci|C1
+mensurável|mensurable||A|sci|C1
+imensurável|inmensurable||A|sci|C1
+margem de erro|margen de error||E|sci|C1
+desvio padrão|desviación típica||E|sci|C1
+desproporção|desproporción||S|ast|C1
+avultado|crecido (importante)||A|fin|C1
+diminuto|diminuto||A|ast|C1
+calibrar|calibrar||V|sci|C1
+dosar|dosificar||V|ali|C1
+gradiente|gradiente||S|sci|C1
+espectro|espectro (gama)||S|sci|C1
+leque|abanico (gama de opciones)||S|ast|C1
+aferir|contrastar (verificar medida)||V|sci|C1
+comparativamente|comparativamente||D|ast|C1
+passar desta para melhor|pasar a mejor vida||E|cmu|C1
+dar o último suspiro|dar el último suspiro||E|cmu|C1
+terceira idade|tercera edad||E|ist|C1
+pessoa com deficiência|persona con discapacidad||E|ist|C1
+necessidades especiais|necesidades especiales||E|ist|C1
+reestruturação|reestructuración||S|lav|C1
+despedimento coletivo|despido colectivo||E|lav|C1
+pré-aposentação|prejubilación||S|lav|C1
+fogo amigo|fuego amigo||E|ist|C1
+danos colaterais|daños colaterales||E|ist|C1
+pacificação|pacificación||S|ist|C1
+ter quilos a mais|tener kilos de más||E|cor|C1
+estar cheio|estar borracho||E|ris|C1
+altercação|altercado||S|cmu|C1
+desavença|desavenencia||S|rel|C1
+mal-entendido|malentendido||S|cmu|C1
+boa vizinhança|buena vecindad||E|ist|C1
+diálogo construtivo|diálogo constructivo||E|ist|C1
+mesa-redonda|mesa redonda||S|ist|C1
+diferendo|diferendo||S|ist|C1
+com a devida vénia|con la debida venia||E|ist|C1
+escusado será dizer|sobra decir||E|cmu|C1
+permitam-me que diga|permítanme que diga||E|cmu|C1
+com todo o respeito|con todo el respeto||E|cmu|C1
+se me permite|si me permite||E|cmu|C1
+como queira|como usted quiera||E|cmu|C1
+desculpe a franqueza|perdone la franqueza||E|cmu|C1
+sem rodeios|sin rodeos||E|cmu|C1
+ir direto ao assunto|ir directo al grano||E|cmu|C1
+maçador|pesado (cansino)||A|cmu|C1
+tosco|tosco||A|cmu|C1
+saloio|palurdo||A|ast|C1
+manhoso|mañoso (engañoso)||A|ast|C1
+alvorada|alba (amanecer)||S|nat|C1
+lusco-fusco|penumbra (crepúsculo)||S|nat|C1
+poente|poniente||S|nat|C1
+sideral|sideral||A|sci|C1
+empíreo|empíreo||S|let|C1
+sempiterno|sempiterno||A|let|C1
+saudosista|nostálgico||A|emo|C1
+morrinha|melancolía (añoranza)||S|let|C1
+desconsolo|desconsuelo||S|emo|C1
+elegíaco|elegíaco||A|let|C1
+bucólico|bucólico||A|let|C1
+idílico|idílico||A|let|C1
+límpido|límpido||A|let|C1
+arroio|arroyo||S|nat|C1
+fontanário|fuente (grifo público)||S|cit|C1
+charca|charca||S|nat|C1
+marulho|rumor de las olas||S|nat|C1
+areal|arenal||S|nat|C1
+seara|sementera (campo de cereales)||S|nat|C1
+vindima|vendimia||S|ali|C1
+lagar|lagar||S|ali|C1
+pombal|palomar||S|nat|C1
+ermida|ermita||S|cit|C1
+campanário|campanario||S|cit|C1
+romaria|romería||S|sve|C1
+ermo|yermo||S|nat|C1
+charneca|páramo (brezal)||S|nat|C1
+penedia|peñascal||S|nat|C1
+turbilhão|torbellino||S|nat|C1
+lufada|ráfaga||S|cli|C1
+aragem|brisa (soplo suave)||S|cli|C1
+prosaico|prosaico||A|let|C1
+algoz|verdugo (carrasco)||S|ist|C1
+prelado|prelado||S|ist|C1
+sacerdócio|sacerdocio||S|ist|C1
+breviário|breviario||S|ist|C1
+noviço|novicio||S|ist|C1
+eremita|ermitaño||S|ist|C1
+anacoreta|anacoreta||S|ist|C1
+cenho|ceño||S|let|C1
+guedelhas|greñas||S|cor|C1
+catadura|catadura (fisonomía)||S|cor|C1
+vulto|silueta (figura)||S|let|C1
+arauto|heraldo||S|ist|C1
+pregão|pregón||S|cit|C1
+meirinho|alguacil||S|ist|C1
+tabelião|escribano (notario)||S|pro|C1
+alcaide|alcaide||S|ist|C1
+pergaminho|pergamino||S|let|C1
+códice|códice||S|let|C1
+palimpsesto|palimpsesto||S|let|C1
+glosa|glosa||S|let|C1
+epístola|epístola||S|let|C1
+alvores|albores||S|let|C1
+hodierno|hodierno||A|let|C1
+foral|fuero de población||S|ist|C1
+couto|coto (territorio amparado)||S|ist|C1
+fidalgo|hidalgo||S|ist|C1
+solar|casa solariega||S|cas|C1
+brasão|blasón||S|ist|C1
+elmo|yelmo||S|art|C1
+galeão|galeón||S|tra|C1
+caravela|carabela||S|tra|C1
+florete|florete||S|spt|C1
+recolhimento|recogimiento (retraimiento)||S|ast|C1
+não obstante|no obstante||L|cnn|C1
+conquanto|aunque (por más que)||C|cnn|C1
+porquanto|por cuanto||C|cnn|C1
+posto que|ya que (puesto que)||L|cnn|C1
+assim sendo|siendo así (por consiguiente)||E|cnn|C1
+por conseguinte|por consiguiente||E|cnn|C1
+destarte|de esta suerte||D|cnn|C1
+doravante|de ahora en adelante||D|tmp|C1
+outrossim|asimismo||D|cnn|C1
+com efeito|en efecto||E|cnn|C1
+sob este prisma|bajo este prisma||E|cnn|C1
+neste âmbito|en este ámbito||E|cnn|C1
+a respeito de|con respecto a||L|cnn|C1
+quanto a|en cuanto a||L|cnn|C1
+no tocante a|en lo tocante a||L|cnn|C1
+a saber|a saber||E|cnn|C1
+nomeadamente|a saber (concretamente)||D|cnn|C1
+designadamente|especialmente (a saber)||D|cnn|C1
+em suma|en suma||E|cnn|C1
+em última análise|en última instancia||E|cnn|C1
+por outras palavras|en otras palabras||E|cnn|C1
+dito de outro modo|dicho de otro modo||E|cnn|C1
+aliás|por cierto (dicho sea de paso)||D|cnn|C1
+por certo|ciertamente||E|cnn|C1
+de resto|por lo demás||E|cnn|C1
+à luz de|a la luz de||L|cnn|C1
+à semelhança de|a semejanza de||L|cnn|C1
+em contrapartida|en contrapartida||E|cnn|C1
+em detrimento de|en detrimento de||L|cnn|C1
+em prol de|en pro de||L|cnn|C1
+ainda por cima|encima (para más inri)||E|cnn|C1
+com tudo|con todo||E|cnn|C1
+noticiar|noticiar||V|cmu|C1
+conjeturar|conjeturar||V|sci|C1
+pressagiar|presagiar||V|cmu|C1
+presságio|presagio||S|ast|C1
+augurar|augurar||V|cmu|C1
+prognosticar|pronosticar||V|cli|C1
+entrever|entrever||V|cmu|C1
+pressentir|presentir||V|emo|C1
+desvelar|desvelar||V|cmu|C1
+conotar|connotar||V|let|C1
+denotar|denotar||V|let|C1
+exteriorizar|exteriorizar||V|emo|C1
+externar|externar (manifestar)||V|emo|C1
+verbalizar|verbalizar||V|cmu|C1
+confidenciar|confiar (en calidad de secreto)||V|cmu|C1
+confidência|confidencia||S|rel|C1
+desabafar|desahogarse||V|emo|C1
+desabafo|desahogo||S|emo|C1
+abrir o coração|abrir el corazón||E|emo|C1
+descortinar|descubrir (abrir horizontes)||V|let|C1
+corroborar|corroborar||V|cmu|C1
+retificar|rectificar||V|cmu|C1
+elucidar|elucidar||V|cmu|C1
+dilucidar|dilucidar||V|cmu|C1
+escrutinar|escrutar||V|cmu|C1
+perscrutar|escudriñar||V|cmu|C1
+inquirir|interrogar (indagar)||V|cmu|C1
+replicar|replicar||V|cmu|C1
+retrucar|contestar (replicar)||V|cmu|C1
+declamar|declamar||V|let|C1
+salmodiar|salmodiar||V|mus|C1
+resmungar|refunfuñar||V|cmu|C1
+tinir|tañer (sonar metálicamente)||V|nat|C1
+ad hoc|ad hoc||L|ast|C1
+a priori|a priori||L|ast|C1
+a posteriori|a posteriori||L|ast|C1
+in extremis|in extremis||L|ast|C1
+in situ|in situ||L|sci|C1
+in vivo|in vivo||L|sci|C1
+in vitro|in vitro||L|sci|C1
+grosso modo|grosso modo||L|sci|C1
+lato sensu|en sentido amplio||L|sci|C1
+stricto sensu|en sentido estricto||L|sci|C1
+ipso facto|ipso facto||L|ast|C1
+ex libris|exlibris||L|let|C1
+mutatis mutandis|mutatis mutandis||L|sci|C1
+ceteris paribus|ceteris paribus||L|fin|C1
+prima facie|prima facie||L|ist|C1
+habeas corpus|habeas corpus||L|ist|C1
+ne bis in idem|ne bis in idem||L|ist|C1
+sui generis|sui generis||L|ast|C1
+casus belli|casus belli||L|ist|C1
+modus vivendi|modus vivendi||L|rel|C1
+modus operandi|modus operandi||L|ist|C1
+pro forma|pro forma||L|fin|C1
+ad interim|ad interim||L|ist|C1
+ad nauseam|ad nauseam||L|cmu|C1
+alea jacta est|alea iacta est||L|let|C1
+carpe diem|carpe diem||L|let|C1
+memento mori|memento mori||L|let|C1
+sine die|sine die||L|ast|C1
+conditio sine qua non|conditio sine qua non||L|ist|C1
+status quo|statu quo||L|ast|C1
+ibidem|ibídem||L|stu|C1
+vade-mecum|vademécum||L|let|C1
+didática|didáctica||S|stu|C1
+cognição|cognición||S|sci|C1
+metacognição|metacognición||S|sci|C1
+construtivismo|constructivismo||S|sci|C1
+behaviorismo|conductismo||S|sci|C1
+inconsciente coletivo|inconsciente colectivo||E|sci|C1
+arquétipo|arquetipo||S|let|C1
+estádio|estadio (fase del desarrollo)||S|sci|C1
+aquisição da linguagem|adquisición del lenguaje||E|sci|C1
+vínculo afetivo|vínculo afectivo||E|rel|C1
+autorregulação|autorregulación||S|sci|C1
+autoritarismo|autoritarismo||S|ist|C1
+permissividade|permisividad||S|ast|C1
+maturação|maduración||S|sci|C1
+inato|innato||A|sci|C1
+congénito|congénito||A|sla|C1
+palmatória|palmeta||S|stu|C1
+avaliação formativa|evaluación formativa||E|stu|C1
+resultados de aprendizagem|resultados de aprendizaje||E|stu|C1
+literacia mediática|alfabetización mediática||E|tec|C1
+extracurricular|extraescolar||A|stu|C1
+psicopedagogia|psicopedagogía||S|stu|C1
+doutoramento|doctorado||S|stu|C1
+agregação|concurso de agregación||S|stu|C1
+sociabilidade|sociabilidad||S|rel|C1
+egocentrismo|egocentrismo||S|sci|C1
+latência|latencia||S|sci|C1
+motricidade|motricidad||S|sci|C1
+psicomotricidade|psicomotricidad||S|sci|C1
+gagueira|tartamudez||S|sla|C1
+dislexia|dislexia||S|sla|C1
+discalculia|discalculia||S|sla|C1
+défice de atenção|déficit de atención||E|sla|C1

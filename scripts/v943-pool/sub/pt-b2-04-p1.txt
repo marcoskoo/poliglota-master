@@ -1,0 +1,283 @@
+nascimento|nacimiento||S|fam|B2
+infância|infancia||S|fam|B2
+adolescência|adolescencia||S|fam|B2
+juventude|juventud||S|fam|B2
+maturidade|madurez||S|fam|B2
+velhice|vejez||S|fam|B2
+terceira idade|tercera edad||L|fam|B2
+avós|abuelos||S|fam|B2
+neto|nieto||S|fam|B2
+tio-avô|tío abuelo||S|fam|B2
+sogro|suegro||S|fam|B2
+nora|nuera||S|fam|B2
+genro|yerno||S|fam|B2
+padrinho|padrino||S|fam|B2
+afilhado|ahijado||S|fam|B2
+irmão gémeo|hermano gemelo||S|fam|B2
+primogénito|primogénito||S|fam|B2
+benjamim|benjamín (el pequeño de la familia)||S|fam|B2
+crescer|crecer||V|fam|B2
+casar-se|casarse||V|fam|B2
+divorciar-se|divorciarse||V|fam|B2
+viúvo|viudo||S|fam|B2
+herança|herencia||S|fam|B2
+gerações|generaciones||S|fam|B2
+enteado|hijastro||S|fam|B2
+madrasta|madrastra||S|fam|B2
+padrastro|padrastro||S|fam|B2
+laços de sangue|lazos de sangre||L|fam|B2
+árvore genealógica|árbol genealógico||L|fam|B2
+idade adulta|edad adulta||L|fam|B2
+maior de idade|mayor de edad||L|fam|B2
+desentendimento|desacuerdo||S|fam|B2
+discussão|discusión (pelea)||S|fam|B2
+zanga|riña (enfado)||S|fam|B2
+ralhar|regañar||V|fam|B2
+castigo|castigo||S|fam|B2
+educar|educar||V|fam|B2
+educação|educación (buenos modales)||S|fam|B2
+autoridade|autoridad||S|fam|B2
+regra|regla||S|fam|B2
+limite|límite||S|fam|B2
+desobedecer|desobedecer||V|fam|B2
+comportar-se|comportarse||V|fam|B2
+birra|rabieta||S|fam|B2
+conflito|conflicto||S|fam|B2
+reconciliar-se|reconciliarse||V|fam|B2
+ressentimento|resentimiento||S|fam|B2
+diálogo|diálogo||S|fam|B2
+impor limites|poner límites||L|fam|B2
+levantar a voz|levantar la voz||L|fam|B2
+portar-se bem|portarse bien||L|fam|B2
+adolescente|adolescente||S|fam|B2
+tutela|tutela||S|fam|B2
+custódia|custodia||S|fam|B2
+pensão de alimentos|pensión de alimentos||L|fam|B2
+valores|valores||S|fam|B2
+dar o exemplo|dar ejemplo||L|fam|B2
+mimar|mimar (consentir en exceso)||V|fam|B2
+mimo|mimo (capricho)||S|fam|B2
+teimoso|testarudo||A|fam|B2
+tornar-se independente|hacerse independiente||L|fam|B2
+sair de casa|irse de casa||L|fam|B2
+mudança|mudanza||S|cas|B2
+mudar-se|mudarse||V|cas|B2
+arrendar|alquilar||V|cas|B2
+arrendamento|alquiler||S|cas|B2
+senhorio|casero||S|cas|B2
+inquilino|inquilino||S|cas|B2
+renda|alquiler (renta mensual)||S|cas|B2
+caução|fianza (depósito)||S|cas|B2
+condomínio|comunidad de vecinos||S|cas|B2
+vizinho|vecino||S|cas|B2
+prédio|edificio||S|cit|B2
+cave|sótano||S|cas|B2
+sótão|desván||S|cas|B2
+rés do chão|planta baja||L|cas|B2
+andar|piso (planta)||S|cas|B2
+escritura|escritura||S|cas|B2
+proprietário|propietario||S|cas|B2
+imobiliária|inmobiliaria||S|cas|B2
+despejo|desahucio||S|cas|B2
+despejar|desahuciar||V|cas|B2
+mensalidade|cuota mensual||S|cas|B2
+renovar|renovar||V|cas|B2
+rescindir|rescindir||V|cas|B2
+cláusula|cláusula||S|cas|B2
+habitação|vivienda||S|cas|B2
+morada|domicilio||S|cas|B2
+empresa de mudanças|empresa de mudanzas||L|cas|B2
+conta da luz|factura de la luz||L|cas|B2
+hipoteca|hipoteca||S|fin|B2
+crédito à habitação|préstamo hipotecario||L|fin|B2
+realojamento|realojamiento||S|cas|B2
+obra|obra (reforma)||S|cas|B2
+reforma|reforma||S|cas|B2
+reformar|reformar||V|cas|B2
+pedreiro|albañil||S|pro|B2
+canalizador|fontanero||S|pro|B2
+eletricista|electricista||S|pro|B2
+carpinteiro|carpintero||S|pro|B2
+marceneiro|ebanista||S|pro|B2
+pintor|pintor||S|pro|B2
+orçamento|presupuesto||S|fin|B2
+tijolo|ladrillo||S|cas|B2
+cimento|cemento||S|cas|B2
+betão|hormigón||S|cas|B2
+telhado|tejado||S|cas|B2
+chão|suelo||S|cas|B2
+soalho|suelo de madera||S|cas|B2
+azulejo|azulejo||S|cas|B2
+parede|pared||S|cas|B2
+teto|techo||S|cas|B2
+cano|tubería||S|cas|B2
+móvel|mueble||S|cas|B2
+estante|estantería||S|cas|B2
+armário embutido|armario empotrado||L|cas|B2
+cómoda|cómoda||S|cas|B2
+aparador|aparador||S|cas|B2
+poltrona|butaca||S|cas|B2
+tapete|alfombra||S|cas|B2
+persiana|persiana||S|cas|B2
+papel de parede|papel pintado||L|cas|B2
+tinta|pintura (para paredes)||S|cas|B2
+decoração|decoración||S|art|B2
+decorar|decorar||V|art|B2
+gastronomia|gastronomía||S|ali|B2
+iguaria|manjar (delicatessen)||S|ali|B2
+especialidade|especialidad (plato típico)||S|ali|B2
+petiscos|tapas (pinchos portugueses)||S|ali|B2
+petiscar|picar algo (ir de tapas)||V|ali|B2
+tasca|taberna||S|ali|B2
+cozido à portuguesa|cocido a la portuguesa||L|ali|B2
+bacalhau|bacalao||S|ali|B2
+sardinhas assadas|sardinas asadas||L|ali|B2
+caldo verde|caldo verde (sopa de col)||L|ali|B2
+pastel de nata|pastel de nata||L|ali|B2
+pastelaria|pastelería||S|ali|B2
+azeite|aceite de oliva||S|ali|B2
+coentro|cilantro||S|ali|B2
+açafrão|azafrán||S|ali|B2
+colorau|pimentón||S|ali|B2
+pimenta|pimienta||S|ali|B2
+piripiri|guindilla picante (piri-piri)||S|ali|B2
+louro|laurel (hoja)||S|ali|B2
+orégãos|orégano||S|ali|B2
+especiarias|especias||S|ali|B2
+tempero|condimento||S|ali|B2
+temperar|aliñar||V|ali|B2
+confecionar|elaborar (preparar alimentos)||V|ali|B2
+sabor|sabor||S|ali|B2
+saboroso|sabroso||A|ali|B2
+requinte|refinamiento||S|ali|B2
+ementa|carta (menú)||S|ris|B2
+grelhar|asar a la parrilla||V|ali|B2
+refogar|sofreír||V|ali|B2
+cozer|cocer||V|ali|B2
+enchido|embutido||S|ali|B2
+dieta|dieta||S|ali|B2
+vegetariano|vegetariano||S|ali|B2
+vegano|vegano||S|ali|B2
+intolerância à lactose|intolerancia a la lactosa||L|sla|B2
+celíaco|celíaco||A|sla|B2
+glúten|gluten||S|ali|B2
+sem glúten|sin gluten||E|ali|B2
+nutricionista|nutricionista||S|pro|B2
+calorias|calorías||S|ali|B2
+proteína|proteína||S|ali|B2
+hidratos de carbono|hidratos de carbono||L|ali|B2
+gordura|grasa||S|ali|B2
+gordura saturada|grasa saturada||L|ali|B2
+fibra|fibra||S|ali|B2
+saudável|saludable||A|sla|B2
+engordar|engordar||V|sla|B2
+emagrecer|adelgazar||V|sla|B2
+excesso de peso|sobrepeso||L|sla|B2
+obesidade|obesidad||S|sla|B2
+desidratação|deshidratación||S|sla|B2
+hidratar-se|hidratarse||V|sla|B2
+porção|porción||S|ali|B2
+comida rápida|comida rápida||L|ali|B2
+produtos hortícolas|productos hortícolas||L|ali|B2
+biológico|ecológico (orgánico)||A|ali|B2
+colesterol|colesterol||S|sla|B2
+tensão arterial|tensión arterial||L|sla|B2
+alergia alimentar|alergia alimentaria||L|sla|B2
+rótulo|etiqueta (información nutricional)||S|ali|B2
+conservante|conservante||S|ali|B2
+processado|procesado||A|ali|B2
+ultraprocessado|ultraprocesado||A|ali|B2
+sushi|sushi||S|ali|B2
+sashimi|sashimi (pescado crudo)||S|ali|B2
+ramen|ramen (sopa japonesa)||S|ali|B2
+yakisoba|fideos salteados||S|ali|B2
+caril|curry||S|ali|B2
+wok|wok (sartén oriental)||S|ali|B2
+guacamole|guacamole||S|ali|B2
+tortilha|tortilla||S|ali|B2
+taco|taco||S|ali|B2
+ceviche|ceviche||S|ali|B2
+kebab|kebab||S|ali|B2
+falafel|falafel||S|ali|B2
+hummus|hummus||S|ali|B2
+cuscuz|cuscús||S|ali|B2
+rolinho primavera|rollo de primavera||L|ali|B2
+comida de rua|comida callejera||L|ali|B2
+cozinha de autor|cocina de autor||L|ali|B2
+marisco|marisco||S|ali|B2
+caracóis|caracoles||S|ali|B2
+gambas|gambas||S|ali|B2
+lula|calamar||S|ali|B2
+feijoada|feijoada||S|ali|B2
+cataplana|guiso de pescado (cataplana)||S|ali|B2
+francesinha|francesinha (bocadillo especial)||S|ali|B2
+alheira|embutido ahumado portugués||S|ali|B2
+cachorro|perrito caliente||S|ris|B2
+bifana|bocadillo de cerdo||S|ris|B2
+prego|bocadillo de ternera||S|ris|B2
+panqueca|tortita||S|ali|B2
+gofre|gofre||S|ali|B2
+espetada|brocheta||S|ris|B2
+vinho verde|vino verde (vino joven portugués)||L|ali|B2
+adega|bodega (cava)||S|ali|B2
+prova de vinhos|cata de vinos||L|ali|B2
+enólogo|enólogo||S|pro|B2
+vindima|vendimia||S|ali|B2
+vinha|viña||S|nat|B2
+casta|cepa (variedad de uva)||S|ali|B2
+rolha|corcho||S|ali|B2
+saca-rolhas|sacacorchos||S|ali|B2
+decantar|decantar||V|ali|B2
+taça|copa||S|ali|B2
+aroma|aroma||S|ali|B2
+paladar|paladar||S|ali|B2
+degustar|degustar||V|ali|B2
+amargo|amargo||A|ali|B2
+adocicado|dulzón||A|ali|B2
+acidez|acidez||S|ali|B2
+tanino|tanino||S|ali|B2
+espumante|espumoso||S|ali|B2
+brinde|brindis||S|ali|B2
+brindar|brindar||V|ali|B2
+cafeteira|cafetera||S|cas|B2
+bica|café solo (en Lisboa)||S|ris|B2
+galão|café con leche en vaso||S|ris|B2
+meia de leite|café con leche corto||L|ris|B2
+descafeinado|descafeinado||S|ali|B2
+infusão|infusión||S|ali|B2
+barista|barista||S|pro|B2
+aguardente|aguardiente||S|ali|B2
+bagaço|orujo||S|ali|B2
+ginjinha|licor de guindas||S|ali|B2
+consumidor|consumidor||S|cmp|B2
+consumismo|consumismo||S|cmp|B2
+publicidade|publicidad||S|cmp|B2
+publicitário|publicitario||A|cmp|B2
+anúncio|anuncio||S|cmp|B2
+marketing|marketing||S|cmp|B2
+marca|marca||S|cmp|B2
+desconto|descuento||S|cmp|B2
+promoção|promoción||S|cmp|B2
+saldos|rebajas||S|cmp|B2
+liquidação|liquidación (rebajas)||S|cmp|B2
+oferta|oferta||S|cmp|B2
+cupão|cupón||S|cmp|B2
+vale de desconto|vale de descuento||L|cmp|B2
+panfleto|panfleto||S|cmp|B2
+cartaz|cartel||S|cmp|B2
+slogan|eslogan||S|cmp|B2
+campanha|campaña||S|cmp|B2
+público-alvo|público objetivo||L|cmp|B2
+segmento de mercado|segmento de mercado||L|cmp|B2
+sondagem|sondeo (encuesta)||S|cmp|B2
+fidelização|fidelización||S|cmp|B2
+fidelizar|fidelizar||V|cmp|B2
+influenciador|influencer||S|tec|B2
+propaganda|propaganda||S|cmp|B2
+enganoso|engañoso||A|cmp|B2
+aquisição|adquisición||S|cmp|B2
+poupança|ahorro||S|fin|B2
+relação qualidade-preço|relación calidad-precio||L|cmp|B2
+pechincha|chollo (gangazo)||S|cmp|B2
+pechinchar|regatear||V|cmp|B2
+compra por impulso|compra por impulso||L|cmp|B2
