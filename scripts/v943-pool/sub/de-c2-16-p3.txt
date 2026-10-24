@@ -1,0 +1,260 @@
+die Protestbewegung|movimiento de protesta||S|att|C2
+die Protestkultur|cultura de la protesta||S|att|C2
+die Bürgerbewegung|movimiento ciudadano||S|att|C2
+der Wutbürger|ciudadano indignado||S|att|C2
+die Zivilgesellschaft|sociedad civil||S|att|C2
+der Ungehorsam|desobediencia||S|ast|C2
+die Sitzblockade|bloqueo sentado||S|att|C2
+die Straßenblockade|corte de calles||S|att|C2
+der Warnstreik|huelga de advertencia||S|lav|C2
+der Streikbrecher|esquirol||S|lav|C2
+die Kundgebung|mitin||S|att|C2
+die Erhebung|insurrección||S|att|C2
+die Empörung|indignación||S|emo|C2
+empört|indignado||A|emo|C2
+die Meinungsfreiheit|libertad de opinión||S|ist|C2
+die Pressefreiheit|libertad de prensa||S|ist|C2
+die Randale|algarada||S|att|C2
+der Krawall|disturbio||S|att|C2
+die Ausschreitung|alteración del orden público||S|att|C2
+der Boykottaufruf|llamamiento al boicot||S|att|C2
+die Unterschriftenaktion|campaña de recogida de firmas||S|att|C2
+die Hausbesetzung|okupación de viviendas||S|att|C2
+die Besetzung|ocupación de un edificio||S|att|C2
+die Gewaltlosigkeit|no violencia||S|ast|C2
+die Basisdemokratie|democracia de base||S|ist|C2
+die Demokratisierung|democratización||S|ist|C2
+der Vandalismus|vandalismo||S|att|C2
+der Wasserwerfer|vehículo antidisturbios de agua||S|ist|C2
+das Aktionsbündnis|plataforma de acción||S|att|C2
+das Flugblatt|hoja volandera||S|cmu|C2
+die Parole|consigna||S|att|C2
+skandieren|corear||V|att|C2
+der Demonstrationszug|marcha de protesta||S|att|C2
+die Käuflichkeit|venalidad||S|ist|C2
+die Bestechung|cohecho||S|ist|C2
+bestechen|sobornar||V|ist|C2
+die Vorteilsnahme|aceptación de ventajas indebidas||S|ist|C2
+die Steuerhinterziehung|evasión fiscal||S|fin|C2
+die Steueroase|paraíso fiscal||S|fin|C2
+die Bereicherung|enriquecimiento||S|fin|C2
+sich bereichern|enriquecerse||V|fin|C2
+der Nepotismus|nepotismo||S|ist|C2
+die Vetternwirtschaft|amiguismo||S|ist|C2
+die Ämterpatronage|reparto clientelar de cargos||S|ist|C2
+der Amtsmissbrauch|abuso de autoridad||S|ist|C2
+das Schwarzgeld|dinero negro||S|fin|C2
+die Schwarzarbeit|trabajo no declarado||S|fin|C2
+die Geldwäsche|blanqueo de capitales||S|fin|C2
+die Rechnungsprüfung|fiscalización de cuentas||S|fin|C2
+der Rechnungshof|Tribunal de Cuentas||S|ist|C2
+die Kontrollbehörde|autoridad de control||S|ist|C2
+die Transparenz|transparencia||S|ist|C2
+das Transparenzgesetz|ley de transparencia||S|ist|C2
+die Auskunftspflicht|obligación de informar||S|ist|C2
+die Geheimhaltung|ocultación||S|ist|C2
+die Vertrauenskrise|crisis de confianza||S|ast|C2
+das Vertrauensvotum|moción de confianza||S|ist|C2
+die Rechenschaftspflicht|obligación de rendir cuentas||S|ist|C2
+Rechenschaft ablegen|rendir cuentas||L|ist|C2
+der Hinweisgeber|denunciante interno||S|ist|C2
+der Denunziant|delator||S|ist|C2
+die Veruntreuung|malversación||S|fin|C2
+die Unterschlagung|apropiación indebida||S|fin|C2
+die Erpressung|coacción chantajista||S|ist|C2
+das Schmiergeld|coima||S|fin|C2
+die Kartellabsprache|colusión ilícita||S|fin|C2
+die Demografie|demografía||S|sci|C2
+demografisch|demográfico||A|sci|C2
+die Bevölkerungsentwicklung|evolución demográfica||S|sci|C2
+der Bevölkerungsrückgang|regresión demográfica||S|sci|C2
+die Geburtenrate|tasa de natalidad||S|sci|C2
+der Geburtenrückgang|descenso de la natalidad||S|sci|C2
+die Sterblichkeit|mortalidad||S|sci|C2
+der Sterbeüberschuss|superávit de defunciones||S|sci|C2
+die Altersstruktur|estructura por edades||S|sci|C2
+die Überalterung|envejecimiento de la población||S|sci|C2
+die Lebenserwartung|esperanza de vida||S|sci|C2
+die Abwanderung|éxodo interno||S|sci|C2
+die Binnenwanderung|migración interna||S|sci|C2
+die Zwangsmigration|migración forzosa||S|sci|C2
+der Geflüchtete|persona refugiada||S|ist|C2
+der Migrationshintergrund|origen migratorio||S|sci|C2
+die Kettenmigration|migración en cadena||S|sci|C2
+die Diaspora|diáspora||S|sci|C2
+der Exodus|éxodo||S|sci|C2
+die Remigration|retorno al país de origen||S|sci|C2
+die Bleibeperspektive|perspectiva de permanencia||S|sci|C2
+das Asylverfahren|procedimiento de asilo||S|ist|C2
+der Asylanspruch|derecho al asilo||S|ist|C2
+die Unterbringungskapazität|capacidad de acogida||S|ist|C2
+die Abschiebung|deportación||S|ist|C2
+die Abschiebehaft|detención previa a expulsión||S|ist|C2
+der Flüchtlingsstrom|flujo de refugiados||S|ist|C2
+die Einbürgerung|naturalización||S|ist|C2
+einbürgern|naturalizar||V|ist|C2
+die Staatsangehörigkeit|nacionalidad||S|ist|C2
+die Staatenlosigkeit|apatridia||S|ist|C2
+die Urbanisierung|urbanización||S|sci|C2
+das Anwerbeabkommen|acuerdo de contratación de trabajadores||S|ist|C2
+die Ikonografie|iconografía||S|art|C2
+die Ikonologie|iconología||S|art|C2
+die Bildsprache|lenguaje visual simbólico||S|art|C2
+das Emblem|emblema||S|art|C2
+die Emblematik|emblematismo||S|art|C2
+das Attribut|atributo iconográfico||S|art|C2
+die Heiligenverehrung|culto a los santos||S|art|C2
+das Marterwerkzeug|instrumento de martirio||S|art|C2
+die Mandorla|mandorla||S|art|C2
+der Nimbus|nimbo||S|art|C2
+die Aureole|aureola||S|art|C2
+die Chiffre|símbolo cifrado||S|art|C2
+die Vanitas|vanitas||S|art|C2
+das Memento mori|recuerdo de la muerte||L|art|C2
+der Totentanz|danza de la muerte||S|art|C2
+das Diptychon|díptico||S|art|C2
+das Triptychon|tríptico||S|art|C2
+das Stundenbuch|libro de horas||S|art|C2
+die Buchmalerei|miniatura de códices||S|art|C2
+die Tafelmalerei|pintura sobre tabla||S|art|C2
+das Fresko|fresco||S|art|C2
+der Zyklus|ciclo temático||S|art|C2
+die Metaphorik|sistema metafórico||S|let|C2
+die Zahlensymbolik|simbolismo numérico||S|art|C2
+die Farbsymbolik|simbolismo cromático||S|art|C2
+das Repertorium|repertorio iconográfico||S|art|C2
+die Typologie|tipología||S|art|C2
+das Sinnbild|símbolo alegórico||S|art|C2
+die Programmatik|programa iconográfico||S|art|C2
+die Deutungsebene|nivel interpretativo||S|art|C2
+der Typus|arquetipo||S|art|C2
+der Bedeutungsträger|soporte de significado||S|art|C2
+die Herrschaftszeichen|insignias del poder||S|art|C2
+das Kunsthandwerk|artesanía artística||S|art|C2
+der Kunsthandwerker|artesano-artista||S|pro|C2
+die Goldschmiedekunst|orfebrería||S|art|C2
+der Goldschmied|orfebre||S|pro|C2
+die Treibarbeit|repujado||S|art|C2
+die Gravur|grabado a buril||S|art|C2
+gravieren|grabar a buril||V|art|C2
+die Ziselierung|cincelado fino||S|art|C2
+die Filigranarbeit|labor de filigrana||S|art|C2
+das Niello|nielado||S|art|C2
+das Email|esmalte vidriado||S|art|C2
+die Emailkunst|arte del esmalte||S|art|C2
+die Intarsie|taracea||S|art|C2
+die Marketerie|marquetería||S|art|C2
+das Furnier|chapa de madera noble||S|art|C2
+der Drechsler|tornero de madera||S|pro|C2
+die Schnitzerei|talla en madera||S|art|C2
+das Kunstgewerbe|artes aplicadas||S|art|C2
+der Jugendstil|modernismo||S|art|C2
+die Gebrauchsgrafik|diseño gráfico aplicado||S|art|C2
+das Produktdesign|diseño industrial||S|art|C2
+die Formgebung|diseño de la forma||S|art|C2
+die Funktionalität|funcionalidad||S|ast|C2
+die Ergonomie|ergonomía||S|sci|C2
+das Geschmacksmuster|modelo industrial registrado||S|fin|C2
+der Prototyp|prototipo||S|tec|C2
+die Serienfertigung|producción en serie||S|lav|C2
+die Zunft|gremio artesanal||S|ist|C2
+die Entwurfsskizze|esbozo de diseño||S|art|C2
+die Sachlichkeit|sobriedad objetiva||S|art|C2
+die Gestaltungslehre|doctrina de la forma||S|art|C2
+die Manufaktur|manufactura||S|lav|C2
+die Belichtung|exposición fotográfica||S|art|C2
+die Belichtungszeit|tiempo de exposición||S|art|C2
+die Blende|diafragma||S|art|C2
+die Blendenöffnung|apertura del diafragma||S|art|C2
+der Sucher|visor||S|art|C2
+das Stativ|trípode||S|art|C2
+der Auslöser|disparador||S|art|C2
+auslösen|disparar una cámara||V|art|C2
+das Weitwinkelobjektiv|objetivo gran angular||S|art|C2
+das Teleobjektiv|teleobjetivo||S|art|C2
+die Schärfentiefe|profundidad de campo||S|art|C2
+die Dunkelkammer|cámara oscura||S|art|C2
+der Abzug|copia fotográfica||S|art|C2
+die Retusche|retoque||S|art|C2
+retuschieren|retocar||V|art|C2
+die Fotomontage|fotomontaje||S|art|C2
+die Fotoreportage|reportaje fotográfico||S|art|C2
+der Ausschnitt|encuadre||S|art|C2
+die Auflage|tirada||S|art|C2
+das Unikat|pieza única||S|art|C2
+die Installation|instalación artística||S|art|C2
+die Klanginstallation|instalación sonora||S|art|C2
+der Surrealismus|surrealismo||S|art|C2
+die Abstraktion|abstracción||S|art|C2
+die Figuration|figuración||S|art|C2
+der Schattenriss|silueta||S|art|C2
+die Collage|collage||S|art|C2
+die Serigrafie|serigrafía||S|art|C2
+die Silbergelatine|gelatina de plata||S|art|C2
+die Vignettierung|viñeteado||S|art|C2
+der Schwenk|paneo||S|cin|C2
+der Blickwinkel|ángulo visual||S|art|C2
+die Baugestaltung|diseño arquitectónico||S|art|C2
+der Grundriss|planta arquitectónica||S|art|C2
+der Aufriss|alzado||S|art|C2
+die Schnittzeichnung|dibujo de sección||S|art|C2
+der Strebepfeiler|contrafuerte||S|art|C2
+der Wandpfeiler|pilastra estructural||S|art|C2
+das Kreuzrippengewölbe|bóveda de crucería||S|art|C2
+das Tonnengewölbe|bóveda de cañón||S|art|C2
+der Kuppelbau|edificio cupulado||S|art|C2
+die Wendeltreppe|escalera de caracol||S|art|C2
+der Erker|mirador saliente||S|art|C2
+die Attika|ático con cornisa||S|art|C2
+das Gesims|cornisa||S|art|C2
+die Zinne|almena||S|art|C2
+der Portikus|pórtico||S|art|C2
+die Säulenordnung|orden arquitectónico||S|art|C2
+die Karyatide|cariátide||S|art|C2
+das Kapitell|capitel||S|art|C2
+der Fries|friso||S|art|C2
+das Mauerwerk|fábrica de muro||S|art|C2
+der Dachstuhl|armadura de cubierta||S|art|C2
+der Baldachin|baldaquino||S|art|C2
+die Rosette|rosetón||S|art|C2
+das Maßwerk|tracería||S|art|C2
+die Backsteingotik|gótico de ladrillo||S|art|C2
+der Barock|el Barroco||S|art|C2
+die Bauhütte|taller medieval de constructores||S|art|C2
+die Fassadengestaltung|diseño de fachada||S|art|C2
+die Denkmalpflege|conservación del patrimonio||S|art|C2
+der Denkmalschutz|protección monumental||S|art|C2
+die Empore|tribuna||S|art|C2
+die Vorhalle|vestíbulo de templo||S|art|C2
+das Ballett|ballet||S|art|C2
+die Choreografie|coreografía||S|art|C2
+choreografieren|coreografiar||V|art|C2
+die Compagnie|compañía de danza||S|art|C2
+der Solist|solista||S|pro|C2
+die Primaballerina|primera bailarina||S|pro|C2
+der Spitzentanz|danza de puntas||S|art|C2
+der Spitzenschuh|zapatilla de puntas||S|art|C2
+die Pirouette|pirueta||S|art|C2
+der Entrechat|entrechat||S|art|C2
+die Arabesque|arabesque||S|art|C2
+die Sprungkombination|combinación de saltos||S|art|C2
+die Hebefigur|figura de elevación||S|art|C2
+das Pas de deux|pas de deux||L|art|C2
+die Fußarbeit|trabajo de pies||S|art|C2
+die Bodenarbeit|trabajo de suelo||S|art|C2
+die Barre|barra de ballet||S|art|C2
+die Ausdruckstärke|fuerza expresiva||S|art|C2
+der Ausdruckstanz|danza expresionista||S|art|C2
+die Körpersprache|lenguaje corporal||S|art|C2
+der moderne Tanz|danza moderna||L|art|C2
+die Einstudierung|montaje de una coreografía||S|art|C2
+die Virtuosität|virtuosismo||S|art|C2
+die Grazie|garbo||S|art|C2
+die Aufrichtung|verticalidad del cuerpo||S|art|C2
+die Trainingsmethode|método de entrenamiento||S|art|C2
+die Gelenkigkeit|flexibilidad articular||S|cor|C2
+die Positur|pose||S|art|C2
+die Verbeugung|reverencia||S|art|C2
+die Szenerie|ambientación escénica||S|art|C2
+das Repertoire|repertorio||S|art|C2
+das Tutu|tutú||S|art|C2

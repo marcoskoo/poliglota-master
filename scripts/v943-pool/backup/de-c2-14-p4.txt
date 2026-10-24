@@ -1,0 +1,260 @@
+die Personalentwicklung|desarrollo de personal||S|lav|C2
+die Fluktuation|rotación (de plantilla)||S|lav|C2
+die Rekrutierung|reclutamiento||S|lav|C2
+das Anforderungsprofil|perfil del puesto||S|lav|C2
+die Einarbeitung|adaptación al puesto||S|lav|C2
+die Probezeit|período de prueba||S|lav|C2
+die Kündigungsfrist|plazo de preaviso||S|lav|C2
+der Aufhebungsvertrag|acuerdo de extinción del contrato||S|lav|C2
+der Betriebsrat|comité de empresa||S|lav|C2
+die Betriebsvereinbarung|acuerdo de empresa||S|lav|C2
+die Tarifautonomie|autonomía de negociación colectiva||S|ist|C2
+der Tarifvertrag|convenio colectivo||S|lav|C2
+der Warnstreik|huelga de advertencia||S|lav|C2
+die Mitbestimmung|codeterminación laboral||S|lav|C2
+die Seniorität|antigüedad (categoría adquirida)||S|lav|C2
+die Lohnfortzahlung|abono de salario durante la baja||S|lav|C2
+die Schwarzarbeit|trabajo sumergido||S|lav|C2
+die Scheinselbständigkeit|falso autónomo (figura fraudulenta)||S|lav|C2
+die Leiharbeit|cesión temporal de trabajadores||S|lav|C2
+das Burnout|agotamiento profesional||S|sla|C2
+innere Kündigung|renuncia interior (desmotivación total)||E|lav|C2
+die Jobzufriedenheit|satisfacción laboral||S|lav|C2
+die Gruppenkohäsion|cohesión de grupo||S|sci|C2
+die Potenzialanalyse|análisis de potencial||S|lav|C2
+die Nachfolgeplanung|planificación de la sucesión||S|lav|C2
+die Talentförderung|fomento del talento||S|lav|C2
+die Abfindung|indemnización por despido||S|lav|C2
+die Fehlzeitenquote|tasa de ausentismo||S|lav|C2
+das Arbeitsgericht|juzgado de lo social||S|ist|C2
+die Mediation|mediación (laboral)||S|lav|C2
+die Erziehungswissenschaft|ciencia de la educación||S|stu|C2
+die Didaktik|didáctica||S|stu|C2
+die Methodik|metodología||S|stu|C2
+die Pädagogik|pedagogía||S|stu|C2
+die Bildungsungleichheit|desigualdad educativa||S|stu|C2
+der Bildungsgang|itinerario formativo||S|stu|C2
+die Lernstandserhebung|evaluación diagnóstica del nivel||S|stu|C2
+die Vergleichsarbeit|prueba comparativa estandarizada||S|stu|C2
+das Zentralabitur|selectividad unificada||S|stu|C2
+die Hochschulreife|acceso a la universidad||S|stu|C2
+die Studiengebühr|tasa universitaria||S|stu|C2
+die Schlüsselqualifikation|cualificación transversal||S|stu|C2
+die Binnendifferenzierung|atención a la diversidad en el aula||S|stu|C2
+der Frontalunterricht|enseñanza magistral frontal||S|stu|C2
+der Lehrplan|plan de estudios||S|stu|C2
+die Eigenverantwortung|responsabilidad propia||S|stu|C2
+der Erziehungsstil|estilo educativo||S|fam|C2
+die Sozialisation|socialización (proceso)||S|sci|C2
+der Lehrauftrag|encargo docente||S|stu|C2
+die Chancengerechtigkeit|equidad de oportunidades||S|ist|C2
+die Begabungsförderung|atención al talento||S|stu|C2
+die Hochbegabung|alta capacidad||S|stu|C2
+die Verhaltensauffälligkeit|trastorno de conducta (en el aula)||S|stu|C2
+der Wissenszuwachs|incremento de conocimiento||S|stu|C2
+das Leistungsprinzip|principio de mérito||S|ist|C2
+die Schulinspektion|inspección educativa||S|ist|C2
+die Ganztagsschule|escuela de jornada completa||S|stu|C2
+die Entwicklungspsychologie|psicología del desarrollo||S|sci|C2
+der Kläger|demandante||S|ist|C2
+der Beklagte|demandado||S|ist|C2
+die Klageschrift|escrito de demanda||S|ist|C2
+der Schriftsatz|escrito procesal||S|ist|C2
+der Präzedenzfall|caso con valor de precedente||S|ist|C2
+mildernde Umstände|circunstancias atenuantes||E|ist|C2
+die Untersuchungshaft|prisión preventiva||S|ist|C2
+die Judikatur|jurisprudencia||S|ist|C2
+die Nötigung|coacción||S|ist|C2
+die Untreue|administración desleal (delito)||S|ist|C2
+die Steuerhinterziehung|evasión fiscal||S|ist|C2
+die Urkundenfälschung|falsificación de documentos||S|ist|C2
+der Meineid|perjurio||S|ist|C2
+die Verjährung|prescripción||S|ist|C2
+einstweilige Verfügung|medida cautelar||E|ist|C2
+der Tatbestand|hecho típico||S|ist|C2
+die Zurechnungsfähigkeit|imputabilidad||S|ist|C2
+die Widerrechtlichkeit|antijuridicidad||S|ist|C2
+die Approbation|homologación del título médico||S|sla|C2
+die Verschreibungspflicht|obligación de receta médica||S|sla|C2
+das Betäubungsmittel|estupefaciente||S|sla|C2
+die Patientenverfügung|testamento vital||S|sla|C2
+die Pflegeversicherung|seguro de dependencia||S|sla|C2
+die Krankenhaushygiene|higiene hospitalaria||S|sla|C2
+die Sterbebegleitung|acompañamiento al final de la vida||S|sla|C2
+die Todesbescheinigung|certificado de defunción||S|sla|C2
+der Behandlungsfehler|error médico||S|sla|C2
+die Aufklärungspflicht|deber de información al paciente||S|sla|C2
+die Notfallmedizin|medicina de urgencias||S|sla|C2
+die Rettungskette|cadena de socorro||S|sla|C2
+das Einvernehmen|entendimiento, armonía||S|rel|C2
+das Einverständnis|consentimiento, conformidad||S|rel|C2
+das Zerwürfnis|desavenencia, ruptura||S|rel|C2
+die Vertrautheit|intimidad, familiaridad||S|rel|C2
+die Verschwiegenheit|discreción, reserva||S|rel|C2
+diskret|discreto||A|rel|C2
+vertraulich|confidencial, de confianza||A|rel|C2
+die Verbundenheit|apego, conexión afectiva||S|rel|C2
+der Zank|riña, pendencia||S|rel|C2
+die Fehde|feudo, disputa persistente||S|rel|C2
+der Zwist|desavenencia, discordia||S|rel|C2
+die Aussöhnung|reconciliación||S|rel|C2
+die Annäherung|acercamiento||S|rel|C2
+das Entgegenkommen|buena disposición, concesión recíproca||S|rel|C2
+die Gefälligkeit|servicialidad, favor||S|rel|C2
+die Zuvorkommenheit|amabilidad exquisita||S|rel|C2
+die Rücksichtnahme|consideración hacia otros||S|rel|C2
+die Rücksichtslosigkeit|desconsideración||S|rel|C2
+die Duldsamkeit|tolerancia, longanimidad||S|rel|C2
+die Langmut|paciencia prolongada, longanimidad||S|rel|C2
+der Argwohn|desconfianza suspicaz||S|rel|C2
+misstrauisch|receloso, desconfiado||A|rel|C2
+die Kumpanei|compinchería, camaradería excesiva||S|rel|C2
+der Beistand|apoyo, auxilio||S|rel|C2
+das Herzeleid|pena de corazón||S|rel|C2
+der Liebeskummer|desamor, pena de amor||S|rel|C2
+die Verliebtheit|enamoramiento (fase inicial)||S|rel|C2
+die Schwärmerei|encaprichamiento, devoción exaltada||S|rel|C2
+umwerben|cortejar con ahínco||V|rel|C2
+das Bühnenbild|escenografía||S|art|C2
+der Bühnenvorhang|telón||S|art|C2
+die Souffleuse|apuntadora||S|pro|C2
+die Uraufführung|estreno absoluto||S|art|C2
+die Aufführung|función, representación||S|art|C2
+das Gastspiel|función de gira||S|art|C2
+das Sprechtheater|teatro hablado||S|art|C2
+das Musiktheater|género lírico escénico||S|art|C2
+der Dramatiker|dramaturgo||S|pro|C2
+die Dramaturgie|dramaturgia||S|art|C2
+der Handlungsstrang|hilo argumental||S|let|C2
+die Regieanweisung|acotación escénica||S|let|C2
+das Trauerspiel|tragedia||S|let|C2
+das Lustspiel|comedia (clásica)||S|let|C2
+darstellende Kunst|artes escénicas||E|art|C2
+die Posse|farsa, comedia grotesca||S|art|C2
+die Inszenierung|puesta en escena||S|art|C2
+das Versmaß|métrica del verso||S|let|C2
+das Reimschema|esquema de rimas||S|let|C2
+die Alliteration|aliteración||S|let|C2
+die Anapher|anáfora||S|let|C2
+das Enjambement|encabalgamiento||S|let|C2
+die Zäsur|cesura||S|let|C2
+der Jambus|yambo||S|let|C2
+das Sonett|soneto||S|let|C2
+das Requiem|réquiem||S|mus|C2
+der Aphorismus|aforismo||S|let|C2
+die Lyrik|lírica||S|let|C2
+das Volksstück|pieza teatral popular||S|art|C2
+die Matinee|función matinal||S|art|C2
+die Expedition|expedición||S|vig|C2
+die Besteigung|ascensión (a una cumbre)||S|spt|C2
+die Erstbesteigung|primer ascenso||S|spt|C2
+das Trekking|travesía a pie||S|sve|C2
+die Entbehrung|privación, penuria||S|vig|C2
+die Frostbeule|sabañón||S|sla|C2
+die Erfrierung|congelación (lesión)||S|sla|C2
+erfrieren|congelarse (morir de frío)||V|nat|C2
+der Schneesturm|ventisca||S|nat|C2
+die Gletscherspalte|grieta glaciar||S|nat|C2
+der Steinschlag|caída de piedras (alpinismo)||S|nat|C2
+der Wettersturz|cambio brusco de tiempo||S|nat|C2
+die Höhenkrankheit|mal de altura||S|sla|C2
+der Sauerstoffmangel|déficit de oxígeno||S|sla|C2
+das Basislager|campamento base||S|vig|C2
+das Hochgebirge|alta montaña||S|nat|C2
+das Biwak|vivac||S|vig|C2
+der Proviant|víveres||S|vig|C2
+der Steig|sendero (terminología alpina)||S|nat|C2
+der Klettersteig|vía ferrata||S|spt|C2
+die Einöde|yermo, despoblado||S|nat|C2
+das Niemandsland|tierra de nadie||S|nat|C2
+die Berghütte|refugio de montaña||S|vig|C2
+der Sextant|sextante||S|sci|C2
+die Waghalsigkeit|temeridad, audacia||S|emo|C2
+der Überlebenskampf|lucha por la supervivencia||S|nat|C2
+verdursten|morir de sed||V|sla|C2
+die Wildnis|páramo, tierra salvaje||S|nat|C2
+die Filmtheorie|teoría del cine||S|cin|C2
+die Montage|montaje||S|cin|C2
+der Filmschnitt|montaje (corte de la película)||S|cin|C2
+die Einstellungsgröße|escala del plano||S|cin|C2
+die Totale|plano general||S|cin|C2
+die Nahaufnahme|primer plano||S|cin|C2
+die Untersicht|contrapicado||S|cin|C2
+die Vogelperspektive|plano cenital (vista de pájaro)||S|cin|C2
+die Kamerafahrt|travelling||S|cin|C2
+der Schwenk|paneo||S|cin|C2
+die Blende|fundido||S|cin|C2
+die Geräuschkulisse|paisaje sonoro (ambiente)||S|cin|C2
+die Filmproduktion|producción cinematográfica||S|cin|C2
+der Drehort|localización de rodaje||S|cin|C2
+die Postproduktion|posproducción||S|cin|C2
+das Storyboard|guion gráfico||S|cin|C2
+der Spannungsbogen|arco de tensión narrativa||S|cin|C2
+der Erzählstrang|hilo narrativo||S|cin|C2
+die Erzählperspektive|punto de vista narrativo||S|cin|C2
+der Autorenfilm|cine de autor||S|cin|C2
+der Essayfilm|cine-ensayo||S|cin|C2
+der Stummfilm|cine mudo||S|cin|C2
+die Ausstattung|dirección de arte (atrezzo y escenografía)||S|cin|C2
+das Requisit|atrezzo (objeto de utilería)||S|cin|C2
+die Massenszene|escena de masas||S|cin|C2
+der Zwischentitel|intertítulo||S|cin|C2
+der Feuilleton|suplemento cultural||S|att|C2
+die Besprechung|reseña||S|att|C2
+der Kassenschlager|éxito de taquilla||S|cin|C2
+die Demographie|demografía||S|sci|C2
+die Geburtenrate|tasa de natalidad||S|sci|C2
+die Geburtenziffer|índice de natalidad||S|sci|C2
+die Sterblichkeit|mortalidad||S|sci|C2
+die Säuglingssterblichkeit|mortalidad infantil||S|sci|C2
+die Lebenserwartung|esperanza de vida||S|sci|C2
+der Bevölkerungsrückgang|descenso de población||S|sci|C2
+die Bevölkerungspyramide|pirámide de población||S|sci|C2
+die Binnenwanderung|migración interna||S|sci|C2
+die Abwanderung|éxodo interno||S|sci|C2
+die Kettenmigration|migración en cadena||S|sci|C2
+das Herkunftsmilieu|entorno social de origen||S|sci|C2
+das Mehrgenerationenhaus|casa multigeneracional||S|fam|C2
+die Großfamilie|familia extensa||S|fam|C2
+die Patchworkfamilie|familia reconstituida||S|fam|C2
+die Alleinerziehende|progenitor en solitario||S|fam|C2
+der Gatte|cónyuge (esposo, culto)||S|fam|C2
+die Gattin|esposa (registro culto)||S|fam|C2
+die Verlobung|compromiso (pedida)||S|fam|C2
+die Schwägerschaft|parentesco político||S|fam|C2
+der Ahn|antepasado (elevado)||S|fam|C2
+die Sippe|clan, parentela||S|fam|C2
+der Kinderwunsch|deseo de tener hijos||S|fam|C2
+die Kinderlosigkeit|ausencia de hijos||S|sci|C2
+die Fruchtbarkeitsrate|tasa de fecundidad||S|sci|C2
+die Pflegebedürftigkeit|situación de dependencia||S|sla|C2
+die Altersvorsorge|previsión para la vejez||S|fin|C2
+demographischer Wandel|envejecimiento poblacional (cambio demográfico)||E|sci|C2
+die Stadtplanung|urbanismo||S|cit|C2
+die Urbanität|urbanidad (carácter urbano)||S|cit|C2
+die Zeilenbebauung|edificación en hilera||S|cit|C2
+der Blockrand|borde edificado de manzana||S|cit|C2
+das Quartier|barrio (registro culto)||S|cit|C2
+das Gründerzeitviertel|barrio del período fundacional||S|cit|C2
+der Jugendstil|modernismo (art nouveau)||S|art|C2
+die Backsteinarchitektur|arquitectura de ladrillo||S|cit|C2
+der Erker|mirador saliente||S|cit|C2
+der Stuck|estuco||S|art|C2
+die Vorstadt|arrabal||S|cit|C2
+der Speckgürtel|cinturón residencial próspero||S|cit|C2
+die Satellitenstadt|ciudad satélite||S|cit|C2
+der Plattenbau|bloque prefabricado||S|cit|C2
+die Gartensiedlung|colonia jardín||S|cit|C2
+das Baudenkmal|monumento protegido||S|cit|C2
+denkmalgeschützt|protegido como monumento||A|cit|C2
+die Stadtsanierung|rehabilitación urbana||S|cit|C2
+der Leerstand|viviendas vacías||S|cit|C2
+der Wiederaufbau|reconstrucción posbélica||S|cit|C2
+die Verkehrsberuhigung|moderación del tráfico||S|cit|C2
+die Dachbegrünung|cubierta vegetal (tejado verde)||S|cit|C2
+der Kreuzgang|claustro||S|cit|C2
+die Flaniermeile|paseo comercial bullicioso||S|cit|C2
+das Szeneviertel|barrio de moda||S|cit|C2
+die Agglomeration|aglomeración urbana||S|cit|C2
+die Zersiedelung|dispersión urbana||S|cit|C2
+die Hitzeinsel|isla de calor||S|cit|C2

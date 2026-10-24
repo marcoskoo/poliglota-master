@@ -1,0 +1,260 @@
+shopping list|lista de la compra||S|cmp|A2
+shop|tienda||S|cmp|A2
+shop assistant|dependiente||S|cmp|A2
+shop window|escaparate||S|cmp|A2
+shoe shop|zapatería||S|cmp|A2
+clothes shop|tienda de ropa||S|cmp|A2
+second-hand shop|tienda de segunda mano||S|cmp|A2
+corner shop|tienda de barrio||S|cmp|A2
+street market|mercado al aire libre||S|cmp|A2
+flea market|mercado de segunda mano||S|cmp|A2
+greengrocer|frutería||S|cmp|A2
+butcher|carnicería||S|cmp|A2
+checkout|caja del supermercado||S|cmp|A2
+self-checkout|caja de autoservicio||S|cmp|A2
+barcode|código de barras||S|cmp|A2
+stamp|sello||S|cit|A2
+shelf|estante||S|cmp|A2
+basket|cesta||S|cmp|A2
+trolley|carrito de la compra||S|cmp|A2
+online shopping|compras en línea||S|cmp|A2
+price tag|etiqueta de precio||S|cmp|A2
+sale price|precio de oferta||S|cmp|A2
+special offer|oferta especial||S|cmp|A2
+half price|a mitad de precio||L|cmp|A2
+loyalty card|tarjeta de fidelidad||S|cmp|A2
+gift card|tarjeta de regalo||S|cmp|A2
+gift receipt|ticket de regalo||S|cmp|A2
+voucher|vale de descuento||S|cmp|A2
+in cash|en efectivo||L|cmp|A2
+pay by card|pagar con tarjeta||L|cmp|A2
+banknote|billete||S|fin|A2
+coin|moneda||S|fin|A2
+expensive|caro||A|cmp|A2
+cheap|barato||A|cmp|A2
+too expensive|demasiado caro||E|cmp|A2
+how much is it|¿cuánto cuesta?||E|cmp|A2
+I'm just looking|solo estoy mirando||E|cmp|A2
+I'll take it|me lo llevo||E|cmp|A2
+keep the change|quédese con el cambio||E|cmp|A2
+it doesn't work|no funciona||E|cmp|A2
+brand|marca||S|cmp|A2
+organic|orgánico||A|cmp|A2
+secondhand|de segunda mano||A|cmp|A2
+sell out|agotarse||V|cmp|A2
+haggle|regatear||V|cmp|A2
+deliver|entregar||V|cmp|A2
+delivery|entrega a domicilio||S|cmp|A2
+package|paquete||S|cmp|A2
+parcel|paquete postal||S|cmp|A2
+complaint|reclamación||S|cmp|A2
+customer service|atención al cliente||S|cmp|A2
+spend money|gastar dinero||L|fin|A2
+save money|ahorrar dinero||L|fin|A2
+window shopping|mirar escaparates||L|cmp|A2
+try on|probarse||V|cmp|A2
+medium|mediana||A|cmp|A2
+fashion|moda||S|rop|A2
+stylish|con estilo||A|rop|A2
+trendy|a la moda||A|rop|A2
+vintage|vintage||A|rop|A2
+outfit|conjunto de ropa||S|rop|A2
+uniform|uniforme||S|rop|A2
+work clothes|ropa de trabajo||S|rop|A2
+protective clothing|ropa de protección||S|rop|A2
+swimming trunks|bañador de hombre||S|rop|A2
+bikini|bikini||S|rop|A2
+nightgown|camisón||S|rop|A2
+dressing gown|bata de casa||S|rop|A2
+bathrobe|albornoz||S|rop|A2
+tights|leotardos||S|rop|A2
+leggings|mallas||S|rop|A2
+tracksuit|chándal||S|rop|A2
+waistcoat|chaleco||S|rop|A2
+braces|tirantes||S|rop|A2
+apron|delantal||S|rop|A2
+sock|calcetín||S|rop|A2
+boot|bota||S|rop|A2
+sneaker|zapatilla de deporte||S|rop|A2
+sandal|sandalia||S|rop|A2
+slipper|zapatilla de casa||S|rop|A2
+hood|capucha||S|rop|A2
+shoelace|cordón del zapato||S|rop|A2
+strap|correa||S|rop|A2
+fabric|tela||S|rop|A2
+textile|textil||S|rop|A2
+used|usado||A|cmp|A2
+suede|ante||S|rop|A2
+stripe|raya||S|rop|A2
+dotted|de lunares||A|rop|A2
+plain|liso||A|rop|A2
+patterned|estampado||A|rop|A2
+wrinkle|arruga||S|rop|A2
+iron|planchar||V|cas|A2
+get changed|cambiarse de ropa||V|rop|A2
+look good|quedar bien||L|rop|A2
+look bad|quedar mal||L|rop|A2
+out of fashion|pasado de moda||L|rop|A2
+earring|pendiente||S|rop|A2
+wristband|cinta de muñeca||S|rop|A2
+name tag|credencial con el nombre||S|rop|A2
+makeup|maquillaje||S|cor|A2
+lipstick|labial||S|cor|A2
+eyeshadow|sombra de ojos||S|cor|A2
+mascara|rimel||S|cor|A2
+perfume|perfume||S|cor|A2
+deodorant|desodorante||S|cor|A2
+hairdryer|secador de pelo||S|cor|A2
+hot brush|cepillo térmico||S|cor|A2
+dry|secar||V|cor|A2
+shaving foam|espuma de afeitar||S|cor|A2
+headband|banda para el pelo||S|cor|A2
+hairband|diadema||S|cor|A2
+hairpin|horquilla||S|cor|A2
+hair clip|pinza del pelo||S|cor|A2
+hairnet|redecilla||S|cor|A2
+hair spray|laca||S|cor|A2
+hair oil|aceite para el pelo||S|cor|A2
+hair mask|mascarilla capilar||S|cor|A2
+mousse|espuma de peinado||S|cor|A2
+perm|permanente||S|cor|A2
+straighteners|plancha del pelo||S|cor|A2
+curling iron|tenacilla||S|cor|A2
+ponytail|coleta||S|cor|A2
+pigtails|dos coletas||S|cor|A2
+braids|trenzas||S|cor|A2
+bob|corte bob||S|cor|A2
+fringe|flequillo||S|cor|A2
+bangs|flequillo (estilo EE. UU.)||S|cor|A2
+layers|capas del corte||S|cor|A2
+highlights|mechas||S|cor|A2
+dandruff|caspa||S|cor|A2
+split ends|puntas abiertas||S|cor|A2
+dry shampoo|champú en seco||S|cor|A2
+detangler|desenredante||S|cor|A2
+leave-in conditioner|acondicionador sin aclarado||S|cor|A2
+moisturizer|crema hidratante||S|cor|A2
+face cream|crema facial||S|cor|A2
+night cream|crema de noche||S|cor|A2
+cleanser|limpiador facial||S|cor|A2
+inhaler|inhalador||S|sla|A2
+exfoliant|exfoliante||S|cor|A2
+sunscreen|protector solar||S|cor|A2
+sunblock|bloqueador solar||S|cor|A2
+after sun|loción para después del sol||S|cor|A2
+freckles|pecas||S|cor|A2
+age spot|mancha de la edad||S|cor|A2
+birthmark|marca de nacimiento||S|cor|A2
+dimple|hoyo en la mejilla||S|cor|A2
+wrinkle cream|crema antiarrugas||S|cor|A2
+tablets|pastillas||S|sla|A2
+pill|píldora||S|sla|A2
+medicine|medicina||S|sla|A2
+drops|gotas||S|sla|A2
+thermometer|termómetro||S|sla|A2
+band-aid|tirita||S|sla|A2
+gauze|gasa||S|sla|A2
+antiseptic|antiséptico||S|sla|A2
+iodine|yodo||S|sla|A2
+antibiotic cream|crema antibiótica||S|sla|A2
+antihistamine|antihistamínico||S|sla|A2
+painkillers|analgésicos||S|sla|A2
+paracetamol|paracetamol||S|sla|A2
+ibuprofen|ibuprofeno||S|sla|A2
+aspirin|aspirina||S|sla|A2
+vitamins|vitaminas||S|sla|A2
+hot water bottle|bolsa de agua caliente||S|sla|A2
+ice pack|bolsa de hielo||S|sla|A2
+cough sweet|pastilla para la tos||S|sla|A2
+mouthwash|colutorio||S|sla|A2
+gargle|gárgaras||S|sla|A2
+chemist|farmacia||S|sla|A2
+health centre|centro de salud||S|sla|A2
+clinic|clínica||S|sla|A2
+family doctor|médico de cabecera||S|sla|A2
+ambulance|ambulancia||S|sla|A2
+paramedic|paramédico||S|sla|A2
+get well soon|que te mejores||E|sla|A2
+catch a cold|resfriarse||V|sla|A2
+catch the flu|coger la gripe||V|sla|A2
+flu shot|vacuna de la gripe||S|sla|A2
+nosebleed|hemorragia nasal||S|sla|A2
+black eye|ojo morado||S|sla|A2
+blister|ampolla||S|cor|A2
+cramp|calambre||S|cor|A2
+ache|dolor||S|cor|A2
+hay fever|alergia al polen||S|sla|A2
+allergic reaction|reacción alérgica||S|sla|A2
+eczema|eczema||S|sla|A2
+crutches|muletas||S|sla|A2
+hives|roncha||S|sla|A2
+pimples|granitos||S|cor|A2
+blackheads|puntos negros||S|cor|A2
+oily skin|piel grasa||S|cor|A2
+dry skin|piel seca||S|cor|A2
+eye test|revisión de la vista||S|sla|A2
+optician|óptica||S|sla|A2
+reading glasses|gafas de leer||S|sla|A2
+dental floss|hilo dental||S|sla|A2
+false teeth|dentadura postiza||S|sla|A2
+filling|empaste||S|sla|A2
+eyesight|vista||S|sla|A2
+hearing aid|audífono||S|sla|A2
+guide dog|perro guía||S|sla|A2
+deaf|sordo||A|sla|A2
+hard of hearing|con dificultad auditiva||L|sla|A2
+mouth|boca||S|cor|A2
+nose|nariz||S|cor|A2
+ear|oreja||S|cor|A2
+eye|ojo||S|cor|A2
+hand|mano||S|cor|A2
+finger|dedo||S|cor|A2
+knee|rodilla||S|cor|A2
+foot|pie||S|cor|A2
+teeth|dientes||S|cor|A2
+tooth|diente||S|cor|A2
+tongue|lengua||S|cor|A2
+lip|labio||S|cor|A2
+nail|uña||S|cor|A2
+chest|pecho||S|cor|A2
+shin|canilla||S|cor|A2
+sole|planta del pie||S|cor|A2
+blood|sangre||S|cor|A2
+goosebumps|piel de gallina||S|cor|A2
+cut|corte||S|cor|A2
+graze|rasguño||S|cor|A2
+wig|peluca||S|cor|A2
+tattoo|tatuaje||S|cor|A2
+piercing|piercing||S|cor|A2
+jewellery|joyas||S|rop|A2
+veil|velo||S|rop|A2
+sunhat|sombrero de sol||S|rop|A2
+wellies|botas de agua||S|rop|A2
+anorak|anorak||S|rop|A2
+bridge|puente||S|cit|A2
+castle|castillo||S|cit|A2
+art gallery|galería de arte||S|art|A2
+letterbox|buzón||S|cit|A2
+mailbox|buzón de correos||S|cit|A2
+wages|sueldo||S|fin|A2
+festival|fiesta popular||S|cit|A2
+parade|desfile||S|cit|A2
+marching band|banda de música||S|mus|A2
+confetti|confeti||S|cit|A2
+balloon|globo||S|cit|A2
+banner|pancarta||S|cit|A2
+lantern|farol||S|cit|A2
+fireworks display|espectáculo de fuegos artificiales||S|cit|A2
+sparkler|vela mágica||S|cit|A2
+toffee apple|manzana de caramelo||S|ali|A2
+candy floss|algodón de azúcar||S|ali|A2
+doughnut|donut||S|ali|A2
+hot dog stand|puesto de perritos calientes||S|ali|A2
+burger bar|hamburguesería||S|ali|A2
+funfair|feria||S|sve|A2
+prize|premio||S|sve|A2
+candy apple|manzana caramelizada||S|ali|A2
+soft toy|peluche||S|sve|A2
+teddy bear|osito de peluche||S|sve|A2
+stuffed animal|animal de peluche||S|sve|A2
+doll|muñeca||S|sve|A2

@@ -1,0 +1,258 @@
+job interview|entrevista de trabajo||S|lav|B1
+apply for a job|solicitar un empleo||L|lav|B1
+application form|formulario de solicitud||S|lav|B1
+applicant|candidato, solicitante||S|lav|B1
+CV|currículum||S|lav|B1
+vacancy|vacante, puesto libre||S|lav|B1
+employer|empleador||S|lav|B1
+employee|empleado||S|lav|B1
+colleague|compañero de trabajo||S|lav|B1
+boss|jefe||S|lav|B1
+manager|gerente, director||S|lav|B1
+staff|personal, plantilla||S|lav|B1
+workforce|mano de obra||S|lav|B1
+salary|salario||S|lav|B1
+wage|sueldo||S|lav|B1
+income|ingresos||S|lav|B1
+promotion|ascenso||S|lav|B1
+get promoted|ascender de puesto||L|lav|B1
+pay rise|subida de sueldo||S|lav|B1
+overtime|horas extraordinarias||S|lav|B1
+shift|turno (de trabajo)||S|lav|B1
+night shift|turno de noche||S|lav|B1
+deadline|fecha límite||S|lav|B1
+meet a deadline|cumplir un plazo||L|lav|B1
+workload|carga de trabajo||S|lav|B1
+take on|contratar, asumir (tareas)||V|lav|B1
+take over|hacerse cargo de||V|lav|B1
+resign|dimitir||V|lav|B1
+quit a job|dejar el trabajo||L|lav|B1
+retire|jubilarse||V|lav|B1
+retirement|jubilación||S|lav|B1
+be made redundant|ser despedido por reestructuración||L|lav|B1
+dismiss|despedir||V|lav|B1
+dismissal|despido||S|lav|B1
+unemployment|desempleo, paro||S|lav|B1
+unemployed|en paro||A|lav|B1
+internship|prácticas laborales||S|lav|B1
+trainee|aprendiz||S|lav|B1
+work experience|experiencia laboral||S|lav|B1
+full-time|a tiempo completo||A|lav|B1
+part-time|a tiempo parcial||A|lav|B1
+freelance|autónomo||A|lav|B1
+sick leave|baja por enfermedad||S|lav|B1
+day off|día libre||S|lav|B1
+annual leave|vacaciones anuales||S|lav|B1
+contract|contrato||S|lav|B1
+temporary contract|contrato temporal||S|lav|B1
+permanent contract|contrato indefinido||S|lav|B1
+sort out|resolver, arreglar||V|lav|B1
+deal with|encargarse de, ocuparse de||V|lav|B1
+be in charge of|estar a cargo de||L|lav|B1
+run a business|dirigir un negocio||L|lav|B1
+set up|montar (un negocio)||V|lav|B1
+skilled|cualificado||A|lav|B1
+qualification|titulación, cualificación||S|lav|B1
+career|carrera profesional||S|lav|B1
+get a job|conseguir trabajo||L|lav|B1
+fill in a form|rellenar un formulario||L|lav|B1
+shortlist|lista de finalistas||S|lav|B1
+references|referencias (laborales)||S|lav|B1
+teamwork|trabajo en equipo||S|lav|B1
+notice period|preaviso (de dimisión)||S|lav|B1
+be off sick|estar de baja por enfermedad||L|lav|B1
+work from home|teletrabajar||L|lav|B1
+job opportunity|oportunidad laboral||S|lav|B1
+nine-to-five job|trabajo de horario fijo||S|lav|B1
+subject|asignatura||S|stu|B1
+timetable|horario||S|stu|B1
+term|trimestre||S|stu|B1
+semester|semestre||S|stu|B1
+lecture|clase magistral||S|stu|B1
+seminar|seminario||S|stu|B1
+textbook|libro de texto||S|stu|B1
+take notes|tomar apuntes||L|stu|B1
+assignment|trabajo encargado||S|stu|B1
+essay|redacción, composición||S|stu|B1
+revise|repasar||V|stu|B1
+revision|repaso||S|stu|B1
+cheat|copiar (en un examen)||V|stu|B1
+fail an exam|suspender un examen||L|stu|B1
+pass an exam|aprobar un examen||L|stu|B1
+resit an exam|repetir un examen||L|stu|B1
+mark|nota||S|stu|B1
+grade|calificación||S|stu|B1
+teacher|profesor||S|stu|B1
+pupil|alumno (escolar)||S|stu|B1
+undergraduate|estudiante de grado||S|stu|B1
+graduate|egresado, titulado||S|stu|B1
+graduate from|licenciarse en||V|stu|B1
+degree|título universitario||S|stu|B1
+master's degree|máster||S|stu|B1
+scholarship|beca||S|stu|B1
+grant|ayuda de estudios||S|stu|B1
+tuition fees|tasas universitarias||S|stu|B1
+campus|campus||S|stu|B1
+halls of residence|residencia de estudiantes||S|stu|B1
+student loan|préstamo estudiantil||S|stu|B1
+enrol|matricularse||V|stu|B1
+hand in|entregar (un trabajo)||V|stu|B1
+hand out|repartir||V|stu|B1
+catch up on|recuperar (retraso)||V|stu|B1
+fall behind|quedarse atrás||V|stu|B1
+drop out|abandonar los estudios||V|stu|B1
+look up|buscar (en un diccionario)||V|stu|B1
+make progress|hacer progresos||L|stu|B1
+pay attention|prestar atención||L|stu|B1
+take part in|participar en||V|stu|B1
+give a presentation|hacer una presentación||L|stu|B1
+do research|hacer investigación||L|stu|B1
+coursework|trabajos del curso||S|stu|B1
+gap year|año sabático||S|stu|B1
+compulsory|obligatorio||A|stu|B1
+optional|optativo||A|stu|B1
+primary school|colegio de primaria||S|stu|B1
+secondary school|instituto de secundaria||S|stu|B1
+nursery school|escuela infantil||S|stu|B1
+whiteboard|pizarra blanca||S|stu|B1
+curriculum|plan de estudios||S|stu|B1
+syllabus|programa de la asignatura||S|stu|B1
+knowledge|conocimientos||S|stu|B1
+learn by heart|aprender de memoria||L|stu|B1
+mother tongue|lengua materna||S|stu|B1
+foreign language|idioma extranjero||S|stu|B1
+fluent|con fluidez||A|stu|B1
+accent|acento||S|stu|B1
+pronounce|pronunciar||V|stu|B1
+spelling|ortografía||S|stu|B1
+grammar|gramática||S|stu|B1
+vocabulary|vocabulario||S|stu|B1
+translate|traducir||V|stu|B1
+make a mistake|cometer un error||L|stu|B1
+answer|responder||V|stu|B1
+relative|pariente||S|fam|B1
+extended family|familia extensa||S|fam|B1
+cousin|primo, prima||S|fam|B1
+nephew|sobrino||S|fam|B1
+niece|sobrina||S|fam|B1
+grandson|nieto||S|fam|B1
+granddaughter|nieta||S|fam|B1
+grandparents|abuelos||S|fam|B1
+mother-in-law|suegra||S|fam|B1
+son-in-law|yerno||S|fam|B1
+stepmother|madrastra||S|fam|B1
+half-brother|hermanastro||S|fam|B1
+twins|gemelos||S|fam|B1
+only child|hijo único||S|fam|B1
+ancestor|antepasado||S|fam|B1
+descendant|descendiente||S|fam|B1
+get married|casarse||L|fam|B1
+be engaged|estar prometido||L|fam|B1
+wedding|boda||S|fam|B1
+bride|novia (en la boda)||S|fam|B1
+bridegroom|novio (en la boda)||S|fam|B1
+honeymoon|luna de miel||S|fam|B1
+marriage|matrimonio||S|fam|B1
+get divorced|divorciarse||L|fam|B1
+separation|separación||S|fam|B1
+widow|viuda||S|fam|B1
+widower|viudo||S|fam|B1
+pregnant|embarazada||A|fam|B1
+pregnancy|embarazo||S|fam|B1
+give birth|dar a luz||L|fam|B1
+bring up|criar (hijos)||V|fam|B1
+grow up|crecer, hacerse mayor||V|fam|B1
+look after|cuidar de||V|fam|B1
+take care of|cuidar, atender||V|fam|B1
+get on well with|llevarse bien con||L|fam|B1
+fall out with|pelearse con||V|fam|B1
+make up|reconciliarse||V|fam|B1
+tell off|regañar||V|fam|B1
+be grounded|estar castigado sin salir||L|fam|B1
+strict|estricto||A|fam|B1
+single mother|madre soltera||S|fam|B1
+household|hogar||S|fam|B1
+family ties|lazos familiares||S|fam|B1
+generation|generación||S|fam|B1
+disappointed|decepcionado||A|emo|B1
+disappointing|decepcionante||A|emo|B1
+embarrassed|avergonzado||A|emo|B1
+embarrassing|vergonzoso||A|emo|B1
+ashamed|avergonzado (de sí mismo)||A|emo|B1
+anxious|ansioso, inquieto||A|emo|B1
+nervous|nervioso||A|emo|B1
+stressed|estresado||A|emo|B1
+relieved|aliviado||A|emo|B1
+proud|orgulloso||A|emo|B1
+be proud of|estar orgulloso de||L|emo|B1
+jealous|celoso||A|emo|B1
+envious|envidioso||A|emo|B1
+confident|seguro de sí mismo||A|emo|B1
+self-esteem|autoestima||S|emo|B1
+shy|tímido||A|emo|B1
+cheerful|alegre||A|emo|B1
+moody|de humor cambiante||A|emo|B1
+easy-going|tranquilo, fácil de tratar||A|emo|B1
+bad-tempered|de mal genio||A|emo|B1
+hard-working|trabajador||A|emo|B1
+lazy|perezoso||A|emo|B1
+reliable|fiable||A|emo|B1
+sensible|sensato||A|emo|B1
+sensitive|sensible (fácil de herir)||A|emo|B1
+stubborn|terco||A|emo|B1
+patient|paciente||A|emo|B1
+impatient|impaciente||A|emo|B1
+generous|generoso||A|emo|B1
+selfish|egoísta||A|emo|B1
+honest|honesto, sincero||A|emo|B1
+dishonest|deshonesto||A|emo|B1
+grateful|agradecido||A|emo|B1
+fed up|harto||A|emo|B1
+be fed up with|estar harto de||L|emo|B1
+get on someone's nerves|sacar de quicio a alguien||E|emo|B1
+lose your temper|perder los nervios||E|emo|B1
+keep calm|mantener la calma||L|emo|B1
+burst into tears|echarse a llorar||E|emo|B1
+burst out laughing|romper a reír||E|emo|B1
+feel down|sentirse decaído||E|emo|B1
+in a good mood|de buen humor||L|emo|B1
+in a bad mood|de mal humor||L|emo|B1
+mood|estado de ánimo||S|emo|B1
+put up with|tolerar, aguantar||V|emo|B1
+be used to|estar acostumbrado a||L|emo|B1
+spend time|pasar el tiempo||L|tmp|B1
+free time|tiempo libre||S|tmp|B1
+spare time|tiempo libre||S|tmp|B1
+take your time|sin prisa, con calma||E|tmp|B1
+on time|a tiempo (puntual)||L|tmp|B1
+in time|a tiempo (antes de la hora)||L|tmp|B1
+hurry up|darse prisa||V|tmp|B1
+in a hurry|con prisa||L|tmp|B1
+rush hour|hora punta||S|tmp|B1
+appointment|cita||S|tmp|B1
+make an appointment|pedir cita||L|tmp|B1
+schedule|programar, planificar||V|tmp|B1
+postpone|aplazar||V|tmp|B1
+put off|aplazar, dejar para después||V|tmp|B1
+cancel|cancelar||V|tmp|B1
+rearrange|reprogramar||V|tmp|B1
+delay|retraso||S|tmp|B1
+nowadays|hoy en día||D|tmp|B1
+used to|antes, solía (hábito pasado)||L|tmp|B1
+eventually|al final, finalmente||D|tmp|B1
+recently|recientemente||D|tmp|B1
+lately|últimamente||D|tmp|B1
+for ages|una eternidad||L|tmp|B1
+from now on|de ahora en adelante||L|tmp|B1
+so far|hasta ahora||L|tmp|B1
+the other day|el otro día||L|tmp|B1
+straight away|inmediatamente||L|tmp|B1
+right now|ahora mismo||L|tmp|B1
+at the moment|en este momento||L|tmp|B1
+in the meantime|mientras tanto||L|tmp|B1
+meanwhile|mientras tanto||D|tmp|B1
+all of a sudden|de repente||E|tmp|B1
+suddenly|de repente||D|tmp|B1
+last-minute|de última hora||A|tmp|B1
+on schedule|según lo previsto||L|tmp|B1
+ahead of time|con antelación||L|tmp|B1

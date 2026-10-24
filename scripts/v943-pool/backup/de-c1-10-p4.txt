@@ -1,0 +1,258 @@
+der Versicherungsnehmer|tomador del seguro||S|fin|C1
+der Versicherer|asegurador||S|fin|C1
+die Versicherungsgesellschaft|compañía aseguradora||S|fin|C1
+die Prämie|prima de seguro||S|fin|C1
+die Police|póliza||S|fin|C1
+die Selbstbeteiligung|franquicia||S|fin|C1
+der Schadensfall|siniestro||S|fin|C1
+die Schadensregulierung|liquidación de siniestros||S|fin|C1
+die Entschädigung|indemnización||S|fin|C1
+die Haftung|responsabilidad civil||S|fin|C1
+die Haftpflicht|obligación de resarcimiento||S|fin|C1
+die Haftpflichtversicherung|seguro de responsabilidad civil||S|fin|C1
+die Deckung|cobertura||S|fin|C1
+die Lebensversicherung|seguro de vida||S|fin|C1
+die Berufsunfähigkeitsversicherung|seguro de invalidez profesional||S|fin|C1
+der Versicherungsmakler|corredor de seguros||S|pro|C1
+der Makler|corredor||S|pro|C1
+die Vertragsauflösung|rescisión del contrato||S|fin|C1
+das Kleingedruckte|letra pequeña||S|fin|C1
+der Ausschluss|cláusula de exclusión||S|fin|C1
+die Obliegenheit|deber de colaboración del asegurado||S|fin|C1
+die vorvertragliche Anzeigepflicht|deber declarativo previo||L|fin|C1
+die Arglist|mala fe||S|fin|C1
+arglistig|de mala fe||A|fin|C1
+das Restrisiko|riesgo residual||S|fin|C1
+die Schadensmeldung|declaración de siniestro||S|fin|C1
+die Risikoeinschätzung|evaluación del riesgo||S|fin|C1
+die Wahrscheinlichkeit|probabilidad||S|fin|C1
+die Rückstellung|provisión técnica||S|fin|C1
+die Entwicklungshilfe|ayuda al desarrollo||S|fin|C1
+das Entwicklungsland|país en desarrollo||S|fin|C1
+das Schwellenland|país emergente||S|fin|C1
+die Armutsbekämpfung|lucha contra la pobreza||S|fin|C1
+das Pro-Kopf-Einkommen|renta per cápita||S|fin|C1
+das Bruttoinlandsprodukt|producto interior bruto||S|fin|C1
+die Wertschöpfung|valor añadido generado||S|fin|C1
+der Lebensstandard|nivel de vida||S|fin|C1
+die Grundversorgung|suministro de servicios básicos||S|fin|C1
+die Alphabetisierung|alfabetización||S|fin|C1
+die Gleichberechtigung|igualdad de derechos||S|fin|C1
+die Benachteiligung|situación de desventaja||S|fin|C1
+der Wiederaufbau|reconstrucción||S|fin|C1
+die Nothilfe|ayuda de emergencia||S|fin|C1
+die humanitäre Hilfe|ayuda humanitaria||L|fin|C1
+das Flüchtlingslager|campo de refugiados||S|fin|C1
+die Ernährungssicherheit|seguridad alimentaria||S|fin|C1
+die Trinkwasserversorgung|abastecimiento de agua potable||S|fin|C1
+nachhaltig|sostenible||A|fin|C1
+die Nachhaltigkeit|sostenibilidad||S|fin|C1
+der Strukturwandel|cambio estructural||S|fin|C1
+die Marktöffnung|apertura de mercados||S|fin|C1
+der Freihandel|libre comercio||S|fin|C1
+die Handelsbarriere|barrera comercial||S|fin|C1
+der Protektionismus|proteccionismo||S|fin|C1
+die Subvention|subvención||S|fin|C1
+subventionieren|subvencionar||V|fin|C1
+die Korruption|corrupción||S|att|C1
+der Mikrokredit|microcrédito||S|fin|C1
+das Reagenzglas|tubo de ensayo||S|sci|C1
+der Versuchsaufbau|montaje experimental||S|sci|C1
+die Bürette|bureta||S|sci|C1
+der Messzylinder|probeta graduada||S|sci|C1
+die Analysenwaage|balanza analítica||S|sci|C1
+das Becherglas|vaso de precipitados||S|sci|C1
+der Rundkolben|matraz de fondo redondo||S|sci|C1
+destillieren|destilar||V|sci|C1
+die Destillation|destilación||S|sci|C1
+filtrieren|filtrar||V|sci|C1
+die Titration|valoración titulométrica||S|sci|C1
+die Chromatographie|cromatografía||S|sci|C1
+die Spektroskopie|espectroscopía||S|sci|C1
+die Massenspektrometrie|espectrometría de masas||S|sci|C1
+die Probenahme|toma de muestras||S|sci|C1
+der Reinheitsgrad|grado de pureza||S|sci|C1
+das Lösungsmittel|disolvente||S|sci|C1
+der Schmelzpunkt|punto de fusión||S|sci|C1
+der Siedepunkt|punto de ebullición||S|sci|C1
+die Stoffmenge|cantidad de sustancia||S|sci|C1
+der Giftstoff|sustancia tóxica||S|sci|C1
+die Kalibrierung|calibración||S|sci|C1
+kalibrieren|calibrar||V|sci|C1
+der Laborant|técnico de laboratorio||S|pro|C1
+die Schutzkleidung|ropa de protección||S|sci|C1
+der Laborabzug|campana de gases||S|sci|C1
+erhitzen|calentar a elevada temperatura||V|sci|C1
+die Ausbeute|rendimiento de la reacción||S|sci|C1
+das Versuchsprotokoll|protocolo del experimento||S|sci|C1
+die Festkörperphysik|física del estado sólido||S|sci|C1
+der Festkörper|sólido cristalino||S|sci|C1
+das Kristallgitter|red cristalina||S|sci|C1
+die Kristallstruktur|estructura cristalina||S|sci|C1
+die Legierung|aleación||S|sci|C1
+der Werkstoff|material industrial||S|sci|C1
+die Zugfestigkeit|resistencia a la tracción||S|sci|C1
+die Sprödigkeit|fragilidad||S|sci|C1
+die Elastizität|elasticidad||S|sci|C1
+die Plastizität|plasticidad||S|sci|C1
+verformen|deformar||V|sci|C1
+die Härte|dureza||S|sci|C1
+die Wärmeleitfähigkeit|conductividad térmica||S|sci|C1
+die elektrische Leitfähigkeit|conductividad eléctrica||L|sci|C1
+der Halbleiter|semiconductor||S|sci|C1
+der Isolator|aislante||S|sci|C1
+der Gitterfehler|defecto de red||S|sci|C1
+die Dotierung|dopaje del semiconductor||S|sci|C1
+die Supraleitung|superconductividad||S|sci|C1
+das Magnetfeld|campo magnético||S|sci|C1
+der Ferromagnetismus|ferromagnetismo||S|sci|C1
+die Phasenumwandlung|transición de fase||S|sci|C1
+die Zugspannung|tensión de tracción||S|sci|C1
+die Materialermüdung|fatiga del material||S|sci|C1
+die Korrosion|corrosión||S|sci|C1
+die Oberflächenbehandlung|tratamiento superficial||S|sci|C1
+die Nanostruktur|nanoestructura||S|sci|C1
+die Dünnschicht|lámina delgada||S|sci|C1
+die Röntgenbeugung|difracción de rayos X||S|sci|C1
+die Erdatmosphäre|atmósfera terrestre||S|sci|C1
+der Treibhauseffekt|efecto invernadero||S|sci|C1
+der Klimawandel|cambio climático||S|cli|C1
+die Klimaforschung|investigación climática||S|sci|C1
+das Klimamodell|modelo climático||S|sci|C1
+der Schadstoffausstoß|emisión de contaminantes||S|sci|C1
+das Treibhausgas|gas de efecto invernadero||S|sci|C1
+das Ozonloch|agujero de la capa de ozono||S|sci|C1
+die Luftverschmutzung|contaminación atmosférica||S|sci|C1
+der Feinstaub|partículas en suspensión||S|sci|C1
+der saure Regen|lluvia ácida||L|sci|C1
+das Tiefdruckgebiet|borrasca||S|cli|C1
+das Hochdruckgebiet|anticiclón||S|cli|C1
+die Wetterfront|frente meteorológico||S|cli|C1
+die Luftfeuchtigkeit|humedad ambiental||S|cli|C1
+der Niederschlag|precipitación atmosférica||S|cli|C1
+verdunsten|evaporarse||V|sci|C1
+der Permafrost|permafrost||S|sci|C1
+der Meeresspiegelanstieg|subida del nivel del mar||S|sci|C1
+die Gletscherschmelze|deshielo de los glaciares||S|sci|C1
+die Versauerung|acidificación||S|sci|C1
+die Biodiversität|biodiversidad||S|sci|C1
+die Anpassungsfähigkeit|capacidad de adaptación||S|sci|C1
+der Energieverbrauch|consumo energético||S|sci|C1
+die erneuerbare Energie|energía renovable||L|sci|C1
+der ökologische Fußabdruck|huella ecológica||L|sci|C1
+das Extremwetter|fenómeno meteorológico extremo||S|cli|C1
+die Hitzewelle|ola de calor||S|cli|C1
+die Dürre|sequía||S|cli|C1
+das Fossil|fósil||S|sci|C1
+der Fossilfund|hallazgo fósil||S|sci|C1
+die Fundstätte|yacimiento||S|sci|C1
+die Ausgrabungsstätte|sitio de excavación||S|sci|C1
+die Ausgrabung|excavación||S|sci|C1
+der Skelettfund|hallazgo de esqueleto||S|sci|C1
+das Erdzeitalter|era geológica||S|sci|C1
+die Kreidezeit|período Cretácico||S|sci|C1
+die Evolutionstheorie|teoría de la evolución||S|sci|C1
+die natürliche Selektion|selección natural||L|sci|C1
+die Selektion|selección||S|sci|C1
+die Anpassung|adaptación evolutiva||S|sci|C1
+die Fortpflanzung|reproducción||S|sci|C1
+die Mutation|mutación||S|sci|C1
+die Erbanlage|carácter hereditario||S|sci|C1
+das Erbgut|material genético||S|sci|C1
+das Artensterben|extinción de especies||S|sci|C1
+der Urmensch|hominido primitivo||S|sci|C1
+die Eiszeit|glaciación||S|sci|C1
+die Megafauna|megafauna||S|sci|C1
+der Trilobit|trilobites||S|sci|C1
+der Ammonit|amonites||S|sci|C1
+versteinern|fosilizarse||V|sci|C1
+die Versteinerung|fosilización||S|sci|C1
+die Sedimentschicht|capa de sedimentos||S|sci|C1
+die Sedimentation|sedimentación||S|sci|C1
+die Datierung|datación||S|sci|C1
+das Sedimentgestein|roca sedimentaria||S|sci|C1
+das lebende Fossil|fósil vivo||L|sci|C1
+die Virulenz|virulencia||S|sla|C1
+das Virostatikum|antivírico||S|sla|C1
+die Infektionskrankheit|enfermedad infecciosa||S|sla|C1
+der Infizierte|persona infectada||S|sla|C1
+die Infektionskette|cadena de contagio||S|sla|C1
+das Erregerreservoir|reservorio del patógeno||S|sla|C1
+die Viruslast|carga viral||S|sla|C1
+die Virushülle|envoltura vírica||S|sla|C1
+der Antikörper|anticuerpo||S|sla|C1
+die Antikörperbildung|producción de anticuerpos||S|sla|C1
+die Immunantwort|respuesta inmunitaria||S|sla|C1
+das Immunsystem|sistema inmunitario||S|sla|C1
+das Immungedächtnis|memoria inmunológica||S|sla|C1
+die Variante|variante vírica||S|sla|C1
+die Schmierinfektion|contagio por contacto||S|sla|C1
+die Tröpfcheninfektion|contagio por gotitas||S|sla|C1
+die Infektionswelle|ola de infecciones||S|sla|C1
+die Tropenkrankheit|enfermedad tropical||S|sla|C1
+das Gelbfieber|fiebre amarilla||S|sla|C1
+das Denguefieber|dengue||S|sla|C1
+die Tollwut|rabia||S|sla|C1
+die Borreliose|borreliosis||S|sla|C1
+die Tuberkulose|tuberculosis||S|sla|C1
+die Hepatitis|hepatitis||S|sla|C1
+die Zoonose|zoonosis||S|sla|C1
+der Überträger|vector transmisor||S|sla|C1
+der Krankheitsausbruch|brote de enfermedad||S|sla|C1
+nachweisen|detectar analíticamente||V|sci|C1
+die Gentechnik|ingeniería genética||S|sci|C1
+die Gentechnologie|tecnología genética||S|sci|C1
+das Genom|genoma||S|sci|C1
+die Genomsequenzierung|secuenciación del genoma||S|sci|C1
+die Sequenz|secuencia||S|sci|C1
+die Desoxyribonukleinsäure|ácido desoxirribonucleico||S|sci|C1
+die Genschere|tijera genética||S|sci|C1
+die Genmanipulation|manipulación genética||S|sci|C1
+das Erbmaterial|material hereditario||S|sci|C1
+das Einschleusen|introducción de material genético||S|sci|C1
+das Transposon|transposón||S|sci|C1
+das Plasmid|plásmido||S|sci|C1
+die Bakterienkultur|cultivo bacteriano||S|sci|C1
+die Zellkultur|cultivo celular||S|sci|C1
+die Stammzelle|célula madre||S|sci|C1
+die Stammzellforschung|investigación con células madre||S|sci|C1
+das Klonen|clonación||S|sci|C1
+der Klon|clon||S|sci|C1
+der Keimbahneingriff|modificación de la línea germinal||S|sci|C1
+die Erbkrankheit|enfermedad hereditaria||S|sla|C1
+die Gentherapie|terapia génica||S|sci|C1
+der Embryonenschutz|protección del embrión||S|sci|C1
+die Bioethik|bioética||S|sci|C1
+die Biotechnologie|biotecnología||S|sci|C1
+die Mikroinjektion|microinyección||S|sci|C1
+das Restriktionsenzym|enzima de restricción||S|sci|C1
+der Gentransfer|transferencia génica||S|sci|C1
+das artfremde Gen|gen heterólogo||L|sci|C1
+die Hirnforschung|investigación cerebral||S|sci|C1
+das Hirnareal|área cerebral||S|sci|C1
+die Magnetresonanztomographie|resonancia magnética||S|sci|C1
+die Computertomographie|tomografía computarizada||S|sci|C1
+das Szintigramm|gammagrafía||S|sci|C1
+die Bildgebung|obtención de imágenes||S|sci|C1
+die funktionelle Bildgebung|imagen funcional||L|sci|C1
+die Hirnaktivität|actividad cerebral||S|sci|C1
+die Elektroenzephalographie|electroencefalografía||S|sci|C1
+das Elektroenzephalogramm|electroencefalograma||S|sci|C1
+die Reizverarbeitung|procesamiento de estímulos||S|sci|C1
+die Denkleistung|rendimiento cognitivo||S|sci|C1
+die Gedächtnisleistung|rendimiento mnésico||S|sci|C1
+die Gedächtnisspur|huella mnémica||S|sci|C1
+die Neuroplastizität|neuroplasticidad||S|sci|C1
+das Neuron|neurona||S|sci|C1
+das neuronale Netz|red neuronal||L|sci|C1
+die Nervenzelle|célula nerviosa||S|sci|C1
+die Synapse|sinapsis||S|sci|C1
+die Verschaltung|conexión neuronal||S|sci|C1
+der Gewebeschnitt|corte histológico||S|sci|C1
+die Durchblutung|riego sanguíneo||S|sci|C1
+die Sauerstoffversorgung|aportación de oxígeno||S|sci|C1
+der Schläfenlappen|lóbulo temporal||S|sci|C1
+der Stirnlappen|lóbulo frontal||S|sci|C1
+die Nervenbahn|vía nerviosa||S|sci|C1
+die Kartierung|cartografiado||S|sci|C1
+die Versuchsperson|sujeto experimental||S|sci|C1

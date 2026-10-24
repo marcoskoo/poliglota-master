@@ -1,0 +1,258 @@
+der Werkstoff|material técnico||S|sci|C1
+die Legierung|aleación||S|sci|C1
+die Sprödigkeit|fragilidad||S|sci|C1
+die Korrosion|corrosión||S|sci|C1
+der Korrosionsschutz|protección frente a la corrosión||S|sci|C1
+die Zugfestigkeit|resistencia a la tracción||S|sci|C1
+die Bruchfestigkeit|resistencia a la rotura||S|sci|C1
+die Streckgrenze|límite elástico||S|sci|C1
+härten|templar (el acero)||V|sci|C1
+das Gefüge|microestructura||S|sci|C1
+die Kristallstruktur|estructura cristalina||S|sci|C1
+einkristallin|monocristalino||A|sci|C1
+amorph|amorfo||A|sci|C1
+der Verbundwerkstoff|material compuesto||S|sci|C1
+die Ermüdung|fatiga (del material)||S|sci|C1
+der Verschleiß|desgaste||S|sci|C1
+die Beschichtung|recubrimiento||S|sci|C1
+verzinken|galvanizar en zinc||V|sci|C1
+galvanisieren|galvanizar||V|sci|C1
+löten|soldar (con estaño)||V|sci|C1
+die Lötstelle|punto de soldadura||S|sci|C1
+walzen|laminar (metal)||V|sci|C1
+die Kaltverformung|conformado en frío||S|sci|C1
+sintern|sinterizar||V|sci|C1
+die Pulvermetallurgie|metalurgia de polvos||S|sci|C1
+das Epoxidharz|resina epoxi||S|sci|C1
+das Nanopartikel|nanopartícula||S|sci|C1
+das Kohlenstoffnanoröhrchen|nanotubo de carbono||S|sci|C1
+die Grenzfläche|interfaz||S|sci|C1
+die Benetzbarkeit|mojabilidad||S|sci|C1
+hydrophob|hidrófobo||A|sci|C1
+das Fulleren|fullereno||S|sci|C1
+die Photonik|fotónica||S|sci|C1
+die Lichtbrechung|refracción de la luz||S|sci|C1
+die Beugung|difracción||S|sci|C1
+das Beugungsgitter|red de difracción||S|sci|C1
+die Streuung|dispersión (de la luz)||S|sci|C1
+die Brennweite|distancia focal||S|sci|C1
+die Totalreflexion|reflexión total||S|sci|C1
+die Interferenz|interferencia||S|sci|C1
+die Kohärenz|coherencia||S|sci|C1
+die Sammellinse|lente convergente||S|sci|C1
+das Fernrohr|telescopio||S|sci|C1
+die Spektrallinie|línea espectral||S|sci|C1
+die Polarisation|polarización||S|sci|C1
+das Lichtbündel|haz de luz||S|sci|C1
+die Absorption|absorción||S|sci|C1
+die Emission|emisión (lumínica)||S|sci|C1
+der Nachhall|reverberación||S|sci|C1
+die Hörschwelle|umbral auditivo||S|sci|C1
+der Schalldruck|presión acústica||S|sci|C1
+der Schallpegel|nivel sonoro||S|sci|C1
+die Klangfarbe|timbre||S|sci|C1
+resonieren|resonar||V|sci|C1
+die Resonanz|resonancia||S|sci|C1
+die Auslöschung|extinción (de ondas)||S|sci|C1
+die Schwingung|vibración||S|sci|C1
+die Wellenlänge|longitud de onda||S|sci|C1
+die Lichtgeschwindigkeit|velocidad de la luz||S|sci|C1
+der Ultraschall|ultrasonido||S|sci|C1
+die Fluoreszenz|fluorescencia||S|sci|C1
+die Akustik|acústica||S|sci|C1
+die Schallwelle|onda sonora||S|sci|C1
+die Ausbreitung|propagación||S|sci|C1
+die Wärmekapazität|capacidad térmica||S|sci|C1
+die Entropie|entropía||S|sci|C1
+die Enthalpie|entalpía||S|sci|C1
+die Wärmeleitfähigkeit|conductividad térmica||S|sci|C1
+der Wärmetauscher|intercambiador de calor||S|sci|C1
+die Turbulenz|turbulencia||S|sci|C1
+laminar|laminar (régimen de flujo)||A|sci|C1
+die Strömung|flujo||S|sci|C1
+die Strömungslehre|mecánica de fluidos||S|sci|C1
+die Viskosität|viscosidad||S|sci|C1
+zähflüssig|pastoso (viscoso)||A|sci|C1
+die Schmelztemperatur|temperatura de fusión||S|sci|C1
+die Verdichtung|compresión||S|sci|C1
+das Druckgefälle|caída de presión||S|sci|C1
+die Isotherme|isoterma||S|sci|C1
+die Konvektion|convección||S|sci|C1
+die Diffusion|difusión||S|sci|C1
+osmotisch|osmótico||A|sci|C1
+adiabatisch|adiabático||A|sci|C1
+sieden|hervir (a borbotones)||V|sci|C1
+der Auftrieb|empuje (flotabilidad)||S|sci|C1
+der Massenstrom|caudal másico||S|sci|C1
+die Oberflächenspannung|tensión superficial||S|sci|C1
+kondensieren|condensarse||V|sci|C1
+das Kondensat|condensado||S|sci|C1
+der Wirkungsgrad|rendimiento (termodinámico)||S|sci|C1
+die Ausdehnung|dilatación (térmica)||S|sci|C1
+die Abwärme|calor residual||S|sci|C1
+drosseln|estrangular (el caudal)||V|sci|C1
+die Zustandsgleichung|ecuación de estado||S|sci|C1
+der Druckverlust|pérdida de carga||S|sci|C1
+die Verwirbelung|formación de remolinos||S|sci|C1
+die Kartografie|cartografía||S|sci|C1
+kartografisch|cartográfico||A|sci|C1
+die Fernerkundung|teledetección||S|sci|C1
+die Geodäsie|geodesia||S|sci|C1
+geodätisch|geodésico||A|sci|C1
+der Kartennetzentwurf|proyección cartográfica||S|sci|C1
+das Gradnetz|retícula geográfica||S|sci|C1
+der Nullmeridian|meridiano cero||S|sci|C1
+die Vermessung|levantamiento topográfico||S|sci|C1
+der Kataster|catastro||S|sci|C1
+das Flurstück|parcela catastral||S|sci|C1
+das Luftbild|fotografía aérea||S|sci|C1
+das Satellitenbild|imagen satelital||S|sci|C1
+das Geländemodell|modelo del terreno||S|sci|C1
+das Höhenprofil|perfil de alturas||S|sci|C1
+die Schattierung|sombreado del relieve||S|sci|C1
+die Verzerrung|distorsión||S|sci|C1
+maßstabsgetreu|a escala real||A|sci|C1
+der Breitengrad|latitud||S|sci|C1
+der Längengrad|longitud||S|sci|C1
+georeferenzieren|georreferenciar||V|tec|C1
+die Landnutzung|uso del suelo||S|sci|C1
+die Ortung|geolocalización||S|sci|C1
+die Peilung|triangulación por radio||S|sci|C1
+die Abtastung|escaneo (del terreno)||S|sci|C1
+der Bildausschnitt|recorte de imagen||S|sci|C1
+das Kartenwerk|obra cartográfica||S|sci|C1
+die Topografie|topografía||S|sci|C1
+das Relief|relieve||S|sci|C1
+die Bildauswertung|interpretación de imágenes||S|sci|C1
+das Spektralband|banda espectral||S|sci|C1
+die Punktwolke|nube de puntos||S|sci|C1
+der Jambus|jambo||S|let|C1
+der Trochäus|troqueo||S|let|C1
+der Daktylus|dactilo||S|let|C1
+der Anapäst|anapesto||S|let|C1
+der Spondeus|espondeo||S|let|C1
+der Hexameter|hexámetro||S|let|C1
+das Pentameter|pentámetro||S|let|C1
+das Distichon|dístico||S|let|C1
+das Metrum|metro (poético)||S|let|C1
+die Verslehre|métrica (versificación)||S|let|C1
+der Versfuß|pie métrico||S|let|C1
+das Reimschema|esquema de rima||S|let|C1
+der Binnenreim|rima interna||S|let|C1
+die Kadenz|cadencia (de final de verso)||S|let|C1
+die Zäsur|cesura||S|let|C1
+die Alliteration|aliteración||S|let|C1
+die Assonanz|asonancia||S|let|C1
+die Elision|elisión||S|let|C1
+der Hiatus|hiato||S|let|C1
+das Enjambement|encabalgamiento||S|let|C1
+der Auftakt|anacruza||S|let|C1
+die Prosodie|prosodia||S|let|C1
+prosodisch|prosódico||A|let|C1
+die Deklamation|declamación||S|let|C1
+deklamieren|declamar||V|let|C1
+die Lautmalerei|onomatopeya||S|let|C1
+die Satzmelodie|curva de entonación||S|let|C1
+der Blankvers|verso blanco||S|let|C1
+der Knittelvers|verso de copla popular (medieval)||S|let|C1
+die Akzentuierung|acentuación||S|let|C1
+der Sprechgesang|canto hablado (recitativo)||S|let|C1
+die Rhythmisierung|ritmización||S|let|C1
+die Inszenierung|puesta en escena||S|let|C1
+inszenieren|montar (una obra)||V|let|C1
+Regie führen|dirigir la puesta en escena||E|let|C1
+die Dramaturgie|dramaturgia||S|let|C1
+der Dramaturg|dramaturgo||S|let|C1
+das Bühnenbild|decorado escénico||S|let|C1
+die Bühnenanweisung|acotación||S|let|C1
+das Trauerspiel|tragedia||S|let|C1
+das Lustspiel|comedia (teatral)||S|let|C1
+der Einakter|pieza en un acto||S|let|C1
+die Uraufführung|estreno absoluto||S|let|C1
+die Generalprobe|ensayo general||S|let|C1
+die Leseprobe|lectura de mesa||S|let|C1
+die Besetzung|reparto||S|let|C1
+das Requisit|atrezzo (utilería)||S|let|C1
+die Garderobe|camerinos||S|let|C1
+der Souffleur|apuntador||S|let|C1
+die Kulisse|decorado de fondo||S|let|C1
+die Drehbühne|escenario giratorio||S|let|C1
+das Rampenlicht|luz de candilejas||S|let|C1
+der Auftritt|entrada en escena||S|let|C1
+der Abgang|salida de escena||S|let|C1
+das Zwischenspiel|intermedio||S|let|C1
+der Epilog|epílogo||S|let|C1
+einstudieren|ensayar (una obra)||V|let|C1
+die Darbietung|actuación||S|let|C1
+der Mime|actor (mímico)||S|let|C1
+die Pantomime|pantomima||S|let|C1
+die Exposition|planteamiento (dramático)||S|let|C1
+das Personenverzeichnis|lista de personajes||S|let|C1
+die Tragikomödie|tragicomedia||S|let|C1
+das Lehrstück|pieza didáctica (género brechtiano)||S|let|C1
+die Metonymie|metonimia||S|let|C1
+die Synekdoche|sinécdoque||S|let|C1
+die Allegorie|alegoría||S|let|C1
+der Sarkasmus|sarcasmo||S|let|C1
+spotten|mofarse||V|let|C1
+das Oxymoron|oxímoron||S|let|C1
+das Paradoxon|paradoja||S|let|C1
+die Hyperbel|hipérbole||S|let|C1
+die Litotes|lítes||S|let|C1
+die Antithese|antítesis||S|let|C1
+die Anapher|anáfora||S|let|C1
+der Chiasmus|quiasmo||S|let|C1
+die Klimax|clímax (gradación)||S|let|C1
+die Ellipse|elipsis||S|let|C1
+das Sinnbild|símbolo (imagen alegórica)||S|let|C1
+die Bildlichkeit|imaginería metafórica||S|let|C1
+die Anspielung|alusión||S|let|C1
+der Topos|topos||S|let|C1
+der Gemeinplatz|lugar común||S|let|C1
+das Stilmittel|recurso estilístico||S|let|C1
+der Euphemismus|eufemismo||S|let|C1
+der Parallelismus|paralelismo||S|let|C1
+die Parenthese|inciso||S|let|C1
+die Synästhesie|sinestesia||S|let|C1
+der Neologismus|neologismo||S|let|C1
+der Archaismus|arcaísmo||S|let|C1
+das Wortspiel|juego de palabras||S|let|C1
+die Doppeldeutigkeit|anfibología||S|let|C1
+die Konnotation|connotación||S|let|C1
+der Subtext|subtexto||S|let|C1
+das Pathos|patetismo||S|let|C1
+das lyrische Ich|yo lírico||E|let|C1
+die Chiffre|cifra (símbolo hermético)||S|let|C1
+die Philologie|filología||S|let|C1
+der Philologe|filólogo||S|let|C1
+die Gräzistik|grecística||S|let|C1
+die Latinistik|latinística||S|let|C1
+das Altgriechisch|griego antiguo||S|let|C1
+das Vulgärlatein|latín vulgar||S|let|C1
+die Handschrift|manuscrito||S|let|C1
+die Paläographie|paleografía||S|let|C1
+die Überlieferung|transmisión textual||S|let|C1
+die Textkritik|crítica textual||S|let|C1
+die Lesart|variante (de lectura)||S|let|C1
+die Glosse|glosa (nota marginal)||S|let|C1
+der Kodex|códice||S|let|C1
+das Pergament|pergamino||S|let|C1
+der Kopist|copista||S|let|C1
+das Fragment|fragmento||S|let|C1
+die Gesamtausgabe|edición completa||S|let|C1
+die Humaniora|estudios clásicos (humanidades)||S|let|C1
+die Scholastik|escolástica||S|let|C1
+der Humanismus|humanismo||S|let|C1
+humanistisch|humanístico||A|let|C1
+das Altertum|la Antigüedad||S|let|C1
+die Exegese|exégesis||S|let|C1
+die Hermeneutik|hermenéutica||S|let|C1
+die Auslegung|interpretación (hermenéutica)||S|let|C1
+die Marginalie|nota al margen||S|let|C1
+der Palimpsest|palimpsesto||S|let|C1
+die Elegie|elegía||S|let|C1
+die Ekloge|égloga||S|let|C1
+das Epos|epopeya||S|let|C1
+das Epigramm|epigrama||S|let|C1
+das Epitheton|epíteto||S|let|C1
+die Metrik|métrica (disciplina)||S|let|C1

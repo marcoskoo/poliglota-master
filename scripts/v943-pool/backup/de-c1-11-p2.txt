@@ -1,0 +1,258 @@
+dolmetschen|interpretar (de viva voz)||V|let|C1
+der Dolmetscher|intérprete||S|let|C1
+die Ausgangssprache|lengua de origen||S|let|C1
+die Zielsprache|lengua meta||S|let|C1
+der Ausgangstext|texto de origen||S|let|C1
+die Zielkultur|cultura meta||S|let|C1
+die Äquivalenz|equivalencia||S|let|C1
+die Kollokation|colocación léxica||S|let|C1
+idiomatisch|idiomático||A|let|C1
+wortgetreu|fiel a la letra||A|let|C1
+sinngemäß|en sustancia||D|let|C1
+die Lehnübersetzung|calco||S|let|C1
+das Lehnwort|préstamo léxico||S|let|C1
+das Fremdwort|extranjerismo||S|let|C1
+die Rückübersetzung|retrotraducción||S|let|C1
+die Rohübersetzung|traducción bruta||S|let|C1
+die Nachdichtung|traducción poética (recreación)||S|let|C1
+die Werktreue|fidelidad a la obra||S|let|C1
+der Sprachmittler|mediador lingüístico||S|let|C1
+der Kulturtransfer|transferencia cultural||S|let|C1
+der Sinnzusammenhang|contexto de sentido||S|let|C1
+die Übertragung|transposición (traducción)||S|let|C1
+die Auslassung|omisión (procedimiento)||S|let|C1
+die Anmerkung|nota aclaratoria||S|let|C1
+der Lektor|editor (de textos)||S|let|C1
+das Lektorat|corrección de estilo||S|let|C1
+die Beglaubigung|certificación (de traducción)||S|let|C1
+die Ergänzung|ampliación (paratextual)||S|let|C1
+die Fachübersetzung|traducción especializada||S|let|C1
+die Untertitelung|subtitulado||S|let|C1
+die Synchronisation|doblaje||S|let|C1
+die Vorlage|texto de partida||S|let|C1
+die Abhandlung|disertación||S|let|C1
+der Traktat|tratado||S|let|C1
+die Streitschrift|panfleto (polémico)||S|let|C1
+der Leitartikel|editorial||S|let|C1
+die Polemik|polémica||S|let|C1
+polemisieren|polemizar||V|let|C1
+die Apologie|apología||S|let|C1
+der Gedankengang|hilo argumental||S|let|C1
+die Beweisführung|demostración (argumental)||S|let|C1
+das Fazit|conclusión||S|let|C1
+untermauern|sostener (con pruebas)||V|let|C1
+die Belegstelle|pasaje probatorio||S|let|C1
+die Quellenlage|estado de las fuentes||S|let|C1
+der Forschungsstand|estado de la cuestión||S|let|C1
+die Forschungslücke|laguna (historiográfica)||S|let|C1
+die Sekundärliteratur|bibliografía crítica||S|let|C1
+die Gelehrsamkeit|erudición||S|let|C1
+der Gelehrte|erudito||S|let|C1
+die Geistesgeschichte|historia de las ideas||S|let|C1
+das Weltbild|cosmovisión||S|ast|C1
+die Weltanschauung|concepción del mundo||S|ast|C1
+die Literaturkritik|crítica literaria||S|let|C1
+der Rezensent|reseñista||S|let|C1
+die Kontroverse|controversia||S|let|C1
+das Postulat|postulado||S|ast|C1
+der Aphorismus|aforismo||S|let|C1
+das Gedankengebäude|armazón teórico||S|ast|C1
+die Tautologie|tautología||S|ast|C1
+abstrahieren|abstraer||V|ast|C1
+das Resümee|resumen||S|let|C1
+das Verdikt|veredicto||S|let|C1
+stichhaltig|sólido (concluyente)||A|ast|C1
+die Utopie|utopía||S|let|C1
+utopisch|utópico||A|let|C1
+die Dystopie|distopía||S|let|C1
+dystopisch|distópico||A|let|C1
+der Zukunftsroman|novela de anticipación||S|let|C1
+die Apokalypse|apocalipsis||S|let|C1
+apokalyptisch|apocalíptico||A|let|C1
+die Endzeit|fin de los tiempos||S|let|C1
+der Untergang|ocaso (hecatombe)||S|let|C1
+der Weltuntergang|fin del mundo||S|let|C1
+der Verfall|decadencia||S|let|C1
+die Verödung|desolación||S|let|C1
+die Versklavung|esclavización||S|let|C1
+die Gleichschaltung|coordinación (totalitaria)||S|let|C1
+der Überwachungsstaat|estado de vigilancia||S|let|C1
+der Doppelgänger|doble (doppelgänger)||S|let|C1
+die Zeitmaschine|máquina del tiempo||S|let|C1
+die Weissagung|vaticinio||S|let|C1
+der Visionär|visionario||S|let|C1
+die Futurologie|futurología||S|let|C1
+der Zukunftsforscher|futurólogo||S|let|C1
+die Zukunftsvision|visión de futuro||S|let|C1
+das Schlaraffenland|país de Jauja||S|let|C1
+die Unsterblichkeit|inmortalidad||S|let|C1
+klonen|clonar||V|let|C1
+der Android|androide||S|let|C1
+die Metamorphose|metamorfosis||S|let|C1
+die Machbarkeit|factibilidad (técnica)||S|let|C1
+die Genmanipulation|manipulación genética||S|let|C1
+das Menschenbild|concepción del ser humano||S|let|C1
+der Fortschrittsglaube|fe en el progreso||S|let|C1
+fremdartig|extraño (exótico)||A|let|C1
+die Weltliteratur|literatura universal||S|let|C1
+die Literaturwissenschaft|ciencia de la literatura||S|let|C1
+die Komparatistik|literatura comparada||S|let|C1
+der Kanon|canon||S|let|C1
+kanonisch|canónico||A|let|C1
+der Klassiker|clásico||S|let|C1
+die Rezeption|recepción (lectura histórica)||S|let|C1
+die Rezeptionsästhetik|estética de la recepción||S|let|C1
+die Narratologie|narratología||S|let|C1
+die Erzählperspektive|perspectiva narrativa||S|let|C1
+der Ich-Erzähler|narrador en primera persona||S|let|C1
+allwissender Erzähler|narrador omnisciente||E|let|C1
+das Leitmotiv|leitmotiv||S|let|C1
+die Intertextualität|intertextualidad||S|let|C1
+das Plagiat|plagio||S|let|C1
+die Strömung|corriente (movimiento literario)||S|let|C1
+die Blütezeit|época de esplendor||S|let|C1
+die Mehrsprachigkeit|plurilingüismo||S|let|C1
+die Vermittlung|mediación (difusión)||S|let|C1
+das Korpus|corpus||S|let|C1
+die Textsorte|tipología textual||S|let|C1
+der Buchmarkt|mercado del libro||S|let|C1
+die Auflage|tirada||S|let|C1
+der Nachlass|legado (papeles literarios)||S|let|C1
+das Hauptwerk|obra capital||S|let|C1
+das Volksbuch|libro popular (de caballerías)||S|let|C1
+die Leserschaft|lectorado||S|let|C1
+die Nachwirkung|influjo posterior||S|let|C1
+die Wirkungsgeschichte|historia de los efectos||S|let|C1
+das Frühwerk|obra de juventud||S|let|C1
+der Literaturbetrieb|industria literaria (mundillo)||S|let|C1
+die Überschneidung|solapamiento (intersección)||S|let|C1
+die Meinungsumfrage|encuesta de opinión||S|att|C1
+die Demoskopie|demoscopia||S|att|C1
+demoskopisch|demoscópico||A|att|C1
+die Stichprobe|muestra (estadística)||S|att|C1
+die Grundgesamtheit|población de referencia||S|att|C1
+die Hochrechnung|proyección (extrapolación)||S|att|C1
+die Wahlprognose|pronóstico electoral||S|att|C1
+die Wahlforschung|estudio electoral (psefología)||S|att|C1
+die Wahlbeteiligung|participación electoral||S|att|C1
+die Sonntagsfrage|encuesta hipotética (electoral)||S|att|C1
+die Wählerwanderung|transfuguismo electoral||S|att|C1
+die Volatilität|volatilidad (electoral)||S|att|C1
+die Befragung|sondeo (encuesta)||S|att|C1
+der Fragebogen|cuestionario||S|att|C1
+die Gewichtung|ponderación||S|att|C1
+die Sozialstruktur|estructura social||S|att|C1
+das Milieu|entorno (sociocultural)||S|att|C1
+die Milieuforschung|investigación de milieus||S|att|C1
+die Stimmungslage|estado de ánimo (del país)||S|att|C1
+die Meinungsbildung|formación de la opinión||S|att|C1
+die Öffentlichkeit|esfera pública||S|att|C1
+der Zeitgeist|espíritu de la época||S|att|C1
+die Desinformation|desinformación||S|att|C1
+die Berichterstattung|cobertura informativa||S|cmu|C1
+die Medienlandschaft|panorama mediático||S|cmu|C1
+die Boulevardpresse|prensa sensacionalista||S|cmu|C1
+die Reichweite|alcance (de difusión)||S|cmu|C1
+die Einschaltquote|índice de audiencia||S|cmu|C1
+die Auszählung|recuento (de votos)||S|att|C1
+die Trendforschung|investigación de tendencias||S|att|C1
+die Mehrheitsfähigkeit|gobernabilidad (capacidad de mayoría)||S|att|C1
+die Popularität|popularidad||S|att|C1
+der Waffenstillstand|alto el fuego||S|att|C1
+die Waffenruhe|tregua||S|att|C1
+die Feuerpause|pausa (en los combates)||S|att|C1
+die Beilegung|resolución (de un conflicto)||S|att|C1
+die Friedensverhandlung|negociación de paz||S|att|C1
+der Friedensschluss|firma de la paz||S|att|C1
+die Beobachtermission|misión de observadores||S|att|C1
+die Aussöhnung|reconciliación||S|att|C1
+die Wiedergutmachung|reparaciones (indemnización)||S|att|C1
+der Wiederaufbau|reconstrucción||S|att|C1
+der Blauhelm|casco azul||S|att|C1
+die Krisenregion|región en crisis||S|att|C1
+der Krisenherd|foco de crisis||S|att|C1
+die Eskalation|escalada||S|att|C1
+eskalieren|escalar (un conflicto)||V|att|C1
+der Truppenabzug|retirada de tropas||S|att|C1
+die Abrüstung|desarme||S|att|C1
+das Wettrüsten|carrera armamentística||S|att|C1
+die Geiselnahme|toma de rehenes||S|att|C1
+der Unterhändler|negociador confidencial||S|att|C1
+die Sicherheitspolitik|política de seguridad||S|att|C1
+die Abschreckung|disuasión||S|att|C1
+die Proliferation|proliferación (armamentística)||S|att|C1
+der Gewaltverzicht|renuncia a la violencia||S|att|C1
+die Gewaltlosigkeit|noviolencia||S|att|C1
+die Einmischung|injerencia||S|att|C1
+die Souveränität|soberanía||S|att|C1
+die Pufferzone|zona tampón||S|att|C1
+der Notstand|estado de emergencia||S|att|C1
+die Zivilbevölkerung|población civil||S|att|C1
+humanitär|humanitario||A|att|C1
+humanitäre Katastrophe|catástrofe humanitaria||E|att|C1
+der Militäreinsatz|despliegue militar||S|att|C1
+das Übereinkommen|convenio||S|ist|C1
+das Völkerrecht|derecho internacional||S|ist|C1
+völkerrechtlich|de derecho internacional||A|ist|C1
+zwischenstaatlich|intergubernamental||A|ist|C1
+supranational|supranacional||A|ist|C1
+die Staatengemeinschaft|comunidad internacional||S|ist|C1
+die Mitgliedschaft|membresía||S|ist|C1
+die Ratifizierung|ratificación||S|ist|C1
+die Unterzeichnung|firma (de un tratado)||S|ist|C1
+das Inkrafttreten|entrada en vigor||S|ist|C1
+das Zusatzprotokoll|protocolo adicional||S|ist|C1
+der Beitritt|adhesión||S|ist|C1
+die Erweiterung|ampliación||S|ist|C1
+die Vertiefung|profundización (de la integración)||S|ist|C1
+die Einstimmigkeit|unanimidad||S|ist|C1
+die Mehrheitsentscheidung|decisión por mayoría||S|ist|C1
+das Vetorecht|derecho de veto||S|ist|C1
+die Rechtsangleichung|armonización legislativa||S|ist|C1
+die Rechtsstaatlichkeit|Estado de derecho||S|ist|C1
+die Zollunion|unión aduanera||S|ist|C1
+der Binnenmarkt|mercado interior||S|ist|C1
+die Freizügigkeit|libre circulación||S|ist|C1
+die Schiedsgerichtsbarkeit|arbitraje||S|ist|C1
+die Streitbeilegung|arreglo de diferencias||S|ist|C1
+die Entwicklungszusammenarbeit|cooperación al desarrollo||S|ist|C1
+die Zuständigkeit|competencia (jurisdiccional)||S|ist|C1
+die Verständigung|entendimiento||S|ist|C1
+die Konsultation|consulta||S|ist|C1
+die Gegenseitigkeit|reciprocidad||S|ist|C1
+der Ministerrat|consejo de ministros||S|ist|C1
+die Gipfelkonferenz|cumbre||S|ist|C1
+der Beobachterstatus|estatus de observador||S|ist|C1
+die Vertrauensbildung|creación de confianza||S|ist|C1
+der Sozialstaat|Estado social||S|ist|C1
+der Wohlfahrtsstaat|Estado de bienestar||S|ist|C1
+der Wohlfahrtsverband|organización benéfica||S|ist|C1
+die Sozialpolitik|política social||S|ist|C1
+die Bedarfsprüfung|comprobación de medios||S|ist|C1
+die Grundsicherung|prestación básica||S|ist|C1
+die Rentenversicherung|seguro de pensiones||S|ist|C1
+die Pflegeversicherung|seguro de dependencia||S|ist|C1
+die Pflegebedürftigkeit|situación de dependencia||S|ist|C1
+die Hinterbliebenenrente|pensión de orfandad y viudedad||S|ist|C1
+die Altersvorsorge|previsión para la vejez||S|ist|C1
+die Daseinsvorsorge|servicios públicos esenciales||S|ist|C1
+die Fürsorge|asistencia (protección)||S|ist|C1
+die Jugendhilfe|protección de menores||S|ist|C1
+die Umverteilung|redistribución||S|ist|C1
+die Steuerlast|carga fiscal||S|ist|C1
+die Chancengleichheit|igualdad de oportunidades||S|ist|C1
+die Gleichstellung|igualdad (de género)||S|ist|C1
+die Armutsgefährdung|riesgo de pobreza||S|ist|C1
+die Ausgrenzung|exclusión social||S|ist|C1
+die Teilhabe|participación (integración)||S|ist|C1
+die Obdachlosigkeit|sinhogarismo||S|ist|C1
+die Wohnungsnot|crisis de vivienda||S|ist|C1
+das Wohngeld|subsidio de vivienda||S|ist|C1
+die Barrierefreiheit|accesibilidad||S|ist|C1
+die Absicherung|cobertura (protección)||S|ist|C1
+der Gesellschaftsvertrag|contrato social||S|ist|C1
+der Träger|entidad responsable||S|ist|C1
+das Elterngeld|subsidio parental||S|ist|C1
+die Lohngleichheit|igualdad salarial||S|ist|C1
+der Lastenausgleich|compensación de cargas||S|ist|C1
+die Erwerbsquote|tasa de actividad||S|ist|C1

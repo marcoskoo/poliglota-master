@@ -1,0 +1,260 @@
+der Baustoff|material de construcción||S|sci|C2
+der Verbundwerkstoff|material compuesto||S|sci|C2
+die Materialwissenschaft|ciencia de los materiales||S|sci|C2
+die Festigkeit|resistencia mecánica||S|sci|C2
+die Bruchfestigkeit|resistencia a la rotura||S|sci|C2
+die Zähigkeit|tenacidad||S|sci|C2
+die Sprödigkeit|fragilidad||S|sci|C2
+die Versprödung|fragilización||S|sci|C2
+die Elastizität|elasticidad||S|sci|C2
+die Plastizität|plasticidad||S|sci|C2
+die Verformung|deformación||S|sci|C2
+die Zugspannung|tensión de tracción||S|sci|C2
+die Streckgrenze|límite elástico||S|sci|C2
+die Korrosion|corrosión||S|sci|C2
+der Korrosionsschutz|protección anticorrosiva||S|sci|C2
+die Legierung|aleación||S|sci|C2
+das Gefüge|microestructura||S|sci|C2
+die Kristallstruktur|estructura cristalina||S|sci|C2
+das Nanoteilchen|nanopartícula||S|sci|C2
+das Kohlenstoffnanoröhrchen|nanotubo de carbono||S|sci|C2
+der Quantenpunkt|punto cuántico||S|sci|C2
+die Grenzfläche|interfaz||S|sci|C2
+die Oberflächenspannung|tensión superficial||S|sci|C2
+die Porosität|porosidad||S|sci|C2
+die Leitfähigkeit|conductibilidad||S|sci|C2
+die Supraleitung|superconductividad||S|sci|C2
+das Polymer|polímero||S|sci|C2
+die Polymerisation|polimerización||S|sci|C2
+das Graphen|grafeno||S|sci|C2
+die Materialermüdung|fatiga del material||S|sci|C2
+der Ermüdungsbruch|rotura por fatiga||S|sci|C2
+die Rissbildung|fisuración||S|sci|C2
+die Sinterung|sinterización||S|sci|C2
+die Photonik|fotónica||S|sci|C2
+das Photon|fotón||S|sci|C2
+die Wellenlänge|longitud de onda||S|sci|C2
+die Wellenoptik|óptica ondulatoria||S|sci|C2
+die Brechung|refracción||S|sci|C2
+die Brechzahl|índice de refracción||S|sci|C2
+die Beugung|difracción||S|sci|C2
+das Beugungsgitter|red de difracción||S|sci|C2
+die Streuung|dispersión de la luz||S|sci|C2
+die Interferenz|interferencia||S|sci|C2
+die Kohärenz|coherencia||S|sci|C2
+die Brennweite|distancia focal||S|sci|C2
+der Brennpunkt|foco||S|sci|C2
+das Prisma|prisma||S|sci|C2
+das Spektrum|espectro||S|sci|C2
+die Spektralzerlegung|descomposición espectral||S|sci|C2
+die Polarisation|polarización||S|sci|C2
+die Totalreflexion|reflexión total||S|sci|C2
+das Lichtbündel|haz de luz||S|sci|C2
+die Abbildung|formación de la imagen||S|sci|C2
+der Abbildungsfehler|aberración óptica||S|sci|C2
+die Holografie|holografía||S|sci|C2
+das Hologramm|holograma||S|sci|C2
+die Akustik|acústica||S|sci|C2
+die Schallwelle|onda sonora||S|sci|C2
+der Schallpegel|nivel sonoro||S|sci|C2
+die Schwingung|oscilación||S|sci|C2
+die Resonanz|resonancia||S|sci|C2
+der Nachhall|reverberación||S|sci|C2
+die Klangfarbe|timbre||S|sci|C2
+die Tonhöhe|altura del sonido||S|sci|C2
+die Amplitude|amplitud||S|sci|C2
+die Absorption|absorción||S|sci|C2
+die Thermodynamik|termodinámica||S|sci|C2
+die Entropie|entropía||S|sci|C2
+die Enthalpie|entalpía||S|sci|C2
+der Wirkungsgrad|rendimiento termodinámico||S|sci|C2
+der Kreisprozess|proceso cíclico||S|sci|C2
+die Irreversibilität|irreversibilidad||S|sci|C2
+der Hauptsatz|principio fundamental de la termodinámica||S|sci|C2
+die Wärmeleitung|conducción térmica||S|sci|C2
+die Konvektion|convección||S|sci|C2
+die Wärmestrahlung|radiación térmica||S|sci|C2
+der Temperaturgradient|gradiente térmico||S|sci|C2
+der Aggregatzustand|estado de agregación||S|sci|C2
+die Zustandsgröße|variable de estado||S|sci|C2
+der Gleichgewichtszustand|estado de equilibrio||S|sci|C2
+das thermodynamische Gleichgewicht|equilibrio termodinámico||L|sci|C2
+adiabatisch|adiabático||A|sci|C2
+isotherm|isotermo||A|sci|C2
+die Fluidmechanik|mecánica de fluidos||S|sci|C2
+die Strömung|flujo||S|sci|C2
+die Strömungsgeschwindigkeit|velocidad de flujo||S|sci|C2
+laminar|laminar||A|sci|C2
+die Turbulenz|turbulencia||S|sci|C2
+die Viskosität|viscosidad||S|sci|C2
+der Auftrieb|sustentación||S|sci|C2
+die Reibung|fricción||S|sci|C2
+der Staudruck|presión de estancamiento||S|sci|C2
+der Druckabfall|caída de presión||S|sci|C2
+die Kompressibilität|compresibilidad||S|sci|C2
+die Kontinuitätsgleichung|ecuación de continuidad||S|sci|C2
+verdunsten|evaporarse sin ebullición||V|sci|C2
+kondensieren|condensarse||V|sci|C2
+erstarren|solidificarse||V|sci|C2
+sublimieren|sublimarse||V|sci|C2
+die Kartografie|cartografía||S|sci|C2
+die Kartierung|levantamiento cartográfico||S|sci|C2
+der Maßstab|escala cartográfica||S|sci|C2
+der Längengrad|longitud geográfica||S|sci|C2
+der Breitengrad|latitud geográfica||S|sci|C2
+die Höhenlinie|curva de nivel||S|sci|C2
+die Schraffur|hachurado||S|sci|C2
+die Projektion|proyección cartográfica||S|sci|C2
+das Gitternetz|retícula geográfica||S|sci|C2
+die Vermessung|agrimensura||S|sci|C2
+der Geodät|geodesta||S|sci|C2
+die Geodäsie|geodesia||S|sci|C2
+das Geländemodell|modelo del relieve||S|sci|C2
+das Gelände|terreno||S|sci|C2
+die Luftbildaufnahme|fotografía aérea||S|sci|C2
+die Fernerkundung|teledetección||S|sci|C2
+das Vermessungsamt|oficina catastral||S|ist|C2
+der Ortungsdienst|servicio de geolocalización||S|tec|C2
+die Topografie|topografía||S|sci|C2
+topografisch|topográfico||A|sci|C2
+die Legende|leyenda del mapa||S|sci|C2
+das Geoinformationssystem|sistema de información geográfica||S|tec|C2
+die Punktwolke|nube de puntos||S|sci|C2
+das Orthofoto|ortofoto||S|sci|C2
+die Georeferenzierung|georreferenciación||S|sci|C2
+georeferenzieren|georreferenciar||V|sci|C2
+die Verzerrung|deformación cartográfica||S|sci|C2
+das Relief|relieve||S|sci|C2
+die Triangulation|triangulación||S|sci|C2
+die Photogrammetrie|fotogrametría||S|sci|C2
+der Höhenmesser|altímetro||S|sci|C2
+der Blattschnitt|hoja cartográfica||S|sci|C2
+die Generalisierung|generalización cartográfica||S|sci|C2
+die Metrik|métrica poética||S|let|C2
+das Metrum|metro poético||S|let|C2
+der Versfuß|pie métrico||S|let|C2
+das Versmaß|medida del verso||S|let|C2
+der Jambus|yambo||S|let|C2
+der Trochäus|troqueo||S|let|C2
+der Daktylus|dáctilo||S|let|C2
+der Anapäst|anapesto||S|let|C2
+der Spondeus|espondeo||S|let|C2
+der Hexameter|hexámetro||S|let|C2
+der Auftakt|anacrusis||S|let|C2
+die Hebung|tiempo fuerte||S|let|C2
+die Senkung|tiempo débil||S|let|C2
+die Kadenz|cadencia del verso||S|let|C2
+der Reim|rima||S|let|C2
+das Reimschema|esquema de la rima||S|let|C2
+die Alliteration|aliteración||S|let|C2
+die Assonanz|asonancia||S|let|C2
+das Enjambement|encabalgamiento||S|let|C2
+die Zäsur|cesura||S|let|C2
+der freie Vers|verso libre||L|let|C2
+die Prosodie|prosodia||S|let|C2
+die Wortbetonung|acento tónico||S|let|C2
+die Satzmelodie|curva melódica de la frase||S|let|C2
+der Sprechrhythmus|ritmo del habla||S|let|C2
+die Sprechpause|pausa prosódica||S|let|C2
+die Rhythmisierung|ritmización||S|let|C2
+die Strophenform|forma estrófica||S|let|C2
+das Sonett|soneto||S|let|C2
+die Terzine|terceto||S|let|C2
+die Ode|oda||S|let|C2
+die Elision|elisión||S|let|C2
+das Bühnenbild|escenografía||S|art|C2
+der Bühnenbildner|escenógrafo||S|pro|C2
+die Regie|dirección escénica||S|art|C2
+die Inszenierung|puesta en escena||S|art|C2
+inszenieren|poner en escena||V|art|C2
+der Intendant|director de teatro||S|pro|C2
+das Ensemble|elenco||S|art|C2
+die Premiere|estreno||S|art|C2
+die Aufführung|representación||S|art|C2
+aufführen|representar||V|art|C2
+die Rollengestaltung|construcción del personaje||S|art|C2
+die Rollenprobe|ensayo de escena||S|art|C2
+die Generalprobe|ensayo general||S|art|C2
+der Protagonist|protagonista||S|let|C2
+der Antagonist|antagonista||S|let|C2
+der Dramatiker|dramaturgo||S|pro|C2
+die Dramaturgie|dramaturgia||S|let|C2
+das Lustspiel|comedia clásica||S|let|C2
+das Trauerspiel|tragedia clásica||S|let|C2
+die Tragödie|tragedia||S|let|C2
+die Tragikomödie|tragicomedia||S|let|C2
+die Posse|farsa popular||S|let|C2
+das Rührstück|obra lacrimógena||S|let|C2
+das Volksstück|teatro popular costumbrista||S|let|C2
+das Melodram|melodrama||S|let|C2
+der Verfremdungseffekt|efecto de distanciamiento||S|let|C2
+das epische Theater|teatro épico||L|art|C2
+der Einakter|pieza en un acto||S|art|C2
+der Dreisakter|obra en tres actos||S|art|C2
+der Handlungsstrang|hilo argumental||S|let|C2
+die Rampe|proscenio||S|art|C2
+der Souffleur|apuntador||S|pro|C2
+die Dichtkunst|arte poético||S|let|C2
+das Stilmittel|figura estilística||S|let|C2
+die Metapher|metáfora||S|let|C2
+die Metonymie|metonimia||S|let|C2
+die Synästhesie|sinestesia||S|let|C2
+die Allegorie|alegoría||S|let|C2
+das Gleichnis|parábola||S|let|C2
+die Hyperbel|hipérbole||S|let|C2
+die Litotes|lítote||S|let|C2
+die Antithese|antítesis||S|let|C2
+das Oxymoron|oxímoron||S|let|C2
+das Paradoxon|paradoja||S|let|C2
+die Anapher|anáfora||S|let|C2
+der Parallelismus|paralelismo||S|let|C2
+der Chiasmus|quiasmo||S|let|C2
+die Ellipse|elipsis||S|let|C2
+die Klimax|gradación retórica||S|let|C2
+das Epitheton|epíteto||S|let|C2
+das Pathos|pathos||S|let|C2
+die Erhabenheit|lo sublime||S|let|C2
+erhaben|sublime||A|let|C2
+die Anspielung|alusión||S|let|C2
+die Personifikation|personificación||S|let|C2
+die Verfremdung|extrañamiento||S|let|C2
+die Ambivalenz|ambivalencia||S|ast|C2
+die Denkfigur|figura del pensamiento||S|let|C2
+der Gedankengang|hilo del razonamiento||S|ast|C2
+der Topos|tópico literario||S|let|C2
+der Trugschluss|sofisma||S|ast|C2
+die Prämisse|premisa||S|ast|C2
+die Ambiguität|ambigüedad||S|let|C2
+das Hendiadyoin|hendiadís||S|let|C2
+die Philologie|filología||S|let|C2
+der Philologe|filólogo||S|pro|C2
+die Gräzistik|estudios de griego antiguo||S|let|C2
+die Latinistik|estudios de latín||S|let|C2
+das Latinum|certificado de latín||S|stu|C2
+das Graecum|certificado de griego antiguo||S|stu|C2
+die Paläographie|paleografía||S|let|C2
+die Papyrologie|papirología||S|let|C2
+die Epigraphik|epigrafía||S|let|C2
+die Numismatik|numismática||S|let|C2
+die Kodikologie|codicología||S|let|C2
+die Inkunabel|incunable||S|let|C2
+die Textkritik|crítica textual||S|let|C2
+die Überlieferung|tradición manuscrita||S|let|C2
+der Kodex|códice||S|let|C2
+das Scholion|escolio||S|let|C2
+die Emendation|enmienda textual||S|let|C2
+die Konjektur|conjetura filológica||S|let|C2
+das Altertum|la Antigüedad||S|let|C2
+die Altertumswissenschaft|ciencias de la Antigüedad||S|let|C2
+der Humanismus|humanismo||S|let|C2
+die Rezeption|recepción de un texto||S|let|C2
+die Wirkungsgeschichte|historia de los efectos||S|let|C2
+die Lesart|variante de lectura||S|let|C2
+die Belegstelle|pasaje de referencia||S|let|C2
+der kritische Apparat|aparato crítico||L|let|C2
+der Palimpsest|palimpsesto||S|let|C2
+die Keilschrift|escritura cuneiforme||S|let|C2
+die Hieroglyphe|jeroglífico||S|let|C2
+die Etymologie|etimología||S|let|C2
+das Lehnwort|préstamo léxico||S|let|C2
+die Lehnübersetzung|calco léxico||S|let|C2

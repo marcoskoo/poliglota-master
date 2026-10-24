@@ -1,0 +1,258 @@
+der Halbleiter|semiconductor||S|tec|C1
+die Dotierung|dopado (de obleas)||S|tec|C1
+die Wafer|oblea (de silicio)||S|tec|C1
+das Silizium|silicio||S|tec|C1
+der Schaltkreis|circuito integrado||S|tec|C1
+die Platine|placa (circuito impreso)||S|tec|C1
+die Leiterbahn|pista (de cobre)||S|tec|C1
+der Zwischenspeicher|caché (memoria intermedia)||S|tec|C1
+das Register|registro (de procesador)||S|tec|C1
+das Rechenwerk|unidad aritmético-lógica||S|tec|C1
+der Befehlssatz|conjunto de instrucciones||S|tec|C1
+die Taktfrequenz|frecuencia de reloj||S|tec|C1
+die Rechenleistung|potencia de cálculo||S|tec|C1
+die Photolithographie|fotolitografía||S|tec|C1
+der Reinraum|sala blanca||S|tec|C1
+die Packungsdichte|densidad de integración||S|tec|C1
+die Ausbeute|rendimiento (de fabricación)||S|tec|C1
+das Gatter|compuerta (lógica)||S|tec|C1
+die Peripherie|periferia (dispositivos)||S|tec|C1
+die Parallelverarbeitung|procesamiento en paralelo||S|tec|C1
+der Integrationsgrad|grado de integración||S|tec|C1
+der Taktgeber|generador de reloj||S|tec|C1
+der Datenbus|bus de datos||S|tec|C1
+die Steckverbindung|conexión (acople)||S|tec|C1
+die Wärmeabfuhr|evacuación de calor||S|tec|C1
+die Übertaktung|sobreaceleración (overclock)||S|tec|C1
+die Miniaturisierung|miniaturización||S|tec|C1
+der Quantencomputer|computador cuántico||S|tec|C1
+das Substrat|sustrato||S|tec|C1
+die Datenflut|avalancha de datos||S|tec|C1
+der Datenbestand|masa de datos||S|tec|C1
+die Datenauswertung|explotación (análisis) de datos||S|tec|C1
+die Aufbereitung|preparación (de datos)||S|tec|C1
+die Bereinigung|depuración (de datos)||S|tec|C1
+der Abgleich|cotejo (conciliación)||S|tec|C1
+die Abfrage|consulta (a la base de datos)||S|tec|C1
+der Datensatz|registro (fila de tabla)||S|tec|C1
+die Zeichenkette|cadena (de caracteres)||S|tec|C1
+die Tabellenkalkulation|hoja de cálculo||S|tec|C1
+der Ausreißer|valor atípico (outlier)||S|tec|C1
+die Vollerhebung|encuesta exhaustiva (censo)||S|att|C1
+die Aggregation|agregación||S|tec|C1
+die Segmentierung|segmentación||S|tec|C1
+die Vorhersagekraft|poder predictivo||S|tec|C1
+die Verschlagwortung|indización (con descriptores)||S|tec|C1
+die Indizierung|indexado||S|tec|C1
+die Redundanz|redundancia||S|tec|C1
+die Ausfallsicherheit|tolerancia a fallos||S|tec|C1
+die Skalierung|escalabilidad||S|tec|C1
+maschinelles Lernen|aprendizaje automático||E|tec|C1
+neuronales Netz|red neuronal||E|tec|C1
+die Normalisierung|normalización||S|tec|C1
+die Dublette|duplicado (registro doble)||S|tec|C1
+die Regressionsanalyse|análisis de regresión||S|tec|C1
+der Primärschlüssel|clave primaria||S|tec|C1
+der Suchalgorithmus|algoritmo de búsqueda||S|tec|C1
+die Datenvisualisierung|visualización de datos||S|tec|C1
+das Datenfeld|campo (de la tabla)||S|tec|C1
+die Verschlüsselung|cifrado||S|tec|C1
+verschlüsseln|cifrar||V|tec|C1
+die Prüfsumme|suma de comprobación||S|tec|C1
+das Hashverfahren|procedimiento de hash||S|tec|C1
+elektronische Signatur|firma electrónica||E|tec|C1
+das Hauptbuch|libro mayor||S|fin|C1
+doppelte Buchführung|partida doble||E|fin|C1
+die Unveränderlichkeit|inmutabilidad||S|tec|C1
+die Rückverfolgbarkeit|trazabilidad||S|tec|C1
+die Fälschungssicherheit|seguridad frente a falsificación||S|tec|C1
+das Konsensverfahren|protocolo de consenso||S|tec|C1
+die Validierung|validación||S|tec|C1
+der Knoten|nodo||S|tec|C1
+die Dezentralisierung|descentralización||S|tec|C1
+der Intermediär|intermediario||S|fin|C1
+die Tokenisierung|tokenización||S|fin|C1
+die Schwachstelle|vulnerabilidad||S|tec|C1
+die Hintertür|puerta trasera (backdoor)||S|tec|C1
+die Angriffsfläche|superficie de ataque||S|tec|C1
+die Nachvollziehbarkeit|verificabilidad (auditabilidad)||S|tec|C1
+die Zeitstempelung|sellado temporal||S|tec|C1
+der Eigentumsnachweis|acreditación de propiedad||S|fin|C1
+die Programmlogik|lógica programática||S|tec|C1
+verteiltes Register|registro distribuido||E|tec|C1
+die Kryptowährung|criptomoneda||S|fin|C1
+die Transparenz|transparencia||S|att|C1
+die Pseudonymität|pseudonimia||S|tec|C1
+die Anonymisierung|anonimización||S|tec|C1
+die Verkettung|encadenamiento (de bloques)||S|tec|C1
+die Biometrie|biometría||S|tec|C1
+biometrisch|biométrico||A|tec|C1
+die Mustererkennung|reconocimiento de patrones||S|tec|C1
+die Gesichtserkennung|reconocimiento facial||S|tec|C1
+das Gangbild|patrón de la marcha||S|tec|C1
+die Authentifizierung|autenticación||S|tec|C1
+der Identitätsdiebstahl|robo de identidad||S|tec|C1
+das Merkmal|rasgo (característica)||S|tec|C1
+die Trefferquote|tasa de acierto||S|tec|C1
+der Schwellenwert|umbral||S|tec|C1
+die Kalibrierung|calibrado||S|tec|C1
+die Klassifikation|clasificación||S|tec|C1
+die Zuordnung|asignación (correspondencia)||S|tec|C1
+die Übereinstimmung|coincidencia (concordancia)||S|tec|C1
+die Vorverarbeitung|preprocesado||S|tec|C1
+die Entscheidungsgrenze|frontera de decisión||S|tec|C1
+die Genauigkeit|exactitud||S|sci|C1
+die Fehlerrate|tasa de error||S|tec|C1
+die Stimmanalyse|análisis de voz||S|tec|C1
+die Kreuzvalidierung|validación cruzada||S|tec|C1
+die Gruppierung|agrupamiento||S|tec|C1
+die Sensorik|sensorística||S|tec|C1
+die Messtechnik|instrumentación (técnica de medición)||S|tec|C1
+die Bildverarbeitung|procesamiento de imágenes||S|tec|C1
+die Signalverarbeitung|procesamiento de señales||S|tec|C1
+die Digitalisierung|digitalización||S|tec|C1
+die Erfassung|captura (registro)||S|tec|C1
+die Protokollierung|registro (de actividad)||S|tec|C1
+die Einwilligung|consentimiento (autorización)||S|ist|C1
+die Vernetzung|interconexión (conectividad)||S|tec|C1
+das Sensornetz|red de sensores||S|tec|C1
+die Aktorik|actuática||S|tec|C1
+die Telemetrie|telemetría||S|tec|C1
+die Fernsteuerung|telecontrol||S|tec|C1
+der Messwert|lectura (valor medido)||S|tec|C1
+in Echtzeit|en tiempo real||E|tec|C1
+eingebettetes System|sistema embebido||E|tec|C1
+autonomes Fahren|conducción autónoma||E|tec|C1
+die Sensorfusion|fusión de sensores||S|tec|C1
+die Verkehrstelematik|telemática del tráfico||S|tec|C1
+die Verkehrswende|transición de la movilidad||S|cit|C1
+die Verkehrsberuhigung|pacificación del tráfico||S|cit|C1
+die Stadtentwicklung|desarrollo urbano||S|cit|C1
+die Stadtplanung|planificación urbana||S|cit|C1
+die Gebäudeautomation|domótica (de edificios)||S|tec|C1
+die Wärmerückgewinnung|recuperación de calor||S|tec|C1
+die Energieeffizienz|eficiencia energética||S|tec|C1
+die Notstromversorgung|alimentación de respaldo||S|tec|C1
+die Regelungstechnik|teoría de control||S|tec|C1
+das Parkleitsystem|sistema de guiado de aparcamiento||S|tec|C1
+das Leitsystem|sistema de supervisión||S|tec|C1
+die Lichttechnik|técnica de iluminación||S|tec|C1
+die Fernwartung|mantenimiento remoto||S|tec|C1
+die Datensparsamkeit|minimización de datos||S|tec|C1
+die Zutrittskontrolle|control de accesos||S|tec|C1
+die Auslastung|índice de ocupación||S|tec|C1
+die Versorgungssicherheit|seguridad de suministro||S|tec|C1
+die Funktechnik|radiotecnia||S|tec|C1
+die Immersion|inmersión||S|tec|C1
+immersiv|inmersivo||A|tec|C1
+die Virtualität|virtualidad||S|tec|C1
+die Datenbrille|gafas de datos (realidad aumentada)||S|tec|C1
+die Spielwelt|mundo del juego||S|sve|C1
+der Spieleentwickler|desarrollador de videojuegos||S|pro|C1
+der Endgegner|jefe final||S|sve|C1
+der Speicherstand|partida guardada||S|sve|C1
+die Vogelperspektive|vista de pájaro||S|tec|C1
+die Ich-Perspektive|vista en primera persona||S|tec|C1
+die Tiefenwahrnehmung|percepción de profundidad||S|sci|C1
+die Latenz|latencia||S|tec|C1
+die Bildwiederholrate|tasa de refresco||S|tec|C1
+die Bewegungserfassung|captura de movimiento||S|tec|C1
+das Präsenzgefühl|sensación de presencia||S|tec|C1
+die Parallelwelt|universo paralelo||S|sve|C1
+der Eskapismus|escapismo||S|ast|C1
+die Entgrenzung|desdibujamiento (de límites)||S|ast|C1
+die Spielsucht|ludopatía||S|sla|C1
+die Mikrotransaktion|micropago||S|fin|C1
+die Geräuschkulisse|paisaje sonoro||S|mus|C1
+die Vertonung|banda sonora (sonorización)||S|mus|C1
+die Spielmechanik|mecánica del juego||S|sve|C1
+die Fiktion|ficción||S|let|C1
+fiktiv|ficticio||A|let|C1
+virtuelle Realität|realidad virtual||E|tec|C1
+erweiterte Realität|realidad aumentada||E|tec|C1
+der Bewegungsablauf|patrón de movimiento||S|spt|C1
+die Rückkopplung|retroalimentación||S|tec|C1
+der Vulkanismus|vulcanismo||S|nat|C1
+vulkanisch|volcánico||A|nat|C1
+die Eruption|erupción||S|nat|C1
+die Aschewolke|nube de ceniza||S|nat|C1
+der Lavastrom|colada de lava||S|nat|C1
+die Magmakammer|cámara magmática||S|nat|C1
+die Schlacke|escoria||S|nat|C1
+der Bimsstein|piedra pómez||S|nat|C1
+die Plattentektonik|tectónica de placas||S|nat|C1
+die Seismologie|sismología||S|nat|C1
+die Erschütterung|sacudida (temblor)||S|nat|C1
+der Erdrutsch|desprendimiento de tierra||S|nat|C1
+der Bergsturz|desprendimiento de montaña||S|nat|C1
+der Steinschlag|caída de piedras||S|nat|C1
+die Absenkung|subsidencia (hundimiento)||S|nat|C1
+die Glut|brasas (incandescencia)||S|nat|C1
+die Fumarole|fumarola||S|nat|C1
+die Warnstufe|nivel de alerta||S|nat|C1
+die Frühwarnung|alerta temprana||S|nat|C1
+die Evakuierung|evacuación||S|nat|C1
+der Katastrophenschutz|protección civil||S|nat|C1
+die Verwüstung|devastación||S|nat|C1
+die Risikoabschätzung|evaluación de riesgos||S|nat|C1
+die Vorhersagbarkeit|predictibilidad (de erupciones)||S|nat|C1
+die Gefahrenkarte|mapa de peligrosidad||S|nat|C1
+die Bergung|rescate (desescombro)||S|nat|C1
+die Sperrzone|zona restringida (acordonada)||S|nat|C1
+die Abtragung|erosión (denudación)||S|nat|C1
+die Limnologie|limnología||S|nat|C1
+der Flusslauf|curso (del río)||S|nat|C1
+das Fließgewässer|curso de agua corriente||S|nat|C1
+das Stehgewässer|masa de agua estancada||S|nat|C1
+die Wasserführung|caudal (régimen hidrológico)||S|nat|C1
+der Grundwasserleiter|acuífero||S|nat|C1
+versickern|filtrarse (escurrirse)||V|nat|C1
+die Versickerung|infiltración (recarga)||S|nat|C1
+die Sedimentation|sedimentación||S|nat|C1
+das Geschiebe|arrastre (de fondo)||S|nat|C1
+die Aue|vega (ribera húmeda)||S|nat|C1
+der Altarm|brazo muerto (del río)||S|nat|C1
+der Kolk|poza (de socavación)||S|nat|C1
+das Feuchtgebiet|humedal||S|nat|C1
+das Röhricht|carrizal||S|nat|C1
+der Schilfgürtel|cinturón de cañas||S|nat|C1
+die Verlandung|colmatación (aterreamiento)||S|nat|C1
+die Eutrophierung|eutrofización||S|nat|C1
+die Algenblüte|floración de algas||S|nat|C1
+der Nährstoffeintrag|aporte de nutrientes||S|nat|C1
+die Trübung|turbidez||S|nat|C1
+die Gewässergüte|calidad de las aguas||S|nat|C1
+die Renaturierung|renaturalización||S|nat|C1
+die Begradigung|rectificación del cauce||S|nat|C1
+die Uferbefestigung|enrocado (defensa de ribera)||S|nat|C1
+die Fischtreppe|escalera de peces||S|nat|C1
+der Laich|freza (desove)||S|nat|C1
+das Totholz|madera muerta (ecológica)||S|nat|C1
+die Agrarwissenschaft|agronomía||S|nat|C1
+die Bodenfruchtbarkeit|fertilidad del suelo||S|nat|C1
+der Humus|humus (mantillo)||S|nat|C1
+der Löss|loess||S|nat|C1
+der Schluff|limo||S|nat|C1
+die Bodenart|textura (del suelo)||S|nat|C1
+das Bodenprofil|perfil del suelo||S|nat|C1
+die Bodenprobe|muestra de suelo||S|nat|C1
+die Bodenverdichtung|compactación (del suelo)||S|nat|C1
+die Versalzung|salinización (del suelo)||S|nat|C1
+der Grundwasserspiegel|nivel freático||S|nat|C1
+die Fruchtfolge|rotación de cultivos||S|nat|C1
+die Zwischenfrucht|cultivo intercalado||S|nat|C1
+die Überdüngung|sobrefertilización||S|nat|C1
+der Nützling|auxiliar (insecto benéfico)||S|nat|C1
+die Schädlingsbekämpfung|control de plagas||S|nat|C1
+die Pflanzenzüchtung|fitotecnia (mejora vegetal)||S|nat|C1
+die Präzisionslandwirtschaft|agricultura de precisión||S|nat|C1
+die Tröpfchenbewässerung|riego por goteo||S|nat|C1
+das Dauergrünland|pasto permanente||S|nat|C1
+die Stallhaltung|estabulación (ganadera)||S|nat|C1
+der Ökolandbau|agricultura ecológica||S|nat|C1
+die Flurbereinigung|concentración parcelaria||S|nat|C1
+die Bewirtschaftung|explotación (agraria)||S|nat|C1
+die Brache|barbecho||S|nat|C1
+die Bodenbearbeitung|laboreo (preparación del terreno)||S|nat|C1
+die Kulturlandschaft|paisaje humanizado||S|nat|C1
+die Kompostierung|compostaje||S|nat|C1

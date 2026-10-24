@@ -1,0 +1,260 @@
+die Gentechnik|ingeniería genética||S|sci|C2
+gentechnisch|obtenido por ingeniería genética||A|sci|C2
+die Kartierung|cartografiado del genoma||S|sci|C2
+der Vektor|vector de clonación||S|sci|C2
+das Klonen|clonación||S|sci|C2
+der Klon|clon||S|sci|C2
+die Stammzellforschung|investigación con células madre||S|sci|C2
+die Zellkultur|cultivo celular||S|sci|C2
+die Fermentation|fermentación industrial||S|sci|C2
+der Bioreaktor|biorreactor||S|sci|C2
+die Biotechnologie|biotecnología||S|sci|C2
+das Erbgut|material genético||S|sci|C2
+das Tiermodell|modelo animal||S|sci|C2
+die Freisetzung|liberación de organismos modificados||S|sci|C2
+die Züchtung|cría selectiva||S|sci|C2
+züchten|criar selectivamente||V|sci|C2
+die Biosynthese|biosíntesis||S|sci|C2
+die Biomasse|biomasa||S|sci|C2
+das Blutplasma|plasma sanguíneo||S|sci|C2
+die Transgenese|transgénesis||S|sci|C2
+transgen|transgénico||A|sci|C2
+die Bioinformatik|bioinformática||S|sci|C2
+das Mikroarray|microarray||S|sci|C2
+das Retortenbaby|bebé de probeta||S|sci|C2
+die Präimplantationsdiagnostik|diagnóstico preimplantatorio||S|sci|C2
+die Chimäre|quimera||S|sci|C2
+die Molekularbiologie|biología molecular||S|sci|C2
+die synthetische Biologie|biología sintética||S|sci|C2
+die Stichprobe|muestra estadística||S|sci|C2
+die Stichprobengröße|tamaño muestral||S|sci|C2
+die Grundgesamtheit|población estadística de referencia||S|sci|C2
+die Standardabweichung|desviación típica||S|sci|C2
+das arithmetische Mittel|media aritmética||S|sci|C2
+der Median|mediana||S|sci|C2
+die Varianz|varianza||S|sci|C2
+der Korrelationskoeffizient|coeficiente de correlación||S|sci|C2
+die Kausalität|causalidad||S|sci|C2
+kausal|causal||A|sci|C2
+die Konfundierung|sesgo de confusión||S|sci|C2
+die Signifikanz|significación estadística||S|sci|C2
+signifikant|estadísticamente significativo||A|sci|C2
+der p-Wert|valor p||S|sci|C2
+die Nullhypothese|hipótesis nula||S|sci|C2
+der Schätzer|estimador||S|sci|C2
+das Konfidenzintervall|intervalo de confianza||S|sci|C2
+die Regressionsanalyse|análisis de regresión||S|sci|C2
+der Ausreißer|valor atípico||S|sci|C2
+die Verzerrung|sesgo sistemático||S|sci|C2
+die Hochrechnung|extrapolación de resultados||S|sci|C2
+die Repräsentativität|representatividad||S|sci|C2
+die Messgenauigkeit|precisión de medición||S|sci|C2
+die Reliabilität|fiabilidad de un instrumento||S|sci|C2
+die Validität|validez de un instrumento||S|sci|C2
+die Operationalisierung|operacionalización de variables||S|sci|C2
+das Forschungsdesign|diseño de investigación||S|sci|C2
+die Replizierbarkeit|replicabilidad||S|sci|C2
+die Kohortenstudie|estudio de cohortes||S|sci|C2
+die Längsschnittstudie|estudio longitudinal||S|sci|C2
+die Epidemiologie|epidemiología||S|sla|C2
+epidemiologisch|epidemiológico||A|sla|C2
+die Inzidenz|incidencia||S|sla|C2
+die Prävalenz|prevalencia||S|sla|C2
+die Mortalität|mortalidad||S|sla|C2
+die Letalität|letalidad||S|sla|C2
+die Morbidität|morbilidad||S|sla|C2
+der Krankheitsausbruch|brote epidémico||S|sla|C2
+die Endemie|endemia||S|sla|C2
+die Übersterblichkeit|exceso de mortalidad||S|sla|C2
+der Infektionsweg|vía de contagio||S|sla|C2
+die Gesundheitsversorgung|asistencia sanitaria||S|sla|C2
+die Vorsorgeuntersuchung|cribado preventivo||S|sla|C2
+die Früherkennung|detección precoz||S|sla|C2
+die Meldepflicht|obligación de notificación epidemiológica||S|sla|C2
+das Gesundheitsamt|autoridad sanitaria local||S|ist|C2
+die Volksgesundheit|salud pública||S|sla|C2
+die Zoonose|zoonosis||S|sla|C2
+der Überträger|vector transmisor||S|sla|C2
+die Tröpfcheninfektion|contagio por gotitas||S|sla|C2
+der Erregernachweis|detección del patógeno||S|sla|C2
+die Suchtprävention|prevención de adicciones||S|sla|C2
+die Krankenhaushygiene|higiene hospitalaria||S|sla|C2
+die Todesursache|causa de muerte||S|sla|C2
+der Seuchenzug|diseminación de una epidemia||S|sla|C2
+die Seuchenbekämpfung|lucha contra las epidemias||S|sla|C2
+der Krankenhauskeim|germen nosocomial||S|sla|C2
+die Durchimpfung|cobertura vacunal||S|sla|C2
+die Erdkruste|corteza terrestre||S|sci|C2
+der Erdmantel|manto terrestre||S|sci|C2
+die Plattentektonik|tectónica de placas||S|sci|C2
+die Kontinentalverschiebung|deriva continental||S|sci|C2
+der Vulkanismus|vulcanismo||S|sci|C2
+die Magmakammer|cámara magmática||S|sci|C2
+das Magma|magma||S|sci|C2
+die Seismik|sísmica||S|sci|C2
+der Seismograf|sismógrafo||S|sci|C2
+das Epizentrum|epicentro||S|sci|C2
+die Verwitterung|meteorización||S|sci|C2
+die Sedimentation|sedimentación||S|sci|C2
+das Sedimentgestein|roca sedimentaria||S|sci|C2
+die Gebirgsbildung|orogénesis||S|sci|C2
+die Lagerstätte|yacimiento||S|sci|C2
+die Bohrung|perforación de sondeo||S|sci|C2
+der Grundwasserspiegel|nivel freático||S|sci|C2
+die Gletscherschmelze|deshielo glaciar||S|sci|C2
+der Permafrost|permafrost||S|sci|C2
+die Paläoklimatologie|paleoclimatología||S|sci|C2
+die Ablagerung|depósito geológico||S|sci|C2
+die Verwerfung|falla geológica||S|sci|C2
+das Erdzeitalter|era geológica||S|sci|C2
+die Stratigraphie|estratigrafía||S|sci|C2
+die Versteinerung|fósil, petrificación||S|sci|C2
+die Hangrutschung|deslizamiento de ladera||S|sci|C2
+die Meeresströmung|corriente oceánica||S|sci|C2
+der Hotspot|punto caliente volcánico||S|sci|C2
+die Subduktion|subducción||S|sci|C2
+der Lehrsatz|teorema||S|sci|C2
+die Vermutung|conjetura||S|sci|C2
+das Axiom|axioma||S|sci|C2
+das Korollar|corolario||S|sci|C2
+die Implikation|implicación lógica||S|sci|C2
+die Äquivalenz|equivalencia lógica||S|sci|C2
+der Widerspruchsbeweis|demostración por reducción al absurdo||S|sci|C2
+die Vollständigkeit|completitud||S|sci|C2
+die Widerspruchsfreiheit|consistencia, ausencia de contradicción||S|sci|C2
+der Kalkül|cálculo lógico||S|sci|C2
+das Prädikat|predicado||S|sci|C2
+der Quantor|cuantificador||S|sci|C2
+die Tautologie|tautología||S|sci|C2
+die Ableitung|derivada||S|sci|C2
+das Integral|integral||S|sci|C2
+die Differentialrechnung|cálculo diferencial||S|sci|C2
+die Stammfunktion|función primitiva||S|sci|C2
+der Limes|límite de una sucesión||S|sci|C2
+die lineare Abbildung|aplicación lineal||S|sci|C2
+die Topologie|topología||S|sci|C2
+die Mannigfaltigkeit|variedad diferencial||S|sci|C2
+die Wahrscheinlichkeitstheorie|teoría de la probabilidad||S|sci|C2
+die Stochastik|estocástica||S|sci|C2
+die Zufallsvariable|variable aleatoria||S|sci|C2
+das Paradoxon|paradoja||S|sci|C2
+die Berechenbarkeit|calculabilidad||S|sci|C2
+die Unentscheidbarkeit|indecidibilidad||S|sci|C2
+die Kombinatorik|combinatoria||S|sci|C2
+die Schlussregel|regla de inferencia||S|sci|C2
+die Literaturwissenschaft|ciencia de la literatura||S|let|C2
+die Literaturkritik|crítica literaria||S|let|C2
+der Literaturbetrieb|mundo literario y editorial||S|let|C2
+die Deutung|interpretación de un texto||S|let|C2
+die Hermeneutik|hermenéutica||S|let|C2
+die Rezeptionsästhetik|estética de la recepción||S|let|C2
+der Kanon|canon literario||S|let|C2
+das Sujet|sujet, materia narrada||S|let|C2
+die Gattung|género literario||S|let|C2
+der Epigone|epígono, imitador sin originalidad||S|let|C2
+die Intertextualität|intertextualidad||S|let|C2
+die Poetik|poética||S|let|C2
+die Textsorte|tipología textual||S|let|C2
+die Motivforschung|estudio del motivo literario||S|let|C2
+das Leitmotiv|leitmotiv||S|let|C2
+die Rezeptionsforschung|investigación de la recepción||S|let|C2
+der Entwicklungsroman|novela de formación||S|let|C2
+die Textkritik|crítica textual||S|let|C2
+die Überlieferung|transmisión de un texto||S|let|C2
+die Erstausgabe|primera edición||S|let|C2
+die Gesamtausgabe|edición de obras completas||S|let|C2
+die Exegese|exégesis, interpretación erudita||S|let|C2
+die Dekonstruktion|deconstrucción||S|let|C2
+die Diskursanalyse|análisis del discurso||S|let|C2
+die Semiotik|semiótica||S|let|C2
+die Bildsprache|lenguaje figurado, imaginería||S|let|C2
+die Lesart|lectura, interpretación de un pasaje||S|let|C2
+die Ambivalenz|ambivalencia, doble sentido||S|let|C2
+die Trivalliteratur|literatura trivial de evasión||S|let|C2
+die Anapher|anáfora||S|let|C2
+die Hyperbel|hipérbole||S|let|C2
+die Metonymie|metonimia||S|let|C2
+die Synekdoche|sinécdoque||S|let|C2
+das Oxymoron|oxímoron||S|let|C2
+die Litotes|lítote||S|let|C2
+die Klimax|clímax, gradación ascendente||S|let|C2
+die Antiklimax|anticlímax||S|let|C2
+die Ellipse|elipsis, supresión gramatical||S|let|C2
+das Enjambement|encabalgamiento||S|let|C2
+die Alliteration|aliteración||S|let|C2
+die Onomatopoesie|onomatopeya||S|let|C2
+der Daktylus|dáctilo, pie métrico||S|let|C2
+der Jambus|yambo||S|let|C2
+der Trochäus|troqueo||S|let|C2
+das Versmaß|metro poético||S|let|C2
+der Binnenreim|rima interior||S|let|C2
+der Endreim|rima final||S|let|C2
+die Kadenz|cadencia del final de verso||S|let|C2
+die Zäsur|cesura||S|let|C2
+die Strophenform|forma estrófica||S|let|C2
+der Hexameter|hexámetro||S|let|C2
+das Sonett|soneto||S|let|C2
+die Ekphrasis|écfrasis, descripción de una obra de arte||S|let|C2
+der Tropus|tropo, sentido figurado||S|let|C2
+das Pleonasmus|pleonasmo||S|let|C2
+die Periphrase|perífrasis retórica||S|let|C2
+der Chiasmus|quiasmo||S|let|C2
+die Parenthese|paréntesis, inciso||S|let|C2
+die Erzählperspektive|perspectiva narrativa||S|let|C2
+der Ich-Erzähler|narrador en primera persona||S|let|C2
+das Handlungsgerüst|armazón argumental||S|let|C2
+die Binnenhandlung|acción secundaria interpolada||S|let|C2
+die Diegese|diegesis, mundo narrado||S|let|C2
+der Spannungsbogen|arco de tensión dramática||S|let|C2
+die Rückblende|analepsis, flashback||S|cin|C2
+der Vorausgriff|prolepsis, anticipación||S|let|C2
+die Leerstelle|vacío de sentido abierto al lector||S|let|C2
+der implizite Leser|lector implícito||S|let|C2
+unzuverlässig|no fiable, en un narrador||A|let|C2
+die Fokalisierung|focalización||S|let|C2
+die Mimesis|mímesis||S|let|C2
+die Figurenkonstellation|constelación de personajes||S|let|C2
+die Charakterzeichnung|caracterización del personaje||S|let|C2
+die Innenschau|visión interna, focalización interna||S|let|C2
+der innere Monolog|monólogo interior||S|let|C2
+die Raffung|elipsis temporal, resumen||S|let|C2
+der Wendepunkt|punto de inflexión||S|let|C2
+die Peripetie|peripecia||S|let|C2
+die Anagnorisis|anagnórisis, reconocimiento||S|let|C2
+die Katharsis|catarsis||S|let|C2
+die Hybris|hybris||S|let|C2
+das offene Ende|final abierto||S|let|C2
+die Mehrdeutigkeit|ambigüedad, polisemia||S|let|C2
+der Perspektivwechsel|cambio de perspectiva||S|let|C2
+die Retardation|retardación, dilatación narrativa||S|let|C2
+die Figurenrede|discurso de los personajes||S|let|C2
+das Milieu|milieu, ambiente social||S|let|C2
+die Wehmut|melancolía suave||S|emo|C2
+die Schwermut|pesadumbre, melancolía profunda||S|emo|C2
+der Gram|pena íntima, congoja||S|emo|C2
+die Minne|amor cortés||S|let|C2
+der Minnesänger|trovador de lírica cortés||S|let|C2
+der Jüngling|mancebo, joven imberbe||S|let|C2
+das Eiland|isla, en registro poético||S|nat|C2
+das Antlitz|rostro, en registro poético||S|let|C2
+prangen|resplandecer, exhibirse con orgullo||V|let|C2
+der Widerhall|eco, resonancia||S|let|C2
+das Klagelied|endecha, lamentación||S|let|C2
+das Wetterleuchten|relámpagos sin truenos||S|nat|C2
+die Flur|campaña, tierras de cultivo||S|nat|C2
+das Gestade|orilla, ribera, en registro poético||S|nat|C2
+der Quell|fuente, manantial, en registro poético||S|nat|C2
+der Harnisch|coraza, arnés||S|let|C2
+das Ross|corcel, caballo, en registro poético||S|ani|C2
+der Spielmann|juglar, músico ambulante||S|let|C2
+walten|regir, imperar||V|ast|C2
+das Verhängnis|hado funesto, sino||S|ast|C2
+die Muße|ocio sereno y contemplativo||S|sve|C2
+bangen|sentir angustia, temer||V|emo|C2
+die Entsagung|renuncia, sacrificio voluntario||S|let|C2
+die Gruft|cripta, sepulcro||S|let|C2
+die Vergänglichkeit|caducidad, transitoriedad||S|ast|C2
+das Jenseits|el más allá||S|ast|C2
+die Morgenröte|aurora, alba||S|nat|C2
+das Firmament|firmamento, bóveda celeste||S|nat|C2
+die Seligkeit|dicha, bienaventuranza||S|ast|C2

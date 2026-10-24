@@ -1,0 +1,260 @@
+die Datenübertragung|transmisión de datos||S|tec|C2
+die Übertragungsrate|tasa de transferencia||S|tec|C2
+der Richtfunk|enlace radio||S|tec|C2
+das Funkloch|zona sin cobertura||S|tec|C2
+die Frequenzmodulation|modulación de frecuencia||S|tec|C2
+die Trägerfrequenz|frecuencia portadora||S|tec|C2
+das Multiplexverfahren|multiplexado (técnica)||S|tec|C2
+die Vermittlungsstelle|central de conmutación||S|tec|C2
+das Routing|enrutamiento||S|tec|C2
+die Paketvermittlung|conmutación de paquetes||S|tec|C2
+die Dämpfung|atenuación (de la señal)||S|tec|C2
+das Rauschen|ruido (en la señal)||S|tec|C2
+die Störfestigkeit|inmunidad a interferencias||S|tec|C2
+der Repeater|repetidor||S|tec|C2
+die Richtantenne|antena direccional||S|tec|C2
+die Flächendeckung|cobertura (territorial)||S|tec|C2
+die Glasfaser|fibra óptica||S|tec|C2
+das Glasfasernetz|red de fibra óptica||S|tec|C2
+das Seekabel|cable submarino||S|tec|C2
+die Ortung|geolocalización||S|tec|C2
+die Synchronisation|sincronización||S|tec|C2
+die Wellenlänge|longitud de onda||S|sci|C2
+das Spektrum|espectro (radioeléctrico)||S|sci|C2
+die Satellitenverbindung|conexión por satélite||S|tec|C2
+der Rückkanal|canal de retorno||S|tec|C2
+die Signalisierung|señalización||S|tec|C2
+die Bitrate|tasa de bits||S|tec|C2
+die Kodierung|codificación||S|tec|C2
+die Fehlerkorrektur|corrección de errores||S|tec|C2
+die Redundanz|redundancia||S|tec|C2
+die Kanalkapazität|capacidad del canal||S|tec|C2
+das Breitband|banda ancha||S|tec|C2
+die Antennentechnik|tecnología de antenas||S|tec|C2
+der Reaktor|reactor||S|sci|C2
+die Kernspaltung|fisión nuclear||S|sci|C2
+die Kernfusion|fusión nuclear||S|sci|C2
+die Radioaktivität|radiactividad||S|sci|C2
+die Strahlung|radiación||S|sci|C2
+die Halbwertszeit|periodo de semidesintegración||S|sci|C2
+der Brennstab|barra de combustible||S|sci|C2
+der Brennstoff|combustible nuclear||S|sci|C2
+der Druckbehälter|vasija de presión||S|sci|C2
+die Kettenreaktion|reacción en cadena||S|sci|C2
+der Steuerstab|barra de control||S|sci|C2
+die Notkühlung|refrigeración de emergencia||S|sci|C2
+der Super-GAU|accidente nuclear máximo||S|sci|C2
+die Endlagerung|almacenamiento definitivo||S|sci|C2
+das Endlager|depósito definitivo (de residuos)||S|sci|C2
+die Wiederaufarbeitung|reprocesamiento (de combustible)||S|sci|C2
+der Atommüll|residuos radiactivos||S|sci|C2
+die Strahlenbelastung|exposición a la radiación||S|sci|C2
+die Kontamination|contaminación radiactiva||S|sci|C2
+die Dekontamination|descontaminación||S|sci|C2
+die Abschirmung|blindaje (radiológico)||S|sci|C2
+das Uran|uranio||S|sci|C2
+die Anreicherung|enriquecimiento (de uranio)||S|sci|C2
+die Zentrifuge|centrífuga||S|sci|C2
+die Grundlast|carga base||S|sci|C2
+die Spitzenlast|carga de pico||S|sci|C2
+die Regelenergie|energía de regulación||S|sci|C2
+die Einspeisung|alimentación (de energía a la red)||S|sci|C2
+der Wirkungsgrad|rendimiento energético||S|sci|C2
+die Energieeffizienz|eficiencia energética||S|sci|C2
+die Braunkohle|lignito||S|sci|C2
+die Steinkohle|hulla||S|sci|C2
+der Druckwasserreaktor|reactor de agua a presión||S|sci|C2
+die Luftfahrt|aviación||S|sci|C2
+die Raumfahrt|astronáutica||S|sci|C2
+der Treibstoff|propulsante, combustible||S|sci|C2
+der Schub|empuje||S|sci|C2
+die Schallmauer|barrera del sonido||S|sci|C2
+die Tragfläche|ala (sustentadora)||S|sci|C2
+das Fahrwerk|tren de aterrizaje||S|sci|C2
+das Triebwerk|motor (de aeronave)||S|sci|C2
+der Sturzflug|picado||S|sci|C2
+der Auftrieb|sustentación||S|sci|C2
+die Wirbelschleppe|estela de turbulencia||S|sci|C2
+die Druckkabine|cabina presurizada||S|sci|C2
+die Schwerelosigkeit|ingravidez||S|sci|C2
+die Umlaufbahn|órbita||S|sci|C2
+die Raumsonde|sonda espacial||S|sci|C2
+die Trägerrakete|cohete portador||S|sci|C2
+die Rückkehrkapsel|cápsula de retorno||S|sci|C2
+der Hitzeschild|escudo térmico||S|sci|C2
+das Andockmanöver|maniobra de acoplamiento||S|sci|C2
+die Telemetrie|telemetría||S|sci|C2
+die Bordelektronik|electrónica de a bordo||S|sci|C2
+die Koppelnavigation|navegación por estimación||S|sci|C2
+der Katapultsitz|asiento eyectable||S|sci|C2
+das Kerosin|queroseno||S|sci|C2
+der Windkanal|túnel de viento||S|sci|C2
+der Lotse|controlador aéreo||S|pro|C2
+die Avionik|aviónica||S|sci|C2
+die Exosphäre|exosfera||S|sci|C2
+die Mondlandung|alunizaje||S|sci|C2
+der Senkrechtstarter|despegue vertical (aeronave VTOL)||S|sci|C2
+der Wiedereintritt|reentrada (atmosférica)||S|sci|C2
+die Lufthülle|envoltura atmosférica||S|sci|C2
+die Schubumkehr|inversión de empuje||S|sci|C2
+die Robotik|robótica||S|tec|C2
+die Automatisierung|automatización||S|tec|C2
+die Fertigungsstraße|línea de fabricación||S|lav|C2
+der Roboterarm|brazo robótico||S|tec|C2
+der Greifer|pinza (de robot)||S|tec|C2
+die Sensorik|conjunto de sensores||S|tec|C2
+der Drehgeber|encoder rotatorio||S|tec|C2
+der Manipulator|manipulador||S|tec|C2
+die Rückkopplung|retroalimentación||S|tec|C2
+der Regelkreis|lazo de regulación||S|tec|C2
+die Steuerungstechnik|tecnología de control||S|tec|C2
+die Montagelinie|línea de montaje||S|lav|C2
+die Taktzeit|tiempo de ciclo||S|tec|C2
+die Losgröße|tamaño de lote||S|tec|C2
+die Rüstzeit|tiempo de cambio de útiles||S|tec|C2
+die Schnittstelle|interfaz||S|tec|C2
+die Bedienoberfläche|interfaz de usuario||S|tec|C2
+die Handhabung|manipulación (de piezas)||S|tec|C2
+die Verkettung|interconexión (de máquinas)||S|tec|C2
+die Instandhaltung|mantenimiento industrial||S|tec|C2
+der Verschleiß|desgaste||S|tec|C2
+die Ausfallrate|tasa de averías||S|tec|C2
+die Kalibrierung|calibración||S|tec|C2
+die Fernüberwachung|monitorización remota||S|tec|C2
+die Serienproduktion|producción en serie||S|lav|C2
+die Einzelanfertigung|fabricación a medida||S|lav|C2
+die Stückzahl|número de unidades||S|lav|C2
+der Zulieferbetrieb|empresa proveedora||S|lav|C2
+die Lichtschranke|barrera fotoeléctrica||S|tec|C2
+die Positioniergenauigkeit|precisión de posicionamiento||S|tec|C2
+die Zuführung|alimentación (de piezas)||S|tec|C2
+der Servomotor|servomotor||S|tec|C2
+die Mensch-Roboter-Kooperation|colaboración humano-robot||S|tec|C2
+die Klimatologie|climatología||S|sci|C2
+der Klimawandel|cambio climático||S|cli|C2
+die Modellrechnung|simulación numérica||S|sci|C2
+die Erderwärmung|calentamiento global||S|cli|C2
+der Treibhauseffekt|efecto invernadero||S|sci|C2
+das Treibhausgas|gas de efecto invernadero||S|sci|C2
+der Permafrost|permafrost||S|nat|C2
+die Meeresströmung|corriente marina||S|nat|C2
+die Abschmelzung|deshielo||S|nat|C2
+der Gletscherrückgang|retroceso glaciar||S|nat|C2
+die Eiskappe|casquete polar||S|nat|C2
+der Eisbohrkern|testigo de hielo||S|sci|C2
+die Versauerung|acidificación (del mar)||S|nat|C2
+die Versalzung|salinización||S|nat|C2
+die Ozonschicht|capa de ozono||S|nat|C2
+das Ozonloch|agujero de ozono||S|nat|C2
+der Emissionshandel|comercio de emisiones||S|ist|C2
+der Ausstoß|emisión (de gases)||S|sci|C2
+die Wüstenbildung|desertización||S|nat|C2
+das Extremwetter|fenómeno meteorológico extremo||S|cli|C2
+der Meeresspiegelanstieg|subida del nivel del mar||S|cli|C2
+die Messreihe|serie de mediciones||S|sci|C2
+die Witterung|estado del tiempo (varios días)||S|cli|C2
+der Kipppunkt|punto de no retorno||S|cli|C2
+die Anpassungsstrategie|estrategia de adaptación||S|ist|C2
+die Verwundbarkeit|vulnerabilidad (de un sistema)||S|ast|C2
+die Kryosphäre|criosfera||S|sci|C2
+die Dendrochronologie|dendrocronología||S|sci|C2
+der Meteorologe|meteorólogo||S|pro|C2
+das Aerosol|aerosol||S|sci|C2
+der Pegelstand|nivel (de un río)||S|nat|C2
+die Verdunstung|evaporación||S|nat|C2
+die Ozeanographie|oceanografía||S|sci|C2
+der Tiefseegraben|fosa abisal||S|sci|C2
+das Plankton|plancton||S|ani|C2
+das Zooplankton|zooplancton||S|ani|C2
+die Gezeiten|mareas||S|nat|C2
+die Ebbe|bajamar||S|nat|C2
+die Flut|pleamar||S|nat|C2
+die Springflut|marea viva||S|nat|C2
+die Ozeanzirkulation|circulación oceánica||S|sci|C2
+die Salinität|salinidad||S|sci|C2
+der Pottwal|cachalote||S|ani|C2
+der Blauwal|ballena azul||S|ani|C2
+das Korallenriff|arrecife de coral||S|nat|C2
+das Korallenbleichen|blanqueamiento de coral||S|nat|C2
+die Algenblüte|floración de algas||S|nat|C2
+der Krill|krill||S|ani|C2
+die Überfischung|sobrepesca||S|nat|C2
+das Wattenmeer|marisma intermareal||S|nat|C2
+die Bathymetrie|batimetría||S|sci|C2
+die Sedimentation|sedimentación||S|sci|C2
+die Sandbank|banco de arena||S|nat|C2
+der Krake|pulpo||S|ani|C2
+das Tauchboot|sumergible||S|sci|C2
+die Taucherkrankheit|enfermedad de descompresión||S|sla|C2
+die Schwimmblase|vejiga natatoria||S|ani|C2
+die Kieme|agalla||S|ani|C2
+das Laichen|desove||S|ani|C2
+die Wellenenergie|energía de las olas||S|sci|C2
+die Brandung|rompiente (oleaje)||S|nat|C2
+die Gischt|espuma del oleaje||S|nat|C2
+der Seegang|estado de la mar||S|nat|C2
+das Gewässer|masa de agua||S|nat|C2
+das Umweltrecht|derecho ambiental||S|ist|C2
+der Naturschutz|protección de la naturaleza||S|nat|C2
+die Nachhaltigkeit|sostenibilidad||S|nat|C2
+die Umweltverträglichkeitsprüfung|evaluación de impacto ambiental||S|ist|C2
+der Grenzwert|valor límite||S|sci|C2
+die Schadstoffbelastung|carga contaminante||S|sci|C2
+der Schadstoff|sustancia contaminante||S|sci|C2
+die Altlast|pasivo ambiental (suelo contaminado)||S|ist|C2
+die Sanierung|saneamiento (de suelos)||S|sci|C2
+die Ausgleichsmaßnahme|medida compensatoria||S|ist|C2
+das Verursacherprinzip|principio de quien contamina paga||S|ist|C2
+das Vorsorgeprinzip|principio de precaución||S|ist|C2
+die Gewässerverschmutzung|contaminación de aguas||S|ist|C2
+die Kläranlage|depuradora||S|cit|C2
+das Abwasser|aguas residuales||S|cit|C2
+die Kreislaufwirtschaft|economía circular||S|sci|C2
+die Abfallvermeidung|prevención de residuos||S|nat|C2
+die Abfallentsorgung|gestión de residuos||S|nat|C2
+die Müllverbrennung|incineración de residuos||S|sci|C2
+die Deponie|vertedero||S|sci|C2
+die Renaturierung|renaturalización||S|nat|C2
+die Flurbereinigung|concentración parcelaria||S|ist|C2
+die Bodenerosion|erosión del suelo||S|nat|C2
+die Monokultur|monocultivo||S|nat|C2
+das Biosiegel|sello ecológico||S|ist|C2
+der Artenschutz|protección de especies||S|nat|C2
+die Wasserkraft|energía hidroeléctrica||S|sci|C2
+der Windpark|parque eólico||S|sci|C2
+die Durchsetzung|aplicación (de la norma)||S|ist|C2
+das Bußgeld|multa administrativa||S|ist|C2
+der Verstoß|infracción||S|ist|C2
+die Zuwiderhandlung|contravención||S|ist|C2
+die Anatomie|anatomía||S|cor|C2
+die Pathologie|patología||S|sla|C2
+die Histologie|histología||S|sla|C2
+das Gewebe|tejido||S|cor|C2
+das Karzinom|carcinoma||S|sla|C2
+das Sarkom|sarcoma||S|sla|C2
+die Metastase|metástasis||S|sla|C2
+die Biopsie|biopsia||S|sla|C2
+die Obduktion|autopsia||S|sla|C2
+der Befund|hallazgo (médico)||S|sla|C2
+die Differenzialdiagnose|diagnóstico diferencial||S|sla|C2
+die Anamnese|anamnesis||S|sla|C2
+das Ligament|ligamento||S|cor|C2
+die Sehne|tendón||S|cor|C2
+der Knorpel|cartílago||S|cor|C2
+das Knochenmark|médula ósea||S|cor|C2
+der Bandscheibenvorfall|hernia discal||S|sla|C2
+die Kapillare|capilar||S|cor|C2
+das Lymphsystem|sistema linfático||S|cor|C2
+die Schilddrüse|tiroides||S|cor|C2
+die Nebenniere|glándula suprarrenal||S|cor|C2
+der Hormonhaushalt|equilibrio hormonal||S|sla|C2
+die Betäubung|anestesia (insensibilización)||S|sla|C2
+der Krankheitsverlauf|evolución de la enfermedad||S|sla|C2
+die Erbanlage|dotación genética||S|sla|C2
+die Chromosomenaberration|aberración cromosómica||S|sla|C2
+die Nekrose|necrosis||S|sla|C2
+die Atrophie|atrofia||S|sla|C2
+die Hypertrophie|hipertrofia||S|sla|C2
+das Ödem|edema||S|sla|C2
+das Hämatom|hematoma||S|sla|C2
+die Neuralgie|neuralgia||S|sla|C2

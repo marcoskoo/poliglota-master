@@ -1,0 +1,258 @@
+furniture|mobiliario, muebles||S|cas|B1
+armchair|sillón||S|cas|B1
+sofa|sofá||S|cas|B1
+bookcase|librería (mueble)||S|cas|B1
+wardrobe|armario (de ropa)||S|cas|B1
+chest of drawers|cómoda||S|cas|B1
+bedside table|mesilla de noche||S|cas|B1
+carpet|alfombra||S|cas|B1
+rug|alfombra pequeña||S|cas|B1
+curtains|cortinas||S|cas|B1
+blinds|persianas||S|cas|B1
+cushion|cojín||S|cas|B1
+pillow|almohada||S|cas|B1
+duvet|edredón||S|cas|B1
+sheet|sábana||S|cas|B1
+blanket|manta||S|cas|B1
+towel|toalla||S|cas|B1
+washing machine|lavadora||S|cas|B1
+dishwasher|lavavajillas||S|cas|B1
+fridge|nevera||S|cas|B1
+freezer|congelador||S|cas|B1
+oven|horno||S|cas|B1
+microwave|microondas||S|cas|B1
+kettle|hervidor (de agua)||S|cas|B1
+vacuum cleaner|aspiradora||S|cas|B1
+iron|planchar||V|cas|B1
+do the ironing|planchar la ropa||L|cas|B1
+do the washing-up|fregar los platos||L|cas|B1
+do the laundry|lavar la ropa||L|cas|B1
+household chores|tareas domésticas||S|cas|B1
+tidy up|ordenar, recoger||V|cas|B1
+clutter|desorden, trastos||S|cas|B1
+switch on|encender||V|cas|B1
+switch off|apagar||V|cas|B1
+plug|enchufe||S|cas|B1
+plug in|conectar a la corriente||V|cas|B1
+socket|toma de corriente||S|cas|B1
+bulb|bombilla||S|cas|B1
+radiator|radiador (de calefacción)||S|cas|B1
+leak|gotera, fuga||S|cas|B1
+neighbourhood|barrio||S|cit|B1
+suburb|barrio residencial, afueras||S|cit|B1
+outskirts|afueras||S|cit|B1
+city centre|centro de la ciudad||S|cit|B1
+town hall|ayuntamiento||S|cit|B1
+square|plaza||S|cit|B1
+pedestrian crossing|paso de peatones||S|cit|B1
+zebra crossing|paso de cebra||S|cit|B1
+crossroads|cruce de calles||S|cit|B1
+roundabout|rotonda||S|cit|B1
+pavement|acera||S|cit|B1
+sidewalk|acera (EE. UU.)||S|cit|B1
+traffic lights|semáforos||S|cit|B1
+traffic jam|atasco||S|cit|B1
+be stuck in traffic|quedar atrapado en el tráfico||L|cit|B1
+roadworks|obras en la vía||S|cit|B1
+car park|aparcamiento||S|cit|B1
+parking fine|multa de aparcamiento||S|cit|B1
+bus stop|parada de autobús||S|cit|B1
+bus lane|carril bus||S|cit|B1
+cyclist|ciclista||S|cit|B1
+commuter|persona que se desplaza a diario al trabajo||S|cit|B1
+public transport|transporte público||S|cit|B1
+underground|metro||S|cit|B1
+flat|piso, apartamento||S|cit|B1
+apartment|apartamento||S|cit|B1
+studio flat|estudio (vivienda)||S|cit|B1
+detached house|casa unifamiliar||S|cit|B1
+semi-detached house|casa adosada||S|cit|B1
+terraced house|casa en hilera||S|cit|B1
+block of flats|bloque de pisos||S|cit|B1
+rent|alquilar; alquiler||V|cit|B1
+landlord|casero||S|cit|B1
+tenant|inquilino||S|cit|B1
+move house|mudarse de casa||L|cit|B1
+move in|mudarse (a una vivienda)||V|cit|B1
+move out|mudarse (dejar la vivienda)||V|cit|B1
+removal van|camión de mudanzas||S|cit|B1
+estate agent|agente inmobiliario||S|cit|B1
+mortgage|hipoteca||S|cit|B1
+take out a mortgage|pedir una hipoteca||L|cit|B1
+rent deposit|fianza de alquiler||S|cit|B1
+bill|factura||S|cit|B1
+utility bills|facturas de suministros||S|cit|B1
+for rent|en alquiler||L|cit|B1
+for sale|en venta||L|cit|B1
+neighbour|vecino||S|cit|B1
+crowded|abarrotado||A|cit|B1
+lively|animado||A|cit|B1
+peaceful|tranquilo||A|cit|B1
+run-down|degradado, venido a menos||A|cit|B1
+cosmopolitan|cosmopolita||A|cit|B1
+venue|local, recinto||S|cit|B1
+library|biblioteca||S|cit|B1
+post office|oficina de correos||S|cit|B1
+chemist's|farmacia (Reino Unido)||S|cit|B1
+newsagent's|quiosco de prensa||S|cit|B1
+shopping mall|centro comercial||S|cit|B1
+facilities|instalaciones, servicios||S|cit|B1
+council|ayuntamiento (concejo municipal)||S|cit|B1
+high street|calle comercial principal||S|cit|B1
+pedestrian zone|zona peatonal||S|cit|B1
+ingredient|ingrediente||S|ali|B1
+recipe|receta||S|ali|B1
+cook|cocinar||V|ali|B1
+cooker|cocina (aparato)||S|ali|B1
+chef|cocinero jefe||S|ali|B1
+boil|hervir||V|ali|B1
+fry|freír||V|ali|B1
+roast|asar (al horno)||V|ali|B1
+grill|hacer a la parrilla||V|ali|B1
+bake|hornear||V|ali|B1
+steam|cocinar al vapor||V|ali|B1
+chop|trocear, picar||V|ali|B1
+slice|cortar en lonchas||V|ali|B1
+peel|pelar||V|ali|B1
+grate|rallar||V|ali|B1
+stir|remover||V|ali|B1
+mix|mezclar||V|ali|B1
+add|añadir||V|ali|B1
+taste|saber; probar||V|ali|B1
+delicious|delicioso||A|ali|B1
+tasty|sabroso||A|ali|B1
+disgusting|asqueroso||A|ali|B1
+spicy|picante||A|ali|B1
+salty|salado||A|ali|B1
+sweet|dulce||A|ali|B1
+sour|agrio||A|ali|B1
+bitter|amargo||A|ali|B1
+raw|crudo||A|ali|B1
+undercooked|poco hecho||A|ali|B1
+overcooked|demasiado hecho||A|ali|B1
+vegetarian|vegetariano||S|ali|B1
+vegan|vegano||S|ali|B1
+seafood|marisco||S|ali|B1
+dairy products|lácteos||S|ali|B1
+wholemeal|integral||A|ali|B1
+takeaway|comida para llevar||S|ali|B1
+leftovers|sobras||S|ali|B1
+snack|tentempié||S|ali|B1
+meal|comida (del día)||S|ali|B1
+home-made|casero (comida)||A|ali|B1
+frozen food|comida congelada||S|ali|B1
+tinned food|comida en conserva||S|ali|B1
+junk food|comida basura||S|ali|B1
+healthy eating|alimentación sana||S|ali|B1
+diet|dieta||S|ali|B1
+be on a diet|estar a dieta||L|ali|B1
+cut down on|reducir el consumo de||V|ali|B1
+give up|dejar de consumir||V|ali|B1
+allergic|alérgico||A|ali|B1
+food poisoning|intoxicación alimentaria||S|ali|B1
+best-before date|fecha de caducidad preferente||S|ali|B1
+expired|caducado||A|ali|B1
+book a table|reservar mesa||L|ris|B1
+waiter|camarero||S|ris|B1
+waitress|camarera||S|ris|B1
+menu|carta, menú||S|ris|B1
+starter|entrante||S|ris|B1
+main course|plato principal||S|ris|B1
+dessert|postre||S|ris|B1
+ask for the bill|pedir la cuenta||L|ris|B1
+tip|propina||S|ris|B1
+leave a tip|dejar propina||L|ris|B1
+order|pedir (comida)||V|ris|B1
+recommend|recomendar||V|ris|B1
+send back|devolver (un plato)||V|ris|B1
+table for two|mesa para dos||L|ris|B1
+fully booked|completo (reservas)||A|ris|B1
+service charge|cargo por servicio||S|ris|B1
+set menu|menú del día||S|ris|B1
+speciality|especialidad de la casa||S|ris|B1
+portion|ración||S|ris|B1
+side dish|guarnición||S|ris|B1
+rare|poco hecho (carne)||A|ris|B1
+medium|en su punto (carne)||A|ris|B1
+well-done|bien hecho (carne)||A|ris|B1
+eat out|comer fuera||V|ris|B1
+cosy|acogedor||A|ris|B1
+atmosphere|ambiente||S|ris|B1
+booking|reserva||S|ris|B1
+cancel a booking|anular una reserva||L|ris|B1
+pay the bill|pagar la cuenta||L|ris|B1
+packed|lleno de gente||A|ris|B1
+queue for a table|hacer cola para conseguir mesa||L|ris|B1
+service included|servicio incluido||L|ris|B1
+symptom|síntoma||S|sla|B1
+ache|dolor sordo||S|sla|B1
+headache|dolor de cabeza||S|sla|B1
+stomach ache|dolor de estómago||S|sla|B1
+backache|dolor de espalda||S|sla|B1
+sore throat|dolor de garganta||S|sla|B1
+cough|tos||S|sla|B1
+runny nose|nariz que gotea||S|sla|B1
+flu|gripe||S|sla|B1
+catch a cold|coger un resfriado||L|sla|B1
+fever|fiebre||S|sla|B1
+high temperature|fiebre alta||S|sla|B1
+sneeze|estornudar||V|sla|B1
+sprain|esguince||S|sla|B1
+twist your ankle|torcerse el tobillo||L|sla|B1
+break a bone|romperse un hueso||L|sla|B1
+bruise|moretón||S|sla|B1
+cut|corte, herida||S|sla|B1
+wound|herida||S|sla|B1
+bleed|sangrar||V|sla|B1
+injury|lesión||S|sla|B1
+injured|lesionado, herido||A|sla|B1
+X-ray|radiografía||S|sla|B1
+plaster cast|escayola||S|sla|B1
+crutches|muletas||S|sla|B1
+bandage|venda||S|sla|B1
+stitches|puntos de sutura||S|sla|B1
+injection|inyección||S|sla|B1
+have an injection|ponerse una inyección||L|sla|B1
+vaccination|vacunación||S|sla|B1
+prescription|receta médica||S|sla|B1
+prescribe|recetar||V|sla|B1
+first aid|primeros auxilios||S|sla|B1
+pills|pastillas||S|sla|B1
+take painkillers|tomar analgésicos||L|sla|B1
+pharmacist|farmacéutico||S|sla|B1
+check-up|revisión (médica)||S|sla|B1
+recover|recuperarse||V|sla|B1
+get over|reponerse de||V|sla|B1
+dizzy|mareado||A|sla|B1
+shoulder|hombro||S|cor|B1
+elbow|codo||S|cor|B1
+wrist|muñeca (articulación)||S|cor|B1
+thumb|pulgar||S|cor|B1
+knuckles|nudillos||S|cor|B1
+waist|cintura||S|cor|B1
+hip|cadera||S|cor|B1
+thigh|muslo||S|cor|B1
+ankle|tobillo||S|cor|B1
+heel|talón||S|cor|B1
+toe|dedo del pie||S|cor|B1
+fingernail|uña||S|cor|B1
+muscle|músculo||S|cor|B1
+joint|articulación||S|cor|B1
+bone|hueso||S|cor|B1
+skin|piel||S|cor|B1
+spine|columna vertebral||S|cor|B1
+lungs|pulmones||S|cor|B1
+liver|hígado||S|cor|B1
+kidney|riñón||S|cor|B1
+heart attack|ataque cardíaco||S|cor|B1
+heartbeat|latido||S|cor|B1
+breath|aliento, respiración||S|cor|B1
+out of breath|sin aliento||L|cor|B1
+take a deep breath|respirar hondo||L|cor|B1
+yawn|bostezar||V|cor|B1
+sweat|sudar||V|cor|B1
+shiver|tiritar||V|cor|B1
+go grey|encanecer||L|cor|B1
+put on weight|engordar||L|cor|B1
+lose weight|adelgazar||L|cor|B1
+short-sighted|miope||A|cor|B1

@@ -1,0 +1,260 @@
+das Paradoxon|paradoja||S|ast|C2
+die Paradoxie|carácter paradójico (contradicción lógica)||S|ast|C2
+die Ontologie|ontología||S|ast|C2
+die Tugend|virtud||S|ast|C2
+das Laster|vicio||S|ast|C2
+die Seinsweise|modo de ser||S|ast|C2
+das Dasein|existencia, ser-ahí||S|ast|C2
+die Wesenheit|esencialidad||S|ast|C2
+die Erscheinung|fenómeno (en cuanto apariencia)||S|ast|C2
+der Wesenszug|rasgo esencial||S|ast|C2
+die Absurdität|absurdidad||S|ast|C2
+die Kontingenz|contingencia||S|ast|C2
+die Immanenz|inmanencia||S|ast|C2
+die Transzendenz|trascendencia||S|ast|C2
+das Apriori|a priori||S|ast|C2
+das Postulat|postulado||S|ast|C2
+das Axiom|axioma||S|ast|C2
+das Korollar|corolario||S|ast|C2
+die Deduktion|deducción||S|ast|C2
+die Induktion|inducción||S|ast|C2
+die Antinomie|antinomia||S|ast|C2
+die Dialektik|dialéctica||S|ast|C2
+die Aufhebung|superación (concepto hegeliano)||S|ast|C2
+das Vermögen|facultad, capacidad||S|ast|C2
+die Willensfreiheit|libre albedrío||S|ast|C2
+der Determinismus|determinismo||S|ast|C2
+die Willkür|arbitrariedad||S|ast|C2
+die Begrifflichkeit|conceptualidad||S|ast|C2
+die Denkkategorie|categoría del pensamiento||S|ast|C2
+das Erkenntnisinteresse|interés cognoscitivo||S|ast|C2
+die Urteilskraft|capacidad de juicio||S|ast|C2
+das Unding|disparate, sinrazón||S|ast|C2
+die Nichtigkeit|nulidad, vanidad||S|ast|C2
+die Aporie|aporía||S|ast|C2
+das Resümee|resumen||S|let|C2
+das Plagiat|plagio||S|stu|C2
+die Glosse|glosa (artículo satírico breve)||S|let|C2
+die Pointe|remate (de un chiste o relato)||S|let|C2
+das Bonmot|agudeza, dicho chispeante||S|let|C2
+der Esprit|ingenio, chispa||S|let|C2
+die Allüren|aires afectados, manías||S|emo|C2
+die Attitüde|pose, actitud afectada||S|emo|C2
+affektiert|afectado, rebuscado||A|emo|C2
+das Debakel|debacle, descalabro||S|ast|C2
+die Blamage|vergüenza pública, ridículo||S|emo|C2
+niveauvoll|de alto nivel, distinguido||A|ast|C2
+die Courage|coraje, valentía||S|emo|C2
+die Melancholie|melancolía||S|emo|C2
+das Fernweh|morriña, ansia de lejanía||S|emo|C2
+die Sinnlichkeit|sensualidad||S|ast|C2
+die Genialität|genialidad||S|ast|C2
+die Banalität|banalidad||S|ast|C2
+die Trivialität|trivialidad||S|ast|C2
+die Ambivalenz|ambivalencia||S|ast|C2
+die Indifferenz|indiferencia||S|ast|C2
+die Nonchalance|despreocupación elegante||S|emo|C2
+das Understatement|modestia deliberada (atenuación)||S|cmu|C2
+der Lackmustest|piedra de toque||S|ast|C2
+die Bredouille|aprieto, apuro||S|ast|C2
+der Fauxpas|traspié, indiscreción||S|cmu|C2
+das Flair|aire, ambiente característico||S|ast|C2
+die Aura|aura (carisma de una obra)||S|art|C2
+die Serendipität|serendipia||S|sci|C2
+das Debüt|debut||S|art|C2
+das Dilemma|dilema||S|ast|C2
+der Enthusiasmus|entusiasmo||S|emo|C2
+Wissen ist Macht|saber es poder||E|ast|C2
+Gelegenheit macht Diebe|la ocasión hace al ladrón||E|ast|C2
+Lügen haben kurze Beine|las mentiras tienen patas cortas||E|cmu|C2
+Aller Anfang ist schwer|todo principio es difícil||E|ast|C2
+Übung macht den Meister|la práctica hace al maestro||E|ast|C2
+Wer rastet, der rostet|quien se estanca, se oxida||E|ast|C2
+auf verlorenem Posten|en posición perdida, en balde||L|ast|C2
+auf Sand gebaut|construido sobre arena||L|ast|C2
+unter vier Augen|en privado, a solas||L|cmu|C2
+auf den Punkt bringen|ir al grano||L|cmu|C2
+ins Fettnäpfchen treten|meter la pata||L|cmu|C2
+den Löffel abgeben|estirar la pata||L|cmu|C2
+mit den Wölfen heulen|aullar con los lobos||L|cmu|C2
+die Daumen drücken|cruzar los dedos||L|cmu|C2
+in Frage stehen|estar en entredicho||L|ast|C2
+außer Frage stehen|estar fuera de toda duda||L|ast|C2
+in Kauf nehmen|asumir, tolerar (un coste)||L|ast|C2
+auf Messers Schneide|al filo de la navaja||L|ast|C2
+in der Schusslinie|en la línea de fuego||L|ast|C2
+unter Strom stehen|estar tenso (estresado)||L|emo|C2
+auf dem Holzweg|descaminado, en vía muerta||L|ast|C2
+über Leichen gehen|pasar por encima de cadáveres||L|ast|C2
+links liegen lassen|dejar de lado, ignorar||L|cmu|C2
+viel Lärm um nichts|mucho ruido y pocas nueces||E|let|C2
+wie auf Eiern gehen|andar con pies de plomo||L|cmu|C2
+schwarz auf weiß|por escrito, negro sobre blanco||L|cmu|C2
+in die Bresche springen|acudir en auxilio, tapar la brecha||L|ast|C2
+auf freiem Fuß|en libertad||L|ist|C2
+im Trüben fischen|pescar en río revuelto||L|cmu|C2
+cum grano salis|con pinzas, con cautela||L|ast|C2
+in dubio pro reo|en caso de duda, a favor del reo||L|ist|C2
+ultima ratio|última razón, recurso extremo||E|ast|C2
+die Ironie|ironía||S|cmu|C2
+die Skepsis|escepticismo||S|ast|C2
+der Spott|burla, mofa||S|cmu|C2
+beißend|mordaz, corrosivo||A|cmu|C2
+sarkastisch|sarcástico||A|cmu|C2
+zynisch|cínico||A|cmu|C2
+sardonisch|sardónico||A|cmu|C2
+ironisieren|ironizar||V|cmu|C2
+verhöhnen|escarnecer||V|cmu|C2
+der Seitenhieb|pulla, indirecta||S|cmu|C2
+die Stichelei|puyas, pullas continuas||S|cmu|C2
+die Anspielung|alusión, insinuación||S|cmu|C2
+die Andeutung|insinuación vaga||S|cmu|C2
+beschönigen|maquillar, quitar hierro||V|cmu|C2
+verharmlosen|restar gravedad, banalizar||V|cmu|C2
+bagatellisieren|hacer poca cosa, minimizar||V|cmu|C2
+bemänteln|encubrir, disimular||V|cmu|C2
+vertuschen|tapar (un escándalo)||V|cmu|C2
+der Euphemismus|eufemismo||S|cmu|C2
+die Ausflucht|excusa, evasiva||S|cmu|C2
+die Notlüge|mentira piadosa||S|cmu|C2
+kriecherisch|servil, rastrero||A|emo|C2
+heucheln|fingir (con hipocresía)||V|cmu|C2
+das Doppelspiel|doble juego||S|cmu|C2
+die Selbstironie|autoironía||S|cmu|C2
+der Galgenhumor|humor negro||S|cmu|C2
+zweideutig|de doble sentido||A|cmu|C2
+durch die Blume|con rodeos, sutilmente||L|cmu|C2
+mit Samthandschuhen|con guantes de seda||L|cmu|C2
+die Krallen zeigen|mostrar las garras||L|cmu|C2
+vom hohen Pferd steigen|bajar del pedestal||L|cmu|C2
+auf etwas anspielen|aludir a algo||L|cmu|C2
+naseweis|respondón, sabelotodo||A|cmu|C2
+der Radau|jaleo, alboroto||S|cmu|C2
+der Muffensausen|canguelo, miedo cerval||S|emo|C2
+der Murks|chapuza||S|lav|C2
+pfuschen|hacer chapuzas||V|lav|C2
+zusammenflicken|apañar, remendar a toda prisa||V|cmu|C2
+das Krimskrams|chismes, cachivaches||S|cmu|C2
+der Firlefanz|fruslerías, adornos absurdos||S|cmu|C2
+das Brimborium|boato hueco, ceremonial excesivo||S|cmu|C2
+das Mätzchen|payasada, número||S|cmu|C2
+der Schabernack|broma pesada, gamberrada||S|cmu|C2
+der Unfug|disparate, desatino||S|cmu|C2
+die Macke|toc, defecto (chifladura)||S|emo|C2
+eine Schraube locker haben|tener un tornillo flojo||L|cmu|C2
+die Kohle|pasta (dinero)||S|fin|C2
+der Kies|pasta, plata (dinero)||S|fin|C2
+abzocken|timar, sangrar (precio abusivo)||V|fin|C2
+der Hammer|algo demencial o genial||S|cmu|C2
+der Glimmstängel|pitillo (coloquial)||S|sla|C2
+der Schlamassel|lío, embrollo||S|cmu|C2
+der Saustall|desmadre, caos||S|cmu|C2
+das Tohuwabohu|caos, jaleo||S|cmu|C2
+das Gelage|comilona, juerga||S|sve|C2
+der Suff|borrachera||S|sla|C2
+beschwipst|achispado||A|sla|C2
+verpetzen|chivar, delatar||V|cmu|C2
+der Überflieger|figura, alumno brillante||S|stu|C2
+büffeln|empollar||V|stu|C2
+blau machen|hacer campana||L|stu|C2
+der Frechdachs|pillín, travieso||S|cmu|C2
+die Göre|chiquilla traviesa||S|fam|C2
+der Bengel|granuja, mocoso||S|fam|C2
+die Semmel|bollo de pan (uso meridional)||S|ali|C2
+die Schrippe|panecillo (uso berlinés)||S|ali|C2
+das Pumpernickel|pan negro de centeno (Westfalia)||S|ali|C2
+der Kloß|bola de patata (norte y este)||S|ali|C2
+der Knödel|bola de masa (sur)||S|ali|C2
+die Bulette|filete ruso (Berlín)||S|ali|C2
+der Matjes|arenque curado (región del Rin)||S|ali|C2
+der Labskaus|plato marinero del norte||S|ali|C2
+die Marille|albaricoque (Austria)||S|ali|C2
+der Karfiol|coliflor (Austria)||S|ali|C2
+der Kukuruz|maíz (Austria)||S|ali|C2
+die Jause|merienda (Austria y sur)||S|ali|C2
+die Brotzeit|comida fría (Baviera)||S|ali|C2
+die Vesper|merienda (sudoeste)||S|ali|C2
+der Sonnabend|sábado (uso norteño)||S|tmp|C2
+der Bub|chico (uso meridional)||S|fam|C2
+die Stiege|escalera (uso meridional)||S|cas|C2
+der Gehsteig|acera (Austria y sur)||S|cit|C2
+die Feudel|trapo de limpieza (norte)||S|cas|C2
+der Ranzen|tripa, barriga (coloquial)||S|cor|C2
+der Föhn|viento cálido de montaña||S|nat|C2
+die Gaudi|juerga, diversión (sur)||S|sve|C2
+zünftig|a la antigua usanza, tradicional||A|ali|C2
+der Pfundskerl|hombre excelente (sur, coloquial)||S|cmu|C2
+ruckzuck|en un santiamén||D|tmp|C2
+der Hallodri|mujeriego, vivales||S|cmu|C2
+der Schlawiner|vivales, pícaro||S|cmu|C2
+die Watsche|bofetón (sur)||S|cmu|C2
+gell|¿verdad?, ¿no? (sur)||I|cmu|C2
+das Tacheles|hablar claro, sin rodeos||S|cmu|C2
+hackeln|trabajar (Austria, coloquial)||V|lav|C2
+der Fleischhauer|carnicero (Austria)||S|pro|C2
+die Besenwirtschaft|taberna temporal (sudoeste)||S|ris|C2
+die Wehmut|melancolía suave, nostalgia||S|emo|C2
+die Schwermut|pesadumbre, melancolía profunda||S|emo|C2
+der Gram|pena honda, congoja||S|emo|C2
+die Genugtuung|satisfacción (por una reparación)||S|emo|C2
+die Schadenfreude|regocijo por el mal ajeno||S|emo|C2
+die Herzenswärme|calidez de corazón||S|emo|C2
+die Barmherzigkeit|compasión, misericordia||S|emo|C2
+die Milde|clemencia, benignidad||S|emo|C2
+die Missgunst|envidia rencorosa||S|emo|C2
+der Groll|rencor sordo||S|emo|C2
+das Ressentiment|resentimiento (cultural)||S|emo|C2
+die Kränkung|afrenta, herida del amor propio||S|emo|C2
+die Schmach|humillación, afrenta||S|emo|C2
+der Hochmut|soberbia||S|emo|C2
+die Demut|humildad||S|emo|C2
+die Anmaßung|arrogancia, desfachatez presuntuosa||S|emo|C2
+überheblich|altivo, engreído||A|emo|C2
+selbstgefällig|complacido de sí mismo||A|emo|C2
+die Bestürzung|estupefacción, desconcierto||S|emo|C2
+die Fassungslosigkeit|incredulidad estupefacta||S|emo|C2
+der Abscheu|repugnancia, asco profundo||S|emo|C2
+der Widerwille|aversión, repugnancia||S|emo|C2
+die Zuneigung|afecto, inclinación||S|emo|C2
+das Wohlwollen|benevolencia||S|emo|C2
+die Wertschätzung|aprecio, valoración||S|emo|C2
+die Zuwendung|atención cariñosa||S|emo|C2
+die Hingabe|entrega, devoción||S|emo|C2
+die Inbrunst|fervor, brío apasionado||S|emo|C2
+der Übermut|euforia atolondrada||S|emo|C2
+die Gelassenheit|serenidad, ecuanimidad||S|emo|C2
+der Gleichmut|imperturbabilidad||S|emo|C2
+die Contenance|aplomo, compostura||S|emo|C2
+die Führungskraft|directivo, cuadro||S|lav|C2
+die Führungsstärke|capacidad de liderazgo||S|lav|C2
+der Leistungsträger|colaborador clave||S|lav|C2
+die Zielvereinbarung|acuerdo de objetivos||S|lav|C2
+der Aufsichtsrat|consejo de administración||S|lav|C2
+der Vorstand|consejo ejecutivo||S|lav|C2
+die Geschäftsführung|dirección gerencial||S|lav|C2
+die Wertschöpfung|creación de valor||S|fin|C2
+die Wertschöpfungskette|cadena de valor||S|fin|C2
+die Wettbewerbsfähigkeit|competitividad||S|fin|C2
+der Wettbewerbsvorsprung|ventaja competitiva||S|fin|C2
+die Marktdurchdringung|penetración de mercado||S|fin|C2
+der Marktanteil|cuota de mercado||S|fin|C2
+die Diversifikation|diversificación||S|fin|C2
+die Desinvestition|desinversión||S|fin|C2
+die Fremdfinanzierung|financiación ajena||S|fin|C2
+das Eigenkapital|capital propio||S|fin|C2
+die Rentabilität|rentabilidad||S|fin|C2
+die Umsatzrendite|margen sobre ventas||S|fin|C2
+die Liquidität|liquidez||S|fin|C2
+die Insolvenz|insolvencia, quiebra||S|fin|C2
+die Zahlungsfähigkeit|solvencia||S|fin|C2
+der Jahresabschluss|cuentas anuales||S|fin|C2
+die Rechnungslegung|presentación de cuentas||S|fin|C2
+der Jahresüberschuss|beneficio del ejercicio||S|fin|C2
+die Abschreibung|amortización, depreciación||S|fin|C2
+der Cashflow|flujo de caja||S|fin|C2
+die Beschaffung|aprovisionamiento||S|lav|C2
+der Flurfunk|radio de pasillo (rumores internos)||S|lav|C2
+die Weisungsbefugnis|facultad de dar instrucciones||S|lav|C2
+der Handlungsspielraum|margen de maniobra||S|lav|C2
+die Entscheidungskompetenz|competencia decisoria||S|lav|C2
+der Fachkräftemangel|escasez de personal cualificado||S|lav|C2

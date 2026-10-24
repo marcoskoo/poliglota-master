@@ -1,0 +1,260 @@
+das Plenum|pleno||S|ist|C2
+die Geschäftsordnung|reglamento interno||S|ist|C2
+die Vereidigung|juramento de cargo||S|ist|C2
+die Amtseinführung|investidura, toma de posesión||S|ist|C2
+die Amtsübergabe|traspaso de poderes||S|ist|C2
+die Durchführungsverordnung|reglamento de aplicación||S|ist|C2
+der Vorbehalt|reserva (jurídica)||S|ist|C2
+die einstweilige Verfügung|medida cautelar||L|ist|C2
+die Revision (Recht)|recurso de casación||S|ist|C2
+die Erbfolge|sucesión hereditaria||S|ist|C2
+die Vorinstanz|instancia inferior||S|ist|C2
+die Rechtskraft|firmeza judicial||S|ist|C2
+der Fraktionszwang|disciplina de grupo parlamentario||S|ist|C2
+der Rechtsträger|titular del derecho||S|ist|C2
+die Normenhierarchie|jerarquía normativa||S|ist|C2
+der Grundrechtseingriff|limitación de derechos fundamentales||S|ist|C2
+die Sammelklage|demanda colectiva||S|ist|C2
+der Fehlschluss|conclusión errónea, falacia||S|ast|C2
+die Denkschule|corriente de pensamiento||S|ast|C2
+die Wesensart|naturaleza, carácter||S|ast|C2
+der freie Wille|libre albedrío||L|ast|C2
+die Daseinsberechtigung|derecho a existir||S|ast|C2
+der Nihilismus|nihilismo||S|ast|C2
+der Hedonismus|hedonismo||S|ast|C2
+die Aufklärungsphilosophie|filosofía de la Ilustración||S|ast|C2
+der Idealismus (Philosophie)|idealismo||S|ast|C2
+die Tugendlehre|doctrina de la virtud||S|ast|C2
+die Glückseligkeit|felicidad (eudaimonía)||S|ast|C2
+die Geistesströmung|corriente intelectual||S|ast|C2
+die Naturphilosophie|filosofía de la naturaleza||S|ast|C2
+die Immunabwehr|defensa inmunitaria||S|sla|C2
+die Wechselwirkung (Medikament)|interacción (de fármacos)||S|sla|C2
+die Transplantation|trasplante||S|sla|C2
+die Sterblichkeitsrate|mortalidad||S|sla|C2
+die Volkskrankheit|enfermedad común||S|sla|C2
+die Zivilisationskrankheit|enfermedad de la civilización||S|sla|C2
+die Durchblutungsstörung|trastorno circulatorio||S|sla|C2
+die Atemwegserkrankung|enfermedad respiratoria||S|sla|C2
+die Rekonvaleszenz|convalecencia||S|sla|C2
+der Behandlungsplan|plan de tratamiento||S|sla|C2
+die Behandlungskosten|costes del tratamiento||S|sla|C2
+das Börsenparkett|parqué de bolsa||S|fin|C2
+der Aktienindex|índice bursátil||S|fin|C2
+der Kursverlust|caída de la cotización||S|fin|C2
+das Anlagevermögen|activo fijo||S|fin|C2
+das Umlaufvermögen|activo circulante||S|fin|C2
+die Gewinnwarnung|aviso de beneficios||S|fin|C2
+die feindliche Übernahme|opa hostil||L|fin|C2
+die Kartellbehörde|autoridad antimonopolio||S|fin|C2
+die Marktbeherrschung|posición dominante (mercado)||S|fin|C2
+der Wettbewerbsvorteil|ventaja competitiva||S|fin|C2
+die Kostenkalkulation|cálculo de costes||S|fin|C2
+die Lohnkosten|costes laborales||S|fin|C2
+die Lohnnebenkosten|costes salariales indirectos||S|fin|C2
+der Tarifabschluss|convenio colectivo||S|fin|C2
+die Insolvenzmasse|masa concursal||S|fin|C2
+die Schuldnerberatung|asesoramiento de deudores||S|fin|C2
+die Währungsschwankung|fluctuación monetaria||S|fin|C2
+die Devisenreserve|reserva de divisas||S|fin|C2
+der Handlungsbogen|arco argumental||S|let|C2
+der Spannungsaufbau|creación de tensión||S|let|C2
+die Bewusstseinsströmung|corriente de conciencia||S|let|C2
+das Figurenensemble|elenco de personajes||S|let|C2
+der Antiheld|antihéroe||S|let|C2
+der unzuverlässige Erzähler|narrador poco fiable||L|let|C2
+die Schlüsselstelle|pasaje clave||S|let|C2
+das Sprachbild|imagen literaria||S|let|C2
+der Duktus|ductus, estilo||S|let|C2
+die Vieldeutigkeit|polisemia||S|let|C2
+der Trivialroman|novela de consumo||S|let|C2
+die Werkausgabe|edición de la obra||S|let|C2
+die Sprachverwendung|uso lingüístico||S|cmu|C2
+die Ausdrucksfähigkeit|capacidad expresiva||S|cmu|C2
+der Fachwortschatz|léxico especializado||S|cmu|C2
+die Verständigungsschwierigkeit|dificultad de comunicación||S|cmu|C2
+der Beiklang|connotación||S|cmu|C2
+die Wortprägung|acuñación (de un término)||S|cmu|C2
+der Germanismus|germanismo||S|cmu|C2
+der Sprachpurismus|purismo lingüístico||S|cmu|C2
+die Sprachpflege|cuidado de la lengua||S|cmu|C2
+die Sprachgemeinschaft|comunidad lingüística||S|cmu|C2
+die Sprachfamilie|familia lingüística||S|cmu|C2
+der Sprachzweig|rama lingüística||S|cmu|C2
+die Satzgliederung|estructura oracional||S|cmu|C2
+der Satzakzent|acentuación oracional||S|cmu|C2
+die Wortfamilie|familia de palabras||S|cmu|C2
+die Bedeutungsnuance|matiz semántico||S|cmu|C2
+das Diminutiv|diminutivo||S|cmu|C2
+der Zungenbrecher|trabalenguas||S|cmu|C2
+der Bildaufbau|composición de la imagen||S|art|C2
+die Bildwirkung|efecto visual||S|art|C2
+der Farbauftrag|aplicación del color||S|art|C2
+die Farbigkeit|cromatismo||S|art|C2
+der Farbverlauf|degradado||S|art|C2
+die Pinselführung|trazo del pincel||S|art|C2
+die Lasurtechnik|técnica del velado||S|art|C2
+die Rundplastik|escultura exenta||S|art|C2
+der Steinmetz|cantero||S|art|C2
+die Kassettendecke|artesonado||S|art|C2
+der Architrav|arquitrabe||S|art|C2
+das Tympanon|tímpano (frontón)||S|art|C2
+die Vierung|crucero (del templo)||S|art|C2
+das Chorgestühl|sitial del coro||S|art|C2
+die Wandmalerei|pintura mural||S|art|C2
+das Sgraffito|esgrafiado||S|art|C2
+der Wehrgang|paseo de ronda||S|art|C2
+die Tonlage|tesitura||S|mus|C2
+der Tonumfang|ámbito (de una voz)||S|mus|C2
+das Klangbild|paisaje sonoro||S|mus|C2
+das Arpeggio|arpegio||S|mus|C2
+das Glissando|glissando||S|mus|C2
+der Tonartenwechsel|cambio de tonalidad||S|mus|C2
+die Zwölftontechnik|dodecafonismo||S|mus|C2
+die Coda|coda (final de obra)||S|mus|C2
+die Fermate|calderón||S|mus|C2
+der Taktstock|batuta||S|mus|C2
+die Kammermusik|música de cámara||S|mus|C2
+die Tonfolge|sucesión de notas||S|mus|C2
+der Klangteppich|colchón sonoro||S|mus|C2
+die Falsettstimme|voz en falsete||S|mus|C2
+die Detailaufnahme|primerísimo primer plano||S|cin|C2
+der Handlungsort|escenario de la acción||S|cin|C2
+die Kameraarbeit|trabajo de cámara||S|cin|C2
+die Ausleuchtung|iluminación (de escena)||S|cin|C2
+die Dreharbeiten|rodaje||S|cin|C2
+die Originalfassung|versión original||S|cin|C2
+der Kinostart|estreno en cines||S|cin|C2
+das Einspielergebnis|recaudación||S|cin|C2
+die Filmvorführung|proyección||S|cin|C2
+die Filmklappe|claqueta||S|cin|C2
+das Filmplakat|cartel de cine||S|cin|C2
+die Romanverfilmung|adaptación de una novela||S|cin|C2
+die Tragweite|alcance, trascendencia||S|ast|C2
+die Fernwirkung|efecto a largo plazo||S|ast|C2
+die Breitenwirkung|alcance masivo||S|ast|C2
+die Abkehr|abandono (de una idea)||S|ast|C2
+die Hinwendung|aproximación (hacia)||S|ast|C2
+der Umschwung|cambio brusco||S|ast|C2
+die Umgestaltung|reestructuración||S|ast|C2
+die Neugestaltung|rediseño||S|ast|C2
+die Abspaltung|escisión||S|ast|C2
+der Abgrund|abismo||S|ast|C2
+die Urteilsbildung|formación de juicios||S|ast|C2
+die Schlüssigkeit|coherencia lógica||S|ast|C2
+die Stringenz|rigor lógico||S|ast|C2
+die Beweiskraft|fuerza probatoria||S|ast|C2
+besänftigen|calmar (apaciguar)||V|cmu|C2
+schwadronieren|perorar||V|cmu|C2
+faseln|divagar||V|cmu|C2
+rekapitulieren|recapitular||V|cmu|C2
+paraphrasieren|parafrasear||V|cmu|C2
+eruieren|averiguar (con esfuerzo)||V|cmu|C2
+sondieren|sondear||V|cmu|C2
+abhaken|dar por hecho||V|cmu|C2
+abnicken|dar el visto bueno||V|cmu|C2
+absegnen|sancionar, dar el visto bueno||V|cmu|C2
+etwas Ausdruck verleihen|dar expresión a algo||L|cmu|C2
+ins Wort fallen|cortar la palabra a alguien||L|cmu|C2
+jemandem die Worte im Mund umdrehen|tergiversar las palabras||L|cmu|C2
+der Schiedsspruch|laudo||S|ist|C2
+die Erbauseinandersetzung|partición hereditaria||S|ist|C2
+die Anklageschrift|escrito de acusación||S|ist|C2
+der Strafbefehl|orden de condena||S|ist|C2
+der Grundbucheintrag|inscripción registral||S|ist|C2
+die Begnadigung|gracia (indulto)||S|ist|C2
+der Pflichtteilsanspruch|pretensión de legítima||S|ist|C2
+die Amtshaftung|responsabilidad patrimonial del estado||S|ist|C2
+die Ausreiseaufforderung|orden de salida||S|ist|C2
+die Vermögensbeschlagnahme|embargo de bienes||S|ist|C2
+die Kontopfändung|embargo de cuenta||S|ist|C2
+die Zwangsverwaltung|administración judicial||S|ist|C2
+die Zwangsversteigerung|subasta judicial||S|ist|C2
+die Restschuldbefreiung|exoneración del saldo pendiente||S|ist|C2
+die Verbraucherinsolvenz|insolvencia de consumidores||S|ist|C2
+der Pflichtteil|legítima||S|ist|C2
+der Alleinerbe|heredero único||S|ist|C2
+die Schiedsgerichtsklausel|cláusula arbitral||S|ist|C2
+die Schenkungsteuer|impuesto de donaciones||S|ist|C2
+die Unterhaltspflicht|obligación alimenticia||S|ist|C2
+der Sorgerechtsentzug|retirada de la patria potestad||S|ist|C2
+das Umgangsrecht|derecho de visitas||S|ist|C2
+das Nachlassgericht|registro de últimas voluntades||S|ist|C2
+die Amtspflichtverletzung|violación del deber funcional||S|ist|C2
+das Grundbuchamt|registro de la propiedad||S|ist|C2
+die Stimmenthaltung|abstención||S|ist|C2
+die Mandatsniederlegung|renuncia al escaño||S|ist|C2
+der Vermittlungsausschuss|comisión mixta congreso-bundesrat||S|ist|C2
+die Verwaltungsgerichtsbarkeit|jurisdicción contencioso-administrativa||S|ist|C2
+die Grunddienstbarkeit|servidumbre||S|ist|C2
+die Notfallversorgung|atención de urgencia||S|sla|C2
+die Intensivpflege|cuidados intensivos||S|sla|C2
+die Rezeptgebühr|copago de receta||S|sla|C2
+die Reanimation|reanimación||S|sla|C2
+das Wachkoma|estado vegetativo||S|sla|C2
+die Ambulanz|consulta externa||S|sla|C2
+die Ordination|consulta (médica)||S|sla|C2
+der Krankenstand|baja médica||S|sla|C2
+die Diagnostik|procedimiento diagnóstico||S|sla|C2
+die Heilungsaussicht|pronóstico (expectativa)||S|sla|C2
+die Rückfallquote|tasa de recaídas||S|sla|C2
+der Nebenbefund|hallazgo incidental||S|sla|C2
+die Nachsorgeuntersuchung|revisión de seguimiento||S|sla|C2
+der Überweisungsschein|volante de derivación||S|sla|C2
+die Wundinfektion|infección de la herida||S|sla|C2
+die Impfpflicht|obligación de vacunarse||S|sla|C2
+die Kostenbeteiligung|participación en costes sanitarios||S|sla|C2
+der Organspendeausweis|carné de donante||S|sla|C2
+die Vorsorgevollmacht|poder de representación sanitaria||S|sla|C2
+die Knochenmarkspende|donación de médula||S|sla|C2
+die Krankenhausapotheke|farmacia hospitalaria||S|sla|C2
+der Preisverfall|derrumbe de precios||S|fin|C2
+die Kaufkraftverlust|pérdida de poder adquisitivo||S|fin|C2
+die Gewinnmitnahme|realización de beneficios||S|fin|C2
+der Kursrutsch|desplome de cotización||S|fin|C2
+die Marktkapitalisierung|capitalización bursátil||S|fin|C2
+der Anleihenmarkt|mercado de deuda||S|fin|C2
+die Konsumzurückhaltung|contención del consumo||S|fin|C2
+die Umlaufrendite|rentabilidad de la deuda||S|fin|C2
+der Zinsaufschlag|diferencial de interés||S|fin|C2
+die Bonitätseinstufung|calificación crediticia||S|fin|C2
+der Schuldenschnitt|quita de deuda||S|fin|C2
+die Umschuldung|reestructuración de deuda||S|fin|C2
+die Wertberichtigung|corrección valorativa||S|fin|C2
+die Aktionärsversammlung|junta de accionistas||S|fin|C2
+die Kapitalbeteiligung|participación accionarial||S|fin|C2
+die Mehrheitsbeteiligung|participación mayoritaria||S|fin|C2
+die Unternehmensübernahme|adquisición empresarial||S|fin|C2
+die Preistreiberei|especulación con precios||S|fin|C2
+der Wucher|usura||S|fin|C2
+die Teuerungsrate|tasa de encarecimiento||S|fin|C2
+die Epipher|epífora||S|let|C2
+der allwissende Erzähler|narrador omnisciente||L|let|C2
+die Spannungskurve|curva de tensión||S|let|C2
+der Handlungsverlauf|discurrir de la trama||S|let|C2
+die Aposiopese|aposiopesia||S|let|C2
+das Sittenbild|cuadro de costumbres||S|let|C2
+die Rezeptionsgeschichte|historia de la recepción||S|let|C2
+die Motivgeschichte|historia de los motivos||S|let|C2
+die Katachrese|catacresis||S|let|C2
+der Hendiadyoin|hendiadys||S|let|C2
+die Antonomasie|antonomasia||S|let|C2
+das Hyperbaton|hipérbaton||S|let|C2
+der Pleonasmus|pleonasmo||S|let|C2
+der Akrostichon|acróstico||S|let|C2
+der Alexandriner|alejandrino (verso)||S|let|C2
+die Formulierungskunst|arte de la formulación||S|let|C2
+kredenzen|servir (con ceremonia)||V|ris|C2
+bewirten|atender a los invitados||V|ris|C2
+verköstigen|agasajar (dar de comer)||V|ris|C2
+aufwarten (mit)|sorprender con||V|ris|C2
+auftrumpfen|soltar un as||V|cmu|C2
+posaunen|pregonar a los cuatro vientos||V|cmu|C2
+kundtun|manifestar (anunciar)||V|cmu|C2
+erquicken|recrear (refrescar)||V|ast|C2
+ersuchen|solicitar (formalmente)||V|ist|C2
+erheitern|alegrar (animar)||V|cmu|C2
+einflößen|infundir||V|cmu|C2
+abringen|arrancar (a la fuerza)||V|cmu|C2
+abgewinnen|sacar (con esfuerzo)||V|cmu|C2
+entwenden|sustraer (hurtar)||V|ist|C2

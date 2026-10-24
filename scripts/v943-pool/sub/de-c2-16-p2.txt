@@ -1,0 +1,260 @@
+die Übersetzungstheorie|teoría de la traducción||S|let|C2
+die Übersetzbarkeit|traducibilidad||S|let|C2
+das Dolmetschen|interpretación (traducción oral)||S|let|C2
+das Konferenzdolmetschen|interpretación de conferencias||S|let|C2
+die Ausgangssprache|lengua de partida||S|let|C2
+die Zielsprache|lengua de llegada||S|let|C2
+der Ausgangstext|texto de partida||S|let|C2
+der Zieltext|texto de llegada||S|let|C2
+die Äquivalenz|equivalencia||S|let|C2
+die Adäquatheit|adecuación||S|let|C2
+die Vermittlung|mediación lingüística||S|let|C2
+die Werktreue|fidelidad a la obra||S|let|C2
+die Wörtlichkeit|literalidad||S|let|C2
+die Bearbeitung|adaptación de un texto||S|let|C2
+die Nachschöpfung|traducción poética recreada||S|let|C2
+der Kulturtransfer|transferencia cultural||S|let|C2
+der Interferenzfehler|error por interferencia||S|let|C2
+die Fußnote|nota a pie de página||S|let|C2
+die Randnotiz|nota marginal||S|let|C2
+die Quellenangabe|referencia de la fuente||S|let|C2
+die Idiomatik|fraseología idiomática||S|let|C2
+die Kollokation|colocación léxica||S|let|C2
+simultan|simultáneo||A|let|C2
+die Terminologie|terminología||S|let|C2
+der Fachbegriff|término especializado||S|let|C2
+die Kompensation|compensación traductológica||S|let|C2
+die Konnotation|connotación||S|let|C2
+die Auslegung|exégesis||S|let|C2
+die Stilebene|registro estilístico||S|let|C2
+das Wortspiel|juego de palabras||S|let|C2
+die Wendung|giro idiomático||S|let|C2
+der Bedeutungswandel|cambio semántico||S|let|C2
+die Translatologie|traductología||S|let|C2
+der Essay|ensayo||S|let|C2
+der Essayist|ensayista||S|pro|C2
+die Kulturkritik|crítica de la cultura||S|let|C2
+das Pamphlet|panfleto||S|let|C2
+der Traktat|tratado doctrinal||S|let|C2
+die Streitschrift|escrito polémico||S|let|C2
+die Streitfrage|cuestión debatida||S|ast|C2
+die Disputation|disputa académica||S|stu|C2
+die Epistemologie|epistemología||S|ast|C2
+die Weltanschauung|concepción del mundo||S|ast|C2
+die Anschauung|convicción||S|ast|C2
+die Geistesgeschichte|historia del espíritu||S|ast|C2
+die Humanwissenschaft|ciencias humanas||S|ast|C2
+die Ideengeschichte|historia de las ideas||S|ast|C2
+der Diskurs|discurso racional||S|ast|C2
+der Intellektuelle|el intelectual||S|pro|C2
+die Sinnsuche|búsqueda de sentido||S|ast|C2
+die Lektüre|lectura interpretativa||S|let|C2
+die Textauslegung|interpretación de textos||S|let|C2
+das Urteilsvermögen|capacidad de juicio||S|ast|C2
+die Abwägung|ponderación||S|ast|C2
+abwägen|ponderar||V|ast|C2
+der Denkanstoß|acicate reflexivo||S|ast|C2
+das Bekenntnis|profesión de fe||S|let|C2
+die Gedankenfreiheit|libertad de pensamiento||S|ast|C2
+die Selbstreflexion|autorreflexión||S|ast|C2
+die Belesenheit|erudición lectora||S|ast|C2
+der Gelehrte|erudito||S|pro|C2
+die Zeitdiagnose|diagnóstico de época||S|ast|C2
+der Zeitgeist|espíritu de la época||S|ast|C2
+die Wertvorstellung|escala de valores||S|ast|C2
+wertfrei|exento de valoraciones||A|ast|C2
+die Kontemplation|contemplación||S|ast|C2
+die Utopie|utopía||S|let|C2
+die Dystopie|distopía||S|let|C2
+der Zukunftsroman|novela de anticipación||S|let|C2
+die Zukunftsangst|miedo al futuro||S|emo|C2
+die Zeitreise|viaje en el tiempo||S|let|C2
+das Paralleluniversum|universo paralelo||S|sci|C2
+der Untergang|hundimiento final||S|let|C2
+die Apokalypse|apocalipsis||S|let|C2
+apokalyptisch|apocalíptico||A|let|C2
+die Endzeit|fin de los tiempos||S|let|C2
+das Schreckensszenario|escenario catastrófico||S|let|C2
+die Vernichtung|aniquilación||S|let|C2
+der Überlebende|superviviente||S|let|C2
+das Überleben|supervivencia||S|let|C2
+der Fortschrittsglaube|fe en el progreso||S|ast|C2
+die Gleichschaltung|uniformización totalitaria||S|ist|C2
+der Überwachungsstaat|Estado de vigilancia||S|ist|C2
+totalitär|totalitario||A|ist|C2
+die Entrechtung|privación de derechos||S|ist|C2
+die Gehirnwäsche|lavado de cerebro||S|let|C2
+der Klon|clon||S|sci|C2
+klonen|clonar||V|sci|C2
+die Gentechnologie|ingeniería genética||S|sci|C2
+die Genschere|edición genómica||S|sci|C2
+die Robotik|robótica||S|sci|C2
+der Androide|androide||S|sci|C2
+die Raumfahrt|astronáutica||S|sci|C2
+die künstliche Intelligenz|inteligencia artificial||L|tec|C2
+die Kinderlosigkeit|infertilidad||S|sla|C2
+die Mahnung|advertencia solemne||S|let|C2
+die Menschheit|la humanidad||S|ast|C2
+die Verschwörung|conspiración||S|let|C2
+die Unheimlichkeit|lo siniestro||S|let|C2
+die Komparatistik|literatura comparada||S|let|C2
+der Literaturkanon|canon literario||S|let|C2
+kanonisch|canónico||A|let|C2
+das Meisterwerk|obra maestra||S|let|C2
+das Spätwerk|obra de madurez||S|let|C2
+das Opus magnum|obra cumbre||L|let|C2
+die Weltliteratur|literatura universal||S|let|C2
+die Literaturwissenschaft|ciencia literaria||S|let|C2
+die Textverflechtung|entretejido textual||S|let|C2
+der Zirkel|círculo literario||S|let|C2
+die Epoche|época literaria||S|let|C2
+die Epochenschwelle|umbral epocal||S|let|C2
+die Avantgarde|vanguardia||S|art|C2
+der Klassiker|clásico||S|let|C2
+die Klassik|clasicismo||S|let|C2
+die Textsorte|clase de texto||S|let|C2
+die Gattungspoetik|poética de los géneros||S|let|C2
+die Epik|épica||S|let|C2
+das Heldenepos|cantar de gesta||S|let|C2
+die Lyrik|lírica||S|let|C2
+die Prosa|prosa||S|let|C2
+der Erzähler|narrador||S|let|C2
+die Erzählweise|modo narrativo||S|let|C2
+der Stoff|materia literaria||S|let|C2
+die Stoffgeschichte|historia de los temas||S|let|C2
+das Dauermotiv|motivo recurrente||S|let|C2
+die Motivwanderung|migración de motivos||S|let|C2
+mythologisch|mitológico||A|let|C2
+die Wechselbeziehung|interrelación||S|ast|C2
+der Kulturkontakt|contacto entre culturas||S|let|C2
+die Rezeptionstheorie|teoría de la recepción||S|let|C2
+die Überschneidung|solapamiento||S|ast|C2
+die Poetologie|poetología||S|let|C2
+die Demoskopie|demoscopia||S|sci|C2
+die Meinungsumfrage|sondeo de opinión||S|att|C2
+die Volksbefragung|consulta popular||S|ist|C2
+das Referendum|referéndum||S|ist|C2
+die Wahlprognose|pronóstico electoral||S|att|C2
+die Wahlbeteiligung|participación electoral||S|att|C2
+die Extrapolation|extrapolación de resultados||S|sci|C2
+die Zufallsziehung|muestreo aleatorio||S|sci|C2
+die absolute Mehrheit|mayoría absoluta||L|ist|C2
+die Population|población estadística||S|sci|C2
+die Repräsentativität|representatividad||S|sci|C2
+die Messungenauigkeit|imprecisión de medición||S|sci|C2
+die Fehlermarge|margen de error||S|sci|C2
+die Zustimmungsquote|porcentaje de aprobación||S|att|C2
+das Stimmungsbarometer|barómetro de la opinión||S|att|C2
+die Stimmungslage|clima de opinión||S|att|C2
+die Schweigespirale|espiral del silencio||S|att|C2
+der Sympathiewert|índice de popularidad||S|att|C2
+das Antwortverhalten|patrón de respuesta||S|sci|C2
+die Paneluntersuchung|estudio de panel||S|sci|C2
+der Fragebogen|cuestionario||S|sci|C2
+die Öffentlichkeit|esfera pública||S|att|C2
+die Beachtung|atención recibida||S|cmu|C2
+die Momentaufnahme|instantánea de la opinión||S|att|C2
+das Umfrageinstitut|instituto demoscópico||S|sci|C2
+der Befragte|encuestado||S|pro|C2
+mehrheitsfähig|con capacidad de reunir mayorías||A|att|C2
+der Stimmenanteil|porcentaje de votos||S|att|C2
+die Stimmabgabe|emisión del voto||S|ist|C2
+die Auszählung|recuento||S|sci|C2
+die Grundtendenz|tendencia general||S|ast|C2
+die Quotierung|ponderación por cuotas||S|sci|C2
+die Friedenssicherung|mantenimiento de la paz||S|ist|C2
+der Friedensprozess|proceso de paz||S|ist|C2
+der Waffenstillstand|alto el fuego||S|ist|C2
+die Waffenruhe|tregua||S|ist|C2
+die Konfliktbewältigung|resolución de conflictos||S|ist|C2
+die Konfliktprävention|prevención de conflictos||S|ist|C2
+der Krisenherd|foco de crisis||S|ist|C2
+die Kriegspartei|parte beligerante||S|ist|C2
+der Kriegsverbrecher|criminal de guerra||S|ist|C2
+die Feuerpause|pausa en los combates||S|ist|C2
+die Eskalation|escalada||S|ist|C2
+eskalieren|escalar agravándose||V|ist|C2
+entschärfen|desactivar una situación||V|ist|C2
+die Pufferzone|zona tampón||S|ist|C2
+der Blauhelm|casco azul||S|ist|C2
+die Geiselhaft|cautiverio||S|ist|C2
+die Verhandlungsbereitschaft|disposición a negociar||S|ist|C2
+die Beilegung|resolución de una controversia||S|ist|C2
+der Sicherheitsrat|Consejo de Seguridad||S|ist|C2
+die Sicherheitspolitik|política de seguridad||S|ist|C2
+die Abrüstung|desarme||S|ist|C2
+die Rüstungskontrolle|control de armamentos||S|ist|C2
+die Bündnistreue|lealtad de alianza||S|ist|C2
+der Ausnahmezustand|estado de excepción||S|ist|C2
+die Zivilbevölkerung|población civil||S|ist|C2
+der humanitäre Korridor|corredor humanitario||L|ist|C2
+der Wiederaufbau|reconstrucción||S|ist|C2
+die Versöhnung|reconciliación||S|ist|C2
+die Vergangenheitsbewältigung|superación del pasado||S|ast|C2
+der Gewaltverzicht|renuncia a la violencia||S|ist|C2
+der Widerstandskämpfer|combatiente de la resistencia||S|ist|C2
+die Eindämmung|contención||S|sci|C2
+die Supranationalität|supranacionalidad||S|ist|C2
+supranational|supranacional||A|ist|C2
+das Völkerrecht|derecho internacional público||S|ist|C2
+völkerrechtlich|de derecho internacional||A|ist|C2
+der Zusammenschluss|agrupación de Estados||S|ist|C2
+der Binnenmarkt|mercado interior||S|fin|C2
+die Zollunion|unión aduanera||S|fin|C2
+das Assoziierungsabkommen|acuerdo de asociación||S|ist|C2
+die Beitrittsverhandlungen|negociaciones de adhesión||S|ist|C2
+der Beitritt|adhesión||S|ist|C2
+die Erweiterungsrunde|ronda de ampliación||S|ist|C2
+die Subsidiarität|subsidiariedad||S|ist|C2
+das Subsidiaritätsprinzip|principio de subsidiariedad||S|ist|C2
+die Einstimmigkeit|unanimidad||S|ist|C2
+das Vetorecht|derecho de veto||S|ist|C2
+die Grundrechtecharta|carta de derechos fundamentales||S|ist|C2
+die Rechtsstaatlichkeit|Estado de derecho||S|ist|C2
+die Sonderorganisation|organismo especializado||S|ist|C2
+die Mitgliedstaaten|Estados miembros||S|ist|C2
+die Entwicklungshilfe|ayuda al desarrollo||S|ist|C2
+die Entwicklungszusammenarbeit|cooperación al desarrollo||S|ist|C2
+der Schuldenerlass|condonación de la deuda||S|fin|C2
+die Vergemeinschaftung|comunitarización||S|ist|C2
+die Kompetenzstreitigkeit|conflicto de competencias||S|ist|C2
+die Souveränitätsabtretung|cesión de soberanía||S|ist|C2
+zwischenstaatlich|intergubernamental||A|ist|C2
+multilateral|multilateral||A|ist|C2
+der Generalsekretär|secretario general||S|pro|C2
+die Präambel|preámbulo||S|ist|C2
+die Ratifizierung|ratificación||S|ist|C2
+ratifizieren|ratificar||V|ist|C2
+die Beschlussfassung|adopción de acuerdos||S|ist|C2
+der Sozialstaat|Estado social||S|ist|C2
+die Sozialpolitik|política social||S|ist|C2
+die Fürsorge|asistencia social||S|ist|C2
+die Fürsorgepflicht|deber de asistencia||S|ist|C2
+die Grundsicherung|prestación básica||S|ist|C2
+die Pflegeversicherung|seguro de dependencia||S|ist|C2
+die Pflegebedürftigkeit|situación de dependencia||S|sla|C2
+das Arbeitslosengeld|prestación por desempleo||S|ist|C2
+das Elterngeld|subsidio parental||S|ist|C2
+die Mietpreisbremse|limitación de los alquileres||S|ist|C2
+die Umverteilung|redistribución||S|fin|C2
+umverteilen|redistribuir||V|fin|C2
+die progressive Besteuerung|fiscalidad progresiva||L|fin|C2
+die Sparpolitik|política de austeridad||S|ist|C2
+die Sparmaßnahme|medida de ajuste||S|ist|C2
+die Bedürftigkeit|estado de necesidad||S|ast|C2
+die Bedarfsgemeinschaft|unidad de convivencia asistencial||S|ist|C2
+die Gesundheitsversorgung|asistencia sanitaria||S|sla|C2
+die Daseinsvorsorge|servicios públicos esenciales||S|ist|C2
+die Erwerbsminderung|incapacidad laboral||S|sla|C2
+der Erwerbstätige|persona ocupada||S|lav|C2
+die Rentenreform|reforma de las pensiones||S|ist|C2
+die Rentenversicherung|seguro de pensiones||S|ist|C2
+die Chancengerechtigkeit|equidad de oportunidades||S|ast|C2
+die Armutsgefährdung|riesgo de pobreza||S|ist|C2
+die Armutsgrenze|umbral de pobreza||S|ist|C2
+die Verwahrlosung|marginación||S|ast|C2
+die Ausgrenzung|exclusión social||S|ast|C2
+die Teilhabe|participación social||S|ast|C2
+teilhaben|participar de||V|ast|C2
+der Generationenvertrag|pacto intergeneracional||S|ist|C2
+die Solidargemeinschaft|comunidad solidaria||S|ast|C2

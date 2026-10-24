@@ -1,0 +1,260 @@
+bungalow|bungaló||S|cas|A2
+cottage|casa de campo||S|cas|A2
+hut|choza||S|cas|A2
+cabin|cabaña||S|cas|A2
+detached house|casa unifamiliar||S|cas|A2
+semi-detached|casa adosada||S|cas|A2
+terraced house|casa en fila||S|cas|A2
+block of flats|bloque de pisos||S|cas|A2
+high-rise|edificio alto||S|cas|A2
+skyscraper|rascacielos||S|cas|A2
+housing estate|urbanización||S|cas|A2
+penthouse|ático||S|cas|A2
+top floor|última planta||S|cas|A2
+ground floor|planta baja||S|cas|A2
+first floor|primera planta||S|cas|A2
+attic|ático (bajo cubierta)||S|cas|A2
+basement|sótano||S|cas|A2
+cellar|bodega||S|cas|A2
+elevator|ascensor||S|cas|A2
+staircase|escalera||S|cas|A2
+stairs|escaleras||S|cas|A2
+steps|peldaños||S|cas|A2
+handrail|pasamanos||S|cas|A2
+banister|barandilla||S|cas|A2
+hallway|pasillo de entrada||S|cas|A2
+landing|descansillo||S|cas|A2
+fence|valla||S|cas|A2
+gate|verja||S|cas|A2
+hedge|seto||S|cas|A2
+path|sendero||S|cas|A2
+driveway|entrada para coches||S|cas|A2
+backyard|patio trasero||S|cas|A2
+patio|patio||S|cas|A2
+veranda|porche cubierto||S|cas|A2
+shed|caseta||S|cas|A2
+flowerbed|parterre||S|cas|A2
+mow the lawn|cortar el césped||L|cas|A2
+recycling bin|contenedor de reciclaje||S|cas|A2
+bin|cubo de basura||S|cas|A2
+dustbin|cubo de basura (Reino Unido)||S|cas|A2
+wood|leña||S|cas|A2
+logs|troncos||S|cas|A2
+dining room|comedor||S|cas|A2
+bookcase|librería||S|cas|A2
+shelf unit|estantería||S|cas|A2
+chest of drawers|cómoda||S|cas|A2
+hanger|percha||S|cas|A2
+coat rack|perchero||S|cas|A2
+sideboard|aparador||S|cas|A2
+cabinet|vitrina||S|cas|A2
+rug|alfombra pequeña||S|cas|A2
+carpet|alfombra||S|cas|A2
+curtain|cortina||S|cas|A2
+blind|estor||S|cas|A2
+shutter|persiana||S|cas|A2
+windowsill|alféizar||S|cas|A2
+lamp|lámpara||S|cas|A2
+floor lamp|lámpara de pie||S|cas|A2
+ceiling lamp|lámpara de techo||S|cas|A2
+bulb|bombilla||S|cas|A2
+light switch|interruptor de luz||S|cas|A2
+switch|interruptor||S|cas|A2
+plug|enchufe||S|cas|A2
+power cut|apagón||S|cas|A2
+boiler|caldera||S|cas|A2
+heating|calefacción||S|cas|A2
+chimney|chimenea||S|cas|A2
+fireplace|hogar encendido||S|cas|A2
+roof|tejado||S|cas|A2
+tile|azulejo||S|cas|A2
+throw|manta de sofá||S|cas|A2
+folding chair|silla plegable||S|cas|A2
+stool|taburete||S|cas|A2
+sofa bed|sofá cama||S|cas|A2
+footstool|escabel||S|cas|A2
+single bed|cama individual||S|cas|A2
+double bed|cama de matrimonio||S|cas|A2
+king size|cama de matrimonio grande||S|cas|A2
+queen size|cama de matrimonio mediana||S|cas|A2
+bunk bed|litera||S|cas|A2
+bed base|base de cama||S|cas|A2
+headboard|cabecero||S|cas|A2
+mat|felpudo||S|cas|A2
+washer|lavadora||S|cas|A2
+washing powder|detergente en polvo||S|cas|A2
+softener|suavizante||S|cas|A2
+detergent|detergente||S|cas|A2
+cloth|trapo||S|cas|A2
+sponge|esponja||S|cas|A2
+peg|pinza de tender||S|cas|A2
+leak|fuga||S|cas|A2
+plunger|desatascador||S|cas|A2
+handyman|manitas||S|cas|A2
+get dressed|vestirse||V|cas|A2
+get undressed|desvestirse||V|cas|A2
+have a wash|asearse||L|cas|A2
+do the dishes|lavar los platos||L|cas|A2
+load the dishwasher|cargar el lavavajillas||L|cas|A2
+empty the bin|sacar la basura||L|cas|A2
+make the bed|hacer la cama||L|cas|A2
+air the room|ventilar la habitación||L|cas|A2
+feed the dog|dar de comer al perro||L|cas|A2
+walk the dog|pasear al perro||L|cas|A2
+do the ironing|planchar la ropa||L|cas|A2
+hang out the washing|tender la ropa||L|cas|A2
+sort the laundry|separar la ropa||L|cas|A2
+whites|ropa blanca||S|cas|A2
+shrink|encoger||V|cas|A2
+fade|desteñir||V|cas|A2
+stain|mancha||S|cas|A2
+remove stains|quitar manchas||L|cas|A2
+sweep the floor|barrer el suelo||L|cas|A2
+mop the floor|fregar el suelo||L|cas|A2
+baking tray|bandeja de horno||S|ali|A2
+bottle opener|abridor de botellas||S|ali|A2
+can opener|abrelatas||S|ali|A2
+carton|brick||S|ali|A2
+colander|escurridor||S|ali|A2
+funnel|embudo||S|ali|A2
+grater|rallador||S|ali|A2
+grill|parrilla||S|ali|A2
+herbs|hierbas||S|ali|A2
+jar|tarro||S|ali|A2
+kitchen roll|papel de cocina||S|ali|A2
+kitchen scale|báscula de cocina||S|ali|A2
+ladle|cucharón||S|ali|A2
+measuring jug|jarra medidora||S|ali|A2
+mixing bowl|cuenco para mezclar||S|ali|A2
+oven mitt|guante de horno||S|ali|A2
+paper towel|toallas de papel||S|ali|A2
+peeler|pelador||S|ali|A2
+raw|crudo||A|ali|A2
+roast|asar||V|ali|A2
+roasting tin|bandeja de asar||S|ali|A2
+rolling pin|rodillo||S|ali|A2
+saucepan|cazo||S|ali|A2
+serve up|servir||V|ali|A2
+spatula|espátula||S|ali|A2
+spice rack|estante de especias||S|ali|A2
+spices|especias||S|ali|A2
+stock|caldo||S|ali|A2
+strainer|colador||S|ali|A2
+tender|tierno||A|ali|A2
+tube|tubo||S|ali|A2
+wok|wok||S|ali|A2
+fold in|incorporar||V|ali|A2
+boil|hervir||V|ali|A2
+dice|cortar en dados||V|ali|A2
+burnt|quemado||A|ali|A2
+handful|puñado||S|ali|A2
+loaf|barra de pan||S|ali|A2
+layer|capa||S|ali|A2
+garnish|adornar||V|ali|A2
+marinate|marinar||V|ali|A2
+melt|derretir||V|ali|A2
+defrost|descongelar||V|ali|A2
+vegetable|verdura||S|ali|A2
+meat|carne||S|ali|A2
+egg|huevo||S|ali|A2
+hamburger|hamburguesa||S|ali|A2
+chips|patatas fritas||S|ali|A2
+fries|papas fritas||S|ali|A2
+seafood|marisco||S|ali|A2
+onion|cebolla||S|ali|A2
+garlic|ajo||S|ali|A2
+carrot|zanahoria||S|ali|A2
+potato|patata||S|ali|A2
+tomato|tomate||S|ali|A2
+lettuce|lechuga||S|ali|A2
+spinach|espinacas||S|ali|A2
+ice|hielo||S|ali|A2
+omelet|tortilla francesa||S|ali|A2
+baby carrier|mochila para bebé||S|fam|A2
+bib|babero||S|fam|A2
+buggy|cochecito||S|fam|A2
+changing table|cambiador||S|fam|A2
+cot|cuna||S|fam|A2
+cradle|moisés||S|fam|A2
+diaper|pañal||S|fam|A2
+dummy|chupete||S|fam|A2
+highchair|trona||S|fam|A2
+moses basket|capazo||S|fam|A2
+nappy|pañal (Reino Unido)||S|fam|A2
+pacifier|chupete (EE. UU.)||S|fam|A2
+playpen|corralito||S|fam|A2
+pram|cochecito de paseo||S|fam|A2
+pushchair|carriola||S|fam|A2
+rattle|sonajero||S|fam|A2
+stroller|carrito de bebé||S|fam|A2
+swaddle|arropar al bebé||V|fam|A2
+teething ring|aro de dentición||S|fam|A2
+toddler bed|cama de niño||S|fam|A2
+wet wipes|toallitas||S|fam|A2
+lullaby|nana||S|fam|A2
+paint|pintura||S|cas|A2
+paintbrush|brocha||S|cas|A2
+roller|rodillo||S|cas|A2
+nail|clavo||S|cas|A2
+nut|tuerca||S|cas|A2
+tape|cinta adhesiva||S|cas|A2
+measuring tape|cinta de medir||S|cas|A2
+level|nivel||S|cas|A2
+batteries|pilas||S|tec|A2
+torch|linterna (Reino Unido)||S|cas|A2
+flashlight|linterna (EE. UU.)||S|cas|A2
+charger|cargador||S|tec|A2
+fairy lights|luces de hadas||S|cas|A2
+spare parts|piezas de repuesto||S|cas|A2
+instructions|instrucciones||S|cas|A2
+manual|manual||S|cas|A2
+warranty|garantía||S|cas|A2
+guarantee|garantía||S|cas|A2
+meter reading|lectura del contador||S|cas|A2
+pouch|bolsita||S|ali|A2
+chunk|trozo||S|ali|A2
+get up late|levantarse tarde||L|tmp|A2
+blood test|análisis de sangre||S|sla|A2
+check-up|revisión médica||S|sla|A2
+waiting list|lista de espera||S|sla|A2
+stitches|puntos (sutura)||S|sla|A2
+needle|aguja||S|sla|A2
+stethoscope|estetoscopio||S|sla|A2
+brooch|broche||S|rop|A2
+getting a discount|conseguir un descuento||E|cmp|A2
+large|grande (talla)||A|cmp|A2
+swing|columpio||S|sve|A2
+slide|tobogán||S|sve|A2
+seesaw|balancín||S|sve|A2
+roundabout|plataforma giratoria||S|sve|A2
+climbing frame|estructura de escalada||S|sve|A2
+monkey bars|barras de trepar||S|sve|A2
+jungle gym|estructura de juegos||S|sve|A2
+sandpit|arenero||S|sve|A2
+playhouse|casita de juegos||S|sve|A2
+treehouse|casa del árbol||S|sve|A2
+den|guarida||S|sve|A2
+sleepover|fiesta de pijamas||S|sve|A2
+ghost story|historia de miedo||S|sve|A2
+hide and seek|escondite||S|sve|A2
+hopscotch|rayuela||S|sve|A2
+jump rope|cuerda de saltar||S|sve|A2
+skipping rope|cuerda para saltar||S|sve|A2
+marbles|canicas||S|sve|A2
+yo-yo|yoyó||S|sve|A2
+hula hoop|arito de cintura||S|sve|A2
+kite flying|volar una cometa||L|sve|A2
+wigwam|tienda indígena||S|sve|A2
+tag|pilla-pilla||S|sve|A2
+jigsaw puzzle|rompecabezas||S|sve|A2
+puzzle|adivinanza||S|sve|A2
+building blocks|bloques de construcción||S|sve|A2
+alphabet blocks|bloques de letras||S|sve|A2
+shape sorter|clasificador de formas||S|sve|A2
+action figure|figura de acción||S|sve|A2
+playset|set de juego||S|sve|A2
+dollhouse|casa de muñecas||S|sve|A2
+dolly|muñequita||S|sve|A2
+annual|anuario||S|sve|A2
+sticker book|libro de pegatinas||S|sve|A2
+coloring book|libro para colorear||S|sve|A2

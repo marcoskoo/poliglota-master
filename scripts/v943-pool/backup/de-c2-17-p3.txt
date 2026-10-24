@@ -1,0 +1,260 @@
+die soziale Schichtung|estratificación social||L|ast|C2
+die Abstiegsspirale|espiral descendente||S|ast|C2
+die Verwurzelung|enraizamiento||S|ast|C2
+die Verstädterung|urbanización||S|ast|C2
+die Schlafstadt|ciudad dormitorio||S|ast|C2
+das Sozialwesen|sistema de bienestar||S|ast|C2
+die Vermögenskluft|brecha patrimonial||S|fin|C2
+die Wohlstandsschere|brecha de prosperidad||S|fin|C2
+der Wohlstandsgefälle|desnivel de prosperidad||S|fin|C2
+die Einwanderungsgesellschaft|sociedad de inmigración||S|ast|C2
+das Rollenverständnis|concepción del propio papel||S|ast|C2
+die Rollenzuschreibung|adjudicación de roles||S|ast|C2
+der Bildungsabschluss|titulación académica||S|stu|C2
+die Bildungsbenachteiligung|desigualdad educativa||S|stu|C2
+die Studieneingangsphase|primera fase universitaria||S|stu|C2
+der Lehrstoff|temario||S|stu|C2
+der Lernzuwachs|progreso de aprendizaje||S|stu|C2
+die Begabtenförderung|fomento de talentos||S|stu|C2
+der Nachhilfeunterricht|clases particulares||S|stu|C2
+die Versetzung|promoción de curso||S|stu|C2
+das Schulversagen|fracaso escolar||S|stu|C2
+die Ausbildungsreife|madurez para la formación||S|stu|C2
+der Ausbildungsbetrieb|empresa de formación||S|stu|C2
+die Ausbildungsvergütung|remuneración de aprendiz||S|stu|C2
+die Habilitationsschrift|tesis de habilitación||S|stu|C2
+der Forschungsaufenthalt|estancia de investigación||S|stu|C2
+das Forschungsstipendium|beca de investigación||S|stu|C2
+die Nachprüfung|examen de recuperación||S|stu|C2
+die Zeugniskonferenz|claustro de calificaciones||S|stu|C2
+das Arbeitszeugnis|carta de recomendación laboral||S|stu|C2
+die Zeugnisanerkennung|homologación de títulos||S|stu|C2
+das Aufbaustudium|estudios de posgrado||S|stu|C2
+der Berichterstatter|corresponsal||S|att|C2
+die Reportage|reportaje||S|att|C2
+die Verlautbarung|comunicado oficial||S|att|C2
+die Eilmeldung|flash (noticia urgente)||S|att|C2
+der Aufmacher|titular de portada||S|att|C2
+die Zwischenüberschrift|ladillo||S|att|C2
+die Auflagenhöhe|tirada||S|att|C2
+die Presselandschaft|panorama de la prensa||S|att|C2
+die Meinungsführerschaft|liderazgo de opinión||S|att|C2
+der Dokumentarfilm|documental||S|cin|C2
+die Talkrunde|tertulia||S|att|C2
+der Werbeblock|bloque de anuncios||S|att|C2
+die Sendezeit|horario de emisión||S|att|C2
+die Programmzeitschrift|revista de programación||S|att|C2
+die Presseschau|repaso de prensa||S|att|C2
+die Küchenbrigade|brigada de cocina||S|ris|C2
+die Weinverkostung|cata de vinos||S|ris|C2
+das Aromaprofil|perfil aromático||S|ris|C2
+der Verschnitt|coupage||S|ris|C2
+der Barriqueausbau|creanza en barrica||S|ris|C2
+die Flaschengärung|fermentación en botella||S|ris|C2
+die Spätlese|vendimia tardía||S|ris|C2
+die Beerenauslese|selección de bayas (podredumbre noble)||S|ris|C2
+der Restzucker|azúcar residual||S|ris|C2
+die Traubenlese|vendimia||S|ris|C2
+der Fassausbau|maduración en barrica||S|ris|C2
+das Gedeck|cubierto||S|ris|C2
+der Zwischengang|plato intermedio||S|ris|C2
+die Beize|adobo (escabeche)||S|ali|C2
+der Geschmacksverstärker|potenciador del sabor||S|ali|C2
+das Konservierungsmittel|conservante||S|ali|C2
+die Lebensmittelhygiene|higiene alimentaria||S|ali|C2
+das Mindesthaltbarkeitsdatum|fecha de caducidad preferente||S|ali|C2
+die Nährwertangabe|información nutricional||S|ali|C2
+der Brennwert|valor energético||S|ali|C2
+die Zubereitungsart|modo de preparación||S|ali|C2
+der Bratensatz|fondo de asado||S|ali|C2
+die Mehlschwitze|roux (sofrito de harina)||S|ali|C2
+das Kräftegleichgewicht|equilibrio de fuerzas||S|sci|C2
+die Massenträgheit|inercia (masa)||S|sci|C2
+die Fallbeschleunigung|aceleración de la gravedad||S|sci|C2
+das Feldlinienbild|diagrama de líneas de campo||S|sci|C2
+der Rundungsfehler|error de redondeo||S|sci|C2
+die Grenzwertbildung|paso al límite||S|sci|C2
+die Reihenentwicklung|desarrollo en serie||S|sci|C2
+die Potenzreihe|serie de potencias||S|sci|C2
+der Summand|sumando||S|sci|C2
+die Teilbarkeit|divisibilidad||S|sci|C2
+die Zahlengerade|recta numérica||S|sci|C2
+der Stellenwert|valor posicional||S|sci|C2
+die Winkelhalbierende|bisectriz||S|sci|C2
+der Höhenschnittpunkt|ortocentro||S|sci|C2
+der Inkreis|incírculo||S|sci|C2
+der Kreisbogen|arco de circunferencia||S|sci|C2
+die Kugelkappe|casquete esférico||S|sci|C2
+der Rotationskörper|cuerpo de revolución||S|sci|C2
+die Vektorrechnung|cálculo vectorial||S|sci|C2
+die Matrizenrechnung|cálculo matricial||S|sci|C2
+der Eigenwert|valor propio||S|sci|C2
+die Wahrscheinlichkeitsverteilung|distribución de probabilidad||S|sci|C2
+der Zufallsversuch|experimento aleatorio||S|sci|C2
+die Versionsverwaltung|control de versiones||S|tec|C2
+die Programmschnittstelle|interfaz de programación||S|tec|C2
+die Laufzeitumgebung|entorno de ejecución||S|tec|C2
+die Speicherverwaltung|gestión de memoria||S|tec|C2
+die Datenhaltung|persistencia de datos||S|tec|C2
+das Datenbankschema|esquema de base de datos||S|tec|C2
+die Abfragesprache|lenguaje de consultas||S|tec|C2
+der Fehlerspeicher|memoria de averías||S|tec|C2
+der Programmabsturz|cuelgue (del programa)||S|tec|C2
+der Hintergrundprozess|proceso en segundo plano||S|tec|C2
+die Nebenläufigkeit|concurrencia||S|tec|C2
+die Rechenlast|carga computacional||S|tec|C2
+der Trainingsdatensatz|conjunto de entrenamiento||S|tec|C2
+die Erklärbarkeit|explicabilidad||S|tec|C2
+die Datenverzerrung|sesgo en los datos||S|tec|C2
+die Datenspur|huella de datos||S|tec|C2
+die Vorratsdatenspeicherung|retención de datos||S|tec|C2
+die Serverfarm|granja de servidores||S|tec|C2
+der Datenverkehr|tráfico de datos||S|tec|C2
+die Netzeinspeisung|vertido a red||S|tec|C2
+das Pumpspeicherkraftwerk|central hidroeléctrica reversible||S|tec|C2
+die Energieausbeute|rendimiento energético||S|tec|C2
+die Energieintensität|intensidad energética||S|tec|C2
+die Energiepreisbremse|tope del precio de la energía||S|tec|C2
+die Wärmewende|transición térmica||S|tec|C2
+die Sanierungspflicht|obligación de rehabilitar||S|tec|C2
+die Wärmebrücke|puente térmico||S|tec|C2
+der Wärmeverlust|pérdida térmica||S|tec|C2
+die Abwärmenutzung|aprovechamiento del calor residual||S|tec|C2
+das Rücknahmesystem|sistema de devolución||S|tec|C2
+die Schredderanlage|planta de trituración||S|tec|C2
+die Hochofenanlage|planta de altos hornos||S|tec|C2
+das Stranggießen|colada continua||S|tec|C2
+die Walzstraße|línea de laminación||S|tec|C2
+das Spritzgussverfahren|moldeo por inyección||S|tec|C2
+die Werkstoffprüfung|ensayo de materiales||S|tec|C2
+die Baumusterprüfung|homologación de tipo||S|tec|C2
+die Zulieferindustrie|industria auxiliar||S|tec|C2
+der Fließverkehr|tráfico fluido||S|tra|C2
+die Pannenhilfe|asistencia en carretera||S|tra|C2
+der Abschleppdienst|servicio de grúa||S|tra|C2
+die Oberleitung|catenaria||S|tra|C2
+der Rangierbahnhof|estación de clasificación||S|tra|C2
+der Containerumschlag|movimiento de contenedores||S|tra|C2
+das Umschlaglager|almacén de tránsito||S|tra|C2
+das Frachtgut|carga (mercancía)||S|tra|C2
+die Teillieferung|entrega parcial||S|tra|C2
+die Vorlaufzeit|plazo de aprovisionamiento||S|tra|C2
+der Schienengüterverkehr|mercancías por ferrocarril||S|tra|C2
+das Frachtflugzeug|avión de carga||S|tra|C2
+die Wareneingangsprüfung|control de recepción||S|tra|C2
+die Binnenwasserstraße|vía navegable interior||S|tra|C2
+die Binnenschifffahrt|navegación interior||S|tra|C2
+flugs|volando, al instante||D|tmp|C2
+beizeiten|con tiempo, temprano||D|tmp|C2
+dereinst|algún día (pasado o futuro)||D|tmp|C2
+einst|en su día||D|tmp|C2
+seit jeher|desde siempre||L|tmp|C2
+nach wie vor|como siempre||L|cnn|C2
+wie auch immer|de cualquier modo||L|cnn|C2
+notgedrungen|por fuerza, a regañadientes||D|ast|C2
+unweigerlich|inevitablemente||D|ast|C2
+keineswegs|de ningún modo||D|cnn|C2
+hierdurch|por este medio||D|cnn|C2
+einstweilig|entretanto||D|tmp|C2
+den Nagel auf den Kopf treffen|dar en el clavo||E|cmu|C2
+etwas auf die lange Bank schieben|ir aplazando algo||E|tmp|C2
+sich auf dünnem Eis bewegen|moverse en terreno resbaladizo||E|ast|C2
+den Teufel an die Wand malen|imaginarse lo peor||E|emo|C2
+die Katze im Sack kaufen|comprar a ciegas||E|fin|C2
+den Ball flachhalten|no cantar victoria||E|spt|C2
+mit an Sicherheit grenzender Wahrscheinlichkeit|con casi total seguridad||E|ast|C2
+jemandem die Stirn bieten|plantar cara a alguien||E|cmu|C2
+auf Augenhöhe|en pie de igualdad||E|ast|C2
+das Kind mit dem Bade ausschütten|tirar al bebé con el agua de la bañera||E|ast|C2
+die Hand ins Feuer legen|poner la mano en el fuego||E|cmu|C2
+jemandem etwas ausreden|quitar algo de la cabeza a alguien||E|cmu|C2
+schwein gehabt|haber tenido suerte||E|cmu|C2
+die Augen zudrücken|hacer la vista gorda||E|cmu|C2
+auf dem Holzweg sein|estar equivocado||E|ast|C2
+jemanden in die Pflicht nehmen|comprometer a alguien||E|ist|C2
+unter Druck setzen|poner bajo presión||E|fin|C2
+die Rechnung ohne den Wirt machen|hacer cuentas sin el hostalero||E|ast|C2
+das Eisen schmieden, solange es heiß ist|hierro caliente hay que batir||E|ast|C2
+alten Wein in neuen Schläuchen|vino viejo en odres nuevos||E|ast|C2
+den Wald vor lauter Bäumen nicht sehen|no ver el bosque por los árboles||E|nat|C2
+vom Regen in die Traufe kommen|salir de Mulas y caer en el fuego||E|nat|C2
+sich verrennen|empeñarse en un error||V|ast|C2
+die Lebensführung|conducción de la vida||S|ast|C2
+die Lebensbewältigung|afrontamiento vital||S|ast|C2
+die Lebensplanung|planificación vital||S|ast|C2
+die Existenzangst|angustia existencial (laboral)||S|ast|C2
+die Reizüberflutung|sobreestímulo||S|ast|C2
+das Ausbrennen|desgaste (burnout)||S|sla|C2
+die Selbstoptimierung|autooptimización||S|ast|C2
+die Sinnkrise|crisis de sentido||S|ast|C2
+die Sinnleere|vacío de sentido||S|ast|C2
+die Torschlusspanik|miedo a quedarse fuera||S|emo|C2
+die Anpassungsleistung|esfuerzo de adaptación||S|ast|C2
+die Verhaltensnorm|norma de conducta||S|ast|C2
+die Anstandsregel|regla de urbanidad||S|cmu|C2
+die Gepflogenheit|usanza||S|cmu|C2
+der Verhaltenskodex|código de conducta||S|ist|C2
+das Kunstwort|palabra artificial||S|cmu|C2
+die Rollenerwartung|expectativa de rol||S|ast|C2
+die Geschlechtergerechtigkeit|equidad de género||S|ast|C2
+die Familienplanung|planificación familiar||S|fam|C2
+die Erziehungsarbeit|labor educativa||S|fam|C2
+die Filmdramaturgie|dramaturgia fílmica||S|cin|C2
+die Stoffentwicklung|desarrollo de material||S|cin|C2
+der Kompars|extra (figurante)||S|cin|C2
+die Milieuschilderung|retrato del ambiente||S|cin|C2
+die Lichtstimmung|atmósfera lumínica||S|cin|C2
+die Farbdramaturgie|dramaturgia cromática||S|cin|C2
+die Schnitttechnik|técnica de montaje||S|cin|C2
+die Überblendung|fundido encadenado||S|cin|C2
+das Filmerbe|patrimonio cinematográfico||S|cin|C2
+die Filmförderung|fomento del cine||S|cin|C2
+die Werkstoffkunde|ciencia de materiales||S|tec|C2
+die Festigkeitslehre|resistencia de materiales||S|tec|C2
+die Fertigungstechnik|tecnología de fabricación||S|tec|C2
+die Zerspanung|mecanizado por arranque de viruta||S|tec|C2
+die Umformtechnik|tecnología de conformado||S|tec|C2
+die Gießerei|fundición||S|tec|C2
+die Schmiede|herrería (forja)||S|tec|C2
+die Drechselbank|torno de madera||S|tec|C2
+die Hobelbank|banco de carpintero||S|tec|C2
+das Stemmeisen|formón||S|tec|C2
+der Lötkolben|soldador de estaño||S|tec|C2
+die Messschraube|micrómetro||S|tec|C2
+die Chargenfertigung|fabricación por lotes||S|tec|C2
+die Einzelfertigung|fabricación unitaria||S|tec|C2
+das Fräswerk|taller de fresado||S|tec|C2
+der Wartungsvertrag|contrato de mantenimiento||S|tec|C2
+die Verschleißerscheinung|síntoma de desgaste||S|tec|C2
+die Gebrauchsdauer|vida útil||S|tec|C2
+der Formenbau|construcción de moldes||S|tec|C2
+die Störanfälligkeit|propensión a averías||S|tec|C2
+die Ladezone|zona de carga||S|tra|C2
+das Ladezeitfenster|ventana de carga||S|tra|C2
+die Telematik|telemática||S|tec|C2
+der Umschlaghafen|puerto de transbordo||S|tra|C2
+der Binnenhafen|puerto interior||S|tra|C2
+die Rangierlokomotive|locomotora de maniobras||S|tra|C2
+die Mobilitätswende|transición de la movilidad||S|tra|C2
+die Lichtzeichenanlage|semáforo (instalación)||S|tra|C2
+versehentlich|por descuido||D|ast|C2
+sonderbarerweise|extrañamente||D|ast|C2
+vorsätzlich|intencionado (doloso)||D|ast|C2
+unbedacht|sin reflexión||D|ast|C2
+übereilt|atropellado||D|ast|C2
+kursorisch|sumario (de pasada)||D|ast|C2
+im Einzelnen|pormenorizadamente||L|ast|C2
+wie aus dem Nichts|como salido de la nada||L|ast|C2
+im Wesentlichen|sustancialmente||L|ast|C2
+nachträglich|a posteriori||D|tmp|C2
+einstweilen|entretanto||D|tmp|C2
+lindern|mitigar||V|sla|C2
+abklingen|remittir (amainar)||V|sla|C2
+abflauen|amainar||V|ast|C2
+ausklingen|desvanecerse (concluir)||V|mus|C2
+verklingen|apagarse (un sonido)||V|mus|C2
+abebben|remitir (la marea)||V|nat|C2
+schmälern|menguar (deslucir)||V|ast|C2
+umschlingen|entrelazar (abrazar)||V|nat|C2
+umgarnen|seducer (tender un lazo)||V|cmu|C2
+bezwingen|dominar (vencer)||V|ast|C2

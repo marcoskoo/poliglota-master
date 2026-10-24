@@ -1,0 +1,258 @@
+die Verwandtschaft|parentesco||S|fam|B1
+der Verwandte|pariente||S|fam|B1
+die Schwiegermutter|suegra||S|fam|B1
+der Schwiegervater|suegro||S|fam|B1
+die Schwägerin|cuñada||S|fam|B1
+der Schwager|cuñado||S|fam|B1
+die Nichte|sobrina||S|fam|B1
+der Neffe|sobrino||S|fam|B1
+die Enkelin|nieta||S|fam|B1
+der Enkel|nieto||S|fam|B1
+der Zwilling|gemelo||S|fam|B1
+der Säugling|lactante||S|fam|B1
+das Kleinkind|niño pequeño||S|fam|B1
+der Jugendliche|adolescente||S|fam|B1
+die Schwangerschaft|embarazo||S|fam|B1
+schwanger|embarazada||A|fam|B1
+die Geburt|parto||S|fam|B1
+zur Welt bringen|dar a luz||L|fam|B1
+die Erziehung|educación||S|fam|B1
+erziehen|educar||V|fam|B1
+die Kinderbetreuung|cuidado infantil||S|fam|B1
+die Kita|guardería||S|fam|B1
+die Patchworkfamilie|familia reconstituida||S|fam|B1
+der Familienstand|estado civil||S|fam|B1
+ledig|soltero||A|fam|B1
+die Scheidung|divorcio||S|fam|B1
+sich scheiden lassen|divorciarse||L|fam|B1
+der Stammbaum|árbol genealógico||S|fam|B1
+die Generation|generación||S|fam|B1
+das Familienmitglied|miembro de la familia||S|fam|B1
+die Beziehung|relación||S|rel|B1
+die Freundschaft|amistad||S|rel|B1
+der Bekannte|conocido||S|rel|B1
+sich verlieben|enamorarse||V|rel|B1
+verliebt|enamorado||A|rel|B1
+die Verlobung|compromiso (de boda)||S|rel|B1
+der Kuss|beso||S|rel|B1
+küssen|besar||V|rel|B1
+der Streit|pelea||S|rel|B1
+sich streiten|pelearse||V|rel|B1
+sich versöhnen|reconciliarse||V|rel|B1
+die Versöhnung|reconciliación||S|rel|B1
+sich vertragen|hacer las paces||V|rel|B1
+die Trennung|separación||S|rel|B1
+sich trennen|separarse||V|rel|B1
+das Vertrauen|confianza||S|rel|B1
+vertrauen|confiar||V|rel|B1
+enttäuschen|decepcionar||V|rel|B1
+die Enttäuschung|decepción||S|rel|B1
+der Neid|envidia||S|rel|B1
+beneiden|envidiar||V|rel|B1
+die Eifersucht|celos||S|rel|B1
+die Zuneigung|cariño||S|rel|B1
+der Kumpel|colega, amigo||S|rel|B1
+der Umgang|trato||S|rel|B1
+die Rücksichtnahme|consideración||S|rel|B1
+Rücksicht nehmen|tener consideración||L|rel|B1
+sich einigen|ponerse de acuerdo||V|rel|B1
+der Kompromiss|punto medio, acuerdo||S|rel|B1
+begleiten|acompañar||V|rel|B1
+das Gefühl|sentimiento||S|emo|B1
+die Stimmung|ánimo, ambiente||S|emo|B1
+die Laune|humor||S|emo|B1
+gut gelaunt|de buen humor||L|emo|B1
+schlecht gelaunt|de mal humor||L|emo|B1
+fröhlich|alegre||A|emo|B1
+sich freuen auf|esperar con ilusión||L|emo|B1
+die Vorfreude|ilusión (previa)||S|emo|B1
+erfreut|complacido||A|emo|B1
+die Zufriedenheit|satisfacción||S|emo|B1
+zufrieden|satisfecho||A|emo|B1
+unzufrieden|insatisfecho||A|emo|B1
+die Sehnsucht|añoranza||S|emo|B1
+das Heimweh|morriña||S|emo|B1
+ängstlich|miedoso||A|emo|B1
+sich fürchten|tener miedo||V|emo|B1
+die Sorge|preocupación||S|emo|B1
+sich Sorgen machen|preocuparse||L|emo|B1
+besorgt|preocupado||A|emo|B1
+verzweifelt|desesperado||A|emo|B1
+die Hoffnung|esperanza||S|emo|B1
+hoffen|esperar (desear)||V|emo|B1
+hoffnungsvoll|esperanzado||A|emo|B1
+der Mut|valor||S|emo|B1
+mutig|valiente||A|emo|B1
+die Überraschung|sorpresa||S|emo|B1
+überrascht|sorprendido||A|emo|B1
+die Verlegenheit|vergüenza (apuro)||S|emo|B1
+sich schämen|avergonzarse||V|emo|B1
+peinlich|vergonzoso||A|emo|B1
+der Ärger|disgusto||S|emo|B1
+ärgerlich|molesto||A|emo|B1
+sich ärgern|disgustarse||V|emo|B1
+die Wut|rabia||S|emo|B1
+wütend|furioso||A|emo|B1
+die Trauer|duelo, tristeza||S|emo|B1
+niedergeschlagen|abatido||A|emo|B1
+die Einsamkeit|soledad||S|emo|B1
+einsam|solitario||A|emo|B1
+das Mitleid|compasión||S|emo|B1
+die Sympathie|simpatía||S|emo|B1
+sympathisch|simpático||A|emo|B1
+unsympathisch|antipático||A|emo|B1
+die Langeweile|aburrimiento||S|emo|B1
+sich langweilen|aburrirse||V|emo|B1
+öde|soso||A|emo|B1
+aufgeregt|nervioso, expectante||A|emo|B1
+beruhigen|tranquilizar||V|emo|B1
+ruhig bleiben|mantener la calma||L|emo|B1
+das Vergnügen|placer||S|emo|B1
+die Körperpflege|higiene personal||S|cor|B1
+die Haut|piel||S|cor|B1
+die Falte|arruga||S|cor|B1
+das Muttermal|lunar||S|cor|B1
+die Sommersprosse|peca||S|cor|B1
+die Strähne|mechón||S|cor|B1
+der Pferdeschwanz|coleta||S|cor|B1
+der Bart|barba||S|cor|B1
+sich rasieren|afeitarse||V|cor|B1
+die Zahnbürste|cepillo de dientes||S|cor|B1
+die Zahnpasta|pasta dental||S|cor|B1
+der Muskel|músculo||S|cor|B1
+der Knochen|hueso||S|cor|B1
+das Gelenk|articulación||S|cor|B1
+die Wirbelsäule|columna vertebral||S|cor|B1
+das Gehirn|cerebro||S|cor|B1
+die Lunge|pulmón||S|cor|B1
+die Leber|hígado||S|cor|B1
+der Darm|intestino||S|cor|B1
+die Blase|vejiga||S|cor|B1
+der Blutdruck|tensión arterial||S|cor|B1
+der Puls|pulso||S|cor|B1
+der Atem|aliento||S|cor|B1
+die Stimme|voz||S|cor|B1
+heiser|ronco||A|cor|B1
+die Waage|báscula||S|cor|B1
+die Wunde|herida||S|cor|B1
+die Prellung|contusión||S|cor|B1
+das Pflaster|tirita||S|cor|B1
+die Krücke|muleta||S|cor|B1
+das Wohlbefinden|bienestar||S|sla|B1
+die Krankheit|enfermedad||S|sla|B1
+das Symptom|síntoma||S|sla|B1
+erkältet|resfriado||A|sla|B1
+der Schnupfen|catarro, moqueo||S|sla|B1
+der Reizhusten|tos irritativa||S|sla|B1
+husten|toser||V|sla|B1
+fiebern|tener fiebre||V|sla|B1
+fiebrig|febril||A|sla|B1
+der Infekt|infección||S|sla|B1
+die Impfung|vacuna||S|sla|B1
+impfen|vacunar||V|sla|B1
+der Impfpass|cartilla de vacunación||S|sla|B1
+die Nebenwirkung|efecto secundario||S|sla|B1
+die Brausetablette|pastilla efervescente||S|sla|B1
+das Zäpfchen|supositorio||S|sla|B1
+die Salbe|pomada||S|sla|B1
+die Dosis|dosis||S|sla|B1
+einnehmen|tomar (un medicamento)||V|sla|B1
+die Verschreibung|receta (médica)||S|sla|B1
+verschreiben|recetar||V|sla|B1
+das Arzneimittel|fármaco||S|sla|B1
+der Hausarzt|médico de cabecera||S|sla|B1
+die Hausärztin|médica de cabecera||S|sla|B1
+der Facharzt|médico especialista||S|sla|B1
+die Sprechstunde|horario de consulta||S|sla|B1
+die Praxis|consultorio||S|sla|B1
+der Notarzt|médico de urgencias||S|sla|B1
+die Notaufnahme|urgencias (hospital)||S|sla|B1
+der Rettungswagen|ambulancia||S|sla|B1
+der Sanitäter|sanitario||S|sla|B1
+die Klinik|clínica||S|sla|B1
+die Station|planta (hospital)||S|sla|B1
+die Visite|visita médica (planta)||S|sla|B1
+die Untersuchung|exploración||S|sla|B1
+untersuchen|examinar||V|sla|B1
+die Diagnose|diagnóstico||S|sla|B1
+die Blutabnahme|extracción de sangre||S|sla|B1
+das Wartezimmer|sala de espera||S|sla|B1
+die Wartezeit|tiempo de espera||S|sla|B1
+der Arztbesuch|visita al médico||S|sla|B1
+das Attest|justificante médico||S|sla|B1
+die Krankschreibung|baja por enfermedad||S|sla|B1
+krank schreiben|dar la baja médica||L|sla|B1
+genesen|reponerse||V|sla|B1
+sich erholen|recuperarse||V|sla|B1
+die Erholung|reposo, recuperación||S|sla|B1
+die Krankenversicherung|seguro médico||S|sla|B1
+die Krankenkasse|seguro público de salud||S|sla|B1
+die Zuzahlung|copago||S|sla|B1
+der Notdienst|servicio de guardia||S|sla|B1
+die Apothekerin|farmacéutica||S|sla|B1
+die Allergie|alergia||S|sla|B1
+allergisch|alérgico||A|sla|B1
+der Notruf|número de emergencia||S|sla|B1
+das Kleidungsstück|prenda de vestir||S|rop|B1
+die Strickjacke|chaqueta de punto||S|rop|B1
+der Strickpullover|jersey de lana||S|rop|B1
+die Seidenbluse|blusa de seda||S|rop|B1
+die Shorts|pantalón corto||S|rop|B1
+der Minirock|minifalda||S|rop|B1
+das Abendkleid|vestido de noche||S|rop|B1
+die Latzhose|pantalón con peto||S|rop|B1
+die Fliege|pajarita||S|rop|B1
+das Sakko|chaqueta de traje||S|rop|B1
+die Weste|chaleco||S|rop|B1
+die Winterjacke|abrigo de invierno||S|rop|B1
+die Regenjacke|chubasquero||S|rop|B1
+die Daunenjacke|plumífero||S|rop|B1
+das Halstuch|pañuelo al cuello||S|rop|B1
+die Schirmmütze|gorra con visera||S|rop|B1
+der Fäustling|manopla||S|rop|B1
+der Gürtel|cinturón||S|rop|B1
+die Strümpfe|medias||S|rop|B1
+die Strumpfhose|leotardos||S|rop|B1
+der Schlafanzug|pijama||S|rop|B1
+der Bademantel|albornoz||S|rop|B1
+die Badehose|bañador (hombre)||S|rop|B1
+der Badeanzug|bañador (mujer)||S|rop|B1
+die Sportkleidung|ropa deportiva||S|rop|B1
+die Gummistiefel|botas de agua||S|rop|B1
+der Hausschuh|zapatilla de casa||S|rop|B1
+der Reißverschluss|cremallera||S|rop|B1
+der Knopf|botón||S|rop|B1
+der Fleck|mancha||S|rop|B1
+Wie bitte?|¿cómo dice?||E|sal|B1
+Herzlichen Dank|muchísimas gracias||L|sal|B1
+Alles klar?|¿todo bien?||E|sal|B1
+Mach's gut|cuídate||E|sal|B1
+Grüß Gott|buenos días (sur de Alemania)||L|sal|B1
+Servus|hola y adiós (Austria)||I|sal|B1
+der Beruf|profesión||S|pro|B1
+der Handwerker|artesano||S|pro|B1
+der Elektriker|electricista||S|pro|B1
+der Klempner|fontanero||S|pro|B1
+der Tischler|carpintero||S|pro|B1
+der Maurer|albañil||S|pro|B1
+der Dachdecker|tejador||S|pro|B1
+der Maler|pintor||S|pro|B1
+der Metzger|carnicero||S|pro|B1
+der Bäckermeister|maestro panadero||S|pro|B1
+der Konditor|repostero||S|pro|B1
+der Friseur|peluquero||S|pro|B1
+der Postbote|cartero||S|pro|B1
+der Busfahrer|conductor de autobús||S|pro|B1
+der Lokführer|maquinista||S|pro|B1
+die Pilotin|piloto||S|pro|B1
+der Kapitän|capitán||S|pro|B1
+der Krankenpfleger|enfermero||S|pro|B1
+die Kindergärtnerin|educadora infantil||S|pro|B1
+der Erzieher|educador||S|pro|B1
+der Richter|juez||S|pro|B1
+der Anwalt|abogado||S|pro|B1
+die Anwältin|abogada||S|pro|B1
+das Einzelkind|hijo único||S|fam|B1
+die Begeisterung|entusiasmo||S|emo|B1
+die Krankenakte|historial médico||S|sla|B1
+die Floristin|florista||S|pro|B1

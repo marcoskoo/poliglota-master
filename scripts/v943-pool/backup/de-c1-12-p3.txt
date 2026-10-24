@@ -1,0 +1,258 @@
+die Psychotherapie|psicoterapia||S|sla|C1
+der Psychotherapeut|psicoterapeuta||S|pro|C1
+die Verhaltenstherapie|terapia de conducta||S|sla|C1
+die Zuweisung|derivación, remisión||S|sla|C1
+die Traumaverarbeitung|elaboración del trauma||S|sla|C1
+die Zwangsstörung|trastorno obsesivo-compulsivo||S|sla|C1
+die Angsterkrankung|trastorno de ansiedad||S|sla|C1
+die Panikstörung|trastorno de pánico||S|sla|C1
+die Remission|remisión (mejoría clínica)||S|sla|C1
+die Rückfallprophylaxe|prevención de recaídas||S|sla|C1
+die Abstinenz|abstinencia||S|sla|C1
+der Entzug|desintoxicación, síndrome abstinencial||S|sla|C1
+die Selbsterfahrung|autoconocimiento (grupal)||S|sla|C1
+die Selbstfürsorge|autocuidado||S|sla|C1
+die Abgrenzung|puesta de límites, desvinculación||S|sla|C1
+die Belastungsstörung|trastorno por estrés||S|sla|C1
+die Bewältigung|afrontamiento, superación||S|sla|C1
+die Bewältigungsstrategie|estrategia de afrontamiento||S|sla|C1
+die Hypochondrie|hipocondría||S|sla|C1
+der Seelenfrieden|paz interior||S|sla|C1
+das Stimmungstief|bajón anímico||S|sla|C1
+die Dissoziation|disociación||S|sla|C1
+die Suizidalität|ideación suicida||S|sla|C1
+die Empathiefähigkeit|capacidad empática||S|sci|C1
+die Feinfühligkeit|sensibilidad empática||S|sci|C1
+die Validierung|validación (terapéutica)||S|sla|C1
+die Deeskalation|desescalada||S|cmu|C1
+die Krisenintervention|intervención en crisis||S|sla|C1
+die Selbsthilfegruppe|grupo de autoayuda||S|sla|C1
+die Verdrängung|represión (psicoanalítica)||S|sla|C1
+das Vermeidungsverhalten|conducta de evitación||S|sci|C1
+das Laster|vicio, tara moral||S|ast|C1
+die Völlerei|gula, exceso||S|ast|C1
+knausrig|tacano, ruin||A|ast|C1
+die Missgunst|envidia, mala voluntad||S|ast|C1
+der Hochmut|soberbia, orgullo||S|ast|C1
+die Selbstgefälligkeit|autocomplacencia||S|ast|C1
+die Selbstsucht|egoísmo||S|ast|C1
+der Eigennutz|interés propio||S|fin|C1
+der Eigensinn|terquedad, empeño caprichoso||S|ast|C1
+die Rachsucht|sed de venganza||S|ast|C1
+die Vergeltung|venganza, represalia||S|ast|C1
+der Groll|rencor, resentimiento||S|emo|C1
+verstockt|obstinado, empedernido||A|ast|C1
+die Verschlagenheit|astucia maligna||S|ast|C1
+die Hinterlist|artera, malicia||S|ast|C1
+die Niedertracht|ruindad, villanía||S|ast|C1
+die Verlässlichkeit|fiabilidad, seriedad||S|ast|C1
+die Redlichkeit|honradez, probidad||S|ast|C1
+die Biederkeit|sosería, candidez||S|ast|C1
+die Großmut|magnanimidad||S|ast|C1
+die Unerschrockenheit|intrepidez, arrojo||S|ast|C1
+die Duldsamkeit|tolerancia, condescendencia||S|ast|C1
+die Langmut|longanimidad, paciencia benévola||S|ast|C1
+die Genügsamkeit|frugalidad, conformidad austera||S|ast|C1
+die Verschwiegenheit|discreción, saber callar||S|cmu|C1
+das Pflichtgefühl|sentido del deber||S|ast|C1
+die Zivilcourage|coraje cívico||S|ast|C1
+die Mäßigung|moderación, templanza||S|ast|C1
+die Zügellosigkeit|desenfreno||S|ast|C1
+die Wollust|lujuria, deleite carnal||S|ast|C1
+die Habsucht|codicia, ansia de poseer||S|ast|C1
+die Unverschämtheit|descaro, desvergüenza||S|ast|C1
+die Anmaßung|presunción, arrogancia||S|ast|C1
+die Überheblichkeit|altivez, engreimiento||S|ast|C1
+das Startup|empresa emergente de base tecnológica||S|fin|C1
+die Gründung|fundación, constitución de empresa||S|fin|C1
+der Gründer|fundador, emprendedor||S|pro|C1
+die Finanzierungsrunde|ronda de financiación||S|fin|C1
+die Kapitalaufnahme|captación de capital||S|fin|C1
+die Eigenkapitalquote|ratio de capital propio||S|fin|C1
+die Risikobereitschaft|disposición al riesgo||S|fin|C1
+die Skalierung|escalado del negocio||S|fin|C1
+die Marktdurchdringung|penetración de mercado||S|fin|C1
+die Kundengewinnung|captación de clientes||S|fin|C1
+die Kundenbindung|fidelización de clientes||S|fin|C1
+die Abwanderung|fuga de clientes, éxodo||S|fin|C1
+die Umsatzrendite|rentabilidad sobre ventas||S|fin|C1
+die Gewinnschwelle|umbral de rentabilidad||S|fin|C1
+die Wettbewerbsfähigkeit|competitividad||S|fin|C1
+das Alleinstellungsmerkmal|propuesta de valor única||S|fin|C1
+die Pionierrolle|papel pionero||S|fin|C1
+die Marktreife|madurez de mercado||S|tec|C1
+die Serienreife|disposición para la producción en serie||S|tec|C1
+das Scheitern|fracaso empresarial||S|fin|C1
+die Insolvenz|insolvencia, quiebra||S|fin|C1
+der Insolvenzverwalter|administrador concursal||S|pro|C1
+sanieren|sanear, reestructurar||V|fin|C1
+die Sanierung|saneamiento, reestructuración||S|fin|C1
+die Beteiligung|participación en el capital||S|fin|C1
+der Börsengang|salida a bolsa||S|fin|C1
+die Unternehmensbewertung|valoración de empresa||S|fin|C1
+die Mitarbeiterbeteiligung|participación de los empleados||S|fin|C1
+der Kostendruck|presión de costes||S|fin|C1
+der Mittelstand|tejido pyme||S|fin|C1
+das Familienunternehmen|empresa familiar||S|fin|C1
+die Nachfolgeregelung|plan de sucesión||S|fin|C1
+die Lieferkette|cadena de suministro||S|tec|C1
+die Beschaffung|aprovisionamiento||S|lav|C1
+der Wareneingang|entrada de mercancías||S|tec|C1
+der Warenausgang|salida de mercancías||S|tec|C1
+die Lagerhaltung|gestión de almacén||S|tec|C1
+der Lagerbestand|existencias de almacén||S|tec|C1
+der Lieferschein|albarán||S|tec|C1
+der Lieferengpass|cuello de botella de suministro||S|tec|C1
+die Disposition|planificación logística||S|lav|C1
+der Disponent|planificador de expediciones||S|pro|C1
+die Frachtkosten|costes de flete||S|fin|C1
+der Frachtbrief|carta de porte||S|tec|C1
+die Sendungsverfolgung|seguimiento de envíos||S|tec|C1
+der Spediteur|transportista, agente de carga||S|pro|C1
+die Spedition|empresa de transporte y aduanas||S|lav|C1
+verzollen|despachar de aduanas||V|ist|C1
+die Zollabfertigung|despacho de aduanas||S|ist|C1
+der Umschlagplatz|plataforma logística, punto de trasbordo||S|tec|C1
+die Kommissionierung|preparación de pedidos||S|tec|C1
+der Gabelstapler|carretilla elevadora||S|tec|C1
+die Havarie|avería, siniestro||S|tec|C1
+die Auslastung|aprovechamiento de capacidad||S|tec|C1
+die Leerfahrt|trayecto en vacío||S|tra|C1
+der Nachschub|reposición, avituallamiento||S|tec|C1
+die Einzelanfertigung|fabricación a medida||S|tec|C1
+die Serienproduktion|producción en serie||S|tec|C1
+die Montagelinie|línea de montaje||S|tec|C1
+die Fertigungstiefe|profundidad de fabricación||S|tec|C1
+der Schichtbetrieb|producción por turnos||S|lav|C1
+die Nachfrageschwankung|oscilación de la demanda||S|fin|C1
+der Sicherheitsbestand|stock de seguridad||S|tec|C1
+die Retoure|devolución de compra a distancia||S|cmp|C1
+die Kaufentscheidung|decisión de compra||S|cmp|C1
+die Kaufbereitschaft|disposición a la compra||S|cmp|C1
+das Konsumverhalten|conducta del consumidor||S|cmp|C1
+das Einkaufsverhalten|pauta de compra||S|cmp|C1
+das Kundenprofil|perfil de cliente||S|cmp|C1
+die Marktforschung|investigación de mercado||S|fin|C1
+die Werbewirkung|eficacia publicitaria||S|fin|C1
+das Markenimage|imagen de marca||S|fin|C1
+die Markentreue|fidelidad a la marca||S|cmp|C1
+die Platzierung|emplazamiento (publicitario)||S|fin|C1
+die Absatzförderung|promoción de ventas||S|fin|C1
+die Absatzstrategie|estrategia de ventas||S|fin|C1
+die Kundenzufriedenheit|satisfacción del cliente||S|cmp|C1
+die Preisgestaltung|política de precios||S|fin|C1
+die Preiselastizität|elasticidad-precio||S|fin|C1
+das Lockangebot|oferta señuelo||S|cmp|C1
+der Impulskauf|compra por impulso||S|cmp|C1
+das Werbeversprechen|promesa publicitaria||S|cmp|C1
+die Zielgruppenansprache|comunicación dirigida al público||S|cmu|C1
+das Konsumgut|bien de consumo||S|fin|C1
+der Konsumrausch|euforia consumista||S|cmp|C1
+die Konsumgesellschaft|sociedad de consumo||S|att|C1
+die Kaufsucht|adicción a la compra||S|sla|C1
+die Segmentierung|segmentación de mercado||S|fin|C1
+das Nutzenversprechen|propuesta de valor||S|fin|C1
+das Beschwerdemanagement|gestión de reclamaciones||S|fin|C1
+der Produktlebenszyklus|ciclo de vida del producto||S|fin|C1
+der Markteintritt|entrada al mercado||S|fin|C1
+die Kauflaune|ánimo de compra||S|cmp|C1
+das Werbebudget|presupuesto publicitario||S|fin|C1
+die Gutscheinaktion|campaña de vales descuento||S|cmp|C1
+der Ladenhüter|artículo que no se vende (se queda en el estante)||S|cmp|C1
+die Normung|normalización||S|tec|C1
+die Zertifizierung|certificación||S|tec|C1
+zertifizieren|certificar||V|tec|C1
+die Konformität|conformidad (con la norma)||S|tec|C1
+konform|conforme a la norma||A|tec|C1
+das Audit|auditoría||S|fin|C1
+auditieren|auditar||V|fin|C1
+die Maßhaltigkeit|ajuste dimensional||S|tec|C1
+die Präzisionsarbeit|trabajo de precisión||S|tec|C1
+die Fehlerquote|tasa de defectos||S|tec|C1
+die Fehlerquelle|fuente de error||S|tec|C1
+die Mängelrüge|reclamación por vicios||S|fin|C1
+die Nachbesserung|subsanación, corrección||S|fin|C1
+die Gewährleistung|garantía legal||S|fin|C1
+die Gebrauchstauglichkeit|aptitud para el uso||S|tec|C1
+die Langlebigkeit|durabilidad, longevidad||S|tec|C1
+der Qualitätsanspruch|exigencia de calidad||S|tec|C1
+die Qualitätskontrolle|control de calidad||S|tec|C1
+das Gütesiegel|sello de calidad||S|tec|C1
+die Schadensanalyse|análisis de fallos||S|tec|C1
+die Ursachenforschung|investigación de causas||S|tec|C1
+die Wartung|mantenimiento rutinario||S|tec|C1
+die Instandhaltung|mantenimiento y conservación||S|tec|C1
+die Überholung|revisión general||S|tec|C1
+die Abnahme|recepción, validación||S|tec|C1
+die Losgröße|tamaño de lote||S|tec|C1
+die Charge|lote de fabricación||S|tec|C1
+die Zulassung|homologación||S|tec|C1
+die Eichung|verificación de pesas y medidas||S|tec|C1
+justieren|ajustar, calar (un instrumento)||V|tec|C1
+der Verschleiß|desgaste||S|tec|C1
+die Klageerhebung|interposición de demanda||S|ist|C1
+die Klageschrift|escrito de demanda||S|ist|C1
+das Plädoyer|alegato final||S|ist|C1
+die Beweislast|carga de la prueba||S|ist|C1
+das Berufungsverfahren|procedimiento en apelación||S|ist|C1
+die Berufung|apelación||S|ist|C1
+die Revision|casación||S|ist|C1
+der Vergleich|transacción judicial, avenencia||S|ist|C1
+der Erlass|decreto, disposición||S|ist|C1
+die Anordnung|orden judicial||S|ist|C1
+die Auflage|condición impuesta, obligación||S|ist|C1
+die Vollstreckung|ejecución de sentencia||S|ist|C1
+das Mandat|encargo profesional||S|ist|C1
+die Rechtsprechung|jurisprudencia||S|ist|C1
+die Rechtslage|situación jurídica||S|ist|C1
+die Gesetzesauslegung|interpretación de la ley||S|ist|C1
+die Sorgfaltspflicht|deber de diligencia||S|ist|C1
+die Haftung|responsabilidad (jurídica)||S|ist|C1
+Versicherung an Eides statt|declaración jurada (fe de juramento)||L|ist|C1
+der Meineid|perjurio||S|ist|C1
+die Verjährung|prescripción||S|ist|C1
+der Verstoß|infracción, contravención||S|ist|C1
+die Ordnungswidrigkeit|falta administrativa||S|ist|C1
+die Unterlassung|omisión debida||S|ist|C1
+der Freispruch|absolución||S|ist|C1
+die Bewährung|condena en suspenso||S|ist|C1
+die Vorstrafe|condena anterior, antecedentes||S|ist|C1
+das Ermittlungsverfahren|diligencias previas||S|ist|C1
+die Beschlagnahme|embargo, incautación||S|ist|C1
+der Durchsuchungsbeschluss|auto de registro||S|ist|C1
+der Bescheid|resolución administrativa||S|ist|C1
+die Rechtsbeugung|prevaricato||S|ist|C1
+die Zustellung|notificación, emplazamiento||S|ist|C1
+der Schadensersatz|indemnización de daños||S|ist|C1
+die Diagnosestellung|establecimiento del diagnóstico||S|sla|C1
+die Anamnese|anamnesis, historia clínica||S|sla|C1
+der Befund|hallazgo clínico||S|sla|C1
+die Verlaufskontrolle|seguimiento evolutivo||S|sla|C1
+die Medikation|medicación||S|sla|C1
+die Dosierung|dosificación||S|sla|C1
+die Verabreichung|administración de un fármaco||S|sla|C1
+das Nebenwirkungsprofil|perfil de efectos adversos||S|sla|C1
+die Wechselwirkung|interacción farmacológica||S|sla|C1
+die Kontraindikation|contraindicación||S|sla|C1
+der Wirkstoff|principio activo||S|sla|C1
+der Heilerfolg|resultado terapéutico||S|sla|C1
+der Krankheitsverlauf|evolución de la enfermedad||S|sla|C1
+die Symptomatik|sintomatología||S|sla|C1
+die Beschwerdefreiheit|ausencia de síntomas||S|sla|C1
+die Prävalenz|prevalencia||S|sci|C1
+die Inzidenz|incidencia||S|sci|C1
+die Letalität|letalidad||S|sci|C1
+der Erreger|agente patógeno||S|sla|C1
+die Resistenzentwicklung|desarrollo de resistencias||S|sla|C1
+die Impfquote|tasa de vacunación||S|sla|C1
+die Wundversorgung|cura de heridas||S|sla|C1
+die Nachsorge|cuidados posteriores||S|sla|C1
+die Vorsorgeuntersuchung|prueba de detección||S|sla|C1
+die Organspende|donación de órganos||S|sla|C1
+die Rehabilitation|rehabilitación||S|sla|C1
+die Verordnung|prescripción, receta||S|sla|C1
+der Laborwert|valor de laboratorio||S|sla|C1
+die Pflegebedürftigkeit|situación de dependencia||S|sla|C1
+die Palliativversorgung|cuidados paliativos||S|sla|C1
+die Schmerzbehandlung|tratamiento del dolor||S|sla|C1
+die Lebensqualität|calidad de vida||S|sla|C1

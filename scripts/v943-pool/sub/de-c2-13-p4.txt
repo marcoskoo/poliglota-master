@@ -1,0 +1,260 @@
+die Epistemologie|epistemología||S|ast|C2
+epistemisch|epistémico||A|ast|C2
+die Erkenntnistheorie|teoría del conocimiento||S|ast|C2
+das Apriori|el a priori||S|ast|C2
+die Anschauung|intuición sensible||S|ast|C2
+der Verstand|entendimiento||S|ast|C2
+die Vernunft|razón||S|ast|C2
+der Szientismus|cientificismo||S|ast|C2
+die Rechtfertigung|justificación epistémica||S|ast|C2
+der Geltungsanspruch|pretensión de validez||S|ast|C2
+die Kohärenz|coherencia||S|ast|C2
+der Empirismus|empirismo||S|ast|C2
+der Rationalismus|racionalismo||S|ast|C2
+der Nominalismus|nominalismo||S|ast|C2
+der Konstruktivismus|constructivismo||S|ast|C2
+der Solipsismus|solipsismo||S|ast|C2
+das Gedankenexperiment|experimento mental||S|ast|C2
+die Qualia|cualia||S|ast|C2
+die Moralphilosophie|filosofía moral||S|ast|C2
+der kategorische Imperativ|imperativo categórico||S|ast|C2
+die Pflichtethik|ética del deber||S|ast|C2
+die Tugendethik|ética de las virtudes||S|ast|C2
+der Konsequentialismus|consecuencialismo||S|ast|C2
+die Verantwortlichkeit|responsabilidad moral||S|ast|C2
+die Abwägung|ponderación de bienes||S|ast|C2
+die Willensfreiheit|libre albedrío||S|ast|C2
+der Determinismus|determinismo||S|ast|C2
+die Intentionalität|intencionalidad||S|ast|C2
+die Aporie|aporía||S|ast|C2
+die Deduktion|deducción||S|ast|C2
+die Induktion|inducción||S|ast|C2
+die Evidenz|evidencia||S|ast|C2
+der Skeptizismus|escepticismo filosófico||S|ast|C2
+der Relativismus|relativismo||S|ast|C2
+das Menschenbild|concepción del ser humano||S|ast|C2
+die Urteilskraft|capacidad de juzgar||S|ast|C2
+die Zumutung|imposición insoportable||S|ast|C2
+das Wahrheitskriterium|criterio de verdad||S|ast|C2
+die Metaphysik|metafísica||S|ast|C2
+das Sein|el ser||S|ast|C2
+die Ontologie|ontología||S|ast|C2
+ontologisch|ontológico||A|ast|C2
+das Dasein|existencia, ser-ahí||S|ast|C2
+die Geworfenheit|arrojamiento, ser lanzado al mundo||S|ast|C2
+die Kontingenz|contingencia||S|ast|C2
+die Zufälligkeit|carácter azaroso||S|ast|C2
+das Nichts|la nada||S|ast|C2
+die Zeitlichkeit|temporalidad||S|ast|C2
+die Transzendenz|trascendencia||S|ast|C2
+die Immanenz|inmanencia||S|ast|C2
+das Attribut|atributo de la sustancia||S|ast|C2
+die Monade|mónada||S|ast|C2
+der Dualismus|dualismo||S|ast|C2
+der Materialismus|materialismo||S|ast|C2
+der Idealismus|idealismo||S|ast|C2
+die Theodizee|teodicea||S|ast|C2
+das Absolute|lo absoluto||S|ast|C2
+der Weltgeist|espíritu del mundo||S|ast|C2
+die Entfremdung|enajenación, alienación||S|ast|C2
+die Verdinglichung|cosificación||S|ast|C2
+Sein zum Tode|ser-para-la-muerte||L|ast|C2
+die Ästhetik|estética||S|art|C2
+die Kunsttheorie|teoría del arte||S|art|C2
+das Erhabene|lo sublime||S|art|C2
+die Anmut|gracia, donaire||S|art|C2
+das Schöne|lo bello||S|art|C2
+die Hässlichkeit|fealdad||S|art|C2
+der Kitsch|kitsch, artificio sentimental||S|art|C2
+die Avantgarde|vanguardia||S|art|C2
+das Gesamtkunstwerk|obra de arte total||S|art|C2
+die Einbildungskraft|imaginación, facultad||S|art|C2
+die Aura|aura||S|art|C2
+die Allegorie|alegoría||S|art|C2
+der Klassizismus|clasicismo||S|art|C2
+die Zweckmäßigkeit|finalidad, adecuación a un fin||S|ast|C2
+die Wesenheit|esencialidad||S|ast|C2
+die Geschichtsschreibung|escritura de la historia||S|ast|C2
+die Historiographie|historiografía||S|ast|C2
+die Quellenkunde|estudio crítico de fuentes||S|ast|C2
+die Primärquelle|fuente primaria||S|ast|C2
+die Sekundärliteratur|bibliografía secundaria||S|ast|C2
+die Epochenschwelle|umbral entre épocas||S|ast|C2
+die Mentalitätsgeschichte|historia de las mentalidades||S|ast|C2
+die Alltagsgeschichte|historia de la vida cotidiana||S|ast|C2
+die Periodisierung|periodización||S|ast|C2
+die Vormoderne|premodernidad||S|ast|C2
+die Zeitrechnung|cómputo cronológico||S|tmp|C2
+der Einschnitt|corte, cesura histórica||S|ast|C2
+die Zeitenwende|cambio de época||S|ast|C2
+der Fortschrittsglaube|fe en el progreso||S|ast|C2
+die Geschichtsphilosophie|filosofía de la historia||S|ast|C2
+der Historismus|historicismo||S|ast|C2
+der Revisionismus|revisionismo||S|ast|C2
+die Vergangenheitsbewältigung|elaboración crítica del pasado||S|ast|C2
+die Erinnerungskultur|cultura de la memoria||S|ast|C2
+die Gedenkstätte|lugar de memoria conmemorativo||S|ast|C2
+die Aufarbeitung|esclarecimiento del pasado||S|ast|C2
+der Zeitzeuge|testigo directo de su época||S|ast|C2
+die Weltordnung|orden mundial||S|ist|C2
+der Imperialismus|imperialismo||S|ast|C2
+der Kolonialismus|colonialismo||S|ast|C2
+die Dekolonisation|descolonización||S|ast|C2
+die Nationsbildung|construcción de la nación||S|ast|C2
+die Aktenkunde|estudio de documentos de archivo||S|ast|C2
+die Handschrift|manuscrito autógrafo||S|let|C2
+der Nekrolog|necrológica||S|let|C2
+die Meistererzählung|gran relato, metarrelato||S|ast|C2
+der Positivismusstreit|polémica del positivismo||S|ast|C2
+der Historikerstreit|disputa de los historiadores||S|ast|C2
+die Weltanschauung|concepción del mundo||S|ast|C2
+der Zeitgeist|espíritu del tiempo||S|ast|C2
+die Urgeschichte|prehistoria, historia primigenia||S|ast|C2
+der Traditionsbruch|ruptura de la tradición||S|ast|C2
+die Sprachwissenschaft|lingüística||S|cmu|C2
+der Sprachwandel|cambio lingüístico||S|cmu|C2
+die Kreolsprache|lengua criolla||S|cmu|C2
+die Diachronie|diacronía||S|cmu|C2
+die Synchronie|sincronía||S|cmu|C2
+das Phonem|fonema||S|cmu|C2
+das Morphem|morfema||S|cmu|C2
+das Lexem|lexema||S|cmu|C2
+das Syntagma|sintagma||S|cmu|C2
+der Kasus|caso gramatical||S|cmu|C2
+die Wortbildung|formación de palabras||S|cmu|C2
+das Wortfeld|campo léxico||S|cmu|C2
+die Kollokation|colocación léxica||S|cmu|C2
+das Korpus|corpus||S|cmu|C2
+die Prosodie|prosodia||S|cmu|C2
+die Etymologie|etimología||S|cmu|C2
+die Entlehnung|préstamo léxico||S|cmu|C2
+die Idiomatik|idiomaticidad||S|cmu|C2
+die Phraseologie|fraseología||S|cmu|C2
+die Onomastik|onomástica||S|cmu|C2
+die Soziolinguistik|sociolingüística||S|cmu|C2
+die Dialektologie|dialektología||S|cmu|C2
+der Soziolekt|sociolecto||S|cmu|C2
+die Lautverschiebung|mutación consonántica||S|cmu|C2
+der Ablaut|apofonía, alternancia vocálica||S|cmu|C2
+die Grammatikalisierung|gramaticalización||S|cmu|C2
+das Homonym|homónimo||S|cmu|C2
+die Polysemie|polisemia||S|cmu|C2
+das Antonym|antónimo||S|cmu|C2
+die Performanz|actuación lingüística||S|cmu|C2
+der Sprechakt|acto de habla||S|cmu|C2
+die Pragmatik|pragmática||S|cmu|C2
+die Deixis|deixis||S|cmu|C2
+die Kohäsion|cohesión textual||S|cmu|C2
+die Philologie|filología||S|cmu|C2
+die Paläographie|paleografía||S|cmu|C2
+das Palimpsest|palimpsesto||S|cmu|C2
+die Psychoanalyse|psicoanálisis||S|sla|C2
+das Unbewusste|el inconsciente||S|sla|C2
+die Verdrängung|represión||S|sla|C2
+die Übertragung|transferencia||S|sla|C2
+die Gegenübertragung|contratransferencia||S|sla|C2
+der Widerstand|resistencia del analizante||S|sla|C2
+die Traumdeutung|interpretación de los sueños||S|sla|C2
+die Traumarbeit|elaboración onírica||S|sla|C2
+das Über-Ich|superyó||S|sla|C2
+das Es|el ello||S|sla|C2
+das Ich|el yo||S|sla|C2
+der Triebverzicht|renuncia pulsional||S|sla|C2
+die Sublimierung|sublimación||S|sla|C2
+die Besetzung|investidura, catexis||S|sla|C2
+die Verschiebung|desplazamiento onírico||S|sla|C2
+die Verdichtung|condensación onírica||S|sla|C2
+die Fehlleistung|acto fallido||S|sla|C2
+die freie Assoziation|asociación libre||S|sla|C2
+die Abreaktion|abreacción||S|sla|C2
+die Introjektion|introyección||S|sla|C2
+die Identifizierung|identificación||S|sla|C2
+das Unheimliche|lo siniestro||S|let|C2
+der Narzissmus|narcisismo||S|sla|C2
+die Trauerarbeit|elaboración del duelo||S|sla|C2
+die Kulturindustrie|industria cultural||S|ast|C2
+die instrumentelle Vernunft|razón instrumental||S|ast|C2
+der Totalitarismus|totalitarismo||S|ast|C2
+der Verblendungszusammenhang|contexto de engaño||S|ast|C2
+die Negativität|negatividad||S|ast|C2
+das Nichtidentische|lo no idéntico||S|ast|C2
+der Kulturpessimismus|pesimismo cultural||S|ast|C2
+die Halbbildung|semiformación||S|ast|C2
+der autoritäre Charakter|carácter autoritario||S|ast|C2
+die Tiefenpsychologie|psicología profunda||S|sla|C2
+die Objektbeziehung|relación de objeto||S|sla|C2
+die Bindungstheorie|teoría del apego||S|sla|C2
+das Unbehagen|malestar||S|emo|C2
+die Geopolitik|geopolítica||S|ist|C2
+geopolitisch|geopolítico||A|ist|C2
+das Kräfteverhältnis|correlación de fuerzas||S|ist|C2
+die Hegemonie|hegemonía||S|ist|C2
+der Hegemonialanspruch|pretensión hegemónica||S|ist|C2
+die Pufferzone|zona tapón||S|ist|C2
+der Pufferstaat|Estado tapón||S|ist|C2
+die Einflusssphäre|esfera de influencia||S|ist|C2
+der Satellitenstaat|Estado satélite||S|ist|C2
+die Annexion|anexión||S|ist|C2
+annektieren|anexionar||V|ist|C2
+die Demarkationslinie|línea de demarcación||S|ist|C2
+die Entmilitarisierung|desmilitarización||S|ist|C2
+die Abrüstung|desarme||S|ist|C2
+die Aufrüstung|rearme||S|ist|C2
+der Nichtangriffspakt|pacto de no agresión||S|ist|C2
+die Blockfreiheit|no alineamiento||S|ist|C2
+der Ostblock|bloque del Este||S|ist|C2
+das Sanktionsregime|régimen de sanciones||S|ist|C2
+die Friedensmission|misión de paz||S|ist|C2
+die Deeskalation|desescalada||S|ist|C2
+der Präventivkrieg|guerra preventiva||S|ist|C2
+die Sezession|secesión||S|ist|C2
+der Expansionsdrang|impulso expansionista||S|ist|C2
+der Brückenkopf|cabeza de puente||S|ist|C2
+die Großmacht|gran potencia||S|ist|C2
+die Entspannungspolitik|política de distensión||S|ist|C2
+die Koexistenz|coexistencia pacífica||S|ist|C2
+die Abschreckung|disuasión||S|ist|C2
+das Gleichgewicht des Schreckens|equilibrio del terror||L|ist|C2
+die Verwundbarkeit|vulnerabilidad||S|ist|C2
+das Selbstbestimmungsrecht|derecho de autodeterminación||S|ist|C2
+die Völkergemeinschaft|comunidad de naciones||S|ist|C2
+das Völkerrecht|derecho internacional||S|ist|C2
+die Hoheitsgewässer|aguas territoriales||S|ist|C2
+die Gebietsansprüche|reivindicaciones territoriales||S|ist|C2
+der Kalte Krieg|guerra fría||S|ist|C2
+die Politologie|ciencia política||S|ist|C2
+die politische Theorie|teoría política||S|ist|C2
+die Regierungsbildung|formación de gobierno||S|ist|C2
+die große Koalition|gran coalición||S|ist|C2
+der Machtwechsel|alternancia en el poder||S|ist|C2
+die Legitimität|legitimidad||S|ist|C2
+legitimieren|legitimar||V|ist|C2
+die Herrschaftsform|forma de gobierno||S|ist|C2
+das Gewaltmonopol|monopolio estatal de la fuerza||S|ist|C2
+der Despotismus|despotismo||S|ist|C2
+der Obrigkeitsstaat|Estado paternalista autoritario||S|ist|C2
+der Wohlfahrtsstaat|Estado de bienestar||S|ist|C2
+der Sozialstaat|Estado social||S|ist|C2
+die Umverteilung|redistribución de la renta||S|ist|C2
+die Fiskalpolitik|política fiscal||S|ist|C2
+die Daseinsvorsorge|servicios públicos esenciales||S|ist|C2
+die Deregulierung|desregulación||S|ist|C2
+die Bürokratisierung|burocratización||S|ist|C2
+die Fraktionsdisziplin|disciplina de grupo parlamentario||S|ist|C2
+die Volksvertretung|representación popular||S|ist|C2
+das Petitionsrecht|derecho de petición||S|ist|C2
+der Lobbyismus|presión de los grupos de interés||S|ist|C2
+die Interessenvertretung|representación de intereses||S|ist|C2
+das Vollzugsdefizit|déficit de aplicación||S|ist|C2
+die Nachhaltigkeit|sostenibilidad||S|nat|C2
+der Koalitionsvertrag|acuerdo de coalición||S|ist|C2
+das Misstrauensvotum|moción de censura||S|ist|C2
+die Vertrauensfrage|cuestión de confianza||S|ist|C2
+die Minderheitenregierung|gobierno en minoría||S|ist|C2
+die Wahlbeteiligung|participación electoral||S|ist|C2
+die Demagogie|demagogia||S|ist|C2
+die Postdemokratie|posdemocracia||S|ist|C2
+die Zivilgesellschaft|sociedad civil||S|ist|C2
+die Teilhabe|participación, integración||S|ist|C2
+das Gemeinwohl|bien común||S|ist|C2
+der zivile Ungehorsam|desobediencia civil||S|ist|C2

@@ -1,0 +1,258 @@
+constitution|constitución||S|ist|B2
+parliament|parlamento||S|ist|B2
+chamber|cámara||S|ist|B2
+senate|senado||S|ist|B2
+Member of Parliament|diputado||S|ist|B2
+general election|elecciones generales||S|ist|B2
+by-election|elección parcial||S|ist|B2
+referendum|referéndum||S|ist|B2
+constituency|circunscripción electoral||S|ist|B2
+ballot paper|papeleta||S|ist|B2
+polling station|colegio electoral||S|ist|B2
+turnout|participación electoral||S|ist|B2
+exit poll|encuesta a pie de urna||S|ist|B2
+cabinet|gabinete||S|ist|B2
+ministry|ministerio||S|ist|B2
+civil service|administración pública||S|ist|B2
+policy|política||S|ist|B2
+bill|proyecto de ley||S|ist|B2
+act of parliament|ley aprobada||L|ist|B2
+legislation|legislación||S|ist|B2
+regulation|normativa||S|ist|B2
+amendment|enmienda||S|ist|B2
+law court|tribunal de justicia||S|ist|B2
+magistrate|juez de paz||S|ist|B2
+trial|juicio||S|ist|B2
+hearing|vista judicial||S|ist|B2
+verdict|veredicto||S|ist|B2
+sentence|condena||S|ist|B2
+evidence|prueba||S|ist|B2
+witness|testigo||S|ist|B2
+cross-examination|contrainterrogatorio||S|ist|B2
+prosecution|acusación||S|ist|B2
+defence|defensa||S|ist|B2
+jury|jurado||S|ist|B2
+appeal|apelación||S|ist|B2
+bail|libertad bajo fianza||S|ist|B2
+custody|custodia||S|ist|B2
+offence|delito||S|ist|B2
+charge|imputación||S|ist|B2
+taxpayer|contribuyente||S|ist|B2
+welfare state|estado del bienestar||S|ist|B2
+citizenship|ciudadanía||S|ist|B2
+nationality|nacionalidad||S|ist|B2
+embassy|embajada||S|ist|B2
+consulate|consulado||S|ist|B2
+ambassador|embajador||S|ist|B2
+treaty|tratado||S|ist|B2
+summit|cumbre||S|ist|B2
+sanctions|sanciones||S|ist|B2
+border control|control fronterizo||S|ist|B2
+immigration law|ley de inmigración||S|ist|B2
+refugee status|estatuto de refugiado||S|ist|B2
+equality|igualdad||S|ist|B2
+corruption|corrupción||S|ist|B2
+bribery|cohecho||S|ist|B2
+legal advice|asesoramiento jurídico||L|ist|B2
+rule of law|estado de derecho||L|ist|B2
+human rights|derechos humanos||L|ist|B2
+civil rights|derechos civiles||L|ist|B2
+law enforcement|aplicación de la ley||L|ist|B2
+to pass a law|aprobar una ley||E|ist|B2
+to enforce a law|aplicar una ley||E|ist|B2
+to repeal a law|derogar una ley||E|ist|B2
+to plead guilty|declararse culpable||E|ist|B2
+to plead not guilty|declararse inocente||E|ist|B2
+to be on trial|estar en el banquillo||E|ist|B2
+to give evidence|declarar como testigo||E|ist|B2
+to appeal against a decision|recurrir una decisión||E|ist|B2
+to commit a crime|cometer un delito||E|ist|B2
+to apply for asylum|solicitar asilo||E|ist|B2
+to discriminate against somebody|discriminar a alguien||E|ist|B2
+to vote for somebody|votar a alguien||E|ist|B2
+to stand for election|presentarse a las elecciones||E|ist|B2
+to be entitled to something|tener derecho a algo||E|ist|B2
+to bribe|sobornar||V|ist|B2
+accountable|que rinde cuentas||A|ist|B2
+unconstitutional|inconstitucional||A|ist|B2
+unlawful|ilegal||A|ist|B2
+curriculum|plan de estudios||S|stu|B2
+syllabus|temario||S|stu|B2
+assessment|evaluación||S|stu|B2
+coursework|trabajo de curso||S|stu|B2
+assignment|trabajo encargado||S|stu|B2
+dissertation|tesina||S|stu|B2
+undergraduate|estudiante de grado||S|stu|B2
+postgraduate|estudiante de posgrado||S|stu|B2
+tuition fees|tasas universitarias||S|stu|B2
+grant|subvención||S|stu|B2
+scholarship|beca||S|stu|B2
+halls of residence|colegio mayor||S|stu|B2
+lecture|clase magistral||S|stu|B2
+seminar|seminario||S|stu|B2
+tutorial|tutoría||S|stu|B2
+revision|repaso||S|stu|B2
+exam board|tribunal examinador||S|stu|B2
+gap year|año sabático||S|stu|B2
+expertise|conocimientos especializados||S|stu|B2
+skill|destreza||S|stu|B2
+qualification|titulación||S|stu|B2
+literacy|alfabetización||S|stu|B2
+numeracy|competencia numérica||S|stu|B2
+drop-out rate|tasa de abandono escolar||S|stu|B2
+truancy|absentismo escolar||S|stu|B2
+teaching staff|claustro de profesores||S|stu|B2
+prospectus|folleto informativo||S|stu|B2
+distance learning|educación a distancia||S|stu|B2
+lifelong learning|aprendizaje permanente||S|stu|B2
+to sit an exam|presentarse a un examen||E|stu|B2
+to resit an exam|repetir un examen||E|stu|B2
+to cheat in an exam|copiar en un examen||E|stu|B2
+to enrol on a course|matricularse en un curso||E|stu|B2
+to fall behind with one's studies|retrasarse en los estudios||E|stu|B2
+to catch up|recuperar lo atrasado||E|stu|B2
+to hand in an assignment|entregar un trabajo||E|stu|B2
+to take notes|tomar apuntes||E|stu|B2
+to carry out research|realizar una investigación||E|stu|B2
+to specialise in a subject|especializarse en una materia||E|stu|B2
+to drop out of school|abandonar los estudios||E|stu|B2
+to revise for an exam|preparar un examen||E|stu|B2
+to graduate|licenciarse||V|stu|B2
+to memorise|memorizar||V|stu|B2
+to concentrate|concentrarse||V|stu|B2
+academic|académico||A|stu|B2
+compulsory|obligatorio||A|stu|B2
+optional|optativo||A|stu|B2
+vocational|de formación profesional||A|stu|B2
+gifted|superdotado||A|stu|B2
+outstanding|sobresaliente||A|stu|B2
+satisfactory|satisfactorio||A|stu|B2
+unsatisfactory|insatisfactorio||A|stu|B2
+thoroughly|a fondo||D|stu|B2
+roughly|aproximadamente||D|stu|B2
+widely|ampliamente||D|stu|B2
+by heart|de memoria||E|stu|B2
+research findings|resultados de investigación||S|sci|B2
+hypothesis|hipótesis||S|sci|B2
+laboratory experiment|experimento de laboratorio||S|sci|B2
+specimen|muestra biológica||S|sci|B2
+microscope|microscopio||S|sci|B2
+telescope|telescopio||S|sci|B2
+gene|gen||S|sci|B2
+stem cell|célula madre||S|sci|B2
+bacteria|bacterias||S|sci|B2
+virus|virus||S|sci|B2
+vaccine|vacuna||S|sci|B2
+evolution|evolución||S|sci|B2
+ecosystem|ecosistema||S|sci|B2
+habitat|hábitat||S|sci|B2
+biodiversity|biodiversidad||S|sci|B2
+molecule|molécula||S|sci|B2
+atom|átomo||S|sci|B2
+particle|partícula||S|sci|B2
+chemical compound|compuesto químico||S|sci|B2
+gravity|gravedad||S|sci|B2
+fossil fuel|combustible fósil||S|sci|B2
+carbon footprint|huella de carbono||S|sci|B2
+greenhouse gas|gas de efecto invernadero||S|sci|B2
+climate change|cambio climático||S|sci|B2
+global warming|calentamiento global||S|sci|B2
+sea-level rise|subida del nivel del mar||S|sci|B2
+statistics|estadística||S|sci|B2
+probability|probabilidad||S|sci|B2
+genome|genoma||S|sci|B2
+clone|clon||S|sci|B2
+renewable energy|energía renovable||L|sci|B2
+data analysis|análisis de datos||L|sci|B2
+scientific method|método científico||L|sci|B2
+to conduct an experiment|realizar un experimento||E|sci|B2
+to prove a hypothesis|demostrar una hipótesis||E|sci|B2
+to disprove a theory|refutar una teoría||E|sci|B2
+to develop a vaccine|desarrollar una vacuna||E|sci|B2
+to tackle climate change|luchar contra el cambio climático||E|sci|B2
+to emit|emitir||V|sci|B2
+to sustain|sostener||V|sci|B2
+to recycle|reciclar||V|sci|B2
+to monitor|monitorizar||V|sci|B2
+to measure|medir||V|sci|B2
+to observe|observar||V|sci|B2
+to predict|predecir||V|sci|B2
+to investigate|investigar||V|sci|B2
+sustainable|sostenible||A|sci|B2
+harmful|nocivo||A|sci|B2
+toxic|tóxico||A|sci|B2
+radioactive|radiactivo||A|sci|B2
+experimental|experimental||A|sci|B2
+widespread|extendido||A|sci|B2
+significant|significativo||A|sci|B2
+negligible|despreciable||A|sci|B2
+accurate|exacto||A|sci|B2
+inaccurate|inexacto||A|sci|B2
+conclusive|concluyente||A|sci|B2
+evidence-based|basado en pruebas||A|sci|B2
+device|dispositivo||S|tec|B2
+gadget|artilugio||S|tec|B2
+hardware|hardware||S|tec|B2
+software update|actualización de software||S|tec|B2
+upgrade|mejora del equipo||S|tec|B2
+download|descarga||S|tec|B2
+upload|subida de datos||S|tec|B2
+username|nombre de usuario||S|tec|B2
+firewall|cortafuegos||S|tec|B2
+encryption|cifrado||S|tec|B2
+data breach|filtración de datos||S|tec|B2
+hacking|piratería informática||S|tec|B2
+hacker|pirata informático||S|tec|B2
+cybercrime|ciberdelito||S|tec|B2
+online banking|banca en línea||S|tec|B2
+e-commerce|comercio electrónico||S|tec|B2
+streaming platform|plataforma de streaming||S|tec|B2
+cloud storage|almacenamiento en la nube||S|tec|B2
+backup|copia de seguridad||S|tec|B2
+notification|notificación||S|tec|B2
+browser|navegador||S|tec|B2
+search engine|buscador||S|tec|B2
+hyperlink|hipervínculo||S|tec|B2
+facial recognition|reconocimiento facial||S|tec|B2
+self-driving car|coche autónomo||S|tec|B2
+drone|dron||S|tec|B2
+3D printer|impresora 3D||S|tec|B2
+smartwatch|reloj inteligente||S|tec|B2
+earphones|auriculares||S|tec|B2
+charger|cargador||S|tec|B2
+wireless network|red inalámbrica||S|tec|B2
+broadband|banda ancha||S|tec|B2
+signal coverage|cobertura de señal||S|tec|B2
+screen time|tiempo de pantalla||S|tec|B2
+digital footprint|huella digital||S|tec|B2
+glitch|fallo técnico||S|tec|B2
+artificial intelligence|inteligencia artificial||L|tec|B2
+virtual reality|realidad virtual||L|tec|B2
+augmented reality|realidad aumentada||L|tec|B2
+machine learning|aprendizaje automático||L|tec|B2
+digital detox|desintoxicación digital||L|tec|B2
+to swipe|deslizar el dedo||V|tec|B2
+to unfollow|dejar de seguir||V|tec|B2
+to log in|iniciar sesión||E|tec|B2
+to log out|cerrar sesión||E|tec|B2
+to scroll down|desplazarse hacia abajo||E|tec|B2
+to tap on an icon|pulsar un icono||E|tec|B2
+to download an app|descargar una aplicación||E|tec|B2
+to install an update|instalar una actualización||E|tec|B2
+to charge a battery|cargar la batería||E|tec|B2
+to run out of battery|quedarse sin batería||E|tec|B2
+to be glued to the screen|estar pegado a la pantalla||E|tec|B2
+to back up files|hacer copia de seguridad||E|tec|B2
+to browse the web|navegar por la red||E|tec|B2
+to go viral|hacerse viral||E|tec|B2
+to post a comment|publicar un comentario||E|tec|B2
+to share a link|compartir un enlace||E|tec|B2
+to subscribe to a channel|suscribirse a un canal||E|tec|B2
+to follow an account|seguir una cuenta||E|tec|B2
+to mute notifications|silenciar notificaciones||E|tec|B2
+user-friendly|fácil de usar||A|tec|B2
+cutting-edge|de vanguardia||A|tec|B2
+state-of-the-art|a la última||A|tec|B2
+outdated|anticuado||A|tec|B2
+faulty|defectuoso||A|tec|B2
+addictive|adictivo||A|tec|B2

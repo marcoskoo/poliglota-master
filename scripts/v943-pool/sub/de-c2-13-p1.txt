@@ -1,0 +1,260 @@
+der Vertrag|contrato||S|ist|C2
+die Klausel|cláusula contractual||S|ist|C2
+die Haftung|responsabilidad civil||S|ist|C2
+der Schadensersatz|indemnización por daños y perjuicios||S|ist|C2
+der Verstoß|infracción, transgresión||S|ist|C2
+widerrufen|revocar, anular una declaración||V|ist|C2
+die Widerrufsfrist|plazo de desistimiento||S|ist|C2
+die Anfechtung|anulación por vicio de la voluntad||S|ist|C2
+die Erfüllung|cumplimiento de las obligaciones||S|ist|C2
+der Rücktritt|desistimiento del contrato||S|ist|C2
+der Schuldner|deudor||S|ist|C2
+der Gläubiger|acreedor||S|ist|C2
+das Pfand|prenda, garantía real||S|ist|C2
+die Verjährung|prescripción de las acciones||S|ist|C2
+verwirken|hacer caducar un derecho||V|ist|C2
+der Nießbrauch|usufructo||S|ist|C2
+der Nachlass|herencia, caudal relicto||S|ist|C2
+das Vermächtnis|legado testamentario||S|ist|C2
+das Sorgerecht|patria potestad||S|ist|C2
+der Ehevertrag|capitulaciones matrimoniales||S|ist|C2
+der Zugewinnausgleich|liquidación de ganancias matrimoniales||S|ist|C2
+die Vormundschaft|tutela||S|ist|C2
+die Betreuung|tutela de adultos||S|ist|C2
+die Vollstreckung|ejecución de resoluciones||S|ist|C2
+die Zwangsvollstreckung|ejecución forzosa||S|ist|C2
+der Mahnbescheid|requerimiento de pago||S|ist|C2
+der Vorsatz|dolo, intencionalidad||S|ist|C2
+die Fahrlässigkeit|negligencia||S|ist|C2
+die Unterschlagung|apropiación indebida||S|ist|C2
+die Nötigung|coacción||S|ist|C2
+die Körperverletzung|delito de lesiones||S|ist|C2
+der Meineid|perjurio||S|ist|C2
+das Grundbuch|registro de la propiedad||S|ist|C2
+der Versicherungsbetrug|estafa al seguro||S|ist|C2
+die Anklage|acusación, escrito de cargo||S|ist|C2
+der Staatsanwalt|fiscal||S|pro|C2
+die Verteidigung|defensa letrada||S|ist|C2
+der Angeklagte|acusado, encausado||S|ist|C2
+die Beweisaufnahme|práctica de pruebas||S|ist|C2
+die Zeugenaussage|declaración testifical||S|ist|C2
+der Sachverständige|perito||S|pro|C2
+das Plädoyer|alegato final||S|ist|C2
+das Urteil|sentencia||S|ist|C2
+die Revision|recurso de casación||S|ist|C2
+die Berufung|recurso de apelación||S|ist|C2
+der Vergleich|transacción judicial||S|ist|C2
+der Gerichtsvollzieher|oficial de justicia||S|pro|C2
+die Ladung|citación judicial||S|ist|C2
+der Zeugenstand|estrado de testigos||S|ist|C2
+die eidesstattliche Versicherung|declaración jurada||S|ist|C2
+die Vernehmung|interrogatorio||S|ist|C2
+der Kronzeuge|testigo colaborador||S|ist|C2
+das Gnadengesuch|solicitud de indulto||S|ist|C2
+die Strafaussetzung|suspensión de la pena||S|ist|C2
+die Untersuchungshaft|prisión preventiva||S|ist|C2
+der Tatbestand|tipicidad, hechos constitutivos de delito||S|ist|C2
+die Zurechnungsfähigkeit|imputabilidad||S|ist|C2
+vernehmen|interrogar en sede judicial||V|ist|C2
+anklagen|acusar formalmente||V|ist|C2
+freisprechen|absolver||V|ist|C2
+verurteilen|condenar||V|ist|C2
+der Zivilprozess|proceso civil||S|ist|C2
+der Strafprozess|proceso penal||S|ist|C2
+die Instanz|instancia, grado jurisdiccional||S|ist|C2
+rechtskräftig|firme, definitivo||A|ist|C2
+die Beweislast|carga de la prueba||S|ist|C2
+in Haft nehmen|encarcelar, privar de libertad||E|ist|C2
+das Grundgesetz|Ley Fundamental alemana||S|ist|C2
+die Gewaltenteilung|separación de poderes||S|ist|C2
+der Föderalismus|federalismo||S|ist|C2
+die Souveränität|soberanía||S|ist|C2
+der Rechtsstaat|Estado de derecho||S|ist|C2
+das Grundrecht|derecho fundamental||S|ist|C2
+die Verfassung|Constitución||S|ist|C2
+das Wahlrecht|derecho de sufragio||S|ist|C2
+der Landtag|parlamento regional||S|ist|C2
+der Bundesrat|Cámara Federal de los Länder||S|ist|C2
+die Gesetzgebung|potestad legislativa||S|ist|C2
+der Gesetzentwurf|proyecto de ley||S|ist|C2
+verabschieden|aprobar una ley||V|ist|C2
+die Normenkontrolle|control de constitucionalidad||S|ist|C2
+die Amnestie|amnistía||S|ist|C2
+die Kompetenzverteilung|reparto de competencias||S|ist|C2
+die Staatsangehörigkeit|nacionalidad||S|ist|C2
+einbürgern|naturalizar||V|ist|C2
+der Staatsstreich|golpe de Estado||S|ist|C2
+die Gegenzeichnung|refrendo ministerial||S|ist|C2
+der Minderheitenschutz|protección de las minorías||S|ist|C2
+die Volksabstimmung|referéndum||S|ist|C2
+der Ausnahmezustand|estado de excepción||S|ist|C2
+der Landesverrat|alta traición||S|ist|C2
+die Amtsenthebung|destitución del cargo||S|ist|C2
+die Immunität|inmunidad parlamentaria||S|ist|C2
+die Verhältnismäßigkeit|principio de proporcionalidad||S|ist|C2
+die Rechtsprechung|jurisprudencia||S|ist|C2
+die Ermächtigung|habilitación, autorización||S|ist|C2
+das Benachteiligungsverbot|prohibición de discriminación||S|ist|C2
+verfassungskonform|conforme a la Constitución||A|ist|C2
+die Verfassungsbeschwerde|recurso de amparo||S|ist|C2
+der Kompetenzstreit|conflicto de competencias||S|ist|C2
+der Befund|hallazgo clínico||S|sla|C2
+die Anamnese|anamnesis, historia clínica del paciente||S|sla|C2
+die Differentialdiagnose|diagnóstico diferencial||S|sla|C2
+der Stationsarzt|médico de planta||S|pro|C2
+die Visite|pase de visita hospitalario||S|sla|C2
+die Patientenakte|historia clínica||S|sla|C2
+die Blutentnahme|extracción de sangre||S|sla|C2
+die Infusion|perfusión intravenosa||S|sla|C2
+der Katheter|catéter||S|sla|C2
+die Wundheilung|cicatrización de heridas||S|sla|C2
+die Narkose|anestesia general||S|sla|C2
+die Notfallaufnahme|servicio de urgencias||S|sla|C2
+der Krankheitsverlauf|evolución de la enfermedad||S|sla|C2
+die Nebenwirkung|efecto adverso||S|sla|C2
+die Symptomatik|cuadro sintomático||S|sla|C2
+die Remission|remisión, mejoría clínica||S|sla|C2
+das Karzinom|carcinoma||S|sla|C2
+die Strahlentherapie|radioterapia||S|sla|C2
+der Herzstillstand|parada cardíaca||S|sla|C2
+die Intensivstation|unidad de cuidados intensivos||S|sla|C2
+der Operationssaal|quirófano||S|sla|C2
+das Skalpell|bisturí||S|sla|C2
+die Prognose|pronóstico clínico||S|sla|C2
+die Obduktion|autopsia||S|sla|C2
+die Dyspnoe|disnea||S|sla|C2
+die Ischämie|isquemia||S|sla|C2
+die Arrhythmie|arritmia||S|sla|C2
+die Niereninsuffizienz|insuficiencia renal||S|sla|C2
+die Biopsie|biopsia||S|sla|C2
+die Überweisung|derivación a un especialista||S|sla|C2
+chronisch|crónico||A|sla|C2
+akut|agudo||A|sla|C2
+der Schub|brote agudo de una enfermedad||S|sla|C2
+der Wirkstoff|principio activo||S|sla|C2
+die Wechselwirkung|interacción farmacológica||S|sla|C2
+die Dosierung|posología||S|sla|C2
+die Einnahme|toma de un medicamento||S|sla|C2
+die Kontraindikation|contraindicación||S|sla|C2
+das Placebo|placebo||S|sla|C2
+die Kontrollgruppe|grupo de control||S|sla|C2
+der Proband|sujeto de un ensayo clínico||S|sla|C2
+die Doppelblindstudie|ensayo doble ciego||S|sla|C2
+randomisieren|aleatorizar||V|sci|C2
+die Zulassung|autorización sanitaria||S|sla|C2
+die Bioverfügbarkeit|biodisponibilidad||S|sla|C2
+die Halbwertszeit|semivida de eliminación||S|sla|C2
+die Verträglichkeit|tolerabilidad||S|sla|C2
+die Darreichungsform|forma farmacéutica||S|sla|C2
+die Überdosierung|sobredosis||S|sla|C2
+die Entwöhnung|retirada gradual de una droga||S|sla|C2
+das Suchtpotenzial|potencial adictivo||S|sla|C2
+verschreiben|recetar||V|sla|C2
+die Verschreibung|receta médica||S|sla|C2
+die Pharmakologie|farmacología||S|sla|C2
+der Wirkmechanismus|mecanismo de acción||S|sla|C2
+die Erhaltungsdosis|dosis de mantenimiento||S|sla|C2
+die Titration|ajuste progresivo de la dosis||S|sla|C2
+die Multizenterstudie|estudio multicéntrico||S|sla|C2
+der Studienarm|brazo de un ensayo clínico||S|sla|C2
+der Endpunkt|criterio de valoración principal||S|sla|C2
+das Einschlusskriterium|criterio de inclusión||S|sla|C2
+die Pharmakovigilanz|farmacovigilancia||S|sla|C2
+die Gabe|administración de un fármaco||S|sla|C2
+intravenös|intravenoso||A|sla|C2
+subkutan|subcutáneo||A|sla|C2
+das Präparat|preparado farmacológico||S|sla|C2
+die Angststörung|trastorno de ansiedad||S|sla|C2
+der Zwang|compulsión||S|sla|C2
+die bipolare Störung|trastorno bipolar||S|sla|C2
+die Schizophrenie|esquizofrenia||S|sla|C2
+der Wahn|delirio||S|sla|C2
+die Wahnvorstellung|idea delirante||S|sla|C2
+die Halluzination|alucinación||S|sla|C2
+die Paranoia|paranoia||S|sla|C2
+die Katatonie|catatonía||S|sla|C2
+die Dissoziation|disociación||S|sla|C2
+die Suizidalität|riesgo suicida||S|sla|C2
+der Suizid|suicidio||S|sla|C2
+die Phobie|fobia||S|sla|C2
+die Hypochondrie|hipocondría||S|sla|C2
+der Autismus|autismo||S|sla|C2
+die Depersonalisation|despersonalización||S|sla|C2
+der Affekt|afecto, emoción intensa||S|sla|C2
+affektiv|afectivo||A|sla|C2
+die Antriebslosigkeit|abulia, falta de impulso vital||S|sla|C2
+der Stupor|estupor||S|sla|C2
+die Neurose|neurosis||S|sla|C2
+psychosomatisch|psicosomático||A|sla|C2
+die Somatisierung|somatización||S|sla|C2
+die Abwehr|defensa psíquica||S|sla|C2
+die Progredienz|carácter progresivo de una enfermedad||S|sla|C2
+das Antidepressivum|antidepresivo||S|sla|C2
+das Neuroleptikum|neuroléptico||S|sla|C2
+der Entzug|síndrome de abstinencia||S|sla|C2
+die Rückfallgefahr|riesgo de recaída||S|sla|C2
+die Verwahrlosung|abandono personal, degradación||S|sla|C2
+die Selbstverletzung|autolesión||S|sla|C2
+diagnostizieren|diagnosticar||V|sla|C2
+die somatoforme Störung|trastorno somatomorfo||S|sla|C2
+die Bioethik|bioética||S|ast|C2
+die Menschenwürde|dignidad humana||S|ast|C2
+die Einwilligung|consentimiento informado||S|ast|C2
+die Einwilligungsfähigkeit|capacidad de consentir||S|ast|C2
+die Patientenverfügung|testamento vital||S|ast|C2
+die Sterbehilfe|eutanasia||S|ast|C2
+die Sterbebegleitung|acompañamiento en la agonía||S|ast|C2
+die Palliativmedizin|medicina paliativa||S|sla|C2
+die Fürsorgepflicht|deber de socorro||S|ast|C2
+das Wohlergehen|bienestar||S|ast|C2
+die Nutzen-Risiko-Abwägung|ponderación riesgo-beneficio||S|ast|C2
+die Forschungsfreiheit|libertad de investigación||S|ast|C2
+die Leihmutterschaft|gestación subrogada||S|ast|C2
+die Keimbahntherapie|terapia de la línea germinal||S|ast|C2
+die Organentnahme|extracción de órganos||S|ast|C2
+die Organspende|donación de órganos||S|ast|C2
+die Hirntoddiagnostik|diagnóstico de muerte encefálica||S|ast|C2
+die Rationierung|racionalización de recursos sanitarios||S|ast|C2
+die Triage|triaje, clasificación de pacientes||S|ast|C2
+die Heilkunde|arte de curar||S|sla|C2
+die Schweigepflicht|deber de confidencialidad||S|ast|C2
+der Behandlungsabbruch|retirada del tratamiento||S|ast|C2
+die Patientenautonomie|autonomía del paciente||S|ast|C2
+vertretbar|defendible, justificable||A|ast|C2
+die Zumutbarkeit|carácter razonable de una carga||S|ast|C2
+das Dilemma|dilema||S|ast|C2
+der Utilitarismus|utilitarismo||S|ast|C2
+die Willensbildung|formación de la voluntad||S|ast|C2
+die Pränataldiagnostik|diagnóstico prenatal||S|ast|C2
+die Embryonenforschung|investigación con embriones||S|ast|C2
+die Geldpolitik|política monetaria||S|fin|C2
+der Leitzins|tipo de interés director||S|fin|C2
+die Inflationsrate|tasa de inflación||S|fin|C2
+die Deflation|deflación||S|fin|C2
+die Stagflation|estanflación||S|fin|C2
+der Aufschwung|fase alcista del ciclo económico||S|fin|C2
+die Rezession|recesión||S|fin|C2
+die Konjunktur|coyuntura económica||S|fin|C2
+der Konjunkturzyklus|ciclo económico||S|fin|C2
+die Anleihe|bono, título de deuda||S|fin|C2
+die Staatsanleihe|bono del Estado||S|fin|C2
+die Geldmenge|oferta monetaria||S|fin|C2
+die Liquidität|liquidez||S|fin|C2
+die Solvenz|solvencia||S|fin|C2
+die Refinanzierung|refinanciación||S|fin|C2
+die Notenbank|banco central emisor||S|fin|C2
+der Wechselkurs|tipo de cambio||S|fin|C2
+der Devisenmarkt|mercado de divisas||S|fin|C2
+die Aufwertung|revaluación||S|fin|C2
+die Abwertung|devaluación||S|fin|C2
+die Preisstabilität|estabilidad de precios||S|fin|C2
+das Haushaltsdefizit|déficit público||S|fin|C2
+die Neuverschuldung|endeudamiento neto||S|fin|C2
+die Schuldenbremse|límite constitucional al déficit||S|fin|C2
+die Rücklage|reserva contable||S|fin|C2
+die Währungsunion|unión monetaria||S|fin|C2
+das Inflationsziel|objetivo de inflación||S|fin|C2
+die Binnennachfrage|demanda interna||S|fin|C2
+die Kapitalflucht|fuga de capitales||S|fin|C2
+die Zinslast|carga de los intereses||S|fin|C2
+die Währungskrise|crisis monetaria||S|fin|C2

@@ -1,0 +1,258 @@
+die Hirnrinde|corteza cerebral||S|sla|C1
+die Hirnhaut|meninge||S|sla|C1
+die Hirnblutung|hemorragia cerebral||S|sla|C1
+der Schlaganfall|ictus||S|sla|C1
+die Migräneattacke|crisis de migraña||S|sla|C1
+die Epilepsie|epilepsia||S|sla|C1
+der epileptische Anfall|ataque epiléptico||L|sla|C1
+der Krampfanfall|convulsión||S|sla|C1
+der Tremor|temblor||S|sla|C1
+die Demenz|demencia||S|sla|C1
+der Gedächtnisverlust|pérdida de memoria||S|sla|C1
+das Nervensystem|sistema nervioso||S|sla|C1
+die Nervenentzündung|neuritis||S|sla|C1
+die Neuralgie|neuralgia||S|sla|C1
+das Taubheitsgefühl|hormigueo||S|sla|C1
+die Lähmung|parálisis||S|sla|C1
+halbseitig|hemilateral||A|sla|C1
+die Sprachstörung|trastorno del habla||S|sla|C1
+das Sprachverständnis|comprensión del lenguaje||S|sla|C1
+die Bewegungsstörung|trastorno del movimiento||S|sla|C1
+der Schwindelanfall|crisis de vértigo||S|sla|C1
+die Bewusstlosigkeit|inconsciencia||S|sla|C1
+die Bewusstseinstrübung|obnubilación||S|sla|C1
+der Reflexausfall|abolición de reflejos||S|sla|C1
+die Elektromyographie|electromiografía||S|sla|C1
+die Nervenleitgeschwindigkeit|velocidad de conducción nerviosa||S|sla|C1
+die Liquorpunktion|punción lumbar||S|sla|C1
+die Muskelatrophie|atrofia muscular||S|sla|C1
+der Neurologe|neurólogo||S|pro|C1
+die Verdachtsdiagnose|diagnóstico de sospecha||S|sla|C1
+das Krankheitsbild|cuadro clínico||S|sla|C1
+die Differentialdiagnose|diagnóstico diferencial||S|sla|C1
+die Ursachenforschung|investigación etiológica||S|sla|C1
+die Schwangerschaftswoche|semana de gestación||S|sla|C1
+die Risikoschwangerschaft|embarazo de riesgo||S|sla|C1
+der Entbindungstermin|fecha prevista de parto||S|sla|C1
+die Entbindung|parto||S|sla|C1
+die Wehen|contracciones||S|sla|C1
+die Frühgeburt|parto prematuro||S|sla|C1
+das Frühgeborene|prematuro||S|sla|C1
+der Kaiserschnitt|cesárea||S|sla|C1
+die Gebärmutter|útero||S|sla|C1
+der Muttermund|cuello uterino||S|sla|C1
+die Nachgeburt|expulsión de la placenta||S|sla|C1
+die Plazenta|placenta||S|sla|C1
+das Neugeborene|recién nacido||S|sla|C1
+das Neugeborenenscreening|cribado neonatal||S|sla|C1
+der Säugling|lactante||S|sla|C1
+der Kinderarzt|pediatra||S|pro|C1
+die Windpocken|varicela||S|sla|C1
+die Masern|sarampión||S|sla|C1
+die Röteln|rubeola||S|sla|C1
+der Keuchhusten|tosferina||S|sla|C1
+die Kinderlähmung|poliomielitis||S|sla|C1
+der Milchzahn|diente de leche||S|sla|C1
+das Wochenbett|puerperio||S|sla|C1
+die Rückbildungsgymnastik|gimnasia posparto||S|sla|C1
+die Hebamme|matrona||S|pro|C1
+die Schwangerschaftsvergiftung|preeclampsia||S|sla|C1
+die Fehlgeburt|aborto espontáneo||S|sla|C1
+die Dehnungsstreifen|estrías||S|sla|C1
+der Blasensprung|rotura de membranas||S|sla|C1
+der Ultraschall|ecografía||S|sla|C1
+die Sprachentwicklung|desarrollo del lenguaje||S|sla|C1
+die Entwicklungstörung|trastorno del desarrollo||S|sla|C1
+das Geburtsgewicht|peso al nacer||S|sla|C1
+der Knochenbruch|fractura||S|sla|C1
+das Schleudertrauma|latigazo cervical||S|sla|C1
+der Trümmerbruch|fractura conminuta||S|sla|C1
+das Schienbein|tibia||S|cor|C1
+der Gips|escayola||S|sla|C1
+die Schiene|férula||S|sla|C1
+der Verband|vendaje||S|sla|C1
+die Ruhigstellung|inmovilización||S|sla|C1
+die Prellung|contusión||S|sla|C1
+die Muskelzerrung|distensión muscular||S|sla|C1
+die Bänderdehnung|esguince||S|sla|C1
+der Bänderriss|rotura ligamentosa||S|sla|C1
+die Luxation|luxación||S|sla|C1
+der Erguss|derrame articular||S|sla|C1
+die Arthrose|artrosis||S|sla|C1
+die Arthritis|artritis||S|sla|C1
+der Bandscheibenvorfall|hernia discal||S|sla|C1
+die Physiotherapie|fisioterapia||S|sla|C1
+die Krankengymnastik|gimnasia médica||S|sla|C1
+die Rehabilitation|rehabilitación||S|sla|C1
+die Beweglichkeit|movilidad||S|sla|C1
+die Gehhilfe|ayuda para la deambulación||S|sla|C1
+der Rollator|andador||S|sla|C1
+die Prothese|prótesis||S|sla|C1
+die Endoprothese|prótesis articular||S|sla|C1
+das Hüftgelenk|articulación de la cadera||S|cor|C1
+das Kniegelenk|articulación de la rodilla||S|cor|C1
+die Wiederherstellung|recuperación funcional||S|sla|C1
+die Schmerzfreiheit|ausencia de dolor||S|sla|C1
+der Heilungsverlauf|evolución de la curación||S|sla|C1
+die Nachsorge|seguimiento médico||S|sla|C1
+die Schmerzlinderung|alivio del dolor||S|sla|C1
+die Epidemiologie|epidemiología||S|sla|C1
+der Seuchenausbruch|brote epidémico||S|sla|C1
+die Pandemie|pandemia||S|sla|C1
+die Endemie|endemia||S|sla|C1
+der Übertragungsweg|vía de transmisión||S|sla|C1
+die Ansteckung|contagio||S|sla|C1
+ansteckend|contagioso||A|sla|C1
+die Inkubationszeit|período de incubación||S|sla|C1
+die Durchseuchung|proporción de población infectada||S|sla|C1
+die Herdenimmunität|inmunidad de grupo||S|sla|C1
+die Grundimmunisierung|inmunización primaria||S|sla|C1
+die Auffrischimpfung|dosis de recuerdo||S|sla|C1
+der Impfstoff|vacuna||S|sla|C1
+das Gesundheitsamt|autoridad sanitaria||S|ist|C1
+das Gesundheitswesen|sistema sanitario||S|ist|C1
+die Vorsorge|prevención sanitaria||S|sla|C1
+die Krankenversicherung|seguro de enfermedad||S|ist|C1
+die gesetzliche Krankenkasse|seguro público de salud||L|ist|C1
+die Meldepflicht|obligación de notificación||S|ist|C1
+der Krankheitsverdacht|sospecha de enfermedad||S|sla|C1
+der Erreger|patógeno||S|sla|C1
+der Erregernachweis|detección del patógeno||S|sla|C1
+der Infektionsschutz|protección frente a infecciones||S|sla|C1
+die Reproduktionszahl|número reproductivo básico||S|sla|C1
+die Sterblichkeit|mortalidad||S|sla|C1
+die Morbidität|morbilidad||S|sla|C1
+die Aufklärung|labor de información preventiva||S|sla|C1
+die Quarantänepflicht|obligación de cuarentena||S|sla|C1
+die Absonderung|aislamiento sanitario||S|sla|C1
+die Prävention|prevención||S|sla|C1
+die Risikobewertung|evaluación de riesgos||S|sla|C1
+der Bevölkerungsschutz|protección de la población||S|ist|C1
+die Steuerhinterziehung|fraude fiscal||S|fin|C1
+die Steuererklärung|declaración de la renta||S|fin|C1
+die Umsatzsteuer|impuesto sobre el valor añadido||S|fin|C1
+der Steuersatz|tipo impositivo||S|fin|C1
+die Bemessungsgrundlage|base imponible||S|fin|C1
+das zu versteuernde Einkommen|renta sometida a gravamen||L|fin|C1
+der Freibetrag|mínimo exento||S|fin|C1
+die Abgabe|tasa||S|fin|C1
+die Erbschaftsteuer|impuesto de sucesiones||S|fin|C1
+die Kapitalertragsteuer|impuesto sobre rendimientos del capital||S|fin|C1
+das Doppelbesteuerungsabkommen|convenio de doble imposición||S|fin|C1
+die Veranlagung|liquidación tributaria||S|fin|C1
+die Zusammenveranlagung|tributación conjunta||S|fin|C1
+die Vorauszahlung|pago a cuenta||S|fin|C1
+die Nachzahlung|pago complementario||S|fin|C1
+die Rückerstattung|devolución||S|fin|C1
+die Schwarzarbeit|trabajo no declarado||S|fin|C1
+das Schwarzgeld|dinero no declarado||S|fin|C1
+die Geldwäsche|blanqueo de capitales||S|fin|C1
+die Betriebsprüfung|inspección tributaria||S|fin|C1
+der Zuschlag|recargo||S|fin|C1
+der Säumniszuschlag|recargo de apremio||S|fin|C1
+das Finanzamt|agencia tributaria||S|fin|C1
+das Finanzgericht|tribunal económico-administrativo||S|fin|C1
+der Einspruch|reclamación económico-administrativa||S|fin|C1
+der Tatbestand|supuesto de hecho||S|ist|C1
+die Umgehung|elusión||S|fin|C1
+umgehen|eludir||V|fin|C1
+der Steuerberater|asesor fiscal||S|pro|C1
+die Steuerschuld|deuda tributaria||S|fin|C1
+die Abschreibung|amortización contable||S|fin|C1
+die Verlustverrechnung|compensación de pérdidas||S|fin|C1
+die Zentralbank|banco central||S|fin|C1
+die Bankenaufsicht|supervisión bancaria||S|fin|C1
+der Zinssatz|tipo de interés||S|fin|C1
+der Leitzins|tipo de interés director||S|fin|C1
+die Kreditwürdigkeit|solvencia crediticia||S|fin|C1
+der Kreditausfall|impago de crédito||S|fin|C1
+die Bonität|solvencia||S|fin|C1
+die Bürgschaft|fianza||S|fin|C1
+der Bürge|fiador||S|fin|C1
+die Hypothek|hipoteca||S|fin|C1
+das Darlehen|préstamo||S|fin|C1
+die Laufzeit|plazo de vigencia||S|fin|C1
+die Tilgung|amortización||S|fin|C1
+tilgen|amortizar||V|fin|C1
+der Schuldendienst|servicio de la deuda||S|fin|C1
+der Schuldenerlass|condonación de deuda||S|fin|C1
+die Zahlungsunfähigkeit|incapacidad de pago||S|fin|C1
+die Überschuldung|sobreendeudamiento||S|fin|C1
+die Kontoführung|gestión de la cuenta||S|fin|C1
+die Bearbeitungsgebühr|comisión de gestión||S|fin|C1
+der Dispositionskredit|línea de descubierto||S|fin|C1
+die Kontoüberziehung|descubierto en cuenta||S|fin|C1
+die Einlagensicherung|garantía de depósitos||S|fin|C1
+die Einlage|imposición||S|fin|C1
+das Sparbuch|libreta de ahorros||S|fin|C1
+die Wertpapiere|valores mobiliarios||S|fin|C1
+die Anleihe|emisión de deuda||S|fin|C1
+die Dividende|dividendo||S|fin|C1
+die Kursentwicklung|evolución de la cotización||S|fin|C1
+die Kursschwankung|fluctuación de la cotización||S|fin|C1
+der Börsenkrach|crac bursátil||S|fin|C1
+das Zinsänderungsrisiko|riesgo de tipo de interés||S|fin|C1
+die Verschmelzung|fusión||S|fin|C1
+die Übernahme|adquisición de control||S|fin|C1
+das Übernahmeangebot|oferta pública de adquisición||S|fin|C1
+der Bieter|postor||S|fin|C1
+der Unternehmenswert|valor de la empresa||S|fin|C1
+die Unternehmensbewertung|valoración de empresas||S|fin|C1
+der Verkehrswert|valor de mercado||S|fin|C1
+der Ertragswert|valor de rentabilidad||S|fin|C1
+der Substanzwert|valor patrimonial||S|fin|C1
+der Goodwill|fondo de comercio||S|fin|C1
+der Kaufpreis|precio de adquisición||S|fin|C1
+die Beteiligung|participación accionarial||S|fin|C1
+die Beteiligungsgesellschaft|sociedad de cartera||S|fin|C1
+die Sperrminorität|minoría de bloqueo||S|fin|C1
+die Restrukturierung|reestructuración||S|fin|C1
+die Sanierung|rehabilitación empresarial||S|fin|C1
+der Sanierungsplan|plan de viabilidad||S|fin|C1
+die Synergie|sinergia||S|fin|C1
+der Synergieeffekt|efecto sinérgico||S|fin|C1
+die Marktmacht|poder de mercado||S|fin|C1
+die marktbeherrschende Stellung|posición dominante||L|fin|C1
+die Zusammenschlusskontrolle|control de concentraciones||S|fin|C1
+der Vermögenswert|activo||S|fin|C1
+die Bilanz|balance||S|fin|C1
+die Bilanzsumme|total de balance||S|fin|C1
+die Gewinn- und Verlustrechnung|cuenta de pérdidas y ganancias||L|fin|C1
+der Umsatz|cifra de negocios||S|fin|C1
+der Cashflow|flujo de caja||S|fin|C1
+das Gutachten|dictamen pericial||S|fin|C1
+die Abstoßung|desinversión||S|fin|C1
+die Wertermittlung|tasación||S|fin|C1
+der Firmenwert|valor de empresa establecida||S|fin|C1
+Angebot und Nachfrage|oferta y demanda||L|fin|C1
+die Preiselastizität|elasticidad-precio||S|fin|C1
+die Preisbildung|formación de precios||S|fin|C1
+der Höchstpreis|precio máximo||S|fin|C1
+der Preisnehmer|precio-aceptante||S|fin|C1
+das Monopol|monopolio||S|fin|C1
+der Monopolist|monopolista||S|fin|C1
+das Oligopol|oligopolio||S|fin|C1
+der vollkommene Wettbewerb|competencia perfecta||L|fin|C1
+die Wettbewerbsbeschränkung|restricción de la competencia||S|fin|C1
+der Markteintritt|entrada al mercado||S|fin|C1
+die Markteintrittsbarriere|barrera de entrada||S|fin|C1
+das Marktversagen|fallo de mercado||S|fin|C1
+der externe Effekt|externalidad||L|fin|C1
+die Zahlungsbereitschaft|disposición a pagar||S|fin|C1
+der Grenznutzen|utilidad marginal||S|fin|C1
+der Skaleneffekt|economía de escala||S|fin|C1
+die Produktivität|productividad||S|fin|C1
+der Produktionsfaktor|factor de producción||S|fin|C1
+die Allokation|asignación de recursos||S|fin|C1
+die Knappheit|escasez||S|fin|C1
+das Gleichgewicht|equilibrio de mercado||S|fin|C1
+der Gleichgewichtspreis|precio de equilibrio||S|fin|C1
+der Angebotsüberschuss|exceso de oferta||S|fin|C1
+der Verdrängungswettbewerb|competencia depredadora||S|fin|C1
+die Gewinnschwelle|umbral de rentabilidad||S|fin|C1
+das Substitutionsgut|bien sustitutivo||S|fin|C1
+das Komplementärgut|bien complementario||S|fin|C1
+die Nutzenmaximierung|maximización de la utilidad||S|fin|C1
+der Marktanteil|cuota de mercado||S|fin|C1
+die Marktsegmentierung|segmentación de mercado||S|fin|C1
+die Rezession|recesión||S|fin|C1

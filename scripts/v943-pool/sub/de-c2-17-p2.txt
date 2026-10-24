@@ -1,0 +1,260 @@
+die Amtsperiode|periodo de mandato||S|ist|C2
+der Urnengang|votación (elecciones)||S|ist|C2
+das Direktmandat|escaño uninominal||S|ist|C2
+die Exekutive|poder ejecutivo||S|ist|C2
+die Legislative|poder legislativo||S|ist|C2
+die Judikative|poder judicial||S|ist|C2
+die Amtshilfe|cooperación entre administraciones||S|ist|C2
+die Regierungserklärung|declaración de gobierno||S|ist|C2
+die Koalitionsrunde|ronda de coalición||S|ist|C2
+der Kompromissvorschlag|propuesta de compromiso||S|ist|C2
+die Grundsatzentscheidung|decisión de principio||S|ist|C2
+die Verhandlungsbasis|base de negociación||S|ist|C2
+der Verhandlungspoker|treta negociadora||S|ist|C2
+das Machtwort|palabra autoritaria||S|ist|C2
+der Machtkampf|lucha por el poder||S|ist|C2
+die Amtsführung|ejercicio del cargo||S|ist|C2
+der Staatsdiener|servidor público||S|ist|C2
+der Länderfinanzausgleich|corrección financiera entre länder||S|ist|C2
+die Gebietskörperschaft|ente territorial||S|ist|C2
+das Bleiberecht|derecho de permanencia||S|ist|C2
+der Aufenthaltsstatus|situación de residencia||S|ist|C2
+die Rücküberführung|repatriación||S|ist|C2
+die Beitrittsverhandlung|negociación de adhesión||S|ist|C2
+die Grundfreiheit|libertad fundamental (ue)||S|ist|C2
+die Beihilfeaufsicht|control de ayudas de estado||S|ist|C2
+die Meistbegünstigungsklausel|cláusula de nación más favorecida||S|ist|C2
+die Konfliktbereinigung|resolución de conflictos||S|ist|C2
+der Gebietsanspruch|reivindicación territorial||S|ist|C2
+die Glaubensrichtung|confesión religiosa||S|rel|C2
+die Glaubensgemeinschaft|comunidad de creyentes||S|rel|C2
+die Glaubenslehre|doctrina religiosa||S|rel|C2
+die Heilslehre|doctrina de salvación||S|rel|C2
+die Erlösung|redención||S|rel|C2
+die Erbsünde|pecado original||S|rel|C2
+die Beichte|confesión (sacramento)||S|rel|C2
+das Glaubensbekenntnis|credo||S|rel|C2
+der Kirchenvater|padre de la iglesia||S|rel|C2
+das Kirchenjahr|calendario litúrgico||S|rel|C2
+die Fastenzeit|cuaresma||S|rel|C2
+das Bußsakrament|sacramento de la penitencia||S|rel|C2
+der Taufpate|padrino (bautismo)||S|rel|C2
+die Firmung|confirmación (católica)||S|rel|C2
+die Konfirmation|confirmación (protestante)||S|rel|C2
+das Jüngste Gericht|juicio final||L|rel|C2
+die Bergpredigt|sermón de la montaña||S|rel|C2
+der Psalter|salterio||S|rel|C2
+die Bundeslade|arca de la alianza||S|rel|C2
+die Gnadenlehre|doctrina de la gracia||S|rel|C2
+der Polytheismus|politeísmo||S|rel|C2
+die Schöpfungsgeschichte|relato de la creación||S|rel|C2
+der Sündenfall|caída (pecado original)||S|rel|C2
+die Verhaltensforschung|etología||S|ast|C2
+die Verhaltensweise|pauta de conducta||S|ast|C2
+die Selbstachtung|autoestima||S|emo|C2
+das Selbstwertgefühl|autoestima (valoración)||S|emo|C2
+der Zwangsgedanke|pensamiento intrusivo||S|sla|C2
+die Zwangshandlung|compulsión||S|sla|C2
+die Panikattacke|ataque de pánico||S|sla|C2
+die Grübelspirale|espiral de rumiación||S|sla|C2
+das Grübeln|rumiación||S|sla|C2
+der Abwehrmechanismus|mecanismo de defensa||S|sla|C2
+die Charakterstruktur|estructura caracterial||S|ast|C2
+die Persönlichkeitsstruktur|estructura de la personalidad||S|ast|C2
+der Reifungsprozess|proceso de maduración||S|ast|C2
+die Wahrnehmungsstörung|trastorno perceptivo||S|sla|C2
+der Verarbeitungsprozess|proceso de elaboración (psicológica)||S|ast|C2
+die Seelenverfassung|estado anímico||S|emo|C2
+die Gefühlsregung|impulso emocional||S|emo|C2
+der Erregungszustand|estado de agitación||S|emo|C2
+die Antriebsstörung|trastorno de la impulsión||S|sla|C2
+der Krankheitsgewinn|beneficio de la enfermedad||S|sla|C2
+die Widerstandskraft|fortaleza de resistencia||S|ast|C2
+die Absichtserklärung|declaración de intenciones||S|fin|C2
+der Geschäftsbericht|informe anual||S|fin|C2
+der Lagebericht|informe de gestión||S|fin|C2
+die Wirtschaftsförderung|promoción económica||S|fin|C2
+der Standortvorteil|ventaja de localización||S|fin|C2
+die Niederlassungsfreiheit|libertad de establecimiento||S|fin|C2
+der Kapitalertrag|rendimiento de capital||S|fin|C2
+die Ertragslage|situación de rentabilidad||S|fin|C2
+die Ertragsteuer|impuesto sobre la renta||S|fin|C2
+die Grunderwerbsteuer|impuesto de transmisiones patrimoniales||S|fin|C2
+der Steuerbescheid|liquidación fiscal||S|fin|C2
+die Einspruchsfrist|plazo de reclamación||S|fin|C2
+die Schadenregulierung|liquidación de siniestros||S|fin|C2
+die Deckungslücke|laguna de cobertura||S|fin|C2
+die Prämienerhöhung|subida de primas||S|fin|C2
+die Bonitätsprüfung|comprobación de solvencia||S|fin|C2
+das Mahnverfahren|procedimiento monitorio||S|fin|C2
+das Reagenz|reactivo||S|sci|C2
+der Farbindikator|indicador ácido-base||S|sci|C2
+die Oxidationsstufe|estado de oxidación||S|sci|C2
+das Reduktionsmittel|agente reductor||S|sci|C2
+die Reaktionsgleichung|ecuación química||S|sci|C2
+das Edukt|reactivo (inicial)||S|sci|C2
+die Stereochemie|estereoquímica||S|sci|C2
+das Enantiomer|enantiómero||S|sci|C2
+die Bindungsenergie|energía de enlace||S|sci|C2
+das Valenzelektron|electrón de valencia||S|sci|C2
+die Zerfallsreihe|serie de desintegración||S|sci|C2
+der Chromosomensatz|dotación cromosómica||S|sci|C2
+die Erbinformation|información genética||S|sci|C2
+die Genexpression|expresión génica||S|sci|C2
+das Proteom|proteoma||S|sci|C2
+das Chloroplast|cloroplasto||S|sci|C2
+die Stickstofffixierung|fijación de nitrógeno||S|sci|C2
+das Nahrungsgeflecht|red trófica||S|nat|C2
+das Massenwirkungsgesetz|ley de acción de masas||S|sci|C2
+der Siedeverzug|sobrecalentamiento retardado||S|sci|C2
+die Mischungslücke|miscibilidad parcial||S|sci|C2
+die Blauverschiebung|corrimiento al azul||S|sci|C2
+die Himmelsmechanik|mecánica celeste||S|sci|C2
+die Bahnstörung|perturbación orbital||S|sci|C2
+die Gezeitenkraft|fuerza de marea||S|sci|C2
+die Sonnenkorona|corona solar||S|sci|C2
+der Sonnenfleck|mancha solar||S|sci|C2
+der Sonnenwind|viento solar||S|sci|C2
+die Urknalltheorie|teoría del big bang||S|sci|C2
+der Rote Riese|gigante rojo||L|sci|C2
+der Weiße Zwerg|enana blanca||L|sci|C2
+das Schwarze Loch|agujero negro||L|sci|C2
+die Faltengebirge|cordillera de plegamiento||S|nat|C2
+die Feinstaubbelastung|contaminación por partículas||S|cli|C2
+die Lärmbelastung|contaminación acústica||S|cli|C2
+die Bodenversiegelung|sellado del suelo||S|nat|C2
+die Grundwasserabsenkung|descenso del nivel freático||S|nat|C2
+die Übernutzung|sobreexplotación||S|nat|C2
+die Überweidung|sobrepastoreo||S|nat|C2
+der Artenschwund|pérdida de especies||S|nat|C2
+der Bestandsrückgang|declive poblacional||S|nat|C2
+die Neobiota|especies exóticas invasoras||S|nat|C2
+die ökologische Nische|nicho ecológico||L|nat|C2
+der Biotopverbund|conectividad de hábitats||S|nat|C2
+die Dürreperiode|periodo de sequía||S|cli|C2
+das Wetterextrem|extremo meteorológico||S|cli|C2
+der Kohlenstoffkreislauf|ciclo del carbono||S|nat|C2
+die Meeresversauerung|acidificación de los océanos||S|cli|C2
+der Geschichtsschreiber|historiador||S|ist|C2
+die Vorzeit|prehistoria||S|ist|C2
+die Frühgeschichte|protohistoria||S|ist|C2
+der Feudalismus|feudalismo||S|ist|C2
+die Leibeigenschaft|servidumbre de la gleba||S|ist|C2
+der Vasall|vasallo||S|ist|C2
+das Lehnswesen|sistema de feudos||S|ist|C2
+der Reichstag|dieta imperial||S|ist|C2
+der Kurfürst|príncipe elector||S|ist|C2
+der Landesherr|señor territorial||S|ist|C2
+die Ständegesellschaft|sociedad estamental||S|ist|C2
+der Zunftzwang|coerción gremial||S|ist|C2
+die Völkerwanderung|migraciones (invasiones bárbaras)||S|ist|C2
+die Siedlungsgeschichte|historia del poblamiento||S|ist|C2
+die Quellenkritik|crítica de fuentes||S|ist|C2
+die Geschichtsepoche|época histórica||S|ist|C2
+verkommen|degradarse, caer en abandono||V|ast|C2
+erblühen|florecer||V|nat|C2
+verblühen|marchitarse||V|nat|C2
+verdorren|secarse (agostarse)||V|nat|C2
+wuchern|proliferar, crecer desmesuradamente||V|nat|C2
+sprießen|brotar||V|nat|C2
+verstreuen|diseminar||V|nat|C2
+niederreißen|derribar||V|ast|C2
+emporragen|alzarse (sobresalir)||V|ast|C2
+lauern|acechar||V|ast|C2
+erspähen|divisar||V|ast|C2
+erlauschen|captar al escuchar||V|cmu|C2
+horchen|aguzar el oído||V|cmu|C2
+verelenden|empobrecerse en masa||V|fin|C2
+erschlaffen|aflojarse||V|ast|C2
+erstarken|ir cobrando fuerza||V|ast|C2
+verhallen|desvanecerse (un sonido)||V|mus|C2
+aufwendig|costoso, elaborado||A|fin|C2
+zeitaufwendig|que consume mucho tiempo||A|tmp|C2
+gediegen|sólido, de buena factura||A|ast|C2
+karg|estéril, escaso||A|nat|C2
+spartanisch|espartano (austero)||A|ast|C2
+erbärmlich|lastimoso||A|emo|C2
+jämmerlich|lastimoso, deplorable||A|emo|C2
+bedauernswert|digno de lástima||A|emo|C2
+beachtlich|considerable||A|ast|C2
+beachtenswert|digno de mención||A|ast|C2
+nennenswert|digno de mención (apreciable)||A|ast|C2
+merklich|perceptible||A|ast|C2
+greifbar|palpable||A|ast|C2
+handfest|palpable, contundente||A|ast|C2
+triftig|fundado (una razón)||A|ast|C2
+schlüssig|coherente (lógico)||A|ast|C2
+einleuchtend|plausible, convincente||A|ast|C2
+naheliegend|evidente (lo primero que se ocurre)||A|ast|C2
+fernliegend|poco probable (lejano)||A|ast|C2
+einprägsam|fácil de recordar||A|cmu|C2
+denkwürdig|memorable||A|tmp|C2
+bedeutsam|trascendente||A|ast|C2
+weitschweifig|prolijo, difuso||A|cmu|C2
+verschachtelt|enrevesado (anidado)||A|ast|C2
+wirr|confuso (desordenado)||A|ast|C2
+die Fürsorgeerziehung|educación tutelar||S|ist|C2
+die Ideenlehre|teoría de las ideas||S|ast|C2
+die Seelenlehre|teoría del alma||S|ast|C2
+die Geisteshaltung|actitud mental||S|ast|C2
+die Vernunftkritik|crítica de la razón||S|ast|C2
+die Sprachkritik|crítica del lenguaje||S|ast|C2
+die Gesellschaftskritik|crítica social||S|ast|C2
+die Entvölkerung|despoblamiento||S|ist|C2
+die Lebensphilosophie|filosofía de la vida||S|ast|C2
+die Bewusstseinslage|estado de conciencia||S|ast|C2
+die Entschlusskraft|capacidad de decisión||S|ast|C2
+die Tatkraft|energía ejecutiva||S|ast|C2
+die Bockigkeit|testarudez||S|emo|C2
+der Hoffnungsschimmer|destello de esperanza||S|emo|C2
+die Verzweiflungstat|acto desesperado||S|emo|C2
+die Tollkühnheit|temeridad||S|emo|C2
+die Arglosigkeit|ingenuidad||S|emo|C2
+die Skrupellosigkeit|falta de escrúpulos||S|emo|C2
+die Pflichttreue|celo en el deber||S|emo|C2
+die Anständigkeit|decencia||S|emo|C2
+der Raubritter|caballero bandolero||S|ist|C2
+die Herrschaftsstruktur|estructura de poder||S|ist|C2
+der Herrschaftsanspruch|pretensión de dominio||S|ist|C2
+die Thronfolge|sucesión al trono||S|ist|C2
+der Thronanspruch|derecho al trono||S|ist|C2
+der Thronverzicht|renuncia al trono||S|ist|C2
+die Thronbesteigung|ascenso al trono||S|ist|C2
+der Dynastiewechsel|cambio de dinastía||S|ist|C2
+die Ahnengalerie|galería de ancestros||S|ist|C2
+die Stammburg|castillo ancestral||S|ist|C2
+die Reichsgründung|fundación del imperio||S|ist|C2
+die Reichsteilung|división del imperio||S|ist|C2
+der Landesausbau|expansión territorial (medieval)||S|ist|C2
+die Grundherrschaft|señorío territorial||S|ist|C2
+die Vogtei|advocación (señorío de tutela)||S|ist|C2
+ansehnlich|de buen parecer (apreciable)||A|ast|C2
+einnehmend|seductor (gracioso)||A|cmu|C2
+gewinnend|afable (encantador)||A|cmu|C2
+umgänglich|tratable||A|cmu|C2
+unbefangen|desinhibido||A|cmu|C2
+unbeschwert|despreocupado||A|emo|C2
+unverkrampft|sin complejos||A|cmu|C2
+zwanglos|espontáneo||A|cmu|C2
+geziert|remilgado||A|cmu|C2
+maniert|amanerado||A|cmu|C2
+geschraubt|rebuscado||A|let|C2
+hochtrabend|grandilocuente||A|let|C2
+prahlerisch|fanfarrón||A|cmu|C2
+prunkvoll|suntuoso||A|art|C2
+aufgeblasen|engreído (inflado)||A|cmu|C2
+veruntreuen|malversar||V|ist|C2
+verpfänden|empeñar||V|fin|C2
+veredeln|refinar (ennoblecer)||V|tec|C2
+verseuchen|contaminar (apestar)||V|nat|C2
+darben|pasar privaciones||V|fin|C2
+entbehren|carecer (prescindir)||V|ast|C2
+entraten|prescindir de||V|ast|C2
+sich abmühen|desgañitarse||V|lav|C2
+sich abplagen|matarse trabajando||V|lav|C2
+sich abrackern|esclavizarse||V|lav|C2
+frönen|darse a (un vicio)||V|ast|C2
+huldigen|rendir homenaje||V|art|C2
+sich erbarmen|apiadarse||V|emo|C2
+weilen|morar||V|vig|C2
+bezähmen|contener (moderar)||V|ast|C2

@@ -2728,3 +2728,11 @@ Work Log:
 Stage Summary:
 - v9.41 DESPLEGADA: juegos íntegramente en la lengua de estudio (5 idiomas), ahorcado multilingüe con alfabetos completos, tarjeta de ordenar restaurada para IT, diccionarios completos A1-C2 en EN/PT/FR/DE (falsos amigos, colocaciones, registro), fotos fase 2 en curso por chunks (109 nuevas en esta sesión: 86 noticias casi completas + inicio de secciones).
 - PENDIENTE fotos: ~191 restantes (noticias casi listas; luego 120 secciones + 34 scrittura + 62 pronuncia) → seguir con `timeout 570 bun scripts/v941-generate.ts --limit 32` (reanudable; cuota por minutos: esperar 5-10 min tras «CUOTA AGOTADA»). pt-news-c1-06 quedó con escena neutra (filtro 1301 doble): regenerar a mano con prompt específico de la avutarda/estepa de Castro Verde.
+Task ID: v9.43/gen/de-c1-10 · Agent: subagent · lexicón DE C1: 1032 entradas · awk OK
+Task ID: v9.43/gen/de-c2-13 · Agent: subagent · lexicón DE C2: 1040 entradas · awk OK
+Task ID: v9.43/gen/de-c1-12 · Agent: subagent · lexicón DE C1: 1032 entradas · awk OK
+Task ID: v9.43/gen/de-c2-14 · Agent: subagent · lexicón DE C2: 1040 entradas · awk OK
+Task ID: v9.43/gen/en-b1-02 · Agent: subagent · lexicón EN B1: 1032 entradas · awk OK
+Task ID: v9.43/gen/en-b2-03 · Agent: subagent · lexicón EN B2: 1032 entradas · awk OK
+Task ID: v9.43/gen/de-b1-02 · Agent: subagent · lexicón DE B1: 1032 entradas · awk OK
+Task ID: v9.43/gen/de-c2-17 · Agent: subagent · lexicón DE C2: 1040 entradas · awk OK

@@ -1,0 +1,258 @@
+die Viehzucht|ganadería (cría de ganado)||S|ani|C1
+die Aufzucht|cría, lactancia (de animales)||S|ani|C1
+züchten|criar, seleccionar (razas)||V|ani|C1
+der Züchter|criador, ganadero||S|pro|C1
+die Schafhaltung|ganadería ovina||S|ani|C1
+das Grünfutter|forraje verde||S|ani|C1
+das Weideland|pastizal, tierra de pastoreo||S|nat|C1
+der Viehbestand|cabaña ganadera||S|ani|C1
+mästen|engordar (ganado para consumo)||V|ani|C1
+die Mast|engorde (de ganado)||S|ani|C1
+das Euter|ubre||S|ani|C1
+melken|ordeñar||V|ani|C1
+die Melkanlage|instalación de ordeño||S|tec|C1
+der Schlachthof|matadero||S|ali|C1
+die Imkerei|apicultura||S|nat|C1
+der Imker|apicultor||S|pro|C1
+das Bienenvolk|colonia de abejas||S|nat|C1
+die Stallung|estabulación, conjunto de establos||S|ani|C1
+die Almwirtschaft|ganadería alpina||S|nat|C1
+der Beifang|captura accidental (pesca)||S|nat|C1
+die Fangquote|cuota de pesca||S|nat|C1
+das Schleppnetz|red de arrastre||S|nat|C1
+der Kabeljau|bacalao||S|ali|C1
+der Laich|desove, freza||S|ani|C1
+laichen|desovar||V|ani|C1
+die Aquakultur|acuicultura||S|sci|C1
+die Teichwirtschaft|piscicultura de estanques||S|nat|C1
+die Überfischung|sobrepesca||S|nat|C1
+das Gehege|recinto, vallado (para animales)||S|ani|C1
+die Wilderei|caza furtiva||S|nat|C1
+das Wildbret|carne de caza||S|ali|C1
+die Forstwirtschaft|silvicultura||S|nat|C1
+der Förster|guardabosques, ingeniero de montes||S|pro|C1
+der Waldbestand|masa forestal||S|nat|C1
+die Aufforstung|repoblación forestal||S|nat|C1
+aufforsten|repoblar (un monte)||V|nat|C1
+der Kahlschlag|tala a matarrasa||S|nat|C1
+der Wipfel|copa (de un árbol)||S|nat|C1
+das Geäst|ramaje||S|nat|C1
+der Trieb|brote, vástago||S|nat|C1
+die Rinde|corteza||S|nat|C1
+das Splintholz|albura||S|nat|C1
+das Laubholz|madera de frondosas||S|nat|C1
+das Nadelholz|madera de coníferas||S|nat|C1
+das Totholz|madera muerta||S|nat|C1
+die Naturverjüngung|regeneración natural del bosque||S|nat|C1
+der Einschlag|aprovechamiento maderero anual||S|nat|C1
+das Sägewerk|aserradero||S|nat|C1
+das Scheitholz|leña troceada||S|nat|C1
+das Reisig|ramaje menudo, hojarasca||S|nat|C1
+die Waldbrandgefahr|peligro de incendio forestal||S|nat|C1
+die Brandrodung|tala y quema (roza)||S|nat|C1
+der Windbruch|derrumbe por viento (árbol caído)||S|nat|C1
+der Blitzschlag|impacto de rayo||S|nat|C1
+die Lärche|alerce||S|nat|C1
+die Esche|fresno||S|nat|C1
+aufflammen|prender con fuerza, encenderse||V|nat|C1
+verkohlen|carbonizarse||V|nat|C1
+die Glut|brasa, rescoldo||S|nat|C1
+der Funke|chispa||S|nat|C1
+der Borkenkäfer|escarabajo descortezador||S|nat|C1
+das Unterholz|sotobosque, matorral||S|nat|C1
+die Abfallwirtschaft|gestión de residuos||S|att|C1
+die Mülldeponie|vertedero||S|att|C1
+die Müllverbrennung|incineración de residuos||S|att|C1
+der Wertstoff|materia aprovechable, reciclable||S|att|C1
+die Wiederverwertung|revalorización, reciclaje||S|att|C1
+verwerten|revalorizar, aprovechar||V|att|C1
+die Kreislaufwirtschaft|economía circular||S|fin|C1
+die Wegwerfgesellschaft|sociedad de usar y tirar||S|att|C1
+der Schrott|chatarra||S|att|C1
+die Aufbereitungsanlage|planta de tratamiento de residuos||S|att|C1
+die Beseitigung|eliminación (de residuos)||S|att|C1
+die Entsorgung|gestión y eliminación de desechos||S|att|C1
+die Instandsetzung|reparación, puesta a punto||S|tec|C1
+die Obsoleszenz|obsolescencia||S|tec|C1
+der Emissionshandel|comercio de emisiones||S|fin|C1
+die Kompostierung|compostaje||S|nat|C1
+das Einwegprodukt|producto de un solo uso||S|cmp|C1
+die Mehrwegverpackung|envase retornable||S|cmp|C1
+das Mikroplastik|microplásticos||S|sci|C1
+die Umweltbelastung|carga ambiental||S|nat|C1
+der Schadstoff|sustancia nociva||S|sci|C1
+die Nachhaltigkeit|sostenibilidad||S|att|C1
+der Verpackungsmüll|residuos de envases||S|att|C1
+die Rücknahme|retorno, recogida (de usados)||S|att|C1
+die Wiederverwendung|reutilización||S|att|C1
+die Abfallvermeidung|prevención de residuos||S|att|C1
+das Downcycling|infra-reciclaje con pérdida de valor||S|tec|C1
+die Einsparung|ahorro (de recursos)||S|fin|C1
+die Ökobilanz|análisis de ciclo de vida||S|sci|C1
+das Pfandsystem|sistema de depósito de envases||S|cmp|C1
+der Sekundärrohstoff|materia prima secundaria||S|tec|C1
+einsichtig|dócil a la razón, consciente del error||A|ast|C1
+besonnen|sereno, ponderado||A|ast|C1
+unbeugsam|inquebrantable, inflexible||A|ast|C1
+einschlägig|pertinente, del ramo||A|ast|C1
+bezeichnend|significativo, revelador||A|ast|C1
+nachlässig|negligente, descuidado||A|ast|C1
+pflichtbewusst|cumplidor, consciente del deber||A|ast|C1
+gewissenhaft|escrupuloso, concienzudo||A|ast|C1
+leichtfertig|irreflexivo, temerario||A|ast|C1
+mutwillig|caprichoso, doloso (vandálico)||A|ast|C1
+argwöhnisch|receloso, desconfiado||A|ast|C1
+hochmütig|altivo, soberbio||A|ast|C1
+eitel|vanidoso, engreído||A|ast|C1
+behutsam|cauteloso, delicado||A|ast|C1
+rücksichtslos|desconsiderado, sin miramientos||A|ast|C1
+skrupellos|sin escrúpulos||A|ast|C1
+barmherzig|misericordioso||A|ast|C1
+gnädig|clemente, benigno||A|ast|C1
+spröde|esquivo, reacio||A|ast|C1
+hinterlistig|artero, malicioso||A|ast|C1
+unverbesserlich|incorregible||A|ast|C1
+hartherzig|insensible, de corazón duro||A|ast|C1
+kleinlich|mezquino, quisquilloso||A|ast|C1
+engstirnig|corto de miras, cerril||A|ast|C1
+bestechlich|sobornable||A|ast|C1
+unbestechlich|incorruptible, insobornable||A|ast|C1
+verschlagen|taimado, ladino||A|ast|C1
+niederträchtig|ruin, vil||A|ast|C1
+ehrwürdig|venerable, digno||A|ast|C1
+geistreich|ingenioso, agudo||A|ast|C1
+geradlinig|recto, sin rodeos||A|ast|C1
+weitsichtig|previsor, de miras amplias||A|ast|C1
+maßgeblich|determinante, decisivo||A|ast|C1
+wahllos|aleatorio, indiscriminado||A|ast|C1
+darlegen|exponer, desarrollar (un razonamiento)||V|cmu|C1
+erörtern|debatir, discurrir (sobre algo)||V|cmu|C1
+erwägen|sopesar, considerar||V|cmu|C1
+einwenden|objetar||V|cmu|C1
+widerlegen|refutar||V|cmu|C1
+belegen|documentar, acreditar||V|stu|C1
+untermauern|respaldar, reforzar (con datos)||V|cmu|C1
+vorbringen|alegar, exponer (una razón)||V|cmu|C1
+einräumen|conceder (un punto)||V|cmu|C1
+abstreiten|negar rotundamente||V|cmu|C1
+beteuern|aseverar, jurar y perjurarse||V|cmu|C1
+bekräftigen|reafirmar, corroborar||V|cmu|C1
+suggerieren|insinuar, sugerir||V|cmu|C1
+insinuieren|insinuar (con malicia)||V|cmu|C1
+dementieren|desmentir||V|cmu|C1
+verlautbaren|hacer saber (oficialmente)||V|cmu|C1
+einordnen|encuadrar, situar en contexto||V|cmu|C1
+relativieren|relativizar||V|cmu|C1
+verharmlosen|banalizar, restar gravedad||V|cmu|C1
+beschönigen|maquillar, disimular (la verdad)||V|cmu|C1
+beschwichtigen|apaciguar, quitar hierro||V|cmu|C1
+plädieren|abogar por, defender (una tesis)||V|cmu|C1
+konstatieren|constatar||V|cmu|C1
+postulieren|postular||V|stu|C1
+resümieren|resumir, hacer balance||V|cmu|C1
+kolportieren|propagar (rumores)||V|cmu|C1
+exponieren|exponer, poner de relieve||V|cmu|C1
+auseinandersetzen|disecar, desglosar (un tema)||V|stu|C1
+sich berufen auf|invocar, ampararse en||E|cmu|C1
+hindeuten auf|aludir a, apuntar a||E|cmu|C1
+Stellung beziehen|pronunciarse, tomar postura||L|cmu|C1
+in Betracht ziehen|tener en cuenta, barajar||L|cnn|C1
+in Frage stellen|poner en tela de juicio||L|cmu|C1
+zur Sprache bringen|sacar a colación||L|cmu|C1
+die Erkenntnis|hallazgo, conocimiento adquirido||S|stu|C1
+die Erkenntnistheorie|teoría del conocimiento||S|stu|C1
+die Auseinandersetzung|debate, polémica (también lucha)||S|cmu|C1
+die Abhandlung|disertación, tratado||S|stu|C1
+die Denkschrift|memorial, informe de posición||S|ist|C1
+die Ausarbeitung|elaboración, documento desarrollado||S|stu|C1
+die Grundannahme|supuesto de partida||S|stu|C1
+die Vorgehensweise|procedimiento, modo de proceder||S|stu|C1
+das Fachgebiet|disciplina, campo académico||S|stu|C1
+die Teildisziplin|subdisciplina||S|stu|C1
+der Forschungsstand|estado de la investigación||S|stu|C1
+der Kenntnisstand|nivel de conocimientos||S|stu|C1
+die Gelehrsamkeit|erudición||S|stu|C1
+der Wissenschaftszweig|rama del saber||S|sci|C1
+die Denkart|manera de pensar||S|ast|C1
+das Denkvermögen|capacidad de razonamiento||S|ast|C1
+die Urteilskraft|capacidad de juicio||S|ast|C1
+der Gedankengang|hilo del razonamiento||S|stu|C1
+die Schlussfolgerung|conclusión, inferencia||S|stu|C1
+die Auslegung|interpretación (hermenéutica)||S|stu|C1
+die Betrachtung|consideración, examen||S|stu|C1
+die Betrachtungsweise|óptica, enfoque||S|stu|C1
+die Fragestellung|planteamiento del problema||S|stu|C1
+die Datenlage|situación de los datos||S|stu|C1
+die Geisteswissenschaft|disciplina humanística||S|stu|C1
+die Fachsprache|lengua de especialidad||S|stu|C1
+der Fachbegriff|término técnico||S|stu|C1
+die Begriffsbildung|formación de conceptos||S|stu|C1
+das Vorwissen|conocimientos previos||S|stu|C1
+die Aneignung|apropiación (de saberes)||S|stu|C1
+die Vermittlung|transmisión, mediación docente||S|stu|C1
+wahrhaftig|veraz, verdadero||A|ast|C1
+die Glaubwürdigkeit|credibilidad||S|cmu|C1
+die Selbsttäuschung|autoengaño||S|ast|C1
+die Unwahrheit|falsedad, mentira||S|cmu|C1
+die Falschheit|doblez, falsedad||S|ast|C1
+die Tatsachenverdrehung|tergiversación de los hechos||S|cmu|C1
+Der Schein trügt|las apariencias engañan||L|ast|C1
+die Vorspiegelung|fingimiento, patraña||S|cmu|C1
+das Blendwerk|engaño, espejismo||S|let|C1
+die Irreführung|inducción a error||S|cmu|C1
+die Unterstellung|imputación sin fundamento||S|cmu|C1
+die Verleumdung|calumnia||S|ist|C1
+die Übereinstimmung|coincidencia, correspondencia||S|sci|C1
+die Beglaubigung|autenticación, fe pública||S|ist|C1
+die Fälschung|falsificación||S|ist|C1
+die Schönfärberei|cosmética de la realidad||S|cmu|C1
+das Hörensagen|oídas, prueba de oídas||S|cmu|C1
+die Mutmaßung|conjetura, presunción||S|ast|C1
+unstrittig|incuestionable, pacífico||A|ast|C1
+unwiderleglich|irrefutable||A|ast|C1
+trügerisch|engañoso, falaz||A|ast|C1
+wahrheitsgemäß|conforme a la verdad||A|cmu|C1
+die Wahrhaftigkeit|veracidad, sinceridad||S|ast|C1
+unbescholten|de conducta intachable||A|ast|C1
+die Aufrichtigkeit|franqueza, sinceridad||S|ast|C1
+die Flunkerei|patrañas, cuentos chinos||S|cmu|C1
+das Hirngespinst|quimera, ensueño||S|ast|C1
+das Wunschdenken|pensamiento desiderativo||S|ast|C1
+die Fehleinschätzung|error de juicio||S|ast|C1
+die Falschaussage|declaración falsa||S|ist|C1
+die Halbwahrheit|media verdad||S|cmu|C1
+die Scheinheiligkeit|hipocresía, beatería||S|ast|C1
+die Verlogenheit|mendacidad||S|ast|C1
+die Feinheit|finura, sutileza||S|ast|C1
+die Erhabenheit|sublimidad||S|art|C1
+erhaben|sublime, elevado||A|art|C1
+die Anmut|gracia, donaire||S|art|C1
+die Grazie|gracia, elegancia||S|art|C1
+die Zierde|adorno, atavío||S|art|C1
+geschmackvoll|de buen gusto||A|art|C1
+geschmacklos|de mal gusto, hortera||A|art|C1
+der Kitsch|kitsch, cursilería||S|art|C1
+kitschig|cursi, hortera||A|art|C1
+der Kunstsinn|sensibilidad artística||S|art|C1
+die Formvollendung|perfección formal||S|art|C1
+die Ausgewogenheit|equilibrio, proporción||S|ast|C1
+die Stimmigkeit|coherencia, que todo encaja||S|ast|C1
+die Angemessenheit|proporción, decoro||S|ast|C1
+die Schicklichkeit|decoro, conveniencias||S|ast|C1
+würdevoll|digno, con dignidad||A|ast|C1
+ehrenwert|digno de estima, loable||A|ast|C1
+anrüchig|de mala fama, sospechoso||A|ast|C1
+verwerflich|reprobable, condenable||A|ast|C1
+abscheulich|abominable, asqueroso||A|ast|C1
+die Sittsamkeit|recato, pudor||S|ast|C1
+züchtig|recatado, pudoroso||A|ast|C1
+die Keuschheit|castidad||S|ast|C1
+lasziv|lascivo||A|ast|C1
+frivol|frívolo, ligero||A|ast|C1
+prüde|puritano, mojigato||A|ast|C1
+das Schamgefühl|sentido del pudor||S|ast|C1
+die Schamlosigkeit|desvergüenza||S|ast|C1
+die Gefälligkeit|complacencia, deferencia||S|ast|C1
+das Feingefühl|tacto, sensibilidad fina||S|ast|C1
+das Taktgefühl|sentido de la oportunidad||S|rel|C1
+die Wohlanständigkeit|decencia, respetabilidad||S|ast|C1

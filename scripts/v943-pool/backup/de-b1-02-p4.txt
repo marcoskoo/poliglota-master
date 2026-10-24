@@ -1,0 +1,258 @@
+die Umwelt|medio ambiente||S|nat|B1
+der Umweltschutz|protección del medio ambiente||S|nat|B1
+die Umweltverschmutzung|contaminación ambiental||S|nat|B1
+der Abfall|residuos||S|nat|B1
+die Wiederverwertung|reciclaje||S|nat|B1
+recyceln|reciclar||V|nat|B1
+der Glascontainer|contenedor de vidrio||S|nat|B1
+der Waldbrand|incendio forestal||S|nat|B1
+die Aufforstung|repoblación forestal||S|nat|B1
+das Naturschutzgebiet|reserva natural||S|nat|B1
+die Pflanzenwelt|flora||S|nat|B1
+ökologisch|ecológico||A|nat|B1
+der Bach|arroyo||S|nat|B1
+der Badesee|lago de baño||S|nat|B1
+die Quelle|manantial||S|nat|B1
+das Grundwasser|agua subterránea||S|nat|B1
+der Wasserkreislauf|ciclo del agua||S|nat|B1
+die Meeresströmung|corriente marina||S|nat|B1
+die Düne|duna||S|nat|B1
+der Fels|roca||S|nat|B1
+der Kies|grava||S|nat|B1
+das Erdbeben|terremoto||S|nat|B1
+die Naturkatastrophe|catástrofe natural||S|nat|B1
+die Überschwemmung|inundación||S|nat|B1
+das Hochwasser|crecida||S|nat|B1
+die Dürre|sequía||S|nat|B1
+das Unwetter|temporal||S|nat|B1
+der Blitz|relámpago||S|nat|B1
+der Donner|trueno||S|nat|B1
+das Gewitter|tormenta||S|nat|B1
+der Regenbogen|arcoíris||S|nat|B1
+die Luftqualität|calidad del aire||S|nat|B1
+das Klima|clima||S|cli|B1
+der Klimawandel|cambio climático||S|cli|B1
+die Klimakrise|crisis climática||S|cli|B1
+die globale Erwärmung|calentamiento global||S|cli|B1
+der Treibhauseffekt|efecto invernadero||S|cli|B1
+das Treibhausgas|gas de efecto invernadero||S|cli|B1
+der CO2-Ausstoß|emisión de CO2||S|cli|B1
+bewölkt|nublado||A|cli|B1
+die Energieeinsparung|ahorro energético||S|cli|B1
+die erneuerbare Energie|energía renovable||L|cli|B1
+die Solarenergie|energía solar||S|cli|B1
+die Windkraft|energía eólica||S|cli|B1
+die Wasserkraft|energía hidráulica||S|cli|B1
+das Kraftwerk|central eléctrica||S|cli|B1
+das Atomkraftwerk|central nuclear||S|cli|B1
+der Stromverbrauch|consumo eléctrico||S|cli|B1
+die Wettervorhersage|pronóstico del tiempo||S|cli|B1
+die Wetterlage|situación meteorológica||S|cli|B1
+das Thermometer|termómetro||S|cli|B1
+der Luftdruck|presión atmosférica||S|cli|B1
+der Niederschlag|precipitación||S|cli|B1
+die Kälte|frío (intenso)||S|cli|B1
+die Hitze|calor (intenso)||S|cli|B1
+der Hagel|granizo||S|cli|B1
+das Wildtier|animal salvaje||S|ani|B1
+das Wildgehege|parque de animales||S|ani|B1
+das Vieh|ganado||S|ani|B1
+der Stier|toro||S|ani|B1
+die Ziege|cabra||S|ani|B1
+das Ferkel|lechón||S|ani|B1
+der Hahn|gallo||S|ani|B1
+der Truthahn|pavo||S|ani|B1
+das Fohlen|potro||S|ani|B1
+der Wachhund|perro guardián||S|ani|B1
+der Kater|gato (macho)||S|ani|B1
+der Igel|erizo||S|ani|B1
+das Eichhörnchen|ardilla||S|ani|B1
+der Fuchs|zorro||S|ani|B1
+der Dachs|tejón||S|ani|B1
+das Reh|corzo||S|ani|B1
+der Hirsch|ciervo||S|ani|B1
+das Wildschwein|jabalí||S|ani|B1
+der Uhu|búho real||S|ani|B1
+die Eule|búho, lechuza||S|ani|B1
+der Storch|cigüeña||S|ani|B1
+die Wespe|avispa||S|ani|B1
+der Schwan|cisne||S|ani|B1
+die Mücke|mosquito||S|ani|B1
+der Zeitraum|período||S|tmp|B1
+gleichzeitig|al mismo tiempo||D|tmp|B1
+der Augenblick|instante||S|tmp|B1
+die Vergangenheit|pasado||S|tmp|B1
+die Gegenwart|presente||S|tmp|B1
+zukünftig|futuro (adj.)||A|tmp|B1
+der Zeitpunkt|momento puntual||S|tmp|B1
+der Stichtag|fecha límite||S|tmp|B1
+die Tageszeit|hora del día||S|tmp|B1
+unpünktlich|impuntual||A|tmp|B1
+die Zeitverschiebung|diferencia horaria||S|tmp|B1
+die Sommerzeit|horario de verano||S|tmp|B1
+der Feiertag|festivo||S|tmp|B1
+der Werktag|día laborable||S|tmp|B1
+der Kalender|calendario||S|tmp|B1
+der Jahrestag|aniversario||S|tmp|B1
+das Jubiläum|aniversario (celebración)||S|tmp|B1
+die Silvesternacht|nochevieja||S|tmp|B1
+saisonal|de temporada||A|tmp|B1
+die Epoche|época||S|tmp|B1
+das Jahrhundert|siglo||S|tmp|B1
+das Jahrzehnt|década||S|tmp|B1
+die Freizeitgestaltung|organización del tiempo libre||S|sve|B1
+die Freizeitaktivität|actividad de ocio||S|sve|B1
+der Verein|asociación||S|sve|B1
+die Mitgliedschaft|membresía||S|sve|B1
+das Mitglied|miembro||S|sve|B1
+die Volkshochschule|escuela de adultos||S|sve|B1
+der Anfängerkurs|curso para principiantes||S|sve|B1
+das Basteln|manualidades||S|sve|B1
+stricken|hacer punto||V|sve|B1
+häkeln|hacer ganchillo||V|sve|B1
+das Puzzle|puzzle||S|sve|B1
+das Brettspiel|juego de mesa||S|sve|B1
+das Kartenspiel|juego de cartas||S|sve|B1
+würfeln|tirar los dados||V|sve|B1
+die Grillparty|fiesta de barbacoa||S|sve|B1
+die Picknickdecke|manta de pícnic||S|sve|B1
+der Spaziergang|paseo||S|sve|B1
+die Radtour|ruta en bici||S|sve|B1
+die Ferienwohnung|apartamento vacacional||S|sve|B1
+die Gartenparty|fiesta en el jardín||S|sve|B1
+die Feier|celebración||S|sve|B1
+feiern|celebrar||V|sve|B1
+das Volksfest|fiesta popular||S|sve|B1
+der Jahrmarkt|feria||S|sve|B1
+das Karussell|tiovivo||S|sve|B1
+das Riesenrad|noria||S|sve|B1
+der Gewinn|premio, ganancia||S|sve|B1
+die Schaukel|columpio||S|sve|B1
+der Sportverein|club deportivo||S|spt|B1
+das Training|entrenamiento||S|spt|B1
+trainieren|entrenar||V|spt|B1
+der Trainer|entrenador||S|spt|B1
+der Gegner|adversario||S|spt|B1
+der Spieltag|jornada||S|spt|B1
+das Turnier|torneo||S|spt|B1
+das Endspiel|final||S|spt|B1
+das Halbfinale|semifinal||S|spt|B1
+das Elfmeterschießen|tanda de penaltis||S|spt|B1
+das Ergebnis|resultado||S|spt|B1
+die Niederlage|derrota||S|spt|B1
+gewinnen|ganar||V|spt|B1
+die Tabelle|clasificación||S|spt|B1
+das Gegentor|gol en propia puerta||S|spt|B1
+das Feld|campo||S|spt|B1
+das Fitnessstudio|gimnasio||S|spt|B1
+das Foul|falta||S|spt|B1
+der Freistoß|tiro libre||S|spt|B1
+der Schiedsrichter|árbitro||S|spt|B1
+die Tribüne|grada||S|spt|B1
+die Eintrittskarte|entrada||S|spt|B1
+das Musikstück|pieza musical||S|mus|B1
+die Band|banda||S|mus|B1
+der Chor|coro||S|mus|B1
+mitsingen|cantar con otros||V|mus|B1
+die Geige|violín||S|mus|B1
+das Cello|violonchelo||S|mus|B1
+die Klarinette|clarinete||S|mus|B1
+die Trompete|trompeta||S|mus|B1
+das Schlagzeug|batería||S|mus|B1
+die E-Gitarre|guitarra eléctrica||S|mus|B1
+der Dirigent|director de orquesta||S|mus|B1
+das Orchester|orquesta||S|mus|B1
+das Opernhaus|teatro de la ópera||S|mus|B1
+der Refrain|estribillo||S|mus|B1
+der Spielfilm|largometraje de ficción||S|cin|B1
+die Vorstellung|función||S|cin|B1
+die Vorführung|proyección, función||S|cin|B1
+die Leinwand|pantalla (cine)||S|cin|B1
+der Hauptdarsteller|actor principal||S|cin|B1
+die Hauptdarstellerin|actriz principal||S|cin|B1
+die Nebenrolle|papel secundario||S|cin|B1
+die Besetzung|reparto||S|cin|B1
+die Handlung|trama||S|cin|B1
+die Filmkritik|crítica de cine||S|cin|B1
+die Untertitel|subtítulos||S|cin|B1
+die Originalfassung|versión original||S|cin|B1
+der Kinosaal|sala de cine||S|cin|B1
+das Popcorn|palomitas||S|cin|B1
+das Kunstwerk|obra de arte||S|art|B1
+der Bildhauer|escultor||S|art|B1
+die Künstlerin|artista (mujer)||S|art|B1
+die Ausstellung|exposición||S|art|B1
+die Vernissage|inauguración (exposición)||S|art|B1
+die Galerie|galería de arte||S|art|B1
+das Gemälde|cuadro||S|art|B1
+die Skulptur|escultura||S|art|B1
+die Zeichnung|dibujo||S|art|B1
+das Atelier|taller de artista||S|art|B1
+die Literatur|literatura||S|let|B1
+der Kriminalroman|novela policíaca||S|let|B1
+der Bestseller|superventas||S|let|B1
+das Sachbuch|libro divulgativo||S|let|B1
+die Autorin|autora||S|let|B1
+der Verlag|editorial||S|let|B1
+vorlesen|leer en voz alta||V|let|B1
+das Bücherregal|librería (mueble)||S|let|B1
+die Nachrichten|noticias||S|att|B1
+die Schlagzeile|titular||S|att|B1
+die Meldung|noticia breve||S|att|B1
+der Bericht|reportaje||S|att|B1
+berichten|informar||V|att|B1
+der Reporter|reportero||S|att|B1
+die Reportage|reportaje (género)||S|att|B1
+das Interview|entrevista||S|att|B1
+die Umfrage|encuesta||S|att|B1
+das Ereignis|acontecimiento||S|att|B1
+die Behörde|organismo público||S|ist|B1
+das Amt|oficina pública||S|ist|B1
+der Antrag|solicitud||S|ist|B1
+beantragen|solicitar||V|ist|B1
+das Formular|formulario||S|ist|B1
+ausfüllen|rellenar||V|ist|B1
+die Bescheinigung|certificado||S|ist|B1
+die Bearbeitung|tramitación||S|ist|B1
+bearbeiten|tramitar||V|ist|B1
+zuständig|competente||A|ist|B1
+der Bürger|ciudadano||S|ist|B1
+die Bürgerin|ciudadana||S|ist|B1
+der Laptop|portátil||S|tec|B1
+die Festplatte|disco duro||S|tec|B1
+ausdrucken|imprimir||V|tec|B1
+die Datei|archivo||S|tec|B1
+speichern|guardar||V|tec|B1
+hochladen|subir (un archivo)||V|tec|B1
+herunterladen|descargar||V|tec|B1
+die Bedienungsanleitung|instrucciones de uso||S|tec|B1
+die Ursache|causa||S|ast|B1
+die Folge|consecuencia||S|ast|B1
+der Vorteil|ventaja||S|ast|B1
+der Nachteil|desventaja||S|ast|B1
+obwohl|aunque||C|cnn|B1
+trotzdem|aun así||D|cnn|B1
+aus diesem Grund|por este motivo||L|cnn|B1
+während|mientras||C|cnn|B1
+bevor|antes de que||C|cnn|B1
+nachdem|después de que||C|cnn|B1
+seitdem|desde entonces||D|cnn|B1
+sobald|tan pronto como||C|cnn|B1
+falls|en caso de que||C|cnn|B1
+indem|mediante, mientras (modo)||C|cnn|B1
+damit|para que||C|cnn|B1
+dadurch|por ello||D|cnn|B1
+dabei|entretanto, con ello||D|cnn|B1
+zusätzlich|adicionalmente||D|cnn|B1
+allerdings|no obstante||D|cnn|B1
+hingegen|en cambio||D|cnn|B1
+einerseits|por una parte||D|cnn|B1
+andererseits|por otra parte||D|cnn|B1
+jedoch|sin embargo||C|cnn|B1
+nämlich|pues, es decir||D|cnn|B1
+sodass|de modo que||C|cnn|B1
+je nachdem|según el caso||L|cnn|B1
+die Hecke|seto||S|nat|B1
+das Nutztier|animal de granja||S|ani|B1
+die Titelseite|portada||S|att|B1
+die Staatsbürgerschaft|ciudadanía||S|ist|B1

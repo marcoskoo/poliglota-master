@@ -1,0 +1,260 @@
+der Zolltarif|arancel aduanero||S|fin|C2
+zollfrei|exento de aranceles||A|fin|C2
+das Freihandelsabkommen|acuerdo de libre comercio||S|fin|C2
+der Handelskonflikt|conflicto comercial||S|fin|C2
+die Ausfuhr|exportación||S|fin|C2
+die Einfuhr|importación||S|fin|C2
+die Einfuhrbeschränkung|restricción a la importación||S|fin|C2
+die Handelsbilanz|balanza comercial||S|fin|C2
+die Zahlungsbilanz|balanza de pagos||S|fin|C2
+das Handelsdefizit|déficit comercial||S|fin|C2
+die Subvention|subvención||S|fin|C2
+die Agrarsubvention|subvención agrícola||S|fin|C2
+der Marktzugang|acceso al mercado||S|fin|C2
+die Antidumpingmaßnahme|medida antidumping||S|fin|C2
+das Dumping|dumping, venta bajo coste||S|fin|C2
+der Warenverkehr|tráfico de mercancías||S|fin|C2
+das Embargo|embargo||S|fin|C2
+die Ursprungsregel|norma de origen||S|fin|C2
+die Lieferkette|cadena de suministro||S|fin|C2
+die Ausfuhrförderung|fomento de las exportaciones||S|fin|C2
+die Quote|cuota||S|fin|C2
+das Präferenzabkommen|acuerdo comercial preferencial||S|fin|C2
+der Grenzausgleich|ajuste fronterizo de emisiones||S|fin|C2
+die Wirtschaftsunion|unión económica||S|fin|C2
+der Exportüberschuss|superávit exportador||S|fin|C2
+der Warenumschlag|rotación de mercancías||S|fin|C2
+der Binnenmarkt|mercado interior||S|fin|C2
+die Abschöpfung|gravamen compensatorio a la importación||S|fin|C2
+die Freizügigkeit|libre circulación de personas||S|ist|C2
+die Buchführung|contabilidad||S|fin|C2
+der Jahresabschluss|cuentas anuales||S|fin|C2
+die Bilanz|balance de situación||S|fin|C2
+die Gewinn- und Verlustrechnung|cuenta de pérdidas y ganancias||S|fin|C2
+die Abschreibung|amortización, depreciación||S|fin|C2
+die Rückstellung|provisión para riesgos||S|fin|C2
+der Posten|partida contable||S|fin|C2
+das Soll|debe, en contabilidad||S|fin|C2
+das Haben|haber, en contabilidad||S|fin|C2
+der Wirtschaftsprüfer|auditor de cuentas||S|pro|C2
+der Bestätigungsvermerk|informe de auditoría||S|fin|C2
+der Vorstand|consejo de administración||S|fin|C2
+die Hauptversammlung|junta general de accionistas||S|fin|C2
+der Aufsichtsrat|consejo de supervisión||S|fin|C2
+die Beteiligung|participación accionarial||S|fin|C2
+die Kapitalerhöhung|ampliación de capital||S|fin|C2
+die Dividende|dividendo||S|fin|C2
+die Vorzugsaktie|acción preferente||S|fin|C2
+der Aktienkurs|cotización de una acción||S|fin|C2
+der Börsengang|salida a bolsa||S|fin|C2
+das Übernahmeangebot|oferta pública de adquisición||S|fin|C2
+der Konzern|grupo empresarial||S|fin|C2
+die Tochtergesellschaft|filial||S|fin|C2
+die Insolvenz|insolvencia||S|fin|C2
+das Insolvenzverfahren|concurso de acreedores||S|fin|C2
+der Forderungsausfall|impago de créditos||S|fin|C2
+der Steuerberater|asesor fiscal||S|pro|C2
+die Steuerhinterziehung|evasión fiscal||S|fin|C2
+die Verbindlichkeit|pasivo, obligaciones exigibles||S|fin|C2
+die Säumnis|mora, retraso en el cumplimiento||S|fin|C2
+das Derivat|derivado financiero||S|fin|C2
+die Option|opción financiera||S|fin|C2
+der Optionsschein|warrant||S|fin|C2
+der Future|contrato de futuro||S|fin|C2
+der Swap|permuta financiera||S|fin|C2
+der Hebel|apalancamiento||S|fin|C2
+die Hebelwirkung|efecto apalancamiento||S|fin|C2
+leerverkaufen|vender en corto||V|fin|C2
+die Volatilität|volatilidad||S|fin|C2
+der Basiswert|activo subyacente||S|fin|C2
+das Deckungsgeschäft|operación de cobertura||S|fin|C2
+die Nachschusspflicht|obligación de aportaciones adicionales||S|fin|C2
+der Börsenkrach|crack bursátil||S|fin|C2
+die Spekulationsblase|burbuja especulativa||S|fin|C2
+spekulieren|especular||V|fin|C2
+die Bonitätsbewertung|calificación crediticia||S|fin|C2
+der Kreditausfall|impago de un crédito||S|fin|C2
+das Klumpenrisiko|riesgo de concentración||S|fin|C2
+die Risikostreuung|diversificación del riesgo||S|fin|C2
+das Kursziel|precio objetivo de un analista||S|fin|C2
+die Hausse|fase alcista del mercado||S|fin|C2
+die Baisse|fase bajista del mercado||S|fin|C2
+die Zinswende|giro alcista de los tipos de interés||S|fin|C2
+die Rendite|rentabilidad||S|fin|C2
+das Depot|cartera de valores depositada||S|fin|C2
+die Geldwäsche|blanqueo de capitales||S|fin|C2
+die Marktmanipulation|manipulación de mercado||S|fin|C2
+der Insiderhandel|abuso de información privilegiada||S|fin|C2
+der Genotyp|genotipo||S|sci|C2
+der Phänotyp|fenotipo||S|sci|C2
+die Sequenz|secuencia de bases||S|sci|C2
+sequenzieren|secuenciar||V|sci|C2
+das Genom|genoma||S|sci|C2
+das Chromosom|cromosoma||S|sci|C2
+die Keimbahn|línea germinal||S|sci|C2
+die Mitose|mitosis||S|sci|C2
+die Meiose|meiosis||S|sci|C2
+die Transkription|transcripción genética||S|sci|C2
+die Translation|traducción, síntesis de proteínas||S|sci|C2
+die Replikation|replicación del material genético||S|sci|C2
+die Ribonukleinsäure|ácido ribonucleico||S|sci|C2
+das Ribosom|ribosoma||S|sci|C2
+das Codon|codón||S|sci|C2
+das Allel|alelo||S|sci|C2
+homozygot|homicigoto||A|sci|C2
+heterozygot|heterocigoto||A|sci|C2
+die Punktmutation|mutación puntual||S|sci|C2
+die Erbkrankheit|enfermedad hereditaria||S|sci|C2
+erblich|hereditario||A|sci|C2
+die Stammzelle|célula madre||S|sci|C2
+die Epigenetik|epigenética||S|sci|C2
+die Methylierung|metilación del material genético||S|sci|C2
+das Plasmid|plásmido||S|sci|C2
+das Restriktionsenzym|enzima de restricción||S|sci|C2
+das Nukleotid|nucleótido||S|sci|C2
+das Prion|prión||S|sci|C2
+das Telomer|telómero||S|sci|C2
+die Immuntoleranz|tolerancia inmunológica||S|sci|C2
+der Antikörper|anticuerpo||S|sci|C2
+das Antigen|antígeno||S|sci|C2
+der Erreger|agente patógeno||S|sci|C2
+die Infektionskrankheit|enfermedad infecciosa||S|sci|C2
+das Pathogen|patógeno||S|sci|C2
+die Pathogenität|patogenicidad||S|sci|C2
+die Virulenz|virulencia||S|sci|C2
+die Resistenz|resistencia microbiana||S|sci|C2
+resistent|resistente||A|sci|C2
+das Immunglobulin|inmunoglobulina||S|sci|C2
+der Lymphozyt|linfocito||S|sci|C2
+die Antikörperantwort|respuesta inmunitaria humoral||S|sci|C2
+die Autoimmunerkrankung|enfermedad autoinmune||S|sci|C2
+die Abstoßungsreaktion|rechazo de un trasplante||S|sci|C2
+der Impfschutz|protección vacunal||S|sci|C2
+die Herdenimmunität|inmunidad de grupo||S|sci|C2
+der Biofilm|biofilm||S|sci|C2
+die Anzucht|cultivo de microorganismos||S|sci|C2
+der Abstrich|frotis, toma de muestra||S|sci|C2
+die Serokonversion|seroconversión||S|sci|C2
+endemisch|endémico||A|sci|C2
+die Sepsis|sepsis||S|sci|C2
+der Bakteriophage|bacteriófago||S|sci|C2
+das Exotoxin|exotoxina||S|sci|C2
+die Infektiosität|infecciosidad||S|sci|C2
+der Makrophage|macrófago||S|sci|C2
+das Zytokin|citoquina||S|sci|C2
+das Neuron|neurona||S|sci|C2
+das Axon|axón||S|sci|C2
+der Dendrit|dendrita||S|sci|C2
+die Synapse|sinapsis||S|sci|C2
+synaptisch|sináptico||A|sci|C2
+der Neurotransmitter|neurotransmisor||S|sci|C2
+die Reizleitung|conducción del impulso nervioso||S|sci|C2
+die Hirnrinde|corteza cerebral||S|sci|C2
+der Hippocampus|hipocampo||S|sci|C2
+die Amygdala|amígdala cerebral||S|sci|C2
+der Thalamus|tálamo||S|sci|C2
+das Kleinhirn|cerebelo||S|sci|C2
+die Bluthirnschranke|barrera hematoencefálica||S|sci|C2
+die Neuroplastizität|neuroplasticidad||S|sci|C2
+die Motorik|motricidad||S|sci|C2
+die Sensorik|sensorialidad||S|sci|C2
+die Merkfähigkeit|capacidad de retención mnésica||S|sci|C2
+die Exekutivfunktion|función ejecutiva||S|sci|C2
+die Aphasie|afasia||S|sci|C2
+die Apraxie|apraxia||S|sci|C2
+die Agnosie|agnosia||S|sci|C2
+die Reizschwelle|umbral de excitación||S|sci|C2
+das Elektroenzephalogramm|electroencefalograma||S|sci|C2
+die Neurodegeneration|neurodegeneración||S|sci|C2
+die Hirnaktivität|actividad cerebral||S|sci|C2
+die Emotionsregulation|regulación emocional||S|sci|C2
+das Spiegelneuron|neurona espejo||S|sci|C2
+die Nervenbahn|vía nerviosa||S|sci|C2
+das Myelin|mielina||S|sci|C2
+die Atombindung|enlace covalente||S|sci|C2
+die Ionenbindung|enlace iónico||S|sci|C2
+die Elektronegativität|electronegatividad||S|sci|C2
+die Valenz|valencia química||S|sci|C2
+die Redoxreaktion|reacción de oxidación-reducción||S|sci|C2
+die Hydrierung|hidrogenación||S|sci|C2
+die Katalyse|catálisis||S|sci|C2
+die Sublimation|sublimación||S|sci|C2
+das Periodensystem|tabla periódica||S|sci|C2
+das Edelgas|gas noble||S|sci|C2
+das Halbmetall|metaloide||S|sci|C2
+die Legierung|aleación||S|sci|C2
+die Molmasse|masa molar||S|sci|C2
+das Isotop|isótopo||S|sci|C2
+der Schmelzpunkt|punto de fusión||S|sci|C2
+der Siedepunkt|punto de ebullición||S|sci|C2
+die Protolyse|protólisis ácido-base||S|sci|C2
+das Orbital|orbital atómico||S|sci|C2
+die Stereoisomerie|estereoisomería||S|sci|C2
+die funktionelle Gruppe|grupo funcional||S|sci|C2
+der Aldehyd|aldehído||S|sci|C2
+das Keton|cetona||S|sci|C2
+der Ester|éster||S|sci|C2
+die Polymerisation|polimerización||S|sci|C2
+das Monomer|monómero||S|sci|C2
+die Kristallstruktur|estructura cristalina||S|sci|C2
+die Löslichkeit|solubilidad||S|sci|C2
+die Reaktionskinetik|cinética química||S|sci|C2
+das chemische Gleichgewicht|equilibrio químico||S|sci|C2
+die Quantenmechanik|mecánica cuántica||S|sci|C2
+die Quantisierung|cuantización||S|sci|C2
+das Elementarteilchen|partícula elemental||S|sci|C2
+das Fermion|fermión||S|sci|C2
+das Boson|bosón||S|sci|C2
+das Quark|quark||S|sci|C2
+das Neutrino|neutrino||S|sci|C2
+das Antiteilchen|antipartícula||S|sci|C2
+die Unschärferelation|relación de indeterminación||S|sci|C2
+der Welle-Teilchen-Dualismus|dualidad onda-corpúsculo||S|sci|C2
+die Verschränkung|entrelazamiento cuántico||S|sci|C2
+die Dekohärenz|descoherencia||S|sci|C2
+der Spin|espín||S|sci|C2
+die Superposition|superposición de estados||S|sci|C2
+der Tunneleffekt|efecto túnel||S|sci|C2
+die Wahrscheinlichkeitsdichte|densidad de probabilidad||S|sci|C2
+das Hadron|hadrón||S|sci|C2
+das Lepton|leptón||S|sci|C2
+die Gravitationskonstante|constante gravitatoria||S|sci|C2
+der Speicherring|anillo de almacenamiento de partículas||S|sci|C2
+das Standardmodell|modelo estándar||S|sci|C2
+die Symmetriebrechung|ruptura de simetría||S|sci|C2
+die Supersymmetrie|supersimetría||S|sci|C2
+die Zustandsgleichung|ecuación de estado||S|sci|C2
+die Feinstrukturkonstante|constante de estructura fina||S|sci|C2
+der Kollaps der Wellenfunktion|colapso de la función de onda||S|sci|C2
+renormalisieren|renormalizar||V|sci|C2
+die Streuung|dispersión de partículas||S|sci|C2
+die Erhaltungsgröße|magnitud conservada||S|sci|C2
+die Kosmologie|cosmología||S|sci|C2
+kosmologisch|cosmológico||A|sci|C2
+das schwarze Loch|agujero negro||S|sci|C2
+der Ereignishorizont|horizonte de sucesos||S|sci|C2
+die Gravitationswelle|onda gravitacional||S|sci|C2
+die Rotverschiebung|desplazamiento hacia el rojo||S|sci|C2
+der Urknall|gran explosión primordial||S|sci|C2
+die Dunkelenergie|energía oscura||S|sci|C2
+die Dunkelmaterie|materia oscura||S|sci|C2
+die Supernova|supernova||S|sci|C2
+der Pulsar|púlsar||S|sci|C2
+der Quasar|cuásar||S|sci|C2
+der Neutronenstern|estrella de neutrones||S|sci|C2
+der weiße Zwerg|enana blanca||S|sci|C2
+die Sternentstehung|formación estelar||S|sci|C2
+interstellar|interestelar||A|sci|C2
+die Lichtgeschwindigkeit|velocidad de la luz||S|sci|C2
+die Raumzeit|espacio-tiempo||S|sci|C2
+die Krümmung|curvatura del espacio-tiempo||S|sci|C2
+die Singularität|singularidad gravitatoria||S|sci|C2
+die Relativitätstheorie|teoría de la relatividad||S|sci|C2
+die Hintergrundstrahlung|radiación cósmica de fondo||S|sci|C2
+die Häufigkeit|abundancia, frecuencia relativa||S|sci|C2
+die Fluchtgeschwindigkeit|velocidad de escape||S|sci|C2
+der Exoplanet|exoplaneta||S|sci|C2
+die Habitabilität|habitabilidad||S|sci|C2
+die Astrometrie|astrometría||S|sci|C2
+das Radioteleskop|radiotelescopio||S|sci|C2
+baryonisch|bariónico||A|sci|C2

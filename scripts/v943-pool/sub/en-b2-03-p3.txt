@@ -1,0 +1,258 @@
+symptom|síntoma||S|sla|B2
+diagnosis|diagnóstico||S|sla|B2
+treatment|tratamiento||S|sla|B2
+prescription|receta médica||S|sla|B2
+dosage|dosis||S|sla|B2
+side effect|efecto secundario||S|sla|B2
+painkiller|analgésico||S|sla|B2
+antibiotics|antibióticos||S|sla|B2
+vaccination|vacunación||S|sla|B2
+injection|inyección||S|sla|B2
+check-up|revisión médica||S|sla|B2
+screening|cribado||S|sla|B2
+X-ray|radiografía||S|sla|B2
+scan|exploración médica||S|sla|B2
+blood test|análisis de sangre||S|sla|B2
+blood pressure|tensión arterial||S|sla|B2
+heart rate|frecuencia cardíaca||S|sla|B2
+immune system|sistema inmunitario||S|sla|B2
+allergy|alergia||S|sla|B2
+asthma|asma||S|sla|B2
+diabetes|diabetes||S|sla|B2
+obesity|obesidad||S|sla|B2
+cholesterol|colesterol||S|sla|B2
+insomnia|insomnio||S|sla|B2
+migraine|migraña||S|sla|B2
+chronic pain|dolor crónico||S|sla|B2
+sprained ankle|tobillo torcido||S|sla|B2
+fracture|fractura||S|sla|B2
+stitches|puntos de sutura||S|sla|B2
+bruise|moretón||S|sla|B2
+wound|herida||S|sla|B2
+scar|cicatriz||S|sla|B2
+surgery|cirugía||S|sla|B2
+anaesthetic|anestesia||S|sla|B2
+waiting list|lista de espera||S|sla|B2
+GP|médico de cabecera||S|sla|B2
+casualty department|servicio de urgencias||S|sla|B2
+outpatient|paciente ambulatorio||S|sla|B2
+inpatient|paciente ingresado||S|sla|B2
+recovery|recuperación||S|sla|B2
+relapse|recaída||S|sla|B2
+healthy diet|dieta sana||L|sla|B2
+junk food|comida basura||L|sla|B2
+sedentary lifestyle|vida sedentaria||L|sla|B2
+balanced diet|dieta equilibrada||L|sla|B2
+to suffer from an illness|padecer una enfermedad||E|sla|B2
+to recover from an illness|recuperarse de una enfermedad||E|sla|B2
+to strain a muscle|forzar un músculo||E|sla|B2
+to twist one's ankle|torcerse el tobillo||E|sla|B2
+to break out in a rash|salir un sarpullido||E|sla|B2
+to be in good shape|estar en buena forma||E|sla|B2
+to be run down|estar agotado||E|sla|B2
+to get over an illness|reponerse de una enfermedad||E|sla|B2
+to look after one's health|cuidar la salud||E|sla|B2
+to take up exercise|empezar a hacer ejercicio||E|sla|B2
+to give up smoking|dejar de fumar||E|sla|B2
+to book an appointment with the doctor|pedir cita con el médico||E|sla|B2
+on prescription|con receta||E|sla|B2
+to ache|doler de forma persistente||V|sla|B2
+to faint|desmayarse||V|sla|B2
+to vomit|vomitar||V|sla|B2
+to sneeze|estornudar||V|sla|B2
+to cough|toser||V|sla|B2
+to bleed|sangrar||V|sla|B2
+to heal|curarse||V|sla|B2
+to prescribe|recetar||V|sla|B2
+unwell|indispuesto||A|sla|B2
+dizzy|mareado||A|sla|B2
+drowsy|somnoliento||A|sla|B2
+contagious|contagioso||A|sla|B2
+terminally ill|en fase terminal||A|sla|B2
+physically active|físicamente activo||A|sla|B2
+joint|articulación||S|cor|B2
+muscle|músculo||S|cor|B2
+tendon|tendón||S|cor|B2
+ligament|ligamento||S|cor|B2
+spine|columna vertebral||S|cor|B2
+skull|cráneo||S|cor|B2
+rib|costilla||S|cor|B2
+hip|cadera||S|cor|B2
+waist|cintura||S|cor|B2
+thigh|muslo||S|cor|B2
+calf|gemelo||S|cor|B2
+wrist|muñeca||S|cor|B2
+knuckle|nudillo||S|cor|B2
+nail|uña||S|cor|B2
+eyelash|pestaña||S|cor|B2
+eyebrow|ceja||S|cor|B2
+chin|mentón||S|cor|B2
+jaw|mandíbula||S|cor|B2
+gums|encías||S|cor|B2
+throat|garganta||S|cor|B2
+lungs|pulmones||S|cor|B2
+liver|hígado||S|cor|B2
+kidney|riñón||S|cor|B2
+bladder|vejiga||S|cor|B2
+nerves|nervios||S|cor|B2
+artery|arteria||S|cor|B2
+vein|vena||S|cor|B2
+pulse|pulso||S|cor|B2
+complexion|cutis||S|cor|B2
+birthmark|marca de nacimiento||S|cor|B2
+wrinkle|arruga||S|cor|B2
+freckles|pecas||S|cor|B2
+body mass index|índice de masa corporal||L|cor|B2
+posture|postura||S|cor|B2
+anxiety|ansiedad||S|emo|B2
+depression|depresión||S|emo|B2
+grief|duelo||S|emo|B2
+guilt|culpa||S|emo|B2
+shame|vergüenza||S|emo|B2
+envy|envidia||S|emo|B2
+jealousy|celos||S|emo|B2
+embarrassment|bochorno||S|emo|B2
+relief|alivio||S|emo|B2
+despair|desesperación||S|emo|B2
+contentment|satisfacción serena||S|emo|B2
+loneliness|soledad||S|emo|B2
+nostalgia|nostalgia||S|emo|B2
+gratitude|gratitud||S|emo|B2
+affection|cariño||S|emo|B2
+sympathy|comprensión||S|emo|B2
+empathy|empatía||S|emo|B2
+compassion|compasión||S|emo|B2
+resentment|resentimiento||S|emo|B2
+bitterness|amargura||S|emo|B2
+frustration|frustración||S|emo|B2
+pride|orgullo||S|emo|B2
+to feel guilty|sentirse culpable||E|emo|B2
+to be fed up with something|estar harto de algo||E|emo|B2
+to look forward to something|tener ganas de algo||E|emo|B2
+to calm down|tranquilizarse||E|emo|B2
+to burst into tears|echarse a llorar||E|emo|B2
+to take pride in something|sentirse orgulloso de algo||E|emo|B2
+to be overwhelmed by something|verse desbordado por algo||E|emo|B2
+to cope with stress|lidiar con el estrés||E|emo|B2
+to lose one's temper|perder los estribos||E|emo|B2
+to be in a good mood|estar de buen humor||E|emo|B2
+to be on edge|estar de los nervios||E|emo|B2
+anxious|inquieto||A|emo|B2
+cheerful|alegre||A|emo|B2
+miserable|desdichado||A|emo|B2
+upset|disgustado||A|emo|B2
+delighted|encantado||A|emo|B2
+thrilled|entusiasmado||A|emo|B2
+relieved|aliviado||A|emo|B2
+grateful|agradecido||A|emo|B2
+ashamed|avergonzado||A|emo|B2
+partnership|pareja de hecho||S|rel|B2
+engagement|compromiso matrimonial||S|rel|B2
+breakup|ruptura||S|rel|B2
+divorce|divorcio||S|rel|B2
+separation|separación||S|rel|B2
+widow|viuda||S|rel|B2
+widower|viudo||S|rel|B2
+in-laws|familia política||S|rel|B2
+stepmother|madrastra||S|rel|B2
+half-brother|hermanastro||S|rel|B2
+great-grandmother|bisabuela||S|rel|B2
+only child|hijo único||S|rel|B2
+ancestor|antepasado||S|rel|B2
+descendants|descendientes||S|rel|B2
+twins|gemelos||S|rel|B2
+spouse|cónyuge||S|rel|B2
+household|hogar||S|rel|B2
+upbringing|educación en casa||S|rel|B2
+adolescence|adolescencia||S|rel|B2
+family gathering|reunión familiar||S|rel|B2
+close-knit family|familia muy unida||L|rel|B2
+extended family|familia extensa||L|rel|B2
+nuclear family|familia nuclear||L|rel|B2
+to get engaged|prometerse||E|rel|B2
+to break up with somebody|romper con alguien||E|rel|B2
+to fall out with somebody|reñir con alguien||E|rel|B2
+to make up with somebody|reconciliarse con alguien||E|rel|B2
+to put up with somebody|aguantar a alguien||E|rel|B2
+to look up to somebody|admirar a alguien||E|rel|B2
+to let somebody down|decepcionar a alguien||E|rel|B2
+to rely on somebody|depender de alguien||E|rel|B2
+to grow apart|distanciarse||E|rel|B2
+to bring up children|criar hijos||E|rel|B2
+to take after somebody|parecerse a alguien||E|rel|B2
+to name somebody after somebody|poner a alguien el nombre de otro||E|rel|B2
+to ask somebody out|invitar a salir a alguien||E|rel|B2
+to settle down|asentarse||E|rel|B2
+to fall in love with somebody|enamorarse de alguien||E|rel|B2
+to get on well with somebody|llevarse bien con alguien||E|rel|B2
+to be close to somebody|tener confianza con alguien||E|rel|B2
+awareness|conciencia||S|ast|B2
+tendency|tendencia||S|ast|B2
+assumption|suposición||S|ast|B2
+consequence|consecuencia||S|ast|B2
+implication|implicación||S|ast|B2
+concept|concepto||S|ast|B2
+approach|enfoque||S|ast|B2
+attitude|actitud||S|ast|B2
+behaviour|comportamiento||S|ast|B2
+belief|creencia||S|ast|B2
+challenge|reto||S|ast|B2
+circumstances|circunstancias||S|ast|B2
+commitment|compromiso||S|ast|B2
+contribution|contribución||S|ast|B2
+debate|debate||S|ast|B2
+drawback|inconveniente||S|ast|B2
+duty|deber||S|ast|B2
+outcome|resultado||S|ast|B2
+obstacle|obstáculo||S|ast|B2
+prospect|perspectiva||S|ast|B2
+purpose|propósito||S|ast|B2
+requirement|requisito||S|ast|B2
+restriction|restricción||S|ast|B2
+strategy|estrategia||S|ast|B2
+threat|amenaza||S|ast|B2
+trend|corriente||S|ast|B2
+struggle|lucha||S|ast|B2
+achievement|logro||S|ast|B2
+attempt|intento||S|ast|B2
+failure|fracaso||S|ast|B2
+ambition|ambición||S|ast|B2
+inspiration|inspiración||S|ast|B2
+motivation|motivación||S|ast|B2
+potential|potencial||S|ast|B2
+influence|influencia||S|ast|B2
+impact|impacto||S|ast|B2
+emphasis|énfasis||S|ast|B2
+insight|perspicacia||S|ast|B2
+judgement|juicio de valor||S|ast|B2
+perception|percepción||S|ast|B2
+perspective|punto de vista||S|ast|B2
+mindset|mentalidad||S|ast|B2
+to make an effort|esforzarse||E|ast|B2
+to take into account|tener en cuenta||E|ast|B2
+whereas|mientras que||C|cnn|B2
+even though|aun cuando||C|cnn|B2
+provided that|siempre que||C|cnn|B2
+as long as|siempre y cuando||C|cnn|B2
+unless|a menos que||C|cnn|B2
+despite|a pesar de||R|cnn|B2
+in spite of|pese a||R|cnn|B2
+however|sin embargo||D|cnn|B2
+nevertheless|no obstante||D|cnn|B2
+nonetheless|con todo||D|cnn|B2
+therefore|por lo tanto||D|cnn|B2
+thus|por consiguiente||D|cnn|B2
+consequently|en consecuencia||D|cnn|B2
+furthermore|además||D|cnn|B2
+moreover|es más||D|cnn|B2
+otherwise|de lo contrario||D|cnn|B2
+meanwhile|mientras tanto||D|cnn|B2
+eventually|finalmente||D|cnn|B2
+actually|en realidad||D|cnn|B2
+currently|actualmente||D|cnn|B2
+nowadays|hoy en día||D|cnn|B2
+as a result|como resultado||E|cnn|B2
+on the other hand|por otro lado||E|cnn|B2
+on the contrary|al contrario||E|cnn|B2
+in fact|de hecho||E|cnn|B2
+to a certain extent|hasta cierto punto||E|cnn|B2

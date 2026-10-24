@@ -1,0 +1,258 @@
+exhibition|exposición||S|art|B2
+art gallery|galería de arte||S|art|B2
+curator|comisario de exposición||S|art|B2
+sculpture|escultura||S|art|B2
+portrait|retrato||S|art|B2
+landscape painting|pintura de paisaje||S|art|B2
+still life|naturaleza muerta||S|art|B2
+sketch|boceto||S|art|B2
+mural|mural||S|art|B2
+graffiti|grafitis||S|art|B2
+masterpiece|obra maestra||S|art|B2
+auction|subasta||S|art|B2
+art dealer|marchante de arte||S|art|B2
+forger|falsificador||S|art|B2
+architecture|arquitectura||S|art|B2
+cathedral|catedral||S|art|B2
+castle|castillo||S|art|B2
+mansion|mansión||S|art|B2
+ruins|ruinas||S|art|B2
+heritage|patrimonio||S|art|B2
+craftsmanship|destreza artesanal||S|art|B2
+pattern|estampado||S|art|B2
+texture|textura||S|art|B2
+pottery|cerámica||S|art|B2
+embroidery|bordado||S|art|B2
+knitting|labores de punto||S|art|B2
+origami|papiroflexia||S|art|B2
+calligraphy|caligrafía||S|art|B2
+mosaic|mosaico||S|art|B2
+statue|estatua||S|art|B2
+monument|monumento||S|art|B2
+abstract art|arte abstracto||L|art|B2
+contemporary art|arte contemporáneo||L|art|B2
+fine arts|bellas artes||L|art|B2
+work of art|obra de arte||L|art|B2
+to restore a painting|restaurar un cuadro||E|art|B2
+to be into art|gustarle el arte a uno||E|art|B2
+decorative|decorativo||A|art|B2
+striking|llamativo||A|art|B2
+vivid|vívido||A|art|B2
+dull|soso||A|art|B2
+avant-garde|de vanguardia||A|art|B2
+picturesque|pintoresco||A|art|B2
+exquisite|exquisito||A|art|B2
+fiction|ficción||S|let|B2
+non-fiction|no ficción||S|let|B2
+plot|trama||S|let|B2
+setting|escenario||S|let|B2
+character|personaje||S|let|B2
+narrator|narrador||S|let|B2
+prologue|prólogo||S|let|B2
+epilogue|epílogo||S|let|B2
+blurb|texto de contraportada||S|let|B2
+hardback|tapa dura||S|let|B2
+paperback|tapa blanda||S|let|B2
+e-book|libro electrónico||S|let|B2
+audiobook|audiolibro||S|let|B2
+bestseller|superventas||S|let|B2
+anthology|antología||S|let|B2
+memoir|memorias||S|let|B2
+autobiography|autobiografía||S|let|B2
+biography|biografía||S|let|B2
+verse|verso||S|let|B2
+rhyme|rima||S|let|B2
+metaphor|metáfora||S|let|B2
+simile|símil||S|let|B2
+irony|ironía||S|let|B2
+satire|sátira||S|let|B2
+imagery|imaginería||S|let|B2
+theme|tema central||S|let|B2
+style|estilo||S|let|B2
+to skim a text|leer por encima||E|let|B2
+to scan a text|ojear un texto||E|let|B2
+to be hooked on a book|estar enganchado a un libro||E|let|B2
+box office|taquilla||S|cin|B2
+cast|reparto||S|cin|B2
+plot twist|giro argumental||S|cin|B2
+soundtrack|banda sonora||S|cin|B2
+special effects|efectos especiales||S|cin|B2
+trailer|tráiler||S|cin|B2
+film screening|proyección de cine||S|cin|B2
+premiere|estreno||S|cin|B2
+film festival|festival de cine||S|cin|B2
+subtitles|subtítulos||S|cin|B2
+blockbuster|película taquillera||S|cin|B2
+review|crítica de cine||S|cin|B2
+dubbed version|versión doblada||L|cin|B2
+original version|versión original||L|cin|B2
+to star in a film|protagonizar una película||E|cin|B2
+to shoot a film|rodar una película||E|cin|B2
+to be based on a true story|basarse en hechos reales||E|cin|B2
+to be set in|estar ambientado en||E|cin|B2
+gripping|absorbente||A|cin|B2
+far-fetched|poco verosímil||A|cin|B2
+lyrics|letra de canción||S|mus|B2
+melody|melodía||S|mus|B2
+harmony|armonía||S|mus|B2
+rhythm|ritmo||S|mus|B2
+chorus|estribillo||S|mus|B2
+tune|tonada||S|mus|B2
+gig|concierto en sala pequeña||S|mus|B2
+single|sencillo||S|mus|B2
+record label|discográfica||S|mus|B2
+music chart|lista de éxitos||S|mus|B2
+live concert|concierto en directo||L|mus|B2
+to play by ear|tocar de oído||E|mus|B2
+to have a good ear for music|tener buen oído musical||E|mus|B2
+to hum a song|tararear una canción||E|mus|B2
+out of tune|desafinado||E|mus|B2
+catchy|pegadizo||A|mus|B2
+athletics|atletismo||S|spt|B2
+stadium|estadio||S|spt|B2
+tournament|torneo||S|spt|B2
+championship|campeonato||S|spt|B2
+fixture|partido programado||S|spt|B2
+season ticket|abono de temporada||S|spt|B2
+spectator|espectador de deporte||S|spt|B2
+referee|árbitro||S|spt|B2
+score|marcador||S|spt|B2
+draw|empate||S|spt|B2
+penalty|penalti||S|spt|B2
+injury time|tiempo de descuento||S|spt|B2
+doping|dopaje||S|spt|B2
+home game|partido en casa||L|spt|B2
+away game|partido a domicilio||L|spt|B2
+to warm up|calentar||E|spt|B2
+to cool down|recuperar la calma muscular||E|spt|B2
+to be knocked out|ser eliminado||E|spt|B2
+to beat the record|batir el récord||E|spt|B2
+to keep fit|mantenerse en forma||E|spt|B2
+competitive|competitivo||A|spt|B2
+exhausted|exhausto||A|spt|B2
+leisure time|tiempo libre||L|sve|B2
+pastime|pasatiempo||S|sve|B2
+board game|juego de mesa||S|sve|B2
+jigsaw puzzle|puzzle||S|sve|B2
+crosswords|crucigramas||S|sve|B2
+barbecue|barbacoa||S|sve|B2
+nightlife|marcha nocturna||S|sve|B2
+adrenaline junkie|adicto a la adrenalina||S|sve|B2
+thrill-seeker|buscador de emociones||S|sve|B2
+workaholic|adicto al trabajo||S|sve|B2
+indoor activities|actividades de interior||L|sve|B2
+outdoor pursuits|actividades al aire libre||L|sve|B2
+to hang out with friends|juntarse con los amigos||E|sve|B2
+to chill out|relajarse||E|sve|B2
+to switch off|desconectarse||E|sve|B2
+to take up a hobby|empezar una afición||E|sve|B2
+to have a night out|salir de fiesta||E|sve|B2
+to stay in|quedarse en casa||E|sve|B2
+to laze around|holgazanear||E|sve|B2
+to unwind|desconectar||V|sve|B2
+package holiday|viaje organizado||S|vig|B2
+sightseeing|turismo urbano||S|vig|B2
+excursion|excursión||S|vig|B2
+day trip|salida de un día||S|vig|B2
+itinerary|itinerario||S|vig|B2
+destination|destino||S|vig|B2
+departure lounge|sala de embarque||S|vig|B2
+boarding pass|tarjeta de embarque||S|vig|B2
+check-in desk|mostrador de facturación||S|vig|B2
+customs|aduana||S|vig|B2
+jet lag|desfase horario||S|vig|B2
+currency exchange|cambio de divisas||S|vig|B2
+travel insurance|seguro de viaje||S|vig|B2
+tourist trap|trampa para turistas||S|vig|B2
+backpacker|mochilero||S|vig|B2
+peak season|temporada alta||L|vig|B2
+off-season|temporada baja||L|vig|B2
+to book a flight|reservar un vuelo||E|vig|B2
+to check in online|facturar en línea||E|vig|B2
+to set off on a journey|ponerse en camino||E|vig|B2
+to get away from it all|escapar de la rutina||E|vig|B2
+to travel light|viajar ligero||E|vig|B2
+set menu|menú del día||S|ris|B2
+starter|entrante||S|ris|B2
+main course|plato principal||S|ris|B2
+side dish|guarnición||S|ris|B2
+service charge|cargo por servicio||S|ris|B2
+takeaway|comida para llevar||S|ris|B2
+à la carte|a la carta||L|ris|B2
+vegetarian option|opción vegetariana||L|ris|B2
+food poisoning|intoxicación alimentaria||L|ris|B2
+al dente|en su punto||L|ris|B2
+to book a table|reservar mesa||E|ris|B2
+to be starving|estar muerto de hambre||E|ris|B2
+to be full up|estar lleno||E|ris|B2
+to grab a bite to eat|comer algo rápido||E|ris|B2
+countryside|campo||S|nat|B2
+wilderness|paraje salvaje||S|nat|B2
+wildlife|fauna y flora||S|nat|B2
+meadow|pradera||S|nat|B2
+cliff|acantilado||S|nat|B2
+valley|valle||S|nat|B2
+waterfall|cascada||S|nat|B2
+stream|arroyo||S|nat|B2
+pond|estanque||S|nat|B2
+shore|orilla||S|nat|B2
+drought|sequía||S|nat|B2
+flood|inundación||S|nat|B2
+avalanche|alud||S|nat|B2
+wildfire|incendio forestal||S|nat|B2
+erosion|erosión||S|nat|B2
+deforestation|deforestación||S|nat|B2
+reforestation|repoblación forestal||S|nat|B2
+conservation|conservación||S|nat|B2
+litter|basura tirada||S|nat|B2
+endangered species|especie en peligro||L|nat|B2
+nature reserve|reserva natural||L|nat|B2
+national park|parque nacional||L|nat|B2
+to protect the environment|proteger el medio ambiente||E|nat|B2
+to drop litter|tirar basura||E|nat|B2
+weather forecast|pronóstico del tiempo||S|cli|B2
+drizzle|llovizna||S|cli|B2
+downpour|diluvio||S|cli|B2
+thunderstorm|tormenta||S|cli|B2
+heatwave|ola de calor||S|cli|B2
+cold snap|ola de frío||S|cli|B2
+mild|suave||A|cli|B2
+humid|húmedo||A|cli|B2
+stuffy|cargado de ambiente||A|cli|B2
+freezing|glacial||A|cli|B2
+chilly|fresco||A|cli|B2
+boiling|achicharrante||A|cli|B2
+overcast|nublado||A|cli|B2
+changeable|variable||A|cli|B2
+breed|raza||S|ani|B2
+stray dog|perro callejero||S|ani|B2
+mammal|mamífero||S|ani|B2
+reptile|reptil||S|ani|B2
+amphibian|anfibio||S|ani|B2
+bird of prey|ave rapaz||S|ani|B2
+rodent|roedor||S|ani|B2
+cattle|ganado vacuno||S|ani|B2
+livestock|ganado||S|ani|B2
+beak|pico||S|ani|B2
+to migrate|migrar||V|ani|B2
+to hibernate|hibernar||V|ani|B2
+public transport|transporte público||S|cit|B2
+rush hour|hora punta||S|cit|B2
+traffic jam|atasco||S|cit|B2
+congestion|congestión||S|cit|B2
+congestion charge|peaje urbano||S|cit|B2
+bypass|circunvalación||S|cit|B2
+cycle lane|carril bici||S|cit|B2
+pavement|acera||S|cit|B2
+roundabout|rotonda||S|cit|B2
+suburb|barrio residencial||S|cit|B2
+outskirts|extrarradio||S|cit|B2
+neighbourhood|barrio||S|cit|B2
+council housing|vivienda protegida||S|cit|B2
+high-rise|edificio de gran altura||S|cit|B2
+landmark|punto de referencia||S|cit|B2
+local council|ayuntamiento||S|cit|B2
+by-law|ordenanza municipal||S|cit|B2
+street market|mercado callejero||S|cit|B2
+pedestrian area|zona peatonal||L|cit|B2
+to get around the city|moverse por la ciudad||E|cit|B2

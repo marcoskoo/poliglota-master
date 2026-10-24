@@ -1,0 +1,258 @@
+die Wohnungssuche|búsqueda de piso||S|cas|B1
+der Mietvertrag|contrato de alquiler||S|cas|B1
+die Miete|renta de alquiler||S|cas|B1
+die Kaution|fianza (depósito)||S|cas|B1
+die Nebenkosten|gastos de la vivienda||S|cas|B1
+der Vermieter|casero||S|cas|B1
+die Vermieterin|casera||S|cas|B1
+der Mieter|inquilino||S|cas|B1
+die Mieterin|inquilina||S|cas|B1
+umziehen|mudarse||V|cas|B1
+der Umzug|mudanza||S|cas|B1
+die Möbel|los muebles||S|cas|B1
+das Möbelstück|mueble (pieza)||S|cas|B1
+die Einbauküche|cocina equipada||S|cas|B1
+der Wäschetrockner|secadora||S|cas|B1
+der Geschirrspüler|lavavajillas||S|cas|B1
+der Staubsauger|aspiradora||S|cas|B1
+das Bügeleisen|plancha||S|cas|B1
+bügeln|planchar||V|cas|B1
+der Boden|suelo||S|cas|B1
+der Teppichboden|moqueta||S|cas|B1
+der Vorhang|cortina||S|cas|B1
+die Heizung|calefacción||S|cas|B1
+heizen|poner la calefacción||V|cas|B1
+die Stromrechnung|factura de la luz||S|cas|B1
+der Zähler|contador||S|cas|B1
+die Steckdose|enchufe||S|cas|B1
+die Glühbirne|bombilla||S|cas|B1
+der Wasserhahn|grifo||S|cas|B1
+der Abfluss|desagüe||S|cas|B1
+verstopft|atascado||A|cas|B1
+der Kleiderschrank|armario||S|cas|B1
+die Kommode|cómoda||S|cas|B1
+die Anrichte|aparador||S|cas|B1
+das Ecksofa|sofá de esquina||S|cas|B1
+die Bettwäsche|ropa de cama||S|cas|B1
+die Wolldecke|manta de lana||S|cas|B1
+das Kissen|almohada||S|cas|B1
+die Matratze|colchón||S|cas|B1
+das Gästezimmer|habitación de invitados||S|cas|B1
+der Flur|pasillo||S|cas|B1
+der Keller|sótano||S|cas|B1
+der Dachboden|desván||S|cas|B1
+die Dachterrasse|azotea||S|cas|B1
+der Gartenzaun|valla del jardín||S|cas|B1
+das Treppenhaus|escalera del edificio||S|cas|B1
+der Aufzug|ascensor||S|cas|B1
+der Hausmeister|portero||S|cas|B1
+die Hausordnung|normas de convivencia||S|cas|B1
+das Nachbarhaus|casa vecina||S|cas|B1
+die Nachbarschaft|vecindario||S|cas|B1
+die Hausverwaltung|administración de fincas||S|cas|B1
+renovieren|renovar||V|cas|B1
+streichen|pintar (paredes)||V|cas|B1
+das Werkzeug|herramienta||S|cas|B1
+der Hammer|martillo||S|cas|B1
+der Nagel|clavo||S|cas|B1
+die Schere|tijeras||S|cas|B1
+der Besen|escoba||S|cas|B1
+der Eimer|cubo||S|cas|B1
+der Müll|basura||S|cas|B1
+die Mülltrennung|separación de residuos||S|cas|B1
+abwaschen|fregar los platos||V|cas|B1
+wegräumen|recoger, guardar||V|cas|B1
+das Durcheinander|desorden||S|cas|B1
+ordentlich|ordenado||A|cas|B1
+gemütlich|acogedor||A|cas|B1
+das Eigenheim|vivienda en propiedad||S|cas|B1
+das Lebensmittel|alimento||S|ali|B1
+die Zutat|ingrediente||S|ali|B1
+das Kochrezept|receta de cocina||S|ali|B1
+die Mahlzeit|comida (del día)||S|ali|B1
+das Roggenbrot|pan de centeno||S|ali|B1
+das Vollkornbrot|pan integral||S|ali|B1
+der Aufstrich|unto||S|ali|B1
+die Konfitüre|confitura||S|ali|B1
+das Müsli|muesli||S|ali|B1
+der Quark|requesón fresco||S|ali|B1
+die Salami|salchichón||S|ali|B1
+der Schinken|jamón||S|ali|B1
+das Rindfleisch|carne de vacuno||S|ali|B1
+das Schweinefleisch|carne de cerdo||S|ali|B1
+das Geflügel|carne de ave||S|ali|B1
+der Lachs|salmón||S|ali|B1
+die Garnele|gamba||S|ali|B1
+die Möhre|zanahoria||S|ali|B1
+die Zucchini|calabacín||S|ali|B1
+die Aubergine|berenjena||S|ali|B1
+die Paprikaschote|pimiento||S|ali|B1
+der Blumenkohl|coliflor||S|ali|B1
+der Brokkoli|brócoli||S|ali|B1
+der Spinat|espinacas||S|ali|B1
+die Schalotte|chalota||S|ali|B1
+der Knoblauch|ajo||S|ali|B1
+die Petersilie|perejil||S|ali|B1
+das Basilikum|albahaca||S|ali|B1
+der Pfeffer|pimienta||S|ali|B1
+der Essig|vinagre||S|ali|B1
+das Olivenöl|aceite de oliva||S|ali|B1
+das Mehl|harina||S|ali|B1
+der Puderzucker|azúcar glas||S|ali|B1
+der Teig|masa||S|ali|B1
+die Torte|tarta||S|ali|B1
+das Gebäck|bollería||S|ali|B1
+die Sahnetorte|tarta de nata||S|ali|B1
+die Süßigkeit|golosina||S|ali|B1
+die Praline|bombón||S|ali|B1
+das Sorbet|sorbete||S|ali|B1
+die Limonade|gaseosa||S|ali|B1
+der Filterkaffee|café de filtro||S|ali|B1
+die Teekanne|tetera||S|ali|B1
+der Becher|vaso, taza||S|ali|B1
+die Untertasse|platito||S|ali|B1
+das Besteck|cubiertos||S|ali|B1
+die Suppenkelle|cucharón||S|ali|B1
+die Serviette|servilleta||S|ali|B1
+der Topf|olla||S|ali|B1
+die Pfanne|sartén||S|ali|B1
+der Deckel|tapa||S|ali|B1
+der Herd|fogón||S|ali|B1
+der Backofen|horno||S|ali|B1
+die Mikrowelle|microondas||S|ali|B1
+die Küchenwaage|báscula de cocina||S|ali|B1
+das Schneidebrett|tabla de cortar||S|ali|B1
+hacken|picar||V|ali|B1
+schälen|pelar||V|ali|B1
+rühren|remover||V|ali|B1
+braten|freír, asar||V|ali|B1
+die Getränkekarte|carta de bebidas||S|ris|B1
+die Tageskarte|menú del día||S|ris|B1
+das Menü|menú||S|ris|B1
+die Vorspeise|entrante||S|ris|B1
+die Hauptspeise|plato principal||S|ris|B1
+der Nachtisch|postre||S|ris|B1
+das Gericht|plato||S|ris|B1
+die Spezialität|especialidad||S|ris|B1
+die Delikatesse|manjar||S|ris|B1
+die Bedienung|camarero, servicio||S|ris|B1
+die Kellnerin|camarera||S|ris|B1
+die Rechnung begleichen|saldar la cuenta||L|ris|B1
+das Trinkgeld|propina||S|ris|B1
+die Reservierung|reserva||S|ris|B1
+reservieren|reservar||V|ris|B1
+der Außenbereich|terraza||S|ris|B1
+das Lokal|establecimiento||S|ris|B1
+die Gaststätte|cervecería con cocina||S|ris|B1
+die Kneipe|bar de barrio||S|ris|B1
+der Biergarten|terraza cervecera||S|ris|B1
+die Portion|ración||S|ris|B1
+die Bestellung|pedido||S|ris|B1
+vorbestellen|reservar por adelantado||V|ris|B1
+der Hauswein|vino de la casa||S|ris|B1
+die Empfehlung|recomendación||S|ris|B1
+köstlich|delicioso||A|ris|B1
+satt|saciado||A|ris|B1
+der Appetit|apetito||S|ris|B1
+probieren|probar||V|ris|B1
+der Geschmack|sabor||S|ris|B1
+das Aroma|aroma||S|ris|B1
+mild|suave (de sabor)||A|ris|B1
+scharf|picante||A|ris|B1
+fettig|grasiento||A|ris|B1
+die Unverträglichkeit|intolerancia||S|ris|B1
+das Geschäft|tienda||S|cmp|B1
+das Kaufhaus|grandes almacenes||S|cmp|B1
+das Einkaufszentrum|centro comercial||S|cmp|B1
+der Discounter|tienda de descuento||S|cmp|B1
+der Kassenzettel|tique de compra||S|cmp|B1
+der Kassierer|cajero||S|cmp|B1
+der Kassenbon|recibo de caja||S|cmp|B1
+das Sonderangebot|oferta especial||S|cmp|B1
+der Ausverkauf|rebajas||S|cmp|B1
+der Rabatt|descuento||S|cmp|B1
+nachlassen|rebajar (el precio)||V|cmp|B1
+feilschen|regatear||V|cmp|B1
+der Kaufpreis|precio de compra||S|cmp|B1
+das Preis-Leistungs-Verhältnis|relación calidad-precio||S|cmp|B1
+die Garantie|garantía||S|cmp|B1
+umtauschen|cambiar (un producto)||V|cmp|B1
+die Rückgabe|devolución||S|cmp|B1
+die Ware|mercancía||S|cmp|B1
+die Abteilung|sección (de tienda)||S|cmp|B1
+das Schaufenster|escaparate||S|cmp|B1
+das Sortiment|surtido||S|cmp|B1
+zurückschicken|devolver (por correo)||V|cmp|B1
+die Umkleidekabine|probador||S|cmp|B1
+die Passform|el ajuste (de una prenda)||S|cmp|B1
+der Einkauf|la compra||S|cmp|B1
+der Einkaufsbummel|vuelta de tiendas||S|cmp|B1
+der Einkaufszettel|lista de la compra||S|cmp|B1
+der Einkaufswagen|carrito de la compra||S|cmp|B1
+die Tüte|bolsa||S|cmp|B1
+die Plastiktüte|bolsa de plástico||S|cmp|B1
+das Portemonnaie|cartera||S|cmp|B1
+die Brieftasche|billetera||S|cmp|B1
+das Kleingeld|cambio, suelto||S|cmp|B1
+die Münze|moneda||S|cmp|B1
+der Schein|billete||S|cmp|B1
+das Angebot|oferta||S|cmp|B1
+die Marke|marca||S|cmp|B1
+die Eigenmarke|marca blanca||S|cmp|B1
+die Qualität|calidad||S|cmp|B1
+die Menge|cantidad||S|cmp|B1
+die Verpackung|envase||S|cmp|B1
+das Mindesthaltbarkeitsdatum|fecha de consumo preferente||S|cmp|B1
+das Ablaufdatum|fecha de caducidad||S|cmp|B1
+der Kunde|cliente||S|cmp|B1
+die Kundin|clienta||S|cmp|B1
+die Marktfrau|vendedora del mercado||S|cmp|B1
+das Girokonto|cuenta corriente||S|fin|B1
+das Sparkonto|cuenta de ahorro||S|fin|B1
+die Kontonummer|número de cuenta||S|fin|B1
+die Bankverbindung|datos bancarios||S|fin|B1
+die Überweisung|transferencia||S|fin|B1
+überweisen|transferir||V|fin|B1
+das Bargeld|efectivo||S|fin|B1
+die Kreditkarte|tarjeta de crédito||S|fin|B1
+die EC-Karte|tarjeta de débito||S|fin|B1
+die Geheimzahl|clave secreta||S|fin|B1
+die Karte sperren|bloquear la tarjeta||L|fin|B1
+abheben|retirar (dinero)||V|fin|B1
+einzahlen|ingresar (dinero)||V|fin|B1
+der Kontostand|saldo||S|fin|B1
+der Kontoauszug|extracto de cuenta||S|fin|B1
+die Gebühr|tarifa, comisión||S|fin|B1
+der Lohn|sueldo||S|fin|B1
+die Lohnsteuer|retención sobre el sueldo||S|fin|B1
+der Verdienst|ganancia (laboral)||S|fin|B1
+verdienen|ganar (dinero)||V|fin|B1
+die Erbschaft|herencia||S|fin|B1
+erben|heredar||V|fin|B1
+die Steuer|impuesto||S|fin|B1
+die Steuererklärung|declaración de la renta||S|fin|B1
+die Steuererstattung|devolución de impuestos||S|fin|B1
+der Zins|interés||S|fin|B1
+das Darlehen|préstamo||S|fin|B1
+der Kredit|crédito||S|fin|B1
+die Rate|cuota||S|fin|B1
+die Ratenzahlung|pago a plazos||S|fin|B1
+die Versicherung|seguro||S|fin|B1
+versichern|asegurar||V|fin|B1
+die Prämie|prima (del seguro)||S|fin|B1
+der Schaden|daño||S|fin|B1
+die Quittung|recibo||S|fin|B1
+der Betrag|importe||S|fin|B1
+die Ausgabe|gasto||S|fin|B1
+die Einnahme|ingreso||S|fin|B1
+der Umsatz|facturación||S|fin|B1
+das Budget|presupuesto||S|fin|B1
+sparen|ahorrar||V|fin|B1
+die Schulden|deudas||S|fin|B1
+verschuldet|endeudado||A|fin|B1
+preiswert|económico||A|fin|B1
+unentgeltlich|gratuito||A|fin|B1
+die Kontoeröffnung|apertura de cuenta||S|fin|B1
+das Online-Banking|banca en línea||S|fin|B1
+der Sparplan|plan de ahorro||S|fin|B1
+die Abstellkammer|trastero||S|cas|B1

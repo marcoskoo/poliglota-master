@@ -1,0 +1,258 @@
+workload|carga de trabajo||S|lav|B2
+deadline|fecha límite||S|lav|B2
+promotion|ascenso||S|lav|B2
+pay rise|subida salarial||S|lav|B2
+colleague|compañero de trabajo||S|lav|B2
+employer|empleador||S|lav|B2
+employee|empleado||S|lav|B2
+workforce|plantilla laboral||S|lav|B2
+vacancy|vacante||S|lav|B2
+applicant|candidato||S|lav|B2
+recruitment|selección de personal||S|lav|B2
+cover letter|carta de presentación||S|lav|B2
+job interview|entrevista de trabajo||S|lav|B2
+internship|prácticas||S|lav|B2
+trainee|aprendiz||S|lav|B2
+overtime|horas extraordinarias||S|lav|B2
+shift|turno||S|lav|B2
+night shift|turno de noche||S|lav|B2
+wage|salario||S|lav|B2
+take-home pay|salario neto||S|lav|B2
+fringe benefits|prestaciones sociales||S|lav|B2
+retirement|jubilación||S|lav|B2
+pension|pensión||S|lav|B2
+trade union|sindicato||S|lav|B2
+strike|huelga||S|lav|B2
+notice period|período de preaviso||S|lav|B2
+dismissal|despido||S|lav|B2
+probation period|período de prueba||S|lav|B2
+maternity leave|permiso de maternidad||S|lav|B2
+sick leave|baja por enfermedad||S|lav|B2
+annual leave|vacaciones anuales||S|lav|B2
+flexible working|jornada flexible||S|lav|B2
+remote working|teletrabajo||S|lav|B2
+freelancer|trabajador por cuenta propia||S|lav|B2
+career break|excedencia laboral||S|lav|B2
+career path|trayectoria profesional||S|lav|B2
+glass ceiling|techo de cristal||S|lav|B2
+burnout|desgaste profesional||S|lav|B2
+work-life balance|conciliación laboral||S|lav|B2
+job security|seguridad laboral||S|lav|B2
+appraisal|evaluación de desempeño||S|lav|B2
+training course|curso de formación||S|lav|B2
+to resign|dimitir||V|lav|B2
+to retire|jubilarse||V|lav|B2
+to hire|contratar||V|lav|B2
+to fire|despedir||V|lav|B2
+to make somebody redundant|despedir por reestructuración||V|lav|B2
+to commute|desplazarse al trabajo||V|lav|B2
+to apply for a job|solicitar un empleo||E|lav|B2
+to take on staff|contratar personal||E|lav|B2
+to meet a deadline|cumplir un plazo||E|lav|B2
+to miss a deadline|incumplir un plazo||E|lav|B2
+to work overtime|hacer horas extra||E|lav|B2
+to get promoted|ascender de puesto||E|lav|B2
+to go on strike|ponerse en huelga||E|lav|B2
+to hand in one's notice|presentar la renuncia||E|lav|B2
+to take early retirement|jubilarse anticipadamente||E|lav|B2
+to be on leave|estar de permiso||E|lav|B2
+to juggle work and family|compatibilizar trabajo y familia||E|lav|B2
+to climb the career ladder|escalar en la carrera profesional||E|lav|B2
+demanding|exigente||A|lav|B2
+rewarding|gratificante||A|lav|B2
+tedious|tedioso||A|lav|B2
+repetitive|repetitivo||A|lav|B2
+skilled|cualificado||A|lav|B2
+self-employed|autónomo||A|lav|B2
+civil engineer|ingeniero civil||S|pro|B2
+accountant|contable||S|pro|B2
+surgeon|cirujano||S|pro|B2
+vet|veterinario||S|pro|B2
+plumber|fontanero||S|pro|B2
+electrician|electricista||S|pro|B2
+carpenter|carpintero||S|pro|B2
+mechanic|mecánico||S|pro|B2
+civil servant|funcionario||S|pro|B2
+notary|notario||S|pro|B2
+estate agent|agente inmobiliario||S|pro|B2
+headhunter|cazatalentos||S|pro|B2
+journalist|periodista||S|pro|B2
+editor|editor||S|pro|B2
+proofreader|corrector de pruebas||S|pro|B2
+interpreter|intérprete||S|pro|B2
+tailor|sastre||S|pro|B2
+locksmith|cerrajero||S|pro|B2
+undertaker|técnico funerario||S|pro|B2
+caretaker|conserje||S|pro|B2
+midwife|matrona||S|pro|B2
+paramedic|técnico de emergencias sanitarias||S|pro|B2
+speech therapist|logopeda||S|pro|B2
+optician|óptico||S|pro|B2
+pharmacist|farmacéutico||S|pro|B2
+therapist|terapeuta||S|pro|B2
+careers adviser|orientador profesional||S|pro|B2
+social worker|trabajador social||S|pro|B2
+current account|cuenta corriente||S|fin|B2
+savings account|cuenta de ahorros||S|fin|B2
+deposit|depósito||S|fin|B2
+withdrawal|retirada de fondos||S|fin|B2
+overdraft|descubierto bancario||S|fin|B2
+loan|préstamo||S|fin|B2
+mortgage|hipoteca||S|fin|B2
+interest rate|tipo de interés||S|fin|B2
+monthly repayment|cuota mensual||S|fin|B2
+currency|divisa||S|fin|B2
+exchange rate|tipo de cambio||S|fin|B2
+inflation|inflación||S|fin|B2
+recession|recesión||S|fin|B2
+economic downturn|desaceleración económica||S|fin|B2
+boom|auge||S|fin|B2
+tax refund|devolución de impuestos||S|fin|B2
+tax return|declaración de la renta||S|fin|B2
+revenue|ingresos||S|fin|B2
+expenditure|gasto||S|fin|B2
+profit margin|margen de beneficio||S|fin|B2
+turnover|cifra de negocios||S|fin|B2
+shareholder|accionista||S|fin|B2
+stock market|bolsa de valores||S|fin|B2
+shares|acciones||S|fin|B2
+dividend|dividendo||S|fin|B2
+bond|bono||S|fin|B2
+assets|activos||S|fin|B2
+bankruptcy|quiebra||S|fin|B2
+audit|auditoría||S|fin|B2
+invoice|factura||S|fin|B2
+refund|reembolso||S|fin|B2
+warranty|garantía||S|fin|B2
+insurance policy|póliza de seguros||S|fin|B2
+premium|prima del seguro||S|fin|B2
+pension fund|fondo de pensiones||S|fin|B2
+credit rating|calificación crediticia||S|fin|B2
+debt|deuda||S|fin|B2
+standing order|transferencia periódica||S|fin|B2
+direct debit|domiciliación bancaria||S|fin|B2
+interest-free loan|préstamo sin intereses||L|fin|B2
+household income|ingresos familiares||L|fin|B2
+cost of living|coste de la vida||L|fin|B2
+value for money|relación calidad-precio||L|fin|B2
+to invest|invertir||V|fin|B2
+to save up|ahorrar poco a poco||V|fin|B2
+to withdraw money|retirar dinero||V|fin|B2
+to owe|deber dinero||V|fin|B2
+to transfer money|hacer una transferencia||E|fin|B2
+to keep track of expenses|llevar el control de los gastos||E|fin|B2
+to make ends meet|llegar a fin de mes||E|fin|B2
+to be in the red|estar en números rojos||E|fin|B2
+to pay off a debt|saldar una deuda||E|fin|B2
+to take out a loan|solicitar un préstamo||E|fin|B2
+to run a business|dirigir un negocio||E|fin|B2
+to set up a business|montar un negocio||E|fin|B2
+affordable|asequible||A|fin|B2
+costly|costoso||A|fin|B2
+worthless|sin valor||A|fin|B2
+lucrative|lucrativo||A|fin|B2
+insolvent|insolvente||A|fin|B2
+financially viable|financieramente viable||A|fin|B2
+discounted|rebajado||A|fin|B2
+to convey|transmitir||V|cmu|B2
+to emphasise|dar énfasis||V|cmu|B2
+to point out|señalar||V|cmu|B2
+to interrupt|interrumpir||V|cmu|B2
+to hang up|colgar la llamada||V|cmu|B2
+to apologise|disculparse||V|cmu|B2
+to complain|quejarse||V|cmu|B2
+to persuade|persuadir||V|cmu|B2
+to reassure|tranquilizar||V|cmu|B2
+to encourage|animar||V|cmu|B2
+to discourage|desanimar||V|cmu|B2
+to warn|advertir||V|cmu|B2
+to threaten|amenazar||V|cmu|B2
+to bring up a topic|sacar a colación un tema||E|cmu|B2
+to make small talk|hablar de trivialidades||E|cmu|B2
+to get straight to the point|ir directo al grano||E|cmu|B2
+to beat about the bush|irse por las ramas||E|cmu|B2
+to have a say in something|tener voz y voto en algo||E|cmu|B2
+to put it another way|dicho de otro modo||E|cmu|B2
+to sum up|resumir||E|cmu|B2
+to keep in touch with somebody|mantenerse en contacto con alguien||E|cmu|B2
+to lose touch with somebody|perder el contacto con alguien||E|cmu|B2
+to get through to somebody|localizar a alguien por teléfono||E|cmu|B2
+to be on the same wavelength as somebody|estar en la misma onda que alguien||E|cmu|B2
+to talk somebody into something|convencer a alguien de algo||E|cmu|B2
+to talk somebody out of something|disuadir a alguien de algo||E|cmu|B2
+body language|lenguaje corporal||S|cmu|B2
+eye contact|contacto visual||S|cmu|B2
+tone of voice|tono de voz||S|cmu|B2
+slang|jerga||S|cmu|B2
+jargon|argot técnico||S|cmu|B2
+dialect|dialecto||S|cmu|B2
+mother tongue|lengua materna||S|cmu|B2
+miscommunication|fallo de comunicación||S|cmu|B2
+misunderstanding|malentendido||S|cmu|B2
+feedback|retroalimentación||S|cmu|B2
+statement|declaración||S|cmu|B2
+remark|comentario||S|cmu|B2
+rumour|rumor||S|cmu|B2
+gossip|cotilleo||S|cmu|B2
+hint|insinuación||S|cmu|B2
+praise|elogio||S|cmu|B2
+criticism|crítica||S|cmu|B2
+complaint|queja||S|cmu|B2
+apology|disculpa||S|cmu|B2
+voicemail|buzón de voz||S|cmu|B2
+conference call|llamada de conferencia||S|cmu|B2
+fluent|fluido||A|cmu|B2
+articulate|elocuente||A|cmu|B2
+outspoken|franco||A|cmu|B2
+incoherent|incoherente||A|cmu|B2
+persuasive|persuasivo||A|cmu|B2
+compelling|convincente||A|cmu|B2
+vague|impreciso||A|cmu|B2
+straightforward|claro y directo||A|cmu|B2
+ambiguous|ambiguo||A|cmu|B2
+explicit|explícito||A|cmu|B2
+tactful|diplomático||A|cmu|B2
+blunt|brusco||A|cmu|B2
+concise|conciso||A|cmu|B2
+headline|titular||S|att|B2
+feature|reportaje||S|att|B2
+editorial|artículo de opinión||S|att|B2
+broadcast|emisión||S|att|B2
+coverage|cobertura informativa||S|att|B2
+correspondent|corresponsal||S|att|B2
+press conference|rueda de prensa||S|att|B2
+freedom of the press|libertad de prensa||S|att|B2
+censorship|censura||S|att|B2
+tabloid|tabloide||S|att|B2
+circulation|tirada||S|att|B2
+breaking news|última hora||S|att|B2
+current affairs|actualidad||S|att|B2
+talk show|programa de entrevistas||S|att|B2
+soap opera|culebrón||S|att|B2
+advert|anuncio||S|att|B2
+advertising campaign|campaña publicitaria||S|att|B2
+target audience|público objetivo||S|att|B2
+viewer|espectador||S|att|B2
+ratings|índices de audiencia||S|att|B2
+sponsor|patrocinador||S|att|B2
+celebrity|famoso||S|att|B2
+public opinion|opinión pública||S|att|B2
+opinion poll|sondeo de opinión||S|att|B2
+protest|protesta||S|att|B2
+demonstration|manifestación||S|att|B2
+rally|mitin||S|att|B2
+petition|petición||S|att|B2
+controversy|polémica||S|att|B2
+scandal|escándalo||S|att|B2
+fake news|noticias falsas||L|att|B2
+reliable source|fuente fiable||L|att|B2
+to broadcast|emitir||V|att|B2
+to exaggerate|exagerar||V|att|B2
+to accuse|acusar||V|att|B2
+to deny|negar||V|att|B2
+to allege|alegar||V|att|B2
+to leak information|filtrar información||E|att|B2
+to cover a story|cubrir una noticia||E|att|B2
+to hit the headlines|salir en los titulares||E|att|B2
+to spark controversy|provocar polémica||E|att|B2
+biased|parcial||A|att|B2

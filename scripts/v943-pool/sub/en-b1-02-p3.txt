@@ -1,0 +1,258 @@
+device|dispositivo||S|tec|B1
+gadget|aparato (electrónico)||S|tec|B1
+screen|pantalla||S|tec|B1
+keyboard|teclado||S|tec|B1
+mouse|ratón||S|tec|B1
+charger|cargador||S|tec|B1
+charge|cargar (la batería)||V|tec|B1
+battery|batería||S|tec|B1
+run out of battery|quedarse sin batería||L|tec|B1
+laptop|ordenador portátil||S|tec|B1
+tablet|tableta||S|tec|B1
+smartphone|teléfono inteligente||S|tec|B1
+mobile phone|teléfono móvil||S|tec|B1
+headphones|auriculares||S|tec|B1
+wireless|inalámbrico||A|tec|B1
+password|contraseña||S|tec|B1
+username|nombre de usuario||S|tec|B1
+log in|iniciar sesión||V|tec|B1
+log out|cerrar sesión||V|tec|B1
+sign up|registrarse||V|tec|B1
+browse|navegar, explorar||V|tec|B1
+download|descargar||V|tec|B1
+upload|subir (un archivo)||V|tec|B1
+click on|hacer clic en||V|tec|B1
+scroll down|desplazarse hacia abajo||V|tec|B1
+swipe|deslizar (el dedo)||V|tec|B1
+app|aplicación||S|tec|B1
+software|software||S|tec|B1
+hardware|hardware||S|tec|B1
+update|actualizar||V|tec|B1
+install|instalar||V|tec|B1
+uninstall|desinstalar||V|tec|B1
+delete|borrar||V|tec|B1
+back up|hacer una copia de seguridad||V|tec|B1
+crash|colgarse, fallar||V|tec|B1
+freeze|bloquearse (un dispositivo)||V|tec|B1
+restart|reiniciar||V|tec|B1
+virus|virus||S|tec|B1
+spam|correo no deseado||S|tec|B1
+attachment|archivo adjunto||S|tec|B1
+forward|reenviar||V|tec|B1
+reply to|responder a||V|tec|B1
+inbox|bandeja de entrada||S|tec|B1
+notification|notificación||S|tec|B1
+pop-up|ventana emergente||S|tec|B1
+streaming|transmisión en directo||S|tec|B1
+subscribe|suscribirse||V|tec|B1
+follower|seguidor||S|tec|B1
+influencer|influencer||S|tec|B1
+post|publicación||S|tec|B1
+comment|comentario||S|tec|B1
+trending|en tendencia, de moda||A|tec|B1
+go viral|hacerse viral||L|tec|B1
+account|cuenta (de usuario)||S|tec|B1
+storage|almacenamiento||S|tec|B1
+data|datos||S|tec|B1
+Wi-Fi|wifi||S|tec|B1
+screen time|tiempo de pantalla||S|tec|B1
+media|medios de comunicación||S|cmu|B1
+news|las noticias||S|cmu|B1
+headline|titular||S|cmu|B1
+article|artículo||S|cmu|B1
+report|reportaje||S|cmu|B1
+reporter|reportero||S|cmu|B1
+journalist|periodista||S|cmu|B1
+interview|entrevista||S|cmu|B1
+broadcast|emitir||V|cmu|B1
+live broadcast|emisión en directo||S|cmu|B1
+documentary|documental||S|cmu|B1
+advert|anuncio||S|cmu|B1
+commercial|anuncio (EE. UU.)||S|cmu|B1
+advertising|publicidad||S|cmu|B1
+celebrity|famoso, celebridad||S|cmu|B1
+gossip|cotilleo||S|cmu|B1
+rumour|rumor||S|cmu|B1
+press|la prensa||S|cmu|B1
+tabloid|prensa sensacionalista||S|cmu|B1
+podcast|pódcast||S|cmu|B1
+radio station|emisora de radio||S|cmu|B1
+viewer|telespectador||S|cmu|B1
+audience|público, audiencia||S|cmu|B1
+channel|canal||S|cmu|B1
+series|serie||S|cmu|B1
+episode|episodio, capítulo||S|cmu|B1
+season|temporada (de una serie)||S|cmu|B1
+plot|trama, argumento||S|cmu|B1
+spoiler|destripe||S|cmu|B1
+keep in touch|mantenerse en contacto||L|cmu|B1
+get in touch with|ponerse en contacto con||L|cmu|B1
+lose touch|perder el contacto||L|cmu|B1
+text|mandar un mensaje||V|cmu|B1
+voicemail|buzón de voz||S|cmu|B1
+miss a call|perderse una llamada||L|cmu|B1
+call back|devolver la llamada||V|cmu|B1
+hang up|colgar (el teléfono)||V|cmu|B1
+signal|señal||S|cmu|B1
+message|mensaje||S|cmu|B1
+communicate|comunicarse||V|cmu|B1
+translator|traductor||S|cmu|B1
+interpreter|intérprete||S|cmu|B1
+body language|lenguaje corporal||S|cmu|B1
+eye contact|contacto visual||S|cmu|B1
+find out|averiguar, descubrir||V|cmu|B1
+point out|señalar, hacer notar||V|cmu|B1
+shop assistant|dependiente||S|cmp|B1
+customer|cliente||S|cmp|B1
+shop around|comparar precios||V|cmp|B1
+try on|probarse (ropa)||V|cmp|B1
+fitting room|probador||S|cmp|B1
+size|talla, tamaño||S|cmp|B1
+fit|quedar bien (ropa)||V|cmp|B1
+suit|sentar bien||V|cmp|B1
+match|combinar (con)||V|cmp|B1
+on sale|rebajado||L|cmp|B1
+discount|descuento||S|cmp|B1
+bargain|chollo, ganga||S|cmp|B1
+refund|reembolso||S|cmp|B1
+get a refund|conseguir un reembolso||L|cmp|B1
+exchange|cambiar (un producto)||V|cmp|B1
+receipt|ticket, recibo||S|cmp|B1
+queue|cola (de gente)||S|cmp|B1
+queue up|hacer cola||V|cmp|B1
+jump the queue|colarse||L|cmp|B1
+out of stock|agotado||L|cmp|B1
+in stock|disponible, en existencias||L|cmp|B1
+brand|marca||S|cmp|B1
+second-hand|de segunda mano||A|cmp|B1
+brand new|nuevo, flamante||A|cmp|B1
+pricey|caro (coloquial)||A|cmp|B1
+affordable|asequible||A|cmp|B1
+overpriced|excesivamente caro||A|cmp|B1
+rip-off|timo (precio abusivo)||S|cmp|B1
+pay in cash|pagar en efectivo||L|cmp|B1
+pay by card|pagar con tarjeta||L|cmp|B1
+cash|efectivo||S|cmp|B1
+change|cambio (dinero)||S|cmp|B1
+shop window|escaparate||S|cmp|B1
+online shopping|compra en línea||S|cmp|B1
+free delivery|envío gratuito||S|cmp|B1
+track an order|seguir un pedido||L|cmp|B1
+customer service|atención al cliente||S|cmp|B1
+complain|quejarse||V|cmp|B1
+complaint|queja||S|cmp|B1
+guarantee|garantía||S|cmp|B1
+wrap|envolver (un regalo)||V|cmp|B1
+unwrap|desenvolver||V|cmp|B1
+try out|probar, testar||V|cmp|B1
+free of charge|gratis||L|cmp|B1
+cash machine|cajero automático||S|fin|B1
+withdraw|retirar (dinero)||V|fin|B1
+deposit|ingresar (dinero)||V|fin|B1
+bank account|cuenta bancaria||S|fin|B1
+open an account|abrir una cuenta||L|fin|B1
+current account|cuenta corriente||S|fin|B1
+savings account|cuenta de ahorro||S|fin|B1
+interest|interés||S|fin|B1
+interest rate|tipo de interés||S|fin|B1
+loan|préstamo||S|fin|B1
+take out a loan|pedir un préstamo||L|fin|B1
+pay back|devolver (dinero prestado)||V|fin|B1
+pay off|saldar (una deuda)||V|fin|B1
+debt|deuda||S|fin|B1
+be in debt|tener deudas||L|fin|B1
+credit card|tarjeta de crédito||S|fin|B1
+debit card|tarjeta de débito||S|fin|B1
+PIN|código PIN||S|fin|B1
+online banking|banca en línea||S|fin|B1
+transfer|transferencia||S|fin|B1
+make a transfer|hacer una transferencia||L|fin|B1
+fee|comisión, tarifa||S|fin|B1
+bank charge|cargo bancario||S|fin|B1
+tax|impuesto||S|fin|B1
+income tax|impuesto sobre la renta||S|fin|B1
+tax return|declaración de la renta||S|fin|B1
+budget|presupuesto||S|fin|B1
+afford|permitirse (pagar)||V|fin|B1
+save up|ahorrar (dinero)||V|fin|B1
+waste|malgastar||V|fin|B1
+worth|que vale la pena||A|fin|B1
+currency|divisa, moneda||S|fin|B1
+exchange rate|tipo de cambio||S|fin|B1
+inherit|heredar||V|fin|B1
+insurance|seguro||S|fin|B1
+pension|pensión (de jubilación)||S|fin|B1
+invest|invertir||V|fin|B1
+investment|inversión||S|fin|B1
+profit|beneficio||S|fin|B1
+make a profit|obtener beneficios||L|fin|B1
+borrow|pedir prestado||V|fin|B1
+lend|prestar||V|fin|B1
+referee|árbitro||S|spt|B1
+coach|entrenador||S|spt|B1
+team|equipo||S|spt|B1
+team-mate|compañero de equipo||S|spt|B1
+opponent|rival, adversario||S|spt|B1
+beat|vencer, ganar a||V|spt|B1
+win|ganar||V|spt|B1
+score|marcador||S|spt|B1
+score a goal|marcar un gol||L|spt|B1
+draw|empate||S|spt|B1
+end in a draw|acabar en empate||L|spt|B1
+champion|campeón||S|spt|B1
+championship|campeonato||S|spt|B1
+tournament|torneo||S|spt|B1
+league|liga||S|spt|B1
+fan|aficionado||S|spt|B1
+supporter|hincha||S|spt|B1
+pitch|campo de juego||S|spt|B1
+running track|pista de atletismo||S|spt|B1
+tennis court|pista de tenis||S|spt|B1
+go swimming|ir a nadar||L|spt|B1
+go jogging|salir a correr||L|spt|B1
+work out|entrenar, hacer ejercicio||V|spt|B1
+warm up|calentar||V|spt|B1
+cool down|enfriarse (tras el ejercicio)||V|spt|B1
+stretch|estirarse||V|spt|B1
+get fit|ponerse en forma||L|spt|B1
+keep fit|mantenerse en forma||L|spt|B1
+gym|gimnasio||S|spt|B1
+equipment|material deportivo||S|spt|B1
+trainers|zapatillas de deporte||S|spt|B1
+final|final (del torneo)||S|spt|B1
+semi-final|semifinal||S|spt|B1
+take up a sport|empezar un deporte||L|spt|B1
+cheer on|animar (a alguien)||V|spt|B1
+support|apoyar, ser hincha de||V|spt|B1
+compete|competir||V|spt|B1
+personal best|mejor marca personal||S|spt|B1
+lyrics|letra (de una canción)||S|mus|B1
+melody|melodía||S|mus|B1
+rhythm|ritmo||S|mus|B1
+chorus|estribillo||S|mus|B1
+verse|estrofa||S|mus|B1
+instrumental|instrumental||A|mus|B1
+band|banda (de música)||S|mus|B1
+lead singer|vocalista principal||S|mus|B1
+album|álbum||S|mus|B1
+track|canción (de un disco)||S|mus|B1
+single|sencillo||S|mus|B1
+concert|concierto||S|mus|B1
+gig|concierto (pequeño)||S|mus|B1
+tour|gira||S|mus|B1
+go on tour|hacer una gira||L|mus|B1
+stream|reproducir en streaming||V|mus|B1
+play an instrument|tocar un instrumento||L|mus|B1
+rehearse|ensayar||V|mus|B1
+rehearsal|ensayo||S|mus|B1
+recording|grabación||S|mus|B1
+record|grabar||V|mus|B1
+hit|éxito musical||S|mus|B1
+chart|lista de éxitos||S|mus|B1
+top the charts|liderar las listas||L|mus|B1
+genre|género||S|mus|B1
+classical music|música clásica||S|mus|B1
+soundtrack|banda sonora||S|mus|B1
+volume|volumen||S|mus|B1
+turn up|subir (el volumen)||V|mus|B1
+turn down|bajar (el volumen)||V|mus|B1

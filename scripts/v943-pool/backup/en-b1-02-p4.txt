@@ -1,0 +1,258 @@
+film|película||S|cin|B1
+cinema|el cine||S|cin|B1
+storyline|argumento||S|cin|B1
+cast|reparto||S|cin|B1
+actor|actor||S|cin|B1
+actress|actriz||S|cin|B1
+character|personaje||S|cin|B1
+main character|personaje principal||S|cin|B1
+scene|escena||S|cin|B1
+special effects|efectos especiales||S|cin|B1
+trailer|tráiler||S|cin|B1
+review|crítica (de cine)||S|cin|B1
+critic|crítico||S|cin|B1
+box office|taquilla||S|cin|B1
+blockbuster|superproducción||S|cin|B1
+subtitles|subtítulos||S|cin|B1
+dubbed|doblado||A|cin|B1
+be based on|estar basado en||V|cin|B1
+ending|final (de la historia)||S|cin|B1
+twist|giro argumental||S|cin|B1
+thriller|película de suspense||S|cin|B1
+horror film|película de terror||S|cin|B1
+comedy|comedia||S|cin|B1
+science fiction|ciencia ficción||S|cin|B1
+landscape|paisaje||S|nat|B1
+scenery|paisaje (natural)||S|nat|B1
+forest|bosque||S|nat|B1
+woods|bosque (pequeño)||S|nat|B1
+wood|madera||S|nat|B1
+field|campo (cultivo)||S|nat|B1
+meadow|pradera||S|nat|B1
+valley|valle||S|nat|B1
+hill|colina||S|nat|B1
+cliff|acantilado||S|nat|B1
+rock|roca||S|nat|B1
+stone|piedra||S|nat|B1
+sand|arena||S|nat|B1
+beach|playa||S|nat|B1
+shore|orilla||S|nat|B1
+river bank|ribera||S|nat|B1
+creek|arroyo, riachuelo||S|nat|B1
+waterfall|cascada||S|nat|B1
+lake|lago||S|nat|B1
+cave|cueva||S|nat|B1
+path|sendero||S|nat|B1
+footpath|camino peatonal||S|nat|B1
+countryside|el campo (zona rural)||S|nat|B1
+wildlife|fauna y flora silvestre||S|nat|B1
+plant|planta||S|nat|B1
+leaf|hoja (de planta)||S|nat|B1
+branch|rama||S|nat|B1
+root|raíz||S|nat|B1
+seeds|semillas||S|nat|B1
+crop|cultivo||S|nat|B1
+harvest|cosecha||S|nat|B1
+sunset|puesta de sol||S|nat|B1
+sunrise|salida del sol||S|nat|B1
+star|estrella||S|nat|B1
+weather|tiempo (clima)||S|cli|B1
+weather forecast|pronóstico del tiempo||S|cli|B1
+changeable|cambiante (tiempo)||A|cli|B1
+cloudy|nublado||A|cli|B1
+overcast|cubierto (cielo)||A|cli|B1
+drizzle|llovizna||S|cli|B1
+heavy rain|lluvia intensa||S|cli|B1
+pouring down|lloviendo a cántaros||L|cli|B1
+thunderstorm|tormenta||S|cli|B1
+lightning|relámpago||S|cli|B1
+thunder|trueno||S|cli|B1
+hail|granizo||S|cli|B1
+snowfall|nevada||S|cli|B1
+freezing|glacial, helador||A|cli|B1
+mild|suave (temperatura)||A|cli|B1
+humid|húmedo||A|cli|B1
+fog|niebla||S|cli|B1
+breeze|brisa||S|cli|B1
+gale|vendaval||S|cli|B1
+flood|inundación||S|cli|B1
+drought|sequía||S|cli|B1
+heatwave|ola de calor||S|cli|B1
+global warming|calentamiento global||S|cli|B1
+climate change|cambio climático||S|cli|B1
+carbon footprint|huella de carbono||S|cli|B1
+greenhouse effect|efecto invernadero||S|cli|B1
+pollution|contaminación||S|cli|B1
+pollute|contaminar||V|cli|B1
+recycle|reciclar||V|cli|B1
+renewable|renovable||A|cli|B1
+pet|mascota||S|ani|B1
+breed|raza (de animal)||S|ani|B1
+wild|salvaje||A|ani|B1
+tame|dócil, doméstico||A|ani|B1
+endangered|en peligro de extinción||A|ani|B1
+species|especie||S|ani|B1
+habitat|hábitat||S|ani|B1
+extinction|extinción||S|ani|B1
+cage|jaula||S|ani|B1
+fur|pelaje||S|ani|B1
+feathers|plumas||S|ani|B1
+wings|alas||S|ani|B1
+beak|pico (de ave)||S|ani|B1
+paws|patas||S|ani|B1
+tail|cola||S|ani|B1
+insect|insecto||S|ani|B1
+bee|abeja||S|ani|B1
+butterfly|mariposa||S|ani|B1
+bat|murciélago||S|ani|B1
+squirrel|ardilla||S|ani|B1
+hedgehog|erizo||S|ani|B1
+fox|zorro||S|ani|B1
+wolf|lobo||S|ani|B1
+bear|oso||S|ani|B1
+shark|tiburón||S|ani|B1
+dolphin|delfín||S|ani|B1
+politics|política||S|att|B1
+politician|político||S|att|B1
+government|gobierno||S|att|B1
+election|elecciones||S|att|B1
+vote|votar||V|att|B1
+candidate|candidato||S|att|B1
+campaign|campaña electoral||S|att|B1
+referendum|referéndum||S|att|B1
+law|ley||S|att|B1
+illegal|ilegal||A|att|B1
+legal|legal||A|att|B1
+court|tribunal||S|att|B1
+trial|juicio||S|att|B1
+judge|juez||S|att|B1
+lawyer|abogado||S|att|B1
+crime|delito||S|att|B1
+criminal|delincuente||S|att|B1
+offender|infractor||S|att|B1
+victim|víctima||S|att|B1
+witness|testigo||S|att|B1
+arrest|detener||V|att|B1
+police|la policía||S|att|B1
+fine|multa||S|att|B1
+prison sentence|condena (de prisión)||S|att|B1
+guilty|culpable||A|att|B1
+innocent|inocente||A|att|B1
+evidence|pruebas||S|att|B1
+prove|demostrar||V|att|B1
+protest|protesta||S|att|B1
+demonstrate|manifestarse||V|att|B1
+strike|huelga||S|att|B1
+go on strike|hacer huelga||L|att|B1
+trade union|sindicato||S|att|B1
+equality|igualdad||S|att|B1
+human rights|derechos humanos||S|att|B1
+poverty|pobreza||S|att|B1
+wealth|riqueza||S|att|B1
+homeless|sin hogar||A|att|B1
+charity|organización benéfica||S|att|B1
+donate|donar||V|att|B1
+volunteer|voluntario||S|att|B1
+community|comunidad||S|att|B1
+society|sociedad||S|att|B1
+population|población||S|att|B1
+immigration|inmigración||S|att|B1
+discrimination|discriminación||S|att|B1
+however|sin embargo||C|cnn|B1
+although|aunque||C|cnn|B1
+even though|aunque (más enfático)||C|cnn|B1
+despite|a pesar de||C|cnn|B1
+in spite of|a pesar de||C|cnn|B1
+whereas|mientras que||C|cnn|B1
+while|mientras (que)||C|cnn|B1
+on the other hand|por otra parte||L|cnn|B1
+on the contrary|todo lo contrario||L|cnn|B1
+actually|en realidad||D|cnn|B1
+in fact|de hecho||L|cnn|B1
+to be honest|siendo sincero||E|cnn|B1
+anyway|de todos modos||D|cnn|B1
+by the way|por cierto||E|cnn|B1
+after all|al fin y al cabo||L|cnn|B1
+as far as I know|que yo sepa||E|cnn|B1
+in my opinion|en mi opinión||L|cnn|B1
+from my point of view|desde mi punto de vista||L|cnn|B1
+it seems to me|me parece||E|cnn|B1
+presumably|presumiblemente||D|cnn|B1
+obviously|evidentemente||D|cnn|B1
+apparently|al parecer||D|cnn|B1
+fortunately|por suerte||D|cnn|B1
+unfortunately|por desgracia||D|cnn|B1
+to sum up|en resumen||L|cnn|B1
+in conclusion|en conclusión||L|cnn|B1
+as a result|como resultado||L|cnn|B1
+therefore|por lo tanto||D|cnn|B1
+consequently|en consecuencia||D|cnn|B1
+for instance|por ejemplo||L|cnn|B1
+such as|como (para dar ejemplos)||C|cnn|B1
+apart from|aparte de||C|cnn|B1
+except for|salvo, excepto||C|cnn|B1
+what's more|es más||E|cnn|B1
+besides|además||D|cnn|B1
+otherwise|de lo contrario||D|cnn|B1
+instead of|en lugar de||C|cnn|B1
+in case of|en caso de||C|cnn|B1
+as long as|siempre que||C|cnn|B1
+it turns out that|resulta que||E|cnn|B1
+plumber|fontanero||S|pro|B1
+electrician|electricista||S|pro|B1
+carpenter|carpintero||S|pro|B1
+builder|albañil||S|pro|B1
+mechanic|mecánico||S|pro|B1
+hairdresser|peluquero||S|pro|B1
+butcher|carnicero||S|pro|B1
+baker|panadero||S|pro|B1
+greengrocer|verdulero||S|pro|B1
+nurse|enfermero, enfermera||S|pro|B1
+surgeon|cirujano||S|pro|B1
+dentist|dentista||S|pro|B1
+vet|veterinario||S|pro|B1
+engineer|ingeniero||S|pro|B1
+architect|arquitecto||S|pro|B1
+accountant|contable||S|pro|B1
+civil servant|funcionario||S|pro|B1
+postman|cartero||S|pro|B1
+shopkeeper|tendero||S|pro|B1
+lorry driver|camionero||S|pro|B1
+security guard|vigilante de seguridad||S|pro|B1
+firefighter|bombero||S|pro|B1
+paramedic|paramédico||S|pro|B1
+receptionist|recepcionista||S|pro|B1
+journey|viaje (trayecto)||S|vig|B1
+trip|excursión, viaje||S|vig|B1
+travel|viajar||V|vig|B1
+flight|vuelo||S|vig|B1
+board|embarcar (en un avión)||V|vig|B1
+boarding pass|tarjeta de embarque||S|vig|B1
+check in|facturar el equipaje||V|vig|B1
+check out|dejar el hotel||V|vig|B1
+luggage|equipaje||S|vig|B1
+baggage reclaim|recogida de equipajes||S|vig|B1
+customs|aduana||S|vig|B1
+passport|pasaporte||S|vig|B1
+visa|visado||S|vig|B1
+souvenir|recuerdo (de viaje)||S|vig|B1
+destination|destino||S|vig|B1
+set off|salir (de viaje)||V|vig|B1
+take off|despegar||V|vig|B1
+land|aterrizar||V|vig|B1
+cancellation|cancelación||S|vig|B1
+package holiday|viaje organizado||S|vig|B1
+sightseeing|turismo urbano||S|vig|B1
+go sightseeing|hacer turismo||L|vig|B1
+tourist attraction|atracción turística||S|vig|B1
+accommodation|alojamiento||S|vig|B1
+book|reservar||V|vig|B1
+youth hostel|albergue juvenil||S|vig|B1
+guest|huésped||S|vig|B1
+aisle seat|asiento de pasillo||S|vig|B1
+window seat|asiento de ventanilla||S|vig|B1
+travel insurance|seguro de viaje||S|vig|B1
+jet lag|desfase horario||S|vig|B1
+get lost|perderse||L|vig|B1
+guidebook|guía (de viaje)||S|vig|B1
+rucksack|mochila (de senderismo)||S|vig|B1

@@ -1,0 +1,260 @@
+der Schöpfungsmythos|mito cosmogónico||S|rel|C2
+die Sintflut|diluvio||S|rel|C2
+die Sagenwelt|mundo legendario||S|rel|C2
+die Heldensage|saga heroica||S|rel|C2
+der Sagenkreis|ciclo legendario||S|rel|C2
+der Weltenbaum|árbol cósmico||S|rel|C2
+das Totenreich|reino de los muertos||S|rel|C2
+die Schutzgottheit|deidad tutelar||S|rel|C2
+der Orakelspruch|vaticinio||S|rel|C2
+das Schicksalsrad|rueda de la fortuna||S|rel|C2
+die Vorsehung|providencia||S|rel|C2
+die Vorherbestimmung|predestinación||S|rel|C2
+der Frevel|sacrilegio||S|rel|C2
+die Gotteslästerung|blasfemia||S|rel|C2
+der Bannspruch|sentencia de excomunión||S|rel|C2
+der Weihrauch|incienso||S|rel|C2
+die Jenseitsvorstellung|concepción del más allá||S|rel|C2
+der Librettist|libretista||S|mus|C2
+die temperierte Stimmung|temperamento (igualado)||L|mus|C2
+die Gehörbildung|entrenamiento auditivo||S|mus|C2
+die Solmisation|solfeo (con sílabas)||S|mus|C2
+das Stimmfach|tipo de voz||S|mus|C2
+die Bühnenmaschinerie|maquinaria escénica||S|mus|C2
+der Inspizient|regidor||S|mus|C2
+die Konzertreise|gira||S|mus|C2
+die Probenarbeit|trabajo de ensayo||S|mus|C2
+der Violinschlüssel|clave de sol||S|mus|C2
+die Chorprobe|ensayo de coro||S|mus|C2
+die Orchesterprobe|ensayo orquestal||S|mus|C2
+die Schauspielkunst|arte dramático||S|art|C2
+der Rollenwechsel|cambio de papel||S|art|C2
+die Charakterrolle|papel de carácter||S|art|C2
+die Kunstfigur|personaje artificial (figura de paja)||S|art|C2
+das Stegreifspiel|improvisación teatral||S|art|C2
+das Possenspiel|farsa||S|art|C2
+die Bühnenfassung|versión escénica||S|art|C2
+die Premierenbesetzung|reparto del estreno||S|art|C2
+die Besetzungsliste|lista de reparto||S|art|C2
+die Bewegungsschulung|educación del movimiento||S|art|C2
+das Bewegungstheater|teatro físico||S|art|C2
+das Gaukelspiel|juego de malabares (artimañas)||S|art|C2
+die Blendeneinstellung|ajuste de diafragma||S|cin|C2
+die Bildkomposition|composición fotográfica||S|cin|C2
+das Streiflicht|contraluz rasante||S|cin|C2
+das Filmmaterial|soporte fílmico||S|cin|C2
+die Kinemathek|filmoteca||S|cin|C2
+die Filmkopie|copia de la película||S|cin|C2
+die Schnittfassung|versión de montaje||S|cin|C2
+der Regieassistent|asistente de dirección||S|cin|C2
+die Beleuchtungsanlage|equipo de iluminación||S|cin|C2
+der Kostümbildner|figurinista||S|cin|C2
+der Maskenbildner|maquillador (caracterización)||S|cin|C2
+der Toneffekt|efecto de sonido||S|cin|C2
+der Tonmeister|ingeniero de sonido||S|cin|C2
+das Filmfest|festival de cine||S|cin|C2
+die Fehlstellung|desviación (posición viciada)||S|cor|C2
+die Verspannung|contractura||S|cor|C2
+der Muskelfaserriss|desgarro muscular||S|cor|C2
+die Sehnenentzündung|tendinitis||S|cor|C2
+der Knorpelverschleiß|desgaste del cartílago||S|cor|C2
+der Gelenkverschleiß|artrosis (desgaste articular)||S|cor|C2
+die Knochendichtemessung|densitometría||S|cor|C2
+die Atemtherapie|terapia respiratoria||S|cor|C2
+die Ergotherapie|terapia ocupacional||S|cor|C2
+der Kuraufenthalt|estancia termal||S|cor|C2
+die Rehabilitationsmaßnahme|medida rehabilitadora||S|cor|C2
+die Schmerzgrenze|umbral del dolor||S|cor|C2
+die Blutverdünnung|anticoagulación||S|sla|C2
+der Wurzelballen|cepellón||S|nat|C2
+die Pfahlwurzel|raíz pivotante||S|nat|C2
+die Speicherwurzel|raíz de reserva||S|nat|C2
+die Knospenanlage|primordio de yema||S|nat|C2
+der Austrieb|brotación (foliación)||S|nat|C2
+die Blütenhülle|perianto||S|nat|C2
+das Staubblatt|estambre||S|nat|C2
+der Fruchtknoten|ovario (floral)||S|nat|C2
+die Samenanlage|óvulo (vegetal)||S|nat|C2
+die Keimung|germinación||S|nat|C2
+der Keimling|plántula||S|nat|C2
+die Bewurzelung|enraizamiento||S|nat|C2
+die Schlingpflanze|planta trepadora (enredadera)||S|nat|C2
+das Brutgeschäft|tarea de incubación||S|nat|C2
+die Brutkolonie|colonia de cría||S|nat|C2
+das Gelege|puesta||S|nat|C2
+das Daunengefieder|plumón||S|nat|C2
+die Mauser|muda (emplume)||S|nat|C2
+die Überwinterung|invernada||S|nat|C2
+der Nahrungserwerb|obtención de alimento||S|nat|C2
+der Ansitzjäger|cazador al acecho||S|nat|C2
+das Balzverhalten|comportamiento de cortejo||S|nat|C2
+das Revierverhalten|conducta territorial||S|nat|C2
+die Narbe (Blüte)|estigma||S|nat|C2
+die Pollenübertragung|polinización||S|nat|C2
+das Vollkornmehl|harina integral||S|ali|C2
+der Sauerteig|masa madre||S|ali|C2
+der Vorteig|masa previa (madre)||S|ali|C2
+die Teigruhe|reposo de la masa||S|ali|C2
+der Teigling|pieza de masa||S|ali|C2
+die Krume|miga||S|ali|C2
+die Kruste|corteza||S|ali|C2
+der Ausbund|rejilla (de la corteza)||S|ali|C2
+das Kneten|amasadura||S|ali|C2
+der Klecks|pizca (manchita)||S|ali|C2
+die Messerspitze|punta de cuchillo||S|ali|C2
+das Anrichten|emplatado||S|ali|C2
+die Warmhaltung|mantenimiento en caliente||S|ali|C2
+das Schmoren|estofado (a fuego lento)||S|ali|C2
+das Pochieren|escalfado||S|ali|C2
+das Blanchieren|escaldado||S|ali|C2
+das Gratinieren|gratinado||S|ali|C2
+das Flambieren|flambeado||S|ali|C2
+das Karamellisieren|caramelizado||S|ali|C2
+die Sämigkeit|textura aterciopelada||S|ali|C2
+das Schnittmuster|patrón (de costura)||S|rop|C2
+die Nahtzugabe|margen de costura||S|rop|C2
+das Knopfloch|ojal||S|rop|C2
+der Zierstich|puntada decorativa||S|rop|C2
+die Steppnaht|costura recta||S|rop|C2
+die Paspelierung|ribeteado||S|rop|C2
+der Faltenwurf|caída de los pliegues||S|rop|C2
+der Schuhleisten|horma (de zapato)||S|rop|C2
+die Absatzhöhe|altura del tacón||S|rop|C2
+der Stiefelschaft|caña de la bota||S|rop|C2
+die Passform|encastre (calce)||S|rop|C2
+die Konfektionsgröße|talla de confección||S|rop|C2
+die Maßanfertigung|hecho a medida||S|rop|C2
+der Maßschneider|sastre a medida||S|rop|C2
+die Schneiderbüste|busto de sastre||S|rop|C2
+die Schnittführung|línea del patrón||S|rop|C2
+das Tragegefühl|sensación al llevarlo puesto||S|rop|C2
+der Stoffrest|retal (sobrante)||S|rop|C2
+die Meterware|tela por metros||S|rop|C2
+die Betrübnis|pesar||S|emo|C2
+die Beklommenheit|desasosiego||S|emo|C2
+die Zuversicht|confianza (optimismo sereno)||S|emo|C2
+die Seelenruhe|serenidad||S|emo|C2
+die Herzensgüte|bondad de corazón||S|emo|C2
+die Herzenskälte|frialdad de corazón||S|emo|C2
+die Charakteranlage|disposición del carácter||S|emo|C2
+der Charakterzug|rasgo de carácter||S|emo|C2
+die Seelenstärke|fortaleza anímica||S|emo|C2
+die Anspruchslosigkeit|austeridad (sin pretensiones)||S|emo|C2
+der Eigenbrötler|persona singular (lobezna)||S|emo|C2
+die Gehässigkeit|malignidad (rabia)||S|emo|C2
+der Missgunst|envidia rencorosa||S|emo|C2
+die Heimtücke|asechanza (traición)||S|emo|C2
+die Ränke|intrigas||S|emo|C2
+die Zwischenzeit|entretanto||S|tmp|C2
+die Dämmerstunde|hora del crepúsculo||S|tmp|C2
+das Morgengrauen|albor||S|tmp|C2
+die Frühzeit|primeros tiempos||S|tmp|C2
+der Zeitabschnitt|periodo||S|tmp|C2
+die Zeitlupe|cámara lenta||S|tmp|C2
+der Zeitraffer|acelerado||S|tmp|C2
+die Rückwirkung|efecto retroactivo||S|tmp|C2
+die Lebensmitte|mediana edad||S|tmp|C2
+der Lebensabend|ocaso de la vida||S|tmp|C2
+die Ahnenreihe|línea de ancestros||S|tmp|C2
+die Nachkommenschaft|descendencia||S|tmp|C2
+die Hinterlassenschaft|legado (herencia)||S|tmp|C2
+der literarische Nachlass|legado literario||L|let|C2
+die Ausstrahlungskraft|carisma||S|ast|C2
+die Beharrlichkeit|tenacidad||S|ast|C2
+die Glanzzeit|época de esplendor||S|tmp|C2
+die Hochblüte|apogeo||S|tmp|C2
+die Spätzeit|época tardía||S|tmp|C2
+die Urzeit|tiempos primigenios||S|tmp|C2
+mit dem Feuer spielen|jugar con fuego||E|ast|C2
+jemandem ein Dorn im Auge sein|ser una espina clavada||E|emo|C2
+das Gesicht wahren|salvar las apariencias||E|cmu|C2
+sein Gesicht verlieren|perder la cara||E|cmu|C2
+die Geduld verlieren|perder la paciencia||E|emo|C2
+jemanden auf die Palme bringen|sacar de quicio||E|emo|C2
+jemanden zur Weißglut bringen|poner furioso||E|emo|C2
+die Nerven verlieren|ponerse nervioso||E|emo|C2
+etwas geht an die Nieren|algo afecta en lo hondo||E|emo|C2
+das geht auf keine Kuhhaut|no hay piel de vaca que lo aguante||E|cmu|C2
+sein Licht unter den Scheffel stellen|esconder su talento||E|ast|C2
+über die Verhältnisse leben|vivir por encima de sus posibilidades||E|fin|C2
+ins Schwarze treffen|dar en el blanco||E|ast|C2
+die Flinte ins Korn werfen|tirar la toalla||E|ast|C2
+den Karren in den Dreck fahren|hacer un destrozo||E|fin|C2
+jemandem den Marsch blasen|cantar las cuarenta a alguien||E|cmu|C2
+den Braten riechen|olerse la tostada||E|cmu|C2
+den Faden verlieren|perder el hilo||E|cmu|C2
+die Büchse der Pandora öffnen|abrir la caja de los truenos||E|ast|C2
+den Bock zum Gärtner machen|hacer al lobo guardián del rebaño||E|ast|C2
+die Kirche im Dorf lassen|no exagerar||E|cmu|C2
+zwei Fliegen mit einer Klappe schlagen|matar dos pájaros de un tiro||E|ast|C2
+den Stein ins Rollen bringen|poner algo en marcha||E|ast|C2
+auf Sand bauen|construir sobre arena||E|ast|C2
+sein Scherflein beitragen|aportar su granito de arena||E|fin|C2
+den Kürzeren ziehen|salir perdiendo||E|ast|C2
+sich ein Bild machen|hacerse una idea||E|cmu|C2
+die Herzensangelegenheit|asunto del corazón||S|emo|C2
+die Gemütsverfassung|estado de ánimo||S|emo|C2
+die Gefühlswallung|oleada emotiva||S|emo|C2
+die Wallung|arrebato (oleada)||S|emo|C2
+der Seelenschmerz|dolor anímico||S|emo|C2
+das Seelenleiden|padecer anímico||S|emo|C2
+die Seelenqual|agonía (tortura moral)||S|emo|C2
+der Gewissensbiss|remordimiento||S|emo|C2
+die Gewissensnot|angustia de conciencia||S|emo|C2
+die Gewissensfrage|cuestión de conciencia||S|emo|C2
+der Gewissenskonflikt|conflicto de conciencia||S|emo|C2
+der Zwiespalt|escisión interna (disensión)||S|emo|C2
+die Zerrissenheit|desgarro interior||S|emo|C2
+die Gebrochenheit|quebranto (fragmentación)||S|emo|C2
+die Unentschlossenheit|indecisión||S|emo|C2
+die Zaghaftigkeit|timidez (apocamiento)||S|emo|C2
+der Jähzorn|accesos de ira||S|emo|C2
+die Eigensinnigkeit|obstinación caprichosa||S|emo|C2
+die Ruhmsucht|ansia de gloria||S|emo|C2
+die Geltungssucht|afán de notoriedad||S|emo|C2
+die Undankbarkeit|ingratitud||S|emo|C2
+die Unduldsamkeit|intolerancia||S|emo|C2
+die Besserwisserei|sabelotodo (actitud)||S|ast|C2
+die Rechthaberei|obstinación (querer llevar razón)||S|ast|C2
+die Unbelehrbarkeit|incorregibilidad||S|ast|C2
+die Flüchtigkeit|fugacidad||S|ast|C2
+die Endgültigkeit|carácter definitivo||S|ast|C2
+die Unwiderruflichkeit|irrevocabilidad||S|ast|C2
+die Unumkehrbarkeit|irreversibilidad||S|ast|C2
+die Wiederkehr|regreso (recurrencia)||S|ast|C2
+der Ehrenpunkt|punto de honor||S|ast|C2
+die Sturheit|porfía||S|ast|C2
+die Wissenskluft|brecha de conocimiento||S|ast|C2
+die Widersetzlichkeit|resistencia (insubordinación)||S|emo|C2
+die Vergeblichkeit|inutilidad (vanidad)||S|ast|C2
+die Trostlosigkeit|desolación||S|emo|C2
+sich mühen|esmerarse||V|lav|C2
+säuseln|susurrar (la brisa)||V|nat|C2
+verneigen|inclinarse (reverencia)||V|cmu|C2
+bändigen|domeñar||V|nat|C2
+umranken|enguirnaldar||V|nat|C2
+sich erstrecken|extenderse (abarcar)||V|ast|C2
+gedenken|conmemorar||V|ist|C2
+ergötzen|deleitar||V|cmu|C2
+vermarkten|comercializar||V|fin|C2
+entreißen|arrebatar||V|ist|C2
+abschrecken|disuadir (ahuyentar)||V|emo|C2
+erwirken|conseguir (gestionar)||V|ist|C2
+erstreben|aspirar a||V|ast|C2
+erbitten|solicitar (pedir)||V|cmu|C2
+in Augenschein nehmen|examinar (echar el ojo)||L|ast|C2
+jemandem die Leviten lesen|dar un sermoncito||E|cmu|C2
+auf Herz und Nieren prüfen|poner a prueba a fondo||E|ast|C2
+mit Haut und Haaren|con cuerpo y alma||E|emo|C2
+das Herz auf dem rechten Fleck haben|tener el corazón en su sitio||E|emo|C2
+etwas auf dem Herzen haben|tener algo en el pecho||E|cmu|C2
+seinem Herzen Luft verschaffen|desahogarse||E|cmu|C2
+jemandem zu nahe treten|pisar callos a alguien||E|cmu|C2
+ins Gras beißen|morder el polvo (morir)||E|cmu|C2
+den Geist aufgeben|rendir el espíritu||E|cmu|C2
+von dannen ziehen|marcharse (de allí)||E|ast|C2
+das Weite suchen|poner pies en polvorosa||E|vig|C2
+Staub aufwirbeln|levantar polvo||E|att|C2
+Öl ins Feuer gießen|echar leña al fuego||E|emo|C2
+die erste Geige spielen|llevar la voz cantante||E|mus|C2
+den Ton angeben|imponer el tono||E|cmu|C2

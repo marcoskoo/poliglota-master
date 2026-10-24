@@ -1,0 +1,258 @@
+die Rebsorte|variedad de uva||S|ris|C1
+der Winzer|viticultor||S|ris|C1
+der Kellermeister|encargado de bodega||S|ris|C1
+der Jahrgang|añada||S|ris|C1
+das Tannin|tanino||S|ris|C1
+der Abgang|final de boca||S|ris|C1
+die Verkostung|cata||S|ris|C1
+der Sommelier|sumiller||S|ris|C1
+die Destillerie|destilería||S|ris|C1
+der Edelbrand|aguardiente de calidad||S|ris|C1
+die Trüffel|trufa||S|ris|C1
+der Feinschmecker|sibarita||S|ris|C1
+raffiniert|sofisticado||A|ris|C1
+die Raffinesse|finura||S|ris|C1
+die gehobene Küche|alta cocina||L|ris|C1
+die Konsistenz|textura||S|ris|C1
+würzen|sazonar||V|ris|C1
+abschmecken|ajustar el sazón||V|ris|C1
+degustieren|degustar||V|ris|C1
+der Weinkenner|experto en vinos||S|ris|C1
+der Weinkeller|bodega de vinos||S|ris|C1
+die Lagerung|crianza||S|ris|C1
+der Weinberg|viñedo||S|ris|C1
+die Weinlese|vendimia||S|ris|C1
+der Most|mosto||S|ris|C1
+die Gärung|fermentación||S|ris|C1
+das Barriquefass|barrica de roble||S|ris|C1
+die Säurestruktur|estructura acídica||S|ris|C1
+betören|hechizar||V|ris|C1
+die Gaumenfreude|deleite del paladar||S|ris|C1
+der Nachgeschmack|retrogusto||S|ris|C1
+das Degustationsmenü|menú degustación||S|ris|C1
+der Speisenbegleiter|maridaje||S|ris|C1
+die Gattung|género taxonómico||S|ani|C1
+die Taxonomie|taxonomía||S|ani|C1
+die Fortbewegung|locomoción||S|ani|C1
+das Brutverhalten|comportamiento reproductor||S|ani|C1
+die Brutpflege|cuidado de las crías||S|ani|C1
+der Nistplatz|lugar de anidación||S|ani|C1
+das Revier|territorio animal||S|ani|C1
+die Rangordnung|jerarquía grupal||S|ani|C1
+das Rudel|manada||S|ani|C1
+der Schwarm|bandada||S|ani|C1
+der Zugvogel|ave migratoria||S|ani|C1
+der Vogelzug|migración de las aves||S|ani|C1
+die Paarungszeit|época de celo||S|ani|C1
+die Balz|cortejo nupcial||S|ani|C1
+der Fressfeind|depredador natural||S|ani|C1
+das Beutetier|presa||S|ani|C1
+der Nachwuchs|camada||S|ani|C1
+das Gefieder|plumaje||S|ani|C1
+die Kralle|garra||S|ani|C1
+der Fangzahn|colmillo||S|ani|C1
+das Wildtier|animal salvaje||S|ani|C1
+in freier Wildbahn|en estado salvaje||E|ani|C1
+die Giftdrüse|glándula venenosa||S|ani|C1
+die Tarnung|camuflaje||S|ani|C1
+die Mimikry|mimetismo||S|ani|C1
+die Artbildung|especiación||S|ani|C1
+die Ausrottung|exterminio||S|ani|C1
+der Lebensraum|hábitat||S|ani|C1
+die Nahrungskette|cadena trófica||S|ani|C1
+das Wirbeltier|vertebrado||S|ani|C1
+die Lautäußerung|vocalización||S|ani|C1
+der Verhaltensforscher|etólogo||S|ani|C1
+aussterben|extinguirse||V|ani|C1
+der Blütenstand|inflorescencia||S|nat|C1
+die Blattader|nervadura de la hoja||S|nat|C1
+das Wurzelsystem|sistema radicular||S|nat|C1
+die Photosynthese|fotosíntesis||S|nat|C1
+der Pollen|polen||S|nat|C1
+die Bestäubung|polinización||S|nat|C1
+keimen|germinar||V|nat|C1
+der Stängel|tallo||S|nat|C1
+die Baumkrone|copa del árbol||S|nat|C1
+die Borke|corteza||S|nat|C1
+das Herbstlaub|hojarasca||S|nat|C1
+die Flechte|liquen||S|nat|C1
+der Farn|helecho||S|nat|C1
+die Heide|brezal||S|nat|C1
+das Röhricht|carrizal||S|nat|C1
+das Feuchtgebiet|zona húmeda||S|nat|C1
+das Biotop|biotopo||S|nat|C1
+das Ökosystem|ecosistema||S|nat|C1
+die Sukzession|sucesión ecológica||S|nat|C1
+der Nährstoff|nutriente||S|nat|C1
+der Humus|humus||S|nat|C1
+der Oberboden|horizonte superficial del suelo||S|nat|C1
+die Bodenerosion|erosión del suelo||S|nat|C1
+die Aufforstung|repoblación forestal||S|nat|C1
+das Totholz|madera muerta||S|nat|C1
+überwuchern|cubrir de maleza||V|nat|C1
+gedeihen|medrar||V|nat|C1
+verwildern|asilvestrarse||V|nat|C1
+die Pionierart|especie pionera||S|nat|C1
+die Kulturlandschaft|paisaje humanizado||S|nat|C1
+die Artenvielfalt|diversidad de especies||S|nat|C1
+die Wildpflanze|planta silvestre||S|nat|C1
+die Vergangenheitsbewältigung|superación del pasado||S|tmp|C1
+das Geschichtsbewusstsein|conciencia histórica||S|tmp|C1
+die Erinnerungskultur|cultura de la memoria||S|tmp|C1
+das Gedenken|conmemoración||S|tmp|C1
+die Gedenkstätte|lugar conmemorativo||S|tmp|C1
+das Denkmal|monumento conmemorativo||S|tmp|C1
+das Mahnmal|monumento recordatorio||S|tmp|C1
+die Chronik|crónica||S|tmp|C1
+der Zeitzeuge|testigo de la historia||S|tmp|C1
+das Zeitalter|era histórica||S|tmp|C1
+die Ewigkeit|eternidad||S|tmp|C1
+die Endlichkeit|finitud||S|tmp|C1
+die Vergänglichkeit|carácter efímero||S|tmp|C1
+der Augenblick|instante||S|tmp|C1
+der Zeitpunkt|momento puntual||S|tmp|C1
+die Gleichzeitigkeit|simultaneidad||S|tmp|C1
+die Nachwirkung|repercusión posterior||S|tmp|C1
+das Erbe|legado||S|tmp|C1
+das Vermächtnis|legado moral||S|tmp|C1
+der Nachlass|obra póstuma||S|tmp|C1
+die Ahnen|antepasados||S|tmp|C1
+die Abstammung|linaje||S|tmp|C1
+rückblickend|en retrospectiva||D|tmp|C1
+zeitgleich|simultáneo||A|tmp|C1
+von Dauer sein|perdurar||E|tmp|C1
+im Laufe der Zeit|con el paso del tiempo||E|tmp|C1
+der Wandel|transformación||S|tmp|C1
+der Umbruch|convulsión||S|tmp|C1
+der Wendepunkt|punto de inflexión||S|tmp|C1
+der Verfall|decadencia||S|tmp|C1
+verweilen|demorarse||V|tmp|C1
+andauern|prolongarse||V|tmp|C1
+die Kryptowährung|criptomoneda||S|fin|C1
+die Blockchain|cadena de bloques||S|fin|C1
+die Wallet|cartera digital||S|tec|C1
+das Mining|minería de criptomonedas||S|tec|C1
+schürfen|minar criptomonedas||V|tec|C1
+das Staking|bloqueo de activos para validación||S|fin|C1
+der Token|token||S|fin|C1
+der Smart Contract|contrato inteligente||S|fin|C1
+die Volatilität|volatilidad||S|fin|C1
+das Cybergeld|dinero digital||S|tec|C1
+der Kryptohandel|comercio de criptoactivos||S|fin|C1
+der Kryptomarkt|mercado cripto||S|fin|C1
+die Handelsplattform|plataforma de negociación||S|tec|C1
+die Verwahrstelle|entidad de custodia||S|fin|C1
+die Hashfunktion|función hash||S|tec|C1
+die Verschlüsselung|cifrado||S|tec|C1
+entschlüsseln|descifrar||V|tec|C1
+dezentral|descentralizado||A|tec|C1
+die Fälschungssicherheit|seguridad frente a falsificación||S|tec|C1
+der Anlegerschutz|protección del inversor||S|fin|C1
+der Spekulant|especulador||S|fin|C1
+spekulieren|especular||V|fin|C1
+die Kursmanipulation|manipulación de cotizaciones||S|fin|C1
+der Hebelhandel|negociación apalancada||S|fin|C1
+die Sicherheitslücke|vulnerabilidad de seguridad||S|tec|C1
+das Cyberverbrechen|cibercrimen||S|tec|C1
+das Guthaben|saldo disponible||S|fin|C1
+die Tokenisierung|tokenización||S|fin|C1
+das Fiatgeld|dinero fiduciario||S|fin|C1
+der Stablecoin|criptodivisa de valor estable||S|fin|C1
+der Kryptoanleger|inversor cripto||S|fin|C1
+die Spekulationsblase|burbuja especulativa||S|fin|C1
+der Notar|notario||S|pro|C1
+die Beurkundung|otorgamiento público||S|ist|C1
+die Urkunde|escritura||S|ist|C1
+die Beglaubigung|compulsa||S|ist|C1
+der Entwurf|borrador||S|ist|C1
+die Ausfertigung|copia autorizada||S|ist|C1
+das Grundbuch|registro de la propiedad||S|ist|C1
+die Eintragung|inscripción registral||S|ist|C1
+das Grundstück|finca||S|ist|C1
+die Grundschuld|hipoteca||S|ist|C1
+der Nießbrauch|usufructo||S|ist|C1
+die Erbengemeinschaft|comunidad hereditaria||S|ist|C1
+der Erbvertrag|pacto sucesorio||S|ist|C1
+der Erbschein|certificado de herederos||S|ist|C1
+der Erbverzicht|renuncia a la herencia||S|ist|C1
+das eigenhändige Testament|testamento ológrafo||L|ist|C1
+die Verfügung|disposición||S|ist|C1
+die letztwillige Verfügung|disposición de última voluntad||L|ist|C1
+der Erblasser|causante||S|ist|C1
+die Vollmacht|poder||S|ist|C1
+die Generalvollmacht|poder general||S|ist|C1
+beglaubigen|compulsar||V|ist|C1
+beurkunden|autorizar en escritura pública||V|ist|C1
+verwahren|custodiar||V|ist|C1
+die Hinterlegung|depósito||S|ist|C1
+die Niederschrift|acta||S|ist|C1
+das Registergericht|juzgado registral||S|ist|C1
+das Handelsregister|registro mercantil||S|ist|C1
+die Löschung|cancelación registral||S|ist|C1
+die Auflassung|consentimiento de transmisión dominical||S|ist|C1
+der Treuhänder|fiduciario||S|ist|C1
+das Erbbaurecht|derecho de superficie||S|ist|C1
+der Verwaltungsakt|acto administrativo||S|ist|C1
+die Verwaltungsbehörde|autoridad administrativa||S|ist|C1
+der Bescheid|resolución administrativa||S|ist|C1
+der Widerspruch|recurso de alzada||S|ist|C1
+Klage erheben|interponer demanda||E|ist|C1
+die Anfechtungsklage|recurso de anulación||S|ist|C1
+die Verpflichtungsklage|recurso por inactividad||S|ist|C1
+das Verwaltungsgericht|juzgado contencioso-administrativo||S|ist|C1
+das Verwaltungsverfahren|procedimiento administrativo||S|ist|C1
+die Anhörung|trámite de audiencia||S|ist|C1
+das rechtliche Gehör|derecho de audiencia||L|ist|C1
+die Aussetzung|suspensión||S|ist|C1
+die aufschiebende Wirkung|efecto suspensivo||L|ist|C1
+die Vollziehung|ejecución del acto||S|ist|C1
+die Rücknahme|revocación||S|ist|C1
+der Ermessensspielraum|margen de discrecionalidad||S|ist|C1
+die Verhältnismäßigkeit|proporcionalidad||S|ist|C1
+der Gesetzesvorbehalt|reserva de ley||S|ist|C1
+das Verwaltungsrecht|derecho administrativo||S|ist|C1
+die Zuständigkeit|competencia||S|ist|C1
+anfechten|impugnar||V|ist|C1
+beanstanden|objetar||V|ist|C1
+die Ausschlussfrist|plazo preclusivo||S|ist|C1
+die Notfrist|plazo improrrogable||S|ist|C1
+die Verjährung|prescripción||S|ist|C1
+verjähren|prescribir||V|ist|C1
+die Zulässigkeit|admisibilidad||S|ist|C1
+die Begründetheit|fundamentación||S|ist|C1
+der Rechtsschutz|tutela judicial||S|ist|C1
+der einstweilige Rechtsschutz|tutela judicial cautelar||L|ist|C1
+die Verwaltungsvorschrift|instrucción administrativa||S|ist|C1
+der Verwaltungsprozess|proceso contencioso-administrativo||S|ist|C1
+die Straftat|delito||S|ist|C1
+der Straftäter|delincuente||S|ist|C1
+der Vorsatz|dolo||S|ist|C1
+die Fahrlässigkeit|imprudencia||S|ist|C1
+der Rückfall|reincidencia||S|ist|C1
+die Bewährung|libertad condicional||S|ist|C1
+die Haftstrafe|pena privativa de libertad||S|ist|C1
+die Freiheitsstrafe|pena de prisión||S|ist|C1
+die Geldstrafe|pena de multa||S|ist|C1
+der Strafvollzug|ejecución penitenciaria||S|ist|C1
+die Justizvollzugsanstalt|centro penitenciario||S|ist|C1
+der Häftling|recluso||S|ist|C1
+die Untersuchungshaft|prisión preventiva||S|ist|C1
+die Strafmündigkeit|edad penal||S|ist|C1
+die Schuldunfähigkeit|inimputabilidad||S|ist|C1
+die verminderte Schuldfähigkeit|responsabilidad penal disminuida||L|ist|C1
+der Serientäter|delincuente en serie||S|ist|C1
+das Gewaltdelikt|delito violento||S|ist|C1
+die Tatwaffe|arma del delito||S|ist|C1
+die Spurensicherung|aseguramiento de indicios||S|ist|C1
+das Alibi|coartada||S|ist|C1
+die Vernehmung|interrogatorio judicial||S|ist|C1
+der Kronzeuge|testigo colaborador||S|ist|C1
+die Zeugnisverweigerung|negativa a declarar||S|ist|C1
+die Anklage|acusación||S|ist|C1
+anklagen|acusar formalmente||V|ist|C1
+der Freispruch|absolución||S|ist|C1
+das Strafmaß|cuantía de la pena||S|ist|C1
+die Resozialisierung|resocialización||S|ist|C1
+das Dunkelfeld|cifra negra||S|ist|C1
+das Täterprofil|perfil criminal||S|ist|C1
+der Tatverdächtige|sospechoso||S|ist|C1

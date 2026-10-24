@@ -1,0 +1,260 @@
+die Halbleitertechnik|tecnología de semiconductores||S|tec|C2
+der Transistor|transistor||S|tec|C2
+der Schaltkreis|circuito integrado||S|tec|C2
+die Logikgatter|puerta lógica||S|tec|C2
+die Taktfrequenz|frecuencia de reloj||S|tec|C2
+der Rechenkern|núcleo de procesamiento||S|tec|C2
+der Befehlssatz|conjunto de instrucciones||S|tec|C2
+der Zwischenspeicher|memoria intermedia||S|tec|C2
+der Hauptspeicher|memoria principal||S|tec|C2
+der Systembus|bus del sistema||S|tec|C2
+die Prozessorarchitektur|arquitectura del procesador||S|tec|C2
+die Mikroarchitektur|microarquitectura||S|tec|C2
+die Siliziumscheibe|oblea de silicio||S|tec|C2
+dotieren|dopar un semiconductor||V|tec|C2
+die Störstelle|defecto reticular||S|tec|C2
+die Leiterplatine|placa de circuito impreso||S|tec|C2
+verlöten|soldar||V|tec|C2
+der Kühlkörper|disipador térmico||S|tec|C2
+die Überhitzung|sobrecalentamiento||S|tec|C2
+das Substrat|sustrato del chip||S|tec|C2
+die Photolithografie|fotolitografía||S|tec|C2
+ätzen|grabar con ácido||V|tec|C2
+das Rechenwerk|unidad aritmética||S|tec|C2
+der Maschinencode|código máquina||S|tec|C2
+der Leckstrom|corriente de fuga||S|tec|C2
+der Reinraum|sala limpia||S|tec|C2
+der Mikrochip|microchip||S|tec|C2
+die Chipproduktion|fabricación de chips||S|tec|C2
+die Schaltungslogik|lógica de circuitos||S|tec|C2
+die Datenanalyse|análisis de datos||S|tec|C2
+der Datenbestand|acervo de datos||S|tec|C2
+die Auswertung|explotación analítica de datos||S|tec|C2
+der Quellcode|código fuente||S|tec|C2
+der Algorithmus|algoritmo||S|tec|C2
+algorithmisch|algorítmico||A|tec|C2
+das maschinelle Lernen|aprendizaje automático||L|tec|C2
+das Vorhersagemodell|modelo predictivo||S|tec|C2
+die Abfrage|consulta de datos||S|tec|C2
+die Visualisierung|visualización de datos||S|tec|C2
+das Streudiagramm|diagrama de dispersión||S|sci|C2
+die Regressionsanalyse|análisis de regresión||S|sci|C2
+die Korrelation|correlación||S|sci|C2
+die Häufigkeit|frecuencia estadística||S|sci|C2
+die Standardabweichung|desviación típica||S|sci|C2
+der Ausreißer|valor atípico||S|sci|C2
+die Normalverteilung|distribución normal||S|sci|C2
+der Zentralwert|mediana estadística||S|sci|C2
+das Quantil|cuantil||S|sci|C2
+die Gruppierung|agrupamiento||S|sci|C2
+der Abgleich|cotejo de datos||S|tec|C2
+die Redundanz|redundancia||S|tec|C2
+das Rauschen|ruido de señal||S|sci|C2
+die Bereinigung|depuración de datos||S|tec|C2
+das Schema|esquema de datos||S|tec|C2
+der Primärschlüssel|clave primaria||S|tec|C2
+die Anomalieerkennung|detección de anomalías||S|tec|C2
+der Anwendungsfall|caso de uso||S|tec|C2
+die Verknüpfung|vinculación de datos||S|tec|C2
+die Blockkette|cadena de bloques||S|fin|C2
+dezentral|descentralizado||A|tec|C2
+das verteilte Register|registro distribuido||L|tec|C2
+der intelligente Vertrag|contrato inteligente||L|fin|C2
+die digitale Währung|moneda digital||L|fin|C2
+der Hashwert|valor hash||S|tec|C2
+die Chiffrierung|cifrado||S|tec|C2
+verschlüsseln|cifrar||V|tec|C2
+die digitale Signatur|firma digital||L|tec|C2
+das Schürfen|minería de criptoactivos||S|fin|C2
+der Konsensmechanismus|mecanismo de consenso||S|tec|C2
+die Transaktionsgebühr|comisión de transacción||S|fin|C2
+das Hauptbuch|libro mayor||S|fin|C2
+die doppelte Buchführung|contabilidad por partida doble||L|fin|C2
+die Tokenisierung|tokenización de activos||S|fin|C2
+die Unveränderlichkeit|inmutabilidad||S|ast|C2
+die Fälschungssicherheit|seguridad antifalsificación||S|tec|C2
+die Rückverfolgbarkeit|trazabilidad||S|tec|C2
+der Netzwerkknoten|nodo de red||S|tec|C2
+die Gültigkeitsprüfung|validación||S|tec|C2
+die Selbstausführung|autoejecución del contrato||S|tec|C2
+die Programmlogik|lógica programática||S|tec|C2
+die Programmierung|programación del contrato||S|tec|C2
+die Vertragserfüllung|cumplimiento contractual||S|fin|C2
+die Anonymität|anonimato||S|ast|C2
+die Pseudonymität|pseudonimia||S|ast|C2
+die Wertübertragung|transferencia de valor||S|fin|C2
+die Bestätigungszeit|tiempo de confirmación||S|tec|C2
+die Blockhöhe|altura de bloque||S|tec|C2
+die Biometrie|biometría||S|tec|C2
+biometrisch|biométrico||A|tec|C2
+die Mustererkennung|reconocimiento de patrones||S|tec|C2
+das Merkmal|rasgo distintivo||S|sci|C2
+der Fingerabdruck|huella dactilar||S|tec|C2
+die Iriserkennung|reconocimiento de iris||S|tec|C2
+der Gesichtsscanner|escáner facial||S|tec|C2
+das Stimmprofil|perfil de voz||S|tec|C2
+der Abtastvorgang|proceso de muestreo||S|tec|C2
+die Trefferquote|tasa de acierto||S|sci|C2
+die Fehlzuordnung|asignación errónea||S|sci|C2
+die Vergleichsmuster|patrón de comparación||S|tec|C2
+die Merkmalsextraktion|extracción de rasgos||S|tec|C2
+die Klassifikation|clasificación||S|sci|C2
+der Klassifikator|clasificador||S|tec|C2
+das neuronale Netz|red neuronal||L|tec|C2
+die Trainingsphase|fase de entrenamiento||S|tec|C2
+die Kategorisierung|categorización||S|sci|C2
+die Gangart|patrón de la marcha||S|cor|C2
+die Netzhaut|retina||S|cor|C2
+der Irisscan|escaneo de iris||S|tec|C2
+die Identitätsfeststellung|determinación de identidad||S|ist|C2
+der Identitätsdiebstahl|robo de identidad||S|ist|C2
+die Bedenken|reservas||S|ast|C2
+die Erfassung|registro de datos||S|tec|C2
+die Freigabe|autorización||S|tec|C2
+die Zutrittskontrolle|control de accesos||S|tec|C2
+die Anomalie|anomalía||S|sci|C2
+die Abtastung|digitalización de rasgos||S|tec|C2
+die intelligente Stadt|ciudad inteligente||L|cit|C2
+das Internet der Dinge|internet de las cosas||L|tec|C2
+der Messfühler|sensor de medición||S|tec|C2
+die Fernsteuerung|telecontrol||S|tec|C2
+die Gebäudetechnik|domótica de edificios||S|tec|C2
+der Zählerstand|lectura del contador||S|tec|C2
+die Ablesung|lectura remota de consumos||S|tec|C2
+die Verkehrssteuerung|gestión del tráfico||S|cit|C2
+die Verkehrsberuhigung|pacificación del tráfico||S|cit|C2
+die Leitstelle|central de control||S|tec|C2
+die Prozessautomatisierung|automatización de procesos||S|tec|C2
+der Durchsatz|caudal de procesamiento||S|tec|C2
+die Funkverbindung|conexión inalámbrica||S|tec|C2
+die Funkzelle|celda de radio||S|tec|C2
+die Übertragungsrate|tasa de transferencia||S|tec|C2
+die Latenz|latencia||S|tec|C2
+die Aktorik|actuática||S|tec|C2
+die Regelungstechnik|técnica de regulación||S|tec|C2
+die Regelung|regulación||S|tec|C2
+die Stadtplanung|planificación urbana||S|cit|C2
+die Umweltzone|zona de bajas emisiones||S|cit|C2
+das Parkleitsystem|sistema de guía de aparcamiento||S|cit|C2
+der Näherungssensor|sensor de proximidad||S|tec|C2
+die Telemetrie|telemetría||S|tec|C2
+der Verschleiß|desgaste||S|tec|C2
+die Instandhaltung|mantenimiento||S|tec|C2
+die Störmeldung|aviso de avería||S|tec|C2
+die Energieeffizienz|eficiencia energética||S|tec|C2
+die Mitwirkung|participación ciudadana||S|cit|C2
+die Immersion|inmersión||S|tec|C2
+immersiv|inmersivo||A|tec|C2
+die virtuelle Realität|realidad virtual||L|tec|C2
+die erweiterte Realität|realidad aumentada||L|tec|C2
+der Avatar|avatar||S|tec|C2
+die Bewegungserfassung|captura de movimiento||S|tec|C2
+das Eingabegerät|dispositivo de entrada||S|tec|C2
+die virtuelle Welt|mundo virtual||L|tec|C2
+der Spielablauf|desarrollo de la partida||S|sve|C2
+die Spielmechanik|mecánica del juego||S|tec|C2
+die Interaktivität|interactividad||S|tec|C2
+die Bildrate|frecuencia de imagen||S|tec|C2
+die Bewegungsunschärfe|desenfoque de movimiento||S|tec|C2
+die Fiktion|ficción||S|let|C2
+die Fiktionalität|ficcionalidad||S|let|C2
+eintauchen|sumergirse en un mundo virtual||V|sve|C2
+das Präsenzgefühl|sensación de presencia||S|emo|C2
+der virtuelle Raum|espacio virtual||L|tec|C2
+die Rückkopplung|retroalimentación||S|tec|C2
+die Haptik|háptica||S|tec|C2
+der Mehrspielermodus|modo multijugador||S|tec|C2
+die Schwierigkeitsstufe|nivel de dificultad||S|tec|C2
+der Spielstand|estado de la partida||S|tec|C2
+das Steuerkreuz|cruceta direccional||S|tec|C2
+die Grafikleistung|capacidad gráfica||S|tec|C2
+die Textur|textura gráfica||S|tec|C2
+das Polygonmodell|modelo de polígonos||S|tec|C2
+der Nervenkitzel|subidón de adrenalina||S|emo|C2
+die Spielfigur|personaje del juego||S|tec|C2
+die Vulkanologie|vulcanología||S|sci|C2
+vulkanisch|volcánico||A|sci|C2
+die Eruption|erupción||S|sci|C2
+eruptiv|eruptivo||A|sci|C2
+die Caldera|caldera||S|sci|C2
+die Magmakammer|cámara magmática||S|sci|C2
+das Magma|magma||S|sci|C2
+der Lavastrom|colada de lava||S|sci|C2
+die Aschewolke|nube de ceniza||S|sci|C2
+der Bimsstein|piedra pómez||S|sci|C2
+der Tuff|toba volcánica||S|sci|C2
+die Erosion|erosión||S|sci|C2
+die Seismologie|sismología||S|sci|C2
+das Seismogramm|sismograma||S|sci|C2
+das Hypozentrum|hipocentro||S|sci|C2
+die Hangrutschung|desprendimiento de ladera||S|sci|C2
+der Erdrutsch|corrimiento de tierra||S|sci|C2
+die Schadensbilanz|balance de daños||S|nat|C2
+das Sperrgebiet|zona de exclusión||S|ist|C2
+die Evakuierung|evacuación||S|sci|C2
+die Frühwarnung|alerta temprana||S|sci|C2
+der Ausbruch|estallido volcánico||S|sci|C2
+die Messstation|estación de medición||S|sci|C2
+die Fumarole|fumarola||S|sci|C2
+die Schlacke|escoria volcánica||S|sci|C2
+die Geothermie|geotermia||S|sci|C2
+die Plattentektonik|tectónica de placas||S|sci|C2
+die Subduktion|subducción||S|sci|C2
+die Glutlawine|nube ardiente||S|sci|C2
+die Limnologie|limnología||S|sci|C2
+limnologisch|limnológico||A|sci|C2
+das Fließgewässer|curso de agua||S|nat|C2
+das Standgewässer|agua estancada||S|nat|C2
+die Wasserscheide|divisoria de aguas||S|nat|C2
+das Grundwasser|agua subterránea||S|nat|C2
+die Flussaue|vega fluvial||S|nat|C2
+der Hochwasserschutz|defensa contra inundaciones||S|nat|C2
+die Abflussmenge|caudal de desagüe||S|sci|C2
+die Abflussgeschwindigkeit|velocidad de escorrentía||S|sci|C2
+die Sedimentfracht|carga de sedimentos||S|sci|C2
+die Schwebstoffe|sólidos en suspensión||S|sci|C2
+die Kiesbank|banco de grava||S|nat|C2
+das Marschland|marisma||S|nat|C2
+das Moor|turbera||S|nat|C2
+der Torf|turba||S|nat|C2
+das Schilf|carrizal||S|nat|C2
+die Verlandung|colmatación||S|sci|C2
+der Nährstoffeintrag|aporte de nutrientes||S|sci|C2
+die Eutrophierung|eutrofización||S|sci|C2
+der Sauerstoffmangel|déficit de oxígeno||S|sci|C2
+die Algenblüte|floración de algas||S|sci|C2
+die Trübung|turbidez||S|sci|C2
+der Pegel|escala hidrométrica||S|sci|C2
+das Schwemmholz|madera flotante||S|nat|C2
+die Fischtreppe|escalera de peces||S|nat|C2
+die Renaturierung|renaturalización||S|sci|C2
+der Altarm|brazo muerto||S|nat|C2
+der Biotop|biotopo||S|nat|C2
+die Agrarwissenschaft|ciencias agrarias||S|sci|C2
+der Ackerboden|suelo agrícola||S|nat|C2
+die Bodenfruchtbarkeit|fertilidad del suelo||S|sci|C2
+die Versiegelung|impermeabilización del suelo||S|sci|C2
+die Humusschicht|capa de humus||S|sci|C2
+die Fruchtfolge|rotación de cultivos||S|sci|C2
+die Zwischenfrucht|cultivo intercalar||S|sci|C2
+die Gründüngung|abonado en verde||S|sci|C2
+die Monokultur|monocultivo||S|sci|C2
+der Agrarbetrieb|explotación agraria||S|lav|C2
+der Mähdrescher|cosechadora||S|tec|C2
+die Tröpfchenbewässerung|riego por goteo||S|sci|C2
+die Beregnung|riego por aspersión||S|sci|C2
+die Nitratauswaschung|lixiviación de nitratos||S|sci|C2
+der Düngemitteleinsatz|aplicación de fertilizantes||S|sci|C2
+die Phytomedizin|fitosanidad||S|sci|C2
+der Schädlingsbefall|infestación de plagas||S|sci|C2
+der Nützling|organismo auxiliar||S|nat|C2
+die Samenausbreitung|dispersión de semillas||S|sci|C2
+der Ernteertrag|rendimiento de la cosecha||S|sci|C2
+die Pflanzenzüchtung|mejora vegetal||S|sci|C2
+die Widerstandsfähigkeit|capacidad de resistencia||S|ast|C2
+die ökologische Landwirtschaft|agricultura ecológica||L|nat|C2
+die Agroforstwirtschaft|agrosilvicultura||S|sci|C2
+die Profilgrube|calicata||S|sci|C2
+die Ackerkrume|manto de labranza||S|sci|C2
+der Kompost|compost||S|nat|C2
+die Brache|barbecho||S|sci|C2

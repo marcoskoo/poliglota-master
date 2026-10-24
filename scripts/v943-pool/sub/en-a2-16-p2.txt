@@ -1,0 +1,260 @@
+petrol station|gasolinera||S|tra|A2
+service station|área de servicio||S|tra|A2
+return ticket|billete de ida y vuelta||S|tra|A2
+one-way ticket|billete de ida||S|tra|A2
+single ticket|billete sencillo||S|tra|A2
+return fare|tarifa de ida y vuelta||S|tra|A2
+fare|tarifa||S|tra|A2
+platform|andén||S|tra|A2
+timetable|horario||S|tra|A2
+carriage|vagón||S|tra|A2
+coach|autocar||S|tra|A2
+sleeper|vagón cama||S|tra|A2
+couchette|cama litera||S|tra|A2
+cable car|teleférico||S|tra|A2
+moped|moto pequeña||S|tra|A2
+motorbike|motocicleta||S|tra|A2
+scooter|patinete||S|tra|A2
+bonnet|capó||S|tra|A2
+roof rack|baca||S|tra|A2
+steering wheel|volante||S|tra|A2
+horn|bocina||S|tra|A2
+child seat|silla infantil||S|tra|A2
+breakdown|avería||S|tra|A2
+flat tire|pinchazo||S|tra|A2
+puncture|pincharse||V|tra|A2
+fill up|llenar el depósito||V|tra|A2
+tank|depósito||S|tra|A2
+mileage|kilometraje||S|tra|A2
+motorway|autopista||S|tra|A2
+toll|peaje||S|tra|A2
+toll booth|cabina de peaje||S|tra|A2
+shortcut|atajo||S|tra|A2
+traffic lights|semáforo||S|tra|A2
+bus lane|carril bus||S|tra|A2
+bike lane|carril bici||S|tra|A2
+bike rack|aparcabicis||S|tra|A2
+parking|aparcamiento||S|tra|A2
+get on|subir a||V|tra|A2
+get off|bajar de||V|tra|A2
+hop on|subir de un salto||V|tra|A2
+catch the bus|coger el autobús||L|tra|A2
+miss the bus|perder el autobús||L|tra|A2
+run for the bus|correr para alcanzar el autobús||L|tra|A2
+book a ticket|reservar un billete||L|tra|A2
+delayed|retrasado||A|tra|A2
+departure|salida||S|tra|A2
+arrival|llegada||S|tra|A2
+off-peak|fuera de hora punta||A|tmp|A2
+peak time|hora punta||S|tmp|A2
+rush hour traffic|tráfico de hora punta||S|tra|A2
+check-in|facturación||S|tra|A2
+gate|puerta de embarque||S|tra|A2
+unleaded|sin plomo||A|tra|A2
+queue up|hacer fila||V|tra|A2
+power bank|batería externa||S|tec|A2
+turnstile|torno||S|tra|A2
+ticket office|taquilla||S|tra|A2
+vacancy|habitación libre||S|htl|A2
+fully booked|completo||A|htl|A2
+front desk|recepción||S|htl|A2
+lobby|vestíbulo||S|htl|A2
+minibar|minibar||S|htl|A2
+keycard|tarjeta llave||S|htl|A2
+concierge|conserje||S|htl|A2
+hostel|albergue||S|htl|A2
+campsite|camping||S|htl|A2
+tent|tienda de campaña||S|htl|A2
+air mattress|colchón de aire||S|htl|A2
+caravan|caravana||S|htl|A2
+sleeping bag|saco de dormir||S|htl|A2
+bunk|litera||S|htl|A2
+sightseeing tour|visita turística||S|vig|A2
+guided tour|visita guiada||S|vig|A2
+day trip|excursión de un día||S|vig|A2
+travel agency|agencia de viajes||S|vig|A2
+travel agent|agente de viajes||S|vig|A2
+brochure|folleto||S|vig|A2
+leaflet|panfleto||S|vig|A2
+map of the city|mapa de la ciudad||S|vig|A2
+get lost|perderse||V|vig|A2
+ask for directions|preguntar cómo llegar||L|vig|A2
+directions|indicaciones||S|vig|A2
+go straight|seguir recto||L|vig|A2
+turn left|girar a la izquierda||L|vig|A2
+turn right|girar a la derecha||L|vig|A2
+at the corner|en la esquina||L|vig|A2
+on foot|a pie||L|vig|A2
+on holiday|de vacaciones||L|vig|A2
+on vacation|de vacaciones (EE. UU.)||L|vig|A2
+summer holidays|vacaciones de verano||S|vig|A2
+bank holiday|festivo||S|tmp|A2
+public holiday|día festivo||S|tmp|A2
+day off|día libre||S|tmp|A2
+annual leave|vacaciones anuales||S|tmp|A2
+camp out|acampar||V|vig|A2
+campfire|hoguera||S|vig|A2
+deck chair|tumbona||S|vig|A2
+beach umbrella|sombrilla||S|vig|A2
+sunbathe|tomar el sol||V|vig|A2
+get a tan|ponerse moreno||L|vig|A2
+sunburn|quemadura de sol||S|sla|A2
+sunstroke|insolación||S|sla|A2
+seaside|orilla del mar||S|vig|A2
+harbor|puerto||S|vig|A2
+port|puerto marítimo||S|vig|A2
+waves|olas||S|nat|A2
+shallow|poco profundo||A|nat|A2
+current|corriente||S|nat|A2
+dive|bucear||V|vig|A2
+snorkel and mask|tubo y gafas de buceo||S|vig|A2
+get wet|mojarse||V|vig|A2
+dry off|secarse||V|vig|A2
+change room|vestuario||S|vig|A2
+lockers|taquillas||S|vig|A2
+wading pool|piscina para niños||S|vig|A2
+water slide|tobogán de agua||S|vig|A2
+amusement park|parque de atracciones||S|vig|A2
+roller coaster|montaña rusa||S|vig|A2
+ferris wheel|noria||S|vig|A2
+merry-go-round|tiovivo||S|vig|A2
+bumper cars|coches de choque||S|vig|A2
+haunted house|casa del terror||S|vig|A2
+entrance|entrada||S|vig|A2
+admission|precio de entrada||S|vig|A2
+crowd|multitud||S|cit|A2
+crowded|abarrotado||A|cit|A2
+table for two|mesa para dos||L|ris|A2
+set menu|menú del día||S|ris|A2
+daily special|plato del día||S|ris|A2
+kids' menu|menú infantil||S|ris|A2
+half portion|media ración||S|ris|A2
+takeaway|comida para llevar||S|ris|A2
+doggy bag|caja para llevar||S|ris|A2
+buffet|bufé||S|ris|A2
+self-service|autoservicio||S|ris|A2
+all you can eat|bufet libre||L|ris|A2
+refills|reposiciones gratis||S|ris|A2
+vending machine|máquina expendedora||S|ris|A2
+fast food|comida rápida||S|ris|A2
+street food|comida callejera||S|ris|A2
+food truck|camión de comida||S|ris|A2
+drive-through|servicio en coche||S|ris|A2
+counter service|servicio en mostrador||S|ris|A2
+table service|servicio en mesa||S|ris|A2
+service charge|cargo por servicio||S|ris|A2
+service included|servicio incluido||L|ris|A2
+cover charge|cubierto||S|ris|A2
+minimum charge|mínimo de consumo||S|ris|A2
+head waiter|jefe de sala||S|ris|A2
+waitress|camarera||S|ris|A2
+soup|sopa||S|ali|A2
+wine list|carta de vinos||S|ris|A2
+starter|entrante||S|ris|A2
+salad|ensalada||S|ali|A2
+main course|plato principal||S|ris|A2
+side dish|guarnición||S|ris|A2
+accompaniment|acompañamiento||S|ris|A2
+dessert menu|carta de postres||S|ris|A2
+cheese board|tabla de quesos||S|ris|A2
+two-for-one|dos por uno||L|ris|A2
+happy hour|hora feliz||S|ris|A2
+last orders|última ronda||L|ris|A2
+closing time|hora de cierre||S|tmp|A2
+split the bill|dividir la cuenta||L|ris|A2
+go halves|pagar a medias||L|ris|A2
+my treat|yo invito||L|ris|A2
+it's on me|yo la pago||L|ris|A2
+put it on my tab|apúntelo a mi cuenta||L|ris|A2
+enjoy your meal|que aproveche||L|ris|A2
+bon appétit|buen provecho||L|ris|A2
+help yourself|sírvete||L|ris|A2
+non-smoking area|zona de no fumadores||S|ris|A2
+tin|lata||S|ali|A2
+toothpick|palillo||S|ris|A2
+placemat|mantel individual||S|ris|A2
+coaster|posavasos||S|ris|A2
+trivet|reposafuentes||S|ris|A2
+oil bottle|aceitera||S|ris|A2
+vinegar bottle|vinagrera||S|ris|A2
+salt cellar|salero||S|ris|A2
+pepper mill|molinillo de pimienta||S|ris|A2
+bread basket|panera||S|ris|A2
+butter dish|mantequera||S|ris|A2
+napkin ring|servilletero||S|ris|A2
+place setting|puesta de mesa||S|ris|A2
+mints|caramelos de menta||S|ris|A2
+tip box|hucha de propinas||S|ris|A2
+karaoke|karaoke||S|sve|A2
+jukebox|toca discos||S|sve|A2
+darts|dardos||S|spt|A2
+pool table|mesa de billar||S|sve|A2
+fruit machine|máquina tragaperras||S|sve|A2
+arcade|sala de máquinas||S|sve|A2
+seashell|concha||S|nat|A2
+grain of sand|grano de arena||S|nat|A2
+frisbee|disco volador||S|sve|A2
+flippers|aletas||S|vig|A2
+life jacket|chaleco salvavidas||S|vig|A2
+first aid kit|botiquín||S|sla|A2
+paddle ball|pala de playa||S|sve|A2
+paddle|ir en canoa||V|sve|A2
+cagoule|chubasquero con capucha||S|rop|A2
+waterproof|impermeable||A|rop|A2
+earmuffs|orejeras||S|rop|A2
+bobble hat|gorro con pompón||S|rop|A2
+neck warmer|bufanda tubular||S|rop|A2
+thermal underwear|ropa térmica||S|rop|A2
+long johns|calzoncillos largos||S|rop|A2
+fleece|forro polar||S|rop|A2
+mitten|manopla||S|rop|A2
+thermos flask|termo||S|vig|A2
+carol|villancico||S|mus|A2
+advent calendar|calendario de adviento||S|tmp|A2
+christmas eve|Nochebuena||S|tmp|A2
+boxing day|día de San Esteban||S|tmp|A2
+new year's eve|Nochevieja||S|tmp|A2
+new year's day|Año Nuevo||S|tmp|A2
+resolution|propósito de año nuevo||S|tmp|A2
+speech|discurso||S|cmu|A2
+slideshow|proyección de fotos||S|sve|A2
+photo album|álbum de fotos||S|sve|A2
+photograph|fotografía||S|sve|A2
+carnival|carnaval||S|cit|A2
+daybreak|amanecer||S|tmp|A2
+nightfall|anochecer||S|tmp|A2
+siesta|siesta||S|tmp|A2
+puddle|charco||S|nat|A2
+snowman|muñeco de nieve||S|nat|A2
+kite|cometa||S|sve|A2
+litter|basura en la calle||S|cit|A2
+littering|tirar basura||S|cit|A2
+reduce|reducir||V|nat|A2
+reuse|reutilizar||V|nat|A2
+composting|hacer compost||S|nat|A2
+rainforest|selva tropical||S|nat|A2
+solar panel|panel solar||S|tec|A2
+power station|central eléctrica||S|tec|A2
+compost heap|montón de compost||S|nat|A2
+free time|tiempo libre||S|sve|A2
+spare time|rato libre||S|sve|A2
+go shopping|ir de compras||L|cmp|A2
+run errands|hacer recados||L|cas|A2
+nap|cabezada||S|tmp|A2
+stay up late|acostarse tarde||L|tmp|A2
+lie in|quedarse en la cama||L|tmp|A2
+morning person|persona matutina||S|tmp|A2
+night owl|búho nocturno||S|tmp|A2
+early bird|madrugador||S|tmp|A2
+doze off|quedarse dormido||V|tmp|A2
+nightmare|pesadilla||S|tmp|A2
+alarm clock|despertador||S|tmp|A2
+snooze button|botón de repetición||S|tmp|A2
+toss and turn|dar vueltas en la cama||L|tmp|A2
+chill out|relajarse||V|emo|A2
+unwind|desconectar||V|emo|A2
+stretch|estirarse||V|cor|A2
+do nothing|no hacer nada||L|sve|A2
+warm up|calentar||V|spt|A2
+wash up|lavar los platos||L|cas|A2
+water the plants|regar las plantas||L|cas|A2

@@ -1,0 +1,260 @@
+die Umwälzung|revolución, trastorno radical||S|ist|C2
+der Umbruch|cambio radical, transformación||S|ist|C2
+die Überalterung|envejecimiento (de la población)||S|ist|C2
+die Segregation|segregación||S|ist|C2
+die Schichtzugehörigkeit|pertenencia a una clase social||S|ist|C2
+die Abstiegsgesellschaft|sociedad en declive (concepto sociológico)||S|ist|C2
+das Prekariat|precariado||S|ist|C2
+die Entfremdung|alienación, extrañamiento||S|ast|C2
+die Vergesellschaftung|socialización (integración en estructuras sociales)||S|ist|C2
+die Individualisierung|individualización||S|ist|C2
+der Wertewandel|cambio de valores||S|ist|C2
+die Normierung|normalización, estandarización||S|ist|C2
+die Anomie|anomia||S|sci|C2
+die Desintegration|desintegración||S|ist|C2
+die Pluralisierung|pluralización||S|ist|C2
+der Funktionalismus|funcionalismo||S|sci|C2
+die Sozialstruktur|estructura social||S|ist|C2
+das Milieu|entorno social, medio||S|ist|C2
+die Milieustudie|estudio de milieus (sociología de estilos de vida)||S|sci|C2
+die Empörung|indignación||S|emo|C2
+die Zerrüttung|quiebra (familiar o social)||S|ist|C2
+die Landflucht|éxodo rural||S|ist|C2
+die Gentrifizierung|gentrificación||S|cit|C2
+die Schattenwirtschaft|economía sumergida||S|fin|C2
+die Umverteilung|redistribución||S|ist|C2
+die Parteienverdrossenheit|desencanto con los partidos||S|ist|C2
+verrohen|embrutecerse, degenerar||V|ast|C2
+die Verrohung|embrutecimiento (de la convivencia)||S|ast|C2
+der Sinneswandel|cambio de mentalidad||S|ast|C2
+die Wohlstandsgesellschaft|sociedad del bienestar||S|ist|C2
+die Schieflage|desequilibrio, situación descompensada||S|ast|C2
+die Aufstiegsmobilität|movilidad social ascendente||S|ist|C2
+die Bürgerinitiative|iniciativa ciudadana||S|ist|C2
+das Ehrenamt|voluntariado, cargo honorífico||S|ist|C2
+die Fehlentwicklung|desarrollo erróneo, disfunción social||S|ast|C2
+die Ethnologie|etnología||S|sci|C2
+die Ethnomethodologie|etnometodología||S|sci|C2
+die Feldforschung|trabajo de campo||S|sci|C2
+die Kulturanthropologie|antropología cultural||S|sci|C2
+die Volkskunde|folclore, etnografía tradicional||S|sci|C2
+der Ritus|rito||S|ist|C2
+die Initiation|iniciación||S|ist|C2
+der Schamanismus|chamanismo||S|sci|C2
+die Abstammung|ascendencia, linaje||S|fam|C2
+die Blutsverwandtschaft|parentesco de sangre||S|fam|C2
+die Exogamie|exogamia||S|sci|C2
+die Ethnizität|etnicidad||S|sci|C2
+die Aneignung|apropiación (cultural)||S|sci|C2
+das Weltbild|cosmovisión||S|ast|C2
+die Sinnstiftung|otorgamiento de sentido||S|ast|C2
+der Ethnozentrismus|etnocentrismo||S|sci|C2
+die Alterität|alteridad||S|ast|C2
+die Fremdheit|extrañeza (lo ajeno)||S|ast|C2
+die Lebenswelt|mundo vital||S|ast|C2
+das Brauchtum|tradiciones populares||S|ist|C2
+der Mythos|mito||S|let|C2
+die Mythologie|mitología||S|let|C2
+das Tabu|tabú||S|ast|C2
+der Totemismus|totemismo||S|sci|C2
+der Animismus|animismo||S|sci|C2
+die Stammesgesellschaft|sociedad tribal||S|sci|C2
+der Stamm|tribu||S|sci|C2
+der Volksglaube|creencia popular||S|ast|C2
+die Ahnenverehrung|culto a los antepasados||S|ist|C2
+der Brauch|costumbre tradicional||S|ist|C2
+die Verortung|ubicación (identitaria)||S|ast|C2
+teilnehmende Beobachtung|observación participante||E|sci|C2
+die Recherche|investigación periodística||S|att|C2
+die Enthüllung|revelación||S|att|C2
+die Schlagzeile|titular||S|att|C2
+der Leitartikel|editorial||S|att|C2
+die Pressefreiheit|libertad de prensa||S|ist|C2
+die Vorzensur|censura previa||S|ist|C2
+die Desinformation|desinformación||S|att|C2
+der Faktencheck|verificación de datos||S|att|C2
+die Richtigstellung|rectificación, fe de erratas||S|att|C2
+der Whistleblower|denunciante interno||S|att|C2
+die Quellenlage|estado de las fuentes||S|att|C2
+der Insider|persona con información privilegiada||S|att|C2
+die Berichterstattung|cobertura informativa||S|att|C2
+das Feature|documental (género radiofónico)||S|att|C2
+die Voreingenommenheit|parcialidad, prejuicio||S|emo|C2
+die Skandalisierung|escandalización||S|att|C2
+die Auflage|tirada (de una publicación)||S|att|C2
+der Verlagskonzern|grupo editorial||S|att|C2
+die Medienlandschaft|panorama mediático||S|att|C2
+die Medienkompetenz|alfabetización mediática||S|att|C2
+die Öffentlichkeit|esfera pública||S|ist|C2
+die Boulevardpresse|prensa sensacionalista||S|att|C2
+die Meinungsfreiheit|libertad de expresión||S|ist|C2
+der Exklusivbericht|reportaje en exclusiva||S|att|C2
+die Sperrfrist|embargo informativo||S|att|C2
+die Gegendarstellung|derecho de réplica||S|att|C2
+der Pressekodex|código deontológico de la prensa||S|att|C2
+publizieren|publicar (obras, artículos)||V|att|C2
+die Publizistik|publicística, ciencias de la comunicación||S|att|C2
+die Einschaltquote|índice de audiencia||S|att|C2
+die Indiskretion|indiscreción, filtración||S|att|C2
+die Redaktionsleitung|dirección de redacción||S|pro|C2
+die Verflechtung|entrelazamiento (de intereses)||S|ast|C2
+die Musikwissenschaft|musicología||S|mus|C2
+der Tonsatz|composición (técnica del contrapunto)||S|mus|C2
+die Zwölftonmusik|música dodecafónica||S|mus|C2
+die Dissonanz|disonancia||S|mus|C2
+der Tritonus|tritono||S|mus|C2
+die Tonart|tonalidad||S|mus|C2
+der Quintenzirkel|círculo de quintas||S|mus|C2
+das Vibrato|vibrato||S|mus|C2
+das Fortissimo|fortísimo||S|mus|C2
+die Kadenz|cadencia||S|mus|C2
+die Modulation|modulación||S|mus|C2
+das Motiv|motivo (musical)||S|mus|C2
+die Themenverarbeitung|elaboración temática||S|mus|C2
+die Exposition|exposición (forma sonata)||S|mus|C2
+die Durchführung|desarrollo (forma sonata)||S|mus|C2
+die Reprise|reexposición||S|mus|C2
+der Kontrapunkt|contrapunto||S|mus|C2
+die Polyphonie|polifonía||S|mus|C2
+die Partitur|partitura||S|mus|C2
+die Intonation|entonación||S|mus|C2
+der Generalbass|bajo continuo||S|mus|C2
+die Ornamentik|ornamentación||S|mus|C2
+das Rubato|rubato||S|mus|C2
+die Aufführungspraxis|práctica interpretativa (historicista)||S|mus|C2
+die Orchestrierung|orquestación||S|mus|C2
+das Finale|final (de ópera o concierto)||S|mus|C2
+die Ouvertüre|obertura||S|mus|C2
+das Rezitativ|recitativo||S|mus|C2
+die Arie|aria||S|mus|C2
+das Libretto|libreto||S|mus|C2
+die Synkope|síncopa||S|mus|C2
+der Auftakt|anacrusa (parte débil del compás)||S|mus|C2
+die Restaurierung|restauración (de obras)||S|art|C2
+der Restaurator|restaurador||S|pro|C2
+die Konservierung|conservación (preventiva)||S|art|C2
+der Kurator|curador||S|pro|C2
+die Kuratierung|curaduría||S|art|C2
+die Dauerausstellung|exposición permanente||S|art|C2
+die Sonderausstellung|exposición temporal||S|art|C2
+die Vitrine|vitrina||S|art|C2
+die Leihgabe|pieza en préstamo||S|art|C2
+die Provenienz|procedencia (de una obra)||S|art|C2
+die Raubkunst|arte expoliado||S|art|C2
+die Restitution|restitución (de obras expoliadas)||S|art|C2
+die Museumsdidaktik|museodidáctica||S|art|C2
+der Rundgang|recorrido (visita guiada)||S|art|C2
+die Schenkung|donación, legado||S|art|C2
+das Depot|depósito (de obras no expuestas)||S|art|C2
+die Museologie|museología||S|art|C2
+die Hängung|colgado (de las obras)||S|art|C2
+das Exponat|pieza expuesta||S|art|C2
+die Vernissage|inauguración (de una exposición)||S|art|C2
+die Finissage|cierre de exposición||S|art|C2
+der Vandalismus|vandalismo||S|art|C2
+der Nachlass|legado (de un artista)||S|art|C2
+die Fälschung|falsificación (de obra de arte)||S|art|C2
+die Patina|pátina||S|art|C2
+die Retusche|retoque||S|art|C2
+das Krakelee|craquelado||S|art|C2
+die Übermalung|repintado||S|art|C2
+die Grundierung|imprimación||S|art|C2
+der Firnis|barniz (de cuadros)||S|art|C2
+der Ankauf|adquisición (de obras)||S|art|C2
+die Zuschreibung|atribución (de autoría)||S|art|C2
+die Ästhetik|estética||S|art|C2
+das Erhabene|lo sublime||S|ast|C2
+die Anmut|gracia, encanto||S|ast|C2
+die Hässlichkeit|fealdad||S|ast|C2
+der Kanon|canon||S|let|C2
+die Mimesis|mímesis||S|art|C2
+die Bildhauerei|escultura (arte de tallar)||S|art|C2
+der Bildhauer|escultor||S|pro|C2
+die Plastik|escultura (modelada)||S|art|C2
+die Skulptur|escultura (tallada)||S|art|C2
+das Relief|relieve||S|art|C2
+das Helldunkel|claroscuro||S|art|C2
+der Fluchtpunkt|punto de fuga||S|art|C2
+die Ikonographie|iconografía||S|art|C2
+die Ikonologie|iconología||S|art|C2
+der Symbolgehalt|carga simbólica||S|art|C2
+die Allegorie|alegoría||S|let|C2
+das Stilmittel|recurso estilístico||S|let|C2
+die Stilepoche|época estilística||S|art|C2
+die Abstraktion|abstracción||S|art|C2
+die Figürlichkeit|carácter figurativo||S|art|C2
+die Avantgarde|vanguardia||S|art|C2
+der Kitsch|kitsch, cursilería||S|art|C2
+das Gesamtkunstwerk|obra de arte total||S|art|C2
+der Auktionator|subastador||S|pro|C2
+die Rezeption|recepción (de una obra)||S|art|C2
+die Rezeptionsästhetik|estética de la recepción||S|art|C2
+der Formalismus|formalismo||S|ast|C2
+der Strukturalismus|estructuralismo||S|ast|C2
+die Dekonstruktion|deconstrucción||S|ast|C2
+der Signifikant|significante||S|ast|C2
+die Formensprache|lenguaje formal||S|art|C2
+der Algorithmus|algoritmo||S|tec|C2
+der Datensatz|conjunto de datos||S|tec|C2
+die Grundgesamtheit|población estadística (muestra madre)||S|sci|C2
+die Stichprobe|muestra (estadística)||S|sci|C2
+die Regressionsanalyse|análisis de regresión||S|sci|C2
+die Korrelation|correlación||S|sci|C2
+der Ausreißer|valor atípico||S|sci|C2
+die Überanpassung|sobreajuste (overfitting)||S|tec|C2
+die Generalisierung|generalización (de un modelo)||S|tec|C2
+die Mustererkennung|reconocimiento de patrones||S|tec|C2
+die Sprachverarbeitung|procesamiento del lenguaje||S|tec|C2
+die Sprachsynthese|síntesis de voz||S|tec|C2
+das Merkmal|característica (variable de un modelo)||S|sci|C2
+die Klassifikation|clasificación||S|sci|C2
+die Wahrscheinlichkeitsrechnung|cálculo de probabilidades||S|sci|C2
+die Inferenz|inferencia||S|sci|C2
+die Heuristik|heurística||S|sci|C2
+die Rekursion|recursión||S|sci|C2
+der Zufallsgenerator|generador de aleatoriedad||S|tec|C2
+die Blackbox|caja negra (modelo opaco)||S|tec|C2
+der Entscheidungsbaum|árbol de decisión||S|tec|C2
+der Gradientenabstieg|descenso de gradiente||S|tec|C2
+die Kostenfunktion|función de coste||S|tec|C2
+der Abgleich|cotejo, ajuste||S|tec|C2
+die Vorhersagekraft|capacidad predictiva||S|tec|C2
+die Verzerrung|sesgo (estadístico)||S|sci|C2
+die Dimensionalitätsreduktion|reducción de dimensionalidad||S|tec|C2
+die Auswertung|evaluación, análisis (de datos)||S|tec|C2
+der Bias|sesgo (en datos o modelos)||S|tec|C2
+die Anomalie|anomalía||S|sci|C2
+die Singularität|singularidad (tecnológica)||S|tec|C2
+das Neuron|neurona||S|sci|C2
+die Verschlüsselung|cifrado||S|tec|C2
+die Entschlüsselung|descifrado||S|tec|C2
+die Prüfsumme|suma de verificación||S|tec|C2
+digitale Signatur|firma digital||E|tec|C2
+die Authentifizierung|autenticación||S|tec|C2
+die Hintertür|puerta trasera (backdoor)||S|tec|C2
+die Schwachstelle|vulnerabilidad||S|tec|C2
+die Sicherheitslücke|brecha de seguridad||S|tec|C2
+der Angriffsvektor|vector de ataque||S|tec|C2
+die Angriffsfläche|superficie de ataque||S|tec|C2
+die Malware|software malicioso||S|tec|C2
+der Trojaner|troyano||S|tec|C2
+die Ransomware|secuestro de datos (extorsión digital)||S|tec|C2
+das Botnetz|red de equipos zombis||S|tec|C2
+das Phishing|suplantación de identidad (phishing)||S|tec|C2
+der Patch|parche (de seguridad)||S|tec|C2
+die Kryptographie|criptografía||S|tec|C2
+der Klartext|texto en claro||S|tec|C2
+der Geheimtext|texto cifrado||S|tec|C2
+der Geheimcode|código secreto||S|tec|C2
+die Entropie|entropía (aleatoriedad)||S|sci|C2
+die Firewall|cortafuegos||S|tec|C2
+der Schwachstellenscan|análisis de vulnerabilidades||S|tec|C2
+der Cyberangriff|ciberataque||S|tec|C2
+die Cyberkriminalität|ciberdelincuencia||S|tec|C2
+das Ausspähen|espionaje (de datos)||S|tec|C2
+die Iriserkennung|reconocimiento de iris||S|tec|C2
+die Chiffre|cifra (sistema de cifrado)||S|tec|C2
+die Chiffrierung|cifrado (operación)||S|tec|C2
+der Lauschangriff|intercepción (de comunicaciones)||S|tec|C2
+das Abhören|escucha (ilegal)||S|tec|C2
+das Einfallstor|puerta de entrada (vía de ataque)||S|tec|C2

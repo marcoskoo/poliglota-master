@@ -1,0 +1,258 @@
+das Völkerrecht|derecho internacional público||S|ist|C1
+der Beitritt|adhesión||S|ist|C1
+die Ratifizierung|ratificación||S|ist|C1
+ratifizieren|ratificar||V|ist|C1
+die Vertragspartei|parte contratante||S|ist|C1
+das Abkommen|acuerdo||S|ist|C1
+das Übereinkommen|convenio||S|ist|C1
+die Konvention|convenio internacional||S|ist|C1
+die Resolution|resolución||S|ist|C1
+der Menschenrechtsschutz|protección de los derechos humanos||S|ist|C1
+die Souveränität|soberanía||S|ist|C1
+die Gebietshoheit|soberanía territorial||S|ist|C1
+die Immunität|inmunidad||S|ist|C1
+die diplomatische Immunität|inmunidad diplomática||L|ist|C1
+der Gesandte|enviado diplomático||S|ist|C1
+der Konsularschutz|protección consular||S|ist|C1
+die Auslieferung|extradición||S|ist|C1
+der Asylantrag|solicitud de asilo||S|ist|C1
+der Flüchtlingsstatus|estatuto de refugiado||S|ist|C1
+der Nichtangriffspakt|pacto de no agresión||S|ist|C1
+die Abrüstung|desarme||S|ist|C1
+die Rüstungskontrolle|control de armamentos||S|ist|C1
+die Waffenruhe|tregua||S|ist|C1
+der Waffenstillstand|alto el fuego||S|ist|C1
+das Sanktionsregime|régimen de sanciones||S|ist|C1
+das Embargo|embargo comercial||S|ist|C1
+der Völkermord|genocidio||S|ist|C1
+das Kriegsverbrechen|crimen de guerra||S|ist|C1
+das Kriegsvölkerrecht|derecho internacional humanitario||S|ist|C1
+die Vertragsverletzung|incumplimiento del tratado||S|ist|C1
+die Staatenlosigkeit|apatria||S|ist|C1
+das Friedensabkommen|acuerdo de paz||S|ist|C1
+das Vorabentscheidungsersuchen|cuestión prejudicial||S|ist|C1
+die Handelsgesellschaft|sociedad mercantil||S|ist|C1
+die beschränkte Haftung|responsabilidad limitada||L|ist|C1
+die Aktiengesellschaft|sociedad anónima||S|ist|C1
+der Aktionär|accionista||S|fin|C1
+die Hauptversammlung|junta general de accionistas||S|ist|C1
+der Vorstand|consejo de administración||S|ist|C1
+der Aufsichtsrat|consejo de supervisión||S|ist|C1
+die Gesellschafterversammlung|junta de socios||S|ist|C1
+der Gesellschaftsvertrag|pacto social||S|ist|C1
+die Satzung|estatutos||S|ist|C1
+der Geschäftsführer|administrador||S|ist|C1
+die Prokura|poder de representación mercantil||S|ist|C1
+das Stammkapital|capital social||S|ist|C1
+die Kapitalerhöhung|ampliación de capital||S|ist|C1
+die Gewinnverteilung|reparto de beneficios||S|ist|C1
+der Jahresabschluss|cuentas anuales||S|ist|C1
+der Konzern|grupo de empresas||S|ist|C1
+die Tochtergesellschaft|filial||S|ist|C1
+die Muttergesellschaft|matriz||S|ist|C1
+die Umwandlung|transformación societaria||S|ist|C1
+die Spaltung|escisión||S|ist|C1
+die Auflösung|disolución||S|ist|C1
+die Liquidation|liquidación||S|ist|C1
+der Liquidator|liquidador||S|pro|C1
+die Insolvenz|insolvencia||S|ist|C1
+der Insolvenzverwalter|administrador concursal||S|pro|C1
+der Gläubiger|acreedor||S|ist|C1
+der Schuldner|deudor||S|ist|C1
+die Forderung|derecho de cobro||S|ist|C1
+die Vollstreckung|ejecución forzosa||S|ist|C1
+der Mahnbescheid|requerimiento de pago||S|ist|C1
+der Börsengang|salida a bolsa||S|fin|C1
+das Handelsrecht|derecho mercantil||S|ist|C1
+der Tarifvertrag|convenio colectivo||S|lav|C1
+die Tarifrunde|mesa de negociación colectiva||S|lav|C1
+der Warnstreik|huelga de advertencia||S|lav|C1
+die Aussperrung|cierre patronal||S|lav|C1
+der Betriebsrat|comité de empresa||S|lav|C1
+die Betriebsvereinbarung|acuerdo de empresa||S|lav|C1
+die Personalvertretung|representación de los trabajadores||S|lav|C1
+der Kündigungsschutz|protección frente al despido||S|lav|C1
+die Kündigungsschutzklage|demanda por despido||S|lav|C1
+die fristlose Kündigung|despido disciplinario||L|lav|C1
+die Abfindung|indemnización por despido||S|lav|C1
+die Altersteilzeit|jornada parcial de prejubilación||S|lav|C1
+der Mindestlohn|salario mínimo||S|lav|C1
+die Gleitzeit|horario flexible||S|lav|C1
+die Mehrarbeit|trabajo extraordinario||S|lav|C1
+die Schichtarbeit|trabajo a turnos||S|lav|C1
+der Betriebsübergang|transmisión de empresa||S|lav|C1
+das Direktionsrecht|poder de dirección||S|lav|C1
+die Fürsorgepflicht|deber de protección del empresario||S|lav|C1
+die Verschwiegenheitspflicht|deber de confidencialidad||S|lav|C1
+das Konkurrenzverbot|pacto de no competencia||S|lav|C1
+der Gewerkschaftsbund|confederación sindical||S|lav|C1
+der Arbeitskampf|conflicto laboral||S|lav|C1
+die Arbeitsverweigerung|negativa a trabajar||S|lav|C1
+der Leiharbeitnehmer|trabajador cedido por ETT||S|lav|C1
+die Zeitarbeit|trabajo temporal||S|lav|C1
+die Befristung|temporalidad del contrato||S|lav|C1
+der Aufhebungsvertrag|acuerdo de extinción del contrato||S|lav|C1
+das Arbeitsgericht|juzgado de lo social||S|lav|C1
+der Urlaubsanspruch|derecho a vacaciones||S|lav|C1
+das Entgelt|retribución||S|lav|C1
+die Eingruppierung|clasificación profesional||S|lav|C1
+die Sehne|tendón||S|cor|C1
+der Knorpel|cartílago||S|cor|C1
+das Knochenmark|médula ósea||S|cor|C1
+der Beckenboden|suelo pélvico||S|cor|C1
+das Zwerchfell|diafragma||S|cor|C1
+der Lendenwirbel|vértebra lumbar||S|cor|C1
+das Rückenmark|médula espinal||S|cor|C1
+das Steißbein|coxis||S|cor|C1
+das Schlüsselbein|clavícula||S|cor|C1
+das Schulterblatt|omóplato||S|cor|C1
+die Speiseröhre|esófago||S|cor|C1
+die Harnblase|vejiga urinaria||S|cor|C1
+die Gallenblase|vesícula biliar||S|cor|C1
+der Blinddarm|apéndice cecal||S|cor|C1
+die Bauchhöhle|cavidad abdominal||S|cor|C1
+das Rippenfell|pleura||S|cor|C1
+das Bauchfell|peritoneo||S|cor|C1
+die Arterie|arteria||S|cor|C1
+die Aorta|aorta||S|cor|C1
+die Muskulatur|musculatura||S|cor|C1
+die Bauchdecke|pared abdominal||S|cor|C1
+die Narkose|anestesia general||S|sla|C1
+die Lokalanästhesie|anestesia local||S|sla|C1
+das Skalpell|bisturí||S|sla|C1
+die Klemme|pinza hemostática||S|sla|C1
+die Wundnaht|sutura||S|sla|C1
+der Wundverschluss|cierre de la herida||S|sla|C1
+die Blutung|hemorragia||S|sla|C1
+die Bluttransfusion|transfusión de sangre||S|sla|C1
+der Katheter|catéter||S|sla|C1
+die Kanüle|cánula||S|sla|C1
+sterilisieren|esterilizar||V|sla|C1
+der Herzmuskel|miocardio||S|sla|C1
+der Herzinfarkt|infarto de miocardio||S|sla|C1
+die Herzinsuffizienz|insuficiencia cardíaca||S|sla|C1
+die Herzrhythmusstörung|arritmia||S|sla|C1
+die Herzkammer|ventrículo||S|sla|C1
+der Vorhof|aurícula||S|sla|C1
+die Herzklappe|válvula cardíaca||S|sla|C1
+die Herzkatheteruntersuchung|cateterismo cardíaco||S|sla|C1
+das Elektrokardiogramm|electrocardiograma||S|sla|C1
+der Bluthochdruck|hipertensión||S|sla|C1
+die Arteriosklerose|arteriosclerosis||S|sla|C1
+der Gefäßverschluss|obstrucción vascular||S|sla|C1
+der Stent|stent||S|sla|C1
+der Bypass|bypass coronario||S|sla|C1
+die Ablagerung|depósito de placa||S|sla|C1
+der Cholesterinspiegel|nivel de colesterol||S|sla|C1
+die Kurzatmigkeit|disnea||S|sla|C1
+die Atemnot|dificultad respiratoria||S|sla|C1
+der Asthmaanfall|crisis de asma||S|sla|C1
+das Lungenemphysem|enfisema pulmonar||S|sla|C1
+die Lungenfibrose|fibrosis pulmonar||S|sla|C1
+die Atemwege|vías respiratorias||S|sla|C1
+die Beatmung|ventilación mecánica||S|sla|C1
+beatmen|ventilar||V|sla|C1
+die Sauerstoffzufuhr|aporte de oxígeno||S|sla|C1
+die Atemfrequenz|frecuencia respiratoria||S|sla|C1
+der Auswurf|expectoración||S|sla|C1
+die Auskultation|auscultación||S|sla|C1
+die Synkope|síncope||S|sla|C1
+die Angina pectoris|angina de pecho||L|sla|C1
+die Inhalation|inhalación||S|sla|C1
+inhalieren|inhalar||V|sla|C1
+der Hormonhaushalt|equilibrio hormonal||S|sla|C1
+die Drüse|glándula||S|sla|C1
+die Schilddrüse|tiroides||S|sla|C1
+die Nebenschilddrüse|paratiroides||S|sla|C1
+die Schilddrüsenüberfunktion|hipertiroidismo||S|sla|C1
+die Bauchspeicheldrüse|páncreas||S|sla|C1
+die Nebenniere|glándula suprarrenal||S|sla|C1
+der Blutzucker|glucemia||S|sla|C1
+der Diabetes mellitus|diabetes mellitus||L|sla|C1
+das Insulin|insulina||S|sla|C1
+die Insulinresistenz|resistencia a la insulina||S|sla|C1
+die Unterzuckerung|hipoglucemia||S|sla|C1
+die Überzuckerung|hiperglucemia||S|sla|C1
+der Stoffwechsel|metabolismo||S|sla|C1
+der Kropf|bocio||S|sla|C1
+der Jodmangel|déficit de yodo||S|sla|C1
+das Wachstumshormon|hormona del crecimiento||S|sla|C1
+der Zyklus|ciclo menstrual||S|sla|C1
+die Wechseljahre|menopausia||S|sla|C1
+das Testosteron|testosterona||S|sla|C1
+die Unfruchtbarkeit|infertilidad||S|sla|C1
+der Kinderwunsch|deseo de descendencia||S|sla|C1
+die künstliche Befruchtung|reproducción asistida||L|sla|C1
+die Hormontherapie|tratamiento hormonal||S|sla|C1
+das Kortison|cortisona||S|sla|C1
+die Nebennierenrinde|corteza suprarrenal||S|sla|C1
+der Heißhunger|hambre voraz||S|sla|C1
+der Knochenabbau|pérdida de masa ósea||S|sla|C1
+die Osteoporose|osteoporosis||S|sla|C1
+das Kalzium|calcio||S|sla|C1
+die Fettstoffwechselstörung|dislipemia||S|sla|C1
+das Zuckerkoma|coma diabético||S|sla|C1
+die Hautkrankheit|enfermedad cutánea||S|sla|C1
+der Hautausschlag|erupción cutánea||S|sla|C1
+die Rötung|enrojecimiento||S|sla|C1
+der Juckreiz|prurito||S|sla|C1
+die Schuppenflechte|psoriasis||S|sla|C1
+das Ekzem|eccema||S|sla|C1
+die Neurodermitis|dermatitis atópica||S|sla|C1
+die Urtikaria|urticaria||S|sla|C1
+die Quaddel|habón||S|sla|C1
+der anaphylaktische Schock|choque anafiláctico||L|sla|C1
+das Allergen|alérgeno||S|sla|C1
+die Kreuzallergie|alergia cruzada||S|sla|C1
+der Heuschnupfen|rinitis alérgica||S|sla|C1
+die Hausstaubmilbe|ácaro del polvo||S|sla|C1
+das Antihistaminikum|antihistamínico||S|sla|C1
+die Salbe|pomada||S|sla|C1
+der Abszess|absceso||S|sla|C1
+der Eiter|pus||S|sla|C1
+eitern|supurar||V|sla|C1
+die Hautschuppung|descamación cutánea||S|sla|C1
+das Muttermal|lunar||S|sla|C1
+der Pigmentfleck|mancha pigmentaria||S|sla|C1
+der Hautkrebs|cáncer de piel||S|sla|C1
+das Melanom|melanoma||S|sla|C1
+die Gewebeprobe|muestra de tejido||S|sla|C1
+die Narbenbildung|formación de cicatrices||S|sla|C1
+die Rosazea|rosácea||S|sla|C1
+die Hautalterung|envejecimiento cutáneo||S|sla|C1
+der Sonnenstich|insolación||S|sla|C1
+der Lichtschutzfaktor|factor de protección solar||S|sla|C1
+die Krätze|sarna||S|sla|C1
+die Warze|verruga||S|sla|C1
+das Karzinom|carcinoma||S|sla|C1
+die Metastase|metástasis||S|sla|C1
+die Metastasierung|diseminación metastásica||S|sla|C1
+die Chemotherapie|quimioterapia||S|sla|C1
+die Strahlentherapie|radioterapia||S|sla|C1
+die Immuntherapie|inmunoterapia||S|sla|C1
+die Krebsfrüherkennung|detección precoz del cáncer||S|sla|C1
+die Vorsorgeuntersuchung|examen de prevención||S|sla|C1
+die Biopsie|biopsia||S|sla|C1
+maligne|maligno||A|sla|C1
+gutartig|benigno||A|sla|C1
+der Krebspatient|paciente oncológico||S|sla|C1
+der Krankheitsverlauf|evolución de la enfermedad||S|sla|C1
+die Remission|remisión||S|sla|C1
+das Rezidiv|recidiva||S|sla|C1
+die Palliativmedizin|medicina paliativa||S|sla|C1
+die Palliativstation|unidad de cuidados paliativos||S|sla|C1
+die Schmerztherapie|tratamiento del dolor||S|sla|C1
+das Morphium|morfina||S|sla|C1
+die Dosierung|dosificación||S|sla|C1
+die Nebenwirkung|efecto secundario||S|sla|C1
+der Brechreiz|náusea con arcadas||S|sla|C1
+die Lebenserwartung|esperanza de vida||S|sla|C1
+die Krankheitsbewältigung|afrontamiento de la enfermedad||S|sla|C1
+die Sterbebegleitung|acompañamiento al final de la vida||S|sla|C1
+das Hospiz|unidad de cuidados terminales||S|sla|C1
+die Patientenverfügung|testamento vital||S|sla|C1
+die Angehörigen|familiares allegados||S|sla|C1
+der Genesungsprozess|proceso de recuperación||S|sla|C1
+das Zytostatikum|citostático||S|sla|C1
+der Appetitverlust|pérdida de apetito||S|sla|C1
+die Auszehrung|consunción||S|sla|C1

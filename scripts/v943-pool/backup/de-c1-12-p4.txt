@@ -1,0 +1,258 @@
+die Belastbarkeit|resistencia a la carga||S|tec|C1
+der Werkstoff|material de construcción||S|tec|C1
+die Ermüdung|fatiga del material||S|tec|C1
+die Bruchfestigkeit|resistencia a la rotura||S|tec|C1
+die Tragfähigkeit|capacidad portante||S|tec|C1
+die Torsion|torsión||S|tec|C1
+die Reibung|fricción||S|tec|C1
+das Drehmoment|par de giro||S|tec|C1
+der Wirkungsgrad|rendimiento, eficiencia||S|tec|C1
+die Wärmeableitung|disipación térmica||S|tec|C1
+der Druckabfall|caída de presión||S|tec|C1
+die Baugruppe|conjunto, módulo constructivo||S|tec|C1
+das Bauteil|componente estructural||S|tec|C1
+die Passgenauigkeit|precisión de encaje||S|tec|C1
+das Gewinde|rosca||S|tec|C1
+die Abdichtung|estanqueidad, impermeabilización||S|tec|C1
+die Bemessung|dimensionamiento||S|tec|C1
+die Standsicherheit|estabilidad estructural||S|tec|C1
+die Bewehrung|armadura (de hormigón)||S|tec|C1
+die Rissbildung|fisuración||S|tec|C1
+die Setzung|asentamiento||S|tec|C1
+die Ausrichtung|alineación, orientación||S|tec|C1
+die Störungsbehebung|resolución de averías||S|tec|C1
+die Inbetriebnahme|puesta en marcha||S|tec|C1
+der Probebetrieb|marcha de prueba||S|tec|C1
+die Nennleistung|potencia nominal||S|tec|C1
+die Regelungstechnik|ingeniería de control||S|tec|C1
+die Sensorik|sensorística||S|tec|C1
+der Unterbau|subestructura, base||S|tec|C1
+die Grundlagenforschung|investigación básica||S|sci|C1
+die Anwendungsforschung|investigación aplicada||S|sci|C1
+die Drittmittel|financiación externa de terceros||S|fin|C1
+das Plagiat|plagio||S|stu|C1
+die Zitierweise|sistema de citación||S|stu|C1
+das Literaturverzeichnis|bibliografía||S|stu|C1
+die Sekundärliteratur|literatura secundaria||S|stu|C1
+die Primärquelle|fuente primaria||S|stu|C1
+die Fallstudie|estudio de caso||S|stu|C1
+die Versuchsreihe|serie de ensayos||S|sci|C1
+der Versuchsaufbau|montaje experimental||S|sci|C1
+die Messreihe|serie de mediciones||S|sci|C1
+die Replikation|réplica del estudio||S|sci|C1
+der Gutachter|evaluador, perito||S|pro|C1
+das Gutachten|dictamen, informe pericial||S|ist|C1
+die Veröffentlichung|publicación científica||S|stu|C1
+die Habilitation|habilitación||S|stu|C1
+die Dissertation|tesis doctoral||S|stu|C1
+das Promotionsverfahren|procedimiento de doctorado||S|stu|C1
+der Wissenschaftsnachwuchs|cantera investigadora||S|stu|C1
+die Gliederung|estructura, esquema||S|stu|C1
+die Wissenslücke|laguna de conocimiento||S|sci|C1
+die Datenerhebung|recogida de datos||S|sci|C1
+die Auswertung|evaluación de resultados||S|sci|C1
+die Hypothesenprüfung|contraste de hipótesis||S|sci|C1
+die Übertragbarkeit|transferibilidad||S|sci|C1
+die Systematik|sistemática||S|sci|C1
+die Typologie|tipología||S|sci|C1
+der Erklärungsansatz|enfoque explicativo||S|stu|C1
+das Sammelgebiet|área de colección||S|sve|C1
+der Sammler|coleccionista||S|sve|C1
+der Antiquar|anticuario, librero de viejo||S|pro|C1
+das Antiquariat|librería de viejo||S|sve|C1
+die Versteigerung|subasta||S|sve|C1
+ersteigern|adquirir en subasta||V|sve|C1
+der Auktionator|subastador||S|pro|C1
+das Auktionshaus|casa de subastas||S|sve|C1
+das Gebot|puja, postura||S|sve|C1
+der Zuschlag|adjudicación al martillo||S|sve|C1
+der Mindestpreis|precio de salida||S|fin|C1
+der Schätzwert|valor de tasación||S|fin|C1
+die Provenienz|procedencia||S|art|C1
+die Echtheitsprüfung|examen de autenticidad||S|art|C1
+der Restaurator|restaurador||S|pro|C1
+die Restaurierung|restauración||S|art|C1
+die Patina|pátina||S|art|C1
+die Rarität|pieza rara, rareza||S|art|C1
+der Liebhaberwert|valor de afección||S|fin|C1
+das Konvolut|lote, conjunto documental||S|sve|C1
+der Nachlass|legado artístico||S|ist|C1
+das Exponat|pieza expuesta||S|art|C1
+die Vitrine|vitrina||S|art|C1
+die Signatur|firma, atribución||S|art|C1
+der Erhaltungszustand|estado de conservación||S|art|C1
+die Expertise|dictamen pericial||S|art|C1
+der Bieter|pujador||S|sve|C1
+der Feinschmecker|gastrónomo, sibarita||S|ris|C1
+der Küchenchef|jefe de cocina||S|pro|C1
+die Degustation|degustación||S|ris|C1
+die Verkostung|cata||S|ris|C1
+der Sommelier|sumiller||S|pro|C1
+die Speisenfolge|secuencia del menú||S|ris|C1
+die Anrichtung|emplatado||S|ris|C1
+anrichten|emplatar, presentar el plato||V|ris|C1
+die Garnitur|guarnición||S|ris|C1
+die Reduktion|reducción (fondo concentrado)||S|ris|C1
+die Konsistenz|consistencia, textura||S|ris|C1
+das Mundgefühl|sensación en boca||S|ris|C1
+die Aromafülle|amplitud aromática||S|ris|C1
+der Abgang|retrogusto, final de boca||S|ris|C1
+deftig|contundente, de cuchara||A|ris|C1
+raffiniert|refinado, de técnica depurada||A|ris|C1
+die Würzung|condimentación||S|ris|C1
+der Fond|fondo (caldo concentrado)||S|ris|C1
+die Karamellisierung|caramelización||S|ris|C1
+die Fermentation|fermentación||S|ris|C1
+der Weinkenner|experto en vinos||S|pro|C1
+das Bukett|bouquet||S|ris|C1
+die Delikatesse|manjar, exquisitez||S|ris|C1
+delikat|exquisito||A|ris|C1
+der Geschmacksträger|vector de sabor||S|ris|C1
+die Sterneküche|alta cocina de estrellas||S|ris|C1
+die Rezension|reseña||S|let|C1
+der Restaurantführer|guía de restaurantes||S|ris|C1
+die Esskultur|cultura gastronómica||S|ris|C1
+die Zuvorkommenheit|deferencia, cortesía anticipada||S|rel|C1
+zuvorkommend|atento, deferente||A|rel|C1
+die Wertschätzung|aprecio, consideración||S|rel|C1
+die Abneigung|aversión, manía||S|emo|C1
+die Vertrautheit|familiaridad, intimidad||S|rel|C1
+die Vertrauensbasis|base de confianza||S|rel|C1
+das Einvernehmen|entente, conformidad||S|rel|C1
+die Annäherung|acercamiento, distensión||S|rel|C1
+die Aussprache|conversación franca, puesta en común||S|cmu|C1
+das Beileid|pésame||S|rel|C1
+der Beistand|auxilio, respaldo||S|rel|C1
+der Rückhalt|respaldo, apoyo||S|rel|C1
+der Günstling|protegido, favorito||S|rel|C1
+die Vetternwirtschaft|nepotismo, amiguismo||S|ist|C1
+die Kränkung|agravio, afrenta||S|emo|C1
+die Unstimmigkeit|desacuerdo, roces||S|rel|C1
+der Zwist|disputa, disensión||S|rel|C1
+die Entfremdung|distanciamiento, enajenación||S|rel|C1
+die Aussöhnung|reconciliación||S|rel|C1
+der Waffenstillstand|alto el fuego||S|ist|C1
+das Bündnis|alianza, pacto||S|ist|C1
+die Bürgschaft|aval, fianza||S|fin|C1
+für etwas bürgen|hacerse garante de||E|rel|C1
+die Fürsprache|intercesión, padrinazgo||S|rel|C1
+der Wortbruch|incumplimiento de la palabra dada||S|rel|C1
+die Ergebenheit|entrega, lealtad devota||S|rel|C1
+die Höflichkeitsform|fórmula de cortesía||S|cmu|C1
+das Anstandsgefühl|sentimiento del decoro||S|rel|C1
+die Umgangsformen|formas, buenos modales||S|rel|C1
+die Ausdauerfähigkeit|capacidad de resistencia||S|spt|C1
+die Regenerationsfähigkeit|capacidad de recuperación||S|spt|C1
+die Beanspruchung|esfuerzo, exigencia física||S|spt|C1
+die Verausgabung|desgaste, entrega física||S|spt|C1
+die Überforderung|sobrecarga, exceso de exigencia||S|spt|C1
+die Muskelermüdung|fatiga muscular||S|cor|C1
+die Sauerstoffaufnahme|captación de oxígeno||S|spt|C1
+der Laktatwert|valor de lactato||S|spt|C1
+die Periodisierung|periodización del entrenamiento||S|spt|C1
+die Trainingssteuerung|gestión de la carga de entrenamiento||S|spt|C1
+der Trainingsreiz|estímulo de entrenamiento||S|spt|C1
+die Superkompensation|supercompensación||S|spt|C1
+die Gelenkigkeit|flexibilidad articular||S|cor|C1
+der Bewegungsapparat|aparato locomotor||S|cor|C1
+die Schnellkraft|fuerza rápida||S|spt|C1
+die Maximalkraft|fuerza máxima||S|spt|C1
+der Körperfettanteil|porcentaje de grasa corporal||S|cor|C1
+die Leistungsbereitschaft|disposición al rendimiento||S|spt|C1
+die Leistungsgrenze|límite de rendimiento||S|spt|C1
+die Atemtechnik|técnica respiratoria||S|spt|C1
+die Rumpfstabilität|estabilidad del tronco||S|spt|C1
+die Tiefenmuskulatur|musculatura profunda||S|cor|C1
+der Ausgleichssport|deporte compensatorio||S|spt|C1
+der Bewegungsmangel|carencia de actividad física||S|sla|C1
+die Überbeanspruchung|sobreexigencia||S|spt|C1
+die Zielstrebigkeit|determinación, tenacidad de propósito||S|ast|C1
+die Selbstdisziplin|autodisciplina||S|ast|C1
+die Nervenstärke|fortaleza anímica, sangre fría||S|spt|C1
+das Vollblut|pura sangre||S|ani|C1
+das Warmblut|caballo de sangre templada||S|ani|C1
+die Stute|yegua||S|ani|C1
+der Hengst|semental||S|ani|C1
+der Wallach|caballo castrado||S|ani|C1
+die Gangart|aire (modo de andar)||S|ani|C1
+der Huf|casco (pata del caballo)||S|ani|C1
+der Hufschmied|herrador||S|pro|C1
+satteln|ensillar||V|ani|C1
+zügeln|refrenar, mantener a raya||V|ani|C1
+die Longe|cuerda de doma||S|ani|C1
+longieren|trabajar a la cuerda||V|ani|C1
+die Dressur|doma clásica||S|spt|C1
+der Parcours|recorrido de saltos||S|spt|C1
+der Abstammungsnachweis|pedigrí, certificado de origen||S|ani|C1
+der Rüde|perro macho||S|ani|C1
+die Hündin|perra||S|ani|C1
+der Wurf|camada||S|ani|C1
+die Körung|examen de morfología y cría||S|ani|C1
+der Wesenstest|test de carácter||S|ani|C1
+die Fellpflege|cuidado del pelaje||S|ani|C1
+der Wesenszug|rasgo de carácter||S|ast|C1
+die Unterordnung|sumisión, obediencia||S|ani|C1
+der Gehorsam|obediencia||S|ani|C1
+die Prägungsphase|fase de impronta||S|ani|C1
+der Beutetrieb|instinto de presa||S|ani|C1
+die Fährte|rastro, pista de caza||S|ani|C1
+das Apportieren|cobro (traer la pieza)||S|ani|C1
+die Remonte|potro de reciente doma||S|ani|C1
+die Unwetterwarnung|aviso de fenómeno adverso||S|cli|C1
+der Wetterumschwung|virada brusca del tiempo||S|cli|C1
+die Niederschlagsmenge|cantidad de precipitación||S|cli|C1
+der Starkregen|lluvia torrencial||S|cli|C1
+die Sturzflut|inundación relámpago||S|cli|C1
+die Überschwemmung|inundación, anegamiento||S|cli|C1
+die Dürre|sequía||S|cli|C1
+die Hitzewelle|ola de calor||S|cli|C1
+die Gewitterfront|frente de tormentas||S|cli|C1
+die Kaltfront|frente frío||S|cli|C1
+die Warmfront|frente cálido||S|cli|C1
+die Bewölkung|nubosidad||S|cli|C1
+die Messstation|estación de medición||S|cli|C1
+die Bodenfeuchte|humedad del suelo||S|cli|C1
+die Verdunstung|evaporación||S|cli|C1
+die Klimakatastrophe|catástrofe climática||S|cli|C1
+die Klimavorhersage|predicción climática||S|cli|C1
+der Orkan|huracán, temporal de fuerza doce||S|cli|C1
+die Bö|ráfaga, borrasca súbita||S|cli|C1
+die Sturmflut|marejada ciclónica||S|cli|C1
+der Wirbelsturm|tormenta tornádica||S|cli|C1
+die Gewitterzelle|celda convectiva||S|cli|C1
+die Konvektion|convección||S|sci|C1
+die Frühwarnung|alerta temprana||S|cli|C1
+die Schadensbilanz|balance de daños||S|cli|C1
+der Ernteausfall|pérdida de cosecha||S|cli|C1
+der Wetterdienst|servicio meteorológico||S|cli|C1
+der Schneebruch|quebranto por nieve||S|cli|C1
+der Lawinenabgang|desprendimiento de alud||S|cli|C1
+überaus|sobremanera, en sumo grado||D|cnn|C1
+ausgesprochen|francamente, en sumo grado||D|cnn|C1
+weitaus|con mucho, de lejos||D|cnn|C1
+höchst|sumamente, en alto grado||D|cnn|C1
+schlagend|contundente, demoledor||A|cnn|C1
+mitnichten|ni por asomo, en modo alguno||D|cnn|C1
+nicht etwa|no vaya a creer que||E|cnn|C1
+freilich|ciertamente, desde luego||D|cnn|C1
+unzweifelhaft|indudablemente||D|cnn|C1
+ohne Zweifel|sin duda alguna||L|cnn|C1
+zugestehen|conceder, dar la razón||V|cmu|C1
+unbeschadet|sin menoscabo de, no obstante||R|cnn|C1
+allen voran|a la cabeza de todos||L|cnn|C1
+nicht zuletzt|no en último lugar, muy en particular||L|cnn|C1
+umso|tanto más (por ello)||D|cnn|C1
+ausgerechnet|justo, precisamente, para colmo||D|cnn|C1
+geradezu|lisa y llanamente, directamente||D|cnn|C1
+schlechthin|lisa y llanamente, sin más||D|cnn|C1
+unter dem Strich|en el balance final||L|cnn|C1
+im Vergleich dazu|en comparación con ello||L|cnn|C1
+von Grund auf|de raíz, desde los cimientos||L|cnn|C1
+mit Nachdruck|con énfasis, con empeño||L|cnn|C1
+ohne Wenn und Aber|sin peros, sin condiciones||L|cnn|C1
+das sei dahingestellt|démoslo por sentado||L|cnn|C1
+unverblümt|sin rodeos, crudo||D|cnn|C1
+unverhohlen|manifiesto, sin disimulo||A|cnn|C1
+unübersehbar|que salta a la vista||A|cnn|C1
+namentlich|a saber, por nombre||D|cnn|C1
+geschweige denn|ni siquiera, mucho menos||C|cnn|C1

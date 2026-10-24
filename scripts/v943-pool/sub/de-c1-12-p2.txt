@@ -1,0 +1,258 @@
+durchaus|sin duda alguna, de suyo||D|cnn|C1
+beträchtlich|considerable, sustancial||A|ast|C1
+spürbar|apreciable, perceptible||A|ast|C1
+messbar|medible, cuantificable||A|sci|C1
+beziffern|cifrar, cuantificar||V|fin|C1
+die Größenordnung|orden de magnitud||S|sci|C1
+annähernd|con aproximación, aproximadamente||D|sci|C1
+die Schätzung|estimación||S|sci|C1
+die Hochrechnung|proyección (estadística)||S|sci|C1
+die Stichprobe|muestra (estadística)||S|sci|C1
+repräsentativ|representativo (muestral)||A|sci|C1
+die Schwankungsbreite|margen de fluctuación||S|sci|C1
+die Streuung|dispersión (estadística)||S|sci|C1
+die Abweichung|desviación||S|sci|C1
+der Toleranzbereich|margen de tolerancia||S|tec|C1
+der Richtwert|valor de referencia||S|sci|C1
+der Schwellenwert|umbral, valor umbral||S|sci|C1
+der Zuwachs|incremento, aumento||S|sci|C1
+spärlich|escaso, exiguo||A|ast|C1
+ausgiebig|abundante, de calado||A|ast|C1
+reichhaltig|abundante y variado||A|ast|C1
+üppig|opulento, exuberante||A|ast|C1
+maßlos|desmesurado||A|ast|C1
+unverhältnismäßig|desproporcionado||A|ast|C1
+die Verhältnismäßigkeit|proporcionalidad||S|ist|C1
+differenziert|diferenciado, matizado||A|ast|C1
+die Abstufung|gradación, escalonamiento||S|ast|C1
+der Spielraum|margen (de maniobra)||S|ast|C1
+die Bandbreite|gama, abanico||S|ast|C1
+zusehends|visiblemente, de vista en vista||D|tmp|C1
+schlagartig|de golpe, de repente||D|tmp|C1
+stufenweise|por etapas, escalonadamente||D|tmp|C1
+im Übermaß|en exceso||L|ast|C1
+die Umschreibung|perífrasis, circunloquio||S|cmu|C1
+verhüllen|velar, encubrir (con palabras)||V|cmu|C1
+entschärfen|desactivar, quitar virulencia||V|cmu|C1
+abmildern|mitigar, atenuar||V|cmu|C1
+die Untertreibung|eutrofemia, litote||S|cmu|C1
+der Euphemismus|eufemismo||S|cmu|C1
+der Kraftausdruck|taco, expresión soez||S|cmu|C1
+die Derbheit|grosería, crudeza||S|cmu|C1
+derb|crudo, brusco||A|cmu|C1
+flapsig|chulesco, desgarbado||A|cmu|C1
+salopp|relajado, desaliñado (coloquial)||A|cmu|C1
+verächtlich|desdeñoso, despectivo||A|cmu|C1
+geringschätzig|menospreciativo||A|cmu|C1
+abwertend|peyorativo, descalificador||A|cmu|C1
+die Abwertung|descalificación, devaluación||S|cmu|C1
+die Peinlichkeit|bochorno, vergüenza ajena||S|emo|C1
+förmlich|protocolario, cortés en exceso||A|cmu|C1
+verbindlich|amable y a la vez firme||A|cmu|C1
+wohlwollend|benévolo||A|cmu|C1
+wohlmeinend|bienintencionado||A|cmu|C1
+nachsichtig|indulgente, clemente||A|cmu|C1
+die Nachsicht|indulgencia, clemencia||S|cmu|C1
+die Retourkutsche|pulla, respuesta sarcástica||S|cmu|C1
+spöttisch|burlón, socarrón||A|cmu|C1
+hämisch|regodeante, malicioso||A|cmu|C1
+die Schmeichelei|lisonja, halago||S|cmu|C1
+schmeichlerisch|adulador||A|cmu|C1
+das Gerede|habladurías, corrillos||S|cmu|C1
+die Andeutung|insinuación||S|cmu|C1
+die Anspielung|alusión||S|cmu|C1
+die Doppeldeutigkeit|doble sentido, ambigüedad||S|cmu|C1
+die Ausflucht|excusa, subterfugio||S|cmu|C1
+das Ablenkungsmanöver|maniobra de distracción||S|cmu|C1
+die Dichtung|poesía, creación literaria||S|let|C1
+die Strophe|estrofa||S|let|C1
+das Versmaß|métrica||S|let|C1
+die Alliteration|aliteración||S|let|C1
+die Metapher|metáfora||S|let|C1
+das Gleichnis|parábola, símil||S|let|C1
+die Allegorie|alegoría||S|let|C1
+die Symbolik|simbolismo||S|let|C1
+das Sinnbild|símbolo, emblema||S|let|C1
+die Bildsprache|lenguaje figurado, imaginería||S|let|C1
+die Wortwahl|elección de palabras||S|let|C1
+die Erzähltechnik|técnica narrativa||S|let|C1
+der Erzählstrang|hilo narrativo||S|let|C1
+die Rahmenhandlung|historia marco||S|let|C1
+die Wendung|giro (retórico, lingüístico)||S|let|C1
+der Wendepunkt|punto de inflexión||S|let|C1
+der Spannungsbogen|arco de tensión narrativa||S|cin|C1
+die Wehmut|melancolía, morriña||S|emo|C1
+die Schwermut|pesadumbre, melancolía profunda||S|let|C1
+das Sehnen|anhelo, nostalgia||S|let|C1
+ergreifend|conmovedor, que estremece||A|let|C1
+anmutig|garboso, lleno de gracia||A|art|C1
+das Zwielicht|penumbra, zona gris||S|let|C1
+die Morgenröte|aurora, alba||S|nat|C1
+verklären|transfigurar, idealizar||V|let|C1
+besingen|cantar, ensalzar en verso||V|let|C1
+das Loblied|loa, encomio||S|let|C1
+das Epos|epopeya||S|let|C1
+die Novelle|novela corta||S|let|C1
+wortgewaltig|de verbo poderoso, arrebatador||A|let|C1
+bildhaft|plástico, evocador||A|let|C1
+das Weib|mujer (arcaísmo literario)||S|let|C1
+der Knabe|muchacho, mozo||S|let|C1
+die Magd|criada, sirvienta (arcaísmo)||S|let|C1
+der Knecht|criado, mozo de labor||S|let|C1
+der Gebieter|señor, amo||S|let|C1
+das Gebein|hueso, restos mortales||S|cor|C1
+das Antlitz|rostro, semblante||S|let|C1
+der Leib|cuerpo (de persona)||S|cor|C1
+das Gemüt|ánimo, corazón||S|emo|C1
+das Seelenheil|salvación del alma||S|let|C1
+die Gabe|don, talento||S|let|C1
+das Verhängnis|hado, funesto destino||S|let|C1
+die Fügung|dispensa del destino||S|let|C1
+der Ungemach|contrariedad, infortunio||S|let|C1
+die Mühsal|penuria, fatiga||S|let|C1
+das Leidwesen|disgusto, pesadumbre||S|let|C1
+der Gram|pesar, cuita||S|let|C1
+die Trübsal|tribulación, congoja||S|let|C1
+trübsinnig|apagado, sombrío||A|emo|C1
+nimmermehr|jamás de los jamases||D|let|C1
+fürwahr|en verdad, a fe mía||D|let|C1
+wahrlich|ciertamente, en verdad||D|let|C1
+vernehmlich|audiblemente, con claridad||D|let|C1
+alsbald|acto seguido, al instante||D|tmp|C1
+desgleichen|asimismo, igualmente||D|cnn|C1
+mithin|por consiguiente, ergo||D|cnn|C1
+das Wohlgefallen|complacencia, agrado||S|ast|C1
+das Missfallen|disgusto, desagrado||S|ast|C1
+die Missachtung|desacato, menosprecio||S|ast|C1
+der Wagemut|arrojo, osadía||S|ast|C1
+das Beginnen|empresa, quehacer||S|let|C1
+das Wild|caza, pieza de caza||S|nat|C1
+demnach|por lo tanto, según eso||D|cnn|C1
+somit|con ello, por tanto||D|cnn|C1
+indessen|no obstante, mientras tanto||D|cnn|C1
+gleichwohl|no obstante, con todo||D|cnn|C1
+demgegenüber|frente a ello, en cambio||D|cnn|C1
+womöglich|acaso, tal vez||D|cnn|C1
+allenfalls|a lo sumo, en todo caso||D|cnn|C1
+bestenfalls|en el mejor de los casos||D|cnn|C1
+schlimmstenfalls|en el peor de los casos||D|cnn|C1
+letztendlich|al cabo, en última instancia||D|cnn|C1
+im Grunde|en el fondo||L|cnn|C1
+im Übrigen|por lo demás, dicho esto||L|cnn|C1
+beiläufig|de paso, a la sazón||D|cnn|C1
+mitunter|a veces, de vez en cuando||D|tmp|C1
+je nachdem|dependiendo (de según qué)||E|cnn|C1
+insofern|en ese sentido, en cuanto||D|cnn|C1
+zumal|tanto más cuanto que, sobre todo porque||C|cnn|C1
+sofern|siempre que, en caso de que||C|cnn|C1
+obgleich|aunque, si bien (libroso)||C|cnn|C1
+wenngleich|aunque, no bien||C|cnn|C1
+ungeachtet|no obstante, al margen de||R|cnn|C1
+seitens|por parte de||R|ist|C1
+hinsichtlich|en lo tocante a, respecto de||R|cnn|C1
+dahingehend|en ese sentido, en tal dirección||D|cnn|C1
+inwieweit|hasta qué punto, en qué medida||D|cnn|C1
+woraufhin|tras lo cual, a raíz de lo cual||D|cnn|C1
+des Weiteren|además, ulteriormente||L|cnn|C1
+ferner|asimismo, además||D|cnn|C1
+vorab|con antelación, previamente||D|tmp|C1
+im Nachhinein|a posteriori, con retrospección||L|tmp|C1
+in diesem Zusammenhang|a este respecto||L|cnn|C1
+kurzum|en una palabra, en suma||D|cnn|C1
+mit anderen Worten|dicho en otras palabras||L|cnn|C1
+kundgeben|notificar, hacer saber (oficialmente)||V|cmu|C1
+anvertrauen|confiar (un secreto)||V|rel|C1
+einweihen|poner en antecedentes, hacer partícipe||V|rel|C1
+ausplaudern|soltar la lengua, revelar||V|cmu|C1
+verheimlichen|ocultar (dolosamente)||V|cmu|C1
+verschweigen|callar, omitir||V|cmu|C1
+unterschlagen|desfalcar, omitir dolosamente||V|ist|C1
+herunterspielen|minimizar, restar importancia||V|cmu|C1
+hochspielen|sobredimensionar, dar bombo||V|cmu|C1
+aufbauschen|inflar, exagerar||V|cmu|C1
+aufschneiden|presumir, echarse flores||V|cmu|C1
+zureden|dar ánimos, exhortar||V|cmu|C1
+zurechtweisen|llamar al orden, reprender||V|cmu|C1
+rügen|censurar, reprender (formal)||V|cmu|C1
+tadeln|reprochar, censurar||V|cmu|C1
+einreden|hacer creer, convencer a la fuerza||V|cmu|C1
+ausfragen|sonsacar, interrogar||V|cmu|C1
+aushorchen|sondear (escuchar a escondidas)||V|cmu|C1
+vernehmen|tener noticia de, enterarse||V|cmu|C1
+belauschen|escuchar a escondidas||V|cmu|C1
+erwidern|replicar, contestar||V|cmu|C1
+entgegnen|replicar, observar (libroso)||V|cmu|C1
+beipflichten|asentir, suscribir||V|cmu|C1
+verkündigen|proclamar, pregonar||V|cmu|C1
+zuraunen|susurrar (como buen consejo)||V|cmu|C1
+künden|anunciar, dar fe (libroso)||V|let|C1
+auf etwas anspielen|aludir a (con sorna o malicia)||E|cmu|C1
+umwerben|cortejar, ganarse (con insistencia)||V|rel|C1
+einlenken|ceder, dar marcha atrás||V|cmu|C1
+beharren|mantenerse en sus trece||V|cmu|C1
+verharren|permanecer, aguantar||V|ast|C1
+zustellen|notificar, dar traslado (jurídico)||V|ist|C1
+ad acta legen|archivar el asunto (dar por zanjado)||L|ist|C1
+a priori|a priori, de entrada||L|ast|C1
+a posteriori|a posteriori||L|ast|C1
+ad hoc|ad hoc, para la ocasión||L|ast|C1
+ceteris paribus|en igualdad de circunstancias||L|sci|C1
+cum grano salis|con un grano de sal, con cautela||L|ast|C1
+der Lapsus|desliz, errata||S|cmu|C1
+sui generis|de su género, singular||L|ast|C1
+ultima ratio|última razón, recurso extremo||L|ast|C1
+das Primat|primado, prioridad||S|ast|C1
+per se|en sí, de suyo||L|ast|C1
+das Nonplusultra|lo non plus ultra, el no va más||S|ast|C1
+tabula rasa|tabla rasa, borrón y cuenta nueva||L|ast|C1
+das Resümee|resumen, balance||S|cmu|C1
+das Pensum|el pensum, carga de trabajo||S|lav|C1
+die Animosität|animadversión, tirantez||S|emo|C1
+adäquat|adecuado, congruente||A|ast|C1
+in puncto|en materia de, por lo que toca a||L|cnn|C1
+qua|en calidad de, por vía de||R|cnn|C1
+pro forma|pro forma, por cumplimiento||L|ist|C1
+in dubio pro reo|en la duda, a favor del reo||L|ist|C1
+die Devise|lema, divisa||S|let|C1
+das Kuriosum|curiosidad, cosa curiosa||S|ast|C1
+der Fauxpas|metedura de pata, desliz diplomático||S|cmu|C1
+die Eskapade|escapada, desliz (excentricidad)||S|ast|C1
+renommieren|fanfarronear, darse tono||V|cmu|C1
+das Renommee|renombre, caché||S|ast|C1
+das Debakel|debacle, descalabro||S|ast|C1
+Einspruch erheben|interponer recurso, oponerse formalmente||L|ist|C1
+in Kauf nehmen|tragar con, resignarse a aceptar||L|cmu|C1
+unter Vorbehalt|con reserva (condicionalmente)||L|ist|C1
+in Anbetracht|en vista de, atendiendo a||L|cnn|C1
+mit Abstand|con diferencia, de lejos||L|cnn|C1
+die Prägung|impronta, condicionamiento temprano||S|sci|C1
+das Kleinkindalter|primera infancia||S|stu|C1
+die Adoleszenz|adolescencia||S|sci|C1
+das Erwachsenenalter|edad adulta||S|stu|C1
+die Sprachentwicklung|desarrollo del lenguaje||S|sci|C1
+die Feinmotorik|psicomotricidad fina||S|sci|C1
+die Sozialisation|socialización||S|sci|C1
+hochbegabt|con altas capacidades||A|stu|C1
+das Förderprogramm|programa de refuerzo||S|stu|C1
+die Bildungsbiografie|biografía educativa||S|stu|C1
+die Hochschulreife|acceso a la universidad||S|stu|C1
+das Fernstudium|estudios a distancia||S|stu|C1
+der Präsenzunterricht|enseñanza presencial||S|stu|C1
+die Erziehungswissenschaft|ciencia de la educación||S|stu|C1
+die Heilpädagogik|pedagogía terapéutica||S|stu|C1
+der Erziehungsstil|estilo educativo||S|stu|C1
+die Prügelstrafe|castigo corporal||S|stu|C1
+das Auswendiglernen|aprendizaje de memoria||S|stu|C1
+die Einsicht|comprensión, toma de conciencia||S|stu|C1
+das Rollenverhalten|conducta acorde al rol||S|sci|C1
+die Identitätskrise|crisis de identidad||S|sci|C1
+die Selbstwahrnehmung|autopercepción||S|sci|C1
+die Fremdwahrnehmung|heteropercepción||S|sci|C1
+die Selbststeuerung|autorregulación||S|sci|C1
+die Impulskontrolle|control de impulsos||S|sci|C1
+die Resilienz|resiliencia||S|sci|C1
+die Bezugsperson|figura de referencia||S|sci|C1
+die Verhaltensauffälligkeit|trastorno de conducta||S|sci|C1
+der Wissensdurst|sed de saber||S|stu|C1
+der Bildungsauftrag|mandato educativo||S|ist|C1
+die Chancengerechtigkeit|equidad de oportunidades||S|ist|C1

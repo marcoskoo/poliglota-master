@@ -1,0 +1,258 @@
+die Arbeitsstelle|puesto de trabajo||S|lav|B1
+die Arbeitszeit|horario laboral||S|lav|B1
+die Vollzeit|jornada completa||S|lav|B1
+die Teilzeit|media jornada||S|lav|B1
+der Minijob|miniempleo||S|lav|B1
+der Gehaltszettel|nómina||S|lav|B1
+der Tarifvertrag|convenio colectivo||S|lav|B1
+der Betriebsrat|comité de empresa||S|lav|B1
+die Gewerkschaft|sindicato||S|lav|B1
+der Betriebsausflug|excursión de empresa||S|lav|B1
+das Betriebsklima|ambiente de trabajo||S|lav|B1
+die Auszubildende|aprendiza||S|lav|B1
+die Personalabteilung|departamento de personal||S|lav|B1
+der Vorgesetzte|superior, jefe||S|lav|B1
+die Filiale|sucursal||S|lav|B1
+die Zweigstelle|delegación||S|lav|B1
+der Arbeitsplatz|lugar de trabajo, empleo||S|lav|B1
+das Bewerbungsschreiben|carta de presentación||S|lav|B1
+der Lebenslauf|currículum||S|lav|B1
+das Arbeitszeugnis|carta de recomendación||S|lav|B1
+die Vorstellungsrunde|ronda de presentaciones||S|lav|B1
+die Probezeit|período de prueba||S|lav|B1
+die Einstellung|contratación, actitud||S|lav|B1
+kündigen|despedir||V|lav|B1
+die Kündigung|despido||S|lav|B1
+das Arbeitsverhältnis|relación laboral||S|lav|B1
+die Arbeitslosigkeit|paro||S|lav|B1
+arbeitssuchend|en búsqueda de empleo||A|lav|B1
+der Arbeitslose|parado||S|lav|B1
+das Arbeitsamt|oficina de empleo||S|lav|B1
+das Jobcenter|centro de empleo||S|lav|B1
+die Arbeitserlaubnis|permiso de trabajo||S|lav|B1
+die Berufserfahrung|experiencia laboral||S|lav|B1
+die Fortbildung|formación continua||S|lav|B1
+die Weiterbildung|reciclaje profesional||S|lav|B1
+die Schulung|curso de formación||S|lav|B1
+das Praktikum|prácticas||S|lav|B1
+der Praktikant|becario||S|lav|B1
+der Auszubildende|aprendiz||S|lav|B1
+die Lehrstelle|plaza de aprendizaje||S|lav|B1
+der Ausbilder|instructor (formación)||S|lav|B1
+der Meister|maestro artesano||S|lav|B1
+die Zulage|complemento salarial||S|lav|B1
+die Gehaltsverhandlung|negociación salarial||S|lav|B1
+die Lohnerhöhung|subida de sueldo||S|lav|B1
+die Rentenversicherung|seguro de pensiones||S|lav|B1
+die Altersvorsorge|previsión de jubilación||S|lav|B1
+die Betriebsrente|pensión de empresa||S|lav|B1
+die Gleitzeit|horario flexible||S|lav|B1
+der Urlaubstag|día de vacaciones||S|lav|B1
+die Krankmeldung|parte de enfermedad||S|lav|B1
+der Arbeitsunfall|accidente laboral||S|lav|B1
+der Schichtdienst|trabajo por turnos||S|lav|B1
+die Teambesprechung|reunión de equipo||S|lav|B1
+die Besprechung|reunión||S|lav|B1
+die Absprache|acuerdo pactado||S|lav|B1
+der Aufgabenbereich|ámbito de tareas||S|lav|B1
+verantwortlich|responsable||A|lav|B1
+die Verantwortung|responsabilidad||S|lav|B1
+gewissenhaft|escrupuloso||A|lav|B1
+die Bildung|educación||S|stu|B1
+die Ausbildung|formación profesional||S|stu|B1
+das Studium|estudios universitarios||S|stu|B1
+die Studentin|estudiante universitaria||S|stu|B1
+der Studienplatz|plaza universitaria||S|stu|B1
+die Hochschule|universidad (genérica)||S|stu|B1
+die Vorlesung|clase magistral||S|stu|B1
+das Seminar|seminario||S|stu|B1
+die Hausarbeit|trabajo escrito para casa||S|stu|B1
+die Abschlussarbeit|trabajo de fin de estudios||S|stu|B1
+die Klausur|examen parcial||S|stu|B1
+bestehen|aprobar, superar||V|stu|B1
+das Prüfungsergebnis|resultado del examen||S|stu|B1
+das Abschlusszeugnis|título académico||S|stu|B1
+der Schulabschluss|graduación escolar||S|stu|B1
+das Abitur|bachillerato alemán||S|stu|B1
+die Realschule|instituto de secundaria||S|stu|B1
+die Gesamtschule|centro integrado||S|stu|B1
+die Nachhilfe|clases particulares||S|stu|B1
+die Referendarin|profesora en prácticas||S|stu|B1
+der Dozent|docente||S|stu|B1
+die Dozentin|docente (mujer)||S|stu|B1
+das Fach|asignatura||S|stu|B1
+das Hauptfach|asignatura principal||S|stu|B1
+das Nebenfach|asignatura secundaria||S|stu|B1
+der Stundenplan|horario de clases||S|stu|B1
+das Schuljahr|curso escolar||S|stu|B1
+das Semester|semestre||S|stu|B1
+die Einschreibung|matrícula||S|stu|B1
+sich einschreiben|matricularse||V|stu|B1
+die Anwesenheit|asistencia||S|stu|B1
+anwesend|presente||A|stu|B1
+abwesend|ausente||A|stu|B1
+das Skript|apuntes (guion)||S|stu|B1
+die Mitschrift|apuntes tomados||S|stu|B1
+das Stipendium|beca||S|stu|B1
+der Studienkredit|crédito de estudios||S|stu|B1
+der Studentenausweis|carné de estudiante||S|stu|B1
+die Mensa|comedor universitario||S|stu|B1
+das Wohnheim|residencia de estudiantes||S|stu|B1
+der Bibliothekar|bibliotecario||S|stu|B1
+ausleihen|tomar prestado||V|stu|B1
+zurückgeben|devolver||V|stu|B1
+der Stoff|materia (contenido)||S|stu|B1
+nachschlagen|consultar (una obra)||V|stu|B1
+das Rathaus|ayuntamiento||S|cit|B1
+das Bürgeramt|oficina de atención ciudadana||S|cit|B1
+das Einwohnermeldeamt|oficina de empadronamiento||S|cit|B1
+die Meldebescheinigung|certificado de empadronamiento||S|cit|B1
+die Aufenthaltserlaubnis|permiso de residencia||S|cit|B1
+der Ausweis|documento de identidad||S|cit|B1
+der Reisepass|pasaporte||S|cit|B1
+die Fußgängerzone|zona peatonal||S|cit|B1
+der Marktplatz|plaza del mercado||S|cit|B1
+die Neustadt|ensanche (barrio nuevo)||S|cit|B1
+die Vorstadt|afueras||S|cit|B1
+der Stadtteil|barrio||S|cit|B1
+der Bezirk|distrito||S|cit|B1
+die Gemeinde|municipio||S|cit|B1
+das Landstädtchen|pueblecito||S|cit|B1
+die Stadthalle|auditorio municipal||S|cit|B1
+das Freibad|piscina al aire libre||S|cit|B1
+die Turnhalle|pabellón deportivo||S|cit|B1
+der Spielplatz|parque infantil||S|cit|B1
+der Friedhof|cementerio||S|cit|B1
+das Postamt|oficina de correos||S|cit|B1
+die Postleitzahl|código postal||S|cit|B1
+die Hausnummer|número (de la calle)||S|cit|B1
+die Kreuzung|cruce||S|cit|B1
+die Einbahnstraße|calle de sentido único||S|cit|B1
+die Fußgängerampel|semáforo de peatones||S|cit|B1
+der Zebrastreifen|paso de cebra||S|cit|B1
+die Umweltzone|zona de bajas emisiones||S|cit|B1
+die Parklücke|plaza de aparcamiento||S|cit|B1
+das Parkhaus|aparcamiento||S|cit|B1
+der Parkraum|espacio de aparcamiento||S|cit|B1
+das Wahrzeichen|monumento emblemático||S|cit|B1
+die Stadtführung|visita guiada||S|cit|B1
+der Brunnen|fuente||S|cit|B1
+der Dom|catedral||S|cit|B1
+der Hauptbahnhof|estación central||S|tra|B1
+der Regionalzug|tren regional||S|tra|B1
+das Gleis|vía||S|tra|B1
+das Monatsticket|abono mensual||S|tra|B1
+das Semesterticket|abono de estudiante||S|tra|B1
+der Fahrschein|billete||S|tra|B1
+entwerten|validar (el billete)||V|tra|B1
+der Schaffner|revisor||S|tra|B1
+die Zugverspätung|retraso del tren||S|tra|B1
+verspätet|retrasado||A|tra|B1
+der Anschluss|enlace, correspondencia||S|tra|B1
+die Umsteigezeit|tiempo de transbordo||S|tra|B1
+die Durchsage|aviso por megafonía||S|tra|B1
+die Fahrplanauskunft|información de horarios||S|tra|B1
+die S-Bahn|tren de cercanías||S|tra|B1
+die U-Bahn-Station|estación de metro||S|tra|B1
+der Nahverkehr|transporte de cercanías||S|tra|B1
+die Haltestelle|parada||S|tra|B1
+der Fahrgast|pasajero||S|tra|B1
+die Fahrt|trayecto||S|tra|B1
+die Fahrgemeinschaft|coche compartido||S|tra|B1
+der Verkehrsstau|atasco||S|tra|B1
+der Auffahrunfall|colisión por alcance||S|tra|B1
+die Panne|avería||S|tra|B1
+die Werkstatt|taller||S|tra|B1
+der Kofferraum|maletero||S|tra|B1
+der Sicherheitsgurt|cinturón de seguridad||S|tra|B1
+die Geschwindigkeitsbegrenzung|límite de velocidad||S|tra|B1
+der Führerschein|carné de conducir||S|tra|B1
+die Verkehrsregel|norma de circulación||S|tra|B1
+das Verkehrszeichen|señal de tráfico||S|tra|B1
+die Vorfahrt|prioridad||S|tra|B1
+der Rastplatz|área de descanso||S|tra|B1
+die Autobahnauffahrt|entrada a la autopista||S|tra|B1
+die Landstraße|carretera comarcal||S|tra|B1
+die Urlaubsreise|viaje de vacaciones||S|vig|B1
+die Reiseplanung|planificación del viaje||S|vig|B1
+der Reiseführer|guía de viaje||S|vig|B1
+der Tagesausflug|excursión de un día||S|vig|B1
+der Wanderweg|sendero||S|vig|B1
+die Wanderung|ruta de senderismo||S|vig|B1
+erkunden|explorar||V|vig|B1
+die Berghütte|refugio de montaña||S|vig|B1
+der Gipfel|cima||S|vig|B1
+das Gebirge|cordillera||S|vig|B1
+die Küste|costa||S|vig|B1
+der Sandstrand|playa de arena||S|vig|B1
+die Bucht|bahía||S|vig|B1
+der Campingplatz|camping||S|vig|B1
+der Wohnwagen|caravana||S|vig|B1
+die Isomatte|esterilla||S|vig|B1
+der Tagesrucksack|mochila pequeña||S|vig|B1
+das Reiseziel|destino||S|vig|B1
+das Auslandsjahr|año en el extranjero||S|vig|B1
+der Auslandsaufenthalt|estancia en el extranjero||S|vig|B1
+die Grenzkontrolle|control de fronteras||S|vig|B1
+der Zoll|aduana||S|vig|B1
+verzollen|declarar (en aduana)||V|vig|B1
+das Souvenir|recuerdo (regalo)||S|vig|B1
+die Reiserücktrittsversicherung|seguro de cancelación||S|vig|B1
+packen|hacer las maletas||V|vig|B1
+die Reiseapotheke|botiquín||S|vig|B1
+das Reisebüro|agencia de viajes||S|vig|B1
+die Pauschalreise|viaje organizado||S|vig|B1
+der Abflug|despegue||S|vig|B1
+die Ankunft|llegada||S|vig|B1
+die Landung|aterrizaje||S|vig|B1
+die Bordkarte|tarjeta de embarque||S|vig|B1
+der Flug|vuelo||S|vig|B1
+die Flugangst|miedo a volar||S|vig|B1
+die Übernachtung|noche de alojamiento||S|htl|B1
+übernachten|pernoctar||V|htl|B1
+die Unterkunft|alojamiento||S|htl|B1
+die Jugendherberge|albergue juvenil||S|htl|B1
+die Pension|hostal (pensión)||S|htl|B1
+das Frühstücksbuffet|bufé de desayuno||S|htl|B1
+der Portier|conserje||S|htl|B1
+die Rezeption|recepción||S|htl|B1
+der Zimmerschlüssel|llave de la habitación||S|htl|B1
+der Zimmerservice|servicio de habitaciones||S|htl|B1
+die Minibar|minibar||S|htl|B1
+das Doppelzimmer|habitación doble||S|htl|B1
+das Einzelzimmer|habitación individual||S|htl|B1
+die Halbpension|media pensión||S|htl|B1
+die Vollpension|pensión completa||S|htl|B1
+das Zustellbett|cama supletoria||S|htl|B1
+die Buchungsbestätigung|confirmación de reserva||S|htl|B1
+die Hotelanlage|complejo hotelero||S|htl|B1
+der Fahrstuhl|ascensor||S|htl|B1
+der Safe|caja fuerte||S|htl|B1
+die Verabredung|cita (quedada)||S|cmu|B1
+sich verabreden|quedar (con alguien)||V|cmu|B1
+der Anruf|llamada||S|cmu|B1
+zurückrufen|devolver la llamada||V|cmu|B1
+das Gespräch|conversación||S|cmu|B1
+das Telefongespräch|conversación telefónica||S|cmu|B1
+die Mailbox|buzón de voz||S|cmu|B1
+die Sprachnachricht|mensaje de voz||S|cmu|B1
+der Kontakt|contacto||S|cmu|B1
+das Smartphone|smartphone||S|cmu|B1
+der Bildschirm|pantalla||S|cmu|B1
+die Tastatur|teclado||S|cmu|B1
+der Chat|chat||S|cmu|B1
+chatten|chatear||V|cmu|B1
+der Briefumschlag|sobre (carta)||S|cmu|B1
+das Paket|paquete||S|cmu|B1
+der Anhang|adjunto (correo)||S|cmu|B1
+die Kontaktdaten|datos de contacto||S|cmu|B1
+die Ankündigung|anuncio (aviso)||S|cmu|B1
+die Mitteilung|comunicado||S|cmu|B1
+die Rücksprache|consulta (coordinación)||S|cmu|B1
+die Auskunft|información (atención)||S|cmu|B1
+die Vorwahl|prefijo telefónico||S|cmu|B1
+der Lautsprecher|altavoz||S|cmu|B1
+der Zeitarbeiter|trabajador temporal||S|lav|B1
+die Schuluniform|uniforme escolar||S|stu|B1
+die Stadtbücherei|biblioteca municipal||S|cit|B1
+die Fahrspur|carril||S|tra|B1
