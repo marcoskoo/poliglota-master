@@ -1,5 +1,7 @@
 import type { VocabWord, WordType, WordCategory } from "../types";
 import { PT_PLUS } from "./lang-pt-plus";
+import { PT_MEGA } from "./lang-pt-mega";
+import { dedupMerge } from "./mega-parse";
 
 /* ═══ PT Dictionary · português europeu → español (A1-A2) ══════════════
    Formato de líneas: word|es|ipa|T|cat|freq|exPt|exEs[|p=plural;n=note;ff=1]
@@ -77,7 +79,7 @@ desculpe|disculpe|dɨʃˈkulpɨ|I|cmu|5|Desculpe, onde é o provador?|Disculpe, 
 por favor|por favor|puɾ fɐˈvoɾ|L|cmu|5|Um café, por favor.|Un café, por favor.
 com licença|con permiso|kõ liˈsẽsɐ|L|cmu|4|Com licença, passo.|Con permiso, paso.
 tudo bem?|¿qué tal? / ¿todo bien?|ˈtudu bɐ̃j̃|E|sal|5|Olá! Tudo bem?|¡Hola! ¿Qué tal?
-tudo bem|todo bien|ˈtudu bɐ̃j̃|E|sal|5|Tudo bem, obrigado!|Todo bien, ¡gracias!
+tudo bem (resposta)|todo bien|ˈtudu bɐ̃j̃|E|sal|4|Tudo bem, obrigado!|Todo bien, ¡gracias!
 nome|nombre|ˈnomɨ|S|cmu|5|O meu nome é Alejandro.|Me llamo Alejandro.
 chamar-se|llamarse|ʃɐˈmaɾ-sɨ|V|cmu|5|Como te chamas?|¿Cómo te llamas?
 amigo|amigo|ɐˈmiɡu|S|rel|5|Este é o meu amigo Rui.|Este es mi amigo Rui.
@@ -592,5 +594,5 @@ sócios|socios (miembros)|ˈsɔsiuʃ|S|spt|2|O Benfica tem milhões de sócios.|
 os três grandes|los tres grandes|uʃ tɾeʃ ɡɾɐ̃ˈdɨʃ|L|spt|3|Benfica, Sporting e Porto: os três grandes.|Benfica, Sporting y Porto: los tres grandes.
 `);
 /* v9.41 · base A1-B1 + pack plus B1-C2 (nível explícito): dicionário completo */
-export const PT_DICT: VocabWord[] = [...PT_DICT_BASE, ...PT_PLUS];
+export const PT_DICT: VocabWord[] = dedupMerge(PT_DICT_BASE, PT_PLUS, PT_MEGA);
 export const PT_DICT_COUNT = PT_DICT.length;

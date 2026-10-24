@@ -1,5 +1,7 @@
 import type { VocabWord, WordType, WordCategory } from "../types";
 import { DE_PLUS } from "./lang-de-plus";
+import { DE_MEGA } from "./lang-de-mega";
+import { dedupMerge } from "./mega-parse";
 
 /* ═══ DE Dictionary · Deutsch (Deutschland) → español (A1-B1) ═══════
    Formato de líneas: Wort|es|ipa|T|cat|freq|exDe|exEs[|p=…;n=…;ff=1]
@@ -622,5 +624,5 @@ spenden|donar|ˈʃpɛndn̩|V|fin|3|Er spendet regelmäßig für die Tafel.|Dona 
 die Rente|la pensión de jubilación|ˈʁɛntə|S|fin|2|Mit 67 geht er in Rente.|A los 67 años se jubila.;ff=1;n=«die Rente» = la pensión de jubilación; la renta (ingresos) es das Einkommen
 `);
 /* v9.41 · Basis A1-B1 + Plus-Pack B1-C2 (Stufe explizit): vollständiges Wörterbuch */
-export const DE_DICT: VocabWord[] = [...DE_DICT_BASE, ...DE_PLUS];
+export const DE_DICT: VocabWord[] = dedupMerge(DE_DICT_BASE, DE_PLUS, DE_MEGA);
 export const DE_DICT_COUNT = DE_DICT.length;

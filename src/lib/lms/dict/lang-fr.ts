@@ -1,5 +1,7 @@
 import type { VocabWord, WordType, WordCategory } from "../types";
 import { FR_PLUS } from "./lang-fr-plus";
+import { FR_MEGA } from "./lang-fr-mega";
+import { dedupMerge } from "./mega-parse";
 
 /* ═══ FR Dictionary · français de France → español (A1-B1) ══════════════
    Formato de líneas: mot|es|ipa|T|cat|freq|exFr|exEs[|p=…;n=…;ff=1]
@@ -646,5 +648,5 @@ les|los / las|le|T|cmu|5|Les enfants dorment.|Los niños duermen.
 `);
 
 /* v9.41 · base A1-B1 + pack plus B1-C2 (niveau explicite) : dictionnaire complet */
-export const FR_DICT: VocabWord[] = [...FR_DICT_BASE, ...FR_PLUS];
+export const FR_DICT: VocabWord[] = dedupMerge(FR_DICT_BASE, FR_PLUS, FR_MEGA);
 export const FR_DICT_COUNT = FR_DICT.length;

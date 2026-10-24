@@ -1,0 +1,13 @@
+/* ═══ v9.42 · IT MEGA · reposición 7: forme di pasta e vini ── */
+
+export const IT_MEGA_PASTA_RAW = `
+# ── forme di pasta ──
+orecchiette|orecchiette|orekˈkjɛtte|S|ali|B1~busiate|busiate|buˈzjaːte|S|ali|C2~scialatielli|scialatielli|ʃalaˈtjɛlli|S|ali|C2~paccheri|paccheri|pakˈkeːri|S|ali|C1~calamarata|calamarata|kalamaˈraːta|S|ali|C2~candele (pasta)|candele|ˈkandele|S|ali|C2~ziti|ziti|ˈdziːti|S|ali|C1~tubetti|tubetti|tuˈbetti|S|ali|C1
+ditalini|ditalini|ditaˈliːni|S|ali|C1~stelline (pasta)|estrellitas|stelˈliːne|S|ali|C1~acini di pepe|granos de pimienta|aˈtʃiːni di ˈpeːpe|S|ali|C2~orzo (pasta)|orzo (pasta)|ˈɔrdzo|S|ali|C1~gemelli (pasta)|gemelli|dʒeˈmɛlli|S|ali|B2~caserecce|caserecce|kazeˈrɛttʃe|S|ali|C1~cavatelli|cavatelli|kavaˈtɛlli|S|ali|C2~gnocchetti|ñoquis pequeños|ɲokˈketti|S|ali|C1
+pizzoccheri|pizzoccheri|pittsokˈkeːri|S|ali|C2~pappardelle|pappardelle|papparˈdɛlle|S|ali|C1~tagliolini|tagliolini|taʎʎoˈliːni|S|ali|C1~capellini|capellini|kapelˈliːni|S|ali|C1~fidelini|fidelini|fideˈliːni|S|ali|C2~bigoli|bigoli|ˈbiːɡoli|S|ali|C2~pici|pici|ˈpiːtʃi|S|ali|C2~tonnarelli|tonnarelli|tonnaˈrɛlli|S|ali|C2
+mafaldine|mafaldine|mafalˈdiːne|S|ali|C2~reginette|reginette|redʒiˈnette|S|ali|C2~radiatori (pasta)|radiatori|radjaˈtoːri|S|ali|C2~rotini (pasta)|rotini|roˈtiːni|S|ali|C2~campanelle (pasta)|campanelle|kampaˈnɛlle|S|ali|C2~gigli (pasta)|gigli|ˈdʒiʎʎi|S|ali|C2~spaghetti alla chitarra|spaghetti alla chitarra|spaˈɡetti alːa kitˈtarra|S|ali|C2~trenette|trenette|treˈnette|S|ali|C2
+# ── vini italiani ──
+barolo|barolo|baˈrɔːlo|S|ali|B1~barbaresco|barbaresco|barbaˈreːsko|S|ali|C1~brunello|brunello|brunˈnɛlːo|S|ali|C1~chianti|chianti|ˈkjanti|S|ali|B1~verdicchio|verdicchio|verˈdikkjo|S|ali|C1~nero d'avola|nero d'avola|ˈnɛːro daˈvɔːla|S|ali|C1~primitivo|primitivo|primiˈtiːvo|S|ali|C1~montepulciano|montepulciano|montepulˈtʃaːno|S|ali|C1
+Sagrantino|sagrantino|saɡranˈtiːno|S|ali|C2~teroldego|teroldego|teroˈldeːɡo|S|ali|C2~grechetto|grechetto|greˈkɛtto|S|ali|C2~falanghina|falanghina|falanˈɡiːna|S|ali|C2~fiano|fiano|fiˈaːno|S|ali|C2~vermentino|vermentino|vermenˈtiːno|S|ali|C1~arneis|arneis|arˈnɛjs|S|ali|C2~ribolla gialla|ribolla gialla|riˈbɔlːa ˈdʒalla|S|ali|C2
+prosecco|prosecco|proˈsɛkko|S|ali|B1~franciacorta|franciacorta|frantʃaˈkorta|S|ali|C1~metodo classico|método clásico|meˈtodo klasˈsiko|S|ali|C2~moscato d'asti|moscato d'Asti|moˈskato dasti|S|ali|C1~lambrusco|lambrusco|lamˈbrusko|S|ali|B1~brachetto|brachetto|braˈkɛtto|S|ali|C2~passito di pantelleria|passito de Pantelleria|pasˈsiːto di pantelːeˈriːa|S|ali|C2~vinello|vinello|viˈnɛlːo|S|ali|C2
+`;

@@ -167,9 +167,11 @@ export function DictionaryView() {
                   </span>
                 )}
               </div>
-              <p className="mt-2 font-mono text-lg text-muted-it">
-                {word.ipa ? "/" + word.ipa + "/" : "/" + word.pron + "/"}
-              </p>
+              {(word.ipa || word.pron) && (
+                <p className="mt-2 font-mono text-lg text-muted-it">
+                  {word.ipa ? "/" + word.ipa + "/" : "/" + word.pron + "/"}
+                </p>
+              )}
               <p className="mt-3 text-2xl text-verde-scuro dark:text-verde">{word.es}</p>
             </div>
             <div className="flex flex-col items-end gap-2">
@@ -236,11 +238,13 @@ export function DictionaryView() {
                 {u.data.categories[word.cat] ?? CATEGORY_META[word.cat].es}
               </p>
             </div>
-            <div className="rounded-2xl bg-crema-scura p-5 dark:bg-inchiostro/10">
-              <p className="text-xs font-bold uppercase tracking-widest text-muted-it">{u.dizionario.example}</p>
-              <p className="mt-2 font-display text-xl italic leading-snug">“{word.example.it}”</p>
-              <p className="mt-1.5 text-sm text-muted-it">{word.example.es}</p>
-            </div>
+            {word.example.it && (
+              <div className="rounded-2xl bg-crema-scura p-5 dark:bg-inchiostro/10">
+                <p className="text-xs font-bold uppercase tracking-widest text-muted-it">{u.dizionario.example}</p>
+                <p className="mt-2 font-display text-xl italic leading-snug">“{word.example.it}”</p>
+                <p className="mt-1.5 text-sm text-muted-it">{word.example.es}</p>
+              </div>
+            )}
           </div>
 
           {word.collocations && word.collocations.length > 0 && (

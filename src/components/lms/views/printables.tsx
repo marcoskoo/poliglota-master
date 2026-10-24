@@ -96,7 +96,7 @@ export function PrintablesView() {
         <td class="it">${esc(w.it)}</td>
         <td class="pron">[${esc(w.pron)}]</td>
         <td class="es">${esc(w.es)}</td>
-        <td class="ex">${esc(w.example.it)} — ${esc(w.example.es)}</td>
+        <td class="ex">${esc(w.example.it)}${w.example.it ? ` — ${esc(w.example.es)}` : ""}</td>
       </tr>`).join("");
     return sheetShell(`Vocabolario · ${meta.es}`, `Scheda di vocabolario · ${words.length} parole`,
       `<h2>${meta.emoji} ${esc(meta.es)} (${words.length} parole)</h2>

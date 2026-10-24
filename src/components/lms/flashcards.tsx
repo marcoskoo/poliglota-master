@@ -142,8 +142,8 @@ export function FlashcardSession({ cardIds, onExit, lang = "it" }: { cardIds: st
               />
             )}
             <p className="font-display text-4xl font-semibold leading-tight">{flipped ? word.es : word.it}</p>
-            <p className="mt-2 font-mono text-sm text-muted-it">{flipped ? word.pron : `/ ${word.pron} /`}</p>
-            {flipped && (
+            {word.pron && <p className="mt-2 font-mono text-sm text-muted-it">{flipped ? word.pron : `/ ${word.pron} /`}</p>}
+            {flipped && word.example.it && (
               <div className="mt-5 space-y-1.5">
                 <p className="text-sm italic text-muted-it">“{word.example.it}”</p>
                 <p className="text-xs text-muted-it">{word.example.es}</p>
