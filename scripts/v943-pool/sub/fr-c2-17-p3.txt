@@ -1,0 +1,256 @@
+restructuration cognitive|reestructuración cognitiva||E|sla|C2
+anamnèse|anamnesis||S|sla|C2
+état modifié de conscience|estado modificado de conciencia||E|sla|C2
+abréaction|abreacción||S|sla|C2
+travail de deuil|elaboración del duelo||E|sla|C2
+rumination mentale|ruminación mental||E|sla|C2
+évitement|evitación||S|sla|C2
+alexithymie|alexitimia||S|sla|C2
+pensées intrusives|pensamientos intrusivos||E|sla|C2
+dépersonnalisation|despersonalización||S|sla|C2
+déréalisation|desrealización||S|sla|C2
+cyclothymie|ciclotimia||S|sla|C2
+dysthymie|distimia||S|sla|C2
+bouffée délirante|brote delirante agudo||E|sla|C2
+anhédonie|anhedonia||S|sla|C2
+aboulie|abulia||S|sla|C2
+catatonie|catatonia||S|sla|C2
+iatrogène|iatrogénico||A|sla|C2
+affirmation de soi|asertividad||E|sla|C2
+lâcher-prise|soltar el control||S|emo|C2
+pleine conscience|atención plena||E|sla|C2
+régulation émotionnelle|regulación emocional||E|sla|C2
+contre-transfert|contratransferencia||S|sla|C2
+neutralité bienveillante|neutralidad benévola||E|sla|C2
+recadrage|reencuadre||S|sla|C2
+alliance thérapeutique|alianza terapéutica||E|sla|C2
+épuisement professionnel|desgaste profesional||E|sla|C2
+addictologie|adicciología||S|sla|C2
+codépendance|codependencia||S|sla|C2
+comorbidité|comorbilidad||S|sla|C2
+thymorégulateur|estabilizador del ánimo||S|sla|C2
+approche systémique|enfoque sistémico||E|sla|C2
+mordacité|mordacidad||S|ast|C2
+incisif|incisivo||A|ast|C2
+vindicatif|vengativo||A|ast|C2
+magnanime|magnánimo||A|ast|C2
+intègre|íntegro||A|ast|C2
+probe|probo||A|ast|C2
+véniel|venial||A|ast|C2
+concupiscence|concupiscencia||S|ast|C2
+luxure|lujuria||S|ast|C2
+cupidité|codicia||S|ast|C2
+rapacité|rapacidad||S|ast|C2
+vénalité|venalidad||S|ast|C2
+prodigalité|prodigalidad||S|ast|C2
+dissipation|vida disipada||S|ast|C2
+turpitude|turpitud||S|ast|C2
+abjection|abyección||S|ast|C2
+ignominie|ignominia||S|ast|C2
+opprobre|oprobio||S|ast|C2
+acédie|acedía||S|ast|C2
+incurie|incuria||S|ast|C2
+démesure|desmesura||S|ast|C2
+hybris|hybris||S|ast|C2
+jactance|jactancia||S|ast|C2
+tempérance|templanza||S|ast|C2
+continence|continencia||S|ast|C2
+frugalité|frugalidad||S|ast|C2
+effacement|apocamiento||S|ast|C2
+fatuité|fatuidad||S|ast|C2
+cuistre|pedante engreído||S|ast|C2
+bien-pensance|pensamiento único beato||S|ast|C2
+félonie|felonía||S|ast|C2
+bienséance|decoro||S|ast|C2
+amorçage|financiación semilla||S|fin|C2
+capital-risque|capital riesgo||E|fin|C2
+levée de fonds|ronda de financiación||E|fin|C2
+tour de table|ronda de negociación con inversores||E|fin|C2
+dilution|dilución de capital||S|fin|C2
+bloc de contrôle|paquete de control||E|fin|C2
+introduction en bourse|salida a bolsa||E|fin|C2
+hypercroissance|hipercrecimiento||S|fin|C2
+scalabilité|escalabilidad||S|tec|C2
+passage à l'échelle|escalado||E|tec|C2
+preuve de concept|prueba de concepto||E|tec|C2
+itération|iteración||S|tec|C2
+traction|tracción en el mercado||S|fin|C2
+fonds de roulement|fondo de maniobra||E|fin|C2
+prévisionnel|estudio previsional de viabilidad||S|fin|C2
+seuil de rentabilité|umbral de rentabilidad||E|fin|C2
+pépinière d'entreprises|vivero de empresas||E|fin|C2
+cahier des charges|pliego de condiciones||E|lav|C2
+livrable|entregable||S|lav|C2
+jalon|hito de proyecto||S|lav|C2
+industrialisation|industrialización||S|tec|C2
+effet de réseau|efecto red||E|tec|C2
+barrière à l'entrée|barrera de entrada||E|fin|C2
+appétence|apetencia||S|ast|C2
+désintermédiation|desintermediación||S|fin|C2
+intrapreneuriat|intraemprendimiento||S|fin|C2
+entrepreneuriat|emprendimiento||S|fin|C2
+portage salarial|cesión de laboralidad||E|lav|C2
+effet de levier|efecto apalancamiento||E|fin|C2
+fonds propres|fondos propios||E|fin|C2
+ouverture du capital|apertura de capital||E|fin|C2
+pacte d'actionnaires|pacto de socios||E|fin|C2
+chaîne d'approvisionnement|cadena de suministro||E|tra|C2
+prestataire logistique|operador logístico||E|tra|C2
+affrètement|fletamento||S|tra|C2
+groupage|agrupación de carga||S|tra|C2
+conteneurisation|contenedorización||S|tra|C2
+palettisation|paletización||S|tra|C2
+préparation de commandes|preparación de pedidos||E|tra|C2
+centre de distribution|centro de distribución||E|tra|C2
+zone de chalandise|zona de influencia comercial||E|fin|C2
+dernier kilomètre|última milla||E|tra|C2
+rupture de charge|ruptura de carga||E|tra|C2
+stock de sécurité|stock de seguridad||E|tra|C2
+stock tampon|stock amortiguador||E|tra|C2
+juste-à-temps|justo a tiempo||E|tra|C2
+flux tendus|producción ajustada||E|tra|C2
+réapprovisionnement|reabastecimiento||S|tra|C2
+cadencement|ritmo de cadencia productiva||S|tra|C2
+lissage|nivelación de la producción||S|tra|C2
+goulots d'étranglement|cuellos de botella||E|tra|C2
+tournée|ronda de reparto||S|tra|C2
+enlèvement|recogida de mercancías||S|tra|C2
+point relais|punto de recogida||E|tra|C2
+entreposage|almacenaje||S|tra|C2
+commissionnaire en douane|agente de aduanas||E|tra|C2
+transitaire|transitario||S|pro|C2
+manifeste de cargaison|manifiesto de carga||E|tra|C2
+connaissement|conocimiento de embarque||S|tra|C2
+cabotage|cabotaje||S|tra|C2
+transport multimodal|transporte multimodal||E|tra|C2
+cariste|operador de carretilla elevadora||S|pro|C2
+fenêtre de livraison|ventana de entrega||E|tra|C2
+logistique inverse|logística inversa||E|tra|C2
+parcours client|recorrido del cliente||E|fin|C2
+tunnel de conversion|embudo de conversión||E|tec|C2
+coût d'acquisition|coste de adquisición||E|fin|C2
+valeur vie client|valor de vida del cliente||E|fin|C2
+panier moyen|ticket medio||E|fin|C2
+taux d'attrition|tasa de abandono de clientes||E|fin|C2
+achat d'impulsion|compra por impulso||E|fin|C2
+compulsion d'achat|compra compulsiva||E|sla|C2
+aubaine|ganga inesperada||S|fin|C2
+consumérisme|consumismo||S|fin|C2
+déconsommation|desconsumo||S|fin|C2
+prescripteur|prescriptor||S|fin|C2
+marketing d'influence|marketing de influencia||E|fin|C2
+placement de produit|emplazamiento de producto||E|cin|C2
+affichage|publicidad exterior||S|fin|C2
+encart|separata publicitaria||S|fin|C2
+régie publicitaire|gestión de espacios publicitarios||E|fin|C2
+accroche|gancho publicitario||S|fin|C2
+démarque|merma (pérdida en tienda)||S|fin|C2
+inventaire tournant|inventario rotativo||E|fin|C2
+linéaire|lineal (espacio de estantería)||S|fin|C2
+tête de gondole|cabecera de góndola||E|fin|C2
+prix d'appel|precio gancho||E|fin|C2
+marge arrière|margen trasero (descuentos ocultos)||E|fin|C2
+assortiment|surtido||S|fin|C2
+discounteur|tienda de descuento||S|fin|C2
+marque de distributeur|marca del distribuidor||E|fin|C2
+marque blanche|marca blanca||E|fin|C2
+repositionnement|reposicionamiento||S|fin|C2
+notoriété de marque|conocimiento de marca||E|fin|C2
+biais cognitif|sesgo cognitivo||E|sci|C2
+mercatique|mercadotecnia||S|fin|C2
+assurance qualité|garantía de calidad||E|lav|C2
+accréditation|acreditación||S|lav|C2
+homologation|homologación||S|lav|C2
+agrément|habilitación administrativa||S|ist|C2
+non-conformité|no conformidad||S|lav|C2
+tolérancement|dimensionado con tolerancias||S|tec|C2
+répétabilité|repetibilidad||S|sci|C2
+étalonnage|calibrado||S|sci|C2
+métrologie|metrología||S|sci|C2
+amélioration continue|mejora continua||E|lav|C2
+cercle de qualité|círculo de calidad||E|lav|C2
+production au plus juste|producción ajustada||E|tec|C2
+charte|carta de compromiso||S|ist|C2
+labellisation|certificación con sello||S|lav|C2
+échantillon témoin|muestra de referencia||E|sci|C2
+rebut|pieza defectuosa de producción||S|tec|C2
+dérogation|dispensa excepcional de la norma||S|lav|C2
+indicateur de performance|indicador de rendimiento||E|lav|C2
+pilotage de la performance|gestión del rendimiento||E|lav|C2
+revue de direction|revisión por la dirección||E|lav|C2
+retour d'expérience|retroalimentación de la experiencia||E|lav|C2
+veille réglementaire|seguimiento normativo||E|lav|C2
+organisme certificateur|organismo certificador||E|pro|C2
+conformité réglementaire|cumplimiento normativo||E|lav|C2
+qualité perçue|calidad percibida||E|fin|C2
+fiabilisation|mejora de la fiabilidad||S|tec|C2
+maintenabilité|mantenibilidad||S|tec|C2
+maintenance conditionnelle|mantenimiento predictivo||E|tec|C2
+contrôle de gestion|auditoría de gestión||E|fin|C2
+essai de réception|prueba de recepción||E|tec|C2
+habilitation|acreditación de operarios||S|lav|C2
+plan de contrôle|plan de inspección||E|lav|C2
+assignation|emplazamiento judicial||S|ist|C2
+mise en demeure|intimación formal||E|ist|C2
+sommation|requerimiento notarial||S|ist|C2
+commandement de payer|requerimiento de pago||E|ist|C2
+saisie conservatoire|embargo preventivo||E|ist|C2
+surenchère|sobrepuja||S|ist|C2
+adjudication|adjudicación||S|ist|C2
+plaidoirie|alegato||S|ist|C2
+réquisitoire|requisitoria||S|ist|C2
+ordonnance de renvoi|auto de apertura de juicio oral||E|ist|C2
+prescription acquisitive|prescripción adquisitiva||E|ist|C2
+forclusion|preclusión||S|ist|C2
+caducité|caducidad||S|ist|C2
+irrecevabilité|inadmisibilidad||S|ist|C2
+fin de non-recevoir|excepción de inadmisibilidad||E|ist|C2
+sursis à statuer|suspensión del pronunciamiento||E|ist|C2
+exécution provisoire|ejecución provisional||E|ist|C2
+dépens|costas procesales||S|ist|C2
+frais irrépétibles|gastos no repetibles||E|ist|C2
+dommages et intérêts|daños y perjuicios||E|ist|C2
+réparation intégrale|reparación íntegra||E|ist|C2
+pourvoi en cassation|recurso de casación||E|ist|C2
+tierce opposition|oposición de tercero||E|ist|C2
+sentence arbitrale|laudo arbitral||E|ist|C2
+clause compromissoire|cláusula compromisoria||E|ist|C2
+condition suspensive|condición suspensiva||E|ist|C2
+condition résolutoire|condición resolutoria||E|ist|C2
+vice du consentement|vicio del consentimiento||E|ist|C2
+fait du prince|hecho del príncipe||E|ist|C2
+enrichissement sans cause|enriquecimiento sin causa||E|ist|C2
+mainlevée|levantamiento del embargo||S|ist|C2
+novation|novación||S|ist|C2
+étiologie|etiología||S|sla|C2
+pathogénie|patogenia||S|sla|C2
+physiopathologie|fisiopatología||S|sla|C2
+lésion|lesión (daño tisular)||S|sla|C2
+sémiologie|semiología||S|sla|C2
+pronostic vital|pronóstico vital||E|sla|C2
+diagnostic différentiel|diagnóstico diferencial||E|sla|C2
+nosologie|nosología||S|sla|C2
+prophylaxie|profilaxis||S|sla|C2
+pharmacocinétique|farmacocinética||S|sla|C2
+pharmacovigilance|farmacovigilancia||S|sla|C2
+forme galénique|forma farmacéutica||E|sla|C2
+biosimilaire|biosimilar||S|sla|C2
+observance|cumplimiento terapéutico||S|sla|C2
+abord veineux|acceso venoso||E|sla|C2
+exérèse|exéresis||S|sla|C2
+anastomose|anastomosis||S|sla|C2
+cœlioscopie|laparoscopia||S|sla|C2
+anesthésie locorégionale|anestesia locorregional||E|sla|C2
+allodynie|alodinia||S|sla|C2
+paresthésie|parestesia||S|sla|C2
+dysesthésie|disecestesia||S|sla|C2
+caquexie|caquexia||S|sla|C2
+trachéotomie|traqueotomía||S|sla|C2
+épuration extra-rénale|depuración extrarrenal||E|sla|C2
+aplasie|aplasia||S|sla|C2
+cytopénie|citopenia||S|sla|C2
+marqueur tumoral|marcador tumoral||E|sla|C2
+ganglion sentinelle|ganglio centinela||E|sla|C2
+acharnement thérapeutique|encarnizamiento terapéutico||E|sla|C2
+directives anticipées|instrucciones previas||E|sla|C2
+létalité|letalidad||S|sla|C2

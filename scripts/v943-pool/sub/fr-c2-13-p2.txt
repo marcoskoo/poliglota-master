@@ -1,0 +1,256 @@
+barrière douanière|barrera arancelaria||S|fin|C2
+tarif douanier|arancel aduanero||S|fin|C2
+contingentement|contingentamiento (cuotas)||S|fin|C2
+quota d'importation|cuota de importación||S|fin|C2
+mesure antidumping|medida antidumping||S|fin|C2
+dumping social|dumping social||S|fin|C2
+guerre tarifaire|guerra arancelaria||S|fin|C2
+embargo|embargo (retención de mercancías)||S|fin|C2
+accès au marché|acceso al mercado||S|fin|C2
+libéralisation des échanges|liberalización del comercio||S|fin|C2
+libre-échange|libre comercio||S|fin|C2
+protectionnisme|proteccionismo||S|fin|C2
+règles d'origine|reglas de origen||S|fin|C2
+certificat d'origine|certificado de origen||S|fin|C2
+zone franche|zona franca||S|fin|C2
+commerce intra-branche|comercio intraindustrial||S|fin|C2
+solde des transactions courantes|saldo de transacciones corrientes||S|fin|C2
+subventionnement|subvención (concesión de ayudas)||S|fin|C2
+distorsion de concurrence|distorsión de la competencia||S|fin|C2
+concurrence déloyale|competencia desleal||S|fin|C2
+oligopole|oligopolio||S|fin|C2
+position dominante|posición dominante||S|fin|C2
+entente|colusión (concierto ilícito)||S|fin|C2
+frais de transaction|costes de transacción||S|fin|C2
+chaîne de valeur ajoutée|cadena de valor añadido||S|fin|C2
+délocalisation|deslocalización||S|fin|C2
+réexportation|reexportación||S|fin|C2
+transbordement|transbordo||S|fin|C2
+franco à bord|franco a bordo||L|fin|C2
+assurance-crédit|seguro de crédito||S|fin|C2
+lettre de crédit|carta de crédito||S|fin|C2
+convertibilité|convertibilidad||S|fin|C2
+bilan|balance de situación||S|fin|C2
+compte de résultat|cuenta de resultados||S|fin|C2
+flux de trésorerie|flujos de tesorería||S|fin|C2
+actif immobilisé|activo fijo (inmovilizado)||S|fin|C2
+passif exigible|pasivo exigible||S|fin|C2
+fonds propres|fondos propios||S|fin|C2
+amortissement dégressif|amortización degresiva||S|fin|C2
+dépréciation|deterioro (de valor de activos)||S|fin|C2
+charges d'exploitation|gastos de explotación||S|fin|C2
+marge d'exploitation|margen operativo (de explotación)||S|fin|C2
+résultat net|resultado neto||S|fin|C2
+valeur d'entreprise|valor de la empresa||S|fin|C2
+fonds de roulement|fondo de maniobra (capital circulante)||S|fin|C2
+créance client|cuenta por cobrar (crédito a clientes)||S|fin|C2
+emprunt obligataire|emisión de bonos||S|fin|C2
+augmentation de capital|ampliación de capital||S|fin|C2
+rachat d'actions|recompra de acciones propias||S|fin|C2
+actionnaire minoritaire|accionista minoritario||S|fin|C2
+gouvernance d'entreprise|gobernanza corporativa||S|fin|C2
+conseil d'administration|consejo de administración||S|fin|C2
+commissaire aux comptes|auditor de cuentas||S|fin|C2
+audit de conformité|auditoría de cumplimiento||S|fin|C2
+lettrage|conciliación (de cuentas)||S|fin|C2
+rapprochement bancaire|conciliación bancaria||S|fin|C2
+écritures de régularisation|asientos de ajuste||S|fin|C2
+clôture|cierre (del ejercicio contable)||S|fin|C2
+exercice fiscal|ejercicio fiscal||S|fin|C2
+report à nouveau|remanente (resultados pendientes de aplicación)||S|fin|C2
+annexe|memoria (del ejercicio)||S|fin|C2
+consolidation|consolidación (de estados financieros)||S|fin|C2
+filiale|filial (subsidiaria)||S|fin|C2
+fusion-acquisition|fusión y adquisición||S|fin|C2
+gré à gré|sobre mostrador (negociación bilateral)||L|fin|C2
+produit dérivé|producto derivado||S|fin|C2
+contrat à terme|contrato a plazo (futuro)||S|fin|C2
+option d'achat|opción de compra||S|fin|C2
+option de vente|opción de venta||S|fin|C2
+sous-jacent|subyacente (activo subyacente)||S|fin|C2
+volatilité implicite|volatilidad implícita||S|fin|C2
+actif net|activo neto||S|fin|C2
+ordre à cours limité|orden con límite de precio||S|fin|C2
+carnet d'ordres|libro de órdenes||S|fin|C2
+cotation en continu|cotización en continuo||S|fin|C2
+fourchette|horquilla (diferencial de precios)||S|fin|C2
+arbitrage|arbitraje||S|fin|C2
+spéculation à la baisse|especulación a la baja||S|fin|C2
+vente à découvert|venta en corto (a descubierto)||S|fin|C2
+levier financier|apalancamiento financiero||S|fin|C2
+appel de marge|llamada de margen (requerimiento de garantías)||S|fin|C2
+contrat de différence|contrato por diferencia||S|fin|C2
+swap|permuta financiera (swap)||S|fin|C2
+test de résistance|prueba de resistencia||S|fin|C2
+gestion d'actifs|gestión de activos||S|fin|C2
+indiciel|indexado (relativo a un índice bursátil)||A|fin|C2
+surperformance|sobreperformance (mejor comportamiento relativo)||S|fin|C2
+krach boursier|crac bursátil (desplome bursátil)||S|fin|C2
+bulle spéculative|burbuja especulativa||S|fin|C2
+retournement de marché|giro de mercado (cambio de tendencia)||S|fin|C2
+tendance haussière|tendencia alcista||S|fin|C2
+tendance baissière|tendencia bajista||S|fin|C2
+ligne de résistance|línea de resistencia||S|fin|C2
+retour à la moyenne|reversión a la media||L|fin|C2
+diversification du portefeuille|diversificación de cartera||S|fin|C2
+aversion au risque|aversión al riesgo||L|fin|C2
+mitose|mitosis||S|sci|C2
+méiose|meiosis||S|sci|C2
+enjambement|entrecruzamiento (de cromosomas homólogos)||S|sci|C2
+allèle|alelo||S|sci|C2
+homozygote|homocigoto||S|sci|C2
+hétérozygote|heterocigoto||S|sci|C2
+génotype|genotipo||S|sci|C2
+phénotype|fenotipo||S|sci|C2
+polymorphisme|polimorfismo||S|sci|C2
+séquençage|secuenciación||S|sci|C2
+transcription|transcripción (copiado del material genético)||S|sci|C2
+traduction|traducción (síntesis de proteínas)||S|sci|C2
+code génétique|código genético||S|sci|C2
+codon|codón||S|sci|C2
+épissage|empalme (del transcrito)||S|sci|C2
+promoteur|promotor (región que inicia la transcripción)||S|sci|C2
+télomère|telómero||S|sci|C2
+télomérase|telomerasa||S|sci|C2
+chromatine|cromatina||S|sci|C2
+nucléosome|nucleosoma||S|sci|C2
+apoptose|apoptosis (muerte celular programada)||S|sci|C2
+oncogène|oncogén||S|sci|C2
+cellule souche|célula madre||S|sci|C2
+pluripotence|pluripotencia||S|sci|C2
+lignée germinale|línea germinal||S|sci|C2
+caryotype|cariotipo||S|sci|C2
+aneuploïdie|aneuploidía||S|sci|C2
+délétion|deleción (pérdida de un fragmento)||S|sci|C2
+translocation|translocación (cromosómica)||S|sci|C2
+empreinte génomique|impronta genómica||S|sci|C2
+prédisposition génétique|predisposición genética||S|sci|C2
+pénétrance|penetrancia (genética)||S|sci|C2
+anticorps monoclonal|anticuerpo monoclonal||S|sci|C2
+immunoglobuline|inmunoglobulina||S|sci|C2
+antigène|antígeno||S|sci|C2
+épitope|epítopo||S|sci|C2
+haptène|hapteno||S|sci|C2
+inflammatoire|inflamatorio||A|sci|C2
+cytokine|citocina||S|sci|C2
+chimiokine|quimiocina||S|sci|C2
+interleukine|interleucina||S|sci|C2
+phagocytose|fagocitosis||S|sci|C2
+opsonisation|opsonización||S|sci|C2
+lymphocyte|linfocito||S|sci|C2
+plasmocyte|plasmocito||S|sci|C2
+mémoire immunologique|memoria inmunológica||S|sci|C2
+séroconversion|seroconversión||S|sci|C2
+antisérum|suero inmune||S|sci|C2
+porteur sain|portador sano||S|sci|C2
+virulence|virulencia||S|sci|C2
+sporulation|esporulación||S|sci|C2
+biofilm|biofilm (biopelícula bacteriana)||S|sci|C2
+flore commensale|flora comensal||S|sci|C2
+pathogène|patógeno||A|sci|C2
+infection nosocomiale|infección nosocomial||S|sci|C2
+zoonose|zoonosis||S|sci|C2
+tropisme|tropismo (afinidad por un tejido)||S|sci|C2
+réassortiment|reagrupamiento (reordenamiento viral)||S|sci|C2
+milieu de culture|medio de cultivo||S|sci|C2
+ensemencement|siembra (inoculación de un cultivo)||S|sci|C2
+antibiogramme|antibiograma||S|sci|C2
+antibiorésistance|antibiorresistencia||S|sci|C2
+cytopathique|citopático (efecto)||A|sci|C2
+prion|prión||S|sci|C2
+neurone miroir|neurona espejo||S|sci|C2
+synapse|sinapsis||S|sci|C2
+plasticité cérébrale|plasticidad cerebral||S|sci|C2
+neurotransmetteur|neurotransmisor||S|sci|C2
+potentiel d'action|potencial de acción||S|sci|C2
+myélinisation|mielinización||S|sci|C2
+cortex préfrontal|corteza prefrontal||S|sci|C2
+circonvolution|circunvolución (giro cerebral)||S|sci|C2
+thalamus|tálamo||S|sci|C2
+substance blanche|sustancia blanca (materia blanca)||S|sci|C2
+hippocampe|hipocampo||S|sci|C2
+cortex limbique|corteza límbica||S|sci|C2
+consolidation mnésique|consolidación mnésica (de la memoria)||S|sci|C2
+mémoire de travail|memoria de trabajo||S|sci|C2
+empan|amplitud de la memoria (empan)||S|sci|C2
+attention divisée|atención dividida||S|sci|C2
+biais cognitif|sesgo cognitivo||S|sci|C2
+heuristique|heurística (atajo mental)||S|sci|C2
+charge cognitive|carga cognitiva||S|sci|C2
+imagerie cérébrale|neuroimagen (imagen cerebral)||S|sci|C2
+électroencéphalogramme|electroencefalograma||S|sci|C2
+potentiels évoqués|potenciales evocados||S|sci|C2
+démence frontotemporale|demencia frontotemporal||S|sci|C2
+dégénérescence|degeneración (neurodegeneración)||S|sci|C2
+tremblement de repos|temblor de reposo||S|sci|C2
+aphasie|afasia||S|sci|C2
+apraxie|apraxia||S|sci|C2
+amnésie antérograde|amnesia anterógrada||S|sci|C2
+état végétatif|estado vegetativo||S|sci|C2
+proprioception|propiocepción||S|sci|C2
+nociception|nocicepción||S|sci|C2
+seuil de perception|umbral de percepción||S|sci|C2
+liaison covalente|enlace covalente||S|sci|C2
+liaison ionique|enlace iónico||S|sci|C2
+électronégativité|electronegatividad||S|sci|C2
+hybridation|hibridación (de orbitales)||S|sci|C2
+orbitale|orbital||S|sci|C2
+mésomérie|mesomería (resonancia)||S|sci|C2
+stéréochimie|estereoquímica||S|sci|C2
+chiralité|quiralidad||S|sci|C2
+nomenclature|nomenclatura (química)||S|sci|C2
+groupe fonctionnel|grupo funcional||S|sci|C2
+carbanion|carbanión||S|sci|C2
+nucléophile|nucleófilo||S|sci|C2
+électrophile|electrófilo||S|sci|C2
+catalyse hétérogène|catálisis heterogénea||S|sci|C2
+réactif limitant|reactivo limitante||S|sci|C2
+constante d'équilibre|constante de equilibrio||S|sci|C2
+cinétique réactionnelle|cinética de reacción||S|sci|C2
+énergie d'activation|energía de activación||S|sci|C2
+exothermique|exotérmico||A|sci|C2
+précipité|precipitado||S|sci|C2
+complexation|complejación||S|sci|C2
+ligand|ligando||S|sci|C2
+oxydoréduction|oxidación-reducción (reacción redox)||S|sci|C2
+électrolyse|electrólisis||S|sci|C2
+pile à combustible|pila de combustible||S|sci|C2
+allotropie|alotropía||S|sci|C2
+isomère|isómero||S|sci|C2
+monomère|monómero||S|sci|C2
+polymérisation|polimerización||S|sci|C2
+distillation fractionnée|destilación fraccionada||S|sci|C2
+solvatation|solvatación||S|sci|C2
+spectrométrie de masse|espectrometría de masas||S|sci|C2
+relation d'incertitude|relación de incertidumbre||S|sci|C2
+fonction d'onde|función de onda||S|sci|C2
+superposition quantique|superposición cuántica||S|sci|C2
+intrication|entrelazamiento (cuántico)||S|sci|C2
+décohérence|descoherencia||S|sci|C2
+commutateur|conmutador||S|sci|C2
+opérateur hermitique|operador hermítico||S|sci|C2
+valeur propre|valor propio||S|sci|C2
+vecteur propre|vector propio||S|sci|C2
+spin|espín||S|sci|C2
+boson|bosón||S|sci|C2
+fermion|fermión||S|sci|C2
+hadron|hadrón||S|sci|C2
+quark|quark||S|sci|C2
+lepton|leptón||S|sci|C2
+gluon|gluón||S|sci|C2
+accélérateur de particules|acelerador de partículas||S|sci|C2
+synchrotron|sincrotón||S|sci|C2
+chambre à bulles|cámara de burbujas||S|sci|C2
+désintégration|desintegración (radiactiva)||S|sci|C2
+période radioactive|periodo de semidesintegración||S|sci|C2
+bruit de fond|ruido de fondo (radiactivo)||S|sci|C2
+effet tunnel|efecto túnel||S|sci|C2
+spectre d'émission|espectro de emisión||S|sci|C2
+invariance|invariancia||S|sci|C2
+quadrivecteur|cuadrivector||S|sci|C2
+gravitation quantique|gravedad cuántica||S|sci|C2
+renormalisation|renormalización||S|sci|C2
+diffusion élastique|dispersión elástica||S|sci|C2
+section efficace|sección eficaz||S|sci|C2
+écrantage|apantallamiento||S|sci|C2
+champ quantique|campo cuántico||S|sci|C2

@@ -1,0 +1,256 @@
+horizon des événements|horizonte de sucesos||S|sci|C2
+singularité nue|singularidad desnuda||S|sci|C2
+trou noir supermassif|agujero negro supermasivo||S|sci|C2
+étoile à neutrons|estrella de neutrones||S|sci|C2
+naine blanche|enana blanca||S|sci|C2
+géante rouge|gigante roja||S|sci|C2
+supernova|supernova||S|sci|C2
+nébuleuse|nebulosa||S|sci|C2
+milieu interstellaire|medio interestelar||S|sci|C2
+transit planétaire|tránsito planetario (detección de exoplanetas)||S|sci|C2
+vitesse radiale|velocidad radial (método de detección)||S|sci|C2
+lentille gravitationnelle|lente gravitacional||S|sci|C2
+décalage vers le rouge|corrimiento al rojo||S|sci|C2
+vitesse d'évasion|velocidad de escape||S|sci|C2
+amas de galaxies|cúmulo de galaxias||S|sci|C2
+fusion nucléaire|fusión nuclear||S|sci|C2
+nucléosynthèse|nucleosíntesis||S|sci|C2
+métallicité|metalicidad (contenido de metales)||S|sci|C2
+rayonnement fossile|radiación fósil (fondo cósmico)||S|sci|C2
+fond diffus cosmologique|fondo cósmico de microondas||S|sci|C2
+constante cosmologique|constante cosmológica||S|sci|C2
+énergie noire|energía oscura||S|sci|C2
+matière noire|materia oscura||S|sci|C2
+parallaxe|paralaje||S|sci|C2
+magnitude apparente|magnitud aparente||S|sci|C2
+étoile variable|estrella variable||S|sci|C2
+bulbe galactique|bulbo galáctico||S|sci|C2
+disque d'accrétion|disco de acreción||S|sci|C2
+amas globulaire|cúmulo globular||S|sci|C2
+sursaut gamma|destello de rayos gamma||S|sci|C2
+quasar|cuásar||S|sci|C2
+géocroiseur|asteroide geocruzador (potencialmente peligroso)||S|sci|C2
+organisme génétiquement modifié|organismo genéticamente modificado||S|sci|C2
+transgenèse|transgénesis||S|sci|C2
+mutagenèse dirigée|mutagénesis dirigida||S|sci|C2
+enzyme de restriction|enzima de restricción||S|sci|C2
+ligase|ligasa||S|sci|C2
+amorce|cebador (iniciador)||S|sci|C2
+électrophorèse|electroforesis||S|sci|C2
+sonde moléculaire|sonda molecular||S|sci|C2
+clonage thérapeutique|clonación terapéutica||S|sci|C2
+thérapie génique|terapia génica||S|sci|C2
+vecteur viral|vector viral||S|sci|C2
+thérapie cellulaire|terapia celular||S|sci|C2
+xénogreffe|xenotrasplante||S|sci|C2
+organoïde|organoides||S|sci|C2
+amplification génique|amplificación génica||S|sci|C2
+cryopréservation|criopreservación||S|sci|C2
+fécondation in vitro|fecundación in vitro||S|sci|C2
+chimère|quimera (organismo con genomas distintos)||S|sci|C2
+lignée cellulaire|línea celular||S|sci|C2
+bioinformatique|bioinformática||S|sci|C2
+biobanque|biobanco||S|sci|C2
+protéine recombinante|proteína recombinante||S|sci|C2
+biosimilaire|biosimilar||S|sci|C2
+propriété intellectuelle|propiedad intelectual||S|sci|C2
+bioréacteur|biorreactor||S|sci|C2
+bioremédiation|biorremediación||S|sci|C2
+biosécurité|bioseguridad||S|sci|C2
+dissémination volontaire|liberación deliberada (de organismos modificados)||S|sci|C2
+flux géniques|flujo génico||S|sci|C2
+biopiraterie|biopiratería||S|sci|C2
+semence de base|semilla de base||S|sci|C2
+sélection assistée par marqueurs|selección asistida por marcadores||S|sci|C2
+inférence statistique|inferencia estadística||S|sci|C2
+estimateur|estimador||S|sci|C2
+biais de sélection|sesgo de selección||S|sci|C2
+corrélation|correlación||S|sci|C2
+coefficient de corrélation|coeficiente de correlación||S|sci|C2
+covariance|covarianza||S|sci|C2
+écart-type|desviación típica||S|sci|C2
+distribution d'échantillonnage|distribución muestral||S|sci|C2
+échantillonnage stratifié|muestreo estratificado||S|sci|C2
+échantillonnage en grappes|muestreo por conglomerados||S|sci|C2
+pondération|ponderación||S|sci|C2
+vraisemblance|verosimilitud||S|sci|C2
+maximum de vraisemblance|máximo de verosimilitud||S|sci|C2
+hypothèse nulle|hipótesis nula||S|sci|C2
+signification statistique|significación estadística||S|sci|C2
+seuil de signification|umbral de significación||S|sci|C2
+puissance statistique|potencia estadística||S|sci|C2
+taille d'effet|tamaño del efecto||S|sci|C2
+intervalle de confiance|intervalo de confianza||S|sci|C2
+erreur de première espèce|error de tipo uno||S|sci|C2
+régression linéaire multiple|regresión lineal múltiple||S|sci|C2
+régression logistique|regresión logística||S|sci|C2
+variable explicative|variable explicativa||S|sci|C2
+variable dépendante|variable dependiente||S|sci|C2
+analyse factorielle|análisis factorial||S|sci|C2
+réplication|réplica (repetición del experimento)||S|sci|C2
+validation croisée|validación cruzada||S|sci|C2
+données manquantes|datos ausentes (faltantes)||S|sci|C2
+plan d'expérience|diseño experimental||S|sci|C2
+groupe témoin|grupo de control (testigo)||S|sci|C2
+cahier d'observation|cuaderno de recogida de datos||S|sci|C2
+méta-analyse|metaanálisis||S|sci|C2
+prévalence|prevalencia||S|sla|C2
+cas index|caso índice||S|sla|C2
+létalité|letalidad||S|sla|C2
+surmortalité|exceso de mortalidad||S|sla|C2
+mortalité infantile|mortalidad infantil||S|sla|C2
+chaîne de transmission|cadena de transmisión||S|sla|C2
+contagiosité|contagiosidad||S|sla|C2
+couverture vaccinale|cobertura vacunal||S|sla|C2
+immunité collective|inmunidad de grupo||S|sla|C2
+enquête épidémiologique|encuesta epidemiológica||S|sla|C2
+enquête de cohorte|estudio de cohorte||S|sla|C2
+étude cas-témoins|estudio de casos y controles||S|sla|C2
+facteur de confusion|factor de confusión||S|sla|C2
+surveillance sentinelle|vigilancia centinela||S|sla|C2
+déclaration obligatoire|declaración obligatoria (de enfermedad)||S|sla|C2
+endémie|endemia||S|sla|C2
+épizootie|epizootia||S|sla|C2
+réservoir animal|reservorio animal||S|sla|C2
+plateau technique|dotación técnica (del hospital)||S|sla|C2
+salubrité|salubridad||S|sla|C2
+médecine de ville|medicina extrahospitalaria (ambulatoria)||S|sla|C2
+déserts médicaux|desiertos médicos (zonas sin médicos)||S|sla|C2
+dépistage de masse|cribado masivo||S|sla|C2
+campagne de vaccination|campaña de vacunación||S|sla|C2
+conventionnement|convenio (adscripción de profesionales al sistema público)||S|sla|C2
+tiers payant|terceros pagador||S|sla|C2
+comorbidité|comorbilidad||S|sla|C2
+éducation thérapeutique|educación terapéutica (del paciente)||S|sla|C2
+espérance de vie|esperanza de vida||S|sla|C2
+morbidité|morbilidad||S|sla|C2
+déterminants de santé|determinantes de salud||S|sla|C2
+inégalités sociales de santé|desigualdades sociales en salud||S|sla|C2
+tectonique des plaques|tectónica de placas||S|sci|C2
+subduction|subducción||S|sci|C2
+dorsale océanique|dorsal oceánica||S|sci|C2
+rift|rift (fosa tectónica)||S|sci|C2
+sismicité|sismicidad||S|sci|C2
+faille transformante|falla transformante||S|sci|C2
+faille inverse|falla inversa||S|sci|C2
+réplique|réplica (temblor posterior al sismo)||S|sci|C2
+sédimentation|sedimentación||S|sci|C2
+diagénèse|diagénesis||S|sci|C2
+métamorphisme|metamorfismo||S|sci|C2
+plissement|plegamiento||S|sci|C2
+soulèvement tectonique|levantamiento tectónico||S|sci|C2
+karst|karst (relieve kárstico)||S|sci|C2
+spéléologie|espeleología||S|sci|C2
+stratigraphie|estratigrafía||S|sci|C2
+pluton|plutón (roca ígnea intrusiva)||S|sci|C2
+pyroclastique|piroclástico||A|sci|C2
+fumarole|fumarola||S|sci|C2
+chambre magmatique|cámara magmática||S|sci|C2
+isostasie|isostasia||S|sci|C2
+gravimétrie|gravimetría||S|sci|C2
+carottage|extracción de testigos (sondeo)||S|sci|C2
+affleurement|afloramiento||S|sci|C2
+minéralogie|mineralogía||S|sci|C2
+gisement|yacimiento||S|sci|C2
+mine à ciel ouvert|mina a cielo abierto||S|sci|C2
+hydrogéologie|hidrogeología||S|sci|C2
+aquifère|acuífero||S|sci|C2
+moraine|morrena||S|sci|C2
+pergélisol|permafrost (suelo permanentemente helado)||S|sci|C2
+déglaciation|desglaciación||S|sci|C2
+topologie|topología||S|sci|C2
+variété|variedad (espacio localmente euclidiano)||S|sci|C2
+homéomorphisme|homeomorfismo||S|sci|C2
+anneau|anillo (estructura algebraica)||S|sci|C2
+morphisme|morfismo||S|sci|C2
+lemme|lema||S|sci|C2
+corollaire|corolario||S|sci|C2
+conjecture|conjetura||S|sci|C2
+axiome|axioma||S|sci|C2
+théorème de complétude|teorema de completitud||S|sci|C2
+logique modale|lógica modal||S|sci|C2
+calcul des prédicats|cálculo de predicados||S|sci|C2
+syllogisme|silogismo||S|sci|C2
+prédicat|predicado||S|sci|C2
+quantificateur|cuantificador||S|sci|C2
+tautologie|tautología||S|sci|C2
+antinomie|antinomia||S|sci|C2
+sophisme|sofisma||S|sci|C2
+paralogisme|paralogismo||S|sci|C2
+transfini|transfinito||S|sci|C2
+cardinal|cardinal (número cardinal)||S|sci|C2
+dénombrabilité|numerabilidad||S|sci|C2
+raisonnement par l'absurde|demostración por el absurdo||L|sci|C2
+connecteur logique|conector lógico||S|sci|C2
+table de vérité|tabla de verdad||S|sci|C2
+ensemble vide|conjunto vacío||S|sci|C2
+bijection|biyección||S|sci|C2
+application linéaire|aplicación lineal||S|sci|C2
+espace vectoriel|espacio vectorial||S|sci|C2
+déterminant|determinante (de una matriz)||S|sci|C2
+dérivée partielle|derivada parcial||S|sci|C2
+convergence uniforme|convergencia uniforme||S|sci|C2
+intertextualité|intertextualidad||S|let|C2
+hypotexte|hipotexto||S|let|C2
+palimpseste|palimpsesto||S|let|C2
+poétique|poética (teoría literaria)||S|let|C2
+théorie de la réception|teoría de la recepción||S|let|C2
+horizon d'attente|horizonte de expectativas||S|let|C2
+lecteur modèle|lector modelo||S|let|C2
+auteur impliqué|autor implícito||S|let|C2
+polyphonie|polifonía (textual)||S|let|C2
+dialogisme|dialogismo||S|let|C2
+carnavalesque|carnavalesco||A|let|C2
+ironie dramatique|ironía dramática||S|let|C2
+canon littéraire|canon literario||S|let|C2
+classicisme|clasicismo||S|let|C2
+parnassien|parnasiano||A|let|C2
+avant-garde|vanguardia||S|let|C2
+modernité|modernidad (estética)||S|let|C2
+herméneutique|hermenéutica||S|let|C2
+exégèse|exégesis||S|let|C2
+topos|tópos (lugar común literario)||S|let|C2
+sémiotique|semiótica||S|let|C2
+connotation|connotación (sentido connotado)||S|let|C2
+isotopie|isotopía (coherencia semántica)||S|let|C2
+effet de réel|efecto de lo real||S|let|C2
+pacte autobiographique|pacto autobiográfico||S|let|C2
+autofiction|autoficción||S|let|C2
+feuilleton|folletín||S|let|C2
+littérarité|literariedad||S|let|C2
+romanesque|lo novelesco (romanesco)||A|let|C2
+esthète|esteta||S|let|C2
+érudition|erudición||S|let|C2
+glose|glosa (comentario erudito)||S|let|C2
+hexamètre|hexámetro||S|let|C2
+pentamètre|pentámetro||S|let|C2
+césure|cesura||S|let|C2
+diérèse|diéresis (métrica)||S|let|C2
+synérèse|sinéresis||S|let|C2
+rime plate|rima plana (pareada)||S|let|C2
+versification|versificación||S|let|C2
+strophe|estrofa||S|let|C2
+quatrain|cuarteto (estrofa de cuatro versos)||S|let|C2
+sextine|sextina||S|let|C2
+ballade|balada (poema medieval con estribillo)||S|let|C2
+villanelle|villanela||S|let|C2
+pantoun|pantún||S|let|C2
+blason|blasón (poema laudatorio del cuerpo)||S|let|C2
+épigramme|epigrama||S|let|C2
+élégie|elegía||S|let|C2
+stichomythie|esticomitia (versos cruzados)||S|let|C2
+litote|lítote||S|let|C2
+euphémisme|eufemismo||S|let|C2
+métonymie|metonimia||S|let|C2
+synecdoque|sinécdoque||S|let|C2
+périphrase|perífrasis||S|let|C2
+anaphore|anáfora (figura retórica)||S|let|C2
+chiasme|quiasmo||S|let|C2
+zeugme|zeugma||S|let|C2
+gradation|gradación (clímax retórico)||S|let|C2
+prosopopée|prosopopeya||S|let|C2
+prétérition|preterición||S|let|C2
+apocope|apócope (figura de dicción)||S|let|C2
+allitération|aliteración||S|let|C2
+assonance|asonancia||S|let|C2
+rejet|rejerto (encabalgamiento inicial)||S|let|C2

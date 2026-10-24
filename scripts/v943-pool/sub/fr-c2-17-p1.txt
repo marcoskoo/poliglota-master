@@ -1,0 +1,256 @@
+affouragement|aportación de forraje al ganado||S|ani|C2
+agnelet|cordero lactante||S|ani|C2
+cheptel|cabaña ganadera||S|ani|C2
+vêlage|parto de la vaca||S|ani|C2
+agnelage|paridera de las ovejas||S|ani|C2
+poulinière|yegua de cría||S|ani|C2
+stallation|estabulación del vacuno lechero||S|ani|C2
+embouche|engorde del ganado antes del sacrificio||S|ani|C2
+estive|pastizal de alta montaña||S|nat|C2
+transhumance|trashumancia||S|nat|C2
+bergerie|aprisco||S|ani|C2
+frayère|zona de freza||S|ani|C2
+frai|freza||S|ani|C2
+alevin|alevín||S|ani|C2
+conchyliculture|conchicultura||S|nat|C2
+mytiliculture|mitilicultura||S|nat|C2
+ostréiculture|ostricultura||S|nat|C2
+mareyage|comercio mayorista de pescado fresco||S|ali|C2
+mareyeur|mayorista de pescado||S|pro|C2
+chalutage|pesca de arrastre||S|nat|C2
+chalutier|arrastrero||S|tra|C2
+senne|red de cerco||S|ani|C2
+casier|nasa||S|ani|C2
+palangre|palangre||S|ani|C2
+naissain|semilla de ostras||S|ani|C2
+surpêche|sobrepesca||S|nat|C2
+vivier|vivero de mariscos||S|ali|C2
+ensilage|ensilado||S|nat|C2
+taurillon|novillo||S|ani|C2
+toison|vellón||S|ani|C2
+équarrissage|eliminación de cadáveres animales||S|ani|C2
+épizootie|epizootia||S|sla|C2
+sylviculture|silvicultura||S|nat|C2
+débardage|arrastre de troncos fuera del bosque||S|nat|C2
+débusquage|desembosque||S|nat|C2
+émondage|poda de ramas secas||S|nat|C2
+martelage|marcado de árboles destinados a corta||S|nat|C2
+baliveau|brizal||S|nat|C2
+perchis|monte bravo||S|nat|C2
+gaulis|repoblado joven||S|nat|C2
+futaie|monte alto||S|nat|C2
+taillis|monte bajo||S|nat|C2
+coupe rase|tala a hecho||E|nat|C2
+coupe de jardinage|entresaca||E|nat|C2
+régénération naturelle|regeneración natural del bosque||E|nat|C2
+reboisement|repoblación forestal||S|nat|C2
+défrichement|roturación de terreno boscoso||S|nat|C2
+drageon|rebrote de raíz||S|nat|C2
+chablis|árbol derribado por el viento||S|nat|C2
+dendrométrie|dendrometría||S|sci|C2
+canopée|dosel arbóreo||S|nat|C2
+sous-bois|sotobosque||S|nat|C2
+lisière|linde del bosque||S|nat|C2
+clairière|claro del bosque||S|nat|C2
+feuillu|frondoso||S|nat|C2
+essences forestières|especies maderables||E|nat|C2
+pare-feux|cortafuegos||S|nat|C2
+débroussaillement|desbroce preventivo||S|nat|C2
+contre-feu|contrafuego||S|nat|C2
+embrasement|embrasamiento generalizado||S|nat|C2
+tourbe|turba||S|nat|C2
+aménagement forestier|ordenación forestal||E|nat|C2
+grume|tronco sin desramar||S|nat|C2
+feu de cime|incendio de copas||E|nat|C2
+valorisation|valorización de residuos||S|nat|C2
+suremballage|sobreenvasado||S|ali|C2
+consigne|depósito retornable de envases||S|ali|C2
+déchetterie|punto limpio||S|cit|C2
+enfouissement|vertido en vertedero||S|nat|C2
+centre d'enfouissement|vertedero controlado||E|nat|C2
+lixiviat|lixiviado||S|sci|C2
+biogaz|biogás||S|sci|C2
+méthanisation|metanización||S|sci|C2
+méthaniseur|digestor de metanización||S|sci|C2
+lombricompostage|lombricompostaje||S|sci|C2
+mâchefers|escorias de incineración||S|sci|C2
+tri sélectif|recogida selectiva||E|cit|C2
+décharge sauvage|vertedero ilegal||E|cit|C2
+dépollution|descontaminación||S|nat|C2
+friche industrielle|terreno industrial abandonado||E|cit|C2
+réemploi|reutilización||S|nat|C2
+gisement|recurso aprovechable de residuos||S|nat|C2
+écoconception|ecodiseño||S|tec|C2
+sobriété|moderación en el consumo||S|ast|C2
+obsolescence programmée|obsolescencia programada||E|tec|C2
+durée de vie|vida útil||E|tec|C2
+écotoxicité|ecotoxicidad||S|sci|C2
+perturbateur endocrinien|disruptor endocrino||E|sci|C2
+macrodéchet|residuo macroscópico||S|nat|C2
+microplastique|microplástico||S|sci|C2
+démantèlement|desmantelamiento||S|tec|C2
+désamiantage|retirada de amianto||S|tec|C2
+déconstruction|desmontaje selectivo de edificios||S|tec|C2
+traçabilité|trazabilidad||S|tec|C2
+gaspillage alimentaire|despilfarro alimentario||E|ali|C2
+déchet ultime|residuo final no valorizable||E|nat|C2
+avisé|sagaz y prudente||A|ast|C2
+pondéré|equilibrado||A|ast|C2
+circonspect|circunspecto||A|ast|C2
+sagace|perspicaz||A|ast|C2
+lucide|lúcido||A|ast|C2
+clairvoyant|clarividente||A|ast|C2
+prévenant|atento y obsequioso||A|ast|C2
+accommodant|transigente||A|ast|C2
+intransigeant|intransigente||A|ast|C2
+ombrageux|susceptible||A|ast|C2
+revêche|arisco||A|ast|C2
+hargneux|hostil y rabioso||A|ast|C2
+bourru|malhumorado y áspero||A|ast|C2
+maussade|desabrido||A|ast|C2
+prolixe|prolijo||A|ast|C2
+disert|elocuente||A|ast|C2
+volubile|locuaz||A|ast|C2
+obséquieux|obsequioso||A|ast|C2
+flagorneur|adulador||A|ast|C2
+crédule|crédulo||A|ast|C2
+rustre|rústico y grosero||A|ast|C2
+impénitent|impenitente||A|ast|C2
+endurci|empedernido||A|ast|C2
+madré|ladino||A|ast|C2
+fourbe|felón||A|ast|C2
+retors|retorcido||A|ast|C2
+sournois|socarrón||A|ast|C2
+veule|voluble y sin carácter||A|ast|C2
+désinvolte|desenvuelto con desparpajo irrespetuoso||A|ast|C2
+impavide|impávido||A|ast|C2
+outrancier|extremista en sus juicios||A|ast|C2
+goguenard|chancero||A|ast|C2
+arguer|argumentar alegando||V|cmu|C2
+alléguer|alegar||V|cmu|C2
+plaider|abogar por||V|cmu|C2
+étayer|respaldar una tesis||V|cmu|C2
+corroborer|corroborar||V|cmu|C2
+infirmer|invalidar||V|cmu|C2
+objecter|objetar||V|cmu|C2
+rétorquer|replicar con brusquedad||V|cmu|C2
+nuancer|matizar||V|cmu|C2
+éluder|eludir||V|cmu|C2
+tergiverser|dar largas||V|cmu|C2
+sous-entendre|dar a entender||V|cmu|C2
+présupposer|presuponer||V|cmu|C2
+inférer|inferir||V|cmu|C2
+conjecturer|conjeturar||V|cmu|C2
+supputer|suponer calculando||V|cmu|C2
+extrapoler|extrapolar||V|cmu|C2
+cerner|circunscribir con precisión||V|cmu|C2
+décortiquer|desmenuzar analizando||V|cmu|C2
+disséquer|disecar minuciosamente||V|cmu|C2
+passer au crible|pasar por el tamiz||E|cmu|C2
+mettre en exergue|poner de relieve||E|cmu|C2
+disserter|disertar||V|cmu|C2
+discourir|discurrir largamente||V|cmu|C2
+tonitruer|tronar hablando||V|cmu|C2
+proférer|profirir||V|cmu|C2
+égrener|ir enumerando pausadamente||V|cmu|C2
+synthétiser|sintetizar||V|cmu|C2
+accréditer|dar crédito a||V|cmu|C2
+vilipender|vilipendiar||V|cmu|C2
+apostropher|apostrofar||V|cmu|C2
+morigéner|morigerar||V|cmu|C2
+paradigme|paradigma||S|stu|C2
+épistémologie|epistemología||S|stu|C2
+heuristique|heurística||S|stu|C2
+herméneutique|hermenéutica||S|stu|C2
+exégèse|exégesis||S|stu|C2
+axiomatique|axiomática||S|stu|C2
+syllogisme|silogismo||S|stu|C2
+enthymème|entimema||S|stu|C2
+paralogisme|paralogismo||S|stu|C2
+doxa|doxa||S|ast|C2
+conceptualisation|conceptualización||S|stu|C2
+catégorisation|categorización||S|stu|C2
+taxonomie|taxonomía||S|sci|C2
+typologie|tipología||S|stu|C2
+périodisation|periodización||S|stu|C2
+problématique|problemática de estudio||S|stu|C2
+dispositif|dispositivo teórico||S|ast|C2
+interdisciplinarité|interdisciplinariedad||S|stu|C2
+transversalité|transversalidad||S|stu|C2
+scientificité|cientificidad||S|stu|C2
+réfutabilité|refutabilidad||S|sci|C2
+falsifiabilité|falsabilidad||S|sci|C2
+empirisme|empirismo||S|stu|C2
+positivisme|positivismo||S|stu|C2
+sémiotique|semiótica||S|stu|C2
+argumentaire|argumentario||S|cmu|C2
+état de l'art|estado de la cuestión||E|stu|C2
+revue de littérature|revisión de la literatura||E|stu|C2
+causalité|causalidad||S|sci|C2
+significativité|significatividad||S|sci|C2
+aporie|aporía||S|ast|C2
+constructivisme|constructivismo||S|stu|C2
+véridique|verídico||A|ast|C2
+véracité|veracidad||S|ast|C2
+vraisemblance|verosimilitud||S|ast|C2
+vraisemblable|verosímil||A|ast|C2
+plausibilité|plausibilidad||S|ast|C2
+fallacieux|falaz||A|ast|C2
+mythomane|mitómano||A|sla|C2
+affabulation|fabulación||S|ast|C2
+mensonge par omission|mentira por omisión||E|ast|C2
+demi-vérité|media verdad||S|ast|C2
+menterie|patraña||S|ast|C2
+flouer|engañar estafando||V|ast|C2
+supercherie|superchería||S|ast|C2
+fourberie|felonía||S|ast|C2
+tartuferie|tartufismo||S|ast|C2
+pharisaïsme|fariseísmo||S|ast|C2
+cant|mojigatería||S|ast|C2
+bigoterie|beatería||S|ast|C2
+travestissement|travestimiento de la verdad||S|ast|C2
+subterfuge|subterfugio||S|ast|C2
+fausseté|falsedad||S|ast|C2
+candeur|candidez||S|ast|C2
+ingénuité|ingenuidad||S|ast|C2
+duplicité|duplicidad||S|ast|C2
+équivoque|equívoco||A|ast|C2
+univoque|unívoco||A|ast|C2
+avéré|probado||A|ast|C2
+infondé|infundado||A|ast|C2
+apocryphe|apócrifo||A|ast|C2
+chimérique|quimérico||A|ast|C2
+insidieux|insidioso||A|ast|C2
+en son for intérieur|en su fuero interno||E|ast|C2
+esthète|esteta||S|art|C2
+esthétisme|esteticismo||S|art|C2
+dandysme|dandismo||S|art|C2
+maniérisme|manierismo||S|art|C2
+kitsch|cursilería hortera||S|art|C2
+mièvre|remilgado y cursi||A|art|C2
+raffinement|exquisitez||S|art|C2
+dépouillement|austeridad depurada||S|art|C2
+épure|esencia lineal depurada||S|art|C2
+ciselé|de factura exquisita||A|art|C2
+chatoyant|irisado y destellante||A|art|C2
+diaphane|diáfano||A|art|C2
+nacré|nacarado||A|art|C2
+éthéré|etéreo||A|art|C2
+clair-obscur|claroscuro||S|art|C2
+patine|pátina||S|art|C2
+moiré|con aguas (texturas)||A|art|C2
+chamarré|abigarrado y vistoso||A|art|C2
+ostentatoire|ostentoso||A|ast|C2
+forfanterie|fanfarronería||S|ast|C2
+gloriole|vanagloria||S|ast|C2
+morgue|altanería||S|ast|C2
+outrecuidance|arrogancia desmedida||S|ast|C2
+casuistique|casuística||S|ast|C2
+déontologie|deontología||S|pro|C2
+rédhibitoire|redhibitorio||A|ast|C2
+droiture|rectitud||S|ast|C2
+probité|probididad||S|ast|C2
+abnégation|abnegación||S|ast|C2
+magnanimité|magnanimidad||S|ast|C2
+mansuétude|mansedumbre||S|ast|C2
+ascèse|ascesis||S|ast|C2

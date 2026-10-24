@@ -1,0 +1,256 @@
+téléologie|teleología||S|ast|C2
+axiologie|axiología||S|ast|C2
+phénoménologie|fenomenología||S|ast|C2
+herméneutique|hermenéutica||S|let|C2
+quintessence|quintaesencia||S|ast|C2
+panacée|panacea||S|ast|C2
+plénitude|plenitud||S|ast|C2
+vacuité|vacuidad||S|ast|C2
+néant|nada (no-ser)||S|ast|C2
+ineffable|inefable||A|ast|C2
+praxis|praxis||S|ast|C2
+a priori|a priori||L|ast|C2
+a posteriori|a posteriori||L|ast|C2
+grosso modo|a grandes rasgos||L|ast|C2
+stricto sensu|en sentido estricto||L|ast|C2
+lato sensu|en sentido amplio||L|ast|C2
+ad hoc|ad hoc||L|ast|C2
+a fortiori|con mayor razón||L|ast|C2
+mutatis mutandis|cambiando lo que deba cambiarse||L|ast|C2
+in situ|in situ||L|sci|C2
+in vivo|in vivo||L|sci|C2
+ex abrupto|sin previo aviso||L|cmu|C2
+ex nihilo|de la nada||L|ast|C2
+sine die|sin fecha||L|ast|C2
+condition sine qua non|condición indispensable||L|ast|C2
+persona non grata|persona non grata||L|ist|C2
+modus operandi|modus operandi||L|ast|C2
+addendum|addendo||S|ist|C2
+doxa|doxa (opinión común)||S|ast|C2
+pathos|pathos||S|ast|C2
+ethos|ethos (carácter)||S|ast|C2
+ostracisme|ostracismo||S|ast|C2
+laconisme|laconismo||S|cmu|C2
+lapalissade|verdad de Perogrullo||S|cmu|C2
+dithyrambe|ditirambo||S|let|C2
+panégyrique|panegírico||S|let|C2
+plaidoyer|defensa apologética||S|let|C2
+zeugme|zeugma||S|let|C2
+chiasme|quiasmo||S|let|C2
+diktat|diktat||S|ast|C2
+ersatz|sucedáneo||S|ast|C2
+puzzlement|desconcierto||S|emo|C2
+qui vivra verra|el tiempo lo dirá||E|tmp|C2
+la nuit porte conseil|la noche trae consejo||E|tmp|C2
+vivre et laisser vivre|vivir y dejar vivir||E|ast|C2
+l'appétit vient en mangeant|el apetito viene comiendo||E|ali|C2
+le silence est d'or|el silencio es de oro||E|ast|C2
+après moi le déluge|después de mí el diluvio||E|ast|C2
+noblesse oblige|la nobleza obliga||E|pro|C2
+à bon entendeur|al buen entendedor||E|cmu|C2
+le compte est bon|las cuentas cuadran||E|fin|C2
+chat échaudé|gato escaldado||E|ast|C2
+entre chien et loup|entre dos luces||L|tmp|C2
+valoir la chandelle|valer la pena||L|ast|C2
+tenir la chandelle|hacer de tercero en rueda||L|rel|C2
+faire tapisserie|hacer de adorno||L|sve|C2
+tel quel|tal cual||L|ast|C2
+faire fi de|hacer caso omiso de||L|cmu|C2
+faire litière de|hacer trizas de||L|ast|C2
+cavalier seul|en solitario||L|ast|C2
+en son for intérieur|en su fuero interno||L|ast|C2
+en dernière analyse|en último análisis||L|ast|C2
+par excellence|por antonomasia||L|ast|C2
+quitte à|a riesgo de||L|cnn|C2
+fût-ce|aun cuando fuera||C|cnn|C2
+n'eût été|de no haber sido||L|cnn|C2
+chacun son métier|cada uno a lo suyo||E|pro|C2
+règles de l'art|reglas del oficio||L|art|C2
+morale de l'histoire|moraleja de la historia||E|let|C2
+esprit de sérieux|espíritu de seriedad||S|ast|C2
+esprit d'escalier|réplica tardía||S|cmu|C2
+mot d'ordre|consigna||S|cmu|C2
+de conserve|a la par||L|nat|C2
+euphémisme|eufemismo||S|let|C2
+litote|lítote||S|let|C2
+antiphrase|antífrasis||S|let|C2
+catachrèse|catacresis||S|let|C2
+périphrase|perífrasis||S|let|C2
+sous-entendu|subentendido||S|cmu|C2
+galimatias|galimatías||S|let|C2
+quiproquo|malentendido (confusión de personas o cosas)||S|cmu|C2
+contresens|contrasentido||S|let|C2
+sibyllin|sibilino||A|cmu|C2
+langue de bois|lengua de madera||E|cmu|C2
+ironie du sort|ironía del destino||E|ast|C2
+ironie socratique|ironía socrática||E|sci|C2
+second degré|segundo grado (ironía)||S|cmu|C2
+tartufferie|tartufismo||S|ast|C2
+casuistique|casuística||S|ast|C2
+verve|verba satírica||S|let|C2
+gouaillerie|sorna campechana||S|cmu|C2
+pamphlet|panfleto||S|let|C2
+diatribe|diatriba||S|let|C2
+pince-sans-rire|con cara de póker||A|cmu|C2
+sans rire|en serio||E|cmu|C2
+à demi-mot|a medias palabras||L|cmu|C2
+à mots couverts|con palabras veladas||L|cmu|C2
+sans fard|sin adornos||L|cmu|C2
+lire entre les lignes|leer entre líneas||L|let|C2
+jeter un voile sur|echar un velo sobre||L|cmu|C2
+noyer le poisson|marear la perdiz||L|cmu|C2
+couper court|cortar de raíz||L|cmu|C2
+botter en touche|esquivar el bulto||L|spt|C2
+tout bien pesé|sopesándolo todo||L|ast|C2
+combine|chanchullo||S|fin|C2
+carabistouille|cuento chino||S|cmu|C2
+baratin|labia||S|cmu|C2
+baratiner|engatusar||V|cmu|C2
+charabia|jerigonza||S|cmu|C2
+verlan|verlán (habla invertida)||S|cmu|C2
+se défiler|escaquearse||V|rel|C2
+filer à l'anglaise|pirarse a la inglesa||L|rel|C2
+fausser compagnie|esfumarse||L|rel|C2
+prendre la poudre d'escampette|tomar las de Villadiego||L|rel|C2
+glander|holgar||V|sve|C2
+musarder|vagar sin rumbo||V|sve|C2
+goguenard|socarrón||A|cmu|C2
+gnangnan|remilgado||A|cmu|C2
+pépère|sin prisas||A|tmp|C2
+chiner|curiosear en mercadillos||V|cmp|C2
+fripes|ropa de segunda mano||S|rop|C2
+godelureau|petimetre presuntuoso||S|pro|C2
+ganache|pazguato||S|cmu|C2
+plouc|cateto||S|cmu|C2
+beauf|machote ordinario||S|cmu|C2
+patelin|villorroño||S|cit|C2
+bof|bueno (desganado)||I|cmu|C2
+oseille|pasta (dinero)||S|fin|C2
+grosse légume|pez gordo||E|pro|C2
+bonneteau|juego de las tres cartas||S|fin|C2
+gruger|robar gota a gota||V|fin|C2
+taloche|tortazo||S|rel|C2
+rossée|paliza||S|rel|C2
+marronner|rezongar||V|cmu|C2
+croquemitaine|hombre del saco||S|fam|C2
+patois|patois (habla regional)||S|cmu|C2
+parler|habla regional||S|cmu|C2
+francitan|francitán (francés meridional)||S|cmu|C2
+ch'ti|ch'ti (habla picarda)||S|cmu|C2
+langue d'oïl|lengua de oíl||S|cmu|C2
+langue d'oc|lengua de oc||S|cmu|C2
+méridional|meridional||A|cmu|C2
+septentrional|septentrional||A|cmu|C2
+pays|comarca||S|cit|C2
+lieu-dit|paraje (topónimo menor)||S|cit|C2
+mas|masía||S|cas|C2
+bastide|casa señorial provenzal||S|cas|C2
+longère|casa larga rural||S|cas|C2
+cabanon|cabañita||S|cas|C2
+borie|choza de piedra seca||S|cas|C2
+lavoir|lavadero público||S|cit|C2
+garrigue|garriga||S|nat|C2
+maquis|maquia||S|nat|C2
+ubac|ubaga (ladera umbría)||S|nat|C2
+adret|solana||S|nat|C2
+estive|pasto de altura||S|nat|C2
+transhumance|trashumancia||S|nat|C2
+bouchon|bouchon (taberna lionesa)||S|ris|C2
+estaminet|estamí (taberna norteña)||S|ris|C2
+vogue|verbena (fiesta patronal)||S|sve|C2
+peuchère|pobrecito||I|cmu|C2
+fada|loco (en provenzal)||S|cmu|C2
+cagole|chulapa chillona||S|cmu|C2
+chocolatine|chocolatine (bollo de chocolate)||S|ali|C2
+quatre-heures|merienda||S|ali|C2
+pelote basque|pelota vasca||E|spt|C2
+morgue|altivez||S|emo|C2
+condescendance|condescendencia||S|emo|C2
+complaisance|complacencia||S|emo|C2
+hautain|altivo||A|emo|C2
+dédaigneux|desdeñoso||A|emo|C2
+forfanterie|fanfarronería||S|emo|C2
+jactance|jactancia||S|emo|C2
+rodomontade|rodomontada||S|emo|C2
+narquois|burlón malicioso||A|emo|C2
+caustique|mordaz||A|emo|C2
+aigreur|acritud||S|emo|C2
+cupidité|codicia||S|emo|C2
+prodigalité|prodigalidad||S|emo|C2
+sollicitude|solícitud||S|emo|C2
+attendrissement|enternecimiento||S|emo|C2
+émoi|estremecimiento||S|emo|C2
+lassitude|desgana||S|emo|C2
+morosité|desgano||S|emo|C2
+fébrilité|febrilidad||S|emo|C2
+envoûtement|embrujo||S|emo|C2
+allégresse|regocijo||S|emo|C2
+liesse|júbilo||S|emo|C2
+ravissement|arrobamiento||S|emo|C2
+imperturbabilité|imperturbabilidad||S|emo|C2
+désinvolture|desfachatez||S|emo|C2
+pruderie|mojigatería||S|emo|C2
+pusillanime|pusilánime||A|emo|C2
+opiniâtreté|porfía||S|emo|C2
+courroux|saña||S|emo|C2
+ire|ira||S|emo|C2
+hargne|rabia (acritud combativa)||S|emo|C2
+gouvernance d'entreprise|gobernanza corporativa||E|fin|C2
+comité exécutif|comité ejecutivo||E|pro|C2
+organigramme|organigrama||S|pro|C2
+lettre de mission|carta de encargo||E|pro|C2
+feuille de route|hoja de ruta||E|pro|C2
+cahier des charges|pliego de condiciones||E|pro|C2
+prévisionnel|presupuesto de explotación||S|fin|C2
+tableau de bord|cuadro de mando||E|fin|C2
+seuil de rentabilité|umbral de rentabilidad||E|fin|C2
+fonds de roulement|fondo de maniobra||E|fin|C2
+trésorerie|tesorería||S|fin|C2
+capitaux propres|fondos propios||E|fin|C2
+amortissement|amortización||S|fin|C2
+immobilisations|activo fijo||S|fin|C2
+prise de participation|adquisición de participación||E|fin|C2
+fusion-acquisition|fusión y adquisición||S|fin|C2
+croissance externe|crecimiento externo||E|fin|C2
+avantage concurrentiel|ventaja competitiva||E|fin|C2
+veille stratégique|vigilancia estratégica||E|fin|C2
+pilotage|pilotaje||S|fin|C2
+conduite du changement|gestión del cambio||E|pro|C2
+réingénierie|reingeniería||S|fin|C2
+délocalisation|deslocalización||S|fin|C2
+externalisation|externalización||S|fin|C2
+chaîne de valeur|cadena de valor||E|fin|C2
+partie prenante|parte interesada||E|fin|C2
+actionnariat|accionariado||S|fin|C2
+échéancier|calendario de pagos||S|fin|C2
+affacturage|descuento de facturas||S|fin|C2
+escompte|descuento comercial||S|fin|C2
+prescripteur|prescriptor||S|fin|C2
+entretien annuel|entrevista anual||E|lav|C2
+grille d'évaluation|baremo de evaluación||E|lav|C2
+rémunération|remuneración||S|fin|C2
+paie|nómina||S|fin|C2
+note de frais|hoja de gastos||E|fin|C2
+intéressement|participación en resultados||S|fin|C2
+épargne salariale|ahorro laboral||E|fin|C2
+avantages en nature|retribución en especie||E|fin|C2
+solde de tout compte|finiquito||E|fin|C2
+rupture conventionnelle|extinción por mutuo acuerdo||E|fin|C2
+préretraite|prejubilación||S|fin|C2
+reclassement|recolocación||S|lav|C2
+présentéisme|presentismo||S|lav|C2
+absentéisme|absentismo||S|lav|C2
+épuisement professionnel|desgaste ocupacional||E|sla|C2
+harcèlement moral|acoso laboral||E|sla|C2
+plafond de verre|techo de cristal||E|fin|C2
+bilan de compétences|balance de competencias||E|lav|C2
+montée en compétence|desarrollo de competencias||E|lav|C2
+fiche de poste|descripción de puesto||E|pro|C2
+vivier|cantera de talento||S|fin|C2
+haut potentiel|alto potencial||E|lav|C2
+compagnonnage|aprendizaje gremial||S|pro|C2
+comité d'entreprise|comité de empresa||E|ist|C2
+délégué du personnel|delegado de personal||E|pro|C2
+convention collective|convenio colectivo||E|fin|C2
+mobilité interne|movilidad interna||E|lav|C2
+courroie de transmission|correa de transmisión||E|pro|C2

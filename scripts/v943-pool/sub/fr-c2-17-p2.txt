@@ -1,0 +1,256 @@
+infime|ínfimo||A|ast|C2
+dérisoire|irrisorio||A|ast|C2
+résiduel|residual||A|ast|C2
+infinitésimal|infinitesimal||A|sci|C2
+prépondérant|preponderante||A|ast|C2
+pondération|ponderación||S|ast|C2
+pour ainsi dire|por así decirlo||E|ast|C2
+à la marge|marginalmente||E|ast|C2
+dans une certaine mesure|hasta cierto punto||E|ast|C2
+à la baisse|a la baja||E|fin|C2
+passablement|bastante (en grado considerable)||D|ast|C2
+vaille que vaille|como buenamente se pueda||E|ast|C2
+tant bien que mal|a duras penas||E|ast|C2
+schématiquement|a grandes rasgos||D|ast|C2
+dans les grandes lignes|en líneas generales||E|ast|C2
+à quelques exceptions près|salvo contadas excepciones||E|ast|C2
+au dernier degré|en sumo grado||E|ast|C2
+à des années-lumière|a años luz||E|ast|C2
+ordre de grandeur|orden de magnitud||E|sci|C2
+un tant soit peu|aunque sea un poco||E|ast|C2
+pour peu que|con tal de que||C|cnn|C2
+du tout au tout|radicalmente||E|ast|C2
+dégressif|decreciente (tarifa en regresión)||A|fin|C2
+forfaitaire|a tanto alzado||A|fin|C2
+seuil|umbral||S|sci|C2
+décile|decil||S|sci|C2
+granularité|granularidad||S|tec|C2
+à la louche|a ojo sin medir||E|ast|C2
+à vue de nez|a ojo de buen cubero||E|ast|C2
+aléa|alea (factor de azar)||S|sci|C2
+toute proportion gardée|guardando las proporciones||E|ast|C2
+au prorata|prorrateado||E|fin|C2
+euphémisme|eufemismo||S|let|C2
+dysphémisme|disfemismo||S|let|C2
+périphrase|perífrasis||S|let|C2
+litote|lítote||S|let|C2
+antiphrase|antífrasis||S|let|C2
+langue de bois|lengua de madera||E|cmu|C2
+novlangue|neolengua||S|cmu|C2
+passer l'éponge|pasar la esponja||E|cmu|C2
+rendre un dernier hommage|rendir homenaje póstumo||E|cmu|C2
+fin de vie|fase terminal de la vida||E|sla|C2
+troisième âge|tercera edad||E|ast|C2
+non-voyant|invidente||S|ast|C2
+à mobilité réduite|de movilidad reducida||E|sla|C2
+en situation de handicap|con discapacidad||E|sla|C2
+plan social|expediente de regulación de empleo||E|lav|C2
+départ volontaire|salida voluntaria||E|lav|C2
+assainissement|saneamiento de las cuentas públicas||S|fin|C2
+rigueur|rigor (austeridad presupuestaria)||S|fin|C2
+clapier|conejera (vivienda minúscula)||S|cas|C2
+bouge|cuchitril||S|cas|C2
+bicoque|casucha (población insignificante)||S|cit|C2
+boui-boui|hotelucho||S|htl|C2
+gargote|venta de mala muerte||S|ris|C2
+ripaille|comilona||S|ali|C2
+beuverie|borrachera colectiva||S|ali|C2
+motus et bouche cousue|mudos y con la boca cerrada||E|cmu|C2
+en catimini|a escondidas||E|cmu|C2
+à mots couverts|con palabras veladas||E|cmu|C2
+à demi-mot|a medias palabras||E|cmu|C2
+noyer le poisson|embrollar el asunto||E|cmu|C2
+enfumer|echar humo para manipular||V|cmu|C2
+ambages|circunloquios||S|cmu|C2
+onirique|onírico||A|let|C2
+crépusculaire|crepuscular||A|let|C2
+vespéral|vespertino||A|let|C2
+empyrée|empíreo||S|let|C2
+tellurique|telúrico||A|let|C2
+limbes|limbo (estar en el aire)||S|let|C2
+exergue|exergo||S|let|C2
+incipit|incipit||S|let|C2
+hémistiche|hemistiquio||S|let|C2
+anaphore|anáfora||S|let|C2
+anacoluthe|anacoluto||S|let|C2
+chiasme|quiasmo||S|let|C2
+hypallage|hipálage||S|let|C2
+catachrèse|catacresis||S|let|C2
+villanelle|villanela||S|let|C2
+thrène|treno||S|let|C2
+dithyrambique|ditirámbico||A|let|C2
+panégyrique|panegírico||S|let|C2
+madrigal|madrigal||S|mus|C2
+aubade|albada||S|mus|C2
+églogue|égloga||S|let|C2
+sylphe|sílfide||S|let|C2
+ondine|ondina||S|let|C2
+féerie|teatro de hadas||S|let|C2
+grimoire|grimorio||S|let|C2
+psalmodie|salmodia||S|let|C2
+laïus|perorata||S|cmu|C2
+péroraison|peroración||S|cmu|C2
+philippique|filípica||S|cmu|C2
+pathos|pathos||S|let|C2
+en filigrane|en filigrana||E|let|C2
+euphonie|eufonía||S|let|C2
+ondoyant|movedizo y fluido||A|let|C2
+céans|aquí dentro||D|let|C2
+icelui|el susodicho||P|let|C2
+ledit|el dicho||A|ist|C2
+susdit|susodicho||A|ist|C2
+nonobstant|no obstante||C|cnn|C2
+jadis|antaño||D|tmp|C2
+naguère|hace no mucho||D|tmp|C2
+mésalliance|matrimonio desigual||S|rel|C2
+quérir|ir a buscar||V|tra|C2
+sans férir|sin herir||E|spt|C2
+émoi|sobresalto||S|emo|C2
+ahurir|aturdir pasmando||V|emo|C2
+s'éprendre de|enamorarse perdidamente de||E|rel|C2
+épris|enamorado||A|rel|C2
+révérer|reverenciar||V|rel|C2
+mignardise|remilgada delicadeza||S|let|C2
+attifé|ataviado con exceso||A|rop|C2
+accoutré|vestido de forma estrafalaria||A|rop|C2
+amène|afable y apacible||A|ast|C2
+flagornerie|adulación servil||S|ast|C2
+servilité|servilismo||S|ast|C2
+obséquiosité|obsequiosidad||S|ast|C2
+féal|vasallo fiel||S|ist|C2
+colombage|entramado de madera y yeso||S|cas|C2
+arc-boutant|arbotante||S|cas|C2
+gisant|figura yacente||S|art|C2
+larron|ladrón (en textos antiguos)||S|ast|C2
+gredin|canalla||S|ast|C2
+maraud|granuja||S|ast|C2
+gueux|pícaro harapiento||S|ast|C2
+ébaubir|dejar pasmado de admiración||V|emo|C2
+partant|por consiguiente||C|cnn|C2
+somme toute|en suma||E|cnn|C2
+tout compte fait|a fin de cuentas||E|cnn|C2
+en dernière analyse|en último análisis||E|cnn|C2
+en dernière instance|en última instancia||E|cnn|C2
+en l'espèce|en el caso concreto||E|cnn|C2
+d'ores et déjà|desde ahora mismo||E|cnn|C2
+ce faisant|haciéndolo||E|cnn|C2
+quoi qu'il en soit|sea como fuere||E|cnn|C2
+en l'état|tal cual está||E|cnn|C2
+à plus forte raison|con mayor razón||E|cnn|C2
+encore que|por más que||C|cnn|C2
+quand bien même|aun cuando||C|cnn|C2
+dans la mesure où|en la medida en que||C|cnn|C2
+à supposer que|suponiendo que||C|cnn|C2
+d'autant plus que|tanto más cuanto que||C|cnn|C2
+pour autant|por ello (no por eso)||E|cnn|C2
+cela étant|eso sentado||E|cnn|C2
+force est de constater|no cabe sino constatar||E|cnn|C2
+il n'empêche que|no por ello deja de ser cierto||E|cnn|C2
+toujours est-il que|dicho esto||E|cnn|C2
+il s'ensuit que|se sigue que||E|cnn|C2
+encore faut-il|hace falta además||E|cnn|C2
+ne serait-ce que|aunque solo fuese||C|cnn|C2
+en sus|además de ello||E|cnn|C2
+en substance|en esencia||E|cnn|C2
+au demeurant|por lo demás||E|cnn|C2
+du reste|por lo demás (añadamos)||E|cnn|C2
+n'eût été|de no ser por||E|cnn|C2
+fût-ce|aunque fuera||C|cnn|C2
+dussé-je|aunque me cueste||C|cnn|C2
+à ce propos|a este propósito||E|cnn|C2
+tancer|reprender con dureza||V|cmu|C2
+semoncer|reprender solemnemente||V|cmu|C2
+houspiller|regañar con dureza||V|cmu|C2
+conspuer|abuchear execrando||V|cmu|C2
+stigmatiser|estigmatizar||V|cmu|C2
+interloquer|dejar pasmado||V|cmu|C2
+pontifier|pontificar||V|cmu|C2
+encenser|ensalzar adulando||V|cmu|C2
+magnifier|magnificar||V|cmu|C2
+corréler|correlacionar||V|sci|C2
+déconsidérer|desacreditar||V|cmu|C2
+psalmodier|salmodiar||V|cmu|C2
+déclamer|declamar con énfasis||V|cmu|C2
+grommeler|refunfuñar entre dientes||V|cmu|C2
+bredouiller|farfullar||V|cmu|C2
+chevroter|hablar con voz quebrada||V|cmu|C2
+s'époumoner|desgañitarse||V|cmu|C2
+jaser|chismorrear||V|cmu|C2
+glousser|reír con risitas||V|emo|C2
+rire sous cape|reír por lo bajo||E|emo|C2
+rire jaune|reír por compromiso||E|emo|C2
+se pâmer|desmayarse de placer||V|emo|C2
+s'extasier|extasiarse||V|emo|C2
+lâcher une vanne|soltar una pulla||E|cmu|C2
+lancer une pique|soltar una pulla indirecta||E|cmu|C2
+persiflage|ironía sutil y burlona||S|cmu|C2
+persifler|ironizar||V|cmu|C2
+quolibet|pulla burlesca||S|cmu|C2
+gouaillerie|guasa||S|cmu|C2
+rosserie|canallada velada||S|cmu|C2
+se gausser de|burlarse de||E|cmu|C2
+ergoter|discutir con sutilezas estériles||V|cmu|C2
+a fortiori|con mayor razón||L|cnn|C2
+a contrario|a la inversa||L|cnn|C2
+a posteriori|a posteriori||L|cnn|C2
+ad absurdum|ad absurdum (por el absurdo)||L|cnn|C2
+ad hominem|ad hominem (contra la persona)||L|cnn|C2
+in extenso|íntegramente||L|cnn|C2
+in fine|en último término||L|cnn|C2
+in petto|para sí||L|ast|C2
+in abstracto|en abstracto||L|ast|C2
+mutatis mutandis|mutatis mutandis (cambiando lo cambiable)||L|cnn|C2
+ceteris paribus|ceteris paribus (constante lo demás)||L|sci|C2
+sine die|sine die (sin fecha fijada)||L|cnn|C2
+condition sine qua non|condición sine qua non||L|cnn|C2
+de jure|de jure (de derecho)||L|ist|C2
+ex nihilo|de la nada||L|ast|C2
+ex abrupto|de manera brusca||L|cmu|C2
+ex cathedra|ex cathedra (con autoridad infalible)||L|ist|C2
+ipso facto|ipso facto||L|cnn|C2
+per se|en sí||L|ast|C2
+sui generis|sui generis (de género propio)||L|ast|C2
+prima facie|prima facie (a primera vista)||L|ist|C2
+urbi et orbi|urbi et orbi (a la ciudad y al mundo)||L|ist|C2
+hic et nunc|aquí y ahora||L|ast|C2
+in articulo mortis|in articulo mortis (en el trance de muerte)||L|sla|C2
+in extremis|in extremis (en el último instante)||L|tmp|C2
+ne varietur|ne varietur (sin cambios)||L|ist|C2
+ex ante|ex ante (previamente al hecho)||L|fin|C2
+ex post|ex post (con posterioridad)||L|fin|C2
+ad valorem|ad valorem (según el valor)||L|fin|C2
+de visu|con sus propios ojos||L|ast|C2
+stricto sensu|en sentido estricto||L|cnn|C2
+lato sensu|en sentido amplio||L|cnn|C2
+étayage|andamiaje educativo||S|stu|C2
+accommodation|acomodación de esquemas cognitivos||S|sci|C2
+équilibration|equilibración (Piaget)||S|sci|C2
+permanence de l'objet|permanencia del objeto||E|sci|C2
+attachement|apego||S|emo|C2
+anxiété de séparation|ansiedad de separación||E|sci|C2
+acculturation|aculturación||S|sci|C2
+zone proximale de développement|zona de desarrollo próximo||E|sci|C2
+conflit sociocognitif|conflicto sociocognitivo||E|stu|C2
+métacognition|métacognición||S|stu|C2
+autonomisation|adquisición progresiva de autonomía||S|stu|C2
+pédagogie différenciée|pedagogía diferenciada||E|stu|C2
+évaluation formative|evaluación formativa||E|stu|C2
+évaluation sommative|evaluación sumativa||E|stu|C2
+pédopsychiatrie|psiquiatría infantil||S|sla|C2
+psychomotricité|psicomotricidad||S|sla|C2
+orthophonie|logopedia||S|sla|C2
+dyspraxie|dispraxia||S|sla|C2
+dysphasie|disfasia||S|sla|C2
+haut potentiel|altas capacidades||E|stu|C2
+décrochage scolaire|abandono escolar||E|stu|C2
+dyade|díada||S|sci|C2
+bien-traitance|buen trato||S|sla|C2
+éducabilité|educabilidad||S|stu|C2
+transposition didactique|transposición didáctica||E|stu|C2
+référentiel de compétences|referencial de competencias||E|stu|C2
+grille d'évaluation|rúbrica de evaluación||E|stu|C2
+classe inversée|aula invertida||E|stu|C2
+accompagnement personnalisé|acompañamiento personalizado||E|stu|C2
+déficience intellectuelle|discapacidad intelectual||E|sla|C2
+schème|esquema mental (Piaget)||S|sci|C2
+sensori-moteur|sensoriomotor||A|sci|C2

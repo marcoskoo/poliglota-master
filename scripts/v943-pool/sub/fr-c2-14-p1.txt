@@ -1,0 +1,256 @@
+paupérisation|empobrecimiento||S|att|C2
+précarité|precariedad||S|lav|C2
+anomie|anomia (falta de normas)||S|ast|C2
+aliénation|alienación||S|ast|C2
+acculturation|aculturación||S|ast|C2
+métissage|mestizaje cultural||S|ast|C2
+embourgeoisement|aburguesamiento||S|ast|C2
+déclassement|descenso de clase||S|ast|C2
+gentrification|gentrificación||S|cit|C2
+laïcité|laicidad||S|ist|C2
+communautarisme|comunitarismo||S|att|C2
+cosmopolitisme|cosmopolitismo||S|ast|C2
+stigmatisation|estigmatización||S|ast|C2
+désaffiliation|desafiliación||S|ast|C2
+sédentarisation|sedentarización||S|att|C2
+désenchantement|desencanto||S|ast|C2
+prolétariat|proletariado||S|ast|C2
+ségrégation|segregación||S|att|C2
+démocratisation|democratización||S|ist|C2
+asservissement|sometimiento||S|ast|C2
+hétéronomie|heteronomía||S|ast|C2
+normativité|normatividad||S|ast|C2
+victimisation|victimización||S|ast|C2
+exclusion sociale|exclusión social||E|att|C2
+fracture sociale|fractura social||E|att|C2
+mobilité sociale|movilidad social||E|ast|C2
+ascenseur social|ascensor social||E|ast|C2
+lutte des classes|lucha de clases||E|ast|C2
+société civile|sociedad civil||E|ist|C2
+reproduction sociale|reproducción social||E|ast|C2
+atomisation sociale|atomización social||E|ast|C2
+ethnographie|etnografía||S|sci|C2
+ethnie|etnia||S|sci|C2
+totémisme|totemismo||S|sci|C2
+totem|tótem||S|sci|C2
+animisme|animismo||S|sci|C2
+chamanisme|chamanismo||S|sci|C2
+chaman|chamán||S|sci|C2
+endogamie|endogamia||S|sci|C2
+exogamie|exogamia||S|sci|C2
+matrilinéarité|matrilinealidad||S|sci|C2
+patrilinéarité|patrilinealidad||S|sci|C2
+filiation|filiación||S|sci|C2
+parenté|parentesco||S|fam|C2
+lignage|linaje||S|fam|C2
+mythème|mitema||S|sci|C2
+mythographie|mitografía||S|sci|C2
+rites de passage|ritos de paso||E|sci|C2
+rite initiatique|rito iniciático||E|sci|C2
+sépulture|sepultura||S|sci|C2
+holisme|holismo||S|sci|C2
+structuralisme|estructuralismo||S|sci|C2
+fonctionnalisme|funcionalismo||S|sci|C2
+essentialisme|esencialismo||S|sci|C2
+constructivisme|constructivismo||S|sci|C2
+relativisme culturel|relativismo cultural||E|sci|C2
+interculturel|intercultural||A|sci|C2
+folklore|folclore||S|sci|C2
+folklorique|folclórico||A|art|C2
+habitus|habitus (disposiciones incorporadas)||S|ast|C2
+transculturation|transculturación||S|sci|C2
+système de parenté|sistema de parentesco||E|sci|C2
+scoop|primicia||S|cmu|C2
+rédaction|redacción||S|pro|C2
+éditorial|editorial||S|cmu|C2
+éditorialiste|editorialista||S|pro|C2
+grand reporter|gran reportero||E|pro|C2
+pigiste|periodista free-lance||S|pro|C2
+embargo|embargo||S|cmu|C2
+droit de réponse|derecho de réplica||E|ist|C2
+médiatisation|mediatización||S|cmu|C2
+médiatique|mediático||A|cmu|C2
+couverture médiatique|cobertura mediática||E|cmu|C2
+lynchage médiatique|linchamiento mediático||E|cmu|C2
+désinformation|desinformación||S|cmu|C2
+autocensure|autocensura||S|cmu|C2
+presse d'investigation|prensa de investigación||E|cmu|C2
+lanceur d'alerte|alertador||E|pro|C2
+fuite|filtración||S|cmu|C2
+confrère|colega de profesión||S|pro|C2
+gazette|gaceta||S|cmu|C2
+revue de presse|revista de prensa||E|cmu|C2
+billet d'humeur|artículo de opinión mordaz||E|cmu|C2
+tribune|tribuna||S|cmu|C2
+attaché de presse|jefe de prensa||E|pro|C2
+diffamation|difamación||S|ist|C2
+dépêche|despacho||S|cmu|C2
+agence de presse|agencia de noticias||E|pro|C2
+maquettiste|maquetista||S|pro|C2
+relecture|corrección de pruebas||S|pro|C2
+enquête de fond|investigación en profundidad||E|cmu|C2
+grand entretien|entrevista en profundidad||E|cmu|C2
+perquisition|allanamiento||S|ist|C2
+musicologie|musicología||S|mus|C2
+contrepoint|contrapunto||S|mus|C2
+monodie|monodia||S|mus|C2
+polyphonie|polifonía||S|mus|C2
+polyrythmie|polirritmia||S|mus|C2
+atonalité|atonalidad||S|mus|C2
+sérialisme|serialismo||S|mus|C2
+dodécaphonisme|dodecafonismo||S|mus|C2
+chromatisme|cromatismo||S|mus|C2
+syncope|síncopa||S|mus|C2
+phrasé|fraseo||S|mus|C2
+mélopée|melopea||S|mus|C2
+solfège|solféo||S|mus|C2
+cadence|cadenza||S|mus|C2
+tempérament|temperamento (afinación)||S|mus|C2
+quatuor|cuarteto||S|mus|C2
+oratorio|oratorio||S|mus|C2
+lied|lied (canción artística alemana)||S|mus|C2
+vélocité|destreza virtuosística||S|mus|C2
+organologie|organología||S|mus|C2
+lutherie|lutería||S|mus|C2
+maître de chapelle|maestro de capilla||E|mus|C2
+basse continue|bajo continuo||E|mus|C2
+plain-chant|canto llano||S|mus|C2
+neume|neuma||S|mus|C2
+contre-ténor|contratenor||S|mus|C2
+catalogue thématique|catálogo temático||E|mus|C2
+a cappella|a capela||L|mus|C2
+bel canto|bel canto||L|mus|C2
+instrumentiste|instrumentista||S|pro|C2
+restauration|restauración de obras||S|art|C2
+muséographie|museografía||S|art|C2
+muséologie|museología||S|art|C2
+vernissage|inauguración privada||S|art|C2
+accrochage|montaje de exposición||S|art|C2
+cimaise|riel de anclaje||S|art|C2
+inventaire|inventario||S|art|C2
+catalogage|catalogación||S|art|C2
+récolement|reconteo de colecciones||S|art|C2
+attribution|atribución de autoría||S|art|C2
+esquisse|boceto||S|art|C2
+ébauche|esbozo||S|art|C2
+craquelure|craqueladura||S|art|C2
+vernis|barniz||S|art|C2
+repentir|arrepentimiento (corrección visible)||S|art|C2
+châssis|bastidor||S|art|C2
+toile|lienzo||S|art|C2
+glacis|veladura||S|art|C2
+clair-obscur|claroscuro||S|art|C2
+sfumato|sfumato||S|art|C2
+dorure|dorado||S|art|C2
+polychromie|policromía||S|art|C2
+polyptyque|políptico||S|art|C2
+diptyque|díptico||S|art|C2
+tenture|tapiz||S|art|C2
+statuaire|estatuaria||S|art|C2
+incrustation|incrustación||S|art|C2
+comblement|relleno de lagunas||S|art|C2
+conservation préventive|conservación preventiva||E|art|C2
+médiation culturelle|mediación cultural||E|art|C2
+commissaire d'exposition|comisario de exposición||E|pro|C2
+académisme|academicismo||S|art|C2
+maniérisme|manierismo||S|art|C2
+hyperréalisme|hiperrealismo||S|art|C2
+figuration|figuración||S|art|C2
+non-figuratif|no figurativo||A|art|C2
+formalisme|formalismo||S|art|C2
+iconographie|iconografía||S|art|C2
+iconologie|iconología||S|art|C2
+pittoresque|pintoresco||A|art|C2
+kitsch|kitsch||A|art|C2
+camp|camp (estética de lo exagerado)||S|art|C2
+happening|happening||S|art|C2
+ready-made|ready-made||S|art|C2
+mimesis|mímesis||S|ast|C2
+catharsis|catarsis||S|ast|C2
+sublime|sublime||A|ast|C2
+génie|genio creador||S|ast|C2
+virtuosité|virtuosismo||S|ast|C2
+brio|brío||S|ast|C2
+panache|gallardía||S|ast|C2
+raffinement|refinamiento||S|ast|C2
+épure|línea esencial||S|art|C2
+facture|factura (ejecución pictórica)||S|art|C2
+touche|pincelada||S|art|C2
+laideur|fealdad||S|ast|C2
+esthète|esteta||S|art|C2
+esthétisme|esteticismo||S|art|C2
+mécénat|mecenazgo||S|art|C2
+mécène|mecenas||S|art|C2
+commanditaire|comitente||S|art|C2
+cote|cotización de mercado||S|fin|C2
+intelligence artificielle|inteligencia artificial||E|tec|C2
+apprentissage automatique|aprendizaje automático||E|tec|C2
+réseau de neurones|red de neuronas||E|tec|C2
+réseau convolutif|red convolucional||E|tec|C2
+couche cachée|capa oculta||E|tec|C2
+surapprentissage|sobreajuste||S|tec|C2
+rétropropagation|retropropagación||S|tec|C2
+perceptron|perceptrón||S|tec|C2
+biais algorithmique|sesgo algorítmico||E|tec|C2
+biais de confirmation|sesgo de confirmación||E|sci|C2
+boîte noire|caja negra||E|tec|C2
+explicabilité|explicabilidad||S|tec|C2
+interprétabilité|interpretabilidad||S|tec|C2
+jeu de données|conjunto de datos||E|tec|C2
+données massives|macrodatos||E|tec|C2
+fouille de données|minería de datos||E|tec|C2
+étiquetage|etiquetado de datos||S|tec|C2
+prétraitement|preprocesamiento||S|tec|C2
+classification supervisée|clasificación supervisada||E|tec|C2
+régression linéaire|regresión lineal||E|sci|C2
+matrice de confusion|matriz de confusión||E|tec|C2
+validation croisée|validación cruzada||E|tec|C2
+arbre de décision|árbol de decisión||E|tec|C2
+forêt aléatoire|bosque aleatorio||E|tec|C2
+élagage|poda||S|sci|C2
+fléau de la dimension|maldición de la dimensionalidad||E|sci|C2
+sac de mots|bolsa de palabras||E|tec|C2
+lemmatisation|lematización||S|tec|C2
+désambiguïsation|desambiguación||S|tec|C2
+traitement automatique des langues|procesamiento automático del lenguaje||E|tec|C2
+cryptographie|criptografía||S|tec|C2
+cryptanalyse|criptoanálisis||S|tec|C2
+chiffrement|cifrado||S|tec|C2
+chiffrement asymétrique|cifrado asimétrico||E|tec|C2
+clé publique|clave pública||E|tec|C2
+échange de clés|intercambio de claves||E|tec|C2
+hachage|función resumen||S|tec|C2
+empreinte numérique|huella criptográfica||E|tec|C2
+stéganographie|esteganografía||S|tec|C2
+non-répudiation|no repudio||S|tec|C2
+authentification|autenticación||S|tec|C2
+pare-feu|cortafuegos||S|tec|C2
+cybersécurité|ciberseguridad||S|tec|C2
+rançongiciel|ransomware||S|tec|C2
+hameçonnage|phishing (suplantación de identidad)||S|tec|C2
+ingénierie sociale|ingeniería social||E|tec|C2
+cheval de Troie|caballo de Troya||E|tec|C2
+logiciel malveillant|software malicioso||E|tec|C2
+faille|vulnerabilidad de seguridad||S|tec|C2
+test d'intrusion|prueba de intrusión||E|tec|C2
+déni de service|denegación de servicio||E|tec|C2
+attaque par force brute|ataque de fuerza bruta||E|tec|C2
+obfuscation|ofuscación||S|tec|C2
+journalisation|registro de actividad||S|tec|C2
+traçabilité|trazabilidad||S|tec|C2
+certificat électronique|certificado electrónico||E|tec|C2
+signature électronique|firma electrónica||E|tec|C2
+autorité de certification|autoridad de certificación||E|tec|C2
+tiers de confiance|tercero de confianza||E|tec|C2
+biométrie|biometría||S|tec|C2
+passe-partout|llave maestra||S|tec|C2
+commutation|conmutación||S|tec|C2
+mutualisation|compartición de recursos||S|tec|C2
+multiplexage|multiplexado||S|tec|C2
+gigue|jitter (fluctuación de retardo)||S|tec|C2
+latence|latencia||S|tec|C2
+affaiblissement|atenuación||S|tec|C2
+acheminement|encaminamiento||S|tec|C2
+interconnexion|interconexión||S|tec|C2
+dégroupage|desagregación del bucle local||S|tec|C2
+itinérance|itinerancia (roaming)||S|tec|C2

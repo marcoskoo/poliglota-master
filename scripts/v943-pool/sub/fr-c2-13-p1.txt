@@ -1,0 +1,256 @@
+légiférer|legislar||V|ist|C2
+codicille|codicilo||S|ist|C2
+testateur|testador||S|ist|C2
+héritier présomptif|heredero presunto||S|ist|C2
+legs|legado||S|ist|C2
+déshérence|vacante hereditaria (bienes sin heredero)||S|ist|C2
+hypothéquer|hipotecar||V|ist|C2
+nantissement|prenda mercantil||S|ist|C2
+cautionnement|fianza (aval)||S|ist|C2
+clause léonine|cláusula leonina||S|ist|C2
+dol|dolo (engaño que vicia el consentimiento)||S|ist|C2
+lésion|lesión (perjuicio desproporcionado en un contrato)||S|ist|C2
+vice caché|vicio oculto||S|ist|C2
+résiliation|resolución del contrato||S|ist|C2
+novation|novación||S|ist|C2
+quotité disponible|parte de libre disposición||S|ist|C2
+réserve héréditaire|legítima hereditaria||S|ist|C2
+préciput|atribución preferente del cónyuge||S|ist|C2
+succession ab intestat|sucesión intestada||S|ist|C2
+déshériter|desheredar||V|ist|C2
+flagrant délit|delito flagrante||S|ist|C2
+détention provisoire|prisión provisional||S|ist|C2
+mise en examen|imputación judicial||S|ist|C2
+non-lieu|sobreseimiento||S|ist|C2
+circonstances atténuantes|circunstancias atenuantes||S|ist|C2
+récidiviste|reincidente||S|ist|C2
+forclusion|preclusión||S|ist|C2
+prescription acquisitive|usucapión (prescripción adquisitiva)||S|ist|C2
+emphytéose|enfiteusis||S|ist|C2
+servitude de passage|servidumbre de paso||S|ist|C2
+exécution testamentaire|ejecución testamentaria (albaceazgo)||S|ist|C2
+don manuel|donación manual||S|ist|C2
+avocat commis d'office|abogado de oficio||S|ist|C2
+partie civile|acusación particular||S|ist|C2
+réquisitoire|escrito de acusación (requisitoria)||S|ist|C2
+plaidoirie|alegato||S|ist|C2
+intimé|recurrido||S|ist|C2
+pourvoi en cassation|recurso de casación||S|ist|C2
+arrêt|sentencia (de apelación o casación)||S|ist|C2
+attendus|considerandos||S|ist|C2
+dispositif|fallo (parte dispositiva de la sentencia)||S|ist|C2
+exécution provisoire|ejecución provisional||S|ist|C2
+signification|notificación judicial||S|ist|C2
+exploit d'huissier|cédula de notificación||S|ist|C2
+opposition|oposición (recurso contra sentencia por defecto)||S|ist|C2
+tiers opposition|tercería de oposición||S|ist|C2
+expertise contradictoire|pericia con contradicción||S|ist|C2
+assesseur|juez suplente||S|ist|C2
+greffe|secretaría judicial||S|ist|C2
+ministère public|ministerio fiscal||S|ist|C2
+sentence irrévocable|sentencia firme||S|ist|C2
+chose jugée|cosa juzgada||L|ist|C2
+ce nonobstant|no obstante lo cual (fórmula forense)||E|ist|C2
+attendu que|considerando que||E|ist|C2
+par ces motifs|por estos motivos||E|ist|C2
+en dernier ressort|en última instancia||E|ist|C2
+provision ad litem|provisión para pleitos||L|ist|C2
+irrecevabilité|inadmisibilidad||S|ist|C2
+fin de non-recevoir|excepción de inadmisibilidad||S|ist|C2
+récolement|cotejo (verificación de piezas)||S|ist|C2
+bâtonnier|decano de la abogacía||S|ist|C2
+postulation|postulación (representación procesal)||S|ist|C2
+for|fuero (competencia del tribunal)||S|ist|C2
+instance|pleito (proceso en curso)||S|ist|C2
+constitutionnalité|constitucionalidad||S|ist|C2
+hiérarchie des normes|jerarquía de normas||S|ist|C2
+question prioritaire de constitutionnalité|cuestión prioritaria de constitucionalidad||S|ist|C2
+décret-loi|decreto-ley||S|ist|C2
+ordonnance|ordenanza (norma reglamentaria)||S|ist|C2
+promulgation|promulgación||S|ist|C2
+dissolution parlementaire|disolución parlamentaria||S|ist|C2
+question de confiance|cuestión de confianza||S|ist|C2
+motion de censure|moción de censura||S|ist|C2
+scrutin uninominal majoritaire|escrutinio mayoritario uninominal||S|ist|C2
+scrutin de liste|escrutinio de lista||S|ist|C2
+séparation des pouvoirs|separación de poderes||S|ist|C2
+immunité parlementaire|inmunidad parlamentaria||S|ist|C2
+incompatibilité|incompatibilidad (acumulación de cargos)||S|ist|C2
+sénatus-consulte|senadoconsulto||S|ist|C2
+dévolution|transferencia (asignación de competencias)||S|ist|C2
+déconcentration|desconcentración (de la administración)||S|ist|C2
+juridiction administrative|jurisdicción administrativa||S|ist|C2
+acte administratif unilatéral|acto administrativo unilateral||S|ist|C2
+détournement de pouvoir|desviación de poder||S|ist|C2
+recours pour excès de pouvoir|recurso por exceso de poder||S|ist|C2
+état d'urgence|estado de urgencia||S|ist|C2
+putsch|golpe de estado (pronunciamiento)||S|ist|C2
+plébiscite|plebiscito||S|ist|C2
+souveraineté populaire|soberanía popular||S|ist|C2
+droit coutumier|derecho consuetudinario||S|ist|C2
+révision constitutionnelle|revisión constitucional||S|ist|C2
+veto suspensif|veto suspensivo||S|ist|C2
+collégialité|colegialidad||S|ist|C2
+primauté du droit|primado del derecho||S|ist|C2
+semi-présidentialisme|semipresidencialismo||S|ist|C2
+cohabitation|cohabitación (convivencia de poderes)||S|ist|C2
+insuffisance cardiaque|insuficiencia cardiaca||S|sla|C2
+infarctus du myocarde|infarto de miocardio||S|sla|C2
+angioplastie|angioplastia||S|sla|C2
+coronarographie|coronariografía||S|sla|C2
+embolie pulmonaire|embolia pulmonar||S|sla|C2
+thrombose veineuse|trombosis venosa||S|sla|C2
+fibrillation auriculaire|fibrilación auricular||S|sla|C2
+insuffisance rénale|insuficiencia renal||S|sla|C2
+dialyse|diálisis||S|sla|C2
+cathétérisme|cateterismo||S|sla|C2
+intubation|intubación||S|sla|C2
+réanimation|reanimación||S|sla|C2
+soins palliatifs|cuidados paliativos||S|sla|C2
+occlusion intestinale|obstrucción intestinal||S|sla|C2
+hémorragie digestive|hemorragia digestiva||S|sla|C2
+coloscopie|colonoscopia||S|sla|C2
+pancréatite|pancreatitis||S|sla|C2
+cirrhose|cirrosis||S|sla|C2
+hépatite fulminante|hepatitis fulminante||S|sla|C2
+sepsis|sepsis||S|sla|C2
+bactériémie|bacteriemia||S|sla|C2
+neutropénie|neutropenia||S|sla|C2
+lymphome|linfoma||S|sla|C2
+leucémie myéloïde|leucemia mieloide||S|sla|C2
+aplasie médullaire|aplasia medular||S|sla|C2
+greffe de moelle|trasplante de médula||S|sla|C2
+donneur vivant|donante vivo||S|sla|C2
+carcinome|carcinoma||S|sla|C2
+métastase|metástasis||S|sla|C2
+chimiothérapie adjuvante|quimioterapia adyuvante||S|sla|C2
+bilan préopératoire|evaluación preoperatoria||S|sla|C2
+compte rendu opératoire|informe operatorio||S|sla|C2
+posologie|posología||S|sla|C2
+forme galénique|forma galénica (forma farmacéutica)||S|sla|C2
+principe actif|principio activo||S|sla|C2
+excipient|excipiente||S|sla|C2
+générique|genérico (medicamento)||S|sla|C2
+bioéquivalence|bioequivalencia||S|sla|C2
+pharmacovigilance|farmacovigilancia||S|sla|C2
+iatrogène|iatrogénico||A|sla|C2
+contre-indication|contraindicación||S|sla|C2
+dose de charge|dosis de carga||S|sla|C2
+demi-vie|vida media (de un fármaco)||S|sla|C2
+biodisponibilité|biodisponibilidad||S|sla|C2
+métabolite|metabolito||S|sla|C2
+hépatotoxique|hepatotóxico||A|sla|C2
+néphrotoxique|nefrotóxico||A|sla|C2
+anticoagulant|anticoagulante||S|sla|C2
+inducteur enzymatique|inductor enzimático||S|sla|C2
+interaction médicamenteuse|interacción medicamentosa||S|sla|C2
+observance|cumplimiento terapéutico||S|sla|C2
+essai clinique randomisé|ensayo clínico aleatorizado||S|sla|C2
+bras de l'essai|brazo del ensayo (grupo de tratamiento)||S|sla|C2
+critère principal d'évaluation|criterio principal de valoración||S|sla|C2
+simple insu|simple ciego||S|sla|C2
+double aveugle|doble ciego||S|sla|C2
+randomisation|aleatorización||S|sla|C2
+critère d'inclusion|criterio de inclusión||S|sla|C2
+consentement éclairé|consentimiento informado||S|sla|C2
+promoteur|promotor (patrocinador del ensayo)||S|sla|C2
+investigateur principal|investigador principal||S|sla|C2
+profil de tolérance|perfil de tolerabilidad||S|sla|C2
+pharmacocinétique|farmacocinética||S|sla|C2
+voie d'administration|vía de administración||S|sla|C2
+trouble bipolaire|trastorno bipolar||S|sla|C2
+accès maniaque|episodio maníaco||S|sla|C2
+dysthymie|distimia||S|sla|C2
+rumination mentale|rumiación mental||S|sla|C2
+rituel compulsif|ritual compulsivo||S|sla|C2
+phobie sociale|fobia social||S|sla|C2
+attaque de panique|ataque de pánico||S|sla|C2
+hallucination auditive|alucinación auditiva||S|sla|C2
+idées délirantes|ideas delirantes||S|sla|C2
+délire de persécution|delirio persecutorio||S|sla|C2
+anhédonie|anhedonia||S|sla|C2
+dissociation|disociación (despersonalización)||S|sla|C2
+clivage|escisión (defensa psíquica)||S|sla|C2
+conduite suicidaire|conducta suicida||S|sla|C2
+automutilation|autolesión||S|sla|C2
+anorexie mentale|anorexia mental||S|sla|C2
+restriction alimentaire|restricción alimentaria||S|sla|C2
+sevrage|deshabituación (síndrome de abstinencia)||S|sla|C2
+rechute|recaída||S|sla|C2
+rémission|remisión (mejoría clínica)||S|sla|C2
+catatonie|catatonía||S|sla|C2
+conversion hystérique|conversión histérica||S|sla|C2
+trouble de la personnalité|trastorno de la personalidad||S|sla|C2
+personnalité paranoïaque|personalidad paranoica||S|sla|C2
+psychotrope|psicotrópico||S|sla|C2
+thymorégulateur|estabilizador del ánimo||S|sla|C2
+sismothérapie|terapia electroconvulsiva||S|sla|C2
+entretien psychiatrique|entrevista psiquiátrica||S|sla|C2
+hospitalisation d'office|internamiento psiquiátrico de oficio||S|sla|C2
+expertise psychiatrique|peritaje psiquiátrico||S|sla|C2
+dysmorphophobie|dismorfofobia||S|sla|C2
+mutisme|mutismo (negativa a hablar)||S|sla|C2
+déontologie|deontología||S|sla|C2
+conflit d'intérêts|conflicto de intereses||S|sla|C2
+secret médical|secreto médico||S|sla|C2
+secret professionnel|secreto profesional||S|sla|C2
+comité d'éthique|comité de ética||S|sla|C2
+personne de confiance|persona de confianza (figura sanitaria)||S|sla|C2
+directives anticipées|instrucciones previas (testamento vital)||S|sla|C2
+acharnement thérapeutique|encarnizamiento terapéutico||S|sla|C2
+procréation médicalement assistée|procreación médicamente asistida||S|sla|C2
+diagnostic préimplantatoire|diagnóstico preimplantatorio||S|sla|C2
+gestation pour autrui|gestación subrogada||S|sla|C2
+don d'organes|donación de órganos||S|sla|C2
+mort cérébrale|muerte encefálica||S|sla|C2
+eugénisme|eugenesia||S|sla|C2
+dépistage néonatal|cribado neonatal||S|sla|C2
+brevetabilité du vivant|patentabilidad de lo vivo||S|sla|C2
+biomédecine|biomedicina||S|sla|C2
+principe de précaution|principio de precaución||S|sla|C2
+indisponibilité du corps humain|indisponibilidad del cuerpo humano||S|sla|C2
+personne vulnérable|persona vulnerable||S|sla|C2
+sollicitude|solicitud (atención solícita)||S|sla|C2
+éthique clinique|ética clínica||S|sla|C2
+fin de vie|final de la vida||S|sla|C2
+soins de support|cuidados de soporte||S|sla|C2
+anonymisation|anonimización||S|sla|C2
+pseudonymisation|pseudonimización||S|sla|C2
+traçabilité|trazabilidad||S|sla|C2
+bientraitance|buen trato (principio asistencial)||S|sla|C2
+bienfaisance|beneficencia||S|sla|C2
+non-malfaisance|no maleficencia||S|sla|C2
+autonomie du patient|autonomía del paciente||S|sla|C2
+euthanasie active|eutanasia activa||S|sla|C2
+politique monétaire|política monetaria||S|fin|C2
+taux directeur|tipo de interés oficial||S|fin|C2
+assouplissement quantitatif|flexibilización cuantitativa||S|fin|C2
+resserrement quantitatif|endurecimiento cuantitativo||S|fin|C2
+inflation sous-jacente|inflación subyacente||S|fin|C2
+spirale inflationniste|espiral inflacionaria||S|fin|C2
+stagflation|estanflación||S|fin|C2
+croissance potentielle|crecimiento potencial||S|fin|C2
+écart de production|brecha de producción||S|fin|C2
+chômage structurel|desempleo estructural||S|fin|C2
+anticipations rationnelles|expectativas racionales||S|fin|C2
+offre agrégée|oferta agregada||S|fin|C2
+demande agrégée|demanda agregada||S|fin|C2
+propension à consommer|propensión a consumir||S|fin|C2
+taux de change flottant|tipo de cambio flotante||S|fin|C2
+dévaluation compétitive|devaluación competitiva||S|fin|C2
+parité|paridad (régimen de cambio fijo)||S|fin|C2
+réserves de change|reservas de divisas||S|fin|C2
+dette souveraine|deuda soberana||S|fin|C2
+défaut de paiement|impago (suspensión de pagos)||S|fin|C2
+restructuration de la dette|reestructuración de la deuda||S|fin|C2
+stérilisation monétaire|esterilización monetaria||S|fin|C2
+agence de notation|agencia de calificación crediticia||S|fin|C2
+prime de risque|prima de riesgo||S|fin|C2
+refinancement|refinanciación||S|fin|C2
+balance des paiements|balanza de pagos||S|fin|C2
+balance commerciale|balanza comercial||S|fin|C2
+termes de l'échange|relación de intercambio||S|fin|C2
+élasticité-prix|elasticidad precio (de la demanda)||S|fin|C2
+créance douteuse|crédito dudoso||S|fin|C2
+points de base|puntos básicos||S|fin|C2
+ancre nominale|ancla nominal||S|fin|C2

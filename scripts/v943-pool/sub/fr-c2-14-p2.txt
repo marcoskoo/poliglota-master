@@ -1,0 +1,258 @@
+fibre optique|fibra óptica||E|tec|C2
+boucle locale|bucle local||E|tec|C2
+bande passante|ancho de banda||E|tec|C2
+fréquence porteuse|frecuencia portadora||E|tec|C2
+onde porteuse|onda portadora||E|tec|C2
+longueur d'onde|longitud de onda||E|sci|C2
+réseau maillé|red en malla||E|tec|C2
+satellite géostationnaire|satélite geoestacionario||E|tec|C2
+bruit de fond|ruido de fondo||E|tec|C2
+goulot d'étranglement|cuello de botella||E|tec|C2
+file d'attente|cola de espera||E|tec|C2
+compression avec perte|compresión con pérdida||E|tec|C2
+compression sans perte|compresión sin pérdida||E|tec|C2
+tolérance aux pannes|tolerancia a fallos||E|tec|C2
+haute disponibilité|alta disponibilidad||E|tec|C2
+répartition de charge|reparto de carga||E|tec|C2
+informatique en nuage|informática en la nube||E|tec|C2
+pair-à-pair|entre iguales (intercambio directo)||L|tec|C2
+objets connectés|dispositivos conectados||E|tec|C2
+domotique|domótica||S|tec|C2
+télésurveillance|televigilancia||S|tec|C2
+fission|fisión||S|sci|C2
+fusion nucléaire|fusión nuclear||E|sci|C2
+réacteur à eau pressurisée|reactor de agua a presión||E|sci|C2
+combustible usé|combustible gastado||E|sci|C2
+cycle du combustible|ciclo del combustible||E|sci|C2
+enrichissement|enriquecimiento||S|sci|C2
+uranium enrichi|uranio enriquecido||E|sci|C2
+uranium appauvri|uranio empobrecido||E|sci|C2
+retraitement|reprocesamiento||S|sci|C2
+entreposage|almacenamiento intermedio||S|sci|C2
+stockage profond|almacenamiento profundo||E|sci|C2
+vitrification|vitrificación||S|sci|C2
+démantèlement|desmantelamiento||S|sci|C2
+neutronique|neutrónica||S|sci|C2
+modérateur|moderador||S|sci|C2
+caloporteur|fluido refrigerante||S|sci|C2
+enceinte de confinement|recinto de contención||E|sci|C2
+piscine de désactivation|piscina de desactivación||E|sci|C2
+criticité|criticidad||S|sci|C2
+réaction en chaîne|reacción en cadena||E|sci|C2
+radioprotection|radioprotección||S|sci|C2
+dosimétrie|dosimetría||S|sci|C2
+blindage|blindaje||S|sci|C2
+cogénération|cogeneración||S|sci|C2
+pompage-turbinage|bombeo-turbinado||S|sci|C2
+au fil de l'eau|a fil de agua||L|sci|C2
+énergie grise|energía gris||E|sci|C2
+sobriété énergétique|sobriedad energética||E|sci|C2
+intensité énergétique|intensidad energética||E|sci|C2
+délestage|desconexión de carga||S|sci|C2
+pointe de consommation|pico de consumo||E|sci|C2
+portance|sustentación||S|sci|C2
+traînée|resistencia aerodinámica||S|sci|C2
+envergure|envergadura||S|sci|C2
+poussée|empuje||S|sci|C2
+centrage|centrado||S|sci|C2
+décrochage|pérdida (de sustentación)||S|sci|C2
+vrille|barrena||S|sci|C2
+aérofrein|freno aerodinámico||S|sci|C2
+hypersonique|hipersónico||A|sci|C2
+statoréacteur|estatorreactor||S|sci|C2
+turbopropulseur|turbohélice||S|sci|C2
+tuyère|tobera||S|sci|C2
+propergol|propergol||S|sci|C2
+lanceur|lanzador||S|sci|C2
+pas de tir|plataforma de lanzamiento||E|sci|C2
+mise en orbite|puesta en órbita||E|sci|C2
+apogée|apogeo||S|sci|C2
+périgée|perigeo||S|sci|C2
+charge utile|carga útil||E|sci|C2
+rentrée atmosphérique|reentrada atmosférica||E|sci|C2
+bouclier thermique|escudo térmico||E|sci|C2
+freinage atmosphérique|frenado atmosférico||E|sci|C2
+assistance gravitationnelle|asistencia gravitacional||E|sci|C2
+alunissage|alunizaje||S|sci|C2
+amarsissage|amartizaje||S|sci|C2
+microgravité|microgravedad||S|sci|C2
+impesanteur|ingravidez||S|sci|C2
+aéronef|aeronave||S|sci|C2
+navigabilité|aeronavegabilidad||S|sci|C2
+givrage|formación de hielo||S|sci|C2
+verrière|canopia||S|sci|C2
+automatisation|automatización||S|tec|C2
+robotisation|robotización||S|tec|C2
+automate programmable|autómata programable||E|tec|C2
+commande numérique|control numérico||E|tec|C2
+servomoteur|servomotor||S|tec|C2
+actionneur|actuador||S|tec|C2
+vérin|actuador lineal||S|tec|C2
+effecteur|efectuador||S|tec|C2
+préhenseur|órgano de prensión||S|tec|C2
+palpeur|palpador||S|tec|C2
+télémétrie|telemetría||S|tec|C2
+degrés de liberté|grados de libertad||E|tec|C2
+retour d'effort|retroalimentación de fuerza||E|tec|C2
+téléopération|teleoperación||S|tec|C2
+cobotique|cobotica||S|tec|C2
+exosquelette|exoesqueleto||S|tec|C2
+juste-à-temps|justo a tiempo||L|tec|C2
+maintenance prédictive|maintenance predictiva||E|tec|C2
+supervision|supervisión||S|tec|C2
+procédé|procedimiento industrial||S|tec|C2
+outillage|utillaje||S|tec|C2
+usinage|mecanizado||S|tec|C2
+pièce brute|pieza en bruto||E|tec|C2
+tolérancement|definición de tolerancias||S|tec|C2
+cotation fonctionnelle|acotado funcional||E|tec|C2
+métrologie|metrología||S|sci|C2
+étalonnage|calibrado||S|tec|C2
+bridage|sujeción||S|tec|C2
+calage|reglaje||S|tec|C2
+arrêt d'urgence|parada de emergencia||E|tec|C2
+ergonomie|ergonomía||S|tec|C2
+circulation atmosphérique|circulación atmosférica||E|sci|C2
+advection|advección||S|sci|C2
+subsidence|descenso de aire||S|sci|C2
+courant-jet|corriente en chorro||S|sci|C2
+alizé|alisio||S|nat|C2
+forçage radiatif|forzamiento radiativo||E|sci|C2
+albédo|albedo||S|sci|C2
+lame d'eau|lámina de agua||E|sci|C2
+pluviométrie|pluviometría||S|sci|C2
+évapotranspiration|evapotranspiración||S|sci|C2
+gradient thermique|gradiente térmico||E|sci|C2
+gradient adiabatique|gradiente adiabático||E|sci|C2
+cyclogenèse|ciclogénesis||S|sci|C2
+zone de convergence intertropicale|zona de convergencia intertropical||E|sci|C2
+puits de carbone|sumidero de carbono||E|sci|C2
+séquestration du carbone|secuestro de carbono||E|sci|C2
+scénario d'émission|escenario de emisiones||E|sci|C2
+atténuation|atenuación (mitigación)||S|sci|C2
+vulnérabilité|vulnerabilidad||S|sci|C2
+résilience|resiliencia||S|sci|C2
+aridification|aridificación||S|sci|C2
+élévation du niveau marin|subida del nivel del mar||E|sci|C2
+cryosphère|criosfera||S|sci|C2
+pergélisol|permafrost||S|sci|C2
+inlandsis|inlandsis||S|sci|C2
+paléoclimatologie|paleoclimatología||S|sci|C2
+dendrochronologie|dendrocronología||S|sci|C2
+carottage|extracción de testigos||S|sci|C2
+réanalyse|reanálisis||S|sci|C2
+sensibilité climatique|sensibilidad climática||E|sci|C2
+incertitude|incertidumbre||S|sci|C2
+bathymétrie|batimetría||S|sci|C2
+dorsale océanique|dorsal oceánica||E|sci|C2
+fosse sous-marine|fosa submarina||E|sci|C2
+talus continental|talud continental||E|sci|C2
+thermocline|termoclina||S|sci|C2
+halocline|haloclina||S|sci|C2
+résurgence d'eau|surgencia (afloramiento)||E|sci|C2
+anoxie|anoxia||S|sci|C2
+eutrophisation|eutrofización||S|sci|C2
+turbidité|turbidez||S|sci|C2
+courant de turbidité|corriente de turbidez||E|sci|C2
+estran|zona intermareal||S|nat|C2
+coefficient de marée|coeficiente de marea||E|sci|C2
+cheminée hydrothermale|chimenea hidrotermal||E|sci|C2
+fumeur noir|fumarola negra||E|sci|C2
+zone euphotique|zona fótica||E|sci|C2
+pélagique|pelágico||A|sci|C2
+benthique|bentónico||A|sci|C2
+necton|necton||S|nat|C2
+phytoplancton|fitoplancton||S|nat|C2
+zooplancton|zooplancton||S|nat|C2
+cétacé|cetáceo||S|nat|C2
+échouage|varamiento||S|sci|C2
+blanchissement corallien|blanqueamiento coralino||E|nat|C2
+acidification des océans|acidificación de los océanos||E|sci|C2
+marée noire|marea negra||E|sci|C2
+varech|arribazón (sargazo)||S|nat|C2
+surpêche|sobrepesca||S|nat|C2
+chalutage|pesca de arrastre||S|nat|C2
+canyon sous-marin|cañón submarino||E|sci|C2
+sédimentation|sedimentación||S|sci|C2
+jurisprudence|jurisprudencia||S|ist|C2
+contentieux environnemental|contencioso ambiental||S|ist|C2
+encadrement|marco normativo||S|ist|C2
+principe de précaution|principio de precaución||E|ist|C2
+principe du pollueur-payeur|quien contamina paga||E|ist|C2
+mesures compensatoires|medidas compensatorias||E|ist|C2
+étude d'impact|estudio de impacto||E|ist|C2
+enquête publique|consulta pública||E|ist|C2
+réparation intégrale|reparación integral||E|ist|C2
+passif environnemental|pasivo ambiental||S|ist|C2
+écocide|ecocidio||S|ist|C2
+moratoire|moratoria||S|ist|C2
+astreinte|apremio||S|ist|C2
+nuisance|molestia (nocividad)||S|ist|C2
+déchet ultime|residuo definitivo||S|sci|C2
+économie circulaire|economía circular||E|fin|C2
+marché du carbone|mercado del carbono||E|fin|C2
+décarbonation|descarbonización||S|sci|C2
+écoconception|ecodiseño||S|tec|C2
+renaturation|renaturalización||S|nat|C2
+remédiation|remediación||S|sci|C2
+phytoépuration|fitodepuración||S|sci|C2
+biopiraterie|biopiratería||S|sci|C2
+trafic d'espèces|tráfico de especies||E|nat|C2
+espèce invasive|especie invasora||E|nat|C2
+empreinte écologique|huella ecológica||E|nat|C2
+capital naturel|capital natural||E|sci|C2
+durabilité|sostenibilidad||S|sci|C2
+gouvernance environnementale|gobernanza ambiental||E|ist|C2
+aire marine protégée|área marina protegida||E|nat|C2
+corridor écologique|corredor ecológico||E|nat|C2
+lésion|lesión||S|sla|C2
+nécrose|necrosis||S|sla|C2
+ischémie|isquemia||S|sla|C2
+thrombose|trombosis||S|sla|C2
+métaplasie|metaplasia||S|sla|C2
+dysplasie|displasia||S|sla|C2
+adénopathie|adenopatía||S|sla|C2
+adénome|adenoma||S|sla|C2
+splénomégalie|esplenomegalia||S|sla|C2
+hépatomégalie|hepatomegalia||S|sla|C2
+cytolyse|citolisis||S|sla|C2
+fibrose|fibrosis||S|sla|C2
+atrophie|atrofia||S|sla|C2
+hypertrophie|hipertrofia||S|sla|C2
+adhérence|brida (adherencia)||S|sla|C2
+fistule|fístula||S|sla|C2
+sténose|estenosis||S|sla|C2
+prurit|prurito||S|sla|C2
+ictère|ictericia||S|sla|C2
+cyanose|cianosis||S|sla|C2
+chéloïde|queloide||S|sla|C2
+agénésie|agénesis||S|sla|C2
+métastase|metástasis||S|sla|C2
+stadification|estadificación||S|sla|C2
+résection|resección||S|sla|C2
+anastomose|anastomosis||S|sla|C2
+angiogenèse|angiogénesis||S|sla|C2
+apoptose|apoptosis||S|sla|C2
+vascularite|vasculitis||S|sla|C2
+neuropathie|neuropatía||S|sla|C2
+caryotype|cariotipo||S|sci|C2
+ontologie|ontología||S|ast|C2
+paradoxe|paradoja||S|ast|C2
+aporie|aporía||S|ast|C2
+oxymore|oxímoron||S|ast|C2
+tautologie|tautología||S|ast|C2
+sophisme|sofisma||S|ast|C2
+syllogisme|silogismo||S|ast|C2
+vertu|virtud||S|ast|C2
+sagacité|sagacidad||S|ast|C2
+clairvoyance|clarividencia||S|ast|C2
+lucidité|lucidez||S|ast|C2
+désintéressement|desinterés||S|ast|C2
+magnanimité|magnanimidad||S|ast|C2
+mansuétude|mansedumbre||S|ast|C2
+miséricorde|misericordia||S|ast|C2
+intransigeance|intransigencia||S|ast|C2
+ombrage|susceptibilidad||S|ast|C2
+hubris|hybris (desmesura)||S|ast|C2
+immanence|inmanencia||S|ast|C2
+contingence|contingencia||S|ast|C2

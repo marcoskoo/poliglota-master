@@ -1,0 +1,251 @@
+capital humain|capital humano||E|fin|C2
+séniorité|antigüedad||S|lav|C2
+implication|implicación (compromiso)||S|lav|C2
+andragogie|andragogía||S|stu|C2
+didactique|didáctica||S|stu|C2
+didacticiel|recurso didáctico digital||S|tec|C2
+heuristique|heurística||S|stu|C2
+zététique|zetética (pensamiento crítico)||S|sci|C2
+maïeutique|mayéutica||S|sci|C2
+étayage|andamiaje (apoyo docente)||S|stu|C2
+zone proximale de développement|zona de desarrollo próximo||E|stu|C2
+métacognition|metacognición||S|stu|C2
+socioconstructivisme|socioconstructivismo||S|stu|C2
+évaluation formative|evaluación formativa||E|stu|C2
+cours magistral|clase magistral||E|stu|C2
+travaux dirigés|prácticas dirigidas||E|stu|C2
+socle commun|bases comunes||E|stu|C2
+conseil de classe|junta de evaluación||E|stu|C2
+carnet de correspondance|agenda de comunicación||E|stu|C2
+passerelle|pasarela (conversión de estudios)||S|stu|C2
+filière|rama de estudios||S|stu|C2
+redoublement|repetición de curso||S|stu|C2
+décrochage scolaire|abandono escolar||E|stu|C2
+remise à niveau|nivelación||E|stu|C2
+conseiller d'orientation|orientador escolar||E|pro|C2
+psychomotricité|psicomotricidad||S|sla|C2
+classe inversée|aula invertida||E|stu|C2
+périscolaire|extraescolar||S|stu|C2
+assiduité|asistencia (constancia)||S|stu|C2
+habilitation|habilitación||S|stu|C2
+soutenance|defensa de tesis||S|stu|C2
+directeur de thèse|director de tesis||E|pro|C2
+mentorat|mentoría||S|stu|C2
+condisciple|condiscípulo||S|stu|C2
+obligation de moyens|obligación de medios||E|ist|C2
+obligation de résultat|obligación de resultado||E|ist|C2
+mise en demeure|requerimiento||E|ist|C2
+référé|procedimiento de urgencia||S|ist|C2
+forclusion|preclusión||S|ist|C2
+amiable compositeur|amigable componedor||E|ist|C2
+exécution provisoire|ejecución provisional||E|ist|C2
+redressement judiciaire|concurso de acreedores||E|ist|C2
+dommages et intérêts|daños y perjuicios||E|ist|C2
+préjudice corporel|daño corporal||E|ist|C2
+partie civile|acusación particular||E|ist|C2
+en l'état|en el estado actual||L|ist|C2
+à toutes fins utiles|a los efectos oportunos||L|ist|C2
+attendu|considerando||S|ist|C2
+dispositif|fallo (parte resolutiva)||S|ist|C2
+parjure|perjurio||S|ist|C2
+vénalité|venalidad||S|ist|C2
+concussion|concusión||S|ist|C2
+prévarication|prevaricación||S|ist|C2
+clause léonine|cláusula leonina||E|ist|C2
+séquestre|depósito judicial||S|ist|C2
+saisie|embargo||S|ist|C2
+contrefaçon|falsificación (piratería)||S|ist|C2
+parquet|fiscalía||S|ist|C2
+sursis|suspensión de condena||S|ist|C2
+circonstances atténuantes|circunstancias atenuantes||E|ist|C2
+recel|receptación (encubrimiento)||S|ist|C2
+détention provisoire|prisión provisional||E|ist|C2
+garde à vue|detención policial||E|ist|C2
+thanatopraxie|tanatopraxia||S|sla|C2
+infection nosocomiale|infección nosocomial||E|sla|C2
+amadouer|ablandar||V|rel|C2
+cajoler|aconchar||V|rel|C2
+dorloter|mimar||V|fam|C2
+galanterie|galantería||S|rel|C2
+chevaleresque|caballeroso||A|rel|C2
+flagornerie|adulación servil||S|rel|C2
+obséquieux|servil (obsequioso)||A|rel|C2
+prévenance|atención galante||S|rel|C2
+clémence|clemencia||S|rel|C2
+animosité|animadversión||S|rel|C2
+rancœur|rencor||S|rel|C2
+inimitié|enemistad||S|rel|C2
+brouille|enfriamiento (pelea)||S|rel|C2
+raccommodement|reconciliación||S|rel|C2
+exutoire|válvula de escape||S|rel|C2
+connivence|connivencia||S|rel|C2
+osmose|osmosis (sintonía)||S|rel|C2
+béguin|enamoramiento (capricho)||S|rel|C2
+dévouement|entrega||S|rel|C2
+abnégation|abnegación||S|rel|C2
+duplicité|duplicidad||S|rel|C2
+fourberie|canallada||S|rel|C2
+perfidie|perfidia||S|rel|C2
+félonie|felonía (deslealtad)||S|rel|C2
+dénonciation|delación||S|rel|C2
+médisance|murmuración (habladurías)||S|cmu|C2
+entremetteur|alcahuete||S|pro|C2
+concubinage|concubinato||S|fam|C2
+ours mal léché|oso mal pelado||E|rel|C2
+mielleux|empalagoso||A|rel|C2
+doigté|tacto (destreza)||S|rel|C2
+ouverture|obertura||S|mus|C2
+point d'orgue|calderón||S|mus|C2
+tessiture|tesitura||S|mus|C2
+rondeau|rondó||S|mus|C2
+librettiste|libretista||S|pro|C2
+metteur en scène|director de escena||E|pro|C2
+vaudeville|vodevil||S|cin|C2
+sotie|sotía (farsa satírica medieval)||S|let|C2
+chansonnier|cancionero||S|let|C2
+trouvère|trovero||S|let|C2
+alexandrin|alejandrino||S|let|C2
+césure|cesura||S|let|C2
+prosodie|prosodia||S|let|C2
+anaphore|anáfora||S|let|C2
+épiphore|epífora||S|let|C2
+hyperbate|hipérbaton||S|let|C2
+synecdoque|sinécdoque||S|let|C2
+pantoum|pantún||S|let|C2
+sizain|sextina||S|let|C2
+incunable|incunable||S|let|C2
+palimpseste|palimpsesto||S|let|C2
+enluminure|miniatura (iluminación)||S|art|C2
+lettrine|capitular||S|let|C2
+glose|glosa||S|let|C2
+scolie|escolio||S|let|C2
+apparat critique|aparato crítico||E|let|C2
+hapax|hapax (palabra única)||S|let|C2
+codicologie|codicología||S|let|C2
+coryphée|corifeo||S|mus|C2
+stichomythie|esticomitia (diálogo cruzado)||S|let|C2
+didascalie|didascalia (acotación)||S|let|C2
+portage|portejeo (transporte de embarcación)||S|vig|C2
+périple|periplo||S|vig|C2
+ravitaillement|avituallamiento||S|vig|C2
+refuge de haute montagne|refugio de altura||E|vig|C2
+méharée|travesía en dromedario||S|vig|C2
+spéléologie|espeleología||S|sve|C2
+gouffre|sima||S|nat|C2
+aven|aven (dolina)||S|nat|C2
+doline|dolina||S|nat|C2
+lapiaz|lapiaz||S|nat|C2
+concrétion|concreción||S|nat|C2
+moraine|morrena||S|nat|C2
+névé|firn (nevero)||S|nat|C2
+sérac|bloque de hielo||S|nat|C2
+rimaye|rimaya||S|nat|C2
+polynie|polinia||S|nat|C2
+calme plat|calma chicha||E|nat|C2
+grain|chubasco (borrasca súbita)||S|nat|C2
+godille|remo de popa||S|vig|C2
+lof|barlovento (amura)||S|vig|C2
+gréement|aparejo (jarcia)||S|vig|C2
+mouillage|fondeadero||S|vig|C2
+radoub|carena||S|vig|C2
+tillac|entrepuente||S|vig|C2
+dunette|toldilla||S|vig|C2
+étrave|roda (proa)||S|vig|C2
+cambuse|despensa (bodega)||S|vig|C2
+chavirer|zozobrar||V|tra|C2
+hypoxie|hipoxia||S|sla|C2
+mal des montagnes|mal de altura||E|sla|C2
+baudrier|arnés||S|spt|C2
+mise en scène|puesta en escena||E|cin|C2
+raccord|empalme (continuidad)||S|cin|C2
+champ-contrechamp|plano-contraplano||S|cin|C2
+plan-séquence|plano secuencia||S|cin|C2
+contre-plongée|contrapicado||S|cin|C2
+profondeur de champ|profundidad de campo||E|cin|C2
+flou artistique|desenfoque deliberado||E|cin|C2
+montage parallèle|montaje paralelo||E|cin|C2
+fondu enchaîné|fundido encadenado||E|cin|C2
+découpage|desglose técnico||S|cin|C2
+argentique|analógico||A|tec|C2
+pastiche|pastiche (imitación de estilo)||S|cin|C2
+doublure|doble (de cine)||S|cin|C2
+bout d'essai|prueba de cámara||E|cin|C2
+rush|rushes (tomas en bruto)||S|cin|C2
+monteur|montador||S|pro|C2
+mixage|mezcla de sonido||S|cin|C2
+bruitage|efectos sonoros||S|cin|C2
+direction d'acteurs|dirección de actores||E|cin|C2
+cinéma d'auteur|cine de autor||E|cin|C2
+tête d'affiche|cabeza de cartel||E|cin|C2
+éreintement|vapuleo (crítica demoledora)||S|cin|C2
+dithyrambique|ditirámbico||A|let|C2
+consécration|consagración||S|cin|C2
+repérage|localización de rodaje||S|cin|C2
+scripte|continuista||S|pro|C2
+régie|regiduría (control técnico)||S|cin|C2
+souffleur|apuntador||S|pro|C2
+exploitation en salles|explotación en salas||E|cin|C2
+avant-première|preestreno||E|cin|C2
+parti pris|apuesta de estilo||S|cin|C2
+fécondité|fecundidad||S|sci|C2
+famille recomposée|familia reconstituida||E|fam|C2
+famille monoparentale|familia monoparental||E|fam|C2
+famille d'accueil|familia de acogida||E|fam|C2
+belle-famille|familia política||E|fam|C2
+veuvage|viudedad||S|fam|C2
+alliance|alianza (parentesco)||S|fam|C2
+aïeux|antepasados||S|fam|C2
+lignée|estirpe||S|fam|C2
+souche|raíz familiar||S|fam|C2
+rejeton|retoño (vástago)||S|fam|C2
+primogéniture|primogenitura||S|fam|C2
+puîné|segundón||S|fam|C2
+matriarcat|matriarcado||S|fam|C2
+fratrie|fratria (hermandad)||S|fam|C2
+gémellité|gemelaridad||S|sla|C2
+nuptialité|nupcialidad||S|sci|C2
+divortialité|tasa de divorcio||S|sci|C2
+natalisme|natalismo||S|sci|C2
+malthusianisme|maltusianismo||S|sci|C2
+transition démographique|transición demográfica||E|sci|C2
+vieillissement démographique|envejecimiento demográfico||E|sci|C2
+pyramide des âges|pirámide de población||E|sci|C2
+solde migratoire|saldo migratorio||E|sci|C2
+flux migratoires|flujos migratorios||E|sci|C2
+déracinement|desarraigo||S|emo|C2
+mixité sociale|mezcla social||E|sci|C2
+ghettoïsation|guetización||S|cit|C2
+migration pendulaire|desplazamiento pendular||E|sci|C2
+indivision|indiviso (comunidad de bienes)||S|ist|C2
+nue-propriété|nuda propiedad||E|ist|C2
+pavillonnaire|unifamiliar||A|cas|C2
+lotissement|urbanización de chalets||S|cas|C2
+densification|densificación||S|cit|C2
+périurbanisation|periurbanización||S|cit|C2
+étalement urbain|expansión urbana||E|cit|C2
+hypercentre|hipercentro||S|cit|C2
+friche|solar abandonado||S|cit|C2
+réhabilitation|rehabilitación||S|cas|C2
+mitage|dispersión constructiva||S|cit|C2
+ceinture verte|cinturón verde||E|nat|C2
+coulée verte|corredor verde||E|cit|C2
+trame viaire|trama viaria||E|cit|C2
+mail|paseo arbolado||S|cit|C2
+modénature|modenadura||S|art|C2
+bossage|bugnado||S|art|C2
+parement|paramento||S|cas|C2
+appareil|aparejo (mampostería)||S|cas|C2
+cintre|cimbra||S|cas|C2
+lanterneau|linterna (claraboya)||S|cas|C2
+claustra|celosía||S|cas|C2
+entablement|entablamento||S|art|C2
+stylobate|estilóbato||S|art|C2
+gros œuvre|obra gruesa||E|cas|C2
+second œuvre|obra fina||E|cas|C2
+ossature|esqueleto (estructura)||S|cas|C2
+haussmannien|haussmanniano||A|cit|C2
+mobilité douce|movilidad suave||E|tra|C2
+voirie|vialidad||S|tra|C2
+pôle d'échanges|intercambiador||E|tra|C2
+terre-plein|terraplén||S|tra|C2
+îlot de chaleur|isla de calor||E|sci|C2

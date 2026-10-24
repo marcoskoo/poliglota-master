@@ -1,0 +1,253 @@
+ouvrage d'art|obra de fábrica||E|tec|C2
+remblai|relleno (terraplén)||S|tec|C2
+déblai|desmonte (excavación)||S|tec|C2
+pieu|pilotte||S|tec|C2
+palplanche|tablestaca||S|tec|C2
+batardeau|ataguía||S|tec|C2
+culée|estribo||S|tec|C2
+voussoir|dovela||S|tec|C2
+précontrainte|pretensado||S|tec|C2
+flambage|pandeo||S|tec|C2
+limite d'élasticité|límite elástico||E|tec|C2
+cisaillement|cizalladura||S|tec|C2
+corrosion sous contrainte|corrosión bajo tensión||E|tec|C2
+grenaillage|granallado||S|tec|C2
+trempe|temple (del metal)||S|tec|C2
+recuit|recocido||S|tec|C2
+écrouissage|endurecimiento por deformación||S|tec|C2
+rugosité|rugosidad||S|tec|C2
+taraudage|roscado con machuelo||S|tec|C2
+carottage|sondeo a testigo||S|tec|C2
+coffrage|encefrado||S|tec|C2
+cintre|cimbra||S|tec|C2
+calorifugeage|aislamiento térmico||S|tec|C2
+pertes de charge|pérdidas de carga||E|tec|C2
+cavitation|cavitación||S|tec|C2
+rabattement de nappe|descenso del nivel freático||E|tec|C2
+géotextile|geotextil||S|tec|C2
+fontis|socavón||S|tec|C2
+doctorant|doctorando||S|stu|C2
+soutenance|defensa de tesis||S|stu|C2
+rapporteur|evaluador de tesis||S|stu|C2
+émérite|emérito||A|pro|C2
+chaire|cátedra||S|stu|C2
+laboratoire d'accueil|laboratorio de adscripción||E|stu|C2
+unité mixte de recherche|unidad mixta de investigación||E|stu|C2
+comité de lecture|comité de lectura (revisión por pares)||E|stu|C2
+facteur d'impact|factor de impacto||E|stu|C2
+prépublication|prepublicación||S|stu|C2
+intégrité scientifique|integridad científica||E|stu|C2
+appareil critique|aparato crítico||E|let|C2
+recueil de données|recolección de datos||E|stu|C2
+enquête de terrain|trabajo de campo||E|stu|C2
+entretien semi-directif|entrevista semidirigida||E|stu|C2
+triangulation|triangulación metodológica||S|stu|C2
+analyse factorielle|análisis factorial||E|sci|C2
+variable de contrôle|variable de control||E|sci|C2
+plan expérimental|diseño experimental||E|sci|C2
+réplication|replicación experimental||S|sci|C2
+puissance statistique|potencia estadística||E|sci|C2
+essai randomisé|ensayo aleatorizado||E|sci|C2
+double aveugle|doble ciego||E|sci|C2
+étude cas-témoins|estudio de casos y controles||E|sci|C2
+facteur de confusion|factor de confusión||E|sci|C2
+biais de sélection|sesgo de selección||E|sci|C2
+percée|avance decisivo||S|sci|C2
+science ouverte|ciencia abierta||E|stu|C2
+salle des ventes|sala de subastas||E|art|C2
+commissaire-priseur|comisario subastador||S|pro|C2
+cotation|cotización de mercado||S|fin|C2
+authentification|autentificación||S|art|C2
+certificat d'authenticité|certificado de autenticidad||E|art|C2
+provenance|procedencia (historial de la obra)||S|art|C2
+ex-libris|exlibris||S|art|C2
+reliure|encuadernación||S|art|C2
+rousseur|mancha de humedad en el papel||S|art|C2
+poinçon|punzón (contraste de metales)||S|art|C2
+orfèvrerie|orfebrería||S|art|C2
+cabinet de curiosités|gabinete de curiosidades||E|art|C2
+présentoir|expositor de piezas||S|art|C2
+cimaise|régula de exposición||S|art|C2
+pièce maîtresse|pieza estrella||E|art|C2
+attribution|atribución de autoría||S|art|C2
+catalogue raisonné|catálogo razonado||E|art|C2
+prix de réserve|precio de reserva||E|fin|C2
+frais d'acquisition|comisión del comprador||E|fin|C2
+coup de marteau|martillazo (remate)||E|art|C2
+vacation|sesión de subastas||S|art|C2
+de gré à gré|de mutuo acuerdo||E|art|C2
+numismate|numismático||S|pro|C2
+philatélie|filatelia||S|art|C2
+camée|camafeo||S|art|C2
+sigillographie|sigilografía||S|art|C2
+héraldique|heráldica||S|art|C2
+blasonnement|blasón heráldico||S|art|C2
+cuisine d'auteur|cocina de autor||E|ris|C2
+chef de partie|jefe de partida||E|pro|C2
+croustillant|crujiente (preparación crujiente)||S|ali|C2
+moelleux|bizcocho de corazón tierno||S|ali|C2
+accord mets et vins|maridaje de comida y vino||E|ris|C2
+sommellerie|sumillería||S|ris|C2
+égrappage|despalillado||S|ali|C2
+foulage|pisado de la uva||S|ali|C2
+macération carbonique|maceración carbónica||E|ali|C2
+élevage|envejecimiento y crianza del vino||S|ali|C2
+dégorgement|degüello (del cava)||S|ali|C2
+goût de bouchon|sabor a corcho||E|ali|C2
+analyse sensorielle|análisis sensorial||E|ali|C2
+flaveur|sabor complejo (flavor)||S|ali|C2
+longueur en bouche|persistencia en boca||E|ali|C2
+rétro-olfaction|vía retronasal||S|ali|C2
+sapide|sápido||A|ali|C2
+table d'hôtes|mesa de anfitrión||E|ris|C2
+bistronomie|bistronomía||S|ris|C2
+trou normand|sorbo de aguardiente para hacer hueco||E|ris|C2
+mise en bouche|entremés de bienvenida||E|ris|C2
+dressage|emplatado||S|ris|C2
+liaison|ligazón (de una salsa)||S|ali|C2
+réduction|reducción (concentración de una salsa)||S|ali|C2
+cuire à la nage|cocer en caldo corto||E|ali|C2
+cuisson sous vide|cocción al vacío||E|ali|C2
+ballotine|balotina||S|ali|C2
+galantine|galantina||S|ali|C2
+convenances|decoro (usos sociales)||S|ast|C2
+mondanité|mundanería||S|ast|C2
+préséance|precedencia||S|ast|C2
+bon ton|buen tono||E|ast|C2
+obligeance|deferencia (disposición a servir)||S|ast|C2
+déférence|deferencia||S|ast|C2
+condescendance|condescendencia||S|ast|C2
+suffisance|engreimiento||S|ast|C2
+matois|socarrón y astuto||A|ast|C2
+prévenance|amabilidad anticipada||S|ast|C2
+vachardie|maldad velada||S|ast|C2
+animosité|animadversión||S|ast|C2
+inimitié|enemistad||S|rel|C2
+raccommodage|apaño de la relación||S|rel|C2
+renouement|reanudación de relaciones||S|rel|C2
+pactiser|pactar con el adversario||V|rel|C2
+clientélisme|clientelismo||S|ist|C2
+copinage|amiguismo||S|ast|C2
+faire antichambre|esperar mucho para ser recibido||E|rel|C2
+avoir ses entrées|estar admitido en un círculo||E|rel|C2
+tenir table ouverte|mantener mesa abierta||E|rel|C2
+pot de départ|brindis de despedida||E|rel|C2
+cavalièrement|con descaro y brusquedad||D|cmu|C2
+mettre au pilori|exponer a la vergüenza pública||E|cmu|C2
+charivari|cencerrada||S|ast|C2
+esclandre|escándalo público||S|ast|C2
+bisbille|disputa pasajera||S|rel|C2
+égards|miramientos||S|ast|C2
+lactatémie|lactatemia||S|spt|C2
+fractionné|entrenamiento fraccionado||S|spt|C2
+surcompensation|supercompensación||S|spt|C2
+charge d'entraînement|carga de entrenamiento||E|spt|C2
+surentraînement|sobreentrenamiento||S|spt|C2
+myalgie|mialgia||S|sla|C2
+élongation|elongación muscular||S|sla|C2
+proprioception|propiocepción||S|sla|C2
+gainage|trabajo de core||S|spt|C2
+plyométrie|pliométria||S|spt|C2
+explosivité|explosividad||S|spt|C2
+vélocité|velocidad de pedaleo||S|spt|C2
+braquet|desarrollo de plato y piñón||S|spt|C2
+hypoxie|hipoxia||S|sla|C2
+hypertrophie musculaire|hipertrofia muscular||E|spt|C2
+anabolisme|anabolismo||S|sla|C2
+catabolisme|catabolismo||S|sla|C2
+métabolisme de base|metabolismo basal||E|sla|C2
+glycogène|glucógeno||S|sla|C2
+coup de chaleur|golpe de calor||E|sla|C2
+thermorégulation|termorregulación||S|sla|C2
+vasoconstriction|vasoconstricción||S|sla|C2
+vasodilatation|vasodilatación||S|sla|C2
+catécholamines|catecolaminas||S|sla|C2
+stress oxydatif|estrés oxidativo||E|sla|C2
+gestuelle|gestual técnica||S|spt|C2
+capturation de mouvement|captura de movimiento||E|tec|C2
+détente sèche|salto vertical||E|spt|C2
+alezan|castaño (capa equina)||A|ani|C2
+bai|bayo||A|ani|C2
+isabelle|isabelo (capa equina)||A|ani|C2
+balzane|calzado blanco del caballo||S|ani|C2
+maréchal-ferrant|herrador||S|pro|C2
+ferrure|herraje||S|ani|C2
+paturon|cuartilla||S|ani|C2
+boulet|menudillo||S|ani|C2
+jarret|corvejón||S|ani|C2
+garrot|cruz del caballo||S|ani|C2
+encolure|cuello del caballo||S|ani|C2
+amble|ambladura||S|ani|C2
+ruade|coz||S|ani|C2
+hippisme|hípica||S|spt|C2
+lad|mozo de cuadra||S|pro|C2
+débourrage|doma inicial||S|ani|C2
+sellerie|guarnicionería||S|ani|C2
+muserolle|muserola||S|ani|C2
+caveçon|cabestro de doma||S|ani|C2
+gourmette|gamonilla (cadena del bocado)||S|ani|C2
+pesage|recinto de pesaje||S|spt|C2
+saillie|cubre||S|ani|C2
+pouliche|potranca||S|ani|C2
+confirmation|conformación morfológica canina||S|ani|C2
+dysplasie de la hanche|displasia de cadera||E|ani|C2
+tares|taras hereditarias||S|ani|C2
+taux de consanguinité|coeficiente de consanguinidad||E|ani|C2
+maître-chien|adiestrador canino||S|pro|C2
+isobare|isobara||S|sci|C2
+isotherme|isoterma||S|sci|C2
+occlusion|oclusión (frente ocluido)||S|sci|C2
+cyclogénèse|ciclogénesis||S|sci|C2
+dôme de chaleur|domo de calor||E|cli|C2
+foudroiement|fulguración||S|cli|C2
+ligne de grain|línea de turbonada||E|cli|C2
+trombe|tromba||S|cli|C2
+congère|congeo de nieve||S|cli|C2
+pluie verglaçante|lluvia helada||E|cli|C2
+diluvienne|diluvial||A|cli|C2
+crue centennale|crecida centenal||E|cli|C2
+débit de pointe|caudal punta||E|sci|C2
+submersion marine|inundación costera||E|cli|C2
+déficit pluviométrique|déficit pluviométrico||E|cli|C2
+pluviométrie|pluviometría||S|sci|C2
+hygrométrie|higrometría||S|sci|C2
+nébulosité|nubosidad||S|sci|C2
+cumulonimbus|cumulonimbo||S|sci|C2
+cellule orageuse|celda tormentosa||E|cli|C2
+courant-jet|corriente en chorro||S|sci|C2
+albédo|albedo||S|sci|C2
+bilan radiatif|balance radiativo||E|sci|C2
+séquestration du carbone|secuestro de carbono||E|sci|C2
+puits de carbone|sumidero de carbono||E|sci|C2
+prévision numérique|predicción numérica||E|sci|C2
+vigilance orange|alerta naranja||E|cli|C2
+radiosondage|radiosondeo||S|sci|C2
+songez que|piense usted que||E|cnn|C2
+figurez-vous que|figúrese usted que||E|cnn|C2
+disons-le|digámoslo||E|cnn|C2
+pour tout dire|a decir verdad||E|cnn|C2
+comme qui dirait|por así decir||E|cnn|C2
+sans ambages|sin rodeos||E|cnn|C2
+sans fard|sin adornos||E|cnn|C2
+c'est un euphémisme|es un eufemismo||E|cnn|C2
+c'est peu dire|es poco decir||E|cnn|C2
+et pour cause|y con razón||E|cnn|C2
+une fois pour toutes|de una vez por todas||E|cnn|C2
+tout au plus|como mucho||E|cnn|C2
+tout au moins|cuando menos||E|cnn|C2
+en dépit de|a pesar de||R|cnn|C2
+sans préjuger de|sin perjuicio de||E|cnn|C2
+indépendamment de|con independencia de||E|cnn|C2
+abstraction faite de|haciendo abstracción de||E|cnn|C2
+je vous laisse juge|le dejo a usted el juicio||E|cnn|C2
+le fait est que|el caso es que||E|cnn|C2
+il convient de souligner|conviene subrayar||E|cnn|C2
+gardons-nous de|guardémonos de||E|cnn|C2
+osons le dire|atrevámonos a decirlo||E|cnn|C2
+comme dirait l'autre|como diría el otro||E|cnn|C2
+pour filer la métaphore|para prolongar la metáfora||E|cnn|C2
+tout bien pesé|bien pensado todo||E|cnn|C2
+pour couronner le tout|para colmo||E|cnn|C2
+c'est le comble|es el colmo||E|ast|C2
+faut-il le rappeler|cabe recordarlo||E|cnn|C2
+que dis-je|qué digo||E|cnn|C2
