@@ -1,0 +1,281 @@
+ponderar|ponderar||V|cmu|C2
+ler nas entrelinhas|leer entre líneas||L|let|C2
+realçar|realzar||V|cmu|C2
+enaltecer|enaltecer||V|cmu|C2
+denegrir|denigrir||V|cmu|C2
+increpar|increpar||V|cmu|C2
+vituperar|vituperar||V|cmu|C2
+subentender|sobrentender||V|cmu|C2
+explicitar|explicitar||V|cmu|C2
+polemizar|polemizar||V|cmu|C2
+conjecturar|conjeturar||V|cmu|C2
+preconizar|preconizar||V|cmu|C2
+estipular|estipular||V|cmu|C2
+epistemologia|epistemología||S|stu|C2
+heurística|heurística||S|stu|C2
+axioma|axioma||S|stu|C2
+paradigma|paradigma||S|stu|C2
+dogmática|dogmática||S|ast|C2
+teleologia|teleología||S|ast|C2
+conceptualização|conceptualización||S|ast|C2
+problematização|problematización||S|stu|C2
+interdisciplinaridade|interdisciplinariedad||S|stu|C2
+exegese|exégesis||S|let|C2
+hermenêutica|hermenéutica||S|ast|C2
+taxonomia|taxonomía||S|sci|C2
+tipologia|tipología||S|stu|C2
+empirismo|empirismo||S|ast|C2
+determinismo|determinismo||S|ast|C2
+reducionismo|reduccionismo||S|ast|C2
+plausibilidade|plausibilidad||S|ast|C2
+premissa|premisa||S|stu|C2
+corolário|corolario||S|stu|C2
+inferência|inferencia||S|stu|C2
+subjetivismo|subjetivismo||S|ast|C2
+veracidade|veracidad||S|ast|C2
+falácia|falacia||S|ast|C2
+sofisma|sofisma||S|ast|C2
+casuística|casuística||S|ast|C2
+especioso|especioso||A|ast|C2
+mendaz|mendaz||A|ast|C2
+falacioso|falaz||A|ast|C2
+mentira piedosa|mentira piadosa||L|cmu|C2
+meia-verdade|media verdad||S|ast|C2
+embuste|embuste||S|ast|C2
+logro|engaño (estafa)||S|ast|C2
+apócrifo|apócrifo||A|let|C2
+verossímil|verosímil||A|ast|C2
+fidedigno|fidedigno||A|ast|C2
+espúrio|espurio||A|ast|C2
+refutabilidade|refutabilidad||S|ast|C2
+impostura|impostura||S|ast|C2
+patranha|patraña||S|ast|C2
+desmentido|desmentido||S|cmu|C2
+verídico|verídico||A|ast|C2
+falsário|falsario||S|ist|C2
+sublimidade|sublimidad||S|art|C2
+hedonismo|hedonismo||S|ast|C2
+virtuosismo|virtuosismo||S|art|C2
+candor|candor||S|ast|C2
+magnanimidade|magnanimidad||S|ast|C2
+mesquinhez|mezquindad||S|ast|C2
+esmero|esmero||S|ast|C2
+sobriedade|sobriedad||S|ast|C2
+ostentação|ostentación||S|ast|C2
+purismo|purismo||S|ast|C2
+manierismo|manierismo||S|art|C2
+sublime|sublime||A|art|C2
+sórdido|sórdido||A|ast|C2
+suntuoso|suntuoso||A|art|C2
+efémero|efímero||A|ast|C2
+etéreo|etéreo||A|ast|C2
+prosaico|prosaico||A|let|C2
+visceral|visceral||A|ast|C2
+inócuo|inócuo||A|ast|C2
+reprovável|reprobable||A|ast|C2
+louvável|loable||A|ast|C2
+ínfimo|ínfimo||A|ast|C2
+ímpar|sin par (excepcional)||A|ast|C2
+assaz|bastante (en alto grado)||D|ast|C2
+sobejamente|sobradamente||D|ast|C2
+exíguo|exiguo||A|ast|C2
+parcimónia|parquedad||S|ast|C2
+miríade|miriada||S|ast|C2
+profusão|profusión||S|ast|C2
+ordem de grandeza|orden de magnitud||L|sci|C2
+margem de erro|margen de error||L|sci|C2
+tendencialmente|tendencialmente||D|sci|C2
+exponencialmente|exponencialmente||D|sci|C2
+desproporcionado|desproporcionado||A|ast|C2
+desmedido|desmesurado||A|ast|C2
+inaudito|inaudito||A|ast|C2
+sensivelmente|aproximadamente||D|ast|C2
+acréscimo|incremento||S|ast|C2
+decréscimo|decrecimiento||S|ast|C2
+aproximação|aproximación||S|sci|C2
+quociente|cociente||S|stu|C2
+gradação|gradación (matiz gradual)||S|ast|C2
+eufemismo|eufemismo||S|cmu|C2
+disfemismo|disfemismo||S|cmu|C2
+circunlocução|circunloquio||S|cmu|C2
+litote|lítote||S|let|C2
+subterfúgio|subterfugio||S|ast|C2
+terceira idade|tercera edad||L|cmu|C2
+passar a melhor vida|pasar a mejor vida||L|cmu|C2
+deferência|deferencia||S|cmu|C2
+urbanidade|urbanidad||S|cmu|C2
+dissuasão|disuasión||S|ist|C2
+escalada|escalada||S|ist|C2
+distensão|distensión||S|ist|C2
+gesto de boa vontade|gesto de buena voluntad||L|ist|C2
+à margem de|al margen de||L|cnn|C2
+entendimento|acuerdo diplomático||S|ist|C2
+impasse|impasse (punto muerto)||S|ast|C2
+evasiva|evasiva||S|cmu|C2
+circunspecção|circunspección||S|ast|C2
+lisonja|lisonja||S|cmu|C2
+adulação|adulación||S|cmu|C2
+dar carta branca|dar carta blanca||L|cmu|C2
+lânguido|lánguido||A|let|C2
+saudade|saudade (nostalgia melancólica)||S|let|C2
+albo|albo (blanco, poético)||A|let|C2
+errância|errancia (vagabundeo)||S|let|C2
+vagalume|luciérnaga||S|nat|C2
+alvorada|alborada||S|tmp|C2
+lusco-fusco|penumbra del crepúsculo||S|let|C2
+mavioso|tierno (dulce y grácil)||A|let|C2
+dolente|doliente||A|let|C2
+plangente|plañidero||A|let|C2
+lúgubre|lúgubre||A|let|C2
+fulgor|fulgor||S|let|C2
+murmúrio|murmullo||S|let|C2
+vagido|vagido||S|let|C2
+esgar|mueca (desgarro)||S|let|C2
+quimera|quimera||S|let|C2
+efígie|efigie||S|let|C2
+elegíaco|elegíaco||A|let|C2
+bucólico|bucólico||A|let|C2
+regaço|regazo||S|let|C2
+lume|fuego (hogar)||S|let|C2
+algoz|verdugo (opresor)||S|ast|C2
+dó|pena (compasión)||S|emo|C2
+azáfama|afán (bullicio)||S|ast|C2
+hodierno|hodierno||A|ast|C2
+hontem|anteayer (arcaico)||D|tmp|C2
+antanho|antano||S|tmp|C2
+dantes|antiguamente||D|tmp|C2
+outrora|en otro tiempo||D|tmp|C2
+mui|muy (arcaico)||D|ast|C2
+vós|vosotros (arcaico)||P|cmu|C2
+fagueiro|afable (gracioso)||A|let|C2
+senhoril|señorial||A|ast|C2
+fidalgo|hidalgo||S|pro|C2
+mancebo|mancebo (joven)||S|ast|C2
+donzela|doncella||S|ast|C2
+ermo|yermo||S|nat|C2
+cismar|cavilar||V|let|C2
+embair|embaucar||V|cmu|C2
+estugar|apresurar||V|ast|C2
+presteza|presteza||S|ast|C2
+enleio|embeleso (aturdimiento)||S|let|C2
+outrossim|asimismo||D|cnn|C2
+não obstante|no obstante||L|cnn|C2
+mormente|principalmente||D|cnn|C2
+conquanto|aunque (por más que)||C|cnn|C2
+porquanto|puesto que||C|cnn|C2
+visto que|dado que||L|cnn|C2
+doravante|de ahora en adelante||D|tmp|C2
+de resto|por lo demás||L|cnn|C2
+com efeito|en efecto||L|cnn|C2
+por demais|en exceso||L|cnn|C2
+sequer|siquiera||D|cnn|C2
+decerto|ciertamente||D|cnn|C2
+porventura|acaso||D|cnn|C2
+não raro|no pocas veces||L|cnn|C2
+de quando em quando|de vez en cuando||L|cnn|C2
+em suma|en suma||L|cnn|C2
+ato contínuo|acto seguido||L|cnn|C2
+por conseguinte|por consiguiente||L|cnn|C2
+destarte|de esta suerte||D|cnn|C2
+malgrado|a pesar de||R|cnn|C2
+aquando de|con ocasión de||L|cnn|C2
+aludir|aludir||V|cmu|C2
+remeter|remitir (reenviar)||V|cmu|C2
+escusado será dizer|no hace falta decir||L|cmu|C2
+interpelar|interpelar||V|cmu|C2
+inquirir|interrogar||V|cmu|C2
+confidenciar|confiar (contar en confianza)||V|cmu|C2
+desabafar|desahogarse||V|emo|C2
+desmentir|desmentir||V|cmu|C2
+retratar-se|retractarse||V|cmu|C2
+desdizer-se|desdecirse||V|cmu|C2
+entreouvir|oír a medias||V|cmu|C2
+pressentir|presentir||V|cmu|C2
+noticiar|dar noticia de||V|cmu|C2
+bradar|bramar (clamar)||V|cmu|C2
+balbuciar|balbucear||V|cmu|C2
+gaguejar|tartamudear||V|cmu|C2
+tagarelar|parlotear||V|cmu|C2
+perorar|perorar||V|cmu|C2
+dissertar|disertar||V|cmu|C2
+dissuadir|disuadir||V|cmu|C2
+a priori|a priori||L|ast|C2
+a posteriori|a posteriori||L|ast|C2
+ad aeternum|para siempre||L|ast|C2
+grosso modo|a grandes rasgos||L|ast|C2
+sensu lato|en sentido amplio||L|ast|C2
+sensu stricto|en sentido estricto||L|ast|C2
+ipso facto|ipso facto||L|ast|C2
+in situ|in situ||L|sci|C2
+in vitro|in vitro||L|sci|C2
+ex libris|exlibris||L|let|C2
+ad hoc|ad hoc||L|ast|C2
+per capita|per cápita||L|fin|C2
+pro rata|proporcionalmente||L|fin|C2
+mutatis mutandis|mutatis mutandis||L|ast|C2
+ceteris paribus|ceteris paribus||L|sci|C2
+prima facie|prima facie (a primera vista)||L|ist|C2
+sui generis|sui generis||L|ast|C2
+in flagrante|in fraganti||L|ist|C2
+statu quo|statu quo||L|ast|C2
+inter alia|entre otras cosas||L|ast|C2
+aquisição da linguagem|adquisición del lenguaje||L|sci|C2
+estádio de desenvolvimento|estadio de desarrollo||L|sci|C2
+egocentrismo|egocentrismo||S|sci|C2
+apego|apego (vínculo afectivo)||S|emo|C2
+maturação|maduración||S|sci|C2
+mnemónica|mnemotecnia||S|sci|C2
+metacognição|metacognición||S|sci|C2
+diferenciação pedagógica|atención a la diversidad||L|stu|C2
+avaliação formativa|evaluación formativa||L|stu|C2
+avaliação sumativa|evaluación sumativa||L|stu|C2
+literacia|alfabetización||S|stu|C2
+literacia mediática|alfabetización mediática||L|stu|C2
+numeracia|competencia numérica||S|stu|C2
+psicomotricidade|psicomotricidad||S|sci|C2
+estimulação precoce|estimulación temprana||L|sci|C2
+desenvolvimento cognitivo|desarrollo cognitivo||L|sci|C2
+ansiedade de separação|ansiedad de separación||L|sci|C2
+sobredotação|superdotación||S|stu|C2
+dislexia|dislexia||S|stu|C2
+hiperatividade|hiperactividad||S|sla|C2
+psicanálise|psicoanálisis||S|sla|C2
+inconsciente|inconsciente||S|sla|C2
+transferência|transferencia (psicoanalítica)||S|sla|C2
+contratransferência|contratransferencia||S|sla|C2
+mecanismo de defesa|mecanismo de defensa||L|sla|C2
+catarse|catarsis||S|sla|C2
+resiliência|resiliencia||S|sla|C2
+regressão|regresión||S|sla|C2
+dissociação|disociación||S|sla|C2
+psicoterapia|psicoterapia||S|sla|C2
+aconselhamento|asesoramiento (orientación)||S|sla|C2
+introspeção|introspección||S|sla|C2
+luto|duelo (por una pérdida)||S|emo|C2
+somatização|somatización||S|sla|C2
+hipnose|hipnosis||S|sla|C2
+remissão|remisión||S|sla|C2
+clivagem|clivaje (escisión)||S|sla|C2
+compulsão|compulsión||S|sla|C2
+alexitimia|alexitimia||S|sla|C2
+angústia|angustia||S|emo|C2
+avareza|avaricia||S|ast|C2
+gula|gula||S|ast|C2
+soberba|soberbia||S|ast|C2
+intemperança|intemperancia||S|ast|C2
+probidade|proidad (integridad)||S|ast|C2
+retidão|rectitud||S|ast|C2
+desfaçatez|desfachatez||S|ast|C2
+perfídia|perfidia||S|ast|C2
+aleivosia|alevosía||S|ast|C2
+malevolência|malevolencia||S|ast|C2
+sanha|saña||S|ast|C2
+irascível|irascible||A|ast|C2
+despeito|despecho (resentimiento)||S|ast|C2
+desdém|desdén||S|ast|C2
+fanatismo|fanatismo||S|ast|C2
+sectarismo|sectarismo||S|ast|C2
+devassidão|libertinaje||S|ast|C2
+abnegação|abnegación||S|ast|C2
+longanimidade|longanimidad||S|ast|C2
+ignomínia|ignominia||S|ast|C2

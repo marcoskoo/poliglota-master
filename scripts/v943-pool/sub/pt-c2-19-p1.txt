@@ -1,0 +1,281 @@
+microarquitetura|microarquitectura||S|tec|C2
+silício|silicio||S|sci|C2
+obleia|oblea (lámina de silicio)||S|tec|C2
+transistor de efeito de campo|transistor de efecto de campo||L|tec|C2
+fotolitografia|fotolitografía||S|tec|C2
+pastilha|chip (de silicio)||S|tec|C2
+díodo|diodo||S|tec|C2
+semicondutor|semiconductor||S|tec|C2
+microprocessador|microprocesador||S|tec|C2
+barramento|bus de datos||S|tec|C2
+memória cache|memoria caché||L|tec|C2
+latência|latencia||S|tec|C2
+dissipador de calor|disipador de calor||L|tec|C2
+dopagem|dopaje (de un semiconductor)||S|sci|C2
+junção p-n|unión p-n||L|sci|C2
+encapsulamento|encapsulado||S|tec|C2
+placa de circuito impresso|placa de circuito impreso||L|tec|C2
+condutividade|conductividad||S|sci|C2
+supercondutividade|superconductividad||S|sci|C2
+largura de banda|ancho de banda||L|tec|C2
+porta lógica|puerta lógica||L|tec|C2
+armazém de dados|almacén de datos||L|tec|C2
+mineração de dados|minería de datos||L|tec|C2
+agregação|agregación||S|sci|C2
+indexação|indexación||S|tec|C2
+redundância|redundancia||S|tec|C2
+normalização|normalización (de bases de datos)||S|tec|C2
+metadados|metadatos||S|tec|C2
+algoritmo genético|algoritmo genético||L|sci|C2
+aprendizagem automática|aprendizaje automático||L|tec|C2
+correlacionar|correlacionar||V|sci|C2
+cardinalidade|cardinalidad||S|sci|C2
+granularidade|granularidad||S|tec|C2
+interoperabilidade|interoperabilidad||S|tec|C2
+armazenamento em nuvem|almacenamiento en la nube||L|tec|C2
+estatística descritiva|estadística descriptiva||L|sci|C2
+estatística inferencial|estadística inferencial||L|sci|C2
+amostragem|muestreo||S|sci|C2
+desvio padrão|desviación típica||L|sci|C2
+histograma|histograma||S|sci|C2
+série temporal|serie temporal||L|sci|C2
+tabela dinâmica|tabla dinámica||L|tec|C2
+livro-razão|libro mayor||S|fin|C2
+mecanismo de consenso|mecanismo de consenso||L|tec|C2
+recompensa de bloco|recompensa de bloque||L|fin|C2
+prova de trabalho|prueba de trabajo||L|tec|C2
+prova de participação|prueba de participación||L|tec|C2
+contrato inteligente|contrato inteligente||L|tec|C2
+carteira digital|cartera digital||L|fin|C2
+criptomoeda|criptomoneda||S|fin|C2
+tokenização|tokenización||S|fin|C2
+descentralização|descentralización||S|tec|C2
+finanças descentralizadas|finanzas descentralizadas||L|fin|C2
+bifurcação|bifurcación (de una cadena)||S|tec|C2
+chave privada|clave privada||L|tec|C2
+função de hash|función hash||L|tec|C2
+imutabilidade|inmutabilidad||S|tec|C2
+nó validador|nodo validador||L|tec|C2
+selo temporal|sello de tiempo||L|tec|C2
+rastreabilidade|trazabilidad||S|tec|C2
+moeda estável|moneda estable||L|fin|C2
+dinheiro eletrónico|dinero electrónico||L|fin|C2
+ativo não fungível|activo no fungible||L|fin|C2
+impressão digital|huella dactilar||L|tec|C2
+reconhecimento de padrões|reconocimiento de patrones||L|sci|C2
+reconhecimento facial|reconocimiento facial||L|tec|C2
+identificação por radiofrequência|identificación por radiofrecuencia||L|tec|C2
+verificação de identidade|verificación de identidad||L|tec|C2
+falsa aceitação|falsa aceptación||L|tec|C2
+falsa rejeição|falso rechazo||L|tec|C2
+amostra biométrica|muestra biométrica||L|tec|C2
+modelo biométrico|plantilla biométrica||L|tec|C2
+termografia|termografía||S|sci|C2
+deteção de vivacidade|detección de vivacidad||L|tec|C2
+segmentação de imagem|segmentación de imagen||L|sci|C2
+classificação supervisionada|clasificación supervisada||L|sci|C2
+extração de características|extracción de características||L|sci|C2
+aprendizagem profunda|aprendizaje profundo||L|sci|C2
+sobreajustamento|sobreajuste||S|sci|C2
+minúcia|minucia (detalle de la huella)||S|sci|C2
+deteção de intrusão|detección de intrusión||L|tec|C2
+criptografia de chave pública|criptografía de clave pública||L|tec|C2
+varrimento|escaneo||S|tec|C2
+autenticação multifator|autenticación multifactor||L|tec|C2
+rede de sensores|red de sensores||L|tec|C2
+atuador|actuador||S|tec|C2
+cidade inteligente|ciudad inteligente||L|cit|C2
+domótica|domótica||S|cas|C2
+comutação de pacotes|conmutación de paquetes||L|tec|C2
+computação em nuvem|computación en la nube||L|tec|C2
+ubíqua|ubicua||A|tec|C2
+telemetria|telemetría||S|tec|C2
+gestão de tráfego|gestión del tráfico||L|cit|C2
+monitorização contínua|monitorización continua||L|tec|C2
+dispositivo vestível|dispositivo vestible||L|tec|C2
+protocolo de comunicação|protocolo de comunicación||L|tec|C2
+interconectividade|interconectividad||S|tec|C2
+rede elétrica inteligente|red eléctrica inteligente||L|tec|C2
+mobilidade urbana|movilidad urbana||L|cit|C2
+sensorização|sensorización||S|tec|C2
+comunicação máquina a máquina|comunicación máquina a máquina||L|tec|C2
+eletrónica embarcada|electrónica embarcada||L|tec|C2
+teleassistência|teleasistencia||S|tec|C2
+veículo conectado|vehículo conectado||L|tra|C2
+videovigilância|videovigilancia||S|tec|C2
+realidade virtual|realidad virtual||L|tec|C2
+realidade aumentada|realidad aumentada||L|tec|C2
+imersão|inmersión||S|tec|C2
+avatar|avatar||S|sve|C2
+motor de jogo|motor de juego||L|tec|C2
+personagem jogável|personaje jugable||L|sve|C2
+simulador de voo|simulador de vuelo||L|sve|C2
+telepresença|telepresencia||S|tec|C2
+holográfico|holográfico||A|tec|C2
+cinetose|cinetosis||S|sla|C2
+mundo aberto|mundo abierto||L|sve|C2
+tabela de classificação|tabla de clasificación||L|sve|C2
+multijogador|multijugador||A|sve|C2
+renderização|renderizado||S|tec|C2
+malha poligonal|malla poligonal||L|tec|C2
+ambiente imersivo|entorno inmersivo||L|tec|C2
+captura de movimento|captura de movimiento||L|tec|C2
+háptico|háptico||A|tec|C2
+jogo sério|juego serio||L|sve|C2
+ponto de controlo|punto de control||L|sve|C2
+sonorização|sonorización||S|cin|C2
+vulcanologia|vulcanología||S|sci|C2
+magma|magma||S|sci|C2
+cinza vulcânica|ceniza volcánica||L|sci|C2
+cratera|cráter||S|sci|C2
+caldeira vulcânica|caldera volcánica||L|sci|C2
+fumarola|fumarola||S|sci|C2
+erupção|erupción||S|sci|C2
+escoada lávica|colada de lava||L|sci|C2
+sismógrafo|sismógrafo||S|sci|C2
+sismicidade|sismicidad||S|sci|C2
+epicentro|epicentro||S|sci|C2
+hipocentro|hipocentro||S|sci|C2
+licuefação|licuefacción||S|sci|C2
+deslizamento de terras|deslizamiento de tierras||L|nat|C2
+desabamento|derrumbe||S|nat|C2
+piroclasto|piroclasto||S|sci|C2
+subdução|subducción||S|sci|C2
+placa tectónica|placa tectónica||L|sci|C2
+tremor de terra|terremoto||L|nat|C2
+manto terrestre|manto terrestre||L|sci|C2
+lava em almofada|lava en almohadilla||L|sci|C2
+limnologia|limnología||S|sci|C2
+zona húmida|humedal||L|nat|C2
+paul|pantano||S|nat|C2
+sapal|marisma||S|nat|C2
+esteiro|estero||S|nat|C2
+leito do rio|cauce del río||L|nat|C2
+afluente|afluente||S|nat|C2
+nascente|manantial||S|nat|C2
+regime hídrico|régimen hídrico||L|sci|C2
+caudal ecológico|caudal ecológico||L|nat|C2
+eutrofização|eutrofización||S|sci|C2
+zona ripícola|zona ribereña||L|nat|C2
+fitoplâncton|fitoplancton||S|sci|C2
+lençol freático|nivel freático||L|sci|C2
+aquífero|acuífero||S|sci|C2
+albufeira|embalse||S|nat|C2
+assoreamento|colmatación de un cauce||S|nat|C2
+escoamento|escorrentía||S|nat|C2
+turfeira|turbera||S|nat|C2
+turfa|turba||S|nat|C2
+remanso|remanso||S|nat|C2
+pedologia|pedología||S|sci|C2
+horizonte do solo|horizonte del suelo||L|sci|C2
+rotação de culturas|rotación de cultivos||L|nat|C2
+pousio|barbecho||S|nat|C2
+regadio|regadío||S|nat|C2
+sequeiro|secano||S|nat|C2
+enxertia|injerto (acción de injertar)||S|nat|C2
+hidropônica|hidroponía||S|sci|C2
+permacultura|permacultura||S|nat|C2
+adubação verde|abonado en verde||L|nat|C2
+calagem|encalado||S|nat|C2
+compostagem|compostaje||S|nat|C2
+salinização|salinización||S|sci|C2
+infestante|infestante (mala hierba)||A|nat|C2
+monda|escarda||S|nat|C2
+sementeira|siembra||S|nat|C2
+ceifa|siega||S|nat|C2
+estiolamento|etiolación||S|sci|C2
+alelopatia|alelopatía||S|sci|C2
+microbioma do solo|microbioma del suelo||L|sci|C2
+socalco|bancale||S|nat|C2
+pastagem|pastiz||S|ani|C2
+pastoreio|pastoreo||S|ani|C2
+transumância|trashumancia||S|ani|C2
+aprisco|redil||S|ani|C2
+tosquia|esquila||S|ani|C2
+ordenha|ordeño||S|ani|C2
+aquacultura|acuicultura||S|sci|C2
+piscicultura|piscicultura||S|sci|C2
+viveiro de peixes|vivero de peces||L|ani|C2
+desova|desove||S|ani|C2
+engorda|engorde||S|ani|C2
+arte de pesca|arte de pesca||L|ani|C2
+palangre|palangre||S|ani|C2
+quotas de pesca|cuotas de pesca||L|ani|C2
+captura acidental|captura accidental||L|ani|C2
+maricultura|maricultura||S|sci|C2
+apicultura|apicultura||S|sci|C2
+inseminação artificial|inseminación artificial||L|ani|C2
+gado leiteiro|ganado lechero||L|ani|C2
+alfaia agrícola|aperos de labranza||L|nat|C2
+pecuária|ganadería||S|ani|C2
+silvicultura|silvicultura||S|sci|C2
+povoamento florestal|masa forestal||L|nat|C2
+sotobosque|sotobosque||S|nat|C2
+desbaste|clareo||S|nat|C2
+corte raso|tala rasa||L|nat|C2
+combustível fino|combustible fino||L|nat|C2
+regeneração natural|regeneración natural||L|nat|C2
+caducifólio|caducifolio||A|nat|C2
+perenifólio|perennifolio||A|nat|C2
+cortiça|corcho||S|nat|C2
+montado|dehesa||S|nat|C2
+souto|soto (castañar)||S|nat|C2
+corta-fogo|cortafuegos||S|nat|C2
+silvopastoril|silvopastoral||A|nat|C2
+lenhoso|leñoso||A|nat|C2
+rebento|brote||S|nat|C2
+madeira morta|madera muerta||L|nat|C2
+floresta autóctone|bosque autóctono||L|nat|C2
+espécie invasora|especie invasora||L|nat|C2
+queima prescrita|quema prescrita||L|nat|C2
+matagal|matorral||S|nat|C2
+aterro sanitário|vertedero controlado||L|nat|C2
+incineração|incineración||S|nat|C2
+valorização de resíduos|valorización de residuos||L|nat|C2
+resíduo perigoso|residuo peligroso||L|nat|C2
+recolha seletiva|recogida selectiva||L|cit|C2
+escória|escoria||S|sci|C2
+economia circular|economía circular||L|att|C2
+obsolescência programada|obsolescencia programada||L|tec|C2
+desmantelamento|desmantelamiento||S|lav|C2
+descontaminação|descontaminación||S|nat|C2
+remediação|remediación||S|sci|C2
+lixo eletrónico|residuo electrónico||L|tec|C2
+ciclo de vida|ciclo de vida||L|att|C2
+recuperação de materiais|recuperación de materiales||L|nat|C2
+fileira de reciclagem|cadena de reciclaje||L|nat|C2
+sucata|chatarra||S|nat|C2
+reutilização|reutilización||S|nat|C2
+desperdício alimentar|desperdicio alimentario||L|ali|C2
+reciclável|reciclable||A|nat|C2
+logística inversa|logística inversa||L|lav|C2
+desmaterialização|desmaterialización||S|att|C2
+perspicaz|perspicaz||A|ast|C2
+arguto|sagaz||A|ast|C2
+lacónico|lacónico||A|cmu|C2
+pusilânime|pusilánime||A|ast|C2
+magnânimo|magnánimo||A|ast|C2
+mesquinho|mezquino||A|ast|C2
+insólito|insólito||A|ast|C2
+taciturno|taciturno||A|ast|C2
+circunspecto|circunspecto||A|ast|C2
+displicente|displicente||A|ast|C2
+dissimulado|disimulado||A|ast|C2
+obtuso|obtuso||A|ast|C2
+rancoroso|rencoroso||A|ast|C2
+esquivo|esquivo||A|ast|C2
+petulante|petulante||A|ast|C2
+altivo|altivo||A|ast|C2
+servil|servil||A|ast|C2
+despótico|despótico||A|ast|C2
+dadivoso|dadivoso||A|ast|C2
+avaro|avaro||A|ast|C2
+ladino|ladino||A|ast|C2
+refutar|refutar||V|cmu|C2
+rebater|rebatir||V|cmu|C2
+escrutinar|escrutinar||V|cmu|C2
+pontuar|matizar (subrayar puntos)||V|cmu|C2
+inferir|inferir||V|cmu|C2
+pressupor|presuponer||V|cmu|C2
+ilidir|desvirtuar (refutar un argumento)||V|cmu|C2
+aduzir|aducir||V|cmu|C2

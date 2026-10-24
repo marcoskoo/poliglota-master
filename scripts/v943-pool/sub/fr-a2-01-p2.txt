@@ -1,0 +1,213 @@
+avenue|avenida||S|cit|A2
+à gauche|a la izquierda||E|cit|A2
+tout droit|todo recto||E|cit|A2
+coin|esquina||S|cit|A2
+tourner|girar||V|cit|A2
+soleil|sol||S|cli|A2
+pluie|lluvia||S|cli|A2
+nuage|nube||S|cli|A2
+orage|tormenta||S|cli|A2
+il fait chaud|hace calor||E|cli|A2
+temps|tiempo atmosférico||S|cli|A2
+printemps|primavera||S|cli|A2
+été|verano||S|cli|A2
+automne|otoño||S|cli|A2
+saison|estación del año||S|cli|A2
+robe|vestido||S|rop|A2
+veste|chaqueta||S|rop|A2
+short|pantalón corto||S|rop|A2
+ceinture|cinturón||S|rop|A2
+vêtements|ropa||S|rop|A2
+porter|llevar (puesto)||V|rop|A2
+sandale|sandalia||S|rop|A2
+casquette|gorra||S|rop|A2
+chapeau|sombrero||S|rop|A2
+gant|guante||S|rop|A2
+montre|reloj de pulsera||S|rop|A2
+foulard|pañuelo (de cuello)||S|rop|A2
+télévision|televisión||S|tec|A2
+téléphone|teléfono||S|tec|A2
+appareil photo|cámara de fotos||S|tec|A2
+écouteurs|auriculares||S|tec|A2
+batterie|batería||S|tec|A2
+écran|pantalla||S|tec|A2
+internet|internet||S|tec|A2
+mail|correo electrónico||S|tec|A2
+mot de passe|contraseña||S|tec|A2
+site web|sitio web||S|tec|A2
+réseau social|red social||S|tec|A2
+en ligne|en línea||L|tec|A2
+football|fútbol||S|spt|A2
+tennis|tenis||S|spt|A2
+natation|natación||S|spt|A2
+course à pied|carrera a pie||S|spt|A2
+judo|judo||S|spt|A2
+ski|esquí||S|spt|A2
+ballon|balón||S|spt|A2
+maillot|camiseta (de deporte)||S|spt|A2
+raquette|raqueta||S|spt|A2
+vestiaire|vestuario||S|spt|A2
+entraîneur|entrenador||S|spt|A2
+gymnase|gimnasio||S|spt|A2
+faire du sport|hacer deporte||E|spt|A2
+guitare|guitarra||S|mus|A2
+tambour|tambor||S|mus|A2
+flûte|flauta||S|mus|A2
+violoncelle|violonchelo||S|mus|A2
+chanter|cantar||V|mus|A2
+musique|música||S|mus|A2
+chanson|canción||S|mus|A2
+jazz|jazz||S|mus|A2
+classique|clásico||A|mus|A2
+rap|rap||S|mus|A2
+opéra|ópera||S|mus|A2
+concert|concierto||S|mus|A2
+film d'action|película de acción||S|cin|A2
+science-fiction|ciencia ficción||S|cin|A2
+émission|programa||S|cin|A2
+journal télévisé|telediario||S|cin|A2
+documentaire|documental||S|cin|A2
+acteur|actor||S|cin|A2
+série|serie||S|cin|A2
+copain|colega||S|rel|A2
+sortir|salir||V|rel|A2
+ensemble|juntos||D|rel|A2
+proposer|proponer||V|rel|A2
+refuser|rechazar||V|rel|A2
+d'accord|de acuerdo||E|rel|A2
+compte|cuenta bancaria||S|fin|A2
+carte bancaire|tarjeta bancaria||S|fin|A2
+banquier|banquero||S|fin|A2
+guichet|ventanilla||S|fin|A2
+chèque|cheque||S|fin|A2
+soupe|sopa||S|ris|A2
+entrée|entrante||S|ris|A2
+plat|plato||S|ris|A2
+dessert|postre||S|ris|A2
+sauce|salsa||S|ris|A2
+végétarien|vegetariano||A|ris|A2
+réserver|reservar||V|ris|A2
+réservation|reserva||S|ris|A2
+addition|cuenta||S|ris|A2
+pourboire|propina||S|ris|A2
+à emporter|para llevar||E|ris|A2
+commande|pedido||S|ris|A2
+bleu|azul||A|col|A2
+vert|verde||A|col|A2
+jaune|amarillo||A|col|A2
+noir|negro||A|col|A2
+gris|gris||A|col|A2
+rond|redondo||A|col|A2
+carré|cuadrado||A|col|A2
+cheveux|pelo||S|cor|A2
+œil|ojo||S|cor|A2
+main|mano||S|cor|A2
+pied|pie||S|cor|A2
+nez|nariz||S|cor|A2
+bouche|boca||S|cor|A2
+oreille|oreja||S|cor|A2
+cœur|corazón||S|cor|A2
+chat|gato||S|ani|A2
+lapin|conejo||S|ani|A2
+oiseau|pájaro||S|ani|A2
+tortue|tortuga||S|ani|A2
+hamster|hámster||S|ani|A2
+animal|animal||S|ani|A2
+vache|vaca||S|ani|A2
+cochon|cerdo||S|ani|A2
+mouton|oveja||S|ani|A2
+chèvre|cabra||S|ani|A2
+poule|gallina||S|ani|A2
+âne|burro||S|ani|A2
+canard|pato||S|ani|A2
+lion|león||S|ani|A2
+tigre|tigre||S|ani|A2
+loup|lobo||S|ani|A2
+renard|zorro||S|ani|A2
+girafe|jirafa||S|ani|A2
+zèbre|cebra||S|ani|A2
+serpent|serpiente||S|ani|A2
+aigle|águila||S|ani|A2
+hibou|búho||S|ani|A2
+coq|gallo||S|ani|A2
+perroquet|loro||S|ani|A2
+hirondelle|golondrina||S|ani|A2
+oie|oca||S|ani|A2
+abeille|abeja||S|ani|A2
+fourmi|hormiga||S|ani|A2
+moustique|mosquito||S|ani|A2
+araignée|araña||S|ani|A2
+escargot|caracol||S|ani|A2
+guêpe|avispa||S|ani|A2
+montagne|montaña||S|nat|A2
+vallée|valle||S|nat|A2
+cascade|cascada||S|nat|A2
+falaise|acantilado||S|nat|A2
+volcan|volcán||S|nat|A2
+grotte|cueva||S|nat|A2
+arbre|árbol||S|nat|A2
+fleur|flor||S|nat|A2
+plante|planta||S|nat|A2
+marguerite|margarita||S|nat|A2
+orchidée|orquídea||S|nat|A2
+bouquet|ramo de flores||S|nat|A2
+mer|mar||S|nat|A2
+océan|océano||S|nat|A2
+coquille|concha||S|nat|A2
+marée|marea||S|nat|A2
+serviette de plage|toalla de playa||S|nat|A2
+crabe|cangrejo||S|nat|A2
+matin|mañana||S|tmp|A2
+heure|hora||S|tmp|A2
+minute|minuto||S|tmp|A2
+seconde|segundo||S|tmp|A2
+tôt|temprano||D|tmp|A2
+tard|tarde||D|tmp|A2
+minuit|medianoche||S|tmp|A2
+lundi|lunes||S|tmp|A2
+mercredi|miércoles||S|tmp|A2
+dimanche|domingo||S|tmp|A2
+semaine|semana||S|tmp|A2
+mois|mes||S|tmp|A2
+janvier|enero||S|tmp|A2
+date|fecha||S|tmp|A2
+loisir|ocio||S|sve|A2
+lecture|lectura||S|sve|A2
+jeu|juego||S|sve|A2
+collection|colección||S|sve|A2
+dessin|dibujo||S|sve|A2
+bricolage|bricolaje||S|sve|A2
+jardinage|jardinería||S|sve|A2
+anniversaire|cumpleaños||S|sve|A2
+fête|fiesta||S|sve|A2
+Noël|Navidad||S|sve|A2
+anniversaire de mariage|aniversario de boda||S|sve|A2
+fêter|celebrar||V|sve|A2
+peur|miedo||S|emo|A2
+heureux|feliz||A|emo|A2
+content|contento||A|emo|A2
+surpris|sorprendido||A|emo|A2
+inquiet|preocupado||A|emo|A2
+aimer|querer, amar||V|emo|A2
+détester|odiar||V|emo|A2
+gentil|amable||A|emo|A2
+sympathique|simpático||A|emo|A2
+timide|tímido||A|emo|A2
+paresseux|perezoso||A|emo|A2
+sérieux|serio||A|emo|A2
+généreux|generoso||A|emo|A2
+égoïste|egoísta||A|emo|A2
+sonner|sonar||V|cmu|A2
+raccrocher|colgar||V|cmu|A2
+numéro|número||S|cmu|A2
+laisser un message|dejar un mensaje||E|cmu|A2
+occupé|ocupado||A|cmu|A2
+répondre|responder||V|cmu|A2
+écrire|escribir||V|cmu|A2
+couleur|color||S|art|A2
+peinture|pintura||S|art|A2
+pinceau|pincel||S|art|A2
+toile|lienzo||S|art|A2
+feutre|rotulador||S|art|A2
+aquarelle|acuarela||S|art|A2
+dessiner|dibujar||V|art|A2

@@ -1,0 +1,280 @@
+ontologia|ontología||S|ast|C2
+ente|ente (aquello que es)||S|ast|C2
+essência|esencia||S|ast|C2
+contingência|contingencia (lo que puede no ser)||S|ast|C2
+atemporal|atemporal (fuera del tiempo)||A|ast|C2
+imanência|imanencia||S|ast|C2
+transcendência|trascendencia||S|ast|C2
+nihilismo|nihilismo||S|ast|C2
+existencial|existencial (relativo a la existencia)||A|ast|C2
+sinestesia|sinestesia (mezcla de sentidos)||S|art|C2
+juízo estético|juicio estético||L|art|C2
+sublime|sublime (categoría de lo sublime)||S|art|C2
+desinteresse|desinterés (contemplación sin interés)||S|art|C2
+genialidade|genialidad (índole del genio creador)||S|art|C2
+kitsch|kitsch (arte de mal gusto apelativa)||S|art|C2
+fealdade|fealdad (categoría de lo feo)||S|art|C2
+vanguarda|vanguarda (movimiento de ruptura)||S|art|C2
+patetismo|patetismo (conmoción trágica)||S|art|C2
+grandiloquência|grandilocuencia (estilo ampuloso)||S|let|C2
+catarse|catarsis (purgación de las pasiones)||S|art|C2
+historiografia|historiografía||S|ast|C2
+fontes primárias|fuentes primarias||L|ast|C2
+corografia|corografía (descripción de tierras)||S|ast|C2
+revisionismo|revisionismo (reinterpretación histórica)||S|ast|C2
+anacronismo|anacronismo||S|ast|C2
+longa duração|larga duración (estructura de larga duración)||L|ast|C2
+modo de produção|modo de producción||L|ast|C2
+positivismo|positivismo (confianza filosófica en el progreso)||S|ast|C2
+senhorio|señorío (dominio señorial)||S|ast|C2
+foral|fuero (carta de poblamiento)||S|ast|C2
+concelho|concejo (municipio medieval)||S|ast|C2
+arraial|campamento (militar, histórico)||S|ast|C2
+iconografia|iconografía||S|ast|C2
+genealogia|genealogía||S|ast|C2
+heráldica|heráldica||S|ast|C2
+epigrafia|epigrafía (estudio de inscripciones)||S|ast|C2
+paleografia|paleografía||S|ast|C2
+numismática|numismática||S|ast|C2
+cartulário|cartulario (registro de escrituras)||S|ast|C2
+proto-história|protohistoria||S|ast|C2
+fonologia|fonología||S|ast|C2
+morfossintaxe|morfosintaxis||S|ast|C2
+semântica|semántica||S|ast|C2
+pragmática|pragmática (estudio del uso)||S|ast|C2
+performativo|performativo (enunciado que actúa)||A|ast|C2
+ato de fala|acto de habla||L|ast|C2
+pressuposição|presuposición (contenido asumido)||S|ast|C2
+deixis|deixis (marcación de la situación)||S|ast|C2
+diacronia|diacronía (estudio a través del tiempo)||S|ast|C2
+sincronia|sincronía (estudio en un momento)||S|ast|C2
+étimo|etimo (raíz de la palabra)||S|ast|C2
+cognato|cognado (palabra de mismo origen)||S|ast|C2
+falsos amigos|falsos amigos (misma forma, sentido distinto)||L|ast|C2
+gerativismo|generativismo (gramática generativa)||S|ast|C2
+aquisição da linguagem|adquisición del lenguaje||L|ast|C2
+variação linguística|variación lingüística||L|ast|C2
+crioulização|criollización (formación de criollos)||S|ast|C2
+superstrato|superestrato (lengua dominante)||S|ast|C2
+substrato|sustrato (lengua anterior)||S|ast|C2
+neologismo|neologismo||S|ast|C2
+inconsciente|inconsciente (instancia psíquica)||S|ast|C2
+recalque|represión (defensa que excluye de la conciencia)||S|ast|C2
+pulsão|pulsión (impulso instintual)||S|ast|C2
+transferência|transferencia (vínculo con el analista)||S|ast|C2
+contratransferência|contratransferencia||S|ast|C2
+sublimação|sublimación (canalización socializada)||S|ast|C2
+supereu|superyó||S|ast|C2
+narcisismo|narcisismo||S|ast|C2
+ambivalência|ambivalencia (sentimientos opuestos)||S|ast|C2
+esquizoide|esquizoide (personalidad cerrada)||A|ast|C2
+onirismo|onirismo (imaginación onírica)||S|ast|C2
+elaboração psíquica|elaboración psíquica (trabajo de duelo)||L|ast|C2
+teoria crítica|teoría crítica||L|ast|C2
+indústria cultural|industria cultural||L|ast|C2
+semicultura|semicultura (saber mal digerido)||S|ast|C2
+dialética|dialéctica (método de los contrarios)||S|ast|C2
+razão instrumental|razón instrumental||L|ast|C2
+emancipação|emancipación (liberación de las estructuras)||S|ast|C2
+fetichização da mercadoria|fetichización de la mercancía||L|ast|C2
+mais-valia|plusvalía (trabajo no pagado)||S|ast|C2
+geopolítica|geopolítica||S|ast|C2
+multipolaridade|multipolaridad||S|ast|C2
+unilateralismo|unilateralismo||S|ast|C2
+multilateralismo|multilateralismo||S|ast|C2
+esfera de influência|esfera de influencia||L|ast|C2
+país-tampão|Estado tapón (país colchón entre potencias)||L|ast|C2
+dissuasão|disuasión (disuasión estratégica)||S|ast|C2
+não-proliferação|noproliferación (de armamentos)||S|ast|C2
+moratória|moratoria (suspensión de pagos)||S|fin|C2
+diplomacia preventiva|diplomacia preventiva||L|ast|C2
+beligerância|beligerancia (estado de guerra)||S|ast|C2
+ultimato|ultimátum||S|ast|C2
+imunidade diplomática|inmunidad diplomática||L|ast|C2
+anexação|anexión (de territorio)||S|ast|C2
+descolonização|descolonización||S|ast|C2
+autodeterminação|autodeterminación (de los pueblos)||S|ast|C2
+territorialidade|territorialidad (reivindicación de territorio)||S|ast|C2
+insurreição|insurrección (levantamiento armado)||S|ast|C2
+armistício|armisticio (suspensión de hostilidades)||S|ast|C2
+paradiplomacia|paradiplomacia (acción exterior de regiones)||S|ast|C2
+legitimidade democrática|legitimidad democrática||L|ast|C2
+governança|gobernanza (buena gobernanza)||S|ast|C2
+prestação de contas|rendición de cuentas||L|ast|C2
+deliberativo|deliberativo (democracia deliberativa)||A|ast|C2
+pluralismo|pluralismo (de intereses)||S|ast|C2
+corporativismo|corporativismo (organización de clases)||S|ast|C2
+populismo|populismo||S|ast|C2
+tecnocracia|tecnocracia||S|ast|C2
+burocratização|burocratización (proliferación de trámites)||S|ast|C2
+ciclo político|ciclo político (recesión y expansión electoral)||L|ast|C2
+ação afirmativa|acción afirmativa||L|ast|C2
+transversalidade|transversalidad (de las políticas públicas)||S|ast|C2
+subsidiariedade|subsidiariedad (principio de la Unión)||S|ast|C2
+representação proporcional|representación proporcional||L|ast|C2
+abstenção|abstención (no votar)||S|ast|C2
+voto branco|voto en blanco||L|ast|C2
+escrutínio|escrutinio (recuento de votos)||S|ast|C2
+avaliação ex post|evaluación ex post (después de la ejecución)||L|ast|C2
+normatização|normalización (de normas)||S|ast|C2
+Estado-providência|Estado de bienestar||L|ast|C2
+estratificação social|estratificación social||L|ast|C2
+mobilidade ascendente|movilidad ascendente (entre generaciones)||L|ast|C2
+ascensor social|ascensor social (movimiento ascendente)||L|ast|C2
+capital social|capital social||L|ast|C2
+capital cultural|capital cultural||L|ast|C2
+habitus|habitus (esquemas incorporados)||S|ast|C2
+distinção|distinción (marcas de clase)||S|ast|C2
+aculturação|aculturación||S|ast|C2
+assimilação|asimilación (absorción cultural)||S|ast|C2
+secularização|secularización||S|ast|C2
+individualização|individualización (de las biografías)||S|ast|C2
+urbanização|urbanización||S|ast|C2
+envelhecimento demográfico|envejecimiento demográfico||L|ast|C2
+inverno demográfico|invierno demográfico (población envejecida)||L|ast|C2
+pendularidade|movilidad pendular (movimiento diario casa-trabajo)||S|ast|C2
+litoralização|litoralización (concentración en el litoral)||S|ast|C2
+precariado|precariado (clase precaria)||S|ast|C2
+coesão regional|cohesión regional (política de cohesión)||L|ast|C2
+mundialização|mundialización (globalización a la europea)||S|ast|C2
+desterritorialização|desterritorialización||S|ast|C2
+etnocentrismo|etnocentrismo||S|ast|C2
+relativismo cultural|relativismo cultural||L|ast|C2
+etnografia|etnografía (trabajo de campo)||S|ast|C2
+informante|informante (nativo que informa)||S|ast|C2
+trabalho de campo|trabajo de campo||L|ast|C2
+observação participante|observación participante||L|ast|C2
+rito de passagem|rito de paso (transición de estatus)||L|ast|C2
+totemismo|totemismo||S|ast|C2
+xamanismo|chamanismo||S|ast|C2
+parentesco|parentesco (sistema de alianzas)||S|ast|C2
+exogamia|exogamia (matrimonio fuera del grupo)||S|ast|C2
+endogamia|endogamia (matrimonio dentro del grupo)||S|ast|C2
+genocídio|genocidio (exterminio de un pueblo)||S|ast|C2
+sincretismo|sincretismo (mezcla cultural)||S|ast|C2
+cosmovisão|cosmovisión (visión del mundo)||S|ast|C2
+memória coletiva|memoria colectiva||L|ast|C2
+imaginário social|imaginario social||L|ast|C2
+subalternidade|subalternidad (posición de los que no hablan)||S|ast|C2
+hibridismo|hibridismo (mezcla de géneros)||S|ast|C2
+orientalismo|orientalismo (representación del Oriente)||S|ast|C2
+fonte anónima|fuente anónima (protección de la fuente)||L|cmu|C2
+segredo de justiça|secreto del sumario||L|ist|C2
+denúncia|denuncia (revelación de irregularidades)||S|att|C2
+denunciante|denunciante (revelador de abusos)||S|pro|C2
+jornalismo de investigação|periodismo de investigación||L|cmu|C2
+verificação de factos|verificación de hechos||L|cmu|C2
+desinformação|desinformación||S|cmu|C2
+pós-verdade|posverdad||S|cmu|C2
+bolha de filtragem|burbuja de filtrado||L|tec|C2
+câmara de eco|cámara de eco||L|cmu|C2
+reportagem de fundo|reportaje en profundidad||L|cmu|C2
+linha editorial|línea editorial||L|cmu|C2
+pluralidade mediática|pluralidad mediática||L|cmu|C2
+concentração mediática|concentración mediática||L|cmu|C2
+agência noticiosa|agencia de noticias||L|pro|C2
+dossiê|dosier (expediente de pruebas)||S|cmu|C2
+errata|fe de erratas||S|cmu|C2
+difamação|difamación (delito contra el honor)||S|ist|C2
+plágio|plagio (apropiación de obra ajena)||S|let|C2
+correção política|corrección política||L|cmu|C2
+contralto|contralto (voz grave femenina)||S|mus|C2
+falsete|falsete (registro agudo artificial)||S|mus|C2
+vibrato|vibrato (oscilación del sonido)||S|mus|C2
+crescendo|crescendo (aumento gradual de intensidad)||S|mus|C2
+baixo contínuo|bajo continuo||L|mus|C2
+contraponto|contrapunto (combinación de voces)||S|mus|C2
+tonalidade|tonalidad (organización de los sonidos)||S|mus|C2
+atonalidade|atonalidad||S|mus|C2
+escala cromática|escala cromática||L|mus|C2
+compasso composto|compás compuesto||L|mus|C2
+síncope|síncope (desplazamiento rítmico del acento)||S|mus|C2
+anacrusa|anacrusa (salida antes del tiempo fuerte)||S|mus|C2
+temperamento igual|temperamento igual (afinación de las teclas)||L|mus|C2
+solfejo|solféo (lectura musical)||S|mus|C2
+spalla|concertino (primer violín)||S|mus|C2
+dissonância|disonancia (acorde tenso)||S|mus|C2
+melisma|melisma (ornamento vocal)||S|mus|C2
+polifonia|polifonía (combinación de líneas)||S|mus|C2
+madrigal|madrigal (canción polifónica profana)||S|mus|C2
+noturno|nocturno (pieza lírica nocturna)||S|mus|C2
+restauro|restauro (restauración de obras)||S|art|C2
+comissariado|comisariado (de una exposición)||S|art|C2
+comissário|comisario (curador de exposición)||S|art|C2
+expografia|expografía (dispositivo expositivo)||S|art|C2
+acervo|acervo (fondo museológico)||S|art|C2
+espólio|legado (conjunto de obras del artista)||S|art|C2
+catalogação|catalogación (ficha de obra)||S|art|C2
+inventariação|inventarización (registro del acervo)||S|art|C2
+percurso expositivo|recorrido expositivo||L|art|C2
+museologia|museología||S|art|C2
+museografia|museografía (técnica de montaje expositivo)||S|art|C2
+conservação preventiva|conservación preventiva||L|art|C2
+património edificado|patrimonio edificado||L|art|C2
+requalificação|rehabilitación integrada (urbana)||S|art|C2
+reabilitação urbana|rehabilitación urbana||L|art|C2
+falsificação|falsificación (de obra de arte)||S|art|C2
+atribuição|atribución (de la autoría de una obra)||S|art|C2
+camada pictórica|capa pictórica||S|art|C2
+craquelado|craquelado (red de fisuras de la pintura)||S|art|C2
+códice|códice (libro manuscrito antiguo)||S|art|C2
+abstracionismo|abstraccionismo (corriente no figurativa)||S|art|C2
+objeto encontrado|objeto encontrado (readymade)||L|art|C2
+instalação|instalación (obra que ocupa el espacio)||S|art|C2
+arte conceptual|arte conceptual||L|art|C2
+minimalismo|minimalismo (reducción a lo esencial)||S|art|C2
+expressionismo|expresionismo||S|art|C2
+impressionismo|impresionismo||S|art|C2
+cubismo|cubismo (desdoblamiento de planos)||S|art|C2
+surrealismo|surrealismo (sueño pintado)||S|art|C2
+neorrealismo|neorrealismo (cine de gente común)||S|cin|C2
+academicismo|academicismo (arte oficial decimonónico)||S|art|C2
+naturalismo|naturalismo (novela experimental)||S|let|C2
+perspetiva linear|perspectiva lineal (punto de fuga)||L|art|C2
+claro-escuro|claroscuro (modelado por la luz)||S|art|C2
+esfumado|esfumado (contornos velados)||S|art|C2
+matérico|matérico (de materia espesa)||A|art|C2
+suporte|soporte (base de la obra)||S|art|C2
+composição fechada|composición cerrada (dispositivo estable)||L|art|C2
+inacabamento|inacabamiento (obra por acabar)||S|art|C2
+gesto pictórico|gesto pictórico (huella de la acción del artista)||L|art|C2
+aprendizagem automática|aprendizaje automático||L|tec|C2
+rede neuronal|red neuronal||L|tec|C2
+sobreajustamento|sobreajuste (memorización del ruido en los datos)||S|tec|C2
+dados de treino|datos de entrenamiento||L|tec|C2
+inferência bayesiana|inferencia bayesiana||L|tec|C2
+pré-processamento|preprocesamiento (limpieza de datos)||S|tec|C2
+extração de características|extracción de características||L|tec|C2
+redução de dimensionalidade|reducción de dimensionalidad||L|tec|C2
+agrupamento|clustering (agrupamiento de datos)||S|tec|C2
+aprendizagem por reforço|aprendizaje por refuerzo||L|tec|C2
+engenharia de dados|ingeniería de datos||L|tec|C2
+deteção de anomalias|detección de anomalías||L|tec|C2
+visão computacional|visión por computador||L|tec|C2
+processamento de linguagem natural|procesamiento del lenguaje natural||L|tec|C2
+parâmetro|parámetro (peso ajustable del modelo)||S|tec|C2
+hiperparâmetro|hiperparámetro||S|tec|C2
+repositório|repositorio (archivo de datos)||S|tec|C2
+visualização|visualización (gráfica de datos)||S|tec|C2
+mineração de dados|minería de datos||L|tec|C2
+viés algorítmico|sesgo algorítmico||L|tec|C2
+criptografia de chave pública|criptografía de clave pública||L|tec|C2
+função unidirecional|función unidireccional (de una sola dirección)||L|tec|C2
+assinatura digital|firma digital||L|tec|C2
+certificado digital|certificado digital||L|tec|C2
+esteganografia|esteganografía (ocultación de mensajes)||S|tec|C2
+criptoanálise|criptoanálisis (rotura de cifras)||S|tec|C2
+chave privada|clave privada||L|tec|C2
+texto claro|texto en claro (mensaje sin cifrar)||L|tec|C2
+ofuscação|ofuscación (código confundido)||S|tec|C2
+fraude informática|fraude informático||L|tec|C2
+sequestro de dados|secuestro de datos (ransomware)||L|tec|C2
+teste de intrusão|prueba de intrusión (hacking ético)||L|tec|C2
+vulnerabilidade de dia zero|vulnerabilidad de día cero||L|tec|C2
+carga útil|carga útil (código malicioso transportado)||L|tec|C2
+porta dos fundos|puerta trasera (backdoor)||L|tec|C2
+negação de serviço|denegación de servicio (ataque)||L|tec|C2
+telemetria|telemetría (monitorización remota)||S|tec|C2
+entropia|entropía (desorden medible)||S|tec|C2
+cifra de fluxo|cifrado de flujo||L|tec|C2
+autenticação multifator|autenticación multifactor||L|tec|C2

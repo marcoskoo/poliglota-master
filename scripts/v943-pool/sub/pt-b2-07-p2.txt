@@ -1,0 +1,307 @@
+ecrã|pantalla||S|tec|B2
+bloquear|bloquear||V|tec|B2
+desbloquear|desbloquear||V|tec|B2
+aplicação|aplicación (app)||S|tec|B2
+descarregar|descargar||V|tec|B2
+bateria|batería||S|tec|B2
+carregar a bateria|cargar la batería||E|tec|B2
+notificação|notificación||S|tec|B2
+alerta|alerta||S|tec|B2
+silenciar|silenciar||V|tec|B2
+toque|tono de llamada||S|tec|B2
+modo de voo|modo avión||L|tec|B2
+dados móveis|datos móviles||L|tec|B2
+palavra-passe|contraseña||S|tec|B2
+conta|cuenta (de usuario)||S|tec|B2
+perfil|perfil||S|tec|B2
+seguir|seguir (a alguien en redes)||V|cmu|B2
+partilhar|compartir||V|cmu|B2
+atualizar|actualizar||V|tec|B2
+armazenamento|almacenamiento||S|tec|B2
+cópia de segurança|copia de seguridad||L|tec|B2
+chamada perdida|llamada perdida||L|tec|B2
+mensagem de voz|mensaje de voz||L|cmu|B2
+conversa|conversación||S|cmu|B2
+sincronizar|sincronizar||V|tec|B2
+sem rede|sin cobertura||E|tec|B2
+campeonato|campeonato||S|spt|B2
+caminhada|caminata||S|spt|B2
+corrida|carrera (a pie)||S|spt|B2
+treino|entrenamiento||S|spt|B2
+treinar|entrenar||V|spt|B2
+aquecimento|calentamiento||S|spt|B2
+alongamento|estiramiento||S|spt|B2
+lesionar-se|lesionarse||V|spt|B2
+recuperar|recuperarse||V|spt|B2
+pontuação|puntuación||S|spt|B2
+golo|gol||S|spt|B2
+guarda-redes|portero||S|spt|B2
+bancada|grada||S|spt|B2
+amador|amateur (aficionado)||A|spt|B2
+adversário|adversario||S|spt|B2
+derrota|derrota||S|spt|B2
+vitória|victoria||S|spt|B2
+empate|empate||S|spt|B2
+árbitro|árbitro||S|spt|B2
+falta|falta (infracción)||S|spt|B2
+expulsão|expulsión||S|spt|B2
+fora de jogo|fuera de juego||L|spt|B2
+maratona|maratón||S|spt|B2
+passeio de bicicleta|paseo en bicicleta||L|spt|B2
+desportista|deportista||S|spt|B2
+atividade física|actividad física||L|spt|B2
+bilheteira|taquilla||S|mus|B2
+esgotado|agotado (entradas)||A|mus|B2
+esgotar|agotar (las entradas)||V|mus|B2
+festival de música|festival de música||L|mus|B2
+festival de verão|festival de verano||L|mus|B2
+palco|escenario||S|mus|B2
+camarim|camerino||S|mus|B2
+ao vivo|en directo||E|mus|B2
+digressão|gira (tour de conciertos)||S|mus|B2
+fã|fan||S|mus|B2
+clube de fãs|club de fans||L|mus|B2
+cantor|cantante||S|mus|B2
+coro|coro||S|mus|B2
+letra da música|letra de la canción||L|mus|B2
+melodia|melodía||S|mus|B2
+refrão|estribillo||S|mus|B2
+acústico|acústico||A|mus|B2
+amplificador|amplificador||S|mus|B2
+guitarra|guitarra||S|mus|B2
+plateia|platea||S|mus|B2
+espetáculo|espectáculo||S|mus|B2
+ídolo|ídolo||S|mus|B2
+assobiar|silbar||V|mus|B2
+bis|bis (repetición)||S|mus|B2
+instrumento musical|instrumento musical||L|mus|B2
+série|serie||S|cin|B2
+série policial|serie policial||L|cin|B2
+temporada|temporada||S|cin|B2
+episódio|episodio||S|cin|B2
+estreia|estreno||S|cin|B2
+legendas|subtítulos||S|cin|B2
+dobrado|doblado||A|cin|B2
+versão original|versión original||L|cin|B2
+subscrição|suscripción||S|cin|B2
+contar o final|contar el final||E|cin|B2
+enredo|trama||S|cin|B2
+personagem|personaje||S|cin|B2
+elenco|reparto||S|cin|B2
+realizador|director (de cine)||S|cin|B2
+rodagem|rodaje||S|cin|B2
+cena|escena||S|cin|B2
+argumento|guion||S|cin|B2
+banda sonora|banda sonora||L|cin|B2
+efeitos especiais|efectos especiales||L|cin|B2
+audiência|audiencia||S|cin|B2
+comédia romântica|comedia romántica||L|cin|B2
+documentário|documental||S|cin|B2
+curta-metragem|cortometraje||S|cin|B2
+viciar|engancharse (a una serie)||V|cin|B2
+desenlace|desenlace||S|cin|B2
+casamento|boda||S|fam|B2
+casar-se|casarse||V|fam|B2
+pedir a mão|pedir la mano||E|fam|B2
+noivo|novio||S|fam|B2
+vestido de noiva|vestido de novia||L|rop|B2
+dama de honor|dama de honor||L|fam|B2
+padrinho|padrino||S|fam|B2
+convidado|invitado||S|fam|B2
+convidar|invitar||V|fam|B2
+receção|recepción (banquete)||S|fam|B2
+lua de mel|luna de miel||L|fam|B2
+batismo|bautizo||S|fam|B2
+maturidade|madurez||S|ast|B2
+adolescência|adolescencia||S|fam|B2
+juventude|juventud||S|fam|B2
+terceira idade|tercera edad||L|fam|B2
+cerimónia|ceremonia||S|fam|B2
+brindar|brindar||V|fam|B2
+compromisso|compromiso||S|rel|B2
+separação|separación||S|rel|B2
+divórcio|divorcio||S|rel|B2
+viúvo|viudo||S|fam|B2
+felicidade|felicidad||S|emo|B2
+bênção|bendición||S|fam|B2
+traje de festa|traje de fiesta||L|rop|B2
+comemorar|celebrar||V|fam|B2
+orçamento|presupuesto||S|fin|B2
+orçamento mensal|presupuesto mensual||L|fin|B2
+despesa|gasto||S|fin|B2
+gastar|gastar||V|fin|B2
+poupança|ahorro||S|fin|B2
+poupar|ahorrar||V|fin|B2
+ordenado|sueldo||S|fin|B2
+salário|salario||S|fin|B2
+conta bancária|cuenta bancaria||L|fin|B2
+levantamento|retirada de dinero||S|fin|B2
+depósito|depósito||S|fin|B2
+extrato|extracto de cuenta||S|fin|B2
+transferência|transferencia||S|fin|B2
+juro|interés (de un préstamo)||S|fin|B2
+dívida|deuda||S|fin|B2
+endividado|endeudado||A|fin|B2
+engano|engaño||S|fin|B2
+burla|estafa||S|fin|B2
+burlar|estafar||V|fin|B2
+vigarice|timo||S|fin|B2
+armadilha|trampa||S|fin|B2
+cair na esparrela|caer en la trampa||E|fin|B2
+roubo|robo||S|fin|B2
+carteira|cartera||S|fin|B2
+chegar ao fim do mês|llegar a fin de mes||E|fin|B2
+cafetaria|cafetería||S|ris|B2
+brunch|brunch (desayuno tardío)||S|ris|B2
+café com leite|café con leche||L|ris|B2
+galão|café con leche en vaso||S|ris|B2
+meia de leite|café con leche corto||L|ris|B2
+expresso|expreso||S|ris|B2
+expresso duplo|doble expreso||L|ris|B2
+descafeinado|descafeinado||S|ris|B2
+pão de deus|bollo dulce típico||L|ali|B2
+torrada|tostada||S|ris|B2
+pastelaria|pastelería||S|ris|B2
+pastel de nata|pastel de nata||L|ris|B2
+caneca|taza grande||S|ris|B2
+chávena|taza (de café o té)||S|ris|B2
+comer fora|comer fuera||E|ris|B2
+empada|empanadilla||S|ris|B2
+tosta mista|tosta mixta||L|ris|B2
+queque|magdalena||S|ris|B2
+bebida vegetal|bebida vegetal||L|ris|B2
+ao balcão|en la barra||E|ris|B2
+pausa para o café|pausa para el café||L|lav|B2
+fatia de bolo|porción de tarta||L|ris|B2
+bolo-rei|roscón de reyes||S|ris|B2
+padaria|panadería||S|ris|B2
+gorjeta|propina (para el camarero)||S|ris|B2
+lanche|merienda||S|ris|B2
+acidente|accidente||S|att|B2
+bombeiro|bombero||S|pro|B2
+catástrofe|catástrofe||S|att|B2
+incêndio|incendio||S|att|B2
+incêndio florestal|incendio forestal||L|att|B2
+inundação|inundación||S|att|B2
+sismo|terremoto||S|att|B2
+evacuação|evacuación||S|att|B2
+evacuar|evacuar||V|att|B2
+alarme|alarma||S|att|B2
+vítima|víctima||S|att|B2
+ferido|herido||S|sla|B2
+ocorrência|suceso||S|att|B2
+assalto|atraco||S|att|B2
+assaltante|atracador||S|att|B2
+furto|hurto||S|att|B2
+sequestro|secuestro||S|att|B2
+resgate|rescate||S|att|B2
+desaparecido|desaparecido||A|att|B2
+segurança|seguridad||S|att|B2
+autoridade|autoridad||S|ist|B2
+patrulha|patrulla||S|att|B2
+testemunha|testigo||S|att|B2
+denunciar|denunciar||V|ist|B2
+boletim de ocorrência|denuncia (informe policial)||L|ist|B2
+descoberta|descubrimiento||S|sci|B2
+descobrir|descubrir||V|sci|B2
+investigador|investigador||S|pro|B2
+investigação|investigación||S|sci|B2
+hipótese|hipótesis||S|sci|B2
+fenómeno|fenómeno||S|sci|B2
+estudo|estudio||S|sci|B2
+estudo de caso|estudio de caso||L|sci|B2
+amostra|muestra||S|sci|B2
+célula|célula||S|sci|B2
+molécula|molécula||S|sci|B2
+átomo|átomo||S|sci|B2
+partícula|partícula||S|sci|B2
+gravidade|gravedad||S|sci|B2
+buraco negro|agujero negro||L|sci|B2
+universo|universo||S|sci|B2
+cientista|científico (persona)||S|pro|B2
+divulgação científica|divulgación científica||L|sci|B2
+palestra|charla (divulgativa)||S|sci|B2
+artigo de investigação|artículo de investigación||L|sci|B2
+gene|gen||S|sci|B2
+genética|genética||S|sci|B2
+vacina|vacuna||S|sci|B2
+epidemia|epidemia||S|sci|B2
+aquecimento global|calentamiento global||L|sci|B2
+êxito de vendas|éxito de ventas||L|let|B2
+clube de leitura|club de lectura||L|let|B2
+romance|novela||S|let|B2
+romance policial|novela negra||L|let|B2
+conto|cuento||S|let|B2
+ensaio|ensayo||S|let|B2
+biografia|biografía||S|let|B2
+autobiografia|autobiografía||S|let|B2
+memórias|memorias (género)||S|let|B2
+género literário|género literario||L|let|B2
+ficção científica|ciencia ficción||L|let|B2
+terror|terror (género)||S|let|B2
+capa|cubierta||S|let|B2
+contracapa|contracubierta||S|let|B2
+prefácio|prólogo||S|let|B2
+capítulo|capítulo||S|let|B2
+narrador|narrador||S|let|B2
+edição|edición||S|let|B2
+editora|editorial||S|let|B2
+lançamento|lanzamiento||S|let|B2
+lançar|lanzar||V|let|B2
+ler nas entrelinhas|leer entre líneas||E|let|B2
+marcador de páginas|separador de libros||L|let|B2
+coletânea|antología||S|let|B2
+prémio literário|premio literario||L|let|B2
+bibliotecário|bibliotecario||S|pro|B2
+parque natural|parque natural||L|nat|B2
+trilho|sendero||S|nat|B2
+caminho|camino||S|nat|B2
+sinalização|señalización||S|nat|B2
+rocha|roca||S|nat|B2
+penhasco|acantilado||S|nat|B2
+encosta|ladera||S|nat|B2
+vale|valle||S|nat|B2
+ribeira|arroyo||S|nat|B2
+lagoa|laguna||S|nat|B2
+nascente|manantial||S|nat|B2
+piquenique|pícnic||S|nat|B2
+área de piquenique|zona de pícnic||L|nat|B2
+mochila|mochila||S|spt|B2
+botas de caminhada|botas de senderismo||L|spt|B2
+bússola|brújula||S|nat|B2
+observação de aves|observación de aves||L|nat|B2
+ave|ave||S|ani|B2
+fauna|fauna||S|ani|B2
+flora|flora||S|nat|B2
+floresta|bosque||S|nat|B2
+pinhal|pinar||S|nat|B2
+farnel|avituallamiento||S|nat|B2
+subida|subida||S|nat|B2
+descida|bajada||S|nat|B2
+passadiço|pasarela||S|nat|B2
+escapadela|escapada (viaje corto)||S|vig|B2
+fim de semana prolongado|puente (fin de semana largo)||L|vig|B2
+roteiro|itinerario||S|vig|B2
+visita guiada|visita guiada||L|vig|B2
+ponto turístico|lugar de interés turístico||L|vig|B2
+monumento|monumento||S|cit|B2
+centro histórico|casco antiguo||L|cit|B2
+zona pedonal|zona peatonal||L|cit|B2
+catedral|catedral||S|cit|B2
+mosteiro|monasterio||S|cit|B2
+castelo|castillo||S|cit|B2
+muralha|muralla||S|cit|B2
+torre|torre||S|cit|B2
+ruínas|ruinas||S|cit|B2
+deslumbrante|deslumbrante||A|emo|B2
+impressão|impresión||S|emo|B2
+impressionante|impresionante||A|emo|B2
+autocarro turístico|autobús turístico||L|tra|B2
+rota do vinho|ruta del vino||L|vig|B2
+passeio de barco|paseo en barco||L|vig|B2
+gastronomia local|gastronomía local||L|ris|B2
+produtos típicos|productos típicos||L|cmp|B2
+mercado municipal|mercado municipal||L|cit|B2
+lembrança|recuerdo (souvenir)||S|vig|B2
+viagem cultural|viaje cultural||L|vig|B2
+postal|postal||S|vig|B2

@@ -1,0 +1,281 @@
+capsídeo|cápside||S|sci|C2
+latência|latencia||S|sci|C2
+virémia|viremia||S|sci|C2
+sorotipo|serotipo||S|sci|C2
+genotipagem|genotipado||S|sci|C2
+sequenciamento|secuenciación||S|sci|C2
+recombinação|recombinación||S|sci|C2
+infeção oportunista|infección oportunista||L|sla|C2
+antiviral|antivírico||S|sla|C2
+profilático|profiláctico||A|sla|C2
+espécie reservatório|especie reservorio||L|sci|C2
+vetor biológico|vector biológico||L|sci|C2
+nosocomial|nosocomial (hospitalaria)||A|sla|C2
+resistência antimicrobiana|resistencia antimicrobiana||L|sci|C2
+imunossupressão|inmunosupresión||S|sla|C2
+efeito citopático|efecto citopático||L|sci|C2
+antibiograma|antibiograma||S|sci|C2
+fomite|fómite||S|sci|C2
+inoculação|inoculación||S|sci|C2
+bacteriemia|bacteriemia||S|sci|C2
+patogenia|patogenia||S|sci|C2
+clonagem terapêutica|clonación terapéutica||L|sci|C2
+edição genética|edición genética||L|sci|C2
+enzima de restrição|enzima de restricción||L|sci|C2
+vetor viral|vector viral||L|sci|C2
+plasmídeo|plásmido||S|sci|C2
+marcador genético|marcador genético||L|sci|C2
+transgénico|transgénico||A|sci|C2
+banco de germoplasma|banco de germoplasma||L|sci|C2
+expressão génica|expresión génica||L|sci|C2
+silenciamento|silenciamiento||S|sci|C2
+linha germinativa|línea germinal||L|sci|C2
+melhoramento genético|mejora genética||L|sci|C2
+polimorfismo|polimorfismo||S|sci|C2
+haplótipo|haplotipo||S|sci|C2
+penetrância|penetrancia||S|sci|C2
+epigenética|epigenética||S|sci|C2
+metilação|metilación||S|sci|C2
+quimerismo|quimerismo||S|sci|C2
+xenotransplante|xenotrasplante||S|sci|C2
+organismo modelo|organismo modelo||L|sci|C2
+tomografia computorizada|tomografía computarizada||L|sci|C2
+ativação cerebral|activación cerebral||L|sci|C2
+córtex pré-frontal|córtex prefrontal||L|sci|C2
+neuroimagem|neuroimagen||S|sci|C2
+estereotaxia|estereotaxia||S|sci|C2
+estimulação magnética transcraniana|estimulación magnética transcraneana||L|sci|C2
+mapeamento cerebral|mapeo cerebral||L|sci|C2
+conectoma|conectoma||S|sci|C2
+girificação|girificación||S|sci|C2
+circunvolução|circunvolución||S|sci|C2
+corpo caloso|cuerpo calloso||L|sci|C2
+homúnculo|homúnculo||S|sci|C2
+lateralização|lateralización||S|sci|C2
+conectividade funcional|conectividad funcional||L|sci|C2
+polissonografia|polisomnografía||S|sci|C2
+potenciais evocados|potenciales evocados||L|sci|C2
+neuroplasticidade|neuroplasticidad||S|sci|C2
+eletroencefalografia|electroencefalografía||S|sci|C2
+via piramidal|vía piramidal||L|sci|C2
+neurofisiologia|neurofisiología||S|sci|C2
+nanopartícula|nanopartícula||S|sci|C2
+nanotubo de carbono|nanotubo de carbono||L|sci|C2
+grafeno|grafeno||S|sci|C2
+fullereno|fullereno||S|sci|C2
+célula fotovoltaica|célula fotovoltaica||L|sci|C2
+polimérico|polimérico||A|sci|C2
+reticulação|reticulación||S|sci|C2
+memória de forma|memoria de forma||L|sci|C2
+compósito|compuesto (material)||S|sci|C2
+recobrimento|recubrimiento||S|sci|C2
+filme fino|película delgada||L|sci|C2
+deposição química de vapor|deposición química de vapor||L|sci|C2
+litografia|litografía||S|sci|C2
+pastilha de silício|oblea de silicio||L|sci|C2
+aerogel|aerogel||S|sci|C2
+automontagem|autoensamblaje||S|sci|C2
+superfície específica|superficie específica||L|sci|C2
+molhabilidade|mojabilidad||S|sci|C2
+rugosidade|rugosidad||S|sci|C2
+sinterização|sinterización||S|sci|C2
+índice de refração|índice de refracción||L|sci|C2
+aberração cromática|aberración cromática||L|sci|C2
+aberração esférica|aberración esférica||L|sci|C2
+rede de difração|red de difracción||L|sci|C2
+polarizador|polarizador||S|sci|C2
+coerência|coherencia||S|sci|C2
+fibra ótica|fibra óptica||L|sci|C2
+guia de onda|guía de onda||L|sci|C2
+estado excitado|estado excitado||L|sci|C2
+ressonador|resonador||S|sci|C2
+opalescência|opalescencia||S|sci|C2
+iridescência|iridiscencia||S|sci|C2
+luminância|luminancia||S|sci|C2
+fosforescência|fosforescencia||S|sci|C2
+holografia|holografía||S|sci|C2
+interferómetro|interferómetro||S|sci|C2
+dispersão cromática|dispersión cromática||L|sci|C2
+espalhamento|dispersión (de la luz)||S|sci|C2
+fotónica|fotónica||S|sci|C2
+ultrassónico|ultrasónico||A|sci|C2
+entropia|entropía||S|sci|C2
+entalpia|entalpía||S|sci|C2
+isentrópico|isentrópico||A|sci|C2
+adiabático|adiabático||A|sci|C2
+calor latente|calor latente||L|sci|C2
+convecção forçada|convección forzada||L|sci|C2
+irreversibilidade|irreversibilidad||S|sci|C2
+ciclo termodinâmico|ciclo termodinámico||L|sci|C2
+compressibilidade|compresibilidad||S|sci|C2
+viscosímetro|viscosímetro||S|sci|C2
+camada limite|capa límite||L|sci|C2
+escoamento laminar|flujo laminar||L|sci|C2
+vorticidade|vorticidad||S|sci|C2
+cavitação|cavitación||S|sci|C2
+pressão parcial|presión parcial||L|sci|C2
+gás ideal|gas ideal||L|sci|C2
+bomba de calor|bomba de calor||L|sci|C2
+rendimento térmico|rendimiento térmico||L|sci|C2
+capilaridade|capilaridad||S|sci|C2
+tensão superficial|tensión superficial||L|sci|C2
+cartografia|cartografía||S|sci|C2
+toponímia|toponimia||S|sci|C2
+curva de nível|curva de nivel||L|sci|C2
+projeção cartográfica|proyección cartográfica||L|sci|C2
+geodesia|geodesia||S|sci|C2
+triangulação|triangulación||S|sci|C2
+ortofotomapa|ortofotomapa||S|sci|C2
+aerofotogrametria|aerofotogrametría||S|sci|C2
+deteção remota|detección remota||L|sci|C2
+resolução espacial|resolución espacial||L|sci|C2
+ortorectificação|ortorrectificación||S|sci|C2
+georreferenciação|georreferenciación||S|sci|C2
+modelo digital do terreno|modelo digital del terreno||L|sci|C2
+sistema de informação geográfica|sistema de información geográfica||L|sci|C2
+sobreposição de camadas|superposición de capas||L|sci|C2
+interoperabilidade|interoperabilidad||S|tec|C2
+azimute|acimut||S|sci|C2
+levantamento topográfico|levantamiento topográfico||L|sci|C2
+altimetria|altimetría||S|sci|C2
+batimetria|batimetría||S|sci|C2
+verso decassílabo|verso decasílabo||L|let|C2
+redondilha|redondilla||S|let|C2
+cesura|cesura||S|let|C2
+elisão|elisión||S|let|C2
+sinalefa|sinalefa||S|let|C2
+sinérese|sinéresis||S|let|C2
+diérese|diéresis||S|let|C2
+aliteração|aliteración||S|let|C2
+assonância|asonancia||S|let|C2
+rima toante|rima asonante||L|let|C2
+versículo|versículo||S|let|C2
+anfíbraco|anfíbraco||S|let|C2
+troqueu|troqueo||S|let|C2
+iambo|yambo||S|let|C2
+dáctilo|dáctilo||S|let|C2
+escansão|escansión||S|let|C2
+prosódia|prosodia||S|let|C2
+hemistíquio|hemistiquio||S|let|C2
+encadeamento|encabalgamiento||S|let|C2
+sextina|sextina||S|let|C2
+dramaturgia|dramaturgia||S|let|C2
+encenação|puesta en escena||S|art|C2
+cenografia|escenografía||S|art|C2
+figurino|figurín (vestuario)||S|art|C2
+proscénio|proscenio||S|art|C2
+solilóquio|soliloquio||S|let|C2
+aparte|aparte (apunte teatral)||S|let|C2
+comparsa|comparsa||S|art|C2
+figurante|figurante||S|art|C2
+auto|auto (pieza alegórica)||S|let|C2
+tragicomédia|tragicomedia||S|let|C2
+teatro de tese|teatro de tesis||L|let|C2
+performativo|performativo||A|let|C2
+quarta parede|cuarta pared||L|cin|C2
+peripécia|peripecia||S|let|C2
+catarse|catarsis||S|let|C2
+anagnórise|anagnórisis (reconocimiento)||S|let|C2
+verossimilhança|verosimilitud||S|let|C2
+bufão|bufón||S|art|C2
+dramaturgo|dramaturgo||S|pro|C2
+sinédoque|sinécdoque||S|let|C2
+metonímia|metonimia||S|let|C2
+alegoria|alegoría||S|let|C2
+antífrase|antífrasis||S|let|C2
+catacrese|catacresis||S|let|C2
+sinestesia|sinestesia||S|let|C2
+prosopopeia|prosopopeya||S|let|C2
+oxímoro|oxímoron||S|let|C2
+hipálage|hipálage||S|let|C2
+quiasmo|quiasmo||S|let|C2
+anáfora|anáfora (figura de repetición)||S|let|C2
+epífora|epífora||S|let|C2
+apóstrofe|apóstrofe (invocación)||S|let|C2
+mimese|mímesis||S|let|C2
+juízo do gosto|juicio del gusto||L|let|C2
+conceptismo|conceptismo||S|let|C2
+culteranismo|culteranismo||S|let|C2
+hermenêutica|hermenéutica||S|let|C2
+exegese|exégesis||S|let|C2
+epígono|epígono||S|let|C2
+sincronia|sincronía||S|let|C2
+filologia|filología||S|let|C2
+epigrafia|epigrafía||S|let|C2
+paleografia|paleografía||S|let|C2
+codicologia|codicología||S|let|C2
+incunábulo|incunable||S|let|C2
+códice|códice||S|let|C2
+iluminura|iluminación (de manuscritos)||S|let|C2
+vernáculo|vernáculo||S|let|C2
+helenista|helenista||S|pro|C2
+arcaico|arcaico||A|let|C2
+glosa|glosa (comentario medieval)||S|let|C2
+escolástico|escolástico||A|let|C2
+humanista|humanista||S|pro|C2
+prosador|prosista||S|pro|C2
+versificador|versificador||S|pro|C2
+hexâmetro|hexámetro||S|let|C2
+dístico elegíaco|dístico elegíaco||L|let|C2
+lacónico|lacónico||A|let|C2
+crítica textual|crítica textual||L|let|C2
+tradutologia|traductología||S|let|C2
+tradutor juramentado|traductor jurado||L|pro|C2
+tradução automática|traducción automática||L|tec|C2
+tradução literária|traducción literaria||L|let|C2
+literalidade|literalidad||S|let|C2
+interferência linguística|interferencia lingüística||L|let|C2
+calco|calco (lingüístico)||S|let|C2
+equivalência dinâmica|equivalencia dinámica||L|let|C2
+domesticação|domesticación (traductora)||S|let|C2
+estrangeirização|extranjerización||S|let|C2
+pseudotradução|pseudotraducción||S|let|C2
+autotradução|autotraducción||S|let|C2
+legendagem|subtitulado||S|cin|C2
+dobragem|doblaje||S|cin|C2
+audiodescrição|audiodescripción||S|cin|C2
+língua-fonte|lengua de partida||L|let|C2
+língua-alvo|lengua de llegada||L|let|C2
+unidade de tradução|unidad de traducción||L|let|C2
+nota do tradutor|nota del traductor||L|let|C2
+competência tradutória|competencia traductora||L|let|C2
+ensaísmo|ensayismo||S|let|C2
+panfleto|panfleto||S|let|C2
+diatriba|diatriba||S|let|C2
+invectiva|invectiva||S|let|C2
+iconoclasta|iconoclasta||S|ast|C2
+refutação|refutación||S|ast|C2
+sofisma|sofisma||S|ast|C2
+paralogismo|paralogismo||S|ast|C2
+petição de princípio|petición de principio||L|ast|C2
+epistemologia|epistemología||S|ast|C2
+conjetura|conjetura||S|ast|C2
+perspectivismo|perspectivismo||S|ast|C2
+vitalismo|vitalismo||S|ast|C2
+laicidade|laicidad||S|ist|C2
+cosmovisão|cosmovisión||S|ast|C2
+teleologia|teleología||S|ast|C2
+deontologia|deontología||S|ist|C2
+reducionismo|reduccionismo||S|ast|C2
+nihilismo|nihilismo||S|ast|C2
+sincretismo|sincretismo||S|ast|C2
+distopia|distopía||S|let|C2
+distópico|distópico||A|let|C2
+ucronia|ucronía||S|let|C2
+futurismo|futurismo||S|let|C2
+fantasmagoria|fantasmagoría||S|let|C2
+andróide|androide||S|let|C2
+ciborgue|ciborg||S|let|C2
+milenarismo|milenarismo||S|ast|C2
+messianismo|mesianismo||S|ast|C2
+realismo mágico|realismo mágico||L|let|C2
+contrafactual|contrafactual||A|ast|C2
+terraformação|terraformación||S|sci|C2
+anti-herói|antihéroe||S|let|C2
+cataclismo|cataclismo||S|nat|C2
+virtualidade|virtualidad||S|tec|C2
+simulacro|simulacro||S|let|C2
+hiper-realidade|hiperrealidad||S|ast|C2
+extrapolação|extrapolación||S|ast|C2
+prodigioso|prodigioso||A|ast|C2
+insólito|insólito||A|ast|C2

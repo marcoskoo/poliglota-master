@@ -1,0 +1,280 @@
+conjuntura|coyuntura||S|ast|C2
+historiógrafo|historiógrafo||S|pro|C2
+historiografia|historiografía||S|sci|C2
+revisionismo|revisionismo||S|ast|C2
+negacionismo|negacionismo||S|att|C2
+memória partilhada|memoria compartida||L|ast|C2
+dever de memória|deber de memoria||L|ast|C2
+genealogia|genealogía||S|fam|C2
+testemunhal|testifical (de testigo)||A|ist|C2
+quinhentista|quinientista||A|let|C2
+setecentista|dieciochesco||A|let|C2
+durabilidade|durabilidad||S|ast|C2
+efémero|efímero||A|tmp|C2
+perenidade|perennidad||S|tmp|C2
+fugacidade|fugacidad||S|tmp|C2
+perecimento|perecimiento||S|ast|C2
+imemorial|inmemorial||A|tmp|C2
+temporalidade|temporalidad||S|tmp|C2
+simultaneidade|simultaneidad||S|tmp|C2
+diacronia|diacronía||S|let|C2
+reminiscência|reminiscencia||S|ast|C2
+esquecimento|olvido||S|ast|C2
+criptoativo|criptoactivo||S|fin|C2
+criptomoeda|criptomoneda||S|fin|C2
+cadeia de blocos|cadena de bloques||L|fin|C2
+carteira digital|cartera digital||L|fin|C2
+carteira fria|cartera fría (almacenamiento en frío)||L|fin|C2
+chave privada|clave privada||L|fin|C2
+moeda estável|moneda estable||L|fin|C2
+moeda fiduciária|moneda fiduciaria||L|fin|C2
+tokenização|tokenización||S|fin|C2
+contratos inteligentes|contratos inteligentes||L|fin|C2
+livro-razão distribuído|libro de contabilidad distribuido||L|fin|C2
+volatilidade|volatilidad||S|fin|C2
+ilíquido|ilíquido||A|fin|C2
+custódia de ativos|custodia de activos||L|fin|C2
+ativo subjacente|activo subyacente||L|fin|C2
+derivado financeiro|derivado financiero||L|fin|C2
+alavancagem|apalancamiento||S|fin|C2
+posição curta|posición corta||L|fin|C2
+cobertura cambial|cobertura cambiaria||L|fin|C2
+permuta financeira|permuta financiera||L|fin|C2
+porta-moedas eletrónico|monedero electrónico||S|fin|C2
+escritura pública|escritura pública||L|ist|C2
+certidão de teor|certificación literal||L|ist|C2
+conservatória|registro (oficina registral)||S|ist|C2
+conservador|registrador||S|pro|C2
+exarar|asentar por escrito||V|ist|C2
+registo predial|registro de la propiedad||L|ist|C2
+averbamento|anotación registral (marginación)||S|ist|C2
+apólice de seguro|póliza de seguros||L|fin|C2
+testamento cerrado|testamento cerrado||L|ist|C2
+testamenteiro|albacea||S|pro|C2
+herdeiro legítimo|heredero legítimo||L|ist|C2
+legítima|legítima (porción hereditaria forzosa)||S|ist|C2
+usufruto|usufructo||S|ist|C2
+usufrutuário|usufructuario||S|ist|C2
+ónus|gravamen||S|ist|C2
+penhor|prenda (derecho real de garantía)||S|ist|C2
+compropriedade|copropiedad||S|ist|C2
+justificação notarial|acta de notoriedad||L|ist|C2
+procuração forense|poder para pleitos||L|ist|C2
+outorga|otorgamiento||S|ist|C2
+autenticação|autenticación (cotejo notarial)||S|ist|C2
+traslado|traslado (copia fehaciente)||S|ist|C2
+recurso hierárquico|recurso de alzada||L|ist|C2
+recurso contencioso|recurso contencioso-administrativo||L|ist|C2
+intimação|requerimiento judicial||S|ist|C2
+suspensão da execução|suspensión de la ejecución||L|ist|C2
+medida cautelar|medida cautelar||L|ist|C2
+impugnação|impugnación||S|ist|C2
+nulidade|nulidad||S|ist|C2
+anulabilidade|anulabilidad||S|ist|C2
+auto de infração|acta de infracción||L|ist|C2
+multa coercitiva|multa de apremio||L|ist|C2
+execução fiscal|ejecución tributaria||L|fin|C2
+penhora|embargo de bienes||S|ist|C2
+hasta pública|hasta pública (subasta)||L|ist|C2
+concurso público|concurso público (oposición)||L|ist|C2
+parecer vinculativo|dictamen vinculante||L|ist|C2
+discricionariedade|discrecionalidad||S|ist|C2
+silêncio administrativo|silencio administrativo||L|ist|C2
+autotutela|autotutela||S|ist|C2
+desvio de poder|desviación de poder||L|ist|C2
+caducidade|caducidad||S|ist|C2
+prescrição|prescripción||S|ist|C2
+jurisprudência|jurisprudencia||S|ist|C2
+criminologia|criminología||S|ist|C2
+penologia|penología||S|ist|C2
+vitimologia|victimología||S|ist|C2
+reincidência|reincidencia||S|ist|C2
+regime aberto|régimen abierto (tercer grado)||L|ist|C2
+liberdade condicional|libertad condicional||L|ist|C2
+pena suspensa|condena en suspenso||L|ist|C2
+trabalho a favor da comunidade|trabajos en beneficio de la comunidad||L|ist|C2
+detenção preventiva|prisión preventiva||L|ist|C2
+vigilância eletrónica|vigilancia electrónica||L|ist|C2
+período de segurança|periodo de seguridad penitenciario||L|ist|C2
+atenuante|atenuante||S|ist|C2
+agravante|agravante||S|ist|C2
+eximente|eximente||S|ist|C2
+imputabilidade|imputabilidad||S|ist|C2
+periculosidade|peligrosidad||S|ist|C2
+ressocialização|resocialización||S|ist|C2
+delinquência juvenil|delincuencia juvenil||L|ist|C2
+vitimização|victimización||S|ist|C2
+arguido|imputado (investigado)||S|ist|C2
+perícia forense|pericia forense||L|ist|C2
+jurisdição internacional|jurisdicción internacional||L|ist|C2
+genocídio|genocidio||S|ist|C2
+crimes de guerra|crímenes de guerra||L|ist|C2
+crime contra a humanidade|crimen de lesa humanidad||L|ist|C2
+anexação|anexión||S|ist|C2
+autodeterminação dos povos|autodeterminación de los pueblos||L|ist|C2
+extradição|extradición||S|ist|C2
+imunidade diplomática|inmunidad diplomática||L|ist|C2
+estatuto de refugiado|estatuto de refugiado||L|ist|C2
+apátrida|apátrida||S|ist|C2
+alto-comissário|alto comisionado||S|pro|C2
+direito de veto|derecho de veto||L|ist|C2
+ratificação|ratificación||S|ist|C2
+denúncia de um tratado|denuncia de un tratado||L|ist|C2
+preâmbulo|preámbulo||S|let|C2
+retorsão|retorsión (represalia lícita)||S|ist|C2
+arbitragem internacional|arbitraje internacional||L|ist|C2
+costume internacional|costumbre internacional||L|ist|C2
+uso da força|uso de la fuerza||L|ist|C2
+integridade territorial|integridad territorial||L|ist|C2
+águas territoriais|aguas territoriales||L|ist|C2
+tratado bilateral|tratado bilateral||L|ist|C2
+sociedade anónima|sociedad anónima||L|fin|C2
+sociedade por quotas|sociedad limitada||L|fin|C2
+pacto social|pacto social (escritura constitutiva)||L|ist|C2
+capital social|capital social||L|fin|C2
+aumento de capital|ampliación de capital||L|fin|C2
+ação ao portador|acción al portador||L|fin|C2
+ação preferencial|acción preferente||L|fin|C2
+obrigacionista|obligacionista||S|fin|C2
+órgãos sociais|órganos sociales||L|ist|C2
+assembleia geral|junta general||L|ist|C2
+relatório e contas|informe de gestión anual||L|fin|C2
+conselho fiscal|comité de auditoría||L|ist|C2
+revisor oficial de contas|auditor de cuentas||L|pro|C2
+cisão|escisión||S|fin|C2
+dissolução e liquidação|disolución y liquidación||L|ist|C2
+insolvência|insolvencia||S|fin|C2
+administrador da insolvência|administrador concursal||L|pro|C2
+direitos de crédito|derechos de crédito||L|fin|C2
+concordata|convenio de acreedores||S|ist|C2
+empresário em nome individual|empresario individual||L|pro|C2
+cláusula de não concorrência|pacto de no competencia||L|ist|C2
+convenção coletiva de trabalho|convenio colectivo de trabajo||L|lav|C2
+contrato sem termo|contrato indefinido||L|lav|C2
+justa causa|justa causa (despido disciplinario)||L|ist|C2
+despedimento ilícito|despido nulo o improcedente||L|lav|C2
+despedimento coletivo|despido colectivo||L|lav|C2
+compensação por cessação|indemnización por extinción||L|lav|C2
+indemnização|indemnización||S|fin|C2
+subsídio de Natal|paga extraordinaria de Navidad||L|fin|C2
+subsídio de férias|paga extraordinaria de vacaciones||L|fin|C2
+trabalho suplementar|trabajo extraordinario (horas extra)||L|lav|C2
+banco de horas|banco de horas||L|lav|C2
+licença sem vencimento|excedencia sin sueldo||L|lav|C2
+licença parental|permiso parental||L|fam|C2
+acordo de empresa|acuerdo de empresa||L|lav|C2
+negociação coletiva|negociación colectiva||L|lav|C2
+serviço mínimo|servicio mínimo||L|lav|C2
+comissão de trabalhadores|comité de empresa||L|lav|C2
+revogação por mútuo acordo|extinción por mutuo acuerdo||L|lav|C2
+recibos verdes|trabajo por cuenta propia (recibos verdes)||L|lav|C2
+trabalhador independente|trabajador autónomo||L|lav|C2
+trabalhador-estudante|trabajador-estudiante||S|lav|C2
+afastador|separador (desflector quirúrgico)||S|sla|C2
+porta-agulhas|portaagujas||S|sla|C2
+pinça hemostática|pinza hemostática||L|sla|C2
+drenagem torácica|drenaje torácico||L|sla|C2
+sutura contínua|sutura continua||L|sla|C2
+fio absorvível|hilo reabsorbible||L|sla|C2
+agrafador|grapadora quirúrgica||S|sla|C2
+agrafe|grapa quirúrgica||S|sla|C2
+cauterização|cauterización||S|sla|C2
+laparoscopia|laparoscopia||S|sla|C2
+laparotomia|laparotomía||S|sla|C2
+anastomose|anastomosis||S|sla|C2
+resseção|resección||S|sla|C2
+exerese|exéresis||S|sla|C2
+deiscência de ferida|dehiscencia de la herida||L|sla|C2
+queloide|queloide||S|sla|C2
+hemostasia|hemostasia||S|sla|C2
+campo estéril|campo estéril||L|sla|C2
+assepsia|asepsia||S|sla|C2
+bloqueio epidural|bloqueo epidural||L|sla|C2
+intubação orotraqueal|intubación orotraqueal||L|sla|C2
+bloco operatório|quirófano||L|sla|C2
+sopro cardíaco|soplo cardíaco||L|sla|C2
+fibrilhação auricular|fibrilación auricular||L|sla|C2
+insuficiência cardíaca|insuficiencia cardíaca||L|sla|C2
+regurgitação mitral|regurgitación mitral||L|sla|C2
+prolapso da válvula mitral|prolapso de la válvula mitral||L|sla|C2
+cateterismo|cateterismo (sondaje cardiovascular)||S|sla|C2
+angioplastia|angioplastia||S|sla|C2
+endoprótese vascular|endoprótesis vascular||L|sla|C2
+revascularização|revascularización||S|sla|C2
+hipotensão ortostática|hipotensión ortostática||L|sla|C2
+embolia pulmonar|embolia pulmonar||L|sla|C2
+trombose venosa profunda|trombosis venosa profunda||L|sla|C2
+enfisema pulmonar|enfisema pulmonar||L|sla|C2
+broncodilatador|broncodilatador||S|sla|C2
+sibilância|sibilancia||S|sla|C2
+oximetria|oximetría||S|sla|C2
+espirometria|espirometría||S|sla|C2
+pneumotórax|neumotórax||S|sla|C2
+hemoptise|hemoptisis||S|sla|C2
+apneia do sono|apnea del sueño||L|sla|C2
+hipoxémia|hipoxemia||S|sla|C2
+hipertiroidismo|hipertiroidismo||S|sla|C2
+hipotiroidismo|hipotiroidismo||S|sla|C2
+insulinorresistência|resistencia a la insulina||S|sla|C2
+hipoglicémia|hipoglucemia||S|sla|C2
+hiperglicémia|hiperglucemia||S|sla|C2
+pancreatite|pancreatitis||S|sla|C2
+suprarrenal|suprarrenal||A|cor|C2
+corticosteroide|corticosteroide||S|sla|C2
+hipotalâmico|hipotalámico||A|sla|C2
+somatotrofina|hormona del crecimiento||S|sla|C2
+cortisol|cortisol||S|sla|C2
+aldosterona|aldosterona||S|sla|C2
+metabolismo basal|metabolismo basal||L|sla|C2
+obesidade mórbida|obesidad mórbida||L|sla|C2
+síndrome metabólica|síndrome metabólico||L|sla|C2
+ácido úrico|ácido úrico||L|sla|C2
+perimenopausa|perimenopausia||S|sla|C2
+osteopenia|osteopenia||S|sla|C2
+acromegalia|acromegalia||S|sla|C2
+gigantismo|gigantismo||S|sla|C2
+bócio|bocio||S|sla|C2
+exoftalmia|exoftalmía||S|sla|C2
+dermatite atópica|dermatitis atópica||L|sla|C2
+dermatite de contato|dermatitis de contacto||L|sla|C2
+psoríase|psoriasis||S|sla|C2
+urticária|urticaria||S|sla|C2
+angioedema|angioedema||S|sla|C2
+prurido|prurito||S|sla|C2
+eritema|eritema||S|sla|C2
+pápula|pápula||S|sla|C2
+pústula|pústula||S|sla|C2
+nódulo subcutâneo|nódulo subcutáneo||L|sla|C2
+mácula|mácula (mancha cutánea)||S|sla|C2
+descamação|descamación||S|sla|C2
+teste de punção|prueba de punción cutánea||L|sla|C2
+painel de alergénios|panel de alérgenos||L|sla|C2
+anafilaxia|anafilaxia||S|sla|C2
+autoinjetor de adrenalina|autoinyector de adrenalina||L|sla|C2
+rinite alérgica|rinitis alérgica||L|sla|C2
+líquen plano|liquen plano||L|sla|C2
+queratose|queratosis||S|sla|C2
+ictiose|ictiosis||S|sla|C2
+fotossensibilização|fotosensibilización||S|sla|C2
+oncologia|oncología||S|sla|C2
+tumor sólido|tumor sólido||L|sla|C2
+metástase|metástasis||S|sla|C2
+estadiamento|estadificación||S|sla|C2
+grau histológico|grado histológico||L|sla|C2
+carcinoma|carcinoma||S|sla|C2
+sarcoma|sarcoma||S|sla|C2
+linfoma|linfoma||S|sla|C2
+melanoma|melanoma||S|sla|C2
+quimioterapia adjuvante|quimioterapia adyuvante||L|sla|C2
+braquiterapia|braquiterapia||S|sla|C2
+imunoterapia oncológica|inmunoterapia oncológica||L|sla|C2
+neutropenia|neutropenia||S|sla|C2
+alopecia|alopecia||S|sla|C2
+mucosite|mucositis||S|sla|C2
+remissão completa|remisión completa||L|sla|C2
+sobrevida global|supervivencia global||L|sla|C2
+sobrevida livre de progressão|supervivencia libre de progresión||L|sla|C2
+cuidados paliativos|cuidados paliativos||L|sla|C2
+sedação paliativa|sedación paliativa||L|sla|C2
+opiáceo|opiáceo||S|sla|C2
+testamento vital|testamento vital||L|ist|C2

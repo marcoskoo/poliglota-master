@@ -1,0 +1,281 @@
+potencial de ação|potencial de acción (impulso nervioso)||L|sci|C2
+mediador químico|mediador químico (sináptico)||L|sci|C2
+degenerescência|degeneración (atrofia progresiva)||S|sci|C2
+declínio cognitivo|deterioro cognitivo||L|sci|C2
+memória de trabalho|memoria de trabajo||L|sci|C2
+atenção seletiva|atención selectiva||L|sci|C2
+processamento semântico|procesamiento semántico||L|sci|C2
+afasia|afasia||S|sci|C2
+apraxia|apraxia||S|sci|C2
+agnosia|agnosia||S|sci|C2
+estereotaxia|estereotaxia||S|sci|C2
+cefaleia|cefalea (dolor de cabeza)||S|sci|C2
+lateralização cerebral|lateralización cerebral||L|sci|C2
+isomeria|isomería||S|sci|C2
+estereoisómero|estereoisómero||S|sci|C2
+grupo funcional|grupo funcional||L|sci|C2
+quelação|quelación||S|sci|C2
+ligando|ligando (en química de coordinación)||S|sci|C2
+valência|valencia||S|sci|C2
+eletronegatividade|electronegatividad||S|sci|C2
+estequiometria|estequiometría||S|sci|C2
+calorimetria|calorimetría||S|sci|C2
+espectroscopia|espectroscopía||S|sci|C2
+cromatografia|cromatografía||S|sci|C2
+alquilo|alquilo (grupo radical)||S|sci|C2
+halogenação|halogenación||S|sci|C2
+hidrólise|hidrólisis||S|sci|C2
+polimerização|polimerización||S|sci|C2
+monómero|monómero||S|sci|C2
+azeótropo|azeótropo||S|sci|C2
+catálise heterogénea|catálisis heterogénea||L|sci|C2
+sublimação|sublimación||S|sci|C2
+alotropia|alotropía||S|sci|C2
+desnaturalização|desnaturalización (de proteínas)||S|sci|C2
+entrelaçamento quântico|entrelazamiento cuántico||L|sci|C2
+função de onda|función de onda||L|sci|C2
+incerteza|incertidumbre (principio de indeterminación)||S|sci|C2
+dualismo onda-corpuscular|dualismo onda-corpúsculo||L|sci|C2
+decaimento radioativo|desintegración radiactiva||L|sci|C2
+fissão nuclear|fisión nuclear||L|sci|C2
+partícula elementar|partícula elemental||L|sci|C2
+bosão|bosón||S|sci|C2
+fermião|fermión||S|sci|C2
+quark|quark||S|sci|C2
+hadrão|hadrón||S|sci|C2
+leptão|leptón||S|sci|C2
+acelerador de partículas|acelerador de partículas||L|sci|C2
+simetria|simetría (invarianza física)||S|sci|C2
+interação fundamental|interacción fundamental||L|sci|C2
+helicidade|helicidad (de una partícula)||S|sci|C2
+efeito túnel|efecto túnel||L|sci|C2
+glúon|gluón||S|sci|C2
+antimatéria|antimateria||S|sci|C2
+aniquilação|aniquilación (de partículas)||S|sci|C2
+espaço-tempo|espaciotiempo||S|sci|C2
+anã branca|enana blanca||L|sci|C2
+estrela de neutrões|estrella de neutrones||L|sci|C2
+supernova|supernova||S|sci|C2
+protoestrela|protoestrella||S|sci|C2
+sequência principal|secuencia principal||L|sci|C2
+exoplaneta|exoplaneta||S|sci|C2
+planeta telúrico|planeta rocoso||L|sci|C2
+paralaxe|paralaje||S|sci|C2
+magnitude aparente|magnitud aparente||L|sci|C2
+desvio para o vermelho|corrimiento al rojo||L|sci|C2
+radiação cósmica de fundo|radiación de fondo cósmica||L|sci|C2
+constante cosmológica|constante cosmológica||L|sci|C2
+energia escura|energía oscura||L|sci|C2
+matéria escura|materia oscura||L|sci|C2
+recombinação|recombinación (cuando el universo se hizo transparente)||S|sci|C2
+horizonte de acontecimentos|horizonte de sucesos||L|sci|C2
+singularidade gravitacional|singularidad gravitacional||L|sci|C2
+lente gravitacional|lente gravitacional||L|sci|C2
+aglomerado de galáxias|cúmulo de galaxias||L|sci|C2
+anã vermelha|enana roja||L|sci|C2
+espectro de emissão|espectro de emisión||L|sci|C2
+clonagem terapêutica|clonación terapéutica||L|sci|C2
+célula estaminar|célula madre||L|sci|C2
+propagação in vitro|propagación in vitro (cultivo de tejidos)||L|sci|C2
+ligase|ligasa||S|sci|C2
+amplificação in vitro|amplificación in vitro (de ADN)||L|sci|C2
+vetor de expressão|vector de expresión||L|sci|C2
+biorreator|biorreactor||S|sci|C2
+marcador molecular|marcador molecular||L|sci|C2
+organismo modelo|organismo modelo||L|sci|C2
+citotoxicidade|citotoxicidad||S|sci|C2
+biossensor|biosensor||S|sci|C2
+bioinformática|bioinformática||S|sci|C2
+genómica|genómica||S|sci|C2
+clonagem reprodutiva|clonación reproductiva||L|sci|C2
+medicina regenerativa|medicina regenerativa||L|sci|C2
+engenharia metabólica|ingeniería metabólica||L|sci|C2
+bioprospeção|bioprospección||S|sci|C2
+xenoenxerto|xenoinjerto||S|sci|C2
+célula somática|célula somática||L|sci|C2
+sequenciamento|secuenciación||S|sci|C2
+proteína recombinante|proteína recombinante||L|sci|C2
+inferência estatística|inferencia estadística||L|sci|C2
+intervalo de confiança|intervalo de confianza||L|sci|C2
+nível de significância|nivel de significación||L|sci|C2
+hipótese nula|hipótesis nula||L|sci|C2
+erro padrão|error típico||L|sci|C2
+desvio padrão|desviación típica||L|sci|C2
+coeficiente de variação|coeficiente de variación||L|sci|C2
+correlação espúria|correlación espuria||L|sci|C2
+causalidade|causalidad||S|sci|C2
+validade de construto|validez de constructo||L|sci|C2
+fidedignidade|fiabilidad||S|sci|C2
+desenho experimental|diseño experimental||L|sci|C2
+estudo caso-controlo|estudio de casos y controles||L|sci|C2
+variável de confusão|variable de confusión||L|sci|C2
+amostragem estratificada|muestreo estratificado||L|sci|C2
+enviesamento|sesgo||S|sci|C2
+reprodutibilidade|reproducibilidad||S|sci|C2
+regressão linear|regresión lineal||L|sci|C2
+meta-análise|metaanálisis||S|sci|C2
+heterogeneidade|heterogeneidad (entre estudios)||S|sci|C2
+validade convergente|validez convergente||L|sci|C2
+taxa de incidência|tasa de incidencia||L|sci|C2
+prevalência|prevalencia||S|sci|C2
+letalidade|letalidad||S|sci|C2
+surto epidémico|brote epidémico||L|sci|C2
+vigilância epidemiológica|vigilancia epidemiológica||L|sci|C2
+fator de risco|factor de riesgo||L|sci|C2
+saúde comunitária|salud comunitaria||L|sci|C2
+prevenção primária|prevención primaria||L|sci|C2
+rastreio populacional|cribado poblacional||L|sci|C2
+imunidade de grupo|inmunidad de grupo||L|sci|C2
+desinfestação|desinsectación (control de plagas)||S|sci|C2
+notificação obrigatória|declaración obligatoria (de enfermedad)||L|sci|C2
+cadeia de transmissão|cadena de transmisión||L|sci|C2
+vetor epidemiológico|vector epidemiológico (transmisor)||L|sci|C2
+mortalidade|mortalidad||S|sci|C2
+excesso de mortalidade|exceso de mortalidad||L|sci|C2
+carga da doença|carga de la enfermedad||L|sci|C2
+saneamento básico|saneamiento básico||L|sci|C2
+profilaxia|profilaxis||S|sci|C2
+portador assintomático|portador asintomático||L|sci|C2
+endemia|endemia||S|sci|C2
+falha|falla (fractura geológica)||S|sci|C2
+orogenia|orogenia (formación de montañas)||S|sci|C2
+isostasia|isostasia||S|sci|C2
+placa tectónica|placa tectónica||L|sci|C2
+subducção|subducción||S|sci|C2
+dorsal oceânica|dorsal oceánica||L|sci|C2
+crosta terrestre|corteza terrestre||L|sci|C2
+sismologia|sismología||S|sci|C2
+epicentro|epicentro||S|sci|C2
+hipocentro|hipocentro||S|sci|C2
+maremoto|maremoto||S|sci|C2
+piroclasto|piroclasto||S|sci|C2
+câmara magmática|cámara magmática||L|sci|C2
+plúton|plutón (intrusión ígnea)||S|sci|C2
+estratigrafia|estratigrafía||S|sci|C2
+datação radiométrica|datación radiométrica||L|sci|C2
+glaciação|glaciación||S|sci|C2
+sedimentação|sedimentación||S|sci|C2
+escala de tempo geológico|escala de tiempo geológico||L|sci|C2
+jazigo|yacimiento (mineral)||S|sci|C2
+espeleologia|espeleología||S|sci|C2
+derivada parcial|derivada parcial||L|sci|C2
+equação diferencial|ecuación diferencial||L|sci|C2
+teorema do ponto fixo|teorema del punto fijo||L|sci|C2
+topologia|topología||S|sci|C2
+variedade diferenciável|variedad diferenciable||L|sci|C2
+lógica de predicados|lógica de predicados||L|sci|C2
+silogismo|silogismo||S|sci|C2
+premissa|premisa||S|sci|C2
+falácia|falacia||S|sci|C2
+tautologia|tautología||S|sci|C2
+quantificador existencial|cuantificador existencial||L|sci|C2
+conjetura|conjetura (enunciado no demostrado)||S|sci|C2
+indução matemática|inducción matemática||L|sci|C2
+redução ao absurdo|reducción al absurdo||L|sci|C2
+autovalor|autovalor (valor propio)||S|sci|C2
+matriz inversível|matriz invertible||L|sci|C2
+espaço métrico|espacio métrico||L|sci|C2
+processo estocástico|proceso estocástico||L|sci|C2
+grafo|grafo||S|sci|C2
+isomorfismo|isomorfismo||S|sci|C2
+axiomatização|axiomatización||S|sci|C2
+intertextualidade|intertextualidad||S|let|C2
+dialogismo|dialogismo (polifonía enunciativa)||S|let|C2
+cânone literário|canon literario||L|let|C2
+estética da receção|estética de la recepción||L|let|C2
+horizonte de expectativas|horizonte de expectativas (del lector)||L|let|C2
+estruturalismo|estructuralismo||S|let|C2
+formalismo|formalismo (teoría literaria)||S|let|C2
+desautomatização|desautomatización (extrañamiento formal)||S|let|C2
+literariedade|literariedad||S|let|C2
+ficcionalidade|ficcionalidad||S|let|C2
+verosimilhança|verosimilitud||S|let|C2
+hermenêutica|hermenéutica||S|let|C2
+paratexto|paratexto||S|let|C2
+autoficção|autoficción||S|let|C2
+romance de cavalaria|libro de caballerías||L|let|C2
+romance psicológico|novela psicológica||L|let|C2
+literatura de testemunho|literatura de testimonio||L|let|C2
+canção de gesta|cantar de gesta (poema épico medieval)||L|let|C2
+cantiga de amigo|cantiga de amigo (lírica medieval)||L|let|C2
+cantiga de escárnio|cantiga de escarnio (sátira medieval)||L|let|C2
+anáfora|anáfora (repetición al inicio del verso)||S|let|C2
+catáfora|catáfora (anticipación de una referencia)||S|let|C2
+quiasmo|quiasmo (figura retórica en X)||S|let|C2
+hipérbole|hipérbole (figura de exageración)||S|let|C2
+metonímia|metonimia||S|let|C2
+sinédoque|sinécdoque||S|let|C2
+elipse|elipsis (omisión retórica)||S|let|C2
+antítese|antítesis||S|let|C2
+apóstrofe|apóstrofe (invocación retórica)||S|let|C2
+perífrase|perífrasis (rodeo expresivo)||S|let|C2
+litote|lítote (atenuación por negación)||S|let|C2
+eufemismo|eufemismo||S|let|C2
+epíteto|epíteto (adjetivo caracterizador)||S|let|C2
+prosopopeia|prosopopeya (personificación)||S|let|C2
+ironia verbal|ironia verbal (burla elegante)||L|let|C2
+escansão|escansión (análisis métrico)||S|let|C2
+asonância|asonancia (rima vocálica)||S|let|C2
+decassílabo|decasílabo (verso de diez sílabas)||S|let|C2
+redondilha maior|redondilla mayor (medida de siete sílabas)||L|let|C2
+cesura|cesura (pausa dentro del verso)||S|let|C2
+diegese|diegesis (mundo narrado)||S|let|C2
+focalização|focalización (punto de vista)||S|let|C2
+narrador onisciente|narrador omnisciente||L|let|C2
+narratário|narratario (destinatario del relato)||S|let|C2
+actante|actante (papel funcional)||S|let|C2
+isotopia|isotopía (coherencia semántica)||S|let|C2
+anisocronia|anisocronía (desajuste entre los tiempos del relato)||S|let|C2
+prolepse|prolepsis (anticipación narrativa)||S|let|C2
+analepse|analepsis (retrospección narrativa)||S|let|C2
+tempo do relato|tiempo del relato (duración narrativa)||L|let|C2
+fábula|fábula (material de la historia)||S|let|C2
+enunciação|enunciación (acto de producir discurso)||S|let|C2
+discurso indireto livre|estilo indirecto libre||L|let|C2
+história dentro da história|historia dentro de la historia||L|let|C2
+clímax|clímax (punto culminante)||S|let|C2
+anticlímax|anticlímax||S|let|C2
+desfecho|desenlace||S|let|C2
+anti-herói|antihéroe||S|let|C2
+personagem redonda|personaje redondo (frente al tipo)||L|let|C2
+narrador não fiável|narrador no fiable||L|let|C2
+alvorada|alborada (amanecer poético)||S|let|C2
+lusco-fusco|penumbra (anochecer apenas luminoso)||S|tmp|C2
+pranto|llanto (poético)||S|let|C2
+lamentação|lamentación (plantío elegíaco)||S|let|C2
+nevoeiro|banco de niebla||S|nat|C2
+névoa|bruma (niebla tenue)||S|nat|C2
+esgar|mueca (de dolor)||S|let|C2
+quinhão|quinhón (parte que toca en el reparto)||S|let|C2
+dadivoso|dadivoso (pródigo en dar)||A|let|C2
+mesquinho|mezquino (ruin, avaro)||A|let|C2
+fidalgo|hidalgo||S|let|C2
+lânguido|lánguido (abúlico, enervado)||A|let|C2
+torvo|torvo (severo, sombrío)||A|let|C2
+hirto|hirto (yerto, rígido)||A|let|C2
+esquivo|esquivo (retraído, huidizo)||A|let|C2
+algoz|algoz (verdugo, carnícero)||S|let|C2
+estertor|estertor (rattle de la agonía)||S|let|C2
+cismar|cavilar (dar vueltas en la cabeza)||V|let|C2
+opúsculo|opúsculo (obrita docta)||S|let|C2
+florilégio|florilegio (antología de pasajes)||S|let|C2
+a priori|a priori (conocimiento previo a la experiencia)||E|ast|C2
+a posteriori|a posteriori (conocimiento derivado de la experiencia)||E|ast|C2
+empirismo|empirismo||S|ast|C2
+dogmático|dogmático (impuesto como dogma)||A|ast|C2
+falibilismo|falibilismo||S|ast|C2
+justificação epistémica|justificación epistémica||L|ast|C2
+contrafactual|contrafactual (hipótesis contraria al hecho)||S|ast|C2
+qualia|cualia (cualidades subjetivas de la experiencia)||S|ast|C2
+solipsismo|solipsismo||S|ast|C2
+imperativo categórico|imperativo categórico||L|ast|C2
+deontologia|deontología||S|ast|C2
+supererogação|supererogación (mérito más allá del deber)||S|ast|C2
+vulnerabilidade|vulnerabilidad (criterio de protección de los frágiles)||S|ast|C2
+consequencialismo|consecuencialismo||S|ast|C2
+teleologia|teleología (finalidad de las acciones)||S|ast|C2
+intuição sensível|intuición sensible||L|ast|C2
+noúmeno|noúmeno (cosa en sí)||S|ast|C2
+juízo sintético a priori|juicio sintético a priori||L|ast|C2
+indeterminismo|indeterminismo (libertad de la voluntad)||S|ast|C2
+compatibilismo|compatibilismo (libre albedrío compatible con el determinismo)||S|ast|C2

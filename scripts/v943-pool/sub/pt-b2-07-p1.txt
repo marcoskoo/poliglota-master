@@ -1,0 +1,307 @@
+justiça|justicia||S|ast|B2
+justo|justo (equitativo)||A|ast|B2
+verdade|verdad||S|ast|B2
+mentira|mentira||S|ast|B2
+beleza|belleza||S|ast|B2
+bela|bella||A|ast|B2
+fealdade|fealdad||S|ast|B2
+equidade|equidad||S|ast|B2
+imparcial|imparcial||A|ast|B2
+parcialidade|parcialidad||S|ast|B2
+igualdade|igualdad||S|ast|B2
+dignidade|dignidad||S|ast|B2
+honradez|honestidad||S|ast|B2
+honesto|honesto||A|ast|B2
+ética|ética||S|ast|B2
+moral|moral||A|ast|B2
+virtude|virtud||S|ast|B2
+defeito|defecto||S|ast|B2
+critério|criterio||S|ast|B2
+subjetivo|subjetivo||A|ast|B2
+objetivo|objetivo||A|ast|B2
+estética|estética||S|ast|B2
+harmonia|armonía||S|ast|B2
+proporção|proporción||S|ast|B2
+franqueza|franqueza||S|ast|B2
+enganar|engañar||V|ast|B2
+renascimento|renacimiento||S|art|B2
+barroco|barroco||S|art|B2
+impressionismo|impresionismo||S|art|B2
+expressionismo|expresionismo||S|art|B2
+surrealismo|surrealismo||S|art|B2
+cubismo|cubismo||S|art|B2
+vanguarda|vanguardia||S|art|B2
+vanguardista|vanguardista||A|art|B2
+retrato|retrato||S|art|B2
+paisagem|paisaje (género pictórico)||S|art|B2
+natureza-morta|naturaleza muerta||S|art|B2
+afresco|afresco||S|art|B2
+pincelada|pincelada||S|art|B2
+esboço|boceto||S|art|B2
+moldura|marco (de un cuadro)||S|art|B2
+escultor|escultor||S|art|B2
+pintor|pintor||S|art|B2
+obra-prima|obra maestra||S|art|B2
+aguarela|acuarela||S|art|B2
+guache|gouache||S|art|B2
+tela|lienzo||S|art|B2
+cavalete|caballete||S|art|B2
+ateliê|taller de artista||S|art|B2
+restaurar|restaurar||V|art|B2
+academicismo|academicismo||S|art|B2
+patrocínio|mecenazgo||S|art|B2
+património|patrimonio||S|cit|B2
+fachada|fachada||S|cit|B2
+coluna|columna||S|cit|B2
+arco|arco||S|cit|B2
+cúpula|cúpula||S|cit|B2
+abóbada|bóveda||S|cit|B2
+nave|nave (de iglesia)||S|cit|B2
+claustro|claustro||S|cit|B2
+azulejo|azulejo||S|cit|B2
+cantaria|sillería||S|cit|B2
+arquiteto|arquitecto||S|pro|B2
+tijolo|ladrillo||S|cas|B2
+betão|hormigón||S|cit|B2
+pedra|piedra||S|cit|B2
+estuque|estuco||S|cit|B2
+capitel|capitel||S|cit|B2
+frontão|frontón (remate de fachada)||S|cit|B2
+miradouro|mirador||S|cit|B2
+pátio|patio||S|cit|B2
+escadaria|escalinata||S|cit|B2
+classificado|clasificado (patrimonio protegido)||A|cit|B2
+preservar|preservar||V|cit|B2
+degradar-se|deteriorarse||V|cit|B2
+estilo arquitetónico|estilo arquitectónico||L|art|B2
+planta baixa|planta baja||L|cit|B2
+obras públicas|obras públicas||L|cit|B2
+condomínio|comunidad de vecinos||S|cas|B2
+vizinho|vecino||S|cas|B2
+assembleia de moradores|junta de propietarios||L|cas|B2
+quota de condomínio|cuota de comunidad||L|cas|B2
+síndico|administrador de la finca||S|cas|B2
+portaria|conserjería||S|cas|B2
+porteiro|portero||S|cas|B2
+regulamento|reglamento||S|cas|B2
+ruído|ruido||S|cas|B2
+respeitar|respetar||V|cas|B2
+incomodar|molestar||V|cas|B2
+perturbar|perturbar||V|cas|B2
+conflito|conflicto||S|cas|B2
+mediação|mediación||S|cas|B2
+acordo|acuerdo||S|cas|B2
+lixo|basura||S|cas|B2
+contentor do lixo|contenedor de basura||L|cas|B2
+elevador|ascensor||S|cas|B2
+escada de serviço|escalera de servicio||L|cas|B2
+garagem|garaje||S|cas|B2
+varanda|balcón||S|cas|B2
+caldeira|caldera||S|cas|B2
+canalização|fontanería||S|cas|B2
+infiltração|infiltración (gotera)||S|cas|B2
+rachadura|grieta||S|cas|B2
+boa vizinhança|buena vecindad||L|cas|B2
+rótulo|etiqueta||S|ali|B2
+rotulagem|etiquetado||S|ali|B2
+lista de ingredientes|lista de ingredientes||L|ali|B2
+declaração nutricional|declaración nutricional||L|ali|B2
+caloria|caloría||S|ali|B2
+salubre|saludable||A|ali|B2
+processado|procesado||A|ali|B2
+ultraprocessado|ultraprocesado||A|ali|B2
+conservante|conservante||S|ali|B2
+corante|colorante||S|ali|B2
+aromatizante|aromatizante||S|ali|B2
+aditivo|aditivo||S|ali|B2
+salgado|salado||A|ali|B2
+gordura saturada|grasa saturada||L|ali|B2
+fibra|fibra||S|ali|B2
+proteína|proteína||S|ali|B2
+hidrato de carbono|hidrato de carbono||L|ali|B2
+sódio|sodio||S|ali|B2
+dose|dosis||S|ali|B2
+dose diária recomendada|dosis diaria recomendada||L|ali|B2
+ingestão|ingesta||S|ali|B2
+nutritivo|nutritivo||A|ali|B2
+equilibrado|equilibrado (dieta)||A|ali|B2
+porção|porción||S|ali|B2
+data de validade|fecha de caducidad||L|ali|B2
+integral|integral (pan o arroz)||A|ali|B2
+comboio|tren||S|tra|B2
+estação de comboios|estación de tren||L|tra|B2
+estação central|estación central||L|tra|B2
+regresso|regreso||S|tra|B2
+ida e volta|ida y vuelta||L|tra|B2
+lugar sentado|asiento reservado||L|tra|B2
+poltrona|butaca (asiento)||S|tra|B2
+vagão|vagón||S|tra|B2
+carruagem|vagón de pasajeros||S|tra|B2
+revisor|revisor||S|pro|B2
+apeadeiro|apeadero||S|tra|B2
+suplemento|suplemento (recargo)||S|tra|B2
+passe ferroviário|abono de tren||L|tra|B2
+linha férrea|línea férrea||S|tra|B2
+alta velocidade|alta velocidad||L|tra|B2
+regional|regional (tren)||A|tra|B2
+pontual|puntual||A|tra|B2
+lotado|lleno (ocupado)||A|tra|B2
+partida|salida (de un tren)||S|tra|B2
+chegada|llegada||S|tra|B2
+atraso|retraso||S|tra|B2
+cancelamento|cancelación||S|tra|B2
+plataforma|andén||S|tra|B2
+transbordo|transbordo||S|tra|B2
+reservar um lugar|reservar un asiento||E|tra|B2
+validar o bilhete|validar el billete||E|tra|B2
+dor|dolor||S|sla|B2
+dor de cabeça|dolor de cabeza||L|sla|B2
+lesão|lesión||S|sla|B2
+entorse|esguince||S|sla|B2
+distensão|distensión muscular||S|sla|B2
+fratura|fractura||S|sla|B2
+contusão|contusión||S|sla|B2
+hemorragia|hemorragia||S|sla|B2
+ferida|herida||S|sla|B2
+penso rápido|tirita||L|sla|B2
+ligadura|vendaje||S|sla|B2
+gesso|escayola||S|sla|B2
+muleta|muleta||S|sla|B2
+imobilizar|inmovilizar||V|sla|B2
+desmaiar|desmayarse||V|sla|B2
+queimadura|quemadura||S|sla|B2
+picada|picadura||S|sla|B2
+cicatrizar|cicatrizar||V|sla|B2
+inchaço|hinchazón||S|sla|B2
+inflamação|inflamación||S|sla|B2
+analgésico|analgésico||S|sla|B2
+anti-inflamatório|antiinflamatorio||S|sla|B2
+reanimar|reanimar||V|sla|B2
+socorrer|socorrer||V|sla|B2
+torcer o tornozelo|torcerse el tobillo||E|sla|B2
+primeiros socorros|primeros auxilios||L|sla|B2
+teletrabalho|teletrabajo||S|lav|B2
+trabalho remoto|trabajo remoto||L|lav|B2
+conciliação|conciliación||S|lav|B2
+conciliar|conciliar||V|lav|B2
+videochamada|videollamada||S|tec|B2
+horário flexível|horario flexible||L|lav|B2
+flexibilidade|flexibilidad||S|lav|B2
+produtividade|productividad||S|lav|B2
+distração|distracción||S|lav|B2
+pausa|pausa||S|lav|B2
+gestão do tempo|gestión del tiempo||L|lav|B2
+sobrecarga|sobrecarga||S|lav|B2
+desligar|desconectarse||V|lav|B2
+reunião online|reunión online||L|lav|B2
+ergonómico|ergonómico||A|lav|B2
+cadeira de escritório|silla de escritorio||L|lav|B2
+equilíbrio|equilibrio||S|lav|B2
+fadiga|fatiga||S|sla|B2
+compensar horas|compensar horas||E|lav|B2
+reunião de equipa|reunión de equipo||L|lav|B2
+secretária|pupitre (escritorio)||S|cas|B2
+equipa remota|equipo remoto||L|lav|B2
+planear|planificar||V|lav|B2
+prioridade|prioridad||S|lav|B2
+autonomia|autonomía||S|lav|B2
+formação contínua|formación continua||L|lav|B2
+formação profissional|formación profesional||L|lav|B2
+competência|competencia (aptitud)||S|lav|B2
+certificado|certificado||S|lav|B2
+certificação|certificación||S|lav|B2
+seminário|seminario||S|stu|B2
+webinário|webinar||S|lav|B2
+progressão de carreira|progresión de carrera||L|lav|B2
+plano de carreira|plan de carrera||L|lav|B2
+promoção|ascenso||S|lav|B2
+avaliação de desempenho|evaluación del desempeño||L|lav|B2
+desempenho|desempeño||S|lav|B2
+aptidão|aptitud||S|lav|B2
+qualificação|cualificación||S|lav|B2
+requalificar-se|recualificarse||V|lav|B2
+estágio profissional|prácticas formativas||L|lav|B2
+mentor|mentor||S|pro|B2
+orientação|orientación||S|lav|B2
+especializar-se|especializarse||V|lav|B2
+carta de motivação|carta de motivación||L|lav|B2
+carta de recomendação|carta de recomendación||L|lav|B2
+desenvolver competências|desarrollar competencias||E|lav|B2
+período experimental|período de prueba||L|lav|B2
+progredir|progresar||V|lav|B2
+estagnar|estancarse||V|lav|B2
+intercâmbio|intercambio||S|stu|B2
+programa de intercâmbio|programa de intercambio||L|stu|B2
+bolsa de estudo|beca de estudios||L|stu|B2
+bolsa de mobilidade|beca de movilidad||L|stu|B2
+universidade de acolhimento|universidad de acogida||L|stu|B2
+crédito|crédito (académico)||S|stu|B2
+reconhecimento de diplomas|reconocimiento de diplomas||L|stu|B2
+aprendizagem|aprendizaje||S|stu|B2
+média|nota media||S|stu|B2
+língua estrangeira|lengua extranjera||L|stu|B2
+exame de língua|examen de idioma||L|stu|B2
+unidade curricular|asignatura||L|stu|B2
+alojamento universitário|alojamiento universitario||L|stu|B2
+residência de estudantes|residencia de estudiantes||L|stu|B2
+cantina universitária|comedor universitario||L|stu|B2
+ano letivo|año académico||L|stu|B2
+matrícula|matrícula||S|stu|B2
+candidatura|candidatura||S|stu|B2
+experiência no estrangeiro|experiencia en el extranjero||L|stu|B2
+integração|integración||S|stu|B2
+adaptação|adaptación||S|stu|B2
+regressar|regresar||V|stu|B2
+visto de estudante|visado de estudiante||L|stu|B2
+propina|tasas universitarias||S|stu|B2
+colega de turma|compañero de clase||L|stu|B2
+hipoteca|hipoteca||S|cas|B2
+crédito à habitação|crédito hipotecario||L|fin|B2
+prestação|cuota (de la hipoteca)||S|fin|B2
+entrada|entrada (pago inicial)||S|fin|B2
+preço de compra|precio de compra||L|cas|B2
+imóvel|inmueble||S|cas|B2
+escritura|escritura||S|cas|B2
+notário|notario||S|pro|B2
+agente imobiliário|agente inmobiliario||S|pro|B2
+renda|alquiler (renta mensual)||S|cas|B2
+arrendamento|alquiler (contrato)||S|cas|B2
+arrendar|alquilar||V|cas|B2
+prédio|finca (edificio)||S|cit|B2
+bairro|barrio||S|cit|B2
+bairro histórico|barrio histórico||L|cit|B2
+zona residencial|zona residencial||L|cit|B2
+valorização|revalorización||S|fin|B2
+moradia|casa unifamiliar||S|cas|B2
+trespasse|traspaso||S|cas|B2
+negociar o preço|negociar el precio||E|cas|B2
+sinal|señal (pago inicial)||S|fin|B2
+comissão|comisión||S|fin|B2
+seguro multirriscos|seguro multirriesgo||L|cas|B2
+amortização|amortización||S|fin|B2
+taxa de juro|tipo de interés||L|fin|B2
+loja online|tienda online||L|cmp|B2
+loja fiável|tienda de confianza||L|cmp|B2
+carrinho de compras|carrito de la compra||L|cmp|B2
+carrinho abandonado|carrito abandonado||L|cmp|B2
+finalizar a compra|finalizar la compra||E|cmp|B2
+portes de envio|gastos de envío||L|cmp|B2
+envio gratuito|envío gratuito||L|cmp|B2
+devolução|devolución||S|cmp|B2
+devolver|devolver||V|cmp|B2
+reembolso|reembolso||S|cmp|B2
+pagamento à entrega|pago contra reembolso||L|cmp|B2
+código de desconto|código de descuento||L|cmp|B2
+opinião do cliente|opinión del cliente||L|cmp|B2
+satisfeito|satisfecho||A|emo|B2
+exagerado|exagerado (comentario)||A|cmp|B2
+avaliação em estrelas|valoración en estrellas||L|cmp|B2
+fiável|fiable||A|cmp|B2
+prazos de entrega|plazos de entrega||L|cmp|B2
+encomenda|pedido (paquete)||S|cmp|B2
+encomendar|hacer un pedido||V|cmp|B2
+rastrear|rastrear el pedido||V|cmp|B2
+pagamento seguro|pago seguro||L|fin|B2
+brinde|regalo (detalle)||S|cmp|B2
+saldo|rebaja||S|cmp|B2
+guia de tamanhos|guía de tallas||L|rop|B2

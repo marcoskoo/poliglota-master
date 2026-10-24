@@ -1,0 +1,281 @@
+desassossego|desasosiego||S|emo|C2
+acanhamento|apocamiento||S|emo|C2
+altivez|altivez (soberbia)||S|emo|C2
+mesquinhez|mezquindad||S|emo|C2
+despeito|despecho||S|emo|C2
+enleio|embeleso (arrobo)||S|emo|C2
+abulia|abulia||S|emo|C2
+magnânimo|magnánimo||A|emo|C2
+pusilânime|pusilánime||A|emo|C2
+saudosismo|saudosismo (nostalgia ensoñadora)||S|emo|C2
+desdém|desdén||S|emo|C2
+condescendência|condescendencia||S|emo|C2
+afabilidade|afabilidad||S|emo|C2
+insolência|insolencia||S|emo|C2
+impávido|impávido||A|emo|C2
+indolente|indolente||A|emo|C2
+bravata|bravuconada||S|emo|C2
+teimosia|terquedad (testarudez)||S|emo|C2
+enfastio|hartazgo (fastidio)||S|emo|C2
+iracundo|iracundo||A|emo|C2
+governação|gobernanza||S|lav|C2
+gestão de topo|alta dirección||L|lav|C2
+gestão de mudança|gestión del cambio||L|lav|C2
+planeamento estratégico|planificación estratégica||L|lav|C2
+prospeção de mercado|prospección de mercado||L|fin|C2
+sinergia|sinergia||S|lav|C2
+reengenharia|reingeniería||S|lav|C2
+redução de efetivos|reducción de plantilla||L|lav|C2
+conselho de administração|consejo de administración||L|ist|C2
+índice bolsista|índice bursátil||S|fin|C2
+plano de negócios|plan de negocios||L|fin|C2
+fusões e aquisições|fusiones y adquisiciones||L|fin|C2
+margem operacional|margen operativo||L|fin|C2
+ponto de equilíbrio|punto de equilibrio||L|fin|C2
+valor acrescentado|valor añadido||L|fin|C2
+vantagem competitiva|ventaja competitiva||L|fin|C2
+delegação de poderes|delegación de facultades||L|ist|C2
+rotatividade|rotación de personal||S|lav|C2
+subcontratação|subcontratación||S|lav|C2
+orçamento base zero|presupuesto base cero||L|fin|C2
+ciclo orçamental|ciclo presupuestario||L|fin|C2
+recrutamento e seleção|reclutamiento y selección||L|lav|C2
+carta de motivação|carta de motivación||L|lav|C2
+período experimental|período de prueba||L|lav|C2
+horário flexível|horario flexible||L|lav|C2
+assédio no trabalho|acoso laboral||L|lav|C2
+esgotamento profissional|desgaste profesional (burnout)||L|sla|C2
+clima organizacional|clima organizacional||L|lav|C2
+cultura de empresa|cultura empresarial||L|lav|C2
+captação de talento|captación de talento||L|lav|C2
+formação contínua|formación continua||L|stu|C2
+progressão na carreira|progresión en la carrera||L|lav|C2
+pré-reforma|prejubilación||S|lav|C2
+baixa médica|baja médica||L|sla|C2
+requalificação|recualificación||S|stu|C2
+absentismo|absentismo||S|lav|C2
+presentismo|presentismo||S|lav|C2
+psicometria|psicometría||S|sci|C2
+liderança transformacional|liderazgo transformacional||L|lav|C2
+quadro de pessoal|plantilla de personal||L|lav|C2
+competências transversais|competencias transversales||L|stu|C2
+andragogia|andragogía||S|stu|C2
+heurística|heurística||S|stu|C2
+construtivismo|constructivismo||S|stu|C2
+interdisciplinaridade|interdisciplinariedad||S|stu|C2
+planificação de aulas|planificación de clases||L|stu|C2
+rubrica|rúbrica (criterios de evaluación)||S|stu|C2
+avaliação sumativa|evaluación sumativa||L|stu|C2
+abandono escolar|abandono escolar||L|stu|C2
+ensino recorrente|enseñanza recurrente (de adultos)||L|stu|C2
+psicopedagogia|psicopedagogía||S|stu|C2
+transposição didática|transposición didáctica||L|stu|C2
+currículo oculto|currículo oculto||L|stu|C2
+aprendizagem significativa|aprendizaje significativo||L|stu|C2
+estilo de aprendizagem|estilo de aprendizaje||L|stu|C2
+agregação|agregación (prueba de cátedra)||S|stu|C2
+docência|docencia||S|pro|C2
+sala de aula invertida|aula invertida||L|stu|C2
+estágio pedagógico|prácticas de enseñanza||L|stu|C2
+pedagogo|pedagogo||S|pro|C2
+educação de adultos|educación de personas adultas||L|stu|C2
+posologia|posología||S|sla|C2
+diagnóstico diferencial|diagnóstico diferencial||L|sla|C2
+consentimento informado|consentimiento informado||L|sla|C2
+prontuário|historial clínico||S|sla|C2
+utente|usuario (paciente)||S|sla|C2
+entidade patronal|empleador||S|lav|C2
+deontologia|deontología||S|ist|C2
+sigilo profissional|secreto profesional||L|ist|C2
+imperícia|impericia||S|ist|C2
+imprudência|imprudencia||S|ist|C2
+honorários|honorarios||S|fin|C2
+verba|partida presupuestaria||S|fin|C2
+cláusula penal|cláusula penal||L|ist|C2
+pensão de alimentos|pensión de alimentos||L|ist|C2
+inventário|inventario sucesorio||S|ist|C2
+parecer técnico|dictamen técnico||L|pro|C2
+projeto de execução|proyecto de ejecución||L|pro|C2
+empreitada|contrata (obra adjudicada)||S|lav|C2
+levantamento topográfico|levantamiento topográfico||L|pro|C2
+orçamento de obra|presupuesto de obra||L|lav|C2
+conivência|connivencia||S|rel|C2
+cumplicidade|complicidad||S|rel|C2
+alheamento|ensimismamiento (desapego)||S|emo|C2
+desafeição|desafecto||S|rel|C2
+veneração|veneración||S|rel|C2
+idílio|idilio||S|rel|C2
+desavença|desavenencia||S|rel|C2
+rixa|riña (pendencia)||S|rel|C2
+inimizade|enemistad||S|rel|C2
+bem-querença|benevolencia afectuosa||S|rel|C2
+laços de sangue|lazos de sangre||L|fam|C2
+entreajuda|ayuda mutua||S|rel|C2
+cordialidade|cordialidad||S|rel|C2
+insociável|insociable||A|rel|C2
+desapego|desapego||S|emo|C2
+respeitabilidade|respetabilidad||S|rel|C2
+confidente|confidente||S|rel|C2
+acerto de contas|ajuste de cuentas||L|rel|C2
+manter as distâncias|guardar las distancias||E|rel|C2
+cortar relações|romper relaciones||E|rel|C2
+libreto|libreto||S|mus|C2
+ária|aria||S|mus|C2
+tessitura|tessitura||S|mus|C2
+partitura|partitura||S|mus|C2
+contralto|contralto||S|mus|C2
+verso branco|verso blanco||L|let|C2
+entre bastidores|entre bastidores||E|cin|C2
+encenação|puesta en escena||S|cin|C2
+encenador|director de escena||S|pro|C2
+dramaturgia|dramaturgia||S|let|C2
+dramaturgo|dramaturgo||S|pro|C2
+monólogo interior|monólogo interior||L|let|C2
+coro trágico|coro trágico||L|let|C2
+catarse|catarsis||S|let|C2
+hybris|hybris (desmesura)||S|let|C2
+verso decassílabo|verso decasílabo||L|let|C2
+redondilha|redondilla||S|let|C2
+glosa|glosa||S|let|C2
+vilancico|villancico||S|mus|C2
+recitativo|recitativo||S|mus|C2
+escalada em livre|escalada libre||L|spt|C2
+bivaque|vivac||S|vig|C2
+cordilheira|cordillera||S|nat|C2
+acampamento base|campamento base||L|vig|C2
+mal de altitude|mal de altura||L|sla|C2
+cegueira das neves|ceguera de nieve||L|sla|C2
+fenda de gelo|grieta del glaciar||L|nat|C2
+travessia|travesía integral||S|spt|C2
+peripécia|peripecia||S|let|C2
+périplo|periplo||S|let|C2
+estalagem|mesón||S|htl|C2
+viandante|viandante||S|pro|C2
+andarilho|trotamundos||S|pro|C2
+romaria|romería||S|vig|C2
+abrigo de montanha|refugio de montaña||L|vig|C2
+avalanche|alud||S|nat|C2
+desfiladeiro|desfiladero||S|nat|C2
+despenhadeiro|acantilado||S|nat|C2
+tundra|tundra||S|nat|C2
+diário de bordo|diario de navegación||L|vig|C2
+plano-sequência|plano secuencia||S|cin|C2
+montagem paralela|montaje paralelo||L|cin|C2
+elipse narrativa|elipsis narrativa||L|cin|C2
+diegese|diegesis||S|cin|C2
+som fora de campo|sonido fuera de campo||L|cin|C2
+profundidade de campo|profundidad de campo||L|cin|C2
+contraplano|contraplano||S|cin|C2
+decupagem|decupaje (desglose de planos)||S|cin|C2
+raccord|raccord (continuidad)||S|cin|C2
+voz off|voz en off||E|cin|C2
+cinema de autor|cine de autor||L|cin|C2
+diretor de fotografia|director de fotografía||L|pro|C2
+grande angular|gran angular||L|cin|C2
+teleobjetiva|teleobjetivo||S|cin|C2
+crítica de cinema|crítica de cine||L|cin|C2
+estrutura em três atos|estructura en tres actos||L|cin|C2
+arco narrativo|arco narrativo||L|let|C2
+subtexto|subtexto||S|let|C2
+intertítulo|entretítulo||S|cin|C2
+cânone|cánon||S|art|C2
+taxa de natalidade|tasa de natalidad||L|att|C2
+taxa de fecundidade|tasa de fecundidad||L|att|C2
+envelhecimento demográfico|envejecimiento demográfico||L|att|C2
+pirâmide etária|pirámide de población||L|att|C2
+saldo migratório|saldo migratorio||L|att|C2
+migração de retorno|migración de retorno||L|att|C2
+êxodo rural|éxodo rural||L|att|C2
+despovoamento|despoblamiento||S|att|C2
+núcleo familiar|núcleo familiar||L|fam|C2
+família monoparental|familia monoparental||L|fam|C2
+família reconstituída|familia reconstituida||L|fam|C2
+agregado familiar|agregado familiar||L|fam|C2
+coabitação|cohabitación||S|fam|C2
+união de facto|unión de hecho||L|ist|C2
+dote|dote||S|fam|C2
+linhagem|linaje||S|fam|C2
+estirpe|estirpe||S|fam|C2
+primogenitura|primogenitura||S|fam|C2
+conflito intergeracional|conflicto intergeneracional||L|fam|C2
+papel de género|rol de género||L|att|C2
+plano diretor municipal|plan general municipal||L|cit|C2
+alvará de construção|licencia de obras||L|cit|C2
+ocupação do solo|ocupación del suelo||L|cit|C2
+mancha urbana|mancha urbana||L|cit|C2
+tecido urbano|tejido urbano||L|cit|C2
+malha viária|malla viaria||L|cit|C2
+adro|atrio (pórtico de iglesia)||S|cit|C2
+azulejaria|azulejería||S|art|C2
+cantaria|sillería (cantería)||S|art|C2
+talha dourada|retablo dorado (talla barroca)||L|art|C2
+fresta|rendija (resquicio)||S|cas|C2
+sacada|balcón volado||S|cit|C2
+platibanda|pretal (cornisa fingida)||S|cit|C2
+cunhal|esquinera (pilastra de esquina)||S|cit|C2
+gárgula|gárgola||S|art|C2
+botaréu|botarel (arbotante)||S|art|C2
+abóbada de cruzaria|bóveda de crucería||L|art|C2
+chafariz|surtidor (fuente pública)||S|cit|C2
+mobiliário urbano|mobiliario urbano||L|cit|C2
+regeneração urbana|regeneración urbana||L|cit|C2
+enólogo|enólogo||S|pro|C2
+prova de vinhos|cata de vinos||L|ris|C2
+casta|variedad de uva||S|ali|C2
+vindima|vendimia||S|ali|C2
+estágio em madeira|crianza en barrica||L|ali|C2
+barrica|barrica||S|ali|C2
+notas de prova|notas de cata||L|ali|C2
+retrogosto|retrogusto||S|ali|C2
+astringente|astringente||A|ali|C2
+fumeiro|charcutería (embutidos)||S|ali|C2
+cura|curación (maduración)||S|ali|C2
+potencial de guarda|potencial de envejecimiento||L|ali|C2
+vinho verde|vino verde||L|ali|C2
+colheita tardia|vendimia tardía||L|ali|C2
+vinho generoso|vino generoso||L|ali|C2
+licoroso|licoroso||A|ali|C2
+método clássico|método tradicional||L|ali|C2
+fundo de cozinha|fondo de cocina||L|ris|C2
+emulsão|emulsión||S|ris|C2
+desconstrução|deconstrucción||S|ris|C2
+etologia|etología||S|sci|C2
+comportamento agonístico|comportamiento agonístico||L|ani|C2
+ritual de cortejo|ritual de cortejo||L|ani|C2
+seleção sexual|selección sexual||L|sci|C2
+predador de topo|superpredador||L|ani|C2
+cadeia trófica|cadena trófica||L|sci|C2
+nicho ecológico|nicho ecológico||L|sci|C2
+estivação|estivación (aletargamiento estival)||S|ani|C2
+letargia|letargo||S|sla|C2
+diapausa|diapausa||S|sci|C2
+muda de penas|muda de plumaje||L|ani|C2
+parada nupcial|parada nupcial||L|ani|C2
+dimorfismo sexual|dimorfismo sexual||L|sci|C2
+mimetismo|mimetismo||S|sci|C2
+coloração críptica|coloración críptica||L|ani|C2
+aposemático|aposemático||A|sci|C2
+comensalismo|comensalismo||S|sci|C2
+mutualismo|mutualismo||S|sci|C2
+holótipo|holotipo||S|sci|C2
+filogenia|filogenia||S|sci|C2
+corologia|corología||S|sci|C2
+fitossociologia|fitosociología||S|sci|C2
+herbáceo|herbáceo||A|nat|C2
+lenhoso|leñoso||A|nat|C2
+caducifólio|caducifolio||A|nat|C2
+laurissilva|laurisilva||S|nat|C2
+montado|dehesa||S|nat|C2
+matagal|matorral||S|nat|C2
+clímax|clímax (comunidad madura)||S|sci|C2
+sucessão secundária|sucesión secundaria||L|nat|C2
+clareira|claro del bosque||S|nat|C2
+pteridófito|pteridófito||S|sci|C2
+briófito|briófito||S|sci|C2
+gimnosperma|gimnosperma||S|sci|C2
+angiosperma|angiosperma||S|sci|C2
+entomófilo|entomófilo||A|sci|C2
+endemismo|endemismo||S|sci|C2
+relicto|relicto||A|sci|C2
+dispersão de sementes|dispersión de semillas||L|nat|C2
+efeito de bordadura|efecto de borde||L|nat|C2

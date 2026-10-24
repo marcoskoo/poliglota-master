@@ -1,0 +1,305 @@
+autoestima|autoestima||S|emo|B2
+autoconfiança|autoconfianza||S|emo|B2
+confiança|confianza||S|emo|B2
+insegurança|inseguridad||S|emo|B2
+acreditar em si|creer en sí mismo||E|emo|B2
+valorizar|valorarse||V|emo|B2
+aceitação|aceptación||S|emo|B2
+aceitar-se|aceptarse||V|emo|B2
+superação|superación||S|emo|B2
+superar|superar||V|emo|B2
+desafio|desafío||S|emo|B2
+objetivo pessoal|objetivo personal||L|emo|B2
+meta|meta||S|emo|B2
+rotina|rutina||S|emo|B2
+disciplina|disciplina||S|emo|B2
+força de vontade|fuerza de voluntad||L|emo|B2
+desistir|renunciar||V|emo|B2
+perseverança|perseverancia||S|emo|B2
+persistência|persistencia||S|emo|B2
+melhoria|mejora||S|emo|B2
+melhorar|mejorar||V|emo|B2
+autocrítica|autocrítica||S|emo|B2
+motivação|motivación||S|emo|B2
+motivado|motivado||A|emo|B2
+autoconhecimento|autoconocimiento||S|emo|B2
+orgulho|orgullo||S|emo|B2
+orgulhar-se|sentirse orgulloso||V|emo|B2
+humildade|humildad||S|emo|B2
+queixa|queja||S|cmu|B2
+queixar-se|quejarse||V|cmu|B2
+pedir desculpa|pedir disculpas||E|cmu|B2
+desculpar-se|disculparse||V|cmu|B2
+mal-entendido|malentendido||S|cmu|B2
+equívoco|equívoco||S|cmu|B2
+confundir|confundir||V|cmu|B2
+compreender mal|entender mal||E|cmu|B2
+interpretar|interpretar||V|cmu|B2
+irritação|irritación||S|emo|B2
+irritado|irritado||A|emo|B2
+contrariado|disgustado||A|emo|B2
+ofendido|ofendido||A|emo|B2
+ofender|ofender||V|emo|B2
+insatisfeito|insatisfecho||A|emo|B2
+reclamar|reclamar||V|cmu|B2
+lamentar|lamentar||V|cmu|B2
+não foi propositado|no fue a propósito||E|cmu|B2
+propositado|adrede||A|cmu|B2
+trocar|confundir (intercambiar)||V|cmu|B2
+explicar-se|explicarse||V|cmu|B2
+esclarecer|aclarar||V|cmu|B2
+assumir a culpa|asumir la culpa||E|cmu|B2
+culpa|culpa||S|emo|B2
+frustração|frustración||S|emo|B2
+frustrado|frustrado||A|emo|B2
+mal-estar|malestar||S|emo|B2
+arrepender-se|arrepentirse||V|emo|B2
+documentação|documentación||S|ist|B2
+requerimento|solicitud (instancia)||S|ist|B2
+requerer|solicitar (por escrito)||V|ist|B2
+pedido|solicitud (petición)||S|ist|B2
+formulário|formulario||S|ist|B2
+preencher|rellenar||V|ist|B2
+assinatura|firma||S|ist|B2
+assinar|firmar||V|ist|B2
+carimbo|sello||S|ist|B2
+cartão de cidadão|documento de identidad||L|ist|B2
+caducar|caducar||V|ist|B2
+prazo|plazo||S|tmp|B2
+fila de espera|cola||L|ist|B2
+agendamento|cita previa||S|ist|B2
+agendar|concertar una cita||V|ist|B2
+atendimento|atención al público||S|ist|B2
+balcão de atendimento|ventanilla||L|ist|B2
+tirar a senha|coger número||E|ist|B2
+repartição|organismo público||S|ist|B2
+serviços públicos|servicios públicos||L|ist|B2
+funcionário|funcionario||S|pro|B2
+certidão|certificado (acta)||S|ist|B2
+fotocópia|fotocopia||S|ist|B2
+autenticar|autenticar||V|ist|B2
+comprovativo|justificante||S|ist|B2
+comprovativo de morada|justificante de domicilio||L|ist|B2
+morada|domicilio||S|ist|B2
+tramitar|tramitar||V|ist|B2
+primeiramente|en primer lugar||D|cnn|B2
+em primeiro lugar|en primer lugar||L|cnn|B2
+por um lado|por un lado||L|cnn|B2
+por outro lado|por otro lado||L|cnn|B2
+a propósito|a propósito||L|cnn|B2
+já agora|de paso (ya que estamos)||L|cnn|B2
+digamos|digamos||I|cnn|B2
+ou seja|es decir||C|cnn|B2
+por assim dizer|por así decirlo||L|cnn|B2
+enfim|en fin||D|cnn|B2
+aliás|además (dicho sea de paso)||D|cnn|B2
+de facto|de hecho||L|cnn|B2
+na verdade|en realidad||L|cnn|B2
+portanto|por lo tanto||C|cnn|B2
+por conseguinte|en consecuencia||L|cnn|B2
+assim sendo|siendo así||L|cnn|B2
+contudo|sin embargo||C|cnn|B2
+não obstante|no obstante||L|cnn|B2
+ainda assim|aun así||L|cnn|B2
+além disso|además||L|cnn|B2
+no que diz respeito|en lo que respecta||L|cnn|B2
+de qualquer forma|de todas formas||L|cnn|B2
+em suma|en resumen||L|cnn|B2
+resumindo|resumiendo||D|cnn|B2
+afinal|al fin y al cabo||D|cnn|B2
+ou melhor|o mejor dicho||L|cnn|B2
+para ser sincero|para ser sincero||E|cnn|B2
+francamente|francamente||D|cnn|B2
+sorte|suerte||S|ast|B2
+sortudo|afortunado||A|ast|B2
+azar|mala suerte||S|ast|B2
+azarado|desafortunado||A|ast|B2
+destino|destino||S|ast|B2
+coincidência|coincidencia||S|ast|B2
+mudança|cambio||S|ast|B2
+mudar|cambiar (mudarse)||V|ast|B2
+transformação|transformación||S|ast|B2
+transformar|transformar||V|ast|B2
+abrupto|brusco||A|ast|B2
+eterno|eterno||A|tmp|B2
+duradouro|duradero||A|tmp|B2
+efémero|efímero||A|tmp|B2
+decurso|transcurso||S|tmp|B2
+data-limite|fecha límite||S|tmp|B2
+outrora|antaño||D|tmp|B2
+brevemente|próximamente||D|tmp|B2
+doravante|de ahora en adelante||D|tmp|B2
+iminente|inminente||A|tmp|B2
+adiamento|aplazamiento||S|tmp|B2
+adiar|aplazar||V|tmp|B2
+pontualidade|puntualidad||S|tmp|B2
+ocasião|ocasión||S|tmp|B2
+oportunidade|oportunidad||S|ast|B2
+fase|fase||S|tmp|B2
+etapa|etapa||S|tmp|B2
+ciclo|ciclo||S|tmp|B2
+museu|museo||S|cit|B2
+exposição|exposición||S|art|B2
+exposição temporária|exposición temporal||L|art|B2
+galeria|galería||S|art|B2
+coleção|colección||S|art|B2
+coleção permanente|colección permanente||L|art|B2
+peça|pieza (obra de museo)||S|art|B2
+vitrina|vitrina||S|art|B2
+pedestal|pedestal||S|art|B2
+audioguia|audioguía||S|art|B2
+cacifo|taquilla (casillero)||S|art|B2
+doação|donación||S|art|B2
+doador|donante||S|art|B2
+herança|herencia (legado)||S|art|B2
+legado|legado||S|art|B2
+restauro|restauración (de obras)||S|art|B2
+curadoria|comisariado||S|art|B2
+percurso de visita|recorrido de visita||L|art|B2
+horário de abertura|horario de apertura||L|art|B2
+percorrer|recorrer||V|art|B2
+admiração|admiración||S|emo|B2
+admirar|admirar||V|emo|B2
+obra de arte|obra de arte||L|art|B2
+deterioração|deterioro||S|art|B2
+cópia|copia||S|art|B2
+conservação|conservación||S|art|B2
+imóvel classificado|inmueble protegido||L|art|B2
+entrada gratuita|entrada gratuita||L|art|B2
+aeroporto|aeropuerto||S|tra|B2
+terminal|terminal||S|tra|B2
+embarque|embarque||S|tra|B2
+cartão de embarque|tarjeta de embarque||L|tra|B2
+controlo de segurança|control de seguridad||L|tra|B2
+detector de metais|detector de metais||L|tra|B2
+alfândega|aduana||S|tra|B2
+declaração de alfândega|declaración de aduanas||L|tra|B2
+controlo de passaportes|control de pasaportes||L|tra|B2
+passaporte|pasaporte||S|tra|B2
+conexão|conexión||S|tra|B2
+voo de ligação|vuelo de conexión||L|tra|B2
+registar|facturar (el equipaje)||V|tra|B2
+bagagem de porão|equipaje de bodega||L|tra|B2
+bagagem de mão|equipaje de mano||L|tra|B2
+atraso na partida|retraso en la salida||L|tra|B2
+sala de espera|sala de espera||L|tra|B2
+perder o voo|perder el vuelo||E|tra|B2
+autocarro de ligação|autobús de enlace||L|tra|B2
+passageiro|pasajero||S|tra|B2
+taxa de aeroporto|tasa aeroportuaria||L|tra|B2
+última chamada|última llamada||L|tra|B2
+tripulação|tripulación||S|tra|B2
+assistente de bordo|auxiliar de vuelo||L|pro|B2
+turbulência|turbulencia||S|tra|B2
+aterragem|aterrizaje||S|tra|B2
+descolagem|despegue||S|tra|B2
+seguro de viagem|seguro de viaje||L|vig|B2
+estalagem|hostal (posada típica)||S|htl|B2
+alojamento|alojamiento||S|htl|B2
+pequeno-almoço incluído|desayuno incluido||L|htl|B2
+quarto duplo|habitación doble||L|htl|B2
+vista para o mar|vistas al mar||L|htl|B2
+ar condicionado|aire acondicionado||L|htl|B2
+avaria|avería||S|htl|B2
+avariado|averiado||A|htl|B2
+cama de casal|cama de matrimonio||L|htl|B2
+roupa de cama|ropa de cama||L|htl|B2
+toalha|toalla||S|htl|B2
+secador de cabelo|secador de pelo||L|htl|B2
+cofre|caja fuerte||S|htl|B2
+guarda-roupa|armario||S|htl|B2
+arrumar|ordenar (la habitación)||V|htl|B2
+serviço de limpeza|servicio de limpieza||L|htl|B2
+diária|precio por noche||S|htl|B2
+estadia|estancia||S|htl|B2
+prolongar a estadia|prolongar la estancia||E|htl|B2
+chave eletrónica|llave electrónica||L|htl|B2
+água quente|agua caliente||L|htl|B2
+insuportável|insoportable||A|emo|B2
+trocar de quarto|cambiar de habitación||E|htl|B2
+antecipar|adelantar||V|tmp|B2
+saída|salida||S|htl|B2
+deixar as malas|dejar el equipaje||E|htl|B2
+fazer uma reserva|hacer una reserva||E|htl|B2
+rececionista|recepcionista||S|pro|B2
+entrevista de emprego|entrevista de trabajo||L|lav|B2
+entrevistador|entrevistador||S|pro|B2
+experiência profissional|experiencia profesional||L|lav|B2
+trajetória|trayectoria (profesional)||S|lav|B2
+vaga de emprego|vacante||L|lav|B2
+recolocação|recolocación||S|lav|B2
+candidatar-se|presentarse (a un puesto)||V|lav|B2
+contratação|contratación||S|lav|B2
+contrato a prazo|contrato temporal||L|lav|B2
+pretensão salarial|pretensión salarial||L|lav|B2
+pontos fortes|puntos fuertes||L|lav|B2
+fraqueza|debilidad||S|emo|B2
+superior hierárquico|superior jerárquico||L|lav|B2
+integrar-se|integrarse||V|lav|B2
+política da empresa|política de empresa||L|lav|B2
+adaptar-se|adaptarse||V|lav|B2
+tarefa|tarea||S|lav|B2
+responsabilidade|responsabilidad||S|lav|B2
+delegar|delegar||V|lav|B2
+supervisão|supervisión||S|lav|B2
+supervisar|supervisar||V|lav|B2
+agradecimento|agradecimiento||S|cmu|B2
+despedimento|despido||S|lav|B2
+exigente|exigente||A|lav|B2
+exigência|exigencia||S|lav|B2
+primeiro dia|primer día||L|lav|B2
+colega|compañero de trabajo||S|lav|B2
+geração|generación||S|fam|B2
+geracional|generacional||A|fam|B2
+avós|abuelos||S|fam|B2
+antepassados|antepasados||S|fam|B2
+recordação|recuerdo||S|emo|B2
+recordar|recordar||V|emo|B2
+lembrar|recordar (acordarse)||V|emo|B2
+memória|memoria||S|emo|B2
+saudade|añoranza||S|emo|B2
+nostálgico|nostálgico||A|emo|B2
+infância|infancia||S|fam|B2
+meninice|niñez||S|fam|B2
+velhice|vejez||S|fam|B2
+álbum de fotografias|álbum de fotos||L|fam|B2
+acontecimento|acontecimiento||S|att|B2
+anedota|anécdota||S|cmu|B2
+contar histórias|contar historias||E|cmu|B2
+naquele tempo|en aquel entonces||L|tmp|B2
+dantes|antiguamente||D|tmp|B2
+costumar|soler||V|tmp|B2
+ao longo dos anos|a lo largo de los años||L|tmp|B2
+herdar|heredar||V|fam|B2
+tradição|tradición||S|fam|B2
+tradicional|tradicional||A|fam|B2
+costume|costumbre||S|fam|B2
+transmitir valores|transmitir valores||E|fam|B2
+história de vida|historia de vida||L|let|B2
+sono|sueño (acto de dormir)||S|sla|B2
+com sono|con sueño||E|sla|B2
+insónia|insomnio||S|sla|B2
+adormecer|quedarse dormido||V|sla|B2
+sonhar|soñar||V|sla|B2
+pesadelo|pesadilla||S|sla|B2
+sesta|siesta||S|sla|B2
+cochilar|dormitar||V|sla|B2
+despertar|despertar||V|sla|B2
+despertador|despertador||S|sla|B2
+exaustão|agotamiento||S|sla|B2
+exausto|exhausto||A|sla|B2
+cansaço|cansancio||S|sla|B2
+recuperação|recuperación||S|sla|B2
+meditação|meditación||S|sla|B2
+respiração|respiración||S|sla|B2
+relaxar|relajar||V|sla|B2
+sedentarismo|sedentarismo||S|sla|B2
+exame médico|reconocimiento médico||L|sla|B2
+consulta|consulta (médica)||S|sla|B2
+receita médica|receta médica||L|sla|B2
+vacinação|vacunación||S|sla|B2
+sistema imunitário|sistema inmunitario||L|sci|B2
+vitamina|vitamina||S|sla|B2
+suplemento alimentar|suplemento alimenticio||L|ali|B2
+hidratação|hidratación||S|sla|B2
+energia|energía||S|sla|B2

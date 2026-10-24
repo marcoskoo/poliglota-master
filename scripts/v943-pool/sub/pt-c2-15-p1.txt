@@ -1,0 +1,281 @@
+telemetria|telemetría||S|tec|C2
+comutação de pacotes|conmutación de paquetes||L|tec|C2
+fibra ótica|fibra óptica||L|tec|C2
+largura de banda|ancho de banda||L|tec|C2
+latência|latencia||S|tec|C2
+redundância de rede|redundancia de la red||L|tec|C2
+comutador|conmutador (dispositivo de interconexión)||S|tec|C2
+cifragem|cifrado||S|tec|C2
+interoperabilidade|interoperabilidad||S|tec|C2
+telefonia|telefonía||S|tec|C2
+telecomando|mando a distancia||S|tec|C2
+congestionamento de dados|congestión de datos||L|tec|C2
+protocolo de rede|protocolo de red||L|tec|C2
+nó de rede|nodo de red||L|tec|C2
+teletrabalho|teletrabajo||S|lav|C2
+antena parabólica|antena parabólica||L|tec|C2
+ligação por micro-ondas|enlace por microondas||L|tec|C2
+telemática|telemática||S|tec|C2
+repetidor|repetidor de señal||S|tec|C2
+rede neural artificial|red neuronal artificial||L|tec|C2
+roaming|roaming (itinerancia)||S|tec|C2
+fissão nuclear|fisión nuclear||L|sci|C2
+fusão nuclear|fusión nuclear||L|sci|C2
+resíduo radioativo|residuo radiactivo||L|sci|C2
+meia-vida|periodo de semidesintegración||S|sci|C2
+decaimento radioativo|desintegración radiactiva||L|sci|C2
+vaso de contenção|vasija de contención||L|sci|C2
+enriquecimento de urânio|enriquecimiento de uranio||L|sci|C2
+desmantelamento|desmantelamiento de instalaciones||S|sci|C2
+parque eólico flutuante|parque eólico flotante||L|sci|C2
+cogeração|cogeneración||S|sci|C2
+subestação|subestación eléctrica||S|sci|C2
+neutrão|neutrón||S|sci|C2
+urânio empobrecido|uranio empobrecido||L|sci|C2
+blindagem|blindaje radiológico||S|sci|C2
+descontaminação|descontaminación||S|sci|C2
+dosímetro|dosímetro||S|sci|C2
+criticidade|criticalidad||S|sci|C2
+sobretensão|sobretensión||S|sci|C2
+interligação elétrica|interconexión eléctrica||L|sci|C2
+reprocessamento do combustível|reprocesamiento del combustible||L|sci|C2
+empuxo|empuje||S|sci|C2
+aerodinâmica|aerodinámica||S|sci|C2
+sustentação|sustentación||S|sci|C2
+arrasto aerodinâmico|resistencia aerodinámica||L|sci|C2
+turbulência de ar claro|turbulencia en aire claro||L|sci|C2
+cabina pressurizada|cabina presurizada||L|sci|C2
+trem de aterragem|tren de aterrizaje||L|sci|C2
+órbita geoestacionária|órbita geoestacionaria||L|sci|C2
+acoplagem orbital|acoplamiento orbital||L|sci|C2
+módulo lunar|módulo lunar||L|sci|C2
+trajetória balística|trayectoria balística||L|sci|C2
+microgravidade|microgravedad||S|sci|C2
+velocidade de escape|velocidad de escape||L|sci|C2
+fato espacial|traje espacial||L|sci|C2
+rampa de lançamento|rampa de lanzamiento||L|sci|C2
+sonda espacial|sonda espacial||L|sci|C2
+propulsão iónica|propulsión iónica||L|sci|C2
+aerofólio|perfil alar||S|sci|C2
+apogeu|apogeo||S|sci|C2
+foguetão|cohete||S|sci|C2
+atuador|actuador||S|tec|C2
+braço articulado|brazo articulado||L|tec|C2
+sensor de proximidade|sensor de proximidad||L|tec|C2
+controlador lógico programável|autómata programable||L|tec|C2
+visão computacional|visión artificial||L|tec|C2
+robótica colaborativa|robótica colaborativa||L|tec|C2
+manutenção preditiva|mantenimiento predictivo||L|tec|C2
+torno de controlo numérico|torno de control numérico||L|tec|C2
+robô humanóide|robot humanoide||L|tec|C2
+teleoperado|teleoperado||A|tec|C2
+calibração|calibración||S|tec|C2
+garra robótica|garra robótica||L|tec|C2
+paragem de emergência|parada de emergencia||L|tec|C2
+cadência de produção|cadencia de producción||L|lav|C2
+robotização|robotización||S|tec|C2
+paletização|paletización||S|tec|C2
+soldadura automatizada|soldadura automatizada||L|tec|C2
+retroalimentação|retroalimentación||S|tec|C2
+manipulador industrial|manipulador industrial||L|tec|C2
+linha de montagem|cadena de montaje||L|tec|C2
+circulação atmosférica|circulación atmosférica||L|cli|C2
+corrente de jato|corriente en chorro||L|cli|C2
+efeito de estufa|efecto invernadero||L|cli|C2
+albedo|albedo||S|sci|C2
+balanço radiativo|balance radiativo||L|cli|C2
+ciclo hidrológico|ciclo hidrológico||L|cli|C2
+paleoclimatologia|paleoclimatología||S|sci|C2
+testemunho de gelo|testigo de hielo||L|sci|C2
+anomalia térmica|anomalía térmica||L|cli|C2
+aridez|aridez||S|cli|C2
+desertificação|desertificación||S|cli|C2
+frente oclusa|frente ocluida||L|cli|C2
+isóbara|isóbara||S|cli|C2
+gradiente térmico|gradiente térmico||L|cli|C2
+vórtice polar|vórtice polar||L|cli|C2
+estia|estiaje||S|nat|C2
+pluviosidade|pluviosidad||S|cli|C2
+degelo|deshielo||S|cli|C2
+sumidouro de carbono|sumidero de carbono||L|cli|C2
+forçamento radiativo|forzamiento radiativo||L|cli|C2
+batimetria|batimetría||S|sci|C2
+corrente oceânica profunda|corriente oceánica profunda||L|sci|C2
+fitoplâncton|fitoplancton||S|sci|C2
+zooplâncton|zooplancton||S|sci|C2
+bentónico|bentónico||A|sci|C2
+maré viva|marea viva||L|sci|C2
+recife de coral|arrecife de coral||L|nat|C2
+plataforma continental|plataforma continental||L|sci|C2
+zona abissal|zona abisal||L|sci|C2
+fossa oceânica|fosa oceánica||L|sci|C2
+pinípede|pinípedo||S|ani|C2
+fumarola negra|fumarola negra||L|sci|C2
+salinidade|salinidad||S|sci|C2
+termoclina|termoclina||S|sci|C2
+anadromo|anádromo||A|sci|C2
+cetáceo|cetáceo||S|ani|C2
+bentos|bentos||S|sci|C2
+afloramento costeiro|afloramiento costero||L|sci|C2
+acidificação dos oceanos|acidificación de los océanos||L|sci|C2
+bioluminescência|bioluminiscencia||S|sci|C2
+pegada ecológica|huella ecológica||L|nat|C2
+pegada de carbono|huella de carbono||L|cli|C2
+avaliação de impacto ambiental|evaluación de impacto ambiental||L|ist|C2
+licenciamento ambiental|licenciamiento ambiental||S|ist|C2
+resíduo perigoso|residuo peligroso||L|ist|C2
+princípio do poluidor-pagador|principio de quien contamina paga||L|ist|C2
+reserva da biosfera|reserva de la biosfera||L|nat|C2
+zona de proteção especial|zona de especial protección||L|ist|C2
+espécie protegida|especie protegida||L|ani|C2
+espécie invasora|especie invasora||L|ani|C2
+economia circular|economía circular||L|ist|C2
+descarbonização|descarbonización||S|att|C2
+neutralidade carbónica|neutralidad de carbono||L|att|C2
+aterro sanitário|vertedero controlado||S|cit|C2
+reflorestação|repoblación forestal||S|nat|C2
+corte raso|tala a matarrasa||L|nat|C2
+caça furtiva|caza furtiva||L|ani|C2
+auditoria ambiental|auditoría ambiental||L|ist|C2
+passivo ambiental|pasivo ambiental||L|ist|C2
+transição energética|transición energética||L|att|C2
+necrose|necrosis||S|sla|C2
+cirrose|cirrosis||S|sla|C2
+estenose|estenosis||S|sla|C2
+biópsia|biopsia||S|sla|C2
+citologia|citología||S|sla|C2
+histológico|histológico||A|sla|C2
+metaplasia|metaplasia||S|sla|C2
+displasia|displasia||S|sla|C2
+hiperplasia|hiperplasia||S|sla|C2
+hipertrofia|hipertrofia||S|sla|C2
+atrofia|atrofia||S|sla|C2
+isquemia|isquemia||S|sla|C2
+autópsia|autopsia||S|sla|C2
+dissecação|disección||S|sla|C2
+sépsis|sepsis||S|sla|C2
+etiologia|etiología||S|sla|C2
+patogénese|patogenia||S|sla|C2
+comorbilidade|comorbilidad||S|sla|C2
+iatrogénico|iatrogénico||A|sla|C2
+adenopatia|adenopatía||S|sla|C2
+paralogismo|paralogismo||S|ast|C2
+sofisma|sofisma||S|ast|C2
+falácia|falacia||S|ast|C2
+aporia|aporía||S|ast|C2
+dialética|dialéctica||S|ast|C2
+ontológico|ontológico||A|ast|C2
+metafísica|metafísica||S|ast|C2
+imanente|inmanente||A|ast|C2
+epistemologia|epistemología||S|ast|C2
+virtude|virtud||S|ast|C2
+hedonismo|hedonismo||S|ast|C2
+estoicismo|estoicismo||S|ast|C2
+niilismo|nihilismo||S|ast|C2
+solipsismo|solipsismo||S|ast|C2
+determinismo|determinismo||S|ast|C2
+livre-arbítrio|libre albedrío||S|ast|C2
+contingência|contingencia||S|ast|C2
+entelequia|entelequia||S|ast|C2
+apodíctico|apodíctico||A|ast|C2
+maiêutica|mayéutica||S|ast|C2
+motu proprio|motu proprio||E|ast|C2
+ipsis verbis|ipsis verbis (con las mismas palabras)||E|ast|C2
+in extremis|in extremis||E|ast|C2
+grosso modo|grosso modo||E|ast|C2
+sui generis|sui generis||E|ast|C2
+lato sensu|lato sensu (en sentido amplio)||E|ast|C2
+stricto sensu|stricto sensu (en sentido estricto)||E|ast|C2
+ex libris|ex libris||E|let|C2
+modus vivendi|modus vivendi||E|ast|C2
+casus belli|casus belli||E|ist|C2
+cosmogonia|cosmogonía||S|ast|C2
+apoteose|apoteosis||S|ast|C2
+homérico|homérico||A|let|C2
+quimera|quimera||S|ast|C2
+distopia|distopía||S|let|C2
+misantropia|misantropía||S|ast|C2
+autodidata|autodidacta||S|pro|C2
+sinédoque|sinécdoque||S|let|C2
+metonímia|metonimia||S|let|C2
+idiossincrasia|idiosincrasia||S|ast|C2
+aforismo|aforismo||S|let|C2
+máxima|máxima (sentencia moral)||S|let|C2
+adágio|adagio||S|let|C2
+apotegma|apotegma||S|let|C2
+parémia|paremia||S|let|C2
+sentencioso|sentencioso||A|let|C2
+a voz do povo|la voz del pueblo||E|let|C2
+quem cala consente|quien calla otorga||E|ast|C2
+por amor da arte|por amor al arte||E|ast|C2
+comum dos mortais|mortal común||E|ast|C2
+a olho nu|a simple vista||E|sci|C2
+sem tirar nem pôr|sin quitar ni poner||E|cmu|C2
+ao pé da letra|al pie de la letra||E|cmu|C2
+pescar em águas turvas|pescar en aguas turbias||E|ast|C2
+ver-se grego|verse en un aprieto||E|ast|C2
+ficar a ver navios|quedarse de brazos cruzados||E|ast|C2
+a torto e a direito|a diestra y siniestra||E|ast|C2
+de mãos atadas|con las manos atadas||E|ast|C2
+levar a melhor|llevarse la mejor parte||E|ast|C2
+tomar chá de cadeira|ser dejado esperando||E|ast|C2
+eufemismo|eufemismo||S|let|C2
+ironizar|ironizar||V|let|C2
+litotes|lítotes||S|let|C2
+antífrase|antífrasis||S|let|C2
+sarcasmo|sarcasmo||S|emo|C2
+mordacidade|mordacidad||S|let|C2
+mordaz|mordaz||A|let|C2
+cáustico|cáustico (mordaz)||A|let|C2
+subtileza|sutileza||S|ast|C2
+disfemismo|disfemismo||S|let|C2
+circunlóquio|circunloquio||S|let|C2
+anfibologia|anfibología||S|let|C2
+reticência|reticencia||S|cmu|C2
+insinuação|insinuación||S|cmu|C2
+alusão|alusión||S|let|C2
+velado|velado (implícito)||A|cmu|C2
+malícia|malicia (segunda intención)||S|cmu|C2
+subentendido|sobreentendido||S|cmu|C2
+ironia dramática|ironía dramática||L|let|C2
+duplo sentido|doble sentido||S|cmu|C2
+gajo|tío (tipo)||S|cmu|C2
+bué|un montón (muchísimo)||D|cmu|C2
+gorar|fallar (salirse un plan)||V|cmu|C2
+tostão|perra gorda (dinero menudo)||S|fin|C2
+batota|trampa (en el juego)||S|sve|C2
+apanhar tanga|llevarse una bronca||E|cmu|C2
+estar com a macaca|estar de mala uva||E|emo|C2
+engolir sapos|tragar sapos||E|emo|C2
+estar nas tintas|importar un pito||E|ast|C2
+fazer-se de rogado|hacerse de rogar||E|ast|C2
+mangar|tomar el pelo||V|cmu|C2
+esgañifar-se|desternillarse (de risa)||V|emo|C2
+pachorra|desfachatez (calma pasmosa)||S|ast|C2
+desenrascar-se|apañárselas||V|cmu|C2
+cromo|pesado (persona sosa)||S|cmu|C2
+gamar|birlar (robar)||V|cmu|C2
+ateimar-se|empeñarse (porfiar)||V|emo|C2
+fintar|dar esquinazo (esquivar)||V|spt|C2
+escangalhar-se|estropearse (venirse abajo)||V|ast|C2
+achincalhar|humillar (escarnecer en público)||V|cmu|C2
+trasmontano|trasmontano (del interior norteño)||A|ast|C2
+mirandês|mirandés (habla asturleonesa)||A|let|C2
+restolho|restrojo (rizos de la cosecha)||S|nat|C2
+eirado|azotea (tejado)||S|cas|C2
+socalco|bancales de cultivo||S|nat|C2
+levada|acequia de riego (canal de montaña)||S|nat|C2
+castiço|castizo||A|ast|C2
+bordão|cayado (bordón de peregrino)||S|nat|C2
+enxerto|injerto||S|nat|C2
+lavoura|labranza (tierra de labor)||S|nat|C2
+seara|seara (tierra de cereal)||S|nat|C2
+malga|cuenco (para la leche)||S|cas|C2
+caneco|jarra (taza grande)||S|ris|C2
+adega|bodega (cava de vinos)||S|ali|C2
+espigueiro|hórreo (granero elevado)||S|cas|C2
+charneca|landa (brezal)||S|nat|C2
+pousio|barbecho||S|nat|C2
+adufe|adufe (pandereta cuadrada)||S|mus|C2
+gaita de foles|gaita de fuelles||S|mus|C2
+mondar|escardar (desherbar)||V|nat|C2

@@ -1,0 +1,214 @@
+bonsoir|buenas noches (al saludar)||E|sal|A2
+à bientôt|hasta pronto||E|sal|A2
+à tout à l'heure|hasta ahora||E|sal|A2
+comment ça va|qué tal||E|sal|A2
+mademoiselle|señorita||S|sal|A2
+se présenter|presentarse||V|sal|A2
+merci|gracias||E|sal|A2
+s'il vous plaît|por favor||E|sal|A2
+de rien|de nada||E|sal|A2
+pardon|perdón||I|sal|A2
+bonne chance|buena suerte||E|sal|A2
+avec plaisir|con mucho gusto||E|sal|A2
+père|padre||S|fam|A2
+mère|madre||S|fam|A2
+frère|hermano||S|fam|A2
+fille|hija||S|fam|A2
+grand-mère|abuela||S|fam|A2
+tante|tía||S|fam|A2
+canapé|sofá||S|cas|A2
+table|mesa||S|cas|A2
+chaise|silla||S|cas|A2
+lit|cama||S|cas|A2
+armoire|armario||S|cas|A2
+fauteuil|butaca||S|cas|A2
+congélateur|congelador||S|cas|A2
+salon|salón||S|cas|A2
+salle à manger|comedor||S|cas|A2
+couloir|pasillo||S|cas|A2
+balcon|balcón||S|cas|A2
+jardin|jardín||S|cas|A2
+porte|puerta||S|cas|A2
+assiette|plato||S|cas|A2
+fourchette|tenedor||S|cas|A2
+couteau|cuchillo||S|cas|A2
+cuillère|cuchara||S|cas|A2
+verre|vaso||S|cas|A2
+poêle|sartén||S|cas|A2
+savon|jabón||S|cas|A2
+détergent|detergente||S|cas|A2
+aspirateur|aspiradora||S|cas|A2
+poubelle|cubo de basura||S|cas|A2
+seau|cubo||S|cas|A2
+torchon|trapo de cocina||S|cas|A2
+marteau|martillo||S|cas|A2
+clou|clavo||S|cas|A2
+tournevis|destornillador||S|cas|A2
+vis|tornillo||S|cas|A2
+scie|sierra||S|cas|A2
+échelle|escalera de mano||S|cas|A2
+pomme|manzana||S|ali|A2
+banane|plátano||S|ali|A2
+orange|naranja||S|ali|A2
+citron|limón||S|ali|A2
+fraise|fresa||S|ali|A2
+raisin|uva||S|ali|A2
+carotte|zanahoria||S|ali|A2
+tomate|tomate||S|ali|A2
+poireau|puerro||S|ali|A2
+chou|repollo||S|ali|A2
+haricot vert|judía verde||S|ali|A2
+champignon|champiñón||S|ali|A2
+bœuf|carne de vacuno||S|ali|A2
+porc|carne de cerdo||S|ali|A2
+veau|ternera||S|ali|A2
+agneau|cordero||S|ali|A2
+crevette|gamba||S|ali|A2
+moule|mejillón||S|ali|A2
+lait|leche||S|ali|A2
+fromage|queso||S|ali|A2
+œuf|huevo||S|ali|A2
+laitier|lácteo||A|ali|A2
+croissant|cruasán||S|ali|A2
+gâteau|pastel||S|ali|A2
+farine|harina||S|ali|A2
+riz|arroz||S|ali|A2
+pâtes|pasta||S|ali|A2
+céréales|cereales||S|ali|A2
+café|café||S|ali|A2
+jus de fruit|zumo||S|ali|A2
+bière|cerveza||S|ali|A2
+chocolat chaud|chocolate caliente||S|ali|A2
+soda|refresco||S|ali|A2
+sel|sal||S|ali|A2
+poivre|pimienta||S|ali|A2
+sucre|azúcar||S|ali|A2
+vinaigre|vinagre||S|ali|A2
+ail|ajo||S|ali|A2
+cannelle|canela||S|ali|A2
+pois|guisante||S|ali|A2
+noix|nuez||S|ali|A2
+amande|almendra||S|ali|A2
+cacahuète|cacahuete||S|ali|A2
+noisette|avellana||S|ali|A2
+graine|semilla||S|ali|A2
+magasin|tienda||S|cmp|A2
+marché|mercado||S|cmp|A2
+boucherie|carnicería||S|cmp|A2
+pâtisserie|pastelería||S|cmp|A2
+pharmacie|farmacia||S|cmp|A2
+librairie|librería||S|cmp|A2
+prix|precio||S|cmp|A2
+euro|euro||S|cmp|A2
+espèces|efectivo||S|cmp|A2
+gratuit|gratuito||A|cmp|A2
+réduction|descuento||S|cmp|A2
+payer|pagar||V|cmp|A2
+bouteille|botella||S|cmp|A2
+litre|litro||S|cmp|A2
+tranche|loncha||S|cmp|A2
+morceau|trozo||S|cmp|A2
+douzaine|docena||S|cmp|A2
+bocal|frasco||S|cmp|A2
+arrêt de bus|parada de autobús||S|tra|A2
+tramway|tranvía||S|tra|A2
+station de métro|estación de metro||S|tra|A2
+conducteur|conductor||S|tra|A2
+voyageur|viajero||S|tra|A2
+camion|camión||S|tra|A2
+moto|moto||S|tra|A2
+roue|rueda||S|tra|A2
+essence|gasolina||S|tra|A2
+garage|garaje||S|tra|A2
+permis de conduire|carné de conducir||S|tra|A2
+quai|andén||S|tra|A2
+wagon|vagón||S|tra|A2
+voie|vía||S|tra|A2
+aller-retour|ida y vuelta||S|tra|A2
+à l'heure|a tiempo||E|tra|A2
+départ|salida||S|tra|A2
+avion|avión||S|vig|A2
+valise|maleta||S|vig|A2
+décoller|despegar||V|vig|A2
+atterrir|aterrizar||V|vig|A2
+escale|escala||S|vig|A2
+retard|retraso||S|vig|A2
+vélo|bici||S|tra|A2
+pédale|pedal||S|tra|A2
+trottinette|patinete||S|tra|A2
+piste cyclable|carril bici||S|tra|A2
+selle|sillín||S|tra|A2
+vacances|vacaciones||S|vig|A2
+voyage|viaje||S|vig|A2
+tourist|turista||S|vig|A2
+guide|guía||S|vig|A2
+partir|irse||V|vig|A2
+rentrer|volver a casa||V|vig|A2
+tente|tienda de campaña||S|vig|A2
+camping|camping||S|vig|A2
+sac de couchage|saco de dormir||S|vig|A2
+randonnée|excursión||S|vig|A2
+torche|linterna||S|vig|A2
+feu de camp|hoguera||S|vig|A2
+réception|recepción||S|htl|A2
+accueil|acogida||S|htl|A2
+formulaire|formulario||S|htl|A2
+complet|completo||A|htl|A2
+libre|libre||A|htl|A2
+serviette|toalla||S|htl|A2
+étage|planta||S|htl|A2
+climatisation|aire acondicionado||S|htl|A2
+vue|vista||S|htl|A2
+drap|sábana||S|htl|A2
+fièvre|fiebre||S|sla|A2
+mal à la tête|dolor de cabeza||E|sla|A2
+malade|enfermo||A|sla|A2
+fatigué|cansado||A|sla|A2
+toux|tos||S|sla|A2
+mal au ventre|dolor de barriga||E|sla|A2
+vomir|vomitar||V|sla|A2
+infirmier|enfermero||S|sla|A2
+ordonnance|receta médica||S|sla|A2
+patient|paciente||S|sla|A2
+hôpital|hospital||S|sla|A2
+se sentir|sentirse||V|sla|A2
+guérir|curarse||V|sla|A2
+pharmacien|farmacéutico||S|sla|A2
+sirop|jarabe||S|sla|A2
+cachet|pastilla||S|sla|A2
+pansement|tirita||S|sla|A2
+thermomètre|termómetro||S|sla|A2
+vitamine|vitamina||S|sla|A2
+professeur|profesor||S|pro|A2
+pompier|bombero||S|pro|A2
+policier|policía||S|pro|A2
+plombier|fontanero||S|pro|A2
+électricien|electricista||S|pro|A2
+serveur|camarero||S|pro|A2
+coiffeur|peluquero||S|pro|A2
+papier|papel||S|lav|A2
+enveloppe|sobre||S|lav|A2
+timbre|sello||S|lav|A2
+réunion|reunión||S|lav|A2
+collègue|compañero de trabajo||S|lav|A2
+patron|jefe||S|lav|A2
+imprimante|impresora||S|lav|A2
+tableau|pizarra||S|stu|A2
+cour|patio||S|stu|A2
+rentrée|vuelta al colegio||S|stu|A2
+note|nota||S|stu|A2
+copier|copiar||V|stu|A2
+trimestre|trimestre||S|stu|A2
+stylo|bolígrafo||S|stu|A2
+crayon|lápiz||S|stu|A2
+gomme|goma de borrar||S|stu|A2
+livre|libro||S|stu|A2
+manuel|libro de texto||S|stu|A2
+sciences|ciencias||S|stu|A2
+église|iglesia||S|cit|A2
+piscine|piscina||S|cit|A2
+parc|parque||S|cit|A2
+théâtre|teatro||S|cit|A2
+pont|puente||S|cit|A2
+château|castillo||S|cit|A2
+rue|calle||S|cit|A2

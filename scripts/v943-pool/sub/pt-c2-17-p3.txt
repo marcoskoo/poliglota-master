@@ -1,0 +1,280 @@
+literatura comparada|literatura comparada||L|let|C2
+canonização|canonización||S|let|C2
+cânone|canon (literario)||S|let|C2
+apócrifo|apócrifo||S|let|C2
+heterónimo|heterónimo||S|let|C2
+academismo|academicismo||S|art|C2
+classicismo|classicismo||S|let|C2
+intertextualidade|intertextualidad||S|let|C2
+estilística|estilística||S|let|C2
+estilometria|estilometría||S|let|C2
+estética da receção|estética de la recepción||L|let|C2
+horizonte de expetativas|horizonte de expectativas||L|let|C2
+campo literário|campo literario||L|let|C2
+polissemia|polisemia||S|let|C2
+ambivalência|ambivalencia||S|ast|C2
+ironia romântica|ironía romántica||L|let|C2
+literatura mundial|literatura mundial||L|let|C2
+fortuna crítica|fortuna crítica||L|let|C2
+decadentismo|decadentismo||S|let|C2
+neo-realismo|neorrealismo||S|let|C2
+parnasianismo|parnasianismo||S|let|C2
+poesia concreta|poesía concreta||L|let|C2
+demoscopia|demoscopia||S|att|C2
+margem de erro|margen de error||L|att|C2
+amostragem|muestreo||S|att|C2
+amostra representativa|muestra representativa||L|att|C2
+intenção de voto|intención de voto||L|att|C2
+voto útil|voto útil||L|att|C2
+abstenção|abstención||S|att|C2
+círculo eleitoral|circunscripción electoral||L|att|C2
+quociente eleitoral|cociente electoral||L|att|C2
+enviesado|sesgado||A|att|C2
+agenda mediática|agenda mediática||L|att|C2
+espiral do silêncio|espiral del silencio||L|att|C2
+eleitorado flutuante|electorado flotante||L|att|C2
+recontagem|recuento (de votos)||S|att|C2
+apuramento|escrutinio||S|att|C2
+assembleia de voto|mesa electoral||L|att|C2
+boletim de voto|papeleta||L|att|C2
+voto antecipado|voto anticipado||L|att|C2
+demagogia|demagogia||S|att|C2
+sondagem de opinião|sondeo de opinión||L|att|C2
+cabeça de lista|cabeza de lista||L|att|C2
+sondagem flash|encuesta flash||L|att|C2
+cessar-fogo|alto el fuego||L|att|C2
+belicismo|belicismo||S|att|C2
+beligerante|beligerante||A|att|C2
+armistício|armisticio||S|att|C2
+embargo de armas|embargo de armas||L|att|C2
+dissuasão|disuasión||S|att|C2
+não-proliferação|no proliferación||L|att|C2
+pacificação|pacificación||S|att|C2
+manutenção da paz|mantenimiento de la paz||L|att|C2
+segurança colectiva|seguridad colectiva||L|att|C2
+guerra híbrida|guerra híbrida||L|att|C2
+guerra assimétrica|guerra asimétrica||L|att|C2
+ciberterrorismo|ciberterrorismo||S|att|C2
+radicalização|radicalización||S|att|C2
+etnocídio|etnocidio||S|att|C2
+limpeza étnica|limpieza étnica||L|att|C2
+crime de guerra|crimen de guerra||L|att|C2
+não alinhado|no alineado||A|att|C2
+corrida ao armamento|carrera armamentística||L|att|C2
+unilateralismo|unilateralismo||S|att|C2
+zona-tampão|zona de amortiguamiento||L|att|C2
+capacete azul|casco azul||L|att|C2
+supranacional|supranacional||A|ist|C2
+subsidiariedade|subsidiariedad||S|ist|C2
+acervo comunitário|acervo comunitario||L|ist|C2
+direito de veto|derecho de veto||L|ist|C2
+maioria qualificada|mayoría cualificada||L|ist|C2
+cooperação reforçada|cooperación reforzada||L|ist|C2
+convergência nominal|convergencia nominal||L|fin|C2
+transposição de diretivas|transposición de directivas||L|ist|C2
+processo de infração|procedimiento de infracción||L|ist|C2
+concertação social|concertación social||L|ist|C2
+multilateralismo|multilateralismo||S|ist|C2
+intergovernamental|intergubernamental||A|ist|C2
+quadro financeiro plurianual|marco financiero plurianual||L|ist|C2
+fundos estruturais|fondos estructurales||L|ist|C2
+alargamento|ampliación (adhesión de países)||S|ist|C2
+aprofundamento|profundización||S|ist|C2
+geometria variável|geometría variable||L|ist|C2
+união aduaneira|unión aduanera||L|ist|C2
+mercado interno|mercado interior||L|ist|C2
+codecisão|codecisión||S|ist|C2
+cidadania europeia|ciudadanía europea||L|ist|C2
+livre circulação de pessoas|libre circulación de personas||L|ist|C2
+estado social|Estado de bienestar||L|ist|C2
+universalismo|universalismo||S|ist|C2
+focalização|focalización||S|ist|C2
+transferências sociais|transferencias sociales||L|ist|C2
+rendimento mínimo|renta mínima||L|ist|C2
+indexação de pensões|indexación de pensiones||L|ist|C2
+risco de pobreza|riesgo de pobreza||L|ist|C2
+coesão social|coesión social||L|ist|C2
+piso de proteção social|piso de protección social||L|ist|C2
+abono de família|asignación familiar||L|ist|C2
+tarifa social|tarifa social||L|ist|C2
+pobreza energética|pobreza energética||L|ist|C2
+habitação social|vivienda social||L|ist|C2
+realojamento|realojo||S|cit|C2
+cuidados continuados|cuidados continuados||L|sla|C2
+cuidador informal|cuidador informal||L|ist|C2
+envelhecimento ativo|envejecimiento activo||L|ist|C2
+desinstitucionalização|desinstitucionalización||S|ist|C2
+emprego apoiado|empleo con apoyo||L|ist|C2
+redistribuição|redistribución||S|ist|C2
+ações afirmativas|acción afirmativa||L|ist|C2
+subsídio de parentalidade|subsidio de parentalidad||L|ist|C2
+militância|militancia||S|att|C2
+reivindicação|reivindicación||S|att|C2
+greve de fome|huelga de hambre||L|att|C2
+sentada|sentada (protesta)||S|att|C2
+piquete|piquete (de huelga)||S|att|C2
+desobediência civil|desobediencia civil||L|att|C2
+objeção de consciência|objeción de conciencia||L|att|C2
+horizontalidade|horizontalidad||S|att|C2
+assembleirismo|asamblearismo||S|att|C2
+carga policial|carga policial||L|att|C2
+gás lacrimogéneo|gas lacrimógeno||L|att|C2
+ação direta|acción directa||L|att|C2
+vigília|vigilia (velada de protesto)||S|att|C2
+contramanifestação|contramanifestación||S|att|C2
+jornada de luta|jornada de lucha||L|att|C2
+plataforma reivindicativa|plataforma reivindicativa||L|att|C2
+greve de zelo|huelga de celo||L|att|C2
+panelaço|cacerolazo||S|att|C2
+contestação|contestación||S|att|C2
+contracultura|contracultura||S|att|C2
+empoderamento|empoderamiento||S|att|C2
+panfletagem|panfleteo||S|att|C2
+peculato|peculado||S|att|C2
+conflito de interesses|conflicto de intereses||L|att|C2
+porta giratória|puerta giratoria||L|att|C2
+financiamento ilícito|financiación ilícita||L|att|C2
+opacidade|opacidad||S|att|C2
+declaração de bens|declaración de bienes||L|att|C2
+patrimonialismo|patrimonialismo||S|att|C2
+nepotismo|nepotismo||S|att|C2
+tráfico de influências|tráfico de influencias||L|att|C2
+auditoria externa|auditoría externa||L|ist|C2
+contas públicas|cuentas públicas||L|fin|C2
+responsabilização|responsabilización||S|att|C2
+prestação de contas|rendición de cuentas||L|att|C2
+dados abertos|datos abiertos||L|tec|C2
+segredo de justiça|secreto de sumario||L|ist|C2
+perjúrio|perjurio||S|ist|C2
+obstrução da justiça|obstrucción de la justicia||L|ist|C2
+colusão|colusión||S|att|C2
+compadrio|compadrazgo||S|att|C2
+clientelismo|clientelismo||S|att|C2
+corruptela|corruptela||S|att|C2
+prevaricação|prevaricación||S|ist|C2
+pirâmide etária|pirámide de población||L|att|C2
+envelhecimento demográfico|envejecimiento demográfico||L|att|C2
+fecundidade|fecundidad||S|att|C2
+saldo migratório|saldo migratorio||L|att|C2
+lusodescendente|lusodescendiente||S|att|C2
+reagrupamento familiar|reagrupamiento familiar||L|att|C2
+visto de residência|visado de residencia||L|att|C2
+imigrante irregular|inmigrante irregular||L|att|C2
+direito de asilo|derecho de asilo||L|ist|C2
+deslocado interno|desplazado interno||L|att|C2
+descolonização|descolonización||S|att|C2
+retornado|retornado (repatriado)||S|att|C2
+segunda geração|segunda generación||L|att|C2
+migração circular|migración circular||L|att|C2
+linhagem|linaje||S|att|C2
+apátrida|apátrida||S|att|C2
+agregado familiar|unidad familiar||L|att|C2
+substituição de gerações|reemplazo generacional||L|att|C2
+fuga de cérebros|fuga de cerebros||L|att|C2
+êxodo rural|éxodo rural||L|att|C2
+recenseamento|censo||S|att|C2
+hagiografia|hagiografía||S|art|C2
+iconografia|iconografía||S|art|C2
+iconologia|iconología||S|art|C2
+mandorla|mandorla||S|art|C2
+nimbo|nimbo (aureola)||S|art|C2
+heráldica|heráldica||S|art|C2
+blasonar|blasonar||V|art|C2
+bestiário|bestiario||S|art|C2
+gárgula|gárgola||S|art|C2
+grinalda|guirnalda||S|art|C2
+insígnia|insignia||S|art|C2
+herma|herma||S|art|C2
+voluta|voluta||S|art|C2
+relicário|relicario||S|art|C2
+tauromaquia|tauromaquia||S|art|C2
+ostensório|custodia (religiosa)||S|art|C2
+luneta|luneta (en la bóveda)||S|art|C2
+cariátide|cariátide||S|art|C2
+atlante|atlante (figura arquitectónica)||S|art|C2
+retábulo|retablo||S|art|C2
+sudário|sudario||S|art|C2
+ourivesaria|orfebrería||S|art|C2
+filigrana|filigrana||S|art|C2
+rococó|rococó||S|art|C2
+talha dourada|talla dorada||L|art|C2
+azulejaria|azulejería||S|art|C2
+plateresco|plateresco||A|art|C2
+manuelino|manuelino (estilo)||A|art|C2
+marchetaria|marquetería||S|art|C2
+damasquinado|damasquinado||S|art|C2
+madrepérola|nácar||S|art|C2
+faiança|loza (cerámica)||S|art|C2
+grés|gres (cerámica)||S|art|C2
+passamanaria|pasamanería||S|art|C2
+sarga|sarga||S|art|C2
+tapeçaria|tapicería||S|art|C2
+marcenaria|ebanistería||S|art|C2
+ergonómico|ergonómico||A|art|C2
+ourives|orfebre||S|pro|C2
+lapidação|talla (de gemas)||S|art|C2
+jacarandá|palisandro||S|art|C2
+adamascado|adamascado||A|art|C2
+fotograma|fotograma||S|art|C2
+fotomontagem|fotomontaje||S|art|C2
+câmara escura|cámara oscura||L|art|C2
+granulação|granulado||S|art|C2
+profundidade de campo|profundidad de campo||L|art|C2
+diafragma|diafragma||S|art|C2
+contraluz|contraluz||S|art|C2
+subexposição|subexposición||S|art|C2
+videoarte|videoarte||S|art|C2
+pictórico|pictórico||A|art|C2
+abstracionismo|abstraccionismo||S|art|C2
+hiper-realismo|hiperrealismo||S|art|C2
+curadoria|curaduría||S|art|C2
+curador|comisario (de exposición)||S|pro|C2
+bienal|bienal||S|art|C2
+museologia|museología||S|art|C2
+museografia|museografía||S|art|C2
+cavalete|caballete||S|art|C2
+afresco|fresco (pintura)||S|art|C2
+têmpera|témpera||S|art|C2
+cianotipia|cianotipia||S|art|C2
+abóbada de berço|bóveda de cañón||L|art|C2
+arco-botante|arbotante||S|art|C2
+claraboia|claraboya||S|art|C2
+rosácea|rosetón||S|art|C2
+arquitrave|arquitrabe||S|art|C2
+frontão|frontón||S|art|C2
+acróterio|acroterio||S|art|C2
+colunata|columnata||S|art|C2
+bossagem|almohadillado||S|art|C2
+plinta|plinto||S|art|C2
+soclo|zócalo||S|art|C2
+aduela|dovela||S|art|C2
+ogiva|ojiva (arco)||S|art|C2
+trifório|triforio||S|art|C2
+deambulatório|deambulatorio||S|art|C2
+transepto|transepto||S|art|C2
+platabanda|platabanda||S|art|C2
+taipa|tapial||S|art|C2
+cantaria|sillería||S|art|C2
+matroneu|matroneo||S|art|C2
+estereóbato|estereóbato||S|art|C2
+coreografia|coreografía||S|art|C2
+bailarino|bailarín||S|art|C2
+adágio|adagio||S|mus|C2
+sapatilha de ponta|zapatilla de punta||L|art|C2
+passo a dois|paso a dos||L|art|C2
+corpo de baile|cuerpo de baile||L|art|C2
+malabarismo|malabarismo||S|spt|C2
+contorcionismo|contorsionismo||S|art|C2
+equilibrismo|equilibrismo||S|art|C2
+gestual|gestual||A|art|C2
+presença cénica|presencia escénica||L|art|C2
+estilizado|estilizado||A|art|C2
+lúdico|lúdico||A|ast|C2
+teatralidade|teatralidad||S|art|C2
+notação de dança|notación de danza||L|art|C2
+expressividade|expresividad||S|ast|C2
+cinestesia|cinestesia||S|ast|C2
+sapateado|zapateado||S|mus|C2
+fosso da orquestra|foso de la orquesta||L|art|C2
+coreográfico|coreográfico||A|art|C2
+palco giratório|escenario giratorio||L|art|C2

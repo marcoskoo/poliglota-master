@@ -1,0 +1,280 @@
+empreendedorismo|emprendimiento||S|lav|C2
+fase de arranque|fase de lanzamiento||L|lav|C2
+injeção de capital|inyección de capital||L|fin|C2
+capital de risco|capital riesgo||L|fin|C2
+investidor anjo|inversor ángel||L|fin|C2
+incubadora de empresas|incubadora de empresas||L|lav|C2
+aceleradora de empresas|aceleradora de empresas||L|lav|C2
+plano de negócios|plan de negocio||L|lav|C2
+ponto de equilíbrio|punto de equilibrio||L|fin|C2
+fluxo de caixa|flujo de caja||L|fin|C2
+ronda de financiamento|ronda de financiación||L|fin|C2
+financiamento coletivo|financiación colectiva||L|fin|C2
+teste de conceito|prueba de concepto||L|tec|C2
+modelo de negócio|modelo de negocio||L|lav|C2
+desinvestimento|desinversión||S|fin|C2
+insolvência|insolvencia||S|fin|C2
+recapitalização|recapitalización||S|fin|C2
+angariação de fundos|captación de fondos||L|fin|C2
+falência|quiebra||S|fin|C2
+rentabilizar|rentabilizar||V|fin|C2
+cadeia de abastecimento|cadena de suministro||L|lav|C2
+cadeia de frio|cadena de frío||L|lav|C2
+última milha|última milla||L|tra|C2
+expedição|expedición (envío)||S|lav|C2
+paletização|paletización||S|lav|C2
+contentor|contenedor||S|lav|C2
+estiva|estiba||S|lav|C2
+estivador|estibador||S|pro|C2
+rotação de stocks|rotación de existencias||L|lav|C2
+rutura de stock|ruptura de stock||L|lav|C2
+lastro|lastre||S|lav|C2
+doca de carga|muelle de carga||L|lav|C2
+consolidação de carga|consolidación de carga||L|lav|C2
+manuseamento|manipulación (de mercancías)||S|lav|C2
+gargalo|cuello de botella||S|lav|C2
+desalfandegamento|despacho de aduanas||S|lav|C2
+alfândega|aduana||S|lav|C2
+carregamento|cargamento||S|tra|C2
+armazenagem|almacenaje||S|lav|C2
+frete|flete||S|tra|C2
+fidelização de clientes|fidelización de clientes||L|fin|C2
+cartão de fidelização|tarjeta de fidelización||L|cmp|C2
+segmentação de mercado|segmentación de mercado||L|fin|C2
+posicionamento de marca|posicionamiento de marca||L|fin|C2
+prospecção|prospección||S|fin|C2
+taxa de conversão|tasa de conversión||L|fin|C2
+taxa de retenção|tasa de retención||L|fin|C2
+funil de vendas|embudo de ventas||L|fin|C2
+compra por impulso|compra por impulso||L|fin|C2
+recorrência de compra|recurrencia de compra||L|fin|C2
+publicidade subliminar|publicidad subliminal||L|fin|C2
+publicidade comportamental|publicidad conductual||L|fin|C2
+marketing de afiliação|marketing de afiliación||L|fin|C2
+apetência de consumo|apetencia de consumo||L|fin|C2
+marca branca|marca blanca||L|fin|C2
+preço psicológico|precio psicológico||L|fin|C2
+comportamento do consumidor|comportamiento del consumidor||L|fin|C2
+aquisição de clientes|captación de clientes||L|fin|C2
+nicho de mercado|nicho de mercado||L|fin|C2
+gama de produtos|gama de productos||L|cmp|C2
+conformidade|conformidad||S|lav|C2
+não conformidade|no conformidad||L|lav|C2
+homologação|homologación||S|lav|C2
+certificação|certificación||S|lav|C2
+melhoria contínua|mejora continua||L|lav|C2
+gestão da qualidade|gestión de la calidad||L|lav|C2
+validação|validación||S|lav|C2
+metrologia|metrología||S|sci|C2
+calibração|calibración||S|lav|C2
+tolerância dimensional|tolerancia dimensional||L|tec|C2
+indicador de desempenho|indicador de desempeño||L|lav|C2
+fiabilidade|fiabilidad||S|tec|C2
+mantenibilidade|mantenibilidad||S|tec|C2
+durabilidade|durabilidad||S|tec|C2
+traçabilidade|trazabilidad||S|lav|C2
+ensaio de tipo|ensayo de tipo||L|lav|C2
+aprovisionamento|aprovisionamiento||S|lav|C2
+cláusula de salvaguarda|cláusula de salvaguardia||L|ist|C2
+vistoria|inspección (reconocimiento)||S|lav|C2
+qualificação de fornecedores|homologación de proveedores||L|lav|C2
+jurisprudência|jurisprudencia||S|ist|C2
+legitimidade processual|legitimidad procesal||L|ist|C2
+litigante|litigante||S|ist|C2
+contencioso|contencioso||S|ist|C2
+instrução do processo|instrucción del proceso||L|ist|C2
+arguido|acusado (procesado)||S|ist|C2
+querelante|querellante||S|ist|C2
+acórdão|sentencia de tribunal superior||S|ist|C2
+despacho saneador|auto de saneamiento||L|ist|C2
+prescrição do crime|prescripción del delito||L|ist|C2
+culpabilidade|culpabilidad||S|ist|C2
+imputabilidade|imputabilidad||S|ist|C2
+dolo|dolo||S|ist|C2
+sigilo profissional|secreto profesional||L|ist|C2
+coisa julgada|cosa juzgada||L|ist|C2
+litispendência|litispendencia||S|ist|C2
+arrolar|citar (como testigo)||V|ist|C2
+usucapião|usucapión||S|ist|C2
+caducidade|caducidad||S|ist|C2
+arbitragem|arbitraje||S|ist|C2
+quadro clínico|cuadro clínico||L|sla|C2
+diagnóstico diferencial|diagnóstico diferencial||L|sla|C2
+iatrogenia|iatrogenia||S|sla|C2
+etiologia|etiología||S|sla|C2
+auscultação|auscultación||S|sla|C2
+anamnese|anamnesis||S|sla|C2
+posologia|posología||S|sla|C2
+contraindicação|contraindicación||S|sla|C2
+interação medicamentosa|interacción medicamentosa||L|sla|C2
+suturar|suturar||V|sla|C2
+excisão|exéresis||S|sla|C2
+laqueação|ligadura de trompas||S|sla|C2
+desbridamento|desbridamiento||S|sla|C2
+intubação|intubación||S|sla|C2
+idiopático|idiopático||A|sla|C2
+sequela|secuela||S|sla|C2
+prontuário|historia clínica||S|sla|C2
+triagem|triaje||S|sla|C2
+anóxia|anoxia||S|sla|C2
+necrose|necrosis||S|sla|C2
+tensão de rutura|tensión de rotura||L|tec|C2
+fadiga de material|fatiga del material||L|tec|C2
+cisalhamento|cizalladura||S|tec|C2
+torção|torsión||S|tec|C2
+módulo de elasticidade|módulo de elasticidad||L|tec|C2
+deformação plástica|deformación plástica||L|tec|C2
+ductilidade|ductilidad||S|tec|C2
+fragilização|fragilización||S|tec|C2
+corrosão galvânica|corrosión galvánica||L|tec|C2
+permutador de calor|intercambiador de calor||L|tec|C2
+caudalímetro|caudalímetro||S|tec|C2
+manómetro|manómetro||S|tec|C2
+junta de dilatação|junta de dilatación||L|tec|C2
+escora|puntal (apuntalamiento)||S|tec|C2
+betão armado|hormigón armado||L|tec|C2
+alvenaria|albañilería||S|tec|C2
+argamassa|argamasa||S|tec|C2
+enrocamento|escollera||S|tec|C2
+geotecnia|geotecnia||S|sci|C2
+ancoragem|anclaje||S|tec|C2
+revisão por pares|revisión por pares||L|stu|C2
+fator de impacto|factor de impacto||L|stu|C2
+estado da arte|estado del arte||L|stu|C2
+revisão da literatura|revisión de la literatura||L|stu|C2
+plágio|plagio||S|stu|C2
+bolsa de investigação|beca de investigación||L|stu|C2
+orientador de doutoramento|director de tesis doctoral||L|stu|C2
+defesa de tese|defensa de tesis||L|stu|C2
+professor catedrático|profesor catedrático||L|stu|C2
+bolseiro de investigação|becario de investigación||L|stu|C2
+hipótese nula|hipótesis nula||L|sci|C2
+correlação espúria|correlación espuria||L|sci|C2
+viés|sesgo||S|sci|C2
+reprodutibilidade|reproducibilidad||S|sci|C2
+colóquio|coloquio||S|stu|C2
+paráfrase|paráfrasis||S|let|C2
+epígrafe|epígrafe||S|let|C2
+errata|errata||S|stu|C2
+adenda|adenda||S|stu|C2
+resenha|reseña||S|let|C2
+leilão|subasta||S|fin|C2
+leiloeiro|subastador||S|pro|C2
+arrematar|rematar (en una subasta)||V|fin|C2
+licitação|licitación||S|fin|C2
+peça de colecionador|pieza de coleccionista||L|sve|C2
+antiquário|anticuario||S|pro|C2
+curadoria|curaduría||S|art|C2
+proveniência|procedencia||S|art|C2
+falsificação|falsificación||S|art|C2
+tiragem|tirada||S|art|C2
+estampa|estampa||S|art|C2
+gravura|grabado||S|art|C2
+cunho|cuño||S|art|C2
+pátina|pátina||S|art|C2
+regatear|regatear||V|cmp|C2
+espólio|espolio (legado)||S|ast|C2
+avaliador de arte|tasador de arte||L|pro|C2
+tasação|tasación||S|fin|C2
+montra|escaparate||S|cmp|C2
+colecionador|coleccionista||S|sve|C2
+cozinha de autor|cocina de autor||L|ris|C2
+menu de degustação|menú degustación||L|ris|C2
+degustação|degustación||S|ris|C2
+emulsionar|emulsionar||V|ali|C2
+redução|reducción (fondo concentrado)||S|ali|C2
+sovar|amasar (la masa)||V|ali|C2
+levedar|leudar||V|ali|C2
+brasear|brasear||V|ali|C2
+saltear|saltear||V|ali|C2
+flambear|flamear||V|ali|C2
+marinar|marinar||V|ali|C2
+aveludado|aterciopelado||A|ali|C2
+desfiar|deshebrar||V|ali|C2
+espessante|espesante||S|ali|C2
+gelificante|gelificante||S|ali|C2
+esferificação|esferificación||S|ali|C2
+cozedura|cocción||S|ali|C2
+harmonização de vinhos|maridaje de vinos||L|ris|C2
+vinificação|vinificación||S|ali|C2
+carta de vinhos|carta de vinos||L|ris|C2
+convívio|convivencia||S|rel|C2
+reconciliação|reconciliación||S|rel|C2
+conluio|conspiración (connivencia)||S|ast|C2
+cumplicidade|complicidad||S|rel|C2
+desavença|desavenencia||S|rel|C2
+altercação|altercado||S|rel|C2
+pacto de cavalheiros|pacto de caballeros||L|rel|C2
+palavra de honra|palabra de honor||L|rel|C2
+confraternização|fraternización||S|rel|C2
+estreitar laços|estrechar lazos||L|rel|C2
+requebro|requiebro||S|cmu|C2
+galanteio|galanteo||S|rel|C2
+mexerico|chisme (cotilleo)||S|cmu|C2
+conivência|connivencia||S|ast|C2
+desforra|desquite||S|ast|C2
+limar arestas|limar asperezas||L|rel|C2
+apaziguamento|apaciguamiento||S|rel|C2
+mesura|mesura||S|rel|C2
+comedimento|contención (moderación)||S|ast|C2
+praxe|costumbre (uso establecido)||S|rel|C2
+limiar anaeróbio|umbral anaerobio||L|spt|C2
+débito cardíaco|gasto cardíaco||L|cor|C2
+lactato|lactato||S|cor|C2
+acidose láctica|acidosis láctica||L|cor|C2
+contratura|contractura||S|cor|C2
+hipertrofia muscular|hipertrofia muscular||L|cor|C2
+entorse|esguince||S|cor|C2
+tendinite|tendinitis||S|sla|C2
+periodização do treino|periodización del entrenamiento||L|spt|C2
+pico de forma|pico de forma||L|spt|C2
+sobretreino|sobreentrenamiento||S|spt|C2
+eletrólito|electrolito||S|cor|C2
+exercício isométrico|ejercicio isométrico||L|spt|C2
+proprioceção|propiocepción||S|cor|C2
+consumo de oxigénio|consumo de oxígeno||L|cor|C2
+saturação de oxigénio|saturación de oxígeno||L|cor|C2
+recuperação ativa|recuperación activa||L|spt|C2
+esforço aeróbio|esfuerzo aerobio||L|spt|C2
+amplitude de movimento|amplitud de movimiento||L|cor|C2
+hipoxia|hipoxia||S|cor|C2
+puro-sangue|pura sangre||S|ani|C2
+garanhão|semental||S|ani|C2
+poldro|potro||S|ani|C2
+cernelha|cruz (del caballo)||S|ani|C2
+livro genealógico|libro genealógico||L|ani|C2
+melhoramento genético|mejora genética||L|ani|C2
+consanguinidade|consanguinidad||S|sci|C2
+acasalamento|apareamiento||S|ani|C2
+cio|celo||S|ani|C2
+adestrar|adiestrar||V|ani|C2
+adestramento|adiestramiento||S|ani|C2
+matilha|jauría||S|ani|C2
+faro|olfato (instinto)||S|ani|C2
+canil|criadero de perros||S|ani|C2
+canicultura|cinología||S|ani|C2
+equitação|equitación||S|spt|C2
+hipismo|hípica||S|spt|C2
+selim|sillín||S|spt|C2
+doma|doma||S|ani|C2
+bridão|bridón||S|ani|C2
+perturbação atmosférica|perturbación atmosférica||L|cli|C2
+depressão atmosférica|borrasca||L|cli|C2
+ciclone extratropical|ciclón extratropical||L|cli|C2
+olho da tempestade|ojo de la tormenta||L|cli|C2
+vaguada|vaguada||S|cli|C2
+corrente de jacto|corriente en chorro||L|cli|C2
+bruma|bruma (calina)||S|cli|C2
+frente oclusa|frente ocluida||L|cli|C2
+isóbara|isobara||S|cli|C2
+isoterma|isoterma||S|cli|C2
+efeito de estufa|efecto invernadero||L|cli|C2
+ilha de calor|isla de calor||L|cit|C2
+aridez|aridez||S|cli|C2
+evapotranspiração|evapotranspiración||S|sci|C2
+previsão numérica do tempo|predicción numérica del tiempo||L|cli|C2
+anemómetro|anemómetro||S|sci|C2
+radiossonda|radiosonda||S|sci|C2
+célula convectiva|célula convectiva||L|cli|C2
+rajada|ráfaga||S|cli|C2
+vendaval|vendaval||S|cli|C2

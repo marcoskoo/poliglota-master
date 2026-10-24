@@ -1,0 +1,281 @@
+cefaleia|cefalea||S|sla|C2
+plasticidade sináptica|plasticidad sináptica||S|sci|C2
+neurotransmissor|neurotransmisor||S|sci|C2
+sinapse|sinapsis||S|sci|C2
+mielina|mielina||S|sci|C2
+esclerose lateral amiotrófica|esclerosis lateral amiotrófica||S|sla|C2
+nistagmo|nistagmo||S|sla|C2
+espasticidade|espasticidad||S|sla|C2
+fasciculação|fasciculación||S|sla|C2
+paresia|paresia (parálisis incompleta)||S|sla|C2
+ataxia|ataxia||S|sla|C2
+afasia|afasia||S|sla|C2
+apraxia|apraxia||S|sla|C2
+agnosia|agnosia (trastorno del reconocimiento)||S|sla|C2
+punção lombar|punción lumbar||L|sla|C2
+electroencefalograma|electroencefalograma||S|sci|C2
+degenerescência|degeneración||S|sla|C2
+angiografia|angiografía||S|sla|C2
+letárgico|letárgico||A|sla|C2
+hemiplegia|hemiplejía||S|sla|C2
+demência frontotemporal|demencia frontotemporal||S|sla|C2
+amniocentese|amniocentesis||S|sla|C2
+cardiotocografia|cardiotocografía||S|sla|C2
+episiotomia|episiotomía||S|sla|C2
+ocitocina|oxitocina||S|sla|C2
+neonatologia|neonatología||S|sla|C2
+malformação congénita|malformación congénita||S|sla|C2
+prematuridade|prematuridad||S|sla|C2
+desmame|destete||S|sla|C2
+puerpério|puerperio||S|sla|C2
+trabalho de parto|trabajo de parto||L|sla|C2
+fórceps|fórceps||S|sla|C2
+cesariana|cesárea||S|sla|C2
+lanugo|lanugo (vello del recién nacido)||S|sla|C2
+hiperbilirrubinemia|hiperbilirrubinemia||S|sla|C2
+obstetrícia|obstetricia||S|sla|C2
+exantema|exantema (erupción cutánea)||S|sla|C2
+menarca|menarquia||S|sla|C2
+bronquiolite|bronquiolitis||S|sla|C2
+lábio leporino|labio leporino||L|sla|C2
+fenda palatina|fisura palatina||S|sla|C2
+entorse|esguince||S|sla|C2
+luxação|luxación||S|sla|C2
+fratura exposta|fractura abierta||L|sla|C2
+osteossíntese|osteosíntesis||S|sla|C2
+osteotomia|osteotomía||S|sla|C2
+artroscopia|artroscopia||S|sla|C2
+artrose|artrosis||S|sla|C2
+cinesiterapia|cinesiterapia||S|sla|C2
+deambulação|deambulación||S|sla|C2
+hérnia discal|hernia discal||L|sla|C2
+tendinite|tendinitis||S|sla|C2
+bursite|bursitis||S|sla|C2
+periostite|periostitis||S|sla|C2
+fascite plantar|fascitis plantar||L|sla|C2
+cifose|cifosis||S|sla|C2
+lordose|lordosis||S|sla|C2
+pé boto|pie zambo (deformidad congénita)||L|sla|C2
+membro fantasma|miembro fantasma||L|sla|C2
+enxerto ósseo|injerto óseo||L|sla|C2
+propriocepção|propiocepción||S|sla|C2
+vigilância epidemiológica|vigilancia epidemiológica||L|sla|C2
+notificação obrigatória|declaración obligatoria (de enfermedad)||L|sla|C2
+rastreio|cribado (detección precoz)||S|sla|C2
+taxa de letalidade|tasa de letalidad||L|sla|C2
+mortalidade infantil|mortalidad infantil||L|sla|C2
+soroconversão|seroconversión||S|sci|C2
+imunidade de grupo|inmunidad de grupo||L|sla|C2
+cadeia de frio|cadena de frío||L|sla|C2
+patogenicidade|patogenicidad||S|sci|C2
+virulência|virulencia||S|sla|C2
+zoonose|zoonosis||S|sci|C2
+presintomático|presintomático||A|sla|C2
+boletim epidemiológico|boletín epidemiológico||L|sla|C2
+plano de contingência|plan de contingencia||L|sla|C2
+profilaxia|profilaxis||S|sla|C2
+cobertura vacinal|cobertura vacinal||L|sla|C2
+farmacovigilância|farmacovigilancia||S|sla|C2
+arbovirose|arbovirosis||S|sci|C2
+sazonalidade|estacionalidad||S|sci|C2
+morbimortalidade|morbimortalidad||S|sla|C2
+evasão fiscal|evasión fiscal||L|fin|C2
+elisão fiscal|elusión fiscal||L|fin|C2
+fraude carrossel|fraude carrusel (del IVA)||L|fin|C2
+preço de transferência|precio de transferencia||L|fin|C2
+retenção na fonte|retención en la fuente||L|fin|C2
+lavagem de dinheiro|blanqueo de dinero||L|fin|C2
+liquidação|liquidación (de impuestos)||S|fin|C2
+isenção|exención (tributaria)||S|fin|C2
+mais-valia|plusvalía (ganancia patrimonial)||S|fin|C2
+juros de mora|intereses de demora||L|fin|C2
+coima|multa (administrativa)||S|fin|C2
+execução fiscal|vía de apremio||L|fin|C2
+obrigação tributária|obligación tributaria||L|fin|C2
+regime simplificado|régimen simplificado||L|fin|C2
+fatura falsa|factura falsa||L|fin|C2
+progressividade|progresividad||S|fin|C2
+tributação|tributación||S|fin|C2
+contabilidade criativa|contabilidad creativa||L|fin|C2
+dissimulação|disimulación||S|fin|C2
+penhora|embargo (de bienes)||S|fin|C2
+taxa de morosidade|tasa de morosidad||L|fin|C2
+incumprimento|impago||S|fin|C2
+resgate bancário|rescate bancario||L|fin|C2
+rácio de solvabilidade|ratio de solvencia||L|fin|C2
+alavancagem|apalancamiento||S|fin|C2
+margem de intermediação|margen de intermediación||L|fin|C2
+depósito a prazo|depósito a plazo||L|fin|C2
+crédito à habitação|crédito hipotecario||L|fin|C2
+crédito malparado|crédito incobrable||L|fin|C2
+moratória|moratoria||S|fin|C2
+empréstimo subordinado|préstamo subordinado||L|fin|C2
+descoberto|descubierto (en cuenta corriente)||S|fin|C2
+usura|usura||S|fin|C2
+taxa de esforço|tasa de esfuerzo||L|fin|C2
+ativo tóxico|activo tóxico||L|fin|C2
+banca de investimento|banca de inversión||L|fin|C2
+fiança|fianza||S|fin|C2
+emissão obrigacionista|emisión de obligaciones||L|fin|C2
+juro composto|interés compuesto||L|fin|C2
+provisão para devedores duvidosos|provisión para insolvencias||L|fin|C2
+fusões e aquisições|fusiones y adquisiciones||L|fin|C2
+aquisição hostil|adquisición hostil||L|fin|C2
+prospeto de emissão|folleto de emisión||L|fin|C2
+resultados trimestrais|resultados trimestrales||L|fin|C2
+diluição|dilución (de capital)||S|fin|C2
+acionista de referência|accionista de referencia||L|fin|C2
+participação qualificada|participación cualificada||L|fin|C2
+valor justo|valor razonable||L|fin|C2
+cisão|escisión (de sociedades)||S|fin|C2
+fusão por incorporação|fusión por absorción||L|fin|C2
+pacto parassocial|pacto de socios||L|fin|C2
+capital de risco|capital riesgo||L|fin|C2
+valor patrimonial|valor patrimonial||L|fin|C2
+resultado líquido|resultado neto||L|fin|C2
+endividamento|endeudamiento||S|fin|C2
+tesouraria|tesorería||S|fin|C2
+sinergia|sinergia||S|fin|C2
+consolidação de contas|consolidación de cuentas||L|fin|C2
+governação societária|gobierno societario||L|fin|C2
+diligência devida|debida diligencia||L|fin|C2
+oligopólio|oligopolio||S|fin|C2
+monopsónio|monopsonio||S|fin|C2
+oligopsónio|oligopsonio||S|fin|C2
+concorrência perfeita|competencia perfecta||L|fin|C2
+externalidade|externalidad||S|fin|C2
+assimetria de informação|asimetría de información||L|fin|C2
+risco moral|riesgo moral||L|fin|C2
+seleção adversa|selección adversa||L|fin|C2
+elasticidade-preço|elasticidad-precio||S|fin|C2
+excedente do consumidor|excedente del consumidor||L|fin|C2
+utilidade marginal|utilidad marginal||L|fin|C2
+custo de oportunidade|coste de oportunidad||L|fin|C2
+cartel|cártel||S|fin|C2
+preço de reserva|precio de reserva||L|fin|C2
+discriminação de preços|discriminación de precios||L|fin|C2
+falha de mercado|fallo de mercado||L|fin|C2
+barreira à entrada|barrera de entrada||L|fin|C2
+arbitragem|arbitraje||S|fin|C2
+ponto morto|punto muerto (umbral de rentabilidad)||L|fin|C2
+retornos decrescentes|rendimientos decrecientes||L|fin|C2
+apólice|póliza||S|fin|C2
+prémio|prima (del seguro)||S|fin|C2
+franquia|franquicia (en el seguro)||S|fin|C2
+segurador|asegurador||S|fin|C2
+resseguro|reaseguro||S|fin|C2
+sinistro|siniestro||S|fin|C2
+vistoria|peritaje (inspección)||S|fin|C2
+responsabilidade civil|responsabilidad civil||L|fin|C2
+invalidade|invalidez||S|fin|C2
+prazo de carência|período de carencia||L|fin|C2
+subscrição|suscripción (de riesgos)||S|fin|C2
+força maior|fuerza mayor||L|fin|C2
+tábua de mortalidade|tabla de mortalidad||L|fin|C2
+caução|caución||S|fin|C2
+avaria|avería||S|fin|C2
+beneficiário|beneficiario||S|fin|C2
+corretor|corredor (de seguros)||S|fin|C2
+exclusão de cobertura|exclusión de cobertura||L|fin|C2
+renovação automática|renovación automática||L|fin|C2
+perda total|pérdida total||L|fin|C2
+ajuda ao desenvolvimento|ayuda al desarrollo||L|fin|C2
+condicionalidade|condicionalidad||S|fin|C2
+ajuste estrutural|ajuste estructural||L|fin|C2
+dívida externa|deuda externa||L|fin|C2
+alívio da dívida|alivio de la deuda||L|fin|C2
+remessas dos emigrantes|remesas de los emigrantes||L|fin|C2
+fuga de capitais|fuga de capitales||L|fin|C2
+comércio justo|comercio justo||L|fin|C2
+descarbonização|descarbonización||S|fin|C2
+cooperação descentralizada|cooperación descentralizada||L|fin|C2
+protecionismo|proteccionismo||S|fin|C2
+autossuficiência|autosuficiencia||S|fin|C2
+transferência de tecnologia|transferencia de tecnología||L|fin|C2
+contrapartida|contrapartida (a cambio de ayudas)||S|fin|C2
+empréstimo concessionário|préstamo concesional||L|fin|C2
+período de graça|período de gracia||L|fin|C2
+rendimento nacional bruto|renta nacional bruta||L|fin|C2
+inclusão financeira|inclusión financiera||L|fin|C2
+microcrédito|microcrédito||S|fin|C2
+segurança alimentar|seguridad alimentaria||L|fin|C2
+titulação|valoración (titulación)||S|sci|C2
+pipetagem|pipeteo||S|sci|C2
+alíquota|alícuota||S|sci|C2
+menisco|menisco||S|sci|C2
+bureta|bureta||S|sci|C2
+espectrofotometria|espectrofotometría||S|sci|C2
+cromatografia|cromatografía||S|sci|C2
+centrifugação|centrifugación||S|sci|C2
+solução tampão|disolución tampón||L|sci|C2
+precipitado|precipitado||S|sci|C2
+sobrenadante|sobrenadante||S|sci|C2
+digestão ácida|digestión ácida (de la muestra)||L|sci|C2
+espectrometria de massa|espectrometría de masas||L|sci|C2
+branco de ensaio|blanco de ensayo||L|sci|C2
+curva de calibração|curva de calibración||L|sci|C2
+limite de deteção|límite de detección||L|sci|C2
+contaminação cruzada|contaminación cruzada||L|sci|C2
+micropipeta|micropipeta||S|sci|C2
+granulometria|granulometría||S|sci|C2
+estequiometria|estequiometría||S|sci|C2
+condutividade|conductividad||S|sci|C2
+banda proibida|banda prohibida||L|sci|C2
+portador de carga|portador de carga||L|sci|C2
+semicondutor|semiconductor||S|sci|C2
+deformação plástica|deformación plástica||L|sci|C2
+tensão de rutura|tensión de rotura||L|sci|C2
+fadiga de material|fatiga del material||L|sci|C2
+criostato|criostato||S|sci|C2
+histerese|histéresis||S|sci|C2
+paramagnético|paramagnético||A|sci|C2
+diamagnético|diamagnético||A|sci|C2
+rede cristalina|red cristalina||L|sci|C2
+célula unitária|celda unitaria||L|sci|C2
+monocristalino|monocristalino||A|sci|C2
+ductilidade|ductilidad||S|sci|C2
+fragilização|fragilización||S|sci|C2
+tenacidade|tenacidad||S|sci|C2
+fonão|fonón||S|sci|C2
+recozimento|recocido||S|sci|C2
+porosidade|porosidad||S|sci|C2
+tropopausa|tropopausa||S|sci|C2
+corrente de jato|corriente en chorro||L|sci|C2
+inversão térmica|inversión térmica||L|sci|C2
+ilha de calor|isla de calor||L|sci|C2
+sequestro de carbono|secuestro de carbono||L|sci|C2
+paleoclimatologia|paleoclimatología||S|sci|C2
+circulação termoalina|circulación termohalina||L|sci|C2
+monção|monzón||S|cli|C2
+balanço hídrico|balance hídrico||L|sci|C2
+evapotranspiração|evapotranspiración||S|sci|C2
+escoamento superficial|escorrentía superficial||L|sci|C2
+afloramento costeiro|afloramiento costero (surgencia)||L|sci|C2
+aridez|aridez||S|sci|C2
+desertificação|desertización||S|sci|C2
+gases de efeito estufa|gases de efecto invernadero||L|sci|C2
+pegada de carbono|huella de carbono||L|sci|C2
+retroação climática|retroalimentación climática||L|sci|C2
+modelação climática|modelización climática||L|sci|C2
+albedo|albedo||S|sci|C2
+salinização|salinización||S|sci|C2
+registo fóssil|registro fósil||L|sci|C2
+fossilização|fosilización||S|sci|C2
+estratigrafia|estratigrafía||S|sci|C2
+datação radiométrica|datación radiométrica||L|sci|C2
+extinção em massa|extinción masiva||L|sci|C2
+deriva genética|deriva génica||L|sci|C2
+especiação|especiación||S|sci|C2
+filogenia|filogenia||S|sci|C2
+ontogenia|ontogenia||S|sci|C2
+táxon|taxón||S|sci|C2
+cladística|cladística||S|sci|C2
+homologia|homología||S|sci|C2
+atavismo|atavismo||S|sci|C2
+convergência evolutiva|convergencia evolutiva||L|sci|C2
+neotenia|neotenia||S|sci|C2
+vestigial|vestigial||A|sci|C2
+biogeografia|biogeografía||S|sci|C2
+endemismo|endemismo||S|sci|C2
+holótipo|holotipo||S|sci|C2
+megafauna|megafauna||S|sci|C2
