@@ -1,0 +1,286 @@
+étape|etapa (tramo del viaje)||S|vig|B2
+escale|escala (parada del trayecto)||S|vig|B2
+demi-pension|media pensión||S|htl|B2
+pension complète|pensión completa||L|htl|B2
+traversée|travesía (crucero)||S|vig|B2
+croisière|crucero||S|vig|B2
+séjour linguistique|viaje de idiomas||L|vig|B2
+office de tourisme|oficina de turismo||L|cit|B2
+globe-trotteur|viajero empedernido||S|vig|B2
+voyage organisé|viaje organizado||L|vig|B2
+forfait|paquete (todo incluido)||S|vig|B2
+remontée mécanique|remonte (telesilla)||L|spt|B2
+vacancier|veraneante||S|vig|B2
+flâner|pasear sin rumbo||V|sve|B2
+flânerie|paseo sin rumbo||S|sve|B2
+coucher de soleil|puesta de sol||L|nat|B2
+pittoresque|pintoresco||A|vig|B2
+renommée|renombrada (fama)||S|ast|B2
+à quelques pas de|a pocos pasos de||E|vig|B2
+au cœur de|en pleno centro de||E|vig|B2
+périphérie|periferia||S|cit|B2
+panorama|panorama (vista)||S|vig|B2
+apercevoir|divisar||V|vig|B2
+contempler|contemplar||V|vig|B2
+carte postale|postal (de recuerdo)||L|vig|B2
+souvenir de voyage|recuerdo de viaje||L|vig|B2
+imprévu|imprevisto||S|ast|B2
+estime de soi|autoestima||L|emo|B2
+confiance en soi|confianza en uno mismo||L|emo|B2
+se prendre en main|tomar las riendas||L|emo|B2
+reprendre le contrôle|recuperar el control||L|emo|B2
+se fixer un objectif|fijarse un objetivo||L|emo|B2
+persévérance|perseverancia||S|emo|B2
+persévérer|perseverar||V|emo|B2
+volonté|voluntad (deseo)||S|emo|B2
+régularité|constancia||S|emo|B2
+force de volonté|fuerza de voluntad||L|emo|B2
+s'améliorer|mejorar (perfeccionarse)||V|emo|B2
+amélioration|mejora (progreso)||S|emo|B2
+se dépasser|superarse||V|emo|B2
+dépassement de soi|superación personal||L|emo|B2
+prendre soin de soi|cuidarse||L|emo|B2
+s'épanouir|realizarse (florecer)||V|emo|B2
+épanouissement|plena realización||S|emo|B2
+humilité|humildad||S|emo|B2
+fierté|orgullo (satisfacción)||S|emo|B2
+fier|orgulloso||A|emo|B2
+sous-estimer|subestimar||V|emo|B2
+surestimer|sobreestimar||V|emo|B2
+douter de soi|desconfiar de uno mismo||L|emo|B2
+se tracasser|agobiarse||V|emo|B2
+culpabiliser|culpabilizar||V|emo|B2
+culpabilité|culpabilidad||S|emo|B2
+lâcher prise|soltar (dejar ir)||L|emo|B2
+méditation|meditación||S|emo|B2
+méditer|meditar||V|emo|B2
+gratitude|gratitud||S|emo|B2
+bienveillance|benevolencia||S|emo|B2
+bienveillant|benevolente||A|emo|B2
+s'accepter|aceptarse||V|emo|B2
+acceptation|aceptación||S|emo|B2
+se chouchouter|mimarse||V|emo|B2
+audace|audacia||S|emo|B2
+audacieux|audaz||A|emo|B2
+se lancer|lanzarse (aventurarse)||V|emo|B2
+vaincre|vencer||V|emo|B2
+se plaindre|quejarse||V|cmu|B2
+réclamation|reclamación (queja formal)||S|cmu|B2
+réclamer|reclamar||V|cmu|B2
+mécontentement|descontento||S|cmu|B2
+mécontent|descontento (disgustado)||A|cmu|B2
+insatisfait|insatisfecho||A|cmu|B2
+insatisfaction|insatisfacción||S|cmu|B2
+contrarié|contrariado||A|cmu|B2
+contrarier|contrariar||V|cmu|B2
+vexé|molesto (ofendido)||A|cmu|B2
+vexer|ofender (molestar)||V|cmu|B2
+présenter ses excuses|pedir disculpas||L|cmu|B2
+excuses|disculpas||S|cmu|B2
+en vouloir à quelqu'un|guardar rencor a alguien||L|cmu|B2
+rancune|rencor||S|cmu|B2
+rancunier|rencoroso||A|cmu|B2
+bouder|enfurruñarse (guardar rencor)||V|cmu|B2
+prise de tête|rollo (discusión pesada)||L|cmu|B2
+quiproquo|quiproquo (malentendido)||S|cmu|B2
+malentendu|malentendido||S|cmu|B2
+tirer au clair|aclarar (esclarecer)||L|cmu|B2
+s'expliquer|explicarse||V|cmu|B2
+éclaircir|aclarar (despejar)||V|cmu|B2
+incompréhension|incomprensión||S|cmu|B2
+prêter à confusion|prestar a confusión||L|cmu|B2
+faire faux bond|dejar plantado||L|cmu|B2
+reproche|reproche||S|cmu|B2
+reprocher|reprochar||V|cmu|B2
+d'un ton sec|con tono seco||E|cmu|B2
+sèchement|secamente||D|cmu|B2
+s'agacer|irritarse||V|cmu|B2
+agacement|irritación||S|cmu|B2
+exaspérer|exasperar||V|cmu|B2
+être à l'écoute|estar atento (escuchar)||L|cmu|B2
+prendre mal|tomarse a mal||L|cmu|B2
+se faire pardonner|hacerse perdonar||L|cmu|B2
+se rattraper|recuperarse (remediar)||V|cmu|B2
+promesse non tenue|promesa incumplida||L|cmu|B2
+faire la paix|reconciliarse||L|cmu|B2
+formulaire|formulario||S|ist|B2
+dossier|expediente (carpeta de documentos)||S|ist|B2
+justificatif|justificante||S|ist|B2
+légalisation|legalización (autenticación)||S|ist|B2
+attestation|certificado (declaración jurada)||S|ist|B2
+attester|certificar||V|ist|B2
+certificat|certificado||S|ist|B2
+timbre fiscal|impuesto de timbre (sello fiscal)||L|ist|B2
+affranchir|franquear (poner sellos)||V|ist|B2
+recommandé|certificado (correo con acuse)||S|ist|B2
+accusé de réception|acuse de recibo||L|ist|B2
+signataire|firmante||S|ist|B2
+cachet|sello (de la oficina)||S|ist|B2
+tampon|sello (de caucho)||S|ist|B2
+légaliser|legalizar (autenticar)||V|ist|B2
+notaire|notario||S|pro|B2
+préfecture|prefectura||S|ist|B2
+guichet|ventanilla||S|ist|B2
+fonctionnaire|funcionario||S|ist|B2
+créneau|franja horaria||S|tmp|B2
+convocation|citación (convocatoria)||S|ist|B2
+convoquer|convocar (citar)||V|ist|B2
+préavis|preaviso||S|ist|B2
+démarches|trámites (gestiones)||S|ist|B2
+renouvellement|renovación||S|ist|B2
+renouveler|renovar||V|ist|B2
+périmé|caducado (vencido)||A|ist|B2
+expirer|caducar (expirar)||V|ist|B2
+validité|validez||S|ist|B2
+recto-verso|a doble cara||E|ist|B2
+certifié conforme|certificado conforme||E|ist|B2
+registre|registro||S|ist|B2
+enregistrement|inscripción (registro)||S|ist|B2
+enregistrer|registrar (inscribir)||V|ist|B2
+duplicata|duplicado (copia autenticada)||S|ist|B2
+pièce d'identité|documento de identidad||L|ist|B2
+titre de séjour|permiso de residencia||L|ist|B2
+justificatif de domicile|justificante de domicilio||L|ist|B2
+quittance|recibo (carta de pago)||S|ist|B2
+tout d'abord|para empezar||E|cnn|B2
+par ailleurs|por otra parte||E|cnn|B2
+d'ailleurs|por cierto (dicho sea de paso)||E|cnn|B2
+à vrai dire|a decir verdad||E|cnn|B2
+en tout cas|en todo caso||E|cnn|B2
+quoi qu'il en soit|sea como sea||E|cnn|B2
+en définitive|en definitiva||E|cnn|B2
+tout compte fait|a fin de cuentas||E|cnn|B2
+au fond|en el fondo||E|cnn|B2
+à ce propos|a propósito (sobre el tema)||E|cnn|B2
+entre-temps|mientras tanto||D|cnn|B2
+d'ici là|para entonces||E|cnn|B2
+en un mot|en una palabra||E|cnn|B2
+du coup|así que (por lo tanto)||E|cnn|B2
+du même coup|de paso (a la vez)||E|cnn|B2
+cependant|sin embargo||C|cnn|B2
+toutefois|no obstante||C|cnn|B2
+en revanche|en cambio||E|cnn|B2
+certes|cierto (es verdad)||C|cnn|B2
+il n'empêche que|con todo||E|cnn|B2
+admettons|admitamos (pongamos)||E|cnn|B2
+soit dit en passant|dicho sea de paso||E|cnn|B2
+pour ainsi dire|por así decirlo||E|cnn|B2
+en gros|en líneas generales||E|cnn|B2
+grosso modo|a grandes rasgos||E|cnn|B2
+en l'occurrence|en este caso (dicho esto)||E|cnn|B2
+quant à|en cuanto a||L|cnn|B2
+pour ma part|por mi parte||E|cnn|B2
+de mon côté|de mi parte||E|cnn|B2
+toujours est-il que|el caso es que||E|cnn|B2
+n'empêche|con todo (no obstante)||E|cnn|B2
+alors que|mientras que||C|cnn|B2
+et pour cause|y con razón||E|cnn|B2
+à plus forte raison|con más razón||E|cnn|B2
+pour finir|para terminar||E|cnn|B2
+voilà pourquoi|por eso (he aquí por qué)||E|cnn|B2
+le truc c'est que|la cosa es que||E|cnn|B2
+genre|como (digamos)||E|cnn|B2
+tu vois|¿sabes?||E|cnn|B2
+hasard|azar||S|ast|B2
+chanceux|con suerte (afortunado)||A|ast|B2
+coup de chance|golpe de suerte||L|ast|B2
+porte-bonheur|amuleto (de la suerte)||S|ast|B2
+malchance|mala suerte||S|ast|B2
+croiser les doigts|cruzar los dedos||L|ast|B2
+sort|destino (sino)||S|ast|B2
+destin|destino||S|ast|B2
+fatalité|fatalidad||S|ast|B2
+coïncider|coincidir||V|ast|B2
+bouleversement|conmoción (trastorno)||S|ast|B2
+bouleverser|conmocionar (trastornar)||V|ast|B2
+virage|giro (cambio de rumbo)||S|ast|B2
+tournant|punto de inflexión||S|ast|B2
+évolution|evolución (desarrollo)||S|ast|B2
+évoluer|evolucionar||V|ast|B2
+péripétie|peripecia (aventura)||S|ast|B2
+détour|desvío (rodeo)||S|ast|B2
+prévisible|previsible||A|ast|B2
+imprévisible|imprevisible||A|ast|B2
+à l'improviste|por sorpresa (de improviso)||E|ast|B2
+passager|pasajero (temporal)||A|ast|B2
+éphémère|efímero||A|ast|B2
+longévité|longevidad||S|ast|B2
+tôt ou tard|tarde o temprano||E|tmp|B2
+sur le tard|ya de mayores||E|tmp|B2
+à première vue|a primera vista||E|ast|B2
+d'emblée|de entrada (directamente)||E|ast|B2
+d'office|de plano||E|ast|B2
+de loin|de lejos (con diferencia)||E|ast|B2
+de près|de cerca||E|ast|B2
+à la dernière minute|a última hora||E|tmp|B2
+par mégarde|sin querer (por descuido)||E|ast|B2
+volontiers|de buena gana||D|ast|B2
+à contrecœur|a disgusto (de mala gana)||E|ast|B2
+bon gré mal gré|queras o no||E|ast|B2
+mûrir|madurar (una idea)||V|ast|B2
+prématuré|prematuro||A|ast|B2
+à point nommé|en el momento justo||E|ast|B2
+exposition|exposición (muestra)||S|art|B2
+vernissage|inauguración (privada)||S|art|B2
+rétrospective|retrospectiva||S|art|B2
+commissaire d'exposition|comisario de exposición||S|art|B2
+accrochage|montaje (colgada de obras)||S|art|B2
+chef-d'œuvre|obra maestra||S|art|B2
+pastiche|pastiche (imitación)||S|art|B2
+fresque|fresco (pintura mural)||S|art|B2
+restaurateur|restaurador (de obras)||S|art|B2
+restauration|restauración (de obras)||S|art|B2
+galerie|galería (de arte)||S|art|B2
+collectionneur|coleccionista||S|art|B2
+acquisition|adquisición||S|art|B2
+parcours de visite|recorrido de la visita||L|art|B2
+panneau|panel (cartela)||S|art|B2
+entrée gratuite|entrada gratuita||E|art|B2
+gratuité|gratuidad||S|art|B2
+fréquentation|número de visitantes||S|art|B2
+inauguration|inauguración||S|art|B2
+visite commentée|visita comentada||L|art|B2
+atelier|taller (para visitantes)||S|art|B2
+médiation culturelle|mediación cultural||L|art|B2
+in situ|in situ (en el lugar)||E|art|B2
+legs|legado (herencia)||S|art|B2
+donation|donación||S|art|B2
+inventaire|inventario||S|art|B2
+notice|ficha (comentario de obra)||S|art|B2
+aile|ala (del edificio)||S|cit|B2
+beffroi|campanario (torre cívica)||S|art|B2
+cloître|claustro||S|art|B2
+vitrail|vidriera||S|art|B2
+chapelle|capilla||S|art|B2
+porche|pórtico (portal)||S|art|B2
+arcade|arcada (soportal)||S|art|B2
+bâtisse|casona (edificación)||S|art|B2
+colombage|entramado de madera||S|art|B2
+monument historique|monumento histórico||L|art|B2
+patrimonial|patrimonial||A|art|B2
+mise en valeur|puesta en valor||L|art|B2
+carte d'embarquement|tarjeta de embarque||L|vig|B2
+comptoir d'enregistrement|mostrador de facturación||L|tra|B2
+bagage en soute|equipaje facturado||L|vig|B2
+franchise|franquicia de equipaje||S|vig|B2
+soute|bodega (del avión)||S|tra|B2
+cabine|cabina (de pasaje)||S|tra|B2
+porte d'embarquement|puerta de embarque||L|vig|B2
+vol direct|vuelo directo||L|vig|B2
+correspondance|conexión (escala de enlace)||S|vig|B2
+transit|tránsito||S|vig|B2
+contrôle|control (inspección)||S|ist|B2
+palpation|registro corporal (cacheo)||S|att|B2
+portique de sécurité|arco de seguridad||L|vig|B2
+en vrac|a granel (suelto)||E|vig|B2
+détaxe|devolución de impuestos||S|fin|B2
+bordereau|resguardo (formulario)||S|ist|B2
+compagnie aérienne|compañía aérea||L|vig|B2
+surbooking|sobreventa de billetes||S|vig|B2
+indemnisation|indemnización||S|fin|B2
+indemniser|indemnizar||V|fin|B2
+ponctualité|puntualidad||S|vig|B2
+affichage|panel de información||S|cit|B2
+dernier appel|última llamada||L|vig|B2
+embarquement immédiat|embarque inmediato||E|vig|B2
+grève|huelga||S|lav|B2

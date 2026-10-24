@@ -1,0 +1,258 @@
+indemnité de licenciement|indemnización por despido||L|lav|C1
+préavis|preaviso||S|lav|C1
+période d'essai|período de prueba||L|lav|C1
+intérim|trabajo temporal||S|lav|C1
+masse salariale|masa salarial||L|fin|C1
+fiche de poste|ficha de puesto||L|lav|C1
+convention collective|convenio colectivo||L|lav|C1
+andragogie|andragogía||S|stu|C1
+pédagogie active|pedagogía activa||L|stu|C1
+didactique|didáctica||S|stu|C1
+heuristique|heurística||S|stu|C1
+constructivisme|constructivismo||S|stu|C1
+socioconstructivisme|socioconstructivismo||S|stu|C1
+béhaviorisme|conductismo||S|stu|C1
+sciences cognitives|ciencias cognitivas||L|stu|C1
+métacognition|metacognición||S|stu|C1
+bienveillance|benevolencia||S|stu|C1
+évaluation formative|evaluación formativa||L|stu|C1
+évaluation sommative|evaluación sumativa||L|stu|C1
+remédiation|refuerzo (remediación)||S|stu|C1
+échec scolaire|fracaso escolar||L|stu|C1
+décrochage scolaire|abandono escolar||L|stu|C1
+conseiller d'orientation|orientador escolar||S|pro|C1
+conseil de classe|claustro de profesores||L|stu|C1
+professeur des écoles|maestro de primaria||S|pro|C1
+agrégation|agregación (oposiciones)||S|stu|C1
+travaux dirigés|seminarios (TD)||L|stu|C1
+travaux pratiques|prácticas (TP)||L|stu|C1
+partiels|parciales (exámenes)||S|stu|C1
+rattrapage|recuperación (segunda convocatoria)||S|stu|C1
+jury|tribunal (de examen)||S|stu|C1
+mémoire de fin d'études|trabajo de fin de estudios||L|stu|C1
+soutenance de thèse|defensa de tesis||L|stu|C1
+stage d'observation|prácticas de observación||L|stu|C1
+éducation populaire|educación popular||L|stu|C1
+climat de classe|clima de aula||L|stu|C1
+différenciation|diferenciación (pedagógica)||S|stu|C1
+motivation intrinsèque|motivación intrínseca||L|stu|C1
+assignation|citación judicial||S|ist|C1
+mise en examen|procesamiento||L|ist|C1
+garde à vue|detención preventiva||L|ist|C1
+détention provisoire|prisión provisional||L|ist|C1
+non-lieu|sobreseimiento||S|ist|C1
+interjeter appel|interponer recurso de apelación||L|ist|C1
+pourvoi en cassation|recurso de casación||L|ist|C1
+arrêt|fallo (sentencia)||S|ist|C1
+huissier de justice|agente judicial||S|pro|C1
+droit des sociétés|derecho de sociedades||L|ist|C1
+clause de non-concurrence|cláusula de no competencia||L|ist|C1
+clause pénale|cláusula penal||L|ist|C1
+force majeure|fuerza mayor||L|ist|C1
+séquestre|depósito judicial||S|ist|C1
+saisie|embargo||S|ist|C1
+instance|instancia (grado jurisdiccional)||S|ist|C1
+statuer|fallar (resolver)||V|ist|C1
+requalification|recalificación jurídica||S|ist|C1
+nullité|nulidad||S|ist|C1
+forclusion|preclusión||S|ist|C1
+usufruit|usufructo||S|ist|C1
+servitude|servidumbre||S|ist|C1
+indivision|indivisión||S|ist|C1
+legs|legado (herencia)||S|ist|C1
+cahier des charges|pliego de condiciones||L|pro|C1
+procès-verbal|acta (atestado)||S|ist|C1
+devis|presupuesto||S|pro|C1
+malfaçon|defecto de construcción||S|pro|C1
+vice caché|vicio oculto||L|pro|C1
+homologation|homologación||S|pro|C1
+parcours de soins|itinerario asistencial||L|sla|C1
+bloc opératoire|quirófano||L|sla|C1
+complicité|complicidad||S|rel|C1
+connivence|connivencia||S|rel|C1
+entente|entendimiento||S|rel|C1
+mésentente|desavenencia||S|rel|C1
+brouille|distanciamiento (pelea)||S|rel|C1
+se brouiller avec|pelearse con||L|rel|C1
+discorde|discordia||S|rel|C1
+semer la zizanie|sembrar cizaña||L|rel|C1
+inimitié|enemistad||S|rel|C1
+rancoeur|rencor||S|rel|C1
+ressentiment|resentimiento||S|rel|C1
+aigreur|acidez (resentimiento)||S|rel|C1
+exacerber|exacerbar||V|rel|C1
+apaisement|apaciguamiento||S|rel|C1
+apaiser|apaciguar||V|rel|C1
+désamour|desamor||S|rel|C1
+attachement|apego||S|rel|C1
+détachement|desapego||S|rel|C1
+sollicitude|solicitud (cuidado)||S|rel|C1
+avoir des égards|tener consideración||L|rel|C1
+déférence|deferencia||S|rel|C1
+obséquieux|obsequioso||A|rel|C1
+flagornerie|adulación servil||S|rel|C1
+complaisance|complacencia||S|rel|C1
+pudeur|recato||S|rel|C1
+tact|tacto (diplomacia)||S|rel|C1
+ménager|dosificar (tratar con tacto)||V|rel|C1
+éloignement|distanciamiento||S|rel|C1
+rapprochement|acercamiento||S|rel|C1
+dissension|disensión||S|rel|C1
+froideur|frialdad (en el trato)||S|rel|C1
+aria|aria||S|mus|C1
+livret|libreto||S|mus|C1
+loge|palco (camerino)||S|mus|C1
+paradis|anfiteatro (gallinero del teatro)||S|let|C1
+avant-scène|proscenio||S|let|C1
+fosse d'orchestre|foso de orquesta||L|mus|C1
+rampe|borde del escenario||S|let|C1
+intrigue|trama||S|let|C1
+dénouement|desenlace||S|let|C1
+quiproquo|quiproquo||S|let|C1
+tirade|parlamento||S|let|C1
+réplique|réplica||S|let|C1
+didascalie|didascalia||S|let|C1
+aparté|aparte (teatro)||S|let|C1
+monologue intérieur|monólogo interior||L|let|C1
+tercet|terceto||S|let|C1
+distique|dístico||S|let|C1
+alexandrin|alejandrino||S|let|C1
+hendécasyllabe|endecasílabo||S|let|C1
+rime plate|rima pareja||L|let|C1
+rime embrassée|rima abrazada||L|let|C1
+versification|versificación||S|let|C1
+prosodie|prosodia||S|let|C1
+enjambement|encabalgamiento||S|let|C1
+césure|cesura||S|let|C1
+hémistiche|hemistiquio||S|let|C1
+poème en prose|poema en prosa||L|let|C1
+vers libre|verso libre||L|let|C1
+cantatrice|diva (cantante lírica)||S|mus|C1
+ouvreuse|acomodadora||S|pro|C1
+figurant|comparsa||S|let|C1
+cabotin|histrion||S|let|C1
+péripéties|peripecias||S|let|C1
+odyssée|odisea||S|let|C1
+épopée|epopeya||S|let|C1
+errance|errancia (vagabundeo)||S|vig|C1
+pérégrination|peregrinación||S|vig|C1
+chamelier|camellero||S|pro|C1
+méharée|travesía en dromedario||S|vig|C1
+bivouac|vivac||S|vig|C1
+cairn|mojón de piedras||S|nat|C1
+moraine|morrena||S|nat|C1
+sérac|sérac (bloque de hielo)||S|nat|C1
+crevasse|grieta (glaciar)||S|nat|C1
+cordée|cordada (de alpinistas)||S|spt|C1
+alpinisme|alpinismo||S|spt|C1
+grimpeur|escalador||S|spt|C1
+spéléologie|espeleología||S|spt|C1
+gouffre|sima||S|nat|C1
+aven|dolina (sima cárstica)||S|nat|C1
+canopée|dose (del bosque)||S|nat|C1
+banquise|banquisa||S|nat|C1
+polynie|polinia||S|nat|C1
+schiste|esquisto||S|nat|C1
+oued|uadi||S|nat|C1
+erg|erg (mar de arena)||S|nat|C1
+reg|reg (llanura pedregosa)||S|nat|C1
+hamada|hamada||S|nat|C1
+caravansérail|caravanserai||S|vig|C1
+azimut|acimut||S|sci|C1
+sextant|sextante||S|sci|C1
+navigation à l'estime|navegación por estima||L|vig|C1
+crampons|crampones||S|spt|C1
+piolet|piolet||S|spt|C1
+raccord|empalme (continuidad)||S|cin|C1
+erreur de raccord|fallo de raccord||L|cin|C1
+plan-séquence|plano secuencia||S|cin|C1
+ellipse|elipsis (salto temporal)||S|cin|C1
+hors-champ|fuera de campo||S|cin|C1
+profondeur de champ|profundidad de campo||L|cin|C1
+montage alterné|montaje alternado||L|cin|C1
+montage parallèle|montaje paralelo||L|cin|C1
+surcadrage|encuadre dentro del encuadre||S|cin|C1
+contre-plongée|contrapicado||S|cin|C1
+voix off|voz en off||L|cin|C1
+cinéphilie|cinéfilia||S|cin|C1
+directeur de la photographie|director de fotografía||S|cin|C1
+scripte|script (continuista)||S|cin|C1
+caméo|cameo||S|cin|C1
+cascadeur|doble de acción||S|cin|C1
+trucage|trucaje||S|cin|C1
+incrustation|incrustación (croma)||S|cin|C1
+flashback|escena retrospectiva||S|cin|C1
+clap|claqueta||S|cin|C1
+bobine|carrete||S|cin|C1
+pellicule|película (soporte)||S|cin|C1
+avant-première|preestreno||S|cin|C1
+sélection officielle|selección oficial||L|cin|C1
+palmarès|palmarés||S|cin|C1
+film culte|película de culto||L|cin|C1
+navet|película malísima||S|cin|C1
+nanar|película cutre||S|cin|C1
+septième art|séptimo arte||L|cin|C1
+film de genre|cine de género||L|cin|C1
+cinéma d'auteur|cine de autor||L|cin|C1
+natalité|natalidad||S|fam|C1
+fécondité|fecundidad||S|fam|C1
+nuptialité|nupcialidad||S|fam|C1
+mortalité infantile|mortalidad infantil||L|fam|C1
+espérance de vie|esperanza de vida||L|fam|C1
+vieillissement démographique|envejecimiento demográfico||L|fam|C1
+dénatalité|desnatalidad||S|fam|C1
+solde naturel|crecimiento natural||L|fam|C1
+solde migratoire|saldo migratorio||L|fam|C1
+renouvellement des générations|reemplazo generacional||L|fam|C1
+pyramide des âges|pirámide de población||L|fam|C1
+monoparentalité|monoparentalidad||S|fam|C1
+famille recomposée|familia reconstituida||L|fam|C1
+famille monoparentale|familia monoparental||L|fam|C1
+veuvage|viudedad||S|fam|C1
+concubinage|concubinato||S|fam|C1
+aîné|primogénito||S|fam|C1
+cadet|segundón||S|fam|C1
+benjamin|benjamín (último hijo)||S|fam|C1
+progéniture|progénie||S|fam|C1
+descendance|descendencia||S|fam|C1
+lignée|estirpe||S|fam|C1
+démographie|demografía||S|fam|C1
+recensement|censo||S|fam|C1
+échantillon représentatif|muestra representativa||L|sci|C1
+panel|panel (muestra de encuesta)||S|sci|C1
+cohorte|cohorte||S|sci|C1
+exode rural|éxodo rural||L|fam|C1
+désertification|desertificación||S|nat|C1
+migration pendulaire|migración pendular||L|fam|C1
+transition démographique|transición demográfica||L|fam|C1
+urbanisme|urbanismo||S|cit|C1
+urbaniste|urbanista||S|pro|C1
+immeuble de rapport|inmueble de alquiler||L|cit|C1
+percée|apertura (vial)||S|cit|C1
+alignement|alineación (norma urbana)||S|cit|C1
+gabarit|gabarito (dimensiones)||S|cit|C1
+emprise au sol|ocupación de suelo||L|cit|C1
+densification|densificación||S|cit|C1
+mitage|dispersión (urbanización salpicada)||S|cit|C1
+mixité fonctionnelle|mezcla de usos||L|cit|C1
+ceinture verte|cinturón verde||L|cit|C1
+front bâti|frente urbanizado||L|cit|C1
+lisière urbaine|borde urbano||L|cit|C1
+artère|arteria (vía principal)||S|cit|C1
+boulevard périphérique|cinturón de circunvalación||L|tra|C1
+rocade|ronda (circunvalación)||S|tra|C1
+trame viaire|malla viaria||L|cit|C1
+voirie|red viaria||S|cit|C1
+mobilier urbain|mobiliario urbano||L|cit|C1
+candélabre|farol||S|cit|C1
+passage couvert|pasaje cubierto||L|cit|C1
+façade continue|fachada corrida||L|cit|C1
+bow-window|mirador saliente||S|cas|C1
+corniche|cornisa||S|cit|C1
+cariatide|cariátide||S|art|C1
+chapiteau|capitel||S|art|C1
+plein cintre|de medio punto||L|art|C1
+ogive|ojiva (arco apuntado)||S|art|C1
+clef de voûte|clave de bóveda||L|cit|C1
+belvédère|mirador||S|cit|C1
+parvis|atrio (plaza de acceso)||S|cit|C1

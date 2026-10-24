@@ -1,0 +1,285 @@
+chariot|carrito (de maletas)||S|vig|B2
+tapis roulant|cinta transportadora||L|tra|B2
+piste|pista (de aterrizaje)||S|tra|B2
+tour de contrôle|torre de control||L|tra|B2
+décollage|despegue||S|tra|B2
+décoller|despegar||V|tra|B2
+turbulence|turbulencia||S|tra|B2
+décalage horaire|cambio de horario (jet lag)||L|vig|B2
+ponctuel|puntual||A|vig|B2
+assurance voyage|seguro de viaje||L|fin|B2
+avarié|dañado (estropeado)||A|vig|B2
+assistance|asistencia||S|vig|B2
+rapatriement|repatriación||S|vig|B2
+dédommagement|resarcimiento||S|fin|B2
+réservation|reserva (de habitación)||S|htl|B2
+annulation gratuite|cancelación gratuita||E|htl|B2
+conditions d'annulation|condiciones de cancelación||L|htl|B2
+clé magnétique|llave magnética||L|htl|B2
+chambre avec vue|habitación con vistas||L|htl|B2
+vue sur la mer|vistas al mar||L|htl|B2
+donnant sur|que da a||E|htl|B2
+literie|ropa de cama (colchoneta)||S|htl|B2
+couverture|manta||S|htl|B2
+taie d'oreiller|funda de almohada||L|htl|B2
+peignoir|albornoz||S|htl|B2
+articles de toilette|artículos de aseo||L|htl|B2
+sèche-cheveux|secador de pelo||S|htl|B2
+plateau|bandeja (de bienvenida)||S|htl|B2
+service en chambre|servicio de habitaciones||L|htl|B2
+monte-charge|montacargas||S|htl|B2
+coupure de courant|corte de luz (apagón)||L|htl|B2
+défectueux|defectuoso||A|htl|B2
+tomber en panne|averiarse (dejar de funcionar)||L|tec|B2
+réceptionniste|recepcionista||S|htl|B2
+gouvernante|gobernanta (encargada de planta)||S|htl|B2
+femme de chambre|camarera (de habitaciones)||L|htl|B2
+bagagiste|botones (maletero)||S|htl|B2
+concierge|conserje (portero)||S|htl|B2
+lit d'appoint|cama supletoria||L|htl|B2
+berceau|cuna (para bebés)||S|htl|B2
+nettoyage de la chambre|limpieza de la habitación||L|htl|B2
+transat|tumbona||S|htl|B2
+parasol|sombrilla||S|htl|B2
+à disposition|a disposición||E|htl|B2
+supplément|suplemento (cargo extra)||S|fin|B2
+frais|gastos (comisión)||S|fin|B2
+acompte|depósito (anticipo)||S|fin|B2
+arrhes|señal (arras)||S|fin|B2
+encaisser|cobrar||V|fin|B2
+régler la note|pagar la cuenta||L|fin|B2
+départ|salida (check-out)||S|htl|B2
+chambre insonorisée|habitación insonorizada||L|htl|B2
+établissement|establecimiento||S|htl|B2
+candidature|candidatura||S|lav|B2
+lettre de motivation|carta de motivación||L|lav|B2
+lettre de recommandation|carta de recomendación||L|lav|B2
+références|referencias (avales)||S|lav|B2
+faire ses preuves|demostrar la valía de uno||L|lav|B2
+atout|punto fuerte (as)||S|lav|B2
+maîtriser|dominar (controlar)||V|lav|B2
+maîtrise|dominio (control)||S|lav|B2
+savoir-faire|saber hacer (pericia)||S|lav|B2
+polyvalence|polivalencia||S|lav|B2
+polyvalent|polivalente||A|lav|B2
+assidu|aplicado (constante)||A|lav|B2
+assiduité|asiduidad (aplicación)||S|lav|B2
+disponibilité|disponibilidad||S|lav|B2
+mobilité|movilidad (disposición a trasladarse)||S|lav|B2
+prétentions salariales|pretensiones salariales||L|fin|B2
+avantages en nature|ventajas en especie||L|fin|B2
+mutuelle|mutua (seguro médico complementario)||S|sla|B2
+titre-restaurant|vale-comida||S|fin|B2
+période d'essai|período de prueba||L|lav|B2
+promesse d'embauche|promesa de contratación||L|lav|B2
+clause|cláusula||S|lav|B2
+congés payés|vacaciones pagadas||L|lav|B2
+parrainage|apadrinamiento (tutoría de incorporación)||S|lav|B2
+mentor|mentor (asesor)||S|lav|B2
+fiche de poste|ficha de puesto||L|lav|B2
+organigramme|organigrama||S|lav|B2
+supérieur hiérarchique|superior jerárquico||L|lav|B2
+collaborateur|compañero de trabajo (colaborador)||S|lav|B2
+ordre du jour|orden del día||L|cmu|B2
+compte rendu|acta (informe)||L|lav|B2
+rendre compte|informar (dar cuenta)||L|lav|B2
+prise de poste|incorporación al puesto||L|lav|B2
+rémunération|remuneración||S|fin|B2
+prime|prima (pago extra)||S|fin|B2
+note de frais|hoja de gastos||L|fin|B2
+montée en compétence|desarrollo de competencias||L|lav|B2
+avancement|ascenso (progresión)||S|lav|B2
+entretien annuel|entrevista anual||L|lav|B2
+cadet|el pequeño (el menor de la familia)||S|fam|B2
+arrière-grand-mère|bisabuela||S|fam|B2
+arrière-grand-père|bisabuelo||S|fam|B2
+grand-tante|tía abuela||S|fam|B2
+grand-oncle|tío abuelo||S|fam|B2
+cousin germain|primo carnal||L|fam|B2
+ado|adolescente (puberto)||S|fam|B2
+d'un autre temps|anticuado (de otra época)||E|fam|B2
+de mon temps|en mis tiempos||E|fam|B2
+jadis|antaño||D|fam|B2
+naguère|hace poco (no hace mucho)||D|fam|B2
+autrefois|en otros tiempos||D|fam|B2
+nostalgie|nostalgia||S|fam|B2
+nostalgique|nostálgico||A|fam|B2
+souvenirs d'enfance|recuerdos de infancia||L|fam|B2
+se remémorer|rememorar||V|fam|B2
+anecdote|anécdota||S|fam|B2
+se rappeler|acordarse||V|cmu|B2
+retracer|repasar (trazar la historia)||V|fam|B2
+récit|relato (narración)||S|let|B2
+de mémoire d'homme|que se recuerde||E|fam|B2
+album photo|álbum de fotos||L|fam|B2
+instantané|instantánea (foto)||S|fam|B2
+pellicule|película (carrete)||S|fam|B2
+bercer|meciar (acunar)||V|fam|B2
+comptine|canción infantil (de corro)||S|fam|B2
+colporter|difundir (de boca en boca)||V|cmu|B2
+légende familiale|leyenda familiar||L|fam|B2
+héritage|herencia (legado)||S|fam|B2
+hériter|heredar||V|fam|B2
+manie|manía (vicio)||S|fam|B2
+tic|tic (gesto repetitivo)||S|fam|B2
+du temps où|cuando (en tiempos en que)||E|fam|B2
+en ce temps-là|por aquel entonces||E|fam|B2
+bon vieux temps|el buen viejo tiempo||L|fam|B2
+gamin|gamberrita (crío)||S|fam|B2
+espiègle|travieso (pillín)||A|fam|B2
+espièglerie|travesura (pillería)||S|fam|B2
+de génération en génération|de generación en generación||E|fam|B2
+somnolence|somnolencia||S|sla|B2
+somnoler|tener sueño (dar cabezadas)||V|sla|B2
+insomnie|insomnio||S|sla|B2
+insomniaque|insomne||A|sla|B2
+ronfler|roncar||V|sla|B2
+ronflement|ronquido||S|sla|B2
+courbature|agujetas (dolor muscular)||S|sla|B2
+épuisement|agotamiento||S|sla|B2
+s'épuiser|agotarse||V|sla|B2
+surmenage|sobrecarga (estrés)||S|sla|B2
+être à plat|estar sin fuerzas||E|sla|B2
+retrouver la forme|recuperar la forma||L|sla|B2
+plein d'énergie|lleno de energía||E|sla|B2
+coup de pompe|bajón (flaqueza repentina)||L|sla|B2
+veiller|velar (quedarse despierto)||V|sla|B2
+veille|víspera||S|tmp|B2
+dormir à poings fermés|dormir a pierna suelta||L|sla|B2
+faire la grasse matinée|dormir hasta tarde||L|sla|B2
+matinal|matutino (madrugador)||A|sla|B2
+rythme|ritmo (cadencia)||S|tmp|B2
+somnifère|somnífero||S|sla|B2
+hydratation|hidratación||S|sla|B2
+s'hydrater|hidratarse||V|sla|B2
+déshydratation|deshidratación||S|sla|B2
+grignotage|picoteo (comer entre horas)||S|sla|B2
+grignoter|picar (entre horas)||V|sla|B2
+fringale|hambre repentina (ataque de hambre)||S|sla|B2
+équilibre alimentaire|equilibrio alimentario||L|sla|B2
+nutriment|nutriente||S|sla|B2
+carence|carencia (deficiencia)||S|sla|B2
+complément alimentaire|complemento alimentario||L|sla|B2
+cure|cura (tratamiento temporal)||S|sla|B2
+sédentarité|sedentarismo||S|sla|B2
+sédentaire|sedentario||A|sla|B2
+vitalité|vitalidad||S|sla|B2
+souffle|aliento (soplo)||S|cor|B2
+essoufflement|ahogo (pérdida de aliento)||S|sla|B2
+tension artérielle|tensión arterial||L|sla|B2
+détente|distensión (relajación)||S|sla|B2
+rencard|cita (romántica)||S|rel|B2
+sortir ensemble|salir juntos (tener relación)||L|rel|B2
+au dernier moment|en el último momento||E|tmp|B2
+de dernière minute|de última hora||E|tmp|B2
+à la va-vite|a toda prisa||E|tmp|B2
+avancer|adelantar (una cita)||V|tmp|B2
+repousser|aplazar (posponer)||V|tmp|B2
+reporter|aplazar (reprogramar)||V|tmp|B2
+contretemps|contratiempo||S|tmp|B2
+empêchement|imprevisto (impedimento)||S|tmp|B2
+faire machine arrière|echarse atrás||L|tmp|B2
+changer d'avis|cambiar de opinión||L|cmu|B2
+prendre de court|pillar desprevenido||L|tmp|B2
+du jour au lendemain|de la noche a la mañana||E|tmp|B2
+faire l'impasse|omitir (dejar sin ver)||L|tmp|B2
+au programme|en el programa (previsto)||E|tmp|B2
+prévu|previsto (planeado)||A|tmp|B2
+retenir|apartar (reservar)||V|cmp|B2
+fixer|fijar (concertar)||V|tmp|B2
+matinée|mañana (sesión matinal)||S|tmp|B2
+fin d'après-midi|media tarde||L|tmp|B2
+pause déjeuner|pausa del almuerzo||L|tmp|B2
+nocturne|nocturno (sesión nocturna)||A|tmp|B2
+jour de semaine|día laborable (entre semana)||L|tmp|B2
+quinzaine|quincena (dos semanas)||S|tmp|B2
+dans huit jours|dentro de una semana||E|tmp|B2
+à court terme|a corto plazo||E|tmp|B2
+prochainement|próximamente||D|tmp|B2
+sous peu|dentro de poco||E|tmp|B2
+nouveautés|novedades||S|tmp|B2
+au fil de|a lo largo de||L|tmp|B2
+journée chargée|jornada cargada (ajetreada)||L|tmp|B2
+être débordé|estar desbordado||E|tmp|B2
+surbooké|copado (sin hueco)||A|tmp|B2
+au calme|con calma (tranquilo)||E|tmp|B2
+à tête reposée|con calma (despacio y bien)||E|tmp|B2
+remettre au lendemain|dejar para mañana||L|tmp|B2
+traîner|pasear sin prisa (ir de un lado a otro)||V|sve|B2
+maître|dueño (amo)||S|ani|B2
+toilettage|peluquería canina (aseo)||S|ani|B2
+chenil|perrera (criadero)||S|ani|B2
+niche|caseta (de perro)||S|ani|B2
+litière|arenero (lecho de gato)||S|ani|B2
+croquettes|piensos (croquetas)||S|ani|B2
+patée|comida húmeda (latas)||S|ani|B2
+collier|collar (con chapas)||S|ani|B2
+laisse|correa||S|ani|B2
+muselière|bozal||S|ani|B2
+griffure|arañazo||S|ani|B2
+griffer|arañar||V|ani|B2
+ronger|roer||V|ani|B2
+dresser|adiestrar||V|ani|B2
+dressage|adiestramiento||S|ani|B2
+obéissant|obediente||A|ani|B2
+faire ses besoins|hacer sus necesidades||L|ani|B2
+propreté|higiene (limpieza)||S|ani|B2
+tatouage|tatuaje (identificación)||S|ani|B2
+lignée|linaje (estirpe)||S|ani|B2
+portée|camada (cría)||S|ani|B2
+sevrage|destete||S|ani|B2
+stérilisation|esterilización||S|ani|B2
+antiparasitaire|antiparasitario||A|ani|B2
+vermifuge|desparasitador||S|ani|B2
+stériliser|esterilizar||V|ani|B2
+convalescence|convalecencia||S|ani|B2
+animalerie|tienda de animales||S|ani|B2
+aquarium|acuario||S|ani|B2
+plumage|plumaje||S|ani|B2
+gamelle|cuenco (comedero)||S|ani|B2
+mangeoire|comedero||S|ani|B2
+chaleurs|celo||S|ani|B2
+flairer|olfatear||V|ani|B2
+flair|olfato (intuición)||S|ani|B2
+accouplement|apareamiento||S|ani|B2
+adoption|adopción||S|ani|B2
+fourrière|depósito canino (perrera municipal)||S|ani|B2
+fourrure|pelaje||S|ani|B2
+covoiturage|coche compartido||S|tra|B2
+covoiturer|compartir coche||V|tra|B2
+course|trayecto en taxi||S|tra|B2
+borne de recharge|punto de carga||L|tra|B2
+trottinette électrique|patinete eléctrico||L|tra|B2
+stationner|aparcar (estacionar)||V|tra|B2
+stationnement|estacionamiento (aparcamiento)||S|tra|B2
+en double file|en doble fila||E|tra|B2
+se garer|aparcar (estacionarse)||V|tra|B2
+horodateur|parquímetro||S|tra|B2
+contravention|multa (infracción)||S|ist|B2
+aller simple|ida (solo ida)||L|tra|B2
+abonné|abonado (suscriptor)||S|tra|B2
+composter|validar (picar el billete)||V|tra|B2
+gare routière|estación de autobuses||L|tra|B2
+clignotant|intermitente||S|tra|B2
+rétroviseur|espejo retrovisor||S|tra|B2
+pare-brise|parabrisas||S|tra|B2
+essuie-glace|limpiaparabrisas||S|tra|B2
+boîte de vitesses|caja de cambios||L|tra|B2
+embrayage|embrague||S|tra|B2
+frein à main|freno de mano||L|tra|B2
+crevaison|pinchazo||S|tra|B2
+crever|pincharse (reventar)||V|tra|B2
+roue de secours|rueda de repuesto||L|tra|B2
+galerie de toit|baca (portaequipajes)||L|tra|B2
+antivol|antirrobo (bloqueo)||S|tra|B2
+garagiste|mecánico (dueño del taller)||S|pro|B2
+vidange|cambio de aceite (revisión)||S|tra|B2
+révision|revisión (mantenimiento)||S|tra|B2
+contrôle technique|inspección técnica (ITV)||L|tra|B2
+remorquage|remolcado (grúa)||S|tra|B2
+remorquer|remolcar||V|tra|B2
+dépannage|asistencia en carretera (reparación)||S|tra|B2
+attelage|enganche (arrastre)||S|tra|B2
+caravane|caravana (remolque habitable)||S|tra|B2
+flotte|flota (parque móvil)||S|tra|B2
+autopartage|coche por horas (entre socios)||S|tra|B2

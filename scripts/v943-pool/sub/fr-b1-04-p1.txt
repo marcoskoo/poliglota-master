@@ -1,0 +1,273 @@
+puberté|pubertad||S|fam|B1
+chouchou|favorito (mimado)||S|fam|B1
+désobéir|desobedecer||V|fam|B1
+rebelle|rebelde||A|fam|B1
+faire la tête|hacer pucheros||E|fam|B1
+privé de sortie|castigado sin salir||E|fam|B1
+état des lieux|inventario (de la vivienda)||L|cas|B1
+bailleur|arrendador||S|cas|B1
+tapisserie|tapiz||S|cas|B1
+cloison|tabique||S|cas|B1
+moquette|moqueta||S|cas|B1
+commode|cómoda||S|cas|B1
+gourmand|glotón||A|ali|B1
+festin|banquete||S|ali|B1
+malbouffe|comida basura||S|ali|B1
+sainement|de forma sana||D|ali|B1
+se nourrir|alimentarse||V|ali|B1
+tapas|tapas||S|ali|B1
+carafe|jarra||S|ali|B1
+décanter|decantar||V|ali|B1
+grand cru|gran vino (de crianza)||L|ali|B1
+rabais|rebaja||S|cmp|B1
+enseigne|cadena comercial||S|cmp|B1
+panneau publicitaire|valla publicitaria||L|cmp|B1
+reçu|recibo||S|cmp|B1
+rétractation|desistimiento||S|cmp|B1
+frais de port|gastos de envío||L|cmp|B1
+payer en plusieurs fois|pagar a plazos||E|cmp|B1
+livraison à domicile|entrega a domicilio||L|cmp|B1
+klaxon|bocina||S|tra|B1
+feux de détresse|luces de emergencia||L|tra|B1
+navette|lanzadera||S|tra|B1
+réseau|red (de transporte)||S|tra|B1
+déplacement|desplazamiento||S|vig|B1
+demande de visa|solicitud de visado||L|vig|B1
+réfugié|refugiado||S|vig|B1
+contrôle frontalier|control de frontera||L|vig|B1
+classement|clasificación||S|htl|B1
+bilan|chequeo (balance)||S|sla|B1
+activité physique|actividad física||L|sla|B1
+suivi médical|seguimiento médico||L|sla|B1
+carte vitale|tarjeta sanitaria (francesa)||L|sla|B1
+frais médicaux|gastos médicos||L|sla|B1
+cabinet médical|consulta médica||L|sla|B1
+sérénité|serenidad||S|sla|B1
+faire une pause|hacer una pausa||E|sla|B1
+embauche|contratación||S|lav|B1
+contrat à durée déterminée|contrato de duración determinada||L|lav|B1
+aptitude|aptitud||S|lav|B1
+question piège|pregunta trampa||L|lav|B1
+successeur|sucesor||S|lav|B1
+reconnaissance|reconocimiento||S|lav|B1
+remue-méninges|lluvia de ideas||S|lav|B1
+intervenir|intervenir||V|lav|B1
+vote à main levée|votación a mano alzada||L|lav|B1
+acquis sociaux|derechos sociales adquiridos||L|lav|B1
+oral|examen oral||S|stu|B1
+sélectif|selectivo||A|stu|B1
+amphi|anfiteatro (universitario)||S|stu|B1
+partiel|examen parcial||S|stu|B1
+fac|facultad||S|stu|B1
+prise de notes|toma de apuntes||L|stu|B1
+réaménagement|remodelación||S|cit|B1
+cimetière|cementerio||S|cit|B1
+ramassage|recogida (de basuras)||S|cit|B1
+éclairage|alumbrado||S|cit|B1
+fringues|ropa (coloquial)||S|rop|B1
+réseaux sociaux|redes sociales||L|tec|B1
+épingler|fijar (una publicación)||V|tec|B1
+ligne de code|línea de código||L|tec|B1
+sélection|selección (nacional)||S|spt|B1
+auteur-compositeur|cantautor||S|mus|B1
+conservatoire|conservatorio||S|mus|B1
+court métrage|cortometraje||L|cin|B1
+séparation|separación||S|rel|B1
+engueulade|bronca (discusión)||S|rel|B1
+minorité|minoría||S|rel|B1
+réduction d'impôt|desgravación fiscal||L|fin|B1
+prêteur|prestamista||S|fin|B1
+fluctuation|fluctuación||S|fin|B1
+départ à la retraite|jubilación||L|fin|B1
+à la carte|a la carta||L|ris|B1
+huissier|auxiliar judicial||S|pro|B1
+conducteur de travaux|jefe de obra||L|pro|B1
+puéricultrice|enfermera pediátrica||S|pro|B1
+séparation des pouvoirs|separación de poderes||L|att|B1
+motion de censure|moción de censura||L|att|B1
+pouvoirs publics|poderes públicos||L|att|B1
+écolo|ecologista||S|att|B1
+lutter|luchar||V|att|B1
+lanceur d'alerte|alertador||L|att|B1
+observation|observación||S|sci|B1
+fermentation|fermentación||S|sci|B1
+squelette|esqueleto||S|cor|B1
+sauvetage|rescate||S|ani|B1
+éolien|eólico||A|nat|B1
+hydrogène|hidrógeno||S|nat|B1
+fondre|derretirse||V|cli|B1
+givre|escarcha||S|cli|B1
+occasionnel|ocasional||A|tmp|B1
+troquet|bar de barrio||S|sve|B1
+broder|bordar||V|sve|B1
+réconforter|consolar||V|emo|B1
+opinion|opinión||S|cmu|B1
+contre-argument|contraargumento||S|cmu|B1
+plaidoyer|defensa (alegato)||S|cmu|B1
+illustrer|ilustrar (con ejemplos)||V|cmu|B1
+terrain d'entente|punto de acuerdo||L|cmu|B1
+formuler|formular||V|cmu|B1
+courtois|cortés||A|cmu|B1
+inculpé|acusado||S|ist|B1
+s'abstenir|abstenerse||V|ist|B1
+liberté|libertad||S|ast|B1
+fraternité|fraternidad||S|ast|B1
+renaissance|renacimiento||S|art|B1
+réalisme|realismo||S|art|B1
+gothique|gótico||A|art|B1
+règlement|reglamento||S|cas|B1
+bruyant|ruidoso||A|cas|B1
+liste des ingrédients|lista de ingredientes||L|ali|B1
+appeler les secours|llamar a emergencias||E|sla|B1
+bouche à bouche|boca a boca||L|sla|B1
+équilibrer|equilibrar||V|lav|B1
+formation certifiante|formación certificada||L|lav|B1
+cours du soir|clases nocturnas||L|lav|B1
+logement étudiant|vivienda de estudiante||L|stu|B1
+marché immobilier|mercado inmobiliario||L|cit|B1
+acquéreur|comprador (de vivienda)||S|cit|B1
+notation|valoración||S|tec|B1
+retour gratuit|devolución gratuita||L|tec|B1
+sonnerie|tono (de llamada)||S|tec|B1
+déverrouiller|desbloquear||V|tec|B1
+filtre|filtro||S|tec|B1
+escalade|escalada||S|spt|B1
+première partie|grupo de apertura||L|mus|B1
+suspense|suspense||S|cin|B1
+rediffusion|reemisión||S|cin|B1
+fiancé|prometido||S|rel|B1
+en liquide|en efectivo||E|fin|B1
+fauché|sin blanca (sin dinero)||A|fin|B1
+griller|tostar||V|ris|B1
+gendarmerie|gendarmería||S|att|B1
+flagrant délit|in fraganti||L|att|B1
+curiosité|curiosidad||S|sci|B1
+succès de librairie|éxito de ventas||L|let|B1
+livre de poche|libro de bolsillo||L|let|B1
+court séjour|estancia corta||L|vig|B1
+défi|reto||S|emo|B1
+ne t'en fais pas|no te preocupes||E|cmu|B1
+faire la queue|hacer cola||E|ist|B1
+voyons voir|a ver||E|cnn|B1
+fortune|fortuna||S|ast|B1
+affiche|cartel||S|art|B1
+connexion|conexión (de vuelo)||S|vig|B1
+immigration|inmigración||S|vig|B1
+changer de chambre|cambiar de habitación||E|htl|B1
+mission|misión (laboral)||S|pro|B1
+raconter|contar (una historia)||V|fam|B1
+aïeul|ancestro (abuelo)||S|fam|B1
+réveil|despertador||S|cor|B1
+routine|rutina||S|cor|B1
+être en retard|llegar tarde||E|tmp|B1
+poser un lapin|plantar a alguien||E|tmp|B1
+aboyer|ladrar||V|ani|B1
+petit-enfant|nieto||S|fam|B1
+beau-frère|cuñado||S|fam|B1
+se pacser|registrarse como pareja de hecho||V|fam|B1
+isolation|aislamiento (térmico)||S|cas|B1
+double vitrage|doble acristalamiento||L|cas|B1
+chaudière|caldera||S|cas|B1
+éboueur|basurero||S|cit|B1
+brasserie|cervecería||S|ris|B1
+fruits secs|frutos secos||L|ali|B1
+essai gratuit|prueba gratuita||L|cmp|B1
+carte de fidélité|tarjeta de fidelidad||L|cmp|B1
+péage|peaje||S|tra|B1
+phare|faro||S|tra|B1
+formalité|trámite||S|vig|B1
+lits jumeaux|camas individuales (twin)||L|htl|B1
+rappel|dosis de recuerdo||S|sla|B1
+brancardier|camillero||S|sla|B1
+soin|cuidado (médico)||S|sla|B1
+chômeur|parado||S|lav|B1
+cours particuliers|clases particulares||L|stu|B1
+concours|oposiciones (examen)||S|stu|B1
+doctorant|doctorando||S|stu|B1
+banlieusard|habitante de los suburbios||S|cit|B1
+cintre|percha||S|rop|B1
+synchroniser|sincronizar||V|tec|B1
+numériser|digitalizar||V|tec|B1
+carte mémoire|tarjeta de memoria||L|tec|B1
+vainqueur|vencedor||S|spt|B1
+tube|éxito (canción)||S|mus|B1
+adaptation|adaptación (de una novela)||S|cin|B1
+entracte|entreacto||S|cin|B1
+complice|cómplice||A|rel|B1
+coup de foudre|amor a primera vista||L|rel|B1
+relevé de compte|extracto de cuenta||L|fin|B1
+frais bancaires|comisiones bancarias||L|fin|B1
+aide à domicile|asistencia a domicilio||L|pro|B1
+émeute|disturbios||S|att|B1
+otage|rehén||S|att|B1
+braquage|atracó||S|att|B1
+feuilleton|folletín||S|let|B1
+rongeur|roedor||S|ani|B1
+engrais|fertilizante||S|nat|B1
+randonneur|senderista||S|nat|B1
+honte|vergüenza||S|emo|B1
+couper la parole|interrumpir (a alguien)||E|cmu|B1
+faute de|a falta de||L|cnn|B1
+miracle|milagro||S|ast|B1
+croquis|boceto||S|art|B1
+palette|paleta||S|art|B1
+nature morte|naturaleza muerta||L|art|B1
+baptiser|bautizar||V|fam|B1
+adopter|adoptar||V|fam|B1
+fils unique|hijo único||L|fam|B1
+petite enfance|primera infancia||L|fam|B1
+penderie|armario (empotrado)||S|cas|B1
+évier|fregadero||S|cas|B1
+volet|contraventana||S|cas|B1
+velouté|crema (sopa aterciopelada)||S|ali|B1
+gratin|gratinado||S|ali|B1
+achat impulsif|compra impulsiva||L|cmp|B1
+point de vente|punto de venta||L|cmp|B1
+satisfait ou remboursé|satisfecho o reembolsado||E|cmp|B1
+excursion|excursión||S|vig|B1
+basse saison|temporada baja||L|vig|B1
+nuitée|noche (de alojamiento)||S|htl|B1
+contraception|anticoncepción||S|sla|B1
+ophtalmologue|oculista||S|pro|B1
+médicament générique|medicamento genérico||L|sla|B1
+paie|nómina||S|lav|B1
+formation en alternance|formación en alternancia||L|lav|B1
+bibliothèque universitaire|biblioteca universitaria||L|stu|B1
+quartier d'affaires|barrio de negocios||L|cit|B1
+zone piétonne|zona peatonal||L|cit|B1
+marché aux puces|mercadillo||L|cit|B1
+décolleté|escote||S|rop|B1
+lacet|cordón (del zapato)||S|rop|B1
+espace de stockage|espacio de almacenamiento||L|tec|B1
+onglet|pestaña||S|tec|B1
+passe décisive|pase de gol||L|spt|B1
+vinyle|vinilo||S|mus|B1
+paroles|letra (de una canción)||S|mus|B1
+romantique|romántico||A|rel|B1
+billet de banque|billete de banco||L|fin|B1
+boucher|carnicero||S|pro|B1
+standardiste|telefonista||S|pro|B1
+couvre-feu|toque de queda||S|att|B1
+affaire|caso (escándalo)||S|att|B1
+monologue|monólogo||S|let|B1
+cartilage|cartílago||S|cor|B1
+plaine|llanura||S|nat|B1
+décennie|década||S|tmp|B1
+siècle|siglo||S|tmp|B1
+loterie|lotería||S|sve|B1
+peureux|miedoso||A|emo|B1
+optimiste|optimista||A|emo|B1
+pessimiste|pesimista||A|emo|B1
+répliquer|replicar||V|cmu|B1
+mettre au clair|aclarar (las cosas)||E|cmu|B1
+de toute façon|de todas formas||E|cnn|B1
+secret|secreto||S|ast|B1
+indice|pista (indicio)||S|ast|B1
+chevalet|caballete||S|art|B1
+mosaïque|mosaico||S|art|B1
+poussette|cochecito (de bebé)||S|fam|B1
+tétine|chupete||S|fam|B1
+couche|pañal||S|fam|B1
+carnet de santé|cartilla sanitaria||L|fam|B1
+boucler|rizar||V|rop|B1
+démêler|desenredar||V|cas|B1

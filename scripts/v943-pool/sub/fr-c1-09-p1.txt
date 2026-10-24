@@ -1,0 +1,259 @@
+anomie|anomia||S|ast|C1
+aliénation|alienación||S|ast|C1
+embourgeoisement|aburguesamiento||S|ast|C1
+paupérisation|empobrecimiento||S|ast|C1
+ségrégation|segregación||S|ast|C1
+ghettoïsation|guetización||S|cit|C1
+gentrification|gentrificación||S|cit|C1
+brassage|fusión (mezcla de poblaciones)||S|ast|C1
+cloisonnement|compartimentación||S|ast|C1
+morcellement|fragmentación||S|ast|C1
+relégation|relegación||S|ast|C1
+désaffiliation|desafiliación||S|ast|C1
+déclassement|degradación social||S|ast|C1
+assistanat|asistencialismo||S|ist|C1
+sociabilité|sociabilidad||S|ast|C1
+marginalisation|marginación||S|ast|C1
+standardisation|estandarización||S|ast|C1
+multiculturalisme|multiculturalismo||S|ast|C1
+communautarisme|comunitarismo||S|ast|C1
+corporatisme|corporativismo||S|ist|C1
+syndicalisme|sindicalismo||S|ist|C1
+altermondialisme|alterglobalización||S|att|C1
+décroissance|decrecimiento||S|att|C1
+délit de faciès|control policial por perfil étnico||E|ist|C1
+ascension sociale|ascenso social||L|ast|C1
+cohésion sociale|cohesión social||L|ist|C1
+atomisation|atomización||S|ast|C1
+hiérarchiser|jerarquizar||V|ast|C1
+utilitarisme|utilitarismo||S|ast|C1
+clivage|clivaje||S|ast|C1
+société civile|sociedad civil||L|ist|C1
+revendicatif|reivindicativo||A|att|C1
+acculturation|aculturación||S|sci|C1
+animisme|animismo||S|sci|C1
+anthropologue|antropólogo||S|pro|C1
+cosmogonie|cosmogonía||S|sci|C1
+ethnographie|etnografía||S|sci|C1
+ethnocentrisme|etnocentrismo||S|sci|C1
+folklorique|folclórico||A|sci|C1
+généalogie|genealogía||S|sci|C1
+inceste|incesto||S|sci|C1
+lignage|linaje||S|sci|C1
+matrilinéaire|matrilineal||A|sci|C1
+patrilinéaire|patrilineal||A|sci|C1
+patriarcat|patriarcado||S|sci|C1
+matriarcat|matriarcado||S|sci|C1
+parenté|parentesco||S|sci|C1
+rite de passage|rito de paso||L|sci|C1
+rituel|ritual||S|sci|C1
+chamanisme|chamanismo||S|sci|C1
+totémisme|totemismo||S|sci|C1
+tabou|tabú||S|sci|C1
+exogamie|exogamia||S|sci|C1
+endogamie|endogamia||S|sci|C1
+sorcellerie|brujería||S|sci|C1
+syncrétisme|sincretismo||S|sci|C1
+mythologie|mitología||S|sci|C1
+oralité|oralidad||S|sci|C1
+chasseur-cueilleur|cazador-recolector||S|sci|C1
+pastoralisme|pastoralismo||S|sci|C1
+conte|cuento popular||S|let|C1
+métissage|mestizaje cultural||S|sci|C1
+polygamie|poligamia||S|sci|C1
+monogamie|monogamia||S|sci|C1
+anonymat|anonimato||S|cmu|C1
+caricaturiste|caricaturista||S|pro|C1
+caviarder|tachar (censurar)||V|cmu|C1
+censure|censura||S|cmu|C1
+chroniqueur|columnista||S|pro|C1
+couverture|cobertura informativa||S|cmu|C1
+déontologie|deontología||S|cmu|C1
+dépêche|despacho de agencia||S|cmu|C1
+désinformation|desinformación||S|cmu|C1
+éditorialiste|editorialista||S|pro|C1
+embargo|embargo de publicación||S|cmu|C1
+matraquage|bombardeo mediático||S|cmu|C1
+mouchard|chivato||S|cmu|C1
+papier|artículo de prensa||S|cmu|C1
+plume|pluma (redactor)||S|pro|C1
+propagande|propaganda||S|cmu|C1
+ragot|rumor malintencionado||S|cmu|C1
+rebondissement|giro de los acontecimientos||S|cmu|C1
+scoop|primicia||S|cmu|C1
+partialité|parcialidad||S|cmu|C1
+infographie|infografía||S|cmu|C1
+intervieweur|entrevistador||S|pro|C1
+liberté de la presse|libertad de prensa||L|ist|C1
+ligne éditoriale|línea editorial||L|cmu|C1
+revue de presse|revisión de prensa||L|cmu|C1
+sondage d'opinion|encuesta de opinión||L|cmu|C1
+grand reportage|gran reportaje||L|cmu|C1
+à la une|en portada||L|cmu|C1
+billet d'humeur|artículo satírico de opinión||L|let|C1
+source anonyme|fuente anónima||L|cmu|C1
+titrer|poner el titular||V|cmu|C1
+tribune|tribuna (artículo de opinión)||S|cmu|C1
+accordage|afinación||S|mus|C1
+arpège|arpegio||S|mus|C1
+baryton|barítono||S|mus|C1
+cadence|cadencia||S|mus|C1
+cantate|cantata||S|mus|C1
+chromatique|cromático||A|mus|C1
+contrepoint|contrapunto||S|mus|C1
+diapason|diapasón||S|mus|C1
+dièse|sostenido||S|mus|C1
+bémol|bemol||S|mus|C1
+dissonance|disonancia||S|mus|C1
+fugue|fuga||S|mus|C1
+gamme|escala musical||S|mus|C1
+leitmotiv|leitmotiv||S|mus|C1
+lié|ligado||A|mus|C1
+mesure|compás||S|mus|C1
+mezzo-soprano|mezzosoprano||S|mus|C1
+octave|octava||S|mus|C1
+partition|partitura||S|mus|C1
+pizzicato|pizzicato||S|mus|C1
+polyphonie|polifonía||S|mus|C1
+portée|pentagrama||S|mus|C1
+sonate|sonata||S|mus|C1
+staccato|staccato||S|mus|C1
+tessiture|tessitura||S|mus|C1
+timbre|timbre sonoro||S|mus|C1
+tonalité|tonalidad||S|mus|C1
+variation|variación musical||S|mus|C1
+virtuose|virtuoso||S|mus|C1
+basse continue|bajo continuo||L|mus|C1
+quinte|quinta (intervalo)||S|mus|C1
+accrochage|colgadura de una exposición||S|art|C1
+vernissage|inauguración de una exposición||S|art|C1
+cimaise|cimasa||S|art|C1
+cartel|cartela de museo||S|art|C1
+commissaire d'exposition|comisario de exposición||S|pro|C1
+muséographie|museografía||S|art|C1
+muséologie|museología||S|art|C1
+mécénat|mecenazgo||S|art|C1
+mécène|mecenas||S|pro|C1
+galeriste|galerista||S|pro|C1
+restaurateur d'art|restaurador de arte||S|pro|C1
+socle|peana||S|art|C1
+toile|lienzo||S|art|C1
+triptyque|tríptico||S|art|C1
+vitrine|vitrina||S|art|C1
+craquelure|craquelado||S|art|C1
+empâtement|empaste||S|art|C1
+bas-relief|bajorrelieve||S|art|C1
+eau-forte|aguafuerte||S|art|C1
+burin|buril||S|art|C1
+lithographie|litografía||S|art|C1
+sérigraphie|serigrafía||S|art|C1
+estampe|estampa||S|art|C1
+maroufler|entoelar||V|art|C1
+parchemin|pergamino||S|art|C1
+retouche|retoque||S|art|C1
+châssis|bastidor||S|art|C1
+encadrement|enmarcado||S|art|C1
+réserve|depósito de museo||S|art|C1
+salle des ventes|sala de subastas||L|fin|C1
+cire perdue|a la cera perdida||L|art|C1
+académisme|academicismo||S|art|C1
+avant-garde|vanguardia||S|art|C1
+canon esthétique|canon estético||L|art|C1
+classicisme|clasicismo||S|art|C1
+contemplation|contemplación||S|ast|C1
+cubisme|cubismo||S|art|C1
+dadaïsme|dadaísmo||S|art|C1
+esthétisme|esteticismo||S|art|C1
+expressionnisme|expresionismo||S|art|C1
+figuration|figuración||S|art|C1
+formalisme|formalismo||S|art|C1
+kitsch|hortera||A|art|C1
+minimalisme|minimalismo||S|art|C1
+modernité|modernidad||S|art|C1
+onirique|onírico||A|art|C1
+pictural|pictórico||A|art|C1
+romantisme|romanticismo||S|art|C1
+surréalisme|surrealismo||S|art|C1
+sublimation|sublimación||S|ast|C1
+laideur|fealdad||S|ast|C1
+esquisse|boceto||S|art|C1
+ébauche|esbozo||S|art|C1
+repentir|arrepentimiento (trazo corregido)||S|art|C1
+déconstruction|deconstrucción||S|ast|C1
+impressionnisme|impresionismo||S|art|C1
+installation|instalación artística||S|art|C1
+vernaculaire|vernáculo||A|art|C1
+burlesque|burlesco||A|art|C1
+grotesque|grotesco||A|art|C1
+néoclassicisme|neoclasicismo||S|art|C1
+clair-obscur|claroscuro||S|art|C1
+algorithme|algoritmo||S|tec|C1
+apprentissage automatique|aprendizaje automático||L|tec|C1
+biais|sesgo||S|tec|C1
+corrélation|correlación||S|sci|C1
+échantillonnage|muestreo||S|sci|C1
+écart-type|desviación típica||S|sci|C1
+entropie|entropía||S|sci|C1
+jeu de données|conjunto de datos||L|tec|C1
+réseau de neurones|red neuronal||L|tec|C1
+inférence|inferencia||S|sci|C1
+intelligence artificielle|inteligencia artificial||L|tec|C1
+matrice de confusion|matriz de confusión||L|tec|C1
+modèle prédictif|modelo predictivo||L|tec|C1
+neuronal|neuronal||A|tec|C1
+surapprentissage|sobreajuste||S|tec|C1
+perceptron|perceptrón||S|tec|C1
+pondération|ponderación||S|sci|C1
+prétraitement|preprocesamiento||S|tec|C1
+régression|regresión||S|sci|C1
+statisticien|estadístico||S|pro|C1
+stochastique|estocástico||A|sci|C1
+variable explicative|variable explicativa||L|sci|C1
+variable cible|variable objetivo||L|sci|C1
+métrique|métrica||S|tec|C1
+seuil de décision|umbral de decisión||L|tec|C1
+convergence|convergencia||S|sci|C1
+causalité|causalidad||S|sci|C1
+élagage|poda de un modelo||S|tec|C1
+hyperparamètre|hiperparámetro||S|tec|C1
+annotation|anotación de datos||S|tec|C1
+regroupement|agrupamiento (clústeres)||S|tec|C1
+corpus|corpus||S|sci|C1
+authentification|autenticación||S|tec|C1
+biométrie|biometría||S|tec|C1
+chiffrement|cifrado||S|tec|C1
+chiffrer|cifrar||V|tec|C1
+clé publique|clave pública||L|tec|C1
+cryptanalyse|criptoanálisis||S|tec|C1
+cryptographie|criptografía||S|tec|C1
+cybersécurité|ciberseguridad||S|tec|C1
+pare-feu|cortafuegos||S|tec|C1
+déni de service|denegación de servicio||L|tec|C1
+hameçonnage|suplantación por correo||S|tec|C1
+rançongiciel|secuestrador de datos||S|tec|C1
+logiciel malveillant|software malicioso||L|tec|C1
+cheval de Troie|caballo de Troya||L|tec|C1
+porte dérobée|puerta trasera||L|tec|C1
+exfiltration|exfiltración||S|tec|C1
+signature électronique|firma electrónica||L|tec|C1
+certificat électronique|certificado electrónico||L|tec|C1
+salage|salado criptográfico||S|tec|C1
+condensat|resumen criptográfico||S|tec|C1
+fuite de données|fuga de datos||L|tec|C1
+intrusion|intrusión||S|tec|C1
+usurpation d'identité|usurpación de identidad||L|tec|C1
+sécurité informatique|seguridad informática||L|tec|C1
+cybercriminalité|ciberdelincuencia||S|tec|C1
+piratage informatique|piratería informática||L|tec|C1
+vulnérabilité|vulnerabilidad||S|tec|C1
+faille de sécurité|brecha de seguridad||L|tec|C1
+correctif|parche de seguridad||S|tec|C1
+rançon|rescate (extorsión)||S|tec|C1
+ingénierie sociale|ingeniería social||L|tec|C1
+bande passante|ancho de banda||L|tec|C1
+fibre optique|fibra óptica||L|tec|C1
+faisceau hertzien|enlace de microondas||L|tec|C1
+latence|latencia||S|tec|C1
+commutateur|conmutador||S|tec|C1
+acheminement|encaminamiento||S|tec|C1
+amplificateur|amplificador||S|tec|C1

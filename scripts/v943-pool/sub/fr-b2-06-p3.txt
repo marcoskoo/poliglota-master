@@ -1,0 +1,285 @@
+vérité|verdad||S|ast|B2
+vrai|verdadero||A|ast|B2
+mensonge|mentira||S|ast|B2
+mentir|mentir||V|ast|B2
+sincérité|sinceridad||S|ast|B2
+franchise|franqueza||S|ast|B2
+loyauté|lealtad||S|ast|B2
+loyal|leal||A|ast|B2
+tromperie|engaño||S|ast|B2
+tromper|engañar||V|ast|B2
+beauté|belleza||S|ast|B2
+esthétique|estética||S|ast|B2
+harmonie|armonía||S|ast|B2
+harmonieux|armonioso||A|ast|B2
+élégance|elegancia||S|ast|B2
+laideur|fealdad||S|ast|B2
+équité|equidad||S|ast|B2
+équitable|equitativo||A|ast|B2
+injustice|injusticia||S|ast|B2
+impartial|imparcial||A|ast|B2
+impartialité|imparcialidad||S|ast|B2
+intégrité|integridad||S|ast|B2
+dignité|dignidad||S|ast|B2
+vertu|virtud||S|ast|B2
+vice|vicio||S|ast|B2
+morale|moral||S|ast|B2
+éthique|ética||S|ast|B2
+sagesse|sabiduría||S|ast|B2
+honnêteté|honestidad||S|ast|B2
+humilité|humildad||S|ast|B2
+courant artistique|corriente artística||L|art|B2
+impressionnisme|impresionismo||S|art|B2
+impressionniste|impresionista||S|art|B2
+cubisme|cubismo||S|art|B2
+surréalisme|surrealismo||S|art|B2
+surréaliste|surrealista||S|art|B2
+romantisme|romanticismo||S|art|B2
+baroque|barroco||A|art|B2
+classicisme|clasicismo||S|art|B2
+abstrait|abstracto||A|art|B2
+figuratif|figurativo||A|art|B2
+chef-d'œuvre|obra maestra||S|art|B2
+toile|lienzo||S|art|B2
+fresque|fresco (pintura mural)||S|art|B2
+sculpture|escultura||S|art|B2
+sculpter|esculpir||V|art|B2
+statue|estatua||S|art|B2
+buste|busto||S|art|B2
+frise|friso||S|art|B2
+vitrail|vidriera||S|art|B2
+musée|museo||S|art|B2
+exposition|exposición||S|art|B2
+vernissage|inauguración (de una exposición)||S|art|B2
+galerie|galería (de arte)||S|art|B2
+œuvre|obra||S|art|B2
+restaurer|restaurar (obras de arte)||V|art|B2
+mécène|mecenas||S|art|B2
+mécénat|mecenazgo||S|art|B2
+esquisse|boceto||S|art|B2
+perspective|perspectiva||S|art|B2
+patrimoine|patrimonio||S|art|B2
+patrimonial|patrimonial||A|art|B2
+architecture|arquitectura||S|art|B2
+architecte|arquitecto||S|art|B2
+façade|fachada||S|art|B2
+toit|tejado||S|art|B2
+toiture|cubierta||S|art|B2
+charpente|armazón (de cubierta)||S|art|B2
+pierre de taille|sillares||L|art|B2
+voûte|bóveda||S|art|B2
+arc|arco||S|art|B2
+colonne|columna||S|art|B2
+pilier|pilar||S|art|B2
+fronton|frontón||S|art|B2
+nef|nave (de iglesia)||S|art|B2
+clocher|campanario||S|art|B2
+cloche|campana||S|art|B2
+cathédrale|catedral||S|art|B2
+palais|palacio||S|art|B2
+monument|monumento||S|art|B2
+monument historique|monumento histórico||L|art|B2
+réhabiliter|rehabilitar||V|art|B2
+réhabilitation|rehabilitación||S|art|B2
+en ruines|en ruinas||E|art|B2
+urbanisme|urbanismo||S|art|B2
+urbaniste|urbanista||S|art|B2
+bâtiment|edificio||S|art|B2
+édifice|edificio||S|art|B2
+dôme|cúpula||S|art|B2
+gargouille|gárgola||S|art|B2
+voisin|vecino||S|cas|B2
+voisinage|vecindario||S|cas|B2
+copropriété|comunidad de vecinos||S|cas|B2
+copropriétaire|copropietario||S|cas|B2
+syndic|administrador de fincas||S|cas|B2
+assemblée générale|junta general||L|cas|B2
+charges|gastos de comunidad||S|cas|B2
+quote-part|cuota de participación||S|cas|B2
+escalier|escalera||S|cas|B2
+palier|rellano||S|cas|B2
+cage d'escalier|caja de la escalera||L|cas|B2
+concierge|portero||S|cas|B2
+conciergerie|portería||S|cas|B2
+nuisance|molestia (vecinal)||S|cas|B2
+tapage|escándalo (por ruido)||S|cas|B2
+dégradation|daños (deterioro)||S|cas|B2
+dégrader|deteriorar||V|cas|B2
+poubelle|cubo de basura||S|cas|B2
+cave|sótano||S|cas|B2
+grenier|desván||S|cas|B2
+patio|patio interior||S|cas|B2
+jardin partagé|huerto urbano compartido||L|cas|B2
+faire des travaux|hacer obras||E|cas|B2
+chantier|obra (en construcción)||S|cas|B2
+empiéter|invadir (propiedad ajena)||V|cas|B2
+s'entendre avec|llevarse bien con||V|cas|B2
+règlement intérieur|régimen interno||L|cas|B2
+avis d'assemblée|convocatoria de junta||L|cas|B2
+litige|litigio||S|cas|B2
+mésentente|desavenencia||S|cas|B2
+étiquetage|etiquetado||S|ali|B2
+étiquette|etiqueta||S|ali|B2
+valeur nutritionnelle|valor nutricional||L|ali|B2
+calorie|caloría||S|ali|B2
+matières grasses|grasas||L|ali|B2
+graisses saturées|grasas saturadas||L|ali|B2
+additif|aditivo||S|ali|B2
+conservateur|conservante||S|ali|B2
+surgelé|producto ultracongelado||S|ali|B2
+colorant|colorante||S|ali|B2
+édulcorant|edulcorante||S|ali|B2
+édulcorer|edulcorar||V|ali|B2
+ultra-transformé|ultraprocesado||A|ali|B2
+produit frais|producto fresco||L|ali|B2
+produit laitier|lácteo||L|ali|B2
+céréale|cereal||S|ali|B2
+légumineuse|legumbre||S|ali|B2
+féculent|feculento||S|ali|B2
+protéine|proteína||S|ali|B2
+vitamine|vitamina||S|ali|B2
+fibre|fibra||S|ali|B2
+teneur en sel|contenido en sal||L|ali|B2
+portion|porción||S|ali|B2
+régime alimentaire|régimen alimenticio||L|ali|B2
+poids net|peso neto||L|ali|B2
+date de péremption|fecha de caducidad||L|ali|B2
+ingrédient|ingrediente||S|ali|B2
+allergène|alérgeno||S|ali|B2
+intolérance|intolerancia||S|ali|B2
+consommer|consumir||V|ali|B2
+gare|estación||S|tra|B2
+quai|andén||S|tra|B2
+voie|vía||S|tra|B2
+train à grande vitesse|tren de alta velocidad||L|tra|B2
+voiture-lit|coche cama||S|tra|B2
+couchette|litera||S|tra|B2
+wagon|vagón||S|tra|B2
+wagon-restaurant|vagón restaurante||S|tra|B2
+billet|billete||S|tra|B2
+billet aller-retour|billete de ida y vuelta||L|tra|B2
+aller simple|billete de ida||L|tra|B2
+réservation|reserva||S|tra|B2
+réserver une place|reservar asiento||E|tra|B2
+composter|validar (el billete)||V|tra|B2
+composteur|máquina validadora||S|tra|B2
+contrôleur|revisor||S|tra|B2
+contrôle|control (de billetes)||S|tra|B2
+correspondance|transbordo||S|tra|B2
+transbordement|transbordo||S|tra|B2
+escale|escala||S|tra|B2
+retard|retraso||S|tra|B2
+annulation|anulación||S|tra|B2
+annuler|anular||V|tra|B2
+remboursement|reembolso||S|tra|B2
+rembourser|reembolsar||V|tra|B2
+indemnité|indemnización||S|tra|B2
+horaire|horario||S|tra|B2
+carte de réduction|tarjeta de descuento||L|tra|B2
+abonnement|abono||S|tra|B2
+ponctualité|puntualidad||S|tra|B2
+douleur|dolor||S|sla|B2
+douloureux|doloroso||A|sla|B2
+avoir mal|tener dolor||E|sla|B2
+blessure|lesión||S|sla|B2
+blessé|herido||S|sla|B2
+entorse|esguince||S|sla|B2
+foulure|torcedura||S|sla|B2
+claquage|distensión muscular||S|sla|B2
+fracture|fractura||S|sla|B2
+luxation|luxación||S|sla|B2
+brûlure|quemadura||S|sla|B2
+brûler|quemar||V|sla|B2
+plaie|herida||S|sla|B2
+coupure|corte (herida)||S|sla|B2
+saignement|sangrado||S|sla|B2
+saigner|sangrar||V|sla|B2
+pansement|tirita||S|sla|B2
+bandage|vendaje||S|sla|B2
+bander|vendar||V|sla|B2
+garrot|torniquete||S|sla|B2
+attelle|férula||S|sla|B2
+pommade|pomada||S|sla|B2
+désinfectant|desinfectante||S|sla|B2
+désinfecter|desinfectar||V|sla|B2
+secouriste|socorrista||S|sla|B2
+premiers secours|primeros auxilios||L|sla|B2
+réanimation|reanimación||S|sla|B2
+défibrillateur|desfibrilador||S|sla|B2
+urgence|urgencia||S|sla|B2
+pouls|pulso||S|sla|B2
+télétravail|teletrabajo||S|lav|B2
+télétravailler|teletrabajar||V|lav|B2
+surcharge|sobrecarga||S|lav|B2
+visioconférence|videoconferencia||S|lav|B2
+visio|videollamada||S|lav|B2
+réunion en ligne|reunión en línea||L|lav|B2
+réunion|reunión||S|lav|B2
+horaires flexibles|horario flexible||L|lav|B2
+flexibilité|flexibilidad||S|lav|B2
+congé|permiso (laboral)||S|lav|B2
+congé parental|permiso parental||L|lav|B2
+arrêt maladie|baja por enfermedad||L|lav|B2
+présentiel|presencialidad||S|lav|B2
+droit à la déconnexion|derecho a la desconexión||L|lav|B2
+se déconnecter|desconectarse||V|lav|B2
+surveiller|vigilar||V|lav|B2
+manager|dirigir (un equipo)||V|lav|B2
+encadrement|dirección de equipos||S|lav|B2
+productivité|productividad||S|lav|B2
+productif|productivo||A|lav|B2
+disponibilité|disponibilidad||S|lav|B2
+autonomie|autonomía||S|lav|B2
+autonome|autónomo||A|lav|B2
+sédentaire|sedentario||A|lav|B2
+isolement|aislamiento||S|lav|B2
+s'isoler|aislarse||V|lav|B2
+à distance|a distancia||E|lav|B2
+collaboration|colaboración||S|lav|B2
+outil numérique|herramienta digital||L|lav|B2
+responsabilité|responsabilidad||S|lav|B2
+formation|formación||S|stu|B2
+se former|formarse||V|stu|B2
+stage|prácticas||S|stu|B2
+stagiaire|becario||S|stu|B2
+alternance|formación en alternancia||S|stu|B2
+apprentissage|aprendizaje||S|stu|B2
+apprenti|aprendiz||S|stu|B2
+compétence|competencia||S|stu|B2
+bilan de compétences|balance de competencias||L|stu|B2
+acquisition|adquisición (de competencias)||S|stu|B2
+certification|certificación||S|stu|B2
+diplôme|diploma||S|stu|B2
+diplômé|titulado||A|stu|B2
+qualification|cualificación||S|stu|B2
+qualifié|cualificado||A|stu|B2
+reconversion|reconversión (profesional)||S|stu|B2
+se reconvertir|reconvertirse||V|stu|B2
+évolution de carrière|desarrollo profesional||L|stu|B2
+carrière|carrera||S|stu|B2
+promotion|ascenso||S|stu|B2
+promouvoir|ascender (promover)||V|stu|B2
+mentor|mentor||S|stu|B2
+tuteur|tutor||S|stu|B2
+tutorat|tutoría||S|stu|B2
+atelier|taller||S|stu|B2
+séminaire|seminario||S|stu|B2
+expérience professionnelle|experiencia profesional||L|stu|B2
+validation|validación||S|stu|B2
+valider|validar||V|stu|B2
+financement|financiación||S|stu|B2
+c'est-à-dire|es decir||E|cnn|B2
+en fait|de hecho||E|cnn|B2
+en réalité|en realidad||E|cnn|B2
+après tout|después de todo||E|cnn|B2
+par contre|en cambio||E|cnn|B2
+dès lors|por consiguiente||E|cnn|B2
+tandis que|mientras que||C|cnn|B2
+alors que|mientras que||C|cnn|B2
+puisque|ya que||C|cnn|B2
+étant donné que|dado que||C|cnn|B2
+afin que|para que||C|cnn|B2
+bien que|aunque||C|cnn|B2
+quant à|en cuanto a||E|cnn|B2
+à mesure que|a medida que||C|cnn|B2
+désormais|desde ahora||D|cnn|B2

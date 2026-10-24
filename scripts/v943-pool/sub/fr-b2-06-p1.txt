@@ -1,0 +1,286 @@
+galaxie|galaxia||S|sci|B2
+étoile|estrella||S|sci|B2
+planète|planeta||S|sci|B2
+constellation|constelación||S|sci|B2
+télescope|telescopio||S|sci|B2
+gravité|gravedad||S|sci|B2
+atome|átomo||S|sci|B2
+molécule|molécula||S|sci|B2
+particule|partícula||S|sci|B2
+onde|onda||S|sci|B2
+fréquence|frecuencia||S|sci|B2
+lumière|luz||S|sci|B2
+vitesse de la lumière|velocidad de la luz||L|sci|B2
+trou noir|agujero negro||L|sci|B2
+orbite|órbita||S|sci|B2
+orbiter|orbitar||V|sci|B2
+satellite|satélite||S|sci|B2
+atmosphère|atmósfera||S|sci|B2
+cratère|cráter||S|sci|B2
+éclipse|eclipse||S|sci|B2
+rotation|rotación||S|sci|B2
+attraction|atracción gravitatoria||S|sci|B2
+matière|materia||S|sci|B2
+rayonnement|radiación||S|sci|B2
+fusion|fusión nuclear||S|sci|B2
+fission|fisión nuclear||S|sci|B2
+astre|astro||S|sci|B2
+comète|cometa||S|sci|B2
+astéroïde|asteroide||S|sci|B2
+observatoire|observatorio||S|sci|B2
+astronomie|astronomía||S|sci|B2
+pesanteur|fuerza de la gravedad||S|sci|B2
+roman policier|novela policiaca||L|let|B2
+science-fiction|ciencia ficción||S|let|B2
+nouvelle|relato corto||S|let|B2
+biographie|biografía||S|let|B2
+autobiographie|autobiografía||S|let|B2
+poésie|poesía||S|let|B2
+poème|poema||S|let|B2
+essai|ensayo||S|let|B2
+théâtre|teatro||S|let|B2
+pièce de théâtre|obra de teatro||L|let|B2
+intrigue|trama||S|let|B2
+personnage|personaje||S|let|B2
+narrateur|narrador||S|let|B2
+narrateur omniscient|narrador omnisciente||L|let|B2
+chute|desenlace inesperado||S|let|B2
+métaphore|metáfora||S|let|B2
+comparaison|comparación (figura literaria)||S|let|B2
+style|estilo||S|let|B2
+registre|registro (de lengua)||S|let|B2
+vers|verso||S|let|B2
+strophe|estrofa||S|let|B2
+récit|relato||S|let|B2
+fable|fábula||S|let|B2
+conte|cuento||S|let|B2
+légende|leyenda||S|let|B2
+mythe|mito||S|let|B2
+héros|héroe||S|let|B2
+antihéros|antihéroe||S|let|B2
+épilogue|epílogo||S|let|B2
+prologue|prólogo||S|let|B2
+chapitre|capítulo||S|let|B2
+dédicace|dedicatoria||S|let|B2
+muscle|músculo||S|cor|B2
+tendon|tendón||S|cor|B2
+articulation|articulación||S|cor|B2
+colonne vertébrale|columna vertebral||L|cor|B2
+vertèbre|vértebra||S|cor|B2
+cage thoracique|caja torácica||L|cor|B2
+côte|costilla||S|cor|B2
+poumon|pulmón||S|cor|B2
+foie|hígado||S|cor|B2
+rein|riñón||S|cor|B2
+estomac|estómago||S|cor|B2
+vaisseau sanguin|vaso sanguíneo||L|cor|B2
+artère|arteria||S|cor|B2
+veine|vena||S|cor|B2
+nerf|nervio||S|cor|B2
+moelle épinière|médula espinal||L|cor|B2
+épaule|hombro||S|cor|B2
+poignet|muñeca||S|cor|B2
+cheville|tobillo||S|cor|B2
+genou|rodilla||S|cor|B2
+coude|codo||S|cor|B2
+respirer|respirar||V|cor|B2
+étirement|estiramiento||S|cor|B2
+s'étirer|estirarse||V|cor|B2
+endurance|resistencia física||S|cor|B2
+souplesse|flexibilidad||S|cor|B2
+bien-être|bienestar||S|cor|B2
+hydratation|hidratación||S|cor|B2
+posture|postura||S|cor|B2
+récupération|recuperación muscular||S|cor|B2
+cardio|ejercicio cardiovascular||S|cor|B2
+tronc|tronco||S|cor|B2
+habitat|hábitat||S|ani|B2
+tanière|guarida||S|ani|B2
+nid|nido||S|ani|B2
+terrier|madriguera||S|ani|B2
+meute|manada||S|ani|B2
+troupeau|rebaño||S|ani|B2
+migration|migración||S|ani|B2
+migrer|migrar||V|ani|B2
+hibernation|hibernación||S|ani|B2
+hiberner|hibernar||V|ani|B2
+instinct|instinto||S|ani|B2
+comportement|comportamiento||S|ani|B2
+prédateur|depredador||S|ani|B2
+proie|presa||S|ani|B2
+chasse|caza||S|ani|B2
+chasser|cazar||V|ani|B2
+reproduction|reproducción||S|ani|B2
+se reproduire|reproducirse||V|ani|B2
+ponte|puesta (de huevos)||S|ani|B2
+élevage|cría (de animales)||S|ani|B2
+domestiquer|domesticar||V|ani|B2
+apprivoiser|amansar||V|ani|B2
+camouflage|camuflaje||S|ani|B2
+se camoufler|camuflarse||V|ani|B2
+mimétisme|mimetismo||S|ani|B2
+rugir|rugir||V|ani|B2
+nicher|anidar||V|ani|B2
+rôder|merodear||V|ani|B2
+flair|olfato fino||S|ani|B2
+empreinte|huella (de animal)||S|ani|B2
+essaim|enjambre||S|ani|B2
+fourmilière|hormiguero||S|ani|B2
+espèce menacée|especie amenazada||L|ani|B2
+espèce protégée|especie protegida||L|ani|B2
+extinction|extinción||S|ani|B2
+s'éteindre|extinguirse||V|ani|B2
+disparaître|desaparecer||V|ani|B2
+disparition|desaparición||S|ani|B2
+conservation|conservación (de especies)||S|nat|B2
+préserver|preservar||V|nat|B2
+sauvegarder|salvaguardar||V|nat|B2
+réserve naturelle|reserva natural||L|nat|B2
+parc national|parque nacional||L|nat|B2
+braconnage|caza furtiva||S|ani|B2
+braconnier|cazador furtivo||S|ani|B2
+population|población animal||S|ani|B2
+biodiversité|biodiversidad||S|nat|B2
+faune|fauna||S|ani|B2
+flore|flora||S|ani|B2
+réintroduire|reintroducir||V|ani|B2
+captivité|cautividad||S|ani|B2
+déforestation|deforestación||S|nat|B2
+menacé|amenazado||A|ani|B2
+en danger|en peligro||E|ani|B2
+sanctuaire|santuario||S|ani|B2
+recensement|censo (de especies)||S|ani|B2
+recenser|hacer el censo de||V|ani|B2
+survie|supervivencia||S|ani|B2
+survivre|sobrevivir||V|ani|B2
+protection|protección||S|nat|B2
+milieu naturel|medio natural||L|nat|B2
+endémique|endémico||A|ani|B2
+clonage|clonación||S|ani|B2
+déclin|declive (de una especie)||S|ani|B2
+énergie renouvelable|energía renovable||L|nat|B2
+énergie solaire|energía solar||L|nat|B2
+éolienne|aerogenerador||S|nat|B2
+panneau solaire|panel solar||L|nat|B2
+centrale électrique|central eléctrica||L|nat|B2
+centrale nucléaire|central nuclear||L|nat|B2
+barrage|presa (hidroeléctrica)||S|nat|B2
+hydroélectrique|hidroeléctrico||A|nat|B2
+géothermie|geotermia||S|nat|B2
+biomasse|biomasa||S|nat|B2
+pétrole|petróleo||S|nat|B2
+charbon|carbón||S|nat|B2
+gaz naturel|gas natural||L|nat|B2
+émission|emisión||S|nat|B2
+émettre|emitir||V|nat|B2
+effet de serre|efecto invernadero||L|nat|B2
+gaz à effet de serre|gas de efecto invernadero||L|nat|B2
+réchauffement climatique|calentamiento global||L|nat|B2
+empreinte carbone|huella de carbono||L|nat|B2
+recyclage|reciclaje||S|nat|B2
+recycler|reciclar||V|nat|B2
+tri sélectif|recogida selectiva||L|nat|B2
+déchet|residuo||S|nat|B2
+décharge|vertedero||S|nat|B2
+incinération|incineración||S|nat|B2
+pollution|contaminación||S|nat|B2
+polluer|contaminar||V|nat|B2
+nocif|nocivo||A|nat|B2
+développement durable|desarrollo sostenible||L|nat|B2
+transition écologique|transición ecológica||L|nat|B2
+gaspillage|desperdicio||S|nat|B2
+gaspiller|desperdiciar||V|nat|B2
+météo|tiempo meteorológico||S|cli|B2
+météorologie|meteorología||S|cli|B2
+prévision|previsión (del tiempo)||S|cli|B2
+orage|tormenta||S|cli|B2
+orageux|tormentoso||A|cli|B2
+éclair|relámpago||S|cli|B2
+tonnerre|trueno||S|cli|B2
+foudre|rayo||S|cli|B2
+grêle|granizo||S|cli|B2
+grêler|granizar||V|cli|B2
+avalanche|alud||S|cli|B2
+blizzard|ventisca||S|cli|B2
+tempête|tempestad||S|cli|B2
+ouragan|huracán||S|cli|B2
+cyclone|ciclón||S|cli|B2
+typhon|tifón||S|cli|B2
+tornade|tornado||S|cli|B2
+sécheresse|sequía||S|cli|B2
+inondation|inundación||S|cli|B2
+inonder|inundar||V|cli|B2
+crue|crecida (de un río)||S|cli|B2
+séisme|terremoto||S|cli|B2
+tremblement de terre|terremoto||L|cli|B2
+éruption|erupción||S|cli|B2
+volcan|volcán||S|cli|B2
+volcanique|volcánico||A|cli|B2
+cendre|ceniza (volcánica)||S|cli|B2
+raz-de-marée|maremoto||S|cli|B2
+canicule|ola de calor||S|cli|B2
+rafale|racha de viento||S|cli|B2
+giboulée|chubasco primaveral||S|cli|B2
+bruine|llovizna||S|cli|B2
+durée|duración||S|tmp|B2
+durer|durar||V|tmp|B2
+échéance|vencimiento (de un plazo)||S|tmp|B2
+à court terme|a corto plazo||E|tmp|B2
+à long terme|a largo plazo||E|tmp|B2
+périodique|periódico||A|tmp|B2
+périodiquement|periódicamente||D|tmp|B2
+fréquent|frecuente||A|tmp|B2
+occasionnellement|ocasionalmente||D|tmp|B2
+régulièrement|con regularidad||D|tmp|B2
+quotidiennement|a diario||D|tmp|B2
+hebdomadaire|semanal||A|tmp|B2
+mensuel|mensual||A|tmp|B2
+annuel|anual||A|tmp|B2
+bimestriel|bimestral||A|tmp|B2
+trimestriel|trimestral||A|tmp|B2
+intervalle|intervalo||S|tmp|B2
+laps de temps|lapso de tiempo||L|tmp|B2
+instant|instante||S|tmp|B2
+momentané|momentáneo||A|tmp|B2
+provisoire|provisional||A|tmp|B2
+définitif|definitivo||A|tmp|B2
+temporaire|temporal||A|tmp|B2
+ponctuel|puntual (ocasional)||A|tmp|B2
+une fois par an|una vez al año||E|tmp|B2
+tous les deux jours|cada dos días||E|tmp|B2
+antérieur|anterior||A|tmp|B2
+postérieur|posterior||A|tmp|B2
+simultané|simultáneo||A|tmp|B2
+consécutif|consecutivo||A|tmp|B2
+prolonger|prolongar||V|tmp|B2
+reporter|aplazar||V|tmp|B2
+vie nocturne|marcha nocturna||L|sve|B2
+soirée|fiesta nocturna||S|sve|B2
+noctambule|marchoso||S|sve|B2
+veillée|velada (reunión nocturna)||S|sve|B2
+nuit blanche|noche en vela||L|sve|B2
+veiller|trasnochar||V|sve|B2
+boîte de nuit|discoteca||L|sve|B2
+concert|concierto||S|sve|B2
+tournée|gira (de un artista)||S|sve|B2
+foule|multitud||S|sve|B2
+ambiance|ambiente||S|sve|B2
+spectacle|espectáculo||S|sve|B2
+scène|escenario||S|sve|B2
+piste de danse|pista de baile||L|sve|B2
+karaoké|karaoke||S|sve|B2
+billard|billar||S|sve|B2
+fléchettes|dardos||S|sve|B2
+bowling|bolera||S|sve|B2
+sortie nocturne|salida nocturna||L|sve|B2
+tarif réduit|tarifa reducida||L|sve|B2
+file d'attente|cola||L|sve|B2
+s'amuser|divertirse||V|sve|B2
+divertissement|diversión||S|sve|B2
+loisir|ocio||S|sve|B2
+temps libre|tiempo libre||L|sve|B2
+faire la fête|festejar||E|sve|B2
+boire un verre|tomar algo||E|sve|B2
+humoriste|humorista||S|sve|B2
+sketch|sketch||S|sve|B2
+improvisation|improvisación||S|sve|B2

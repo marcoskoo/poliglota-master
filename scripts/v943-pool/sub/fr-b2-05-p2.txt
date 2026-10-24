@@ -1,0 +1,284 @@
+portée|pentagrama||S|mus|B2
+clé de sol|clave de sol||L|mus|B2
+partition|partitura||S|mus|B2
+mesure|compás||S|mus|B2
+tempo|tempo||S|mus|B2
+gamme|escala (musical)||S|mus|B2
+octave|octava||S|mus|B2
+bémol|bemol||S|mus|B2
+dièse|sostenido||S|mus|B2
+accord|acorde||S|mus|B2
+harmonie|armonía||S|mus|B2
+mélodie|melodía||S|mus|B2
+refrain|estribillo||S|mus|B2
+couplet|estrofa||S|mus|B2
+chœur|coro||S|mus|B2
+soliste|solista||S|mus|B2
+chef d'orchestre|director de orquesta||L|mus|B2
+orchestre|orquesta||S|mus|B2
+violon|violín||S|mus|B2
+violoncelle|violonchelo||S|mus|B2
+percussion|percusión||S|mus|B2
+solfège|solfeo||S|mus|B2
+tournée|gira||S|mus|B2
+salle de concert|sala de conciertos||L|mus|B2
+monter sur scène|subir al escenario||E|mus|B2
+bis|otra vez||I|mus|B2
+acoustique|acústica||S|mus|B2
+répétition|ensayo||S|mus|B2
+répéter|ensayar||V|mus|B2
+compositeur|compositor||S|pro|B2
+interprète|intérprete||S|mus|B2
+réalisateur|director de cine||S|pro|B2
+tournage|rodaje||S|cin|B2
+tourner|rodar (una película)||V|cin|B2
+plateau|plató||S|cin|B2
+scénario|guion||S|cin|B2
+scénariste|guionista||S|pro|B2
+synopsis|sinopsis||S|cin|B2
+cascadeur|doble de acción||S|cin|B2
+figurant|extra (figurante)||S|cin|B2
+audition|audición (prueba)||S|cin|B2
+clap|claqueta||S|cin|B2
+pellicule|celuloide||S|cin|B2
+projection|proyección||S|cin|B2
+projeter|proyectar||V|cin|B2
+avant-première|preestreno||S|cin|B2
+sortie en salle|estreno en cines||L|cin|B2
+festival de cinéma|festival de cine||L|cin|B2
+tapis rouge|alfombra roja||L|cin|B2
+remise des prix|entrega de premios||L|cin|B2
+jury|jurado||S|cin|B2
+sélection officielle|selección oficial||L|cin|B2
+bande-annonce|tráiler||S|cin|B2
+générique|créditos||S|cin|B2
+montage|montaje||S|cin|B2
+monteur|montador||S|pro|B2
+décor|decorado||S|cin|B2
+costume|vestuario||S|cin|B2
+maquillage|maquillaje||S|cin|B2
+cadrage|encuadre||S|cin|B2
+gros plan|primer plano||L|cin|B2
+doublage|doblaje||S|cin|B2
+sous-titres|subtítulos||S|cin|B2
+se disputer|pelearse||V|rel|B2
+dispute|pelea||S|rel|B2
+querelle|discordia||S|rel|B2
+se fâcher|enojarse||V|rel|B2
+rupture|ruptura||S|rel|B2
+rompre|romper (con alguien)||V|rel|B2
+se séparer|separarse||V|rel|B2
+divorcer|divorciarse||V|rel|B2
+compromis|acuerdo intermedio||S|rel|B2
+tromper|engañar (siendo infiel)||V|rel|B2
+infidélité|infidelidad||S|rel|B2
+infidèle|infiel||A|rel|B2
+jalousie|celos||S|emo|B2
+jaloux|celoso||A|emo|B2
+rancune|rencor||S|emo|B2
+rancunier|rencoroso||A|emo|B2
+en vouloir à quelqu'un|guardar rencor a alguien||E|rel|B2
+se réconcilier|reconciliarse||V|rel|B2
+réconciliation|reconciliación||S|rel|B2
+faire la paix|hacer las paces||E|rel|B2
+présenter ses excuses|pedir disculpas||E|cmu|B2
+pardonner|perdonar||V|rel|B2
+crise de couple|crisis de pareja||L|rel|B2
+malentendu|malentendido||S|cmu|B2
+s'expliquer|aclararse||V|cmu|B2
+affrontement|enfrentamiento||S|rel|B2
+reproche|reproche||S|rel|B2
+reprocher|reprochar||V|rel|B2
+ressentiment|resentimiento||S|emo|B2
+amertume|amargura||S|emo|B2
+tourner la page|pasar página||E|rel|B2
+faire des concessions|hacer concesiones||E|rel|B2
+diversité|diversidad||S|ist|B2
+inclusion|inclusión||S|ist|B2
+inclusif|incluyente||A|ist|B2
+égalité des chances|igualdad de oportunidades||L|ist|B2
+discrimination|discriminación||S|ist|B2
+discriminer|discriminar||V|ist|B2
+préjugé|prejuicio||S|ist|B2
+stéréotype|estereotipo||S|ist|B2
+marginaliser|marginalizar||V|ist|B2
+exclusion|exclusión||S|ist|B2
+intégration|integración||S|ist|B2
+s'intégrer|integrarse||V|ist|B2
+mixité|presencia equilibrada de sexos||S|ist|B2
+parité|paridad||S|ist|B2
+handicap|discapacidad||S|ist|B2
+en situation de handicap|con discapacidad||L|ist|B2
+accessible|accesible||A|ist|B2
+accessibilité|accesibilidad||S|ist|B2
+minorité visible|minoría visible||L|ist|B2
+solidarité|solidaridad||S|ist|B2
+solidaire|solidario||A|ist|B2
+entraide|ayuda mutua||S|ist|B2
+réseau d'entraide|red de apoyo mutuo||L|ist|B2
+soutien|apoyo||S|ist|B2
+bénévolat|voluntariado||S|ist|B2
+bénévole|voluntario||S|ist|B2
+association caritative|asociación benéfica||L|ist|B2
+collecte de fonds|recaudación de fondos||L|ist|B2
+proche|ser querido||S|rel|B2
+venir en aide à|acudir en ayuda de||E|ist|B2
+tolérance|tolerancia||S|ist|B2
+vivre ensemble|vivir juntos||E|ist|B2
+impôt sur le revenu|impuesto sobre la renta||L|fin|B2
+déclaration de revenus|declaración de la renta||L|fin|B2
+faire sa déclaration|hacer la declaración||E|fin|B2
+revenu imposable|renta imponible||L|fin|B2
+barème|baremo||S|fin|B2
+tranche d'imposition|tramo impositivo||L|fin|B2
+quotient familial|cociente familiar||L|fin|B2
+fiscalité|fiscalidad||S|fin|B2
+contrôle fiscal|inspección fiscal||L|fin|B2
+contribuable|contribuyente||S|fin|B2
+déduction|deducción||S|fin|B2
+déduire|deducir||V|fin|B2
+exonération|exención||S|fin|B2
+exonérer|eximir||V|fin|B2
+fraude|fraude||S|fin|B2
+frauder|defraudar||V|fin|B2
+amende|multa||S|fin|B2
+payer une amende|pagar una multa||E|fin|B2
+pénalité|penalización||S|fin|B2
+prélèvement à la source|retención en el origen||L|fin|B2
+prélèvement|retención (ingreso)||S|fin|B2
+formulaire|formulario||S|fin|B2
+justificatif|justificante||S|fin|B2
+percevoir|percibir (impuestos)||V|fin|B2
+perception|recaudación||S|fin|B2
+redevance|tasa (canon)||S|fin|B2
+patrimoine|patrimonio||S|fin|B2
+seuil|umbral||S|fin|B2
+impayé|impago||S|fin|B2
+encaisser|ingresar (cobros)||V|fin|B2
+contribution|contribución (tributo)||S|fin|B2
+prêt|préstamo||S|fin|B2
+prêt immobilier|préstamo hipotecario||L|fin|B2
+emprunt|préstamo (crédito)||S|fin|B2
+emprunter|tomar prestado||V|fin|B2
+crédit|crédito||S|fin|B2
+crédit à la consommation|crédito al consumo||L|fin|B2
+hypothèque|hipoteca||S|fin|B2
+hypothéquer|hipotecar||V|fin|B2
+mensualité|cuota mensual||S|fin|B2
+échéance|vencimiento (de cuota)||S|fin|B2
+remboursement|reembolso||S|fin|B2
+rembourser|reembolsar||V|fin|B2
+intérêts|intereses (de un préstamo)||S|fin|B2
+endettement|endeudamiento||S|fin|B2
+surendettement|sobreendeudamiento||S|fin|B2
+caution|aval||S|fin|B2
+cautionner|avalear||V|fin|B2
+garant|garante||S|fin|B2
+garantie|garantía||S|fin|B2
+apport personnel|aportación inicial||L|fin|B2
+frais de dossier|gastos de apertura||L|fin|B2
+banquier|banquero||S|pro|B2
+conseiller financier|asesor financiero||L|pro|B2
+amortissement|amortización||S|fin|B2
+solde|saldo||S|fin|B2
+découvert|descubierto (bancario)||S|fin|B2
+agios|comisiones por descubierto||S|fin|B2
+clause|cláusula||S|fin|B2
+résilier|rescindir (un contrato)||V|fin|B2
+résiliation|cancelación||S|fin|B2
+assurance-vie|seguro de vida||S|fin|B2
+souscrire|contratar (un seguro)||V|fin|B2
+épargne|ahorro||S|fin|B2
+épargner|ahorrar||V|fin|B2
+placement|inversión (colocación)||S|fin|B2
+placer|invertir (dinero)||V|fin|B2
+investir|invertir||V|fin|B2
+bourse|bolsa||S|fin|B2
+cotation|cotización bursátil||S|fin|B2
+action|acción (título)||S|fin|B2
+actionnaire|accionista||S|fin|B2
+obligation|bono||S|fin|B2
+dividende|dividendo||S|fin|B2
+capital|capital||S|fin|B2
+courtier|bróker||S|pro|B2
+salle des marchés|sala de mercados||L|fin|B2
+krach|crac bursátil||S|fin|B2
+bulle spéculative|burbuja especulativa||L|fin|B2
+spéculation|especulación||S|fin|B2
+rendement|rendimiento||S|fin|B2
+plus-value|plusvalía||S|fin|B2
+valeur mobilière|valor mobiliario||L|fin|B2
+ordre de bourse|orden de bolsa||L|fin|B2
+rentable|rentable||A|fin|B2
+rentabilité|rentabilidad||S|fin|B2
+risqué|arriesgado||A|fin|B2
+faire fructifier|rentabilizar||E|fin|B2
+diversifier|diversificar||V|fin|B2
+repli|retroceso bursátil||S|fin|B2
+hausse|subida||S|fin|B2
+valeur|valor (de mercado)||S|fin|B2
+société de gestion|gestora de fondos||L|pro|B2
+part|participación (en una empresa)||S|fin|B2
+titre|valor (título)||S|fin|B2
+retraite|jubilación||S|fin|B2
+partir à la retraite|jubilarse||E|fin|B2
+pension|pensión||S|fin|B2
+pension alimentaire|pensión alimenticia||L|fin|B2
+cotisation|cotización (a la seguridad social)||S|fin|B2
+cotisant|cotizante||S|fin|B2
+répartition|reparto (sistema de pensiones)||S|fin|B2
+fonds de pension|fondo de pensiones||L|fin|B2
+prévoyance|previsión||S|fin|B2
+prévoir|prever||V|fin|B2
+troisième âge|tercera edad||L|fin|B2
+personnes âgées|personas mayores||L|fin|B2
+vieillesse|vejez||S|fin|B2
+vieillir|envejecer||V|fin|B2
+cessation d'activité|cese de actividad||L|fin|B2
+âge légal|edad legal||L|fin|B2
+rente|renta vitalicia||S|fin|B2
+viager|con renta vitalicia||A|fin|B2
+préretraite|prejubilación||S|fin|B2
+carrière|carrera profesional||S|lav|B2
+population active|población activa||L|fin|B2
+sénior|persona de edad madura||S|fin|B2
+génération|generación||S|ist|B2
+caisse|caja (de la seguridad social)||S|fin|B2
+complémentaire santé|seguro médico complementario||L|fin|B2
+perte d'autonomie|pérdida de autonomía||L|fin|B2
+maintien à domicile|permanencia en el domicilio||L|fin|B2
+assurance décès|seguro de fallecimiento||L|fin|B2
+capitalisation|capitalización||S|fin|B2
+reconversion|reconversión profesional||S|lav|B2
+dépendance|dependencia||S|fin|B2
+critique gastronomique|crítica gastronómica||L|ris|B2
+guide gastronomique|guía gastronómica||L|ris|B2
+restaurant étoilé|restaurante con estrellas||L|ris|B2
+chef cuisinier|jefe de cocina||L|pro|B2
+menu dégustation|menú degustación||L|ris|B2
+carte des vins|carta de vinos||L|ris|B2
+sommelier|sumiller||S|pro|B2
+maître d'hôtel|maître||S|pro|B2
+plat du jour|plato del día||L|ris|B2
+amuse-bouche|pincho de bienvenida||S|ris|B2
+verrine|verrina||S|ris|B2
+dressage|emplatado||S|ris|B2
+dresser|emplatar||V|ris|B2
+saveur|sabor||S|ali|B2
+savoureux|sabroso||A|ali|B2
+dégustation|degustación||S|ris|B2
+déguster|degustar||V|ris|B2
+arôme|aroma||S|ali|B2
+texture|textura||S|ali|B2
+croustillant|crujiente||A|ali|B2
+fondant|que se deshace en la boca||A|ali|B2
+moelleux|esponjoso||A|ali|B2
+onctueux|cremoso||A|ali|B2
+relevé|de sabor intenso||A|ali|B2
+épicé|especiado||A|ali|B2
+raffiné|refinado||A|ali|B2
+copieux|copioso||A|ali|B2
+addition|cuenta (de un restaurante)||S|ris|B2
+pourboire|propina||S|ris|B2
+terroir|terruño||S|ris|B2
+mijoter|cocer a fuego lento||V|ali|B2

@@ -1,0 +1,285 @@
+fiançailles|pedida de mano (compromiso)||S|rel|B2
+se fiancer|prometerse (novios)||V|rel|B2
+demande en mariage|pedida de matrimonio||L|rel|B2
+noces|bodas||S|rel|B2
+épouser|casarse con||V|rel|B2
+se marier|casarse||V|rel|B2
+divorcer|divorciarse||V|rel|B2
+remariage|segundas nupcias||S|rel|B2
+veuf|viudo||S|rel|B2
+veuvage|viudez||S|rel|B2
+alliance|alianza (anillo de boda)||S|rel|B2
+voile|velo (de novia)||S|rel|B2
+robe de mariée|vestido de novia||L|rel|B2
+liste de mariage|lista de boda||L|rel|B2
+réception|recepción (banquete)||S|rel|B2
+banquet|banquete||S|rel|B2
+lune de miel|luna de miel||L|rel|B2
+témoin|testigo (de boda)||S|rel|B2
+cortège|comitiva||S|rel|B2
+mairie|ayuntamiento (para la boda civil)||S|ist|B2
+parrain|padrino||S|rel|B2
+marraine|madrina||S|rel|B2
+baptême|bautizo||S|rel|B2
+communion|primera comunión||S|rel|B2
+enterrement|entierro||S|rel|B2
+funérailles|funerales||S|rel|B2
+deuil|luto||S|rel|B2
+faire son deuil|hacer el duelo||L|rel|B2
+majorité|mayoría de edad||S|rel|B2
+anniversaire de mariage|aniversario de bodas||L|rel|B2
+célébrer|celebrar (un acontecimiento)||V|rel|B2
+franchir un cap|pasar una etapa decisiva||L|rel|B2
+cap|etapa (momento clave)||S|ast|B2
+toast|brindis||S|rel|B2
+porter un toast|brindar por||L|rel|B2
+bouquet|ramo (de flores)||S|rel|B2
+demoiselle d'honneur|dama de honor||S|rel|B2
+tenue de cérémonie|traje de ceremonia||L|rel|B2
+faire la fête|celebrar una fiesta||L|rel|B2
+dépense|gasto||S|fin|B2
+rentrées d'argent|ingresos (entradas de dinero)||L|fin|B2
+budget mensuel|presupuesto mensual||L|fin|B2
+faire ses comptes|llevar las cuentas||L|fin|B2
+dépenser|gastar||V|fin|B2
+se ruiner|arruinarse||V|fin|B2
+facturation|facturación||S|fin|B2
+échéance|vencimiento (fecha de pago)||S|fin|B2
+mensualité|mensualidad||S|fin|B2
+remboursement|reembolso (devolución de pago)||S|fin|B2
+économies|ahorros||S|fin|B2
+mettre de côté|ahorrar (apartar dinero)||L|fin|B2
+serrer les ceintures|apretarse el cinturón||L|fin|B2
+arnaque|estafa||S|fin|B2
+arnaquer|estafar||V|fin|B2
+escroc|estafador||S|fin|B2
+fraude|fraude||S|fin|B2
+frauder|defraudar||V|fin|B2
+faux billet|billete falso||L|fin|B2
+contrefaçon|falsificación (imitación de marca)||S|fin|B2
+surfacturer|facturar de más||V|fin|B2
+prix abusif|precio abusivo||L|fin|B2
+virement|transferencia (bancaria)||S|fin|B2
+domiciliation|domiciliación||S|fin|B2
+prélèvement|débito (cargo automático)||S|fin|B2
+créance|crédito (derecho de cobro)||S|fin|B2
+créancier|acreedor||S|fin|B2
+débiteur|deudor||S|fin|B2
+ruine|ruina (desastre)||S|fin|B2
+hors de prix|carísimo (por las nubes)||E|fin|B2
+solder|liquidar (en rebajas)||V|cmp|B2
+attrape-nigaud|engaña-bobos||S|fin|B2
+leurre|cebo (engaño)||S|fin|B2
+à prix d'or|a precio de oro||E|fin|B2
+tirelire|hucha||S|fin|B2
+ristourne|descuento comercial (rebaja)||S|fin|B2
+cagnotte|bote (bote de apuestas)||S|fin|B2
+faire crédit|dar crédito (fiar)||L|fin|B2
+comptant|al contado||E|fin|B2
+torréfaction|tostado (del café)||S|ris|B2
+torréfier|tostar (el café)||V|ris|B2
+grain de café|grano de café||L|ris|B2
+moudre|moler (el café)||V|ris|B2
+moulu|molido||A|ris|B2
+cafetière|cafetera (de filtro)||S|ris|B2
+viennoiserie|bollería vienesa||S|ris|B2
+bruncher|hacer brunch (desayunar fuerte)||V|ris|B2
+terrasse|terraza||S|ris|B2
+addition|cuenta (a pagar)||S|ris|B2
+pourboire|propina||S|ris|B2
+laisser un pourboire|dejar propina||L|ris|B2
+croustillant|crujiente||A|ris|B2
+fondant|meloso||A|ris|B2
+onctueux|cremoso||A|ris|B2
+arôme|aroma||S|ris|B2
+corsé|con cuerpo (fuerte)||A|ris|B2
+déca|descafeinado||S|ris|B2
+boisson chaude|bebida caliente||L|ris|B2
+pichet|jarra (de mesa)||S|ris|B2
+gobelet|vaso (de plástico)||S|ris|B2
+nappe|mantel||S|ris|B2
+comptoir|mostrador (barra)||S|ris|B2
+à emporter|para llevar||E|ris|B2
+à consommer sur place|para consumir en el local||E|ris|B2
+formule|menú del día (fórmula)||S|ris|B2
+pâtissier|pastelero||S|pro|B2
+pâte feuilletée|hojaldre||L|ris|B2
+ganache|ganache (crema de chocolate)||S|ris|B2
+chantilly|nata montada||S|ris|B2
+noisette|café con un chorro de leche||S|ris|B2
+allonger|alargar (el café)||V|ris|B2
+infuser|infusionar||V|ris|B2
+tisane|infusión (de hierbas)||S|ris|B2
+cassonade|azúcar moreno en cristales||S|ris|B2
+sans gluten|sin gluten||E|ris|B2
+feutré|íntimo (acogedor)||A|ris|B2
+tartelette|tartaleta||S|ris|B2
+service compris|servicio incluido||E|ris|B2
+incident|incidente||S|att|B2
+accident de la route|accidente de tráfico||L|att|B2
+délit|delito (falta)||S|ist|B2
+cambriolage|robo en casa (allanamiento)||S|att|B2
+cambrioler|allanar una casa para robar||V|att|B2
+braqueur|atracador||S|att|B2
+vol à main armée|robo a mano armada||L|att|B2
+agression|agresión||S|att|B2
+agresser|agredir||V|att|B2
+victime|víctima||S|att|B2
+secouriste|socorrista||S|att|B2
+porter secours|prestar socorro||L|att|B2
+évacuation|evacuación||S|att|B2
+évacuer|evacuar||V|att|B2
+patrouille|patrulla||S|att|B2
+patrouiller|patrullar||V|att|B2
+fouille|cacheo (registro)||S|att|B2
+garde à vue|detención preventiva||L|att|B2
+interpellation|detención (arresto)||S|att|B2
+interpeller|detener (identificar)||V|att|B2
+délinquance|delincuencia||S|att|B2
+délinquant|delincuente||S|att|B2
+racket|extorsión (chantaje)||S|att|B2
+racketter|extorsionar||V|att|B2
+dégradation|destrozo (vandalismo)||S|att|B2
+dégrader|destrozar (deteriorar)||V|att|B2
+incendie|incendio||S|att|B2
+départ de feu|foco de incendio||L|att|B2
+premiers secours|primeros auxilios||L|sla|B2
+canular|broma (llamada falsa)||S|cmu|B2
+fausse alerte|falsa alarma||L|att|B2
+périmètre de sécurité|perímetro de seguridad||L|att|B2
+consigne|consigna (instrucción)||S|att|B2
+consignes de sécurité|medidas de seguridad||L|att|B2
+verrouiller|cerrar con llave||V|cas|B2
+caméra de surveillance|cámara de vigilancia||L|tec|B2
+plaignant|denunciante||S|ist|B2
+porter plainte|poner una denuncia||L|ist|B2
+main courante|atestado (registro policial)||L|ist|B2
+percée|avance (descubrimiento clave)||S|sci|B2
+corroborer|corroborar||V|sci|B2
+infirmer|desvirtuar (refutar)||V|sci|B2
+réfuter|refutar||V|sci|B2
+expérimentation|experimentación||S|sci|B2
+expérimenter|experimentar||V|sci|B2
+éprouvette|probeta||S|sci|B2
+protocole|protocolo||S|sci|B2
+spécimen|espécimen (muestra)||S|sci|B2
+sonde|sonda||S|sci|B2
+sonder|sondear||V|sci|B2
+molécule|molécula||S|sci|B2
+atome|átomo||S|sci|B2
+particule|partícula||S|sci|B2
+apesanteur|ingravidez||S|sci|B2
+orbite|órbita||S|sci|B2
+orbiter|orbitar||V|sci|B2
+galaxie|galaxia||S|sci|B2
+constellation|constelación||S|sci|B2
+croûte|corteza (terrestre)||S|sci|B2
+strate|estrato||S|sci|B2
+sédiment|sedimento||S|sci|B2
+fossile|fósil||S|sci|B2
+datation|datación||S|sci|B2
+dater|datar||V|sci|B2
+dissection|disección||S|sci|B2
+neurone|neurona||S|sci|B2
+synapse|sinapsis||S|sci|B2
+hérédité|herencia (genética)||S|sci|B2
+héréditaire|hereditario||A|sci|B2
+mutation|mutación||S|sci|B2
+pandémie|pandemia||S|sci|B2
+épidémie|epidemia||S|sci|B2
+savant|científico (sabio)||S|pro|B2
+vulgarisation|divulgación||S|sci|B2
+vulgariser|divulgar||V|sci|B2
+énigme|enigma||S|sci|B2
+insolite|insólito||A|sci|B2
+télescope|telescopio||S|sci|B2
+best-seller|superventas||S|let|B2
+coup de cœur|favorito (recomendación)||L|let|B2
+club de lecture|club de lectura||L|let|B2
+séance de dédicace|sesión de firmas||L|let|B2
+dédicace|dedicatoria||S|let|B2
+roman policier|novela policíaca||L|let|B2
+polar|novela negra||S|let|B2
+thriller|novela de suspense||S|let|B2
+trilogie|trilogía||S|let|B2
+saga|saga (historia familiar)||S|let|B2
+autobiographie|autobiografía||S|let|B2
+mémoires|memorias||S|let|B2
+essai|ensayo||S|let|B2
+nouvelle|cuento (relato breve)||S|let|B2
+recueil de nouvelles|colección de cuentos||L|let|B2
+conte de fées|cuento de hadas||L|let|B2
+fable|fábula||S|let|B2
+dystopie|distopía||S|let|B2
+héroïne|protagonista (heroína)||S|let|B2
+intrigue|trama (intriga)||S|let|B2
+dénouement|desenlace||S|let|B2
+prologue|prólogo||S|let|B2
+épilogue|epílogo||S|let|B2
+tome|tomo||S|let|B2
+tirage|tirada (de impresión)||S|let|B2
+réédition|reedición||S|let|B2
+épuisé|agotado (descatalogado)||A|let|B2
+poche|edición de bolsillo||S|let|B2
+reliure|encuadernación||S|let|B2
+jaquette|sobrecubierta||S|let|B2
+quatrième de couverture|contraportada||L|let|B2
+feuilleter|hojear||V|let|B2
+dévorer un livre|devorar un libro||L|let|B2
+critique littéraire|crítica literaria||L|let|B2
+libraire|librero||S|pro|B2
+rayon|estante (sección)||S|let|B2
+palmarès|lista de éxitos||S|let|B2
+parution|salida (publicación)||S|let|B2
+paraître|salir a la venta||V|let|B2
+randonnée|senderismo (excursión a pie)||S|nat|B2
+randonner|hacer senderismo||V|nat|B2
+balisage|señalización (marcado del sendero)||S|nat|B2
+baliser|señalizar||V|nat|B2
+sentier|sendero||S|nat|B2
+boussole|brújula||S|nat|B2
+pente|pendiente||S|nat|B2
+pentu|empinado||A|nat|B2
+dénivelé|desnivelado||S|nat|B2
+col|collado (puerto de montaña)||S|nat|B2
+crête|cresta||S|nat|B2
+versant|ladera (vertiente)||S|nat|B2
+cime|cumbre||S|nat|B2
+refuge|refugio (de montaña)||S|nat|B2
+gîte|casa rural||S|htl|B2
+bivouac|vivac||S|nat|B2
+bivouaquer|hacer vivac||V|nat|B2
+sac de couchage|saco de dormir||L|nat|B2
+lampe frontale|frontal (linterna de cabeza)||L|tec|B2
+guêtres|polainas||S|rop|B2
+semelle|suela||S|rop|B2
+chaussure de randonnée|bota de montaña||L|rop|B2
+thermos|termo||S|nat|B2
+casse-croûte|tentempié (comida de excursión)||S|nat|B2
+gourde|cantimplora||S|nat|B2
+trousse de premiers soins|botiquín||L|nat|B2
+coup de soleil|insolación||L|nat|B2
+orage|tormenta (temporal)||S|cli|B2
+brume|bruma||S|cli|B2
+brouillard|niebla||S|cli|B2
+belvédère|mirador (atalaya)||S|nat|B2
+point de vue|zona con vistas||L|nat|B2
+espace vert|zona verde||L|cit|B2
+pelouse|césped||S|nat|B2
+plein air|aire libre||L|nat|B2
+s'émerveiller|maravillarse||V|emo|B2
+empreinte|huella (rastro)||S|nat|B2
+sous-bois|sotobosque||S|nat|B2
+lisière|borde del bosque||S|nat|B2
+séjour|estancia (viaje corto)||S|vig|B2
+escapade|escapada (viaje relámpago)||S|vig|B2
+dépaysement|sensación de desubicación (cambio de aires)||S|vig|B2
+visite guidée|visita guiada||L|vig|B2
+audioguide|audioguía||S|vig|B2
+coupe-file|pase de prioridad (sin colas)||S|vig|B2
+file d'attente|cola (fila de espera)||L|cit|B2
+affluence|afluencia (muchedumbre)||S|cit|B2
+heures d'ouverture|horario de apertura||L|cit|B2
+jour férié|festivo (día feriado)||L|tmp|B2
+faire le pont|puentear||L|tmp|B2
+itinéraire|itinerario (recorrido)||S|vig|B2

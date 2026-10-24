@@ -1,0 +1,285 @@
+jeu de société|juego de mesa||L|sve|B2
+plateau|tablero||S|sve|B2
+dé|dado||S|sve|B2
+lancer les dés|tirar los dados||E|sve|B2
+pion|ficha||S|sve|B2
+carte à jouer|carta (de la baraja)||L|sve|B2
+belote|belote (juego de cartas)||S|sve|B2
+tarot|tarot (juego de cartas)||S|sve|B2
+règles du jeu|reglas del juego||L|sve|B2
+case|casilla||S|sve|B2
+tricher|hacer trampas||V|sve|B2
+tricheur|tramposo||S|sve|B2
+défaite|derrota||S|sve|B2
+match nul|empate||L|sve|B2
+collectionneur|coleccionista||S|sve|B2
+collectionner|coleccionar||V|sve|B2
+timbre|sello (de correos)||S|sve|B2
+monnaie|moneda (de colección)||S|sve|B2
+rareté|rareza||S|sve|B2
+bricolage|bricolaje||S|sve|B2
+bricoler|hacer bricolaje||V|sve|B2
+travaux manuels|manualidades||L|sve|B2
+tricot|punto (labores)||S|sve|B2
+tricoter|hacer punto||V|sve|B2
+couture|costura||S|sve|B2
+coudre|coser||V|sve|B2
+aiguille|aguja||S|sve|B2
+fil|hilo||S|sve|B2
+laine|lana||S|sve|B2
+échecs|ajedrez||S|sve|B2
+revanche|desquite||S|sve|B2
+faire une partie|echar una partida||E|sve|B2
+motivation|motivación||S|emo|B2
+motiver|motivar||V|emo|B2
+stress|estrés||S|emo|B2
+stressant|estresante||A|emo|B2
+anxiété|ansiedad||S|emo|B2
+angoisse|angustia||S|emo|B2
+angoisser|angustiar||V|emo|B2
+pression|presión||S|emo|B2
+sous pression|bajo presión||E|emo|B2
+surmenage|agotamiento (por exceso de trabajo)||S|emo|B2
+épuisement|agotamiento||S|emo|B2
+burn-out|desgaste profesional||S|emo|B2
+se détendre|relajarse||V|emo|B2
+détente|relajación||S|emo|B2
+respiration profonde|respiración profunda||L|emo|B2
+méditation|meditación||S|emo|B2
+méditer|meditar||V|emo|B2
+pleine conscience|atención plena||L|emo|B2
+estime de soi|autoestima||L|emo|B2
+confiance en soi|confianza en uno mismo||L|emo|B2
+volonté|voluntad||S|emo|B2
+persévérance|perseverancia||S|emo|B2
+persévérer|perseverar||V|emo|B2
+renoncer|renunciar (a algo)||V|emo|B2
+découragement|desánimo||S|emo|B2
+se décourager|desanimarse||V|emo|B2
+récompense|recompensa||S|emo|B2
+récompenser|recompensar||V|emo|B2
+objectif|objetivo (meta)||S|emo|B2
+se fixer un objectif|fijarse un objetivo||E|emo|B2
+procrastination|procrastinación||S|emo|B2
+procrastiner|procrastinar||V|emo|B2
+argument|argumento||S|cmu|B2
+argumenter|argumentar||V|cmu|B2
+thèse|tesis (postura)||S|cmu|B2
+antithèse|antítesis||S|cmu|B2
+synthèse|síntesis||S|cmu|B2
+réfuter|refutar||V|cmu|B2
+réfutation|refutación||S|cmu|B2
+contredire|contradecir||V|cmu|B2
+contradiction|contradicción||S|cmu|B2
+opposer|oponer||V|cmu|B2
+s'opposer à|oponerse a||V|cmu|B2
+nuancer|matizar||V|cmu|B2
+nuance|matiz||S|cmu|B2
+point de vue|punto de vista||L|cmu|B2
+à mon sens|a mi juicio||E|cmu|B2
+de fait|de hecho||E|cmu|B2
+prendre position|tomar posición||E|cmu|B2
+convaincre|convencer||V|cmu|B2
+convaincu|convencido||A|cmu|B2
+persuader|persuadir||V|cmu|B2
+persuasion|persuasión||S|cmu|B2
+hésitant|vacilante||A|cmu|B2
+remettre en question|cuestionar||E|cmu|B2
+critique|crítica||S|cmu|B2
+controverse|polémica||S|cmu|B2
+divergence|divergencia||S|cmu|B2
+reproche|reproche||S|cmu|B2
+faire des reproches|reprochar||E|cmu|B2
+objection|objeción||S|cmu|B2
+objecter|objetar||V|cmu|B2
+faiblesse|debilidad (de un argumento)||S|cmu|B2
+concéder|conceder||V|cmu|B2
+exposé|exposición (presentación oral)||S|cmu|B2
+présentation|presentación||S|cmu|B2
+conférencier|conferenciante||S|cmu|B2
+orateur|orador||S|cmu|B2
+discours|discurso||S|cmu|B2
+prise de parole|toma de la palabra||L|cmu|B2
+prendre la parole|tomar la palabra||E|cmu|B2
+auditoire|auditorio||S|cmu|B2
+public|público||S|cmu|B2
+assistance|asistentes||S|cmu|B2
+diaporama|presentación de diapositivas||S|cmu|B2
+diapositive|diapositiva||S|cmu|B2
+projecteur|proyector||S|cmu|B2
+trac|miedo escénico||S|cmu|B2
+avoir le trac|tener miedo escénico||E|cmu|B2
+bafouiller|tartamudear||V|cmu|B2
+bredouiller|farfullar||V|cmu|B2
+articuler|articular (pronunciar con claridad)||V|cmu|B2
+débit|ritmo de elocución||S|cmu|B2
+marquer une pause|hacer una pausa||E|cmu|B2
+gestuelle|lenguaje gestual||S|cmu|B2
+gesticuler|gesticular||V|cmu|B2
+contact visuel|contacto visual||L|cmu|B2
+support visuel|material visual||L|cmu|B2
+résumé|resumen||S|cmu|B2
+résumer|resumir||V|cmu|B2
+développer un point|desarrollar un punto||E|cmu|B2
+conclure|concluir||V|cmu|B2
+conclusion|conclusión||S|cmu|B2
+transition|transición||S|cmu|B2
+assurance|seguridad (en sí mismo)||S|cmu|B2
+haut et fort|en voz alta||E|cmu|B2
+négociation|negociación||S|cmu|B2
+négocier|negociar||V|cmu|B2
+compromis|compromiso (punto medio)||S|cmu|B2
+trouver un compromis|llegar a un compromiso||E|cmu|B2
+faire des concessions|hacer concesiones||E|cmu|B2
+accord|acuerdo||S|cmu|B2
+être d'accord|estar de acuerdo||E|cmu|B2
+pourparlers|conversaciones (de negociación)||S|cmu|B2
+marge de manœuvre|margen de maniobra||L|cmu|B2
+exigence|exigencia||S|cmu|B2
+exiger|exigir||V|cmu|B2
+revendication|reivindicación||S|cmu|B2
+revendiquer|reivindicar||V|cmu|B2
+renonciation|renuncia||S|cmu|B2
+médiation|mediación||S|cmu|B2
+médiateur|mediador||S|cmu|B2
+conciliation|conciliación||S|cmu|B2
+concilier|conciliar||V|cmu|B2
+arbitrage|arbitraje||S|cmu|B2
+à condition que|a condición de que||C|cmu|B2
+pourvu que|siempre que||C|cmu|B2
+en échange de|a cambio de||E|cmu|B2
+délicat|delicado||A|cmu|B2
+embarrassant|incómodo (delicado)||A|cmu|B2
+tourner autour du pot|irse por las ramas||E|cmu|B2
+ménager|tratar con tacto||V|cmu|B2
+diplomatie|diplomacia||S|cmu|B2
+diplomatique|diplomático||A|cmu|B2
+formule|fórmula||S|cmu|B2
+bienveillant|benevolente||A|cmu|B2
+bienveillance|benevolencia||S|cmu|B2
+sauf si|salvo si||C|cmu|B2
+juge|juez||S|ist|B2
+jugement|sentencia||S|ist|B2
+avocat|abogado||S|ist|B2
+procureur|fiscal||S|ist|B2
+cour|tribunal||S|ist|B2
+cour d'appel|tribunal de apelación||L|ist|B2
+procès|juicio||S|ist|B2
+procédure|procedimiento||S|ist|B2
+audience|vista (judicial)||S|ist|B2
+témoignage|testimonio||S|ist|B2
+témoin|testigo||S|ist|B2
+preuve|prueba||S|ist|B2
+pièces à conviction|pruebas (documentales)||L|ist|B2
+verdict|veredicto||S|ist|B2
+coupable|culpable||A|ist|B2
+culpabilité|culpabilidad||S|ist|B2
+innocent|inocente||A|ist|B2
+innocence|inocencia||S|ist|B2
+acquitter|absolver||V|ist|B2
+acquittement|absolución||S|ist|B2
+condamner|condenar||V|ist|B2
+condamnation|condena||S|ist|B2
+peine|pena||S|ist|B2
+peine de mort|pena de muerte||L|ist|B2
+emprisonnement|encarcelamiento||S|ist|B2
+amende|multa||S|ist|B2
+inculper|imputar||V|ist|B2
+inculpation|imputación||S|ist|B2
+poursuites judiciaires|acciones judiciales||L|ist|B2
+déposer plainte|presentar denuncia||E|ist|B2
+plainte|denuncia||S|ist|B2
+garde à vue|detención preventiva||L|ist|B2
+administration|administración||S|ist|B2
+démarche|trámite||S|ist|B2
+démarches administratives|trámites administrativos||L|ist|B2
+formulaire|formulario||S|ist|B2
+remplir un formulaire|rellenar un formulario||E|ist|B2
+dossier|expediente||S|ist|B2
+papier d'identité|documento de identidad||L|ist|B2
+justificatif de domicile|justificante de domicilio||L|ist|B2
+guichet|ventanilla||S|ist|B2
+guichet unique|ventanilla única||L|ist|B2
+agent|agente (público)||S|ist|B2
+fonctionnaire|funcionario||S|ist|B2
+mairie|ayuntamiento||S|ist|B2
+préfecture|prefectura||S|ist|B2
+services publics|servicios públicos||L|ist|B2
+convocation|citación||S|ist|B2
+convoquer|citar||V|ist|B2
+attestation|certificado (declaración jurada)||S|ist|B2
+certificat|certificado||S|ist|B2
+tampon|sello (de goma)||S|ist|B2
+tamponner|sellar||V|ist|B2
+signature|firma||S|ist|B2
+signer|firmar||V|ist|B2
+traiter|tramitar||V|ist|B2
+en cours de traitement|en tramitación||E|ist|B2
+réclamer|reclamar||V|ist|B2
+réclamation|reclamación||S|ist|B2
+accusé de réception|acuse de recibo||L|ist|B2
+usager|usuario||S|ist|B2
+renouveler|renovar||V|ist|B2
+duplicata|copia (de un documento)||S|ist|B2
+expirer|caducar||V|ist|B2
+élection|elecciones||S|ist|B2
+vote|voto||S|ist|B2
+voter|votar||V|ist|B2
+urne|urna (electoral)||S|ist|B2
+isoloir|cabina de votación||S|ist|B2
+candidat|candidato||S|ist|B2
+candidature|candidatura||S|ist|B2
+campagne électorale|campaña electoral||L|ist|B2
+suffrage|sufragio||S|ist|B2
+suffrage universel|sufragio universal||L|ist|B2
+sondage|sondeo (electoral)||S|ist|B2
+taux d'abstention|tasa de abstención||L|ist|B2
+abstention|abstención||S|ist|B2
+parti politique|partido político||L|ist|B2
+maire|alcalde||S|ist|B2
+mandat|mandato||S|ist|B2
+municipal|municipal||A|ist|B2
+conseiller municipal|concejal||L|ist|B2
+démocratie|democracia||S|ist|B2
+démocratique|democrático||A|ist|B2
+citoyen|ciudadano||S|ist|B2
+scrutin|escrutinio||S|ist|B2
+premier tour|primera vuelta||L|ist|B2
+second tour|segunda vuelta||L|ist|B2
+liberté d'expression|libertad de expresión||L|ist|B2
+gouverner|gobernar||V|ist|B2
+gouvernance|gobernanza||S|ist|B2
+opinion publique|opinión pública||L|ist|B2
+promesse|promesa (electoral)||S|ist|B2
+majorité|mayoría||S|ist|B2
+parlement|parlamento||S|ist|B2
+toutefois|sin embargo||C|cnn|B2
+néanmoins|no obstante||C|cnn|B2
+cependant|sin embargo||C|cnn|B2
+pourtant|aun así||C|cnn|B2
+en revanche|en cambio||E|cnn|B2
+d'ailleurs|por otra parte||E|cnn|B2
+du reste|por lo demás||E|cnn|B2
+en outre|además||E|cnn|B2
+par ailleurs|por otro lado||E|cnn|B2
+de surcroît|es más||E|cnn|B2
+ainsi|así pues||C|cnn|B2
+ainsi que|así como||C|cnn|B2
+c'est pourquoi|por eso||E|cnn|B2
+par conséquent|en consecuencia||E|cnn|B2
+d'où|de ahí que||E|cnn|B2
+de ce fait|por este motivo||E|cnn|B2
+à l'inverse|a la inversa||E|cnn|B2
+en dépit de|a pesar de||E|cnn|B2
+quoi qu'il en soit|sea como sea||E|cnn|B2
+en somme|en suma||E|cnn|B2
+bref|en definitiva||C|cnn|B2
+en bref|en resumen||E|cnn|B2
+d'une part|por una parte||E|cnn|B2
+d'autre part|por otra parte||E|cnn|B2
+en premier lieu|en primer lugar||E|cnn|B2
+en second lieu|en segundo lugar||E|cnn|B2
+à savoir|es decir||E|cnn|B2
+autrement dit|dicho de otro modo||E|cnn|B2
+en d'autres termes|en otros términos||E|cnn|B2
+or|ahora bien||C|cnn|B2

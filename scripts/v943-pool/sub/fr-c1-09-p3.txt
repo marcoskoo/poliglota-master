@@ -1,0 +1,259 @@
+quintessence|quintaesencia||S|ast|C1
+universalité|universalidad||S|ast|C1
+singularité|singularidad||S|ast|C1
+plénitude|plenitud||S|ast|C1
+vacuité|vacuidad||S|ast|C1
+néant|nada (la nada)||S|ast|C1
+nihilisme|nihilismo||S|ast|C1
+dérisoire|irrisorio||A|ast|C1
+inhérent|inherente||A|ast|C1
+intrinsèque|intrínseco||A|ast|C1
+phénoménologie|fenomenología||S|ast|C1
+dogmatisme|dogmatismo||S|ast|C1
+scepticisme|escepticismo||S|ast|C1
+stoïcisme|estoicismo||S|ast|C1
+ascétisme|ascetismo||S|ast|C1
+a fortiori|con mayor razón||L|cnn|C1
+a priori|a priori||L|ast|C1
+a posteriori|a posteriori||L|ast|C1
+ad hoc|ad hoc||A|ast|C1
+grosso modo|a grandes rasgos||L|ast|C1
+in extremis|en el último momento||L|tmp|C1
+in situ|in situ||L|ast|C1
+ex abrupto|de improviso||L|ast|C1
+ex nihilo|de la nada||L|ast|C1
+de facto|de facto||L|ast|C1
+de visu|con sus propios ojos||L|ast|C1
+mutatis mutandis|mutatis mutandis||L|ast|C1
+stricto sensu|en sentido estricto||L|ast|C1
+sine die|sin fecha fijada||L|tmp|C1
+condition sine qua non|condición indispensable||L|ast|C1
+mea culpa|mea culpa||L|cmu|C1
+statu quo|statu quo||S|ast|C1
+persona non grata|persona non grata||L|ast|C1
+post mortem|post mortem||L|ast|C1
+alibi|coartada||S|ast|C1
+aporie|aporía||S|ast|C1
+ostracisme|ostracismo||S|ast|C1
+laconique|lacónico||A|ast|C1
+kermesse|verbena (fiesta popular)||S|sve|C1
+polder|pólder||S|nat|C1
+ersatz|sucedáneo||S|ast|C1
+diktat|imposición (diktat)||S|ast|C1
+oxymore|oxímoron||S|let|C1
+chiasme|quiasmo||S|let|C1
+synecdoque|sinécdoque||S|let|C1
+métonymie|metonimia||S|let|C1
+qui vivra verra|el tiempo lo dirá||E|ast|C1
+après moi le déluge|después de mí el diluvio||E|ast|C1
+la nuit porte conseil|la noche da consejo||E|ast|C1
+l'exception confirme la règle|la excepción confirma la regla||E|ast|C1
+l'appétit vient en mangeant|el apetito viene comiendo||E|ali|C1
+qui ne dit rien consent|quien calla otorga||E|cmu|C1
+la fin justifie les moyens|el fin justifica los medios||E|ast|C1
+une main lave l'autre|una mano lava la otra||E|ast|C1
+tel père tel fils|de tal padre tal hijo||E|fam|C1
+au pied de la lettre|al pie de la letra||L|cmu|C1
+à mots couverts|con medias palabras||L|cmu|C1
+sans coup férir|sin disparar un tiro||L|ast|C1
+de but en blanc|a bocajarro||L|cmu|C1
+en son for intérieur|en su fuero interno||L|ast|C1
+mot pour mot|palabra por palabra||L|cmu|C1
+à la va-vite|a toda prisa||L|tmp|C1
+sans façons|sin cumplidos||L|cmu|C1
+pour la forme|por cumplir||L|cmu|C1
+pour la galerie|para la galería||L|cmu|C1
+à la sauvette|a hurtadillas||L|cmu|C1
+contre vents et marées|contra viento y marea||L|ast|C1
+ni vu ni connu|sin que nadie se entere||E|cmu|C1
+un point c'est tout|y punto redondo||E|cmu|C1
+n'en déplaise à|para disgusto de||L|cmu|C1
+soit dit en passant|dicho sea de paso||L|cmu|C1
+le cas échéant|en su caso||L|ast|C1
+à dessein|adrede||L|ast|C1
+sans détour|sin rodeos||L|cmu|C1
+il n'empêche que|no obstante||L|cnn|C1
+chanter la même antienne|dar la misma cantinela||E|cmu|C1
+à point nommé|en el momento oportuno||L|tmp|C1
+euphémisme|eufemismo||S|cmu|C1
+litote|lítote||S|let|C1
+antiphrase|antífrasis||S|let|C1
+ironiser|ironizar||V|cmu|C1
+raillerie|sorna||S|cmu|C1
+railler|burlarse con sorna||V|cmu|C1
+persiflage|persiflaje||S|cmu|C1
+gouaillerie|guasa||S|cmu|C1
+gouailleur|guasón||A|cmu|C1
+insinuation|insinuación||S|cmu|C1
+insinuer|insinuar||V|cmu|C1
+sous-entendu|subentendido||S|cmu|C1
+périphrase|perífrasis||S|let|C1
+pragmatique|pragmática||S|cmu|C1
+prétérition|preterición||S|let|C1
+réticence|reticencia||S|cmu|C1
+mépris|desdén||S|emo|C1
+dédain|menosprecio||S|emo|C1
+condescendance|condescendencia||S|emo|C1
+deuxième degré|segundo grado (ironía)||S|cmu|C1
+humour noir|humor negro||L|cmu|C1
+pince-sans-rire|de humor seco||A|cmu|C1
+fausse modestie|falsa modestia||L|cmu|C1
+badinage|broma ligera||S|cmu|C1
+badiner|bromear ligeramente||V|cmu|C1
+boutade|ocurrencia (boutade)||S|cmu|C1
+langue de bois|lenguaje prefabricado||L|cmu|C1
+non-dit|lo no dicho||S|cmu|C1
+circonvolutions|circunloquios||S|cmu|C1
+euphémiser|suavizar con eufemismos||V|cmu|C1
+sous-entendre|dar a entender||V|cmu|C1
+se défiler|rajarse||V|cmu|C1
+filer à l'anglaise|escabullirse||L|cmu|C1
+se carapater|esfumarse||V|cmu|C1
+tirer sa révérence|despedirse con elegancia||L|cmu|C1
+baraque|chabola||S|cas|C1
+caisse|cacharro (coche)||S|tra|C1
+bagnole|cacharro (coche)||S|tra|C1
+piaule|cuarto (habitación)||S|cas|C1
+fric|pasta (dinero)||S|fin|C1
+thune|pasta (dinero)||S|fin|C1
+bouseux|paletos||S|cmu|C1
+péquenaud|pueblerino||S|cmu|C1
+bécane|cacharro (moto)||S|tra|C1
+daron|viejo (padre)||S|fam|C1
+meuf|tía (mujer)||S|cmu|C1
+keuf|madero (policía)||S|cmu|C1
+enfoiré|desgraciado (cabrón)||S|cmu|C1
+saloperie|porquería||S|cmu|C1
+salopard|canalla||S|cmu|C1
+connard|gilipollas||S|cmu|C1
+connerie|gilipollez||S|cmu|C1
+galère|apuro (situación mala)||S|cmu|C1
+galérer|pasarlo canutas||V|cmu|C1
+bouffer|zamparse||V|ali|C1
+picoler|beber (alcohol)||V|ali|C1
+pote|colega||S|rel|C1
+se marrer|desternillarse||V|sve|C1
+flemmard|holgazán||S|lav|C1
+glandeur|vago||S|lav|C1
+bosser|currar||V|lav|C1
+péter un câble|perder la chaveta||L|emo|C1
+kiffer|molar (gustar)||V|cmu|C1
+cagnard|calor abrasador (sur)||S|cli|C1
+mistral|mistral||S|nat|C1
+tramontane|tramontana||S|nat|C1
+garrigue|garriga||S|nat|C1
+mas|masía (Provenza)||S|cas|C1
+bastide|casona (suroeste)||S|cit|C1
+bouillabaisse|bullabesa||S|ali|C1
+bourride|borrida (sopa de pescado)||S|ali|C1
+tapenade|tapanada||S|ali|C1
+aïoli|alioli||S|ali|C1
+pistou|pesto provenzal||S|ali|C1
+fada|chiflado (sur)||S|cmu|C1
+gavé|harto (suroeste)||A|cmu|C1
+cagouille|caracol (Charentes)||S|ali|C1
+chouchouter|mimar (sur)||V|fam|C1
+patois|patois||S|let|C1
+accent méridional|acento del sur||L|cmu|C1
+provençal|provenzal||A|let|C1
+occitan|occitano||A|let|C1
+alsacien|alsaciano||A|let|C1
+gallo|galo (habla de oíl)||S|let|C1
+dégun|nadie (Provenza)||P|cmu|C1
+pitchoun|pequeñín (sur)||S|fam|C1
+goémon|sargazo||S|nat|C1
+cassoulet|cassoulet||S|ali|C1
+aligot|aligot (puré auvernés)||S|ali|C1
+tartiflette|tartiflette||S|ali|C1
+fougasse|hogaza provenzal||S|ali|C1
+chichi|churro (sur)||S|ali|C1
+peuchère|pobrecillo (interjección lionesa)||I|cmu|C1
+ch'ti|ch'ti (norte de Francia)||A|cmu|C1
+affabilité|afabilidad||S|emo|C1
+affable|afable||A|emo|C1
+altier|altivo||A|emo|C1
+morgue|soberbia||S|emo|C1
+outrecuidance|presunción soberbia||S|emo|C1
+forfanterie|jactancia||S|emo|C1
+vantardise|vanidad fanfarrona||S|emo|C1
+magnanime|magnánimo||A|emo|C1
+indulgence|indulgencia||S|emo|C1
+commisération|conmiseración||S|emo|C1
+attendrissement|enternecimiento||S|emo|C1
+saisissement|conmoción||S|emo|C1
+étreinte|abrazo apretado||S|emo|C1
+sanglot|sollozo||S|emo|C1
+maussade|huraño||A|emo|C1
+morose|apagado||A|emo|C1
+atrabilaire|atrabiliario||A|emo|C1
+avoir le cafard|estar de bajón||L|emo|C1
+fougue|brío||S|emo|C1
+fougueux|fogoso||A|emo|C1
+impétuosité|impetuosidad||S|emo|C1
+placidité|placidez||S|emo|C1
+flegme|flema||S|emo|C1
+impavide|impávido||A|emo|C1
+résignation|resignación||S|emo|C1
+abattement|abatimiento||S|emo|C1
+lassitude|lassitud||S|emo|C1
+répugnance|repugnancia||S|emo|C1
+mansuétude|mansedumbre||S|emo|C1
+pusillanime|pusilánime||A|emo|C1
+couardise|cobardía||S|emo|C1
+nonchalance|desgana elegante||S|emo|C1
+piloter|dirigir (gobernar)||V|lav|C1
+gouvernance|gobernanza||S|lav|C1
+feuille de route|hoja de ruta||L|lav|C1
+cadrage|encuadre (alcance de un proyecto)||S|lav|C1
+jalon|hito (de un proyecto)||S|lav|C1
+compte rendu|acta (informe)||S|lav|C1
+relevé de décisions|acta de decisiones||L|lav|C1
+reporting|informes de gestión||S|lav|C1
+levier|palanca||S|lav|C1
+effectif|plantilla (efectivos)||S|lav|C1
+rotation du personnel|rotación de personal||L|lav|C1
+actionnariat|accionariado||S|fin|C1
+holding|sociedad holding||S|fin|C1
+filiale|filial||S|fin|C1
+maison-mère|casa matriz||S|fin|C1
+siège social|sede social||L|fin|C1
+comité de direction|comité de dirección||L|lav|C1
+conseil d'administration|consejo de administración||L|fin|C1
+administrateur|consejero (administrador)||S|pro|C1
+restructuration|reestructuración||S|lav|C1
+managérial|de gestión (directivo)||A|lav|C1
+subsidiarité|subsidiariedad||S|lav|C1
+déclinaison|despliegue (adecuación por niveles)||S|lav|C1
+priorisation|priorización||S|lav|C1
+arbitrage|arbitraje (asignación de recursos)||S|fin|C1
+marge opérationnelle|margen operativo||L|fin|C1
+seuil de rentabilité|umbral de rentabilidad||L|fin|C1
+fonds de roulement|fondo de maniobra||L|fin|C1
+trésorerie|tesorería||S|fin|C1
+budgétisation|presupuestación||S|fin|C1
+levée de fonds|ronda de financiación||L|fin|C1
+plan d'action|plan de acción||L|lav|C1
+recrutement|reclutamiento||S|lav|C1
+chasseur de têtes|cazatalentos||S|pro|C1
+candidature spontanée|candidatura espontánea||L|lav|C1
+entretien annuel|entrevista anual||L|lav|C1
+entretien de sortie|entrevista de salida||L|lav|C1
+référentiel de compétences|marco de competencias||L|lav|C1
+gestion des compétences|gestión de competencias||L|lav|C1
+formation continue|formación continua||L|stu|C1
+alternance|formación en alternancia||S|stu|C1
+mentorat|mentoría||S|stu|C1
+bilan de compétences|balance de competencias||L|lav|C1
+mobilité interne|movilidad interna||L|lav|C1
+évolution de carrière|desarrollo profesional||L|lav|C1
+plafond de verre|techo de cristal||L|lav|C1
+discrimination à l'embauche|discriminación en la contratación||L|lav|C1
+harcèlement moral|acoso psicológico||L|lav|C1
+harcèlement sexuel|acoso sexual||L|lav|C1
+burn-out|desgaste profesional (burnout)||S|lav|C1
+absentéisme|absentismo||S|lav|C1
+présentéisme|presentismo||S|lav|C1
+démission|dimisión||S|lav|C1
+démissionner|dimitir||V|lav|C1
+licenciement économique|despido colectivo||L|lav|C1
+rupture conventionnelle|extinción pactada||L|lav|C1

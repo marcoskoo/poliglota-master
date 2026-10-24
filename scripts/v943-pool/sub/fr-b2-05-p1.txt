@@ -1,0 +1,287 @@
+banlieue|extrarradio||S|cit|B2
+périphérie|afueras||S|cit|B2
+habitat|hábitat (vivienda)||S|cit|B2
+réhabilitation|rehabilitación (de barrios)||S|cit|B2
+rénovation urbaine|renovación urbana||L|cit|B2
+spéculation immobilière|especulación inmobiliaria||L|cit|B2
+logements sociaux|vivienda social||L|cit|B2
+précarité|precariedad||S|cit|B2
+chantier|obra (de construcción)||S|cit|B2
+gratte-ciel|rascacielos||S|cit|B2
+béton|hormigón||S|cit|B2
+urbaniste|urbanista||S|pro|B2
+aménagement du territoire|ordenación del territorio||L|cit|B2
+voirie|vialidad||S|cit|B2
+pavé|adoquín||S|cit|B2
+stationnement|aparcamiento||S|cit|B2
+embouteillage|atasco||S|cit|B2
+engorgement|congestión (de tráfico)||S|cit|B2
+transports en commun|transporte público||L|cit|B2
+piste cyclable|carril bici||L|cit|B2
+lampadaire|farola||S|cit|B2
+taudis|vivienda insalubre||S|cit|B2
+sans-abri|sin techo||S|cit|B2
+délinquance|delincuencia||S|cit|B2
+incivilité|incivilidad||S|cit|B2
+graffiti|grafiti||S|cit|B2
+loyer|alquiler (de vivienda)||S|cit|B2
+expulser|desalojar||V|cit|B2
+agglomération|aglomeración urbana||S|cit|B2
+exode rural|éxodo rural||L|cit|B2
+promiscuité|hacinamiento||S|cit|B2
+insalubrité|insalubridad||S|cit|B2
+service public|servicio público||L|ist|B2
+mairie|ayuntamiento||S|ist|B2
+maire|alcalde||S|pro|B2
+conseil municipal|pleno municipal||L|ist|B2
+élection municipale|elección municipal||L|ist|B2
+scrutin|escrutinio||S|ist|B2
+liste électorale|censo electoral||L|ist|B2
+bureau de vote|colegio electoral||L|ist|B2
+isoloir|cabina de votación||S|ist|B2
+bulletin de vote|papeleta electoral||L|ist|B2
+abstention|abstención||S|ist|B2
+pétition|petición ciudadana||S|ist|B2
+référendum|referéndum||S|ist|B2
+arrêté|ordenanza municipal||S|ist|B2
+recours|recurso administrativo||S|ist|B2
+décret|decreto||S|ist|B2
+ramassage des ordures|recogida de basuras||L|cit|B2
+collecte sélective|recogida selectiva||L|cit|B2
+déchèterie|punto limpio||S|cit|B2
+médiathèque|mediateca||S|ist|B2
+crèche|guardería||S|ist|B2
+pompier|bombero||S|pro|B2
+préfecture|prefectura||S|ist|B2
+état civil|registro civil||L|ist|B2
+guichet|ventanilla||S|ist|B2
+usager|usuario||S|ist|B2
+réclamation|reclamación||S|ist|B2
+subvention|subvención||S|fin|B2
+citoyenneté|ciudadanía||S|ist|B2
+s'impliquer|implicarse||V|ist|B2
+concertation|consulta ciudadana||S|ist|B2
+conseil de quartier|junta de barrio||L|cit|B2
+effet de serre|efecto invernadero||L|cli|B2
+dérèglement climatique|desregulación climática||L|cli|B2
+empreinte carbone|huella de carbono||L|cli|B2
+montée des eaux|subida del nivel del mar||L|cli|B2
+fonte des glaces|deshielo||L|cli|B2
+banquise|banquisa||S|cli|B2
+acidification des océans|acidificación de los océanos||L|cli|B2
+canicule|ola de calor||S|cli|B2
+déforestation|deforestación||S|cli|B2
+reboisement|repoblación forestal||S|cli|B2
+tempête|tormenta||S|cli|B2
+ouragan|huracán||S|cli|B2
+cyclone|ciclón||S|cli|B2
+glissement de terrain|desprendimiento de tierra||L|cli|B2
+avalanche|alud||S|cli|B2
+séisme|terremoto||S|cli|B2
+tsunami|tsunami||S|cli|B2
+éruption volcanique|erupción volcánica||L|cli|B2
+coulée de boue|corriente de barro||L|cli|B2
+incendie de forêt|incendio forestal||L|cli|B2
+ravager|devastar||V|cli|B2
+sinistré|damnificado||S|cli|B2
+victime|víctima||S|cli|B2
+évacuation|evacuación||S|cli|B2
+se réfugier|refugiarse||V|cli|B2
+secourir|socorrer||V|cli|B2
+dégâts|daños||S|cli|B2
+reconstruction|reconstrucción||S|cli|B2
+alerte|alerta||S|cli|B2
+résilience|resiliencia||S|cli|B2
+s'adapter|adaptarse (a los cambios)||V|cli|B2
+défilé de mode|desfile de moda||L|rop|B2
+mannequin|modelo de pasarela||S|rop|B2
+passerelle|pasarela||S|rop|B2
+haute couture|alta costura||L|rop|B2
+couturier|modisto||S|pro|B2
+prêt-à-porter|moda de confección||S|rop|B2
+seconde main|segunda mano||L|rop|B2
+friperie|tienda de ropa usada||S|rop|B2
+fast fashion|moda rápida||L|rop|B2
+tissu|tejido||S|rop|B2
+textile|industria textil||S|rop|B2
+fibre|fibra textil||S|rop|B2
+coton|algodón||S|rop|B2
+laine|lana||S|rop|B2
+soie|seda||S|rop|B2
+lin|lino||S|rop|B2
+cuir|cuero||S|rop|B2
+fourrure|piel||S|rop|B2
+dentelle|encaje||S|rop|B2
+broderie|bordado||S|rop|B2
+imprimé|estampado||S|rop|B2
+rayure|raya (de una tela)||S|rop|B2
+à carreaux|de cuadros||L|rop|B2
+coupe|corte (de una prenda)||S|rop|B2
+patron|patrón de costura||S|rop|B2
+ourlet|dobladillo||S|rop|B2
+tailleur|traje sastre||S|rop|B2
+confection|confección||S|rop|B2
+retoucher|arreglar (ropa)||V|rop|B2
+teindre|teñir||V|rop|B2
+démodé|pasado de moda||A|rop|B2
+être à la mode|estar de moda||E|rop|B2
+réseau social|red social||L|tec|B2
+abonné|seguidor||S|tec|B2
+s'abonner|suscribirse||V|tec|B2
+fil d'actualité|muro de publicaciones||L|tec|B2
+publication|publicación||S|cmu|B2
+hashtag|etiqueta (hashtag)||S|tec|B2
+mention|mención||S|cmu|B2
+influenceur|influencer||S|tec|B2
+communauté virtuelle|comunidad virtual||L|tec|B2
+profil|perfil||S|tec|B2
+pseudo|nombre de usuario||S|tec|B2
+compte|cuenta (de usuario)||S|tec|B2
+partage|compartición||S|tec|B2
+devenir viral|hacerse viral||E|tec|B2
+fausse information|noticia falsa||L|cmu|B2
+infox|bulo||S|cmu|B2
+désinformation|desinformación||S|cmu|B2
+cyberharcèlement|ciberacoso||S|tec|B2
+harcèlement en ligne|acoso en línea||L|tec|B2
+anonymat|anonimato||S|tec|B2
+identité numérique|identidad digital||L|tec|B2
+modérateur|moderador||S|pro|B2
+blocage|bloqueo||S|tec|B2
+bloquer|bloquear||V|tec|B2
+signalement|denuncia en la plataforma||S|tec|B2
+dépendance aux écrans|adicción a las pantallas||L|sla|B2
+temps d'écran|tiempo de pantalla||L|tec|B2
+déconnexion|desconexión digital||S|tec|B2
+naviguer|navegar (por la red)||V|tec|B2
+téléchargement|descarga||S|tec|B2
+messagerie instantanée|mensajería instantánea||L|tec|B2
+bulle de filtre|burbuja de filtro||L|tec|B2
+mot de passe|contraseña||L|tec|B2
+cybersécurité|ciberseguridad||S|tec|B2
+piratage|pirateo informático||S|tec|B2
+pirater|hackear||V|tec|B2
+hameçonnage|phishing||S|tec|B2
+rançongiciel|ransomware||S|tec|B2
+logiciel malveillant|software malicioso||L|tec|B2
+pare-feu|cortafuegos||S|tec|B2
+cryptage|cifrado||S|tec|B2
+chiffrer|cifrar||V|tec|B2
+faille de sécurité|brecha de seguridad||L|tec|B2
+usurpation d'identité|suplantación de identidad||L|tec|B2
+escroquerie|estafa||S|tec|B2
+arnaque|timo||S|tec|B2
+arnaquer|timar||V|tec|B2
+cyberattaque|ciberataque||S|tec|B2
+cybercriminalité|ciberdelincuencia||S|tec|B2
+rançon|rescate||S|tec|B2
+logiciel espion|programa espía||L|tec|B2
+surveillance|vigilancia||S|tec|B2
+surveiller|vigilar||V|tec|B2
+géolocalisation|geolocalización||S|tec|B2
+traçabilité|trazabilidad||S|tec|B2
+réglages de confidentialité|ajustes de privacidad||L|tec|B2
+confidentiel|confidencial||A|tec|B2
+divulgation|divulgación||S|tec|B2
+sauvegarde|copia de seguridad||S|tec|B2
+sauvegarder|hacer una copia de seguridad||V|tec|B2
+mise à jour|actualización||L|tec|B2
+authentification|autenticación||S|tec|B2
+vie privée|privacidad||L|tec|B2
+données personnelles|datos personales||L|tec|B2
+code|código (informático)||S|tec|B2
+coder|programar||V|tec|B2
+développeur|desarrollador||S|pro|B2
+langage de programmation|lenguaje de programación||L|tec|B2
+variable|variable||S|tec|B2
+boucle|bucle||S|tec|B2
+fonction|función||S|tec|B2
+paramètre|parámetro||S|tec|B2
+algorithme|algoritmo||S|tec|B2
+débogage|depuración||S|tec|B2
+déboguer|depurar||V|tec|B2
+bogue|fallo de software||S|tec|B2
+tester|probar||V|tec|B2
+version bêta|versión beta||L|tec|B2
+exécuter|ejecutar||V|tec|B2
+compilation|compilación||S|tec|B2
+compiler|compilar||V|tec|B2
+serveur|servidor||S|tec|B2
+base de données|base de datos||L|tec|B2
+requête|consulta (a una base de datos)||S|tec|B2
+stockage|almacenamiento||S|tec|B2
+hébergeur|proveedor de alojamiento||S|tec|B2
+hébergement|alojamiento web||S|tec|B2
+interface|interfaz||S|tec|B2
+ergonomie|ergonomía||S|tec|B2
+conception|diseño||S|tec|B2
+concevoir|diseñar||V|tec|B2
+cahier des charges|pliego de condiciones||L|tec|B2
+maintenance|mantenimiento||S|tec|B2
+panne|avería||S|tec|B2
+redémarrer|reiniciar||V|tec|B2
+intelligence artificielle|inteligencia artificial||L|tec|B2
+compétition|competición||S|spt|B2
+compétiteur|competidor||S|spt|B2
+tournoi|torneo||S|spt|B2
+championnat|campeonato||S|spt|B2
+champion|campeón||S|spt|B2
+médaille d'or|medalla de oro||L|spt|B2
+podium|podio||S|spt|B2
+record|récord||S|spt|B2
+battre un record|batir un récord||E|spt|B2
+épreuve|prueba (deportiva)||S|spt|B2
+finale|final||S|spt|B2
+demi-finale|semifinal||S|spt|B2
+se qualifier|clasificarse||V|spt|B2
+éliminatoire|eliminatoria||S|spt|B2
+arbitre|árbitro||S|spt|B2
+arbitrage|arbitraje||S|spt|B2
+coup de sifflet|silbatazo||L|spt|B2
+faute|falta (infracción)||S|spt|B2
+penalty|penalti||S|spt|B2
+carton jaune|tarjeta amarilla||L|spt|B2
+prolongation|prórroga||S|spt|B2
+tirs au but|tanda de penaltis||L|spt|B2
+entraîneur|entrenador||S|pro|B2
+supporter|aficionado||S|spt|B2
+billetterie|taquilla||S|spt|B2
+retransmission|retransmisión||S|spt|B2
+retransmettre|retransmitir||V|spt|B2
+parrainage|patrocinio||S|spt|B2
+dossard|dorsal||S|spt|B2
+chronomètre|cronómetro||S|spt|B2
+contre la montre|contrarreloj||L|spt|B2
+dopage|dopaje||S|spt|B2
+blessure|lesión||S|sla|B2
+se blesser|lesionarse||V|sla|B2
+entorse|esguince||S|sla|B2
+foulure|torcedura||S|sla|B2
+déchirure musculaire|desgarro muscular||L|sla|B2
+claquage|tirón muscular||S|sla|B2
+crampe|calambre||S|sla|B2
+fracture|fractura||S|sla|B2
+tendinite|tendinitis||S|sla|B2
+tendon|tendón||S|cor|B2
+luxation|luxación||S|sla|B2
+articulation|articulación||S|cor|B2
+rééducation|rehabilitación (fisioterapia)||S|sla|B2
+kinésithérapeute|fisioterapeuta||S|pro|B2
+kinésithérapie|fisioterapia||S|sla|B2
+ostéopathe|osteópata||S|pro|B2
+béquille|muleta||S|sla|B2
+attelle|férula||S|sla|B2
+plâtre|escayola||S|sla|B2
+immobiliser|inmovilizar||V|sla|B2
+chirurgie|cirugía||S|sla|B2
+opération|operación (quirúrgica)||S|sla|B2
+convalescence|convalecencia||S|sla|B2
+courbature|agujetas||S|sla|B2
+récupération|recuperación (deportiva)||S|sla|B2
+échauffement|calentamiento||S|spt|B2
+s'échauffer|calentarse||V|spt|B2
+étirement|estiramiento||S|spt|B2
+antalgique|analgésico||S|sla|B2
+anti-inflammatoire|antiinflamatorio||S|sla|B2
+commotion cérébrale|conmoción cerebral||L|sla|B2
+radiographie|radiografía||S|sla|B2

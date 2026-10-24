@@ -1,0 +1,285 @@
+avocat|abogado||S|pro|B2
+barreau|colegio de abogados||S|pro|B2
+magistrat|magistrado||S|pro|B2
+juge|juez||S|pro|B2
+tribunal|tribunal||S|pro|B2
+procès|juicio||S|pro|B2
+audience|vista (judicial)||S|pro|B2
+plaider|defender (en un juicio)||V|pro|B2
+plaidoirie|alegato||S|pro|B2
+notaire|notario||S|pro|B2
+huissier de justice|agente judicial||L|pro|B2
+greffier|secretario judicial||S|pro|B2
+juriste|jurista||S|pro|B2
+jurisprudence|jurisprudencia||S|pro|B2
+contentieux|litigio||S|pro|B2
+cadre|directivo||S|pro|B2
+dirigeant|dirigente||S|pro|B2
+gérant|gerente||S|pro|B2
+gérer|gestionar||V|pro|B2
+ressources humaines|recursos humanos||L|pro|B2
+recrutement|selección de personal||S|pro|B2
+recruter|contratar (personal)||V|pro|B2
+candidature|candidatura||S|lav|B2
+lettre de motivation|carta de motivación||L|pro|B2
+entretien d'embauche|entrevista de trabajo||L|pro|B2
+embaucher|contratar||V|pro|B2
+licenciement|despido||S|pro|B2
+licencier|despedir||V|pro|B2
+démission|dimisión||S|pro|B2
+démissionner|dimitir||V|pro|B2
+médiateur|mediador||S|pro|B2
+expert-comptable|auditor de cuentas||S|pro|B2
+ingénieur|ingeniero||S|pro|B2
+ingénierie|ingeniería||S|pro|B2
+technicien|técnico||S|pro|B2
+bureau d'études|oficina técnica||L|pro|B2
+architecte|arquitecto||S|pro|B2
+maçon|albañil||S|pro|B2
+plombier|fontanero||S|pro|B2
+électricien|electricista||S|pro|B2
+menuisier|carpintero||S|pro|B2
+mécanicien|mecánico||S|pro|B2
+soudeur|soldador||S|pro|B2
+souder|soldar||V|pro|B2
+chaudronnier|calderero||S|pro|B2
+grutier|gruísta||S|pro|B2
+permis de construire|licencia de obras||L|pro|B2
+ouvrier|obrero||S|pro|B2
+qualifié|cualificado||A|pro|B2
+schéma|esquema||S|pro|B2
+prototype|prototipo||S|pro|B2
+essai|prueba (ensayo)||S|pro|B2
+mettre au point|poner a punto||E|pro|B2
+norme de sécurité|norma de seguridad||L|pro|B2
+homologation|homologación||S|pro|B2
+productivité|productividad||S|pro|B2
+ligne de production|línea de producción||L|pro|B2
+cadence|ritmo de producción||S|pro|B2
+robotisation|robotización||S|pro|B2
+automatisation|automatización||S|pro|B2
+devis|presupuesto||S|pro|B2
+gros œuvre|obra bruta||L|pro|B2
+grue|grúa||S|pro|B2
+échafaudage|andamio||S|pro|B2
+généraliste|médico de cabecera||S|pro|B2
+spécialiste|especialista||S|pro|B2
+infirmier|enfermero||S|pro|B2
+sage-femme|matrona||S|pro|B2
+pédiatre|pediatra||S|pro|B2
+psychiatre|psiquiatra||S|pro|B2
+psychologue|psicólogo||S|pro|B2
+aide-soignant|auxiliar de enfermería||S|pro|B2
+ambulancier|conductor de ambulancia||S|pro|B2
+pharmacien|farmacéutico||S|pro|B2
+chirurgien|cirujano||S|pro|B2
+anesthésiste|anestesista||S|pro|B2
+ordonnance|receta médica||S|sla|B2
+posologie|posología||S|sla|B2
+dosage|dosificación||S|sla|B2
+vaccin|vacuna||S|sla|B2
+vaccination|vacunación||S|sla|B2
+bloc opératoire|quirófano||L|sla|B2
+urgence|urgencias||S|sla|B2
+urgentiste|médico de urgencias||S|pro|B2
+ambulatoire|ambulatorio||A|sla|B2
+hospitalisation|hospitalización||S|sla|B2
+hospitaliser|hospitalizar||V|sla|B2
+enseignant|docente||S|pro|B2
+instituteur|maestro de primaria||S|pro|B2
+proviseur|director de instituto||S|pro|B2
+directeur d'école|director de colegio||L|pro|B2
+formation continue|formación continua||L|pro|B2
+stage|prácticas||S|pro|B2
+stagiaire|becario||S|pro|B2
+pédagogie|pedagogía||S|pro|B2
+périscolaire|extraescolar||A|pro|B2
+journaliste|periodista||S|pro|B2
+reporter|reportero||S|pro|B2
+reportage|reportaje||S|att|B2
+éditorial|editorial||S|pro|B2
+chroniqueur|columnista||S|pro|B2
+chronique|columna||S|pro|B2
+présentateur|presentador||S|pro|B2
+animateur|animador (de radio o TV)||S|pro|B2
+photographe|fotógrafo||S|pro|B2
+graphiste|diseñador gráfico||S|pro|B2
+infographiste|infografista||S|pro|B2
+dessinateur|dibujante||S|pro|B2
+illustrateur|ilustrador||S|pro|B2
+écrivain|escritor||S|pro|B2
+romancier|novelista||S|pro|B2
+comédien|actor||S|pro|B2
+metteur en scène|director de escena||L|pro|B2
+décorateur|decorador||S|pro|B2
+styliste|estilista||S|pro|B2
+musicien|músico||S|pro|B2
+éditeur|editor||S|pro|B2
+maison d'édition|editorial||L|pro|B2
+imprimeur|impresor||S|pro|B2
+libraire|librero||S|pro|B2
+galeriste|galerista||S|pro|B2
+commissaire d'exposition|comisario de exposiciones||L|pro|B2
+vernissage|inauguración (de una exposición)||S|art|B2
+pigiste|periodista por encargo||S|pro|B2
+caricaturiste|caricaturista||S|pro|B2
+artisan|artesano||S|pro|B2
+galerie d'art|galería de arte||L|art|B2
+politique|política||S|att|B2
+homme politique|político||L|pro|B2
+parti|partido||S|att|B2
+député|diputado||S|att|B2
+sénateur|senador||S|att|B2
+assemblée|asamblea||S|att|B2
+gouvernement|gobierno||S|att|B2
+gouverner|gobernar||V|att|B2
+premier ministre|primer ministro||L|att|B2
+ministre|ministro||S|att|B2
+présidence|presidencia||S|att|B2
+élection présidentielle|elección presidencial||L|att|B2
+meeting|mitin||S|att|B2
+promesse de campagne|promesa electoral||L|att|B2
+sondage|encuesta||S|att|B2
+opinion publique|opinión pública||L|att|B2
+manifester|manifestarse||V|att|B2
+manifestation|manifestación||S|att|B2
+grève|huelga||S|att|B2
+gréviste|huelguista||S|att|B2
+syndicat|sindicato||S|att|B2
+revendication|reivindicación||S|att|B2
+revendiquer|reivindicar||V|att|B2
+entente|entendimiento||S|att|B2
+réforme|reforma||S|att|B2
+loi|ley||S|att|B2
+projet de loi|proyecto de ley||L|att|B2
+voter|votar||V|att|B2
+opposition|oposición||S|att|B2
+majorité|mayoría||S|att|B2
+discours|discurso||S|att|B2
+polémique|polémica||S|att|B2
+croissance|crecimiento||S|fin|B2
+décroissance|decrecimiento||S|fin|B2
+récession|recesión||S|fin|B2
+inflation|inflación||S|fin|B2
+pouvoir d'achat|poder adquisitivo||L|fin|B2
+coût de la vie|coste de la vida||L|fin|B2
+hausse des prix|subida de precios||L|fin|B2
+augmentation|aumento||S|fin|B2
+chômage|paro||S|fin|B2
+demandeur d'emploi|demandante de empleo||L|fin|B2
+création d'emplois|creación de empleo||L|fin|B2
+salaire minimum|salario mínimo||L|fin|B2
+entreprise|empresa||S|fin|B2
+patronat|patronal||S|att|B2
+faillite|quiebra||S|fin|B2
+dépôt de bilan|suspensión de pagos||L|fin|B2
+délocalisation|deslocalización||S|fin|B2
+mondialisation|globalización||S|fin|B2
+libre-échange|libre comercio||S|fin|B2
+douane|aduana||S|fin|B2
+droits de douane|aranceles||L|fin|B2
+exportation|exportación||S|fin|B2
+importation|importación||S|fin|B2
+matières premières|materias primas||L|fin|B2
+pénurie|escasez||S|fin|B2
+excédent|excedente||S|fin|B2
+déficit|déficit||S|fin|B2
+dette|deuda||S|fin|B2
+économie|economía||S|fin|B2
+économique|económico||A|fin|B2
+conjoncture|coyuntura||S|fin|B2
+austérité|austeridad||S|fin|B2
+environnement|medio ambiente||S|nat|B2
+environnemental|medioambiental||A|nat|B2
+écologie|ecología||S|nat|B2
+écologique|ecológico||A|nat|B2
+pollution|contaminación||S|nat|B2
+polluer|contaminar||V|nat|B2
+déchet|residuo||S|nat|B2
+tri sélectif|separación de residuos||L|nat|B2
+recyclage|reciclaje||S|nat|B2
+recycler|reciclar||V|nat|B2
+gaspillage|despilfarro||S|nat|B2
+gaspiller|despilfarrar||V|nat|B2
+décharge|vertedero||S|nat|B2
+incinération|incineración||S|nat|B2
+compost|compost||S|nat|B2
+biodégradable|biodegradable||A|nat|B2
+réutilisable|reutilizable||A|nat|B2
+réutiliser|reutilizar||V|nat|B2
+énergie|energía||S|nat|B2
+énergie renouvelable|energía renovable||L|nat|B2
+éolienne|aerogenerador||S|nat|B2
+panneau solaire|placa solar||L|nat|B2
+centrale nucléaire|central nuclear||L|nat|B2
+nucléaire|nuclear||A|nat|B2
+pétrole|petróleo||S|nat|B2
+marée noire|marea negra||L|nat|B2
+nappe phréatique|acuífero||L|nat|B2
+cours d'eau|curso de agua||L|nat|B2
+forêt|bosque||S|nat|B2
+biodiversité|biodiversidad||S|nat|B2
+menacé|amenazado||A|nat|B2
+sensibiliser|concienciar||V|nat|B2
+chercheur|investigador||S|pro|B2
+recherche|investigación||S|sci|B2
+hypothèse|hipótesis||S|sci|B2
+théorie|teoría||S|sci|B2
+expérimentation|experimentación||S|sci|B2
+expérience|experimento||S|sci|B2
+protocole|protocolo||S|sci|B2
+méthode|método||S|sci|B2
+méthodologie|metodología||S|sci|B2
+analyse|análisis||S|sci|B2
+analyser|analizar||V|sci|B2
+conclure|concluir||V|sci|B2
+conclusion|conclusión||S|sci|B2
+démontrer|demostrar||V|sci|B2
+démonstration|demostración||S|sci|B2
+preuve|prueba||S|sci|B2
+vérifier|verificar||V|sci|B2
+contredire|contradecir||V|sci|B2
+réfuter|refutar||V|sci|B2
+valider|validar||V|sci|B2
+laboratoire|laboratorio||S|sci|B2
+échantillon|muestra||S|sci|B2
+terrain|trabajo de campo||S|sci|B2
+comité de lecture|comité de revisión por pares||L|sci|B2
+brevet|patente||S|sci|B2
+déposer un brevet|patentar||E|sci|B2
+innovation|innovación||S|sci|B2
+découverte|descubrimiento||S|sci|B2
+financement|financiación||S|fin|B2
+rigueur|rigor||S|sci|B2
+marge d'erreur|margen de error||L|sci|B2
+cellule|célula||S|sci|B2
+cellule souche|célula madre||L|sci|B2
+noyau|núcleo||S|sci|B2
+membrane|membrana||S|sci|B2
+gène|gen||S|sci|B2
+génétique|genética||S|sci|B2
+chromosome|cromosoma||S|sci|B2
+mutation|mutación||S|sci|B2
+évolution|evolución||S|sci|B2
+sélection naturelle|selección natural||L|sci|B2
+bactérie|bacteria||S|sci|B2
+anticorps|anticuerpo||S|sci|B2
+immunité|inmunidad||S|sci|B2
+enzyme|enzima||S|sci|B2
+protéine|proteína||S|sci|B2
+molécule|molécula||S|sci|B2
+atome|átomo||S|sci|B2
+réaction|reacción (química)||S|sci|B2
+chimie|química||S|sci|B2
+chimique|químico||A|sci|B2
+équation|ecuación||S|sci|B2
+formule|fórmula (química)||S|sci|B2
+composé|compuesto (químico)||S|sci|B2
+mélange|mezcla||S|sci|B2
+soluble|soluble||A|sci|B2
+acide|ácido||S|sci|B2
+oxygène|oxígeno||S|sci|B2
+azote|nitrógeno||S|sci|B2
+photosynthèse|fotosíntesis||S|sci|B2
+écosystème|ecosistema||S|sci|B2
+organisme|organismo||S|sci|B2
