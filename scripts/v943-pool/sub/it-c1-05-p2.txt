@@ -1,0 +1,292 @@
+rimarcare|recalcar||V|cmu|C1
+ammonire|amonestar||V|cmu|C1
+redarguire|reprender||V|cmu|C1
+rimbrottare|regañar (reprender con suavidad)||V|cmu|C1
+interloquire|intervenir (tomar parte en un debate)||V|cmu|C1
+enunciare|enunciar||V|cmu|C1
+circoscrivere|circunscribir||V|cmu|C1
+premettere|anteponer (decir como premisa)||V|cmu|C1
+soggiungere|añadir (apuntar)||V|cmu|C1
+proferire|proferir||V|cmu|C1
+esternare|exteriorizar (expresar sentimientos)||V|cmu|C1
+chiosare|glosar (comentar)||V|cmu|C1
+biasimare|censurar (reprochar)||V|cmu|C1
+tacciare|tachar (de)||V|cmu|C1
+additare|señalar (con el dedo, acusadoramente)||V|cmu|C1
+epistemologia|epistemología||S|ast|C1
+epistemico|epistémico||A|ast|C1
+assioma|axioma||S|ast|C1
+deduzione|deducción||S|ast|C1
+induzione|inducción||S|ast|C1
+inferenza|inferencia||S|ast|C1
+sillogismo|silogismo||S|ast|C1
+paradigma|paradigma||S|ast|C1
+corollario|corolario||S|ast|C1
+postulato|postulado||S|ast|C1
+antitesi|antítesis||S|ast|C1
+aporía|aporía||S|ast|C1
+ossimoro|oxímoron||S|let|C1
+dicotomia|dicotomía||S|ast|C1
+deontologia|deontología||S|ast|C1
+teleologia|teleología||S|ast|C1
+determinismo|determinismo||S|ast|C1
+causalità|causalidad||S|ast|C1
+casualità|casualidad||S|ast|C1
+fallacia|falacia||S|ast|C1
+categorico|categórico||A|ast|C1
+veritiero|veraz||A|ast|C1
+verosimile|verosímil||A|ast|C1
+verosimiglianza|verosimilitud||S|ast|C1
+menzognero|mentiroso (mendaz)||A|ast|C1
+mendace|mendaz||A|ast|C1
+fandonia|patraña||S|ast|C1
+frottola|fábula (patraña inocente)||S|ast|C1
+panzana|bulo||S|ast|C1
+millantare|jactarse falsamente de||V|ast|C1
+simulacro|simulacro||S|ast|C1
+mistificare|mistificar||V|ast|C1
+mistificazione|mistificación||S|ast|C1
+adulterare|adulterar||V|sci|C1
+apocrifo|apócrifo||A|ast|C1
+falsario|falsificador||S|ist|C1
+reticenza|reticencia||S|cmu|C1
+smentire|desmentir||V|cmu|C1
+smentita|desmentida||S|cmu|C1
+screditare|desacreditar||V|cmu|C1
+asserire|aseverar||V|cmu|C1
+spergiuro|perjurio||S|ist|C1
+fine|fino (sutil, delicado)||A|ast|C1
+squisito|exquisito||A|ast|C1
+raffinato|refinado||A|ast|C1
+depurato|depurado||A|art|C1
+terso|terso (nítido)||A|let|C1
+garbo|garbo (donaire, finura)||S|ast|C1
+finezza|finura||S|ast|C1
+sottigliezza|sutileza||S|ast|C1
+discrezione|discreción||S|ast|C1
+castigato|castigado (estilo depurado)||A|let|C1
+purismo|purismo||S|art|C1
+levità|levedad||S|art|C1
+scrupolo|escrúpulo||S|ast|C1
+integerrimo|integérrimo||A|ast|C1
+integrità|integridad||S|ast|C1
+probidà|probidad||S|ast|C1
+rettitudine|rectitud||S|ast|C1
+decoro|decoro||S|ast|C1
+pudore|pudor||S|ast|C1
+morigerato|morigerado||A|ast|C1
+specchiato|irreprochable (intachable)||A|ast|C1
+approssimazione|aproximación||S|ast|C1
+approssimativo|aproximativo||A|ast|C1
+a spanne|a ojo (aproximadamente)||L|ast|C1
+a occhio e croce|a ojo (sin precisión)||L|ast|C1
+ordine di grandezza|orden de magnitud||S|sci|C1
+quota parte|cuota parte||S|ast|C1
+aliquota|alícuota||S|fin|C1
+sproporzione|desproporción||S|ast|C1
+smoderato|desmedido||A|ast|C1
+a grandi linee|a grandes rasgos||L|ast|C1
+esiguo|exiguo||A|ast|C1
+trascurabile|despreciable (insignificante)||A|ast|C1
+risicato|mínimo (muy reducido)||A|ast|C1
+dimezzare|reducir a la mitad||V|ast|C1
+triplicare|triplicar||V|ast|C1
+crescendo|crescendo (aumento gradual)||S|mus|C1
+decremento|decremento||S|ast|C1
+margine di errore|margen de error||S|sci|C1
+deviazione standard|desviación típica||S|sci|C1
+sottostima|subestimación||S|sci|C1
+sovrastima|sobreestimación||S|sci|C1
+eufemismo|eufemismo||S|cmu|C1
+disfemismo|disfemismo||S|cmu|C1
+perifrasi|perífrasis||S|let|C1
+litote|lítote||S|let|C1
+edulcorare|edulcorar (suavizar)||V|cmu|C1
+annacquare|aguar (suavizar un relato)||V|cmu|C1
+indorare la pillola|dorar la píldora||E|cmu|C1
+dire pane al pane|decir las cosas claras||E|cmu|C1
+defungere|fallecer (dejar de funcionar)||V|ast|C1
+trapassare|fallecer||V|rel|C1
+venire a mancare|fallecer||E|rel|C1
+passare a miglior vita|pasar a mejor vida||E|rel|C1
+terza età|tercera edad||S|rel|C1
+essere in dolce attesa|estar en dulce espera||E|rel|C1
+diversamente abile|persona con discapacidad||A|sla|C1
+tangente|mordida (soborno)||S|fin|C1
+ricollocamento|recolocación||S|lav|C1
+prepensionamento|jubilación anticipada||S|lav|C1
+celare|ocultar||V|cmu|C1
+sottinteso|sobreentendido||S|cmu|C1
+velatamente|veladamente||D|cmu|C1
+lugubre|lúgubre||A|let|C1
+tetro|tetro||A|let|C1
+crepuscolare|crepuscular||A|let|C1
+vespro|vísperas (atardecer, voz poética)||S|let|C1
+rutilante|rutilante||A|let|C1
+cangiante|irisado (cambiante)||A|let|C1
+limpido|límpido||A|let|C1
+gelido|gélido||A|let|C1
+rigoglioso|exuberante (lozano)||A|nat|C1
+rigoglio|lozanía||S|let|C1
+sfiorire|ajarse (mustiarse)||V|let|C1
+stormire|susurrar (el follaje)||V|let|C1
+mormorio|murmullo||S|let|C1
+strazio|tormento (desgarro)||S|let|C1
+rimpianto|pesar (nostalgia de lo perdido)||S|emo|C1
+brama|ansia (antojo vehemente)||S|let|C1
+struggimento|desasosiego (consumición amorosa)||S|let|C1
+penombra|penumbra||S|let|C1
+stellato|estrellado||A|let|C1
+vampa|llamarada (sofoco)||S|let|C1
+brace|ascua||S|nat|C1
+algido|álgido (muy frío, crítico)||A|let|C1
+vetusto|vetusto||A|let|C1
+avito|ancestral (heredado de los antepasados)||A|let|C1
+fanciullezza|niñez||S|let|C1
+novella|cuento (novela breve antigua)||S|let|C1
+novelliere|cuentista||S|let|C1
+vate|vate (poeta inspirado)||S|let|C1
+cantore|cantor (celebrador)||S|let|C1
+aedo|aedo||S|let|C1
+giullare|juglar||S|let|C1
+menestrello|menestrel||S|let|C1
+cortigiano|cortesano||S|let|C1
+damigella|doncella (dama joven)||S|let|C1
+scudiero|escudero||S|let|C1
+araldo|heraldo||S|let|C1
+vessillo|estandarte||S|let|C1
+usbergo|cota de malla||S|let|C1
+messere|señor (tratamiento antiguo)||S|let|C1
+periglio|peligro (forma antigua)||S|let|C1
+omai|ya (por fin, forma antigua)||D|let|C1
+invero|en verdad||D|cnn|C1
+pertanto|por tanto||C|cnn|C1
+nondimeno|no obstante||C|cnn|C1
+peraltro|por lo demás||C|cnn|C1
+altresì|asimismo||C|cnn|C1
+orbene|bien (pues, partícula discursiva)||C|cnn|C1
+in sostanza|en sustancia||L|cnn|C1
+a ben vedere|bien mirado||L|cnn|C1
+a onor del vero|a decir verdad||L|cnn|C1
+se non altro|al menos||C|cnn|C1
+quantunque|aunque||C|cnn|C1
+laddove|mientras que (allí donde)||C|cnn|C1
+ove|donde (en el caso de que)||C|cnn|C1
+qualora|en caso de que||C|cnn|C1
+allorché|cuando (en el momento en que)||C|cnn|C1
+giacché|puesto que||C|cnn|C1
+atteso che|dado que||L|cnn|C1
+a maggior ragione|con mayor razón||L|cnn|C1
+per converso|por el contrario||L|cnn|C1
+ne consegue che|se sigue que||L|cnn|C1
+per così dire|por así decirlo||L|cnn|C1
+in ultima analisi|en última instancia||L|cnn|C1
+adombrare|enturbiar (insinuar apenas)||V|cmu|C1
+alludere|aludir||V|cmu|C1
+insinuare|insinuar||V|cmu|C1
+lasciar intendere|dar a entender||E|cmu|C1
+sottintendere|sobreentender||V|cmu|C1
+paventare|temer (recelar)||V|emo|C1
+rinfacciare|echar en cara||V|cmu|C1
+vituperare|vituperar||V|cmu|C1
+oltraggiare|ultrajar||V|cmu|C1
+dileggiare|burlarse (escarnecer)||V|cmu|C1
+schernire|escarnecer (poner en ridículo)||V|cmu|C1
+apostrofare|apostrofar||V|cmu|C1
+interpellare|interpelar||V|cmu|C1
+ingiungere|imponer (por orden judicial)||V|cmu|C1
+intimare|intimar||V|cmu|C1
+spronare|espolear||V|cmu|C1
+blandire|engatusar (halagar)||V|cmu|C1
+lusingare|lisonjear||V|cmu|C1
+sdrammatizzare|quitar hierro al asunto||V|cmu|C1
+tergiversare|tergiversar||V|cmu|C1
+rincuorare|reconfortar (tranquilizar)||V|emo|C1
+ad hoc|ad hoc||L|ast|C1
+iter|iter (trámite, recorrido)||S|ist|C1
+in itinere|en curso (durante el proceso)||L|ist|C1
+ex novo|de nuevo (desde cero)||L|ast|C1
+de facto|de facto||L|ast|C1
+in extremis|in extremis (en el último momento)||L|ast|C1
+in primis|en primer lugar||L|cnn|C1
+grosso modo|a grandes rasgos||L|ast|C1
+sic et simpliciter|simple y llanamente||L|cnn|C1
+mutatis mutandis|mutatis mutandis||L|cnn|C1
+ceteris paribus|ceteris paribus (manteniendo el resto constante)||L|sci|C1
+pro capite|per cápita||L|fin|C1
+pro tempore|por el momento (provisional)||L|ist|C1
+in pectore|en el ánimo (en secreto)||L|ast|C1
+in fieri|en formación (en devenir)||L|ast|C1
+in nuce|en germen||L|let|C1
+a fortiori|a fortiori (con mayor razón)||L|cnn|C1
+a posteriori|a posteriori||L|ast|C1
+ex abrupto|de modo abrupto||L|let|C1
+ex cathedra|ex cathedra (con autoridad)||L|rel|C1
+ad abundantiam|con creces||L|cnn|C1
+psicomotricità|psicomotricidad||S|sla|C1
+attaccamento|apego||S|sla|C1
+svezzamento|destete||S|ali|C1
+apprendimento cooperativo|aprendizaje cooperativo||S|stu|C1
+valutazione formativa|evaluación formativa||S|stu|C1
+orientamento scolastico|orientación escolar||S|stu|C1
+dispersione scolastica|abandono escolar||S|ist|C1
+bocciatura|suspenso (repetición de curso)||S|stu|C1
+alfabetizzazione|alfabetización||S|stu|C1
+bullismo|acoso escolar||S|stu|C1
+precocità|precocidad||S|ast|C1
+motricità fine|motricidad fina||S|sla|C1
+età evolutiva|edad evolutiva||S|sla|C1
+deprivazione|privación (carencia)||S|sla|C1
+rinforzo positivo|refuerzo positivo||S|sla|C1
+condizionamento|condicionamiento||S|sla|C1
+modellamento|modelado (aprendizaje por imitación)||S|sla|C1
+internalizzazione|interiorización||S|sla|C1
+decentramento cognitivo|descentramiento cognitivo||S|sla|C1
+sviluppo cognitivo|desarrollo cognitivo||S|stu|C1
+zona di sviluppo prossimale|zona de desarrollo próximo||S|stu|C1
+psicoanalisi|psicoanálisis||S|sla|C1
+psicoterapia|psicoterapia||S|sla|C1
+transfert|transferencia (transfer)||S|sla|C1
+controtransfert|contratransferencia||S|sla|C1
+meccanismo di difesa|mecanismo de defensa||S|sla|C1
+rimozione|represión||S|sla|C1
+razionalizzazione|racionalización||S|sla|C1
+regredire|regresar (volver a etapas anteriores)||V|sla|C1
+nevrosi|neurosis||S|sla|C1
+psicosi|psicosis||S|sla|C1
+compulsione|compulsión||S|sla|C1
+distimia|distimia||S|sla|C1
+dismorfofobia|dismorfofobia||S|sla|C1
+dissociazione|disociación||S|sla|C1
+elaborazione del lutto|elaboración del duelo||S|sla|C1
+resilienza|resiliencia||S|sla|C1
+assertività|asertividad||S|sla|C1
+introspezione|introspección||S|sla|C1
+catarsi|catarsis||S|let|C1
+anamnesi|anamnesis (historia clínica)||S|sla|C1
+remissione|remisión (mejoría clínica)||S|sla|C1
+accidia|acedía||S|ast|C1
+lussuria|lujuria||S|ast|C1
+gola|gula (pecado capital)||S|ast|C1
+parsimonia|parsimonia||S|ast|C1
+magnanimità|magnanimidad||S|ast|C1
+munificenza|munificencia||S|ast|C1
+prodigo|pródigo||A|ast|C1
+spilorcio|roñoso (tacaño)||A|ast|C1
+usuraio|usurero||S|fin|C1
+fellone|felón (traidor)||S|ist|C1
+perfidia|perfídia||S|ast|C1
+malvagio|malvado||A|ast|C1
+scelleratezza|maldad extrema (criminalidad)||S|ast|C1
+empio|impío||A|rel|C1
+empietà|impiedad||S|rel|C1
+abnegazione|abnegación||S|ast|C1
+spregiudicatezza|desprejuicio||S|ast|C1
+arrivismo|arribismo||S|ast|C1
+servilismo|servilismo||S|ast|C1
+piaggeria|adulación servil||S|ast|C1
+bigotto|mojigato (beato apocado)||A|rel|C1
+imprenditorialità|capacidad emprendedora||S|lav|C1
+impresa emergente|empresa emergente (startup)||S|lav|C1
+incubatore d'impresa|incubadora de empresas||S|lav|C1
+acceleratore di crescita|aceleradora de crecimiento||S|lav|C1

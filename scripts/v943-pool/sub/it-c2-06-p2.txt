@@ -1,0 +1,312 @@
+inferenza statistica|inferencia estadística||L|sci|C2
+deviazione standard|desviación típica||L|sci|C2
+campionamento|muestreo||S|sci|C2
+correlazione spuria|correlación espuria||L|sci|C2
+variabile dipendente|variable dependiente||L|sci|C2
+variabile indipendente|variable independiente||L|sci|C2
+ipotesi nulla|hipótesis nula||L|sci|C2
+livello di significatività|nivel de significación||L|sci|C2
+intervallo di confidenza|intervalo de confianza||L|sci|C2
+regressione multipla|regresión múltiple||L|sci|C2
+valore atteso|valor esperado||L|sci|C2
+campione rappresentativo|muestra representativa||L|sci|C2
+errore sistematico|error sistemático||L|sci|C2
+studio pilota|estudio piloto||L|sci|C2
+replicabilità|replicabilidad||S|sci|C2
+varianza|varianza||S|sci|C2
+mediana|mediana||S|sci|C2
+errore standard|error típico (estadístico)||L|sci|C2
+epidemiologia|epidemiología||S|sci|C2
+tasso di mortalità|tasa de mortalidad||L|sci|C2
+incidenza|incidencia (tasa de casos nuevos)||S|sci|C2
+prevalenza|prevalencia||S|sci|C2
+fattore di rischio|factor de riesgo||L|sci|C2
+catena di trasmissione|cadena de transmisión||L|sci|C2
+sorveglianza attiva|vigilancia activa||L|sci|C2
+screening di massa|cribado poblacional||L|sci|C2
+campagna di vaccinazione|campaña de vacunación||L|sci|C2
+copertura vaccinale|cobertura vacunal||L|sci|C2
+medicina preventiva|medicina preventiva||L|sci|C2
+determinanti di salute|determinantes de salud||L|sci|C2
+morbosità|morbilidad||S|sci|C2
+letalità|letalidad||S|sci|C2
+endemia|endemia||S|sci|C2
+focolaio|foco (brote epidémico)||S|sci|C2
+profilassi|profilaxis||S|sci|C2
+contagiosità|contagiosidad||S|sci|C2
+tettonica delle placche|tectónica de placas||L|sci|C2
+falda acquifera|acuífero||L|nat|C2
+carsismo|relieve kárstico (karst)||S|sci|C2
+subsidenza|subsidencia||S|sci|C2
+sismografo|sismógrafo||S|sci|C2
+magnitudo|magnitud||S|sci|C2
+epicentro|epicentro||S|sci|C2
+scossa di assestamento|réplica (sismo)||L|sci|C2
+vulcanologia|vulcanología||S|sci|C2
+flusso piroclastico|flujo piroclástico||L|sci|C2
+sedimentazione|sedimentación||S|sci|C2
+stratigrafia|estratigrafía||S|sci|C2
+giacimento|yacimiento||S|sci|C2
+crosta terrestre|corteza terrestre||L|sci|C2
+mantello|manto (terrestre)||S|sci|C2
+deriva dei continenti|deriva de los continentes||L|sci|C2
+faglia|falla (geológica)||S|sci|C2
+calcolo differenziale|cálculo diferencial||L|sci|C2
+calcolo integrale|cálculo integral||L|sci|C2
+induzione matematica|inducción matemática||L|sci|C2
+assioma|axioma||S|sci|C2
+corollario|corolario||S|sci|C2
+lemma|lema||S|sci|C2
+tautologia|tautología||S|sci|C2
+sillogismo|silogismo||S|sci|C2
+matrice|matriz||S|sci|C2
+topologia|topología||S|sci|C2
+asintoto|asíntota||S|sci|C2
+derivata|derivada||S|sci|C2
+algoritmo|algoritmo||S|sci|C2
+equazione differenziale|ecuación diferencial||L|sci|C2
+teoria degli insiemi|teoría de conjuntos||L|sci|C2
+predicato|predicado||S|sci|C2
+quantificatore|cuantificador||S|sci|C2
+congettura|conjetura||S|sci|C2
+critica letteraria|crítica literaria||L|let|C2
+canone letterario|canon literario||L|let|C2
+intertessualità|intertextualidad||S|let|C2
+ermeneutica|hermenéutica||S|let|C2
+esegesi|exégesis||S|let|C2
+saggistica|ensayística||S|let|C2
+variantistica|crítica de variantes||S|let|C2
+poetica|poética (de un autor)||S|let|C2
+verosimiglianza|verosimilitud||S|let|C2
+mimesi|mímesis||S|let|C2
+catarsi|catarsis||S|let|C2
+lettore modello|lector modelo||L|let|C2
+autore implicito|autor implícito||L|let|C2
+prosa d'arte|prosa artística||L|let|C2
+stilistica|estilística||S|let|C2
+classicismo|clasicismo||S|let|C2
+decadentismo|decadentismo||S|let|C2
+sperimentalismo|experimentalismo||S|let|C2
+metonimia|metonimia||S|let|C2
+sineddoche|sinécdoque||S|let|C2
+chiasmo|quiasmo||S|let|C2
+anafora|anáfora (retórica)||S|let|C2
+iperbole|hipérbole||S|let|C2
+litote|lítote||S|let|C2
+ossimoro|oxímoron||S|let|C2
+perifrasi|perífrasis||S|let|C2
+ellissi|elipsis||S|let|C2
+climax|clímax (gradación retórica)||S|let|C2
+endecasillabo|endecasílabo||S|let|C2
+settenario|heptasílabo||S|let|C2
+alessandrino|alejandrino (verso)||S|let|C2
+rima baciata|rima abrazada||L|let|C2
+verso sciolto|verso blanco||L|let|C2
+terzina|terceto encadenado||S|let|C2
+cesura|cesura||S|let|C2
+narratologia|narratología||S|let|C2
+focalizzazione|focalización||S|let|C2
+diegesi|diegesis||S|let|C2
+diegetico|diegético||A|let|C2
+prolessi|prolepsis||S|let|C2
+intreccio|trama (estructura)||S|let|C2
+fabula|fábula (historia)||S|let|C2
+narratore onnisciente|narrador omnisciente||L|let|C2
+digressione|digresión||S|let|C2
+sospensione dell'incredulità|suspensión de la incredulidad||L|let|C2
+romanzo di formazione|novela de formación||L|let|C2
+romanzo picaresco|novela picaresca||L|let|C2
+flusso di coscienza|flujo de conciencia||L|let|C2
+racconto cornice|relato marco||L|let|C2
+incipit|incipit||S|let|C2
+reticenza|reticencia (narrativa)||S|let|C2
+tragicità|tragicidad||S|let|C2
+chiusa|desenlace (cierre del relato)||S|let|C2
+auge|auge (momento de esplendor)||S|let|C2
+bruma|bruma||S|let|C2
+cruccio|remordimiento (aflicción)||S|let|C2
+doglia|dolor (poético)||S|let|C2
+pestilenza|pestilencia||S|let|C2
+rubesto|vigoroso (arcaico)||A|let|C2
+baldanza|brío (osadía)||S|let|C2
+smania|desasosiego (ansia)||S|let|C2
+sgomento|desazón (sobresalto)||S|let|C2
+tripudio|júbilo (regocijo)||S|let|C2
+pallore|palidez||S|cor|C2
+crine|crin (poético)||S|let|C2
+turgido|túrgido||A|let|C2
+esangue|exangüe (pálido)||A|let|C2
+eburneo|ebúrneo||A|let|C2
+lume|lumbrera (luz, poético)||S|let|C2
+tenebra|tiniebla||S|let|C2
+epistemologia|epistemología||S|ast|C2
+gnoseologia|gnoseología||S|ast|C2
+paradigma|paradigma||S|ast|C2
+empirismo|empirismo||S|ast|C2
+razionalismo|racionalismo||S|ast|C2
+utilitarismo|utilitarismo||S|ast|C2
+consequenzialismo|consecuencialismo||S|ast|C2
+intuizionismo|intuicionismo||S|ast|C2
+fallibilismo|falibilismo||S|ast|C2
+olismo|holismo||S|ast|C2
+solipsismo|solipsismo||S|ast|C2
+determinismo|determinismo||S|ast|C2
+libero arbitrio|libre albedrío||L|ast|C2
+volontarismo|voluntarismo||S|ast|C2
+concupiscenza|concupiscencia||S|ast|C2
+apodittico|apodíctico||A|ast|C2
+confutazione|confutación (refutación)||S|ast|C2
+ontologia|ontología||S|ast|C2
+metafisica|metafísica||S|ast|C2
+ente|ente (ser)||S|ast|C2
+immanenza|inmanencia||S|ast|C2
+trascendenza|trascendencia||S|ast|C2
+monismo|monismo||S|ast|C2
+dualismo|dualismo||S|ast|C2
+nichilismo|nihilismo||S|ast|C2
+esistenzialismo|existencialismo||S|ast|C2
+fenomenologia|fenomenología||S|ast|C2
+intenzionalità|intencionalidad||S|ast|C2
+dialettica|dialéctica||S|ast|C2
+teleologia|teleología||S|ast|C2
+teodicea|teodicea||S|ast|C2
+contingenza|contingencia||S|ast|C2
+appercezione|apercepción||S|ast|C2
+disincanto|desencanto||S|ast|C2
+storiografia|historiografía||S|ist|C2
+periodizzazione|periodización||S|ist|C2
+fonte orale|fuente oral||L|ist|C2
+causalità|causalidad||S|ast|C2
+revisionismo|revisionismo||S|ist|C2
+anacronismo|anacronismo||S|ist|C2
+epigrafia|epigrafía||S|ist|C2
+paleografia|paleografía||S|ist|C2
+prosopografia|prosopografia||S|ist|C2
+carteggio|correspondencia (epistolario)||S|ist|C2
+casato|casa dinástica||S|ist|C2
+egemonia|hegemonía||S|ast|C2
+decadenza|decadencia (declive)||S|ist|C2
+datazione|datación||S|ist|C2
+medievistica|medievalística||S|ist|C2
+epocale|de época (histórico)||A|ist|C2
+cartografia|cartografía||S|ist|C2
+fonologia|fonología||S|sci|C2
+morfologia|morfología||S|sci|C2
+sintassi|sintaxis||S|sci|C2
+lessicografia|lexicografía||S|sci|C2
+etimologia|etimología||S|sci|C2
+semantica|semántica||S|sci|C2
+pragmatica|pragmática||S|sci|C2
+fonema|fonema||S|sci|C2
+morfema|morfema||S|sci|C2
+diacronia|diacronía||S|sci|C2
+sincronia|sincronía||S|sci|C2
+isoglossa|isoglosa||S|sci|C2
+dialettologia|dialectología||S|sci|C2
+mutamento|cambio (lingüístico)||S|sci|C2
+prestito linguistico|préstamo lingüístico||L|sci|C2
+calco|calco (préstamo semántico)||S|sci|C2
+filologia|filología||S|sci|C2
+psicoanalisi|psicoanálisis||S|sci|C2
+inconscio|inconsciente||S|sci|C2
+rimozione|represión (psicoanalítica)||S|sci|C2
+proiezione|proyección (defensa psíquica)||S|sci|C2
+transfert|transferencia (psicoanalítica)||S|sci|C2
+controtransfert|contratransferencia||S|sci|C2
+sublimazione|sublimación||S|sci|C2
+istinto di morte|pulsión de muerte||L|sci|C2
+lapsus|lapsus (error revelador)||S|sci|C2
+resistenza|resistencia (en la cura analítica)||S|sci|C2
+teoria critica|teoría crítica||L|ast|C2
+industria culturale|industria cultural||L|ast|C2
+coazione a ripetere|compulsión a la repetición||L|sci|C2
+reificazione|cosificación||S|ast|C2
+mercificazione|mercantilización||S|ast|C2
+alienazione|alienación||S|ast|C2
+normalizzazione|normalización (disciplinaria)||S|ast|C2
+analista|analista (psicoanalista)||S|pro|C2
+geopolitica|geopolítica||S|ast|C2
+equilibrio di potenza|equilibrio de poder||L|ast|C2
+deterrenza|disuasión||S|ast|C2
+corsa agli armamenti|carrera armamentística||L|ast|C2
+vertice|cumbre||S|ast|C2
+distensione|distensión||S|ast|C2
+controparte|contraparte||S|ast|C2
+multilateralismo|multilateralismo||S|ast|C2
+sovranismo|soberanismo||S|ast|C2
+annessione|anexión||S|ist|C2
+sfera di influenza|esfera de influencia||L|ast|C2
+rapporto di forza|relación de fuerzas||L|ast|C2
+negoziato|negociado||S|ast|C2
+casus belli|casus belli (motivo de guerra)||L|ast|C2
+ultimatum|ultimátum||S|ast|C2
+protocollo diplomatico|protocolo diplomático||L|ast|C2
+neutralità|neutralidad||S|ast|C2
+subsidiarietà|subsidiariedad||S|ast|C2
+pluralismo|pluralismo||S|ast|C2
+populismo|populismo||S|ast|C2
+clientelismo|clientelismo||S|ast|C2
+lobbismo|presión de grupos de interés||S|ast|C2
+regolamentazione|reglamentación (normativa)||S|ist|C2
+valutazione d'impatto|evaluación de impacto||L|ast|C2
+spesa corrente|gasto corriente||L|fin|C2
+previdenziale|de previsión (pensiones)||A|fin|C2
+redistribuzione|redistribución||S|fin|C2
+evasione fiscale|evasión fiscal||L|fin|C2
+burocrazia|burocracia||S|ist|C2
+decentramento|descentralización||S|ast|C2
+proporzionalismo|proporcionalismo||S|ast|C2
+maggioritario|mayoritario (sistema electoral)||A|ast|C2
+astensionismo|abstencionismo||S|ast|C2
+consociativismo|consociativismo||S|ast|C2
+segregazione|segregación||S|ast|C2
+marginalità|marginalidad||S|ast|C2
+assimilazione|asimilación||S|ast|C2
+ghettizzazione|guetización||S|ast|C2
+individualizzazione|individualización||S|ast|C2
+massificazione|masificación||S|ast|C2
+secolarizzazione|secularización||S|ast|C2
+modernizzazione|modernización||S|ast|C2
+subcultura|subcultura||S|ast|C2
+conformismo|conformismo||S|ast|C2
+devianza|desviación (conducta desviada)||S|ast|C2
+mobilità sociale|movilidad social||L|ast|C2
+stratificazione|estratificación (en capas)||S|ast|C2
+coesione|cohesión (social)||S|ast|C2
+gentrificazione|gentrificación||S|ast|C2
+appartenenza|pertenencia (sentido de grupo)||S|ast|C2
+sindacalizzazione|sindicalización||S|ast|C2
+antropologia|antropología||S|sci|C2
+etnografia|etnografía||S|sci|C2
+etnocentrismo|etnocentrismo||S|ast|C2
+relativismo culturale|relativismo cultural||L|ast|C2
+totemismo|totemismo||S|ast|C2
+totem|tótem||S|ast|C2
+sciamanesimo|chamanismo||S|ast|C2
+rituale|ritual (antropológico)||S|ast|C2
+parentela|parentesco||S|ast|C2
+esogamia|exogamia||S|ast|C2
+endogamia|endogamia||S|ast|C2
+oralità|oralidad||S|ast|C2
+cosmogonia|cosmogonía||S|ast|C2
+animismo|animismo||S|ast|C2
+sincretismo|sincretismo||S|ast|C2
+acculturazione|aculturación||S|ast|C2
+strutturalismo|estructuralismo||S|ast|C2
+giornalismo d'inchiesta|periodismo de investigación||L|att|C2
+informatore|informante (confidente de prensa)||S|pro|C2
+esclusiva|exclusiva||S|att|C2
+occhiello|entradilla||S|att|C2
+servizio|reportaje (informe)||S|att|C2
+editoriale|editorial||S|att|C2
+radiodiffusione|radiodifusión||S|cmu|C2
+disinformazione|desinformación||S|att|C2
+propaganda|propaganda||S|att|C2
+rettifica|rectificación (fe de erratas)||S|att|C2
+diffamazione|difamación||S|att|C2
+diritto di cronaca|derecho de crónica||L|att|C2
+reportage|reportaje (crónica)||S|att|C2
+censura|censura||S|att|C2
+palinsesto|parrilla (programación)||S|att|C2
+tiratura|tirada (de un periódico)||S|att|C2
+smentita|desmentido||S|att|C2

@@ -1,0 +1,292 @@
+legame covalente|enlace covalente||L|sci|C1
+legame ionico|enlace iónico||L|sci|C1
+composto aromatico|compuesto aromático||L|sci|C1
+idrocarburo|hidrocarburo||S|sci|C1
+stereochimica|estereoquímica||S|sci|C1
+chirale|quiral||A|sci|C1
+catalizzatore|catalizador||S|sci|C1
+reazione esotermica|reacción exotérmica||L|sci|C1
+acido carbossilico|ácido carboxílico||L|sci|C1
+gruppo funzionale|grupo funcional||L|sci|C1
+ossidoriduzione|oxidación-reducción||S|sci|C1
+solubilità|solubilidad||S|sci|C1
+distillazione frazionata|destilación fraccionada||L|sci|C1
+miscela azeotropica|mezcla azeotrópica||L|sci|C1
+tavola periodica|tabla periódica||L|sci|C1
+gas nobile|gas noble||L|sci|C1
+valenza|valencia||S|sci|C1
+isomero|isómero||S|sci|C1
+polimero|polímero||S|sci|C1
+idrossido|hidróxido||S|sci|C1
+stechiometria|estequiometría||S|sci|C1
+meccanica quantistica|mecánica cuántica||L|sci|C1
+sovrapposizione di stati|superposición de estados||L|sci|C1
+intreccio quantistico|entrelazamiento cuántico||L|sci|C1
+principio di indeterminazione|principio de indeterminación||L|sci|C1
+funzione d'onda|función de onda||L|sci|C1
+particella subatomica|partícula subatómica||L|sci|C1
+bosone|bosón||S|sci|C1
+fermione|fermión||S|sci|C1
+acceleratore di particelle|acelerador de partículas||L|sci|C1
+antimateria|antimateria||S|sci|C1
+decadimento radioattivo|desintegración radiactiva||L|sci|C1
+isotopo|isótopo||S|sci|C1
+relatività ristretta|relatividad restringida||L|sci|C1
+lunghezza d'onda|longitud de onda||L|sci|C1
+spettro elettromagnetico|espectro electromagnético||L|sci|C1
+singolarità gravitazionale|singularidad gravitacional||L|sci|C1
+teoria dei campi|teoría de campos||L|sci|C1
+dualismo onda-corpuscolo|dualidad onda-corpúsculo||L|sci|C1
+effetto fotoelettrico|efecto fotoeléctrico||L|sci|C1
+neutrino|neutrino||S|sci|C1
+cosmologia|cosmología||S|sci|C1
+buco nero supermassiccio|agujero negro supermasivo||L|sci|C1
+radiazione fossile|radiación fósil (de fondo cósmico)||L|sci|C1
+spettrografo|espectrógrafo||S|sci|C1
+telescopio a riflessione|telescopio reflector||L|sci|C1
+supernova|supernova||S|sci|C1
+pulsar|púlsar||S|sci|C1
+materia oscura|materia oscura||L|sci|C1
+energia oscura|energía oscura||L|sci|C1
+galassia a spirale|galaxia espiral||L|sci|C1
+ammasso galattico|cúmulo galáctico||L|sci|C1
+disco di accrescimento|disco de acreción||L|sci|C1
+fusione nucleare|fusión nuclear||L|sci|C1
+gigante gassoso|gigante gaseoso||L|sci|C1
+esopianeta|exoplaneta||S|sci|C1
+astrofisica|astrofísica||S|sci|C1
+parallasse|paralaje||S|sci|C1
+magnitudine apparente|magnitud aparente||L|sci|C1
+spostamento verso il rosso|corrimiento al rojo||L|sci|C1
+quasar|cuásar||S|sci|C1
+nucleosintesi|nucleosíntesis||S|sci|C1
+ingegneria genetica|ingeniería genética||L|sci|C1
+organismo geneticamente modificato|organismo genéticamente modificado||L|sci|C1
+vettore virale|vector viral||L|sci|C1
+silenzamento genico|silenciamiento génico||L|sci|C1
+clonaggio|clonación||S|sci|C1
+fecondazione in vitro|fecundación in vitro||L|sla|C1
+cellula staminale|célula madre||L|sci|C1
+enzima di restrizione|enzima de restricción||L|sci|C1
+bioinformatica|bioinformática||S|sci|C1
+elettroporazione|electroporación||S|sci|C1
+elettroforesi su gel|electroforesis en gel||L|sci|C1
+fermentazione industriale|fermentación industrial||L|sci|C1
+ricombinante|recombinante||A|sci|C1
+transgenico|transgénico||A|sci|C1
+xenotrapianto|xenotrasplante||S|sla|C1
+crioconservazione|crioconservación||S|sci|C1
+brevettabile|patentable||A|ist|C1
+biosicurezza|bioseguridad||S|sci|C1
+terapia genica|terapia génica||L|sci|C1
+marcatore biologico|marcador biológico||L|sci|C1
+microiniezione|microinyección||S|sci|C1
+deviazione standard|desviación típica||L|sci|C1
+significatività statistica|significación estadística||L|sci|C1
+campionamento casuale|muestreo aleatorio||L|sci|C1
+ipotesi nulla|hipótesis nula||L|sci|C1
+intervallo di confidenza|intervalo de confianza||L|sci|C1
+regressione lineare|regresión lineal||L|sci|C1
+correlazione spuria|correlación espuria||L|sci|C1
+variabile dipendente|variable dependiente||L|sci|C1
+valore predittivo|valor predictivo||L|sci|C1
+campione rappresentativo|muestra representativa||L|sci|C1
+errore standard|error típico||L|sci|C1
+distribuzione normale|distribución normal||L|sci|C1
+inferenza statistica|inferencia estadística||L|sci|C1
+studio osservazionale|estudio observacional||L|sci|C1
+revisione paritaria|revisión por pares||L|sci|C1
+replicabilità|replicabilidad||S|sci|C1
+falsificabile|falsable||A|sci|C1
+metanalisi|metaanálisis||S|sci|C1
+campionamento stratificato|muestreo estratificado||L|sci|C1
+errore sistematico|error sistemático||L|sci|C1
+generalizzabilità|generalizabilidad||S|sci|C1
+epidemiologia|epidemiología||S|sci|C1
+tasso di mortalità|tasa de mortalidad||L|sci|C1
+prevalenza|prevalencia||S|sci|C1
+incidenza|incidencia (de una enfermedad)||S|sci|C1
+focolaio|foco (de contagio)||S|sci|C1
+sorveglianza sanitaria|vigilancia sanitaria||L|sci|C1
+tracciamento dei contatti|rastreo de contactos||L|sci|C1
+catena di trasmissione|cadena de transmisión||L|sci|C1
+sanità pubblica|sanidad pública||L|sla|C1
+copertura vaccinale|cobertura vacunal||L|sla|C1
+endemia|endemia||S|sci|C1
+zoonosi|zoonosis||S|sci|C1
+tasso di letalità|tasa de letalidad||L|sci|C1
+screening di massa|cribado masivo||L|sla|C1
+prevenzione primaria|prevención primaria||L|sla|C1
+sorveglianza epidemiologica|vigilancia epidemiológica||L|sci|C1
+emergenza pandemica|emergencia pandémica||L|sla|C1
+determinanti di salute|determinantes de salud||L|sci|C1
+mortalità infantile|mortalidad infantil||L|sci|C1
+salute globale|salud global||L|sla|C1
+profilassi|profilaxis||S|sla|C1
+tettonica delle placche|tectónica de placas||L|sci|C1
+faglia|falla (geológica)||S|sci|C1
+sismografo|sismógrafo||S|sci|C1
+magnitudo|magnitud (sísmica)||S|sci|C1
+epicentro|epicentro||S|sci|C1
+stratigrafia|estratigrafía||S|sci|C1
+vulcanologia|vulcanología||S|sci|C1
+magma|magma||S|sci|C1
+colata piroclastica|flujo piroclástico||L|sci|C1
+carsismo|karst (relieve kárstico)||S|sci|C1
+falda acquifera|acuífero||L|sci|C1
+sedimentazione|sedimentación||S|sci|C1
+metamorfismo|metamorfismo||S|sci|C1
+erosione costiera|erosión costera||L|sci|C1
+deriva dei continenti|deriva continental||L|sci|C1
+giacimento minerario|yacimiento minero||L|sci|C1
+roccia magmatica|roca ígnea||L|sci|C1
+sismicità|sismicidad||S|sci|C1
+paleontologia|paleontología||S|sci|C1
+era glaciale|era glacial||L|sci|C1
+mantello terrestre|manto terrestre||L|sci|C1
+dimostrazione per induzione|demostración por inducción||L|sci|C1
+integrale definito|integral definida||L|sci|C1
+derivata parziale|derivada parcial||L|sci|C1
+matrice invertibile|matriz invertible||L|sci|C1
+spazio vettoriale|espacio vectorial||L|sci|C1
+topologia|topología||S|sci|C1
+aritmetica modulare|aritmética modular||L|sci|C1
+assioma|axioma||S|sci|C1
+sillogismo|silogismo||S|sci|C1
+calcolo dei predicati|cálculo de predicados||L|sci|C1
+insieme numerabile|conjunto numerable||L|sci|C1
+infinitesimo|infinitésimo||S|sci|C1
+antinomia|antinomia||S|sci|C1
+tautologia|tautología||S|sci|C1
+coerenza logica|coherencia lógica||L|sci|C1
+ricorsione|recursión||S|sci|C1
+dimostrabilità|demostrabilidad||S|sci|C1
+cardinalità|cardinalidad||S|sci|C1
+geometria non euclidea|geometría no euclidiana||L|sci|C1
+congettura|conjetura||S|sci|C1
+quantificatore esistenziale|cuantificador existencial||L|sci|C1
+critica testuale|crítica textual||L|let|C1
+canone dei classici|canon de los clásicos||L|let|C1
+ermeneutica|hermenéutica||S|let|C1
+esegesi|exégesis||S|let|C1
+intertestualità|intertextualidad||S|let|C1
+estetica della ricezione|estética de la recepción||L|let|C1
+genere letterario|género literario||L|let|C1
+romanzo di formazione|novela de formación||L|let|C1
+fortuna critica|fortuna crítica||L|let|C1
+varianti d'autore|variantes de autor||L|let|C1
+poetica|poética (de un autor)||S|let|C1
+imitazione|imitación (emulación de los clásicos)||S|let|C1
+topos|tópos (motivo recurrente)||S|let|C1
+rivalutazione|revalorización||S|let|C1
+opera aperta|obra abierta||L|let|C1
+ambiguità|ambigüedad (polisemia deliberada)||S|let|C1
+lettura attenta|lectura minuciosa (análisis detallado)||L|let|C1
+saggio interpretativo|ensayo interpretativo||L|let|C1
+gusto del pubblico|gusto del público||L|let|C1
+storia della letteratura|historia de la literatura||L|let|C1
+canonicità|canonicidad||S|let|C1
+metonimia|metonimia||S|let|C1
+sinestesia|sinestesia||S|let|C1
+chiasmo|quiasmo||S|let|C1
+anafora|anáfora (figura retórica)||S|let|C1
+iperbole|hipérbole||S|let|C1
+ossimoro|oxímoron||S|let|C1
+endecasillabo|endecasílabo||S|let|C1
+settenario|heptasílabo||S|let|C1
+verso sciolto|verso blanco||L|let|C1
+rima baciata|rima pareja||L|let|C1
+endiadi|endíadis||S|let|C1
+climax|clímax (gradación retórica)||S|let|C1
+litote|lítote||S|let|C1
+perifrasi|perífrasis||S|let|C1
+sinalefe|sinalefa||S|let|C1
+pentametro|pentámetro||S|let|C1
+inarcamento|encabalgamiento||S|let|C1
+invettiva|invectiva||S|let|C1
+argomentazione|argumentación||S|let|C1
+figura etimologica|figura etimológica||L|let|C1
+reticenza|reticencia (apósis)||S|let|C1
+narratologia|narratología||S|let|C1
+focalizzazione|focalización||S|let|C1
+narratore onnisciente|narrador omnisciente||L|let|C1
+narratore inaffidabile|narrador no fiable||L|let|C1
+fabula|fábula (orden de los hechos)||S|let|C1
+istanza narrativa|instancia narrativa||L|let|C1
+analepsi|analepsis||S|let|C1
+prolessi|prolepsis||S|let|C1
+diegesi|diegesis||S|let|C1
+omodiegetico|homodiegético||A|let|C1
+attante|actante||S|let|C1
+quarto muro|cuarta pared||L|let|C1
+incipit|incipit (comienzo del relato)||S|let|C1
+finale aperto|final abierto||L|let|C1
+antefatto|antecedente (hecho previo)||S|let|C1
+personaggio tondo|personaje redondo||L|let|C1
+prosa di genere|prosa de género||L|let|C1
+racconto cornice|relato marco||L|let|C1
+discorso indiretto libero|discurso indirecto libre||L|let|C1
+isotopia del testo|isotopía del texto||L|let|C1
+tempo del racconto|tiempo del relato||L|let|C1
+albore|albor||S|let|C1
+sommessamente|quedamente (en voz baja)||D|let|C1
+ubertoso|feraz||A|let|C1
+sidereo|sideral||A|let|C1
+cruento|cruento||A|let|C1
+flebile|lastimero||A|let|C1
+orbato|huérfano (privado de)||A|let|C1
+guatare|mirar (contemplar fijamente)||V|let|C1
+vagheggiare|anhelar (soñar despierto con)||V|let|C1
+rutilante|refulgente||A|let|C1
+bigio|gris plomizo||A|let|C1
+tetro|lúgubre||A|let|C1
+esiziale|funesto||A|let|C1
+esiglio|destierro (exilio)||S|let|C1
+luctuoso|luctuoso||A|let|C1
+vellutato|aterciopelado||A|let|C1
+caligine|calina (bruma)||S|let|C1
+lucore|resplandor||S|let|C1
+sferza|látigo (azote)||S|let|C1
+pallore|palidez||S|let|C1
+atavico|atávico||A|let|C1
+epistemologia|epistemología||S|ast|C1
+gnoseologia|gnoseología||S|ast|C1
+a priori|a priori||E|ast|C1
+falibilismo|falibilismo||S|ast|C1
+paradigma|paradigma||S|ast|C1
+empirismo|empirismo||S|ast|C1
+deduttivo|deductivo||A|ast|C1
+induttivo|inductivo||A|ast|C1
+relativismo|relativismo||S|ast|C1
+etica normativa|ética normativa||L|ast|C1
+nichilismo|nihilismo||S|ast|C1
+utilitarismo|utilitarismo||S|ast|C1
+imperativo categorico|imperativo categórico||L|ast|C1
+libero arbitrio|libre albedrío||L|ast|C1
+responsabilità morale|responsabilidad moral||L|ast|C1
+scrupolo morale|escrúpulo moral||L|ast|C1
+metaetica|metaética||S|ast|C1
+verità come corrispondenza|verdad como correspondencia||L|ast|C1
+confutazione|refutación||S|ast|C1
+incommensurabilità|inconmensurabilidad||S|ast|C1
+metafisica|metafísica||S|ast|C1
+ontologia|ontología||S|ast|C1
+sostanza|sustancia (esencia)||S|ast|C1
+contingenza|contingencia||S|ast|C1
+immanente|inmanente||A|ast|C1
+essenza|esencia||S|ast|C1
+sublime|sublime||S|art|C1
+giudizio del gusto|juicio del gusto||L|art|C1
+catarsi|catarsis||S|art|C1
+mimesi|mímesis||S|art|C1
+aura|aura (de la obra de arte)||S|art|C1
+fruizione estetica|disfrute estético||L|art|C1
+genio creativo|genio creativo||L|art|C1
+avanguardia storica|vanguardia histórica||L|art|C1
+bello artistico|bello artístico||L|art|C1
+ineffabile|inefable||A|ast|C1
+contemplazione disinteressata|contemplación desinteresada||L|ast|C1
+iperuranio|mundo de las ideas (platonismo)||S|ast|C1
+causa prima|causa primera||L|ast|C1
+teodicea|teodicea||S|ast|C1
+idillio|idilio||S|let|C1

@@ -1,0 +1,292 @@
+retrovirus|retrovirus||S|sla|C1
+ceppo virale|cepa vírica||S|sla|C1
+antigene|antígeno||S|sla|C1
+anticorpo monoclonale|anticuerpo monoclonal||S|sla|C1
+sierotipo|serotipo||S|sla|C1
+tampone rinofaringeo|hisopo nasofaríngeo||S|sla|C1
+periodo di incubazione|período de incubación||S|sla|C1
+carica virale|carga vírica||S|sla|C1
+portatore sano|portador sano||S|sla|C1
+patogenicità|patogenicidad||S|sla|C1
+zoonosi|zoonosis||S|sla|C1
+vettore|vector||S|sla|C1
+infezione nosocomiale|infección nosocomial||S|sla|C1
+tasso di letalità|tasa de letalidad||S|sla|C1
+resistenza ai farmaci|resistencia a los fármacos||S|sla|C1
+coltura cellulare|cultivo celular||S|sla|C1
+contagiosità|contagiosidad||S|sla|C1
+ospite intermedio|hospedador intermediario||S|sla|C1
+salto di specie|salto de especie||S|sla|C1
+terapia sintomatica|tratamiento sintomático||S|sla|C1
+decorso clinico|evolución clínica||S|sla|C1
+ingegneria genetica|ingeniería genética||S|sci|C1
+biologia molecolare|biología molecular||S|sci|C1
+genoma umano|genoma humano||S|sci|C1
+trascrittasi inversa|transcriptasa inversa||S|sci|C1
+enzima di restrizione|enzima de restricción||S|sci|C1
+plasmide|plásmido||S|sci|C1
+oligonucleotide|oligonucleótido||S|sci|C1
+sequenziamento|secuenciación||S|sci|C1
+nucleasi|nucleasa||S|sci|C1
+cellula staminale|célula madre||S|sci|C1
+clonaggio|clonaje||S|sci|C1
+embrione|embrión||S|sci|C1
+fecondazione in vitro|fecundación in vitro||S|sci|C1
+eugenetica|eugenesia||S|sci|C1
+trascrizione|transcripción||S|sci|C1
+proteina ricombinante|proteína recombinante||S|sci|C1
+organismo transgenico|organismo transgénico||S|sci|C1
+allele|alelo||S|sci|C1
+omozigote|homocigoto||A|sci|C1
+farmaco orfano|fármaco huérfano||S|sci|C1
+sperimentazione preclinica|experimentación preclínica||S|sci|C1
+risonanza magnetica|resonancia magnética||S|sci|C1
+tomografia computerizzata|tomografía computarizada||S|sci|C1
+elettroencefalografia|electroencefalografía||S|sci|C1
+stimolazione magnetica transcranica|estimulación magnética transcraneal||S|sci|C1
+corteccia cerebrale|corteza cerebral||S|sci|C1
+materia grigia|materia gris||S|sci|C1
+sostanza bianca|sustancia blanca||S|sci|C1
+connettività funzionale|conectividad funcional||S|sci|C1
+angiografia cerebrale|angiografía cerebral||S|sci|C1
+attivazione neuronale|activación neuronal||S|sci|C1
+potenziale evocato|potencial evocado||S|sci|C1
+neurotrasmettitore|neurotransmisor||S|sci|C1
+sinapsi|sinapsis||S|sci|C1
+plasticità neuronale|plasticidad neuronal||S|sci|C1
+circonvoluzione|circunvolución||S|sci|C1
+amigdala|amígdala||S|sci|C1
+ippocampo|hipocampo||S|sci|C1
+assone|axón||S|sci|C1
+dendrite|dendrita||S|sci|C1
+risoluzione spaziale|resolución espacial||S|sci|C1
+risoluzione temporale|resolución temporal||S|sci|C1
+nanotubo di carbonio|nanotubo de carbono||S|sci|C1
+microscopio a forza atomica|microscopio de fuerza atómica||S|sci|C1
+grafene|grafeno||S|sci|C1
+nanotecnologia|nanotecnología||S|sci|C1
+microscopio elettronico|microscopio electrónico||S|sci|C1
+superficie specifica|superficie específica||S|sci|C1
+tensioattivo|tensioactivo||S|sci|C1
+polimero|polímero||S|sci|C1
+polimerizzazione|polimerización||S|sci|C1
+composito|material compuesto||S|sci|C1
+ceramica tecnica|cerámica técnica||S|sci|C1
+film sottile|película delgada||S|sci|C1
+rivestimento|recubrimiento||S|sci|C1
+litografia|litografía||S|sci|C1
+microstruttura|microestructura||S|sci|C1
+porosità|porosidad||S|sci|C1
+adsorbimento|adsorción||S|sci|C1
+caratterizzazione|caracterización||S|sci|C1
+catalizzatore|catalizador||S|sci|C1
+biodegradabile|biodegradable||A|sci|C1
+tessuto non tessuto|tejido no tejido||S|sci|C1
+diffrazione|difracción||S|sci|C1
+riflessione totale|reflexión total||S|sci|C1
+rifrazione|refracción||S|sci|C1
+lunghezza d'onda|longitud de onda||S|sci|C1
+interferenza|interferencia||S|sci|C1
+polarizzazione|polarización||S|sci|C1
+lente convergente|lente convergente||S|sci|C1
+aberrazione cromatica|aberración cromática||S|sci|C1
+dispersione cromatica|dispersión cromática||S|sci|C1
+fibra ottica|fibra óptica||S|sci|C1
+diodo|diodo||S|sci|C1
+fotone|fotón||S|sci|C1
+olografia|holografía||S|sci|C1
+riverbero|reverberación||S|sci|C1
+assorbimento|absorción||S|sci|C1
+infrarosso|infrarrojo||A|sci|C1
+ultravioletto|ultravioleta||A|sci|C1
+acustica|acústica||S|sci|C1
+risonanza acustica|resonancia acústica||S|sci|C1
+ottica geometrica|óptica geométrica||S|sci|C1
+camera oscura|cámara oscura||S|sci|C1
+entropia|entropía||S|sci|C1
+entalpia|entalpía||S|sci|C1
+ciclo termodinamico|ciclo termodinámico||S|sci|C1
+trasformazione adiabatica|transformación adiabática||S|sci|C1
+isotermo|isotermo||A|sci|C1
+calore specifico|calor específico||S|sci|C1
+reversibilità|reversibilidad||S|sci|C1
+fluidodinamica|fluidodinámica||S|sci|C1
+viscosità|viscosidad||S|sci|C1
+turbolenza|turbulencia||S|sci|C1
+flusso laminare|flujo laminar||S|sci|C1
+portata|caudal||S|sci|C1
+pressione dinamica|presión dinámica||S|sci|C1
+galleggiamento|flotabilidad||S|sci|C1
+capillarità|capilaridad||S|sci|C1
+tensione superficiale|tensión superficial||S|sci|C1
+scambiatore di calore|intercambiador de calor||S|sci|C1
+macchina termica|máquina térmica||S|sci|C1
+irreversibilità|irreversibilidad||S|sci|C1
+convezione|convección||S|sci|C1
+condensazione|condensación||S|sci|C1
+mappatura|mapeado||S|sci|C1
+cartografia|cartografía||S|sci|C1
+telerilevamento|teledetección||S|sci|C1
+immagine satellitare|imagen satelital||S|sci|C1
+georeferenziazione|georreferenciación||S|sci|C1
+sistema informativo territoriale|sistema de información geográfica||S|sci|C1
+isoipsa|isohipsa||S|sci|C1
+rilevamento topografico|levantamiento topográfico||S|sci|C1
+coordinate geografiche|coordenadas geográficas||S|sci|C1
+proiezione cartografica|proyección cartográfica||S|sci|C1
+ellissoide di riferimento|elipsoide de referencia||S|sci|C1
+quota|cota altimétrica||S|sci|C1
+geolocalizzazione|geolocalización||S|sci|C1
+carta topografica|mapa topográfico||S|sci|C1
+carta geologica|mapa geológico||S|sci|C1
+legenda|leyenda del mapa||S|sci|C1
+poligono|polígono||S|sci|C1
+sovrapposizione di strati|superposición de capas||S|sci|C1
+triangolazione|triangulación||S|sci|C1
+stazione totale|estación total||S|sci|C1
+geomatica|geomática||S|sci|C1
+endecasillabo|endecasílabo||S|let|C1
+settenario|heptasílabo||S|let|C1
+pentametro|pentámetro||S|let|C1
+sdrucciolo|palabra esdrújula||S|let|C1
+rimalmezzo|rima interior||S|let|C1
+rima baciata|rima pareada||S|let|C1
+strofa|estrofa||S|let|C1
+cesura|cesura||S|let|C1
+piede|pie métrico||S|let|C1
+giambico|yámbico||A|let|C1
+trocaico|trocaico||A|let|C1
+anapesto|anapesto||S|let|C1
+esametro|hexámetro||S|let|C1
+sinalefe|sinalefa||S|let|C1
+dieresi|diéresis||S|let|C1
+sineresi|sinéresis||S|let|C1
+inarcatura|encabalgamiento||S|let|C1
+ictus|ictus métrico||S|let|C1
+assonanza|asonancia||S|let|C1
+elisione|elisión||S|let|C1
+ottava rima|octava real||S|let|C1
+commedia dell'arte|comedia del arte||S|let|C1
+drammaturgia|dramaturgia||S|let|C1
+canovaccio|esquema teatral||S|let|C1
+messa in scena|puesta en escena||S|let|C1
+sipario|telón||S|let|C1
+ribalta|proscenio||S|let|C1
+quinta|lateral de escenario||S|let|C1
+battuta|réplica||S|let|C1
+soliloquio|soliloquio||S|let|C1
+didascalia|acotación||S|let|C1
+caratterista|actor de carácter||S|let|C1
+comparsa|figurante||S|let|C1
+tragicommedia|tragicomedia||S|let|C1
+melodramma|melodrama||S|let|C1
+libretto|libreto||S|let|C1
+drammaturgo|dramaturgo||S|let|C1
+allestimento|montaje teatral||S|let|C1
+scenotecnica|escenotecnia||S|let|C1
+suggeritore|apuntador||S|let|C1
+buca dell'orchestra|foso de la orquesta||S|let|C1
+cartellone|programación teatral||S|let|C1
+metafora|metáfora||S|let|C1
+metonimia|metonimia||S|let|C1
+sinestesia|sinestesia||S|let|C1
+ossimoro|oxímoron||S|let|C1
+chiasmo|quiasmo||S|let|C1
+anafora|anáfora||S|let|C1
+epifora|epífora||S|let|C1
+iperbole|hipérbole||S|let|C1
+litote|lítote||S|let|C1
+sineddoche|sinécdoque||S|let|C1
+allegoria|alegoría||S|let|C1
+archetipo|arquetipo||S|let|C1
+apocrifo|apócrifo||S|let|C1
+estrapolare|extrapolar||V|ast|C1
+sillogismo|silogismo||S|ast|C1
+paradigma|paradigma||S|ast|C1
+dialettica|dialéctica||S|ast|C1
+aporia|aporía||S|let|C1
+ermeneutica|hermenéutica||S|let|C1
+parafrasi|paráfrasis||S|let|C1
+iperbatone|hipérbaton||S|let|C1
+filologia|filología||S|let|C1
+codice|códice||S|let|C1
+manoscritto|manuscrito||S|let|C1
+palinsesto|palimpsesto||S|let|C1
+papiro|papiro||S|let|C1
+epigrafia|epigrafía||S|let|C1
+paleografia|paleografía||S|let|C1
+codicologia|codicología||S|let|C1
+stemma|estema||S|let|C1
+volgarizzamento|versión romance antigua||S|let|C1
+umanesimo|humanismo||S|let|C1
+volgare|lengua romance antigua||S|let|C1
+filologo|filólogo||S|let|C1
+critica del testo|crítica textual||S|let|C1
+variante|variante textual||S|let|C1
+corruttela|corrupción textual||S|let|C1
+apografo|apógrafo||S|let|C1
+incunabolo|incunable||S|let|C1
+scoliasta|escoliasta||S|let|C1
+glossa|glosa||S|let|C1
+epistolario|epistolario||S|let|C1
+testo fonte|texto de partida||S|let|C1
+traduzione automatica|traducción automática||S|let|C1
+autotraduzione|autotraducción||S|let|C1
+letteralismo|literalismo||S|let|C1
+intraducibile|intraducible||A|let|C1
+domesticazione|domesticación||S|let|C1
+esotizzazione|exotización||S|let|C1
+calco|calco||S|let|C1
+prestito|préstamo léxico||S|let|C1
+testo meta|texto meta||S|let|C1
+rifacimento|refundición||S|let|C1
+riscrittura|reescritura||S|let|C1
+fedeltà|fidelidad||S|let|C1
+interpretariato|interpretación||S|let|C1
+resa|logro expresivo||S|let|C1
+adattamento|adaptación cultural||S|let|C1
+sottotitolazione|subtitulado||S|let|C1
+doppiaggio|doblaje||S|let|C1
+equivalenza|equivalencia||S|let|C1
+compensazione|compensación||S|let|C1
+interlingua|interlengua||S|let|C1
+elzeviro|artículo de fondo literario||S|let|C1
+saggista|ensayista||S|let|C1
+opuscolo|opúsculo||S|let|C1
+polemica|polémica||S|ast|C1
+trattato|tratado||S|let|C1
+argomentazione|argumentación||S|ast|C1
+confutare|refutar||V|ast|C1
+demolire|demoler||V|ast|C1
+ridimensionare|poner en su sitio||V|ast|C1
+postulato|postulado||S|ast|C1
+dogma|dogma||S|ast|C1
+critica letteraria|crítica literaria||S|let|C1
+recensire|reseñar||V|let|C1
+recensione|reseña||S|let|C1
+divulgazione|divulgación||S|let|C1
+visione del mondo|concepción del mundo||S|ast|C1
+pensiero debole|pensamiento débil||S|ast|C1
+orizzonte|horizonte de sentido||S|ast|C1
+decostruzione|deconstrucción||S|ast|C1
+polemizzare|polemizar||V|ast|C1
+distopia|distopía||S|let|C1
+utopia|utopía||S|let|C1
+ucronia|ucronía||S|let|C1
+fantascienza|ciencia ficción||S|let|C1
+speculativo|especulativo||A|let|C1
+apocalittico|apocalíptico||A|let|C1
+postapocalittico|postapocalíptico||A|let|C1
+viaggio nel tempo|viaje en el tiempo||S|let|C1
+estraniamento|extrañamiento||S|let|C1
+futurologia|futurología||S|let|C1
+totalitarismo|totalitarismo||S|ast|C1
+sorveglianza|vigilancia||S|ast|C1
+lavaggio del cervello|lavado de cerebro||S|let|C1
+crollo della civiltà|colapso de la civilización||S|let|C1
+postumano|poshumano||A|let|C1
+intelligenza artificiale|inteligencia artificial||S|tec|C1
+androide|androide||S|let|C1
+automa|autómata||S|let|C1
+mondo capovolto|el mundo al revés||S|let|C1
+età dell'oro|edad de oro||S|let|C1

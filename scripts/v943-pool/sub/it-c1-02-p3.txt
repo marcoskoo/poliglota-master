@@ -1,0 +1,290 @@
+storiografia|historiografía||S|ist|C1
+fonte primaria|fuente primaria||L|ist|C1
+revisionismo|revisionismo||S|ist|C1
+storicismo|historismo||S|ast|C1
+di lunga durata|de larga duración||E|tmp|C1
+positivismo|positivismo||S|ast|C1
+mentalità collettiva|mentalidad colectiva||L|ist|C1
+microstoria|microhistoria||S|ist|C1
+archivio notarile|archivo notarial||L|ist|C1
+cartografia|cartografía||S|ist|C1
+ricostruzione degli eventi|reconstrucción de los hechos||L|ist|C1
+storia controfattuale|historia contrafactual||L|ist|C1
+periodizzare|periodizar||V|ist|C1
+epocale|histórico (que marca época)||A|ast|C1
+archetipo|arquetipo||S|ast|C1
+tradizione manoscritta|tradición manuscrita||L|let|C1
+rimaneggiamento|reelaboración (de un texto)||S|let|C1
+anacronistico|anacrónico||A|ast|C1
+erudizione|erudición||S|let|C1
+secolarizzazione|secularización||S|ast|C1
+memoria storica|memoria histórica||L|ist|C1
+verifica delle fonti|verificación de las fuentes||L|ist|C1
+linguistica|lingüística||S|let|C1
+fonologia|fonología||S|let|C1
+morfologia|morfología||S|let|C1
+sintassi|sintaxis||S|let|C1
+semantica|semántica||S|let|C1
+pragmatica|pragmática||S|let|C1
+etimologia|etimología||S|let|C1
+dialettologia|dialectología||S|let|C1
+fonema|fonema||S|let|C1
+morfema|morfema||S|let|C1
+toponomastica|toponimia||S|let|C1
+neologismo|neologismo||S|let|C1
+arcaismo|arcaísmo||S|let|C1
+calco|calco (lingüístico)||S|let|C1
+diglossia|diglosia||S|let|C1
+lenizione|lenición||S|let|C1
+parlante nativo|hablante nativo||L|let|C1
+competenza linguistica|competencia lingüística||L|let|C1
+filologia romanza|filología románica||L|let|C1
+variante dialettale|variante dialectal||L|let|C1
+famiglia di lingue|familia de lenguas||L|let|C1
+sostrato|sustrato (lingüístico)||S|let|C1
+psicoanalisi|psicoanálisis||S|ast|C1
+inconscio|inconsciente||S|ast|C1
+rimozione|represión (psicoanalítica)||S|ast|C1
+transfert|transferencia||S|ast|C1
+controtransfert|contratransferencia||S|ast|C1
+super-io|superyó||S|ast|C1
+pulsione di morte|pulsión de muerte||L|ast|C1
+sublimazione|sublimación||S|ast|C1
+passaggio all'atto|paso al acto||L|ast|C1
+resistenza|resistencia (en la cura)||S|ast|C1
+teoria critica|teoría crítica||L|ast|C1
+industria dello spettacolo|industria del espectáculo||L|ast|C1
+dialettica|dialéctica||S|ast|C1
+alienazione|alienación||S|ast|C1
+falsa coscienza|falsa conciencia||L|ast|C1
+reificazione|cosificación||S|ast|C1
+emancipazione|emancipación||S|ast|C1
+negazione della negazione|negación de la negación||L|ast|C1
+trauma infantile|trauma infantil||L|ast|C1
+libido|libido||S|ast|C1
+interpretazione dei sogni|interpretación de los sueños||L|ast|C1
+lapsus|lapsus||S|let|C1
+geopolitica|geopolítica||S|ist|C1
+asse geopolitico|eje geopolítico||L|ist|C1
+trattato internazionale|tratado internacional||L|ist|C1
+diplomazia multilaterale|diplomacia multilateral||L|ist|C1
+sanzione economica|sanción económica||L|ist|C1
+diritto internazionale|derecho internacional||L|ist|C1
+equilibrio di potenza|equilibrio de poder||L|ist|C1
+deterrente nucleare|disuasivo nuclear||L|ist|C1
+autodeterminazione dei popoli|autodeterminación de los pueblos||L|ist|C1
+sfera di influenza|esfera de influencia||L|ist|C1
+vertice|cumbre (reunión de alto nivel)||S|ist|C1
+escalata|escalada||S|ist|C1
+embargo|embargo||S|fin|C1
+mantenimento della pace|mantenimiento de la paz||L|ist|C1
+vertenza|controversia (conflicto)||S|ist|C1
+riconoscimento diplomatico|reconocimiento diplomático||L|ist|C1
+stato satellite|Estado satélite||L|ist|C1
+belligerante|beligerante||A|ist|C1
+deterrenza|disuasión||S|ist|C1
+isolazionismo|aislacionismo||S|ist|C1
+multilateralismo|multilateralismo||S|ist|C1
+sicurezza collettiva|seguridad colectiva||L|ist|C1
+governabilità|gobernabilidad||S|ist|C1
+rendicontazione|rendición de cuentas||S|ist|C1
+processo decisionale|proceso decisorio||L|ist|C1
+attuazione|aplicación (de una política)||S|ist|C1
+agenda politica|agenda política||L|ist|C1
+gruppo di pressione|grupo de presión||L|ist|C1
+populismo|populismo||S|ist|C1
+democrazia rappresentativa|democracia representativa||L|ist|C1
+pesi e contrappesi|pesos y contrapesos||E|ist|C1
+accentramento|centralización||S|ist|C1
+sussidiarietà|subsidiariedad||S|ist|C1
+statalismo|estatismo||S|ist|C1
+liberismo|liberalismo económico||S|ist|C1
+stato sociale|Estado del bienestar||L|ist|C1
+delega in bianco|delegación en blanco||L|ist|C1
+liberalizzazione|liberalización||S|fin|C1
+finanziamento pubblico|financiación pública||L|fin|C1
+rappresentanza politica|representación política||L|ist|C1
+sovranismo|soberanismo||S|ist|C1
+malgoverno|mala gestión (pública)||S|ist|C1
+divisione dei poteri|división de poderes||L|ist|C1
+politicizzare|politizar||V|ist|C1
+stratificazione sociale|estratificación social||L|att|C1
+mobilità sociale|movilidad social||L|att|C1
+emarginazione|marginación||S|att|C1
+ghettoizzazione|guetización||S|att|C1
+inserimento lavorativo|inserción laboral||L|lav|C1
+mutamento sociale|cambio social||L|att|C1
+urbanesimo|urbanismo||S|cit|C1
+spopolamento|despoblamiento||S|att|C1
+invecchiamento demografico|envejecimiento demográfico||L|att|C1
+denatalità|caída de la natalidad||S|att|C1
+famiglia allargata|familia reconstituida||L|fam|C1
+precariato|precariedad laboral||S|lav|C1
+disuguaglianza|desigualdad||S|att|C1
+inclusione|inclusión||S|att|C1
+segregazione urbana|segregación urbana||L|cit|C1
+conformismo|conformismo||S|att|C1
+devianza|desviación (comportamiento desviado)||S|att|C1
+socializzazione primaria|socialización primaria||L|att|C1
+capitale umano|capital humano||L|att|C1
+frammentazione|fragmentación||S|att|C1
+coesione|cohesión (social)||S|att|C1
+ruolo di genere|rol de género||L|att|C1
+antropologia|antropología||S|att|C1
+etnografia|etnografía||S|att|C1
+etnocentrismo|etnocentrismo||S|att|C1
+relativismo culturale|relativismo cultural||L|att|C1
+rito di passaggio|rito de paso||L|att|C1
+esogamia|exogamia||S|att|C1
+endogamia|endogamia||S|att|C1
+sciamanesimo|chamanismo||S|att|C1
+totemismo|totemismo||S|att|C1
+sincretismo|sincretismo||S|att|C1
+folclore|folclore||S|att|C1
+etnometodologia|etnometodología||S|att|C1
+osservazione partecipante|observación participante||L|att|C1
+subalternità|subalternidad||S|att|C1
+orientalismo|orientalismo||S|att|C1
+decostruzione|deconstrucción||S|let|C1
+egemonia|hegemonía (dominación cultural)||S|ast|C1
+meticciato|mestizaje||S|att|C1
+identità di gruppo|identidad de grupo||L|att|C1
+mondializzazione|mundialización||S|att|C1
+patrimonio immateriale|patrimonio inmaterial||L|art|C1
+cosmogonia|cosmogonía||S|ast|C1
+inchiesta giornalistica|reportaje de investigación||L|cmu|C1
+cronaca nera|sucesos (crónica negra)||L|cmu|C1
+scoop|exclusiva||S|cmu|C1
+delazione|delación||S|cmu|C1
+diffamazione|difamación||S|cmu|C1
+rettifica|rectificación (periodística)||S|cmu|C1
+direttore responsabile|director responsable||L|pro|C1
+libertà di stampa|libertad de prensa||L|cmu|C1
+testata giornalistica|cabecera periodística||L|cmu|C1
+editoriale|editorial (artículo de opinión)||S|cmu|C1
+corrispondente di guerra|corresponsal de guerra||L|pro|C1
+disinformazione|desinformación||S|cmu|C1
+bufala|bulo (noticia falsa)||S|cmu|C1
+titolo ad effetto|titular sensacionalista||L|cmu|C1
+pubblicità occulta|publicidad encubierta||L|cmu|C1
+segreto industriale|secreto industrial||L|ist|C1
+intervista esclusiva|entrevista exclusiva||L|cmu|C1
+inviato speciale|enviado especial||L|pro|C1
+servizio di approfondimento|reportaje de análisis||L|cmu|C1
+censura preventiva|censura previa||L|cmu|C1
+comunicazione di massa|comunicación de masas||L|cmu|C1
+portavoce|portavoz||S|pro|C1
+musicologia|musicología||S|mus|C1
+cromatismo|cromatismo||S|mus|C1
+polifonia|polifonía||S|mus|C1
+contrappunto|contrapunto||S|mus|C1
+modulazione|modulación||S|mus|C1
+scala pentatonica|escala pentatónica||L|mus|C1
+agogica|agogica (matices de tempo)||S|mus|C1
+battuta d'attacco|anacrusa||L|mus|C1
+partitura|partitura||S|mus|C1
+armonia tonale|armonía tonal||L|mus|C1
+tonalità|tonalidad||S|mus|C1
+atonalità|atonalidad||S|mus|C1
+scala cromatica|escala cromática||L|mus|C1
+sincopato|sincopado||A|mus|C1
+fugato|fugato||S|mus|C1
+libretto d'opera|libreto de ópera||L|mus|C1
+bel canto|bel canto||L|mus|C1
+filologia musicale|filología musical||L|mus|C1
+orchestrazione|orquestación||S|mus|C1
+motivo conduttore|motivo conductor (leitmotiv)||L|mus|C1
+cadenza perfetta|cadencia perfecta||L|mus|C1
+improvvisazione|improvisación||S|mus|C1
+restauro conservativo|restauración conservadora||L|art|C1
+indagine diagnostica|estudio diagnóstico||L|art|C1
+patina del tempo|pátina (del tiempo)||L|art|C1
+lacuna|laguna (hueco en un fresco)||S|art|C1
+strato pittorico|capa pictórica||L|art|C1
+museografia|museografía||S|art|C1
+allestimento museale|montaje museístico||L|art|C1
+curatela|curaduría (comisariado)||S|art|C1
+catalogazione|catalogación||S|art|C1
+attribuzione|atribución (de autoría)||S|art|C1
+attestazione di autenticità|atestación de autenticidad||L|art|C1
+falsificazione|falsificación (de obras de arte)||S|art|C1
+polittico|políptico||S|art|C1
+strappo d'affresco|arrancado del fresco||L|art|C1
+consolidamento strutturale|consolidación estructural||L|art|C1
+deposito museale|depósito museístico||L|art|C1
+prestito|préstamo (de obras)||S|art|C1
+mostra temporanea|exposición temporal||L|art|C1
+percorso espositivo|recorrido expositivo||L|art|C1
+didascalia|cartela (rótulo explicativo)||S|art|C1
+vincolo paesaggistico|protección paisajística||L|art|C1
+sovrintendenza|superintendencia (de bienes culturales)||S|ist|C1
+pulitura|limpieza (de la obra)||S|art|C1
+figurativo|figurativo||A|art|C1
+astrattismo|abstraccionismo||S|art|C1
+chiaroscuro|claroscuro||S|art|C1
+prospettiva aerea|perspectiva aérea||L|art|C1
+impasto|empaste||S|art|C1
+supporto|soporte (de la obra)||S|art|C1
+bozzetto|esbozo||S|art|C1
+torsione|torsión||S|art|C1
+simbolismo|simbolismo||S|art|C1
+espressionismo astratto|expresionismo abstracto||L|art|C1
+informale|informalismo||S|art|C1
+arte concettuale|arte conceptual||L|art|C1
+installazione|instalación||S|art|C1
+performatico|performativo||A|art|C1
+neoclassicismo|neoclasicismo||S|art|C1
+rococò|rococó||S|art|C1
+manierismo|manierismo||S|art|C1
+iconografia|iconografía||S|art|C1
+iconologia|iconología||S|art|C1
+mecenatismo|mecenazgo||S|art|C1
+bottega d'arte|taller de arte||L|art|C1
+vernice|barniz||S|art|C1
+sinopia|sinopia (dibujo preparatorio)||S|art|C1
+intelligenza artificiale|inteligencia artificial||L|tec|C1
+apprendimento automatico|aprendizaje automático||L|tec|C1
+apprendimento profondo|aprendizaje profundo||L|tec|C1
+rete neurale|red neuronal||L|tec|C1
+addestramento|entrenamiento||S|tec|C1
+insieme di addestramento|conjunto de entrenamiento||L|tec|C1
+inferenza del modello|inferencia del modelo||L|tec|C1
+parzialità algoritmica|sesgo algorítmico||L|tec|C1
+spiegabilità|explicabilidad||S|tec|C1
+visione artificiale|visión artificial||L|tec|C1
+scienza dei dati|ciencia de datos||L|tec|C1
+metadato|metadato||S|tec|C1
+algoritmico|algorítmico||A|tec|C1
+modello generativo|modelo generativo||L|tec|C1
+sovraccarico cognitivo|sobrecarga cognitiva||L|tec|C1
+parametro del modello|parámetro del modelo||L|tec|C1
+raggruppamento|agrupamiento||S|tec|C1
+serie temporale|serie temporal||L|tec|C1
+etichettatura|etiquetado||S|tec|C1
+calcolo distribuito|cálculo distribuido||L|tec|C1
+anonimizzazione|anonimización||S|tec|C1
+diagramma di dispersione|diagrama de dispersión||L|tec|C1
+retropropagazione|retropropagación||S|tec|C1
+crittografia|criptografía||S|tec|C1
+crittoanalisi|criptoanálisis||S|tec|C1
+cifratura a chiave pubblica|cifrado de clave pública||L|tec|C1
+firma digitale|firma digital||L|tec|C1
+chiave di sessione|clave de sesión||L|tec|C1
+autenticazione a due fattori|autenticación de dos factores||L|tec|C1
+violazione dei dati|filtración de datos||L|tec|C1
+vulnerabilità informatica|vulnerabilidad informática||L|tec|C1
+codice maligno|código malicioso||L|tec|C1
+vettore d'attacco|vector de ataque||L|tec|C1
+protezione perimetrale|protección perimetral||L|tec|C1
+intercettazione|interceptación (escucha)||S|ist|C1
+protocollo di sicurezza|protocolo de seguridad||L|tec|C1
+furto d'identità|robo de identidad||L|tec|C1
+truffa telematica|fraude telemático||L|tec|C1
+aggiornamento dei sistemi|actualización de los sistemas||L|tec|C1
+cifrario|cifrador||S|tec|C1
+verifica dell'integrità|verificación de la integridad||L|tec|C1
+attacco cibernetico|ataque cibernético||L|tec|C1
+intrusione|intrusión (acceso no autorizado)||S|tec|C1
+steganografia|esteganografía||S|tec|C1
+alfabetizzazione digitale|alfabetización digital||L|tec|C1
+cifratura simmetrica|cifrado simétrico||L|tec|C1

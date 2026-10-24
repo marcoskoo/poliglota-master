@@ -1,0 +1,312 @@
+musicologia|musicología||S|mus|C2
+polifonia|polifonía||S|mus|C2
+contrappunto|contrapunto||S|mus|C2
+tonalità|tonalidad||S|mus|C2
+modulazione|modulación (cambio de tono)||S|mus|C2
+cromatismo|cromatismo||S|mus|C2
+partitura|partitura||S|mus|C2
+libretto|libreto||S|mus|C2
+belcanto|bel canto||S|mus|C2
+virtuosismo|virtuosismo||S|mus|C2
+orchestrazione|orquestación||S|mus|C2
+recitativo|recitativo||S|mus|C2
+lirica|lírica (ópera)||S|mus|C2
+fuga|fuga||S|mus|C2
+clavicembalo|clavecín||S|mus|C2
+pentagramma|pentagrama||S|mus|C2
+dissonanza|disonancia||S|mus|C2
+restauro|restauración||S|art|C2
+patina|pátina||S|art|C2
+museografia|museografía||S|art|C2
+allestimento|montaje (expositivo)||S|art|C2
+curatela|curaduría||S|art|C2
+catalogazione|catalogación||S|art|C2
+provenienza|procedencia (de una obra)||S|art|C2
+attribuzione|atribución (de autoría)||S|art|C2
+falsario|falsificador||S|pro|C2
+velatura|veladura||S|art|C2
+imprimitura|imprimación||S|art|C2
+termoigrometro|termohigrómetro (control museístico)||S|art|C2
+sopralluogo|visita de inspección||S|art|C2
+riflettografia|reflectografía||S|art|C2
+ritocco|retoque||S|art|C2
+quadreria|pinacoteca (galería de cuadros)||S|art|C2
+catalogo ragionato|catálogo razonado||L|art|C2
+estetica|estética||S|art|C2
+sublime|lo sublime||S|art|C2
+idealizzazione|idealización||S|art|C2
+genialità|genialidad||S|art|C2
+kitsch|kitsch (estética de pacotilla)||S|art|C2
+avanguardia|vanguardia||S|art|C2
+installazione|instalación (arte)||S|art|C2
+concettualismo|conceptualismo||S|art|C2
+astrattismo|abstraccionismo||S|art|C2
+fruizione|disfrute (de la obra)||S|art|C2
+espressività|expresividad||S|art|C2
+stilizzazione|estilización||S|art|C2
+ornamentazione|ornamentación||S|art|C2
+chiaroscuro|claroscuro||S|art|C2
+iconografia|iconografía||S|art|C2
+iconologia|iconología||S|art|C2
+intelligenza artificiale|inteligencia artificial||L|tec|C2
+apprendimento automatico|aprendizaje automático||L|tec|C2
+percettrone|perceptrón||S|tec|C2
+apprendimento supervisionato|aprendizaje supervisado||L|tec|C2
+addestramento|entrenamiento (de un modelo)||S|tec|C2
+regolarizzazione|regularización||S|tec|C2
+predizione|predicción||S|tec|C2
+matrice di confusione|matriz de confusión||L|tec|C2
+segmentazione|segmentación||S|tec|C2
+modello generativo|modelo generativo||L|tec|C2
+iperparametro|hiperparámetro||S|tec|C2
+approssimazione|aproximación||S|sci|C2
+euristica|heurística||S|sci|C2
+complessità|complejidad (computacional)||S|tec|C2
+iterazione|iteración||S|tec|C2
+convergenza|convergencia||S|sci|C2
+crittografia|criptografía||S|tec|C2
+cifratura|cifrado||S|tec|C2
+decifratura|descifrado||S|tec|C2
+crittanalisi|criptoanálisis||S|tec|C2
+chiave pubblica|clave pública||L|tec|C2
+impronta digitale|huella digital||L|tec|C2
+firma digitale|firma digital||L|tec|C2
+vulnerabilità|vulnerabilidad||S|tec|C2
+intrusione|intrusión||S|tec|C2
+furto d'identità|robo de identidad||L|tec|C2
+criptovaluta|criptomoneda||S|fin|C2
+autenticazione|autenticación||S|tec|C2
+biometria|biometría||S|tec|C2
+steganografia|esteganografía||S|tec|C2
+resilienza|resiliencia (de sistemas)||S|tec|C2
+integrità dei dati|integridad de los datos||L|tec|C2
+latenza|latencia||S|tec|C2
+ampiezza di banda|ancho de banda||L|tec|C2
+commutazione|conmutación||S|tec|C2
+fibra ottica|fibra óptica||L|tec|C2
+ripetitore|repetidor (de señal)||S|tec|C2
+geostazionario|geoestacionario||A|tec|C2
+spettro elettromagnetico|espectro electromagnético||L|tec|C2
+trasduttore|transductor||S|tec|C2
+codifica|codificación||S|tec|C2
+decodifica|decodificación||S|tec|C2
+radiofrequenza|radiofrecuencia||S|tec|C2
+telemetria|telemetría||S|tec|C2
+domotica|domótica||S|tec|C2
+instradamento|encaminamiento||S|tec|C2
+intercettazione|interceptación (escucha telefónica)||S|tec|C2
+portante|onda portadora||S|tec|C2
+fissione nucleare|fisión nuclear||L|sci|C2
+fusione nucleare|fusión nuclear||L|sci|C2
+reattore|reactor (nuclear)||S|tec|C2
+nocciolo|núcleo (del reactor)||S|tec|C2
+moderatore|moderador (nuclear)||S|tec|C2
+arricchimento|enriquecimiento (de uranio)||S|tec|C2
+scoria|escoria (residuo radiactivo)||S|tec|C2
+smaltimento|eliminación (gestión de residuos)||S|tec|C2
+decommissionamento|desmantelamiento (de central)||S|tec|C2
+dose assorbita|dosis absorbida||L|sci|C2
+dosimetro|dosímetro||S|tec|C2
+schermatura|apantallamiento||S|tec|C2
+termodinamica|termodinámica||S|sci|C2
+rendimento|rendimiento (eficiencia)||S|tec|C2
+accumulatore|acumulador||S|tec|C2
+fotovoltaico|fotovoltaico||A|tec|C2
+aerodinamica|aerodinámica||S|tec|C2
+portanza|sustentación (fuerza ascensional)||S|tec|C2
+assetto|actitud (orientación de vuelo)||S|tec|C2
+carlinga|cabina de mando||S|tec|C2
+apogeo|apogeo||S|sci|C2
+perigeo|perigeo||S|sci|C2
+propulsione|propulsión||S|tec|C2
+spinta|empuje||S|tec|C2
+sonda spaziale|sonda espacial||L|sci|C2
+telerilevamento|teledetección||S|sci|C2
+imponderabilità|ingravidez||S|sci|C2
+microgravità|microgravedad||S|sci|C2
+allunaggio|alunizaje||S|sci|C2
+detrito orbitale|detrito orbital||S|sci|C2
+rientro atmosferico|reentrada atmosférica||L|sci|C2
+velivolo|aeronave||S|tec|C2
+robotica|robótica||S|tec|C2
+automazione|automatización||S|tec|C2
+catena di montaggio|cadena de montaje||L|lav|C2
+manipolatore|manipulador (robótico)||S|tec|C2
+attuatore|actuador||S|tec|C2
+azionamento|accionamiento (variador de velocidad)||S|tec|C2
+visione artificiale|visión artificial (robótica)||L|tec|C2
+odometria|odometría||S|tec|C2
+cinematica|cinemática (robótica)||S|tec|C2
+calibrazione|calibración||S|tec|C2
+assemblaggio|ensamblaje||S|lav|C2
+collaudo|prueba de validación||S|lav|C2
+approvvigionamento|aprovisionamiento||S|lav|C2
+interoperabilità|interoperabilidad||S|tec|C2
+prototipazione|prototipado||S|tec|C2
+sincronizzazione|sincronización||S|tec|C2
+climatologia|climatología||S|sci|C2
+modellizzazione|modelización||S|sci|C2
+riscaldamento globale|calentamiento global||L|nat|C2
+gas serra|gases de efecto invernadero||L|sci|C2
+forzatura radiativa|forzamiento radiativo||L|sci|C2
+paleoclimatologia|paleoclimatología||S|sci|C2
+carota di ghiaccio|testigo de hielo||L|sci|C2
+criosfera|criosfera||S|sci|C2
+albedo|albedo||S|sci|C2
+assorbimento di carbonio|absorción de carbono (sumidero)||L|sci|C2
+anomalia termica|anomalía térmica||L|sci|C2
+desertificazione|desertización||S|nat|C2
+scioglimento|deshielo||S|nat|C2
+escursione termica|oscilación térmica||L|sci|C2
+antropogenico|antropogénico||A|sci|C2
+mitigazione|mitigación||S|sci|C2
+oceanografia|oceanografía||S|sci|C2
+risalita|surgencia (corriente ascendente)||S|sci|C2
+mareografia|mareografía||S|sci|C2
+batimetria|batimetría||S|sci|C2
+plancton|plancton||S|sci|C2
+cetaceo|cetáceo||S|ani|C2
+balenottera|rorcual||S|ani|C2
+secca|bajo (fondo rocoso)||S|nat|C2
+bioluminescenza|bioluminiscencia||S|sci|C2
+estuario|estuario||S|sci|C2
+salinità|salinidad||S|sci|C2
+dragaggio|dragado||S|tec|C2
+mangrovia|manglar||S|nat|C2
+barriera corallina|arrecife de coral||L|nat|C2
+palombaro|buzo de escafandra||S|pro|C2
+abissale|abisal||A|sci|C2
+impatto ambientale|impacto ambiental||L|nat|C2
+bilancio ambientale|balance ambiental||L|nat|C2
+sfruttamento|explotación (de recursos)||S|nat|C2
+energia rinnovabile|energía renovable||L|nat|C2
+degrado|degradación (medioambiental)||S|nat|C2
+bonifica|descontaminación (recuperación)||S|nat|C2
+stoccaggio|almacenamiento||S|tec|C2
+percolato|lixiviado||S|tec|C2
+biodiversità|biodiversidad||S|nat|C2
+inquinante|contaminante||S|sci|C2
+captazione|captación (de aguas)||S|tec|C2
+isola di calore|isla de calor (urbana)||L|nat|C2
+depurazione|depuración (tratamiento de aguas)||S|tec|C2
+riutilizzo|reutilización||S|nat|C2
+economia circolare|economía circular||L|fin|C2
+salvaguardia|salvaguardia||S|nat|C2
+biopsia|biopsia||S|sla|C2
+autopsia|autopsia||S|sla|C2
+necrosi|necrosis||S|sla|C2
+ischemia|isquemia||S|sla|C2
+stenosi|estenosis||S|sla|C2
+metastasi|metástasis||S|sla|C2
+istologia|histología||S|sci|C2
+citologia|citología||S|sci|C2
+epitelio|epitelio||S|cor|C2
+fascia|fascia (envoltura muscular)||S|cor|C2
+sinovia|sinovia||S|cor|C2
+sistole|sístole||S|cor|C2
+diastole|diástole||S|cor|C2
+peristalsi|peristalsis||S|cor|C2
+epifisi|epífisis||S|cor|C2
+diafisi|diáfisis||S|cor|C2
+paradosso|paradoja||S|ast|C2
+aporia|aporía||S|ast|C2
+antinomia|antinomia||S|ast|C2
+temperanza|templanza||S|ast|C2
+magnanimità|magnanimidad||S|ast|C2
+rettitudine|rectitud||S|ast|C2
+disinganno|desengaño||S|ast|C2
+quiddità|quiddidad (esencia)||S|ast|C2
+immutabilità|inmutabilidad||S|ast|C2
+finitezza|finitud||S|ast|C2
+vacuità|vacuidad||S|ast|C2
+verosimile|verosímil||A|let|C2
+distopia|distopía||S|let|C2
+empireo|empíreo||S|ast|C2
+interstizio|intersticio||S|ast|C2
+ubiquità|ubicuidad||S|ast|C2
+equità|equidad||S|ast|C2
+ad hoc|ad hoc||L|ast|C2
+in itinere|in itinere (por el camino)||L|ast|C2
+ex novo|ex novo (desde cero)||L|ast|C2
+a fortiori|con mayor razón||L|ast|C2
+non sequitur|non sequitur (conclusión que no sigue)||S|ast|C2
+ipso facto|ipso facto (en el acto)||L|ast|C2
+tertium non datur|no hay tercera opción||L|ast|C2
+kairos|kairós (momento oportuno)||S|ast|C2
+ethos|ethos (carácter)||S|ast|C2
+pathos|pathos (emoción)||S|let|C2
+logos|logos (razón)||S|ast|C2
+hubris|hybris (soberbia desmedida)||S|ast|C2
+dépliant|díptico (folleto)||S|cmu|C2
+élite|élite||S|ast|C2
+déjà vu|déjà vu (impresión ya vista)||S|ast|C2
+modus operandi|modus operandi (manera de proceder)||L|ast|C2
+status quo|status quo (estado de cosas)||L|ast|C2
+panta rhei|todo fluye (Heráclito)||L|ast|C2
+homo homini lupus|el hombre es un lobo para el hombre||L|ast|C2
+nosce te ipsum|conócete a ti mismo||L|ast|C2
+carpe diem|aprovecha el día||L|let|C2
+errare humanum est|errar es de humanos||L|ast|C2
+dura lex sed lex|dura ley, pero ley||L|ist|C2
+in medias res|en mitad de los hechos||L|let|C2
+suum cuique|a cada cual lo suyo||L|ast|C2
+per aspera ad astra|por el camino áspero, a las estrellas||L|ast|C2
+mutatis mutandis|cambiando lo que haya que cambiar||L|ast|C2
+ceteris paribus|permaneciendo igual lo demás||L|fin|C2
+prima facie|a primera vista||L|ist|C2
+in extremis|en el último momento||L|ast|C2
+sub iudice|bajo examen (aún por decidir)||L|ist|C2
+chi la dura la vince|quien resiste, vence||E|ast|C2
+buon sangue non mente|la buena sangre no miente||E|ast|C2
+ogni lasciata è persa|lo que se deja, se pierde||E|ast|C2
+sottinteso|sobreentendido||S|cmu|C2
+allusione|alusión||S|cmu|C2
+eufemismo|eufemismo||S|let|C2
+attenuazione|atenuación (eufemística)||S|let|C2
+insinuazione|insinuación||S|cmu|C2
+ammonizione|amonestación||S|cmu|C2
+rammarico|pesar (disgusto)||S|emo|C2
+biasimo|reprobación||S|cmu|C2
+plausibile|plausible||A|ast|C2
+tergiversazione|tergiversación||S|cmu|C2
+evasivo|evasivo||A|cmu|C2
+perifrastico|perifrástico||A|let|C2
+enfasi|énfasis||S|cmu|C2
+velatamente|de forma velada||D|cmu|C2
+a bella posta|adrede (a propósito)||L|cmu|C2
+accezione|acepción||S|sci|C2
+antifrasi|antífrasis||S|let|C2
+taccagno|tacanio (roñoso)||S|cmu|C2
+buzzurro|palurdo (cateto)||S|cmu|C2
+melensa|empalagosa (sosa)||A|cmu|C2
+smargiasso|fanfarrón||S|cmu|C2
+pappamolle|blandengue (calandra)||S|cmu|C2
+piagnone|llorica||S|cmu|C2
+impappinarsi|trabarse (al hablar)||V|cmu|C2
+arraffare|birlar (atrapar)||V|cmu|C2
+svignarsela|escurrirse (pirarse)||V|cmu|C2
+snervare|desesperar (agotar la paciencia)||V|emo|C2
+abbindolare|engatusar||V|cmu|C2
+farla franca|salirse con la suya||L|cmu|C2
+menefreghismo|pasotismo||S|cmu|C2
+sòla|tomadura de pelo||S|cmu|C2
+imbroglio|enredo (timo)||S|cmu|C2
+scansafatiche|holgazán||S|cmu|C2
+cricca|camarilla||S|cmu|C2
+pischello|chaval (muchacho romano)||S|cmu|C2
+burino|cateto (paleto)||S|cmu|C2
+sciura|señora (milanesa)||S|cmu|C2
+guappo|matón (chulo napolitano)||S|cmu|C2
+sfizioso|apetitoso (que apetece)||A|ali|C2
+mo'|ahora (variedad meridional)||D|tmp|C2
+assaje|muchísimo (napolitano)||D|ast|C2
+puparo|titiritero (fabricante de títeres siciliano)||S|pro|C2
+friarielli|grelos (brécoles napolitanos)||S|ali|C2
+luganega|longaniza||S|ali|C2
+paesano|paisano (del mismo pueblo)||S|cmu|C2
+compare|compadre (padrino, meridional)||S|cmu|C2
+sgarro|afrenta (deslealtad mafiosa)||S|cmu|C2
+pizzo|pizzo (extorsión mafiosa)||S|fin|C2
+scugnizzo|chiquillo callejero (napolitano)||S|cmu|C2
+sfizio|antojo (capricho)||S|ali|C2
+cuccagna|cucaña (abundancia)||S|ast|C2

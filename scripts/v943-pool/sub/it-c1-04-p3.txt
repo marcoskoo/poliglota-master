@@ -1,0 +1,290 @@
+canone|canon||S|let|C1
+letteratura comparata|literatura comparada||S|let|C1
+letteratura mondiale|literatura mundial||S|let|C1
+comparatistica|comparatística||S|let|C1
+influsso|influjo||S|let|C1
+ricezione|recepción||S|let|C1
+classicità|clasicidad||S|let|C1
+capolavoro|obra maestra||S|let|C1
+scrittore minore|escritor menor||S|let|C1
+genere letterario|género literario||S|let|C1
+romanzo di formazione|novela de formación||S|let|C1
+romanzo storico|novela histórica||S|let|C1
+gotico|gótico||A|let|C1
+corpus|corpus||S|let|C1
+attribuzione|atribución||S|let|C1
+pseudonimo|seudónimo||S|let|C1
+circolazione|circulación||S|let|C1
+tradizione manoscritta|tradición manuscrita||S|let|C1
+intertestualità|intertextualidad||S|let|C1
+ipotesto|hipotexto||S|let|C1
+riscoperta|redescubrimiento||S|let|C1
+patrimonio culturale|patrimonio cultural||S|let|C1
+sondaggio|encuesta||S|att|C1
+campione rappresentativo|muestra representativa||S|att|C1
+intenzione di voto|intención de voto||S|att|C1
+margine di errore|margen de error||S|att|C1
+scostamento|desviación||S|att|C1
+opinione pubblica|opinión pública||S|att|C1
+demoscopia|demoscopia||S|att|C1
+istituto di sondaggi|instituto demoscópico||S|att|C1
+circoscrizione|circunscripción||S|att|C1
+astensionismo|abstencionismo||S|att|C1
+seggio elettorale|colegio electoral||S|att|C1
+spoglio|escrutinio||S|att|C1
+ballottaggio|segunda vuelta||S|att|C1
+legge elettorale|ley electoral||S|att|C1
+collegio uninominale|circunscripción uninominal||S|att|C1
+quorum|quórum||S|att|C1
+disaffezione|desafección||S|att|C1
+consenso|consenso||S|att|C1
+dibattito televisivo|debate televisivo||S|att|C1
+giornalismo d'inchiesta|periodismo de investigación||S|att|C1
+postverità|posverdad||S|att|C1
+viralità|viralidad||S|att|C1
+cessate il fuoco|alto el fuego||E|att|C1
+negoziato|negociación||S|att|C1
+armistizio|armisticio||S|att|C1
+offensiva|ofensiva||S|att|C1
+insurrezione|insurrección||S|att|C1
+guerriglia|guerrilla||S|att|C1
+embargo|embargo||S|att|C1
+sanzioni economiche|sanciones económicas||S|att|C1
+conflitto armato|conflicto armado||S|att|C1
+mantenimento della pace|mantenimiento de la paz||S|att|C1
+caschi blu|cascos azules||S|att|C1
+prevenzione dei conflitti|prevención de conflictos||S|att|C1
+proliferazione nucleare|proliferación nuclear||S|att|C1
+deterrenza|disuasión||S|att|C1
+trattato di pace|tratado de paz||S|att|C1
+vertice|cumbre||S|att|C1
+rappresaglia|represalia||S|att|C1
+profugo|refugiado||S|att|C1
+sfollato|desplazado||S|att|C1
+dopoguerra|posguerra||S|att|C1
+disarmo|desarme||S|att|C1
+ostaggio|rehén||S|att|C1
+integrazione europea|integración europea||S|ist|C1
+sovranazionale|supranacional||A|ist|C1
+diritto comunitario|derecho comunitario||S|ist|C1
+direttiva|directiva||S|ist|C1
+assemblea parlamentare|asamblea parlamentaria||S|ist|C1
+consiglio dei ministri|consejo de ministros||S|ist|C1
+corte di giustizia|tribunal de justicia||S|ist|C1
+parere motivato|dictamen motivado||S|ist|C1
+sussidiarietà|subsidiariedad||S|ist|C1
+proporzionalità|proporcionalidad||S|ist|C1
+convergenza|convergencia||S|ist|C1
+allargamento|ampliación||S|ist|C1
+adesione|adhesión||S|ist|C1
+deroga|excepción||S|ist|C1
+partenariato pubblico-privato|colaboración público-privada||S|ist|C1
+multilateralismo|multilateralismo||S|ist|C1
+unanimità|unanimidad||S|ist|C1
+maggioranza qualificata|mayoría cualificada||S|ist|C1
+risoluzione|resolución||S|ist|C1
+rappresentanza permanente|representación permanente||S|ist|C1
+organismo multilaterale|organismo multilateral||S|ist|C1
+ricorso|recurso||S|ist|C1
+stato sociale|estado del bienestar||S|ist|C1
+previdenza|previsión social||S|ist|C1
+sostegno al reddito|apoyo a la renta||S|ist|C1
+pensione di invalidità|pensión de invalidez||S|ist|C1
+assegno familiare|asignación familiar||S|ist|C1
+prestazione assistenziale|prestación asistencial||S|ist|C1
+emarginazione|marginación||S|ist|C1
+inclusione|inclusión||S|ist|C1
+povertà educativa|pobreza educativa||S|ist|C1
+alloggio popolare|vivienda de protección oficial||S|ist|C1
+edilizia residenziale|edificación residencial||S|ist|C1
+minimo vitale|mínimo vital||S|ist|C1
+spesa pubblica|gasto público||S|ist|C1
+fiscalità|sistema fiscal||S|ist|C1
+prelievo obbligatorio|imposición obligatoria||S|ist|C1
+universalità|universalidad||S|ist|C1
+selettivo|selectivo||A|ist|C1
+standard di vita|nivel de vida||S|ist|C1
+anziano non autosufficiente|anciano dependiente||S|ist|C1
+assistenza domiciliare|asistencia domiciliaria||S|ist|C1
+congedo parentale|permiso parental||S|ist|C1
+ammortizzatore sociale|amortiguador social||S|ist|C1
+manifestazione|manifestación||S|att|C1
+corteo|marcha de protesta||S|att|C1
+picchetto|piquete||S|att|C1
+sciopero generale|huelga general||S|att|C1
+serrata|cierre patronal||S|att|C1
+boicottaggio|boicot||S|att|C1
+sindacato|sindicato||S|att|C1
+vertenza sindacale|conflicto laboral||S|att|C1
+rivendicazione|reivindicación||S|att|C1
+contestazione|contestación||S|att|C1
+attivismo|activismo||S|att|C1
+rivolta|revuelta||S|att|C1
+sommossa|motín||S|att|C1
+dissenso|disenso||S|att|C1
+scendere in piazza|salir a manifestar||E|att|C1
+catena umana|cadena humana||S|att|C1
+occupazione|ocupación||S|att|C1
+sgombero|desalojo||S|att|C1
+repressione|represión||S|att|C1
+carica della polizia|carga policial||S|att|C1
+manganello|porra||S|att|C1
+gas lacrimogeno|gas lacrimógeno||S|att|C1
+corruzione|corrupción||S|att|C1
+concussione|cohecho||S|att|C1
+tangente|soborno||S|att|C1
+peculato|malversación de caudales públicos||S|att|C1
+abuso d'ufficio|abuso de autoridad||S|att|C1
+conflitto d'interessi|conflicto de intereses||S|att|C1
+incompatibilità|incompatibilidad||S|att|C1
+trasparenza|transparencia||S|att|C1
+rendicontazione|rendición de cuentas||S|att|C1
+revisione dei conti|auditoría de cuentas||S|att|C1
+sequestro preventivo|embargo preventivo||S|att|C1
+patteggiamento|proceso abreviado||S|att|C1
+prescrizione|prescripción del delito||S|att|C1
+riciclaggio|blanqueo de capitales||S|att|C1
+illecito|ilícito||S|att|C1
+scambio di favori|intercambio de favores||S|att|C1
+favoritismo|favoritismo||S|att|C1
+clientelismo|clientelismo||S|att|C1
+lottizzazione|reparto clientelar||S|att|C1
+spergiuro|perjurio||S|att|C1
+inquisito|imputado||S|att|C1
+depenalizzazione|despenalización||S|att|C1
+demografia|demografía||S|att|C1
+invecchiamento della popolazione|envejecimiento de la población||S|att|C1
+denatalità|caída de la natalidad||S|att|C1
+immigrazione|inmigración||S|att|C1
+visto d'ingresso|visado de entrada||S|att|C1
+migrazione netta|migración neta||S|att|C1
+diaspora|diáspora||S|att|C1
+rimpatrio|regreso al país de origen||S|att|C1
+seconda generazione|segunda generación||S|att|C1
+permesso di soggiorno|permiso de residencia||S|att|C1
+centro di accoglienza|centro de acogida||S|att|C1
+richiedente asilo|solicitante de asilo||S|att|C1
+espulsione|expulsión||S|att|C1
+respingimento|rechazo en frontera||S|att|C1
+cittadinanza|ciudadanía||S|att|C1
+naturalizzazione|naturalización||S|att|C1
+popolazione residente|población residente||S|att|C1
+tasso di natalità|tasa de natalidad||S|att|C1
+densità di popolazione|densidad de población||S|att|C1
+esodo|éxodo||S|att|C1
+spopolamento|despoblamiento||S|att|C1
+censimento|censo||S|att|C1
+iconografia|iconografía||S|art|C1
+iconologia|iconología||S|art|C1
+attributo|atributo iconográfico||S|art|C1
+simbologia|simbología||S|art|C1
+personificazione|personificación||S|art|C1
+bestiario|bestiario||S|art|C1
+mandorla|gloria almendrada||S|art|C1
+aureola|aureola||S|art|C1
+gestualità|gestualidad||S|art|C1
+simbolismo|simbolismo||S|art|C1
+emblema|emblema||S|art|C1
+araldica|heráldica||S|art|C1
+blasone|blasón||S|art|C1
+insegna|insignia||S|art|C1
+geroglifico|jeroglífico||S|art|C1
+ideogramma|ideograma||S|art|C1
+glifo|glifo||S|art|C1
+miniatura|miniatura||S|art|C1
+ciclo pittorico|ciclo pictórico||S|art|C1
+bottega|taller artístico||S|art|C1
+committente|comitente||S|art|C1
+mecenatismo|mecenazgo||S|art|C1
+oreficeria|orfebrería||S|art|C1
+cesellare|cincelar||V|art|C1
+smalto|esmalte||S|art|C1
+filigrana|filigrana||S|art|C1
+incisione|grabado||S|art|C1
+bulino|buril||S|art|C1
+intarsio|taracea||S|art|C1
+damascatura|damasquinado||S|art|C1
+niello|nielado||S|art|C1
+maiolica|mayólica||S|art|C1
+vetrina|vidriado||S|art|C1
+porcellana|porcelana||S|art|C1
+argenteria|platería||S|art|C1
+gioielleria|joyería||S|art|C1
+orefice|orfebre||S|art|C1
+arazzo|tapiz||S|art|C1
+ricamo|bordado||S|art|C1
+merletto|encaje||S|art|C1
+chincaglieria|chuchería decorativa||S|art|C1
+mobilio|mobiliario||S|art|C1
+ebanisteria|ebanistería||S|art|C1
+disegno industriale|diseño industrial||S|art|C1
+prototipo|prototipo||S|art|C1
+pellicola|película fotográfica||S|art|C1
+diaframma|diafragma||S|art|C1
+otturatore|obturador||S|art|C1
+esposizione|exposición||S|art|C1
+controluce|contraluz||S|art|C1
+profondità di campo|profundidad de campo||S|art|C1
+messa a fuoco|enfoque||S|art|C1
+grana|grano de la imagen||S|art|C1
+sovraesposizione|sobreexposición||S|art|C1
+inquadratura|encuadre||S|art|C1
+ingranditore|ampliadora||S|art|C1
+rivelatore|revelador||S|art|C1
+fissaggio|fijado||S|art|C1
+negativo|negativo||S|art|C1
+diapositiva|diapositiva||S|art|C1
+posa lunga|exposición larga||S|art|C1
+servizio|reportaje||S|art|C1
+istantanea|instantánea||S|art|C1
+montaggio|montaje||S|art|C1
+installazione|instalación||S|art|C1
+arte concettuale|arte conceptual||S|art|C1
+gallerista|galerista||S|art|C1
+mostra personale|exposición individual||S|art|C1
+capitello|capitel||S|art|C1
+volta a crociera|bóveda de crucería||S|art|C1
+arco a tutto sesto|arco de medio punto||S|art|C1
+arco a sesto acuto|arco apuntado||S|art|C1
+contrafforte|contrafuerte||S|art|C1
+mensola|ménsula||S|art|C1
+cornicione|gran cornisa||S|art|C1
+timpano|frontón||S|art|C1
+lesena|pilastra adosada||S|art|C1
+basamento|basamento||S|art|C1
+fregio|friso||S|art|C1
+trabeazione|trabeación||S|art|C1
+bugnato|sillare almohadillado||S|art|C1
+loggia|logia||S|art|C1
+porticato|zona porticada||S|art|C1
+scalinata|escalinata||S|art|C1
+balaustrata|balaustrada||S|art|C1
+mattonato|solería de ladrillo||S|art|C1
+cotto|barro cocido||S|art|C1
+intonaco|revoco||S|art|C1
+ponteggio|andamio||S|art|C1
+restauro|restauración||S|art|C1
+paesaggistico|paisajístico||A|art|C1
+coreografia|coreografía||S|art|C1
+coreografo|coreógrafo||S|art|C1
+prima ballerina|primera bailarina||S|art|C1
+corpo di ballo|cuerpo de baile||S|art|C1
+scarpette da punta|zapatillas de puntas||S|art|C1
+sbarra|barra de entrenamiento||S|art|C1
+variazione|variación||S|art|C1
+spaccato|espagat||S|art|C1
+estemporaneo|extemporáneo||A|art|C1
+mimo|mimo||S|art|C1
+pantomima|pantomima||S|art|C1
+burattinaio|titiritero||S|art|C1
+marionetta|marioneta||S|art|C1
+giocoleria|malabarismo||S|art|C1
+equilibrista|equilibrista||S|art|C1
+arte circense|arte circense||S|art|C1
+prossemica|proxémica||S|art|C1
+espressività|expresividad||S|art|C1
+palcoscenico|escenario||S|art|C1
+audizione|audición||S|art|C1
+tournée|gira artística||S|art|C1
+repertorio|repertorio||S|art|C1
+danza contemporanea|danza contemporánea||S|art|C1

@@ -1,0 +1,292 @@
+contrattuale|contractual||A|ist|C1
+contraffazione|falsificación||S|ist|C1
+usucapione|usucapión||S|ist|C1
+ipotecario|hipotecario||A|ist|C1
+risarcimento del danno|indemnización de daños y perjuicios||L|ist|C1
+clausola vessatoria|cláusula abusiva||L|ist|C1
+rescissione|rescisión||S|ist|C1
+reato|delito||S|ist|C1
+reclusione|reclusión||S|ist|C1
+imputabilità|imputabilidad||S|ist|C1
+condanna condizionale|condena condicional||L|ist|C1
+recidiva|reincidencia||S|ist|C1
+contravvenzione|contravención||S|ist|C1
+dolo|dolo (intención delictiva)||S|ist|C1
+fideiussione|fianza (aval)||S|ist|C1
+capitolato|pliego de condiciones||S|ist|C1
+illecito|ilícito (acto contrario a derecho)||S|ist|C1
+legittimario|heredero forzoso||S|ist|C1
+onere della prova|carga de la prueba||L|ist|C1
+danno biologico|daño biológico||L|ist|C1
+patrocinio|patrocinio (defensa letrada)||S|ist|C1
+giurisprudenza|jurisprudencia||S|ist|C1
+codice penale|código penal||L|ist|C1
+imputato|acusado||S|ist|C1
+arringa|alegato final del abogado||S|ist|C1
+magistratura|magistratura||S|ist|C1
+istruttoria|instrucción (fase del proceso)||S|ist|C1
+dibattimento|juicio oral||S|ist|C1
+querela|querella||S|ist|C1
+cavillo|cavilación||S|ist|C1
+appellabile|apelable||A|ist|C1
+gravame|recurso procesal||S|ist|C1
+escussione dei testimoni|examen de testigos||L|ist|C1
+archiviare un'inchiesta|archivar una investigación||L|ist|C1
+assoluzione|absolución||S|ist|C1
+ergastolo|cadena perpetua||S|ist|C1
+rinvio a giudizio|remisión a juicio (procesamiento)||L|ist|C1
+sequestro preventivo|embargo preventivo||L|ist|C1
+perizia|peritaje||S|ist|C1
+presunzione di innocenza|presunción de inocencia||L|ist|C1
+contraddittorio|contradicción procesal||S|ist|C1
+cancelliere|secretario judicial||S|ist|C1
+costituzionale|constitucional||A|ist|C1
+emendamento|enmienda||S|ist|C1
+mozione di sfiducia|moción de censura||L|ist|C1
+gazzetta ufficiale|boletín oficial||L|ist|C1
+iter legislativo|tramitación legislativa||L|ist|C1
+potestà legislativa|potestad legislativa||L|ist|C1
+decreto-legge|decreto-ley||S|ist|C1
+abrogazione|abrogación||S|ist|C1
+referendum confermativo|referéndum confirmativo||L|ist|C1
+giurisdizione|jurisdicción||S|ist|C1
+sovranità popolare|soberanía popular||L|ist|C1
+scrutinio|escrutinio||S|ist|C1
+camera alta|cámara alta||L|ist|C1
+ratifica|ratificación||S|ist|C1
+incostituzionale|inconstitucional||A|ist|C1
+prassi costituzionale|práctica constitucional||L|ist|C1
+secessione|secesión||S|ist|C1
+impero della legge|imperio de la ley||L|ist|C1
+bilanciamento|ponderación (equilibrio de derechos)||S|ist|C1
+elettorale|electoral||A|ist|C1
+scioglimento delle camere|disolución de las cámaras||L|ist|C1
+referto|informe médico||S|sla|C1
+cartella clinica|historia clínica||L|sla|C1
+triage|triaje||S|sla|C1
+degente|paciente ingresado||S|sla|C1
+ricovero d'urgenza|ingreso de urgencias||L|sla|C1
+anamnesi|anamnesis||S|sla|C1
+eziologia|etiología||S|sla|C1
+prognosi infausta|pronóstico infausto||L|sla|C1
+diagnosi differenziale|diagnóstico diferencial||L|sla|C1
+terapia intensiva|cuidados intensivos||L|sla|C1
+paziente critico|paciente crítico||L|sla|C1
+laparoscopia|laparoscopia||S|sla|C1
+anestesista|anestesista||S|pro|C1
+medicina interna|medicina interna||L|sla|C1
+ambulatorio|consultorio||S|sla|C1
+espirometria|espirometría||S|sla|C1
+emocromo|hemograma||S|sla|C1
+degenerativo|degenerativo||A|sla|C1
+palliativo|paliativo||A|sla|C1
+rianimazione|reanimación||S|sla|C1
+dimissione|alta hospitalaria||S|sla|C1
+farmacocinetica|farmacocinética||S|sci|C1
+farmacovigilanza|farmacovigilancia||S|sci|C1
+posologia|posología||S|sci|C1
+controindicazione|contraindicación||S|sci|C1
+effetto avverso|efecto adverso||L|sci|C1
+sperimentazione clinica|ensayo clínico||L|sci|C1
+gruppo di controllo|grupo de control||L|sci|C1
+placebo|placebo||S|sci|C1
+randomizzato|aleatorizado||A|sci|C1
+dosaggio|dosificación||S|sci|C1
+principio attivo|principio activo||L|sci|C1
+assuefazione|habituación (adicción)||S|sci|C1
+antidoto|antídoto||S|sci|C1
+sovradosaggio|sobredosis||S|sci|C1
+corticoide|corticoide||S|sci|C1
+biosimilare|biosimilar||S|sci|C1
+somministrazione endovenosa|administración intravenosa||L|sci|C1
+tollerabilità|tolerabilidad||S|sci|C1
+emivita|vida media (de un fármaco)||S|sci|C1
+astinenza|abstinencia||S|sci|C1
+galenico|galénico||A|sci|C1
+psicosi|psicosis||S|sla|C1
+nevrosi ossessiva|neurosis obsesiva||L|sla|C1
+delirio di persecuzione|delirio de persecución||L|sla|C1
+allucinazione uditiva|alucinación auditiva||L|sla|C1
+disturbo bipolare|trastorno bipolar||L|sla|C1
+remissione dei sintomi|remisión de los síntomas||L|sla|C1
+catatonia|catatonía||S|sla|C1
+paranoia|paranoia||S|sla|C1
+ansiolitico|ansiolítico||S|sla|C1
+antidepressivo|antidepresivo||S|sla|C1
+fobia sociale|fobia social||L|sla|C1
+comorbilità|comorbilidad||S|sla|C1
+eutimia|eutimia||S|sla|C1
+dissociazione|disociación||S|sla|C1
+ricaduta|recaída||S|sla|C1
+anedonia|anhedonia||S|sla|C1
+compulsione|compulsión||S|sla|C1
+nosografia|nosografía||S|sla|C1
+meccanismo di difesa|mecanismo de defensa||L|sla|C1
+neurolettico|neuroléptico||S|sla|C1
+angoscia|angustia||S|emo|C1
+bioetica|bioética||S|ast|C1
+consenso informato|consentimiento informado||L|sla|C1
+segreto professionale|secreto profesional||L|ist|C1
+eutanasia|eutanasia||S|sla|C1
+accanimento terapeutico|encarnizamiento terapéutico||L|sla|C1
+sperimentazione sugli animali|experimentación con animales||L|sci|C1
+trapianto d'organi|trasplante de órganos||L|sla|C1
+prelievo di organi|extracción de órganos||L|sla|C1
+comitato etico|comité de ética||L|ist|C1
+paternalismo medico|paternalismo médico||L|sla|C1
+dignità della persona|dignidad de la persona||L|ast|C1
+obiettore di coscienza|objetor de conciencia||L|ist|C1
+aborto terapeutico|interrupción terapéutica del embarazo||L|sla|C1
+fecondazione assistita|reproducción asistida||L|sla|C1
+deontologico|deontológico||A|ist|C1
+fine vita|fin de vida||L|sla|C1
+allocazione delle risorse|asignación de recursos||L|ast|C1
+riprovazione|reprobación||S|ast|C1
+negligenza medica|negligencia médica||L|sla|C1
+conflitto di interessi|conflicto de intereses||L|ist|C1
+sospensione del trattamento|retirada del tratamiento||L|sla|C1
+deflazione|deflación||S|fin|C1
+stagflazione|estanflación||S|fin|C1
+stagnazione|estancamiento||S|fin|C1
+politica monetaria|política monetaria||L|fin|C1
+riserva obbligatoria|reserva obligatoria||L|fin|C1
+emissione di titoli|emisión de títulos||L|fin|C1
+debito pubblico|deuda pública||L|fin|C1
+prodotto interno lordo|producto interior bruto||L|fin|C1
+congiunturale|coyuntural||A|fin|C1
+recessivo|recesivo||A|fin|C1
+manovra di bilancio|ajuste presupuestario||L|fin|C1
+pressione fiscale|presión fiscal||L|fin|C1
+paniere|cesta (estadística)||S|fin|C1
+apprezzamento della valuta|revaluación de la divisa||L|fin|C1
+liquidità di mercato|liquidez de mercado||L|fin|C1
+rendimento dell'obbligazione|rentabilidad del bono||L|fin|C1
+stretta creditizia|contracción del crédito||L|fin|C1
+vigilanza bancaria|supervisión bancaria||L|fin|C1
+svalutazione|devaluación||S|fin|C1
+sottoccupazione|subempleo||S|lav|C1
+domanda aggregata|demanda agregada||L|fin|C1
+dazio doganale|arancel aduanero||L|fin|C1
+quota di mercato|cuota de mercado||L|fin|C1
+contingente d'importazione|cupo de importación||L|fin|C1
+barriera non doganale|barrera no arancelaria||L|fin|C1
+accordo bilaterale|acuerdo bilateral||L|ist|C1
+esportatore|exportador||S|lav|C1
+valore aggiunto|valor añadido||L|fin|C1
+certificato di origine|certificado de origen||L|fin|C1
+merce in transito|mercancía en tránsito||L|fin|C1
+rappresaglia economica|represalia económica||L|fin|C1
+surplus commerciale|superávit comercial||L|fin|C1
+deficit commerciale|déficit comercial||L|fin|C1
+interscambio|intercambio comercial||S|fin|C1
+filiera produttiva|cadena productiva||L|fin|C1
+delocalizzazione|deslocalización||S|fin|C1
+competitività|competitividad||S|fin|C1
+clausola di salvaguardia|cláusula de salvaguardia||L|fin|C1
+propensione all'esportazione|propensión a la exportación||L|fin|C1
+cabotaggio|cabotaje||S|tra|C1
+franchigia doganale|franquicia aduanera||L|fin|C1
+libero scambio|libre comercio||L|fin|C1
+bilancio d'esercizio|balance de situación anual||L|fin|C1
+stato patrimoniale|balance de situación||L|fin|C1
+conto economico|cuenta de pérdidas y ganancias||L|fin|C1
+revisione contabile|auditoría contable||L|fin|C1
+revisore legale|auditor legal||S|pro|C1
+ammortamento|amortización||S|fin|C1
+fallimentare|concursal||A|fin|C1
+insolvenza|insolvencia||S|fin|C1
+rendiconto finanziario|estado de flujos de tesorería||L|fin|C1
+passività|pasivo (obligaciones)||S|fin|C1
+riconciliazione contabile|conciliación contable||L|fin|C1
+libro giornale|libro diario||L|fin|C1
+inventario di magazzino|inventario de almacén||L|fin|C1
+accantonamento|provisión||S|fin|C1
+utile di esercizio|beneficio del ejercicio||L|fin|C1
+patrimonio netto|patrimonio neto||L|fin|C1
+consuntivo|presupuesto cerrado||S|fin|C1
+previsionale|previsional||A|fin|C1
+certificazione dei conti|certificación de las cuentas||L|fin|C1
+consolidato di gruppo|balance consolidado del grupo||L|fin|C1
+diligenza dovuta|debida diligencia||L|fin|C1
+derivato|derivado (financiero)||S|fin|C1
+copertura del rischio|cobertura del riesgo||L|fin|C1
+posizione corta|posición corta||L|fin|C1
+volatilità|volatilidad||S|fin|C1
+obbligazione convertibile|obligación convertible||L|fin|C1
+insolvenza sovrana|impago soberano||L|fin|C1
+speculativo|especulativo||A|fin|C1
+indebitamento|endeudamiento||S|fin|C1
+capitalizzazione di borsa|capitalización bursátil||L|fin|C1
+bolla speculativa|burbuja especulativa||L|fin|C1
+prudenziale|prudencial||A|fin|C1
+propensione al rischio|tolerancia al riesgo||L|fin|C1
+rialzista|alcista||A|fin|C1
+ribassista|bajista||A|fin|C1
+opzione d'acquisto|opción de compra||L|fin|C1
+sottostante|subyacente||S|fin|C1
+minusvalenza|minusvalía||S|fin|C1
+plusvalenza|plusvalía||S|fin|C1
+diversificazione del portafoglio|diversificación de la cartera||L|fin|C1
+rischio sistemico|riesgo sistémico||L|fin|C1
+liquidare una posizione|liquidar una posición||L|fin|C1
+genoma|genoma||S|sci|C1
+cromosoma|cromosoma||S|sci|C1
+mutazione puntiforme|mutación puntual||L|sci|C1
+trascrizione|transcripción (genética)||S|sci|C1
+traduzione|traducción (síntesis de proteínas)||S|sci|C1
+sequenziamento|secuenciación||S|sci|C1
+allele|alelo||S|sci|C1
+genotipo|genotipo||S|sci|C1
+fenotipo|fenotipo||S|sci|C1
+omozigote|homocigoto||S|sci|C1
+ereditarietà|heredabilidad||S|sci|C1
+cromatina|cromatina||S|sci|C1
+mitosi|mitosis||S|sci|C1
+meiosi|meiosis||S|sci|C1
+acido nucleico|ácido nucleico||L|sci|C1
+ribosoma|ribosoma||S|sci|C1
+apoptosi|apoptosis||S|sci|C1
+espressione genica|expresión génica||L|sci|C1
+sequenza codificante|secuencia codificante||L|sci|C1
+gemello dizigote|gemelo dicigótico||L|sci|C1
+doppia elica|doble hélice||L|sci|C1
+anticorpo|anticuerpo||S|sci|C1
+monoclonale|monoclonal||A|sci|C1
+antigene|antígeno||S|sci|C1
+linfocita|linfocito||S|sci|C1
+immunoglobulina|inmunoglobulina||S|sci|C1
+sierologia|serología||S|sci|C1
+vaccino a vettore|vacuna de vector||L|sci|C1
+immunità innata|inmunidad innata||L|sci|C1
+risposta anticorpale|respuesta de anticuerpos||L|sci|C1
+risposta infiammatoria|respuesta inflamatoria||L|sci|C1
+citochina|citoquina||S|sci|C1
+patogeno|patógeno||A|sci|C1
+ceppo batterico|cepa bacteriana||L|sci|C1
+coltura cellulare|cultivo celular||L|sci|C1
+resistenza agli antibiotici|resistencia a los antibióticos||L|sci|C1
+spora|espora||S|sci|C1
+sierotipo|serotipo||S|sci|C1
+anafilassi|anafilaxia||S|sci|C1
+tampone faringeo|hisopado faríngeo||L|sla|C1
+ipersensibilità|hipersensibilidad||S|sci|C1
+sinapsi|sinapsis||S|sci|C1
+neurotrasmettitore|neurotransmisor||S|sci|C1
+corteccia cerebrale|corteza cerebral||L|sci|C1
+corteccia prefrontale|corteza prefrontal||L|sci|C1
+neurodegenerativo|neurodegenerativo||A|sci|C1
+plasticità neuronale|plasticidad neuronal||L|sci|C1
+emisfero cerebrale|hemisferio cerebral||L|sci|C1
+ippocampo|hipocampo||S|sci|C1
+amigdala|amígdala (cerebral)||S|sci|C1
+mielina|mielina||S|sci|C1
+elettroencefalogramma|electroencefalograma||S|sci|C1
+mappatura funzionale|mapeo funcional||L|sci|C1
+demenza senile|demencia senil||L|sla|C1
+neurone specchio|neurona espejo||L|sci|C1
+apprendimento implicito|aprendizaje implícito||L|sci|C1
+attenzione selettiva|atención selectiva||L|sci|C1
+memoria di lavoro|memoria de trabajo||L|sci|C1
+cognitivo|cognitivo||A|sci|C1
+percezione visiva|percepción visual||L|sci|C1
+stato vegetativo|estado vegetativo||L|sla|C1

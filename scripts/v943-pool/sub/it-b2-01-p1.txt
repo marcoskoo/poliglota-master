@@ -1,0 +1,204 @@
+infanzia|infancia||S|fam|B2
+adolescenza|adolescencia||S|fam|B2
+crescere|crecer||V|fam|B2
+terza età|tercera edad||L|fam|B2
+litigio|pelea||S|rel|B2
+rimprovero|reprimenda||S|fam|B2
+educare|educar||V|fam|B2
+punizione|castigo||S|fam|B2
+trasloco|mudanza||S|cas|B2
+affittuario|inquilino||S|cas|B2
+cauzione|fianza del alquiler||S|cas|B2
+contratto d'affitto|contrato de alquiler||L|cas|B2
+ristrutturazione|reforma de la vivienda||S|cas|B2
+pavimento|suelo||S|cas|B2
+muratura|albañilería||S|cas|B2
+armadio a muro|armario empotrado||L|cas|B2
+specialità|especialidad gastronómica||S|ali|B2
+assaporare|saborear||V|ali|B2
+ricetta|receta||S|ali|B2
+piatto forte|plato estrella||L|ris|B2
+intolleranza|intolerancia alimentaria||S|sla|B2
+ingrassare|engordar||V|ali|B2
+celiaco|celíaco||A|sla|B2
+nutrizione|nutrición||S|ali|B2
+spezie|especias||S|ali|B2
+speciato|especiado||A|ali|B2
+fritto|frito||S|ali|B2
+saltare in padella|saltear en la sartén||L|ali|B2
+degustazione|degustación||S|ali|B2
+annata|añada||S|ali|B2
+tazzina|tacita de café||S|ali|B2
+corposo|con mucho cuerpo||A|ali|B2
+consumismo|consumismo||S|cmp|B2
+acquirente|comprador||S|cmp|B2
+vetrina|escaparate||S|cmp|B2
+offerta lampo|oferta flash||L|cmp|B2
+rimborso|reembolso||S|cmp|B2
+garanzia|garantía||S|cmp|B2
+difettoso|defectuoso||A|cmp|B2
+reclamo|reclamación||S|cmp|B2
+spedizione|envío||S|cmp|B2
+reso|devolución||S|cmp|B2
+consegna a domicilio|entrega a domicilio||L|cmp|B2
+ritiro in negozio|recogida en tienda||L|cmp|B2
+semaforo|semáforo||S|tra|B2
+multa|multa||S|tra|B2
+guasto|avería||S|tra|B2
+forare|pinchar una rueda||V|tra|B2
+mobilità sostenibile|movilidad sostenible||L|tra|B2
+corsa|trayecto||S|tra|B2
+pista ciclabile|carril bici||L|cit|B2
+abbonamento|abono||S|tra|B2
+viaggio d'affari|viaje de negocios||L|vig|B2
+ritardo|retraso||S|vig|B2
+cancellato|cancelado||A|vig|B2
+coincidenza|correspondencia entre vuelos||S|vig|B2
+visto d'ingresso|visado de entrada||L|vig|B2
+frontaliero|fronterizo||A|vig|B2
+controllo passaporti|control de pasaportes||L|vig|B2
+scadenza|caducidad||S|ist|B2
+recensione|reseña||S|vig|B2
+mezza pensione|media pensión||L|htl|B2
+struttura ricettiva|establecimiento hotelero||L|htl|B2
+classificazione a stelle|clasificación por estrellas||L|htl|B2
+prevenzione|prevención||S|sla|B2
+prevenire|prevenir||V|sla|B2
+stile di vita|estilo de vida||L|sla|B2
+sedentario|sedentario||A|sla|B2
+assicurazione sanitaria|seguro médico||L|sla|B2
+pronto soccorso|urgencias||L|sla|B2
+farmaco|medicamento||S|sla|B2
+esenzione|exención||S|sla|B2
+benessere|bienestar||S|sla|B2
+ansia|ansiedad||S|emo|B2
+meditare|meditar||V|sla|B2
+psicologo|psicólogo||S|pro|B2
+annuncio di lavoro|anuncio de empleo||L|lav|B2
+candidatura|candidatura||S|lav|B2
+lettera di presentazione|carta de presentación||L|lav|B2
+disoccupato|desempleado||A|lav|B2
+colloquio di lavoro|entrevista de trabajo||L|lav|B2
+assumere|contratar||V|lav|B2
+candidato|candidato||S|lav|B2
+periodo di prova|periodo de prueba||L|lav|B2
+carriera|carrera profesional||S|lav|B2
+promozione|ascenso||S|lav|B2
+licenziamento|despido||S|lav|B2
+dimissioni|renuncia||S|lav|B2
+riunione|reunión||S|lav|B2
+verbale|acta||S|lav|B2
+spirito di squadra|espíritu de equipo||L|lav|B2
+pausa caffè|pausa del café||L|lav|B2
+sindacato|sindicato||S|ist|B2
+sciopero|huelga||S|lav|B2
+diritti sindacali|derechos sindicales||L|lav|B2
+ferie|vacaciones pagadas||S|lav|B2
+esame di maturità|selectividad||L|stu|B2
+diploma|título de bachillerato||S|stu|B2
+certificazione|certificación||S|stu|B2
+orale|prueba oral||S|stu|B2
+borsa di studio|beca||L|stu|B2
+laurearsi|licenciarse||V|stu|B2
+facoltà|facultad||S|stu|B2
+retta|matrícula universitaria||S|stu|B2
+memorizzare|memorizar||V|stu|B2
+sintetizzare|sintetizar||V|stu|B2
+appunto|apunte||S|stu|B2
+riassunto|resumen||S|stu|B2
+urbanistica|urbanismo||S|cit|B2
+congestione|congestión||S|cit|B2
+periferia|periferia||S|cit|B2
+cantiere|obra||S|cit|B2
+trasporto pubblico|transporte público||L|cit|B2
+raccolta differenziata|recogida selectiva||L|cit|B2
+municipio|ayuntamiento||S|ist|B2
+sportello|ventanilla||S|ist|B2
+cambiamento climatico|cambio climático||L|cli|B2
+siccità|sequía||S|cli|B2
+alluvione|inundación||S|nat|B2
+frana|desprendimiento de tierras||S|nat|B2
+tendenza|tendencia||S|rop|B2
+tessuto|tejido||S|rop|B2
+sfilata|desfile de moda||S|rop|B2
+su misura|a medida||L|rop|B2
+notifica|notificación||S|tec|B2
+profilo|perfil||S|tec|B2
+condividere|compartir||V|tec|B2
+commento|comentario||S|tec|B2
+truffa online|estafa online||L|tec|B2
+password|contraseña||S|tec|B2
+virus|virus||S|tec|B2
+riservatezza|privacidad||S|tec|B2
+programmatore|programador||S|pro|B2
+codice sorgente|código fuente||L|tec|B2
+aggiornamento|actualización||S|tec|B2
+sviluppatore|desarrollador||S|pro|B2
+calciatore|futbolista||S|spt|B2
+allenatore|entrenador||S|spt|B2
+campionato|campeonato||S|spt|B2
+squadra avversaria|equipo rival||L|spt|B2
+infortunio|lesión deportiva||S|spt|B2
+stiramento|distensión muscular||S|cor|B2
+fisioterapista|fisioterapeuta||S|pro|B2
+recupero|recuperación||S|spt|B2
+accordo|acorde||S|mus|B2
+scala musicale|escala musical||L|mus|B2
+orchestra sinfonica|orquesta sinfónica||L|mus|B2
+spartito|partitura||S|mus|B2
+sceneggiatura|guion||S|cin|B2
+attore protagonista|actor principal||L|cin|B2
+riprese|rodaje||S|cin|B2
+festival del cinema|festival de cine||L|cin|B2
+litigare|pelearse||V|rel|B2
+rottura|ruptura||S|rel|B2
+fare pace|hacer las paces||E|rel|B2
+rappacificarsi|reconciliarse||V|rel|B2
+inclusione|inclusión||S|ast|B2
+diversità|diversidad||S|ast|B2
+volontariato|voluntariado||S|ast|B2
+sostegno|apoyo||S|rel|B2
+dichiarazione dei redditi|declaración de la renta||L|fin|B2
+detrazione|deducción||S|fin|B2
+imposta sul reddito|impuesto sobre la renta||L|fin|B2
+evasione fiscale|evasión fiscal||L|fin|B2
+mutuo|hipoteca||S|fin|B2
+prestito|préstamo||S|fin|B2
+interesse composto|interés compuesto||L|fin|B2
+rata mensile|cuota mensual||L|fin|B2
+risparmio|ahorro||S|fin|B2
+investire|invertir||V|fin|B2
+borsa valori|bolsa de valores||L|fin|B2
+profitto|beneficio||S|fin|B2
+andare in pensione|jubilarse||E|fin|B2
+contributo|cotización||S|fin|B2
+anzianità contributiva|años de cotización||L|fin|B2
+piano di risparmio|plan de ahorro||L|fin|B2
+critica gastronomica|crítica gastronómica||L|ris|B2
+menù degustazione|menú degustación||L|ris|B2
+portata|plato del menú||S|ris|B2
+recensire|reseñar||V|ris|B2
+avvocato|abogado||S|pro|B2
+notaio|notario||S|pro|B2
+commercialista|asesor fiscal||S|pro|B2
+revisore dei conti|auditor de cuentas||L|pro|B2
+ingegnere|ingeniero||S|pro|B2
+geometra|aparejador||S|pro|B2
+perito|perito||S|pro|B2
+progettista|proyectista||S|pro|B2
+infermiere|enfermero||S|pro|B2
+ostetrica|matrona||S|pro|B2
+preside|director de centro||S|pro|B2
+supplente|profesor sustituto||S|pro|B2
+grafico|diseñador gráfico||S|pro|B2
+giornalista|periodista||S|pro|B2
+scenografo|escenógrafo||S|pro|B2
+doppiatore|actor de doblaje||S|pro|B2
+opposizione|oposición||S|ist|B2
+premier|primer ministro||S|ist|B2
+riforma|reforma||S|ist|B2
+scioglimento delle camere|disolución de las cámaras||L|ist|B2
+recessione|recesión||S|fin|B2
+inflazione|inflación||S|fin|B2
+disoccupazione|paro||S|fin|B2
+crescita|crecimiento||S|fin|B2

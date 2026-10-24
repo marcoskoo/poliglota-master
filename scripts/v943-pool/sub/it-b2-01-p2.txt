@@ -1,0 +1,204 @@
+inquinamento|contaminación||S|nat|B2
+impatto ambientale|impacto ambiental||L|nat|B2
+rifiuti|residuos||S|nat|B2
+ipotesi|hipótesis||S|sci|B2
+esperimento|experimento||S|sci|B2
+campione|muestra||S|sci|B2
+risultato|resultado||S|sci|B2
+cellula|célula||S|sci|B2
+molecola|molécula||S|sci|B2
+reazione chimica|reacción química||L|sci|B2
+gravità|gravedad||S|sci|B2
+buco nero|agujero negro||L|sci|B2
+onda elettromagnetica|onda electromagnética||L|sci|B2
+romanzo|novela||S|let|B2
+narratore|narrador||S|let|B2
+trama|trama||S|let|B2
+spina dorsale|columna vertebral||L|cor|B2
+articolazione|articulación||S|cor|B2
+muscolo|músculo||S|cor|B2
+branco|manada||S|ani|B2
+migratorio|migratorio||A|ani|B2
+istinto|instinto||S|ani|B2
+specie protetta|especie protegida||L|ani|B2
+estinzione|extinción||S|ani|B2
+bracconaggio|caza furtiva||S|ani|B2
+area naturale protetta|espacio natural protegido||L|nat|B2
+energia rinnovabile|energía renovable||L|nat|B2
+pannello solare|panel solar||L|nat|B2
+eolico|eólico||A|nat|B2
+riciclo|reciclaje||S|nat|B2
+previsioni meteorologiche|previsión meteorológica||L|cli|B2
+temporale|tormenta||S|cli|B2
+grandine|granizo||S|cli|B2
+durata|duración||S|tmp|B2
+quindicinale|quincenal||A|tmp|B2
+a lungo termine|a largo plazo||L|tmp|B2
+vita notturna|vida nocturna||L|sve|B2
+aperitivo|aperitivo||S|sve|B2
+notte fonda|altas horas de la noche||L|tmp|B2
+veglione|fiesta de fin de año||S|sve|B2
+gioco da tavolo|juego de mesa||L|sve|B2
+dadi|dados||S|sve|B2
+collezionismo|coleccionismo||S|sve|B2
+motivazione|motivación||S|emo|B2
+stress|estrés||S|emo|B2
+esaurimento|agotamiento||S|emo|B2
+gratificante|gratificante||A|emo|B2
+argomentazione|argumentación||S|cmu|B2
+confutare|refutar||V|cmu|B2
+obiezione|objeción||S|cmu|B2
+presentazione|presentación||S|cmu|B2
+uditorio|audiencia||S|cmu|B2
+tono di voce|tono de voz||L|cmu|B2
+negoziato|negociación||S|cmu|B2
+trovare un compromesso|llegar a un compromiso||L|cmu|B2
+proposta|propuesta||S|cmu|B2
+tribunale|tribunal||S|ist|B2
+sentenza|sentencia||S|ist|B2
+imputato|acusado||S|ist|B2
+testimone|testigo||S|ist|B2
+pratica|expediente||S|ist|B2
+modulo|impreso||S|ist|B2
+timbro|sello||S|ist|B2
+elezioni|elecciones||S|ist|B2
+seggio elettorale|colegio electoral||L|ist|B2
+astenersi|abstenerse||V|ist|B2
+pertanto|por lo tanto||C|cnn|B2
+nonostante|a pesar de||C|cnn|B2
+in conclusione|en conclusión||L|cnn|B2
+a dire il vero|a decir verdad||L|cnn|B2
+equità|equidad||S|ast|B2
+estetica|estética||S|ast|B2
+armonia|armonía||S|ast|B2
+corrente artistica|corriente artística||L|art|B2
+rinascimento|renacimiento||S|art|B2
+avanguardia|vanguardia||S|art|B2
+opera d'arte|obra de arte||L|art|B2
+patrimonio culturale|patrimonio cultural||L|art|B2
+facciata|fachada||S|art|B2
+restauro|restauración||S|art|B2
+condominio|comunidad de vecinos||S|cit|B2
+spese condominiali|gastos de comunidad||L|cit|B2
+vicino di casa|vecino||L|cit|B2
+etichetta|etiqueta||S|ali|B2
+apporto nutrizionale|aporte nutricional||L|ali|B2
+conservante|conservante||S|ali|B2
+prodotto industriale|producto industrial||L|ali|B2
+treno ad alta velocità|tren de alta velocidad||L|tra|B2
+carrozza|vagón||S|tra|B2
+andata e ritorno|ida y vuelta||L|tra|B2
+dolore|dolor||S|cor|B2
+ferita|herida||S|cor|B2
+bendaggio|vendaje||S|sla|B2
+rianimazione|reanimación||S|sla|B2
+lavoro da remoto|teletrabajo||L|lav|B2
+conciliazione|conciliación||S|lav|B2
+turno serale|turno de tarde||L|lav|B2
+formazione continua|formación continua||L|lav|B2
+corso di aggiornamento|curso de reciclaje||L|lav|B2
+competenza|competencia||S|lav|B2
+valutare|evaluar||V|lav|B2
+programma di scambio|programa de intercambio||L|stu|B2
+scambio culturale|intercambio cultural||L|stu|B2
+esperienza all'estero|experiencia en el extranjero||L|stu|B2
+compravendita|compraventa||S|fin|B2
+quartiere residenziale|barrio residencial||L|cit|B2
+agente immobiliare|agente inmobiliario||L|pro|B2
+attico|ático||S|cas|B2
+negozio online|tienda online||L|cmp|B2
+buono sconto|vale de descuento||L|cmp|B2
+pagamento rateale|pago a plazos||L|cmp|B2
+applicazione|aplicación||S|tec|B2
+schermo|pantalla||S|tec|B2
+ricaricare|recargar||V|tec|B2
+palestra|gimnasio||S|spt|B2
+allenamento|entrenamiento||S|spt|B2
+camminata|caminata||S|sve|B2
+palco|escenario||S|mus|B2
+ammiratore|admirador||S|mus|B2
+coda all'ingresso|cola a la entrada||L|mus|B2
+prima fila|primera fila||L|mus|B2
+puntata|episodio||S|cin|B2
+finale di stagione|final de temporada||L|cin|B2
+sottotitoli|subtítulos||S|cin|B2
+matrimonio civile|matrimonio civil||L|rel|B2
+sposi|novios||S|rel|B2
+ricevimento|banquete de boda||S|rel|B2
+damigella|dama de honor||S|rel|B2
+spesa mensile|gasto mensual||L|fin|B2
+spese correnti|gastos corrientes||L|fin|B2
+truffatore|estafador||S|fin|B2
+contante|efectivo||S|fin|B2
+caffetteria|cafetería||S|ris|B2
+barista|camarero de bar||S|pro|B2
+cornetto|croissant||S|ris|B2
+emergenza|emergencia||S|att|B2
+evacuazione|evacuación||S|att|B2
+vittima|víctima||S|att|B2
+scippo|tirón de bolso||S|att|B2
+divulgazione scientifica|divulgación científica||L|sci|B2
+scoperta|descubrimiento||S|sci|B2
+curiosità|curiosidad||S|sci|B2
+genio|genio||S|sci|B2
+giallo|novela policíaca||S|let|B2
+club del libro|club de lectura||L|let|B2
+saga|saga||S|let|B2
+sentiero|sendero||S|nat|B2
+escursione|excursión||S|sve|B2
+parco nazionale|parque nacional||L|nat|B2
+borraccia|cantimplora||S|sve|B2
+gita di un giorno|excursión de un día||L|vig|B2
+patrimonio storico|patrimonio histórico||L|art|B2
+guida turistica|guía turística||L|vig|B2
+autostima|autoestima||S|emo|B2
+abitudine|hábito||S|emo|B2
+migliorarsi|mejorar||V|emo|B2
+resiliente|resiliente||A|emo|B2
+lamentela|queja||S|cmu|B2
+scusarsi|disculparse||V|cmu|B2
+fraintendimento|malentendido||S|cmu|B2
+chiedere scusa|pedir disculpas||L|cmu|B2
+documento d'identità|documento de identidad||L|ist|B2
+appuntamento|cita||S|ist|B2
+rinnovo|renovación||S|ist|B2
+insomma|en resumen||C|cnn|B2
+per così dire|por así decirlo||L|cnn|B2
+in poche parole|en pocas palabras||L|cnn|B2
+fortuna|suerte||S|ast|B2
+cambiamento|cambio||S|ast|B2
+trascorrere|transcurrir||V|tmp|B2
+destino|destino||S|ast|B2
+mostra|exposición||S|art|B2
+tariffa ridotta|tarifa reducida||L|art|B2
+collezione permanente|colección permanente||L|art|B2
+imbarco|embarque||S|vig|B2
+dogana|aduana||S|vig|B2
+scalo|escala||S|vig|B2
+controllo di sicurezza|control de seguridad||L|vig|B2
+asciugamano|toalla||S|htl|B2
+aria condizionata|aire acondicionado||L|htl|B2
+biancheria da letto|ropa de cama||L|htl|B2
+selezione del personale|proceso de selección||L|lav|B2
+assunzione a tempo indeterminato|contratación indefinida||L|lav|B2
+affiancamento|acompañamiento||S|lav|B2
+inserimento|incorporación||S|lav|B2
+generazione|generación||S|fam|B2
+ricordo|recuerdo||S|fam|B2
+aneddoto|anécdota||S|fam|B2
+una volta|una vez||L|tmp|B2
+sonno|sueño||S|sla|B2
+insonnia|insomnio||S|sla|B2
+pisolino|cabezadita||S|sla|B2
+energia|energía||S|sla|B2
+dare buca|dejar plantado||E|rel|B2
+all'ultimo momento|en el último momento||L|tmp|B2
+rimandare|aplazar||V|cmu|B2
+cucciolo|cachorro||S|ani|B2
+addestrare|adiestrar||V|ani|B2
+veterinario|veterinario||S|pro|B2
+ciotola|cuenco||S|ani|B2
+monopattino|patinete||S|tra|B2
+noleggio|alquiler||S|tra|B2
+tariffa|tarifa||S|tra|B2
+offrire un passaggio|llevar a alguien en coche||L|tra|B2

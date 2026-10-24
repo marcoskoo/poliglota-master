@@ -1,0 +1,292 @@
+microprocessore|microprocesador||S|tec|C1
+semiconduttore|semiconductor||S|sci|C1
+wafer di silicio|oblea de silicio||S|sci|C1
+transistor|transistor||S|tec|C1
+circuito stampato|circuito impreso||S|tec|C1
+scheda madre|placa base||S|tec|C1
+memoria volatile|memoria volátil||S|tec|C1
+larghezza di banda|ancho de banda||S|tec|C1
+frequenza di clock|frecuencia de reloj||S|tec|C1
+dissipatore di calore|disipador térmico||S|tec|C1
+raffreddamento a liquido|refrigeración líquida||S|tec|C1
+fotolitografia|fotolitografía||S|sci|C1
+drogaggio|dopado (de un semiconductor)||S|sci|C1
+conduttività elettrica|conductividad eléctrica||S|sci|C1
+surriscaldamento|sobrecalentamiento||S|tec|C1
+firmware|firmware||S|tec|C1
+periferica|periférico||S|tec|C1
+processore quantistico|procesador cuántico||S|tec|C1
+litografia|litografía (grabado de chips)||S|sci|C1
+incapsulamento|encapsulado||S|tec|C1
+nodo tecnologico|nodo tecnológico||S|tec|C1
+nanostruttura|nanoestructura||S|sci|C1
+banca dati|base de datos||S|tec|C1
+algoritmo|algoritmo||S|tec|C1
+apprendimento automatico|aprendizaje automático||S|tec|C1
+estrazione dei dati|extracción de datos||S|tec|C1
+dati grezzi|datos en bruto||S|tec|C1
+dati strutturati|datos estructurados||S|tec|C1
+ridondanza|redundancia||S|tec|C1
+normalizzazione|normalización||S|tec|C1
+indicizzazione|indexación||S|tec|C1
+interrogazione|interrogación (consulta a una base de datos)||S|tec|C1
+analisi in tempo reale|análisis en tiempo real||S|tec|C1
+rappresentazione grafica|representación gráfica||S|tec|C1
+metrica|métrica||S|tec|C1
+correlazione|correlación||S|sci|C1
+regressione|regresión||S|sci|C1
+campionamento|muestreo||S|sci|C1
+estrapolare|extrapolar||V|sci|C1
+interpolare|interpolar||V|sci|C1
+predittivo|predictivo||A|tec|C1
+previsionale|de previsión||A|tec|C1
+scalabilità|escalabilidad||S|tec|C1
+granularità|granularidad||S|tec|C1
+catena di blocchi|cadena de bloques||S|fin|C1
+registro distribuito|registro distribuido||S|tec|C1
+crittografia|criptografía||S|tec|C1
+crittografia asimmetrica|criptografía asimétrica||S|tec|C1
+chiave privata|clave privada||S|tec|C1
+chiave pubblica|clave pública||S|tec|C1
+portafoglio elettronico|monedero electrónico||S|fin|C1
+contratto intelligente|contrato inteligente||S|fin|C1
+meccanismo di consenso|mecanismo de consenso||S|tec|C1
+minatore|minero (de criptomonedas)||S|fin|C1
+decentralizzazione|descentralización||S|fin|C1
+immutabilità|inmutabilidad||S|fin|C1
+libro mastro|libro mayor||S|fin|C1
+validazione|validación||S|tec|C1
+nodo validatore|nodo validador||S|fin|C1
+firma digitale|firma digital||S|tec|C1
+tracciabilità|trazabilidad||S|tec|C1
+criptoattività|criptoactivo||S|fin|C1
+coniare|acuñar||V|fin|C1
+oracolo|oráculo (fuente de datos externa en la cadena de bloques)||S|fin|C1
+decifrare|descifrar||V|tec|C1
+doppia spesa|doble gasto (fraude criptográfico)||S|fin|C1
+biometria|biometría||S|tec|C1
+impronta digitale|huella dactilar||S|tec|C1
+riconoscimento facciale|reconocimiento facial||S|tec|C1
+scansione dell'iride|escaneo del iris||S|tec|C1
+impronta vocale|huella vocal||S|tec|C1
+autenticazione|autenticación||S|tec|C1
+identificazione biometrica|identificación biométrica||S|tec|C1
+verifica dell'identità|verificación de la identidad||S|tec|C1
+contraffazione|falsificación (de datos o documentos)||S|tec|C1
+soglia di somiglianza|umbral de similitud||S|tec|C1
+termografia facciale|termografía facial||S|tec|C1
+tratto distintivo|rasgo distintivo||S|sci|C1
+prova di vita|prueba de vida||S|tec|C1
+campione biometrico|muestra biométrica||S|tec|C1
+classificatore|clasificador||S|tec|C1
+segmentazione dell'immagine|segmentación de imagen||S|tec|C1
+elaborazione delle immagini|procesamiento de imágenes||S|tec|C1
+rilevamento delle emozioni|detección de emociones||S|tec|C1
+tasso di errore|tasa de error||S|tec|C1
+riservatezza|confidencialidad||S|ist|C1
+consenso al trattamento|consentimiento al tratamiento||S|ist|C1
+andatura|marcha (modo de andar, patrón biométrico)||S|tec|C1
+internet delle cose|internet de las cosas||S|tec|C1
+città intelligente|ciudad inteligente||S|cit|C1
+oggetto connesso|objeto conectado||S|tec|C1
+attuatore|actuador||S|tec|C1
+sensore|sensor||S|tec|C1
+rete di sensori|red de sensores||S|tec|C1
+telemetria|telemetría||S|tec|C1
+domotica|domótica||S|cas|C1
+illuminazione pubblica|alumbrado público||S|cit|C1
+regolazione semaforica|regulación semafórica||S|cit|C1
+gestione del traffico|gestión del tráfico||S|cit|C1
+mobilità urbana|movilidad urbana||S|cit|C1
+mobilità dolce|movilidad suave||S|cit|C1
+parcometro|parquímetro||S|cit|C1
+consumo energetico|consumo energético||S|cit|C1
+videosorveglianza|videovigilancia||S|cit|C1
+telelettura|lectura remota de contadores||S|tec|C1
+geolocalizzazione|geolocalización||S|tec|C1
+interoperabilità|interoperabilidad||S|tec|C1
+connettività|conectividad||S|tec|C1
+gemello digitale|gemelo digital||S|tec|C1
+protocollo di comunicazione|protocolo de comunicación||S|tec|C1
+realtà virtuale|realidad virtual||S|tec|C1
+realtà aumentata|realidad aumentada||S|tec|C1
+visore|visor (de realidad virtual)||S|tec|C1
+immersione|inmersión||S|tec|C1
+videogiocatore|videojugador||S|sve|C1
+mondo di gioco|mundo de juego||S|sve|C1
+gioco di ruolo|juego de rol||S|sve|C1
+simulazione|simulación||S|tec|C1
+stereoscopia|estereoscopía||S|tec|C1
+grafica tridimensionale|gráficos tridimensionales||S|tec|C1
+bassa latenza|latencia baja||S|tec|C1
+cattura del movimento|captura de movimiento||S|tec|C1
+colonna sonora|banda sonora||S|mus|C1
+effetto speciale|efecto especial||S|cin|C1
+mondo virtuale|mundo virtual||S|tec|C1
+rigiocabilità|rejugabilidad||S|sve|C1
+narrazione interattiva|narrativa interactiva||S|sve|C1
+microtransazione|microtransacción||S|fin|C1
+monetizzazione|monetización||S|fin|C1
+ludopatia|ludopatía||S|sla|C1
+aptico|háptico (relativo al tacto)||A|tec|C1
+retrocompatibilità|retrocompatibilidad||S|tec|C1
+vulcanologia|vulcanología||S|sci|C1
+eruzione|erupción||S|nat|C1
+cratere|cráter||S|nat|C1
+cono vulcanico|cono volcánico||S|nat|C1
+camera magmatica|cámara magmática||S|sci|C1
+cenere vulcanica|ceniza volcánica||S|nat|C1
+ossidiana|obsidiana||S|nat|C1
+piroclasto|piroclasto||S|sci|C1
+colata piroclastica|flujo piroclástico||S|sci|C1
+lapillo|lapilli||S|sci|C1
+fumarola|fumarola||S|sci|C1
+solfatara|solfatara||S|sci|C1
+sismografo|sismógrafo||S|sci|C1
+magnitudo|magnitud||S|sci|C1
+epicentro|epicentro||S|sci|C1
+ipocentro|hipocentro||S|sci|C1
+faglia|falla (geológica)||S|sci|C1
+placca tettonica|placa tectónica||S|sci|C1
+bradisismo|bradisismo||S|sci|C1
+maremoto|maremoto||S|nat|C1
+rischio sismico|riesgo sísmico||S|nat|C1
+zona rossa|zona roja (de exclusión volcánica)||S|nat|C1
+limnologia|limnología||S|sci|C1
+limnico|lacustre (propio de los lagos)||A|sci|C1
+bacino idrografico|cuenca hidrográfica||S|sci|C1
+palude|pantano||S|nat|C1
+zona umida|zona húmeda (humedal)||S|nat|C1
+torbiera|turbera||S|sci|C1
+alveo|cauce||S|sci|C1
+portata|caudal (de un río)||S|sci|C1
+idrologia|hidrología||S|sci|C1
+regime idrologico|régimen hidrológico||S|sci|C1
+falda freatica|nivel freático||S|sci|C1
+acquifero|acuífero||S|sci|C1
+risorgiva|surgencia (ojo de agua)||S|sci|C1
+sorgente|manantial||S|nat|C1
+eutrofizzazione|eutrofización||S|sci|C1
+torbidità|turbidez||S|sci|C1
+sedimentazione|sedimentación||S|sci|C1
+meandro|meandro||S|sci|C1
+esondazione|desbordamiento||S|nat|C1
+argine|malecón (dique de contención)||S|nat|C1
+canneto|carrizal||S|nat|C1
+impaludamento|encharcamiento (formación de pantanos)||S|sci|C1
+agronomia|agronomía||S|sci|C1
+pedologia|edafología||S|sci|C1
+ammendante|enmienda (del suelo)||S|sci|C1
+fertirrigazione|fertirrigación||S|sci|C1
+rotazione delle colture|rotación de cultivos||S|sci|C1
+sovescio|abonado en verde||S|sci|C1
+maggese|barbecho||S|sci|C1
+semina di precisione|siembra de precisión||S|sci|C1
+agricoltura di precisione|agricultura de precisión||S|sci|C1
+sarchiatura|escarda (desherbado superficial)||S|sci|C1
+erbicida|herbicida||S|sci|C1
+diserbo|desherbado||S|sci|C1
+peronospora|mildiu||S|sci|C1
+aridocoltura|cultivo de tierras áridas||S|sci|C1
+irrigazione a goccia|riego por goteo||S|sci|C1
+idroponica|hidroponía||S|sci|C1
+umificazione|humificación||S|sci|C1
+argilloso|arcilloso||A|sci|C1
+salinità|salinidad||S|sci|C1
+erosione del suolo|erosión del suelo||S|sci|C1
+lotta biologica|control biológico de plagas||S|sci|C1
+concime|abono||S|nat|C1
+zootecnia|zootecnia||S|sci|C1
+acquacoltura|acuicultura||S|sci|C1
+itticoltura|piscicultura||S|sci|C1
+allevamento intensivo|ganadería intensiva||S|sci|C1
+allevamento estensivo|ganadería extensiva||S|sci|C1
+transumanza|trashumancia||S|nat|C1
+alpeggio|pastoreo de altura (majada alpina)||S|nat|C1
+ingrasso|engorde||S|sci|C1
+foraggio|forraje||S|sci|C1
+insilato|ensilado||S|sci|C1
+marchiatura|marcado (del ganado)||S|sci|C1
+tosatura|esquileo||S|sci|C1
+mungitura|ordeño||S|sci|C1
+razza autoctona|raza autóctona||S|ani|C1
+miglioramento genetico|mejora genética||S|sci|C1
+benessere animale|bienestar animal||S|sci|C1
+macellazione|sacrificio (faenado del ganado)||S|sci|C1
+pesca a strascico|pesca de arrastre||S|sci|C1
+pesca di frodo|pesca furtiva||S|sci|C1
+novellame|alevín (cría de pez)||S|sci|C1
+fecondazione artificiale|fecundación artificial||S|sci|C1
+mangime|pienso||S|sci|C1
+selvicoltura|silvicultura||S|sci|C1
+forestazione|forestación||S|sci|C1
+riforestazione|reforestación||S|sci|C1
+taglio raso|tala a matarrasa||S|sci|C1
+diradamento|aclareo (entresaca de árboles)||S|sci|C1
+sottobosco|sotobosque||S|nat|C1
+fustaia|fustal (bosque alto)||S|sci|C1
+ceduo|monte bajo (bosque de rebrote)||S|sci|C1
+pollone|rebrote (retoño del tocón)||S|sci|C1
+ceppaia|tocón (matriz de cepa)||S|sci|C1
+legname|madera (para construcción)||S|sci|C1
+rimboschimento|repoblación forestal||S|sci|C1
+rogo|hoguera (incendio devastador)||S|nat|C1
+focolaio|foco (brote de incendio)||S|nat|C1
+propagazione dell'incendio|propagación del incendio||S|nat|C1
+fronte del fuoco|frente del fuego||S|nat|C1
+estinguere|extinguir||V|nat|C1
+spegnimento|extinción (del incendio)||S|nat|C1
+fuoco prescritto|fuego prescrito||S|sci|C1
+pirolisi|pirólisis||S|sci|C1
+macchia mediterranea|matorral mediterráneo||S|nat|C1
+strato arboreo|estrato arbóreo||S|sci|C1
+rifiuto urbano|residuo urbano||S|nat|C1
+smaltimento|eliminación (gestión de residuos)||S|nat|C1
+discarica|vertedero||S|nat|C1
+inceneritore|planta incineradora||S|nat|C1
+termovalorizzatore|planta de valorización energética||S|tec|C1
+riciclo|reciclaje||S|nat|C1
+riciclare|reciclar||V|nat|C1
+smaltire|eliminar (gestionar residuos)||V|nat|C1
+economia circolare|economía circular||S|att|C1
+riuso|reutilización||S|att|C1
+raccolta differenziata|recogida selectiva de residuos||S|nat|C1
+imballaggio|envase (embalaje)||S|cmp|C1
+compostaggio|compostaje||S|sci|C1
+digestione anaerobica|digestión anaerobia||S|sci|C1
+biogas|biogás||S|sci|C1
+obsolescenza programmata|obsolescencia programada||S|tec|C1
+filiera del riciclo|cadena de reciclaje||S|att|C1
+rifiuto pericoloso|residuo peligroso||S|nat|C1
+biodegradabile|biodegradable||A|sci|C1
+sfalci e potature|restos de siega y poda||S|nat|C1
+recupero energetico|valorización energética de residuos||S|sci|C1
+raccolta porta a porta|recogida puerta a puerta||S|nat|C1
+arguto|agudo (ingenioso)||A|ast|C1
+sagace|sagaz||A|ast|C1
+perspicace|perspicaz||A|ast|C1
+accorto|prudente (avisado)||A|ast|C1
+avveduto|precavido (avisado)||A|ast|C1
+ponderato|ponderado||A|ast|C1
+avventato|imprudente (precipitado)||A|ast|C1
+sconsiderato|desconsiderado (insensato)||A|ast|C1
+fatuo|fatuo (vanidoso y vacuo)||A|ast|C1
+vanesio|vanidoso||A|ast|C1
+protervo|soberbio (arrogante)||A|ast|C1
+bizantino|bizantino (discusión minuciosa e interminable)||A|ast|C1
+cavilloso|peliagudo (propenso a objeciones)||A|ast|C1
+puntiglioso|puntilloso||A|ast|C1
+pignolo|quisquilloso con los detalles||A|ast|C1
+ossequioso|reverente (obsequioso)||A|ast|C1
+untuoso|untuoso (adulador)||A|ast|C1
+mellifluo|mellifluo||A|ast|C1
+caustico|cáustico (mordaz)||A|ast|C1
+mordace|mordaz||A|ast|C1
+tagliente|incisivo (mordaz)||A|ast|C1
+schivo|retraído (esquivo)||A|ast|C1
+argomentare|argumentar||V|cmu|C1
+confutare|refutar||V|cmu|C1
+ribattere|replicar (contraargumentar)||V|cmu|C1
+obiettare|objetar||V|cmu|C1
+dissentire|disentir||V|cmu|C1
+convenire|convenir (coincidir con)||V|cmu|C1
