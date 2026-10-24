@@ -647,6 +647,9 @@ la|la|la|T|cmu|5|La rue est calme.|La calle está tranquila.
 les|los / las|le|T|cmu|5|Les enfants dorment.|Los niños duermen.
 `);
 
-/* v9.41 · base A1-B1 + pack plus B1-C2 (niveau explicite) : dictionnaire complet */
-export const FR_DICT: VocabWord[] = dedupMerge(FR_DICT_BASE, FR_PLUS, FR_MEGA);
-export const FR_DICT_COUNT = FR_DICT.length;
+/* v9.41 · base A1-B1 + pack plus B1-C2 (niveau explicite) : dictionnaire complet
+   v9.43 · CEFR 16.000 : parse paresseux avec cache (voir lang-en.ts). */
+let _frDict: VocabWord[] | null = null;
+export function getFRDict(): VocabWord[] {
+  return (_frDict ??= dedupMerge(FR_DICT_BASE, FR_PLUS, FR_MEGA));
+}

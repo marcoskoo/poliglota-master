@@ -59,19 +59,27 @@ import { DE_PRONUNCIATION } from "./lang/de/pronunciation";
    v9.41 · las lenguas no italianas usan el DICCIONARIO COMPLETO
    (base A1-B1 + pack plus B1-C2), igual que el italiano histórico:
    los juegos (memoria/ahorcado) y las fichas ganan todo el léxico. */
-import { EN_DICT } from "./dict/lang-en";
-import { PT_DICT } from "./dict/lang-pt";
-import { FR_DICT } from "./dict/lang-fr";
-import { DE_DICT } from "./dict/lang-de";
-const VOCAB_BY_LANG: Record<LangCode, VocabWord[]> = {
-  it: IT_VOCAB,
-  en: [...EN_VOCAB, ...EN_DICT],
-  pt: [...PT_VOCAB, ...PT_DICT],
-  fr: [...FR_VOCAB, ...FR_DICT],
-  de: [...DE_VOCAB, ...DE_DICT],
-};
+import { getENDict } from "./dict/lang-en";
+import { getPTDict } from "./dict/lang-pt";
+import { getFRDict } from "./dict/lang-fr";
+import { getDEDict } from "./dict/lang-de";
+/* v9.43 · CEFR 16.000: la unión VOCAB∪DICT se materializa bajo demanda
+   con caché por lengua (16.000×5 entradas no caben en el arranque). */
+const VOCAB_CACHE: Partial<Record<LangCode, VocabWord[]>> = {};
 export function vocabFor(lang: string | undefined | null): VocabWord[] {
-  return VOCAB_BY_LANG[(lang ?? "it") as LangCode] ?? IT_VOCAB;
+  const key = (["it", "en", "pt", "fr", "de"] as LangCode[]).includes((lang ?? "it") as LangCode)
+    ? ((lang ?? "it") as LangCode)
+    : "it";
+  const cached = VOCAB_CACHE[key];
+  if (cached) return cached;
+  const list: VocabWord[] =
+    key === "en" ? [...EN_VOCAB, ...getENDict()]
+    : key === "pt" ? [...PT_VOCAB, ...getPTDict()]
+    : key === "fr" ? [...FR_VOCAB, ...getFRDict()]
+    : key === "de" ? [...DE_VOCAB, ...getDEDict()]
+    : IT_VOCAB;
+  VOCAB_CACHE[key] = list;
+  return list;
 }
 export function wordsByCategoryFor(lang: string | undefined | null, cat: WordCategory): VocabWord[] {
   return vocabFor(lang).filter((w) => w.cat === cat);

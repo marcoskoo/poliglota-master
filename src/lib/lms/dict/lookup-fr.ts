@@ -1,5 +1,5 @@
 import type { VocabWord, WordType } from "../types";
-import { FR_DICT } from "./lang-fr";
+import { getFRDict } from "./lang-fr";
 
 /* ═══ FR lemmatizer didáctico · français de France → español ════════
    Espejo del portugués (lookup-pt.ts) y del italiano (lookup.ts):
@@ -25,7 +25,7 @@ function norm(s: string): string {
 function index(): Map<string, VocabWord> {
   if (IDX) return IDX;
   IDX = new Map<string, VocabWord>();
-  for (const w of FR_DICT) {
+  for (const w of getFRDict()) {
     const key = norm(w.it);
     if (!IDX.has(key)) IDX.set(key, w);
   }

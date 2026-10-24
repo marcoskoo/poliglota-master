@@ -593,6 +593,9 @@ cidade invicta|ciudad invicta (Oporto)|siˈdaðɨ ĩˈviktɐ|L|cit|3|O Porto é 
 sócios|socios (miembros)|ˈsɔsiuʃ|S|spt|2|O Benfica tem milhões de sócios.|El Benfica tiene millones de socios.
 os três grandes|los tres grandes|uʃ tɾeʃ ɡɾɐ̃ˈdɨʃ|L|spt|3|Benfica, Sporting e Porto: os três grandes.|Benfica, Sporting y Porto: los tres grandes.
 `);
-/* v9.41 · base A1-B1 + pack plus B1-C2 (nível explícito): dicionário completo */
-export const PT_DICT: VocabWord[] = dedupMerge(PT_DICT_BASE, PT_PLUS, PT_MEGA);
-export const PT_DICT_COUNT = PT_DICT.length;
+/* v9.41 · base A1-B1 + pack plus B1-C2 (nível explícito): dicionário completo
+   v9.43 · CEFR 16.000: parse preguiçoso com cache (ver lang-en.ts). */
+let _ptDict: VocabWord[] | null = null;
+export function getPTDict(): VocabWord[] {
+  return (_ptDict ??= dedupMerge(PT_DICT_BASE, PT_PLUS, PT_MEGA));
+}

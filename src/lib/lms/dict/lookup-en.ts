@@ -1,5 +1,5 @@
 import type { VocabWord, WordType } from "../types";
-import { EN_DICT } from "./lang-en";
+import { getENDict } from "./lang-en";
 
 /* ═══ EN lemmatizer didáctico · inglés americano → español ═══════════
    Espejo del italiano (dict/lookup.ts): heurística didáctica, no un
@@ -24,7 +24,7 @@ function norm(s: string): string {
 function index(): Map<string, VocabWord> {
   if (IDX) return IDX;
   IDX = new Map<string, VocabWord>();
-  for (const w of EN_DICT) {
+  for (const w of getENDict()) {
     const key = norm(w.it);
     if (!IDX.has(key)) IDX.set(key, w);
   }

@@ -8,15 +8,15 @@ import type { CefrLevel, LangCode, VocabWord, WordType } from "./types";
 import { CEFR_LEVELS } from "./types";
 import { lookupWordEn } from "./dict/lookup-en";
 import { lookupWordPt } from "./dict/lookup-pt";
-import { EN_DICT } from "./dict/lang-en";
-import { PT_DICT } from "./dict/lang-pt";
+import { getENDict } from "./dict/lang-en";
+import { getPTDict } from "./dict/lang-pt";
 
 export const TOTAL_LEMMAS = VOCAB.length;
 
 /* v9.19 · lemas totales de la lengua activa (importador + HUD de cobertura) */
 export function totalLemmasFor(lang: LangCode): number {
-  if (lang === "en") return EN_DICT.length;
-  if (lang === "pt") return PT_DICT.length;
+  if (lang === "en") return getENDict().length;
+  if (lang === "pt") return getPTDict().length;
   return TOTAL_LEMMAS;
 }
 

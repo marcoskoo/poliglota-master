@@ -1,11 +1,12 @@
 import type { VocabWord, WordType, WordCategory } from "../types";
 
 /* ═══ v9.42 · Parser «mega» · ampliación a 10.000 palabras/lengua ═══
+   v9.43 · objetivo CEFR C2: 16.000 palabras/lengua — ahora también A1/A2.
    Formato corto por líneas (sin ejemplo, IPA opcional):
 
      word|es|ipa|T|cat|LVL[|extras]
 
-   · LVL  → B1 | B2 | C1 | C2 (explícito)
+   · LVL  → A1 | A2 | B1 | B2 | C1 | C2 (explícito)
    · ipa  → puede quedar vacía (la tarjeta la omite)
    · extras → p= plural · g= m|f · n= nota · ff=1 (falso amigo)
               s= sinónimos · a= antónimos · rel= relacionados
@@ -34,7 +35,7 @@ const REG: Record<string, NonNullable<VocabWord["register"]>> = {
   inf: "informale", neu: "neutro", for: "formale", col: "colloquiale",
   let: "letterario", tec: "tecnico",
 };
-const FREQ: Record<string, 1 | 2 | 3> = { B1: 3, B2: 2, C1: 2, C2: 1 };
+const FREQ: Record<string, 1 | 2 | 3> = { A1: 3, A2: 3, B1: 3, B2: 2, C1: 2, C2: 1 };
 
 /** Llave de deduplicación de lemas: minúsculas, sin acentos/espacios/apóstrofes. */
 export function normKey(s: string): string {
@@ -65,7 +66,7 @@ export function parseMega(lines: string, prefix: string): VocabWord[] {
       const f = entry.split("|");
       if (f.length < 6) continue;
       const lvl = (f[5] ?? "").trim().toUpperCase();
-      if (!/^(B1|B2|C1|C2)$/.test(lvl)) continue;
+      if (!/^(A1|A2|B1|B2|C1|C2)$/.test(lvl)) continue;
       const word = f[0].trim();
       const es = f[1].trim();
       if (!word || !es) continue;

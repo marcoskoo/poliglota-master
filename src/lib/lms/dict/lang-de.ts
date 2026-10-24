@@ -623,6 +623,9 @@ die Not|la penuria|noːt|S|ast|2|Die Familie lebt in großer Not.|La familia viv
 spenden|donar|ˈʃpɛndn̩|V|fin|3|Er spendet regelmäßig für die Tafel.|Dona periódicamente para el banco de alimentos.;ff=1;n=«spenden» = donar; «gastar» es ausgeben — trampa del inglés to spend
 die Rente|la pensión de jubilación|ˈʁɛntə|S|fin|2|Mit 67 geht er in Rente.|A los 67 años se jubila.;ff=1;n=«die Rente» = la pensión de jubilación; la renta (ingresos) es das Einkommen
 `);
-/* v9.41 · Basis A1-B1 + Plus-Pack B1-C2 (Stufe explizit): vollständiges Wörterbuch */
-export const DE_DICT: VocabWord[] = dedupMerge(DE_DICT_BASE, DE_PLUS, DE_MEGA);
-export const DE_DICT_COUNT = DE_DICT.length;
+/* v9.41 · Basis A1-B1 + Plus-Pack B1-C2 (Stufe explizit): vollständiges Wörterbuch
+   v9.43 · CEFR 16.000: fauler Parse mit Cache (siehe lang-en.ts). */
+let _deDict: VocabWord[] | null = null;
+export function getDEDict(): VocabWord[] {
+  return (_deDict ??= dedupMerge(DE_DICT_BASE, DE_PLUS, DE_MEGA));
+}

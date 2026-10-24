@@ -1,5 +1,5 @@
 import type { VocabWord, WordType } from "../types";
-import { DE_DICT } from "./lang-de";
+import { getDEDict } from "./lang-de";
 
 /* ═══ DE lemmatizer didáctico · Deutsch → español ══════════════════
    Espejo del portugués (lookup-pt.ts): heurística didáctica, no un
@@ -30,7 +30,7 @@ function rawKey(s: string): string {
 function index(): Map<string, VocabWord> {
   if (IDX) return IDX;
   IDX = new Map<string, VocabWord>();
-  for (const w of DE_DICT) {
+  for (const w of getDEDict()) {
     const key = norm(w.it);
     if (!IDX.has(key)) IDX.set(key, w);
   }
@@ -40,7 +40,7 @@ function index(): Map<string, VocabWord> {
 function rawIndex(): Map<string, VocabWord> {
   if (RAWIDX) return RAWIDX;
   RAWIDX = new Map<string, VocabWord>();
-  for (const w of DE_DICT) {
+  for (const w of getDEDict()) {
     const key = rawKey(w.it);
     if (!RAWIDX.has(key)) RAWIDX.set(key, w);
   }
@@ -59,7 +59,7 @@ let BAREIDX: Map<string, VocabWord> | null = null;
 function bareIndex(): Map<string, VocabWord> {
   if (BAREIDX) return BAREIDX;
   BAREIDX = new Map<string, VocabWord>();
-  for (const w of DE_DICT) {
+  for (const w of getDEDict()) {
     const m = w.it.match(/^(?:der|die|das)\s+(.+)$/);
     if (m) {
       const key = rawKey(m[1]);

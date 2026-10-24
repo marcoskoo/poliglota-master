@@ -704,6 +704,11 @@ temple|templo|ˈtɛmpəl|S|art|4|Home is the first temple.|La casa es el primer 
 altar|altar|ˈɔːltər|S|art|3|The altar begins at home.|El altar empieza en casa.
 church|iglesia|tʃɜːrtʃ|S|art|3|A quiet church after work.|Una iglesia tranquila después del trabajo.
 `);
-/* v9.41 · base A1-B1 + pack plus B1-C2 (nivel explícito): diccionario completo */
-export const EN_DICT: VocabWord[] = dedupMerge(EN_DICT_BASE, EN_PLUS, EN_MEGA);
-export const EN_DICT_COUNT = EN_DICT.length;
+/* v9.41 · base A1-B1 + pack plus B1-C2 (nivel explícito): diccionario completo
+   v9.43 · CEFR 16.000: parse perezoso con caché — el mega (14k líneas) solo
+   se parsea la primera vez que se abre el diccionario/juegos de esta lengua;
+   el arranque de la app no paga el coste de las 5 lenguas juntas.        */
+let _enDict: VocabWord[] | null = null;
+export function getENDict(): VocabWord[] {
+  return (_enDict ??= dedupMerge(EN_DICT_BASE, EN_PLUS, EN_MEGA));
+}

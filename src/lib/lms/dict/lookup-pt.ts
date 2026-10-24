@@ -1,5 +1,5 @@
 import type { VocabWord, WordType } from "../types";
-import { PT_DICT } from "./lang-pt";
+import { getPTDict } from "./lang-pt";
 
 /* ═══ PT lemmatizer didáctico · português europeu → español ══════════
    Espejo del italiano/inglés (dict/lookup.ts, lookup-en.ts): heurística
@@ -22,7 +22,7 @@ function norm(s: string): string {
 function index(): Map<string, VocabWord> {
   if (IDX) return IDX;
   IDX = new Map<string, VocabWord>();
-  for (const w of PT_DICT) {
+  for (const w of getPTDict()) {
     const key = norm(w.it);
     if (!IDX.has(key)) IDX.set(key, w);
   }
