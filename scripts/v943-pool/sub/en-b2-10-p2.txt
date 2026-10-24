@@ -1,0 +1,291 @@
+wellness|bienestar||S|sla|B2
+mindfulness|atención plena||S|sla|B2
+burnout|agotamiento profesional||S|sla|B2
+therapy|terapia||S|sla|B2
+self-care|autocuidado||S|sla|B2
+anxiety|ansiedad||S|emo|B2
+coping strategies|estrategias de afrontamiento||L|sla|B2
+endurance|resistencia física||S|spt|B2
+warm-up|calentamiento||S|spt|B2
+meditation|meditación||S|sla|B2
+breathing exercises|ejercicios de respiración||L|sla|B2
+stress management|gestión del estrés||L|sla|B2
+mental health|salud mental||L|sla|B2
+stigma|estigma||S|sla|B2
+work-life balance|equilibrio entre trabajo y vida personal||L|lav|B2
+job opening|vacante||L|lav|B2
+recruitment|reclutamiento||S|lav|B2
+cover letter|carta de presentación||L|lav|B2
+skill set|conjunto de competencias||L|lav|B2
+qualifications|cualificaciones||S|lav|B2
+job hunting|búsqueda de empleo||L|lav|B2
+networking|contactos profesionales||S|lav|B2
+recruiter|reclutador||S|lav|B2
+headhunter|cazatalentos||S|lav|B2
+internship|prácticas||S|lav|B2
+volunteer work|trabajo voluntario||L|lav|B2
+career change|cambio profesional||L|lav|B2
+employment agency|agencia de empleo||L|lav|B2
+references|referencias||S|lav|B2
+staffing agency|agencia de colocación||L|lav|B2
+interviewer|entrevistador||S|lav|B2
+shortlist|lista de finalistas||S|lav|B2
+applicant|solicitante||S|lav|B2
+strengths and weaknesses|puntos fuertes y débiles||L|lav|B2
+make a good impression|causar buena impresión||L|lav|B2
+salary expectations|pretensiones salariales||L|lav|B2
+probation period|período de prueba||L|lav|B2
+job offer|oferta de empleo||L|lav|B2
+turn down|rechazar||L|lav|B2
+onboarding|proceso de incorporación||S|lav|B2
+negotiable|negociable||A|lav|B2
+hiring process|proceso de selección||L|lav|B2
+follow up|hacer seguimiento||L|lav|B2
+overqualified|con exceso de cualificación||A|lav|B2
+dress code|código de vestimenta||L|rop|B2
+promotion|ascenso||S|lav|B2
+raise|subida de sueldo||S|lav|B2
+demotion|degradación laboral||S|lav|B2
+layoff|despido por reducción de plantilla||S|lav|B2
+dismissal|despido||S|lav|B2
+fire|despedir||V|lav|B2
+resign|dimitir||V|lav|B2
+resignation letter|carta de dimisión||L|lav|B2
+severance|indemnización por despido||S|lav|B2
+unemployment benefits|prestación por desempleo||L|lav|B2
+career ladder|escalafón profesional||L|lav|B2
+glass ceiling|techo de cristal||L|lav|B2
+workaholic|adicto al trabajo||S|lav|B2
+dead-end job|trabajo sin futuro||L|lav|B2
+downsize|reducir la plantilla||V|lav|B2
+agenda|orden del día||S|lav|B2
+minutes|acta||S|lav|B2
+deadline|fecha límite||S|lav|B2
+brainstorming|lluvia de ideas||S|lav|B2
+conference call|llamada de conferencia||L|lav|B2
+videoconference|videoconferencia||S|lav|B2
+teamwork|trabajo en equipo||S|lav|B2
+coworker|compañero de trabajo||S|lav|B2
+delegate|delegar||V|lav|B2
+chair|presidir una reunión||V|lav|B2
+postpone|posponer||V|lav|B2
+reschedule|reprogramar||V|lav|B2
+on the same page|estar de acuerdo||L|lav|B2
+call it a day|dar por terminada la jornada||L|lav|B2
+take the lead|tomar la iniciativa||L|lav|B2
+labor union|sindicato||L|lav|B2
+collective bargaining|negociación colectiva||L|lav|B2
+strike|huelga||S|lav|B2
+go on strike|hacer huelga||L|lav|B2
+picket line|piquete de huelga||L|lav|B2
+wage|salario||S|lav|B2
+minimum wage|salario mínimo||L|lav|B2
+overtime|horas extra||S|lav|B2
+maternity leave|permiso de maternidad||L|lav|B2
+sick leave|baja por enfermedad||L|lav|B2
+harassment|acoso||S|lav|B2
+whistleblower|denunciante de irregularidades||S|lav|B2
+labor law|derecho laboral||L|lav|B2
+grievance|queja formal||S|lav|B2
+non-disclosure agreement|acuerdo de confidencialidad||L|lav|B2
+standardized test|examen estandarizado||L|stu|B2
+multiple-choice|de respuesta múltiple||A|stu|B2
+essay question|pregunta de desarrollo||L|stu|B2
+cheat|copiar en un examen||V|stu|B2
+cheat sheet|chuleta||L|stu|B2
+retake|repetir un examen||V|stu|B2
+passing grade|nota de aprobado||L|stu|B2
+certification|certificación||S|stu|B2
+professional license|licencia profesional||L|stu|B2
+credentials|credenciales||S|stu|B2
+proctor|vigilante de examen||S|stu|B2
+cram|estudiar a última hora||V|stu|B2
+brush up on|repasar||L|stu|B2
+pop quiz|examen sorpresa||L|stu|B2
+assessment|evaluación||S|stu|B2
+scholarship|beca||S|stu|B2
+tuition|matrícula universitaria||S|stu|B2
+student loan|préstamo estudiantil||L|stu|B2
+financial aid|ayuda económica||L|stu|B2
+dormitory|residencia universitaria||S|stu|B2
+freshman|estudiante de primer año||S|stu|B2
+syllabus|programa de la asignatura||S|stu|B2
+gap year|año sabático||L|stu|B2
+term paper|trabajo de curso||L|stu|B2
+thesis|tesis||S|stu|B2
+dissertation|tesis doctoral||S|stu|B2
+academic advisor|tutor académico||L|stu|B2
+extracurricular activities|actividades extraescolares||L|stu|B2
+enroll|matricularse||V|stu|B2
+graduate|graduarse||V|stu|B2
+rote learning|aprendizaje memorístico||L|stu|B2
+flashcards|tarjetas de estudio||S|stu|B2
+mnemonic|regla mnemotécnica||S|stu|B2
+highlight|resaltar||V|stu|B2
+outline|esquema||S|stu|B2
+summarize|resumir||V|stu|B2
+skim|leer por encima||V|stu|B2
+note-taking|toma de apuntes||S|stu|B2
+study skills|técnicas de estudio||L|stu|B2
+hands-on|práctico||A|stu|B2
+self-taught|autodidacta||A|stu|B2
+memorize|memorizar||V|stu|B2
+study abroad|estudiar en el extranjero||L|stu|B2
+keep up with|llevar el ritmo de||L|stu|B2
+fall behind|quedarse atrás||L|stu|B2
+urban planning|urbanismo||L|cit|B2
+zoning|zonificación||S|cit|B2
+gentrification|gentrificación||S|cit|B2
+suburbs|barrios residenciales||S|cit|B2
+downtown|centro de la ciudad||S|cit|B2
+overcrowding|hacinamiento||S|cit|B2
+public housing|vivienda pública||L|cit|B2
+infrastructure|infraestructura||S|cit|B2
+construction site|obra||L|cit|B2
+high-rise|edificio de gran altura||S|cit|B2
+run-down|degradado||A|cit|B2
+vandalism|vandalismo||S|cit|B2
+litter|tirar basura||V|cit|B2
+green space|espacio verde||L|cit|B2
+homeless|sin hogar||A|cit|B2
+city council|ayuntamiento||L|cit|B2
+local government|gobierno local||L|ist|B2
+taxpayer|contribuyente||S|fin|B2
+public services|servicios públicos||L|cit|B2
+utility bill|factura de suministros||L|cit|B2
+garbage collection|recogida de basura||L|cit|B2
+recycling bin|contenedor de reciclaje||L|cit|B2
+police force|cuerpo de policía||L|ist|B2
+ballot|papeleta electoral||S|ist|B2
+polling place|colegio electoral||L|ist|B2
+community center|centro cívico||L|cit|B2
+civic duty|deber cívico||L|ist|B2
+water supply|suministro de agua||L|cit|B2
+power outage|apagón||L|cit|B2
+emergency services|servicios de emergencia||L|cit|B2
+climate change|cambio climático||L|cli|B2
+global warming|calentamiento global||L|cli|B2
+greenhouse gas|gas de efecto invernadero||L|cli|B2
+emissions|emisiones||S|cli|B2
+sea level rise|subida del nivel del mar||L|cli|B2
+drought|sequía||S|nat|B2
+wildfire|incendio forestal||S|nat|B2
+hurricane|huracán||S|nat|B2
+earthquake|terremoto||S|nat|B2
+aftershock|réplica sísmica||S|nat|B2
+evacuation|evacuación||S|nat|B2
+shelter|refugio||S|nat|B2
+first responders|primeros intervinientes||L|nat|B2
+renewable energy|energía renovable||L|cli|B2
+landslide|desprendimiento de tierras||S|nat|B2
+fashion industry|industria de la moda||L|rop|B2
+trendy|a la última||A|rop|B2
+wardrobe|vestuario||S|rop|B2
+outfit|atuendo||S|rop|B2
+alterations|arreglos de costura||S|rop|B2
+tailor|sastre||S|rop|B2
+fabric|tejido||S|rop|B2
+cotton|algodón||S|rop|B2
+second-hand|de segunda mano||A|rop|B2
+fast fashion|moda rápida||L|rop|B2
+sweatshop|taller de explotación laboral||S|rop|B2
+out of style|pasado de moda||L|rop|B2
+sneakers|zapatillas de deporte||S|rop|B2
+accessories|accesorios||S|rop|B2
+knit|tejer||V|rop|B2
+social media|redes sociales||L|tec|B2
+post|publicación||S|tec|B2
+unfollow|dejar de seguir||V|tec|B2
+notification|notificación||S|tec|B2
+privacy settings|ajustes de privacidad||L|tec|B2
+screen time|tiempo de pantalla||L|tec|B2
+go viral|hacerse viral||L|tec|B2
+hashtag|etiqueta temática||S|tec|B2
+emoji|emoticono||S|tec|B2
+selfie|selfi||S|tec|B2
+follower|seguidor||S|tec|B2
+content creator|creador de contenido||L|tec|B2
+livestream|retransmisión en directo||S|tec|B2
+news feed|flujo de noticias||L|tec|B2
+digital detox|desintoxicación digital||L|tec|B2
+overshare|compartir en exceso||V|tec|B2
+cybersecurity|ciberseguridad||S|tec|B2
+hacker|pirata informático||S|tec|B2
+malware|software malicioso||S|tec|B2
+phishing|estafa por suplantación||S|tec|B2
+strong password|contraseña segura||L|tec|B2
+data breach|filtración de datos||L|tec|B2
+two-factor authentication|verificación en dos pasos||L|tec|B2
+encryption|cifrado||S|tec|B2
+firewall|cortafuegos||S|tec|B2
+backup|copia de seguridad||S|tec|B2
+cyberbullying|ciberacoso||S|tec|B2
+identity theft|robo de identidad||L|tec|B2
+scam|estafa||S|tec|B2
+spyware|programa espía||S|tec|B2
+dark web|web oscura||L|tec|B2
+private browsing|navegación privada||L|tec|B2
+programming|programación||S|tec|B2
+developer|desarrollador||S|tec|B2
+algorithm|algoritmo||S|sci|B2
+bug|error de programación||S|tec|B2
+debug|depurar||V|tec|B2
+source code|código fuente||L|tec|B2
+open source|código abierto||L|tec|B2
+database|base de datos||S|tec|B2
+server|servidor||S|tec|B2
+cloud storage|almacenamiento en la nube||L|tec|B2
+user-friendly|fácil de usar||A|tec|B2
+interface|interfaz||S|tec|B2
+default setting|ajuste predeterminado||L|tec|B2
+troubleshoot|solucionar problemas técnicos||V|tec|B2
+machine learning|aprendizaje automático||L|tec|B2
+artificial intelligence|inteligencia artificial||L|tec|B2
+championship|campeonato||S|spt|B2
+tournament|torneo||S|spt|B2
+scoreboard|marcador||S|spt|B2
+tiebreaker|desempate||S|spt|B2
+underdog|equipo no favorito||S|spt|B2
+defending champion|campeón vigente||L|spt|B2
+referee|árbitro||S|spt|B2
+doping|dopaje||S|spt|B2
+franchise|franquicia deportiva||S|spt|B2
+season ticket|abono de temporada||L|spt|B2
+home game|partido en casa||L|spt|B2
+away game|partido a domicilio||L|spt|B2
+streak|racha||S|spt|B2
+upset|victoria inesperada||S|spt|B2
+undefeated|invicto||A|spt|B2
+qualify|clasificarse||V|spt|B2
+sprain|esguince||S|cor|B2
+strain|distensión muscular||S|cor|B2
+fracture|fractura||S|cor|B2
+concussion|conmoción cerebral||S|cor|B2
+dislocate|dislocar||V|cor|B2
+bruise|moretón||S|cor|B2
+swollen|hinchado||A|cor|B2
+ice pack|bolsa de hielo||L|sla|B2
+physical therapy|fisioterapia||L|sla|B2
+recovery time|tiempo de recuperación||L|spt|B2
+overuse|uso excesivo||S|spt|B2
+rehab|rehabilitación||S|sla|B2
+sports medicine|medicina deportiva||L|sla|B2
+tear|desgarro muscular||S|cor|B2
+tendinitis|tendinitis||S|cor|B2
+crutches|muletas||S|cor|B2
+melody|melodía||S|mus|B2
+harmony|armonía||S|mus|B2
+rhythm|ritmo||S|mus|B2
+chord|acorde||S|mus|B2
+lyrics|letra de una canción||S|mus|B2
+chorus|estribillo||S|mus|B2
+verse|estrofa||S|mus|B2
+solo|solo||S|mus|B2
+encore|bis||S|mus|B2
+backstage|detrás del escenario||S|mus|B2
+venue|recinto de conciertos||S|mus|B2
+opening act|grupo telonero||L|mus|B2
+sold out|entradas agotadas||L|mus|B2
+sheet music|partitura||L|mus|B2
+compose|componer||V|mus|B2
+tune|afinar||V|mus|B2

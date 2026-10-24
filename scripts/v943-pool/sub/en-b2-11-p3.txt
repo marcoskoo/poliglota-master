@@ -1,0 +1,290 @@
+vandalism|vandalismo||S|ist|B2
+burglar|ladrón de viviendas||S|ist|B2
+on high alert|en máxima alerta||L|ist|B2
+safety measures|medidas de seguridad||S|ist|B2
+security footage|grabación de seguridad||S|ist|B2
+breakthrough|avance||S|sci|B2
+research|investigación||S|sci|B2
+hypothesis|hipótesis||S|sci|B2
+experiment|experimento||S|sci|B2
+theory|teoría||S|sci|B2
+discovery|descubrimiento||S|sci|B2
+genetics|genética||S|sci|B2
+gravity|gravedad||S|sci|B2
+evolution|evolución||S|sci|B2
+molecule|molécula||S|sci|B2
+atom|átomo||S|sci|B2
+neuron|neurona||S|sci|B2
+fossil|fósil||S|sci|B2
+outer space|espacio exterior||S|sci|B2
+science communication|divulgación científica||S|sci|B2
+genome|genoma||S|sci|B2
+best seller|superventas||S|let|B2
+book club|club de lectura||S|let|B2
+paperback|edición de bolsillo||S|let|B2
+hardcover|tapa dura||S|let|B2
+e-book|libro electrónico||S|let|B2
+audiobook|audiolibro||S|let|B2
+avid reader|lector empedernido||S|let|B2
+thriller|novela de suspense||S|let|B2
+detective story|relato policiaco||S|let|B2
+sci-fi|ciencia ficción||S|let|B2
+romance|novela romántica||S|let|B2
+memoir|memorias||S|let|B2
+graphic novel|novela gráfica||S|let|B2
+signed copy|ejemplar firmado||S|let|B2
+page-turner|libro absorbente||S|let|B2
+blurb|texto de contraportada||S|let|B2
+hiking|senderismo||S|sve|B2
+trail|sendero||S|nat|B2
+national park|parque nacional||S|nat|B2
+campground|zona de acampada||S|nat|B2
+backpacking|viaje con mochila||S|sve|B2
+wilderness|zona salvaje||S|nat|B2
+birdwatching|observación de aves||S|sve|B2
+picnic area|zona de pícnic||S|nat|B2
+trailhead|comienzo del sendero||S|nat|B2
+lookout point|mirador||S|nat|B2
+bug spray|repelente de insectos||S|nat|B2
+binoculars|prismáticos||S|nat|B2
+footpath|camino peatonal||S|nat|B2
+scenic route|ruta panorámica||S|nat|B2
+waterfall|cascada||S|nat|B2
+campfire|hoguera||S|nat|B2
+city break|escapada urbana||S|vig|B2
+sightseeing|visita turística||S|vig|B2
+tour guide|guía turístico||S|pro|B2
+itinerary|itinerario||S|vig|B2
+day trip|excursión de un día||S|vig|B2
+off the beaten path|fuera de las rutas típicas||L|vig|B2
+travel agency|agencia de viajes||S|vig|B2
+currency exchange|cambio de divisas||S|fin|B2
+must-see|imprescindible||A|vig|B2
+wander around|pasear sin rumbo||V|vig|B2
+local cuisine|cocina local||S|vig|B2
+travel insurance|seguro de viaje||S|vig|B2
+bucket list|lista de deseos||S|vig|B2
+long weekend|fin de semana largo||S|tmp|B2
+tourist trap|trampa para turistas||S|vig|B2
+tourist attraction|atracción turística||S|vig|B2
+self-confidence|confianza en uno mismo||S|emo|B2
+habit|hábito||S|emo|B2
+goal|objetivo||S|emo|B2
+mindset|mentalidad||S|emo|B2
+personal growth|crecimiento personal||S|emo|B2
+overcome|superar||V|emo|B2
+challenge|reto||S|emo|B2
+comfort zone|zona de confort||S|emo|B2
+introspection|introspección||S|emo|B2
+positive thinking|pensamiento positivo||S|emo|B2
+empower|empoderar||V|emo|B2
+insecurity|inseguridad||S|emo|B2
+affirmations|afirmaciones||S|emo|B2
+better yourself|mejorar como persona||L|emo|B2
+accomplishment|logro||S|emo|B2
+discipline|disciplina||S|emo|B2
+complaint|queja||S|cmu|B2
+apologize|disculparse||V|cmu|B2
+apology|disculpa||S|cmu|B2
+misunderstand|entender mal||V|cmu|B2
+mix-up|confusión||S|cmu|B2
+my bad|culpa mía||E|cmu|B2
+no offense|sin ánimo de ofender||E|cmu|B2
+I beg your pardon|perdone, cómo dice||E|cmu|B2
+sorry to bother you|perdone la molestia||E|cmu|B2
+it's my fault|la culpa es mía||E|cmu|B2
+never mind|no importa||E|cmu|B2
+grumble|refunfuñar||V|cmu|B2
+make up for|compensar||V|cmu|B2
+rude|grosero||A|cmu|B2
+take it personally|tomárselo como algo personal||L|cmu|B2
+paperwork|papeleo||S|ist|B2
+appointment|cita||S|ist|B2
+identity card|documento de identidad||S|ist|B2
+birth certificate|certificado de nacimiento||S|ist|B2
+photocopy|fotocopia||S|ist|B2
+notary|notario||S|pro|B2
+signature|firma||S|ist|B2
+counter|ventanilla||S|ist|B2
+wait in line|hacer cola||L|ist|B2
+certified mail|correo certificado||S|ist|B2
+take a number|coger número||L|ist|B2
+validity|validez||S|ist|B2
+legal document|documento legal||S|ist|B2
+affidavit|declaración jurada||S|ist|B2
+stamp|sello||S|ist|B2
+valid|vigente||A|ist|B2
+first of all|en primer lugar||L|cnn|B2
+to begin with|para empezar||L|cnn|B2
+secondly|en segundo lugar||D|cnn|B2
+lastly|por último||D|cnn|B2
+as I was saying|como estaba diciendo||L|cnn|B2
+by the way|por cierto||E|cnn|B2
+anyway|de todos modos||D|cnn|B2
+let me see|a ver||E|cnn|B2
+what's more|y lo que es más||L|cnn|B2
+on top of that|por si fuera poco||L|cnn|B2
+cut to the chase|ir al grano||L|cnn|B2
+sort of|como que||E|cnn|B2
+you know|sabes||E|cnn|B2
+I mean|es decir||E|cnn|B2
+mind you|eso sí||E|cnn|B2
+luck|suerte||S|ast|B2
+lucky|con suerte||A|ast|B2
+fate|destino||S|ast|B2
+coincidence|coincidencia||S|ast|B2
+fluke|casualidad inesperada||S|ast|B2
+turn out|resultar||V|ast|B2
+momentum|impulso||S|ast|B2
+turning point|punto de inflexión||S|ast|B2
+everlasting|eterno||A|ast|B2
+fleeting|efímero||A|ast|B2
+time flies|el tiempo vuela||E|tmp|B2
+waste|malgastar||V|tmp|B2
+odds|probabilidades||S|ast|B2
+destiny|destino||S|ast|B2
+lifelong|de por vida||A|ast|B2
+twist of fate|capricho del destino||L|ast|B2
+museum|museo||S|art|B2
+exhibition|exposición||S|art|B2
+gallery|galería||S|art|B2
+admission fee|precio de entrada||S|art|B2
+curator|comisario de exposición||S|pro|B2
+exhibit|pieza expuesta||S|art|B2
+audio guide|audioguía||S|art|B2
+permanent collection|colección permanente||S|art|B2
+visitor|visitante||S|art|B2
+artifact|objeto arqueológico||S|art|B2
+visiting hours|horario de visitas||S|art|B2
+gift shop|tienda del museo||S|art|B2
+wing|ala del edificio||S|art|B2
+on display|en exposición||L|art|B2
+donation|donativo||S|art|B2
+replica|réplica||S|art|B2
+boarding pass|tarjeta de embarque||S|tra|B2
+gate|puerta de embarque||S|tra|B2
+layover|escala||S|tra|B2
+customs|aduana||S|tra|B2
+security screening|control de seguridad||S|tra|B2
+baggage drop|facturación de equipajes||S|tra|B2
+carry-on|equipaje de mano||S|tra|B2
+boarding time|hora de embarque||S|tra|B2
+connecting flight|vuelo de conexión||S|tra|B2
+duty-free|libre de impuestos||A|tra|B2
+jet lag|desfase horario||S|tra|B2
+runway|pista de aterrizaje||S|tra|B2
+baggage claim|recogida de equipajes||S|tra|B2
+flight status|estado del vuelo||S|tra|B2
+passport control|control de pasaportes||S|tra|B2
+overhead bin|maletero superior||S|tra|B2
+front desk|recepción||S|htl|B2
+check-in|registro de entrada||S|htl|B2
+check-out|registro de salida||S|htl|B2
+concierge|conserje||S|pro|B2
+housekeeping|servicio de limpieza||S|htl|B2
+vacancy|habitación libre||S|htl|B2
+double room|habitación doble||S|htl|B2
+room service|servicio de habitaciones||S|htl|B2
+wake-up call|llamada de despertador||S|htl|B2
+complimentary breakfast|desayuno incluido||S|htl|B2
+minibar|minibar||S|htl|B2
+make a reservation|hacer una reserva||L|htl|B2
+fully booked|completo||A|htl|B2
+complimentary upgrade|mejora gratuita de habitación||S|htl|B2
+shabby|desgastado||A|htl|B2
+leaky faucet|grifo que gotea||S|htl|B2
+job interview|entrevista de trabajo||S|lav|B2
+cover letter|carta de presentación||S|lav|B2
+hiring manager|responsable de contratación||S|lav|B2
+shortlist|lista de finalistas||S|lav|B2
+interviewee|entrevistado||S|lav|B2
+strengths and weaknesses|puntos fuertes y débiles||L|lav|B2
+probation period|período de prueba||S|lav|B2
+new hire|nuevo empleado||S|lav|B2
+find your feet|adaptarse a una situación nueva||L|lav|B2
+colleague|compañero de trabajo||S|lav|B2
+meet a deadline|cumplir un plazo||L|lav|B2
+settle in|instalarse y adaptarse||V|lav|B2
+references|referencias laborales||S|lav|B2
+icebreaker|rompehielos||S|lav|B2
+dress code|código de vestuario||S|lav|B2
+steep learning curve|curva de aprendizaje pronunciada||L|lav|B2
+generation|generación||S|fam|B2
+upbringing|educación recibida en casa||S|fam|B2
+ancestry|ascendencia||S|fam|B2
+fond memory|recuerdo entrañable||S|rel|B2
+reminisce|rememorar||V|rel|B2
+anecdote|anécdota||S|cmu|B2
+nostalgic|nostálgico||A|emo|B2
+nostalgia|nostalgia||S|emo|B2
+back in the day|en aquel entonces||L|tmp|B2
+generation gap|brecha generacional||S|fam|B2
+heirloom|reliquia familiar||S|fam|B2
+tell apart|distinguir||V|cmu|B2
+if I remember correctly|si mal no recuerdo||L|cmu|B2
+sibling|hermano o hermana||S|fam|B2
+senior citizen|persona mayor||S|fam|B2
+sleep pattern|patrón de sueño||S|sla|B2
+insomnia|insomnio||S|sla|B2
+nap|siesta||S|sla|B2
+alarm clock|despertador||S|sla|B2
+dusk|anochecer||S|tmp|B2
+bedtime|hora de acostarse||S|sla|B2
+sleep-deprived|falto de sueño||A|sla|B2
+energy levels|niveles de energía||S|sla|B2
+power nap|siesta corta||S|sla|B2
+doze off|quedarse dormido||V|sla|B2
+restful|reparador||A|sla|B2
+yawn|bostezar||V|sla|B2
+oversleep|no despertar a tiempo||V|sla|B2
+wide awake|totalmente despierto||A|sla|B2
+graveyard shift|turno de noche||S|lav|B2
+wind down|relajarse||V|sla|B2
+meet up|quedar para verse||V|rel|B2
+plan ahead|planificar con antelación||V|rel|B2
+cancel|cancelar||V|cmu|B2
+reschedule|cambiar la fecha||V|cmu|B2
+show up|presentarse||V|cmu|B2
+stand somebody up|dejar plantado a alguien||L|rel|B2
+at the last minute|a última hora||L|tmp|B2
+run late|ir con retraso||L|tmp|B2
+call it off|suspenderlo||V|cmu|B2
+pencil in|anotar provisionalmente||V|cmu|B2
+tentative|provisional||A|cmu|B2
+bail on somebody|dejar tirado a alguien||L|rel|B2
+pop over|pasar a ver a alguien||V|rel|B2
+catch up|ponerse al día||V|rel|B2
+date|cita romántica||S|rel|B2
+rain check|dejárselo para otra ocasión||S|rel|B2
+veterinarian|veterinario||S|pro|B2
+leash|correa||S|ani|B2
+collar|collar||S|ani|B2
+crate|transportín||S|ani|B2
+brush|cepillar||V|ani|B2
+spay|esterilizar||V|ani|B2
+dog walker|paseador de perros||S|pro|B2
+obedience training|adiestramiento||S|ani|B2
+treat|premio (para mascotas)||S|ani|B2
+litter box|arenero||S|ani|B2
+adoption|adopción de animales||S|ani|B2
+stray|callejero||A|ani|B2
+barking|ladrido||S|ani|B2
+pet-friendly|que admite mascotas||A|ani|B2
+neuter|castrar||V|ani|B2
+vaccination|vacunación||S|sla|B2
+ride-sharing app|aplicación de transporte compartido||S|tra|B2
+pickup point|punto de recogida||S|tra|B2
+drop-off|lugar de bajada||S|tra|B2
+fare estimate|estimación de tarifa||S|tra|B2
+surge pricing|tarifa dinámica||S|tra|B2
+carpooling|coche compartido||S|tra|B2
+driver's license|carné de conducir||S|tra|B2
+ride|trayecto||S|tra|B2
+traffic jam|atasco||S|tra|B2
+rush hour|hora punta||S|tra|B2
+detour|desvío||S|tra|B2
+license plate|matrícula||S|tra|B2
+toll|peaje||S|tra|B2
+split the cost|repartir el gasto||L|tra|B2
+pull over|detenerse al borde de la vía||V|tra|B2
+passenger|pasajero||S|tra|B2

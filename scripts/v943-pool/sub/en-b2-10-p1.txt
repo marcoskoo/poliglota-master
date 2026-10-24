@@ -1,0 +1,291 @@
+toddler|niño pequeño de uno a tres años||S|fam|B2
+childhood|niñez||S|fam|B2
+adolescence|adolescencia||S|fam|B2
+adulthood|edad adulta||S|fam|B2
+middle-aged|de mediana edad||A|fam|B2
+elderly|de edad avanzada||A|fam|B2
+newborn|recién nacido||S|fam|B2
+upbringing|crianza||S|fam|B2
+sibling|hermano||S|fam|B2
+only child|hijo único||L|fam|B2
+in-laws|familia política||L|fam|B2
+mother-in-law|suegra||S|fam|B2
+stepfather|padrastro||S|fam|B2
+grandchild|nieto||S|fam|B2
+come of age|llegar a la mayoría de edad||L|fam|B2
+household|hogar||S|fam|B2
+bring up|criar||L|fam|B2
+curfew|toque de queda||S|fam|B2
+rebellious|rebelde||A|fam|B2
+quarrel|disputa||S|fam|B2
+sibling rivalry|rivalidad entre hermanos||L|fam|B2
+spoil|mimar||V|fam|B2
+set boundaries|poner límites||L|fam|B2
+misbehave|portarse mal||V|fam|B2
+allowance|paga semanal||S|fam|B2
+chores|tareas domésticas||S|fam|B2
+estranged|distanciado||A|fam|B2
+separation|separación||S|fam|B2
+alimony|pensión compensatoria||S|fam|B2
+family counseling|terapia familiar||L|fam|B2
+overprotective|sobreprotector||A|fam|B2
+talk back|contestar con insolencia||L|fam|B2
+run away from home|irse de casa||L|fam|B2
+ground|castigar sin salir||V|fam|B2
+landlord|casero||S|cas|B2
+lease|contrato de alquiler||S|cas|B2
+deposit|fianza||S|cas|B2
+moving van|camión de mudanzas||L|cas|B2
+relocate|trasladarse||V|cas|B2
+move out|dejar la vivienda||L|cas|B2
+furnished|amueblado||A|cas|B2
+utilities|suministros básicos||S|cas|B2
+sublet|subarrendar||V|cas|B2
+eviction|desahucio||S|cas|B2
+rent increase|subida del alquiler||L|cas|B2
+renew a lease|renovar el contrato||L|cas|B2
+real estate agent|agente inmobiliario||L|cas|B2
+property listing|anuncio de vivienda||L|cas|B2
+affordable|asequible||A|cas|B2
+notice|preaviso||S|cas|B2
+renovation|reforma||S|cas|B2
+drywall|tabique de yeso||S|cas|B2
+drill|taladro||S|cas|B2
+paintbrush|brocha||S|cas|B2
+ladder|escalera de mano||S|cas|B2
+wallpaper|papel pintado||S|cas|B2
+upholstery|tapicería||S|cas|B2
+lighting|iluminación||S|cas|B2
+drapes|cortinas||S|cas|B2
+rug|alfombra||S|cas|B2
+carpet|moqueta||S|cas|B2
+contractor|contratista||S|cas|B2
+leak|fuga de agua||S|cas|B2
+plumbing|fontanería||S|cas|B2
+blueprint|plano de obra||S|cas|B2
+knock down a wall|tirar un tabique||L|cas|B2
+cuisine|gastronomía||S|ali|B2
+delicacy|manjar||S|ali|B2
+savory|salado y no dulce||A|ali|B2
+home-cooked meal|comida casera||L|ali|B2
+cookbook|libro de cocina||S|ali|B2
+seasoning|condimento||S|ali|B2
+culinary|culinario||A|ali|B2
+street food|comida callejera||L|ali|B2
+dining out|comer fuera de casa||L|ali|B2
+feast|banquete||S|ali|B2
+takeout|comida para llevar||S|ali|B2
+gourmet|de alta cocina||A|ali|B2
+foodie|amante de la buena comida||S|ali|B2
+homemade|casero||A|ali|B2
+appetizer|aperitivo||S|ali|B2
+main course|plato principal||L|ali|B2
+balanced diet|dieta equilibrada||L|ali|B2
+intolerance|intolerancia alimentaria||S|ali|B2
+lactose intolerance|intolerancia a la lactosa||L|ali|B2
+gluten|gluten||S|ali|B2
+vegan|vegano||S|ali|B2
+whole-grain|integral||A|ali|B2
+processed|procesado||A|ali|B2
+nutrient|nutriente||S|ali|B2
+eating habits|hábitos alimentarios||L|ali|B2
+food poisoning|intoxicación alimentaria||L|ali|B2
+stay hydrated|mantenerse hidratado||L|sla|B2
+portion control|control de las raciones||L|ali|B2
+allergic reaction|reacción alérgica||L|sla|B2
+nutrition label|etiqueta nutricional||L|ali|B2
+low-carb|bajo en hidratos de carbono||A|ali|B2
+eating disorder|trastorno alimentario||L|sla|B2
+stir-fry|saltear||V|ali|B2
+wok|sartén wok||S|ali|B2
+curry|curry||S|ali|B2
+dressing|aliño||S|ali|B2
+marinade|marinada||S|ali|B2
+braise|estofar a fuego lento||V|ali|B2
+stew|estofado||S|ali|B2
+dumpling|bola de masa rellena||S|ali|B2
+pastry|hojaldre||S|ali|B2
+fusion cuisine|cocina fusión||L|ali|B2
+table manners|modales en la mesa||L|ali|B2
+rare|poco hecho||A|ali|B2
+well-done|muy hecho||A|ali|B2
+side dish|guarnición||L|ali|B2
+leftovers|sobras||S|ali|B2
+chopsticks|palillos para comer||S|ali|B2
+winery|bodega||S|ali|B2
+vineyard|viñedo||S|ali|B2
+sommelier|sumiller||S|ali|B2
+tasting|cata||S|ali|B2
+full-bodied|con cuerpo||A|ali|B2
+aftertaste|retrogusto||S|ali|B2
+sour|ácido||A|ali|B2
+brew|preparar café||V|ali|B2
+espresso|café expreso||S|ali|B2
+decaf|descafeinado||S|ali|B2
+caffeine|cafeína||S|ali|B2
+roast|tueste||S|ali|B2
+flavor|sabor||S|ali|B2
+sparkling|espumoso||A|ali|B2
+vintage|añada||S|ali|B2
+cork|corcho||S|ali|B2
+advertising|publicidad||S|cmp|B2
+brand loyalty|fidelidad a la marca||L|cmp|B2
+target audience|público objetivo||L|cmp|B2
+slogan|eslogan||S|cmp|B2
+jingle|melodía publicitaria||S|cmp|B2
+billboard|valla publicitaria||S|cmp|B2
+persuasive|persuasivo||A|cmp|B2
+impulse buying|compra por impulso||L|cmp|B2
+clearance sale|liquidación||L|cmp|B2
+coupon|cupón||S|cmp|B2
+splurge|darse un capricho||V|cmp|B2
+brand awareness|notoriedad de marca||L|cmp|B2
+newsletter|boletín informativo||S|cmp|B2
+misleading|engañoso||A|cmp|B2
+mass-produced|producido en masa||A|cmp|B2
+shop around|comparar precios||L|cmp|B2
+refund|reembolso||S|cmp|B2
+return policy|política de devoluciones||L|cmp|B2
+exchange|cambio de producto||S|cmp|B2
+warranty|garantía||S|cmp|B2
+receipt|recibo||S|cmp|B2
+invoice|factura||S|cmp|B2
+defective|defectuoso||A|cmp|B2
+money-back guarantee|garantía de devolución del dinero||L|cmp|B2
+complaint|reclamación||S|cmp|B2
+store credit|vale de compra||L|cmp|B2
+restocking fee|cargo por reposición||L|cmp|B2
+proof of purchase|prueba de compra||L|cmp|B2
+rip-off|timo||S|cmp|B2
+fine print|letra pequeña||L|cmp|B2
+overcharge|cobrar de más||V|cmp|B2
+customer service|atención al cliente||L|cmp|B2
+online shopping|compra en línea||L|cmp|B2
+place an order|hacer un pedido||L|cmp|B2
+cart|carrito de la compra||S|cmp|B2
+out of stock|agotado||L|cmp|B2
+shipping costs|gastos de envío||L|cmp|B2
+tracking number|número de seguimiento||L|cmp|B2
+courier|empresa de mensajería||S|cmp|B2
+parcel|paquete||S|cmp|B2
+bubble wrap|plástico de burbujas||L|cmp|B2
+e-commerce|comercio electrónico||S|cmp|B2
+free shipping|envío gratuito||L|cmp|B2
+feedback|comentarios||S|cmp|B2
+browse|hojear un catálogo||V|cmp|B2
+flash sale|venta flash||L|cmp|B2
+add to cart|añadir al carrito||L|cmp|B2
+wishlist|lista de deseos||S|cmp|B2
+speeding|exceso de velocidad||S|tra|B2
+speed limit|límite de velocidad||L|tra|B2
+rush hour|hora punta||L|tra|B2
+detour|desvío||S|tra|B2
+intersection|cruce||S|tra|B2
+jaywalk|cruzar la calle fuera del paso||V|tra|B2
+run a red light|saltarse un semáforo en rojo||L|tra|B2
+pull over|detenerse en el arcén||L|tra|B2
+breakdown|avería||S|tra|B2
+flat tire|pinchazo||L|tra|B2
+tow truck|grúa||L|tra|B2
+oil change|cambio de aceite||L|tra|B2
+roadside assistance|asistencia en carretera||L|tra|B2
+road rage|ira al volante||L|tra|B2
+drunk driving|conducción en estado de ebriedad||L|tra|B2
+mileage|kilometraje||S|tra|B2
+transit|transporte público||S|tra|B2
+light rail|tren ligero||L|tra|B2
+commute|desplazarse al trabajo||V|tra|B2
+bike lane|carril bici||L|tra|B2
+carpool|compartir coche||S|tra|B2
+ridesharing|viajes compartidos||S|tra|B2
+electric vehicle|vehículo eléctrico||L|tra|B2
+bike sharing|bicicleta compartida||L|tra|B2
+carbon footprint|huella de carbono||L|nat|B2
+scooter|patinete||S|tra|B2
+pedestrian|peatón||S|tra|B2
+crosswalk|paso de peatones||S|tra|B2
+fare|tarifa de transporte||S|tra|B2
+traffic congestion|congestión del tráfico||L|tra|B2
+exhaust fumes|gases de escape||L|tra|B2
+get around|desplazarse por la ciudad||L|tra|B2
+business trip|viaje de negocios||L|vig|B2
+layover|escala de conexión||S|vig|B2
+delayed|retrasado||A|vig|B2
+canceled|cancelado||A|vig|B2
+itinerary|itinerario||S|vig|B2
+jet lag|desfase horario||S|vig|B2
+travel expenses|gastos de viaje||L|vig|B2
+corporate card|tarjeta de empresa||L|vig|B2
+missed connection|conexión perdida||L|vig|B2
+overbooked|con exceso de reservas||A|vig|B2
+lost luggage|equipaje perdido||L|vig|B2
+compensation|compensación||S|vig|B2
+travel insurance|seguro de viaje||L|vig|B2
+turbulence|turbulencia||S|vig|B2
+divert|desviar un vuelo||V|vig|B2
+stranded|varado||A|vig|B2
+visa|visado||S|vig|B2
+border control|control de fronteras||L|vig|B2
+customs|aduana||S|vig|B2
+immigration|inmigración||S|ist|B2
+emigrate|emigrar||V|vig|B2
+work permit|permiso de trabajo||L|vig|B2
+residency permit|permiso de residencia||L|vig|B2
+green card|tarjeta de residencia||L|vig|B2
+dual citizenship|doble nacionalidad||L|ist|B2
+expire|caducar||V|vig|B2
+extension|prórroga||S|vig|B2
+refugee|refugiado||S|ist|B2
+asylum|asilo||S|ist|B2
+checkpoint|puesto de control||S|vig|B2
+deport|deportar||V|ist|B2
+overstay|quedarse más tiempo del permitido||V|vig|B2
+lodging|alojamiento||S|htl|B2
+check in|registrarse a la llegada||L|htl|B2
+check out|hacer la salida del hotel||L|htl|B2
+front desk|recepción||L|htl|B2
+concierge|conserje||S|htl|B2
+suite|suite||S|htl|B2
+resort|complejo turístico||S|htl|B2
+guesthouse|casa de huéspedes||S|htl|B2
+amenities|comodidades||S|htl|B2
+room service|servicio de habitaciones||L|htl|B2
+all-inclusive|todo incluido||A|htl|B2
+star rating|categoría por estrellas||L|htl|B2
+tourist trap|trampa para turistas||L|htl|B2
+off the beaten path|fuera de las rutas típicas||L|vig|B2
+fully booked|completo||E|htl|B2
+vacancy|habitación libre||S|htl|B2
+early detection|detección precoz||L|sla|B2
+screening|cribado||S|sla|B2
+vaccination|vacunación||S|sla|B2
+booster shot|dosis de recuerdo||L|sla|B2
+blood pressure|presión arterial||L|sla|B2
+blood test|análisis de sangre||L|sla|B2
+cholesterol|colesterol||S|sla|B2
+sedentary|sedentario||A|sla|B2
+workout|entrenamiento||S|sla|B2
+quit smoking|dejar de fumar||L|sla|B2
+immune system|sistema inmunitario||L|sla|B2
+in moderation|con moderación||L|sla|B2
+preventive|preventivo||A|sla|B2
+sleep deprivation|privación de sueño||L|sla|B2
+addictive|adictivo||A|sla|B2
+risk factor|factor de riesgo||L|sla|B2
+insurance premium|prima del seguro||L|sla|B2
+deductible|franquicia del seguro||S|sla|B2
+copay|copago||S|sla|B2
+coverage|cobertura||S|sla|B2
+policyholder|titular de la póliza||S|sla|B2
+claim|siniestro||S|sla|B2
+out-of-pocket expenses|gastos por cuenta propia||L|sla|B2
+pre-existing condition|enfermedad preexistente||L|sla|B2
+emergency room|urgencias||L|sla|B2
+specialist|especialista||S|sla|B2
+referral|derivación médica||S|sla|B2
+prescription|receta médica||S|sla|B2
+universal healthcare|sanidad universal||L|sla|B2
+waiting list|lista de espera||L|sla|B2
+enrollment|inscripción||S|ist|B2
+outpatient|paciente ambulatorio||S|sla|B2
+insurer|aseguradora||S|sla|B2

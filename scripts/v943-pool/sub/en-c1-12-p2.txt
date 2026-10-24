@@ -1,0 +1,307 @@
+rapport|sintonía con alguien||S|rel|C1
+camaraderie|camaradería||S|rel|C1
+give the cold shoulder|tratar con desdén||E|rel|C1
+convivial|convivial||A|rel|C1
+faux pas|metedura de pata||E|rel|C1
+rapprochement|acercamiento diplomático||S|ist|C1
+aria|aria operística||S|mus|C1
+libretto|libreto||S|mus|C1
+soliloquy|soliloquio||S|let|C1
+stage fright|miedo escénico||L|art|C1
+adagio|adagio||S|mus|C1
+sojourn|estancia breve||S|vig|C1
+wanderlust|ganas de recorrer mundo||S|vig|C1
+crag|risco||S|nat|C1
+hinterland|hinterland (región interior de un puerto)||S|nat|C1
+montage|montaje cinematográfico||S|cin|C1
+diegetic|diegético||A|cin|C1
+cinematography|fotografía cinematográfica||S|cin|C1
+freeze-frame|imagen congelada||S|cin|C1
+fertility rate|tasa de fecundidad||L|ast|C1
+matriarch|matriarca||S|fam|C1
+birthrate|tasa de natalidad||S|ast|C1
+empty nest|nido vacío||S|fam|C1
+colonnade|columnata||S|cit|C1
+atrium|atrio||S|cit|C1
+streetscape|paisaje urbano||S|cit|C1
+zoning|zonificación urbanística||S|cit|C1
+sommelier|sumiller||S|pro|C1
+umami|umami||S|ali|C1
+degustation|cata de vinos||S|ali|C1
+mouthfeel|sensación en boca||S|ali|C1
+plating|emplatado||S|ali|C1
+tasting menu|menú degustación||L|ris|C1
+imprinting|impronta etológica||S|ani|C1
+phylogeny|filogenia||S|ani|C1
+molting|muda del pelaje||S|ani|C1
+taxon|taxón||S|ani|C1
+xylem|xilema||S|nat|C1
+pollinator|polinizador||S|nat|C1
+phenology|fenología||S|nat|C1
+understory|sotobosque||S|nat|C1
+zeitgeist|espíritu de la época||S|ast|C1
+mnemonic|mnemotécnico||A|ast|C1
+annals|anales||S|ast|C1
+palimpsest|palimpsesto||S|let|C1
+stablecoin|criptomoneda estable||S|fin|C1
+tokenize|tokenizar||V|fin|C1
+blockchain|cadena de bloques||S|tec|C1
+smart contract|contrato inteligente||L|tec|C1
+hash|resumen criptográfico||S|tec|C1
+hardware wallet|monedero físico (cripto)||S|tec|C1
+estuary|estuario||S|nat|C1
+eutrophication|eutrofización||S|sci|C1
+ceasefire|alto el fuego||S|ist|C1
+insurgency|insurgencia||S|ist|C1
+peacekeeping|mantenimiento de la paz||S|ist|C1
+arms race|carrera armamentística||L|ist|C1
+supranational|supranacional||A|ist|C1
+free trade agreement|tratado de libre comercio||L|ist|C1
+opt-out|cláusula de exclusión voluntaria||S|ist|C1
+universal basic income|renta básica universal||L|ist|C1
+safety net|red de protección social||L|ist|C1
+means-tested|sujeto a comprobación de recursos||A|ist|C1
+grassroots|de base ciudadana||A|ist|C1
+sit-in|sentada de protesta||S|ist|C1
+civil disobedience|desobediencia civil||L|ist|C1
+backlash|reacción adversa||S|ast|C1
+diaspora|diáspora||S|ast|C1
+remittance|remesa de dinero||S|fin|C1
+brain drain|fuga de cerebros||L|ast|C1
+iconography|iconografía||S|art|C1
+semiotics|semiótica||S|ast|C1
+heraldry|heráldica||S|art|C1
+marquetry|marquetería||S|art|C1
+gilding|doradura||S|art|C1
+filigree|filigrana||S|art|C1
+inlay|taracea||S|art|C1
+vignette|viñeta||S|art|C1
+surrealism|surrealismo||S|art|C1
+photomontage|fotomontaje||S|art|C1
+buttress|contrafuerte||S|cit|C1
+lintel|dintel||S|cit|C1
+cornice|cornisa||S|cit|C1
+pilaster|pilastra||S|cit|C1
+pirouette|pirueta||S|spt|C1
+arabesque|arabesca||S|spt|C1
+choreography|coreografía||S|spt|C1
+silicon wafer|oblea de silicio||L|tec|C1
+pipeline|cadena de procesamiento||S|tec|C1
+firmware|firmware (software interno)||S|tec|C1
+lithography|litografía||S|sci|C1
+data mining|minería de datos||L|tec|C1
+schema|esquema de base de datos||S|tec|C1
+data lake|lago de datos||L|tec|C1
+scalability|escalabilidad||S|tec|C1
+biometrics|biometría||S|tec|C1
+facial recognition|reconocimiento facial||L|tec|C1
+false positive|falso positivo||L|sci|C1
+feature extraction|extracción de características||L|tec|C1
+telemetry|telemetría||S|tec|C1
+interoperability|interoperabilidad||S|tec|C1
+smart grid|red eléctrica inteligente||L|tec|C1
+edge computing|computación en el borde||L|tec|C1
+haptics|háptica||S|tec|C1
+augmented reality|realidad aumentada||L|tec|C1
+gameplay|jugabilidad||S|sve|C1
+loot box|caja de botín||L|sve|C1
+pyroclastic|piroclástico||A|sci|C1
+caldera|caldera volcánica||S|sci|C1
+fumarole|fumarola||S|sci|C1
+stratovolcano|estratovolcán||S|sci|C1
+hydrology|hidrología||S|sci|C1
+riparian|ripario||A|nat|C1
+tillage|labranza||S|nat|C1
+crop rotation|rotación de cultivos||L|nat|C1
+agronomy|agronomía||S|sci|C1
+loam|tierra franca||S|nat|C1
+aquaculture|acuicultura||S|nat|C1
+overfishing|sobrepesca||S|nat|C1
+husbandry|cría y cuidado de animales||S|nat|C1
+bycatch|captura incidental||S|nat|C1
+silviculture|silvicultura||S|nat|C1
+clearcutting|tala a matarrasa||S|nat|C1
+prescribed burn|quema controlada||L|nat|C1
+underbrush|matorral bajo||S|nat|C1
+incineration|incineración||S|nat|C1
+downcycling|infra-reciclaje||S|nat|C1
+e-waste|residuos electrónicos||S|nat|C1
+composting|compostaje||S|nat|C1
+xeriscaping|xerojardinería||S|nat|C1
+rappel|descenso en rápel||S|spt|C1
+carabiner|mosquetón de escalada||S|spt|C1
+spelunking|espeleología deportiva||S|spt|C1
+scree|pedregal de ladera||S|nat|C1
+bivouac|vivac||S|spt|C1
+storm surge|marea de tormenta||L|cli|C1
+wind shear|cizalladura del viento||L|cli|C1
+nowcasting|predicción meteorológica inmediata||S|cli|C1
+jet stream|corriente en chorro||L|cli|C1
+stratospheric|estratosférico||A|cli|C1
+convection|convección||S|cli|C1
+that said|dicho esto||E|cnn|C1
+far from it|todo lo contrario||E|cnn|C1
+to say nothing of|por no hablar de||E|cnn|C1
+if anything|antes bien||E|cnn|C1
+notwithstanding|no obstante||C|cnn|C1
+henceforth|de ahora en adelante||D|cnn|C1
+albeit|aunque (concesivo)||C|cnn|C1
+insofar as|en la medida en que||C|cnn|C1
+perchance|acaso (arcaísmo)||D|let|C1
+hitherto|hasta ahora||D|cnn|C1
+betwixt|entre (arcaísmo)||R|let|C1
+forsooth|en verdad (arcaísmo)||D|let|C1
+welkin|bóveda celeste (poético)||S|let|C1
+eventide|atardecer (poético)||S|let|C1
+gossamer|etéreo como telaraña||A|let|C1
+sylvan|del bosque (poético)||A|let|C1
+insinuate|insinuar||V|cmu|C1
+divulge|revelar||V|cmu|C1
+allude to|aludir a||E|cmu|C1
+demur|poner reparos||V|cmu|C1
+status quo|statu quo||L|ast|C1
+modus operandi|modus operandi||L|ast|C1
+sine qua non|condición indispensable||L|ast|C1
+circa|hacia (fecha aproximada)||R|tmp|C1
+attachment|apego||S|emo|C1
+metacognition|metacognición||S|stu|C1
+resilience|resiliencia||S|emo|C1
+avarice|avaricia||S|ast|C1
+sloth|pereza (pecado capital)||S|ast|C1
+temperance|templanza||S|ast|C1
+duplicity|duplicidad||S|ast|C1
+fastidious|quisquilloso||A|ast|C1
+indolent|indolente||A|ast|C1
+pusillanimous|pusilánime||A|ast|C1
+magnanimous|magnánimo||A|ast|C1
+aver|aseverar||V|cmu|C1
+rebut|refutar||V|cmu|C1
+expound|exponer con detalle||V|cmu|C1
+extol|enaltecer||V|cmu|C1
+paradigm|paradigma||S|ast|C1
+tenet|principio doctrinal||S|ast|C1
+corollary|corolario||S|ast|C1
+caveat|salvedad||S|ast|C1
+fabrication|invención deliberada de hechos||S|ast|C1
+fallacy|falacia||S|ast|C1
+veracity|veracidad||S|ast|C1
+half-truth|media verdad||S|ast|C1
+poise|aplomo||S|ast|C1
+decorum|decoro||S|ast|C1
+probity|probididad||S|ast|C1
+finesse|destreza delicada||S|ast|C1
+exponentially|exponencialmente||D|ast|C1
+inordinate|desmesurado||A|ast|C1
+negligible|despreciable||A|ast|C1
+order of magnitude|orden de magnitud||L|sci|C1
+friendly fire|fuego amigo||L|ist|C1
+downsizing|recorte de plantilla||S|lav|C1
+preemptive|preventivo (ataque)||A|ist|C1
+bootstrapping|crecimiento sin capital externo||S|lav|C1
+seed funding|ronda semilla||L|fin|C1
+burn rate|tasa de consumo de caja||L|fin|C1
+angel investor|inversor providencial||S|fin|C1
+supply chain|cadena de suministro||L|fin|C1
+warehousing|almacenaje||S|fin|C1
+just-in-time|justo a tiempo||A|fin|C1
+last mile|última milla de entrega||L|fin|C1
+lead time|plazo de entrega||L|fin|C1
+brand loyalty|fidelidad a la marca||L|fin|C1
+churn|rotación de clientes||S|fin|C1
+segmentation|segmentación de mercado||S|fin|C1
+product placement|emplazamiento de producto||L|fin|C1
+standardization|normalización||S|lav|C1
+audit|auditoría||S|fin|C1
+traceability|trazabilidad||S|lav|C1
+appraiser|tasador||S|pro|C1
+bidding war|puja encarnizada||L|fin|C1
+gavel|martillo de subastas||S|fin|C1
+lactate threshold|umbral de lactato||L|spt|C1
+hypertrophy|hipertrofia muscular||S|spt|C1
+proprioception|propiocepción||S|spt|C1
+tapering|descarga precompetitiva||S|spt|C1
+dressage|doma clásica||S|spt|C1
+farrier|herrador||S|pro|C1
+thoroughbred|caballo pura sangre||S|ani|C1
+withers|cruz del caballo||S|ani|C1
+placemaking|creación de lugares||S|cit|C1
+greenway|corredor verde urbano||S|cit|C1
+hardscape|paisaje construido||S|cit|C1
+p-value|valor p||S|sci|C1
+sampling|muestreo estadístico||S|sci|C1
+margin of error|margen de error||L|ast|C1
+pollster|encuestador||S|pro|C1
+push polling|encuesta dirigida a manipular||S|cmu|C1
+dystopia|distopía||S|let|C1
+speculative fiction|ficción especulativa||L|let|C1
+worldbuilding|construcción de mundos||S|let|C1
+post-apocalyptic|posapocalíptico||A|let|C1
+comparative literature|literatura comparada||L|let|C1
+periodization|periodización histórica||S|ast|C1
+source text|texto de origen||L|let|C1
+foreignization|extranjerización del original||S|let|C1
+back-translation|traducción inversa||S|let|C1
+untranslatability|intraducibilidad||S|let|C1
+polemic|polémica||S|ast|C1
+treatise|tratado doctrinal||S|let|C1
+digressive|digresivo||A|let|C1
+aphorism|aforismo||S|let|C1
+philology|filología||S|ast|C1
+paleography|paleografía||S|ast|C1
+vernacular|lengua vernácula||S|ast|C1
+etymology|etimología||S|ast|C1
+scansion|escansión métrica||S|let|C1
+caesura|cesura||S|let|C1
+enjambment|encabalgamiento||S|let|C1
+blank verse|verso blanco||L|let|C1
+farce|farsa||S|art|C1
+tableau|cuadro plástico escénico||S|art|C1
+proscenium|proscenio||S|art|C1
+zeugma|zeugma||S|let|C1
+synecdoche|sinécdoque||S|let|C1
+litotes|lítote||S|let|C1
+catachresis|catacresis||S|let|C1
+topography|topografía||S|sci|C1
+remote sensing|teledetección||L|sci|C1
+georeference|georreferenciar||V|sci|C1
+contour line|curva de nivel||L|sci|C1
+entropy|entropía||S|sci|C1
+viscosity|viscosidad||S|sci|C1
+adiabatic|adiabático||A|sci|C1
+laminar flow|flujo laminar||L|sci|C1
+diffraction|difracción||S|sci|C1
+standing wave|onda estacionaria||L|sci|C1
+holography|holografía||S|sci|C1
+coherence|coherencia de fase||S|sci|C1
+graphene|grafeno||S|sci|C1
+nanotube|nanotubo||S|sci|C1
+tensile strength|resistencia a la tracción||L|sci|C1
+metamaterial|metamaterial||S|sci|C1
+superconductivity|superconductividad||S|sci|C1
+lattice|retículo cristalino||S|sci|C1
+band gap|banda prohibida||L|sci|C1
+phonon|fonón||S|sci|C1
+titration|valoración química||S|sci|C1
+chromatography|cromatografía||S|sci|C1
+spectrometry|espectrometría||S|sci|C1
+assay|ensayo analítico||S|sci|C1
+isotope|isótopo||S|sci|C1
+substrate|sustrato de reacción||S|sci|C1
+fossil record|registro fósil||L|sci|C1
+cladistics|cladística||S|sci|C1
+punctuated equilibrium|equilibrio puntuado||L|sci|C1
+plasmid|plásmido||S|sci|C1
+somatic|somático||A|sci|C1
+epitope|epítopo||S|sci|C1
+cortical|cortical||A|sci|C1
+tractography|tractografía||S|sci|C1
+voxel|vóxel||S|sci|C1
+overfitting|sobreajuste||S|tec|C1
+neural network|red neuronal||L|tec|C1
+heuristic|heurístico||A|tec|C1
+clustering|agrupamiento en clústeres||S|tec|C1
+training set|conjunto de entrenamiento||L|tec|C1
+deep learning|aprendizaje profundo||L|tec|C1
+interpretability|interpretabilidad||S|tec|C1
+anomalous|anómalo||A|sci|C1
+splicing|empalme genético||S|sci|C1

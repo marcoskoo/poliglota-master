@@ -1,0 +1,219 @@
+illecito|ilícito (hecho antijurídico)||S|ist|C1
+prescrizione|prescripción (extinción del derecho por plazo)||S|ist|C1
+contratto di appalto|contrato de obra y servicios||E|ist|C1
+servitù|servidumbre (gravamen de paso)||S|ist|C1
+imputato|imputado||S|ist|C1
+parte lesa|parte perjudicada||E|ist|C1
+ergastolo|cadena perpetua||S|ist|C1
+patrocinio|patrocinio (defensa letrada)||S|ist|C1
+emendamento|enmienda (a un texto normativo)||S|ist|C1
+questione di fiducia|cuestión de confianza||E|ist|C1
+giurisdizionale|jurisdiccional||A|ist|C1
+cartella clinica|historia clínica||E|sla|C1
+reparto di rianimazione|unidad de cuidados intensivos||E|sla|C1
+sala operatoria|quirófano||E|sla|C1
+referto|informe (parte médico)||S|sla|C1
+posologia|posología||S|sla|C1
+farmacovigilanza|farmacovigilancia||S|sla|C1
+sperimentazione clinica|ensayo clínico||E|sla|C1
+controindicazione|contraindicación||S|sla|C1
+paranoia|paranoia||S|sla|C1
+dissociazione|disociación||S|sla|C1
+eutanasia|eutanasia||S|sla|C1
+consenso informato|consentimiento informado||E|sla|C1
+trapianto d'organi|trasplante de órganos||E|sla|C1
+reflazione|reflación||S|fin|C1
+congiunturale|coyuntural||A|fin|C1
+signoraggio|señoreaje (privilegio emisor)||S|fin|C1
+dazio doganale|arancel aduanero||E|fin|C1
+dumping|dumping (venta bajo coste)||S|fin|C1
+bilancia commerciale|balanza comercial||E|fin|C1
+credito documentario|crédito documentario||E|fin|C1
+quadratura dei conti|cuadre de cuentas||E|fin|C1
+rettifica|rectificación (ajuste contable)||S|fin|C1
+bilancio d'esercizio|estados financieros anuales||E|fin|C1
+volatilità|volatilidad||S|fin|C1
+copertura|cobertura (protección de riesgo)||S|fin|C1
+moratorio|moratorio (de intereses por retraso)||A|fin|C1
+derivato|derivado (producto financiero)||S|fin|C1
+genotipo|genotipo||S|sci|C1
+meiosi|meiosis||S|sci|C1
+patogeno|patógeno||S|sci|C1
+sieroconversione|seroconversión||S|sci|C1
+anticorpo monoclonale|anticuerpo monoclonal||E|sci|C1
+sinapsi|sinapsis||S|sci|C1
+neurotrasmettitore|neurotransmisor||S|sci|C1
+plasticità cerebrale|plasticidad cerebral||E|sci|C1
+isomero|isómero||S|sci|C1
+legame covalente|enlace covalente||E|sci|C1
+stereochimica|estereoquímica||S|sci|C1
+quantistico|cuántico||A|sci|C1
+nucleosintesi|nucleosíntesis||S|sci|C1
+principio di indeterminazione|principio de indeterminación||E|sci|C1
+quark|quark (partícula elemental)||S|sci|C1
+parallasse|paralaje||S|sci|C1
+nana bianca|enana blanca||E|sci|C1
+buco nero supermassiccio|agujero negro supermasivo||E|sci|C1
+clonazione|clonación||S|sci|C1
+enzima di restrizione|enzima de restricción||E|sci|C1
+deviazione standard|desviación típica||E|sci|C1
+correlazione spuria|correlación espuria||E|sci|C1
+campionamento|muestreo||S|sci|C1
+regressione|regresión (análisis estadístico)||S|sci|C1
+contagiosità|contagiosidad||S|sla|C1
+tasso di mortalità|tasa de mortalidad||E|sla|C1
+faglia|falla (fractura geológica)||S|sci|C1
+carsismo|modelado kárstico (relieve de carso)||S|sci|C1
+giacimento|yacimiento (depósito mineral)||S|sci|C1
+assiomatico|axiomático||A|sci|C1
+teorema di incompletezza|teorema de incompletitud||E|sci|C1
+canonizzazione|canonización||S|let|C1
+intertestualità|intertextualidad||S|let|C1
+canzoniere|cancionero (colección de poemas)||S|let|C1
+endecasillabo|endecasílabo||S|let|C1
+chiasmo|quiasmo||S|let|C1
+anafora|anáfora (repetición retórica)||S|let|C1
+focalizzazione|focalización (punto de vista narrativo)||S|let|C1
+diegetico|diegético||A|let|C1
+prolessi|prolepsis (anticipación narrativa)||S|let|C1
+adamantino|adamantino (cristalino y durísimo)||A|let|C1
+crinito|crinito (de melena abundante)||A|let|C1
+apodittico|apodíctico||A|ast|C1
+deontologico|deontológico||A|ast|C1
+verificabilità|verificabilidad||S|ast|C1
+immanenza|inmanencia||S|ast|C1
+noema|noema||S|ast|C1
+ontologico|ontológico||A|ast|C1
+storiografia|historiografía||S|stu|C1
+fonte primaria|fuente primaria||E|stu|C1
+diacronico|diacrónico||A|stu|C1
+etimo|etimo (origen de la palabra)||S|stu|C1
+isoglossa|isoglosa||S|stu|C1
+pulsione di morte|pulsión de muerte||E|ast|C1
+repressione|represión (psicoanalítica)||S|ast|C1
+transfert|transfert (transferencia analítica)||S|ast|C1
+pulsione|pulsión (impulso instintivo)||S|ast|C1
+egemonia|hegemonía||S|att|C1
+contenzioso|contencioso (litigio entre Estados)||S|att|C1
+escalation|escalada (progresión del conflicto)||S|att|C1
+pluripartitismo|pluripartidismo||S|ist|C1
+conflittualità|conflictividad||S|ist|C1
+secolarizzazione|secularización||S|att|C1
+stratificazione|estratificación (en capas sociales)||S|att|C1
+ghettizzazione|guetización (confinamiento en guetos)||S|att|C1
+etnografia|etnografía||S|att|C1
+etnocentrismo|etnocentrismo||S|att|C1
+totemismo|totemismo||S|att|C1
+reticenza|reticencia (omisión deliberada)||S|cmu|C1
+fonte anonima|fuente anónima||E|cmu|C1
+occhiello|entradilla (antetítulo periodístico)||S|cmu|C1
+polifonia|polifonía||S|mus|C1
+cromatismo|cromatismo||S|mus|C1
+temperamento equabile|temperamento igual (sistema de afinación)||E|mus|C1
+allestimento|montaje (de una exposición)||S|art|C1
+catalogazione|catalogación||S|art|C1
+schedatura|fichado (registro catalográfico)||S|art|C1
+mimesi|mímesis||S|art|C1
+iconoclastia|iconoclastia||S|art|C1
+kitsch|kitsch (arte de mal gusto deliberado)||S|art|C1
+addestramento|entrenamiento (de un modelo)||S|tec|C1
+inferenza|inferencia (predicción del modelo)||S|tec|C1
+crittografia|criptografía||S|tec|C1
+cifratura|cifrado||S|tec|C1
+crittoanalisi|criptoanálisis||S|tec|C1
+latenza|latencia||S|tec|C1
+commutazione di pacchetto|conmutación de paquetes||E|tec|C1
+arricchimento|enriquecimiento (de uranio)||S|sci|C1
+smaltimento|eliminación (de residuos)||S|sci|C1
+assetto|actitud (posición de vuelo)||S|tec|C1
+orbita geostazionaria|órbita geoestacionaria||E|tec|C1
+allunaggio|alunizaje||S|tec|C1
+attuatore|actuador||S|tec|C1
+sensoristica|sensorística (conjunto de sensores)||S|tec|C1
+albedo|albedo (poder reflectante)||S|sci|C1
+inversione termica|inversión térmica||E|sci|C1
+batimetrico|batimétrico||A|sci|C1
+deriva|deriva (desplazamiento por corriente)||S|sci|C1
+precauzionale|precautorio (del principio de precaución)||A|ist|C1
+desertificazione|desertificación||S|nat|C1
+inquinamento elettromagnetico|contaminación electromagnética||E|nat|C1
+necrosi|necrosis||S|sla|C1
+istologia|histología||S|sla|C1
+metastasi|metástasis||S|sla|C1
+istopatologia|histopatología||S|sla|C1
+aporia|aporía (dificultad sin salida)||S|ast|C1
+paradossale|paradójico||A|ast|C1
+lapsus|lapsus (error involuntario)||S|cmu|C1
+status quo|statu quo||L|ast|C1
+vulnus|menoscabo (herida que debilita)||S|ast|C1
+per aspera ad astra|por el sendero áspero a las estrellas||L|ast|C1
+mutatis mutandis|cambiando lo que haya que cambiar||L|ast|C1
+sursum corda|ánimos arriba (aliento)||L|ast|C1
+caustico|cáustico (mordaz y demoledor)||A|cmu|C1
+insinuazione|insinuación||S|cmu|C1
+canzonatura|burla (tomadura de pelo)||S|cmu|C1
+menefreghismo|pasotismo (desgana ante todo)||S|cmu|C1
+pappamolle|blandengue (flojo de carácter)||S|cmu|C1
+tamarro|hortera (cateto chulesco)||S|cmu|C1
+pischello|chaval (joven en argot romano)||S|cmu|C1
+buriana|algarabía (revuelo de cosas viejas)||S|cmu|C1
+sussiego|mesura (compostura grave)||S|emo|C1
+stizza|irritación (rabieta súbita)||S|emo|C1
+trepidazione|trepidación||S|emo|C1
+filiera|cadena productiva (del sector)||S|fin|C1
+crescita organica|crecimiento orgánico||E|fin|C1
+aziendalismo|corporativismo empresarial||S|fin|C1
+manageriale|gerencial (de gestión directiva)||A|fin|C1
+inquadramento|encuadramiento (categoría laboral)||S|lav|C1
+turnismo|sistema de turnos||S|lav|C1
+metacognizione|metacognición||S|stu|C1
+dispersione scolastica|abandono escolar||E|stu|C1
+collaudo|prueba de homologación||S|tec|C1
+refertare|extender el informe médico||V|sla|C1
+accondiscendenza|condescendencia||S|rel|C1
+malcelato|mal disimulado||A|rel|C1
+virtuosismo|virtuosismo||S|mus|C1
+quarta parete|cuarta pared||E|cin|C1
+recitativo|recitativo (pasaje declamado)||S|mus|C1
+librettista|libretista (autor del libreto)||S|mus|C1
+crepaccio|grieta (del glaciar)||S|nat|C1
+bivacco|vivac (refugio de altura)||S|vig|C1
+scialuppa|lancha (bote de salvamento)||S|vig|C1
+fuoricampo|fuera de campo||S|cin|C1
+ellissi|elipsis||S|cin|C1
+carrellata|travelling (plano en movimiento)||S|cin|C1
+denatalità|caída de la natalidad||S|att|C1
+longevità|longevidad||S|att|C1
+sposalizio|boda solemne||S|att|C1
+tiburio|cimborrio||S|art|C1
+spiovente|vertiente (falda de la cubierta)||S|art|C1
+marcapiano|línea de imposta entre pisos||S|art|C1
+matroneo|tribuna (galería interior elevada)||S|art|C1
+affinamento|crianza (maduración en botella)||S|ali|C1
+spumantizzazione|espumantización||S|ali|C1
+millesimato|millesimado (de añada declarada)||A|ali|C1
+speciazione|especiación||S|sci|C1
+stanziale|sedentario (de fauna residente)||A|ani|C1
+sclerofilla|esclerófila (de hoja dura)||S|nat|C1
+rizoma|rizoma||S|nat|C1
+lunga durata|larga duración (de estructuras)||E|tmp|C1
+evanescenza|evanescencia||S|ast|C1
+rimembranza|recuerdo nostálgico||S|let|C1
+criptovaluta|criptomoneda||S|fin|C1
+fintech|fintech (tecnología financiera)||S|fin|C1
+usufrutto|usufructo||S|ist|C1
+vincolo|gravamen (carga registral)||S|ist|C1
+diffida|requerimiento (amonestación formal)||S|ist|C1
+silenzio assenso|silencio administrativo positivo||E|ist|C1
+recidiva|reincidencia||S|ist|C1
+penitenziario|penitenciario||A|ist|C1
+carcerazione|encarcelamiento||S|ist|C1
+extraterritorialità|extraterritorialidad||S|ist|C1
+diritto di veto|derecho de veto||E|ist|C1
+estradizione|extradición||S|ist|C1
+scissione|escisión (división de sociedad)||S|fin|C1
+aumento di capitale|ampliación de capital||E|fin|C1
+azionista di riferimento|accionista de referencia||E|fin|C1
+bilancio consolidato|cuentas consolidadas||E|fin|C1
+contrattazione collettiva|negociación colectiva||E|lav|C1
+precariato|precariedad (laboral)||S|lav|C1

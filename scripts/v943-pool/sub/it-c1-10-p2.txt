@@ -1,0 +1,219 @@
+contratto di solidarietà|contrato de solidaridad||E|lav|C1
+emostasi|hemostasia||S|sla|C1
+divaricatore|separador (de bordes quirúrgicos)||S|sla|C1
+broncodilatatore|broncodilatador||S|sla|C1
+sistolico|sistólico||A|sla|C1
+ipofisario|hipofisario||A|sla|C1
+acromegalia|acromegalia||S|sla|C1
+psoriasi|psoriasis||S|sla|C1
+dermatite atopica|dermatitis atópica||E|sla|C1
+palliativo|paliativo||A|sla|C1
+remissione|remisión (mejoría oncológica)||S|sla|C1
+elettromiografia|electromiografía||S|sla|C1
+emiparesi|hemiparesia||S|sla|C1
+emianopsia|hemianopsia||S|sla|C1
+neonatologo|neonatólogo||S|sla|C1
+distocia|distocia (parto difícil)||S|sla|C1
+artroscopia|artroscopia||S|sla|C1
+osteosintesi|osteosíntesis||S|sla|C1
+chinesiterapia|cinesiterapia||S|sla|C1
+copertura vaccinale|cobertura vacunal||E|sla|C1
+obbligo vaccinale|obligatoriedad de la vacunación||E|sla|C1
+evasione fiscale|evasión fiscal||E|fin|C1
+imponibile|imponible (sujeto a gravamen)||A|fin|C1
+accertamento|comprobación (inspección tributaria)||S|fin|C1
+elusione|elusión (fraude de ley)||S|fin|C1
+sofferenza|activo dudoso (préstamo incobrable)||S|fin|C1
+insolvenza|insolvencia||S|fin|C1
+fiduciario|fiduciario (administrador encomendado)||A|fin|C1
+interbancario|interbancario (entre bancos)||A|fin|C1
+due diligence|debida diligencia (auditoría previa)||L|fin|C1
+delisting|salida de bolsa||S|fin|C1
+fusione ostile|opa hostil (toma de control no pactada)||E|fin|C1
+oligopolio|oligopolio||S|fin|C1
+monopsonio|monopsonio||S|fin|C1
+massimale|suma máxima asegurada (límite de póliza)||S|fin|C1
+riassicurazione|reaseguro||S|fin|C1
+franchigia|franquicia (deducción en póliza)||S|fin|C1
+sussidiarietà|subsidiariedad||S|ast|C1
+condizionalità|condicionalidad (de la ayuda)||S|fin|C1
+titolazione|valoración (titulación química)||S|sci|C1
+cromatografia|cromatografía||S|sci|C1
+analita|analito||S|sci|C1
+reticolo|red (celosía cristalina)||S|sci|C1
+superconduttività|superconductividad||S|sci|C1
+acidificazione|acidificación (de los océanos)||S|sci|C1
+gas serra|gases de efecto invernadero||E|sci|C1
+filogenesi|filogénesis||S|sci|C1
+quaternario|cuaternario (época geológica)||A|sci|C1
+antigenico|antigénico||A|sla|C1
+zoonosi|zoonosis||S|sla|C1
+viremia|viremia||S|sla|C1
+capside|cápside (envoltura viral)||S|sci|C1
+editing genomico|edición genómica||E|sci|C1
+nucleasi|nucleasa||S|sci|C1
+vettore virale|vector viral||E|sci|C1
+tomografia|tomografía||S|sla|C1
+subcorticale|subcortical||A|sla|C1
+nanotubo|nanotubo (de carbono)||S|sci|C1
+grafene|grafeno||S|sci|C1
+fullerene|fullereno||S|sci|C1
+birifrangenza|birrefringencia||S|sci|C1
+luminanza|luminancia||S|sci|C1
+entalpia|entalpía||S|sci|C1
+convettivo|convectivo||A|sci|C1
+ortofoto|ortofoto||S|sci|C1
+georeferenziare|georreferenciar||V|tec|C1
+pentametro|pentámetro||S|let|C1
+cesura|cesura (corte del verso)||S|let|C1
+melodramma|melodrama (ópera seria)||S|mus|C1
+didascalico|didascálico||A|cin|C1
+messa in scena|puesta en escena||E|cin|C1
+catacresi|catacresis||S|let|C1
+ipotiposi|hipotiposis||S|let|C1
+metonimia|metonimia||S|let|C1
+sinestesia|sinestesia||S|let|C1
+ecdotica|ecdotica (arte de editar textos)||S|let|C1
+incunabolo|incunable||S|let|C1
+papirologia|papirología||S|let|C1
+traducibilità|traducibilidad||S|let|C1
+calco|calco (préstamo traducido)||S|let|C1
+sottotitolatura|subtitulado||S|let|C1
+saggistica|literatura de ensayo||S|let|C1
+sprezzatura|sprezzatura (desdén elegante)||S|ast|C1
+utopico|utópico||A|let|C1
+distopico|distópico||A|let|C1
+apocalittico|apocalíptico||A|let|C1
+ricezione|recepción (historia de la influencia)||S|let|C1
+canonico|canónico||A|let|C1
+demoscopico|demoscópico||A|att|C1
+astensionismo|abstencionismo||S|att|C1
+cessate il fuoco|alto el fuego||E|att|C1
+bellicismo|belicismo||S|att|C1
+casus belli|casus belli (motivo de guerra)||L|att|C1
+deterrente nucleare|disuasión nuclear||E|att|C1
+sovranazionale|supranacional||A|att|C1
+allargamento|ampliación (ingreso de nuevos países)||S|att|C1
+universalismo|universalismo (de prestaciones)||S|att|C1
+sussidio|subsidio (prestación asistencial)||S|fin|C1
+autogestione|autogestión||S|att|C1
+presidiare|presidir (ocupar un espacio)||V|att|C1
+clientelare|clientelar||A|att|C1
+spillatura|interceptación (pinchazo ilegal)||S|att|C1
+opacità|opacidad (falta de transparencia)||S|fin|C1
+inurbamento|inmigración del campo a la ciudad||S|att|C1
+extracomunitario|extracomunitario (no comunitario)||A|att|C1
+iconografico|iconográfico||A|art|C1
+putto|putto (querubín renacentista)||S|art|C1
+oreficeria|orfebrería||S|art|C1
+damascatura|damasquinado||S|art|C1
+fotogrammetria|fotogrametría||S|tec|C1
+reportage|reportaje (relato de viaje)||S|cin|C1
+serliana|serliana (ventana de arco doblado)||S|art|C1
+bugnato|almohadillado||S|art|C1
+capriata|cercha (armadura de cubierta)||S|art|C1
+tutù|tutú (vestido del ballet)||S|art|C1
+soubrette|soubrette (figura cómica del ballet)||S|art|C1
+fotolitografia|fotolitografía||S|tec|C1
+scalabile|escalable||A|tec|C1
+segmentazione|segmentación (de clientela)||S|tec|C1
+blockchain|blockchain (cadena de bloques)||S|tec|C1
+contratto intelligente|contrato inteligente||E|tec|C1
+iride|iris (biometría del ojo)||S|sci|C1
+identikit|identikit (retrato robot)||S|tec|C1
+domotica|domótica||S|tec|C1
+ludico|lúdico||A|sve|C1
+immersivo|inmersivo||A|tec|C1
+piroclastico|piroclástico||A|sci|C1
+sismicità|sismicidad||S|sci|C1
+subsidenza|subsidencia (hundimiento del terreno)||S|sci|C1
+colata|colada (flujo de lava)||S|sci|C1
+eutrofizzazione|eutrofización||S|sci|C1
+litoraneo|litoral (de la costa)||A|nat|C1
+frangivento|cortavientos||S|nat|C1
+avvicendamento|rotación (de cultivos)||S|nat|C1
+mungitura|ordeño||S|nat|C1
+alpeggio|pasto de altura (estancia estival del ganado)||S|nat|C1
+insilamento|ensilado (conservación de forraje)||S|nat|C1
+ceduo|monte bajo (bosque de rebrote)||S|nat|C1
+boscaglia|matorral (bosque bajo denso)||S|nat|C1
+termovalorizzatore|incineradora con recuperación energética||S|nat|C1
+bonifica|descontaminación (regeneración de suelos)||S|sci|C1
+accondiscendente|condescendiente||A|rel|C1
+querulo|quejumbroso||A|emo|C1
+spregiudicato|desprejuiciado (libre de prejuicios)||A|ast|C1
+asserire|afirmar (sentar con autoridad)||V|cmu|C1
+confutare|refutar||V|cmu|C1
+premettere|anteponer (advertir previamente)||V|cmu|C1
+attuabilità|viabilidad de ejecución||S|ast|C1
+operatività|operatividad (carácter operativo)||S|ast|C1
+verosimigliante|verosímil||A|ast|C1
+mendace|mendaz||A|ast|C1
+apocrifo|apócrifo (de autenticidad dudosa)||A|let|C1
+veridico|verídico||A|ast|C1
+sobbrio|sobrio (de gesto comedido)||A|ast|C1
+integerrimo|integérrimo (honradísimo)||A|ast|C1
+difformità|disconformidad||S|ast|C1
+ordine di grandezza|orden de magnitud||E|ast|C1
+ipovedente|persona de baja visión||S|cmu|C1
+avanzata età|edad avanzada (eufemismo por vejez)||E|cmu|C1
+albore|albor (amanecer poético)||S|let|C1
+vespro|véspero (atardecer litúrgico)||S|tmp|C1
+solingo|solitario (de soledad apartada)||A|let|C1
+argenteo|argénteo (de brillo de plata)||A|let|C1
+avito|heredado (del linaje antiguo)||A|let|C1
+guatare|mirar (observar fijamente)||V|let|C1
+allorquando|cuando acaso (arcaizante)||C|cnn|C1
+d'altro canto|por otra parte||L|cnn|C1
+peraltro|por lo demás||D|cnn|C1
+per converso|a la inversa (por el contrario)||L|cnn|C1
+alludere|aludir||V|cmu|C1
+interloquire|intervenir en el diálogo||V|cmu|C1
+spigolare|espigar (recoger al vuelo datos)||V|cmu|C1
+in itinere|en curso (sobre la marcha)||L|ast|C1
+ex novo|de nuevo (desde cero)||L|ast|C1
+in nuce|en germen (en embrión)||L|ast|C1
+ipso facto|por el mismo hecho (sin más)||L|ast|C1
+attaccamento|apego (vínculo afectivo temprano)||S|emo|C1
+psicomotricità|psicomotricidad||S|stu|C1
+resilienza|resiliencia (capacidad de reponerse)||S|sla|C1
+compulsione|compulsión (acto obsesivo)||S|sla|C1
+accidia|acedia (pereza espiritual)||S|ast|C1
+probità|probidad (honoradez)||S|ast|C1
+spin-off|spin-off (empresa derivada)||S|fin|C1
+incubatore|incubadora (de empresas semilla)||S|fin|C1
+stoccaggio|almacenamiento (en depósito)||S|tec|C1
+gestionale|programa de gestión (software empresarial)||S|tec|C1
+fidelizzazione|fidelización||S|fin|C1
+neuromarketing|neuromarketing (estudio cerebral del consumo)||S|fin|C1
+omologazione|homologación||S|tec|C1
+certificazione di conformità|certificado de conformidad||E|tec|C1
+sanzionario|sancionador (régimen de multas)||A|ist|C1
+esecutorietà|ejecutoriedad||S|ist|C1
+iatrogeno|iatrogénico||A|sla|C1
+comorbidità|comorbilidad||S|sla|C1
+prototipazione|prototipado||S|tec|C1
+stampaggio a iniezione|moldeo por inyección||E|tec|C1
+assegnista|investigador contratado (con beca de investigación)||S|stu|C1
+ipotesi nulla|hipótesis nula||E|stu|C1
+incanto|subasta (puja pública)||S|art|C1
+provenienza|procedencia (historia de la propiedad)||S|art|C1
+sottovuoto|envasado al vacío||S|ali|C1
+emulsionare|emulsionar||V|ali|C1
+umami|umami (quinto sabor)||S|ali|C1
+mantecatura|ligado final (batido del risotto)||S|ali|C1
+ossequioso|obsequioso||A|rel|C1
+acredine|acritud (resentimiento tenaz)||S|rel|C1
+convenevoli|cortesías (fórmulas de saludo)||S|cmu|C1
+riverenza|reverencia (cumplimiento reverente)||S|rel|C1
+affaticamento|fatiga (agotamiento físico)||S|spt|C1
+acidosi lattica|acidosis láctica||E|spt|C1
+mansuefare|amansar||V|ani|C1
+cucciolata|camada (de cachorros)||S|ani|C1
+bora|bora (viento del nordeste)||S|nat|C1
+nowcasting|nowcasting (predicción a muy corto plazo)||S|nat|C1
+a maggior ragione|con mayor razón||L|cnn|C1
+quant'altro|y demás (y cuánto más)||L|cnn|C1
+nonché|y además (así como)||C|cnn|C1
+arredo urbano|mobiliario urbano||E|cit|C1
+gentrificazione|gentrificación||S|cit|C1

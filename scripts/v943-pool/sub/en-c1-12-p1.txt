@@ -1,0 +1,308 @@
+tort|responsabilidad civil||S|ist|C1
+litigation|litigio||S|ist|C1
+precedent|jurisprudencia||S|ist|C1
+plea bargain|acuerdo de culpabilidad||L|ist|C1
+breach|incumplimiento contractual||S|ist|C1
+statute of limitations|plazo de prescripción||L|ist|C1
+indemnify|indemnizar||V|ist|C1
+arraignment|lectura de cargos||S|ist|C1
+hearsay|testimonio de oídas||S|ist|C1
+subpoena|citación judicial||S|ist|C1
+perjury|perjurio||S|ist|C1
+indictment|escrito de acusación||S|ist|C1
+acquittal|absolución||S|ist|C1
+voir dire|interrogatorio de selección del jurado||S|ist|C1
+misdemeanor|delito menor||S|ist|C1
+damages|indemnización por daños y perjuicios||S|ist|C1
+judicial review|control judicial de constitucionalidad||L|ist|C1
+amendment|enmienda constitucional||S|ist|C1
+sovereignty|soberanía||S|ist|C1
+habeas corpus|habeas corpus||L|ist|C1
+grand jury|gran jurado||L|ist|C1
+recuse|recusar||V|ist|C1
+remand|prisión preventiva||S|ist|C1
+appeal|recurso de apelación||S|ist|C1
+injunction|medida cautelar||S|ist|C1
+redress|resarcimiento||S|ist|C1
+notarize|autorizar ante notario||V|ist|C1
+deed|escritura pública||S|ist|C1
+lien|gravamen||S|ist|C1
+escrow|depósito en garantía||S|fin|C1
+arbitration|arbitraje||S|lav|C1
+collective bargaining|negociación colectiva||L|lav|C1
+grievance|reclamación laboral||S|lav|C1
+lockout|cierre patronal||S|lav|C1
+severance|indemnización por despido||S|lav|C1
+recidivism|reincidencia||S|ist|C1
+parole|libertad condicional||S|ist|C1
+restorative justice|justicia restaurativa||L|ist|C1
+extradition|extradición||S|ist|C1
+ratification|ratificación||S|ist|C1
+extraterritorial|extraterritorial||A|ist|C1
+amicus brief|escrito de amicus curiae||L|ist|C1
+merger|fusión empresarial||S|fin|C1
+bylaws|estatutos sociales||S|ist|C1
+fiduciary|fiduciario||A|ist|C1
+proxy vote|voto por delegación||L|ist|C1
+waiver|renuncia de derechos||S|ist|C1
+hereinafter|en lo sucesivo||D|ist|C1
+thereof|de aquel documento||D|ist|C1
+ultra vires|fuera de sus atribuciones||L|ist|C1
+outpatient|paciente ambulatorio||S|sla|C1
+triage|triaje||S|sla|C1
+remission|remisión de la enfermedad||S|sla|C1
+differential diagnosis|diagnóstico diferencial||L|sla|C1
+contraindication|contraindicación||S|sla|C1
+dosage|pauta de dosificación||S|sla|C1
+clinical trial|ensayo clínico||L|sla|C1
+adverse reaction|reacción adversa||L|sla|C1
+pharmacokinetics|farmacocinética||S|sla|C1
+delusion|idea delirante||S|emo|C1
+onset|inicio de una enfermedad||S|sla|C1
+psychotropic|psicotrópico||A|sla|C1
+comorbidity|comorbilidad||S|sla|C1
+informed consent|consentimiento informado||L|sla|C1
+euthanasia|eutanasia||S|sla|C1
+palliative|paliativo||A|sla|C1
+lesion|lesión tisular||S|sla|C1
+biopsy|biopsia||S|sla|C1
+necrosis|necrosis||S|sla|C1
+metastasis|metástasis||S|sla|C1
+chemotherapy|quimioterapia||S|sla|C1
+malignancy|malignidad||S|sla|C1
+hospice|unidad de cuidados terminales||S|sla|C1
+arrhythmia|arritmia||S|sla|C1
+embolism|embolia||S|sla|C1
+intubation|intubación||S|sla|C1
+bronchoscopy|broncoscopia||S|sla|C1
+insulin resistance|resistencia a la insulina||L|sla|C1
+hyperthyroidism|hipertiroidismo||S|sla|C1
+metabolic syndrome|síndrome metabólico||L|sla|C1
+urticaria|urticaria||S|sla|C1
+desensitization|desensibilización||S|sla|C1
+melanoma|melanoma||S|sla|C1
+paresthesia|parestesia||S|sla|C1
+aphasia|afasia||S|sla|C1
+myelin|mielina||S|sla|C1
+neonatal|neonatal||A|sla|C1
+jaundice|ictericia||S|sla|C1
+midwife|matrona||S|pro|C1
+arthroscopy|artroscopia||S|sla|C1
+prosthesis|prótesis||S|sla|C1
+physiotherapy|fisioterapia||S|sla|C1
+scalpel|bisturí||S|sla|C1
+retractor|separador quirúrgico||S|sla|C1
+suture|sutura||S|sla|C1
+hemostat|pinza hemostática||S|sla|C1
+inoculation|inoculación||S|sla|C1
+booster shot|dosis de recuerdo||L|sla|C1
+contact tracing|rastreo de contactos||L|sla|C1
+outbreak|brote epidémico||S|sla|C1
+herd immunity|inmunidad de grupo||L|sla|C1
+incidence|incidencia||S|sla|C1
+prevalence|prevalencia||S|sla|C1
+antigen|antígeno||S|sci|C1
+zoonotic|zoonótico||A|sci|C1
+capsid|cápside viral||S|sci|C1
+psychotherapy|psicoterapia||S|sla|C1
+maladaptive|desadaptativo||A|emo|C1
+coping mechanism|mecanismo de afrontamiento||L|emo|C1
+anxiolytic|ansiolítico||A|sla|C1
+dissociation|disociación||S|emo|C1
+hypochondria|hipocondría||S|emo|C1
+nosocomial|nosocomial (contraído en el hospital)||A|sla|C1
+quantitative easing|flexibilización cuantitativa||L|fin|C1
+yield curve|curva de tipos de interés||L|fin|C1
+stagflation|estanflación||S|fin|C1
+monetize|monetizar||V|fin|C1
+tariff|arancel||S|fin|C1
+dumping|venta a pérdida en mercados externos||S|fin|C1
+trade deficit|déficit comercial||L|fin|C1
+ad valorem|ad valorem (según el valor)||A|fin|C1
+write-off|ajuste por deterioro||S|fin|C1
+accrual|devengo contable||S|fin|C1
+ledger|libro mayor de contabilidad||S|fin|C1
+hedge|cobertura de riesgo||S|fin|C1
+derivative|derivado financiero||S|fin|C1
+volatility|volatilidad||S|fin|C1
+short selling|venta en corto||L|fin|C1
+leverage|apalancamiento||S|fin|C1
+collateral|garantía real de un préstamo||S|fin|C1
+liquidity|liquidez||S|fin|C1
+stress test|prueba de resistencia||L|fin|C1
+goodwill|fondo de comercio||S|fin|C1
+due diligence|auditoría previa a la compraventa||L|fin|C1
+valuation|valoración de empresas||S|fin|C1
+spin-off|escisión de una empresa||S|fin|C1
+elasticity|elasticidad de la demanda||S|fin|C1
+externality|externalidad||S|fin|C1
+oligopoly|oligopolio||S|fin|C1
+sunk cost|coste hundido||L|fin|C1
+underwriting|suscripción de riesgos||S|fin|C1
+actuary|actuario||S|pro|C1
+policyholder|tomador de la póliza||S|fin|C1
+moral hazard|riesgo moral||L|fin|C1
+microfinance|microfinanzas||S|fin|C1
+austerity|austeridad fiscal||S|fin|C1
+indebtedness|endeudamiento||S|fin|C1
+tax evasion|evasión fiscal||L|fin|C1
+loophole|laguna legal||S|fin|C1
+withholding|retención fiscal||S|fin|C1
+capital gains|plusvalías||L|fin|C1
+embezzlement|malversación||S|ist|C1
+slush fund|caja B||L|fin|C1
+kickback|comisión ilegal||S|fin|C1
+cronyism|amiguismo||S|ist|C1
+allele|alelo||S|sci|C1
+sequencing|secuenciación genética||S|sci|C1
+epigenetics|epigenética||S|sci|C1
+antibody|anticuerpo||S|sci|C1
+pathogen|patógeno||S|sci|C1
+autoimmune|autoinmunitario||A|sci|C1
+incubation|incubación||S|sci|C1
+synapse|sinapsis||S|sci|C1
+neuroplasticity|neuroplasticidad||S|sci|C1
+cognitive bias|sesgo cognitivo||L|sci|C1
+isomer|isómero||S|sci|C1
+polymer|polímero||S|sci|C1
+catalyst|catalizador||S|sci|C1
+hydrocarbon|hidrocarburo||S|sci|C1
+entanglement|entrelazamiento cuántico||S|sci|C1
+wave function|función de onda||L|sci|C1
+quark|quark||S|sci|C1
+redshift|desplazamiento hacia el rojo||S|sci|C1
+singularity|singularidad cosmológica||S|sci|C1
+exoplanet|exoplaneta||S|sci|C1
+dark matter|materia oscura||L|sci|C1
+gene editing|edición genética||L|sci|C1
+germline|línea germinal||S|sci|C1
+standard deviation|desviación típica||L|sci|C1
+regression|regresión estadística||S|sci|C1
+confounding variable|variable de confusión||L|sci|C1
+stratigraphy|estratigrafía||S|sci|C1
+sedimentary|sedimentario||A|sci|C1
+fault line|línea de falla geológica||L|sci|C1
+basalt|basalto||S|sci|C1
+theorem|teorema||S|sci|C1
+asymptote|asíntota||S|sci|C1
+axiom|axioma||S|sci|C1
+calculus|cálculo infinitesimal||S|sci|C1
+canon|canon literario||S|let|C1
+hermeneutics|hermenéutica||S|let|C1
+unreliable narrator|narrador no fiable||L|let|C1
+intertextuality|intertextualidad||S|let|C1
+anaphora|anáfora retórica||S|let|C1
+metonymy|metonimia||S|let|C1
+chiasmus|quiasmo||S|let|C1
+plot twist|giro argumental||L|let|C1
+backstory|trasfondo biográfico del personaje||S|let|C1
+focalization|focalización narrativa||S|let|C1
+diegesis|diégesis||S|let|C1
+forlorn|desamparado||A|let|C1
+yonder|allí (arcaico y poético)||D|let|C1
+thence|de allí (arcaísmo)||D|let|C1
+oft|con frecuencia (poético)||D|let|C1
+a priori|a priori||L|ast|C1
+empiricism|empirismo||S|ast|C1
+solipsism|solipsismo||S|ast|C1
+ontology|ontología||S|ast|C1
+teleology|teleología||S|ast|C1
+noumenon|noúmeno||S|ast|C1
+historiography|historiografía||S|ast|C1
+revisionism|revisionismo||S|ast|C1
+primary source|fuente primaria||L|ast|C1
+morphology|morfología lingüística||S|ast|C1
+phoneme|fonema||S|ast|C1
+diachronic|diacrónico||A|ast|C1
+loanword|préstamo léxico||S|ast|C1
+the unconscious|el inconsciente||S|ast|C1
+catharsis|catarsis||S|ast|C1
+repression|represión||S|ast|C1
+hegemony|hegemonía||S|ast|C1
+deterrence|disuasión||S|ist|C1
+annexation|anexión||S|ist|C1
+soft power|poder blando||L|ist|C1
+governance|gobernanza||S|ist|C1
+accountability|rendición de cuentas||S|ist|C1
+welfare state|estado de bienestar||L|ist|C1
+gerrymandering|manipulación de distritos electorales||S|ist|C1
+anomie|anomia||S|ast|C1
+upward mobility|movilidad ascendente||L|ast|C1
+gentrification|gentrificación||S|cit|C1
+ethnography|etnografía||S|ast|C1
+kinship|parentesco||S|ast|C1
+cultural relativism|relativismo cultural||L|ast|C1
+whistleblower|denunciante interno||S|pro|C1
+off the record|extraoficialmente||E|cmu|C1
+scoop|primicia periodística||S|cmu|C1
+muckraking|periodismo de denuncia||S|cmu|C1
+counterpoint|contrapunto||S|mus|C1
+atonal|atonal||A|mus|C1
+leitmotif|leitmotiv||S|mus|C1
+chromatic scale|escala cromática||L|mus|C1
+curator|curador de exposición||S|pro|C1
+patina|pátina||S|art|C1
+provenance|procedencia de la obra||S|art|C1
+chiaroscuro|claroscuro||S|art|C1
+avant-garde|vanguardista||A|art|C1
+kitsch|cursilería estética||S|art|C1
+encryption|cifrado||S|tec|C1
+ciphertext|texto cifrado||S|tec|C1
+backdoor|puerta trasera||S|tec|C1
+bandwidth|ancho de banda||S|tec|C1
+latency|latencia||S|tec|C1
+packet switching|conmutación de paquetes||L|tec|C1
+fission|fisión nuclear||S|sci|C1
+meltdown|fusión del núcleo del reactor||S|sci|C1
+half-life|periodo de semidesintegración||S|sci|C1
+enrichment|enriquecimiento de uranio||S|sci|C1
+thrust|empuje de propulsión||S|sci|C1
+apogee|apogeo orbital||S|sci|C1
+docking|acoplamiento orbital||S|sci|C1
+payload|carga útil||S|sci|C1
+actuator|actuador||S|tec|C1
+servomechanism|servomecanismo||S|tec|C1
+feedback loop|bucle de retroalimentación||L|tec|C1
+albedo|albedo||S|sci|C1
+tipping point|punto de no retorno||L|sci|C1
+anthropogenic|antropogénico||A|sci|C1
+thermohaline|termohalino||A|sci|C1
+upwelling|afloramiento de aguas profundas||S|sci|C1
+benthic|bentónico||A|sci|C1
+salinity|salinidad||S|sci|C1
+stewardship|custodia ambiental||S|nat|C1
+remediation|remediación de suelos contaminados||S|nat|C1
+emissions trading|comercio de derechos de emisión||L|nat|C1
+paradox|paradoja||S|ast|C1
+tautology|tautología||S|ast|C1
+virtue|virtud||S|ast|C1
+de facto|de facto||L|ast|C1
+per se|en sí mismo||L|ast|C1
+ad hoc|ad hoc||L|ast|C1
+prima facie|a primera vista||L|ast|C1
+quid pro quo|toma y daca||L|ast|C1
+inter alia|entre otras cosas||L|ast|C1
+less is more|menos es más||E|ast|C1
+the die is cast|la suerte está echada||E|ast|C1
+carpe diem|aprovecha el día||L|ast|C1
+agree to disagree|acordar en discrepar||E|cmu|C1
+tongue-in-cheek|con sorna disimulada||A|cmu|C1
+understatement|atenuación (litote)||S|cmu|C1
+doublespeak|lenguaje deliberadamente ambiguo||S|cmu|C1
+bamboozle|engatusar||V|cmu|C1
+kerfuffle|jaleo||S|cmu|C1
+discombobulated|aturullado||A|cmu|C1
+gobsmacked|estupefacto||A|cmu|C1
+wistful|nostálgico y melancólico||A|emo|C1
+vexed|irritado||A|emo|C1
+crestfallen|desconsolado||A|emo|C1
+buoyant|optimista y animoso||A|emo|C1
+benchmark|referencia de calidad||S|lav|C1
+onboarding|integración de nuevos empleados||S|lav|C1
+deliverable|entregable||S|lav|C1
+streamline|agilizar procesos||V|lav|C1
+attrition|rotación de plantilla||S|lav|C1
+appraisal|evaluación del desempeño||S|lav|C1
+headhunter|cazatalentos||S|pro|C1
+scaffolding|andamiaje pedagógico||S|stu|C1
+rubric|rúbrica de evaluación||S|stu|C1

@@ -1,0 +1,291 @@
+novel|novela||S|let|B2
+short story|cuento||S|let|B2
+poetry|poesía||S|let|B2
+playwright|dramaturgo||S|let|B2
+plot|trama||S|let|B2
+setting|escenario||S|let|B2
+narrator|narrador||S|let|B2
+chapter|capítulo||S|let|B2
+fiction|ficción||S|let|B2
+genre|género||S|let|B2
+autobiography|autobiografía||S|let|B2
+essay|ensayo||S|let|B2
+depict|retratar||V|let|B2
+symbolism|simbolismo||S|let|B2
+verse|verso||S|let|B2
+quote|citar||V|let|B2
+spine|columna vertebral||S|cor|B2
+muscle|músculo||S|cor|B2
+tendon|tendón||S|cor|B2
+joint|articulación||S|cor|B2
+lung|pulmón||S|cor|B2
+liver|hígado||S|cor|B2
+kidney|riñón||S|cor|B2
+artery|arteria||S|cor|B2
+posture|postura||S|sla|B2
+flexibility|flexibilidad||S|sla|B2
+endurance|resistencia física||S|sla|B2
+stretch|estirar||V|sla|B2
+workout|entrenamiento||S|sla|B2
+skeleton|esqueleto||S|cor|B2
+breathing|respiración||S|sla|B2
+habitat|hábitat||S|ani|B2
+wildlife|fauna silvestre||S|ani|B2
+nest|nido||S|ani|B2
+migrate|migrar||V|ani|B2
+predator|depredador||S|ani|B2
+prey|presa||S|ani|B2
+breed|reproducirse||V|ani|B2
+burrow|madriguera||S|ani|B2
+herd|manada||S|ani|B2
+camouflage|camuflaje||S|ani|B2
+instinct|instinto||S|ani|B2
+hibernate|hibernar||V|ani|B2
+flock|bandada||S|ani|B2
+offspring|crías||S|ani|B2
+den|guarida||S|ani|B2
+food chain|cadena alimentaria||S|ani|B2
+endangered|en peligro de extinción||A|nat|B2
+extinction|extinción||S|nat|B2
+conservation|conservación||S|nat|B2
+sanctuary|santuario||S|nat|B2
+poaching|caza furtiva||S|nat|B2
+breeding program|programa de cría en cautividad||S|nat|B2
+wildlife reserve|reserva natural||S|nat|B2
+threat|amenaza||S|nat|B2
+biodiversity|biodiversidad||S|nat|B2
+captivity|cautiverio||S|nat|B2
+reintroduce|reintroducir||V|nat|B2
+vulnerable|vulnerable||A|nat|B2
+habitat loss|pérdida de hábitat||S|nat|B2
+poacher|cazador furtivo||S|nat|B2
+conservationist|conservacionista||S|pro|B2
+ranger|guardabosques||S|pro|B2
+renewable|renovable||A|nat|B2
+solar panel|panel solar||S|nat|B2
+wind turbine|aerogenerador||S|nat|B2
+carbon footprint|huella de carbono||S|nat|B2
+emissions|emisiones||S|nat|B2
+sustainability|sostenibilidad||S|nat|B2
+pollution|contaminación||S|nat|B2
+recycle|reciclar||V|nat|B2
+drought|sequía||S|nat|B2
+landfill|vertedero||S|nat|B2
+greenhouse effect|efecto invernadero||S|nat|B2
+deforestation|deforestación||S|nat|B2
+hydropower|energía hidroeléctrica||S|nat|B2
+eco-friendly|ecológico||A|nat|B2
+global warming|calentamiento global||S|nat|B2
+offset|compensar (emisiones)||V|nat|B2
+thunderstorm|tormenta eléctrica||S|cli|B2
+hail|granizo||S|cli|B2
+humidity|humedad||S|cli|B2
+heat wave|ola de calor||S|cli|B2
+blizzard|ventisca||S|cli|B2
+flood|inundación||S|cli|B2
+lightning|relámpago||S|cli|B2
+gale|vendaval||S|cli|B2
+forecast|pronosticar||V|cli|B2
+mild|templado||A|cli|B2
+overcast|cubierto||A|cli|B2
+drizzle|llovizna||S|cli|B2
+hurricane|huracán||S|cli|B2
+landslide|desprendimiento de tierra||S|cli|B2
+earthquake|terremoto||S|cli|B2
+avalanche|alud||S|cli|B2
+deadline|fecha límite||S|tmp|B2
+timeframe|plazo||S|tmp|B2
+span|lapso||S|tmp|B2
+overnight|de la noche a la mañana||D|tmp|B2
+biweekly|quincenal||A|tmp|B2
+annually|anualmente||D|tmp|B2
+shortly|en breve||D|tmp|B2
+so far|hasta ahora||E|tmp|B2
+from now on|de ahora en adelante||L|tmp|B2
+in advance|con antelación||L|tmp|B2
+postpone|posponer||V|tmp|B2
+duration|duración||S|tmp|B2
+interval|intervalo||S|tmp|B2
+once in a while|de vez en cuando||L|tmp|B2
+long-term|a largo plazo||A|tmp|B2
+overdue|vencido||A|tmp|B2
+nightlife|vida nocturna||S|sve|B2
+nightclub|discoteca||S|sve|B2
+live music|música en directo||S|mus|B2
+bartender|camarero de bar||S|ris|B2
+hang out|pasar el rato||V|sve|B2
+stay up late|acostarse tarde||L|sve|B2
+night owl|trasnochador||S|sve|B2
+gathering|reunión social||S|sve|B2
+bar hopping|ruta de bares||S|sve|B2
+karaoke|karaoke||S|sve|B2
+gig|concierto pequeño||S|mus|B2
+dance floor|pista de baile||S|sve|B2
+party animal|fiestero||S|sve|B2
+evening out|salida por la noche||S|sve|B2
+local band|banda local||S|mus|B2
+clubbing|salir de marcha||S|sve|B2
+board game|juego de mesa||S|sve|B2
+dice|dado||S|sve|B2
+chess|ajedrez||S|sve|B2
+puzzle|rompecabezas||S|sve|B2
+collectible|objeto de colección||S|sve|B2
+stamp collecting|filatelia||S|sve|B2
+knitting|tejido de punto||S|sve|B2
+sewing|costura||S|sve|B2
+handicraft|artesanía||S|sve|B2
+cheat|hacer trampas||V|sve|B2
+deck|baraja de cartas||S|sve|B2
+pastime|pasatiempo||S|sve|B2
+origami|papiroflexia||S|sve|B2
+scoreboard|marcador||S|sve|B2
+game night|noche de juegos||S|sve|B2
+strategy|estrategia||S|sve|B2
+motivation|motivación||S|emo|B2
+burnout|agotamiento||S|emo|B2
+anxiety|ansiedad||S|emo|B2
+cope|hacer frente||V|emo|B2
+stress out|estresar||V|emo|B2
+overwhelmed|abrumado||A|emo|B2
+resilience|resiliencia||S|emo|B2
+mindfulness|atención plena||S|emo|B2
+setback|contratiempo||S|emo|B2
+strive|esforzarse||V|emo|B2
+willpower|fuerza de voluntad||S|emo|B2
+procrastinate|procrastinar||V|emo|B2
+rewarding|gratificante||A|emo|B2
+unmotivated|desmotivado||A|emo|B2
+self-esteem|autoestima||S|emo|B2
+argument|argumento||S|cmu|B2
+counterargument|contraargumento||S|cmu|B2
+claim|afirmación||S|cmu|B2
+rebut|refutar||V|cmu|B2
+persuade|persuadir||V|cmu|B2
+stance|postura||S|cmu|B2
+bias|sesgo||S|cmu|B2
+concede|conceder||V|cmu|B2
+evidence|evidencias||S|cmu|B2
+convincing|convincente||A|cmu|B2
+fallacy|falacia||S|cmu|B2
+groundless|infundado||A|cmu|B2
+disagree|estar en desacuerdo||V|cmu|B2
+back up|respaldar||V|cmu|B2
+on the fence|indeciso||L|cmu|B2
+public speaking|hablar en público||S|cmu|B2
+slide|diapositiva||S|cmu|B2
+audience|público||S|cmu|B2
+rehearse|ensayar||V|cmu|B2
+cue card|tarjeta de apoyo||S|cmu|B2
+handout|material impreso||S|cmu|B2
+stage fright|miedo escénico||S|emo|B2
+deliver a speech|pronunciar un discurso||L|cmu|B2
+keynote|conferencia principal||S|cmu|B2
+outline|esquema||S|cmu|B2
+closing remarks|palabras de cierre||S|cmu|B2
+eye contact|contacto visual||S|cmu|B2
+summarize|resumir||V|cmu|B2
+visual aid|recurso visual||S|cmu|B2
+pitch|presentación de negocio||S|cmu|B2
+wrap up|cerrar (una exposición)||V|cmu|B2
+negotiate|negociar||V|cmu|B2
+compromise|punto intermedio||S|cmu|B2
+bargain|regatear||V|cmu|B2
+agreement|acuerdo||S|cmu|B2
+middle ground|punto de encuentro||L|cmu|B2
+trade-off|contrapartida||S|cmu|B2
+meet halfway|llegar a un acuerdo a medias||L|cmu|B2
+make an offer|hacer una oferta||L|cmu|B2
+decline|rechazar||V|cmu|B2
+terms|condiciones||S|cmu|B2
+concession|concesión||S|cmu|B2
+deal-breaker|condición innegociable||S|cmu|B2
+with all due respect|con todos mis respetos||L|cmu|B2
+I'm afraid|me temo||E|cmu|B2
+politely|cortésmente||D|cmu|B2
+firm but fair|firme pero justo||L|cmu|B2
+courtroom|sala de justicia||S|ist|B2
+judge|juez||S|pro|B2
+jury|jurado||S|ist|B2
+trial|juicio||S|ist|B2
+verdict|veredicto||S|ist|B2
+attorney|abogado||S|pro|B2
+lawsuit|demanda judicial||S|ist|B2
+plead guilty|declararse culpable||L|ist|B2
+sentence|condena||S|ist|B2
+witness|testigo||S|ist|B2
+appeal|apelar||V|ist|B2
+defendant|acusado||S|ist|B2
+fine|multa||S|ist|B2
+guilty|culpable||A|ist|B2
+bail|fianza||S|ist|B2
+justice system|sistema judicial||S|ist|B2
+town hall|ayuntamiento||S|ist|B2
+department|departamento||S|ist|B2
+fill out|rellenar (un formulario)||V|ist|B2
+submit|presentar||V|ist|B2
+requirement|requisito||S|ist|B2
+permit|permiso||S|ist|B2
+renewal|renovación||S|ist|B2
+business hours|horario de atención||S|ist|B2
+in person|presencialmente||L|ist|B2
+applicant|solicitante||S|ist|B2
+application form|impreso de solicitud||S|ist|B2
+processing fee|tasa de tramitación||S|ist|B2
+notify|notificar||V|ist|B2
+eligibility|requisitos de acceso||S|ist|B2
+bureau|oficina pública||S|ist|B2
+red tape|burocracia innecesaria||S|ist|B2
+election|elecciones||S|ist|B2
+ballot|papeleta||S|ist|B2
+candidate|candidato||S|ist|B2
+campaign|campaña electoral||S|ist|B2
+vote|votar||V|ist|B2
+polling place|colegio electoral||S|ist|B2
+turnout|participación electoral||S|ist|B2
+running mate|compañero de fórmula||S|ist|B2
+term of office|mandato||S|ist|B2
+opinion poll|sondeo de opinión||S|ist|B2
+electoral|electoral||A|ist|B2
+district|distrito||S|ist|B2
+inauguration|toma de posesión||S|ist|B2
+reelection|reelección||S|ist|B2
+cast a ballot|depositar el voto||L|ist|B2
+early voting|voto anticipado||S|ist|B2
+however|sin embargo||C|cnn|B2
+therefore|por lo tanto||C|cnn|B2
+moreover|además||C|cnn|B2
+nevertheless|no obstante||C|cnn|B2
+whereas|mientras que||C|cnn|B2
+as a result|como resultado||L|cnn|B2
+in contrast|en cambio||L|cnn|B2
+on the other hand|por otro lado||L|cnn|B2
+for instance|por ejemplo||L|cnn|B2
+in conclusion|en conclusión||L|cnn|B2
+furthermore|por otra parte||C|cnn|B2
+despite|a pesar de||R|cnn|B2
+although|aunque||C|cnn|B2
+in other words|es decir||L|cnn|B2
+to sum up|en resumen||L|cnn|B2
+consequently|en consecuencia||D|cnn|B2
+fairness|equidad||S|ast|B2
+truth|verdad||S|ast|B2
+lie|mentira||S|ast|B2
+honesty|honestidad||S|ast|B2
+beauty|belleza||S|ast|B2
+justice|justicia||S|ast|B2
+inequality|desigualdad||S|ast|B2
+freedom|libertad||S|ast|B2
+dignity|dignidad||S|ast|B2
+integrity|integridad||S|ast|B2
+merit|mérito||S|ast|B2
+virtue|virtud||S|ast|B2
+deceive|engañar||V|ast|B2
+aesthetics|estética||S|ast|B2
+perception|percepción||S|ast|B2
+masterpiece|obra maestra||S|art|B2
+impressionism|impresionismo||S|art|B2
+cubism|cubismo||S|art|B2
+abstract art|arte abstracto||S|art|B2
+mural|mural||S|art|B2
+sculptor|escultor||S|art|B2
+sculpture|escultura||S|art|B2

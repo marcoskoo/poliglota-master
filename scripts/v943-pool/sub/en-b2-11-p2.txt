@@ -1,0 +1,290 @@
+canvas|lienzo||S|art|B2
+portrait|retrato||S|art|B2
+landscape painting|pintura de paisaje||S|art|B2
+brushstroke|pincelada||S|art|B2
+avant-garde|vanguardista||A|art|B2
+patron|mecenas||S|art|B2
+watercolor|acuarela||S|art|B2
+art movement|corriente artística||S|art|B2
+still life|naturaleza muerta||S|art|B2
+landmark|monumento emblemático||S|cit|B2
+heritage|patrimonio||S|art|B2
+facade|fachada||S|art|B2
+cathedral|catedral||S|cit|B2
+skyline|perfil urbano||S|cit|B2
+blueprint|plano de obra||S|art|B2
+gothic architecture|arquitectura gótica||S|art|B2
+restoration|restauración||S|art|B2
+skyscraper|rascacielos||S|cit|B2
+dome|cúpula||S|art|B2
+arch|arco||S|art|B2
+column|columna||S|art|B2
+urban planning|urbanismo||S|cit|B2
+heritage site|lugar patrimonial||S|art|B2
+stained glass|vidriera||S|art|B2
+neighbor|vecino||S|cit|B2
+community|comunidad||S|cit|B2
+condo board|junta de propietarios||S|ist|B2
+condo|apartamento en propiedad||S|cas|B2
+landlord|casero||S|cas|B2
+tenant|inquilino||S|cas|B2
+lease|contrato de alquiler||S|cas|B2
+noise complaint|queja por ruido||S|cit|B2
+get along|llevarse bien||V|rel|B2
+building manager|administrador de fincas||S|pro|B2
+parking spot|plaza de garaje||S|cit|B2
+household|hogar||S|cas|B2
+keep it down|bajar la voz||E|cmu|B2
+move in|mudarse||V|cas|B2
+shared|compartido||A|cas|B2
+residential|residencial||A|cit|B2
+nutrition label|etiqueta nutricional||S|ali|B2
+ingredient|ingrediente||S|ali|B2
+serving size|ración||S|ali|B2
+calories|calorías||S|ali|B2
+processed|procesado||A|ali|B2
+preservative|conservante||S|ali|B2
+additive|aditivo||S|ali|B2
+whole grain|integral||A|ali|B2
+saturated fat|grasa saturada||S|ali|B2
+sodium|sodio||S|ali|B2
+organic|ecológico||A|ali|B2
+fair trade|comercio justo||S|ali|B2
+expiry date|fecha de caducidad||S|ali|B2
+homemade|casero||A|ali|B2
+junk food|comida basura||S|ali|B2
+dietary|dietético||A|ali|B2
+railway|ferrocarril||S|tra|B2
+platform|andén||S|tra|B2
+one-way ticket|billete de ida||S|tra|B2
+round trip|ida y vuelta||S|tra|B2
+sleeper car|coche cama||S|tra|B2
+dining car|coche restaurante||S|tra|B2
+conductor|revisor||S|pro|B2
+timetable|horario||S|tra|B2
+departure|salida||S|tra|B2
+arrival|llegada||S|tra|B2
+delay|retraso||S|tra|B2
+fare|tarifa||S|tra|B2
+rail pass|abono de tren||S|tra|B2
+high-speed train|tren de alta velocidad||S|tra|B2
+miss the train|perder el tren||L|tra|B2
+luggage rack|portaequipajes||S|tra|B2
+injury|lesión||S|sla|B2
+sprain|esguince||S|sla|B2
+fracture|fractura||S|sla|B2
+bandage|venda||S|sla|B2
+medical kit|botiquín||S|sla|B2
+wound|herida||S|sla|B2
+ambulance|ambulancia||S|sla|B2
+paramedic|paramédico||S|pro|B2
+bleeding|hemorragia||S|sla|B2
+swelling|hinchazón||S|sla|B2
+painkiller|analgésico||S|sla|B2
+twisted ankle|tobillo torcido||S|sla|B2
+resuscitation|reanimación||S|sla|B2
+sling|cabestrillo||S|sla|B2
+first aid|primeros auxilios||L|sla|B2
+dizzy|mareado||A|sla|B2
+remote work|teletrabajo||S|lav|B2
+work-life balance|conciliación||S|lav|B2
+home office|oficina en casa||S|lav|B2
+flexible hours|horario flexible||S|lav|B2
+commute|desplazamiento al trabajo||S|lav|B2
+video call|videollamada||S|tec|B2
+coworking space|espacio de coworking||S|lav|B2
+disconnect|desconectarse||V|lav|B2
+overtime|horas extra||S|lav|B2
+days off|días libres||S|lav|B2
+workload|carga de trabajo||S|lav|B2
+boundary|límite||S|lav|B2
+daycare|guardería||S|lav|B2
+take a break|hacer una pausa||L|lav|B2
+hybrid model|modelo híbrido||S|lav|B2
+telecommute|teletrabajar||V|lav|B2
+training|formación||S|lav|B2
+workshop|taller formativo||S|stu|B2
+webinar|seminario en línea||S|stu|B2
+upskill|reciclarse profesionalmente||V|lav|B2
+certification|certificación||S|lav|B2
+promotion|ascenso||S|lav|B2
+mentor|mentor||S|pro|B2
+leadership|liderazgo||S|lav|B2
+networking|red de contactos||S|lav|B2
+skill set|conjunto de competencias||S|lav|B2
+onboarding|proceso de incorporación||S|lav|B2
+career path|trayectoria profesional||S|lav|B2
+hands-on experience|experiencia práctica||L|lav|B2
+refresher course|curso de actualización||S|stu|B2
+lifelong learning|aprendizaje permanente||S|stu|B2
+credentials|credenciales||S|lav|B2
+exchange program|programa de intercambio||S|stu|B2
+study abroad|estudiar en el extranjero||L|stu|B2
+host family|familia de acogida||S|fam|B2
+language barrier|barrera idiomática||S|stu|B2
+culture shock|choque cultural||S|stu|B2
+tuition|matrícula universitaria||S|stu|B2
+scholarship|beca||S|stu|B2
+dormitory|residencia de estudiantes||S|stu|B2
+course load|carga lectiva||S|stu|B2
+credits|créditos||S|stu|B2
+academic year|curso académico||S|stu|B2
+immersion|inmersión lingüística||S|stu|B2
+make friends|hacer amigos||L|rel|B2
+homesick|con morriña||A|emo|B2
+gap year|año sabático||S|stu|B2
+study skills|técnicas de estudio||S|stu|B2
+mortgage|hipoteca||S|fin|B2
+down payment|entrada de la hipoteca||S|fin|B2
+interest rate|tipo de interés||S|fin|B2
+real estate|bienes raíces||S|fin|B2
+homeowner|propietario de vivienda||S|cas|B2
+listing|anuncio de vivienda||S|fin|B2
+open house|visita de vivienda en venta||S|cas|B2
+closing costs|gastos de compraventa||S|fin|B2
+suburb|afueras residenciales||S|cit|B2
+affordable|asequible||A|fin|B2
+upscale|de alto nivel||A|cit|B2
+property|inmueble||S|fin|B2
+townhouse|casa adosada||S|cas|B2
+amenities|servicios de la zona||S|cit|B2
+housing market|mercado inmobiliario||S|fin|B2
+fixer-upper|vivienda para reformar||S|cas|B2
+online shopping|compras en línea||S|cmp|B2
+add to cart|añadir al carrito||L|cmp|B2
+checkout|pago final||S|cmp|B2
+shipping|envío||S|cmp|B2
+refund|reembolso||S|cmp|B2
+discount code|código de descuento||S|cmp|B2
+customer review|reseña de cliente||S|cmp|B2
+rating|valoración||S|cmp|B2
+in stock|en existencias||L|cmp|B2
+out of stock|agotado||L|cmp|B2
+return policy|política de devoluciones||S|cmp|B2
+free shipping|envío gratuito||S|cmp|B2
+bargain hunter|cazador de chollos||S|cmp|B2
+two-day delivery|entrega en dos días||S|cmp|B2
+price comparison|comparación de precios||S|cmp|B2
+impulse buy|compra por impulso||S|cmp|B2
+smartphone|teléfono inteligente||S|tec|B2
+notification|notificación||S|tec|B2
+screen time|tiempo de pantalla||S|tec|B2
+battery life|autonomía de batería||S|tec|B2
+update|actualización||S|tec|B2
+download|descargar||V|tec|B2
+upload|subir a la red||V|tec|B2
+password|contraseña||S|tec|B2
+swipe|deslizar||V|tec|B2
+privacy settings|ajustes de privacidad||S|tec|B2
+data plan|tarifa de datos||S|tec|B2
+charging cable|cable de carga||S|tec|B2
+airplane mode|modo avión||S|tec|B2
+log in|iniciar sesión||V|tec|B2
+user-friendly|intuitivo||A|tec|B2
+glitch|fallo técnico||S|tec|B2
+amateur|aficionado||S|spt|B2
+league|liga||S|spt|B2
+referee|árbitro||S|spt|B2
+marathon|maratón||S|spt|B2
+jogging|footing||S|spt|B2
+warm up|calentar||V|spt|B2
+cool down|hacer la vuelta a la calma||V|spt|B2
+kickoff|saque inicial||S|spt|B2
+goalkeeper|portero||S|spt|B2
+draw|empate||S|spt|B2
+fitness|forma física||S|spt|B2
+streak|racha||S|spt|B2
+cheer|animar||V|spt|B2
+tournament|torneo||S|spt|B2
+exhibition match|partido de exhibición||S|spt|B2
+cross-training|entrenamiento cruzado||S|spt|B2
+live concert|concierto en directo||S|mus|B2
+music festival|festival de música||S|mus|B2
+lineup|cartel del festival||S|mus|B2
+stage|escenario||S|mus|B2
+backstage|entre bastidores||D|mus|B2
+scalper|revendedor de entradas||S|mus|B2
+encore|bis||S|mus|B2
+fanbase|base de seguidores||S|mus|B2
+merchandise|productos oficiales||S|mus|B2
+setlist|repertorio del concierto||S|mus|B2
+general admission|zona de pie||S|mus|B2
+headliner|grupo estelar||S|mus|B2
+sing along|cantar con el artista||V|mus|B2
+sold out|con entradas agotadas||A|mus|B2
+fandom|comunidad de aficionados||S|mus|B2
+crowd|multitud||S|mus|B2
+streaming service|plataforma de streaming||S|cin|B2
+binge-watch|ver en maratón||V|cin|B2
+season|temporada||S|cin|B2
+spin-off|serie derivada||S|cin|B2
+subtitle|subtítulo||S|cin|B2
+dubbed|doblado||A|cin|B2
+plot twist|giro de guion||S|cin|B2
+cliffhanger|final en vilo||S|cin|B2
+showrunner|creador de la serie||S|cin|B2
+supporting role|papel secundario||S|cin|B2
+viewership|datos de audiencia||S|cin|B2
+trailer|tráiler||S|cin|B2
+soundtrack|banda sonora||S|mus|B2
+finale|final de temporada||S|cin|B2
+spoiler|revelación del argumento||S|cin|B2
+wedding|boda||S|rel|B2
+bride|novia||S|rel|B2
+groom|novio||S|rel|B2
+bridesmaid|dama de honor||S|rel|B2
+best man|padrino de boda||S|rel|B2
+reception|banquete de boda||S|rel|B2
+vows|votos matrimoniales||S|rel|B2
+honeymoon|luna de miel||S|rel|B2
+proposal|pedida de mano||S|rel|B2
+engagement|compromiso matrimonial||S|rel|B2
+anniversary|aniversario||S|rel|B2
+milestone|hito||S|rel|B2
+coming-of-age|propio de la transición a la vida adulta||A|rel|B2
+bachelor party|despedida de soltero||S|sve|B2
+officiant|oficiante||S|rel|B2
+in-laws|familia política||S|fam|B2
+budget|presupuesto||S|fin|B2
+expenses|gastos||S|fin|B2
+savings|ahorros||S|fin|B2
+withdraw|retirar dinero||V|fin|B2
+overdraft|descubierto||S|fin|B2
+installment|cuota||S|fin|B2
+loan|préstamo||S|fin|B2
+debt|deuda||S|fin|B2
+scam|estafa||S|fin|B2
+rip-off|timo||S|fin|B2
+counterfeit|falsificado||A|fin|B2
+good deal|buen precio||L|fin|B2
+make ends meet|llegar a fin de mes||L|fin|B2
+splurge|darse un capricho||V|fin|B2
+pinch pennies|ahorrar hasta el último céntimo||L|fin|B2
+financial literacy|educación financiera||S|fin|B2
+coffee shop|cafetería||S|ris|B2
+barista|barista||S|pro|B2
+espresso|expreso||S|ali|B2
+latte|café con leche||S|ali|B2
+decaf|descafeinado||S|ali|B2
+iced coffee|café con hielo||S|ali|B2
+brunch|desayuno tardío||S|ris|B2
+pastry|bollería||S|ali|B2
+muffin|magdalena||S|ali|B2
+croissant|cruasán||S|ali|B2
+oat milk|leche de avena||S|ali|B2
+refill|relleno de la bebida||S|ris|B2
+to-go order|pedido para llevar||S|ris|B2
+tip|propina||S|ris|B2
+brew|preparar café||V|ris|B2
+caffeine|cafeína||S|ali|B2
+break-in|robo con allanamiento de morada||S|ist|B2
+theft|hurto||S|ist|B2
+shoplifting|hurto en tiendas||S|ist|B2
+mug|asaltar para robar||V|ist|B2
+fire department|cuerpo de bomberos||S|ist|B2
+siren|sirena||S|cit|B2
+evacuation|evacuación||S|ist|B2
+shelter|refugio||S|cit|B2
+power outage|apagón||S|tec|B2
+law enforcement|cuerpos de seguridad||S|ist|B2
+curfew|toque de queda||S|ist|B2

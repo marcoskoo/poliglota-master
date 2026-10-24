@@ -1,0 +1,289 @@
+filmmaking|realización cinematográfica||S|cin|B2
+screenplay|guion||S|cin|B2
+casting|selección de actores||S|cin|B2
+soundtrack|banda sonora||S|cin|B2
+special effects|efectos especiales||L|cin|B2
+plot twist|giro argumental||L|cin|B2
+box office|taquilla||S|cin|B2
+premiere|estreno||S|cin|B2
+trailer|tráiler||S|cin|B2
+on location|en exteriores||L|cin|B2
+shoot|rodar||V|cin|B2
+sequel|secuela||S|cin|B2
+cast|reparto||S|cin|B2
+cinematography|fotografía cinematográfica||S|cin|B2
+credits|títulos de crédito||S|cin|B2
+award season|temporada de premios||L|cin|B2
+nomination|candidatura||S|cin|B2
+grudge|rencor||S|rel|B2
+hold a grudge|guardar rencor||L|rel|B2
+make up|hacer las paces||L|rel|B2
+split up|separarse||L|rel|B2
+call it quits|dar por terminada la relación||L|rel|B2
+on the rocks|en crisis||L|rel|B2
+heartbroken|con el corazón roto||A|rel|B2
+ex-partner|expareja||S|rel|B2
+unfaithful|infiel||A|rel|B2
+affair|aventura amorosa||S|rel|B2
+apologize|disculparse||V|rel|B2
+apology|disculpa||S|rel|B2
+forgive|perdonar||V|rel|B2
+reconcile|reconciliarse||V|rel|B2
+the silent treatment|ley de hielo||L|rel|B2
+talk things over|comentar las cosas con calma||L|rel|B2
+diversity|diversidad||S|ist|B2
+inclusion|inclusión||S|ist|B2
+belonging|sentido de pertenencia||S|emo|B2
+disability|discapacidad||S|ist|B2
+accessible|accesible||A|ist|B2
+equal opportunity|igualdad de oportunidades||L|ist|B2
+discrimination|discriminación||S|ist|B2
+bias|sesgo||S|ast|B2
+stereotype|estereotipo||S|ist|B2
+underrepresented|poco representado||A|ist|B2
+ally|aliado||S|ist|B2
+support network|red de apoyo||L|rel|B2
+lean on somebody|apoyarse en alguien||L|rel|B2
+outreach|labor de acercamiento||S|ist|B2
+gender equality|igualdad de género||L|ist|B2
+come out|salir del armario||L|rel|B2
+income tax|impuesto sobre la renta||L|fin|B2
+tax return|declaración de la renta||L|fin|B2
+withholdings|retenciones||S|fin|B2
+tax bracket|tramo fiscal||L|fin|B2
+deduction|deducción fiscal||S|fin|B2
+audit|inspección fiscal||S|fin|B2
+taxable|imponible||A|fin|B2
+self-employed|autónomo||A|fin|B2
+tax evasion|evasión fiscal||L|fin|B2
+fiscal year|ejercicio fiscal||L|fin|B2
+revenue|ingresos||S|fin|B2
+payroll|nómina||S|fin|B2
+owe|deber dinero||V|fin|B2
+fine|multa||S|fin|B2
+late fee|recargo por retraso||L|fin|B2
+levy|gravamen||S|fin|B2
+mortgage|hipoteca||S|fin|B2
+down payment|entrada inicial||L|fin|B2
+interest rate|tipo de interés||L|fin|B2
+installment|cuota||S|fin|B2
+collateral|garantía real||S|fin|B2
+lender|prestamista||S|fin|B2
+borrower|prestatario||S|fin|B2
+credit score|puntuación de crédito||L|fin|B2
+refinance|refinanciar||V|fin|B2
+foreclosure|ejecución hipotecaria||S|fin|B2
+co-sign|avalar||V|fin|B2
+closing costs|gastos de formalización||L|fin|B2
+fixed-rate mortgage|hipoteca a tipo fijo||L|fin|B2
+take out a loan|pedir un préstamo||L|fin|B2
+pay off|saldar una deuda||L|fin|B2
+creditor|acreedor||S|fin|B2
+savings account|cuenta de ahorros||L|fin|B2
+checking account|cuenta corriente||L|fin|B2
+stock market|bolsa de valores||L|fin|B2
+share|acción||S|fin|B2
+dividend|dividendo||S|fin|B2
+bond|bono||S|fin|B2
+mutual fund|fondo de inversión||L|fin|B2
+index fund|fondo indexado||L|fin|B2
+portfolio|cartera de valores||S|fin|B2
+bull market|mercado alcista||L|fin|B2
+return on investment|rentabilidad de la inversión||L|fin|B2
+diversify|diversificar||V|fin|B2
+financial advisor|asesor financiero||L|fin|B2
+crash|derrumbe bursátil||S|fin|B2
+shareholder|accionista||S|fin|B2
+investor|inversor||S|fin|B2
+pension plan|plan de pensiones||L|fin|B2
+retirement|jubilación||S|fin|B2
+retire|jubilarse||V|fin|B2
+pension fund|fondo de pensiones||L|fin|B2
+social security|seguridad social||L|fin|B2
+nest egg|colchón financiero||S|fin|B2
+annuity|renta vitalicia||S|fin|B2
+early retirement|jubilación anticipada||L|fin|B2
+beneficiary|beneficiario||S|fin|B2
+life expectancy|esperanza de vida||L|sla|B2
+aging population|envejecimiento de la población||L|att|B2
+fixed income|ingresos fijos||L|fin|B2
+make ends meet|llegar a fin de mes||L|fin|B2
+inheritance|herencia||S|fin|B2
+withdraw|retirar dinero||V|fin|B2
+lump sum|pago único||S|fin|B2
+restaurant critic|crítico de restaurantes||L|ris|B2
+fine dining|alta cocina||L|ris|B2
+make a reservation|hacer una reserva||L|ris|B2
+reservation|reserva||S|ris|B2
+tasting menu|menú degustación||L|ris|B2
+pop-up restaurant|restaurante efímero||L|ris|B2
+dinner party|cena de invitados||L|ris|B2
+overpriced|excesivamente caro||A|ris|B2
+mouth-watering|para chuparse los dedos||A|ris|B2
+cover charge|cubierto||L|ris|B2
+dietary restrictions|restricciones alimentarias||L|ris|B2
+signature dish|plato estrella||L|ris|B2
+no-show|cliente que no se presenta||S|ris|B2
+to die for|estar de muerte||L|ris|B2
+specialty|especialidad de la casa||S|ris|B2
+wait staff|personal de sala||S|ris|B2
+attorney|abogado||S|pro|B2
+paralegal|asistente jurídico||S|pro|B2
+prosecutor|fiscal||S|pro|B2
+notary public|notario||L|pro|B2
+legal aid|asistencia jurídica gratuita||L|pro|B2
+class action|demanda colectiva||L|pro|B2
+lawsuit|demanda judicial||S|pro|B2
+settle out of court|llegar a un acuerdo extrajudicial||L|pro|B2
+verdict|veredicto||S|pro|B2
+appeal|recurrir una sentencia||V|pro|B2
+power of attorney|poder notarial||L|pro|B2
+executive|directivo||S|pro|B2
+board of directors|consejo de administración||L|pro|B2
+middle manager|mando intermedio||L|pro|B2
+accountant|contable||S|pro|B2
+human resources|recursos humanos||L|pro|B2
+software engineer|ingeniero de software||L|pro|B2
+civil engineer|ingeniero de caminos||L|pro|B2
+electrician|electricista||S|pro|B2
+plumber|fontanero||S|pro|B2
+welder|soldador||S|pro|B2
+technician|técnico||S|pro|B2
+mechanic|mecánico||S|pro|B2
+architect|arquitecto||S|pro|B2
+surveyor|topógrafo||S|pro|B2
+foreman|capataz||S|pro|B2
+quality control|control de calidad||L|pro|B2
+blue-collar|de cuello azul||A|pro|B2
+white-collar|de cuello blanco||A|pro|B2
+apprentice|aprendiz||S|pro|B2
+maintenance|mantenimiento||S|pro|B2
+analyst|analista||S|pro|B2
+surgeon|cirujano||S|pro|B2
+physician|médico||S|pro|B2
+pediatrician|pediatra||S|pro|B2
+therapist|terapeuta||S|pro|B2
+pharmacist|farmacéutico||S|pro|B2
+midwife|matrona||S|pro|B2
+paramedic|paramédico||S|pro|B2
+teaching assistant|asistente docente||L|pro|B2
+principal|director de colegio||S|pro|B2
+school counselor|orientador escolar||L|pro|B2
+librarian|bibliotecario||S|pro|B2
+professor|profesor universitario||S|pro|B2
+substitute teacher|profesor sustituto||L|pro|B2
+caregiver|cuidador||S|pro|B2
+social worker|trabajador social||L|pro|B2
+optometrist|optometrista||S|pro|B2
+journalist|periodista||S|pro|B2
+editor|editor||S|pro|B2
+copywriter|redactor publicitario||S|pro|B2
+proofreader|corrector de pruebas||S|pro|B2
+graphic designer|diseñador gráfico||L|pro|B2
+illustrator|ilustrador||S|pro|B2
+photojournalist|fotógrafo de prensa||S|pro|B2
+broadcaster|locutor||S|pro|B2
+anchor|presentador de informativos||S|pro|B2
+producer|productor||S|pro|B2
+screenwriter|guionista||S|pro|B2
+freelance|por cuenta propia||A|pro|B2
+gig economy|economía de plataformas||L|pro|B2
+voice actor|actor de doblaje||L|pro|B2
+set designer|escenógrafo||L|pro|B2
+makeup artist|maquillador||L|pro|B2
+election|elecciones||S|att|B2
+campaign|campaña electoral||S|att|B2
+run for office|presentarse a las elecciones||L|att|B2
+term of office|mandato||L|att|B2
+foreign policy|política exterior||L|att|B2
+national security|seguridad nacional||L|att|B2
+executive order|orden ejecutiva||L|att|B2
+veto|vetar||V|att|B2
+bipartisan|bipartidista||A|att|B2
+approval rating|índice de popularidad||L|att|B2
+inauguration|toma de posesión||S|att|B2
+landslide victory|victoria arrolladora||L|att|B2
+governor|gobernador||S|att|B2
+headlines|titulares||S|att|B2
+breaking news|última hora||L|att|B2
+impeachment|juicio político||S|att|B2
+inflation|inflación||S|fin|B2
+recession|recesión||S|fin|B2
+unemployment rate|tasa de desempleo||L|fin|B2
+gross domestic product|producto interior bruto||L|fin|B2
+trade war|guerra comercial||L|att|B2
+tariff|arancel||S|fin|B2
+supply chain|cadena de suministro||L|fin|B2
+shortage|escasez||S|fin|B2
+central bank|banco central||L|fin|B2
+hike|subida de precios||S|fin|B2
+downturn|contracción económica||S|fin|B2
+budget deficit|déficit presupuestario||L|fin|B2
+national debt|deuda pública||L|fin|B2
+stimulus package|plan de estímulo||L|fin|B2
+bailout|rescate financiero||S|fin|B2
+cost of living|coste de la vida||L|fin|B2
+pollution|contaminación||S|nat|B2
+single-use|de un solo uso||A|nat|B2
+landfill|vertedero||S|nat|B2
+deforestation|deforestación||S|nat|B2
+endangered species|especie en peligro de extinción||L|nat|B2
+biodiversity|biodiversidad||S|nat|B2
+ecosystem|ecosistema||S|nat|B2
+sustainable|sostenible||A|nat|B2
+eco-friendly|ecológico||A|nat|B2
+solar panel|placa solar||L|nat|B2
+wind farm|parque eólico||L|nat|B2
+activist|activista||S|att|B2
+environmental impact|impacto medioambiental||L|nat|B2
+raise awareness|concienciar||L|nat|B2
+poaching|caza furtiva||S|nat|B2
+overfishing|sobrepesca||S|nat|B2
+hypothesis|hipótesis||S|sci|B2
+empirical|empírico||A|sci|B2
+evidence|evidencia||S|sci|B2
+draw conclusions|sacar conclusiones||L|sci|B2
+findings|resultados de investigación||S|sci|B2
+fieldwork|trabajo de campo||S|sci|B2
+specimen|espécimen||S|sci|B2
+control group|grupo de control||L|sci|B2
+variable|variable||S|sci|B2
+correlation|correlación||S|sci|B2
+trial and error|ensayo y error||L|sci|B2
+quantitative|cuantitativo||A|sci|B2
+qualitative|cualitativo||A|sci|B2
+sampling|muestreo||S|sci|B2
+scientific method|método científico||L|sci|B2
+breakthrough|avance decisivo||S|sci|B2
+organism|organismo||S|sci|B2
+genetics|genética||S|sci|B2
+evolution|evolución||S|sci|B2
+enzyme|enzima||S|sci|B2
+protein|proteína||S|sci|B2
+molecule|molécula||S|sci|B2
+compound|compuesto químico||S|sci|B2
+chemical reaction|reacción química||L|sci|B2
+antibodies|anticuerpos||S|sci|B2
+photosynthesis|fotosíntesis||S|sci|B2
+habitat|hábitat||S|nat|B2
+predator|depredador||S|nat|B2
+carbon dioxide|dióxido de carbono||L|sci|B2
+digestion|digestión||S|sci|B2
+metabolism|metabolismo||S|sci|B2
+hormone|hormona||S|sci|B2
+gravity|gravedad||S|sci|B2
+particle|partícula||S|sci|B2
+momentum|cantidad de movimiento||S|sci|B2
+black hole|agujero negro||L|sci|B2
+galaxy|galaxia||S|sci|B2
+constellation|constelación||S|sci|B2
+telescope|telescopio||S|sci|B2
+spacecraft|nave espacial||S|sci|B2
+orbit|órbita||S|sci|B2
+asteroid|asteroide||S|sci|B2
+astronaut|astronauta||S|sci|B2
+launch|lanzamiento||S|sci|B2
+wavelength|longitud de onda||S|sci|B2
+friction|fricción||S|sci|B2
+magnetic|magnético||A|sci|B2
+nuclear power|energía nuclear||L|sci|B2
