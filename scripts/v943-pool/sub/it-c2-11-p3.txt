@@ -1,0 +1,310 @@
+critica testuale|crítica textual (establecimiento del texto)||L|let|C2
+varianti d'autore|variantes de autor||L|let|C2
+filologia d'autore|filología de autor||L|let|C2
+canone letterario|canon literario||L|let|C2
+ricezione letteraria|recepción literaria||L|let|C2
+orizzonte d'attesa|horizonte de expectativas||L|let|C2
+intertestualità|intertextualidad||S|let|C2
+dialogismo|dialogismo (polifonía textual)||S|let|C2
+polifonia (narratologia)|polifonía (voces del relato)||S|let|C2
+focalizzazione (narratologia)|focalización (punto de vista)||S|let|C2
+narratore onnisciente|narrador omnisciente||L|let|C2
+discorso indiretto libero|discurso indirecto libre||L|let|C2
+analessi|analepsis (retrospección)||S|let|C2
+prolessi|prolepsis (anticipación)||S|let|C2
+cornice narrativa|marco narrativo (relato marco)||L|let|C2
+fabula (narratologia)|fábula (sucesos en orden cronológico)||S|let|C2
+attante (semiotica)|actante||S|let|C2
+isotopia (semiotica)|isotopía (coherencia semántica)||S|let|C2
+endecasillabo|endecasílabo||S|let|C2
+settenario|heptasílabo||S|let|C2
+verso libero|verso libre||L|let|C2
+cesura|cesura||S|let|C2
+dattilo (metrica)|dactilo (pie métrico)||S|let|C2
+pentametro|pentámetro||S|let|C2
+alliterazione|aliteración||S|let|C2
+anafora (retorica)|anáfora (repetición inicial)||S|let|C2
+chiasmo|quiasmo||S|let|C2
+ossimoro|oxímoron (contradicción aparente)||S|let|C2
+sinestesia|sinestesia||S|let|C2
+metonimia|metonimia||S|let|C2
+sineddoche|sinécdoque||S|let|C2
+iperbato|hipérbaton||S|let|C2
+litote|lítote||S|let|C2
+climax (retorica)|clímax (gradación)||S|let|C2
+antitesi (retorica)|antítesis||S|let|C2
+apostrofe (retorica)|apóstrofe (invectiva)||S|let|C2
+ellissi (retorica)|elipsis (supresión)||S|let|C2
+perifrasi|perífrasis||S|let|C2
+praeteritio|preterición (fingir omitir)||S|let|C2
+epiteto (retorica)|epíteto (adorno fijo)||S|let|C2
+gnoseologia|gnoseología||S|let|C2
+solipsismo|solipsismo||S|let|C2
+nominalismo|nominalismo||S|let|C2
+concettualismo|conceptualismo||S|let|C2
+neopositivismo|neopositivismo||S|let|C2
+cambio di paradigma|cambio de paradigma||L|let|C2
+apodittico|apodíctico (demostrativo)||A|let|C2
+aporia|aporía||S|let|C2
+ipostasi|hipóstasis (sustantivación de una cualidad)||S|let|C2
+immanenza|inmanencia||S|let|C2
+trascendenza (filosofia)|trascendencia||S|let|C2
+ente (filosofia)|ente (lo que es)||S|let|C2
+ontologia|ontología||S|let|C2
+teleologia|teleología||S|let|C2
+deontologia|deontología||S|let|C2
+eticità|eticidad (vida ética objetiva)||S|let|C2
+catarsi|catarsis||S|let|C2
+sublime (estetica)|sublime (lo sublime)||S|let|C2
+disinteresse estetico|desinterés estético (contemplación)||L|let|C2
+aura (estetica)|aura (del obra única)||S|let|C2
+storiografia|historiografía||S|let|C2
+fonte primaria|fuente primaria||L|let|C2
+storicismo|historicismo||S|let|C2
+lunga durata|larga duración (historia estructural)||L|let|C2
+storia delle mentalità|historia de las mentalidades||L|let|C2
+microstoria|microhistoria||S|let|C2
+revisionismo (storiografia)|revisionismo (de la historiografía)||S|let|C2
+diacronia|diacronía||S|let|C2
+sincronia|sincronía||S|let|C2
+isoglossa|isoglosa||S|let|C2
+lemma (filologia)|lema (entrada de diccionario)||S|let|C2
+morfema|morfema||S|let|C2
+allofono|alófono||S|let|C2
+tonema|tonema (rasgo tonal)||S|let|C2
+sintagma|sintagma||S|let|C2
+diatesi (linguistica)|diátesis (voz del verbo)||S|let|C2
+calco (linguistica)|calco (préstamo traducido)||S|let|C2
+interferenza linguistica|interferencia lingüística||L|let|C2
+polisemia|polisemia||S|let|C2
+omofonia (linguistica)|homofonía (palabras homófonas)||S|let|C2
+etimo|etimo (origen de la palabra)||S|let|C2
+volgarizzamento|romanceamiento (traducción medieval a la lengua vulgar)||S|let|C2
+industria culturale|industria cultural||L|let|C2
+alienazione (filosofia)|alienación (enajenación)||S|let|C2
+reificazione|cosificación (reificación)||S|let|C2
+messa in scena|puesta en escena||L|let|C2
+didascalie (teatro)|acotaciones (didascalias)||S|let|C2
+quarta parete|cuarta pared||L|let|C2
+monologo interiore|monólogo interior||L|let|C2
+sticomitia|esticomitia (réplica a verso por verso)||S|let|C2
+poetica (letteratura)|poética (programa de un autor)||S|let|C2
+verosimile (poetica)|verosímil (criterio clásico)||A|let|C2
+mimesi|mimesis (imitación de lo real)||S|let|C2
+decadentismo|decadentismo (movimiento finisecular)||S|let|C2
+ermetismo (letteratura)|hermetismo (poesía hermética)||S|let|C2
+scapigliatura|scapigliatura (bohemios lombardos)||S|let|C2
+papirologia|papirología||S|let|C2
+palinsesto|palimpsesto||S|let|C2
+epigrafia|epigrafía||S|let|C2
+esametro|hexámetro||S|let|C2
+testo di partenza|texto de partida (lengua fuente)||L|let|C2
+traduttore traditore|traduttore traditore (quien traduce traiciona)||E|let|C2
+saggistica|ensayística||S|let|C2
+divagazione|divagación (digresión ensayística)||S|let|C2
+ucronia|ucronía (historia alternativa)||S|let|C2
+apocalittico (saggistica)|apocalíptico (tono catastrofista)||A|let|C2
+letteratura comparata|literatura comparada||L|let|C2
+musicologia|musicología||S|art|C2
+contrappunto (musica)|contrapunto||S|art|C2
+cromatismo (musica)|cromatismo (armonía cromática)||S|art|C2
+atonalità|atonalidad||S|art|C2
+dodecafonismo|dodecafonismo||S|art|C2
+belcanto|bel canto (canto bello operístico)||S|art|C2
+libretto (opera)|libreto (de ópera)||S|art|C2
+cabaletta|cabaleta (pieza brillante de la escena)||S|art|C2
+agogica (musica)|agogica (matices del tempo)||S|art|C2
+madrigale (musica)|madrigal||S|art|C2
+museografia|museografía||S|art|C2
+allestimento (mostra)|montaje (de una exposición)||S|art|C2
+cartone (arte)|cartón (estudio preparatorio de la obra)||S|art|C2
+patina (restauro)|pátina (vejez superficial)||S|art|C2
+ritocco (restauro)|retoque (en restauración)||S|art|C2
+imprimitura|imprimación (base de la pintura)||S|art|C2
+prestito (mostra)|préstamo (de obras entre museos)||S|art|C2
+iconografia|iconografía||S|art|C2
+iconologia|iconología||S|art|C2
+attribuzione (arte)|atribución (de la autoría de una obra)||S|art|C2
+bottega (arte)|taller (del maestro renacentista)||S|art|C2
+committenza|mecenas (cliente que encarga la obra)||S|art|C2
+fortuna critica|fortuna crítica (recepción histórica)||L|art|C2
+oreficeria|orfebrería||S|art|C2
+cesello|repujado (a cincel)||S|art|C2
+granulazione (oreficeria)|granulación (técnica orfebre)||S|art|C2
+tarsia|marquetería (taracea)||S|art|C2
+damascatura|damasquinado||S|art|C2
+invetriatura|vidriado (esmaltado cerámico)||S|art|C2
+diaframma (fotografia)|diafragma (apertura del objetivo)||S|art|C2
+contro luce|contraluz||L|art|C2
+posa lunga|larga exposición||L|art|C2
+ritocco digitale|retoque digital||L|art|C2
+capitello (architettura)|capitel||S|art|C2
+timpano (architettura)|tímpano (frontón)||S|art|C2
+architrave|arquitrabe (dintel)||S|art|C2
+mensola (architettura)|ménsula (cartela voladiza)||S|art|C2
+bugnato|almohadillado (rusticación)||S|art|C2
+serliana|serliana (ventana adovelada renacentista)||S|art|C2
+matroneo|tribuna (galería superior paleocristiana)||S|art|C2
+cripta (architettura)|cripta||S|art|C2
+tiburio|cimborrio (torre del crucero)||S|art|C2
+elevazione (danza)|elevación (salto del bailarín)||S|art|C2
+quiddità|quiddidad (esencia de algo)||S|ast|C2
+haecceità|haecceidad (esteidad de lo singular)||S|ast|C2
+ipseità|ipseidad (mismidad de uno mismo)||S|ast|C2
+alterità|alteridad (otredad)||S|ast|C2
+immutabilità|inmutabilidad||S|ast|C2
+contingenza (filosofia)|contingencia (lo que puede no ser)||S|ast|C2
+potenza (filosofia)|potencia (poder ser aristotélico)||S|ast|C2
+accidente (filosofia)|accidente (lo no esencial)||S|ast|C2
+substrato (filosofia)|substrato (soporte último)||S|ast|C2
+dianoetica|dianoética (virtudes intelectuales)||A|ast|C2
+kalokagathia|kalokagathia (belleza y bondad unidas)||S|ast|C2
+hybris|hybris (desmesura trágica)||S|ast|C2
+ethos (retorica)|ethos (credibilidad del orador)||S|ast|C2
+pathos (retorica)|pathos (conmoción del público)||S|ast|C2
+logos (retorica)|logos (argumentación razonada)||S|ast|C2
+ad litteram|al pie de la letra||L|ast|C2
+in nuce|en germen (en embrión)||L|ast|C2
+in ultima analisi|en último análisis||L|ast|C2
+ex abrupto|de improviso (sin preparación)||L|ast|C2
+mutatis mutandis|mutatis mutandis (cambiando lo que haya que cambiar)||L|ast|C2
+ceteris paribus|ceteris paribus (igual todo lo demás)||L|ast|C2
+conditio sine qua non|conditio sine qua non (condición indispensable)||L|ast|C2
+tertium non datur|tertium non datur (no hay término medio)||L|ast|C2
+ex novo|de nuevo (desde cero)||L|ast|C2
+in itinere|por el camino (en trámite)||L|ast|C2
+de iure|de derecho (jurídicamente)||L|ast|C2
+de facto|de hecho||L|ast|C2
+in fieri|en devenir (en formación)||L|ast|C2
+in actu|en acto (ya realizado)||L|ast|C2
+aforisma|aforismo||S|ast|C2
+brocardo|brocardo (máxima jurídica hecha frase)||S|ast|C2
+paremia|paremia (refrán culto)||S|ast|C2
+gnomico|gnómico (de sentencias)||A|ast|C2
+equanime|ecuánime||A|ast|C2
+inscindibile|indisoluble (que no se puede separar)||A|ast|C2
+inoppugnabile|inimpugnable (incontestable)||A|ast|C2
+indefettibile|indefectible (que no falla)||A|ast|C2
+irreprensibile|irreprochable||A|ast|C2
+irriducibile|irreductible||A|ast|C2
+invidiabile|envidiable||A|ast|C2
+imperturbabile|imperturbable||A|ast|C2
+inafferrabile|inaferrable (escurridizo)||A|ast|C2
+insuperabile|insuperable||A|ast|C2
+inconfrontabile|no comparable (sin parangón)||A|ast|C2
+inarrivabile|inalcanzable||A|ast|C2
+imperscrutabile|imperscrutable||A|ast|C2
+ineffabile|inefable||A|ast|C2
+indicibile|indecible (que no puede decirse)||A|ast|C2
+addurre|alegar (aducir)||V|ast|C2
+confutare|refutar (confutar)||V|ast|C2
+impugnare (contestazione)|impugnar (recurrir un acto)||V|ast|C2
+stigmatizzare|estigmatizar (condenar públicamente)||V|ast|C2
+sconfessare|desdecirse (desautorizar)||V|ast|C2
+crogiolarsi|regodearse (complacerse en algo)||V|ast|C2
+estrinsecare|exteriorizar (desarrollar por fuera)||V|ast|C2
+esternare|exteriorar (expresar por fuera)||V|ast|C2
+sviscerare|desentrañar (analizar a fondo)||V|ast|C2
+spaziare|abarcar (discurrir con amplitud)||V|ast|C2
+problematicità|problematicidad (carácter problemático)||S|ast|C2
+operatività|operatividad||S|ast|C2
+testualità|textualidad||S|ast|C2
+intenzionalità|intencionalidad||S|ast|C2
+fattibilità|viabilidad (factibilidad técnica)||S|ast|C2
+recettività|receptividad||S|ast|C2
+criticità|puntos críticos (zonas problemáticas)||S|ast|C2
+reperibilità|localizabilidad (disponibilidad de hallazgo)||S|ast|C2
+veridicità|veracidad (veridicidad de los datos)||S|ast|C2
+attendibilità|fiabilidad (credibilidad de una fuente)||S|ast|C2
+confutabilità|confutabilidad||S|ast|C2
+mendacio|mentira (falsedad deliberada)||S|ast|C2
+fallacia (logica)|falacia (engaño con apariencia de razón)||S|ast|C2
+sofisma|sofisma||S|ast|C2
+paralogismo|paralogismo (razonamiento erróneo)||S|ast|C2
+capziosità|capciosidad (engaño con apariencia)||S|ast|C2
+esilità|esbeltezza (delgadez etérea)||S|ast|C2
+gracilità|gracilidad (finura delicada)||S|ast|C2
+piacevolezza|agradabilidad||S|ast|C2
+affabilità|afabilidad||S|ast|C2
+conciliante|conciliador (que apacigua)||A|ast|C2
+ordine di grandezza|orden de magnitud||L|ast|C2
+a spanne|a ojo (aproximadamente)||E|ast|C2
+a grosse linee|a grandes rasgos||E|ast|C2
+per sommi capi|por encima (en síntesis apretada)||E|ast|C2
+nei limiti del possibile|en lo posible||E|ast|C2
+eufemismo|eufemismo||S|ast|C2
+disfemismo|disfemismo (expresión desagradable a propósito)||S|ast|C2
+circumlocuzione|circunlocución (rodeo de palabras)||S|ast|C2
+fulgido|fulgurante (de luz deslumbrante)||A|ast|C2
+algido|álgido (momento culminante)||A|ast|C2
+crepuscolare|crepuscular (melancólico de ocaso)||A|ast|C2
+livido|lívido (amoratado pálido)||A|ast|C2
+esangue|exangüe (sin sangre, pálido)||A|ast|C2
+attonito|aturdido (pasmarado)||A|ast|C2
+sbigottito|pasmarado (atónito de espanto)||A|ast|C2
+trepidazione|trepidación (mezcla de miedo y espera)||S|ast|C2
+sgomento|espanto (consternación)||S|ast|C2
+afflizione|aflicción||S|ast|C2
+rimembranza|recuerdo (evocación nostálgica)||S|ast|C2
+pallore|palidez||S|ast|C2
+sussulto|sacudida (sobresalto interior)||S|ast|C2
+fremito|estremecimiento (escalofrío interior)||S|ast|C2
+gorgheggio|gorjeo (trino del canto)||S|ast|C2
+lambiccato|rebuscado (demasiado ingenioso)||A|ast|C2
+spigliato|desenvuelto (con soltura)||A|ast|C2
+malavoglia|desgana (poco interés)||S|ast|C2
+brogliacco|borrador (cuaderno de borradores)||S|ast|C2
+bazzecola|bagatela (cosa de poco valor)||S|ast|C2
+saccenza|pedantería (presunción de saber)||S|ast|C2
+canzonatura|burla (toma de pelo)||S|cmu|C2
+sfottò|toma de pelo (motte de burla)||S|cmu|C2
+celia|broma (chanza)||S|cmu|C2
+facezia|facecia (agudeza jocosa)||S|cmu|C2
+motto di spirito|chiste (agudeza ingeniosa)||L|cmu|C2
+mutria|gesto (cara de enfado napolitana)||S|cmu|C2
+tagliare la corda|largarse (escaparse)||E|cmu|C2
+andare in fumo|esfumarse (irse en humo)||E|cmu|C2
+cavillo (obiezione)|cavilación (objeción sutil)||S|cmu|C2
+tergiversare|tergiversar (dar largas)||V|cmu|C2
+eludere (domanda)|eludir (una pregunta)||V|cmu|C2
+allusivo|alusivo (que insinúa sin decir)||A|cmu|C2
+pregnanza|concisión llena de sentido (embarazo del estilo)||S|cmu|C2
+lapidario (stile)|lapidario (conciso tajante)||A|cmu|C2
+sussiegoso|engolado (con dignidad distante)||A|cmu|C2
+d'altro canto|de otro lado||C|cnn|C2
+per converso|por el contrario (inversamente)||L|cnn|C2
+quantunque|aunque (por más que)||C|cnn|C2
+all'occorrenza|en caso necesario (a requerimiento)||L|cnn|C2
+per avventura|por si acaso (quizá)||L|cnn|C2
+se non altro|si no otra cosa (al menos)||L|cnn|C2
+a ogni modo|de todos modos||L|cnn|C2
+orbene|pues bien||C|cnn|C2
+difatti|de hecho (en efecto)||D|cnn|C2
+codesto|ese (aquel de allá)||P|cnn|C2
+invero|en verdad (ciertamente)||D|cnn|C2
+esitanza|titubeo (indecisión temerosa)||S|emo|C2
+titubanza|vacilación (titubeo)||S|emo|C2
+inquietudine|inquietud (desasosiego)||S|emo|C2
+esaltazione|exaltación (júbilo desmedido)||S|emo|C2
+gongolare|regocijarse (complacerse mucho)||V|emo|C2
+compiacimento|complacencia (deleite en lo propio)||S|emo|C2
+autocommiserazione|autocompasión||S|emo|C2
+pietismo|piedad blandengue (compasión efectista)||S|emo|C2
+condiscendenza|condescendencia (tolerancia desdeñosa)||S|emo|C2
+magnanimità|magnanimidad||S|emo|C2
+longanime|longánime (paciente en el mal)||A|emo|C2
+malevolenza|malvolencia (mala voluntad)||S|emo|C2
+insospettabile|insospechable (que no despierta sospecha)||A|emo|C2
+astio|rencor (encono)||S|emo|C2
+livore|bilis (rencor insidioso)||S|emo|C2
+rancoroso|rencoroso (que guarda rencor)||A|emo|C2
+vindice|vengador (justiciero)||A|emo|C2
+elaborazione del lutto|elaboración del duelo||L|emo|C2
+ansia da separazione|ansiedad de separación||L|emo|C2
+regolazione emotiva|regulación emocional||L|emo|C2
+contenimento (psicologia)|contención (sostén afectivo)||S|emo|C2
+validazione (psicologia)|validación (reconocimiento del sentir)||S|emo|C2
+vittimismo|victimismo||S|emo|C2
+benemerenza|merecimiento (buen servicio acreditado)||S|emo|C2
+circospezione|circunspección (cautela atenta)||S|emo|C2
+disinvoltura|desenvoltura (soltura en el trato)||S|cmu|C2

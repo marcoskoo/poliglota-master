@@ -1,0 +1,319 @@
+y'all|ustedes||P|cmu|C1
+yinz|ustedes||P|cmu|C1
+pop|refresco||S|ali|C1
+buggy|carrito de la compra||S|cmp|C1
+faucet|grifo||S|cas|C1
+grinder|bocadillo de pan alargado||S|ali|C1
+bubbler|fuente de beber||S|cit|C1
+crawdad|cangrejo de río||S|ani|C1
+lightning bug|luciérnaga||S|nat|C1
+stoop|escalinata de entrada||S|cit|C1
+kitty-corner|en diagonal||D|cit|C1
+fixin' to|estar a punto de||E|cmu|C1
+bless your heart|pobrecito||E|cmu|C1
+yonder|allá||D|cmu|C1
+davenport|sofá||S|cas|C1
+storm cellar|sótano refugio||S|cas|C1
+crick|riachuelo||S|nat|C1
+holler|valle apartado||S|nat|C1
+bayou|brazo pantanoso de un río||S|nat|C1
+bluff|acantilado||S|nat|C1
+coulee|cañada seca||S|nat|C1
+spigot|llave de paso||S|cas|C1
+mudroom|recibidor para calzado||S|cas|C1
+anguish|angustia||S|emo|C1
+wistful|melancólico||A|emo|C1
+forlorn|desamparado||A|emo|C1
+despondent|abatido||A|emo|C1
+elated|eufórico||A|emo|C1
+dejected|desanimado||A|emo|C1
+resentful|rencoroso||A|emo|C1
+remorse|remordimiento||S|emo|C1
+vexation|irritación||S|emo|C1
+solace|consuelo||S|emo|C1
+longing|añoranza||S|emo|C1
+exasperated|exasperado||A|emo|C1
+crestfallen|desconsolado||A|emo|C1
+buoyant|radiante de optimismo||A|emo|C1
+morose|malhumorado||A|emo|C1
+sullen|hosco||A|emo|C1
+apathy|apatía||S|emo|C1
+magnanimous|magnánimo||A|emo|C1
+affable|afable||A|emo|C1
+surly|arisco||A|emo|C1
+taciturn|taciturno||A|emo|C1
+gregarious|expansivo||A|emo|C1
+imperturbable|imperturbable||A|emo|C1
+leverage|apalancar||V|fin|C1
+benchmark|punto de referencia||S|lav|C1
+best practice|mejor práctica||S|lav|C1
+stakeholder|parte interesada||S|lav|C1
+shareholder|accionista||S|fin|C1
+turnaround|recuperación empresarial||S|lav|C1
+downsizing|reducción de plantilla||S|lav|C1
+headcount|plantilla||S|lav|C1
+onboarding|incorporación de personal||S|lav|C1
+deliverable|entregable||S|lav|C1
+synergy|sinergia||S|lav|C1
+core competency|competencia esencial||S|lav|C1
+due diligence|diligencia debida||S|fin|C1
+market share|cuota de mercado||S|fin|C1
+value chain|cadena de valor||S|fin|C1
+scalability|escalabilidad||S|lav|C1
+outsourcing|externalización||S|lav|C1
+white-collar|de cuello blanco||A|lav|C1
+buyout|compra de participación||S|fin|C1
+solvency|solvencia||S|fin|C1
+overhead|gastos generales||S|fin|C1
+fiscal year|ejercicio fiscal||S|fin|C1
+quarterly earnings|beneficios trimestrales||S|fin|C1
+attrition|desgaste natural de plantilla||S|lav|C1
+appraisal|evaluación del desempeño||S|lav|C1
+probationary period|período de prueba||S|lav|C1
+severance pay|indemnización por despido||S|lav|C1
+fringe benefits|prestaciones sociales||S|lav|C1
+grievance|reclamación laboral||S|lav|C1
+burnout|desgaste profesional||S|lav|C1
+glass ceiling|techo de cristal||S|lav|C1
+groupthink|pensamiento de grupo||S|lav|C1
+morale|moral del equipo||S|lav|C1
+micromanage|dirigir con exceso de control||V|lav|C1
+empowerment|empoderamiento||S|lav|C1
+succession planning|planificación de la sucesión||S|lav|C1
+headhunter|cazatalentos||S|pro|C1
+cover letter|carta de presentación||S|lav|C1
+job posting|oferta de empleo||S|lav|C1
+shortlist|lista de finalistas||S|lav|C1
+reference check|comprobación de referencias||S|lav|C1
+talent pool|banco de talento||S|lav|C1
+meritocracy|meritocracia||S|lav|C1
+workforce|fuerza laboral||S|lav|C1
+absenteeism|absentismo laboral||S|lav|C1
+work engagement|implicación laboral||S|lav|C1
+pedagogy|pedagogía||S|stu|C1
+syllabus|programa de la asignatura||S|stu|C1
+rubric|rúbrica de evaluación||S|stu|C1
+scaffolding|andamiaje del aprendizaje||S|stu|C1
+formative assessment|evaluación formativa||S|stu|C1
+summative assessment|evaluación sumativa||S|stu|C1
+metacognition|metacognición||S|stu|C1
+rote learning|memorización mecánica||S|stu|C1
+critical thinking|pensamiento crítico||S|stu|C1
+differentiated instruction|enseñanza diferenciada||S|stu|C1
+dropout|abandono escolar||S|stu|C1
+truancy|absentismo escolar||S|stu|C1
+pedagogue|pedagogo||S|pro|C1
+hidden curriculum|currículo oculto||S|stu|C1
+adult education|educación de adultos||S|stu|C1
+grade inflation|inflación de notas||S|stu|C1
+tenure|plaza en propiedad||S|stu|C1
+peer review|revisión por pares||S|stu|C1
+dissertation|tesis doctoral||S|stu|C1
+coursework|trabajos de curso||S|stu|C1
+academic integrity|integridad académica||S|stu|C1
+flipped classroom|aula invertida||S|stu|C1
+learning outcome|resultado de aprendizaje||S|stu|C1
+retainer|anticipo de honorarios||S|pro|C1
+brief|escrito de alegaciones||S|ist|C1
+cross-examination|contrainterrogatorio||S|ist|C1
+malpractice|mala praxis||S|sla|C1
+triage|triaje||S|sla|C1
+intubate|intubar||V|sla|C1
+defibrillator|desfibrilador||S|sla|C1
+informed consent|consentimiento informado||S|sla|C1
+on call|de guardia||A|sla|C1
+load-bearing wall|muro de carga||S|pro|C1
+wiring|cableado||S|pro|C1
+subcontract|subcontratar||V|pro|C1
+scope of work|alcance de los trabajos||S|pro|C1
+audit trail|registro de auditoría||S|pro|C1
+nondisclosure agreement|acuerdo de confidencialidad||S|pro|C1
+letterhead|membrete||S|pro|C1
+billable hours|horas facturables||S|pro|C1
+pro bono|desinteresado y gratuito||A|pro|C1
+statute of limitations|prescripción del delito||S|ist|C1
+affidavit|declaración jurada||S|ist|C1
+tort|responsabilidad civil extracontractual||S|ist|C1
+subpoena|citación judicial||S|ist|C1
+deposition|declaración extrajudicial||S|ist|C1
+rapport|sintonía||S|rel|C1
+kinship|parentesco||S|rel|C1
+estranged|distanciado||A|rel|C1
+reconciliation|reconciliación||S|rel|C1
+feud|enemistad||S|rel|C1
+grudge|rencor||S|rel|C1
+spat|disputa pasajera||S|rel|C1
+confide|confiar intimidades||V|rel|C1
+confidant|confidente||S|rel|C1
+camaraderie|camaradería||S|rel|C1
+platonic|platónico||A|rel|C1
+kindred spirit|alma gemela||S|rel|C1
+falling-out|desavenencia||S|rel|C1
+make amends|hacer las paces||E|rel|C1
+patch things up|reconciliarse||E|rel|C1
+at odds|en desacuerdo||E|rel|C1
+on good terms|en buenos términos||E|rel|C1
+give the cold shoulder|dar la espalda||E|rel|C1
+one-on-one|cara a cara||A|rel|C1
+befriend|entablar amistad con||V|rel|C1
+aloof|distante||A|rel|C1
+overbearing|avasallador||A|rel|C1
+condescending|con tono de superioridad||A|rel|C1
+libretto|libreto||S|mus|C1
+aria|aria||S|mus|C1
+overture|obertura||S|mus|C1
+soprano|soprano||S|mus|C1
+baritone|barítono||S|mus|C1
+mezzo-soprano|mezzosoprano||S|mus|C1
+crescendo|crescendo||S|mus|C1
+stage directions|acotaciones||S|art|C1
+soliloquy|soliloquio||S|art|C1
+prologue|prólogo||S|let|C1
+epilogue|epílogo||S|let|C1
+stanza|estrofa||S|let|C1
+free verse|verso libre||S|let|C1
+rhyme scheme|esquema de rima||S|let|C1
+enjambment|encabalgamiento||S|let|C1
+iambic pentameter|pentámetro yámbico||S|let|C1
+sonnet|soneto||S|let|C1
+elegy|elegía||S|let|C1
+extended metaphor|metáfora continuada||S|let|C1
+catharsis|catarsis||S|art|C1
+standing ovation|ovación cerrada||S|art|C1
+curtain call|salida a saludar||S|art|C1
+intermission|entreacto||S|art|C1
+expedition|expedición||S|vig|C1
+outpost|puesto avanzado||S|vig|C1
+foothold|punto de apoyo||S|vig|C1
+ravine|barranco||S|nat|C1
+gorge|desfiladero||S|nat|C1
+crevasse|grieta glaciar||S|nat|C1
+moraine|morrena||S|nat|C1
+scree|pedregal||S|nat|C1
+taiga|taiga||S|nat|C1
+mesa|cerro tabular||S|nat|C1
+butte|cerro testigo||S|nat|C1
+wadi|cauce seco de un río||S|nat|C1
+bivouac|vivac||S|vig|C1
+provisions|víveres||S|vig|C1
+wayfarer|caminante||S|vig|C1
+sojourn|estancia breve||S|vig|C1
+wanderlust|deseo de recorrer mundo||S|vig|C1
+off the beaten path|fuera de las rutas habituales||E|vig|C1
+whitewater rafting|descenso de aguas bravas||S|sve|C1
+base camp|campamento base||S|vig|C1
+summit|cumbre||S|nat|C1
+ridgeline|línea de cresta||S|nat|C1
+trailhead|comienzo del sendero||S|vig|C1
+cinematography|fotografía cinematográfica||S|cin|C1
+mise-en-scene|puesta en escena||S|cin|C1
+montage|montaje||S|cin|C1
+jump cut|salto de montaje||S|cin|C1
+cross-cutting|montaje alternado||S|cin|C1
+close-up|primer plano||S|cin|C1
+voice-over|voz en off||S|cin|C1
+long take|plano secuencia||S|cin|C1
+establishing shot|plano de situación||S|cin|C1
+flashback|escena retrospectiva||S|cin|C1
+film noir|cine negro||S|cin|C1
+auteur theory|teoría del autor||S|cin|C1
+arthouse|de cine de autor||A|cin|C1
+sleeper hit|éxito sorpresa||S|cin|C1
+character arc|arco del personaje||S|cin|C1
+plot twist|giro argumental||S|cin|C1
+backstory|historia previa||S|cin|C1
+subplot|trama secundaria||S|cin|C1
+cliffhanger|final en vilo||S|cin|C1
+score|banda sonora||S|mus|C1
+screen test|prueba de cámara||S|cin|C1
+denouement|desenlace||S|cin|C1
+typecast|encasillar a un actor||V|cin|C1
+nuclear family|familia nuclear||S|fam|C1
+extended family|familia extensa||S|fam|C1
+breadwinner|sustento de la familia||S|fam|C1
+upbringing|educación en el hogar||S|fam|C1
+sibling rivalry|rivalidad entre hermanos||S|fam|C1
+patriarch|patriarca||S|fam|C1
+matriarch|matriarca||S|fam|C1
+genealogy|genealogía||S|fam|C1
+ancestry|ascendencia||S|fam|C1
+offspring|descendencia||S|fam|C1
+fertility rate|tasa de fecundidad||S|ist|C1
+birthrate|tasa de natalidad||S|ist|C1
+mortality rate|tasa de mortalidad||S|ist|C1
+life expectancy|esperanza de vida||S|ist|C1
+aging population|envejecimiento de la población||S|ist|C1
+demographic transition|transición demográfica||S|ist|C1
+baby boom|explosión de natalidad||S|ist|C1
+migration pattern|patrón migratorio||S|ist|C1
+census|censo||S|ist|C1
+household income|renta familiar||S|fin|C1
+common-law marriage|unión de hecho||S|ist|C1
+empty nest|nido vacío||S|fam|C1
+stepfamily|familia reconstituida||S|fam|C1
+facade|fachada||S|cit|C1
+cornice|cornisa||S|cit|C1
+pediment|frontón||S|cit|C1
+colonnade|columnata||S|cit|C1
+portico|pórtico||S|cit|C1
+atrium|atrio||S|cit|C1
+skylight|claraboya||S|cit|C1
+balustrade|balaustrada||S|cit|C1
+mansard roof|cubierta a la mansarda||S|cit|C1
+brownstone|casa de arenisca rojiza||S|cit|C1
+row house|casa adosada||S|cit|C1
+walk-up|edificio sin ascensor||S|cit|C1
+high-rise|torre de gran altura||S|cit|C1
+waterfront|frente ribereño||S|cit|C1
+streetscape|paisaje urbano||S|cit|C1
+thoroughfare|vía principal||S|cit|C1
+cul-de-sac|calle sin salida||S|cit|C1
+promenade|paseo marítimo||S|cit|C1
+verdant|frondoso||A|nat|C1
+gentrification|aburguesamiento de un barrio||S|cit|C1
+urban sprawl|expansión urbana||S|cit|C1
+skyline|silueta de la ciudad||S|cit|C1
+sommelier|sumiller||S|pro|C1
+vintage|añada||S|ali|C1
+terroir|terruño||S|ali|C1
+appellation|denominación de origen||S|ali|C1
+decant|decantar||V|ris|C1
+corkage|derecho de descorche||S|ris|C1
+charcuterie|charcutería||S|ali|C1
+amuse-bouche|aperitivo de cortesía||S|ris|C1
+mise en place|preparación previa de la cocina||S|ris|C1
+sous vide|cocción al vacío||S|ris|C1
+emulsion|emulsión||S|ris|C1
+roux|base de harina y grasa||S|ris|C1
+brine|salmuera||S|ali|C1
+deglaze|desglasar||V|ris|C1
+sear|sellar a fuego fuerte||V|ris|C1
+julienne|corte en juliana||S|ris|C1
+palate|paladar||S|ali|C1
+tasting flight|tabla de cata||S|ris|C1
+pairing|maridaje||S|ris|C1
+mouthfeel|sensación en boca||S|ris|C1
+aftertaste|retrogusto||S|ali|C1
+tannin|tanino||S|ali|C1
+taxonomy|taxonomía||S|sci|C1
+genus|género taxonómico||S|sci|C1
+phylum|filo||S|sci|C1
+invertebrate|invertebrado||S|ani|C1
+courtship|cortejo||S|ani|C1
+mating ritual|ritual de apareamiento||S|ani|C1
+foraging|búsqueda de alimento||S|ani|C1
+migratory|migratorio||A|ani|C1
+apex predator|superpredador||S|ani|C1
+scavenger|carroñero||S|ani|C1
+diurnal|diurno||A|ani|C1
+herd instinct|instinto de manada||S|ani|C1
+imprinting|impronta||S|ani|C1
+altruism|altruismo||S|ani|C1
+symbiosis|simbiosis||S|sci|C1
+mutualism|mutualismo||S|sci|C1
+parasitism|parasitismo||S|sci|C1
+hybridization|hibridación||S|sci|C1
+ornithology|ornitología||S|sci|C1
+entomology|entomología||S|sci|C1
+plumage|plumaje||S|ani|C1
+swarm|enjambre||S|ani|C1

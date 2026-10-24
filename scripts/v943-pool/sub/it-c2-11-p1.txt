@@ -1,0 +1,310 @@
+obbligazione solidale|obligación solidaria||L|ist|C2
+nullità del contratto|nulidad del contrato||L|ist|C2
+clausola vessatoria|cláusula abusiva||L|ist|C2
+caparra confirmatoria|arras confirmatorias||L|ist|C2
+comodato|comodato (préstamo de uso)||S|ist|C2
+usufrutto|usufructo||S|ist|C2
+servitù prediale|servidumbre predial||L|ist|C2
+dazione in pagamento|dación en pago||L|ist|C2
+fideiussione|fianza (garantía personal)||S|ist|C2
+legittimario|heredero forzoso||S|ist|C2
+quota di legittima|legítima hereditaria||L|ist|C2
+testamento olografo|testamento ológrafo||L|ist|C2
+de cuius|causante (difunto de cuya herencia se reparte)||S|ist|C2
+donazione indiretta|donación indirecta||L|ist|C2
+trascrizione immobiliare|inscripción registral inmobiliaria||L|ist|C2
+titolo di credito|título valor (de crédito)||L|ist|C2
+riserva di proprietà|reserva de dominio||L|ist|C2
+vizio del consenso|vicio del consentimiento||L|ist|C2
+responsabilità aquiliana|responsabilidad extracontractual (aquiliana)||L|ist|C2
+imprevisione|imprevisión (exceso oneroso sobreviniente)||S|ist|C2
+risoluzione per inadempimento|resolución por incumplimiento||L|ist|C2
+mora del debitore|mora del deudor||L|ist|C2
+eccezione di inadempimento|excepción de incumplimiento (excepto non adimpletum)||L|ist|C2
+locazione finanziaria|arrendamiento financiero (leasing)||L|ist|C2
+pegno (garanzia)|prenda (garantía real)||S|ist|C2
+ipoteca giudiziale|hipoteca judicial||L|ist|C2
+azione pauliana|acción pauliana (revocatoria)||L|ist|C2
+arricchimento senza causa|enriquecimiento sin causa||L|ist|C2
+prescrizione decennale|prescripción decenal||L|ist|C2
+decadenza (diritto)|caducidad (pérdida del derecho)||S|ist|C2
+giudice monocratico|juez unipersonal||L|ist|C2
+collegio giudicante|tribunal colegiado (órgano juzgador)||L|ist|C2
+incidente probatorio|incidente probatorio||L|ist|C2
+contumacia (processo)|rebeldía procesal||S|ist|C2
+notifica di comparizione|citación judicial (notificación de comparecencia)||L|ist|C2
+decreto ingiuntivo|mandamiento de pago||L|ist|C2
+atto di precetto|acto de intimación de pago||L|ist|C2
+sequestro conservativo|embargo preventivo||L|ist|C2
+sequestro penale|secuestro (medida cautelar penal)||L|ist|C2
+rito abbreviato|procedimiento abreviado||L|ist|C2
+patteggiamento|conformidad (pena pactada)||S|ist|C2
+querela di parte|querella de parte (del particular)||L|ist|C2
+giuramento decisorio|juramento decisorio||L|ist|C2
+litispendenza|litispendencia||S|ist|C2
+giudicato (penale)|cosa juzgada||S|ist|C2
+azione di rivalsa|acción de reembolso (regreso)||L|ist|C2
+spese di lite|costas judiciales||L|ist|C2
+soccombenza|condena en costas (vencimiento procesal)||S|ist|C2
+liquidazione del danno|liquidación de daños||L|ist|C2
+danno non patrimoniale|daño no patrimonial (moral)||L|ist|C2
+foro competente|fuero competente (jurisdicción)||L|ist|C2
+rito sommario|juicio sumario||L|ist|C2
+fase istruttoria|fase de instrucción||L|ist|C2
+requisitoria|conclusión del fiscal (requisitoria)||S|ist|C2
+arringa (foro)|alegato final (discurso forense)||S|ist|C2
+imputazione (penale)|escrito de imputación||S|ist|C2
+proscioglimento|sobreseimiento||S|ist|C2
+messa alla prova|prueba de aptitud (remisión condicional)||L|ist|C2
+liberazione condizionale|libertad condicional||L|ist|C2
+misura cautelare|medida cautelar personal||L|ist|C2
+parlamento in seduta comune|parlamento en sesión conjunta||L|ist|C2
+legge di revisione costituzionale|ley de revisión constitucional||L|ist|C2
+questione di legittimità|cuestión de legitimidad (constitucional)||L|ist|C2
+giudizio di legittimità|control de constitucionalidad||L|ist|C2
+potestà normativa|potestad normativa||L|ist|C2
+fonte del diritto|fuente del derecho||L|ist|C2
+gerarchia delle fonti|jerarquía normativa||L|ist|C2
+norma primaria|norma primaria (con rango de ley)||L|ist|C2
+principio di non retroattività|principio de irretroactividad||L|ist|C2
+sovranità popolare|soberanía popular||L|ist|C2
+rogito notarile|escritura notarial||L|ist|C2
+copia conforme all'originale|copia conforme al original||L|ist|C2
+autentica di sottoscrizione|autenticación de firma||L|ist|C2
+repertorio notarile|repertorio notarial||L|ist|C2
+procura a vendere|poder para vender||L|ist|C2
+inventario dei beni|inventario de bienes||L|ist|C2
+denuncia di successione|declaración de herencia (a efectos fiscales)||L|ist|C2
+protocollo (notaio)|protocolo (registro notarial)||S|ist|C2
+silenzio assenso|silencio administrativo positivo||L|ist|C2
+provvedimento d'urgenza|medida urgente cautelar||L|ist|C2
+ricorso gerarchiale|recurso jerárquico (alzada)||L|ist|C2
+provvedimento definitivo|acto definitivo||L|ist|C2
+vizio di procedura|vicio de procedimiento||L|ist|C2
+autotutela|autotutela (revisión de oficio de la Administración)||S|ist|C2
+parere vincolante|dictamen vinculante||L|ist|C2
+sopralluogo (accertamento)|inspección ocular||S|ist|C2
+interesse legittimo|interés legítimo (frente a la Administración)||L|ist|C2
+atto amministrativo|acto administrativo||L|ist|C2
+scriminante|eximente (causa de justificación)||S|ist|C2
+dolo specifico|dolo específico (intención calificada)||L|ist|C2
+dolo eventuale|dolo eventual (intención condicionada)||L|ist|C2
+reato omissivo|delito de omisión||L|ist|C2
+recidiva|reincidencia||S|ist|C2
+criminogeno|criminógeno (que favorece el delito)||A|ist|C2
+devianza (criminologia)|conducta desviada||S|ist|C2
+deterrenza|disuasión (efecto disuasorio)||S|ist|C2
+vittimologia|victimología||S|ist|C2
+pene accessorie|penas accesorias||L|ist|C2
+regime carcerario|regimen penitenciario||L|ist|C2
+sorveglianza elettronica|vigilancia electrónica (pulsera)||L|ist|C2
+reato continuato|delito continuado||L|ist|C2
+concorso di persone|concurso de personas (coautoría)||L|ist|C2
+circostanza aggravante|circunstancia agravante||L|ist|C2
+attenuante generica|atenuante genérica||L|ist|C2
+mandante (penale)|mandante (quien encarga el delito)||S|ist|C2
+ricettazione|receptación (negocio con género robado)||S|ist|C2
+abuso d'ufficio|abuso de cargo||L|ist|C2
+strumento di ratifica|instrumento de ratificación||L|ist|C2
+riserva interpretativa|reserva interpretativa (de un tratado)||L|ist|C2
+nazione più favorita|nación más favorecida||L|ist|C2
+giurisdizione universale|jurisdicción universal||L|ist|C2
+immunità giurisdizionale|inmunidad de jurisdicción||L|ist|C2
+diritto consuetudinario|derecho consuetudinario||L|ist|C2
+ius cogens|ius cogens (norma imperativa de derecho internacional)||S|ist|C2
+protocollo facoltativo|protocolo facultativo||L|ist|C2
+arbitrato commerciale|arbitraje comercial||L|ist|C2
+clausola compromissoria|cláusula compromisoria (de arbitraje)||L|ist|C2
+lodo arbitrale|laudo arbitral||L|ist|C2
+arbitrato irrituale|arbitraje libre (sin laudo ejecutable)||L|ist|C2
+mediazione civile|mediación civil||L|ist|C2
+negoziazione assistita|negociación asistida (sin juicio)||L|ist|C2
+diffida (legale)|requerimiento fehaciente||S|ist|C2
+costituzione in giudizio|comparecencia en juicio (constitución procesal)||L|ist|C2
+termine per comparire|plazo para comparecer||L|ist|C2
+contenzioso del lavoro|contencioso laboral||L|ist|C2
+contrattazione collettiva|negociación colectiva||L|ist|C2
+trattativa sindacale|negociación sindical||L|ist|C2
+serrata (sciopero)|cierre patronal||S|ist|C2
+picchettaggio|piquete de huelga||S|ist|C2
+prepensionamento|prejubilación||S|ist|C2
+mansioni (contratto)|funciones del puesto||S|ist|C2
+qualifica dirigenziale|categoría directiva||L|ist|C2
+licenziamento per giusta causa|despido procedente (justa causa)||L|ist|C2
+buonuscita|indemnización por cese (liquidación de salida)||S|ist|C2
+azionista di riferimento|accionista de control||L|ist|C2
+patto parasociale|pacto parasocial||L|ist|C2
+aumento di capitale|ampliación de capital||L|ist|C2
+fusione per incorporazione|fusión por absorción||L|ist|C2
+scissione societaria|escisión de sociedad||L|ist|C2
+concordato fallimentare|convenio concursal (en quiebra)||L|ist|C2
+clausola di prelazione|cláusula de tanteo (adquisición preferente)||L|ist|C2
+vendita a perdita|venta a pérdida (bajo coste)||L|ist|C2
+ordinanza istruttoria|auto de instrucción||L|ist|C2
+onere della prova|carga de la prueba||L|ist|C2
+libero convincimento del giudice|libre apreciación de la prueba||L|ist|C2
+prova documentale|prueba documental||L|ist|C2
+prova testimoniale|prueba testifical||L|ist|C2
+giuramento suppletorio|juramento supletorio||L|ist|C2
+comparsa di risposta|escrito de defensa (contestación a la demanda)||L|ist|C2
+riconvenzione|reconvención (demanda reconvencional)||S|ist|C2
+chiamata in causa|llamamiento a juicio (en garantía)||L|ist|C2
+intervento adesivo|intervención adhesiva (litisconsorcio voluntario)||L|ist|C2
+azione collettiva|acción colectiva (class action)||L|ist|C2
+transazione (diritto)|transacción (acuerdo con renuncia al litigio)||S|ist|C2
+patto di quota lite|pacto de cuota litis||L|ist|C2
+vincolo esterno|ancla externa (disciplina monetaria)||L|fin|C2
+svalutazione competitiva|devaluación competitiva||L|fin|C2
+guerra commerciale|guerra comercial||L|fin|C2
+dazio antidumping|arancel antidumping||L|fin|C2
+dumping|dumping (venta bajo coste en exportación)||S|fin|C2
+imponibile (fiscale)|base imponible||S|fin|C2
+elusione fiscale|elusión fiscal||L|fin|C2
+imposta di bollo|impuesto de timbre (actos jurídicos)||L|fin|C2
+agevolazione fiscale|beneficio fiscal||L|fin|C2
+interpello (fiscale)|consulta tributaria (consulta vinculante)||S|fin|C2
+ravvedimento operoso|rectificación espontánea (con reducción de sanciones)||L|fin|C2
+compensazione di imposte|compensación de impuestos||L|fin|C2
+scudo fiscale|amnistía fiscal (regularización)||L|fin|C2
+accertamento fiscale|comprobación tributaria||L|fin|C2
+lettera di credito|carta de crédito||L|fin|C2
+partita doppia|partida doble||L|fin|C2
+scrittura contabile|asiento contable||L|fin|C2
+chiusura di bilancio|cierre de ejercicio||L|fin|C2
+bilancio consolidato|cuentas consolidadas||L|fin|C2
+nota integrativa|memoria (anexo a las cuentas)||L|fin|C2
+accantonamento|provisión (dotación a fondo)||S|fin|C2
+ammortamento accelerato|amortización acelerada||L|fin|C2
+revisione contabile|auditoría de cuentas||L|fin|C2
+relazione di revisione|informe de auditoría||L|fin|C2
+continuità aziendale|continuidad de la empresa (empresa en funcionamiento)||L|fin|C2
+collocamento azionario|colocación bursátil (de acciones)||L|fin|C2
+flottante (borsa)|free float (capital flotante)||S|fin|C2
+scoperto (borsa)|descubierto (posición corta)||S|fin|C2
+premio (derivati)|prima (de una opción)||S|fin|C2
+prezzo d'esercizio|precio de ejercicio (strike)||L|fin|C2
+derivato esotico|derivado exótico||L|fin|C2
+copertura dinamica|cobertura dinámica (de cartera)||L|fin|C2
+volatilità implicita|volatilidad implícita||L|fin|C2
+titoli a reddito fisso|renta fija (títulos de interés fijo)||L|fin|C2
+declassamento (rating)|degradación (pérdida de calificación)||S|fin|C2
+rischio di controparte|riesgo de contraparte||L|fin|C2
+margine di variazione|margen de variación (llamada de garantías)||L|fin|C2
+camera di compensazione|cámara de compensación||L|fin|C2
+corsa al rialzo|carrera alcista (compra masiva)||L|fin|C2
+corsa al ribasso|carrera bajista (venta masiva)||L|fin|C2
+presa di profitto|realización de beneficios (toma de ganancias)||L|fin|C2
+quadratura dei conti|cuadre de cuentas||L|fin|C2
+avanzo primario|superávit primario||L|fin|C2
+manovra correttiva|presupuesto corrector (modificación a mitad de año)||L|fin|C2
+stabilizzatore automatico|estabilizador automático||L|fin|C2
+curva dei rendimenti|curva de rendimientos (de tipos)||L|fin|C2
+curva invertita|curva invertida (de tipos)||L|fin|C2
+effetto leva|efecto apalancamiento (multiplicador)||L|fin|C2
+arbitraggio (finanza)|arbitraje (financiero)||S|fin|C2
+prudenziale (contabilità)|prudencial (criterio de valoración)||A|fin|C2
+deprezzamento|depreciación (pérdida de valor)||S|fin|C2
+banda di oscillazione|banda de fluctuación||L|fin|C2
+vigilanza prudenziale|supervisión prudencial||L|fin|C2
+adeguatezza patrimoniale|suficiencia patrimonial (de capital)||L|fin|C2
+capitale di vigilanza|capital regulatorio||L|fin|C2
+ponderazione del rischio|ponderación del riesgo (por tipo de activo)||L|fin|C2
+sofferenza (banca)|activo dudoso (crédito incobrable)||S|fin|C2
+incaglio (banca)|impago incipiente (crédito en observación)||S|fin|C2
+tasso usurario|límite de usura (tipo máximo legal)||L|fin|C2
+interesse legale|interés legal (de demora)||L|fin|C2
+mercato primario|mercado primario (de valores)||L|fin|C2
+offerta pubblica di acquisto|opa (oferta pública de compra)||L|fin|C2
+offerta pubblica di sottoscrizione|opv (oferta pública de suscripción)||L|fin|C2
+flottazione (borsa)|salida a bolsa (colocación de acciones)||S|fin|C2
+scalata borsistica|toma hostil (opa hostil)||L|fin|C2
+annacquamento (finanza)|dilución (del capital)||S|fin|C2
+acquisizione a leva|compra apalancada (lbo)||L|fin|C2
+elasticità al prezzo|elasticidad precio (de la demanda)||L|fin|C2
+rendimento decrescente|rendimiento decreciente (ley de)||L|fin|C2
+costo marginale|coste marginal||L|fin|C2
+scambio ineguale|intercambio desigual||L|fin|C2
+sostituzione delle importazioni|sustitución de importaciones||L|fin|C2
+condizionalità|condicionalidad (de los préstamos)||S|fin|C2
+aggiustamento strutturale|ajuste estructural||L|fin|C2
+ristrutturazione del debito|reestructuración de la deuda||L|fin|C2
+cooperazione decentrata|cooperación descentralizada||L|fin|C2
+microcredito|microcrédito||S|fin|C2
+franchigia (assicurazioni)|franquicia (deducible del seguro)||S|fin|C2
+liquidazione del sinistro|liquidación del siniestro||L|fin|C2
+riassicurazione|reaseguro||S|fin|C2
+riserva tecnica|reserva técnica (de la aseguradora)||L|fin|C2
+criptoattività|criptoactivo||S|fin|C2
+finanza decentralizzata|finanzas descentralizadas (defi)||L|fin|C2
+libro mastro distribuito|libro mayor distribuido (dlt)||L|fin|C2
+token di utilità|token de utilidad||L|fin|C2
+banca universale|banca universal||L|fin|C2
+affidamento bancario|concesión de crédito (línea bancaria)||L|fin|C2
+fido bancario|línea de crédito concedida||L|fin|C2
+stretta creditizia|estrechez crediticia (restricción del crédito)||L|fin|C2
+piano di rientro|plan de saneamiento (de la deuda)||L|fin|C2
+provvista di fondi|captación de fondos||L|fin|C2
+intermediazione finanziaria|intermediación financiera||L|fin|C2
+buono del tesoro|bono del tesoro||L|fin|C2
+obbligazione indicizzata|obbligación indexada (a la inflación)||L|fin|C2
+cedola (finanza)|cupón (pago de interés del bono)||S|fin|C2
+estinzione anticipata|cancelación anticipada (del préstamo)||L|fin|C2
+piano di ammortamento|cuadro de amortización (del préstamo)||L|fin|C2
+partecipazione incrociata|participaciones cruzadas (de sociedades)||L|fin|C2
+pacchetto azionario|paquete accionario||L|fin|C2
+pacchetto di controllo|paquete de control (mayoritario)||L|fin|C2
+emissione di prestiti|emisión de empréstitos||L|fin|C2
+riacquisto di azioni proprie|recompra de acciones propias (buyback)||L|fin|C2
+tesoreria (aziendale)|tesorería (gestión de caja de la empresa)||S|fin|C2
+capitale circolante|capital circulante (fondo de maniobra)||L|fin|C2
+paniere (statistica)|cesta (canasta de la estadística)||S|fin|C2
+sconto di emissione|descuento de emisión (del bono)||L|fin|C2
+premio di emissione|prima de emisión (sobre la par)||L|fin|C2
+cedolare secca|tributación única (sobre alquileres)||L|fin|C2
+inversione del soggetto passivo|inversión del sujeto pasivo (iva)||L|fin|C2
+regime forfettario|régimen de estimación objetiva (forfait)||L|fin|C2
+sostituto d'imposta|retenedor fiscal (sustituto del impuesto)||L|fin|C2
+ritenuta d'acconto|retención a cuenta||L|fin|C2
+minimo imponibile|mínimo imponible||L|fin|C2
+accertamento con adesione|comprobación por acuerdo (con conformidad)||L|fin|C2
+condono fiscale|condonación fiscal||L|fin|C2
+rottamazione delle cartelle|regularización de deudas tributarias (a plazos)||L|fin|C2
+cartella di pagamento|notificación de pago (apremio tributario)||L|fin|C2
+ruolo (esattorio)|lista de apremio (padrón de deudores)||S|fin|C2
+storno (contabilità)|anulación (asiento revertido)||S|fin|C2
+mastrino|mayor (libro mayor auxiliar)||S|fin|C2
+giacenza media|saldo medio (depósito medio)||L|fin|C2
+giro di affari|volumen de negocios (cifra de ventas)||L|fin|C2
+punto di pareggio|umbral de rentabilidad (punto de equilibrio)||L|fin|C2
+leva operativa|apalancamiento operativo||L|fin|C2
+tasso interno di rendimento|tasa interna de retorno (tir)||L|fin|C2
+attualizzazione|actualización (descuento de flujos)||S|fin|C2
+valore residuo|valor residual||L|fin|C2
+aliquota marginale|tipo marginal (alícuota marginal)||L|fin|C2
+progressività fiscale|progresividad fiscal||L|fin|C2
+pianificazione successoria|planificación sucesoria (fiscal)||L|fin|C2
+interposizione fiduciaria|interpósita persona (testaferro fiduciario)||L|fin|C2
+riporto (finanza)|diferimiento (posición aplazada)||S|fin|C2
+lettera di garanzia|carta de garantía (bancaria)||L|fin|C2
+apertura di credito|apertura de crédito||L|fin|C2
+anticipazione bancaria|anticipo bancario (sobre créditos)||L|fin|C2
+salvo buon fine|salvo buen fin (condición suspensiva)||E|fin|C2
+procedura concorsuale|procedimiento concursal (insolvencia)||L|fin|C2
+amministrazione straordinaria|administración extraordinaria (intervención)||L|fin|C2
+commissariamento|comisariamiento (intervención administrativa)||S|fin|C2
+curatela|curaduría (administración del concurso)||S|fin|C2
+credito privilegiato|crédito privilegiado (con preferencia)||L|fin|C2
+cessione del quinto|cesión del quinto (retención en nómina)||L|fin|C2
+delegazione di pagamento|delegación de pago (subrogación por el banco)||L|fin|C2
+surroga (mutuo)|subrogación (cambio de hipoteca)||S|fin|C2
+portabilità del mutuo|portabilidad de la hipoteca||L|fin|C2
+scrittura privata|escritura privada (sin intervención notarial)||L|ist|C2
+preliminare di vendita|contrato de arras (preliminar de compraventa)||L|ist|C2
+opposizione al decreto ingiuntivo|oposición al mandamiento de pago||L|ist|C2
+sospensione condizionale della pena|suspensión condicional de la pena||L|ist|C2
+prescrizione (penale)|prescripción (penal)||S|ist|C2
+obbligo di motivazione|deber de motivación (de las resoluciones)||L|ist|C2
+deposito della sentenza|depósito de la sentencia (publicación)||L|ist|C2
+esecuzione in forma specifica|ejecución en forma específica||L|ist|C2
+interesse moratorio|interés de demora (moratorio)||L|fin|C2
+garanzia di primo ordine|garantía de primer rango (senior)||L|fin|C2

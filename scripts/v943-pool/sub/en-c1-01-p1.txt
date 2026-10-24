@@ -1,0 +1,309 @@
+tort|delito civil||S|ist|C1
+litigation|litigio||S|ist|C1
+plaintiff|demandante||S|ist|C1
+breach|incumplimiento||S|ist|C1
+indemnity|indemnización||S|ist|C1
+liable|legalmente responsable||A|ist|C1
+negligence|negligencia||S|ist|C1
+statute of limitations|plazo de prescripción||L|ist|C1
+injunction|medida cautelar||S|ist|C1
+fiduciary|fiduciario||A|ist|C1
+misrepresentation|alegación engañosa||S|ist|C1
+consideration|contraprestación||S|ist|C1
+specific performance|cumplimiento forzoso||L|ist|C1
+force majeure|fuerza mayor||L|ist|C1
+restitution|restitución||S|ist|C1
+felony|delito grave||S|ist|C1
+misdemeanor|delito menor||S|ist|C1
+plea bargain|acuerdo de culpabilidad||L|ist|C1
+double jeopardy|doble incriminación||L|ist|C1
+mens rea|culpabilidad mental||L|ist|C1
+parole|libertad condicional||S|ist|C1
+recidivism|reincidencia||S|ist|C1
+damages|daños y perjuicios||S|ist|C1
+subpoena|citación judicial||S|ist|C1
+deposition|declaración extrajudicial||S|ist|C1
+perjury|perjurio||S|ist|C1
+hearsay|testimonio de oídas||S|ist|C1
+indictment|escrito de acusación||S|ist|C1
+grand jury|gran jurado||L|ist|C1
+cross-examination|contrainterrogatorio||S|ist|C1
+motion to dismiss|solicitud de sobreseimiento||L|ist|C1
+forensic|forense||A|ist|C1
+ballistics|balística||S|ist|C1
+autopsy|autopsia||S|ist|C1
+coroner|médico forense||S|ist|C1
+burden of proof|carga de la prueba||L|ist|C1
+due process|debido proceso||L|ist|C1
+contempt of court|desacato al tribunal||L|ist|C1
+mistrial|juicio nulo||S|ist|C1
+hung jury|jurado sin veredicto||L|ist|C1
+exculpatory|exculpatorio||A|ist|C1
+incriminate|inculpar||V|ist|C1
+statute|ley escrita||S|ist|C1
+recuse|recusar||V|ist|C1
+summary judgment|juicio sumario||L|ist|C1
+docket|agenda del tribunal||S|ist|C1
+amendment|enmienda||S|ist|C1
+judicial review|control de constitucionalidad||L|ist|C1
+checks and balances|pesos y contrapesos||L|ist|C1
+separation of powers|separación de poderes||L|ist|C1
+federalism|federalismo||S|ist|C1
+impeachment|proceso de destitución||S|ist|C1
+executive order|orden ejecutiva||L|ist|C1
+presidential veto|veto presidencial||L|ist|C1
+unconstitutional|inconstitucional||A|ist|C1
+ratification|ratificación||S|ist|C1
+gerrymandering|manipulación de distritos electorales||S|ist|C1
+suffrage|sufragio||S|ist|C1
+disfranchisement|privación del derecho de voto||S|ist|C1
+sedition|sedición||S|ist|C1
+martial law|ley marcial||L|ist|C1
+censure|censura oficial||S|ist|C1
+writ of certiorari|recurso de certiorari||L|ist|C1
+enumerated powers|poderes explícitos||L|ist|C1
+ex post facto|con efecto retroactivo||L|ist|C1
+filibuster|obstrucción parlamentaria||S|ist|C1
+cloture|cierre del debate||S|ist|C1
+quorum|quórum||S|ist|C1
+bill of attainder|ley de proscripción||L|ist|C1
+triage|triaje||S|sla|C1
+inpatient|paciente ingresado||S|sla|C1
+outpatient|paciente ambulatorio||S|sla|C1
+morbidity|morbilidad||S|sla|C1
+mortality|mortalidad||S|sla|C1
+differential diagnosis|diagnóstico diferencial||L|sla|C1
+prognosis|pronóstico||S|sla|C1
+contraindication|contraindicación||S|sla|C1
+bedside manner|trato al paciente||L|sla|C1
+intubate|intubar||V|sla|C1
+biopsy|biopsia||S|sla|C1
+suture|sutura||S|sla|C1
+cesarean section|cesárea||L|sla|C1
+sedation|sedación||S|sla|C1
+resuscitation|reanimación||S|sla|C1
+remission|remisión||S|sla|C1
+metastasize|producir metástasis||V|sla|C1
+malignant|maligno||A|sla|C1
+screening|cribado||S|sla|C1
+gurney|camilla||S|sla|C1
+sepsis|sepsis||S|sla|C1
+catheter|catéter||S|sla|C1
+dialysis|diálisis||S|sla|C1
+pharmacology|farmacología||S|sla|C1
+dosage|pauta de dosis||S|sla|C1
+placebo|placebo||S|sla|C1
+double-blind|doble ciego||A|sla|C1
+randomized controlled trial|ensayo controlado aleatorizado||L|sla|C1
+informed consent|consentimiento informado||L|sla|C1
+adverse reaction|reacción adversa||L|sla|C1
+bioavailability|biodisponibilidad||S|sla|C1
+half-life|vida media||L|sla|C1
+metabolize|metabolizar||V|sla|C1
+opioid|opioide||S|sla|C1
+analgesic|analgésico||S|sla|C1
+antibiotic resistance|resistencia a los antibióticos||L|sla|C1
+drug interaction|interacción medicamentosa||L|sla|C1
+titrate|ajustar gradualmente la dosis||V|sla|C1
+pharmacokinetics|farmacocinética||S|sla|C1
+clinical trial|ensayo clínico||L|sla|C1
+endpoint|criterio de valoración||S|sla|C1
+placebo effect|efecto placebo||L|sla|C1
+tolerance|tolerancia||S|sla|C1
+withdrawal symptoms|síntomas de abstinencia||L|sla|C1
+active ingredient|principio activo||L|sla|C1
+off-label|fuera de indicación||A|sla|C1
+psychopathology|psicopatología||S|sla|C1
+bipolar disorder|trastorno bipolar||L|sla|C1
+schizophrenia|esquizofrenia||S|sla|C1
+delusion|idea delirante||S|sla|C1
+hallucination|alucinación||S|sla|C1
+paranoia|paranoia||S|sla|C1
+obsessive-compulsive|obsesivo-compulsivo||A|sla|C1
+antidepressant|antidepresivo||S|sla|C1
+anxiolytic|ansiolítico||S|sla|C1
+neurosis|neurosis||S|sla|C1
+catatonia|catatonia||S|sla|C1
+hypochondria|hipocondría||S|sla|C1
+alexithymia|alexitimia||S|sla|C1
+comorbidity|comorbilidad||S|sla|C1
+onset|comienzo de la enfermedad||S|sla|C1
+personality disorder|trastorno de la personalidad||L|sla|C1
+suicidal ideation|ideación suicida||L|sla|C1
+electroconvulsive therapy|terapia electroconvulsiva||L|sla|C1
+etiology|etiología||S|sla|C1
+malinger|simular una enfermedad||V|sla|C1
+somatoform|somatomorfo||A|sla|C1
+intrusive thoughts|pensamientos intrusivos||L|sla|C1
+bioethics|bioética||S|sla|C1
+autonomy|autonomía||S|sla|C1
+beneficence|beneficencia||S|sla|C1
+nonmaleficence|no maleficencia||S|sla|C1
+paternalism|paternalismo||S|sla|C1
+doctor-patient confidentiality|secreto médico||L|sla|C1
+advance directive|declaración de voluntades anticipadas||L|sla|C1
+surrogate decision-maker|representante sanitario||S|sla|C1
+allocation of resources|asignación de recursos||L|sla|C1
+brain death|muerte encefálica||L|sla|C1
+palliative care|cuidados paliativos||L|sla|C1
+hospice|asistencia a enfermos terminales||S|sla|C1
+physician-assisted suicide|suicidio asistido||L|sla|C1
+clinical equipoise|equilibrio clínico||L|sla|C1
+vivisection|vivisección||S|sla|C1
+animal testing|experimentación con animales||L|sla|C1
+human experimentation|experimentación con seres humanos||L|sla|C1
+coercion|coacción||S|sla|C1
+embryonic stem cell|célula madre embrionaria||L|sla|C1
+personhood|condición de persona||S|sla|C1
+medical futility|inutilidad terapéutica||L|sla|C1
+organ procurement|obtención de órganos||L|sla|C1
+do not resuscitate|orden de no reanimar||E|sla|C1
+monetary policy|política monetaria||L|fin|C1
+fiscal policy|política fiscal||L|fin|C1
+hyperinflation|hiperinflación||S|fin|C1
+quantitative easing|flexibilización cuantitativa||L|fin|C1
+basis point|punto básico||L|fin|C1
+yield curve|curva de rendimientos||L|fin|C1
+stagflation|estanflación||S|fin|C1
+contraction|contracción económica||S|fin|C1
+gross domestic product|producto interior bruto||L|fin|C1
+unemployment rate|tasa de desempleo||L|fin|C1
+money supply|oferta monetaria||L|fin|C1
+liquidity|liquidez||S|fin|C1
+solvency|solvencia||S|fin|C1
+deleverage|reducir el apalancamiento||V|fin|C1
+discount rate|tipo de descuento||L|fin|C1
+open market operations|operaciones de mercado abierto||L|fin|C1
+mandate|mandato||S|fin|C1
+transmission mechanism|mecanismo de transmisión||L|fin|C1
+deflation|deflación||S|fin|C1
+devaluation|devaluación||S|fin|C1
+austerity|austeridad||S|fin|C1
+soft landing|aterrizaje suave||L|fin|C1
+fractional reserve banking|banca de reserva fraccionaria||L|fin|C1
+tariff|arancel||S|fin|C1
+countervailing duty|derecho compensatorio||L|fin|C1
+trade deficit|déficit comercial||L|fin|C1
+current account deficit|déficit por cuenta corriente||L|fin|C1
+dumping|venta por debajo del coste||S|fin|C1
+protectionism|proteccionismo||S|fin|C1
+protectionist|proteccionista||A|fin|C1
+import quota|cuota de importación||L|fin|C1
+export subsidy|subvención a la exportación||L|fin|C1
+comparative advantage|ventaja comparativa||L|fin|C1
+trade war|guerra comercial||L|fin|C1
+economic sanctions|sanciones económicas||L|fin|C1
+customs union|unión aduanera||L|fin|C1
+liberalization|liberalización comercial||S|fin|C1
+outsourcing|externalización||S|fin|C1
+offshoring|deslocalización||S|fin|C1
+supply chain|cadena de suministro||L|fin|C1
+safeguard clause|cláusula de salvaguardia||L|fin|C1
+import substitution|sustitución de importaciones||L|fin|C1
+customs clearance|despacho de aduanas||L|fin|C1
+smuggling|contrabando||S|fin|C1
+exemption|exención arancelaria||S|fin|C1
+balance sheet|balance de situación||L|fin|C1
+income statement|cuenta de resultados||L|fin|C1
+cash flow|flujo de caja||L|fin|C1
+accrual accounting|contabilidad de devengo||L|fin|C1
+depreciation|depreciación||S|fin|C1
+amortization|amortización||S|fin|C1
+goodwill|fondo de comercio||S|fin|C1
+audit trail|pista de auditoría||L|fin|C1
+forensic accounting|contabilidad forense||L|fin|C1
+write-down|minoración contable||S|fin|C1
+deferred revenue|ingreso diferido||L|fin|C1
+fiscal year|ejercicio fiscal||L|fin|C1
+ledger|libro mayor||S|fin|C1
+bookkeeping|llevanza de contabilidad||S|fin|C1
+reconciliation|conciliación||S|fin|C1
+internal controls|controles internos||L|fin|C1
+materiality|importancia relativa||S|fin|C1
+going concern|empresa en funcionamiento||L|fin|C1
+auditor's report|informe de auditoría||L|fin|C1
+shareholder equity|patrimonio neto||L|fin|C1
+retained earnings|beneficios no distribuidos||L|fin|C1
+impairment|deterioro de valor||S|fin|C1
+overhead|gastos generales||S|fin|C1
+derivative|derivado financiero||S|fin|C1
+futures|futuros financieros||S|fin|C1
+put option|opción de venta||L|fin|C1
+call option|opción de compra||L|fin|C1
+short selling|venta en corto||L|fin|C1
+hedging|cobertura de riesgo||S|fin|C1
+leverage|apalancamiento||S|fin|C1
+volatility|volatilidad||S|fin|C1
+sovereign default|impago soberano||L|fin|C1
+credit default swap|permuta de cobertura de impago||L|fin|C1
+counterparty|contraparte||S|fin|C1
+margin call|llamada de margen||L|fin|C1
+bear market|mercado bajista||L|fin|C1
+bull market|mercado alcista||L|fin|C1
+asset bubble|burbuja de activos||L|fin|C1
+portfolio diversification|diversificación de cartera||L|fin|C1
+risk aversion|aversión al riesgo||L|fin|C1
+arbitrage|arbitraje||S|fin|C1
+trading floor|parqué||S|fin|C1
+securities|valores negociables||S|fin|C1
+initial public offering|oferta pública de venta||L|fin|C1
+junk bond|bono basura||L|fin|C1
+systemic risk|riesgo sistémico||L|fin|C1
+genome|genoma||S|sci|C1
+allele|alelo||S|sci|C1
+mutation|mutación||S|sci|C1
+nucleotide|nucleótido||S|sci|C1
+ribosome|ribosoma||S|sci|C1
+mitochondrial|mitocondrial||A|sci|C1
+transcription|transcripción genética||S|sci|C1
+meiosis|meiosis||S|sci|C1
+mitosis|mitosis||S|sci|C1
+chromosome|cromosoma||S|sci|C1
+sequencing|secuenciación||S|sci|C1
+heritability|heredabilidad||S|sci|C1
+genotype|genotipo||S|sci|C1
+phenotype|fenotipo||S|sci|C1
+homozygous|homocigoto||A|sci|C1
+heterozygous|heterocigoto||A|sci|C1
+recessive|recesivo||A|sci|C1
+germline|línea germinal||S|sci|C1
+epigenetics|epigenética||S|sci|C1
+plasmid|plásmido||S|sci|C1
+telomere|telómero||S|sci|C1
+codon|codón||S|sci|C1
+gene expression|expresión génica||L|sci|C1
+antibody|anticuerpo||S|sci|C1
+antigen|antígeno||S|sci|C1
+pathogen|patógeno||S|sci|C1
+immune response|respuesta inmunitaria||L|sci|C1
+lymphocyte|linfocito||S|sci|C1
+cytokine|citoquina||S|sci|C1
+humoral|humoral||A|sci|C1
+microbiome|microbioma||S|sci|C1
+antimicrobial|antimicrobiano||A|sci|C1
+vaccine hesitancy|reticencia a la vacunación||L|sci|C1
+herd immunity|inmunidad de grupo||L|sci|C1
+seroprevalence|seroprevalencia||S|sci|C1
+pathogenesis|patogenia||S|sci|C1
+virulence|virulencia||S|sci|C1
+viral strain|cepa vírica||L|sci|C1
+incubation period|periodo de incubación||L|sci|C1
+virology|virología||S|sci|C1
+macrophage|macrófago||S|sci|C1
+spike protein|proteína de espícula||L|sci|C1
+biofilm|biopelícula||S|sci|C1
+thymus|timo||S|sci|C1
+complement system|sistema del complemento||L|sci|C1
+synapse|sinapsis||S|sci|C1
+neurotransmitter|neurotransmisor||S|sci|C1
+cortex|corteza cerebral||S|sci|C1
+neuroplasticity|neuroplasticidad||S|sci|C1
+myelin|mielina||S|sci|C1
+myelination|mielinización||S|sci|C1
+axon|axón||S|sci|C1
+dendrite|dendrita||S|sci|C1
+cognition|cognición||S|sci|C1
+cognitive control|control cognitivo||L|sci|C1
+working memory|memoria de trabajo||L|sci|C1
+brain atrophy|atrofia cerebral||L|sci|C1
+concussion|conmoción cerebral||S|sci|C1

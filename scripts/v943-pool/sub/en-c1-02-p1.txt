@@ -1,0 +1,299 @@
+bandwidth|ancho de banda||S|tec|C1
+broadband|banda ancha||S|tec|C1
+firewall|cortafuegos||S|tec|C1
+router|enrutador||S|tec|C1
+latency|latencia||S|tec|C1
+throughput|caudal de datos||S|tec|C1
+packet switching|conmutación de paquetes||S|tec|C1
+roaming|itinerancia de datos||S|tec|C1
+handoff|traspaso de señal||S|tec|C1
+wavelength|longitud de onda||S|tec|C1
+fiber optics|fibra óptica||S|tec|C1
+airwaves|espectro radioeléctrico||S|tec|C1
+dead zone|zona sin cobertura||S|tec|C1
+encryption|cifrado||S|tec|C1
+signal booster|amplificador de señal||S|tec|C1
+rollout|despliegue de una red||S|tec|C1
+modem|módem||S|tec|C1
+dial-up|línea conmutada||S|tec|C1
+dropped call|llamada interrumpida||S|tec|C1
+patch|parche de software||S|tec|C1
+malware|programa malicioso||S|tec|C1
+phishing|suplantación de identidad en línea||S|tec|C1
+outage|apagón de servicio||S|tec|C1
+reactor|reactor nuclear||S|sci|C1
+meltdown|fusión del núcleo||S|sci|C1
+containment vessel|vasija de contención||S|sci|C1
+fuel rod|barra de combustible||S|sci|C1
+enrichment|enriquecimiento de uranio||S|sci|C1
+chain reaction|reacción en cadena||S|sci|C1
+fission|fisión||S|sci|C1
+fusion|fusión nuclear||S|sci|C1
+half-life|periodo de semidesintegración||S|sci|C1
+reactor core|núcleo del reactor||S|sci|C1
+cooling tower|torre de refrigeración||S|sci|C1
+nuclear waste|residuos radiactivos||S|sci|C1
+spent fuel|combustible gastado||S|sci|C1
+decommission|clausurar una central nuclear||V|sci|C1
+turbine|turbina||S|sci|C1
+grid|red eléctrica||S|sci|C1
+substation|subestación||S|sci|C1
+load shedding|recorte programado de carga||S|sci|C1
+baseload|carga base||S|sci|C1
+offshore wind|eólica marina||S|sci|C1
+fissile material|material fisible||S|sci|C1
+radiation leak|fuga radiactiva||S|sci|C1
+coolant|refrigerante||S|sci|C1
+cockpit|cabina de mando||S|tra|C1
+fuselage|fuselaje||S|tra|C1
+rudder|timón de dirección||S|tra|C1
+landing gear|tren de aterrizaje||S|tra|C1
+thrust|empuje||S|sci|C1
+liftoff|despegue de un cohete||S|sci|C1
+docking|acoplamiento de naves||S|sci|C1
+payload|carga útil||S|sci|C1
+booster|cohete propulsor||S|sci|C1
+countdown|cuenta atrás||S|sci|C1
+splashdown|amaraje||S|sci|C1
+spacewalk|caminata espacial||S|sci|C1
+launch pad|plataforma de lanzamiento||S|sci|C1
+stall|pérdida de sustentación||S|tra|C1
+jet stream|corriente en chorro||S|sci|C1
+escape velocity|velocidad de escape||S|sci|C1
+zero gravity|ingravidez||S|sci|C1
+space probe|sonda espacial||S|sci|C1
+rover|vehículo de exploración planetaria||S|sci|C1
+reentry|reentrada atmosférica||S|sci|C1
+nozzle|tobera||S|sci|C1
+aileron|alerón||S|tra|C1
+black box|caja negra||S|tra|C1
+actuator|actuador||S|tec|C1
+gripper|pinza de sujeción||S|tec|C1
+assembly line|cadena de montaje||S|tec|C1
+automation|automatización||S|tec|C1
+feedback loop|bucle de retroalimentación||S|tec|C1
+calibrate|calibrar||V|tec|C1
+torque|par motor||S|tec|C1
+servomechanism|servomecanismo||S|tec|C1
+conveyor belt|cinta transportadora||S|tec|C1
+robotics|robótica||S|tec|C1
+haptic|háptico||A|tec|C1
+hydraulic|hidráulico||A|tec|C1
+pneumatic|neumático||A|tec|C1
+gearbox|caja de engranajes||S|tec|C1
+blueprint|plano técnico||S|tec|C1
+schematic|esquema técnico||S|tec|C1
+firmware|software integrado||S|tec|C1
+heuristic|heurística||S|tec|C1
+computer vision|visión artificial||S|tec|C1
+kinematics|cinemática||S|sci|C1
+degrees of freedom|grados de libertad||S|tec|C1
+robotic arm|brazo robótico||S|tec|C1
+autopilot|piloto automático||S|tec|C1
+greenhouse effect|efecto invernadero||S|cli|C1
+carbon footprint|huella de carbono||S|cli|C1
+sea level rise|subida del nivel del mar||S|cli|C1
+permafrost|suelo permanentemente helado||S|cli|C1
+ice core|testigo de hielo||S|sci|C1
+paleoclimate|paleoclima||S|sci|C1
+monsoon|monzón||S|cli|C1
+aridification|aridificación||S|cli|C1
+albedo|albedo||S|sci|C1
+aerosol|aerosol||S|sci|C1
+carbon sink|sumidero de carbono||S|sci|C1
+tipping point|punto de no retorno||S|cli|C1
+acidification|acidificación||S|sci|C1
+weather front|frente meteorológico||S|cli|C1
+isobar|isobara||S|cli|C1
+anemometer|anemómetro||S|sci|C1
+cloudburst|chaparrón torrencial||S|cli|C1
+hailstorm|granizada||S|cli|C1
+heat wave|ola de calor||S|cli|C1
+ice sheet|casquete de hielo||S|cli|C1
+glacier retreat|retroceso glaciar||S|cli|C1
+greenhouse gas|gas de efecto invernadero||S|cli|C1
+net zero|cero emisiones netas||S|cli|C1
+seafloor|fondo marino||S|nat|C1
+ocean current|corriente oceánica||S|nat|C1
+thermohaline circulation|circulación termohalina||S|sci|C1
+upwelling|afloramiento de aguas profundas||S|sci|C1
+estuary|estuario||S|nat|C1
+hydrothermal vent|fumarola hidrotermal||S|sci|C1
+kelp forest|bosque de algas||S|nat|C1
+coral bleaching|blanqueamiento de coral||S|nat|C1
+bycatch|captura incidental||S|nat|C1
+trawler|buque de arrastre||S|nat|C1
+sonar|sonar||S|sci|C1
+bathymetry|batimetría||S|sci|C1
+plankton|plancton||S|sci|C1
+salinity|salinidad||S|sci|C1
+benthic|bentónico||A|sci|C1
+abyssal|abisal||A|sci|C1
+tidal range|amplitud de marea||S|nat|C1
+tide pool|charca de marea||S|nat|C1
+marine sanctuary|santuario marino||S|nat|C1
+ocean warming|calentamiento oceánico||S|sci|C1
+krill|krill||S|ani|C1
+cetacean|cetáceo||S|ani|C1
+spawning ground|zona de desove||S|nat|C1
+environmental impact statement|declaración de impacto ambiental||S|ist|C1
+emissions trading|comercio de derechos de emisión||S|ist|C1
+cap and trade|límite y comercio de emisiones||S|ist|C1
+stewardship|custodia del medio ambiente||S|nat|C1
+polluter pays principle|principio de quien contamina paga||S|ist|C1
+endangered species|especie en peligro de extinción||S|nat|C1
+poaching|caza furtiva||S|nat|C1
+logging|tala de árboles||S|nat|C1
+reforestation|repoblación forestal||S|nat|C1
+watershed|cuenca hidrográfica||S|nat|C1
+wetland|humedal||S|nat|C1
+runoff|escorrentía||S|nat|C1
+landfill|vertedero||S|nat|C1
+incinerator|incineradora||S|nat|C1
+remediation|descontaminación||S|nat|C1
+environmental liability|responsabilidad ambiental||S|ist|C1
+zoning|zonificación||S|ist|C1
+easement|servidumbre de paso||S|ist|C1
+moratorium|moratoria||S|ist|C1
+green tax|impuesto ambiental||S|ist|C1
+sustainable yield|rendimiento sostenible||S|nat|C1
+compostable|compostable||A|nat|C1
+overexploitation|sobreexplotación||S|nat|C1
+lesion|lesión||S|sla|C1
+biopsy|biopsia||S|sla|C1
+necrosis|necrosis||S|sla|C1
+gangrene|gangrena||S|sla|C1
+sepsis|sepsis||S|sla|C1
+pathology report|informe anatomopatológico||S|sla|C1
+tissue sample|muestra de tejido||S|sla|C1
+autopsy|autopsia||S|sla|C1
+onset|comienzo de una enfermedad||S|sla|C1
+prognosis|pronóstico||S|sla|C1
+differential diagnosis|diagnóstico diferencial||S|sla|C1
+flare-up|reagudización||S|sla|C1
+chronic|crónico||A|sla|C1
+benign|benigno||A|sla|C1
+malignant|maligno||A|sla|C1
+relapse|recaída||S|sla|C1
+remission|remisión||S|sla|C1
+scar tissue|tejido cicatricial||S|sla|C1
+histology|histología||S|sla|C1
+cytology|citología||S|sla|C1
+specimen|muestra biológica||S|sla|C1
+pathogen|patógeno||S|sla|C1
+etiology|etiología||S|sla|C1
+paradox|paradoja||S|ast|C1
+ontology|ontología||S|ast|C1
+virtue|virtud||S|ast|C1
+epistemology|epistemología||S|ast|C1
+teleology|teleología||S|ast|C1
+determinism|determinismo||S|ast|C1
+free will|libre albedrío||S|ast|C1
+existentialism|existencialismo||S|ast|C1
+nihilism|nihilismo||S|ast|C1
+stoicism|estoicismo||S|ast|C1
+hedonism|hedonismo||S|ast|C1
+relativism|relativismo||S|ast|C1
+dogma|dogma||S|ast|C1
+empiricism|empirismo||S|ast|C1
+rationalism|racionalismo||S|ast|C1
+pragmatism|pragmatismo||S|ast|C1
+dichotomy|dicotomía||S|ast|C1
+ambivalence|ambivalencia||S|ast|C1
+quintessence|quintaesencia||S|ast|C1
+apotheosis|apoteosis||S|ast|C1
+zeitgeist|espíritu de la época||S|ast|C1
+epiphany|epifanía||S|ast|C1
+fallacy|falacia||S|ast|C1
+ad hoc|ad hoc||A|ast|C1
+ad hominem|ad hominem||A|ast|C1
+bona fide|de buena fe||A|ast|C1
+per se|en sí mismo||D|ast|C1
+status quo|statu quo||S|ast|C1
+modus operandi|modus operandi||S|ast|C1
+de facto|de facto||A|ast|C1
+de jure|de iure||A|ast|C1
+prima facie|a primera vista||A|ast|C1
+per capita|per cápita||A|ast|C1
+versus|contra||R|ast|C1
+inter alia|entre otras cosas||D|ast|C1
+sine qua non|condición indispensable||S|ast|C1
+magnum opus|obra maestra||S|art|C1
+oeuvre|obra completa de un artista||S|art|C1
+a priori|a priori||D|ast|C1
+a posteriori|a posteriori||D|ast|C1
+leitmotif|leitmotiv||S|art|C1
+ennui|tedio existencial||S|emo|C1
+doppelganger|doble de una persona||S|ast|C1
+non sequitur|conclusión incongruente||S|ast|C1
+quid pro quo|trueque de favores||S|ast|C1
+ad infinitum|hasta el infinito||D|ast|C1
+carpe diem|aprovecha el día||E|let|C1
+memento mori|recuerda que morirás||E|let|C1
+know thyself|conócete a ti mismo||E|ast|C1
+less is more|menos es más||E|art|C1
+art for art's sake|el arte por el arte||E|art|C1
+divide and conquer|divide y vencerás||E|ast|C1
+power corrupts|el poder corrompe||E|ast|C1
+history repeats itself|la historia se repite||E|ast|C1
+still waters run deep|las aguas mansas esconden profundidad||E|ast|C1
+ignorance is bliss|no saber es un alivio||E|ast|C1
+money talks|el dinero manda||E|fin|C1
+seeing is believing|ver es creer||E|ast|C1
+nothing ventured nothing gained|quien no arriesga no gana||E|ast|C1
+old habits die hard|las viejas costumbres no se erradican||E|ast|C1
+hope springs eternal|la esperanza siempre renace||E|emo|C1
+time heals all wounds|el tiempo lo cura todo||E|emo|C1
+curiosity killed the cat|la curiosidad mató al gato||E|ast|C1
+look before you leap|piensa antes de actuar||E|ast|C1
+better safe than sorry|más vale prevenir que curar||E|ast|C1
+no pain no gain|sin esfuerzo no hay recompensa||E|spt|C1
+easy come easy go|lo que fácil llega fácil se va||E|fin|C1
+practice makes perfect|la práctica hace al maestro||E|stu|C1
+enough is enough|hasta aquí hemos llegado||E|emo|C1
+sarcasm|sarcasmo||S|cmu|C1
+euphemism|eufemismo||S|cmu|C1
+understatement|atenuación deliberada||S|cmu|C1
+hyperbole|hipérbole||S|let|C1
+innuendo|insinuación maliciosa||S|cmu|C1
+double entendre|doble sentido||S|cmu|C1
+tongue-in-cheek|con sorna disimulada||A|cmu|C1
+deadpan|con cara de póker||A|cmu|C1
+facetious|burlón fuera de tono||A|cmu|C1
+sardonic|sardónico||A|cmu|C1
+wry|mordaz||A|cmu|C1
+mockery|burla||S|cmu|C1
+banter|pullas amistosas||S|cmu|C1
+backhanded compliment|cumplido envenenado||S|cmu|C1
+white lie|mentira piadosa||S|cmu|C1
+half-truth|media verdad||S|cmu|C1
+double standard|doble rasero||S|cmu|C1
+hedge|matizar sin comprometerse||V|cmu|C1
+sugarcoat|endulzar una verdad cruda||V|cmu|C1
+downplay|minimizar||V|cmu|C1
+let alone|y mucho menos||C|cnn|C1
+with all due respect|con todos los respetos||E|cmu|C1
+read between the lines|leer entre líneas||E|cmu|C1
+bummed|muy decepcionado||A|cmu|C1
+pumped|muy animado||A|cmu|C1
+wired|acelerado||A|cmu|C1
+ticked off|furioso||A|cmu|C1
+psyched|muy motivado||A|cmu|C1
+nail it|hacerlo perfecto||E|cmu|C1
+blow off steam|desahogarse||E|cmu|C1
+hit the sack|irse a la cama||E|cas|C1
+fork over|soltar a regañadientes||V|cmu|C1
+ditch|plantar a alguien||V|rel|C1
+pig out|atracarse||V|ali|C1
+veg out|no hacer nada||V|sve|C1
+zone out|desconectar||V|cmu|C1
+schlep|ir a rastras||V|cmu|C1
+klutz|torpe||S|cmu|C1
+put the kibosh on|echar por tierra||E|cmu|C1
+bamboozle|engatusar||V|cmu|C1
+hoodwink|dar gato por liebre||V|cmu|C1
+flub|meter la pata||V|cmu|C1
+goof up|fallar estrepitosamente||V|cmu|C1
+whopper|patraña||S|cmu|C1
+racket|negocio turbio||S|cmu|C1
+grub|comida||S|ali|C1

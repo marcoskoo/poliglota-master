@@ -1,0 +1,308 @@
+immanence|inmanencia||S|ast|C1
+transcendence|trascendencia||S|ast|C1
+monism|monismo||S|ast|C1
+dualism|dualismo||S|ast|C1
+materialism|materialismo||S|ast|C1
+idealism|idealismo||S|ast|C1
+universals|universales||S|ast|C1
+sublime|sublime||S|ast|C1
+disinterestedness|desinterés contemplativo||S|ast|C1
+judgment of taste|juicio de gusto||L|ast|C1
+ineffable|inefable||A|ast|C1
+numinous|numinoso||A|ast|C1
+existentialism|existencialismo||S|ast|C1
+nihilism|nihilismo||S|ast|C1
+eternal recurrence|eterno retorno||L|ast|C1
+aesthetics|estética||S|ast|C1
+historiography|historiografía||S|ast|C1
+primary source|fuente primaria||L|ast|C1
+secondary source|fuente secundaria||L|ast|C1
+revisionism|revisionismo||S|ast|C1
+counterfactual|contrafáctico||A|ast|C1
+periodization|periodización||S|ast|C1
+continuity and change|continuidad y cambio||L|ast|C1
+zeitgeist|espíritu de la época||S|ast|C1
+grand narrative|gran relato||L|ast|C1
+metanarrative|metarrelato||S|ast|C1
+prosopography|prosopografía||S|ast|C1
+diplomatics|diplomática||S|ast|C1
+paleography|paleografía||S|ast|C1
+antiquarianism|anticuarismo||S|ast|C1
+presentism|presentismo||S|ast|C1
+source criticism|crítica de fuentes||L|ast|C1
+material culture|cultura material||L|ast|C1
+microhistory|microhistoria||S|ast|C1
+medievalist|medievalista||S|ast|C1
+excavation|excavación||S|sci|C1
+stratification|estratificación||S|sci|C1
+epigraphy|epigrafía||S|ast|C1
+phonology|fonología||S|ast|C1
+morphology|morfología||S|ast|C1
+syntax|sintaxis||S|ast|C1
+semantics|semántica||S|ast|C1
+pragmatics|pragmática||S|ast|C1
+etymology|etimología||S|ast|C1
+morpheme|morfema||S|ast|C1
+phoneme|fonema||S|ast|C1
+minimal pair|par mínimo||L|ast|C1
+diachronic|diacrónico||A|ast|C1
+synchronic|sincrónico||A|ast|C1
+lexicalization|lexicalización||S|ast|C1
+polysemy|polisemia||S|ast|C1
+grammaticalization|gramaticalización||S|ast|C1
+sociolinguistics|sociolingüística||S|ast|C1
+dialectology|dialectología||S|ast|C1
+isogloss|isoglosa||S|ast|C1
+philology|filología||S|ast|C1
+descriptivism|descriptivismo||S|ast|C1
+prescriptivism|prescriptivismo||S|ast|C1
+loanword|préstamo léxico||S|ast|C1
+calque|calco||S|ast|C1
+pidgin|lengua de contacto||S|ast|C1
+psychoanalysis|psicoanálisis||S|ast|C1
+unconscious|inconsciente||S|ast|C1
+superego|superyó||S|ast|C1
+libido|libido||S|ast|C1
+repression|represión||S|ast|C1
+sublimation|sublimación||S|ast|C1
+transference|transferencia||S|ast|C1
+countertransference|contratransferencia||S|ast|C1
+inferiority complex|complejo de inferioridad||L|ast|C1
+defense mechanism|mecanismo de defensa||L|ast|C1
+critical theory|teoría crítica||L|ast|C1
+hegemony|hegemonía||S|ast|C1
+false consciousness|conciencia falsa||L|ast|C1
+commodification|mercantilización||S|ast|C1
+reification|reificación||S|ast|C1
+alienation|alienación||S|ast|C1
+dialectical materialism|materialismo dialéctico||L|ast|C1
+bourgeois|burgués||A|ast|C1
+proletariat|proletariado||S|ast|C1
+praxis|praxis||S|ast|C1
+mirror stage|estadio del espejo||L|ast|C1
+othering|exclusión del otro||S|ast|C1
+geopolitics|geopolítica||S|ist|C1
+deterrence|disuasión||S|ist|C1
+containment|política de contención||S|ist|C1
+sphere of influence|esfera de influencia||L|ist|C1
+proxy war|guerra por delegación||L|ist|C1
+sovereignty|soberanía||S|ist|C1
+annexation|anexión||S|ist|C1
+disarmament|desarme||S|ist|C1
+proliferation|proliferación armamentística||S|ist|C1
+brinkmanship|política del abismo||S|ist|C1
+detente|distensión||S|ist|C1
+diplomacy|diplomacia||S|ist|C1
+diplomatic immunity|inmunidad diplomática||L|ist|C1
+soft power|poder blando||L|ist|C1
+hard power|poder duro||L|ist|C1
+extraterritoriality|extraterritorialidad||S|ist|C1
+buffer zone|zona de amortiguación||L|ist|C1
+landlocked|sin salida al mar||A|ist|C1
+multilateralism|multilateralismo||S|ist|C1
+unilateralism|unilateralismo||S|ist|C1
+coup|golpe de Estado||S|ist|C1
+armistice|armisticio||S|ist|C1
+welfare state|Estado de bienestar||L|ist|C1
+social contract|contrato social||L|ist|C1
+legitimacy|legitimidad||S|ist|C1
+governance|gobernanza||S|ist|C1
+bureaucracy|burocracia||S|ist|C1
+technocracy|tecnocracia||S|ist|C1
+plutocracy|plutocracia||S|ist|C1
+oligarchy|oligarquía||S|ist|C1
+theocracy|teocracia||S|ist|C1
+authoritarianism|autoritarismo||S|ist|C1
+totalitarianism|totalitarismo||S|ist|C1
+populism|populismo||S|ist|C1
+jingoism|jingoísmo||S|ist|C1
+egalitarianism|igualitarismo||S|ist|C1
+libertarianism|libertarismo||S|ist|C1
+policymaking|elaboración de políticas||S|ist|C1
+think tank|laboratorio de ideas||L|ist|C1
+grassroots movement|movimiento de base||L|ist|C1
+constituency|circunscripción electoral||S|ist|C1
+deregulation|desregularización||S|ist|C1
+privatization|privatización||S|ist|C1
+stakeholders|grupos de interés||S|ist|C1
+externality|externalidad||S|fin|C1
+sociology|sociología||S|ast|C1
+anomie|anomia||S|ast|C1
+intergenerational mobility|movilidad intergeneracional||L|ast|C1
+gentrification|gentrificación||S|ast|C1
+urbanization|urbanización||S|ast|C1
+demographic transition|transición demográfica||L|ast|C1
+assimilation|asimilación||S|ast|C1
+acculturation|aculturación||S|ast|C1
+marginalization|marginalización||S|ast|C1
+intersectionality|interseccionalidad||S|ast|C1
+social capital|capital social||L|ast|C1
+cultural capital|capital cultural||L|ast|C1
+habitus|habitus||S|ast|C1
+symbolic violence|violencia simbólica||L|ast|C1
+secularization|secularización||S|ast|C1
+melting pot|crisol de culturas||L|ast|C1
+counterculture|contracultura||S|ast|C1
+bureaucratization|burocratización||S|ast|C1
+upward mobility|movilidad ascendente||L|ast|C1
+deviance|conducta desviada||S|ast|C1
+socialization|socialización||S|ast|C1
+cohort|cohorte||S|ast|C1
+anthropology|antropología||S|ast|C1
+ethnography|etnografía||S|ast|C1
+participant observation|observación participante||L|ast|C1
+kinship|parentesco||S|ast|C1
+totem|tótem||S|ast|C1
+shaman|chamán||S|ast|C1
+worldview|cosmovisión||S|ast|C1
+cultural relativism|relativismo cultural||L|ast|C1
+hybridity|hibridez cultural||S|ast|C1
+diaspora|diáspora||S|ast|C1
+orientalism|orientalismo||S|ast|C1
+subaltern|subalterno||S|ast|C1
+essentialism|esencialismo||S|ast|C1
+liminality|liminalidad||S|ast|C1
+thick description|descripción densa||L|ast|C1
+emic|émico||A|ast|C1
+matrilineal|matrilineal||A|ast|C1
+patrilineal|patrilineal||A|ast|C1
+endogamy|endogamia||S|ast|C1
+exogamy|exogamia||S|ast|C1
+polygamy|poligamia||S|ast|C1
+animism|animismo||S|ast|C1
+folklore|folclore||S|ast|C1
+muckraking|periodismo de denuncia||S|cmu|C1
+whistleblower|denunciante interno||S|cmu|C1
+scoop|primicia||S|cmu|C1
+byline|firma del artículo||S|cmu|C1
+op-ed|artículo de opinión||S|cmu|C1
+press release|nota de prensa||L|cmu|C1
+off the record|extraoficialmente||E|cmu|C1
+leaked document|documento filtrado||L|cmu|C1
+corroborate|corroborar||V|cmu|C1
+retract|rectificar||V|cmu|C1
+defamation|difamación||S|cmu|C1
+libel|difamación escrita||S|cmu|C1
+slander|calumnia||S|cmu|C1
+gag order|orden de silencio||L|cmu|C1
+newsroom|sala de redacción||S|cmu|C1
+editorial board|consejo editorial||L|cmu|C1
+fact-checking|verificación de datos||S|cmu|C1
+clickbait|titular sensacionalista||S|cmu|C1
+echo chamber|cámara de eco||L|cmu|C1
+media bias|sesgo mediático||L|cmu|C1
+freedom of the press|libertad de prensa||L|cmu|C1
+paywall|muro de pago||S|cmu|C1
+musicology|musicología||S|mus|C1
+tonality|tonalidad||S|mus|C1
+atonality|atonalidad||S|mus|C1
+polyphony|polifonía||S|mus|C1
+monophony|monofonía||S|mus|C1
+counterpoint|contrapunto||S|mus|C1
+dissonance|disonancia||S|mus|C1
+chromatic scale|escala cromática||L|mus|C1
+timbre|timbre||S|mus|C1
+syncopation|síncopa||S|mus|C1
+modulation|modulación||S|mus|C1
+crescendo|crescendo||S|mus|C1
+diminuendo|diminuendo||S|mus|C1
+ostinato|ostinato||S|mus|C1
+leitmotif|leitmotiv||S|mus|C1
+sonata form|forma sonata||L|mus|C1
+arpeggio|arpegio||S|mus|C1
+vibrato|vibrato||S|mus|C1
+glissando|glissando||S|mus|C1
+staccato|desprendido||A|mus|C1
+legato|ligado||A|mus|C1
+polyrhythm|polirritmia||S|mus|C1
+twelve-tone|dodecafónico||A|mus|C1
+curation|curaduría||S|art|C1
+curator|comisario de exposición||S|art|C1
+museography|museografía||S|art|C1
+museology|museología||S|art|C1
+patina|pátina||S|art|C1
+restoration|restauración||S|art|C1
+conservation|conservación||S|art|C1
+varnish|barniz||S|art|C1
+provenance|procedencia||S|art|C1
+attribution|atribución||S|art|C1
+forgery|falsificación||S|art|C1
+cataloguing|catalogación||S|art|C1
+vitrine|vitrina||S|art|C1
+plinth|pedestal||S|art|C1
+preventive conservation|conservación preventiva||L|art|C1
+deaccessioning|baja de piezas||S|art|C1
+repatriation|repatriación||S|art|C1
+looting|saqueo||S|art|C1
+gilding|doradura||S|art|C1
+fresco|pintura al fresco||S|art|C1
+craquelure|craquelado||S|art|C1
+pigment|pigmento||S|art|C1
+art connoisseur|conocedor de arte||L|art|C1
+avant-garde|vanguardia||S|art|C1
+abstraction|abstracción||S|art|C1
+figurative|figurativo||A|art|C1
+mixed media|técnica mixta||L|art|C1
+chiaroscuro|claroscuro||S|art|C1
+impasto|empaste||S|art|C1
+sfumato|sfumato||S|art|C1
+trompe l'oeil|trampantojo||S|art|C1
+iconography|iconografía||S|art|C1
+iconology|iconología||S|art|C1
+semiotics|semiótica||S|ast|C1
+formalism|formalismo||S|art|C1
+kitsch|arte ramplón||S|art|C1
+camp|estética exagerada e irónica||S|art|C1
+gestural|gestual||A|art|C1
+site-specific|específico del lugar||A|art|C1
+installation|instalación (obra de arte)||S|art|C1
+conceptual art|arte conceptual||L|art|C1
+abstract expressionism|expresionismo abstracto||L|art|C1
+patronage|mecenazgo||S|art|C1
+connoisseurship|pericia de conocedor||S|art|C1
+vernacular architecture|arquitectura vernácula||L|art|C1
+machine learning|aprendizaje automático||L|tec|C1
+neural network|red neuronal||L|tec|C1
+deep learning|aprendizaje profundo||L|tec|C1
+training data|datos de entrenamiento||L|tec|C1
+overfitting|sobreajuste||S|tec|C1
+underfitting|subajuste||S|tec|C1
+feature extraction|extracción de características||L|tec|C1
+gradient descent|descenso de gradiente||L|tec|C1
+backpropagation|retropropagación||S|tec|C1
+convolutional|convolucional||A|tec|C1
+natural language processing|procesamiento del lenguaje natural||L|tec|C1
+computer vision|visión por computadora||L|tec|C1
+big data|macrodatos||L|tec|C1
+clustering|agrupamiento||S|tec|C1
+fine-tuning|ajuste fino||S|tec|C1
+embedding|representación vectorial||S|tec|C1
+generative model|modelo generativo||L|tec|C1
+autonomous system|sistema autónomo||L|tec|C1
+benchmark|prueba de referencia||S|tec|C1
+explainability|explicabilidad||S|tec|C1
+predictive analytics|analítica predictiva||L|tec|C1
+anomaly detection|detección de anomalías||L|tec|C1
+cryptography|criptografía||S|tec|C1
+encryption|cifrado||S|tec|C1
+public key|clave pública||L|tec|C1
+private key|clave privada||L|tec|C1
+hash function|función hash||L|tec|C1
+cipher|cifrador||S|tec|C1
+plaintext|texto sin cifrar||S|tec|C1
+collision resistance|resistencia a colisiones||L|tec|C1
+brute force attack|ataque de fuerza bruta||L|tec|C1
+phishing|suplantación de identidad||S|tec|C1
+malware|software malicioso||S|tec|C1
+ransomware|secuestro de datos||S|tec|C1
+firewall|cortafuegos||S|tec|C1
+zero-day|vulnerabilidad de día cero||S|tec|C1
+exploit|explotación de vulnerabilidad||S|tec|C1
+penetration testing|prueba de penetración||L|tec|C1
+authentication|autenticación||S|tec|C1
+two-factor authentication|autenticación de dos factores||L|tec|C1
+digital signature|firma digital||L|tec|C1
+obfuscation|ofuscación||S|tec|C1
+botnet|red de ordenadores zombis||S|tec|C1
+side-channel attack|ataque de canal lateral||L|tec|C1
+steganography|esteganografía||S|tec|C1

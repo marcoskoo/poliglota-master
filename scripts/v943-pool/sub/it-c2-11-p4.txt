@@ -1,0 +1,310 @@
+distensione (politica)|distensión (aflojamiento de tensiones)||S|att|C2
+avamposto (geopolitica)|avanzada (puesto avanzado)||S|att|C2
+sfera d'influenza|esfera de influencia||L|att|C2
+stato cuscinetto|estado colchón (país tapón entre bloques)||L|att|C2
+rapporti di forza|relaciones de fuerza (correlación de fuerzas)||L|att|C2
+unilateralismo|unilateralismo||S|att|C2
+multilateralismo|multilateralismo||S|att|C2
+potenza regionale|potencia regional||L|att|C2
+ingerenza (politica)|ingerencia (intromisión en asuntos ajenos)||S|att|C2
+zona d'ombra|zona de sombra (área sin control)||L|att|C2
+stato canaglia|estado canalla||L|att|C2
+paria (politica)|paria (apestado internacional)||S|att|C2
+governabilità|gobernabilidad||S|att|C2
+rendizione dei conti|rendición de cuentas||L|att|C2
+contratto sociale|contrato social||L|att|C2
+perequazione|nivelación (redistribución equitativa)||S|att|C2
+sussidiarietà|subsidiariedad||S|att|C2
+par condicio|par condicio (igualdad de trato en medios)||L|att|C2
+stratificazione sociale|estratificación social||L|att|C2
+mobilità sociale|movilidad social||L|att|C2
+capitale sociale|capital social||L|att|C2
+segregazione residenziale|segregación residencial||L|att|C2
+gentrificazione|gentrificación||S|att|C2
+controcultura|contracultura||S|att|C2
+conformismo|conformismo||S|att|C2
+anomia (sociologia)|anomia (pérdida de normas)||S|att|C2
+assimilazione (sociologia)|asimilación (absorción cultural)||S|att|C2
+ricongiungimento familiare|reagrupación familiar||L|att|C2
+apolidia|apatridia (sin nacionalidad)||S|att|C2
+denatalità|caída de natalidad||S|att|C2
+saldo demografico|saldo demográfico||L|att|C2
+spopolamento|despoblamiento||S|att|C2
+etnografia|etnografía||S|att|C2
+etnocentrismo|etnocentrismo||S|att|C2
+relativismo culturale|relativismo cultural||L|att|C2
+rito di passaggio|rito de paso (de transición)||L|att|C2
+lignaggio|linaje (descendencia unilineal)||S|att|C2
+matriarcato|matriarcado||S|att|C2
+inchiesta giornalistica|reportaje de investigación||L|att|C2
+embargo (stampa)|embargo (de publicación)||S|att|C2
+rettifica (giornalismo)|rectificación (fe de erratas)||S|att|C2
+apertura (giornale)|apertura (primera página)||S|att|C2
+servizio (giornalismo)|reportaje (pieza informativa)||S|att|C2
+intenzione di voto|intención de voto||L|att|C2
+tasso di astensione|tasa de abstención||L|att|C2
+cessate il fuoco|alto el fuego||L|att|C2
+armistizio|armisticio||S|att|C2
+insorgenza|insurgencia (alzamiento armado)||S|att|C2
+pulizia etnica|limpieza étnica||L|att|C2
+crimini di guerra|crímenes de guerra||L|att|C2
+diplomazia preventiva|diplomacia preventiva||L|att|C2
+sovranazionalità|supranacionalidad||S|att|C2
+diritto derivato|derecho derivado (secundario europeo)||L|att|C2
+clausola di salvaguardia|cláusula de salvaguardia||L|att|C2
+sostegno al reddito|ingreso mínimo (apoyo a la renta)||L|att|C2
+povertà educativa|pobreza educativa||L|att|C2
+divario digitale|brecha digital||L|att|C2
+rivendicazione (lotta)|reivindicación (demanda sindical)||S|att|C2
+boicottaggio|boicot (boicoteo)||S|att|C2
+disobbedienza civile|desobediencia civil||L|att|C2
+concussione|concusión (soborno coactivo)||S|att|C2
+illecito (amministrativo)|ilícito administrativo||S|att|C2
+opacità (contabili)|opacidad (cuentas opacas)||S|att|C2
+imputato eccellente|acusado de altura (político imputado)||L|att|C2
+soglia di povertà|umbral de pobreza||L|att|C2
+rimessa (migrazione)|remesa (dinero enviado a casa)||S|att|C2
+apprendimento automatico|aprendizaje automático||L|tec|C2
+rete neurale|red neuronal||L|tec|C2
+retropropagazione dell'errore|retropropagación del error||L|tec|C2
+surapprendimento|sobreajuste (aprendizaje excesivo)||S|tec|C2
+insieme di addestramento|conjunto de entrenamiento||L|tec|C2
+funzione di attivazione|función de activazione||L|tec|C2
+apprendimento profondo|aprendizaje profundo||L|tec|C2
+datificazione|datificación||S|tec|C2
+profilazione (dati)|perfilado (de usuarios)||S|tec|C2
+pseudonimizzazione|pseudonimización||S|tec|C2
+crittografia asimmetrica|criptografía asimétrica||L|tec|C2
+segreto perfetto|secreto perfecto (forward secrecy)||L|tec|C2
+ingegneria sociale|ingeniería social (manipulación para estafa)||L|tec|C2
+difesa perimetrale|defensa perimetrale||L|tec|C2
+segmentazione di rete|segmentación de red||L|tec|C2
+commutazione di pacchetto|conmutación de paquetes||L|tec|C2
+radiofrequenza|radiofrecuencia||S|tec|C2
+rete a maglia|red en malla||L|tec|C2
+litografia (microelettronica)|fotolitografía (de obleas)||S|tec|C2
+oblia (elettronica)|oblea (de silicio)||S|tec|C2
+incapsulamento (elettronica)|encapsulado (del chip)||S|tec|C2
+reattore modulare piccolo|reactor modular pequeño||L|tec|C2
+decadimento radioattivo|desintegración radiactiva||L|tec|C2
+arricchimento (nucleare)|enriquecimiento (de uranio)||S|tec|C2
+spinta specifica|impulso específico||L|tec|C2
+stadio (razzo)|etapa (de cohete)||S|tec|C2
+ammaraggio|amaraje (amerizaje)||S|tec|C2
+assetto (aeronautica)|actitud (orientación de vuelo)||S|tec|C2
+braccio robotizzato|brazo robotizado||L|tec|C2
+automazione di processo|automatización de proceso||L|tec|C2
+controllo numerico|control numérico||L|tec|C2
+teleoperazione|teleoperación (operación remota)||S|tec|C2
+sensoristica|sensorística (red de sensores)||S|tec|C2
+gemello digitale|gemelo digital||L|tec|C2
+esperienza immersiva|experiencia inmersiva||L|tec|C2
+geolocalizzazione|geolocalización||S|tec|C2
+consenso distribuito|consenso distribuido||L|tec|C2
+contratto intelligente|contrato inteligente||L|tec|C2
+identità digitale|identidad digital||L|tec|C2
+autenticazione forte|autenticación reforzada||L|tec|C2
+perdita di biodiversità|pérdida de biodiversidad||L|nat|C2
+impronta di carbonio|huella de carbono||L|nat|C2
+compensazione delle emissioni|compensación de emisiones||L|nat|C2
+mitigazione (clima)|mitigación (del cambio climático)||S|nat|C2
+flusso piroclastico|flujo piroclástico||L|nat|C2
+caldera (vulcanismo)|caldera (cráter colapsado)||S|nat|C2
+fumarola|fumarola||S|nat|C2
+lahar|lahar (flujo de lodo volcánico)||S|nat|C2
+ignimbrite|ignimbrita||S|nat|C2
+torbiera|turbera||S|nat|C2
+bacino idrografico|cuenca hidrográfica||L|nat|C2
+portata (fiume)|caudal (de un río)||S|nat|C2
+regime idrico|régimen hídrico||L|nat|C2
+risorgiva|resurgencia (ojo de agua)||S|nat|C2
+salmastro|salobre (agua salada-dulce)||A|nat|C2
+avvicendamento (colture)|rotación (de cultivos)||S|nat|C2
+sovescio|abonado en verde||S|nat|C2
+sarchiatura|escarda (acción de escardar)||S|nat|C2
+irrigazione a goccia|riego por goteo||L|nat|C2
+aridocoltura|cultivo de secano en árido||S|nat|C2
+desertificazione|desertificación||S|nat|C2
+lisciviazione|lixiviación (lavado de nutrientes)||S|nat|C2
+alpeggio|pasto de altura (trashumancia de verano)||S|nat|C2
+transumanza|trashumancia||S|nat|C2
+allevamento estensivo|ganadería extensiva||L|nat|C2
+acquacoltura|acuicultura||S|nat|C2
+pesca a strascico|pesca de arrastre||L|nat|C2
+novellame|alevinos (cría de peces)||S|nat|C2
+taglio raso|tala a hecho (clear cut)||L|nat|C2
+diradamento|clareo (aclareo forestal)||S|nat|C2
+ceduo|monte bajo (bosque de rebrote)||S|nat|C2
+fronte di fiamma|frente de llama||L|nat|C2
+rifiuti speciali|residuos especiales||L|nat|C2
+compostaggio|compostaje||S|nat|C2
+miniera urbana|mina urbana (chatarra de ciudad)||L|nat|C2
+corologia|corología (distribución de plantas)||S|nat|C2
+endemismo|endemismo (especie propia de un sitio)||S|nat|C2
+sinecologia|sinecología (ecología de comunidades)||S|nat|C2
+fenologia|fenología||S|nat|C2
+impollinazione entomofila|polinización entomófila||L|nat|C2
+bora|bora (viento del norte adriático)||S|nat|C2
+mareggiata|marejada (temporal de mar)||S|nat|C2
+tromba d'aria|tornado (manga de viento)||L|nat|C2
+ciclogenesi|ciclogénesis (nacimiento de borrascas)||S|nat|C2
+governo societario|gobierno societario (corporate governance)||L|lav|C2
+direzione generale|dirección general||L|lav|C2
+organigramma|organigrama||S|lav|C2
+selezione del personale|selección de personal||L|lav|C2
+piano di carriera|plan de carrera||L|lav|C2
+politica retributiva|política retributiva||L|lav|C2
+premio di risultato|prima por resultados (productividad)||L|lav|C2
+clima organizzativo|clima organizacional||L|lav|C2
+assenteismo|absentismo||S|lav|C2
+formazione continua|formación continua||L|lav|C2
+incubatrice d'impresa|incubadora de empresas||S|lav|C2
+capitale di rischio|capital riesgo||L|lav|C2
+diligenza dovuta|diligencia debida (due diligence)||L|lav|C2
+crescita organica|crecimiento orgánico||L|lav|C2
+passaggio di consegne|relevo (traspaso)||L|lav|C2
+catena di fornitura|cadena de suministro||L|lav|C2
+lotto di produzione|lote de producción||L|lav|C2
+tracciabilità|trazabilidad||S|lav|C2
+trasporto intermodale|transporte intermodal||L|lav|C2
+sdoganamento|despacho aduanero||S|lav|C2
+posizionamento (marketing)|posicionamiento (en el mercado)||S|lav|C2
+segmentazione del mercato|segmentación de mercado||L|lav|C2
+testimoniale (pubblicità)|testimonio publicitario||S|lav|C2
+passaparola|boca a boca (publicidad gratis)||S|lav|C2
+sistema di gestione|sistema de gestión||L|lav|C2
+non conformità|no conformidad (incumplimiento)||S|lav|C2
+azione correttiva|acción correctiva||L|lav|C2
+metrologia|metrología||S|lav|C2
+soglia anaerobica|umbral anaeróbico||L|cor|C2
+consumo di ossigeno|consumo de oxígeno||L|cor|C2
+acidosi lattica|acidosis láctica||L|cor|C2
+debito di ossigeno|deuda de oxígeno||L|cor|C2
+recupero attivo|recuperación activa||L|cor|C2
+colpo di calore|golpe de calor||L|cor|C2
+acclimatamento|aclimatación||S|cor|C2
+sovraccarico (sport)|sobrecarga (entrenamiento)||S|cor|C2
+periodizzazione (sport)|periodización (plan del entrenamiento)||S|cor|C2
+propriocezione|propiocepción||S|cor|C2
+percezione dello sforzo|percepción del esfuerzo||L|cor|C2
+termoregolazione|termorregulación||S|cor|C2
+regia (cinema)|dirección (de cine)||S|cin|C2
+caratterizzazione (cinema)|caracterización (vestuario y maquillaje)||S|cin|C2
+piano sequenza|plano secuencia||L|cin|C2
+controcampo|contraplano||S|cin|C2
+carrellata|travelling (dolly)||S|cin|C2
+montaggio alternato|montaje alternado (paralelo)||L|cin|C2
+fuoricampo|fuera de campo||A|cin|C2
+scenografia|escenografía||S|cin|C2
+soggetto (cinema)|sujeto (argumento del film)||S|cin|C2
+cinefilia|cinofilia (afición al cine)||S|cin|C2
+anteprima (cinema)|avance (preestreno)||S|cin|C2
+denominazione di origine|denominación de origen||L|ali|C2
+annata (vino)|añada (vino de un año)||S|ali|C2
+millesimato|millesimado (con año de cosecha)||A|ali|C2
+affinamento (vino)|crianza (envejecimiento controlado)||S|ali|C2
+maderizzazione|maderización (olor a oxidado del vino)||S|ali|C2
+verticale (degustazione)|vertical (cata de añadas)||S|ali|C2
+decantazione (vino)|decantación||S|ali|C2
+riduzione (cucina)|reducción (fondo concentrado)||S|ali|C2
+glassatura|glaseado (brillar con gelatina)||S|ali|C2
+mantecatura|mantecado (batido para helado)||S|ali|C2
+frollatura|maduración (envejecido de carne)||S|ali|C2
+impiattamento|emplatado||S|ali|C2
+chilometro zero|kilómetro cero (producción local)||L|ali|C2
+sistematica (biologia)|sistemática (clasificación)||S|ani|C2
+olotipo|holotipo (ejemplar tipo)||S|ani|C2
+specie sorelle|especies hermanas||L|ani|C2
+etogramma|etograma (catálogo de conductas)||S|ani|C2
+parata nuziale|parada nupcial||L|ani|C2
+rotta migratoria|ruta migratoria||L|ani|C2
+svernamento|invernada (paso del invierno)||S|ani|C2
+predazione (biologia)|depredación (acción de cazar)||S|ani|C2
+saprofago|saprófago (que come materia en descomposición)||A|ani|C2
+palco (cervo)|asta (cuerna del ciervo)||S|ani|C2
+atavismo|atavismo (reaparición de rasgos lejanos)||S|ani|C2
+selezione artificiale|selección artificial||L|ani|C2
+stanziale|sedentario (que no migra)||A|ani|C2
+storicizzazione|historicización (poner en perspectiva histórica)||S|tmp|C2
+durata (filosofia)|duración (tiempo vivido de Bergson)||S|tmp|C2
+memoria collettiva|memoria colectiva||L|tmp|C2
+anacronismo|anacronismo||S|tmp|C2
+concomitanza|concurrencia (coincidencia temporal)||S|tmp|C2
+posticipazione|aplazamiento (retraso de fecha)||S|tmp|C2
+dilazione|dilación (prórroga de plazo)||S|tmp|C2
+istantaneità|instantaneidad||S|tmp|C2
+perennità|perennidad (duración sin fin)||S|tmp|C2
+effimero|efímero||A|tmp|C2
+viabilità|red viaria (viabilidad)||S|cit|C2
+tangenziale|circunvalación (anillo de ronda)||S|cit|C2
+isola pedonale|zona peatonal||L|cit|C2
+arredo urbano|mobiliario urbano||L|cit|C2
+alberature urbane|arbolado urbano||L|cit|C2
+corsia preferenziale|carril bus (carril reservado)||L|cit|C2
+piano regolatore|plan general urbano||L|cit|C2
+conurbazione|conurbación (fusión de ciudades)||S|cit|C2
+rigenerazione urbana|regeneración urbana||L|cit|C2
+mobilità dolce|movilidad suave (a pie y bici)||L|cit|C2
+famiglia monogenitoriale|familia monoparental||L|fam|C2
+primogenitura|mayorazgo (derecho del primogénito)||S|fam|C2
+ultrogenito|benjamín (el hijo menor)||S|fam|C2
+consanguineità|consanguinidad (parentesco de sangre)||S|fam|C2
+affinità (parentela)|afinidad (parentesco por matrimonio)||S|fam|C2
+consuoceri|con suegros (padres de los cónyuges)||S|fam|C2
+convivenza more uxorio|convivencia more uxorio (marital de hecho)||L|fam|C2
+nubilato|soltería (de mujer no casada)||S|fam|C2
+cameratismo|camaradería (compañerismo de armas)||S|rel|C2
+affiatamento|sintonía (entendimiento en equipo)||S|rel|C2
+dimestichezza|desenvoltura (familiaridad con algo)||S|rel|C2
+spavalderia|matonería (valentía arrogante)||S|rel|C2
+goffagine|torpeza (falta de elegancia)||S|rel|C2
+pudore|pudor||S|rel|C2
+ossequio|obsequio (respeto cortés)||S|rel|C2
+deferenza|deferencia||S|rel|C2
+andamento scolastico|rendimiento escolar||L|stu|C2
+valutazione formativa|evaluación formativa||L|stu|C2
+sospensione del giudizio|aprobado condicional (septiembre)||L|stu|C2
+educazione civica|educación cívica||L|stu|C2
+istruzione parentale|educación en casa (homeschooling)||L|stu|C2
+alternanza scuola-lavoro|formación en alternancia||L|stu|C2
+dispersione scolastica|abandono escolar||L|stu|C2
+referto (medicina)|informe (dictamen médico)||S|pro|C2
+consulenza tecnica d'ufficio|pericia judicial (del técnico del juzgado)||L|pro|C2
+compulsa (atto)|cotejo (compulsión de documentos)||S|pro|C2
+nota di credito|nota de abono (rectificadora)||L|pro|C2
+polizza di carico|conocimiento de embarque||L|pro|C2
+fattura proforma|factura proforma||L|pro|C2
+verbale (assemblea)|acta (de la junta)||S|pro|C2
+procura alle liti|poder para pleitos (procurador)||L|pro|C2
+visura (catasto)|nota simple (consulta registral)||S|pro|C2
+mappale|parcela (finca registral)||S|pro|C2
+asta d'antiquariato|subasta de anticuario||L|sve|C2
+battuta d'asta|martillo (puja final)||L|sve|C2
+base d'asta|precio de salida||L|sve|C2
+aggiudicazione|adjudicación (remate)||S|sve|C2
+commissione d'acquisto|comisión del comprador||L|sve|C2
+provenienza (arte)|procedencia (historia de la pieza)||S|sve|C2
+fiera d'antiquariato|feria de anticuarios||L|sve|C2
+bibliofilia|bibliofilia||S|sve|C2
+incunabolo|incunable||S|sve|C2
+carteggio (lettere)|correspondencia (epistolario)||S|sve|C2
+dattiloscritto|mecanoscrito (texto mecanografiado)||S|sve|C2
+risvolto di copertina|solapa (de la sobrecubierta)||L|sve|C2
+frontespizio|portada (frontispicio)||S|sve|C2
+tavola fuori testo|lámina fuera de texto||L|sve|C2
+cresta (alpinismo)|arista (cresta de montaña)||S|vig|C2
+traversata (alpinismo)|travesía (de arista a arista)||S|vig|C2
+cordata|cordada (pareja de escaladores)||S|vig|C2
+sosta (arrampicata)|reunión (punto de seguros)||S|vig|C2
+chiodo (alpinismo)|clavo (en la pared)||S|vig|C2
+via ferrata|vía ferrata||L|vig|C2
+bivacco|vivac (refugio de altura)||S|vig|C2
+gerla|serón (cesta de espalda)||S|vig|C2
+sifone (speleologia)|sifón (pasaje inundado)||S|vig|C2
+strettoia|gatera (paso estrecho)||S|vig|C2
+bollettino nivologico|parte de nieve (avalanchas)||L|vig|C2
+slavina|alud (avalancha pequeña)||S|vig|C2
+cordino|cordino (cuerda fina)||S|vig|C2
+fuga di cervelli|fuga de cerebros (emigración de talento)||L|att|C2
+clausola di non concorrenza|cláusula de no competencia||L|lav|C2
+affaticabilità|fatigabilidad (tolerancia al esfuerzo)||S|cor|C2

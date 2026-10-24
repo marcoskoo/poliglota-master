@@ -1,0 +1,309 @@
+adaptive radiation|radiación adaptativa||S|sci|C1
+convergent evolution|evolución convergente||S|sci|C1
+speciation|especiación||S|sci|C1
+phylogeny|filogenia||S|sci|C1
+cladistics|cladística||S|sci|C1
+morphology|morfología||S|sci|C1
+ancestry|ascendencia||S|sci|C1
+genetic drift|deriva genética||S|sci|C1
+mass extinction|extinción masiva||S|sci|C1
+amber|ámbar||S|sci|C1
+bipedal|bípedo||A|sci|C1
+invertebrate|invertebrado||S|sci|C1
+sediment|sedimento||S|sci|C1
+virology|virología||S|sci|C1
+pathogen|patógeno||S|sla|C1
+viral strain|cepa vírica||S|sla|C1
+retrovirus|retrovirus||S|sci|C1
+antiviral|antivírico||A|sla|C1
+capsid|cápside||S|sci|C1
+viral load|carga viral||S|sla|C1
+latency|latencia||S|sla|C1
+mutation|mutación||S|sla|C1
+spike protein|proteína de la espícula||S|sci|C1
+host cell|célula huésped||S|sci|C1
+airborne|de transmisión aérea||A|sla|C1
+contagious|contagioso||A|sla|C1
+antiretroviral|antirretrovírico||A|sla|C1
+serum|suero||S|sla|C1
+antibody|anticuerpo||S|sla|C1
+titer|título de anticuerpos||S|sci|C1
+in vitro|in vitro||E|sci|C1
+in vivo|in vivo||E|sci|C1
+envelope|envoltura vírica||S|sci|C1
+lytic|lítico||A|sci|C1
+zoonosis|zoonosis||S|sla|C1
+reverse transcriptase|transcriptasa inversa||S|sci|C1
+genome|genoma||S|sci|C1
+genomic|genómico||A|sci|C1
+nuclease|nucleasa||S|sci|C1
+plasmid|plásmido||S|sci|C1
+recombinant|recombinante||A|sci|C1
+transgenic|transgénico||A|sci|C1
+cloning vector|vector de clonación||S|sci|C1
+restriction enzyme|enzima de restricción||S|sci|C1
+ligase|ligasa||S|sci|C1
+base pair|par de bases||S|sci|C1
+sequencing|secuenciación||S|sci|C1
+splicing|empalme (del ARN)||S|sci|C1
+germline|línea germinal||S|sci|C1
+somatic|somático||A|sci|C1
+embryo|embrión||S|sci|C1
+mutagenesis|mutagénesis||S|sci|C1
+proteomics|proteómica||S|sci|C1
+bioethics|bioética||S|sci|C1
+gene therapy|terapia génica||S|sci|C1
+transfection|transfección||S|sci|C1
+pluripotent|pluripotente||A|sci|C1
+stem cell|célula madre||S|sci|C1
+codon|codón||S|sci|C1
+neuroimaging|neuroimagen||S|sci|C1
+brain mapping|mapeo cerebral||S|sci|C1
+magnetic resonance|resonancia magnética||S|sci|C1
+tomography|tomografía||S|sci|C1
+cortex|corteza cerebral||S|sci|C1
+gray matter|materia gris||S|sci|C1
+neurotransmitter|neurotransmisor||S|sci|C1
+axon|axón||S|sci|C1
+dendrite|dendrita||S|sci|C1
+myelin|mielina||S|sci|C1
+thalamus|tálamo||S|sci|C1
+hippocampus|hipocampo||S|sci|C1
+cortical|cortical||A|sci|C1
+diffusion tensor imaging|imagen por tensor de difusión||S|sci|C1
+functional connectivity|conectividad funcional||S|sci|C1
+voxel|vóxel||S|sci|C1
+neuroplasticity|neuroplasticidad||S|sci|C1
+neural activity|actividad neuronal||S|sci|C1
+lesion|lesión||S|sla|C1
+neuroanatomy|neuroanatomía||S|sci|C1
+tractography|tractografía||S|sci|C1
+somatosensory|somatosensorial||A|sci|C1
+blood-brain barrier|barrera hematoencefálica||S|sci|C1
+nanotechnology|nanotecnología||S|sci|C1
+nanoparticle|nanopartícula||S|sci|C1
+nanotube|nanotubo||S|sci|C1
+graphene|grafeno||S|sci|C1
+metamaterial|metamaterial||S|sci|C1
+alloy|aleación||S|sci|C1
+polymer|polímero||S|sci|C1
+composite|material compuesto||S|sci|C1
+hardness|dureza||S|sci|C1
+stiffness|rigidez||S|sci|C1
+coating|recubrimiento||S|sci|C1
+substrate|sustrato||S|sci|C1
+thin film|lámina delgada||S|sci|C1
+microstructure|microestructura||S|sci|C1
+self-assembly|autoensamblaje||S|sci|C1
+biomaterial|biomaterial||S|sci|C1
+superhydrophobic|superhidrofóbico||A|sci|C1
+catalyst|catalizador||S|sci|C1
+glass fiber|fibra de vidrio||S|sci|C1
+abrasion|abrasión||S|sci|C1
+sintering|sinterización||S|sci|C1
+toughness|tenacidad||S|sci|C1
+graphite|grafito||S|sci|C1
+refraction|refracción||S|sci|C1
+diffraction|difracción||S|sci|C1
+wavelength|longitud de onda||S|sci|C1
+photon|fotón||S|sci|C1
+photonic|fotónico||A|sci|C1
+focal length|distancia focal||S|sci|C1
+aperture|diafragma||S|sci|C1
+polarization|polarización||S|sci|C1
+coherence|coherencia||S|sci|C1
+holography|holografía||S|sci|C1
+acoustics|acústica||S|sci|C1
+resonance|resonancia||S|sci|C1
+reverberation|reverberación||S|sci|C1
+decibel|decibelio||S|sci|C1
+infrasound|infrasonido||S|sci|C1
+interferometry|interferometría||S|sci|C1
+specular|especular||A|sci|C1
+dispersion|dispersión||S|sci|C1
+spectral|espectral||A|sci|C1
+fiber optics|fibra óptica||S|sci|C1
+total internal reflection|reflexión total interna||S|sci|C1
+harmonic|armónico||S|sci|C1
+prism|prisma||S|sci|C1
+entropy|entropía||S|sci|C1
+enthalpy|entalpía||S|sci|C1
+isothermal|isotermo||A|sci|C1
+adiabatic|adiabático||A|sci|C1
+thermodynamics|termodinámica||S|sci|C1
+heat transfer|transmisión de calor||S|sci|C1
+convection|convección||S|sci|C1
+viscosity|viscosidad||S|sci|C1
+turbulence|turbulencia||S|sci|C1
+laminar flow|flujo laminar||S|sci|C1
+fluid dynamics|mecánica de fluidos||S|sci|C1
+boundary layer|capa límite||S|sci|C1
+pressure gradient|gradiente de presión||S|sci|C1
+buoyancy|empuje de flotación||S|sci|C1
+compressibility|compresibilidad||S|sci|C1
+vapor pressure|presión de vapor||S|sci|C1
+phase transition|transición de fase||S|sci|C1
+latent heat|calor latente||S|sci|C1
+irreversibility|irreversibilidad||S|sci|C1
+nozzle|tobera||S|sci|C1
+shear stress|esfuerzo cortante||S|sci|C1
+streamline|línea de corriente||S|sci|C1
+manometer|manómetro||S|sci|C1
+cartography|cartografía||S|sci|C1
+topographic|topográfico||A|sci|C1
+isoline|isolínea||S|sci|C1
+remote sensing|teledetección||S|sci|C1
+satellite imagery|imagen de satélite||S|sci|C1
+geospatial|geoespacial||A|sci|C1
+thematic map|mapa temático||S|sci|C1
+map projection|proyección cartográfica||S|sci|C1
+coordinate system|sistema de coordenadas||S|sci|C1
+orthophoto|ortofoto||S|sci|C1
+land cover|cobertura del suelo||S|sci|C1
+digital elevation model|modelo digital de elevación||S|sci|C1
+spatial resolution|resolución espacial||S|sci|C1
+raster data|datos ráster||S|sci|C1
+vector data|datos vectoriales||S|sci|C1
+geodesy|geodesia||S|sci|C1
+benchmark|punto de nivelación||S|sci|C1
+azimuth|acimut||S|sci|C1
+triangulation|triangulación||S|sci|C1
+landform|forma del relieve||S|sci|C1
+surveying|agrimensura||S|sci|C1
+photogrammetry|fotogrametría||S|sci|C1
+interpolation|interpolación||S|sci|C1
+iambic pentameter|pentámetro yámbico||S|let|C1
+metrical|métrico||A|let|C1
+prosody|prosodia||S|let|C1
+stanza|estrofa||S|let|C1
+caesura|cesura||S|let|C1
+rhyme scheme|esquema de rima||S|let|C1
+alliteration|aliteración||S|let|C1
+assonance|asonancia||S|let|C1
+consonance|consonancia||S|let|C1
+enjambment|encabalgamiento||S|let|C1
+meter|metro poético||S|let|C1
+scansion|escansión||S|let|C1
+trochee|troqueo||S|let|C1
+dactyl|dáctilo||S|let|C1
+anapest|anapesto||S|let|C1
+spondee|espondeo||S|let|C1
+blank verse|verso blanco||S|let|C1
+sestina|sextina||S|let|C1
+villanelle|villanella||S|let|C1
+elegy|elegía||S|let|C1
+elision|elisión||S|let|C1
+cadence|cadencia||S|let|C1
+iamb|yambo||S|let|C1
+playwright|dramaturgo||S|let|C1
+staging|puesta en escena||S|art|C1
+soliloquy|soliloquio||S|let|C1
+monologue|monólogo||S|let|C1
+aside|aparte||S|let|C1
+curtain call|saludo final||S|art|C1
+dress rehearsal|ensayo general||S|art|C1
+matinee|función de tarde||S|art|C1
+understudy|suplente||S|art|C1
+improvisation|improvisación||S|art|C1
+farce|farsa||S|let|C1
+melodrama|melodrama||S|let|C1
+comedy of manners|comedia de costumbres||S|let|C1
+one-act play|pieza en un acto||S|art|C1
+set design|escenografía||S|art|C1
+lighting design|diseño de iluminación||S|art|C1
+stage directions|acotaciones||S|let|C1
+prologue|prólogo||S|let|C1
+epilogue|epílogo||S|let|C1
+tragicomedy|tragicomedia||S|let|C1
+blocking|marcación escénica||S|art|C1
+revival|reestreno||S|art|C1
+proscenium|proscenio||S|art|C1
+metonymy|metonimia||S|let|C1
+synecdoche|sinécdoque||S|let|C1
+oxymoron|oxímoron||S|let|C1
+litotes|lítote||S|let|C1
+apostrophe|apóstrofe||S|let|C1
+chiasmus|quiasmo||S|let|C1
+zeugma|zeugma||S|let|C1
+anaphora|anáfora||S|let|C1
+epistrophe|epístrofe||S|let|C1
+euphemism|eufemismo||S|let|C1
+imagery|imaginería poética||S|let|C1
+symbolism|simbolismo||S|let|C1
+allegory|alegoría||S|let|C1
+personification|personificación||S|let|C1
+conceit|agudeza metafórica||S|let|C1
+versification|versificación||S|let|C1
+lyric poetry|poesía lírica||S|let|C1
+pastoral|poema pastoril||S|let|C1
+epigram|epigrama||S|let|C1
+didactic|didáctico||A|let|C1
+pathetic fallacy|falacia patética||S|let|C1
+polysemy|polisemia||S|let|C1
+onomatopoeia|onomatopeya||S|let|C1
+philology|filología||S|let|C1
+classical studies|estudios clásicos||S|let|C1
+etymology|etimología||S|let|C1
+latinism|latinismo||S|let|C1
+vernacular|lengua vernácula||S|let|C1
+codex|códice||S|let|C1
+palimpsest|palimpsesto||S|let|C1
+incunable|incunable||S|let|C1
+paleography|paleografía||S|let|C1
+papyrus|papiro||S|let|C1
+humanist|humanista||S|let|C1
+classical mythology|mitología clásica||S|let|C1
+epic|epopeya||S|let|C1
+dithyramb|ditirambo||S|let|C1
+corpus|corpus||S|let|C1
+lemma|lema (unidad léxica)||S|let|C1
+variant reading|variante textual||S|let|C1
+critical edition|edición crítica||S|let|C1
+stemma|árbol de tradición manuscrita||S|let|C1
+intertextuality|intertextualidad||S|let|C1
+humanities|humanidades||S|let|C1
+antiquity|la Antigüedad||S|let|C1
+source text|texto de origen||S|let|C1
+target language|lengua de llegada||S|let|C1
+source language|lengua de origen||S|let|C1
+equivalence|equivalencia||S|let|C1
+untranslatable|intraducible||A|let|C1
+back-translation|traducción inversa||S|let|C1
+calque|calco||S|let|C1
+loanword|préstamo léxico||S|let|C1
+domestication|domesticación||S|let|C1
+foreignization|extranjerización||S|let|C1
+skopos|finalidad de la traducción||S|let|C1
+translator's note|nota del traductor||S|let|C1
+subtitling|subtitulado||S|let|C1
+dubbing|doblaje||S|cin|C1
+localization|localización (adaptación local)||S|let|C1
+transcreation|transcreación||S|let|C1
+interlingual|interlingüístico||A|let|C1
+machine translation|traducción automática||S|let|C1
+adaptation|adaptación||S|let|C1
+compensation|compensación (estrategia traductora)||S|let|C1
+surtitling|sobretitulado||S|let|C1
+proofreading|corrección de pruebas||S|let|C1
+essayist|ensayista||S|let|C1
+polemic|polémica||S|let|C1
+treatise|tratado||S|let|C1
+line of reasoning|línea de razonamiento||S|let|C1
+critique|crítica (juicio valorativo)||S|let|C1
+rebuttal|refutación||S|let|C1
+refute|refutar||V|let|C1
+sophistry|sofistería||S|let|C1
+fallacy|falacia||S|let|C1
+axiom|axioma||S|let|C1
+premise|premisa||S|let|C1
+dogma|dogma||S|let|C1
+skeptic|escéptico||S|let|C1
+relativism|relativismo||S|let|C1
+determinism|determinismo||S|let|C1
+utilitarianism|utilitarismo||S|let|C1
+nihilism|nihilismo||S|let|C1
+solipsism|solipsismo||S|let|C1
+empiricism|empirismo||S|let|C1
+rationalism|racionalismo||S|let|C1
+objectivity|objetividad||S|let|C1
+standpoint|punto de vista||S|let|C1

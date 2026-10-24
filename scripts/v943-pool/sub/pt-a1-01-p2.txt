@@ -1,0 +1,236 @@
+matemática|matemáticas||S|stu|A1
+história|historia||S|stu|A1
+geografia|geografía||S|stu|A1
+inglês|inglés||S|stu|A1
+dicionário|diccionario||S|stu|A1
+borracha|borrador||S|stu|A1
+régua|regla||S|stu|A1
+praça|plaza||S|cit|A1
+igreja|iglesia||S|cit|A1
+cinema|cine||S|cit|A1
+teatro|teatro||S|cit|A1
+parque|parque||S|cit|A1
+ponte|puente||S|cit|A1
+edifício|edificio||S|cit|A1
+rua|calle||S|cit|A1
+esquerda|izquierda||S|cit|A1
+avenida|avenida||S|cit|A1
+semáforo|semáforo||S|cit|A1
+longe|lejos||D|cit|A1
+virar|girar||V|cit|A1
+subir|subir||V|cit|A1
+chuva|lluvia||S|cli|A1
+chover|llover||V|cli|A1
+nuvem|nube||S|cli|A1
+céu|cielo||S|cli|A1
+calor|calor||S|cli|A1
+trovão|trueno||S|cli|A1
+previsão do tempo|previsión del tiempo||S|cli|A1
+estação do ano|estación del año||S|cli|A1
+ensolarado|soleado||A|cli|A1
+nublado|nublado||A|cli|A1
+t-shirt|camiseta||S|rop|A1
+calções|pantalones cortos||S|rop|A1
+saia|falda||S|rop|A1
+fato de banho|bañador||S|rop|A1
+botão|botón||S|rop|A1
+jaqueta|chaqueta||S|rop|A1
+cinto|cinturón||S|rop|A1
+bota|bota||S|rop|A1
+chinelos|chanclas||S|rop|A1
+sapatilhas|zapatillas de deporte||S|rop|A1
+chapéu|sombrero||S|rop|A1
+boné|gorra||S|rop|A1
+luvas|guantes||S|rop|A1
+lenço|pañuelo||S|rop|A1
+portátil|portátil||S|tec|A1
+câmara fotográfica|cámara de fotos||S|tec|A1
+auscultadores|auriculares||S|tec|A1
+carregador|cargador||S|tec|A1
+pilha|pila||S|tec|A1
+rádio|radio||S|tec|A1
+ecrã|pantalla||S|tec|A1
+ligar|encender||V|tec|A1
+carregar|cargar||V|tec|A1
+palavra-passe|contraseña||S|tec|A1
+correio eletrónico|correo electrónico||S|tec|A1
+descarregar|descargar||V|tec|A1
+aplicação|aplicación||S|tec|A1
+futebol|fútbol||S|spt|A1
+andebol|balonmano||S|spt|A1
+basquetebol|baloncesto||S|spt|A1
+ténis|tenis||S|spt|A1
+natação|natación||S|spt|A1
+nadar|nadar||V|spt|A1
+ciclismo|ciclismo||S|spt|A1
+bola|pelota||S|spt|A1
+equipa|equipo||S|spt|A1
+campo|campo||S|spt|A1
+piscina|piscina||S|spt|A1
+jogador|jugador||S|spt|A1
+gol|gol||S|spt|A1
+raquete|raqueta||S|spt|A1
+piano|piano||S|mus|A1
+violino|violín||S|mus|A1
+guitarra|guitarra||S|mus|A1
+bateria|batería||S|mus|A1
+flauta|flauta||S|mus|A1
+acordeão|acordeón||S|mus|A1
+tambor|tambor||S|mus|A1
+fado|fado||S|mus|A1
+música clássica|música clásica||S|mus|A1
+ópera|ópera||S|mus|A1
+dança|baile||S|mus|A1
+concerto|concierto||S|mus|A1
+comédia|comedia||S|cin|A1
+terror|terror||S|cin|A1
+desenho animado|dibujo animado||S|cin|A1
+série|serie||S|cin|A1
+telejornal|telediario||S|cin|A1
+comédia romântica|comedia romántica||S|cin|A1
+ator|actor||S|cin|A1
+convidar|invitar||V|rel|A1
+encontro|encuentro||S|rel|A1
+sair|salir||V|rel|A1
+colega|compañero||S|rel|A1
+namorado|novio||S|rel|A1
+namorada|novia||S|rel|A1
+banco|banco||S|fin|A1
+conta bancária|cuenta bancaria||S|fin|A1
+agência|sucursal||S|fin|A1
+transferência|transferencia||S|fin|A1
+depósito|depósito||S|fin|A1
+saldo|saldo||S|fin|A1
+empréstimo|préstamo||S|fin|A1
+sopa|sopa||S|ris|A1
+caldo verde|caldo verde||S|ris|A1
+bifana|bocadillo de cerdo||S|ris|A1
+pastel de nata|pastel de nata||S|ris|A1
+salada|ensalada||S|ris|A1
+petiscos|tapas||S|ris|A1
+feijoada|guiso de judías||S|ris|A1
+ementa|carta||S|ris|A1
+empregado de mesa|camarero||S|ris|A1
+bom apetite|buen provecho||E|ris|A1
+reservar|reservar||V|ris|A1
+gorjeta|propina||S|ris|A1
+cliente|cliente||S|ris|A1
+mesa para dois|mesa para dos||E|ris|A1
+branco|blanco||A|col|A1
+preto|negro||A|col|A1
+roxo|morado||A|col|A1
+rosa|rosa||A|col|A1
+círculo|círculo||S|col|A1
+quadrado|cuadrado||S|col|A1
+redondo|redondo||A|col|A1
+cabeça|cabeza||S|cor|A1
+braço|brazo||S|cor|A1
+dedo|dedo||S|cor|A1
+pé|pie||S|cor|A1
+nariz|nariz||S|cor|A1
+dente|diente||S|cor|A1
+garganta|garganta||S|cor|A1
+cão|perro||S|ani|A1
+cadela|perra||S|ani|A1
+coelho|conejo||S|ani|A1
+canário|canario||S|ani|A1
+dono|dueño||S|ani|A1
+tartaruga|tortuga||S|ani|A1
+vaca|vaca||S|ani|A1
+galinha|gallina||S|ani|A1
+ovelha|oveja||S|ani|A1
+cabra|cabra||S|ani|A1
+cavalo|caballo||S|ani|A1
+burro|burro||S|ani|A1
+leão|león||S|ani|A1
+urso|oso||S|ani|A1
+raposa|zorro||S|ani|A1
+lobo|lobo||S|ani|A1
+macaco|mono||S|ani|A1
+cobra|serpiente||S|ani|A1
+pomba|paloma||S|ani|A1
+águia|águila||S|ani|A1
+coruja|búho||S|ani|A1
+gaivota|gaviota||S|ani|A1
+pardal|gorrión||S|ani|A1
+cisne|cisne||S|ani|A1
+mosquito|mosquito||S|ani|A1
+formiga|hormiga||S|ani|A1
+abelha|abeja||S|ani|A1
+mosca|mosca||S|ani|A1
+borboleta|mariposa||S|ani|A1
+aranha|araña||S|ani|A1
+montanha|montaña||S|nat|A1
+vale|valle||S|nat|A1
+floresta|bosque||S|nat|A1
+rio|río||S|nat|A1
+lago|lago||S|nat|A1
+ilha|isla||S|nat|A1
+árvore|árbol||S|nat|A1
+flor|flor||S|nat|A1
+folha|hoja||S|nat|A1
+erva|hierba||S|nat|A1
+relva|césped||S|nat|A1
+girassol|girasol||S|nat|A1
+natureza|naturaleza||S|nat|A1
+mar|mar||S|nat|A1
+onda|ola||S|nat|A1
+areia|arena||S|nat|A1
+banho de mar|baño de mar||S|nat|A1
+toalha de praia|toalla de playa||S|nat|A1
+concha|concha||S|nat|A1
+protetor solar|protector solar||S|nat|A1
+manhã|mañana||S|tmp|A1
+de manhã|por la mañana||E|tmp|A1
+hora|hora||S|tmp|A1
+meio-dia|mediodía||S|tmp|A1
+hoje|hoy||D|tmp|A1
+cedo|temprano||D|tmp|A1
+segunda-feira|lunes||S|tmp|A1
+terça-feira|martes||S|tmp|A1
+quarta-feira|miércoles||S|tmp|A1
+quinta-feira|jueves||S|tmp|A1
+sexta-feira|viernes||S|tmp|A1
+sábado|sábado||S|tmp|A1
+domingo|domingo||S|tmp|A1
+passatempo|pasatiempo||S|sve|A1
+fotografia|fotografía||S|sve|A1
+leitura|lectura||S|sve|A1
+cantar|cantar||V|mus|A1
+pescar|pescar||V|sve|A1
+brincar|jugar (niños)||V|sve|A1
+dançar|bailar||V|mus|A1
+aniversário|cumpleaños||S|sve|A1
+festa|fiesta||S|sve|A1
+casamento|boda||S|sve|A1
+batizado|bautizo||S|sve|A1
+prenda|regalo||S|sve|A1
+fogo de artifício|fuego artificial||S|sve|A1
+convidado|invitado||S|sve|A1
+triste|triste||A|emo|A1
+amor|amor||S|emo|A1
+gostar|gustar||V|emo|A1
+rir|reír||V|emo|A1
+chorar|llorar||V|emo|A1
+cansado|cansado||A|emo|A1
+preocupado|preocupado||A|emo|A1
+simpático|simpático||A|ast|A1
+inteligente|inteligente||A|ast|A1
+trabalhador|trabajador||A|ast|A1
+preguiçoso|perezoso||A|ast|A1
+divertido|divertido||A|ast|A1
+sério|serio||A|ast|A1
+educado|educado||A|ast|A1
+atender|contestar (el teléfono)||V|cmu|A1
+chamada|llamada||S|cmu|A1
+número|número||S|cmu|A1
+telefone|teléfono||S|cmu|A1
+enviar|enviar||V|cmu|A1
+resposta|respuesta||S|cmu|A1
+ouvir|escuchar||V|cmu|A1
+tinta|pintura||S|art|A1
+pintar|pintar||V|art|A1
+desenhar|dibujar||V|art|A1
+pincel|pincel||S|art|A1
+tela|lienzo||S|art|A1
+lápis de cor|lápices de colores||S|art|A1

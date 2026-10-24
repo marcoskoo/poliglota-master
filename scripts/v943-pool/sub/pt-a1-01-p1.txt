@@ -1,0 +1,237 @@
+bom dia|buenos días||E|sal|A1
+boa tarde|buenas tardes||E|sal|A1
+chamar-se|llamarse||V|sal|A1
+nome|nombre||S|sal|A1
+apelido|apellido||S|sal|A1
+despedida|despedida||S|sal|A1
+conhecer|conocer||V|sal|A1
+por favor|por favor||E|sal|A1
+se faz favor|por favor||E|sal|A1
+agradecer|agradecer||V|sal|A1
+bem-vindo|bienvenido||I|sal|A1
+parabéns|enhorabuena||I|sal|A1
+desculpa|perdón (familiar)||E|sal|A1
+cortesia|cortesía||S|sal|A1
+irmão|hermano||S|fam|A1
+tio|tío||S|fam|A1
+avô|abuelo||S|fam|A1
+primo|primo||S|fam|A1
+neto|nieto||S|fam|A1
+cunhado|cuñado||S|fam|A1
+mulher|mujer (esposa)||S|fam|A1
+mesa|mesa||S|cas|A1
+sofá|sofá||S|cas|A1
+armário|armario||S|cas|A1
+máquina de lavar|lavadora||S|cas|A1
+frigorífico|frigorífico||S|cas|A1
+fogão|fogón||S|cas|A1
+aspirador|aspiradora||S|cas|A1
+casa|casa||S|cas|A1
+sala de estar|salón||S|cas|A1
+casa de banho|cuarto de baño||S|cas|A1
+porta|puerta||S|cas|A1
+janela|ventana||S|cas|A1
+chão|suelo||S|cas|A1
+garagem|garaje||S|cas|A1
+copo|vaso||S|cas|A1
+faca|cuchillo||S|cas|A1
+garfo|tenedor||S|cas|A1
+colher|cuchara||S|cas|A1
+panela|olla||S|cas|A1
+frigideira|sartén||S|cas|A1
+chávena|taza||S|cas|A1
+limpar|limpiar||V|cas|A1
+detergente|detergente||S|cas|A1
+sabão|jabón||S|cas|A1
+esfregão|fregona||S|cas|A1
+vassoura|escoba||S|cas|A1
+balde|cubo||S|cas|A1
+lixo|basura||S|cas|A1
+martelo|martillo||S|cas|A1
+prego|clavo||S|cas|A1
+parafuso|tornillo||S|cas|A1
+chave de fendas|destornillador||S|cas|A1
+serra|sierra||S|cas|A1
+alicate|alicate||S|cas|A1
+furar|taladrar||V|cas|A1
+maçã|manzana||S|ali|A1
+banana|banana||S|ali|A1
+laranja|naranja||S|ali|A1
+pera|pera||S|ali|A1
+uva|uva||S|ali|A1
+morango|fresa||S|ali|A1
+limão|limón||S|ali|A1
+cebola|cebolla||S|ali|A1
+alho|ajo||S|ali|A1
+cenoura|zanahoria||S|ali|A1
+alface|lechuga||S|ali|A1
+couve|col||S|ali|A1
+pepino|pepino||S|ali|A1
+abóbora|calabaza||S|ali|A1
+carne|carne||S|ali|A1
+frango|pollo||S|ali|A1
+porco|cerdo||S|ali|A1
+peixe|pescado||S|ali|A1
+camarão|gamba||S|ali|A1
+polvo|pulpo||S|ali|A1
+salmão|salmón||S|ali|A1
+queijo|queso||S|ali|A1
+ovo|huevo||S|ali|A1
+iogurte|yogur||S|ali|A1
+nata|nata||S|ali|A1
+queijo fresco|queso fresco||S|ali|A1
+gema|yema||S|ali|A1
+margarina|margarina||S|ali|A1
+broa|pan de maíz||S|ali|A1
+bolo|pastel||S|ali|A1
+cereais|cereales||S|ali|A1
+massa|pasta||S|ali|A1
+farinha|harina||S|ali|A1
+torrada|tostada||S|ali|A1
+bolacha|galleta||S|ali|A1
+café|café||S|ali|A1
+chá|té||S|ali|A1
+cerveja|cerveza||S|ali|A1
+bebida|bebida||S|ali|A1
+refrigerante|refresco||S|ali|A1
+chocolate quente|chocolate caliente||S|ali|A1
+chá verde|té verde||S|ali|A1
+azeite|aceite de oliva||S|ali|A1
+vinagre|vinagre||S|ali|A1
+canela|canela||S|ali|A1
+salsa|perejil||S|ali|A1
+mostarda|mostaza||S|ali|A1
+mel|miel||S|ali|A1
+orégãos|orégano||S|ali|A1
+feijão|judía||S|ali|A1
+grão-de-bico|garbanzo||S|ali|A1
+lentilha|lenteja||S|ali|A1
+noz|nuez||S|ali|A1
+amêndoa|almendra||S|ali|A1
+castanha|castaña||S|ali|A1
+ervilha|guisante||S|ali|A1
+papelaria|papelería||S|cmp|A1
+talho|carnicería||S|cmp|A1
+peixaria|pescadería||S|cmp|A1
+frutaria|frutería||S|cmp|A1
+livraria|librería||S|cmp|A1
+centro comercial|centro comercial||S|cmp|A1
+feira|mercado (al aire libre)||S|cmp|A1
+caro|caro||A|cmp|A1
+cartão|tarjeta||S|fin|A1
+cartão de crédito|tarjeta de crédito||S|fin|A1
+levantar|sacar (dinero)||V|fin|A1
+euro|euro||S|fin|A1
+moeda|moneda||S|fin|A1
+grátis|gratis||A|cmp|A1
+pacote|paquete||S|cmp|A1
+garrafa|botella||S|cmp|A1
+lata|lata||S|cmp|A1
+saco|bolsa||S|cmp|A1
+caixa|caja||S|cmp|A1
+quilo|kilo||S|cmp|A1
+dúzia|docena||S|cmp|A1
+condutor|conductor||S|tra|A1
+passageiro|pasajero||S|tra|A1
+assento|asiento||S|tra|A1
+estação|estación||S|tra|A1
+linha|línea||S|tra|A1
+táxi|taxi||S|tra|A1
+mota|moto||S|tra|A1
+gasolina|gasolina||S|tra|A1
+roda|rueda||S|tra|A1
+volante|volante||S|tra|A1
+buzina|bocina||S|tra|A1
+velocidade|velocidad||S|tra|A1
+portagem|peaje||S|tra|A1
+cinto de segurança|cinturón de seguridad||S|tra|A1
+comboio|tren||S|tra|A1
+carruagem|vagón||S|tra|A1
+partida|salida||S|tra|A1
+chegada|llegada||S|tra|A1
+bilheteira|taquilla||S|tra|A1
+plataforma|andén||S|tra|A1
+atraso|retraso||S|tra|A1
+avião|avión||S|vig|A1
+aeroporto|aeropuerto||S|vig|A1
+voo|vuelo||S|vig|A1
+mala|maleta||S|vig|A1
+bagagem|equipaje||S|vig|A1
+embarque|embarque||S|vig|A1
+aterrar|aterrizar||V|vig|A1
+andar de bicicleta|ir en bicicleta||E|tra|A1
+trotineta|patinete||S|tra|A1
+capacete|casco||S|tra|A1
+passadeira|paso de peatones||S|tra|A1
+ciclista|ciclista||S|tra|A1
+patins|patines||S|tra|A1
+transporte público|transporte público||S|tra|A1
+férias|vacaciones||S|vig|A1
+viagem|viaje||S|vig|A1
+fazer as malas|hacer las maletas||E|vig|A1
+turista|turista||S|vig|A1
+guia|guía||S|vig|A1
+recordação|recuerdo (souvenir)||S|vig|A1
+alugar|alquilar||V|vig|A1
+campismo|camping||S|vig|A1
+tenda|tienda de campaña||S|vig|A1
+lanterna|linterna||S|vig|A1
+saco de dormir|saco de dormir||S|vig|A1
+fogueira|hoguera||S|vig|A1
+acampar|acampar||V|vig|A1
+fogo|fuego||S|vig|A1
+entrada|entrada||S|htl|A1
+saída|salida||S|htl|A1
+chave|llave||S|htl|A1
+alojamento|alojamiento||S|htl|A1
+hóspede|huésped||S|htl|A1
+pequeno-almoço|desayuno||S|htl|A1
+quarto duplo|habitación doble||S|htl|A1
+ar condicionado|aire acondicionado||S|htl|A1
+cama de casal|cama de matrimonio||S|htl|A1
+serviço de quartos|servicio de habitaciones||S|htl|A1
+cofre|caja fuerte||S|htl|A1
+secador de cabelo|secador de pelo||S|htl|A1
+aquecimento|calefacción||S|htl|A1
+televisão|televisor||S|htl|A1
+febre|fiebre||S|sla|A1
+comichão|picor||S|sla|A1
+constipado|resfriado||A|sla|A1
+vómito|vómito||S|sla|A1
+ferida|herida||S|sla|A1
+cansaço|cansancio||S|sla|A1
+espirrar|estornudar||V|sla|A1
+consulta|consulta||S|sla|A1
+marcar uma consulta|pedir cita (médica)||E|sla|A1
+receita médica|receta médica||S|sla|A1
+exame|examen (médico)||S|sla|A1
+ambulância|ambulancia||S|sla|A1
+termómetro|termómetro||S|sla|A1
+doença|enfermedad||S|sla|A1
+comprimido|pastilla||S|sla|A1
+xarope|jarabe||S|sla|A1
+pomada|pomada||S|sla|A1
+vitamina|vitamina||S|sla|A1
+tratamento|tratamiento||S|sla|A1
+farmacêutico|farmacéutico||S|sla|A1
+professor|profesor||S|pro|A1
+engenheiro|ingeniero||S|pro|A1
+enfermeiro|enfermero||S|pro|A1
+motorista|chófer||S|pro|A1
+mecânico|mecánico||S|pro|A1
+cabeleireiro|peluquero||S|pro|A1
+vendedor|vendedor||S|pro|A1
+escritório|oficina||S|lav|A1
+caneta|bolígrafo||S|lav|A1
+lápis|lápiz||S|lav|A1
+papel|papel||S|lav|A1
+tesoura|tijeras||S|lav|A1
+chefe|jefe||S|lav|A1
+reunião|reunión||S|lav|A1
+aluno|alumno||S|stu|A1
+quadro|pizarra||S|stu|A1
+caderno|cuaderno||S|stu|A1
+trabalho de casa|deberes||S|stu|A1
+intervalo|recreo||S|stu|A1
+giz|tiza||S|stu|A1
+teste|examen (prueba)||S|stu|A1

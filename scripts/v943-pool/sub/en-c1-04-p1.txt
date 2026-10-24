@@ -1,0 +1,309 @@
+seizure|convulsión||S|sla|C1
+tremor|temblor||S|sla|C1
+neuropathy|neuropatía||S|sla|C1
+migraine|migraña||S|sla|C1
+concussion|conmoción cerebral||S|sla|C1
+dementia|demencia||S|sla|C1
+stroke|accidente cerebrovascular||S|sla|C1
+epilepsy|epilepsia||S|sla|C1
+aphasia|afasia||S|sla|C1
+numbness|adormecimiento||S|sla|C1
+dizziness|mareo||S|sla|C1
+neurologist|neurólogo||S|sla|C1
+diagnose|diagnosticar||V|sla|C1
+onset|comienzo (de una enfermedad)||S|sla|C1
+relapse|recaída||S|sla|C1
+remission|remisión||S|sla|C1
+neurodegenerative|neurodegenerativo||A|sla|C1
+spinal cord|médula espinal||S|sla|C1
+amnesia|amnesia||S|sla|C1
+paralysis|parálisis||S|sla|C1
+lumbar puncture|punción lumbar||S|sla|C1
+nerve impulse|impulso nervioso||S|sla|C1
+cluster headache|cefalea en racimos||S|sla|C1
+obstetrician|obstetra||S|sla|C1
+midwife|matrona||S|sla|C1
+sonogram|ecografía||S|sla|C1
+fetus|feto||S|sla|C1
+placenta|placenta||S|sla|C1
+miscarriage|aborto espontáneo||S|sla|C1
+cesarean section|cesárea||S|sla|C1
+neonatal|neonatal||A|sla|C1
+prenatal|prenatal||A|sla|C1
+postpartum|posparto||A|sla|C1
+gestational|gestacional||A|sla|C1
+breech|de nalgas||A|sla|C1
+jaundice|ictericia||S|sla|C1
+colic|cólico infantil||S|sla|C1
+immunization|inmunización||S|sla|C1
+pediatrician|pediatra||S|sla|C1
+incubator|incubadora||S|sla|C1
+wean|destetar||V|sla|C1
+teething|dentición||S|sla|C1
+diaper rash|dermatitis del pañal||S|sla|C1
+amniotic|amniótico||A|sla|C1
+premature birth|parto prematuro||S|sla|C1
+preeclampsia|preeclampsia||S|sla|C1
+fracture|fractura||S|sla|C1
+sprain|esguince||S|sla|C1
+dislocation|luxación||S|sla|C1
+splint|férula||S|sla|C1
+plaster cast|escayola||S|sla|C1
+crutch|muleta||S|sla|C1
+orthopedic|ortopédico||A|sla|C1
+physiotherapy|fisioterapia||S|sla|C1
+rehabilitation|rehabilitación||S|sla|C1
+ligament|ligamento||S|sla|C1
+tendon|tendón||S|sla|C1
+whiplash|latigazo cervical||S|sla|C1
+bone graft|injerto óseo||S|sla|C1
+physiotherapist|fisioterapeuta||S|sla|C1
+prosthesis|prótesis||S|sla|C1
+amputation|amputación||S|sla|C1
+bedsore|úlcera por presión||S|sla|C1
+traction|tracción||S|sla|C1
+contusion|contusión||S|sla|C1
+immobilize|inmovilizar||V|sla|C1
+arthroscopy|artroscopia||S|sla|C1
+orthopedist|traumatólogo||S|sla|C1
+rotator cuff|manguito rotador||S|sla|C1
+outbreak|brote||S|sla|C1
+epidemiologist|epidemiólogo||S|sla|C1
+endemic|endémico||A|sla|C1
+epidemiology|epidemiología||S|sla|C1
+vaccine efficacy|eficacia vacunal||S|sla|C1
+booster shot|dosis de refuerzo||S|sla|C1
+cold chain|cadena de frío||S|sla|C1
+quarantine|cuarentena||S|sla|C1
+contact tracing|rastreo de contactos||S|sla|C1
+incubation period|periodo de incubación||S|sla|C1
+mortality rate|tasa de mortalidad||S|sla|C1
+surveillance|vigilancia epidemiológica||S|sla|C1
+sanitation|saneamiento||S|sla|C1
+prophylaxis|profilaxis||S|sla|C1
+contagion|contagio||S|sla|C1
+screening|cribado||S|sla|C1
+public health|salud pública||S|sla|C1
+morbidity|morbilidad||S|sla|C1
+vaccination|vacunación||S|sla|C1
+inoculation|inoculación||S|sla|C1
+index case|caso índice||S|sla|C1
+zoonotic|zoonótico||A|sla|C1
+eradication|erradicación||S|sla|C1
+tax evasion|evasión fiscal||S|fin|C1
+tax return|declaración de la renta||S|fin|C1
+loophole|resquicio legal||S|fin|C1
+withholding|retención a cuenta||S|fin|C1
+fiscal|tributario||A|fin|C1
+levy|gravar||V|fin|C1
+audit|auditar||V|fin|C1
+write-off|desgravación||S|fin|C1
+capital gains|ganancias de capital||S|fin|C1
+bracket|tramo impositivo||S|fin|C1
+surcharge|recargo||S|fin|C1
+excise|impuesto especial||S|fin|C1
+defraud|defraudar||V|fin|C1
+underreporting|subdeclaración de ingresos||S|fin|C1
+assess|tasar (fijar la base imponible)||V|fin|C1
+revenue agency|agencia tributaria||S|fin|C1
+fiscal year|ejercicio fiscal||S|fin|C1
+compliance|cumplimiento normativo||S|fin|C1
+embezzle|desfalcar||V|fin|C1
+offshore account|cuenta en paraíso fiscal||S|fin|C1
+shell company|empresa pantalla||S|fin|C1
+money laundering|blanqueo de capitales||S|fin|C1
+tariff|arancel||S|fin|C1
+collateral|garantía||S|fin|C1
+default|impago||S|fin|C1
+foreclosure|ejecución hipotecaria||S|fin|C1
+lender|prestamista||S|fin|C1
+borrower|prestatario||S|fin|C1
+creditworthiness|solvencia crediticia||S|fin|C1
+nonperforming loan|préstamo en mora||S|fin|C1
+solvency|solvencia||S|fin|C1
+liquidity|liquidez||S|fin|C1
+deposit guarantee|garantía de depósitos||S|fin|C1
+recourse|derecho de cobro||S|fin|C1
+amortization|amortización||S|fin|C1
+refinance|refinanciar||V|fin|C1
+subprime|de alto riesgo||A|fin|C1
+bank run|corrida bancaria||S|fin|C1
+capital requirement|requisito de capital||S|fin|C1
+leverage|apalancamiento||S|fin|C1
+impairment|deterioro (del valor de un activo)||S|fin|C1
+stress test|prueba de resistencia||S|fin|C1
+balance sheet|balance de situación||S|fin|C1
+supervisory|de supervisión||A|fin|C1
+disburse|desembolsar||V|fin|C1
+escrow|depósito en garantía||S|fin|C1
+merger|fusión||S|fin|C1
+acquisition|adquisición||S|fin|C1
+takeover|toma de control||S|fin|C1
+due diligence|diligencia debida||S|fin|C1
+valuation|valoración||S|fin|C1
+goodwill|fondo de comercio||S|fin|C1
+book value|valor contable||S|fin|C1
+fair value|valor razonable||S|fin|C1
+earnings per share|beneficio por acción||S|fin|C1
+share buyback|recompra de acciones||S|fin|C1
+spin-off|escisión||S|fin|C1
+tender offer|oferta pública de adquisición||S|fin|C1
+leveraged buyout|compra apalancada||S|fin|C1
+antitrust|antimonopolio||A|fin|C1
+divestiture|enajenación de activos||S|fin|C1
+synergy|sinergia||S|fin|C1
+premium|prima (sobreprecio)||S|fin|C1
+conglomerate|conglomerado||S|fin|C1
+prospectus|folleto de emisión||S|fin|C1
+underwriter|suscriptor de emisiones||S|fin|C1
+asset stripping|venta de activos para desmantelar||S|fin|C1
+restructuring|reestructuración||S|fin|C1
+hostile takeover|OPA hostil||S|fin|C1
+elasticity|elasticidad||S|fin|C1
+marginal utility|utilidad marginal||S|fin|C1
+opportunity cost|coste de oportunidad||S|fin|C1
+externality|externalidad||S|fin|C1
+perfect competition|competencia perfecta||S|fin|C1
+oligopoly|oligopolio||S|fin|C1
+monopsony|monopsonio||S|fin|C1
+game theory|teoría de juegos||S|fin|C1
+market equilibrium|equilibrio de mercado||S|fin|C1
+price ceiling|precio máximo||S|fin|C1
+deadweight loss|pérdida de eficiencia||S|fin|C1
+supply curve|curva de oferta||S|fin|C1
+information asymmetry|asimetría de información||S|fin|C1
+sunk cost|coste irrecuperable||S|fin|C1
+consumer surplus|excedente del consumidor||S|fin|C1
+predatory pricing|precios predatorios||S|fin|C1
+profit maximization|maximización del beneficio||S|fin|C1
+allocative efficiency|eficiencia asignativa||S|fin|C1
+substitute good|bien sustitutivo||S|fin|C1
+barriers to entry|barreras de entrada||S|fin|C1
+collusion|colusión||S|fin|C1
+diminishing returns|rendimientos decrecientes||S|fin|C1
+price floor|precio mínimo||S|fin|C1
+policyholder|tomador de la póliza||S|fin|C1
+underwriting|suscripción de riesgos||S|fin|C1
+actuary|actuario||S|fin|C1
+indemnity|indemnización||S|fin|C1
+liability coverage|cobertura de responsabilidad||S|fin|C1
+deductible|franquicia||S|fin|C1
+exclusion|exclusión de cobertura||S|fin|C1
+beneficiary|beneficiario||S|fin|C1
+adjuster|perito de seguros||S|fin|C1
+reinsurance|reaseguro||S|fin|C1
+actuarial|actuarial||A|fin|C1
+peril|riesgo cubierto||S|fin|C1
+hedge|cubrirse frente al riesgo||V|fin|C1
+indemnify|indemnizar||V|fin|C1
+insurable|asegurable||A|fin|C1
+rider|cláusula adicional||S|fin|C1
+lapse|caducar (la póliza)||V|fin|C1
+annuity|renta vitalicia||S|fin|C1
+insolvency|insolvencia||S|fin|C1
+risk pooling|mutualización del riesgo||S|fin|C1
+moral hazard|riesgo moral||S|fin|C1
+insurer|asegurador||S|fin|C1
+policy|póliza||S|fin|C1
+microfinance|microfinanzas||S|fin|C1
+foreign aid|ayuda exterior||S|fin|C1
+debt relief|alivio de la deuda||S|fin|C1
+structural adjustment|ajuste estructural||S|fin|C1
+per capita income|renta per cápita||S|fin|C1
+purchasing power parity|paridad de poder adquisitivo||S|fin|C1
+emerging market|mercado emergente||S|fin|C1
+poverty alleviation|reducción de la pobreza||S|fin|C1
+conditional cash transfer|transferencia monetaria condicionada||S|fin|C1
+nongovernmental organization|organización no gubernamental||S|fin|C1
+capacity building|fortalecimiento institucional||S|fin|C1
+loan forgiveness|condonación de deuda||S|fin|C1
+trade liberalization|liberalización comercial||S|fin|C1
+remittance|remesa de dinero||S|fin|C1
+subsistence farming|agricultura de subsistencia||S|fin|C1
+empowerment|empoderamiento||S|fin|C1
+gender gap|brecha de género||S|fin|C1
+sustainable development|desarrollo sostenible||S|fin|C1
+technical assistance|asistencia técnica||S|fin|C1
+debt burden|carga de la deuda||S|fin|C1
+brain drain|fuga de cerebros||S|fin|C1
+income inequality|desigualdad de ingresos||S|fin|C1
+food security|seguridad alimentaria||S|fin|C1
+titration|valoración||S|sci|C1
+chromatography|cromatografía||S|sci|C1
+spectroscopy|espectroscopia||S|sci|C1
+reagent|reactivo||S|sci|C1
+aliquot|alícuota||S|sci|C1
+titrate|valorar (una disolución)||V|sci|C1
+standard solution|disolución patrón||S|sci|C1
+molarity|molaridad||S|sci|C1
+calibration|calibración||S|sci|C1
+assay|ensayo analítico||S|sci|C1
+analyte|analito||S|sci|C1
+precipitate|precipitar||V|sci|C1
+filtrate|filtrado||S|sci|C1
+distillation|destilación||S|sci|C1
+volatile|volátil||A|sci|C1
+solute|soluto||S|sci|C1
+solvent extraction|extracción con disolvente||S|sci|C1
+residue|residuo||S|sci|C1
+purity|pureza||S|sci|C1
+litmus paper|papel de tornasol||S|sci|C1
+gravimetric analysis|análisis gravimétrico||S|sci|C1
+blank|blanco (de control)||S|sci|C1
+volumetric flask|matraz aforado||S|sci|C1
+crystal lattice|red cristalina||S|sci|C1
+semiconductor|semiconductor||S|sci|C1
+superconductor|superconductor||S|sci|C1
+band gap|banda prohibida||S|sci|C1
+doping|dopaje||S|sci|C1
+phonon|fonón||S|sci|C1
+brittleness|fragilidad||S|sci|C1
+tensile strength|resistencia a la tracción||S|sci|C1
+plasticity|plasticidad||S|sci|C1
+fatigue|fatiga del material||S|sci|C1
+creep|fluencia||S|sci|C1
+grain boundary|borde de grano||S|sci|C1
+amorphous|amorfo||A|sci|C1
+crystalline|cristalino||A|sci|C1
+piezoelectric|piezoeléctrico||A|sci|C1
+ferromagnetic|ferromagnético||A|sci|C1
+thermal conductivity|conductividad térmica||S|sci|C1
+insulator|aislante||S|sci|C1
+resilience|resiliencia (de un material)||S|sci|C1
+yield strength|límite elástico||S|sci|C1
+condensed-matter physics|física de la materia condensada||S|sci|C1
+vacancy|vacante (defecto cristalino)||S|sci|C1
+dopant|agente dopante||S|sci|C1
+greenhouse gas|gas de efecto invernadero||S|sci|C1
+stratosphere|estratosfera||S|sci|C1
+troposphere|troposfera||S|sci|C1
+albedo|albedo||S|sci|C1
+jet stream|corriente en chorro||S|sci|C1
+isobar|isobara||S|sci|C1
+weather front|frente meteorológico||S|sci|C1
+precipitation|precipitación||S|sci|C1
+air mass|masa de aire||S|sci|C1
+climate feedback|retroalimentación climática||S|sci|C1
+sea level rise|subida del nivel del mar||S|sci|C1
+emissions trading|comercio de emisiones||S|sci|C1
+particulate matter|materia en suspensión||S|sci|C1
+monsoon|monzón||S|sci|C1
+desertification|desertización||S|sci|C1
+ice core|testigo de hielo||S|sci|C1
+climate model|modelo climático||S|sci|C1
+radiative forcing|forzamiento radiativo||S|sci|C1
+carbon sink|sumidero de carbono||S|sci|C1
+weathering|meteorización||S|sci|C1
+storm surge|marea de tempestad||S|sci|C1
+ozone depletion|agotamiento del ozono||S|sci|C1
+weather balloon|globo sonda||S|sci|C1
+fossil record|registro fósil||S|sci|C1
+excavation|excavación||S|sci|C1
+stratum|estrato||S|sci|C1
+extinction event|evento de extinción||S|sci|C1
+radiocarbon dating|datación por radiocarbono||S|sci|C1
+hominid|hominino||S|sci|C1
+trilobite|trilobites||S|sci|C1
+fossilize|fosilizar||V|sci|C1
+paleontologist|paleontólogo||S|sci|C1
+geological time scale|escala temporal geológica||S|sci|C1

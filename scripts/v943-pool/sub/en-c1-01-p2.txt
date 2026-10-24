@@ -1,0 +1,309 @@
+epilepsy|epilepsia||S|sci|C1
+dopamine|dopamina||S|sci|C1
+serotonin|serotonina||S|sci|C1
+sensory pathway|vía sensorial||L|sci|C1
+gray matter|materia gris||L|sci|C1
+aphasia|afasia||S|sci|C1
+somatosensory|somatosensorial||A|sci|C1
+long-term potentiation|potenciación a largo plazo||L|sci|C1
+cerebellum|cerebelo||S|sci|C1
+motor cortex|corteza motora||L|sci|C1
+isomer|isómero||S|sci|C1
+ionic compound|compuesto iónico||L|sci|C1
+covalent bond|enlace covalente||L|sci|C1
+hydrocarbon|hidrocarburo||S|sci|C1
+polymer|polímero||S|sci|C1
+catalyst|catalizador||S|sci|C1
+oxidation|oxidación||S|sci|C1
+valence|valencia||S|sci|C1
+stoichiometry|estequiometría||S|sci|C1
+aldehyde|aldehído||S|sci|C1
+ketone|cetona||S|sci|C1
+aromatic compound|compuesto aromático||L|sci|C1
+alkane|alcano||S|sci|C1
+solubility|solubilidad||S|sci|C1
+aqueous|acuoso||A|sci|C1
+reagent|reactivo||S|sci|C1
+distillation|destilación||S|sci|C1
+allotrope|alótropo||S|sci|C1
+halide|haluro||S|sci|C1
+molarity|molaridad||S|sci|C1
+organic synthesis|síntesis orgánica||L|sci|C1
+functional group|grupo funcional||L|sci|C1
+isotope|isótopo||S|sci|C1
+quantum mechanics|mecánica cuántica||L|sci|C1
+entanglement|entrelazamiento||S|sci|C1
+superposition|superposición de estados||S|sci|C1
+wave function|función de onda||L|sci|C1
+uncertainty principle|principio de incertidumbre||L|sci|C1
+lepton|leptón||S|sci|C1
+quark|quark||S|sci|C1
+hadron|hadrón||S|sci|C1
+neutrino|neutrino||S|sci|C1
+antiparticle|antipartícula||S|sci|C1
+particle accelerator|acelerador de partículas||L|sci|C1
+radioactive decay|desintegración radiactiva||L|sci|C1
+quantum electrodynamics|electrodinámica cuántica||S|sci|C1
+tunneling|efecto túnel||S|sci|C1
+complementarity|complementariedad||S|sci|C1
+ground state|estado fundamental||L|sci|C1
+probability amplitude|amplitud de probabilidad||L|sci|C1
+fermion|fermión||S|sci|C1
+gluon|gluón||S|sci|C1
+collider|colisionador||S|sci|C1
+standard model|modelo estándar||L|sci|C1
+photoelectric|fotoeléctrico||A|sci|C1
+renormalization|renormalización||S|sci|C1
+dark matter|materia oscura||L|sci|C1
+dark energy|energía oscura||L|sci|C1
+redshift|corrimiento al rojo||S|sci|C1
+singularity|singularidad||S|sci|C1
+supernova|supernova||S|sci|C1
+neutron star|estrella de neutrones||L|sci|C1
+white dwarf|enana blanca||L|sci|C1
+exoplanet|exoplaneta||S|sci|C1
+parsec|pársec||S|sci|C1
+event horizon|horizonte de sucesos||L|sci|C1
+gravitational wave|onda gravitacional||L|sci|C1
+cosmic microwave background|radiación de fondo de microondas||L|sci|C1
+expansion of the universe|expansión del universo||L|sci|C1
+interstellar|interestelar||A|sci|C1
+galactic|galáctico||A|sci|C1
+nebula|nebulosa||S|sci|C1
+pulsar|púlsar||S|sci|C1
+quasar|cuásar||S|sci|C1
+cosmology|cosmología||S|sci|C1
+astrophysics|astrofísica||S|sci|C1
+accretion|acreción||S|sci|C1
+red giant|gigante roja||L|sci|C1
+general relativity|relatividad general||L|sci|C1
+gene editing|edición genética||L|sci|C1
+cloning|clonación||S|sci|C1
+vector|vector de clonación||S|sci|C1
+transgenic|transgénico||A|sci|C1
+bioreactor|biorreactor||S|sci|C1
+biopharmaceutical|biofármaco||S|sci|C1
+synthetic biology|biología sintética||L|sci|C1
+recombinant|recombinante||A|sci|C1
+knockout|inactivación de un gen||S|sci|C1
+restriction enzyme|enzima de restricción||L|sci|C1
+tissue engineering|ingeniería de tejidos||L|sci|C1
+stem cell|célula madre||L|sci|C1
+regenerative medicine|medicina regenerativa||L|sci|C1
+bioinformatics|bioinformática||S|sci|C1
+microarray|micromatriz||S|sci|C1
+in vitro|in vitro||L|sci|C1
+in vivo|in vivo||L|sci|C1
+biofuel|biocombustible||S|sci|C1
+gel electrophoresis|electroforesis en gel||L|sci|C1
+bioremediation|biorremediación||S|sci|C1
+protein engineering|ingeniería de proteínas||L|sci|C1
+cryopreservation|criopreservación||S|sci|C1
+standard deviation|desviación estándar||L|sci|C1
+statistical significance|significación estadística||L|sci|C1
+null hypothesis|hipótesis nula||L|sci|C1
+regression analysis|análisis de regresión||L|sci|C1
+correlation coefficient|coeficiente de correlación||L|sci|C1
+sampling bias|sesgo de muestreo||L|sci|C1
+confidence interval|intervalo de confianza||L|sci|C1
+confounding variable|variable de confusión||L|sci|C1
+longitudinal study|estudio longitudinal||L|sci|C1
+retrospective|retrospectivo||A|sci|C1
+empirical|empírico||A|sci|C1
+replication crisis|crisis de replicabilidad||L|sci|C1
+peer review|revisión por pares||L|sci|C1
+effect size|tamaño del efecto||L|sci|C1
+control group|grupo de control||L|sci|C1
+randomize|aleatorizar||V|sci|C1
+causation|causalidad||S|sci|C1
+covariance|covarianza||S|sci|C1
+multivariate|multivariante||A|sci|C1
+inferential statistics|estadística inferencial||L|sci|C1
+robustness|robustez||S|sci|C1
+outlier|valor atípico||S|sci|C1
+resampling|remuestreo||S|sci|C1
+epidemiology|epidemiología||S|sla|C1
+outbreak|brote||S|sla|C1
+incidence|incidencia||S|sla|C1
+disease surveillance|vigilancia epidemiológica||L|sla|C1
+contact tracing|rastreo de contactos||L|sla|C1
+endemic|endémico||A|sla|C1
+zoonotic|zoonótico||A|sla|C1
+vector-borne|de transmisión vectorial||A|sla|C1
+predisposing factor|factor predisponente||L|sla|C1
+superspreader event|evento de superpropagación||L|sla|C1
+reproductive number|número reproductivo||L|sla|C1
+underreporting|subregistro||S|sla|C1
+health disparity|desigualdad sanitaria||L|sla|C1
+determinants of health|determinantes de la salud||L|sla|C1
+notifiable disease|enfermedad de declaración obligatoria||L|sla|C1
+lethality|letalidad||S|sla|C1
+index case|caso índice||L|sla|C1
+excess mortality|exceso de mortalidad||L|sla|C1
+epidemiologist|epidemiólogo||S|sla|C1
+spillover|salto de especie||S|sla|C1
+vaccine coverage|cobertura de vacunación||L|sla|C1
+epidemic curve|curva epidémica||L|sla|C1
+tectonic|tectónico||A|sci|C1
+subduction|subducción||S|sci|C1
+subduction zone|zona de subducción||L|sci|C1
+weathering|meteorización||S|sci|C1
+igneous rock|roca ígnea||L|sci|C1
+sedimentary rock|roca sedimentaria||L|sci|C1
+stratigraphy|estratigrafía||S|sci|C1
+paleontology|paleontología||S|sci|C1
+fossil record|registro fósil||L|sci|C1
+geothermal|geotérmico||A|sci|C1
+karst|relieve cárstico||S|sci|C1
+epicenter|epicentro||S|sci|C1
+aftershock|réplica sísmica||S|sci|C1
+fault line|línea de falla||L|sci|C1
+magma|magma||S|sci|C1
+hydrological cycle|ciclo hidrológico||L|sci|C1
+orogeny|orogenia||S|sci|C1
+permafrost|suelo permanentemente congelado||S|sci|C1
+mineralogy|mineralogía||S|sci|C1
+sedimentary basin|cuenca sedimentaria||L|sci|C1
+radiometric dating|datación radiométrica||L|sci|C1
+lithosphere|litosfera||S|sci|C1
+theorem|teorema||S|sci|C1
+axiom|axioma||S|sci|C1
+corollary|corolario||S|sci|C1
+lemma|lema||S|sci|C1
+eigenvalue|valor propio||S|sci|C1
+tensor|tensor||S|sci|C1
+topology|topología||S|sci|C1
+manifold|variedad matemática||S|sci|C1
+asymptote|asíntota||S|sci|C1
+fractal|fractal||S|sci|C1
+differential equation|ecuación diferencial||L|sci|C1
+predicate logic|lógica de predicados||L|sci|C1
+syllogism|silogismo||S|sci|C1
+tautology|tautología||S|sci|C1
+inference|inferencia||S|sci|C1
+proof by contradiction|demostración por reducción al absurdo||L|sci|C1
+set theory|teoría de conjuntos||L|sci|C1
+computability|computabilidad||S|sci|C1
+cardinality|cardinalidad||S|sci|C1
+prisoner's dilemma|dilema del prisionero||L|sci|C1
+irrational number|número irracional||L|sci|C1
+incompleteness theorem|teorema de incompletitud||L|sci|C1
+literary device|recurso literario||L|let|C1
+unreliable narrator|narrador no fiable||L|let|C1
+hermeneutics|hermenéutica||S|let|C1
+close reading|lectura atenta||L|let|C1
+intertextuality|intertextualidad||S|let|C1
+deconstruction|deconstrucción||S|let|C1
+verisimilitude|verosimilitud||S|let|C1
+defamiliarization|extrañamiento||S|let|C1
+oeuvre|obra completa||S|let|C1
+bildungsroman|novela de formación||S|let|C1
+epistolary novel|novela epistolar||L|let|C1
+stream of consciousness|monólogo interior||L|let|C1
+authorial intent|intención del autor||L|let|C1
+reader-response criticism|teoría de la recepción||L|let|C1
+literariness|literariedad||S|let|C1
+pastiche|pastiche||S|let|C1
+mimesis|mímesis||S|let|C1
+catharsis|catarsis||S|let|C1
+archetype|arquetipo||S|let|C1
+modernism|modernismo||S|let|C1
+postmodernism|posmodernismo||S|let|C1
+novel of manners|novela de costumbres||L|let|C1
+frame story|relato marco||L|let|C1
+chiasmus|quiasmo||S|let|C1
+metonymy|metonimia||S|let|C1
+synecdoche|sinécdoque||S|let|C1
+zeugma|zeugma||S|let|C1
+litotes|lítote||S|let|C1
+euphemism|eufemismo||S|let|C1
+apostrophe|apóstrofe||S|let|C1
+ethos|ethos||S|let|C1
+invective|invectiva||S|let|C1
+juxtaposition|yuxtaposición||S|let|C1
+cadence|cadencia||S|let|C1
+blank verse|verso blanco||L|let|C1
+free verse|verso libre||L|let|C1
+enjambment|encabalgamiento||S|let|C1
+caesura|cesura||S|let|C1
+dactyl|dáctilo||S|let|C1
+anapest|anapesto||S|let|C1
+trochee|troqueo||S|let|C1
+sestina|sextina||S|let|C1
+ottava rima|octava real||L|let|C1
+scansion|escansión||S|let|C1
+prosody|prosodia||S|let|C1
+diegesis|diegesis||S|let|C1
+focalization|focalización||S|let|C1
+focal character|personaje focal||L|let|C1
+syuzhet|disposición del relato||S|let|C1
+heterodiegetic|heterodiegético||A|let|C1
+in medias res|en plena acción||L|let|C1
+analepsis|analepsis||S|let|C1
+prolepsis|prolepsis||S|let|C1
+metafiction|metaficción||S|let|C1
+mise en abyme|relato dentro del relato||L|let|C1
+implied author|autor implícito||L|let|C1
+third-person limited|narración limitada en tercera persona||L|let|C1
+emplotment|configuración narrativa||S|let|C1
+chronotope|cronotopo||S|let|C1
+storyworld|mundo narrativo||S|let|C1
+incipit|comienzo del texto||S|let|C1
+paratext|paratexto||S|let|C1
+perspectivism|perspectivismo||S|let|C1
+free indirect discourse|discurso indirecto libre||L|let|C1
+cliffhanger|final en vilo||S|let|C1
+flash-forward|salto hacia el futuro||S|let|C1
+subplot|trama secundaria||S|let|C1
+ere|antes de que||C|let|C1
+oft|a menudo||D|let|C1
+yonder|allá||D|let|C1
+whence|de donde||D|let|C1
+forsooth|en verdad||I|let|C1
+alack|ay de mí||I|let|C1
+troth|fe jurada||S|let|C1
+boon|favor concedido||S|let|C1
+bane|perdición||S|let|C1
+o'er|sobre||R|let|C1
+'tis|es||E|let|C1
+brethren|hermanos||S|let|C1
+kith and kin|parientes y allegados||L|let|C1
+sylvan|del bosque||A|let|C1
+lambent|de luz trémula||A|let|C1
+hoary|canoso||A|let|C1
+sepulchral|sepulcral||A|let|C1
+cerulean|cerúleo||A|let|C1
+empyrean|empíreo||A|let|C1
+chthonic|ctónico||A|let|C1
+gloaming|crepúsculo||S|let|C1
+welkin|bóveda celeste||S|let|C1
+thrall|cautiverio||S|let|C1
+epistemology|epistemología||S|ast|C1
+a priori|a priori||L|ast|C1
+a posteriori|a posteriori||L|ast|C1
+empiricism|empirismo||S|ast|C1
+rationalism|racionalismo||S|ast|C1
+skepticism|escepticismo||S|ast|C1
+solipsism|solipsismo||S|ast|C1
+qualia|qualia||S|ast|C1
+justified true belief|creencia verdadera justificada||L|ast|C1
+utilitarianism|utilitarismo||S|ast|C1
+deontology|deontología||S|ast|C1
+consequentialism|consecuencialismo||S|ast|C1
+virtue ethics|ética de las virtudes||L|ast|C1
+categorical imperative|imperativo categórico||L|ast|C1
+moral relativism|relativismo moral||L|ast|C1
+determinism|determinismo||S|ast|C1
+altruism|altruismo||S|ast|C1
+trolley problem|dilema del tranvía||L|ast|C1
+metaethics|metaética||S|ast|C1
+epistemic|epistémico||A|ast|C1
+fallibilism|falibilismo||S|ast|C1
+incorrigible|incorregible||A|ast|C1
+axiology|axiología||S|ast|C1
+metaphysics|metafísica||S|ast|C1
+ontology|ontología||S|ast|C1
+noumenon|noumeno||S|ast|C1
+phenomenology|fenomenología||S|ast|C1
+contingency|contingencia||S|ast|C1
+teleology|teleología||S|ast|C1

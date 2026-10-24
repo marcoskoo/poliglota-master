@@ -1,0 +1,308 @@
+dystopia|distopía||S|let|C1
+utopian|utópico||A|let|C1
+speculative fiction|ficción especulativa||S|let|C1
+worldbuilding|construcción de mundos||S|let|C1
+alternate history|historia alternativa||S|let|C1
+post-apocalyptic|postapocalíptico||A|let|C1
+space opera|ópera espacial||S|let|C1
+hard science fiction|ciencia ficción dura||S|let|C1
+cyberpunk|cyberpunk||S|let|C1
+cyborg|cyborg||S|let|C1
+terraforming|terraformación||S|let|C1
+multiverse|multiverso||S|let|C1
+first contact|primer contacto||S|let|C1
+totalitarianism|totalitarismo||S|let|C1
+surveillance society|sociedad de vigilancia||S|ist|C1
+thought experiment|experimento mental||S|let|C1
+unreliable narrator|narrador no fiable||S|let|C1
+dystopian|distópico||A|let|C1
+apocalyptic|apocalíptico||A|let|C1
+posthuman|postrumano||A|let|C1
+humanoid|humanoide||A|let|C1
+otherworldly|de otro mundo||A|let|C1
+comparative literature|literatura comparada||S|let|C1
+canon|canon||S|let|C1
+canonical|canónico||A|let|C1
+world literature|literatura universal||S|let|C1
+literary criticism|crítica literaria||S|let|C1
+close reading|lectura atenta||S|let|C1
+hermeneutics|hermenéutica||S|let|C1
+exegesis|exégesis||S|let|C1
+literary theory|teoría literaria||S|let|C1
+reception|recepción||S|let|C1
+periodization|periodización||S|let|C1
+stream of consciousness|corriente de la conciencia||S|let|C1
+avant-garde|vanguardia||S|art|C1
+modernism|modernismo||S|let|C1
+postmodernism|posmodernismo||S|let|C1
+romanticism|romanticismo||S|let|C1
+realism|realismo||S|let|C1
+naturalism|naturalismo||S|let|C1
+picaresque|picaresca||S|let|C1
+magnum opus|obra cumbre||S|let|C1
+intertextual|intertextual||A|let|C1
+aesthetics|estética||S|let|C1
+public opinion|opinión pública||S|att|C1
+pollster|encuestador||S|att|C1
+opinion survey|encuesta de opinión||S|att|C1
+sampling error|error muestral||S|att|C1
+margin of error|margen de error||S|att|C1
+respondent|encuestado||S|att|C1
+focus group|grupo de discusión||S|att|C1
+exit poll|encuesta a pie de urna||S|att|C1
+approval rating|índice de aprobación||S|att|C1
+turnout|participación electoral||S|att|C1
+swing voter|votante indeciso||S|att|C1
+floating vote|voto flotante||S|att|C1
+landslide victory|victoria arrolladora||S|att|C1
+bandwagon effect|efecto arrastre||S|att|C1
+echo chamber|cámara de resonancia||S|att|C1
+oversampling|sobremuestreo||S|att|C1
+cross tabulation|tabulación cruzada||S|att|C1
+weighting|ponderación||S|att|C1
+cohort|cohorte||S|att|C1
+demographic|demográfico||A|att|C1
+precinct|distrito electoral||S|att|C1
+frontrunner|favorito en las encuestas||S|att|C1
+demobilization|desmovilización||S|ist|C1
+peacekeeping|mantenimiento de la paz||S|ist|C1
+armistice|armisticio||S|ist|C1
+disarmament|desarme||S|ist|C1
+proliferation|proliferación||S|ist|C1
+sanction|sanción||S|ist|C1
+insurgency|insurgencia||S|ist|C1
+guerrilla|guerrilla||S|ist|C1
+collateral damage|daño colateral||S|ist|C1
+refugee crisis|crisis de refugiados||S|ist|C1
+peace treaty|tratado de paz||S|ist|C1
+mediation|mediación||S|ist|C1
+truce|tregua||S|ist|C1
+escalation|escalada||S|ist|C1
+deterrence|disuasión||S|ist|C1
+proxy war|guerra por poderes||S|ist|C1
+buffer zone|zona de amortiguamiento||S|ist|C1
+war crime|crimen de guerra||S|ist|C1
+genocide|genocidio||S|ist|C1
+asylum|asilo||S|ist|C1
+nonproliferation|no proliferación||S|ist|C1
+arms race|carrera armamentística||S|ist|C1
+supranational|supranacional||A|ist|C1
+multilateralism|multilateralismo||S|ist|C1
+customs union|unión aduanera||S|ist|C1
+free trade agreement|acuerdo de libre comercio||S|ist|C1
+accession|adhesión||S|ist|C1
+ratification|ratificación||S|ist|C1
+veto power|derecho de veto||S|ist|C1
+charter|carta fundacional||S|ist|C1
+secretariat|secretaría||S|ist|C1
+high commissioner|alto comisionado||S|ist|C1
+statute|estatuto||S|ist|C1
+convention|convenio internacional||S|ist|C1
+protocol|protocolo||S|ist|C1
+regional integration|integración regional||S|ist|C1
+member state|Estado miembro||S|ist|C1
+opt-out|cláusula de exclusión||S|ist|C1
+qualified majority|mayoría cualificada||S|ist|C1
+subsidiarity|subsidiariedad||S|ist|C1
+secession|secesión||S|ist|C1
+abstention|abstención||S|ist|C1
+unanimity|unanimidad||S|ist|C1
+trusteeship|administración fiduciaria||S|ist|C1
+welfare state|Estado de bienestar||S|ist|C1
+social security|seguridad social||S|ist|C1
+unemployment benefit|prestación por desempleo||S|ist|C1
+universal healthcare|sanidad universal||S|ist|C1
+means test|comprobación de medios||S|ist|C1
+contributory|contributivo||A|ist|C1
+noncontributory|no contributivo||A|ist|C1
+safety net|red de protección||S|ist|C1
+marginalization|marginalización||S|ist|C1
+redistribution|redistribución||S|ist|C1
+progressive taxation|fiscalidad progresiva||S|ist|C1
+poverty line|umbral de pobreza||S|ist|C1
+food stamps|cupones de alimentos||S|ist|C1
+subsidized housing|vivienda subvencionada||S|ist|C1
+subsidized|subvencionado||A|ist|C1
+entitlement|prestación garantizada||S|ist|C1
+caregiver|cuidador||S|ist|C1
+parental leave|permiso parental||S|ist|C1
+paid leave|permiso retribuido||S|ist|C1
+pension fund|fondo de pensiones||S|ist|C1
+reform agenda|agenda de reformas||S|ist|C1
+welfare|asistencia social||S|ist|C1
+grassroots|de base popular||A|att|C1
+sit-in|sentada||S|att|C1
+walkout|abandono colectivo del trabajo||S|att|C1
+picket line|cordón de piquete||S|att|C1
+hunger strike|huelga de hambre||S|att|C1
+civil disobedience|desobediencia civil||S|att|C1
+lockout|cierre patronal||S|att|C1
+placard|pancarta||S|att|C1
+tear gas|gas lacrimógeno||S|att|C1
+crackdown|represión||S|att|C1
+show of force|demostración de fuerza||S|att|C1
+advocacy|defensa de una causa||S|att|C1
+activism|activismo||S|att|C1
+collective action|acción colectiva||S|att|C1
+social movement|movimiento social||S|att|C1
+wildcat strike|huelga salvaje||S|att|C1
+picket|piquete||S|att|C1
+mass mobilization|movilización masiva||S|att|C1
+uprising|levantamiento||S|att|C1
+dissident|disidente||S|att|C1
+gag order|orden judicial de silencio||S|att|C1
+blockade|bloqueo||S|att|C1
+whistleblower|denunciante||S|ist|C1
+transparency|transparencia||S|ist|C1
+accountability|rendición de cuentas||S|ist|C1
+bribery|cohecho||S|ist|C1
+kickback|comisión ilegal||S|ist|C1
+embezzlement|malversación||S|ist|C1
+conflict of interest|conflicto de intereses||S|ist|C1
+nepotism|nepotismo||S|ist|C1
+cronyism|amiguismo||S|ist|C1
+slush fund|caja B||S|ist|C1
+influence peddling|tráfico de influencias||S|ist|C1
+quid pro quo|toma y daca||E|ist|C1
+oversight|supervisión||S|ist|C1
+auditing|auditoría||S|ist|C1
+disclosure|divulgación de información||S|ist|C1
+asset declaration|declaración de bienes||S|ist|C1
+malfeasance|ilícito administrativo||S|ist|C1
+impunity|impunidad||S|ist|C1
+graft|enriquecimiento ilícito||S|ist|C1
+petty corruption|corrupción menuda||S|ist|C1
+open government|gobierno abierto||S|ist|C1
+recusal|recusación||S|ist|C1
+demography|demografía||S|ist|C1
+birth rate|tasa de natalidad||S|ist|C1
+fertility|fecundidad||S|ist|C1
+longevity|longevidad||S|ist|C1
+population aging|envejecimiento de la población||S|ist|C1
+age structure|estructura por edades||S|ist|C1
+census|censo||S|ist|C1
+diaspora|diáspora||S|ist|C1
+expatriate|expatriado||S|ist|C1
+repatriation|repatriación||S|ist|C1
+naturalization|naturalización||S|ist|C1
+displacement|desplazamiento forzado||S|ist|C1
+resettlement|reasentamiento||S|ist|C1
+integration|integración (de los inmigrantes)||S|ist|C1
+emigration|emigración||S|ist|C1
+net migration|migración neta||S|ist|C1
+green card|tarjeta de residencia permanente||S|ist|C1
+deportation|deportación||S|ist|C1
+guest worker|trabajador invitado||S|ist|C1
+ethnic enclave|enclave étnico||S|ist|C1
+depopulation|despoblación||S|ist|C1
+birthright citizenship|ciudadanía por nacimiento||S|ist|C1
+iconography|iconografía||S|art|C1
+hagiography|hagiografía||S|art|C1
+attribute|atributo (símbolo identificativo)||S|art|C1
+halo|aureola||S|art|C1
+allegorical|alegórico||A|art|C1
+emblem|emblema||S|art|C1
+heraldry|heráldica||S|art|C1
+heraldic|heráldico||A|art|C1
+coat of arms|blasón||S|art|C1
+totem|tótem||S|art|C1
+votive|votivo||A|art|C1
+relic|reliquia||S|art|C1
+statuary|conjunto escultórico||S|art|C1
+hieroglyph|jeroglífico||S|art|C1
+mandala|mándala||S|art|C1
+motif|motivo ornamental||S|art|C1
+typology|tipología||S|art|C1
+numismatics|numismática||S|art|C1
+symbolic|simbólico||A|art|C1
+apotropaic|apotropaico||A|art|C1
+iconoclasm|iconoclastia||S|art|C1
+effigy|efigie||S|art|C1
+goldsmith|orfebre||S|art|C1
+silversmith|platero||S|art|C1
+hallmark|contraste||S|art|C1
+filigree|filigrana||S|art|C1
+inlay|taracea||S|art|C1
+marquetry|marquetería||S|art|C1
+gilding|dorado||S|art|C1
+patina|pátina||S|art|C1
+stoneware|gres||S|art|C1
+glaze|esmalte cerámico||S|art|C1
+kiln|horno de cerámica||S|art|C1
+tapestry|tapiz||S|art|C1
+embroidery|bordado||S|art|C1
+applique|aplicación (labor textil)||S|art|C1
+upholstery|tapicería||S|art|C1
+veneer|chapa de madera||S|art|C1
+lacquerware|objetos lacados||S|art|C1
+streamlined|de líneas depuradas||A|art|C1
+ergonomics|ergonomía||S|art|C1
+craftsmanship|oficio artesanal||S|art|C1
+engraving|grabado||S|art|C1
+chasing|repujado||S|art|C1
+shutter speed|velocidad de obturación||S|art|C1
+depth of field|profundidad de campo||S|art|C1
+exposure|exposición||S|art|C1
+long exposure|exposición prolongada||S|art|C1
+viewfinder|visor||S|art|C1
+darkroom|cuarto de revelado||S|art|C1
+retouching|retoque||S|art|C1
+grain|grano||S|art|C1
+still life|naturaleza muerta||S|art|C1
+rule of thirds|regla de los tercios||S|art|C1
+bokeh|bokeh (desenfoque estético)||S|art|C1
+candid|espontánea (fotografía robada)||A|art|C1
+gallerist|galerista||S|art|C1
+curator|comisario de exposición||S|art|C1
+installation|instalación (obra de arte)||S|art|C1
+happening|happening (acción artística)||S|art|C1
+conceptual art|arte conceptual||S|art|C1
+abstract expressionism|expresionismo abstracto||S|art|C1
+minimalism|minimalismo||S|art|C1
+mixed media|técnica mixta||S|art|C1
+vernissage|inauguración privada||S|art|C1
+site-specific|creado para un lugar concreto||A|art|C1
+facade|fachada||S|cit|C1
+buttress|contrafuerte||S|cit|C1
+flying buttress|arbotante||S|cit|C1
+vault|bóveda||S|cit|C1
+pediment|frontón||S|cit|C1
+capital|capitel||S|cit|C1
+cornice|cornisa||S|cit|C1
+architrave|arquitrabe||S|cit|C1
+frieze|friso||S|cit|C1
+atrium|atrio||S|cit|C1
+nave|nave (de iglesia)||S|cit|C1
+transept|transepto||S|cit|C1
+load-bearing wall|muro de carga||S|cit|C1
+cantilever|voladizo||S|cit|C1
+elevation|alzado||S|cit|C1
+maquette|maqueta||S|art|C1
+brutalism|brutalismo||S|art|C1
+neoclassical|neoclásico||A|art|C1
+restoration|restauración||S|art|C1
+retrofit|rehabilitar estructuralmente||V|cit|C1
+cladding|revestimiento exterior||S|cit|C1
+urbanism|urbanismo||S|cit|C1
+choreographer|coreógrafo||S|art|C1
+choreography|coreografía||S|art|C1
+pirouette|pirueta||S|art|C1
+arabesque|arabesca||S|art|C1
+tutu|tutú||S|art|C1
+pointe shoes|zapatillas de puntas||S|art|C1
+barre|barra de ballet||S|art|C1
+prima ballerina|primera bailarina||S|art|C1
+contemporary dance|danza contemporánea||S|art|C1
+dance company|compañía de danza||S|art|C1
+floorwork|trabajo de suelo||S|art|C1
+rehearsal|ensayo||S|art|C1
+touring|gira artística||S|art|C1
+corps de ballet|cuerpo de baile||S|art|C1
+pas de deux|pas de dos||S|art|C1
+cabriole|cabriola||S|art|C1
+adagio|adagio||S|art|C1
+allegro|allegro (tiempo vivo)||S|art|C1
+footwork|trabajo de pies||S|art|C1
+notation|notación coreográfica||S|art|C1
+kinesthetic|cinestésico||A|art|C1
+soloist|bailarín principal||S|art|C1
