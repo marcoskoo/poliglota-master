@@ -1,0 +1,309 @@
+ramble|divagar (al hablar)||V|cmu|C1
+digress|irse por las ramas||V|cmu|C1
+hem and haw|titubear y andarse con rodeos||E|cmu|C1
+pontificate|pontificar||V|cmu|C1
+lecture (regañar)|sermonear||V|cmu|C1
+badger (insistir)|acosar con insistencia||V|cmu|C1
+belabor|insistir machaconamente en algo||V|cmu|C1
+harp on|dar la lata con un tema||V|cmu|C1
+gloss over|pasar algo por alto (atenuarlo)||V|cmu|C1
+allude|aludir (hacer referencia indirecta)||V|cmu|C1
+muse (cavilar)|cavilar (meditar en voz alta)||V|cmu|C1
+articulate (expresar)|expresar con claridad||V|cmu|C1
+elucidate|esclarecer||V|cmu|C1
+paradigm|paradigma||S|ast|C1
+heuristic|heurística||S|ast|C1
+axiom|axioma||S|ast|C1
+corollary|corolario||S|ast|C1
+juxtaposition|yuxtaposición||S|ast|C1
+dichotomy|dicotomía||S|ast|C1
+synthesis|síntesis||S|ast|C1
+conjecture|conjetura||S|ast|C1
+postulate|postulado||S|ast|C1
+inference|inferencia||S|ast|C1
+abstraction|abstracción||S|ast|C1
+premise|premisa||S|ast|C1
+tenet|principio (de una doctrina)||S|ast|C1
+caveat|reparo (advertencia)||S|ast|C1
+paradox|paradoja||S|ast|C1
+anomaly|anomalía||S|ast|C1
+taxonomy|taxonomía||S|ast|C1
+causality|causalidad||S|ast|C1
+determinism|determinismo||S|ast|C1
+relativism|relativismo||S|ast|C1
+empiricism|empirismo||S|ast|C1
+reductionism|reduccionismo||S|ast|C1
+metaphysics|metafísica||S|ast|C1
+veracity|veracidad||S|ast|C1
+verisimilitude|verosimilitud||S|let|C1
+plausibility|plausibilidad||S|ast|C1
+candor|franqueza||S|ast|C1
+duplicity|doblez||S|ast|C1
+deceit|engaño||S|ast|C1
+fabrication|invención (relato fabricado)||S|ast|C1
+falsify|falsificar||V|ast|C1
+distortion|distorsión||S|ast|C1
+hyperbole|hipérbole||S|let|C1
+overstatement|afirmación excesiva||S|ast|C1
+understatement|declaración atenuada||S|ast|C1
+half-truth|media verdad||S|ast|C1
+white lie|mentira piadosa||S|ast|C1
+prevaricate|dar largas (no decir la verdad)||V|ast|C1
+equivocate|expresarse con ambigüedad deliberada||V|ast|C1
+dissemble|disimular (fingir)||V|ast|C1
+corroborate|corroborar||V|ast|C1
+substantiate|sustentar (confirmar con pruebas)||V|ast|C1
+debunk|desmontar (una teoría falsa)||V|ast|C1
+fallacy|falacia||S|ast|C1
+spurious|espurio||A|ast|C1
+apocryphal|apócrifo||A|ast|C1
+aesthetic|estético||A|art|C1
+sublime|sublime||A|art|C1
+kitsch|hortera (estética de mal gusto)||A|art|C1
+garish|estridente (de mal gusto)||A|art|C1
+understated|sobrio (discreto)||A|art|C1
+ornate|recargado||A|art|C1
+baroque|barroco (recargado)||A|art|C1
+ethereal|etéreo||A|art|C1
+bucolic|bucólico||A|art|C1
+grotesque|grotesco||A|art|C1
+deontological|deontológico||A|ast|C1
+consequentialism|consecuencialismo||S|ast|C1
+culpability|culpabilidad||S|ast|C1
+complicity|complicidad||S|ast|C1
+scrupulous|escrupuloso (meticuloso en lo moral)||A|ast|C1
+virtuous|virtuoso||A|ast|C1
+altruistic|altruista||A|ast|C1
+altruism|altruismo||S|ast|C1
+mercenary|mercenario (interesado)||A|ast|C1
+duplicitous|que obra con doblez||A|ast|C1
+decorous|decoroso||A|ast|C1
+prurient|morboso (lascivo)||A|ast|C1
+elegiac|elegíaco||A|let|C1
+negligible|despreciable (ínfimo)||A|ast|C1
+marginal|marginal (mínimo)||A|ast|C1
+appreciable|apreciable (considerable)||A|ast|C1
+sizable|de consideración (grande)||A|ast|C1
+copious|copioso||A|ast|C1
+scanty|escaso (insuficiente)||A|ast|C1
+sparse|disperso (poco denso)||A|ast|C1
+exponential|exponencial||A|sci|C1
+asymptotic|asintótico||A|sci|C1
+incremental|incremental (paulatino)||A|ast|C1
+twofold|doble (por dos)||A|ast|C1
+manifold|múltiple||A|ast|C1
+innumerable|innumerable||A|ast|C1
+order of magnitude|orden de magnitud||S|sci|C1
+disproportion|desproporción||S|ast|C1
+commensurate|conmensurable (proporcionado)||A|ast|C1
+inversely proportional|inversamente proporcional||A|sci|C1
+by degrees|paulatinamente||E|ast|C1
+modicum|mínimo (porción pequeña)||S|ast|C1
+smattering|nociones superficiales||S|ast|C1
+plethora|profusión (abundancia excesiva)||S|ast|C1
+dearth|escasez (carencia)||S|ast|C1
+surfeit|hartazgo (exceso)||S|ast|C1
+euphemism|eufemismo||S|cmu|C1
+dysphemism|disfemismo||S|cmu|C1
+collateral damage|daños colaterales||S|att|C1
+ethnic cleansing|limpieza étnica||S|att|C1
+enhanced interrogation|interrogatorio mejorado||S|ist|C1
+pre-owned|seminuevo (de segunda mano)||A|cmp|C1
+senior citizen|persona mayor||S|att|C1
+correctional facility|centro penitenciario||S|ist|C1
+between jobs|en paro (entre trabajos)||E|lav|C1
+let go (despedir)|despedir (suavizado)||V|lav|C1
+downsizing|reducción de plantilla||S|lav|C1
+golden parachute|paracaídas dorado||S|lav|C1
+casualties|bajas (víctimas)||S|att|C1
+friendly fire|fuego amigo||S|att|C1
+differently abled|con capacidades diferentes||A|att|C1
+vertically challenged|de baja estatura (eufemismo jocoso)||A|ast|C1
+undocumented immigrant|inmigrante sin papeles||S|ist|C1
+strategic withdrawal|retirada estratégica||S|att|C1
+misspeak|equivocarse al hablar||V|cmu|C1
+plausible deniability|negación plausible||S|ist|C1
+gaffe|metedura de pata||S|cmu|C1
+faux pas|desliz social||S|cmu|C1
+not mince words|no andarse con rodeos||E|cmu|C1
+sylvan|silvano (del bosque)||A|let|C1
+vernal|vernal (primaveral)||A|let|C1
+crepuscular|crepuscular||A|let|C1
+resplendent|resplandeciente||A|let|C1
+gossamer|etéreo (fino como telaraña)||A|let|C1
+ephemeral|efímero||A|let|C1
+ineffable|inefable||A|let|C1
+sepulchral|sepulcral||A|let|C1
+funereal|fúnebre||A|let|C1
+elegy|elegía||S|let|C1
+villanelle|villanelle (poema de versos repetidos)||S|let|C1
+quatrain|cuarteta||S|let|C1
+couplet|pareado||S|let|C1
+enjambment|encabalgamiento||S|let|C1
+caesura|cesura||S|let|C1
+iambic pentameter|pentámetro yámbico||S|let|C1
+soliloquy|soliloquio||S|let|C1
+pathos|patetismo||S|let|C1
+bathos|anticlímax (efecto bathos)||S|let|C1
+catharsis|catarsis||S|let|C1
+idyll|idilio||S|let|C1
+prosody|prosodia (métrica poética)||S|let|C1
+liminal|liminal (umbral)||A|let|C1
+hither|hacia aquí||D|let|C1
+thither|hacia allí||D|let|C1
+whence|de donde||D|let|C1
+wherefore|por qué (para qué)||D|let|C1
+forsooth|en verdad (arcaísmo)||E|let|C1
+anon|pronto (en breve)||D|let|C1
+ere|antes de||P|let|C1
+oft|a menudo||D|let|C1
+yonder|allá (aquel)||D|let|C1
+verily|verdaderamente||D|let|C1
+methinks|me parece||E|let|C1
+perchance|quizás (acaso)||D|let|C1
+hark|escuchad (oid)||I|let|C1
+prithee|por favor (arcaísmo)||E|let|C1
+nay|no (sino)||D|let|C1
+vouchsafe|conceder (obsequiar)||V|let|C1
+woebegone|abatido (apenado)||A|let|C1
+forlorn|desamparado||A|let|C1
+erstwhile|de antaño (antiguo)||A|let|C1
+boon|don (favor concedido)||S|let|C1
+bane|perdición (azote)||S|let|C1
+visage|semblante (rostro)||S|let|C1
+wroth|furioso (airado)||A|let|C1
+albeit|aunque (si bien)||C|cnn|C1
+notwithstanding|no obstante||P|cnn|C1
+henceforth|de ahora en adelante||D|cnn|C1
+hitherto|hasta ahora||D|cnn|C1
+whereby|mediante el cual||P|cnn|C1
+wherein|en el cual||P|cnn|C1
+thereby|con ello||D|cnn|C1
+hence|por tanto||D|cnn|C1
+accordingly|en consecuencia||D|cnn|C1
+conversely|por el contrario||D|cnn|C1
+likewise|asimismo||D|cnn|C1
+what is more|lo que es más||E|cnn|C1
+insofar as|en la medida en que||C|cnn|C1
+inasmuch as|en cuanto (dado que)||C|cnn|C1
+provided that|siempre que||C|cnn|C1
+granted|eso sí (concedido)||E|cnn|C1
+to wit|a saber||L|cnn|C1
+not to mention|por no hablar de||E|cnn|C1
+let alone|mucho menos||E|cnn|C1
+that being said|dicho esto||E|cnn|C1
+in light of|a la luz de||L|cnn|C1
+at any rate|en cualquier caso||E|cnn|C1
+by and large|en términos generales||E|cnn|C1
+insinuate|insinuar||V|cmu|C1
+broach|sacar a colación (abordar un tema)||V|cmu|C1
+confide|confiar (revelar en confianza)||V|cmu|C1
+divulge|revelar (hacer público)||V|cmu|C1
+disclose|divulgar (desvelar)||V|cmu|C1
+recount|relatar (narrar con detalle)||V|cmu|C1
+regale|deleitar (con relatos)||V|cmu|C1
+enthuse|hablar con entusiasmo||V|cmu|C1
+gush|derretirse en elogios||V|cmu|C1
+quip|soltar una ocurrencia||V|cmu|C1
+banter|bromear (intercambiar pullas amables)||V|cmu|C1
+jest|decir en broma||V|cmu|C1
+coax|engatusar (persuadir con suavidad)||V|cmu|C1
+cajole|dar coba (persuadir con halagos)||V|cmu|C1
+wheedle|sonsacar (con halagos)||V|cmu|C1
+dissuade|disuadir||V|cmu|C1
+placate|aplacar||V|cmu|C1
+mollify|sosegar (calmar la ira)||V|cmu|C1
+reprimand|reprender||V|cmu|C1
+admonish|amonestar||V|cmu|C1
+berate|regañar con dureza||V|cmu|C1
+chide|reñir (con suavidad)||V|cmu|C1
+laud|ensalzar (elogiar)||V|cmu|C1
+ad hoc|específico para el caso||L|ast|C1
+ad infinitum|hasta el infinito||L|ast|C1
+ad nauseam|hasta el hartazgo||L|ast|C1
+per se|por sí mismo||L|ast|C1
+inter alia|entre otras cosas||L|ast|C1
+status quo|statu quo||L|ast|C1
+de facto|de hecho||L|ast|C1
+de jure|de iure (por derecho)||L|ast|C1
+in situ|en el propio lugar||L|sci|C1
+in vitro|in vitro (fuera del organismo)||L|sci|C1
+in vivo|in vivo (en el organismo)||L|sci|C1
+a priori|a priori (de manera previa)||L|ast|C1
+a posteriori|a posteriori (por la experiencia)||L|ast|C1
+ceteris paribus|manteniendo constante todo lo demás||L|ast|C1
+mutatis mutandis|con los cambios oportunos||L|ast|C1
+prima facie|a primera vista||L|ast|C1
+pro rata|proporcionalmente||L|ast|C1
+quid pro quo|toma y daca||L|ast|C1
+sine qua non|condición indispensable||L|ast|C1
+modus operandi|manera de proceder||L|ast|C1
+mea culpa|reconocimiento del error||L|ast|C1
+sui generis|único en su género||L|ast|C1
+bona fide|de buena fe||L|ast|C1
+pedagogy|pedagogía||S|stu|C1
+scaffolding (educación)|andamiaje (apoyo educativo)||S|stu|C1
+formative assessment|evaluación formativa||S|stu|C1
+summative assessment|evaluación sumativa||S|stu|C1
+metacognition|metacognición||S|stu|C1
+developmental milestone|hito del desarrollo||S|stu|C1
+attachment theory|teoría del apego||S|stu|C1
+egocentrism|egocentrismo||S|stu|C1
+object permanence|permanencia del objeto||S|stu|C1
+critical period|período crítico||S|stu|C1
+nature versus nurture|lo innato frente a lo aprendido||S|stu|C1
+kinesthetic|cinestésico||A|stu|C1
+differentiated instruction|enseñanza diferenciada||S|stu|C1
+giftedness|alta capacidad (superdotación)||S|stu|C1
+educational attainment|nivel educativo alcanzado||S|stu|C1
+syllabus|programa de la asignatura||S|stu|C1
+rubric|rúbrica (criterios de evaluación)||S|stu|C1
+remedial|de refuerzo||A|stu|C1
+school dropout|abandono escolar||S|stu|C1
+truancy|absentismo escolar||S|stu|C1
+rote learning|aprendizaje memorístico||S|stu|C1
+pedagogical|pedagógico||A|stu|C1
+psychotherapy|psicoterapia||S|sla|C1
+cognitive behavioral therapy|terapia cognitivo-conductual||S|sla|C1
+psychodynamic|psicodinámico||A|sla|C1
+cathartic|catártico||A|sla|C1
+defense mechanism|mecanismo de defensa||S|sla|C1
+transference|transferencia (vínculo terapéutico)||S|sla|C1
+mindfulness|atención plena||S|sla|C1
+grounding (técnica)|anclaje (técnica de calma)||S|sla|C1
+trigger (trauma)|desencadenante (de malestar)||S|sla|C1
+flashback|recuerdo intrusivo||S|sla|C1
+avoidance|evitación||S|sla|C1
+rumination|rumiación||S|sla|C1
+dissociation|disociación||S|sla|C1
+self-harm|autolesión||S|sla|C1
+relapse|recaída||S|sla|C1
+inpatient|paciente ingresado||S|sla|C1
+outpatient|paciente ambulatorio||S|sla|C1
+psychotropic|psicotrópico||A|sla|C1
+anxiolytic|ansiolítico||S|sla|C1
+antidepressant|antidepresivo||S|sla|C1
+unconditional positive regard|consideración positiva incondicional||S|sla|C1
+stigma|estigma||S|sla|C1
+avarice|avaricia||S|ast|C1
+gluttony|gula||S|ast|C1
+sloth|pereza (acidia)||S|ast|C1
+wrath|ira||S|ast|C1
+hubris|hibris (soberbia desmedida)||S|ast|C1
+temperance|templanza||S|ast|C1
+fortitude|fortaleza (entereza)||S|ast|C1
+magnanimity|magnanimidad||S|ast|C1
+benevolence|benevolencia||S|ast|C1
+probity|prohidad||S|ast|C1
+rectitude|rectitud (integridad)||S|ast|C1
+turpitude|turpitud (bajeza)||S|ast|C1
+depravity|depravación||S|ast|C1
+iniquity|iniquidad||S|ast|C1
+perfidy|perfidia||S|ast|C1
+treachery|alevosía (traición)||S|ast|C1
+penitence|arrepentimiento (penitencia)||S|ast|C1
+atonement|expiación||S|ast|C1
+absolution|absolución||S|ast|C1
+venal|venal (corruptible)||A|ast|C1
+nefarious|nefasto (malvado)||A|ast|C1
+heinous|aberrante (atroz)||A|ast|C1

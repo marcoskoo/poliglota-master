@@ -1,0 +1,267 @@
+magma chamber|cámara magmática||L|nat|C2
+pyroclastic flow|flujo piroclástico||L|nat|C2
+lahar|lahar (flujo de detritos volcánicos)||S|nat|C2
+karst|karst (relieve cárstico)||S|nat|C2
+permafrost|permafrost (suelo helado permanente)||S|nat|C2
+moraine|morrena||S|nat|C2
+glacial till|till glaciar||L|nat|C2
+ice core|testigo de hielo||L|nat|C2
+radiometric dating|datación radiométrica||L|nat|C2
+plate boundary|borde de placas||L|nat|C2
+hydrothermal vent|fumarola hidrotermal||L|nat|C2
+mass wasting|movimiento de ladera||L|nat|C2
+eigenvector|autovector||S|sci|C2
+manifold|variedad matemática||S|sci|C2
+topology|topología||S|sci|C2
+set theory|teoría de conjuntos||L|sci|C2
+axiom|axioma||S|sci|C2
+corollary|corolario||S|sci|C2
+lemma|lema||S|sci|C2
+proof by induction|demostración por inducción||L|sci|C2
+reductio ad absurdum|reducción al absurdo||L|sci|C2
+tautology|tautología||S|sci|C2
+contradiction|contradicción lógica||S|sci|C2
+predicate logic|lógica de predicados||L|sci|C2
+quantifier|cuantificador||S|sci|C2
+cardinality|cardinalidad||S|sci|C2
+bijection|biyección||S|sci|C2
+isomorphism|isomorfismo||S|sci|C2
+convergence|convergencia||S|sci|C2
+divergence|divergencia||S|sci|C2
+asymptote|asíntota||S|sci|C2
+fractal|fractal||S|sci|C2
+stochastic|estocástico||A|sci|C2
+partial derivative|derivada parcial||L|sci|C2
+tensor|tensor||S|sci|C2
+theorem|teorema||S|sci|C2
+incompleteness|incompletitud||S|sci|C2
+well-ordering principle|principio de buena ordenación||L|sci|C2
+hermeneutics|hermenéutica||S|let|C2
+exegesis|exégesis||S|let|C2
+literary canon|canon literario||L|let|C2
+intertextuality|intertextualidad||S|let|C2
+dialogism|dialogismo||S|let|C2
+defamiliarization|desautomatización||S|let|C2
+heteroglossia|heteroglosia||S|let|C2
+mimetic|mimético||A|let|C2
+bildungsroman|novela de formación||S|let|C2
+aporia|aporía||S|let|C2
+palimpsest|palimpsesto||S|let|C2
+semiotics|semiótica||S|let|C2
+signifier|significante||S|let|C2
+overdetermination|sobredeterminación||S|let|C2
+ideology|ideología||S|ast|C2
+postcolonial|poscolonial||A|let|C2
+subaltern|subalterno||S|let|C2
+hybridity|hibridez||S|let|C2
+canonical|canónico||A|let|C2
+periodization|periodización||S|let|C2
+formalism|formalismo||S|let|C2
+structuralism|estructuralismo||S|let|C2
+poststructuralism|posestructuralismo||S|let|C2
+literariness|literariedad||S|let|C2
+hermeneutic circle|círculo hermenéutico||L|let|C2
+foregrounding|prominencia estética||S|let|C2
+metonymy|metonimia||S|let|C2
+synecdoche|sinécdoque||S|let|C2
+chiasmus|quiasmo||S|let|C2
+anaphora|anáfora||S|let|C2
+zeugma|zeugma||S|let|C2
+litotes|lítotes||S|let|C2
+hendiadys|hendiadis||S|let|C2
+prosody|prosodia||S|let|C2
+scansion|escansión métrica||S|let|C2
+iambic pentameter|pentámetro yámbico||L|let|C2
+dactylic|dactílico||A|let|C2
+trochee|troqueo||S|let|C2
+caesura|cesura||S|let|C2
+enjambment|encabalgamiento||S|let|C2
+elision|elisión métrica||S|let|C2
+alliteration|aliteración||S|let|C2
+assonance|asonancia||S|let|C2
+slant rhyme|rima imperfecta||L|let|C2
+blank verse|verso blanco||L|let|C2
+free verse|verso libre||L|let|C2
+villanelle|villanelle (poema de estribillo)||S|let|C2
+sestina|sextina||S|let|C2
+epithet|epíteto||S|let|C2
+apostrophe|apóstrofe retórico||S|let|C2
+trope|tropo (figura retórica)||S|let|C2
+peroration|peroración||S|let|C2
+focalization|focalización||S|let|C2
+unreliable narrator|narrador no fiable||L|let|C2
+free indirect discourse|estilo indirecto libre||L|let|C2
+diegesis|diegesis||S|let|C2
+mimesis|mímesis||S|let|C2
+backstory|trasfondo argumental||S|let|C2
+plot twist|giro de guion||L|let|C2
+in medias res|arranque en mitad de la acción||L|let|C2
+frame narrative|relato marco||L|let|C2
+mise en abyme|relato dentro del relato||L|let|C2
+storyworld|mundo narrativo||S|let|C2
+character arc|arco del personaje||L|let|C2
+omniscient narrator|narrador omnisciente||L|let|C2
+round character|personaje redondo||L|let|C2
+flat character|personaje plano||L|let|C2
+stream of consciousness|monólogo interior||L|let|C2
+nonlinear narrative|narración no lineal||L|let|C2
+analepsis|analepsis||S|let|C2
+prolepsis|prolepsis||S|let|C2
+narratee|narratario||S|let|C2
+intradiegetic|intradiegético||A|let|C2
+inciting incident|incidente desencadenante||L|let|C2
+denouement|desenlace||S|let|C2
+red herring|pista engañosa||L|let|C2
+foreshadowing|anticipación narrativa||S|let|C2
+cliffhanger|final en suspenso||S|let|C2
+effulgence|efulgencia||S|let|C2
+susurrus|susurro tenue||S|let|C2
+vespertine|vespertino||A|let|C2
+crepuscular|crepuscular||A|let|C2
+lambent|lambente (de brillo suave)||A|let|C2
+evanescent|evanescente||A|let|C2
+mellifluous|melifluo||A|let|C2
+diaphanous|diáfano||A|let|C2
+gossamer|tenue como telaraña||A|let|C2
+iridescent|iridiscente||A|let|C2
+refulgent|refulgente||A|let|C2
+gloaming|anochecer (poético)||S|let|C2
+bower|glorieta (poético)||S|let|C2
+verdant|exuberante de verdor||A|let|C2
+azure|azulado intenso||A|let|C2
+sepulchral|sepulcral||A|let|C2
+funereal|fúnebre||A|let|C2
+dirge|canto fúnebre||S|let|C2
+threnody|treno (canto de lamento)||S|let|C2
+elegy|elegía||S|let|C2
+requiem|réquiem||S|let|C2
+halcyon|apacible y dorado||A|let|C2
+bygone|de tiempos pasados||A|let|C2
+yore|antaño||S|let|C2
+forlorn|desamparado||A|let|C2
+lachrymose|lacrimoso||A|let|C2
+a priori|a priori||L|ast|C2
+a posteriori|a posteriori||L|ast|C2
+justified true belief|creencia verdadera justificada||L|ast|C2
+skepticism|escepticismo||S|ast|C2
+solipsism|solipsismo||S|ast|C2
+fallibilism|falibilismo||S|ast|C2
+foundationalism|fundacionalismo||S|ast|C2
+coherentism|coherentismo||S|ast|C2
+empiricism|empirismo||S|ast|C2
+rationalism|racionalismo||S|ast|C2
+phenomenology|fenomenología||S|ast|C2
+qualia|cualia||S|ast|C2
+deontology|deontología||S|ast|C2
+consequentialism|consecuencialismo||S|ast|C2
+utilitarianism|utilitarismo||S|ast|C2
+virtue ethics|ética de las virtudes||L|ast|C2
+categorical imperative|imperativo categórico||L|ast|C2
+moral relativism|relativismo moral||L|ast|C2
+altruism|altruismo||S|ast|C2
+normative|normativo||A|ast|C2
+metaethics|metaética||S|ast|C2
+free rider|aprovechado que no contribuye||S|ast|C2
+trolley problem|dilema del tranvía||L|ast|C2
+thought experiment|experimento mental||L|ast|C2
+parsimony|parsimonia||S|ast|C2
+prima facie|a primera vista||L|ast|C2
+ontology|ontología||S|ast|C2
+metaphysics|metafísica||S|ast|C2
+essentialism|esencialismo||S|ast|C2
+determinism|determinismo||S|ast|C2
+free will|libre albedrío||L|ast|C2
+compatibilism|compatibilismo||S|ast|C2
+teleology|teleología||S|ast|C2
+causality|causalidad||S|ast|C2
+supervenience|superveniencia||S|ast|C2
+modality|modalidad metafísica||S|ast|C2
+possible world|mundo posible||L|ast|C2
+noumenon|noúmeno||S|ast|C2
+thing-in-itself|cosa en sí||L|ast|C2
+monism|monismo||S|ast|C2
+dualism|dualismo||S|ast|C2
+panpsychism|panpsiquismo||S|ast|C2
+immanence|inmanencia||S|ast|C2
+transcendence|trascendencia||S|ast|C2
+sublimity|sublimidad||S|ast|C2
+the sublime|lo sublime||L|ast|C2
+disinterestedness|desinterés contemplativo||S|ast|C2
+kitsch|arte cursi||S|art|C2
+aesthetic distance|distancia estética||L|ast|C2
+picturesque|pintoresco||A|art|C2
+ineffable|inefable||A|ast|C2
+numinous|numinoso||A|ast|C2
+historiography|historiografía||S|ast|C2
+primary source|fuente primaria||L|ast|C2
+chronicle|crónica||S|ast|C2
+teleological|teleológico||A|ast|C2
+presentism|presentismo||S|ast|C2
+historicism|historicismo||S|ast|C2
+revisionism|revisionismo||S|ast|C2
+microhistory|microhistoria||S|ast|C2
+archival research|investigación de archivo||L|ast|C2
+paleography|paleografía||S|ast|C2
+codicology|codicología||S|ast|C2
+provenance|procedencia||S|ast|C2
+agency|capacidad de actuación||S|ast|C2
+contingency|contingencia histórica||S|ast|C2
+causation|causalidad histórica||S|ast|C2
+epoch-making|que marca época||A|ast|C2
+antiquarian|anticuario||S|ast|C2
+counterfactual|contrafáctico||A|ast|C2
+metanarrative|metarrelato||S|ast|C2
+zeitgeist|espíritu de la época||S|ast|C2
+collective memory|memoria colectiva||L|ast|C2
+historiographical|historiográfico||A|ast|C2
+manorialism|régimen señorial||S|ast|C2
+indentured servitude|servidumbre por contrato||L|ast|C2
+diaspora|diáspora||S|ast|C2
+annals|anales||S|ast|C2
+phonology|fonología||S|cmu|C2
+morpheme|morfema||S|cmu|C2
+phoneme|fonema||S|cmu|C2
+syntax|sintaxis||S|cmu|C2
+semantics|semántica||S|cmu|C2
+pragmatics|pragmática||S|cmu|C2
+etymology|etimología||S|cmu|C2
+cognate|palabra afín||S|cmu|C2
+loanword|préstamo léxico||S|cmu|C2
+calque|calco||S|cmu|C2
+diachronic|diacrónico||A|cmu|C2
+synchronic|sincrónico||A|cmu|C2
+diglossia|diglosia||S|cmu|C2
+code-switching|alternancia de código||S|cmu|C2
+speech act|acto de habla||L|cmu|C2
+illocutionary force|fuerza ilocutiva||L|cmu|C2
+conversational implicature|implicatura conversacional||L|cmu|C2
+minimal pair|par mínimo||L|cmu|C2
+suprasegmental|suprasegmental||A|cmu|C2
+derivation|derivación léxica||S|cmu|C2
+inflection|flexión morfológica||S|cmu|C2
+grammaticalization|gramaticalización||S|cmu|C2
+linguistic relativity|relativismo lingüístico||L|cmu|C2
+corpus|corpus lingüístico||S|cmu|C2
+philology|filología||S|cmu|C2
+vernacular|lengua vernácula||S|cmu|C2
+the unconscious|el inconsciente||L|ast|C2
+superego|superyó||S|ast|C2
+libido|libido||S|ast|C2
+cathexis|catexia||S|ast|C2
+repression|represión||S|ast|C2
+sublimation|sublimación (psicoanalítica)||S|ast|C2
+displacement|desplazamiento (psicoanalítico)||S|ast|C2
+transference|transferencia||S|ast|C2
+countertransference|contratransferencia||S|ast|C2
+working-through|elaboración psíquica||S|ast|C2
+inferiority complex|complejo de inferioridad||L|ast|C2
+fixation|fijación (psicoanalítica)||S|ast|C2
+screen memory|recuerdo encubridor||L|ast|C2
+dreamwork|trabajo del sueño||S|ast|C2
+condensation|condensación onírica||S|ast|C2
+parapraxis|acto fallido||S|ast|C2
+hegemony|hegemonía||S|ast|C2
+false consciousness|conciencia falsa||L|ast|C2
+reification|cosificación||S|ast|C2
+commodification|comodificación||S|ast|C2
+alienation|alienación||S|ast|C2

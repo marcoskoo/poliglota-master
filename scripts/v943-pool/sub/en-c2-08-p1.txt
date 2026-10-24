@@ -1,0 +1,267 @@
+seizure|crisis epiléptica||S|sla|C2
+convulsion|convulsión||S|sla|C2
+tremor|temblor||S|sla|C2
+aphasia|afasia||S|sla|C2
+dysarthria|disartria||S|sla|C2
+neuropathy|neuropatía||S|sla|C2
+lumbar puncture|punción lumbar||L|sla|C2
+aura|aura visual de la migraña||S|sla|C2
+concussion|conmoción cerebral||S|sla|C2
+sclerosis|esclerosis||S|sla|C2
+syncope|síncope||S|sla|C2
+ataxia|ataxia||S|sla|C2
+dystonia|distonía||S|sla|C2
+neuropathic|neuropático||A|sla|C2
+sedation|sedación||S|sla|C2
+differential diagnosis|diagnóstico diferencial||L|sla|C2
+prognostic|pronóstico||A|sla|C2
+idiopathic|idiopático||A|sla|C2
+degenerative|degenerativo||A|sla|C2
+demyelination|desmielinización||S|sla|C2
+myasthenia|miastenia||S|sla|C2
+numbness|entumecimiento||S|sla|C2
+tingling|hormigueo||S|sla|C2
+remission|remisión||S|sla|C2
+relapse|recaída||S|sla|C2
+neurodegeneration|neurodegeneración||S|sla|C2
+proprioception|propiocepción||S|sla|C2
+obstetrics|obstetricia||S|sla|C2
+gestational|gestacional||A|sla|C2
+preeclampsia|preeclampsia||S|sla|C2
+placental abruption|desprendimiento de placenta||L|sla|C2
+breech birth|parto de nalgas||L|sla|C2
+midwife|matrona||S|sla|C2
+amniocentesis|amniocentesis||S|sla|C2
+neonatal|neonatal||A|sla|C2
+jaundice|ictericia||S|sla|C2
+colic|cólico del lactante||S|sla|C2
+weaning|destete||S|sla|C2
+lactation|lactancia||S|sla|C2
+malformation|malformación||S|sla|C2
+congenital|congénito||A|sla|C2
+prenatal|prenatal||A|sla|C2
+postpartum|posparto||A|sla|C2
+episiotomy|episiotomía||S|sla|C2
+dilation|dilatación del cuello uterino||S|sla|C2
+induced labor|parto inducido||L|sla|C2
+miscarriage|aborto espontáneo||S|sla|C2
+stillbirth|mortinato||S|sla|C2
+incubator|incubadora||S|sla|C2
+preterm|prematuro||A|sla|C2
+pediatrics|pediatría||S|sla|C2
+teething|dentición||S|sla|C2
+milestone|hito del desarrollo||S|sla|C2
+umbilical cord|cordón umbilical||L|sla|C2
+comminuted fracture|fractura conminuta||L|sla|C2
+dislocation|luxación||S|sla|C2
+ligament|ligamento||S|sla|C2
+rotator cuff|manguito rotador||L|sla|C2
+orthopedic|ortopédico||A|sla|C2
+arthroscopy|artroscopia||S|sla|C2
+prosthesis|prótesis||S|sla|C2
+physical therapy|fisioterapia||L|sla|C2
+traction|tracción||S|sla|C2
+splint|férula||S|sla|C2
+immobilization|inmovilización||S|sla|C2
+whiplash|latigazo cervical||S|sla|C2
+contusion|contusión||S|sla|C2
+rehabilitation|rehabilitación||S|sla|C2
+range of motion|rango de movimiento||L|sla|C2
+stiffness|rigidez||S|sla|C2
+gait|marcha||S|sla|C2
+amputation|amputación||S|sla|C2
+bedsore|úlcera por presión||S|sla|C2
+arthroplasty|artroplastia||S|sla|C2
+osteoporosis|osteoporosis||S|sla|C2
+spinal fusion|fusión espinal||L|sla|C2
+sling|cabestrillo||S|sla|C2
+hip replacement|reemplazo total de cadera||L|sla|C2
+knee replacement|reemplazo total de rodilla||L|sla|C2
+musculoskeletal|musculoesquelético||A|sla|C2
+occupational therapy|terapia ocupacional||L|sla|C2
+outbreak|brote||S|sla|C2
+endemic|endémico||A|sla|C2
+herd immunity|inmunidad de grupo||L|sla|C2
+booster shot|dosis de refuerzo||L|sla|C2
+ring vaccination|vacunación en anillo||L|sla|C2
+contact tracing|rastreo de contactos||L|sla|C2
+incubation period|período de incubación||L|sla|C2
+pathogen|patógeno||S|sla|C2
+mortality rate|tasa de mortalidad||L|sla|C2
+morbidity|morbilidad||S|sla|C2
+surveillance|vigilancia epidemiológica||S|sla|C2
+screening|cribado||S|sla|C2
+prophylaxis|profilaxis||S|sla|C2
+adverse event|reacción adversa||L|sla|C2
+health policy|política sanitaria||L|sla|C2
+immunocompromised|inmunodeprimido||A|sla|C2
+seroprevalence|seroprevalencia||S|sla|C2
+epidemiologist|epidemiólogo||S|sla|C2
+inoculation|inoculación||S|sla|C2
+eradication|erradicación||S|sla|C2
+cluster|conglomerado de casos||S|sla|C2
+prevalence|prevalencia||S|sla|C2
+incidence|incidencia||S|sla|C2
+vaccination campaign|campaña de vacunación||L|sla|C2
+health disparities|desigualdades sanitarias||L|sla|C2
+notifiable disease|enfermedad de declaración obligatoria||L|sla|C2
+tax evasion|evasión fiscal||L|fin|C2
+tax avoidance|elusión fiscal||L|fin|C2
+tax return|declaración de la renta||L|fin|C2
+withholding tax|retención fiscal||L|fin|C2
+capital gains|plusvalías||L|fin|C2
+audit|auditoría||S|fin|C2
+itemized deduction|deducción detallada||L|fin|C2
+levy|gravar||V|fin|C2
+surcharge|recargo||S|fin|C2
+excise tax|impuesto especial||L|fin|C2
+offshore account|cuenta offshore||L|fin|C2
+shell company|empresa pantalla||L|fin|C2
+money laundering|blanqueo de capitales||L|fin|C2
+concealment|ocultación de rentas||S|fin|C2
+underreporting|infradeclaración||S|fin|C2
+tax haven|paraíso fiscal||L|fin|C2
+loophole|vacío legal||S|fin|C2
+compliance|cumplimiento normativo||S|fin|C2
+hefty fine|multa cuantiosa||L|fin|C2
+lien|gravamen||S|fin|C2
+garnishment|embargo de nómina||S|fin|C2
+taxable|imponible||A|fin|C2
+progressive tax|impuesto progresivo||L|fin|C2
+fiscal year|ejercicio fiscal||L|fin|C2
+capital flight|fuga de capitales||L|fin|C2
+creditworthiness|solvencia crediticia||S|fin|C2
+collateral|garantía real||S|fin|C2
+loan default|impago de préstamo||L|fin|C2
+prime rate|tipo de interés preferente||L|fin|C2
+credit score|puntuación crediticia||L|fin|C2
+underwriting|suscripción de riesgos||S|fin|C2
+solvency|solvencia||S|fin|C2
+liquidity|liquidez||S|fin|C2
+insolvency|insolvencia||S|fin|C2
+foreclosure|ejecución hipotecaria||S|fin|C2
+overdraft|descubierto||S|fin|C2
+amortization|amortización||S|fin|C2
+down payment|entrada||L|fin|C2
+subprime|de alto riesgo||A|fin|C2
+stress test|prueba de resistencia||L|fin|C2
+capital requirement|requisito de capital||L|fin|C2
+nonperforming loan|préstamo en mora||L|fin|C2
+bank run|corrida bancaria||L|fin|C2
+deposit insurance|seguro de depósitos||L|fin|C2
+securitization|titulización||S|fin|C2
+leverage|apalancamiento||S|fin|C2
+write-down|minusvalía contable||S|fin|C2
+loan loss provision|provisión por incobrables||L|fin|C2
+credit rating|calificación crediticia||L|fin|C2
+co-signer|codeudor||S|fin|C2
+balloon payment|pago final elevado||L|fin|C2
+refinance|refinanciar||V|fin|C2
+merger|fusión empresarial||S|fin|C2
+acquisition|adquisición||S|fin|C2
+due diligence|diligencia debida||L|fin|C2
+valuation|valoración de empresas||S|fin|C2
+goodwill|fondo de comercio||S|fin|C2
+buyout|compra de la compañía||S|fin|C2
+leveraged buyout|compra apalancada||L|fin|C2
+takeover bid|oferta pública de adquisición||L|fin|C2
+hostile takeover|opa hostil||L|fin|C2
+asset stripping|descapitalización de activos||L|fin|C2
+share buyback|recompra de acciones||L|fin|C2
+dividend yield|rentabilidad por dividendo||L|fin|C2
+earnings per share|beneficio por acción||L|fin|C2
+book value|valor contable||L|fin|C2
+market capitalization|capitalización bursátil||L|fin|C2
+spin-off|escisión||S|fin|C2
+synergy|sinergia||S|fin|C2
+dilution|dilución accionaria||S|fin|C2
+balance sheet|balance de situación||L|fin|C2
+cash flow|flujo de caja||L|fin|C2
+working capital|capital circulante||L|fin|C2
+minority stake|participación minoritaria||L|fin|C2
+controlling interest|mayoría de control||L|fin|C2
+antitrust|antimonopolio||A|fin|C2
+going public|salir a bolsa||E|fin|C2
+fair value|valor razonable||L|fin|C2
+impairment|deterioro de valor||S|fin|C2
+elasticity|elasticidad||S|fin|C2
+marginal utility|utilidad marginal||L|fin|C2
+diminishing returns|rendimientos decrecientes||L|fin|C2
+opportunity cost|coste de oportunidad||L|fin|C2
+externality|externalidad||S|fin|C2
+price ceiling|precio máximo||L|fin|C2
+price floor|precio mínimo||L|fin|C2
+oligopoly|oligopolio||S|fin|C2
+monopolistic competition|competencia monopolística||L|fin|C2
+game theory|teoría de juegos||L|fin|C2
+equilibrium price|precio de equilibrio||L|fin|C2
+supply curve|curva de oferta||L|fin|C2
+deadweight loss|pérdida de peso muerto||L|fin|C2
+consumer surplus|excedente del consumidor||L|fin|C2
+perfect competition|competencia perfecta||L|fin|C2
+sunk cost|coste hundido||L|fin|C2
+barrier to entry|barrera de entrada||L|fin|C2
+yield management|gestión de ingresos||L|fin|C2
+moral hazard|riesgo moral||L|fin|C2
+adverse selection|selección adversa||L|fin|C2
+invisible hand|mano invisible||L|fin|C2
+marginal cost|coste marginal||L|fin|C2
+substitute goods|bienes sustitutivos||L|fin|C2
+complementary goods|bienes complementarios||L|fin|C2
+signaling|señalización||S|fin|C2
+asymmetric information|información asimétrica||L|fin|C2
+market power|poder de mercado||L|fin|C2
+policyholder|tomador de la póliza||S|fin|C2
+premium|prima||S|fin|C2
+deductible|franquicia||S|fin|C2
+underwriter|suscriptor de riesgos||S|fin|C2
+actuary|actuario||S|fin|C2
+actuarial|actuarial||A|fin|C2
+indemnity|indemnización||S|fin|C2
+coverage|cobertura||S|fin|C2
+exclusion|cláusula de exclusión||S|fin|C2
+rider|cláusula adicional||S|fin|C2
+reinsurance|reaseguro||S|fin|C2
+annuity|renta vitalicia||S|fin|C2
+coinsurance|coaseguro||S|fin|C2
+peril|riesgo cubierto||S|fin|C2
+claims adjuster|perito de seguros||L|fin|C2
+act of God|fuerza mayor||L|fin|C2
+subrogation|subrogación||S|fin|C2
+lapse|caducidad de la póliza||S|fin|C2
+risk pooling|mutualización del riesgo||L|fin|C2
+insurable interest|interés asegurable||L|fin|C2
+umbrella policy|póliza de exceso de responsabilidad||L|fin|C2
+term life|seguro de vida temporal||L|fin|C2
+whole life|seguro de vida entera||L|fin|C2
+payout|desembolso indemnizatorio||S|fin|C2
+catastrophe model|modelo de catástrofes||L|fin|C2
+solvency margin|margen de solvencia||L|fin|C2
+risk assessment|evaluación de riesgos||L|fin|C2
+microfinance|microfinanzas||S|fin|C2
+development aid|ayuda al desarrollo||L|fin|C2
+debt relief|alivio de la deuda||L|fin|C2
+structural adjustment|ajuste estructural||L|fin|C2
+austerity|austeridad||S|fin|C2
+cash transfer|transferencia de renta||L|fin|C2
+poverty alleviation|reducción de la pobreza||L|fin|C2
+capacity building|fortalecimiento de capacidades||L|fin|C2
+technical assistance|asistencia técnica||L|fin|C2
+nongovernmental organization|organización no gubernamental||L|fin|C2
+fair trade|comercio justo||L|fin|C2
+sustainability|sostenibilidad||S|fin|C2
+per capita income|renta per cápita||L|fin|C2
+purchasing power|poder adquisitivo||L|fin|C2
+brain drain|fuga de cerebros||L|fin|C2
+remittance|remesa de dinero||S|fin|C2
+microloan|micropréstamo||S|fin|C2
+emerging market|mercado emergente||L|fin|C2
+import substitution|sustitución de importaciones||L|fin|C2
+tariff|arancel||S|fin|C2
+subsidy|subvención||S|fin|C2
+food security|seguridad alimentaria||L|fin|C2
+land reform|reforma agraria||L|fin|C2
+empowerment|empoderamiento||S|fin|C2
+self-sufficiency|autosuficiencia||S|fin|C2
+indebtedness|endeudamiento||S|fin|C2
+unequal exchange|intercambio desigual||L|fin|C2

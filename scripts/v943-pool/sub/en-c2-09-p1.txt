@@ -1,0 +1,267 @@
+microarchitecture|microarquitectura||S|tec|C2
+overclocking|sobreaceleración del procesador||S|tec|C2
+heat sink|disipador térmico||S|tec|C2
+heat dissipation|disipación del calor||S|tec|C2
+lithography|litografía de chips||S|sci|C2
+photolithography|fotolitografía||S|sci|C2
+wafer|oblea de silicio||S|sci|C2
+transistor|transistor||S|sci|C2
+semiconductor|semiconductor||S|sci|C2
+nanometer|nanómetro||S|sci|C2
+cache hierarchy|jerarquía de memoria caché||S|tec|C2
+pipelining|segmentación de instrucciones||S|tec|C2
+throughput|caudal de procesamiento||S|tec|C2
+latency|latencia||S|tec|C2
+bandwidth|ancho de banda||S|tec|C2
+firmware|firmware||S|tec|C2
+clock speed|velocidad de reloj||S|tec|C2
+die shrink|reducción de escala del chip||S|tec|C2
+logic gate|puerta lógica||S|sci|C2
+quantum computing|computación cuántica||S|sci|C2
+thermal throttling|limitación térmica del procesador||S|tec|C2
+multicore|multinúcleo||A|tec|C2
+parallel processing|procesamiento en paralelo||S|tec|C2
+instruction set|conjunto de instrucciones||S|tec|C2
+photomask|fotomáscara||S|sci|C2
+miniaturization|miniaturización||S|tec|C2
+voltage regulator|regulador de voltaje||S|tec|C2
+data mining|minería de datos||S|tec|C2
+predictive analytics|analítica predictiva||S|tec|C2
+data warehouse|almacén de datos||S|tec|C2
+query optimization|optimización de consultas||S|tec|C2
+normalization|normalización de bases de datos||S|tec|C2
+schema|esquema de datos||S|tec|C2
+indexing|indexación||S|tec|C2
+clustering|agrupamiento de datos||S|sci|C2
+regression analysis|análisis de regresión||S|sci|C2
+outlier|valor atípico||S|sci|C2
+web scraping|extracción automática de datos web||S|tec|C2
+data cleansing|limpieza de datos||S|tec|C2
+unstructured data|datos no estructurados||S|tec|C2
+batch processing|procesamiento por lotes||S|tec|C2
+dataset|conjunto de datos||S|sci|C2
+heuristic|heurística||S|sci|C2
+neural network|red neuronal||S|sci|C2
+correlation|correlación||S|sci|C2
+holdout|conjunto de datos de prueba||S|sci|C2
+sampling bias|sesgo de muestreo||S|sci|C2
+granularity|granularidad||S|sci|C2
+descriptive statistics|estadística descriptiva||S|sci|C2
+sharding|fragmentación de datos||S|tec|C2
+scalability|escalabilidad||S|tec|C2
+redundancy|redundancia||S|tec|C2
+feature engineering|ingeniería de variables||S|sci|C2
+metadata|metadatos||S|tec|C2
+blockchain|cadena de bloques||S|fin|C2
+smart contract|contrato inteligente||S|fin|C2
+distributed ledger|libro de cuentas distribuido||S|fin|C2
+cryptography|criptografía||S|sci|C2
+hash function|función hash||S|sci|C2
+consensus mechanism|mecanismo de consenso||S|fin|C2
+proof of stake|prueba de participación||S|fin|C2
+proof of work|prueba de trabajo||S|fin|C2
+mining rig|equipo de minería||S|tec|C2
+wallet|monedero digital||S|fin|C2
+tokenization|tokenización||S|fin|C2
+decentralized|descentralizado||A|tec|C2
+immutable|inmutable||A|tec|C2
+fork|bifurcación de la cadena||S|fin|C2
+gas fee|comisión de gas||S|fin|C2
+minting|acuñación de activos digitales||S|fin|C2
+cold storage|almacenamiento en frío||S|fin|C2
+public key|clave pública||S|sci|C2
+private key|clave privada||S|sci|C2
+timestamping|sellado de tiempo||S|sci|C2
+oracle|oráculo de datos externos||S|fin|C2
+on-chain|en la propia cadena||A|fin|C2
+double spending|doble gasto||S|fin|C2
+non-fungible|no fungible||A|fin|C2
+custody|custodia de activos digitales||S|fin|C2
+digital asset|activo digital||S|fin|C2
+biometric|biométrico||A|tec|C2
+facial recognition|reconocimiento facial||S|tec|C2
+fingerprint scanner|lector de huellas dactilares||S|tec|C2
+iris scan|escaneo de iris||S|tec|C2
+retina|retina||S|cor|C2
+gait recognition|reconocimiento de la marcha||S|tec|C2
+voiceprint|huella vocal||S|tec|C2
+liveness detection|detección de vitalidad||S|tec|C2
+false positive|falso positivo||S|sci|C2
+false negative|falso negativo||S|sci|C2
+matching algorithm|algoritmo de cotejo||S|tec|C2
+similarity score|puntuación de similitud||S|sci|C2
+template|plantilla biométrica||S|tec|C2
+enrollment|registro de datos biométricos||S|tec|C2
+spoofing|suplantación||S|tec|C2
+deepfake|montaje audiovisual hiperrealista||S|tec|C2
+pattern matching|cotejo de patrones||S|sci|C2
+machine vision|visión artificial||S|sci|C2
+sensor fusion|fusión de sensores||S|sci|C2
+keystroke dynamics|dinámica de tecleo||S|tec|C2
+behavioral biometrics|biometría conductual||S|tec|C2
+hit rate|tasa de acierto||S|sci|C2
+signature verification|verificación de firma||S|tec|C2
+thermography|termografía||S|sci|C2
+contour detection|detección de contornos||S|sci|C2
+infrared imaging|imagen por infrarrojos||S|sci|C2
+sensor network|red de sensores||S|tec|C2
+smart grid|red eléctrica inteligente||S|tec|C2
+connectivity|conectividad||S|tec|C2
+interoperability|interoperabilidad||S|tec|C2
+telematics|teleinformática||S|tec|C2
+utility meter|contador de servicios||S|tec|C2
+edge computing|computación en el borde||S|tec|C2
+mesh network|red en malla||S|tec|C2
+actuator|actuador||S|tec|C2
+embedded system|sistema empotrado||S|tec|C2
+remote sensing|teledetección||S|sci|C2
+congestion pricing|tarificación por congestión||S|cit|C2
+urban planning|urbanismo||S|cit|C2
+condition monitoring|monitorización de estado||S|tec|C2
+smart city|ciudad inteligente||S|cit|C2
+internet of things|internet de las cosas||L|tec|C2
+wearable|dispositivo vestible||S|tec|C2
+geolocation|geolocalización||S|tec|C2
+real-time|en tiempo real||A|tec|C2
+middleware|software intermediario||S|tec|C2
+device pairing|emparejamiento de dispositivos||S|tec|C2
+demand response|respuesta a la demanda||S|tec|C2
+adaptive lighting|iluminación adaptativa||S|cit|C2
+citywide|a escala de toda la ciudad||A|cit|C2
+telemetry|telemetría||S|sci|C2
+short-range|de corto alcance||A|tec|C2
+immersion|inmersión||S|sve|C2
+head-mounted display|visor montado en la cabeza||S|tec|C2
+haptic|háptico||A|tec|C2
+motion tracking|seguimiento de movimiento||S|tec|C2
+virtual reality|realidad virtual||S|tec|C2
+augmented reality|realidad aumentada||S|tec|C2
+embodiment|sensación de cuerpo propio||S|sci|C2
+respawn|reaparecer tras ser eliminado||V|sve|C2
+level up|subir de nivel||E|sve|C2
+open world|mundo abierto||S|sve|C2
+non-player character|personaje no jugable||S|sve|C2
+procedural generation|generación procedimental||S|tec|C2
+render|renderizar||V|tec|C2
+frame rate|frecuencia de imágenes||S|tec|C2
+field of view|campo de visión||S|tec|C2
+motion sickness|mareo por movimiento||S|sla|C2
+teleporting|teletransporte||S|sve|C2
+walkthrough|guía completa del juego||S|sve|C2
+loot box|caja de botín||S|sve|C2
+microtransaction|micropago||S|fin|C2
+downloadable content|contenido descargable||S|sve|C2
+game engine|motor de juego||S|tec|C2
+physics engine|motor de física||S|tec|C2
+clipping|solapamiento de polígonos||S|tec|C2
+stereoscopic|estereoscópico||A|tec|C2
+presence|sensación de presencia||S|sci|C2
+cybersickness|cibermareo||S|sci|C2
+magma|magma||S|nat|C2
+lava dome|domo de lava||S|nat|C2
+pyroclastic flow|flujo piroclástico||S|nat|C2
+tephra|tefra||S|nat|C2
+caldera|caldera volcánica||S|nat|C2
+stratovolcano|estratovolcán||S|nat|C2
+fissure eruption|erupción fisural||S|nat|C2
+vent|conducto volcánico||S|nat|C2
+lahar|lahar||S|nat|C2
+tremor|temblor sísmico||S|nat|C2
+seismograph|sismógrafo||S|sci|C2
+epicenter|epicentro||S|sci|C2
+aftershock|réplica sísmica||S|sci|C2
+moment magnitude|magnitud de momento||S|sci|C2
+subduction|subducción||S|sci|C2
+tectonic|tectónico||A|sci|C2
+hotspot|punto caliente||S|nat|C2
+eruption column|columna eruptiva||S|nat|C2
+volcanic ash|ceniza volcánica||S|nat|C2
+silica|sílice||S|sci|C2
+viscosity|viscosidad||S|sci|C2
+geothermal|geotérmico||A|sci|C2
+fumarole|fumarola||S|nat|C2
+debris flow|flujo de detritos||S|nat|C2
+ground deformation|deformación del terreno||S|sci|C2
+hazard map|mapa de peligrosidad||S|nat|C2
+seismic swarm|enjambre sísmico||S|sci|C2
+watershed|cuenca hidrográfica||S|nat|C2
+wetland|humedal||S|nat|C2
+estuary|estuario||S|nat|C2
+tributary|afluente||S|nat|C2
+riverbank|ribera||S|nat|C2
+floodplain|llanura de inundación||S|nat|C2
+oxbow lake|lago en herradura||S|nat|C2
+sediment load|carga de sedimentos||S|sci|C2
+turbidity|turbidez||S|sci|C2
+eutrophication|eutrofización||S|sci|C2
+algal bloom|floración de algas||S|nat|C2
+dissolved oxygen|oxígeno disuelto||S|sci|C2
+water table|nivel freático||S|sci|C2
+aquifer|acuífero||S|sci|C2
+marsh|marisma||S|nat|C2
+bog|turbera||S|nat|C2
+peat|turba||S|nat|C2
+hydrology|hidrología||S|sci|C2
+limnology|limnología||S|sci|C2
+riparian|ripario||A|nat|C2
+meander|meandro||S|nat|C2
+dredging|dragado||S|nat|C2
+salinity|salinidad||S|sci|C2
+brackish|salobre||A|nat|C2
+nutrient runoff|arrastre de nutrientes||S|nat|C2
+hydrological cycle|ciclo hidrológico||S|sci|C2
+groundwater|aguas subterráneas||S|nat|C2
+agronomy|agronomía||S|sci|C2
+tillage|labranza||S|nat|C2
+crop rotation|rotación de cultivos||S|nat|C2
+soil fertility|fertilidad del suelo||S|sci|C2
+nitrogen fixation|fijación de nitrógeno||S|sci|C2
+topsoil|capa superficial del suelo||S|nat|C2
+subsoil|subsuelo||S|nat|C2
+loam|tierra franca||S|nat|C2
+composting|compostaje||S|nat|C2
+mulching|acolchado del suelo||S|nat|C2
+drip irrigation|riego por goteo||S|nat|C2
+terrace farming|cultivo en terrazas||S|nat|C2
+monoculture|monocultivo||S|nat|C2
+cover crop|cultivo de cobertura||S|nat|C2
+pesticide residue|residuo de plaguicidas||S|sci|C2
+genetically modified|modificado genéticamente||A|sci|C2
+hybrid seed|semilla híbrida||S|sci|C2
+yield gap|brecha de rendimiento||S|sci|C2
+gully erosion|erosión en cárcavas||S|nat|C2
+salinization|salinización||S|sci|C2
+agronomic|agronómico||A|sci|C2
+harrowing|pase de grada||S|nat|C2
+seed drill|sembradora de precisión||S|nat|C2
+fallow|en barbecho||A|nat|C2
+alley cropping|cultivo en callejones||S|nat|C2
+precision agriculture|agricultura de precisión||S|sci|C2
+soil horizon|horizonte del suelo||S|sci|C2
+livestock|ganado||S|ani|C2
+husbandry|cría y cuidado de animales||S|ani|C2
+broodmare|yegua de cría||S|ani|C2
+dairy herd|rebaño lechero||S|ani|C2
+feedlot|cebo intensivo||S|ani|C2
+pastureland|pastizal||S|nat|C2
+overgrazing|sobrepastoreo||S|nat|C2
+shearing|esquila||S|ani|C2
+hoof trimming|recorte de pezuñas||S|ani|C2
+bycatch|captura incidental||S|nat|C2
+trawling|pesca de arrastre||S|nat|C2
+longline fishing|pesca con palangre||S|nat|C2
+fishery|caladero||S|nat|C2
+spawning|desove||S|ani|C2
+fry|alevín||S|ani|C2
+hatchery|piscifactoría||S|ani|C2
+aquaculture|acuicultura||S|nat|C2
+mariculture|maricultura||S|nat|C2
+fishmeal|harina de pescado||S|nat|C2
+net pen|jaula flotante de cultivo||S|ani|C2
+seaweed farming|cultivo de algas||S|nat|C2
+stocking density|densidad de cultivo||S|ani|C2
+artificial selection|selección artificial||S|ani|C2
+weaning|destete||S|ani|C2
+herd immunity|inmunidad de grupo||S|sla|C2
+mastitis|mastitis||S|sla|C2
+foot-and-mouth|fiebre aftosa||S|sla|C2

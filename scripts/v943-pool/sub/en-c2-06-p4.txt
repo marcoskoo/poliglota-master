@@ -1,0 +1,267 @@
+historical materialism|materialismo histórico||L|ast|C2
+praxis|praxis||S|ast|C2
+culture industry|industria cultural||L|ast|C2
+negative dialectics|dialéctica negativa||L|ast|C2
+biopower|biopoder||S|ast|C2
+geopolitics|geopolítica||S|ist|C2
+sphere of influence|esfera de influencia||L|ist|C2
+buffer state|Estado tapón||L|ist|C2
+suzerainty|suzeranía (señorío supremo)||S|ist|C2
+irredentism|irredentismo||S|ist|C2
+secession|secesión||S|ist|C2
+annexation|anexión||S|ist|C2
+casus belli|motivo de guerra||L|ist|C2
+realpolitik|política pragmática del poder||S|ist|C2
+balance of power|equilibrio de poder||L|ist|C2
+nuclear proliferation|proliferación nuclear||L|ist|C2
+arms race|carrera armamentística||L|ist|C2
+sanctions regime|régimen de sanciones||L|ist|C2
+extraterritoriality|extraterritorialidad||S|ist|C2
+extradition|extradición||S|ist|C2
+diplomatic immunity|inmunidad diplomática||L|ist|C2
+rapprochement|acercamiento diplomático||S|ist|C2
+entente|acuerdo entre potencias||S|ist|C2
+proxy war|guerra subsidiaria||L|ist|C2
+insurgency|insurgencia||S|ist|C2
+insurgent|insurgente||S|ist|C2
+unilateralism|unilateralismo||S|ist|C2
+multilateralism|multilateralismo||S|ist|C2
+soft power|poder blando||L|ist|C2
+failed state|Estado fallido||L|ist|C2
+peacekeeping|mantenimiento de la paz||S|ist|C2
+policymaking|elaboración de políticas||S|ist|C2
+stakeholder|parte interesada||S|ist|C2
+agenda-setting|fijación de la agenda||S|ist|C2
+lobbying|cabildeo||S|ist|C2
+regulatory capture|captura del regulador||L|ist|C2
+rent-seeking|búsqueda de rentas||S|ist|C2
+path dependence|dependencia de la trayectoria||L|ist|C2
+unintended consequences|consecuencias no deseadas||L|ist|C2
+social contract|contrato social||L|ist|C2
+tyranny of the majority|tiranía de la mayoría||L|ist|C2
+separation of powers|separación de poderes||L|ist|C2
+devolution|transferencia de competencias||S|ist|C2
+plebiscite|plebiscito||S|ist|C2
+suffrage|sufragio||S|ist|C2
+disenfranchisement|privación del derecho de voto||S|ist|C2
+constituency|circunscripción||S|ist|C2
+incumbent|titular del cargo||S|ist|C2
+technocracy|tecnocracia||S|ist|C2
+authoritarianism|autoritarismo||S|ist|C2
+totalitarianism|totalitarismo||S|ist|C2
+populism|populismo||S|ist|C2
+kleptocracy|cleptocracia||S|ist|C2
+welfare state|Estado de bienestar||L|ist|C2
+entitlement program|programa de prestaciones||L|ist|C2
+means-tested|condicionado a la renta||A|ist|C2
+sunset clause|cláusula de caducidad||L|ist|C2
+anomie|anomia||S|ast|C2
+stratification|estratificación social||S|ast|C2
+social mobility|movilidad social||L|ast|C2
+habitus|hábitus||S|ast|C2
+cultural capital|capital cultural||L|ast|C2
+symbolic violence|violencia simbólica||L|ast|C2
+gentrification|gentrificación||S|ast|C2
+urbanization|urbanización||S|ast|C2
+assimilation|asimilación||S|ast|C2
+acculturation|aculturación||S|ast|C2
+marginalization|marginación||S|ast|C2
+othering|construcción del otro||S|ast|C2
+socialization|socialización||S|ast|C2
+kinship|parentesco||S|ast|C2
+patriarchy|patriarcado||S|ast|C2
+matriarchy|matriarcado||S|ast|C2
+performativity|performatividad||S|ast|C2
+intersectionality|interseccionalidad||S|ast|C2
+toxic masculinity|masculinidad tóxica||L|ast|C2
+glass ceiling|techo de cristal||L|ast|C2
+precariat|precariado||S|ast|C2
+gig economy|economía de trabajo puntual||L|ast|C2
+collective action|acción colectiva||L|ast|C2
+social movement|movimiento social||L|ast|C2
+counterculture|contracultura||S|ast|C2
+deviance|comportamiento desviado||S|ast|C2
+ethnography|etnografía||S|ast|C2
+fieldwork|trabajo de campo||S|ast|C2
+participant observation|observación participante||L|ast|C2
+thick description|descripción densa||L|ast|C2
+cultural relativism|relativismo cultural||L|ast|C2
+ethnocentrism|etnocentrismo||S|ast|C2
+totem|tótem||S|ast|C2
+taboo|tabú||S|ast|C2
+shamanism|chamanismo||S|ast|C2
+animism|animismo||S|ast|C2
+polytheism|politeísmo||S|ast|C2
+syncretism|sincretismo||S|ast|C2
+liminality|liminalidad||S|ast|C2
+rites of passage|ritos de paso||L|ast|C2
+endogamy|endogamia||S|ast|C2
+exogamy|exogamia||S|ast|C2
+patrilineal|patrilineal||A|ast|C2
+matrilineal|matrilineal||A|ast|C2
+bride price|contraprestación nupcial||L|ast|C2
+dowry|dote||S|ast|C2
+potlatch|potlatch (don ceremonial)||S|ast|C2
+ethnocide|etnocidio||S|ast|C2
+cultural appropriation|apropiación cultural||L|ast|C2
+orientalism|orientalismo||S|ast|C2
+subculture|subcultura||S|ast|C2
+ethnomethodology|etnometodología||S|ast|C2
+muckraking|periodismo de denuncia||S|cmu|C2
+gloss over|pasar por alto disimuladamente||V|cmu|C2
+scoop|exclusiva periodística||S|cmu|C2
+byline|firma del artículo||S|cmu|C2
+op-ed|artículo de opinión||S|cmu|C2
+hit piece|artículo difamatorio||L|cmu|C2
+sound bite|fragmento sonoro destacado||L|cmu|C2
+talking points|guion de mensajes||L|cmu|C2
+news cycle|ciclo informativo||L|cmu|C2
+newsroom|redacción de noticias||S|cmu|C2
+editorial stance|postura editorial||L|cmu|C2
+fact-checking|verificación de datos||S|cmu|C2
+on the record|a título oficial||L|cmu|C2
+off the record|extraoficialmente||L|cmu|C2
+anonymous source|fuente anónima||L|cmu|C2
+press embargo|embargo informativo||L|cmu|C2
+retraction|rectificación pública||S|cmu|C2
+libel|difamación escrita||S|cmu|C2
+slander|calumnia oral||S|cmu|C2
+gag order|orden judicial de silencio||L|cmu|C2
+shield law|ley de protección de fuentes||L|cmu|C2
+public interest|interés público||L|cmu|C2
+slant|sesgo tendencioso||S|cmu|C2
+echo chamber|cámara de eco||L|cmu|C2
+filter bubble|burbuja de filtro||L|cmu|C2
+clickbait|titular señuelo||S|cmu|C2
+counterpoint|contrapunto||S|mus|C2
+polyphony|polifonía||S|mus|C2
+monophony|monofonía||S|mus|C2
+chromaticism|cromatismo||S|mus|C2
+atonality|atonalidad||S|mus|C2
+dissonance|disonancia||S|mus|C2
+modulation|modulación||S|mus|C2
+cadence|cadencia||S|mus|C2
+sonata form|forma sonata||L|mus|C2
+recapitulation|reexposición||S|mus|C2
+exposition|exposición temática||S|mus|C2
+leitmotif|leitmotiv||S|mus|C2
+rubato|rubato (libertad de tempo)||S|mus|C2
+syncopation|síncopa||S|mus|C2
+sixty-fourth note|semifusa||L|mus|C2
+glissando|glissando (deslizamiento sonoro)||S|mus|C2
+tremolo|trémolo||S|mus|C2
+vibrato|vibrato||S|mus|C2
+pizzicato|pizzicato (tocar con los dedos)||S|mus|C2
+ostinato|ostinato (figura obstinada)||S|mus|C2
+polyrhythm|polirritmia||S|mus|C2
+timbre|timbre (color del sonido)||S|mus|C2
+orchestration|orquestación||S|mus|C2
+falsetto|falsete||S|mus|C2
+bel canto|bel canto (canto refinado)||L|mus|C2
+passing tone|nota de paso||L|mus|C2
+art conservation|conservación de obras||L|art|C2
+varnish|barniz||S|art|C2
+craquelure|craquelado||S|art|C2
+patina|pátina||S|art|C2
+underpainting|capa de imprimación||S|art|C2
+pentimento|corrección visible del pintor||S|art|C2
+inpainting|reintegración cromática||S|art|C2
+retouching|retoque de restauración||S|art|C2
+infrared reflectography|reflectografía de infrarrojos||L|art|C2
+attributed to|atribuido a||L|art|C2
+art forgery|falsificación de arte||L|art|C2
+connoisseurship|conocimiento experto||S|art|C2
+museography|museografía||S|art|C2
+curation|comisariado de exposiciones||S|art|C2
+private viewing|visita privada de inauguración||L|art|C2
+permanent collection|colección permanente||L|art|C2
+traveling exhibition|exposición itinerante||L|art|C2
+deaccessioning|retirada de piezas de la colección||S|art|C2
+condition report|informe de estado de conservación||L|art|C2
+preventive conservation|conservación preventiva||L|art|C2
+acid-free|libre de ácido||A|art|C2
+vitrine|vitrina expositiva||S|art|C2
+plinth|pedestal||S|art|C2
+maquette|maqueta (modelo escultórico)||S|art|C2
+site-specific|creado para el lugar||A|art|C2
+intangible heritage|patrimonio inmaterial||L|art|C2
+nonrepresentational|no figurativo||A|art|C2
+figurative art|arte figurativo||L|art|C2
+chiaroscuro|claroscuro||S|art|C2
+sfumato|sfumato (difuminado)||S|art|C2
+impasto|empaste||S|art|C2
+grisaille|grisalla||S|art|C2
+trompe-l'oeil|trampantojo||L|art|C2
+readymade|objeto encontrado||S|art|C2
+assemblage|ensamblaje||S|art|C2
+gestural abstraction|abstracción gestual||L|art|C2
+color field|campo de color||L|art|C2
+hard-edge|de bordes nítidos||A|art|C2
+bricolage|bricolaje (obra con materiales diversos)||S|art|C2
+montage|montaje audiovisual||S|art|C2
+iconography|iconografía||S|art|C2
+iconology|iconología||S|art|C2
+compositional|compositivo||A|art|C2
+negative space|espacio negativo||L|art|C2
+vanishing point|punto de fuga||L|art|C2
+aerial perspective|perspectiva aérea||L|art|C2
+history painting|pintura de historia||L|art|C2
+patronage|mecenazgo||S|art|C2
+avant-garde|vanguardia||S|art|C2
+brutalism|brutalismo||S|art|C2
+minimalism|minimalismo||S|art|C2
+conceptual art|arte conceptual||L|art|C2
+machine learning|aprendizaje automático||L|tec|C2
+deep learning|aprendizaje profundo||L|tec|C2
+neural network|red neuronal||L|tec|C2
+backpropagation|retropropagación||S|tec|C2
+overfitting|sobreajuste||S|tec|C2
+underfitting|subajuste||S|tec|C2
+gradient descent|descenso de gradiente||L|tec|C2
+feature extraction|extracción de características||L|tec|C2
+dimensionality reduction|reducción de dimensionalidad||L|tec|C2
+embedding|representación vectorial||S|tec|C2
+attention mechanism|mecanismo de atención||L|tec|C2
+fine-tuning|ajuste fino||S|tec|C2
+training set|conjunto de entrenamiento||L|tec|C2
+labeled data|datos etiquetados||L|tec|C2
+ground truth|verdad de referencia||L|tec|C2
+benchmarking|evaluación comparativa||S|tec|C2
+explainability|explicabilidad||S|tec|C2
+interpretability|interpretabilidad||S|tec|C2
+black-box|de caja negra||A|tec|C2
+reinforcement learning|aprendizaje por refuerzo||L|tec|C2
+generative model|modelo generativo||L|tec|C2
+algorithmic bias|sesgo algorítmico||L|tec|C2
+data mining|minería de datos||L|tec|C2
+clustering|agrupamiento de datos||S|tec|C2
+anomaly detection|detección de anomalías||L|tec|C2
+synthetic data|datos sintéticos||L|tec|C2
+public key encryption|cifrado de clave pública||L|tec|C2
+cipher|cifrador||S|tec|C2
+ciphertext|texto cifrado||S|tec|C2
+hash function|función hash||L|tec|C2
+cryptography|criptografía||S|tec|C2
+steganography|esteganografía||S|tec|C2
+key exchange|intercambio de claves||L|tec|C2
+digital signature|firma digital||L|tec|C2
+certificate authority|autoridad de certificación||L|tec|C2
+man-in-the-middle attack|ataque de intermediario||L|tec|C2
+brute force attack|ataque de fuerza bruta||L|tec|C2
+zero-day vulnerability|vulnerabilidad de día cero||L|tec|C2
+ransomware|software de secuestro de datos||S|tec|C2
+phishing|suplantación por correo electrónico||S|tec|C2
+social engineering|ingeniería social||L|tec|C2
+rootkit|herramienta de acceso encubierto||S|tec|C2
+keylogger|registrador de pulsaciones||S|tec|C2
+botnet|red de equipos zombis||S|tec|C2
+intrusion detection|detección de intrusiones||L|tec|C2
+penetration testing|prueba de penetración||L|tec|C2
+threat model|modelo de amenazas||L|tec|C2
+attack surface|superficie de ataque||L|tec|C2
+end-to-end encryption|cifrado de extremo a extremo||L|tec|C2
+two-factor authentication|autenticación de dos factores||L|tec|C2
+post-quantum cryptography|criptografía poscuántica||L|tec|C2
+side-channel attack|ataque de canal lateral||L|tec|C2
+air-gapped|aislado físicamente de la red||A|tec|C2
+red team|equipo de ataque simulado||L|tec|C2

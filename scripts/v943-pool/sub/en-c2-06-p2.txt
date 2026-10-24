@@ -1,0 +1,267 @@
+margin call|requerimiento de garantías||L|fin|C2
+short squeeze|acorralamiento de cortos||L|fin|C2
+volatility|volatilidad||S|fin|C2
+derivative|derivado financiero||S|fin|C2
+underlying asset|activo subyacente||L|fin|C2
+strike price|precio de ejercicio||L|fin|C2
+expiration date|fecha de vencimiento||L|fin|C2
+liquidity risk|riesgo de liquidez||L|fin|C2
+counterparty risk|riesgo de contraparte||L|fin|C2
+value at risk|valor en riesgo||L|fin|C2
+tail risk|riesgo de cola||L|fin|C2
+credit default swap|permuta de cobertura de impago||L|fin|C2
+mark-to-market|valoración a mercado||A|fin|C2
+arbitrage|arbitraje||S|fin|C2
+naked short selling|venta al descubierto sin préstamo||L|fin|C2
+contango|contango (prima de futuros sobre el contado)||S|fin|C2
+implied volatility|volatilidad implícita||L|fin|C2
+clearinghouse|cámara de compensación||S|fin|C2
+drawdown|caída acumulada||S|fin|C2
+allele|alelo||S|sci|C2
+homozygous|homoicigoto||A|sci|C2
+heterozygous|heterocigoto||A|sci|C2
+genotype|genotipo||S|sci|C2
+phenotype|fenotipo||S|sci|C2
+meiosis|meiosis||S|sci|C2
+mitosis|mitosis||S|sci|C2
+transcription|transcripción del ADN||S|sci|C2
+translation|traducción (síntesis de proteínas)||S|sci|C2
+promoter|promotor (región del ADN)||S|sci|C2
+telomere|telómero||S|sci|C2
+chromosomal|cromosómico||A|sci|C2
+recombination|recombinación genética||S|sci|C2
+linkage|ligamiento genético||S|sci|C2
+epistasis|epistasia||S|sci|C2
+pleiotropy|pleiotropía||S|sci|C2
+gene expression|expresión génica||L|sci|C2
+nonsense mutation|mutación sin sentido||L|sci|C2
+frameshift mutation|mutación con desplazamiento de marco||L|sci|C2
+carrier screening|cribado de portadores||L|sci|C2
+karyotype|cariotipo||S|sci|C2
+pedigree|pedigrí genético||S|sci|C2
+penetrance|penetrancia||S|sci|C2
+codominance|codominancia||S|sci|C2
+polyploid|poliploide||S|sci|C2
+lateral gene transfer|transferencia horizontal de genes||L|sci|C2
+antibody|anticuerpo||S|sci|C2
+pathogen|patógeno||S|sci|C2
+cytokine|citoquina||S|sci|C2
+lymphocyte|linfocito||S|sci|C2
+phagocytosis|fagocitosis||S|sci|C2
+innate immunity|inmunidad innata||L|sci|C2
+humoral immunity|inmunidad humoral||L|sci|C2
+autoimmune|autoinmunitario||A|sci|C2
+immunosuppression|inmunosupresión||S|sci|C2
+seroconversion|seroconversión||S|sci|C2
+titer|título de anticuerpos||S|sci|C2
+virulence|virulencia||S|sci|C2
+antimicrobial resistance|resistencia a antimicrobianos||L|sci|C2
+colony-forming unit|unidad formadora de colonias||L|sci|C2
+culture medium|medio de cultivo||L|sci|C2
+gram-negative|gramnegativo||A|sci|C2
+endotoxin|endotoxina||S|sci|C2
+exotoxin|exotoxina||S|sci|C2
+biofilm|biofilme||S|sci|C2
+microbiome|microbioma||S|sci|C2
+commensal|comensal||A|sci|C2
+opportunistic infection|infección oportunista||L|sci|C2
+latent infection|infección latente||L|sci|C2
+herd immunity|inmunidad de grupo||L|sci|C2
+epitope|epítopo||S|sci|C2
+clonal selection|selección clonal||L|sci|C2
+synapse|sinapsis||S|sci|C2
+synaptic|sináptico||A|sci|C2
+neuroplasticity|neuroplasticidad||S|sci|C2
+myelination|mielinización||S|sci|C2
+cortical|cortical||A|sci|C2
+prefrontal cortex|corteza prefrontal||L|sci|C2
+hippocampal|hipocampal||A|sci|C2
+amygdala|amígdala cerebral||S|sci|C2
+long-term potentiation|potenciación a largo plazo||L|sci|C2
+functional connectivity|conectividad funcional||L|sci|C2
+neurotransmitter|neurotransmisor||S|sci|C2
+dendrite|dendrita||S|sci|C2
+axon|axón||S|sci|C2
+action potential|potencial de acción||L|sci|C2
+lateralization|lateralización cerebral||S|sci|C2
+neuroimaging|neuroimagen||S|sci|C2
+executive function|función ejecutiva||L|sci|C2
+working memory|memoria de trabajo||L|sci|C2
+perceptual|perceptivo||A|sci|C2
+psychophysics|psicofísica||S|sci|C2
+interoception|interocepción||S|sci|C2
+neurodegeneration|neurodegeneración||S|sci|C2
+corticospinal tract|vía corticoespinal||L|sci|C2
+somatosensory|somatosensorial||A|sci|C2
+split-brain|de cerebro dividido||A|sci|C2
+aphasia|afasia||S|sci|C2
+covalent bond|enlace covalente||L|sci|C2
+isomer|isómero||S|sci|C2
+isomerization|isomerización||S|sci|C2
+chirality|quiralidad||S|sci|C2
+enantiomer|enantiómero||S|sci|C2
+stoichiometry|estequiometría||S|sci|C2
+burette|bureta||S|sci|C2
+distillation|destilación||S|sci|C2
+electronegativity|electronegatividad||S|sci|C2
+oxidation state|estado de oxidación||L|sci|C2
+ligand|ligando||S|sci|C2
+coordination compound|compuesto de coordinación||L|sci|C2
+catalyst|catalizador||S|sci|C2
+catalysis|catálisis||S|sci|C2
+hydrolysis|hidrólisis||S|sci|C2
+polymerization|polimerización||S|sci|C2
+substitution reaction|reacción de sustitución||L|sci|C2
+nucleophile|nucleófilo||S|sci|C2
+electrophile|electrófilo||S|sci|C2
+carbonyl group|grupo carbonilo||L|sci|C2
+alkane|alcano||S|sci|C2
+aromaticity|aromaticidad||S|sci|C2
+allotrope|alótropo||S|sci|C2
+valence electron|electrón de valencia||L|sci|C2
+precipitate|precipitado||S|sci|C2
+solubility product|producto de solubilidad||L|sci|C2
+wavefunction|función de onda||S|sci|C2
+superposition|superposición de estados||S|sci|C2
+decoherence|descoherencia||S|sci|C2
+uncertainty principle|principio de incertidumbre||L|sci|C2
+spin|espín||S|sci|C2
+boson|bosón||S|sci|C2
+fermion|fermión||S|sci|C2
+quark|quark||S|sci|C2
+gluon|gluón||S|sci|C2
+neutrino|neutrino||S|sci|C2
+antimatter|antimateria||S|sci|C2
+hadron|hadron||S|sci|C2
+lepton|leptón||S|sci|C2
+renormalization|renormalización||S|sci|C2
+symmetry breaking|rotura espontánea de simetría||L|sci|C2
+quantum tunneling|efecto túnel cuántico||L|sci|C2
+eigenvalue|autovalor||S|sci|C2
+commutator|conmutador||S|sci|C2
+standard model|modelo estándar||L|sci|C2
+particle accelerator|acelerador de partículas||L|sci|C2
+decay|desintegración radiactiva||S|sci|C2
+isotope|isótopo||S|sci|C2
+strong force|interacción nuclear fuerte||L|sci|C2
+virtual particle|partícula virtual||L|sci|C2
+wave-particle duality|dualidad onda-corpúsculo||L|sci|C2
+ground state|estado fundamental||L|sci|C2
+redshift|desplazamiento al rojo||S|sci|C2
+blueshift|desplazamiento al azul||S|sci|C2
+dark matter|materia oscura||L|sci|C2
+dark energy|energía oscura||L|sci|C2
+cosmological constant|constante cosmológica||L|sci|C2
+nucleosynthesis|nucleosíntesis||S|sci|C2
+supernova|supernova||S|sci|C2
+neutron star|estrella de neutrones||L|sci|C2
+pulsar|púlsar||S|sci|C2
+quasar|cuásar||S|sci|C2
+event horizon|horizonte de sucesos||L|sci|C2
+singularity|singularidad gravitacional||S|sci|C2
+spacetime|espaciotiempo||S|sci|C2
+exoplanet|exoplaneta||S|sci|C2
+light-year|año luz||S|sci|C2
+parsec|pársec||S|sci|C2
+cosmic microwave background|fondo cósmico de microondas||L|sci|C2
+galaxy cluster|cúmulo de galaxias||L|sci|C2
+main sequence|secuencia principal||L|sci|C2
+white dwarf|enana blanca||L|sci|C2
+gravitational lensing|lente gravitacional||L|sci|C2
+inflation|inflación cósmica||S|sci|C2
+heat death|muerte térmica del universo||L|sci|C2
+luminosity|luminosidad estelar||S|sci|C2
+interstellar medium|medio interestelar||L|sci|C2
+habitable zone|zona habitable||L|sci|C2
+plasmid|plásmido||S|sci|C2
+restriction enzyme|enzima de restricción||L|sci|C2
+ligase|ligasa||S|sci|C2
+vector|vector de clonación||S|sci|C2
+transgenic|transgénico||A|sci|C2
+knockout|gen invalidado||S|sci|C2
+gene drive|impulsor genético||L|sci|C2
+germline|línea germinal||S|sci|C2
+somatic cell|célula somática||L|sci|C2
+stem cell|célula madre||L|sci|C2
+induced pluripotency|pluripotencia inducida||L|sci|C2
+electroporation|electroporación||S|sci|C2
+bioreactor|biorreactor||S|sci|C2
+microarray|micromatriz||S|sci|C2
+flow cytometry|citometría de flujo||L|sci|C2
+recombinant|recombinante||A|sci|C2
+transfection|transfección||S|sci|C2
+codon|codón||S|sci|C2
+gene silencing|silenciamiento génico||L|sci|C2
+base pair|par de bases||L|sci|C2
+chimera|quimera biológica||S|sci|C2
+xenotransplantation|xenotrasplante||S|sci|C2
+synthetic biology|biología sintética||L|sci|C2
+bioethics|bioética||S|sla|C2
+assay|ensayo analítico||S|sci|C2
+cell line|línea celular||L|sci|C2
+p-value|valor p||S|sci|C2
+null hypothesis|hipótesis nula||L|sci|C2
+confidence interval|intervalo de confianza||L|sci|C2
+standard deviation|desviación típica||L|sci|C2
+regression to the mean|regresión a la media||L|sci|C2
+confounding variable|variable de confusión||L|sci|C2
+selection bias|sesgo de selección||L|sci|C2
+effect size|tamaño del efecto||L|sci|C2
+statistical power|potencia estadística||L|sci|C2
+multiple comparisons|comparaciones múltiples||L|sci|C2
+logistic regression|regresión logística||L|sci|C2
+prior probability|probabilidad a priori||L|sci|C2
+likelihood|verosimilitud estadística||S|sci|C2
+stratified sampling|muestreo estratificado||L|sci|C2
+bootstrapping|remuestreo bootstrap||S|sci|C2
+cross-validation|validación cruzada||S|sci|C2
+heteroscedasticity|heterocedasticidad||S|sci|C2
+endogeneity|endogeneidad||S|sci|C2
+instrumental variable|variable instrumental||L|sci|C2
+replication crisis|crisis de replicación||L|sci|C2
+preregistration|preregistro||S|sci|C2
+peer review|revisión por pares||L|sci|C2
+falsifiability|falsabilidad||S|sci|C2
+operationalize|operacionalizar||V|sci|C2
+mixed methods|métodos mixtos||L|sci|C2
+systematic review|revisión sistemática||L|sci|C2
+incidence rate|tasa de incidencia||L|sla|C2
+prevalence|prevalencia||S|sla|C2
+morbidity|morbilidad||S|sla|C2
+mortality rate|tasa de mortalidad||L|sla|C2
+epidemic curve|curva epidémica||L|sla|C2
+contact tracing|rastreo de contactos||L|sla|C2
+super-spreader|superpropagador||S|sla|C2
+zoonosis|zoonosis||S|sla|C2
+vector-borne|transmitido por vectores||A|sla|C2
+outbreak|brote epidémico||S|sla|C2
+cluster|agrupación de casos||S|sla|C2
+syndromic surveillance|vigilancia sindrómica||L|sla|C2
+case fatality rate|tasa de letalidad||L|sla|C2
+attack rate|tasa de ataque||L|sla|C2
+seroprevalence|seroprevalencia||S|sla|C2
+endemic|endémico||A|sla|C2
+pandemic preparedness|preparación ante pandemias||L|sla|C2
+ring vaccination|vacunación en anillo||L|sla|C2
+health disparity|desigualdad sanitaria||L|sla|C2
+social determinants of health|determinantes sociales de la salud||L|sla|C2
+screening program|programa de cribado||L|sla|C2
+health literacy|alfabetización sanitaria||L|sla|C2
+immunization campaign|campaña de vacunación||L|sla|C2
+notifiable disease|enfermedad de declaración obligatoria||L|sla|C2
+cross-sectional study|estudio transversal||L|sla|C2
+ecological fallacy|falacia ecológica||L|sla|C2
+tectonic plate|placa tectónica||L|nat|C2
+subduction|subducción||S|nat|C2
+orogeny|orogenia||S|nat|C2
+weathering|meteorización||S|nat|C2
+sedimentation|sedimentación||S|nat|C2
+stratigraphy|estratigrafía||S|nat|C2
+paleomagnetism|paleomagnetismo||S|nat|C2
+isostasy|isostasia||S|nat|C2
+metamorphic rock|roca metamórfica||L|nat|C2
+igneous|ígneo||A|nat|C2
+seismic wave|onda sísmica||L|nat|C2
+aftershock|réplica sísmica||S|nat|C2
+epicenter|epicentro||S|nat|C2
+fault line|línea de falla||L|nat|C2

@@ -1,0 +1,218 @@
+ordenado|sueldo||S|lav|A2
+aluna|alumna||S|stu|A2
+recreio|recreo||S|stu|A2
+cantina|comedor escolar||S|stu|A2
+falta|falta de asistencia||S|stu|A2
+boletim de notas|boletín de notas||S|stu|A2
+escola primária|escuela primaria||S|stu|A2
+ciências naturais|ciencias naturales||S|stu|A2
+educação física|educación física||S|stu|A2
+química|química||S|stu|A2
+física|física||S|stu|A2
+manual escolar|libro de texto||S|stu|A2
+calculadora|calculadora||S|stu|A2
+estojo|estuche||S|stu|A2
+beco|callejón||S|cit|A2
+jardim|jardín||S|cit|A2
+polícia|policía||S|cit|A2
+creche|guardería||S|cit|A2
+túnel|túnel||S|cit|A2
+posto de correios|oficina de correos||S|cit|A2
+zona pedonal|zona peatonal||S|cit|A2
+sinal|señal||S|cit|A2
+sentido único|sentido único||S|cit|A2
+norte|norte||S|cit|A2
+sul|sur||S|cit|A2
+parque infantil|parque infantil||S|cit|A2
+passeio|acera||S|cit|A2
+banca de jornais|puesto de periódicos||S|cit|A2
+tempestade|tormenta||S|cli|A2
+granizo|granizo||S|cli|A2
+geada|helada||S|cli|A2
+orvalho|rocío||S|cli|A2
+arco-íris|arcoíris||S|cli|A2
+relâmpago|relámpago||S|cli|A2
+furacão|huracán||S|cli|A2
+aguaceiro|chubasco||S|cli|A2
+nevar|nevar||V|cli|A2
+florescer|florecer||V|cli|A2
+chover a cântaros|llover a cántaros||L|cli|A2
+luva|guante||S|rop|A2
+roupão de banho|albornoz||S|rop|A2
+gabardina|gabardina||S|rop|A2
+avental|delantal||S|rop|A2
+top|top||S|rop|A2
+echarpe|chal||S|rop|A2
+vestir|vestir||V|rop|A2
+bolsa|bolso||S|rop|A2
+portamoedas|monedero||S|rop|A2
+salto|tacón||S|rop|A2
+moda|moda||S|rop|A2
+despir|desvestir||V|rop|A2
+teclado|teclado||S|tec|A2
+rato|ratón||S|tec|A2
+tablet|tableta||S|tec|A2
+cabo|cable||S|tec|A2
+tomada|enchufe||S|tec|A2
+altifalante|altavoz||S|tec|A2
+computador portátil|ordenador portátil||S|tec|A2
+rede|red||S|tec|A2
+ligação|conexión||S|tec|A2
+instalar|instalar||V|tec|A2
+atualizar|actualizar||V|tec|A2
+ficheiro|archivo||S|tec|A2
+vídeo|vídeo||S|tec|A2
+chamada de vídeo|videollamada||S|tec|A2
+recarregar|recargar||V|tec|A2
+voleibol|voleibol||S|spt|A2
+ginástica|gimnasia||S|spt|A2
+atletismo|atletismo||S|spt|A2
+surf|surf||S|spt|A2
+marcar|marcar (un gol)||V|spt|A2
+guarda-redes|portero||S|spt|A2
+treino|entrenamiento||S|spt|A2
+campo de futebol|campo de fútbol||S|spt|A2
+balneário|vestuario||S|spt|A2
+árbitro|árbitro||S|spt|A2
+patinagem|patinaje||S|spt|A2
+guitarra elétrica|guitarra eléctrica||S|mus|A2
+saxofone|saxofón||S|mus|A2
+trompete|trompeta||S|mus|A2
+clarinete|clarinete||S|mus|A2
+pandeireta|pandereta||S|mus|A2
+harmónica|armónica||S|mus|A2
+rock|rock||S|mus|A2
+jazz|jazz||S|mus|A2
+valsa|vals||S|mus|A2
+coro|coro||S|mus|A2
+músico|músico||S|mus|A2
+música tradicional|música tradicional||S|mus|A2
+filme de ação|película de acción||S|cin|A2
+ficção científica|ciencia ficción||S|cin|A2
+documentário|documental||S|cin|A2
+atriz|actriz||S|cin|A2
+personagem|personaje||S|cin|A2
+legenda|subtítulo||S|cin|A2
+novela|telenovela||S|cin|A2
+amizade|amistad||S|rel|A2
+companheiro|compañero||S|rel|A2
+conhecido|conocido||S|rel|A2
+combinar|quedar (con alguien)||V|rel|A2
+bar|bar||S|rel|A2
+divertir-se|divertirse||V|rel|A2
+levantar dinheiro|sacar dinero||L|fin|A2
+extrato|extracto de cuenta||S|fin|A2
+pagamento|pago||S|fin|A2
+sanduíche|sándwich||S|ris|A2
+hambúrguer|hamburguesa||S|ris|A2
+cachorro-quente|perrito caliente||S|ris|A2
+lasanha|lasaña||S|ris|A2
+omelete|tortilla francesa||S|ris|A2
+grelhado|a la parrilla||A|ris|A2
+meia dose|media ración||S|ris|A2
+pedido|pedido||S|ris|A2
+dividir a conta|dividir la cuenta||L|ris|A2
+aperitivo|aperitivo||S|ris|A2
+vinho da casa|vino de la casa||S|ris|A2
+claro|claro||A|col|A2
+escuro|oscuro||A|col|A2
+bege|beige||A|col|A2
+dourado|dorado||A|col|A2
+prateado|plateado||A|col|A2
+triângulo|triángulo||S|col|A2
+retângulo|rectángulo||S|col|A2
+cabelo|pelo||S|cor|A2
+joelho|rodilla||S|cor|A2
+lábio|labio||S|cor|A2
+pescoço|cuello||S|cor|A2
+peito|pecho||S|cor|A2
+sangue|sangre||S|cor|A2
+face|rostro||S|cor|A2
+quadril|cadera||S|cor|A2
+papagaio|loro||S|ani|A2
+hamster|hámster||S|ani|A2
+coleira|correa||S|ani|A2
+ração|pienso||S|ani|A2
+galo|gallo||S|ani|A2
+estábulo|establo||S|ani|A2
+palha|paja||S|ani|A2
+pastor|pastor||S|ani|A2
+ninho|nido||S|ani|A2
+tigre|tigre||S|ani|A2
+elefante|elefante||S|ani|A2
+girafa|jirafa||S|ani|A2
+zebra|cebra||S|ani|A2
+veado|ciervo||S|ani|A2
+esquilo|ardilla||S|ani|A2
+pombo|paloma||S|ani|A2
+ganso|ganso||S|ani|A2
+andorinha|golondrina||S|ani|A2
+corvo|cuervo||S|ani|A2
+vespa|avispa||S|ani|A2
+barata|cucaracha||S|ani|A2
+caracol|caracol||S|ani|A2
+besouro|escarabajo||S|ani|A2
+pulga|pulga||S|ani|A2
+joaninha|mariquita||S|ani|A2
+colina|colina||S|nat|A2
+deserto|desierto||S|nat|A2
+cascata|cascada||S|nat|A2
+gruta|gruta||S|nat|A2
+vulcão|volcán||S|nat|A2
+margarida|margarita||S|nat|A2
+tulipa|tulipán||S|nat|A2
+cravo|clavel||S|nat|A2
+semente|semilla||S|nat|A2
+tronco|tronco||S|nat|A2
+pinheiro|pino||S|nat|A2
+trevo|trébol||S|nat|A2
+barco|barco||S|nat|A2
+maré|marea||S|nat|A2
+estrela-do-mar|estrella de mar||S|nat|A2
+alga|alga||S|nat|A2
+salva-vidas|socorrista||S|nat|A2
+pôr do sol|puesta de sol||S|nat|A2
+madrugada|madrugada||S|tmp|A2
+amanhecer|amanecer||S|tmp|A2
+entardecer|atardecer||S|tmp|A2
+que horas são?|¿qué hora es?||E|tmp|A2
+em ponto|en punto||L|tmp|A2
+mês|mes||S|tmp|A2
+ano|año||S|tmp|A2
+data|fecha||S|tmp|A2
+fim de ano|fin de año||S|tmp|A2
+quinzena|quincena||S|tmp|A2
+coleção|colección||S|sve|A2
+xadrez|ajedrez||S|sve|A2
+jogo de cartas|juego de cartas||S|sve|A2
+caça|caza||S|sve|A2
+Natal|Navidad||S|sve|A2
+Páscoa|Pascua||S|sve|A2
+brinde|brindis||S|sve|A2
+bolo de aniversário|tarta de cumpleaños||S|sve|A2
+carnaval|carnaval||S|sve|A2
+brinquedo|juguete||S|sve|A2
+alegre|alegre||A|emo|A2
+aborrecido|aburrido||A|emo|A2
+assustado|asustado||A|emo|A2
+vergonha|vergüenza||S|emo|A2
+esperança|esperanza||S|emo|A2
+tristeza|tristeza||S|emo|A2
+felicidade|felicidad||S|emo|A2
+orgulho|orgullo||S|emo|A2
+engraçado|gracioso||A|emo|A2
+generoso|generoso||A|emo|A2
+egoísta|egoísta||A|emo|A2
+corajoso|valiente||A|emo|A2
+preguiça|pereza||S|emo|A2
+timidez|timidez||S|emo|A2
+satisfeito|satisfecho||A|emo|A2
+tranquilo|tranquilo||A|emo|A2
+chamar|llamar||V|cmu|A2
+recado|recado||S|cmu|A2
+convite|invitación||S|cmu|A2
+assunto|asunto||S|cmu|A2
+aguarela|acuarela||S|art|A2
+marcador|rotulador||S|art|A2
+carvão|carboncillo||S|art|A2
+caderno de desenho|cuaderno de dibujo||S|art|A2

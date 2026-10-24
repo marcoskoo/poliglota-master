@@ -1,0 +1,267 @@
+old habits die hard|lo viejo cuesta abandonarlo||E|ast|C2
+still waters run deep|las aguas tranquilas son profundas||E|ast|C2
+familiarity breeds contempt|la familiaridad engendra desprecio||E|rel|C2
+misery loves company|la desgracia busca compañía||E|emo|C2
+let sleeping dogs lie|no despertar al perro dormido||E|ast|C2
+haste makes waste|la prisa echa a perder||E|ast|C2
+the die is cast|la suerte está echada||E|ast|C2
+seize the moment|aprovecha el instante||E|ast|C2
+euphemism|eufemismo||S|let|C2
+understatement|atenuación expresiva||S|cmu|C2
+hyperbole|hipérbole||S|let|C2
+innuendo|insinuación maliciosa||S|cmu|C2
+double entendre|doble sentido||L|let|C2
+tongue-in-cheek|con sorna fingida||A|cmu|C2
+backhanded compliment|cumplido envenenado||L|cmu|C2
+deadpan|con impasibilidad fingida||A|cmu|C2
+sardonic|sardónico||A|emo|C2
+veiled threat|amenaza velada||L|cmu|C2
+polite fiction|ficción cortés||L|cmu|C2
+doublespeak|lenguaje embrollador||S|cmu|C2
+litotes|litotes||S|let|C2
+dramatic irony|ironía dramática||L|let|C2
+subtext|subtexto||S|let|C2
+snide|mordaz y despectivo||A|cmu|C2
+passive-aggressive|pasivo-agresivo||A|emo|C2
+condescension|condescendencia||S|emo|C2
+faux pas|metedura de pata||S|cmu|C2
+face-saving|que salva las apariencias||A|cmu|C2
+plausible deniability|negación plausible||L|cmu|C2
+ironic detachment|distanciamiento irónico||L|cmu|C2
+bamboozle|engatusar||V|col|C2
+flummoxed|desconcertado||A|col|C2
+discombobulated|descolocado||A|col|C2
+kerfuffle|jaleo||S|col|C2
+hullabaloo|alboroto||S|col|C2
+skedaddle|pirarse||V|col|C2
+lollygag|holgazanear||V|col|C2
+gobbledygook|jerigonza||S|col|C2
+rigmarole|rollo interminable||S|col|C2
+mumbo jumbo|palabrería incomprensible||L|col|C2
+malarkey|patrañas||S|col|C2
+poppycock|tonterías||S|col|C2
+codswallop|memeces||S|col|C2
+brouhaha|bullicio||S|col|C2
+shenanigans|travesuras||S|col|C2
+tomfoolery|payasadas||S|col|C2
+ballyhoo|publicidad ruidosa||S|col|C2
+razzle-dazzle|artificio deslumbrante||S|col|C2
+skulduggery|maniobras turbias||S|col|C2
+namby-pamby|remilgado||A|col|C2
+dilly-dally|dar largas||V|col|C2
+willy-nilly|al buen tuntún||D|col|C2
+nitty-gritty|meollo del asunto||L|col|C2
+claptrap|verborrea hueca||S|col|C2
+snazzy|llamativo y elegante||A|col|C2
+swanky|suntuoso||A|col|C2
+hoity-toity|altivo y afectado||A|col|C2
+ho-hum|soso||A|col|C2
+wishy-washy|tibio e indeciso||A|col|C2
+hornswoggle|timar||V|col|C2
+y'all|vosotros||P|col|C2
+all y'all|todos vosotros||P|col|C2
+yonder|allá||D|col|C2
+fixin' to|estar a punto de||L|col|C2
+buggy|carrito de la compra (variante sureña)||S|col|C2
+wicked|muy (refuerzo de Nueva Inglaterra)||D|col|C2
+hella|muy (jerga californiana)||D|col|C2
+yinz|vosotros (jerga de Pittsburgh)||P|col|C2
+hoagie|bocadillo de Filadelfia||S|ris|C2
+grinder|bocadillo largo (Nueva Inglaterra)||S|ris|C2
+grits|sémola de maíz (gastronomía sureña)||S|ris|C2
+bayou|brazo pantanoso de río||S|nat|C2
+holler|hondonada apalache||S|nat|C2
+mosey|andar sin prisa||V|col|C2
+conniption|berrinche||S|col|C2
+hissy fit|rabieta||L|col|C2
+dadgum|caramba||I|col|C2
+reckon|suponer (uso meridional)||V|col|C2
+preppie|pijo de élite||S|col|C2
+yuppie|joven profesional adinerado||S|col|C2
+bobo|burgués bohemio||S|col|C2
+crawfish|cangrejo de río||S|ani|C2
+wistful|añorante||A|emo|C2
+crestfallen|abatido||A|emo|C2
+buoyant|optimista y animoso||A|emo|C2
+despondent|desconsolado||A|emo|C2
+morose|malhumorado||A|emo|C2
+sullen|hosco||A|emo|C2
+peevish|irritable||A|emo|C2
+querulous|quejumbroso||A|emo|C2
+gregarious|sociable por naturaleza||A|emo|C2
+diffident|apocado||A|emo|C2
+self-effacing|excesivamente modesto||A|emo|C2
+vainglorious|vanaglorioso||A|emo|C2
+magnanimous|magnánimo||A|emo|C2
+pusillanimous|pusilánime||A|emo|C2
+equanimity|ecuanimidad||S|emo|C2
+sanguine|optimista por temperamento||A|emo|C2
+phlegmatic|flemático||A|emo|C2
+melancholic|melancólico||A|emo|C2
+solicitous|solícito||A|emo|C2
+doting|que adora con exceso||A|emo|C2
+vindictive|vengativo||A|emo|C2
+callous|insensible||A|emo|C2
+contrite|contrito||A|emo|C2
+rueful|compungido||A|emo|C2
+exultant|exultante||A|emo|C2
+haunted|atormentado||A|emo|C2
+ennui|aburrimiento existencial||S|emo|C2
+winsome|encantador||A|emo|C2
+chagrin|desazón humillante||S|emo|C2
+consternation|consternación||S|emo|C2
+trepidation|aprensión||S|emo|C2
+benchmarking|análisis comparativo||S|lav|C2
+deliverables|entregables||S|lav|C2
+stakeholder|parte interesada||S|lav|C2
+onboarding|proceso de acogida||S|lav|C2
+offboarding|desvinculación||S|lav|C2
+synergy|sinergia||S|lav|C2
+due diligence|diligencia debida||L|lav|C2
+lean management|gestión ajustada||L|lav|C2
+scalability|escalabilidad||S|lav|C2
+vertical integration|integración vertical||L|lav|C2
+economies of scale|economías de escala||L|fin|C2
+market penetration|penetración de mercado||L|fin|C2
+first-mover advantage|ventaja de pionero||L|fin|C2
+value proposition|propuesta de valor||L|fin|C2
+core competency|competencia esencial||L|lav|C2
+change management|gestión del cambio||L|lav|C2
+succession planning|planificación de la sucesión||L|lav|C2
+knowledge transfer|transferencia de conocimiento||L|lav|C2
+bottleneck|cuello de botella||S|lav|C2
+siloed|compartimentado||A|lav|C2
+buy-in|adhesión comprometida||S|lav|C2
+headcount|número de empleados||S|lav|C2
+attrition|desgaste de plantilla||S|lav|C2
+moonlighting|pluriempleo||S|lav|C2
+nepotism|nepotismo||S|lav|C2
+groupthink|pensamiento de grupo||S|lav|C2
+white-collar|de cuello blanco||A|lav|C2
+corporate governance|gobierno corporativo||L|fin|C2
+appraisal|evaluación del desempeño||S|lav|C2
+severance|indemnización por cese||S|lav|C2
+grievance|reclamación laboral||S|lav|C2
+arbitration|arbitraje||S|lav|C2
+psychometrics|psicometría||S|lav|C2
+skills gap|brecha de competencias||L|lav|C2
+burnout|desgaste profesional||S|sla|C2
+imposter syndrome|síndrome del impostor||L|emo|C2
+glass ceiling|techo de cristal||L|lav|C2
+implicit bias|sesgo implícito||L|lav|C2
+microaggression|microagresión||S|lav|C2
+job satisfaction|satisfacción laboral||L|lav|C2
+employee engagement|implicación del empleado||L|lav|C2
+turnover|rotación de personal||S|lav|C2
+absenteeism|absentismo||S|lav|C2
+presenteeism|presentismo||S|lav|C2
+flextime|horario flexible||S|lav|C2
+golden parachute|paracaídas dorado||L|lav|C2
+non-compete clause|cláusula de no competencia||L|lav|C2
+at-will employment|empleo a voluntad||L|lav|C2
+whistleblower|denunciante interno||S|lav|C2
+whistleblowing|denuncia interna||S|lav|C2
+exit interview|entrevista de salida||L|lav|C2
+job crafting|rediseño del puesto||L|lav|C2
+organizational culture|cultura organizacional||L|lav|C2
+pedagogy|pedagogía||S|stu|C2
+andragogy|andragogía||S|stu|C2
+scaffolding|andamiaje pedagógico||S|stu|C2
+formative assessment|evaluación formativa||L|stu|C2
+summative assessment|evaluación sumativa||L|stu|C2
+rubric|rúbrica de evaluación||S|stu|C2
+syllabus|programa de estudios||S|stu|C2
+metacognition|metacognición||S|stu|C2
+differentiated instruction|enseñanza diferenciada||L|stu|C2
+phonics|método fónico||S|stu|C2
+giftedness|altas capacidades||S|stu|C2
+mainstreaming|escolarización ordinaria||S|stu|C2
+truancy|absentismo escolar||S|stu|C2
+constructivism|constructivismo||S|stu|C2
+behaviorism|conductismo||S|stu|C2
+lifelong learning|aprendizaje permanente||L|stu|C2
+experiential learning|aprendizaje experiencial||L|stu|C2
+learning outcome|resultado de aprendizaje||L|stu|C2
+hidden curriculum|currículo oculto||L|stu|C2
+instructional design|diseño instruccional||L|stu|C2
+early childhood education|educación infantil||L|stu|C2
+remedial|de refuerzo educativo||A|stu|C2
+spiral curriculum|currículo en espiral||L|stu|C2
+dropout|abandono escolar||S|stu|C2
+school voucher|cheque escolar||L|stu|C2
+teachable moment|momento educable||L|stu|C2
+tort|ilícito civil||S|ist|C2
+affidavit|declaración jurada||S|ist|C2
+deposition|declaración extrajudicial||S|ist|C2
+voir dire|interrogatorio de selección del jurado||L|ist|C2
+respondent|recurrido||S|ist|C2
+appellant|apelante||S|ist|C2
+jurisprudence|jurisprudencia||S|ist|C2
+binding precedent|precedente vinculante||L|ist|C2
+pro bono|a título gratuito||L|pro|C2
+retainer|provisión de fondos||S|pro|C2
+prima facie|a primera vista||L|ist|C2
+informed consent|consentimiento informado||L|sla|C2
+triage|triaje||S|sla|C2
+intubation|intubación||S|sla|C2
+sphygmomanometer|esfigmomanómetro||S|sla|C2
+inpatient|paciente ingresado||S|sla|C2
+outpatient|paciente ambulatorio||S|sla|C2
+copay|copago||S|sla|C2
+deductible|franquicia del seguro||S|fin|C2
+indemnity|indemnización||S|fin|C2
+malpractice|mala praxis||S|sla|C2
+exculpatory|exculpatorio||A|ist|C2
+inadmissible|inadmisible||A|ist|C2
+statute of limitations|plazo de prescripción||L|ist|C2
+billable hour|hora facturable||L|pro|C2
+scope of practice|ámbito de ejercicio profesional||L|pro|C2
+chain of custody|cadena de custodia||L|ist|C2
+rapport|sintonía||S|rel|C2
+camaraderie|camaradería||S|rel|C2
+complicit|cómplice||A|rel|C2
+estrangement|distanciamiento||S|rel|C2
+estranged|distanciado||A|rel|C2
+rapprochement|acercamiento||S|rel|C2
+falling-out|disputa pasajera||S|rel|C2
+confidant|confidente||S|rel|C2
+kindred spirit|alma afín||L|rel|C2
+fair-weather friend|amigo de conveniencia||L|rel|C2
+smitten|prendado||A|emo|C2
+infatuation|encaprichamiento||S|emo|C2
+unrequited|no correspondido||A|rel|C2
+courtship|cortejo||S|rel|C2
+betrothal|desposorio||S|rel|C2
+tryst|cita clandestina||S|rel|C2
+kinship|parentesco||S|fam|C2
+amicable|amistoso||A|rel|C2
+thaw|deshielo en las relaciones||S|rel|C2
+make advances|insinuarse||L|rel|C2
+olive branch|ramo de olivo||L|rel|C2
+frosty|gélido||A|rel|C2
+libretto|libreto||S|mus|C2
+aria|aria||S|mus|C2
+overture|obertura||S|mus|C2
+leitmotif|leitmotiv||S|mus|C2
+coloratura|coloratura||S|mus|C2
+tessitura|tesitura||S|mus|C2
+cadenza|cadenza (pasaje de lucimiento)||S|mus|C2
+recitative|recitativo||S|mus|C2
+bel canto|técnica de canto virtuosa||L|mus|C2
+deus ex machina|dios surgido de la máquina||L|let|C2
+hamartia|error trágico del héroe||S|let|C2
+anagnorisis|reconocimiento trágico||S|let|C2
+peripeteia|peripecia||S|let|C2
+dramatic monologue|monólogo dramático||L|let|C2
+free verse|verso libre||L|let|C2
+enjambment|encabalgamiento||S|let|C2
+caesura|cesura||S|let|C2
+villanelle|villanela||S|let|C2
+sestina|sextina||S|let|C2
+proscenium|proscenio||S|art|C2
+blackout|apagón escénico||S|art|C2
+matinee|función de tarde||S|art|C2
+understudy|suplente escénico||S|art|C2
+soliloquy|soliloquio||S|let|C2
+operatic|operístico||A|mus|C2
+stagecraft|técnica teatral||S|art|C2

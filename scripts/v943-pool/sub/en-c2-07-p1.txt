@@ -1,0 +1,267 @@
+bandwidth|ancho de banda||S|tec|C2
+latency|latencia||S|tec|C2
+throughput|caudal de datos||S|tec|C2
+packet switching|conmutación de paquetes||L|tec|C2
+multiplexing|multiplexación||S|tec|C2
+handoff|traspaso de conexión||S|tec|C2
+backbone|red troncal||S|tec|C2
+interoperability|interoperabilidad||S|tec|C2
+spectrum allocation|asignación de espectro||L|tec|C2
+attenuation|atenuación de señal||S|tec|C2
+antenna array|conjunto de antenas||L|tec|C2
+fiber optics|fibra óptica||L|tec|C2
+telemetry|telemetría||S|tec|C2
+uplink|enlace ascendente||S|tec|C2
+downlink|enlace descendente||S|tec|C2
+dead zone|zona sin cobertura||L|tec|C2
+signal-to-noise ratio|relación señal-ruido||L|tec|C2
+broadband|banda ancha||S|tec|C2
+mesh network|red en malla||L|tec|C2
+edge computing|computación en el borde||L|tec|C2
+cryptography|criptografía||S|tec|C2
+handshaking|establecimiento de enlace||S|tec|C2
+crosstalk|diafonía||S|tec|C2
+dropped call|llamada cortada||L|tec|C2
+tethering|anclaje de red||S|tec|C2
+meltdown|fusión del núcleo||S|sci|C2
+half-life|periodo de semidesintegración||L|sci|C2
+isotope|isótopo||S|sci|C2
+enrichment|enriquecimiento de uranio||S|sci|C2
+control rod|barra de control||L|sci|C2
+reactor core|núcleo del reactor||L|sci|C2
+containment vessel|vasija de contención||L|sci|C2
+coolant|refrigerante||S|sci|C2
+spent fuel|combustible gastado||L|sci|C2
+breeder reactor|reactor reproductor||L|sci|C2
+critical mass|masa crítica||L|sci|C2
+chain reaction|reacción en cadena||L|sci|C2
+decommissioning|desmantelamiento||S|sci|C2
+waste repository|almacén de residuos||L|sci|C2
+radiation shielding|blindaje radiológico||L|sci|C2
+grid load|carga de la red||L|sci|C2
+baseload power|potencia de base||L|sci|C2
+peaker plant|central de punta||L|sci|C2
+load balancing|equilibrio de carga||L|sci|C2
+feed-in tariff|tarifa de primas||L|sci|C2
+smart grid|red inteligente||L|sci|C2
+neutron moderator|moderador de neutrones||L|sci|C2
+fission|fisión||S|sci|C2
+radionuclide|radionucleido||S|sci|C2
+dosimeter|dosímetro||S|sci|C2
+criticality|criticalidad||S|sci|C2
+thrust vectoring|empuje vectorial||L|sci|C2
+gimbal|cardán||S|sci|C2
+rendezvous|encuentro orbital||S|sci|C2
+perigee|perigeo||S|sci|C2
+apogee|apogeo||S|sci|C2
+stage separation|separación de etapas||L|sci|C2
+heat shield|escudo térmico||L|sci|C2
+fairing|cofia del cohete||S|sci|C2
+abort|abortar||V|sci|C2
+docking|acoplamiento||S|sci|C2
+reentry|reentrada atmosférica||S|sci|C2
+yaw|guiñada||S|sci|C2
+pitch|cabeceo||S|sci|C2
+spoiler|aerofreno||S|tra|C2
+stall|entrada en pérdida||S|sci|C2
+fuselage|fuselaje||S|tra|C2
+aileron|alerón||S|tra|C2
+empennage|empenaje||S|tra|C2
+nacelle|góndola del motor||S|tra|C2
+avionics|aviónica||S|tra|C2
+fly-by-wire|mandos de vuelo electrónicos||L|tra|C2
+wake turbulence|turbulencia de estela||L|tra|C2
+payload|carga útil||S|sci|C2
+orbital decay|decaimiento orbital||L|sci|C2
+escape velocity|velocidad de escape||L|sci|C2
+regolith|regolito||S|sci|C2
+actuator|actuador||S|tec|C2
+end effector|efector final||L|tec|C2
+servomotor|servomotor||S|tec|C2
+kinematics|cinemática||S|sci|C2
+haptic feedback|retroalimentación háptica||L|tec|C2
+cobot|robot colaborativo||S|tec|C2
+machine vision|visión artificial||L|tec|C2
+torque sensor|sensor de par||L|tec|C2
+calibration|calibración||S|tec|C2
+downtime|tiempo de inactividad||S|lav|C2
+redundancy|redundancia||S|tec|C2
+feedback loop|bucle de retroalimentación||L|tec|C2
+teach pendant|consola de programación||L|tec|C2
+gripper|pinza robótica||S|tec|C2
+degrees of freedom|grados de libertad||L|tec|C2
+trajectory planning|planificación de trayectorias||L|tec|C2
+swarm robotics|robótica de enjambre||L|tec|C2
+telerobotics|telerrobótica||S|tec|C2
+mechatronics|mecatrónica||S|tec|C2
+encoder|codificador de posición||S|tec|C2
+automation|automatización||S|tec|C2
+programmable controller|controlador programable||L|tec|C2
+human factors|factores humanos||L|tec|C2
+obstacle avoidance|evitación de obstáculos||L|tec|C2
+manipulator|manipulador||S|tec|C2
+albedo|albedo||S|cli|C2
+thermohaline circulation|circulación termohalina||L|cli|C2
+proxy record|registro indirecto||L|sci|C2
+paleoclimatology|paleoclimatología||S|sci|C2
+anthropogenic|antropogénico||A|cli|C2
+tipping point|punto de no retorno||L|cli|C2
+carbon sequestration|captura de carbono||L|cli|C2
+climate feedback|retroalimentación climática||L|cli|C2
+isobar|isobara||S|cli|C2
+jet stream|corriente en chorro||L|cli|C2
+permafrost|suelo permanentemente helado||S|nat|C2
+ice core|testigo de hielo||L|sci|C2
+radiative forcing|forzamiento radiativo||L|cli|C2
+downscaling|reducción de escala||S|cli|C2
+attribution study|estudio de atribución||L|cli|C2
+anomaly|anomalía térmica||S|cli|C2
+ocean acidification|acidificación oceánica||L|cli|C2
+megadrought|megasequía||S|cli|C2
+heat dome|domo de calor||L|cli|C2
+storm surge|marea de tormenta||L|cli|C2
+isotherm|isoterma||S|cli|C2
+climatological|climatológico||A|cli|C2
+mitigation|mitigación||S|cli|C2
+adaptation|adaptación climática||S|cli|C2
+glacial retreat|retroceso glaciar||L|cli|C2
+glacial rebound|rebote isostático||L|sci|C2
+bathymetry|batimetría||S|sci|C2
+thermocline|termoclina||S|sci|C2
+salinity|salinidad||S|sci|C2
+upwelling|afloramiento costero||S|sci|C2
+benthic|bentónico||A|sci|C2
+pelagic|pelágico||A|sci|C2
+algal bloom|floración de algas||L|sci|C2
+estuary|estuario||S|nat|C2
+abyssal plain|llanura abisal||L|sci|C2
+hydrothermal vent|fumarola hidrotermal||L|sci|C2
+tidal range|amplitud de marea||L|sci|C2
+gyre|giro oceánico||S|sci|C2
+coral bleaching|blanqueamiento coralino||L|sci|C2
+bycatch|captura incidental||S|sci|C2
+keystone species|especie clave||L|sci|C2
+trophic cascade|cascada trófica||L|sci|C2
+marine protected area|área marina protegida||L|nat|C2
+nekton|necton||S|sci|C2
+benthos|bentos||S|sci|C2
+littoral zone|zona litoral||L|nat|C2
+cetacean|cetáceo||S|ani|C2
+pinniped|pinnípedo||S|ani|C2
+atoll|atolón||S|nat|C2
+seamount|monte submarino||S|sci|C2
+deep-sea trench|fosa oceánica||L|sci|C2
+oceanographic|oceanográfico||A|sci|C2
+stewardship|custodia ambiental||S|ist|C2
+precautionary principle|principio de precaución||L|ist|C2
+environmental liability|responsabilidad ambiental||L|ist|C2
+emissions trading|comercio de emisiones||L|ist|C2
+emissions permit|permiso de emisiones||L|ist|C2
+cap-and-trade|límite e intercambio||L|ist|C2
+remediation|remediación||S|ist|C2
+brownfield|parcela industrial degradada||S|ist|C2
+conservation easement|servidumbre de conservación||L|ist|C2
+carbon offset|compensación de carbono||L|ist|C2
+biodiversity offsetting|compensación de biodiversidad||L|ist|C2
+environmental impact statement|declaración de impacto ambiental||L|ist|C2
+polluter pays|quien contamina paga||L|ist|C2
+riparian rights|derechos ribereños||L|ist|C2
+water rights|derechos de aguas||L|ist|C2
+overfishing|sobrepesca||S|nat|C2
+clear-cutting|tala a matarrasa||S|nat|C2
+wildlife trafficking|tráfico de especies||L|ist|C2
+net-zero|de emisiones netas cero||A|ist|C2
+decoupling|desacoplamiento||S|ist|C2
+cradle-to-cradle|de la cuna a la cuna||L|ist|C2
+effluent|efluente||S|ist|C2
+watershed|cuenca hidrográfica||S|nat|C2
+mitigation bank|banco de compensación||L|ist|C2
+wetlands|humedales||S|nat|C2
+environmental justice|justicia ambiental||L|ist|C2
+etiology|etiología||S|sla|C2
+pathogenesis|patogenia||S|sla|C2
+histology|histología||S|sla|C2
+necrosis|necrosis||S|sla|C2
+apoptosis|apoptosis||S|sla|C2
+differential diagnosis|diagnóstico diferencial||L|sla|C2
+autopsy|autopsia||S|sla|C2
+specimen|muestra biológica||S|sla|C2
+cytology|citología||S|sla|C2
+excision|escisión quirúrgica||S|sla|C2
+benign|benigno||A|sla|C2
+idiopathic|idiopático||A|sla|C2
+iatrogenic|iatrogénico||A|sla|C2
+nosocomial|nosocomial||A|sla|C2
+comorbidity|comorbilidad||S|sla|C2
+inflammatory marker|marcador inflamatorio||L|sla|C2
+connective tissue|tejido conectivo||L|cor|C2
+epithelium|epitelio||S|cor|C2
+synovial fluid|líquido sinovial||L|cor|C2
+meniscus|menisco||S|cor|C2
+biopsy|biopsia||S|sla|C2
+morphology|morfología||S|sla|C2
+staging|estadificación||S|sla|C2
+granuloma|granuloma||S|sla|C2
+adhesions|adherencias fibrosas||S|sla|C2
+ontological|ontológico||A|ast|C2
+ontology|ontología||S|ast|C2
+teleology|teleología||S|ast|C2
+epistemic|epistémico||A|ast|C2
+axiology|axiología||S|ast|C2
+virtue ethics|ética de las virtudes||L|ast|C2
+categorical imperative|imperativo categórico||L|ast|C2
+solipsism|solipsismo||S|ast|C2
+determinism|determinismo||S|ast|C2
+phenomenology|fenomenología||S|ast|C2
+hermeneutics|hermenéutica||S|ast|C2
+dialectics|dialéctica||S|ast|C2
+existentialism|existencialismo||S|ast|C2
+nihilism|nihilismo||S|ast|C2
+relativism|relativismo||S|ast|C2
+empiricism|empirismo||S|ast|C2
+rationalism|racionalismo||S|ast|C2
+utilitarianism|utilitarismo||S|ast|C2
+stoicism|estoicismo||S|ast|C2
+hedonism|hedonismo||S|ast|C2
+sorites paradox|paradoja del montón||L|ast|C2
+immanence|inmanencia||S|ast|C2
+transcendence|trascendencia||S|ast|C2
+ineffable|inefable||A|ast|C2
+ubiquitous|omnipresente||A|ast|C2
+eudaimonia|felicidad plena y realizada||S|ast|C2
+ad hominem|argumento contra la persona||L|ast|C2
+sine qua non|condición indispensable||L|ast|C2
+modus operandi|manera de proceder||L|ast|C2
+status quo|statu quo||L|ast|C2
+per se|en sí mismo||L|ast|C2
+de facto|de hecho||L|ast|C2
+schadenfreude|regodeo del mal ajeno||S|emo|C2
+zeitgeist|espíritu de la época||S|ast|C2
+weltanschauung|concepción del mundo||S|ast|C2
+ersatz|sucedáneo||A|ast|C2
+angst|angustia existencial||S|emo|C2
+hubris|hibris||S|ast|C2
+ethos|carácter moral de una comunidad||S|ast|C2
+pathos|fuerza emotiva del discurso||S|let|C2
+kudos|reconocimiento merecido||S|cmu|C2
+quid pro quo|contrapartida||L|ast|C2
+non sequitur|conclusión que no se sigue||L|ast|C2
+terra incognita|territorio desconocido||L|ast|C2
+mea culpa|reconocimiento de culpa||L|cmu|C2
+ad infinitum|hasta el infinito||L|ast|C2
+a fortiori|con mayor razón||L|ast|C2
+casus belli|motivo de guerra||L|ast|C2
+catharsis|catarsis||S|let|C2
+nemesis|castigo inevitable||S|ast|C2
+magnum opus|obra maestra||L|art|C2
+in medias res|en plena acción||L|let|C2
+know thyself|conócete a ti mismo||E|ast|C2
+memento mori|recuerda que has de morir||E|ast|C2
+carpe diem|aprovecha el día||E|ast|C2
+to err is human|errar es de humanos||E|ast|C2
+power corrupts|el poder corrompe||E|ast|C2
+knowledge is power|saber es poder||E|ast|C2
+history repeats itself|la historia se repite||E|tmp|C2
+beauty is truth|la belleza es verdad||E|art|C2
+live and let live|vivir y dejar vivir||E|rel|C2
+the truth will out|la verdad acaba saliendo||E|ast|C2

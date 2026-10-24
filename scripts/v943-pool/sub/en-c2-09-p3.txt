@@ -1,0 +1,267 @@
+hitherto|hasta ahora||D|tmp|C2
+thence|desde allí||D|cnn|C2
+whence|de dónde||D|cnn|C2
+whither|adónde||D|cnn|C2
+hereby|por la presente||D|ist|C2
+hereinafter|en lo sucesivo en este documento||D|ist|C2
+withal|con todo||D|let|C2
+aforesaid|antedicho||A|ist|C2
+forthwith|de inmediato||D|ist|C2
+anon|en breve||D|tmp|C2
+ere|antes de||R|tmp|C2
+oft|a menudo||D|tmp|C2
+verily|en verdad||D|let|C2
+perchance|acaso||D|let|C2
+methinks|me parece||V|let|C2
+prithee|por favor||I|let|C2
+forsooth|ciertamente||D|let|C2
+alack|ay||I|let|C2
+fie|puaf||I|let|C2
+yon|aquel||D|let|C2
+hark|oíd||V|let|C2
+lo|he aquí||I|let|C2
+naught|nada||P|ast|C2
+aught|algo||P|ast|C2
+betwixt|entre||R|let|C2
+albeit|aunque||C|cnn|C2
+anent|acerca de||R|let|C2
+notwithstanding|no obstante||R|cnn|C2
+henceforth|desde ahora||D|cnn|C2
+thereby|por ello||D|cnn|C2
+whereby|mediante el cual||D|cnn|C2
+consequently|en consecuencia||D|cnn|C2
+conversely|por el contrario||D|cnn|C2
+accordingly|conforme a ello||D|cnn|C2
+insofar as|en la medida en que||C|cnn|C2
+inasmuch as|en cuanto que||C|cnn|C2
+whereas|mientras que||C|cnn|C2
+lest|no sea que||C|cnn|C2
+hence|por lo tanto||D|cnn|C2
+ergo|luego||D|cnn|C2
+to wit|a saber||E|cnn|C2
+namely|concretamente||D|cnn|C2
+for that matter|dicho sea de paso||E|cnn|C2
+be that as it may|sea como fuere||E|cnn|C2
+that said|dicho esto||E|cnn|C2
+all things considered|considerándolo todo||E|cnn|C2
+suffice it to say|baste decir||E|cnn|C2
+needless to say|ni que decir tiene||E|cnn|C2
+in light of|a la luz de||L|cnn|C2
+in lieu of|en lugar de||L|cnn|C2
+in the final analysis|en última instancia||E|cnn|C2
+on balance|sopesándolo todo||E|cnn|C2
+by the same token|por la misma razón||E|cnn|C2
+allude|aludir||V|cmu|C2
+insinuate|insinuar||V|cmu|C2
+intimate|insinuar discretamente||V|cmu|C2
+connote|connotar||V|cmu|C2
+denote|denotar||V|cmu|C2
+hedge|ir con rodeos||V|cmu|C2
+couch|formular con cuidado||V|cmu|C2
+broach|sacar a colación||V|cmu|C2
+reiterate|reiterar||V|cmu|C2
+restate|reformular||V|cmu|C2
+qualify|matizar||V|cmu|C2
+downplay|minimizar||V|cmu|C2
+overstate|exagerar||V|cmu|C2
+understate|expresar con excesiva moderación||V|cmu|C2
+deflect|desviar la crítica||V|cmu|C2
+parry|esquivar con una respuesta||V|cmu|C2
+extol|enaltecer||V|cmu|C2
+laud|alabar||V|cmu|C2
+disparage|denigrar||V|cmu|C2
+deride|burlarse de||V|cmu|C2
+belittle|menospreciar||V|cmu|C2
+malign|calumniar||V|cmu|C2
+lionize|encumbrar||V|cmu|C2
+reminisce|rememorar||V|cmu|C2
+divulge|divulgar||V|cmu|C2
+disclose|revelar||V|cmu|C2
+ad hoc|específico para el caso||L|ast|C2
+ad infinitum|hasta el infinito||L|ast|C2
+per se|en sí||L|ast|C2
+inter alia|entre otras cosas||L|ast|C2
+in vitro|fuera del organismo vivo||L|sci|C2
+de facto|de hecho||L|ist|C2
+de jure|de derecho||L|ist|C2
+ex cathedra|con autoridad dogmática||L|ast|C2
+ex officio|por razón del cargo||L|ist|C2
+pro bono|a título gratuito||L|pro|C2
+pro rata|proporcionalmente||L|fin|C2
+per annum|por año||L|fin|C2
+quid pro quo|toma y daca||L|cmu|C2
+modus operandi|manera de proceder||L|ist|C2
+mea culpa|reconocimiento de culpa||L|cmu|C2
+non sequitur|conclusión que no se sigue||S|ast|C2
+sine qua non|condición indispensable||L|ast|C2
+prima facie|a primera vista||L|ist|C2
+in flagrante delicto|in fraganti||L|ist|C2
+mutatis mutandis|con los cambios oportunos||L|ast|C2
+ceteris paribus|con todo lo demás constante||L|sci|C2
+sui generis|de una clase única||L|ast|C2
+bona fide|de buena fe||L|ist|C2
+in medias res|en plena acción||L|let|C2
+carpe diem|aprovecha el día||L|ast|C2
+fait accompli|hecho consumado||L|ast|C2
+attachment theory|teoría del apego||S|stu|C2
+imprinting|impronta||S|sci|C2
+egocentrism|egocentrismo||S|sci|C2
+theory of mind|teoría de la mente||S|sci|C2
+metacognition|metacognición||S|stu|C2
+scaffolding|andamiaje||S|stu|C2
+formative assessment|evaluación formativa||S|stu|C2
+summative assessment|evaluación sumativa||S|stu|C2
+pedagogy|pedagogía||S|stu|C2
+andragogy|andragogía||S|stu|C2
+differentiated instruction|enseñanza diferenciada||S|stu|C2
+spaced repetition|repetición espaciada||S|stu|C2
+retrieval practice|práctica de recuperación||S|stu|C2
+zone of proximal development|zona de desarrollo próximo||S|stu|C2
+critical period|período crítico||S|sci|C2
+language acquisition|adquisición del lenguaje||S|stu|C2
+developmental milestone|hito del desarrollo||S|sci|C2
+object permanence|permanencia del objeto||S|sci|C2
+moral reasoning|razonamiento moral||S|sci|C2
+assimilation|asimilación de esquemas||S|sci|C2
+accommodation|acomodación de esquemas||S|sci|C2
+habituation|habituación||S|sci|C2
+deferred imitation|imitación diferida||S|sci|C2
+rote learning|aprendizaje memorístico||S|stu|C2
+giftedness|superdotación||S|stu|C2
+twice-exceptional|con doble excepcionalidad||A|stu|C2
+remediation|refuerzo educativo||S|stu|C2
+cognitive behavioral therapy|terapia cognitivo-conductual||S|sla|C2
+psychodynamic|psicodinámico||A|sla|C2
+mindfulness|atención plena||S|sla|C2
+grounding technique|técnica de anclaje||S|sla|C2
+exposure therapy|terapia de exposición||S|sla|C2
+talk therapy|psicoterapia verbal||S|sla|C2
+dissociation|disociación||S|sla|C2
+rumination|rumiación||S|sla|C2
+hypervigilance|hipervigilancia||S|sla|C2
+intrusive thoughts|pensamientos intrusivos||S|sla|C2
+compulsive behavior|conducta compulsiva||S|sla|C2
+manic episode|episodio maníaco||S|sla|C2
+borderline personality disorder|trastorno límite de la personalidad||S|sla|C2
+somatization|somatización||S|sla|C2
+comorbidity|comorbilidad||S|sla|C2
+remission|remisión||S|sla|C2
+relapse|recaída||S|sla|C2
+trigger|desencadenante||S|sla|C2
+coping mechanism|mecanismo de afrontamiento||S|sla|C2
+defense mechanism|mecanismo de defensa||S|sla|C2
+self-harm|autolesión||S|sla|C2
+suicidality|ideación suicida||S|sla|C2
+involuntary commitment|internamiento involuntario||S|ist|C2
+therapeutic alliance|alianza terapéutica||S|sla|C2
+countertransference|contratransferencia||S|sla|C2
+transference|transferencia||S|sla|C2
+regression|regresión||S|sla|C2
+avarice|avaricia||S|ast|C2
+gluttony|gula||S|ast|C2
+wrath|ira||S|ast|C2
+vainglory|vanagloria||S|ast|C2
+hubris|hybris||S|ast|C2
+temperance|templanza||S|ast|C2
+prudence|prudencia||S|ast|C2
+fortitude|fortaleza de ánimo||S|ast|C2
+magnanimity|magnanimidad||S|ast|C2
+probity|probididad||S|ast|C2
+rectitude|rectitud||S|ast|C2
+equanimity|ecuanimidad||S|ast|C2
+beneficence|beneficencia||S|ast|C2
+maleficence|maldad||S|ast|C2
+nepotism|nepotismo||S|ist|C2
+cronyism|amiguismo||S|ist|C2
+graft|soborno||S|ist|C2
+venality|venalidad||S|ast|C2
+duplicity|dobleces||S|ast|C2
+perfidy|perfidia||S|ast|C2
+apostasy|apostasía||S|ast|C2
+profligacy|disipación||S|ast|C2
+stoicism|estoicismo||S|ast|C2
+hedonism|hedonismo||S|ast|C2
+asceticism|ascetismo||S|ast|C2
+obstinacy|obstinación||S|ast|C2
+vindictiveness|espíritu vengativo||S|ast|C2
+venture capital|capital riesgo||S|fin|C2
+bootstrapping|autofinanciación||S|fin|C2
+seed funding|ronda semilla||S|fin|C2
+angel investor|inversor providencial||S|fin|C2
+runway|margen financiero||S|fin|C2
+burn rate|tasa de consumo de caja||S|fin|C2
+pivot|giro de modelo de negocio||S|fin|C2
+product-market fit|encaje producto-mercado||S|fin|C2
+go-to-market|estrategia de lanzamiento al mercado||S|fin|C2
+unicorn|empresa unicornio||S|fin|C2
+exit strategy|estrategia de salida||S|fin|C2
+due diligence|diligencia debida||S|fin|C2
+term sheet|hoja de términos||S|fin|C2
+vesting|consolidación de derechos sobre acciones||S|fin|C2
+equity stake|participación accionarial||S|fin|C2
+dilution|dilución de participación||S|fin|C2
+cap table|tabla de capitalización||S|fin|C2
+pitch deck|presentación para inversores||S|fin|C2
+valuation|valoración||S|fin|C2
+minimum viable product|producto mínimo viable||S|fin|C2
+early adopter|adoptador temprano||S|fin|C2
+growth hacking|marketing de crecimiento agresivo||S|fin|C2
+churn rate|tasa de cancelación||S|fin|C2
+retention rate|tasa de retención||S|fin|C2
+unit economics|economía unitaria||S|fin|C2
+moat|ventaja competitiva duradera||S|fin|C2
+first-mover advantage|ventaja del pionero||S|fin|C2
+supply chain|cadena de suministro||S|fin|C2
+procurement|adquisiciones||S|fin|C2
+warehousing|almacenaje||S|fin|C2
+fulfillment|preparación y envío de pedidos||S|fin|C2
+last-mile delivery|entrega de última milla||S|fin|C2
+just-in-time|justo a tiempo||A|fin|C2
+lead time|plazo de entrega||S|fin|C2
+stockout|rotura de existencias||S|fin|C2
+safety stock|existencias de seguridad||S|fin|C2
+reorder point|punto de pedido||S|fin|C2
+inventory turnover|rotación de inventario||S|fin|C2
+bill of lading|conocimiento de embarque||S|ist|C2
+freight forwarder|transitario||S|pro|C2
+customs clearance|despacho de aduanas||S|ist|C2
+drayage|transporte portuario corto||S|tra|C2
+intermodal|intermodal||A|tra|C2
+transloading|transbordo de carga||S|tra|C2
+reverse logistics|logística inversa||S|fin|C2
+capacity planning|planificación de capacidad||S|fin|C2
+demand forecasting|previsión de demanda||S|fin|C2
+lean manufacturing|producción ajustada||S|fin|C2
+kaizen|mejora continua||S|fin|C2
+kanban|tablero kanban||S|fin|C2
+cold chain|cadena de frío||S|fin|C2
+palletization|paletización||S|fin|C2
+demurrage|estadías de demora||S|fin|C2
+third-party logistics|logística externalizada||S|fin|C2
+brand equity|valor de marca||S|fin|C2
+segmentation|segmentación||S|fin|C2
+psychographics|psicografía||S|fin|C2
+positioning|posicionamiento||S|fin|C2
+repositioning|reposicionamiento||S|fin|C2
+repeat purchase|compra repetida||S|fin|C2
+customer journey|recorrido del cliente||S|fin|C2
+touchpoint|punto de contacto||S|fin|C2
+price skimming|descremado de precios||S|fin|C2
+cross-selling|venta cruzada||S|fin|C2
+retargeting|publicidad de seguimiento||S|fin|C2
+conversion rate|tasa de conversión||S|fin|C2
+clickbait|titular cebo||S|fin|C2
+influencer marketing|marketing de influencia||S|fin|C2
+neuromarketing|neuromarketing||S|fin|C2
+loss leader|producto gancho||S|fin|C2
+price elasticity|elasticidad del precio||S|fin|C2
+willingness to pay|disposición a pagar||S|fin|C2
+impulse buying|compra por impulso||S|fin|C2
+buyer's remorse|arrepentimiento del comprador||S|fin|C2
+conspicuous consumption|consumo ostentoso||S|fin|C2
+brand extension|extensión de marca||S|fin|C2
+unique selling proposition|propuesta única de venta||S|fin|C2
+customer acquisition cost|coste de adquisición de cliente||S|fin|C2
+focus group|grupo de discusión||S|fin|C2
+omnichannel|omnicanal||A|fin|C2
+consumer insight|conocimiento profundo del consumidor||S|fin|C2

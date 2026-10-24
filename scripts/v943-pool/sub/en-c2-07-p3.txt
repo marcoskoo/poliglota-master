@@ -1,0 +1,267 @@
+impresario|empresario teatral||S|pro|C2
+dramaturgy|dramaturgia||S|art|C2
+sojourn|estancia breve||S|vig|C2
+wanderlust|ganas de recorrer mundo||S|vig|C2
+wayfarer|viajero a pie||S|vig|C2
+bivouac|vivac||S|nat|C2
+scree|pedregal||S|nat|C2
+talus|talud de derrubios||S|nat|C2
+moraine|morrena||S|nat|C2
+crevasse|grieta glaciar||S|nat|C2
+serac|bloque de hielo fracturado||S|nat|C2
+frostbite|congelación||S|sla|C2
+altitude sickness|mal de altura||L|sla|C2
+crampons|crampones||S|spt|C2
+rappel|rápel||S|spt|C2
+whiteout|tormenta de visibilidad nula||S|nat|C2
+portage|porteo de embarcación||S|vig|C2
+way station|estación de tránsito||L|vig|C2
+hinterland|región interior||S|nat|C2
+off the beaten path|fuera de las rutas trilladas||L|vig|C2
+intrepid|intrépido||A|vig|C2
+summit|hacer cumbre||V|spt|C2
+trailhead|comienzo de sendero||S|vig|C2
+thru-hike|travesía integral de sendero||S|spt|C2
+switchback|curva en horquilla||S|nat|C2
+backcountry|zona agreste sin servicios||S|nat|C2
+gear up|equiparse||L|vig|C2
+auteur|director de autor||S|cin|C2
+auteur theory|teoría del autor||L|cin|C2
+jump cut|salto de montaje||L|cin|C2
+match cut|corte por analogía||L|cin|C2
+cross-cutting|montaje alternado||S|cin|C2
+flash-forward|salto al futuro||S|cin|C2
+diegetic|diegético||A|cin|C2
+verisimilitude|verosimilitud||S|cin|C2
+arthouse|de cine de autor||A|cin|C2
+chiaroscuro|claroscuro||S|art|C2
+depth of field|profundidad de campo||L|cin|C2
+rack focus|desplazamiento de foco||L|cin|C2
+long take|plano secuencia||L|cin|C2
+tracking shot|plano en travelling||L|cin|C2
+dolly zoom|zoom de vértigo||L|cin|C2
+intertextuality|intertextualidad||S|let|C2
+pastiche|pastiche||S|art|C2
+film noir|cine negro||L|cin|C2
+method acting|interpretación metódica||L|cin|C2
+typecasting|encasillamiento||S|cin|C2
+narrative ellipsis|elipsis narrativa||L|cin|C2
+femme fatale|mujer fatal||L|cin|C2
+freeze frame|imagen congelada||L|cin|C2
+spectatorship|posición del espectador||S|cin|C2
+male gaze|mirada masculina||L|cin|C2
+production design|diseño de producción||L|cin|C2
+natalism|natalismo||S|ist|C2
+natality|natalidad||S|ist|C2
+fertility rate|tasa de fecundidad||L|ist|C2
+infant mortality|mortalidad infantil||L|ist|C2
+demographic dividend|dividendo demográfico||L|ist|C2
+population pyramid|pirámide de población||L|ist|C2
+cohort|cohorte generacional||S|ist|C2
+matriarchy|matriarcado||S|fam|C2
+matrilineal|matrilineal||A|fam|C2
+patrilocal|patrilocal||A|fam|C2
+blended family|familia reconstituida||L|fam|C2
+empty nest|nido vacío||L|fam|C2
+sandwich generation|generación sándwich||L|fam|C2
+cohabitation|convivencia en pareja||S|fam|C2
+out-of-wedlock|fuera del matrimonio||A|fam|C2
+dowry|dote||S|fam|C2
+filial|filial||A|fam|C2
+sibling rivalry|rivalidad fraterna||L|fam|C2
+stepfamily|familia ensamblada||S|fam|C2
+gerontocracy|gerontocracia||S|ist|C2
+ageism|edadismo||S|ist|C2
+remarriage|nuevo matrimonio||S|fam|C2
+single-parent household|hogar monoparental||L|fam|C2
+birth dearth|desplome de la natalidad||L|ist|C2
+dependency ratio|tasa de dependencia||L|ist|C2
+census tract|sección censal||L|ist|C2
+facade|fachada||S|cit|C2
+portico|pórtico||S|cit|C2
+colonnade|columnata||S|cit|C2
+cornice|cornisa||S|cit|C2
+pediment|frontón||S|cit|C2
+entablature|entablamento||S|cit|C2
+balustrade|balaustrada||S|cit|C2
+atrium|atrio||S|cit|C2
+flying buttress|arbotante||L|art|C2
+groin vault|bóveda de arista||L|art|C2
+clerestory|claristorio||S|art|C2
+lintel|dintel||S|cit|C2
+mullion|parteluz||S|cit|C2
+transom|montante||S|cit|C2
+fenestration|fenestración||S|art|C2
+brutalism|brutalismo||S|art|C2
+postmodernism|posmodernismo||S|art|C2
+urban sprawl|expansión urbana descontrolada||L|cit|C2
+gentrification|gentrificación||S|cit|C2
+redlining|segregación crediticia||S|cit|C2
+brownstone|casa de piedra parda||S|cit|C2
+walk-up|edificio sin ascensor||S|cit|C2
+streetscape|paisaje urbano||S|cit|C2
+promenade|paseo marítimo||S|cit|C2
+cul-de-sac|calle sin salida||L|cit|C2
+zoning|zonificación||S|cit|C2
+setback|retiro urbanístico||S|cit|C2
+sommelier|sumiller||S|pro|C2
+terroir|carácter del terreno vitícola||S|ali|C2
+appellation|denominación de origen||S|ali|C2
+decant|decantar||V|ali|C2
+aerate|airear||V|ali|C2
+tannins|taninos||S|ali|C2
+oaky|con notas de roble||A|ali|C2
+full-bodied|de cuerpo pleno||A|ali|C2
+corked|con olor a corcho||A|ali|C2
+varietal|vino de una sola variedad||S|ali|C2
+malolactic|maloláctica||A|ali|C2
+lees|lías||S|ali|C2
+riddling|removido||S|ali|C2
+amuse-bouche|bocado de cortesía||S|ris|C2
+sous vide|cocción al vacío||L|ris|C2
+deglaze|desglasar||V|ris|C2
+emulsify|emulsionar||V|ris|C2
+brunoise|corte en daditos||S|ris|C2
+chiffonade|tiras finas de hierbas||S|ris|C2
+umami|quinto sabor||S|ali|C2
+mouthfeel|sensación en boca||S|ali|C2
+plating|emplatado||S|ris|C2
+molecular gastronomy|gastronomía molecular||L|ris|C2
+tasting menu|menú degustación||L|ris|C2
+farm-to-table|de la granja a la mesa||L|ris|C2
+reduction|fondo reducido||S|ris|C2
+charcuterie|charcutería||S|ris|C2
+confit|confitado||S|ris|C2
+taxonomy|taxonomía||S|sci|C2
+phylogeny|filogenia||S|sci|C2
+cladistics|cladística||S|sci|C2
+binomial nomenclature|nomenclatura binomial||L|sci|C2
+holotype|holotipo||S|sci|C2
+conspecific|conespecífico||A|sci|C2
+sympatric|simpátrico||A|sci|C2
+reciprocal altruism|altruismo recíproco||L|ani|C2
+imprinting|impronta||S|ani|C2
+mating display|exhibición de apareamiento||L|ani|C2
+foraging|forrajeo||S|ani|C2
+mimicry|mimetismo||S|ani|C2
+brood parasite|parásito de puesta||L|ani|C2
+estivation|estivación||S|ani|C2
+molting|muda||S|ani|C2
+chromatophore|cromatóforo||S|ani|C2
+ungulate|ungulado||S|ani|C2
+monotreme|monotrema||S|ani|C2
+passerine|paseriforme||S|ani|C2
+corvid|córrido||S|ani|C2
+cephalopod|cefalópodo||S|ani|C2
+echinoderm|equinodermo||S|ani|C2
+cnidarian|cnidario||S|ani|C2
+endothermic|endotérmico||A|ani|C2
+ectotherm|ectotermo||S|ani|C2
+apex predator|superdepredador||L|ani|C2
+commensalism|comensalismo||S|ani|C2
+swarm intelligence|inteligencia de enjambre||L|ani|C2
+xylem|xilema||S|sci|C2
+phloem|floema||S|sci|C2
+stomata|estomas||S|sci|C2
+angiosperm|angiosperma||S|sci|C2
+gymnosperm|gimnosperma||S|sci|C2
+bryophyte|briófito||S|sci|C2
+pteridophyte|pteridófito||S|sci|C2
+mycorrhiza|micorriza||S|sci|C2
+nitrogen fixation|fijación de nitrógeno||L|sci|C2
+dormancy|latencia vegetativa||S|nat|C2
+understory|sotobosque||S|nat|C2
+gap dynamics|dinámica de claros||L|nat|C2
+pioneer species|especie pionera||L|nat|C2
+climax community|comunidad clímax||L|nat|C2
+ecotone|ecotono||S|nat|C2
+edge effect|efecto borde||L|nat|C2
+fragmentation|fragmentación del hábitat||S|nat|C2
+wildlife corridor|corredor biológico||L|nat|C2
+rewilding|renaturalización||S|nat|C2
+naturalized|naturalizado||A|nat|C2
+endemism|endemismo||S|nat|C2
+monoculture|monocultivo||S|nat|C2
+agroforestry|agroforestería||S|nat|C2
+peatland|turbera||S|nat|C2
+fen|turbera alcalina||S|nat|C2
+bioregion|bioregión||S|nat|C2
+landscape ecology|ecología del paisaje||L|nat|C2
+pollinator|polinizador||S|nat|C2
+epochal|epocal||A|tmp|C2
+conjuncture|coyuntura||S|tmp|C2
+teleological|teleológico||A|tmp|C2
+anachronism|anacronismo||S|tmp|C2
+genealogy|genealogía||S|tmp|C2
+mnemonics|mnemotecnia||S|tmp|C2
+remembrance|rememoración||S|tmp|C2
+retrospective|retrospectivo||A|tmp|C2
+diachronic|diacrónico||A|tmp|C2
+synchronic|sincrónico||A|tmp|C2
+evanescent|evanescente||A|tmp|C2
+ephemeral|efímero||A|tmp|C2
+transient|transitorio||A|tmp|C2
+impermanence|impermanencia||S|ast|C2
+perdurable|perdurable||A|ast|C2
+bygone|de antaño||A|tmp|C2
+antediluvian|antediluviano||A|tmp|C2
+immemorial|inmemorial||A|tmp|C2
+forebear|antepasado||S|fam|C2
+posterity|posteridad||S|tmp|C2
+protracted|prolongado||A|tmp|C2
+belated|tardío||A|tmp|C2
+untimely|inoportuno||A|tmp|C2
+sempiternal|sempiterno||A|ast|C2
+annals|anales||S|tmp|C2
+deep time|tiempo geológico profundo||L|sci|C2
+epoch-making|que marca época||A|tmp|C2
+of yore|de tiempos remotos||L|tmp|C2
+blockchain|cadena de bloques||S|fin|C2
+distributed ledger|registro distribuido||L|fin|C2
+smart contract|contrato inteligente||L|fin|C2
+tokenization|tokenización||S|fin|C2
+stablecoin|criptomoneda estable||S|fin|C2
+altcoin|criptodivisa alternativa||S|fin|C2
+airdrop|reparto gratuito de tokens||S|fin|C2
+cold wallet|cartera fría||L|fin|C2
+seed phrase|frase semilla||L|fin|C2
+non-fungible token|token no fungible||L|fin|C2
+gas fee|comisión de red||L|fin|C2
+proof of stake|prueba de participación||L|fin|C2
+proof of work|prueba de trabajo||L|fin|C2
+consensus mechanism|mecanismo de consenso||L|fin|C2
+peer-to-peer|entre iguales||A|tec|C2
+fintech|tecnología financiera||S|fin|C2
+underbanked|con acceso bancario insuficiente||A|fin|C2
+remittance|remesa||S|fin|C2
+custodian|depositario de activos digitales||S|fin|C2
+fractional ownership|propiedad fraccionada||L|fin|C2
+crowdlending|préstamo participativo||S|fin|C2
+exchange-traded fund|fondo cotizado||L|fin|C2
+short squeeze|apretón de cortos||L|fin|C2
+derivative|derivado financiero||S|fin|C2
+collateralized|colateralizado||A|fin|C2
+liquidity pool|fondo de liquidez||L|fin|C2
+cold storage|custodia en frío||L|fin|C2
+wallet|cartera digital||S|fin|C2
+notarize|autorizar notarialmente||V|ist|C2
+deed|escritura de propiedad||S|ist|C2
+escrow|depósito en garantía||S|ist|C2
+title search|investigación de titularidad||L|ist|C2
+lien|gravamen||S|ist|C2
+encumbrance|carga registral||S|ist|C2
+easement|servidumbre||S|ist|C2
+grantor|otorgante||S|ist|C2
+grantee|adquirente||S|ist|C2
+testator|testador||S|ist|C2
+probate|sucesión testamentaria||S|ist|C2
+intestate|intestado||A|ist|C2
+codicil|codicilo||S|ist|C2
+power of attorney|poder notarial||L|ist|C2
+acknowledgment|fe notarial de firma||S|ist|C2
+jurat|cláusula jurada||S|ist|C2
+abstract of title|extracto de titularidad||L|ist|C2
+recordation|inscripción registral||S|ist|C2
+metes and bounds|descripción por linderos||L|ist|C2
+tenancy in common|comunidad de bienes||L|ist|C2
+joint tenancy|cotitularidad con derecho de acrecer||L|ist|C2

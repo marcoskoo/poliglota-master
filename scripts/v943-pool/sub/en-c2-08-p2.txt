@@ -1,0 +1,267 @@
+titration|titulación||S|sci|C2
+aliquot|alícuota||S|sci|C2
+chromatography|cromatografía||S|sci|C2
+spectrometry|espectrometría||S|sci|C2
+spectroscopy|espectroscopía||S|sci|C2
+reagent|reactivo||S|sci|C2
+assay|ensayo analítico||S|sci|C2
+calibration|calibración||S|sci|C2
+standard solution|disolución patrón||L|sci|C2
+volumetric flask|matraz aforado||L|sci|C2
+pipette|pipeta||S|sci|C2
+burette|bureta||S|sci|C2
+beaker|vaso de precipitados||S|sci|C2
+centrifuge|centrifugadora||S|sci|C2
+distillation|destilación||S|sci|C2
+purification|purificación||S|sci|C2
+solvent extraction|extracción con disolvente||L|sci|C2
+solubility|solubilidad||S|sci|C2
+precipitate|precipitado||S|sci|C2
+stoichiometry|estequiometría||S|sci|C2
+molarity|molaridad||S|sci|C2
+gravimetric|gravimétrico||A|sci|C2
+eluent|eluente||S|sci|C2
+analyte|analito||S|sci|C2
+blank|blanco de control||S|sci|C2
+replicate|réplica del ensayo||S|sci|C2
+limit of detection|límite de detección||L|sci|C2
+crystal lattice|red cristalina||L|sci|C2
+band gap|banda prohibida||L|sci|C2
+semiconductor|semiconductor||S|sci|C2
+superconductivity|superconductividad||S|sci|C2
+doping|dopaje de semiconductores||S|sci|C2
+phonon|fonón||S|sci|C2
+charge carrier|portador de carga||L|sci|C2
+grain boundary|borde de grano||L|sci|C2
+crystal defect|defecto cristalino||L|sci|C2
+tensile strength|resistencia a la tracción||L|sci|C2
+yield strength|límite elástico||L|sci|C2
+fatigue|fatiga de materiales||S|sci|C2
+creep|fluencia||S|sci|C2
+ductility|ductilidad||S|sci|C2
+brittleness|fragilidad||S|sci|C2
+malleability|maleabilidad||S|sci|C2
+piezoelectric|piezoeléctrico||A|sci|C2
+ferroelectric|ferroeléctrico||A|sci|C2
+amorphous|amorfo||A|sci|C2
+polycrystalline|policristalino||A|sci|C2
+isotropic|isótropo||A|sci|C2
+thermal conductivity|conductividad térmica||L|sci|C2
+phase transition|transición de fase||L|sci|C2
+allotrope|alótropo||S|sci|C2
+epitaxy|epitaxia||S|sci|C2
+wafer|oblea de silicio||S|sci|C2
+dopant|dopante||S|sci|C2
+radiative forcing|forzamiento radiativo||L|sci|C2
+albedo|albedo||S|sci|C2
+troposphere|troposfera||S|sci|C2
+stratosphere|estratosfera||S|sci|C2
+jet stream|corriente en chorro||L|sci|C2
+isobar|isobara||S|sci|C2
+front|frente meteorológico||S|sci|C2
+convection|convección||S|sci|C2
+evapotranspiration|evapotranspiración||S|sci|C2
+permafrost|suelo permanentemente helado||S|sci|C2
+ice core|testigo de hielo||L|sci|C2
+proxy|indicador indirecto||S|sci|C2
+ocean acidification|acidificación oceánica||L|sci|C2
+sea level rise|subida del nivel del mar||L|sci|C2
+feedback loop|bucle de retroalimentación||L|sci|C2
+tipping point|punto de no retorno||L|sci|C2
+climate model|modelo climático||L|sci|C2
+carbon sequestration|captura de carbono||L|sci|C2
+mitigation|mitigación||S|sci|C2
+resilience|resiliencia||S|sci|C2
+weathering|meteorización||S|sci|C2
+cyclonic|ciclónico||A|sci|C2
+anticyclone|anticiclón||S|sci|C2
+aridification|aridificación||S|sci|C2
+attribution|atribución climática||S|sci|C2
+inversion|inversión térmica||S|sci|C2
+fossil record|registro fósil||L|sci|C2
+fossilization|fosilización||S|sci|C2
+stratigraphy|estratigrafía||S|sci|C2
+sedimentary|sedimentario||A|sci|C2
+radiometric dating|datación radiométrica||L|sci|C2
+mass extinction|extinción masiva||L|sci|C2
+selective pressure|presión selectiva||L|sci|C2
+genetic drift|deriva genética||L|sci|C2
+gene flow|flujo genético||L|sci|C2
+speciation|especiación||S|sci|C2
+phylogeny|filogenia||S|sci|C2
+cladistics|cladística||S|sci|C2
+homology|homología||S|sci|C2
+convergent evolution|evolución convergente||L|sci|C2
+adaptive radiation|radiación adaptativa||L|sci|C2
+punctuated equilibrium|equilibrio puntuado||L|sci|C2
+trilobite|trilobites||S|sci|C2
+ammonite|ammonites||S|sci|C2
+extant|existente||A|sci|C2
+morphology|morfología||S|sci|C2
+vestigial|vestigial||A|sci|C2
+lineage|linaje||S|sci|C2
+common ancestor|ancestro común||L|sci|C2
+bipedal|bípedo||A|sci|C2
+taxonomy|taxonomía||S|sci|C2
+holotype|holotipo||S|sci|C2
+theropod|terópodo||S|sci|C2
+viral replication|replicación vírica||L|sla|C2
+capsid|cápside||S|sla|C2
+envelope|envoltura vírica||S|sla|C2
+spike protein|proteína de la espícula||L|sla|C2
+antigen|antígeno||S|sla|C2
+seroconversion|seroconversión||S|sla|C2
+transmissibility|transmisibilidad||S|sla|C2
+virulence|virulencia||S|sla|C2
+pathogenesis|patogenia||S|sla|C2
+recombination|recombinación vírica||S|sla|C2
+reservoir|reservorio||S|sla|C2
+vector|vector transmisor||S|sla|C2
+nosocomial|nosocomial||A|sla|C2
+latency|latencia||S|sla|C2
+asymptomatic carrier|portador asintomático||L|sla|C2
+antiviral|antivírico||A|sla|C2
+retrovirus|retrovirus||S|sla|C2
+bacteriophage|bacteriófago||S|sla|C2
+lytic|lítico||A|sla|C2
+immune evasion|evasión inmunitaria||L|sla|C2
+cytokine storm|tormenta de citocinas||L|sla|C2
+spillover|salto de especie||S|sla|C2
+genotype|genotipo||S|sla|C2
+antiserum|suero inmune||S|sla|C2
+plaque assay|ensayo de placas||L|sla|C2
+tropism|tropismo||S|sla|C2
+inoculum|inóculo||S|sla|C2
+genome editing|edición del genoma||L|sci|C2
+base pair|par de bases||L|sci|C2
+nucleotide|nucleótido||S|sci|C2
+knockout|inactivación génica||S|sci|C2
+plasmid|plásmido||S|sci|C2
+transfection|transfección||S|sci|C2
+recombinant|recombinante||A|sci|C2
+gene expression|expresión génica||L|sci|C2
+promoter|promotor genético||S|sci|C2
+codon|codón||S|sci|C2
+transcription|transcripción genética||S|sci|C2
+translation|traducción en la síntesis de proteínas||S|sci|C2
+germline|línea germinal||S|sci|C2
+somatic|somático||A|sci|C2
+allele|alelo||S|sci|C2
+genomic|genómico||A|sci|C2
+ligase|ligasa||S|sci|C2
+restriction enzyme|enzima de restricción||L|sci|C2
+endonuclease|endonucleasa||S|sci|C2
+off-target|fuera de diana||A|sci|C2
+chimera|quimera biológica||S|sci|C2
+in vitro|in vitro||E|sci|C2
+in vivo|in vivo||E|sci|C2
+phenotype|fenotipo||S|sci|C2
+electroporation|electroporación||S|sci|C2
+silencing|silenciamiento génico||S|sci|C2
+heterozygous|heterocigoto||A|sci|C2
+functional imaging|imagen funcional||L|sci|C2
+neuroimaging|neuroimagen||S|sci|C2
+tractography|tractografía||S|sci|C2
+diffusion imaging|imagen por difusión||L|sci|C2
+gray matter|sustancia gris||L|sci|C2
+white matter|sustancia blanca||L|sci|C2
+cortical|cortical||A|sci|C2
+corpus callosum|cuerpo calloso||L|sci|C2
+thalamus|tálamo||S|sci|C2
+hippocampus|hipocampo||S|sci|C2
+prefrontal cortex|corteza prefrontal||L|sci|C2
+cerebral cortex|corteza cerebral||L|sci|C2
+neuroplasticity|neuroplasticidad||S|sci|C2
+voxel|vóxel||S|sci|C2
+spatial resolution|resolución espacial||L|sci|C2
+temporal resolution|resolución temporal||L|sci|C2
+contralateral|contralateral||A|sci|C2
+somatosensory|somatosensorial||A|sci|C2
+electrophysiology|electrofisiología||S|sci|C2
+hemispheric|hemisférico||A|sci|C2
+lesion|lesión cerebral||S|sci|C2
+deep brain stimulation|estimulación cerebral profunda||L|sci|C2
+magnetoencephalography|magnetoencefalografía||S|sci|C2
+connectome|conectoma||S|sci|C2
+sulcus|surco cerebral||S|sci|C2
+gyrus|circunvolución||S|sci|C2
+nanotechnology|nanotecnología||S|sci|C2
+nanoparticle|nanopartícula||S|sci|C2
+graphene|grafeno||S|sci|C2
+thin film|capa fina||L|sci|C2
+coating|recubrimiento||S|sci|C2
+polymer|polímero||S|sci|C2
+polymerization|polimerización||S|sci|C2
+functionalization|funcionalización||S|sci|C2
+self-assembly|autoensamblaje||S|sci|C2
+quantum dot|punto cuántico||L|sci|C2
+metamaterial|metamaterial||S|sci|C2
+biomaterial|biomaterial||S|sci|C2
+elastic modulus|módulo de elasticidad||L|sci|C2
+corrosion|corrosión||S|sci|C2
+wear resistance|resistencia al desgaste||L|sci|C2
+microstructure|microestructura||S|sci|C2
+crystalline|cristalino||A|sci|C2
+sintering|sinterización||S|sci|C2
+annealing|recocido||S|sci|C2
+quenching|temple||S|sci|C2
+alloy|aleación||S|sci|C2
+catalyst|catalizador||S|sci|C2
+catalysis|catálisis||S|sci|C2
+porosity|porosidad||S|sci|C2
+hydrophilic|hidrofílico||A|sci|C2
+hydrophobic|hidrófobo||A|sci|C2
+electron microscopy|microscopía electrónica||L|sci|C2
+refraction|refracción||S|sci|C2
+diffraction|difracción||S|sci|C2
+interference|interferencia ondulatoria||S|sci|C2
+polarization|polarización de la luz||S|sci|C2
+coherence|coherencia óptica||S|sci|C2
+aperture|apertura del diafragma||S|sci|C2
+focal length|distancia focal||L|sci|C2
+chromatic aberration|aberración cromática||L|sci|C2
+total internal reflection|reflexión total interna||L|sci|C2
+photon|fotón||S|sci|C2
+photonics|fotónica||S|sci|C2
+pulsed laser|láser pulsado||L|sci|C2
+holography|holografía||S|sci|C2
+resonance|resonancia acústica||S|sci|C2
+impedance|impedancia acústica||S|sci|C2
+attenuation|atenuación||S|sci|C2
+reverberation|reverberación||S|sci|C2
+standing wave|onda estacionaria||L|sci|C2
+soundproofing|insonorización||S|sci|C2
+echolocation|ecolocalización||S|sci|C2
+diffraction grating|red de difracción||L|sci|C2
+monochromator|monocromador||S|sci|C2
+achromatic|acromático||A|sci|C2
+waveguide|guía de onda||S|sci|C2
+photodetector|fotodetector||S|sci|C2
+blueshift|corrimiento al azul||S|sci|C2
+entropy|entropía||S|sci|C2
+enthalpy|entalpía||S|sci|C2
+isothermal|isotermo||A|sci|C2
+adiabatic|adiabático||A|sci|C2
+isobaric|isobárico||A|sci|C2
+thermodynamic cycle|ciclo termodinámico||L|sci|C2
+viscosity|viscosidad||S|sci|C2
+laminar flow|flujo laminar||L|sci|C2
+turbulent flow|flujo turbulento||L|sci|C2
+boundary layer|capa límite||L|sci|C2
+pressure gradient|gradiente de presión||L|sci|C2
+buoyancy|empuje de flotación||S|sci|C2
+incompressible|incompresible||A|sci|C2
+steady state|régimen estacionario||L|sci|C2
+closed system|sistema cerrado||L|sci|C2
+exothermic|exotérmico||A|sci|C2
+endothermic|endotérmico||A|sci|C2
+heat engine|máquina térmica||L|sci|C2
+fluid dynamics|dinámica de fluidos||L|sci|C2
+drag|fuerza de arrastre||S|sci|C2
+turbulence|turbulencia||S|sci|C2
+cavitation|cavitación||S|sci|C2
+vapor pressure|presión de vapor||L|sci|C2
+critical point|punto crítico||L|sci|C2
+compressibility|compresibilidad||S|sci|C2
+isentropic|isentrópico||A|sci|C2
+nozzle|tobera||S|sci|C2

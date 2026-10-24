@@ -1,0 +1,218 @@
+como está?|¿cómo está?||E|sal|A2
+até já|hasta ahora||E|sal|A2
+às ordens|a sus órdenes||E|sal|A2
+despedir-se|despedirse||V|sal|A2
+apresentar|presentar||V|sal|A2
+passar bem|pasarlo bien||E|sal|A2
+até à próxima|hasta la próxima||E|sal|A2
+boas festas|felices fiestas||E|sal|A2
+de nada|de nada||E|sal|A2
+com muito gosto|con mucho gusto||E|sal|A2
+não faz mal|no pasa nada||E|sal|A2
+gentileza|amabilidad||S|sal|A2
+agradecimento|agradecimiento||S|sal|A2
+saudações|saludos||S|sal|A2
+bom fim de semana|buen fin de semana||E|sal|A2
+não se preocupe|no se preocupe||E|sal|A2
+sobrinho|sobrino||S|fam|A2
+nora|nuera||S|fam|A2
+genro|yerno||S|fam|A2
+sogro|suegro||S|fam|A2
+esposa|esposa||S|fam|A2
+gémeos|gemelos||S|fam|A2
+noivo|novio||S|fam|A2
+madrinha|madrina||S|fam|A2
+cama individual|cama individual||S|cas|A2
+aparador|aparador||S|cas|A2
+cómoda|cómoda||S|cas|A2
+guarda-roupa|armario||S|cas|A2
+banqueta|taburete||S|cas|A2
+secretária|escritorio (mueble)||S|cas|A2
+cama beliche|litera||S|cas|A2
+máquina de café|cafetera||S|cas|A2
+porta de entrada|puerta de entrada||S|cas|A2
+telhado|tejado||S|cas|A2
+chaminé|chimenea||S|cas|A2
+lareira|chimenea (de hogar)||S|cas|A2
+sótão|desván||S|cas|A2
+cave|sótano||S|cas|A2
+sala de jantar|comedor||S|cas|A2
+dispensa|despensa||S|cas|A2
+louça|vajilla||S|cas|A2
+prato fundo|plato hondo||S|cas|A2
+taça|copa||S|cas|A2
+jarra|jarra||S|cas|A2
+travessa|fuente||S|cas|A2
+tampa|tapa||S|cas|A2
+jarro|jarro||S|cas|A2
+colher de pau|cuchara de madera||S|cas|A2
+pano|trapo||S|cas|A2
+limpeza|limpieza||S|cas|A2
+lixivia|lejía||S|cas|A2
+esponja|esponja||S|cas|A2
+sujo|sucio||A|cas|A2
+sujeira|suciedad||S|cas|A2
+poeira|polvo (suciedad)||S|cas|A2
+broca|broca||S|cas|A2
+cola|cola||S|cas|A2
+arranjar|arreglar||V|cas|A2
+berbequim|taladro||S|cas|A2
+serrote|serrucho||S|cas|A2
+agrafadora|grapadora||S|cas|A2
+rolo de pintura|rodillo de pintura||S|cas|A2
+arame|alambre||S|cas|A2
+pêssego|melocotón||S|ali|A2
+melancia|sandía||S|ali|A2
+melão|melón||S|ali|A2
+ananás|piña||S|ali|A2
+cereja|cereza||S|ali|A2
+ameixa|ciruela||S|ali|A2
+figo|higo||S|ali|A2
+kiwi|kiwi||S|ali|A2
+couve-flor|coliflor||S|ali|A2
+brócolos|brécol||S|ali|A2
+espinafre|espinaca||S|ali|A2
+pimento|pimiento||S|ali|A2
+beringela|berenjena||S|ali|A2
+nabo|nabo||S|ali|A2
+beterraba|remolacha||S|ali|A2
+milho|maíz||S|ali|A2
+vitela|ternera||S|ali|A2
+chouriço|chorizo||S|ali|A2
+pescada|merluza||S|ali|A2
+dourada|dorada||S|ali|A2
+robalo|lubina||S|ali|A2
+gamba|gamba||S|ali|A2
+costeleta|chuleta||S|ali|A2
+lombo|lomo||S|ali|A2
+requeijão|requesón||S|ali|A2
+leite condensado|leche condensada||S|ali|A2
+clara de ovo|clara de huevo||S|ali|A2
+creme|crema||S|ali|A2
+flan|flan||S|ali|A2
+pão de forma|pan de molde||S|ali|A2
+pão integral|pan integral||S|ali|A2
+macarrão|macarrones||S|ali|A2
+brioche|brioche||S|ali|A2
+massa folhada|hojaldre||S|ali|A2
+água com gás|agua con gas||S|ali|A2
+gasosa|gaseosa||S|ali|A2
+licor|licor||S|ali|A2
+aguardente|aguardiente||S|ali|A2
+sangria|sangría||S|ali|A2
+cominhos|comino||S|ali|A2
+colorau|pimentón||S|ali|A2
+açafrão|azafrán||S|ali|A2
+noz-moscada|nuez moscada||S|ali|A2
+coentro|cilantro||S|ali|A2
+hortelã|hierbabuena||S|ali|A2
+cravinho|clavo (especia)||S|ali|A2
+louro|laurel||S|ali|A2
+avelã|avellana||S|ali|A2
+pistácio|pistacho||S|ali|A2
+caju|anacardo||S|ali|A2
+semente de girassol|semilla de girasol||S|ali|A2
+pinhão|piñón||S|ali|A2
+tremoço|altramuz||S|ali|A2
+mercearia|tienda de alimentación||S|cmp|A2
+sapataria|zapatería||S|cmp|A2
+tabacaria|estanco||S|cmp|A2
+montra|escaparate||S|cmp|A2
+charcutaria|charcutería||S|cmp|A2
+confeitaria|pastelería||S|cmp|A2
+casa de chá|casa de té||S|cmp|A2
+custo|coste||S|cmp|A2
+oferta|oferta||S|cmp|A2
+comprador|comprador||S|cmp|A2
+recibo|recibo||S|cmp|A2
+fatura|factura||S|cmp|A2
+despesa|gasto||S|cmp|A2
+liquidação|rebajas||S|cmp|A2
+embalagem|envase||S|cmp|A2
+frasco|frasco||S|cmp|A2
+litro|litro||S|cmp|A2
+meio litro|medio litro||L|cmp|A2
+grama|gramo||S|cmp|A2
+meia dúzia|media docena||L|cmp|A2
+fatia|loncha||S|cmp|A2
+passe mensal|abono mensual||S|tra|A2
+bilheteiro|taquillero||S|tra|A2
+trânsito|tráfico||S|tra|A2
+engarrafamento|atasco||S|tra|A2
+atrasado|retrasado||A|tra|A2
+carreira de autocarro|línea de autobús||S|tra|A2
+paragem de autocarro|parada de autobús||S|tra|A2
+carta de condução|carné de conducir||S|tra|A2
+furo|pinchazo||S|tra|A2
+matrícula|matrícula||S|tra|A2
+seguro|seguro||S|tra|A2
+pneu|neumático||S|tra|A2
+travão|freno||S|tra|A2
+aluguer de carros|alquiler de coches||S|tra|A2
+posto de combustível|gasolinera||S|tra|A2
+apeadeiro|apeadero||S|tra|A2
+vagão|vagón||S|tra|A2
+passagem de nível|paso a nivel||S|tra|A2
+validar o bilhete|validar el billete||L|tra|A2
+descolagem|despegue||S|tra|A2
+voo direto|vuelo directo||S|tra|A2
+bagagem de mão|equipaje de mano||S|tra|A2
+porta de embarque|puerta de embarque||S|tra|A2
+assistente de bordo|azafato||S|tra|A2
+guiador|manillar||S|tra|A2
+pedal|pedal||S|tra|A2
+corrente|cadena||S|tra|A2
+ciclovia|carril bici||S|tra|A2
+lembrança|recuerdo (souvenir)||S|vig|A2
+feriado|día festivo||S|vig|A2
+aldeamento|complejo turístico||S|vig|A2
+escala|escala||S|vig|A2
+caravana|caravana||S|vig|A2
+bússola|brújula||S|vig|A2
+caminhada|caminata||S|vig|A2
+acampamento|campamento||S|vig|A2
+merenda|merienda||S|vig|A2
+rececionista|recepcionista||S|htl|A2
+registo|registro||S|htl|A2
+diária|precio por noche||S|htl|A2
+quarto individual|habitación individual||S|htl|A2
+vaga|habitación libre||S|htl|A2
+parque de estacionamento|aparcamiento||S|htl|A2
+vista|vista||S|htl|A2
+canal|canal||S|htl|A2
+atendimento|atención al cliente||S|htl|A2
+roupa de cama|ropa de cama||S|htl|A2
+escaldão|quemadura de sol||S|sla|A2
+arranhão|arañazo||S|sla|A2
+tosse|tos||S|sla|A2
+dor nas costas|dolor de espalda||S|sla|A2
+gaze|gasa||S|sla|A2
+picada|picadura||S|sla|A2
+utente|paciente||S|sla|A2
+centro de saúde|centro de salud||S|sla|A2
+análise|análisis||S|sla|A2
+tensão arterial|tensión arterial||S|sla|A2
+gesso|escayola||S|sla|A2
+primeiros socorros|primeros auxilios||S|sla|A2
+medicamento|medicamento||S|sla|A2
+pastilha|pastilla||S|sla|A2
+penso|tirita||S|sla|A2
+seringa|jeringa||S|sla|A2
+colírio|colirio||S|sla|A2
+rouquidão|ronquera||S|sla|A2
+bolha|ampolla||S|sla|A2
+padeiro|panadero||S|pro|A2
+pescador|pescador||S|pro|A2
+pedreiro|albañil||S|pro|A2
+eletricista|electricista||S|pro|A2
+canalizador|fontanero||S|pro|A2
+jardineiro|jardinero||S|pro|A2
+carteiro|cartero||S|pro|A2
+dentista|dentista||S|pro|A2
+veterinário|veterinario||S|pro|A2
+impressora|impresora||S|lav|A2
+envelope|sobre||S|lav|A2
+arquivo|archivador||S|lav|A2
+turno|turno||S|lav|A2
+horário|horario||S|lav|A2
+patrão|jefe (patrón)||S|lav|A2

@@ -1,0 +1,267 @@
+quality assurance|aseguramiento de la calidad||S|lav|C2
+quality control|control de calidad||S|lav|C2
+accreditation|acreditación||S|ist|C2
+certification body|organismo de certificación||S|ist|C2
+harmonization|armonización normativa||S|lav|C2
+benchmarking|comparación con referentes||S|lav|C2
+audit trail|registro de auditoría||S|fin|C2
+conformance|conformidad||S|lav|C2
+nonconformity|no conformidad||S|lav|C2
+calibration|calibración||S|lav|C2
+traceability|trazabilidad||S|lav|C2
+root cause|causa raíz||S|lav|C2
+corrective action|acción correctiva||S|lav|C2
+preventive measure|medida preventiva||S|lav|C2
+statistical process control|control estadístico de procesos||S|lav|C2
+tolerance|tolerancia admisible||S|lav|C2
+specification|especificación técnica||S|lav|C2
+third-party certification|certificación por terceros||S|lav|C2
+seal of approval|sello de aprobación||S|lav|C2
+compliance|cumplimiento normativo||S|ist|C2
+noncompliance|incumplimiento||S|ist|C2
+rework|reproceso||S|lav|C2
+scrap rate|tasa de rechazo||S|lav|C2
+continuous improvement|mejora continua||S|lav|C2
+tort|responsabilidad civil extracontractual||S|ist|C2
+plaintiff|demandante||S|ist|C2
+liable|responsable civilmente||A|ist|C2
+statute of limitations|prescripción de acciones||S|ist|C2
+due process|debido proceso||S|ist|C2
+jurisdiction|competencia jurisdiccional||S|ist|C2
+precedent|jurisprudencia||S|ist|C2
+stare decisis|firmeza del precedente||L|ist|C2
+class action|demanda colectiva||S|ist|C2
+out-of-court settlement|acuerdo extrajudicial||S|ist|C2
+cross-examination|contrainterrogatorio||S|ist|C2
+subpoena|citación judicial||S|ist|C2
+perjury|perjurio||S|ist|C2
+hearsay|testimonio de oídas||S|ist|C2
+mens rea|intención criminal||L|ist|C2
+fiduciary duty|deber fiduciario||S|ist|C2
+indemnification|indemnización||S|ist|C2
+liquidated damages|daños pactados||S|ist|C2
+force majeure|fuerza mayor||S|ist|C2
+tortfeasor|responsable extracontractual||S|ist|C2
+restitution|restitución||S|ist|C2
+gag order|orden de silencio||S|ist|C2
+plea bargain|acuerdo de culpabilidad||S|ist|C2
+grand jury|jurado de acusación||S|ist|C2
+amicus curiae|amigo del tribunal||L|ist|C2
+differential diagnosis|diagnóstico diferencial||S|sla|C2
+prognosis|pronóstico||S|sla|C2
+etiology|etiología||S|sla|C2
+pathophysiology|fisiopatología||S|sla|C2
+contraindication|contraindicación||S|sla|C2
+adverse event|reacción adversa||S|sla|C2
+informed consent|consentimiento informado||S|sla|C2
+triage|triaje||S|sla|C2
+intubation|intubación||S|sla|C2
+biopsy|biopsia||S|sla|C2
+resection|resección||S|sla|C2
+metastasis|metástasis||S|sla|C2
+recurrence|recidiva||S|sla|C2
+idiopathic|idiopático||A|sla|C2
+nosocomial|nosocomial||A|sla|C2
+iatrogenic|iatrogénico||A|sla|C2
+titration|ajuste progresivo de dosis||S|sla|C2
+pharmacokinetics|farmacocinética||S|sla|C2
+bioavailability|biodisponibilidad||S|sla|C2
+stenosis|estenosis||S|sla|C2
+thrombosis|trombosis||S|sla|C2
+prophylaxis|profilaxis||S|sla|C2
+incubation period|período de incubación||S|sla|C2
+epidemiology|epidemiología||S|sla|C2
+morbidity|morbilidad||S|sla|C2
+tensile strength|resistencia a la tracción||S|pro|C2
+yield strength|límite elástico||S|pro|C2
+fatigue|fatiga de materiales||S|pro|C2
+stress-strain curve|curva tensión-deformación||S|pro|C2
+torque|par de giro||S|pro|C2
+load-bearing|portante||A|pro|C2
+truss|cercha||S|pro|C2
+cantilever|voladizo||S|pro|C2
+buttress|contrafuerte||S|pro|C2
+finite element analysis|análisis de elementos finitos||S|pro|C2
+computational fluid dynamics|dinámica de fluidos computacional||S|pro|C2
+clearance|holgura mecánica||S|pro|C2
+resonance|resonancia mecánica||S|pro|C2
+damping|amortiguación||S|pro|C2
+torsion|torsión||S|pro|C2
+wear|desgaste||S|pro|C2
+thermal expansion|dilatación térmica||S|pro|C2
+modulus of elasticity|módulo de elasticidad||S|pro|C2
+composite material|material compuesto||S|pro|C2
+galvanization|galvanización||S|pro|C2
+machining|mecanizado||S|pro|C2
+annealing|recocido||S|pro|C2
+tempering|temple||S|pro|C2
+quenching|enfriamiento rápido de temple||S|pro|C2
+peer review|revisión por pares||S|stu|C2
+tenure|estabilidad docente||S|stu|C2
+sabbatical|año sabático||S|stu|C2
+dissertation|tesis doctoral||S|stu|C2
+null hypothesis|hipótesis nula||S|sci|C2
+literature review|revisión de la literatura||S|stu|C2
+citation index|índice de citación||S|stu|C2
+impact factor|factor de impacto||S|stu|C2
+open access|acceso abierto||S|stu|C2
+reproducibility|reproducibilidad||S|sci|C2
+falsifiability|falsabilidad||S|sci|C2
+paradigm shift|cambio de paradigma||S|sci|C2
+conceptual framework|marco conceptual||S|stu|C2
+empirical evidence|evidencia empírica||S|sci|C2
+fieldwork|trabajo de campo||S|stu|C2
+ethnography|etnografía||S|sci|C2
+longitudinal study|estudio longitudinal||S|sci|C2
+cross-sectional|transversal||A|sci|C2
+double-blind|doble ciego||A|sci|C2
+replication crisis|crisis de replicación||S|sci|C2
+p-hacking|manipulación estadística||S|sci|C2
+cherry-picking|selección sesgada de datos||S|sci|C2
+preprint|prepublicación||S|stu|C2
+monograph|monografía||S|stu|C2
+provenance|procedencia||S|art|C2
+appraisal|tasación||S|fin|C2
+appraiser|tasador||S|pro|C2
+auction house|casa de subastas||S|fin|C2
+gavel|martillo de subastas||S|art|C2
+minimum bid|puja mínima||S|fin|C2
+absentee bid|puja a distancia||S|fin|C2
+patina|pátina||S|art|C2
+gilded|dorado||A|art|C2
+marquetry|marquetería||S|art|C2
+inlay|taracea||S|art|C2
+veneer|chapa de madera noble||S|art|C2
+highboy|cómoda alta de estilo americano||S|art|C2
+estate sale|venta de finca||S|fin|C2
+antiquarian|anticuario||A|art|C2
+curio|pieza de vitrina||S|art|C2
+bibelot|adorno pequeño||S|art|C2
+tchotchke|baratija decorativa||S|art|C2
+bric-a-brac|baratijas variadas||S|art|C2
+mint condition|estado impecable||S|art|C2
+forgery|falsificación||S|art|C2
+facsimile|facsímil||S|art|C2
+first edition|primera edición||S|let|C2
+numismatics|numismática||S|sve|C2
+tasting menu|menú degustación||S|ris|C2
+amuse-bouche|obsequio del chef||S|ris|C2
+palate cleanser|refresco del paladar||S|ris|C2
+sous-vide|cocción al vacío||S|ris|C2
+reduction|fondo reducido||S|ris|C2
+deglazing|desglasado||S|ris|C2
+braising|braseado||S|ali|C2
+confit|confitado||S|ali|C2
+sous-chef|segundo de cocina||S|pro|C2
+mise en place|preparación previa de la cocina||L|ris|C2
+umami|quinto sabor básico||S|ali|C2
+mouthfeel|sensación en boca||S|ali|C2
+plating|emplatado||S|ris|C2
+food pairing|maridaje||S|ris|C2
+terroir|carácter del terreno de cultivo||S|ali|C2
+farm-to-table|de la granja a la mesa||A|ali|C2
+locavore|consumidor de proximidad||S|ali|C2
+molecular gastronomy|gastronomía molecular||S|ris|C2
+tasting notes|notas de cata||S|ris|C2
+sommelier|sumiller||S|pro|C2
+al dente|en su punto||L|ali|C2
+charcuterie|charcutería||S|ali|C2
+affinage|maduración del queso||S|ali|C2
+chiffonade|corte en tiras finas||S|ris|C2
+brunoise|corte en dados pequeños||S|ris|C2
+pleasantry|cumplido cortés||S|cmu|C2
+repartee|réplica chispeante||S|cmu|C2
+banter|pique ingenioso||S|cmu|C2
+name-dropping|presumir de amistades||S|cmu|C2
+schmooze|dar palique interesado||V|cmu|C2
+glad-handing|saludo efusivo e interesado||S|cmu|C2
+hobnob|tratarse con gente influyente||V|cmu|C2
+rub elbows|codearse||E|cmu|C2
+fair-weather friend|amigo de conveniencia||S|rel|C2
+kindred spirit|alma gemela||S|rel|C2
+confidant|confidente||S|rel|C2
+rapprochement|acercamiento||S|rel|C2
+entente|entendimiento||S|ist|C2
+social graces|buenos modales||S|cmu|C2
+faux pas|pasada en falso||S|cmu|C2
+gauche|socialmente torpe||A|ast|C2
+debonair|cortés y elegante||A|ast|C2
+urbane|sofisticado||A|ast|C2
+convivial|de ambiente festivo||A|ast|C2
+bonhomie|bonhomía||S|ast|C2
+camaraderie|camaradería||S|ast|C2
+falling-out|desavenencia||S|rel|C2
+olive branch|ramo de olivo||S|rel|C2
+bury the hatchet|enterrar el hacha de guerra||E|rel|C2
+aerobic threshold|umbral aeróbico||S|spt|C2
+anaerobic|anaeróbico||A|cor|C2
+lactate threshold|umbral de lactato||S|spt|C2
+maximal oxygen uptake|consumo máximo de oxígeno||S|spt|C2
+cardiovascular endurance|resistencia cardiovascular||S|cor|C2
+hypertrophy|hipertrofia||S|cor|C2
+plyometrics|ejercicios pliométricos||S|spt|C2
+isometric|isométrico||A|spt|C2
+overtraining|sobreentrenamiento||S|spt|C2
+tapering|afinado previo a la competición||S|spt|C2
+recovery heart rate|frecuencia cardíaca de recuperación||S|cor|C2
+perceived exertion|esfuerzo percibido||S|cor|C2
+glycogen|glucógeno||S|cor|C2
+glycogen depletion|agotamiento de glucógeno||S|cor|C2
+carb-loading|carga de hidratos||S|ali|C2
+hyponatremia|hiponatremia||S|sla|C2
+creatine|creatina||S|ali|C2
+biomechanics|biomecánica||S|sci|C2
+proprioception|propiocepción||S|cor|C2
+fast-twitch|de contracción rápida||A|cor|C2
+slow-twitch|de contracción lenta||A|cor|C2
+tendonitis|tendinitis||S|sla|C2
+delayed onset muscle soreness|agujetas de aparición tardía||S|cor|C2
+blood doping|dopaje sanguíneo||S|spt|C2
+pedigree|pedigrí||S|ani|C2
+purebred|de raza pura||A|ani|C2
+crossbreeding|cruce de razas||S|ani|C2
+inbreeding|consanguinidad||S|ani|C2
+studbook|libro de registro de razas||S|ani|C2
+dam|madre en la genealogía animal||S|ani|C2
+sire|padre reproductor||S|ani|C2
+colt|potro||S|ani|C2
+filly|potranca||S|ani|C2
+stallion|semental||S|ani|C2
+gelding|caballo castrado||S|ani|C2
+withers|cruz del caballo||S|ani|C2
+piaffe|trote en el sitio||S|spt|C2
+dressage|doma clásica||S|spt|C2
+farrier|herrador||S|pro|C2
+groom|mozo de cuadra||S|pro|C2
+thoroughbred|pura sangre||S|ani|C2
+whelping|parto de la perra||S|ani|C2
+litter|camada||S|ani|C2
+obedience trial|prueba de obediencia||S|ani|C2
+conformation|morfología de exposición||S|ani|C2
+brindle|atigrado||A|ani|C2
+merle|moteado||A|ani|C2
+dewclaw|espolón||S|ani|C2
+storm surge|marea de tormenta||S|cli|C2
+derecho|tormenta de vientos rectos||S|cli|C2
+microburst|microrráfaga||S|cli|C2
+flash flood|inundación relámpago||S|nat|C2
+graupel|granizo blando||S|cli|C2
+squall line|línea de turbonadas||S|cli|C2
+waterspout|tromba marina||S|cli|C2
+dust devil|remolino de polvo||S|cli|C2
+haboob|tormenta de polvo||S|cli|C2
+wind shear|cizalladura del viento||S|cli|C2
+jet stream|corriente en chorro||S|cli|C2
+barometric pressure|presión barométrica||S|cli|C2
+isobar|isobara||S|cli|C2
+occluded front|frente ocluido||S|cli|C2
+wind chill|sensación térmica por viento||S|cli|C2
+supercell|supercélula||S|cli|C2
+nowcasting|predicción inmediata||S|cli|C2
+ensemble forecasting|predicción por conjuntos||S|cli|C2
+numerical weather prediction|predicción numérica del tiempo||S|cli|C2
+anemometer|anemómetro||S|sci|C2
+hydrometeor|hidrometeoro||S|cli|C2
+virga|lluvia que se evapora antes de llegar al suelo||S|cli|C2
+anticyclone|anticiclón||S|cli|C2
+cyclogenesis|ciclogénesis||S|cli|C2

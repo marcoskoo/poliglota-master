@@ -1,0 +1,309 @@
+motherboard|placa base||S|tec|C1
+semiconductor|semiconductor||S|sci|C1
+wafer|oblea de silicio||S|tec|C1
+lithography|litografía (de circuitos)||S|tec|C1
+transistor|transistor||S|tec|C1
+logic gate|puerta lógica||S|tec|C1
+clock speed|velocidad de reloj||S|tec|C1
+cache coherence|coherencia de caché||S|tec|C1
+throughput|caudal de procesamiento||S|tec|C1
+bandwidth|ancho de banda||S|tec|C1
+firmware|firmware (software interno)||S|tec|C1
+register (procesador)|registro (de procesador)||S|tec|C1
+system bus|bus del sistema||S|tec|C1
+multicore|multinúcleo||A|tec|C1
+chipset|conjunto de chips||S|tec|C1
+heat sink|disipador térmico||S|tec|C1
+assembly language|lenguaje ensamblador||S|tec|C1
+embedded system|sistema integrado||S|tec|C1
+quantum computing|informática cuántica||S|tec|C1
+microarchitecture|microarquitectura||S|tec|C1
+prefetch|precargar (datos)||V|tec|C1
+latency|latencia||S|tec|C1
+multithreading|procesamiento multihilo||S|tec|C1
+dataset|conjunto de datos||S|tec|C1
+data mining|minería de datos||S|tec|C1
+big data|macrodatos||S|tec|C1
+algorithm|algoritmo||S|tec|C1
+query (base de datos)|consultar (una base de datos)||V|tec|C1
+schema|esquema (de base de datos)||S|tec|C1
+normalization (datos)|normalización (de datos)||S|tec|C1
+predictive analytics|analítica predictiva||S|tec|C1
+machine learning|aprendizaje automático||S|tec|C1
+outlier|valor atípico||S|tec|C1
+cluster (informática)|clúster (de servidores)||S|tec|C1
+scalability|escalabilidad||S|tec|C1
+data warehouse|almacén de datos||S|tec|C1
+ingest|ingestar (datos)||V|tec|C1
+metadata|metadatos||S|tec|C1
+unstructured|no estructurado||A|tec|C1
+dashboard|cuadro de mando||S|tec|C1
+benchmark|prueba comparativa de rendimiento||S|tec|C1
+granularity|granularidad||S|tec|C1
+correlation|correlación (estadística)||S|sci|C1
+descriptive analytics|analítica descriptiva||S|tec|C1
+petabyte|petabyte||S|tec|C1
+time series|serie temporal||S|tec|C1
+blockchain|cadena de bloques||S|tec|C1
+smart contract|contrato inteligente||S|tec|C1
+cryptocurrency|criptomoneda||S|fin|C1
+token|ficha digital (token)||S|tec|C1
+wallet (digital)|monedero digital||S|tec|C1
+ledger|libro de registro contable||S|fin|C1
+mining (criptomonedas)|minería de criptomonedas||S|tec|C1
+hash function|función hash||S|tec|C1
+consensus mechanism|mecanismo de consenso||S|tec|C1
+decentralized|descentralizado||A|tec|C1
+immutable|inmutable||A|tec|C1
+fork (blockchain)|bifurcación de la cadena||S|tec|C1
+proof of work|prueba de trabajo||S|tec|C1
+gas fee|comisión de red||S|tec|C1
+mint (cripto)|acuñar (un activo digital)||V|tec|C1
+nonce|dato de un solo uso (nonce)||S|tec|C1
+tokenization|tokenización||S|tec|C1
+private key|clave privada||S|tec|C1
+public key|clave pública||S|tec|C1
+cryptographic|criptográfico||A|tec|C1
+distributed ledger|registro distribuido||S|tec|C1
+whitelist|lista blanca||S|tec|C1
+cold storage|almacenamiento en frío||S|tec|C1
+biometrics|biometría||S|tec|C1
+fingerprint sensor|sensor de huella dactilar||S|tec|C1
+facial recognition|reconocimiento facial||S|tec|C1
+iris scan|escaneo de iris||S|tec|C1
+retinal scan|escaneo retinal||S|tec|C1
+voiceprint|huella de voz||S|tec|C1
+gait analysis|análisis de la forma de andar||S|tec|C1
+algorithmic bias|sesgo algorítmico||S|tec|C1
+pattern recognition|reconocimiento de patrones||S|tec|C1
+neural network|red neuronal||S|tec|C1
+feature extraction|extracción de características||S|tec|C1
+feature engineering|ingeniería de características||S|tec|C1
+classifier|clasificador||S|tec|C1
+false positive|falso positivo||S|tec|C1
+false negative|falso negativo||S|sci|C1
+matching score|puntuación de coincidencia||S|tec|C1
+liveness detection|detección de vitalidad||S|tec|C1
+template (biometría)|plantilla biométrica||S|tec|C1
+enrollment (biometría)|alta de datos biométricos||S|tec|C1
+spoofing|suplantación (spoofing)||S|tec|C1
+authentication|autenticación||S|tec|C1
+machine vision|visión artificial||S|tec|C1
+occlusion|oclusión||S|tec|C1
+internet of things|internet de las cosas||S|tec|C1
+smart city|ciudad inteligente||S|cit|C1
+sensor network|red de sensores||S|tec|C1
+actuator|actuador||S|tec|C1
+gateway|puerta de enlace||S|tec|C1
+connectivity|conectividad||S|tec|C1
+interoperability|interoperabilidad||S|tec|C1
+telemetry|telemetría||S|tec|C1
+edge computing|computación periférica||S|tec|C1
+microgrid|microrred||S|tec|C1
+traffic flow|flujo del tráfico||S|cit|C1
+congestion pricing|tarificación por congestión||S|cit|C1
+urban planning|planificación urbana||S|cit|C1
+public utility|compañía de servicios públicos||S|cit|C1
+wearable|dispositivo portable conectado||S|tec|C1
+geofencing|geocercado (localización virtual)||S|tec|C1
+predictive maintenance|mantenimiento predictivo||S|tec|C1
+surveillance|videovigilancia ciudadana||S|cit|C1
+data privacy|privacidad de los datos||S|tec|C1
+remote sensing|teledetección||S|sci|C1
+municipal broadband|banda ancha municipal||S|cit|C1
+urban sprawl|expansión urbana descontrolada||S|cit|C1
+retrofit|reformar (una instalación existente)||V|tec|C1
+virtual reality|realidad virtual||S|tec|C1
+augmented reality|realidad aumentada||S|tec|C1
+immersion|inmersión||S|tec|C1
+headset|casco de realidad virtual||S|tec|C1
+haptic|háptico||A|tec|C1
+avatar|avatar (figura digital)||S|tec|C1
+game engine|motor de videojuego||S|sve|C1
+glitch|fallo técnico intermitente||S|tec|C1
+render|renderizar||V|tec|C1
+frame rate|frecuencia de imágenes||S|tec|C1
+lag|retardo de red||S|tec|C1
+respawn|reaparecer (en el juego)||V|sve|C1
+easter egg|secreto oculto (en un videojuego)||S|sve|C1
+non-player character|personaje no jugable||S|sve|C1
+cutscene|escena cinemática||S|sve|C1
+level up|subir de nivel||V|sve|C1
+loot|botín||S|sve|C1
+side quest|misión secundaria||S|sve|C1
+cybersickness|mareo por realidad virtual||S|sla|C1
+motion tracking|seguimiento de movimiento||S|tec|C1
+field of view|campo de visión||S|cor|C1
+telepresence|telepresencia||S|tec|C1
+metaverse|metaverso||S|tec|C1
+magma chamber|cámara magmática||S|nat|C1
+pyroclastic flow|flujo piroclástico||S|nat|C1
+lava dome|domo de lava||S|nat|C1
+tephra|tefra (material volcánico)||S|nat|C1
+lahar|lahar (flujo de lodo volcánico)||S|nat|C1
+caldera|caldera (cráter hundido)||S|nat|C1
+stratovolcano|estratovolcán||S|nat|C1
+fissure (volcánica)|fisura eruptiva||S|nat|C1
+fumarole|fumarola||S|nat|C1
+seismic wave|onda sísmica||S|nat|C1
+aftershock|réplica (de un terremoto)||S|nat|C1
+epicenter|epicentro||S|nat|C1
+moment magnitude|magnitud de momento||S|nat|C1
+tremor|temblor (sismo leve)||S|nat|C1
+ground deformation|deformación del terreno||S|nat|C1
+volcanic ash|ceniza volcánica||S|nat|C1
+hazard map|mapa de riesgos||S|nat|C1
+landslide|desprendimiento de tierras||S|nat|C1
+fault line|línea de falla||S|nat|C1
+geothermal|geotérmico||A|nat|C1
+dormant|inactivo (volcán dormido)||A|nat|C1
+effusive eruption|erupción efusiva||S|nat|C1
+volcanologist|vulcanólogo||S|pro|C1
+limnology|limnología||S|nat|C1
+wetland|humedal||S|nat|C1
+watershed|cuenca hidrográfica||S|nat|C1
+riverbed|lecho del río||S|nat|C1
+estuary|estuario||S|nat|C1
+oxbow lake|lago en herradura||S|nat|C1
+floodplain|llanura aluvial||S|nat|C1
+sedimentation|sedimentación||S|nat|C1
+eutrophication|eutrofización||S|nat|C1
+algal bloom|floración de algas||S|nat|C1
+turbidity|turbidez||S|nat|C1
+water table|nivel freático||S|nat|C1
+aquifer|acuífero||S|nat|C1
+groundwater|agua subterránea||S|nat|C1
+marsh|marisma||S|nat|C1
+backwater|remanso||S|nat|C1
+peat bog|turbera||S|nat|C1
+riparian|de ribera||A|nat|C1
+meander|meandro||S|nat|C1
+tributary|afluente||S|nat|C1
+upstream|río arriba||D|nat|C1
+hydrology|hidrología||S|nat|C1
+dredging|dragado||S|nat|C1
+agronomy|agronomía||S|nat|C1
+soil fertility|fertilidad del suelo||S|nat|C1
+crop rotation|rotación de cultivos||S|nat|C1
+tillage|labranza||S|nat|C1
+drip irrigation|riego por goteo||S|nat|C1
+hydroponics|hidroponía||S|nat|C1
+precision agriculture|agricultura de precisión||S|nat|C1
+soil erosion|erosión del suelo||S|nat|C1
+composting|compostaje||S|nat|C1
+cover crop|cultivo de cobertura||S|nat|C1
+nitrogen fixation|fijación de nitrógeno||S|sci|C1
+pesticide residue|residuo de pesticida||S|nat|C1
+monoculture|monocultivo||S|nat|C1
+arable|cultivable||A|nat|C1
+topsoil|capa fértil del suelo||S|nat|C1
+loam|tierra franca||S|nat|C1
+terracing|construcción de terrazas||S|nat|C1
+agroforestry|agrosilvicultura||S|nat|C1
+seedling|plantón (planta joven)||S|nat|C1
+threshing|trilla||S|nat|C1
+cross-pollination|polinización cruzada||S|nat|C1
+yield gap|brecha de rendimiento||S|nat|C1
+fallow|en barbecho||A|nat|C1
+aquaculture|acuicultura||S|ani|C1
+animal husbandry|cría de animales||S|ani|C1
+dairy farming|ganadería lechera||S|ani|C1
+feedlot|engorde intensivo de ganado||S|ani|C1
+grazing|pastoreo||S|ani|C1
+pastureland|tierras de pastoreo||S|ani|C1
+bycatch|captura incidental||S|ani|C1
+trawler|buque arrastrero||S|ani|C1
+longline fishing|pesca con palangre||S|ani|C1
+fish farm|piscifactoría||S|ani|C1
+hatchery|criadero de alevines||S|ani|C1
+overfishing|sobrepesca||S|ani|C1
+quota (pesquera)|cuota de pesca||S|ani|C1
+spawning|desove||S|ani|C1
+tagging|marcado (de animales)||S|ani|C1
+antibiotic resistance|resistencia a los antibióticos||S|sla|C1
+slaughter|sacrificar (ganado)||V|ani|C1
+slaughterhouse|matadero||S|ani|C1
+fodder|forraje||S|ani|C1
+silage|ensilaje||S|ani|C1
+shearing|esquilado||S|ani|C1
+free-range|de cría en libertad||A|ani|C1
+artificial insemination|inseminación artificial||S|ani|C1
+silviculture|silvicultura||S|nat|C1
+afforestation|forestación||S|nat|C1
+deforestation|deforestación||S|nat|C1
+canopy|dosel del bosque||S|nat|C1
+undergrowth|maleza||S|nat|C1
+understory|estrato arbustivo del bosque||S|nat|C1
+clear-cutting|tala rasa||S|nat|C1
+logging|explotación forestal||S|nat|C1
+timber|madera de construcción||S|nat|C1
+wildfire|incendio forestal||S|nat|C1
+deadwood|madera muerta||S|nat|C1
+firebreak|cortafuegos||S|nat|C1
+controlled burn|quema controlada||S|nat|C1
+arson|incendio provocado (delito)||S|nat|C1
+ember|brasa||S|nat|C1
+bark beetle|escarabajo descortezador||S|nat|C1
+conifer|conífera||S|nat|C1
+deciduous|caducifolio||A|nat|C1
+old-growth|primario (bosque antiguo)||A|nat|C1
+dendrochronology|dendrocronología||S|sci|C1
+sapling|arbolillo (árbol joven)||S|nat|C1
+clearing|claro (del bosque)||S|nat|C1
+thinning|clareo (del bosque)||S|nat|C1
+circular economy|economía circular||S|att|C1
+landfill|vertedero||S|nat|C1
+upcycling|reutilización de mayor valor||S|nat|C1
+single-use|de un solo uso||A|nat|C1
+compostable|compostable||A|nat|C1
+e-waste|residuos electrónicos||S|nat|C1
+hazardous waste|residuos peligrosos||S|nat|C1
+thermal treatment|tratamiento térmico (de residuos)||S|nat|C1
+curbside recycling|reciclaje domiciliario||S|nat|C1
+scrap metal|chatarra||S|nat|C1
+remanufacture|remanufacturar||V|tec|C1
+refurbish|reponer y poner a punto||V|tec|C1
+throwaway|de usar y tirar||A|att|C1
+carbon footprint|huella de carbono||S|nat|C1
+zero waste|residuo cero||S|nat|C1
+bottle bill|ley de retorno de envases||S|nat|C1
+leachate|lixiviado||S|nat|C1
+salvage|recuperar (materiales)||V|nat|C1
+illegal dumping|vertido ilegal||S|nat|C1
+closed-loop|de circuito cerrado||A|nat|C1
+waste stream|flujo de residuos||S|nat|C1
+effluent|efluente||S|nat|C1
+runoff|escorrentía||S|nat|C1
+discerning|discernidor (que sabe apreciar)||A|ast|C1
+astute|astuto||A|ast|C1
+judicious|ponderado (con buen juicio)||A|ast|C1
+circumspect|circunspecto (cauteloso)||A|ast|C1
+impetuous|impetuoso||A|emo|C1
+obstinate|obstinado (porfiado)||A|ast|C1
+headstrong|testarudo||A|ast|C1
+self-effacing|que se resta importancia||A|ast|C1
+gregarious|sociable (gregario)||A|emo|C1
+fastidious|quisquilloso (escrupuloso)||A|ast|C1
+pedantic|pedante||A|ast|C1
+dogmatic|dogmático||A|ast|C1
+magnanimous|magnánimo||A|ast|C1
+spiteful|rencoroso (malicioso)||A|emo|C1
+vindictive|vengativo||A|ast|C1
+sycophantic|adulador (servil)||A|ast|C1
+gullible|crédulo (que se lo traga todo)||A|ast|C1
+imperious|imperioso (dominante)||A|ast|C1
+affable|afable||A|emo|C1
+frivolous|frívolo||A|ast|C1
+indolent|indolente||A|ast|C1
+recalcitrant|rebelde (indócil)||A|ast|C1
+perspicacious|perspicaz||A|ast|C1
+aver|aseverar||V|cmu|C1
+contend|sostener (defender una postura)||V|cmu|C1
+rebut|refutar||V|cmu|C1
+rebuttal|refutación||S|cmu|C1
+expound|exponer (desarrollar un argumento)||V|cmu|C1
+opine|opinar (dar su parecer)||V|cmu|C1
+profess|profesar (declarar)||V|cmu|C1
+interject|interrumpir con un comentario||V|cmu|C1
+retort|replicar con agudeza||V|cmu|C1
+chime in|intervenir en la conversación||V|cmu|C1

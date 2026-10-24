@@ -1,0 +1,267 @@
+ceasefire|alto el fuego||S|ist|C2
+armistice|armisticio||S|ist|C2
+peacekeeping|mantenimiento de la paz||S|ist|C2
+extradition|extradición||S|ist|C2
+nonproliferation|no proliferación||S|ist|C2
+disarmament|desarme||S|ist|C2
+insurgency|insurgencia||S|ist|C2
+counterinsurgency|contrainsurgencia||S|ist|C2
+paramilitary|paramilitar||A|ist|C2
+escalation|escalada||S|ist|C2
+de-escalation|desescalada||S|ist|C2
+deterrence|disuasión||S|ist|C2
+incursion|incursión||S|ist|C2
+buffer zone|zona de amortiguamiento||L|ist|C2
+no-fly zone|zona de exclusión aérea||L|ist|C2
+humanitarian corridor|corredor humanitario||L|ist|C2
+displaced persons|personas desplazadas||L|ist|C2
+multilateralism|multilateralismo||S|ist|C2
+ratification|ratificación||S|ist|C2
+shuttle diplomacy|diplomacia de vaivén||L|ist|C2
+back channel|canal discreto||L|ist|C2
+soft power|poder blando||L|ist|C2
+brinkmanship|juego al borde del abismo||S|ist|C2
+ethnic cleansing|limpieza étnica||L|ist|C2
+supranational|supranacional||A|ist|C2
+intergovernmental|intergubernamental||A|ist|C2
+enlargement|ampliación||S|ist|C2
+accession|adhesión||S|ist|C2
+harmonization|armonización||S|ist|C2
+convergence|convergencia||S|ist|C2
+subsidiarity|subsidiariedad||S|ist|C2
+customary law|derecho consuetudinario||L|ist|C2
+signatory|estado firmante||S|ist|C2
+binding resolution|resolución vinculante||L|ist|C2
+peacebuilding|construcción de la paz||S|ist|C2
+statecraft|arte de gobernar||S|ist|C2
+summitry|diplomacia de cumbres||S|ist|C2
+observer status|estatus de observador||L|ist|C2
+free movement|libre circulación||L|ist|C2
+customs union|unión aduanera||L|ist|C2
+single market|mercado único||L|ist|C2
+monetary union|unión monetaria||L|ist|C2
+single currency|moneda única||L|ist|C2
+opt-out|cláusula de exclusión||S|ist|C2
+conditionality|condicionalidad||S|ist|C2
+quorum|quórum||S|ist|C2
+plenary|sesión plenaria||S|ist|C2
+ratify|ratificar||V|ist|C2
+welfare state|Estado de bienestar||L|ist|C2
+social safety net|red de protección social||L|ist|C2
+unemployment benefit|prestación por desempleo||L|ist|C2
+means-tested|sujeto a prueba de rentas||A|ist|C2
+universal basic income|renta básica universal||L|ist|C2
+entitlement program|programa de prestaciones garantizadas||L|ist|C2
+pension fund|fondo de pensiones||L|ist|C2
+contributory|contributivo||A|ist|C2
+noncontributory|no contributivo||A|ist|C2
+public spending|gasto público||L|ist|C2
+redistribution|redistribución||S|ist|C2
+subsidized housing|vivienda protegida||L|ist|C2
+universal healthcare|sanidad universal||L|ist|C2
+copayment|copago||S|ist|C2
+out-of-pocket|de pago directo||A|ist|C2
+social insurance|seguro social||L|ist|C2
+poverty trap|trampa de la pobreza||L|ist|C2
+welfare dependency|dependencia asistencial||L|ist|C2
+decommodification|desmercantilización||S|ist|C2
+social mobility|movilidad social||L|ist|C2
+marginalization|marginación||S|ist|C2
+voluntary sector|tercer sector||L|ist|C2
+charitable giving|donación benéfica||L|ist|C2
+food stamp|vale de alimentos||S|ist|C2
+grassroots|base social||S|att|C2
+sit-in|sentada||S|att|C2
+walkout|abandono del puesto en protesta||S|att|C2
+picket line|piquete de huelga||L|att|C2
+wildcat strike|huelga salvaje||L|att|C2
+hunger strike|huelga de hambre||L|att|C2
+civil disobedience|desobediencia civil||L|att|C2
+nonviolent resistance|resistencia noviolenta||L|att|C2
+direct action|acción directa||L|att|C2
+encampment|acampada||S|att|C2
+teach-in|asamblea formativa||S|att|C2
+mutual aid|ayuda mutua||L|att|C2
+consciousness-raising|toma de conciencia||S|att|C2
+mobilization|movilización||S|att|C2
+countermovement|contramovimiento||S|att|C2
+backlash|reacción adversa||S|att|C2
+framing|encuadre||S|att|C2
+repertoire of contention|repertorio de protesta||L|att|C2
+politicization|politización||S|att|C2
+dissent|disidencia||S|att|C2
+crackdown|represión||S|att|C2
+curfew|toque de queda||S|att|C2
+mass arrest|detención masiva||L|att|C2
+pamphleteering|propaganda panfletaria||S|att|C2
+accountability|rendición de cuentas||S|ist|C2
+whistleblower|alertador||S|ist|C2
+bribery|soborno||S|ist|C2
+kickback|comisión ilegal||S|ist|C2
+embezzlement|malversación||S|ist|C2
+graft|enriquecimiento ilícito||S|ist|C2
+cronyism|amiguismo||S|ist|C2
+nepotism|nepotismo||S|ist|C2
+clientelism|clientelismo||S|ist|C2
+quid pro quo|contrapartida||L|ist|C2
+conflict of interest|conflicto de intereses||L|ist|C2
+disclosure|revelación de información||S|ist|C2
+asset declaration|declaración de bienes||L|ist|C2
+incompatibility|incompatibilidad de cargos||S|ist|C2
+oversight|fiscalización||S|ist|C2
+ombudsman|defensor del pueblo||S|ist|C2
+audit trail|registro de auditoría||L|ist|C2
+slush fund|caja B||L|ist|C2
+influence peddling|tráfico de influencias||L|ist|C2
+obstruction of justice|obstrucción a la justicia||L|ist|C2
+plea bargain|acuerdo con la fiscalía||L|ist|C2
+immunity|inmunidad procesal||S|ist|C2
+statute of limitations|prescripción del delito||L|ist|C2
+recusal|recusación||S|ist|C2
+impeachment|proceso de destitución||S|ist|C2
+demography|demografía||S|ist|C2
+fertility rate|tasa de fecundidad||L|ist|C2
+population aging|envejecimiento de la población||L|ist|C2
+population pyramid|pirámide de población||L|ist|C2
+chain migration|migración en cadena||L|ist|C2
+return migration|migración de retorno||L|ist|C2
+diaspora|diáspora||S|ist|C2
+diasporic|diaspórico||A|ist|C2
+expatriate|expatriado||S|ist|C2
+naturalization|adquisición de la nacionalidad||S|ist|C2
+deportation|deportación||S|ist|C2
+asylum seeker|solicitante de asilo||L|ist|C2
+forced displacement|desplazamiento forzoso||L|ist|C2
+statelessness|apatridia||S|ist|C2
+push factor|factor de expulsión||L|ist|C2
+pull factor|factor de atracción||L|ist|C2
+nativism|nativismo||S|ist|C2
+social cohesion|cohesión social||L|ist|C2
+vital statistics|movimiento natural de la población||L|ist|C2
+dependency ratio|tasa de dependencia||L|ist|C2
+household survey|encuesta de hogares||L|ist|C2
+suburbanization|suburbanización||S|ist|C2
+melting pot|crisol de culturas||L|ist|C2
+plurality|pluralidad||S|ist|C2
+guest worker|trabajador invitado||L|ist|C2
+iconography|iconografía||S|art|C2
+iconology|iconología||S|art|C2
+emblematic|emblemático||A|art|C2
+heraldry|heráldica||S|art|C2
+blazon|blasón||S|art|C2
+coat of arms|escudo de armas||L|art|C2
+attribute|atributo de un santo||S|art|C2
+allegorical|alegórico||A|art|C2
+personification|personificación||S|art|C2
+numinous|numinoso||A|art|C2
+apotropaic|apotropaico||A|art|C2
+totemic|totémico||A|art|C2
+animism|animismo||S|art|C2
+syncretism|sincretismo||S|art|C2
+iconoclasm|iconoclastia||S|art|C2
+aniconism|aniconismo||S|art|C2
+visual rhetoric|retórica visual||L|art|C2
+signifier|significante||S|art|C2
+signified|lo significado||S|art|C2
+semiotics|semiótica||S|art|C2
+mythography|mitografía||S|art|C2
+vanitas|vanitas||S|art|C2
+memento mori|memento mori||L|art|C2
+hagiography|hagiografía||S|art|C2
+goldsmithing|orfebrería||S|art|C2
+silversmithing|platería||S|art|C2
+filigree|filigrana||S|art|C2
+chasing|cincelado||S|art|C2
+gilding|doradura||S|art|C2
+inlay|taracea||S|art|C2
+marquetry|marquetería||S|art|C2
+glaze|vidriado||S|art|C2
+kiln|horno de cerámica||S|art|C2
+throwing|torneado||S|art|C2
+stoneware|gres||S|art|C2
+earthenware|loza||S|art|C2
+brocade|brocado||S|art|C2
+damask|tejido de damasco||S|art|C2
+upholstery|tapicería||S|art|C2
+cabinetmaking|ebanistería||S|art|C2
+joinery|carpintería de armar||S|art|C2
+dovetail joint|unión de cola de milano||L|art|C2
+art deco|art déco||L|art|C2
+art nouveau|modernismo||L|art|C2
+industrial design|diseño industrial||L|art|C2
+ergonomics|ergonomía||S|art|C2
+rapid prototyping|prototipado rápido||L|art|C2
+upcycling|suprarreciclaje||S|art|C2
+shutter speed|velocidad de obturación||L|art|C2
+depth of field|profundidad de campo||L|art|C2
+long exposure|exposición larga||L|art|C2
+double exposure|doble exposición||L|art|C2
+film grain|grano de la película||L|art|C2
+contact sheet|hoja de contactos||L|art|C2
+cyanotype|cianotipo||S|art|C2
+photomontage|fotomontaje||S|art|C2
+assemblage|ensamblaje||S|art|C2
+found object|objeto encontrado||L|art|C2
+installation|instalación artística||S|art|C2
+performance art|arte de acción||L|art|C2
+conceptualism|conceptualismo||S|art|C2
+site-specific|específico del lugar||A|art|C2
+video art|videoarte||L|art|C2
+retouching|retoque fotográfico||S|art|C2
+viewfinder|visor||S|art|C2
+anamorphic|anamórfico||A|art|C2
+trompe-l'oeil|trampantojo||S|art|C2
+minimalism|minimalismo||S|art|C2
+abstract expressionism|expresionismo abstracto||L|art|C2
+curator|comisario de exposición||S|art|C2
+biennial|bienal||S|art|C2
+daguerreotype|daguerrotipo||S|art|C2
+load-bearing wall|muro de carga||L|art|C2
+flying buttress|arbotante||S|art|C2
+groin vault|bóveda de arista||L|art|C2
+barrel vault|bóveda de cañón||L|art|C2
+pendentive|pechina||S|art|C2
+tympanum|tímpano||S|art|C2
+architrave|arquitrabe||S|art|C2
+entablature|entablamento||S|art|C2
+colonnade|columnata||S|art|C2
+loggia|logia||S|art|C2
+clerestory|claristorio||S|art|C2
+rose window|rosetón||L|art|C2
+string course|línea de imposta||L|art|C2
+corbel|ménsula||S|art|C2
+cantilever|voladizo||S|art|C2
+truss|cercha||S|art|C2
+curtain wall|muro cortina||L|art|C2
+brutalism|brutalismo||S|art|C2
+gothic revival|neogótico||L|art|C2
+deconstructivism|deconstructivismo||S|art|C2
+adaptive reuse|reutilización adaptativa||L|art|C2
+setback|retranqueo||S|art|C2
+axonometric|axonométrico||A|art|C2
+patina|pátina||S|art|C2
+green building|edificación sostenible||L|art|C2
+choreographer|coreógrafo||S|art|C2
+choreography|coreografía||S|art|C2
+barre|barra de ballet||S|art|C2
+pointe work|trabajo de puntas||L|art|C2
+pirouette|pirueta||S|art|C2
+arabesque|arabesca||S|art|C2
+pas de deux|pas de deux||L|art|C2
+port de bras|trabajo de brazos||L|art|C2
+contact improvisation|improvisación de contacto||L|art|C2
+contemporary dance|danza contemporánea||L|art|C2
+balletomane|balletómano||S|art|C2
+principal dancer|bailarín principal||L|art|C2
+virtuosity|virtuosismo||S|art|C2
+kinesthesia|cinestesia||S|art|C2
+prop|atrezo||S|art|C2
+stagecraft|técnica escénica||S|art|C2
+rigging|tramoya||S|art|C2
+scenography|escenografía||S|art|C2
+set design|diseño de escenografía||L|art|C2
+lighting plot|plano de luces||L|art|C2
+soundscape|paisaje sonoro||S|art|C2
+matinee|función de tarde||S|art|C2
+standing ovation|ovación cerrada||L|art|C2
+green room|sala de artistas||L|art|C2

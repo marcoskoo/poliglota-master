@@ -1,0 +1,267 @@
+vesting|consolidación registral||S|ist|C2
+quitclaim deed|escritura de renuncia de derechos||L|ist|C2
+reconveyance|cancelación hipotecaria||S|ist|C2
+notary public|notario público||L|pro|C2
+escheat|reversión de bienes sin herederos||S|ist|C2
+rulemaking|elaboración normativa||S|ist|C2
+administrative law judge|juez administrativo||L|ist|C2
+notice and comment|trámite de alegaciones||L|ist|C2
+quorum|quórum||S|ist|C2
+ultra vires|fuera de las competencias||L|ist|C2
+estoppel|preclusión||S|ist|C2
+mandamus|recurso de mandato||S|ist|C2
+certiorari|recurso de casación federal||S|ist|C2
+en banc|en pleno||L|ist|C2
+per curiam|sin firma individual||L|ist|C2
+stay of execution|suspensión de la ejecución||L|ist|C2
+temporary restraining order|orden cautelar urgente||L|ist|C2
+class action|demanda colectiva||L|ist|C2
+consent decree|decreto de conformidad||L|ist|C2
+plea bargain|acuerdo de culpabilidad||L|ist|C2
+judicial review|control jurisdiccional||L|ist|C2
+standing|legitimación procesal||S|ist|C2
+moot|sin objeto procesal||A|ist|C2
+exhaustion of remedies|agotamiento de recursos||L|ist|C2
+preemption|primacía normativa||S|ist|C2
+sunset clause|cláusula de caducidad||L|ist|C2
+notice of appeal|escrito de apelación||L|ist|C2
+amicus curiae|amigo del tribunal||L|ist|C2
+docket|expediente judicial||S|ist|C2
+remand|reenvío judicial||S|ist|C2
+substantive due process|debido proceso sustantivo||L|ist|C2
+recidivism|reincidencia||S|ist|C2
+recidivist|reincidente||S|ist|C2
+deterrence|disuasión||S|ist|C2
+incapacitation|neutralización del delincuente||S|ist|C2
+retribution|retribución punitiva||S|ist|C2
+labeling theory|teoría del etiquetado||L|ist|C2
+broken windows theory|teoría de las ventanas rotas||L|ist|C2
+penitentiary|penitenciaría||S|ist|C2
+parole board|junta de libertad condicional||L|ist|C2
+solitary confinement|aislamiento penitenciario||L|ist|C2
+death row|corredor de la muerte||L|ist|C2
+life without parole|cadena perpetua sin libertad condicional||L|ist|C2
+restorative justice|justicia restaurativa||L|ist|C2
+victimology|victimología||S|ist|C2
+criminology|criminología||S|ist|C2
+forensics|criminalística||S|ist|C2
+offender profiling|perfilación criminal||L|ist|C2
+stakeout|puesto de vigilancia||S|ist|C2
+entrapment|inducción al delito||S|ist|C2
+mandatory minimum|mínimo penal obligatorio||L|ist|C2
+hotspot policing|vigilancia de puntos calientes||L|ist|C2
+cybercrime|ciberdelincuencia||S|ist|C2
+correctional facility|centro penitenciario||L|ist|C2
+recuse|recusar||V|ist|C2
+duress|coacción||S|ist|C2
+accession|adhesión||S|ist|C2
+signatory|signatario||S|ist|C2
+multilateralism|multilateralismo||S|ist|C2
+unilateralism|unilateralismo||S|ist|C2
+extraterritoriality|extraterritorialidad||S|ist|C2
+extradition|extradición||S|ist|C2
+non-refoulement|principio de no devolución||L|ist|C2
+customary international law|derecho internacional consuetudinario||L|ist|C2
+treaty body|órgano de tratados||L|ist|C2
+reservation|reserva convencional||S|ist|C2
+travaux preparatoires|trabajos preparatorios||L|ist|C2
+jus cogens|norma imperativa||L|ist|C2
+comity|cortesía internacional||S|ist|C2
+diplomatic immunity|inmunidad diplomática||L|ist|C2
+letter of credence|carta credencial||L|ist|C2
+armistice|armisticio||S|ist|C2
+occupying power|potencia ocupante||L|ist|C2
+annexation|anexión||S|ist|C2
+secession|secesión||S|ist|C2
+self-determination|libre determinación||S|ist|C2
+suzerainty|señorío soberano||S|ist|C2
+pacta sunt servanda|los pactos deben cumplirse||L|ist|C2
+entente|acuerdo entre potencias||S|ist|C2
+jus ad bellum|derecho a la guerra||L|ist|C2
+peacekeeping|mantenimiento de la paz||S|ist|C2
+sanctions regime|régimen de sanciones||L|ist|C2
+limited liability company|sociedad de responsabilidad limitada||L|fin|C2
+bylaws|estatutos sociales||S|fin|C2
+fiduciary duty|deber fiduciario||L|fin|C2
+divestiture|desinversión||S|fin|C2
+hostile takeover|opa hostil||L|fin|C2
+tender offer|oferta pública de adquisición||L|fin|C2
+proxy fight|batalla de representación||L|fin|C2
+poison pill|píldora venenosa||L|fin|C2
+buyout|adquisición total||S|fin|C2
+leveraged buyout|compra apalancada||L|fin|C2
+insolvency|insolvencia||S|fin|C2
+receivership|administración concursal||S|fin|C2
+security interest|garantía real||L|fin|C2
+indemnification|obligación de indemnizar||S|fin|C2
+force majeure|fuerza mayor||L|fin|C2
+preferred stock|acción preferente||L|fin|C2
+dilution|dilución de capital||S|fin|C2
+stock option|opción sobre acciones||L|fin|C2
+pierce the corporate veil|levantamiento del velo social||L|fin|C2
+debenture|obligación negociable||S|fin|C2
+encumbered|gravado||A|fin|C2
+wind up|liquidar una sociedad||L|fin|C2
+going concern|empresa en funcionamiento||L|fin|C2
+audit trail|registro de auditoría||L|fin|C2
+shareholder derivative suit|demanda social derivada||L|fin|C2
+covenant|pacto financiero||S|fin|C2
+collective bargaining|negociación colectiva||L|lav|C2
+collective bargaining agreement|convenio colectivo||L|lav|C2
+wildcat strike|huelga salvaje||L|lav|C2
+sympathy strike|huelga de solidaridad||L|lav|C2
+lockout|cierre patronal||S|lav|C2
+scab|esquirol||S|lav|C2
+grievance procedure|procedimiento de reclamaciones||L|lav|C2
+seniority|antigüedad laboral||S|lav|C2
+tenure|plaza en propiedad||S|lav|C2
+constructive dismissal|despido indirecto||L|lav|C2
+comp time|permiso compensatorio||L|lav|C2
+shift differential|plus de turno||L|lav|C2
+hazard pay|plus de peligrosidad||L|lav|C2
+back pay|salarios atrasados||L|lav|C2
+unemployment insurance|seguro de desempleo||L|lav|C2
+workers' compensation|indemnización por accidente laboral||L|lav|C2
+closed shop|obligación de afiliación sindical||L|lav|C2
+work-to-rule|huelga de celo||L|lav|C2
+shop steward|delegado sindical||L|lav|C2
+payroll tax|cotización social||L|fin|C2
+protected concerted activity|actividad sindical protegida||L|lav|C2
+featherbedding|sobreocupación pactada de puestos||S|lav|C2
+duty of fair representation|deber de representación justa||L|lav|C2
+secondary boycott|boicot secundario||L|lav|C2
+cooling-off period|periodo de enfriamiento||L|lav|C2
+retractor|separador quirúrgico||S|sla|C2
+forceps|fórceps||S|sla|C2
+cautery|cauterio||S|sla|C2
+electrocautery|electrocauterización||S|sla|C2
+suture|sutura||S|sla|C2
+ligature|ligadura||S|sla|C2
+hemostat|pinza hemostática||S|sla|C2
+trocar|trócar||S|sla|C2
+cannula|cánula||S|sla|C2
+speculum|espéculo||S|sla|C2
+curettage|legrado||S|sla|C2
+debridement|desbridamiento||S|sla|C2
+laparotomy|laparotomía||S|sla|C2
+thoracotomy|toracotomía||S|sla|C2
+resection|resección||S|sla|C2
+sterile field|campo estéril||L|sla|C2
+scrub in|lavarse para el quirófano||L|sla|C2
+surgical drape|paño quirúrgico||L|sla|C2
+keloid|queloide||S|sla|C2
+fascia|fascia||S|cor|C2
+peritoneum|peritoneo||S|cor|C2
+omentum|epiplón||S|cor|C2
+irrigation|irrigación quirúrgica||S|sla|C2
+hemostasis|hemostasia||S|sla|C2
+incise|incidir||V|sla|C2
+laparoscope|laparoscopio||S|sla|C2
+arrhythmia|arritmia||S|sla|C2
+tachycardia|taquicardia||S|sla|C2
+bradycardia|bradicardia||S|sla|C2
+fibrillation|fibrilación||S|sla|C2
+defibrillation|desfibrilación||S|sla|C2
+angioplasty|angioplastia||S|sla|C2
+stent|endoprótesis vascular||S|sla|C2
+atherosclerosis|aterosclerosis||S|sla|C2
+myocardial infarction|infarto de miocardio||L|sla|C2
+ischemia|isquemia||S|sla|C2
+embolism|embolia||S|sla|C2
+pulmonary embolism|embolia pulmonar||L|sla|C2
+thrombosis|trombosis||S|sla|C2
+emphysema|enfisema||S|sla|C2
+bronchiectasis|bronquiectasia||S|sla|C2
+spirometry|espirometría||S|sla|C2
+ventilator|respirador mecánico||S|sla|C2
+hypoxia|hipoxia||S|sla|C2
+cyanosis|cianosis||S|sla|C2
+pulmonary fibrosis|fibrosis pulmonar||L|sla|C2
+pleural effusion|derrame pleural||L|sla|C2
+auscultation|auscultación||S|sla|C2
+palpation|palpación||S|sla|C2
+percussion|percusión diagnóstica||S|sla|C2
+ejection fraction|fracción de eyección||L|sla|C2
+cardiac catheterization|cateterismo cardíaco||L|sla|C2
+stress test|prueba de esfuerzo cardíaco||L|sla|C2
+thyroidectomy|tiroidectomía||S|sla|C2
+hypothalamus|hipotálamo||S|cor|C2
+pituitary|hipófisis||S|cor|C2
+adrenal gland|glándula suprarrenal||L|cor|C2
+cortisol|cortisol||S|sla|C2
+insulin resistance|resistencia a la insulina||L|sla|C2
+insulin pump|bomba de insulina||L|sla|C2
+hyperglycemia|hiperglucemia||S|sla|C2
+hypoglycemia|hipoglucemia||S|sla|C2
+ketosis|cetosis||S|sla|C2
+ketoacidosis|cetoacidosis||S|sla|C2
+metabolic syndrome|síndrome metabólico||L|sla|C2
+homeostasis|homeostasis||S|sla|C2
+epinephrine|epinefrina||S|sla|C2
+norepinephrine|noradrenalina||S|sla|C2
+oxytocin|oxitocina||S|sla|C2
+melatonin|melatonina||S|sla|C2
+goiter|bocio||S|sla|C2
+adipose tissue|tejido adiposo||L|cor|C2
+leptin|leptina||S|sla|C2
+hypothyroidism|hipotiroidismo||S|sla|C2
+glucagon|glucagón||S|sla|C2
+prolactin|prolactina||S|sla|C2
+hypopituitarism|hipopituitarismo||S|sla|C2
+aldosterone|aldosterona||S|sla|C2
+endocrine|endocrino||A|sla|C2
+hirsutism|hirsutismo||S|sla|C2
+atopic dermatitis|dermatitis atópica||L|sla|C2
+psoriasis|psoriasis||S|sla|C2
+urticaria|urticaria||S|sla|C2
+pruritus|prurito||S|sla|C2
+melanoma|melanoma||S|sla|C2
+carcinoma|carcinoma||S|sla|C2
+melanocyte|melanocito||S|sla|C2
+dermabrasion|dermoabrasión||S|sla|C2
+topical|de uso tópico||A|sla|C2
+corticosteroid|corticosteroide||S|sla|C2
+mast cell|mastocito||L|sla|C2
+anaphylaxis|anafilaxia||S|sla|C2
+allergen|alérgeno||S|sla|C2
+desensitization|desensibilización||S|sla|C2
+patch test|prueba del parche||L|sla|C2
+prick test|prueba de punción||L|sla|C2
+subcutaneous|subcutáneo||A|sla|C2
+sebum|sebo||S|sla|C2
+sebaceous gland|glándula sebácea||L|sla|C2
+macule|mácula||S|sla|C2
+papule|pápula||S|sla|C2
+nodule|nódulo||S|sla|C2
+lichenification|liquenificación||S|sla|C2
+wheal|roncha||S|sla|C2
+photodamage|fotoenvejecimiento||S|sla|C2
+skin barrier|barrera cutánea||L|sla|C2
+epidermal|epidérmico||A|sla|C2
+metastasis|metástasis||S|sla|C2
+metastasize|metastatizar||V|sla|C2
+tumor suppressor gene|gen supresor de tumores||L|sci|C2
+oncology|oncología||S|sla|C2
+radiotherapy|radioterapia||S|sla|C2
+immunotherapy|inmunoterapia||S|sla|C2
+remission|remisión||S|sla|C2
+recurrence|recidiva||S|sla|C2
+palliative care|cuidados paliativos||L|sla|C2
+hospice|unidad de cuidados terminales||S|sla|C2
+end-of-life care|cuidados al final de la vida||L|sla|C2
+do-not-resuscitate order|orden de no reanimar||L|sla|C2
+advance directive|testamento vital||L|sla|C2
+opioid|opioide||S|sla|C2
+sedation|sedación paliativa||S|sla|C2
+prognosis|pronóstico||S|sla|C2
+mastectomy|mastectomía||S|sla|C2
+lymph node|ganglio linfático||L|cor|C2
+sentinel node|ganglio centinela||L|sla|C2
+lymphedema|linfedema||S|sla|C2
+carcinogen|carcinógeno||S|sla|C2
+in situ|in situ (no invasivo)||L|sla|C2
+adjuvant|adyuvante||A|sla|C2
+survival rate|tasa de supervivencia||L|sla|C2
+cancer survivorship|supervivencia al cáncer||S|sla|C2
+grading|gradación tumoral||S|sla|C2
+bereavement|duelo||S|emo|C2

@@ -1,0 +1,267 @@
+tort|ilícito civil||S|ist|C2
+tortfeasor|autor del ilícito civil||S|ist|C2
+indemnification|indemnización||S|ist|C2
+indemnify|indemnizar||V|ist|C2
+defendant|demandado||S|ist|C2
+plaintiff|demandante||S|ist|C2
+breach of contract|incumplimiento de contrato||L|ist|C2
+fiduciary duty|deber fiduciario||L|ist|C2
+liability|responsabilidad legal||S|ist|C2
+negligence|negligencia||S|ist|C2
+statute of limitations|prescripción de la acción||L|ist|C2
+punitive damages|daños punitivos||L|ist|C2
+injunction|medida cautelar||S|ist|C2
+restitution|restitución||S|ist|C2
+lien|gravamen||S|ist|C2
+easement|servidumbre de paso||S|ist|C2
+estoppel|preclusión||S|ist|C2
+severable|separable (cláusula)||A|ist|C2
+force majeure|fuerza mayor||L|ist|C2
+rescind|resolver (un contrato)||V|ist|C2
+covenant|cláusula contractual||S|ist|C2
+misrepresentation|alegación falsa||S|ist|C2
+undue influence|coacción indebida||L|ist|C2
+duress|intimidación||S|ist|C2
+novation|novación contractual||S|ist|C2
+specific performance|cumplimiento forzoso||L|ist|C2
+arraignment|comparecencia para lectura de cargos||S|ist|C2
+grand jury|jurado de acusación||L|ist|C2
+plea bargain|acuerdo de culpabilidad||L|ist|C2
+subpoena|citación judicial||S|ist|C2
+perjury|perjurio||S|ist|C2
+contempt of court|desacato al tribunal||L|ist|C2
+hearsay|prueba de oídas||S|ist|C2
+cross-examination|contrainterrogatorio||S|ist|C2
+venue|fuero territorial||S|ist|C2
+habeas corpus|hábeas corpus||L|ist|C2
+indictment|escrito de acusación||S|ist|C2
+indict|acusar formalmente||V|ist|C2
+exoneration|exculpación||S|ist|C2
+acquittal|absolución||S|ist|C2
+hung jury|jurado sin veredicto||L|ist|C2
+voir dire|interrogatorio de selección del jurado||L|ist|C2
+bench trial|juicio sin jurado||L|ist|C2
+sidebar|coloquio aparte con el juez||S|ist|C2
+sustain|estimar (una objeción)||V|ist|C2
+overrule|desestimar (una objeción)||V|ist|C2
+leading question|pregunta sugestiva||L|ist|C2
+burden of proof|carga de la prueba||L|ist|C2
+circumstantial evidence|prueba indiciaria||L|ist|C2
+mistrial|juicio nulo||S|ist|C2
+affidavit|declaración jurada||S|ist|C2
+forensic|forense||A|ist|C2
+judicial review|control judicial de constitucionalidad||L|ist|C2
+eminent domain|expropiación forzosa||L|ist|C2
+checks and balances|pesos y contrapesos||L|ist|C2
+federalism|federalismo||S|ist|C2
+plenary|plenario||A|ist|C2
+strict scrutiny|control de constitucionalidad estricto||L|ist|C2
+sovereign immunity|inmunidad soberana||L|ist|C2
+originalism|originalismo||S|ist|C2
+precedent|precedente jurisprudencial||S|ist|C2
+landmark ruling|sentencia histórica||L|ist|C2
+enjoin|prohibir judicialmente||V|ist|C2
+unconstitutional|inconstitucional||A|ist|C2
+ratification|ratificación||S|ist|C2
+censure|reprobación oficial||S|ist|C2
+filibuster|obstruccionismo parlamentario||S|ist|C2
+pocket veto|veto de bolsillo||L|ist|C2
+gerrymandering|manipulación de distritos electorales||S|ist|C2
+cloture|cierre del debate||S|ist|C2
+impeachment|proceso de destitución||S|ist|C2
+lame duck|político saliente||L|ist|C2
+certiorari|recurso de casación||S|ist|C2
+enumerated powers|competencias expresas||L|ist|C2
+standing|legitimación procesal||S|ist|C2
+moot|carente de efecto práctico||A|ist|C2
+redistricting|redistribución de circunscripciones||S|ist|C2
+stare decisis|obligación de seguir precedentes||L|ist|C2
+triage|triaje||S|sla|C2
+intubation|intubación||S|sla|C2
+differential diagnosis|diagnóstico diferencial||L|sla|C2
+comorbidity|comorbilidad||S|sla|C2
+contraindication|contraindicación||S|sla|C2
+prognosis|pronóstico||S|sla|C2
+idiopathic|idiopático||A|sla|C2
+benign|benigno||A|sla|C2
+malignant|maligno||A|sla|C2
+metastasize|metastatizar||V|sla|C2
+biopsy|biopsia||S|sla|C2
+excision|extirpación||S|sla|C2
+debridement|desbridamiento||S|sla|C2
+suture|sutura||S|sla|C2
+infusion|perfusión intravenosa||S|sla|C2
+catheter|catéter||S|sla|C2
+attending physician|médico responsable||L|sla|C2
+referral|derivación a un especialista||S|sla|C2
+postoperative|postoperatorio||A|sla|C2
+preoperative|preoperatorio||A|sla|C2
+necrosis|necrosis||S|sla|C2
+ischemia|isquemia||S|sla|C2
+infarction|infarto||S|sla|C2
+arrhythmia|arritmia||S|sla|C2
+stent|endoprótesis coronaria||S|sla|C2
+sclerosis|esclerosis||S|sla|C2
+pharmacokinetics|farmacocinética||S|sla|C2
+pharmacodynamics|farmacodinámica||S|sla|C2
+half-life|vida media (de un fármaco)||S|sla|C2
+bioavailability|biodisponibilidad||S|sla|C2
+randomized controlled trial|ensayo controlado aleatorizado||L|sla|C2
+placebo-controlled|con grupo placebo||A|sla|C2
+double-blind|doble ciego||A|sla|C2
+cohort|cohorte||S|sla|C2
+dosage|pauta de dosis||S|sla|C2
+adverse reaction|reacción adversa||L|sla|C2
+drug interaction|interacción medicamentosa||L|sla|C2
+titration|ajuste gradual de dosis||S|sla|C2
+dependence|dependencia (a un fármaco)||S|sla|C2
+off-label use|uso fuera de indicación||L|sla|C2
+informed consent|consentimiento informado||L|sla|C2
+endpoint|variable principal del estudio||S|sla|C2
+surrogate endpoint|variable subrogada||L|sla|C2
+inclusion criteria|criterios de inclusión||L|sla|C2
+enrollment|reclutamiento de pacientes||S|sla|C2
+arm|brazo (de un ensayo clínico)||S|sla|C2
+crossover study|estudio cruzado||L|sla|C2
+blinding|enmascaramiento||S|sla|C2
+multicenter|multicéntrico||A|sla|C2
+metabolize|metabolizar||V|sla|C2
+excretion|excreción del fármaco||S|sla|C2
+generic drug|medicamento genérico||L|sla|C2
+catatonia|catatonia||S|sla|C2
+delusion|idea delirante||S|sla|C2
+hallucination|alucinación||S|sla|C2
+dissociation|disociación||S|sla|C2
+hypomania|hipomanía||S|sla|C2
+anhedonia|anhedonia||S|sla|C2
+dysphoria|disforia||S|sla|C2
+compulsive|compulsivo||A|sla|C2
+intrusive thought|pensamiento intrusivo||L|sla|C2
+dissociative identity disorder|trastorno de identidad disociativo||L|sla|C2
+psychopathy|psicopatía||S|sla|C2
+sociopathy|sociopatía||S|sla|C2
+borderline personality disorder|trastorno límite de la personalidad||L|sla|C2
+neurosis|neurosis||S|sla|C2
+psychosis|psicosis||S|sla|C2
+comorbid|comórbido||A|sla|C2
+affect|afecto (tono emocional)||S|sla|C2
+avolition|abulia||S|sla|C2
+hypervigilance|hipervigilancia||S|sla|C2
+flashback|escena retrospectiva traumática||S|sla|C2
+relapse|recaída||S|sla|C2
+remission|remisión||S|sla|C2
+treatment-resistant|refractario al tratamiento||A|sla|C2
+antipsychotic|antipsicótico||S|sla|C2
+exposure therapy|terapia de exposición||L|sla|C2
+psychosomatic|psicosomático||A|sla|C2
+beneficence|beneficencia||S|sla|C2
+patient autonomy|autonomía del paciente||L|sla|C2
+distributive justice|justicia distributiva||L|sla|C2
+scarce resource allocation|asignación de recursos escasos||L|sla|C2
+healthcare proxy|representante sanitario||S|sla|C2
+advance directive|testamento vital||L|sla|C2
+do not resuscitate|orden de no reanimar||L|sla|C2
+palliative sedation|sedación paliativa||L|sla|C2
+end-of-life care|cuidados al final de la vida||L|sla|C2
+futile treatment|tratamiento inútil||L|sla|C2
+medical paternalism|paternalismo médico||L|sla|C2
+confidentiality|confidencialidad||S|sla|C2
+disclosure|revelación de información clínica||S|sla|C2
+whistleblowing|denuncia de irregularidades||S|sla|C2
+embryonic|embrionario||A|sla|C2
+personhood|condición de persona||S|sla|C2
+eugenics|eugenesia||S|sla|C2
+coercion|coacción||S|sla|C2
+therapeutic misconception|error terapéutico||L|sla|C2
+vulnerable population|población vulnerable||L|sla|C2
+efficacy|eficacia terapéutica||S|sla|C2
+equipoise|equilibrio clínico||S|sla|C2
+harm reduction|reducción de daños||L|sla|C2
+in vitro fertilization|fecundación in vitro||L|sla|C2
+comatose|comatoso||A|sla|C2
+brain death|muerte encefálica||L|sla|C2
+quantitative easing|flexibilización cuantitativa||L|fin|C2
+monetary policy|política monetaria||L|fin|C2
+fiscal stimulus|estímulo fiscal||L|fin|C2
+liquidity trap|trampa de liquidez||L|fin|C2
+stagflation|estanflación||S|fin|C2
+deflationary|deflacionario||A|fin|C2
+disinflation|desinflación||S|fin|C2
+overnight rate|tipo de interés interbancario||L|fin|C2
+open market operations|operaciones de mercado abierto||L|fin|C2
+reserve requirement|coeficiente de caja||L|fin|C2
+lender of last resort|prestamista de última instancia||L|fin|C2
+yield curve|curva de rendimientos||L|fin|C2
+basis point|punto básico||L|fin|C2
+contractionary|restrictivo (política económica)||A|fin|C2
+overheating|sobrecalentamiento económico||S|fin|C2
+output gap|brecha de producción||L|fin|C2
+demand-pull inflation|inflación de demanda||L|fin|C2
+cost-push inflation|inflación de costes||L|fin|C2
+money supply|oferta monetaria||L|fin|C2
+velocity of money|velocidad de circulación del dinero||L|fin|C2
+crowding out|desplazamiento de inversión privada||L|fin|C2
+countercyclical|contracíclico||A|fin|C2
+deleveraging|desapalancamiento||S|fin|C2
+moral hazard|riesgo moral||L|fin|C2
+systemic risk|riesgo sistémico||L|fin|C2
+stress test|prueba de resistencia||L|fin|C2
+tariff schedule|arancel aduanero||L|fin|C2
+safeguard clause|cláusula de salvaguardia||L|fin|C2
+countervailing duty|derecho compensatorio||L|fin|C2
+import quota|contingente de importación||L|fin|C2
+free trade agreement|tratado de libre comercio||L|fin|C2
+customs union|unión aduanera||L|fin|C2
+rules of origin|normas de origen||L|fin|C2
+trade deficit|déficit comercial||L|fin|C2
+dumping|venta a precios de dumping||S|fin|C2
+protectionism|proteccionismo||S|fin|C2
+protectionist|proteccionista||A|fin|C2
+most favored nation|nación más favorecida||L|fin|C2
+trade surplus|superávit comercial||L|fin|C2
+balance of trade|balanza comercial||L|fin|C2
+embargo|embargo comercial||S|fin|C2
+export subsidy|subvención a la exportación||L|fin|C2
+tariff-free|libre de aranceles||A|fin|C2
+market access|acceso al mercado||L|fin|C2
+trade liberalization|liberalización comercial||L|fin|C2
+retaliatory tariff|arancel de represalia||L|fin|C2
+trade war|guerra comercial||L|fin|C2
+comparative advantage|ventaja comparativa||L|fin|C2
+terms of trade|relación de intercambio||L|fin|C2
+transshipment|transbordo de mercancías||S|fin|C2
+harmonized system|sistema armonizado||L|fin|C2
+non-tariff barrier|barrera no arancelaria||L|fin|C2
+accrual|devengo||S|fin|C2
+amortization|amortización||S|fin|C2
+depreciation|depreciación||S|fin|C2
+goodwill|fondo de comercio||S|fin|C2
+contingent liability|pasivo contingente||L|fin|C2
+deferred revenue|ingreso diferido||L|fin|C2
+impairment loss|pérdida por deterioro||L|fin|C2
+going concern|empresa en funcionamiento||L|fin|C2
+materiality|importancia relativa||S|fin|C2
+audit trail|pista de auditoría||L|fin|C2
+fraud examination|auditoría forense||L|fin|C2
+ledger|libro mayor||S|fin|C2
+bookkeeping|teneduría de libros||S|fin|C2
+reconciliation|conciliación contable||S|fin|C2
+write-down|rebaja contable||S|fin|C2
+provision|provisión para insolvencias||S|fin|C2
+due diligence|diligencia debida||L|fin|C2
+leveraged buyout|compra apalancada||L|fin|C2
+hostile takeover|opa hostil||L|fin|C2
+initial public offering|salida a bolsa||L|fin|C2
+dividend payout|reparto de dividendos||L|fin|C2
+retained earnings|beneficios no distribuidos||L|fin|C2
+shareholder equity|fondos propios||L|fin|C2
+unqualified opinion|informe de auditoría sin salvedades||L|fin|C2
+insolvency|insolvencia||S|fin|C2
+liquidation|liquidación concursal||S|fin|C2
+call option|opción de compra||L|fin|C2
+futures contract|contrato de futuros||L|fin|C2
+swap|permuta financiera||S|fin|C2
+counterparty|contraparte||S|fin|C2
+notional value|valor nocional||L|fin|C2
+hedging|cobertura de riesgo||S|fin|C2
+leverage|apalancamiento||S|fin|C2

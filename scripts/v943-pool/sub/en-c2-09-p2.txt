@@ -1,0 +1,267 @@
+silviculture|silvicultura||S|nat|C2
+canopy|dosel arbóreo||S|nat|C2
+understory|sotobosque||S|nat|C2
+old-growth|primario||A|nat|C2
+clearcutting|tala a matarrasa||S|nat|C2
+selective logging|tala selectiva||S|nat|C2
+reforestation|repoblación forestal||S|nat|C2
+fire regime|régimen de incendios||S|nat|C2
+prescribed burn|quema prescrita||S|nat|C2
+firebreak|cortafuegos||S|nat|C2
+backfire|contrafuego||S|nat|C2
+crown fire|fuego de copas||S|nat|C2
+deforestation|deforestación||S|nat|C2
+logging road|pista forestal||S|nat|C2
+timber harvesting|aprovechamiento maderero||S|nat|C2
+snag|árbol muerto en pie||S|nat|C2
+deadwood|madera muerta||S|nat|C2
+sapling|brinzal||S|nat|C2
+seedling|planta joven de vivero||S|nat|C2
+thinning|clareo||S|nat|C2
+tree ring|anillo de crecimiento||S|sci|C2
+dendrochronology|dendrocronología||S|sci|C2
+bark beetle|escarabajo de la corteza||S|nat|C2
+invasive species|especie invasora||S|nat|C2
+forest management|gestión forestal||S|nat|C2
+windthrow|derribo por viento||S|nat|C2
+succession|sucesión ecológica||S|sci|C2
+landfill|vertedero||S|nat|C2
+incineration|incineración||S|nat|C2
+downcycling|reciclaje a menor valor||S|nat|C2
+upcycling|reutilización creativa||S|nat|C2
+e-waste|residuos electrónicos||S|nat|C2
+obsolescent|en vías de obsolescencia||A|nat|C2
+compostable|compostable||A|nat|C2
+biodegradable|biodegradable||A|nat|C2
+circular economy|economía circular||S|nat|C2
+extended producer responsibility|responsabilidad ampliada del productor||S|ist|C2
+waste stream|flujo de residuos||S|nat|C2
+curbside pickup|recogida domiciliaria||S|cit|C2
+materials recovery facility|planta de recuperación de materiales||S|nat|C2
+throwaway|desechable||A|nat|C2
+planned obsolescence|obsolescencia programada||S|att|C2
+repurposing|reutilización con un nuevo fin||S|nat|C2
+leachate|lixiviado||S|sci|C2
+methane capture|captura de metano||S|sci|C2
+scrap metal|chatarra||S|nat|C2
+bottle bill|ley de depósito de envases||S|ist|C2
+diversion rate|tasa de desvío de residuos||S|nat|C2
+source reduction|reducción en origen||S|nat|C2
+biohazard|riesgo biológico||S|nat|C2
+tipping fee|tarifa de vertido||S|fin|C2
+waste-to-energy|valorización energética||S|nat|C2
+durable goods|bienes duraderos||S|fin|C2
+gently used|poco usado||A|cmp|C2
+fastidious|quisquilloso||A|ast|C2
+persnickety|remilgado||A|ast|C2
+punctilious|escrupuloso||A|ast|C2
+magnanimous|magnánimo||A|ast|C2
+pusillanimous|pusilánime||A|ast|C2
+intransigent|intransigente||A|ast|C2
+obdurate|obcecado||A|ast|C2
+recalcitrant|indócil||A|ast|C2
+truculent|agresivo||A|ast|C2
+querulous|quejumbroso||A|ast|C2
+petulant|malhumorado||A|ast|C2
+imperious|altanero||A|ast|C2
+peremptory|perentorio||A|ast|C2
+cavalier|irreflexivo y desafiante||A|ast|C2
+insouciant|despreocupado||A|ast|C2
+diffident|apocado||A|ast|C2
+self-effacing|que rehúye el protagonismo||A|ast|C2
+meticulous|meticuloso||A|ast|C2
+assiduous|asiduo||A|ast|C2
+sedulous|aplicado||A|ast|C2
+indefatigable|incansable||A|ast|C2
+self-possessed|dueño de sí mismo||A|ast|C2
+level-headed|con la cabeza fría||A|ast|C2
+even-tempered|ecuánime||A|ast|C2
+choleric|colérico||A|ast|C2
+phlegmatic|flemático||A|ast|C2
+sanguine|optimista||A|ast|C2
+aver|aseverar||V|cmu|C2
+adduce|aducir||V|cmu|C2
+rebut|refutar||V|cmu|C2
+refute|rebatir||V|cmu|C2
+gainsay|contradecir||V|cmu|C2
+impugn|impugnar||V|cmu|C2
+opine|opinar||V|cmu|C2
+expound|exponer con detalle||V|cmu|C2
+expatiate|extenderse en la exposición||V|cmu|C2
+hold forth|soltar un sermón||E|cmu|C2
+pontificate|pontificar||V|cmu|C2
+grandstand|hacer teatro para la galería||V|cmu|C2
+filibuster|obstruir el debate||V|ist|C2
+inveigh|denostar||V|cmu|C2
+lambaste|vapular||V|cmu|C2
+castigate|reprender severamente||V|cmu|C2
+berate|regañar airadamente||V|cmu|C2
+upbraid|reprender con aspereza||V|cmu|C2
+admonish|amonestar||V|cmu|C2
+exhort|exhortar||V|cmu|C2
+entreat|suplicar||V|cmu|C2
+importune|importunar con ruegos||V|cmu|C2
+badger|acosar con insistencia||V|cmu|C2
+demur|poner reparos||V|cmu|C2
+remonstrate|protestar con razones||V|cmu|C2
+interject|terciar en la conversación||V|cmu|C2
+digress|desviarse del tema||V|cmu|C2
+ontology|ontología||S|ast|C2
+epistemology|epistemología||S|ast|C2
+axiology|axiología||S|ast|C2
+teleology|teleología||S|ast|C2
+phenomenology|fenomenología||S|ast|C2
+hermeneutics|hermenéutica||S|ast|C2
+causality|causalidad||S|ast|C2
+determinism|determinismo||S|ast|C2
+reductionism|reduccionismo||S|ast|C2
+paradigm|paradigma||S|ast|C2
+dialectic|dialéctica||S|ast|C2
+empiricism|empirismo||S|ast|C2
+positivism|positivismo||S|ast|C2
+constructivism|constructivismo||S|stu|C2
+hegemony|hegemonía||S|ast|C2
+zeitgeist|espíritu de la época||S|ast|C2
+positionality|posicionalidad||S|ast|C2
+liminality|liminalidad||S|ast|C2
+alterity|alteridad||S|ast|C2
+subjectivity|subjetividad||S|ast|C2
+verisimilitude|verosimilitud||S|let|C2
+historiography|historiografía||S|ast|C2
+periodization|periodización||S|ast|C2
+exegesis|exégesis||S|ast|C2
+taxonomy|taxonomía||S|sci|C2
+typology|tipología||S|sci|C2
+operationalization|operacionalización||S|sci|C2
+equivocate|dar rodeos con palabras||V|cmu|C2
+prevaricate|evadir la verdad||V|cmu|C2
+dissemble|ocultar los verdaderos sentimientos||V|cmu|C2
+dissimulate|disimular||V|cmu|C2
+palter|negociar con medias verdades||V|cmu|C2
+tergiversate|tergiversar||V|cmu|C2
+misrepresent|representar falsamente||V|cmu|C2
+obfuscate|oscurecer deliberadamente||V|cmu|C2
+disinformation|desinformación||S|att|C2
+misinformation|información errónea||S|att|C2
+half-truth|media verdad||S|ast|C2
+plausible deniability|negación plausible||S|ist|C2
+whitewash|encubrir con apariencia honrada||V|cmu|C2
+embellish|adornar la verdad||V|cmu|C2
+fabricate|inventar||V|cmu|C2
+canard|bulo||S|att|C2
+fib|mentira piadosa||S|cmu|C2
+barefaced lie|mentira descarada||E|cmu|C2
+unvarnished truth|verdad sin adornos||E|ast|C2
+gospel truth|verdad absoluta||E|cmu|C2
+fallacious|falaz||A|ast|C2
+specious|especioso||A|ast|C2
+spurious|espurio||A|ast|C2
+apocryphal|apócrifo||A|ast|C2
+tendentious|tendencioso||A|ast|C2
+chicanery|tramposería||S|ast|C2
+sublime|sublime||A|art|C2
+ineffable|inefable||A|ast|C2
+ethereal|etéreo||A|art|C2
+luminous|luminoso||A|art|C2
+limpid|límpido||A|art|C2
+gossamer|de una finura de gasa||A|art|C2
+sinuous|sinuoso||A|art|C2
+languid|lánguido||A|art|C2
+voluptuous|voluptuoso||A|art|C2
+austere|austero||A|art|C2
+spare|sobrio||A|art|C2
+unadorned|desnudo de todo adorno||A|art|C2
+unassuming|sencillo y sin presunción||A|ast|C2
+exquisite|exquisito||A|art|C2
+kitsch|hortera||S|art|C2
+tasteful|de buen gusto||A|art|C2
+tasteless|de mal gusto||A|art|C2
+virtuous|virtuoso||A|ast|C2
+meritorious|meritorio||A|ast|C2
+reprehensible|reprobable||A|ast|C2
+culpable|culpable||A|ast|C2
+venial|venial||A|ast|C2
+cardinal sin|pecado capital||E|ast|C2
+scrupulous|concienzudo||A|ast|C2
+unscrupulous|sin escrúpulos||A|ast|C2
+deontological|deontológico||A|ist|C2
+marginal|marginal||A|ast|C2
+incremental|incremental||A|ast|C2
+exponential|exponencial||A|sci|C2
+infinitesimal|infinitesimal||A|sci|C2
+negligible|despreciable||A|sci|C2
+appreciable|apreciable||A|sci|C2
+palpable|palpable||A|ast|C2
+quantifiable|cuantificable||A|sci|C2
+commensurate|conmensurable||A|ast|C2
+incommensurate|inconmensurable||A|ast|C2
+disproportionate|desproporcionado||A|ast|C2
+statistically significant|estadísticamente significativo||A|sci|C2
+order of magnitude|orden de magnitud||E|sci|C2
+margin of error|margen de error||S|sci|C2
+bell curve|curva de campana||S|sci|C2
+standard deviation|desviación típica||S|sci|C2
+variance|varianza||S|sci|C2
+skew|sesgo||S|sci|C2
+p-value|valor de significación||S|sci|C2
+confounding variable|variable de confusión||S|sci|C2
+confidence interval|intervalo de confianza||S|sci|C2
+effect size|tamaño del efecto||S|sci|C2
+law of large numbers|ley de los grandes números||E|sci|C2
+Bayesian|bayesiano||A|sci|C2
+probabilistic|probabilístico||A|sci|C2
+stochastic|estocástico||A|sci|C2
+deterministic|determinista||A|sci|C2
+euphemism|eufemismo||S|cmu|C2
+dysphemism|disfemismo||S|cmu|C2
+let go|despedir||E|lav|C2
+downsize|reducir plantilla||V|lav|C2
+rightsizing|reajuste de plantilla||S|lav|C2
+pre-owned|de segunda mano||A|cmp|C2
+financially embarrassed|apurado de dinero||E|fin|C2
+between jobs|en paro||E|lav|C2
+vertically challenged|de baja estatura||E|cmu|C2
+senior citizen|persona mayor||S|cmu|C2
+departed|difunto||S|rel|C2
+loved one|ser querido||S|rel|C2
+final resting place|última morada||S|rel|C2
+remains|restos mortales||S|rel|C2
+collateral damage|daños colaterales||S|att|C2
+friendly fire|fuego amigo||S|att|C2
+ethnic cleansing|limpieza étnica||S|att|C2
+enhanced interrogation|interrogatorio mejorado||S|ist|C2
+extraordinary rendition|entrega extraordinaria||S|ist|C2
+haircut|quita de deuda||S|fin|C2
+misspeak|equivocarse al hablar||V|cmu|C2
+restructuring|reestructuración||S|fin|C2
+hush-hush|reservado||A|cmu|C2
+off the record|extraoficialmente||E|cmu|C2
+in no uncertain terms|sin lugar a dudas||E|cmu|C2
+constructive dismissal|despido indirecto||S|lav|C2
+enjambment|encabalgamiento||S|let|C2
+alliteration|aliteración||S|let|C2
+assonance|asonancia||S|let|C2
+consonance|consonancia||S|let|C2
+onomatopoeia|onomatopeya||S|let|C2
+synecdoche|sinécdoque||S|let|C2
+zeugma|zeugma||S|let|C2
+chiasmus|quiasmo||S|let|C2
+anaphora|anáfora||S|let|C2
+epistrophe|epístrofe||S|let|C2
+apostrophe|apóstrofe (figura retórica)||S|let|C2
+litotes|lítotes||S|let|C2
+volta|vuelta del soneto||S|let|C2
+sestet|sesteto||S|let|C2
+iambic pentameter|pentámetro yámbico||S|let|C2
+trochee|troqueo||S|let|C2
+dactyl|dáctilo||S|let|C2
+spondee|espondeo||S|let|C2
+anapest|anapesto||S|let|C2
+free verse|versículo libre||S|let|C2
+blank verse|verso blanco||S|let|C2
+stream of consciousness|monólogo interior||S|let|C2
+pathetic fallacy|falacia patética||S|let|C2
+bildungsroman|novela de formación||S|let|C2
+epistolary|epistolar||A|let|C2
+pastiche|pastiche||S|art|C2
+palimpsest|palimpsesto||S|let|C2

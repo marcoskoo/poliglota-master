@@ -1,0 +1,308 @@
+venture capital|capital riesgo||S|fin|C1
+angel investor|inversor informal||S|fin|C1
+bootstrapping|arranque con recursos propios||S|lav|C1
+seed funding|ronda semilla||S|fin|C1
+exit strategy|estrategia de salida||S|fin|C1
+cash burn|consumo de caja||S|fin|C1
+runway|autonomía de tesorería||S|fin|C1
+pivot|pivotar (cambiar de modelo)||V|lav|C1
+scale up|escalar el negocio||V|lav|C1
+valuation|valoración (tasación)||S|fin|C1
+dilution|dilución (de la participación)||S|fin|C1
+equity stake|participación accionarial||S|fin|C1
+vesting|consolidación de derechos (vesting)||S|fin|C1
+sweat equity|aportación de trabajo a cambio de acciones||S|fin|C1
+growth hacking|crecimiento acelerado con pocos recursos||S|lav|C1
+product-market fit|encaje producto-mercado||S|lav|C1
+traction|tracción (aceptación inicial)||S|lav|C1
+customer churn|abandono de clientes||S|lav|C1
+minimum viable product|producto mínimo viable||S|lav|C1
+incubator (empresas)|incubadora de empresas||S|lav|C1
+accelerator (startups)|aceleradora de empresas emergentes||S|lav|C1
+iterate|iterar||V|lav|C1
+supply chain|cadena de suministro||S|lav|C1
+procurement|adquisiciones (compras)||S|lav|C1
+warehousing|almacenaje||S|lav|C1
+stockout|rotura de existencias||S|lav|C1
+just-in-time|justo a tiempo||A|lav|C1
+lean manufacturing|producción ajustada||S|lav|C1
+bottleneck|cuello de botella||S|lav|C1
+lead time|plazo de entrega||S|lav|C1
+bill of lading|conocimiento de embarque||S|lav|C1
+freight|carga (flete)||S|tra|C1
+last-mile delivery|reparto de último kilómetro||S|tra|C1
+cross-docking|tránsito directo de mercancías||S|lav|C1
+reverse logistics|logística inversa||S|lav|C1
+dispatch|despachar (expedir)||V|lav|C1
+fleet management|gestión de flotas||S|lav|C1
+fulfillment|preparación y envío de pedidos||S|lav|C1
+capacity planning|planificación de capacidad||S|lav|C1
+demand forecasting|previsión de la demanda||S|lav|C1
+bullwhip effect|efecto látigo||S|lav|C1
+safety stock|existencias de seguridad||S|lav|C1
+pallet|palé (tarima)||S|lav|C1
+overhead costs|gastos generales||S|fin|C1
+brand loyalty|fidelidad a la marca||S|cmp|C1
+brand equity|valor de marca||S|cmp|C1
+positioning|posicionamiento||S|cmp|C1
+segmentation|segmentación||S|cmp|C1
+value proposition|propuesta de valor||S|cmp|C1
+customer retention|retención de clientes||S|cmp|C1
+upsell|vender una mejora (venta adicional)||V|cmp|C1
+cross-selling|venta cruzada||S|cmp|C1
+funnel|embudo de conversión||S|cmp|C1
+conversion rate|tasa de conversión||S|cmp|C1
+call to action|llamada a la acción||S|cmp|C1
+influencer|influyente||S|cmp|C1
+endorsement|respaldo (aval publicitario)||S|cmp|C1
+neuromarketing|neuromarketing||S|cmp|C1
+focus group|grupo de discusión||S|cmp|C1
+penetration pricing|precio de penetración||S|cmp|C1
+price elasticity|elasticidad del precio||S|cmp|C1
+impulse buying|compra por impulso||S|cmp|C1
+early adopter|usuario pionero||S|cmp|C1
+loss leader|producto gancho||S|cmp|C1
+planned obsolescence|obsolescencia programada||S|cmp|C1
+astroturfing|campaña encubierta de apoyo popular||S|cmp|C1
+quality assurance|aseguramiento de la calidad||S|lav|C1
+quality control|control de calidad||S|lav|C1
+standardization|estandarización||S|lav|C1
+benchmarking|análisis comparativo||S|lav|C1
+accreditation|acreditación||S|lav|C1
+compliance audit|auditoría de cumplimiento||S|lav|C1
+due diligence|diligencia debida||S|lav|C1
+traceability|trazabilidad||S|lav|C1
+recall (producto)|retirada de producto||S|lav|C1
+defect rate|tasa de defectos||S|lav|C1
+root cause|causa raíz||S|lav|C1
+corrective action|acción correctora||S|lav|C1
+continuous improvement|mejora continua||S|lav|C1
+best practice|mejor práctica||S|lav|C1
+specification|especificación||S|tec|C1
+tolerance (ingeniería)|tolerancia (margen admitido)||S|tec|C1
+calibration|calibración||S|tec|C1
+spot check|control aleatorio||S|lav|C1
+sampling|muestreo||S|sci|C1
+nonconformity|no conformidad||S|lav|C1
+standard operating procedure|procedimiento operativo estándar||S|lav|C1
+certified|certificado (con garantía oficial)||A|lav|C1
+tort|acto ilícito civil||S|ist|C1
+litigation|litigio||S|ist|C1
+plaintiff|demandante||S|ist|C1
+defendant|demandado||S|ist|C1
+affidavit|declaración jurada||S|ist|C1
+injunction|medida cautelar||S|ist|C1
+subpoena|citación judicial||S|ist|C1
+plea bargain|acuerdo de culpabilidad||S|ist|C1
+damages|indemnización por daños||S|ist|C1
+class action|demanda colectiva||S|ist|C1
+statute of limitations|plazo de prescripción||S|ist|C1
+precedent|jurisprudencia (precedente)||S|ist|C1
+hearsay|prueba de oídas||S|ist|C1
+perjury|falso testimonio||S|ist|C1
+contempt of court|desacato al tribunal||S|ist|C1
+due process|debido proceso||S|ist|C1
+habeas corpus|habeas corpus||S|ist|C1
+mens rea|intención criminal (culpabilidad mental)||S|ist|C1
+parole|libertad condicional||S|ist|C1
+extradition|extradición||S|ist|C1
+indemnify|indemnizar||V|ist|C1
+statute|ley (norma escrita)||S|ist|C1
+differential diagnosis|diagnóstico diferencial||S|sla|C1
+etiology|etiología||S|sla|C1
+prognosis|pronóstico||S|sla|C1
+comorbidity|comorbilidad||S|sla|C1
+adverse reaction|reacción adversa||S|sla|C1
+nosocomial|nosocomial (contraído en el hospital)||A|sla|C1
+idiopathic|idiopático (de origen desconocido)||A|sla|C1
+iatrogenic|iatrogénico (causado por el tratamiento)||A|sla|C1
+palliative care|cuidados paliativos||S|sla|C1
+triage|triaje (clasificación de pacientes)||S|sla|C1
+intubation|intubación||S|sla|C1
+sedation|sedación||S|sla|C1
+informed consent|consentimiento informado||S|sla|C1
+metastasis|metástasis||S|sla|C1
+remission|remisión||S|sla|C1
+prophylaxis|profilaxis||S|sla|C1
+excision|escisión (extirpación)||S|sla|C1
+necrosis|necrosis||S|sla|C1
+ischemia|isquemia||S|sla|C1
+sepsis|sepsis||S|sla|C1
+electrocardiogram|electrocardiograma||S|sla|C1
+bronchoscopy|broncoscopia||S|sla|C1
+torque|par de giro||S|tec|C1
+load-bearing|de carga (estructural)||A|tec|C1
+tensile strength|resistencia a la tracción||S|tec|C1
+fatigue (materiales)|fatiga (de materiales)||S|tec|C1
+stress test|prueba de resistencia||S|tec|C1
+feasibility study|estudio de viabilidad||S|tec|C1
+schematic|esquema técnico||S|tec|C1
+reverse engineer|reconstruir mediante ingeniería inversa||V|tec|C1
+overhaul|revisión general||S|tec|C1
+downtime|tiempo de parada||S|tec|C1
+state-of-the-art|de última generación||A|tec|C1
+troubleshoot|diagnosticar averías||V|tec|C1
+malfunction|avería (funcionamiento defectuoso)||S|tec|C1
+wear and tear|desgaste por el uso||S|tec|C1
+coefficient of friction|coeficiente de rozamiento||S|sci|C1
+alloy|aleación||S|sci|C1
+bearing (mecánica)|cojinete||S|tec|C1
+gearbox|caja de engranajes||S|tec|C1
+hydraulic|hidráulico||A|tec|C1
+pneumatic|neumático||A|tec|C1
+thermodynamics|termodinámica||S|sci|C1
+aerodynamics|aerodinámica||S|sci|C1
+peer review|revisión por pares||S|stu|C1
+literature search|búsqueda bibliográfica||S|stu|C1
+mixed methods|métodos mixtos||S|stu|C1
+null hypothesis|hipótesis nula||S|stu|C1
+statistical significance|significación estadística||S|stu|C1
+replicability|replicabilidad||S|stu|C1
+falsifiability|falsabilidad||S|stu|C1
+operationalize|operacionalizar||V|stu|C1
+triangulate (método)|contrastar datos desde varias fuentes||V|stu|C1
+code (investigación)|codificar (datos cualitativos)||V|stu|C1
+theoretical framework|marco teórico||S|stu|C1
+research question|pregunta de investigación||S|stu|C1
+sampling frame|población de muestreo||S|stu|C1
+longitudinal study|estudio longitudinal||S|stu|C1
+cross-sectional|transversal (diseño de estudio)||A|stu|C1
+confounding variable|variable de confusión||S|stu|C1
+effect size|tamaño del efecto||S|stu|C1
+tenure|plaza en propiedad||S|stu|C1
+sabbatical|año sabático||S|stu|C1
+adjunct professor|profesor asociado||S|pro|C1
+conference proceedings|actas de congreso||S|stu|C1
+call for papers|convocatoria de ponencias||S|stu|C1
+auction house|casa de subastas||S|sve|C1
+bid (subasta)|pujar||V|sve|C1
+bidder|postor||S|sve|C1
+appraisal|tasación||S|sve|C1
+appraiser|tasador||S|pro|C1
+provenance|procedencia (historia de la pieza)||S|art|C1
+patina|pátina||S|art|C1
+curate|comisariar||V|art|C1
+connoisseur|conocedor (experto en arte)||S|art|C1
+forgery|falsificación (obra apócrifa)||S|art|C1
+mint condition|estado impecable de origen||S|sve|C1
+collectible|objeto de colección||S|sve|C1
+memorabilia|objetos de recuerdo (memorabilia)||S|sve|C1
+relic|reliquia||S|sve|C1
+bric-a-brac|baratijas (objetos varios)||S|sve|C1
+estate sale|venta de herencia||S|sve|C1
+reserve price|precio de reserva||S|sve|C1
+gavel|martillo de subasta||S|sve|C1
+certificate of authenticity|certificado de autenticidad||S|sve|C1
+ephemera|impresos efímeros de coleccionista||S|art|C1
+numismatics|numismática||S|sve|C1
+philately|filatelia||S|sve|C1
+haute cuisine|alta cocina||S|ris|C1
+degustation menu|menú degustación||S|ris|C1
+sommelier|sumiller||S|pro|C1
+sous-chef|segundo de cocina||S|pro|C1
+mise en place|preparación previa de la cocina||L|ris|C1
+al dente|al dente (en su punto)||L|ris|C1
+mouthfeel|sensación en boca||S|ali|C1
+palatable|palatable (agradable al paladar)||A|ali|C1
+pungent|penetrante (de olor intenso)||A|ali|C1
+acrid|acre (irritante)||A|ali|C1
+caramelize|acaramelar||V|ali|C1
+reduce (cocina)|reducir (concentrar un caldo)||V|ris|C1
+julienne|cortar en juliana||V|ris|C1
+sear|sellar (dorar a fuego fuerte)||V|ris|C1
+blanch|escaldar||V|ris|C1
+braise|estofar||V|ris|C1
+deglaze|desglasar (con líquido)||V|ris|C1
+emulsion|emulsión||S|ali|C1
+garnish|decorar el plato||V|ris|C1
+plating|emplatado||S|ris|C1
+tasting notes|notas de cata||S|ris|C1
+food pairing|maridaje||S|ris|C1
+etiquette|etiqueta (protocolo social)||S|rel|C1
+decorum|decoro||S|rel|C1
+tact|tacto (diplomacia)||S|rel|C1
+tactful|diplomático (con tacto)||A|rel|C1
+gracious|cordial y afable||A|rel|C1
+rapport|sintonía (buena relación)||S|rel|C1
+camaraderie|camaradería||S|rel|C1
+pleasantry|cumplido (frase de cortesía)||S|cmu|C1
+schmooze|dar coba (socializar por interés)||V|cmu|C1
+name-dropping|presunción por citas de amistades célebres||S|cmu|C1
+backhanded compliment|cumplido envenenado||S|cmu|C1
+feud|disputa duradera||S|rel|C1
+bicker|pelearse por nimiedades||V|rel|C1
+grudge|rencor (agravio guardado)||S|rel|C1
+hold a grudge|guardar rencor||E|rel|C1
+olive branch|ramo de olivo (gesto de paz)||S|rel|C1
+rapprochement|acercamiento (distensión)||S|rel|C1
+detente|distensión||S|rel|C1
+allegiance|lealtad (fidelidad debida)||S|rel|C1
+kinship|parentesco (afinidad)||S|rel|C1
+reciprocity|reciprocidad||S|rel|C1
+social cues|señales sociales||S|cmu|C1
+anaerobic|anaeróbico||A|cor|C1
+lactic acid|ácido láctico||S|cor|C1
+cardiovascular fitness|forma cardiovascular||S|cor|C1
+oxygen uptake|captación de oxígeno||S|cor|C1
+hypoxia|hipoxia||S|cor|C1
+altitude training|entrenamiento en altura||S|spt|C1
+overtraining|sobrentrenamiento||S|spt|C1
+recovery (deportiva)|recuperación (regeneración tras el esfuerzo)||S|spt|C1
+cooldown|vuelta a la calma||S|spt|C1
+electrolyte|electrolito||S|cor|C1
+glycogen|glucógeno||S|cor|C1
+basal metabolism|metabolismo basal||S|cor|C1
+muscle fiber|fibra muscular||S|cor|C1
+fast-twitch|de contracción rápida||A|cor|C1
+hypertrophy|hipertrofia||S|cor|C1
+atrophy|atrofia||S|cor|C1
+proprioception|propiocepción||S|cor|C1
+plyometrics|entrenamiento pliométrico||S|spt|C1
+periodization|periodización del entrenamiento||S|spt|C1
+ergometer|ergómetro||S|spt|C1
+peak performance|rendimiento máximo||S|spt|C1
+burnout|agotamiento (desgaste)||S|sla|C1
+pedigree|pedigrí||S|ani|C1
+purebred|de raza pura||A|ani|C1
+hybrid (cría)|híbrido (ejemplar cruzado)||S|ani|C1
+inbreeding|consanguinidad||S|ani|C1
+selective breeding|cría selectiva||S|ani|C1
+stud (reproductor)|semental||S|ani|C1
+dam (cría)|madre reproductora||S|ani|C1
+sire (cría)|progenitor (macho reproductor)||S|ani|C1
+foal|potro (cría)||S|ani|C1
+colt|potro macho joven||S|ani|C1
+filly|potranca||S|ani|C1
+gelding|caballo castrado||S|ani|C1
+canter|galope corto||S|ani|C1
+bridle|brida||S|ani|C1
+stirrup|estribo||S|ani|C1
+mane|crin||S|ani|C1
+farrier|herrador||S|pro|C1
+kennel|perrera (criadero)||S|ani|C1
+obedience trial|prueba de obediencia||S|ani|C1
+conformation show|exposición morfológica||S|ani|C1
+whelp|parir (la perra)||V|ani|C1
+litter (camada)|camada||S|ani|C1
+storm surge|marea de tormenta||S|cli|C1
+flash flood|inundación repentina||S|cli|C1
+hailstorm|granizada||S|cli|C1
+derecho|línea de turbonada (derecho)||S|cli|C1
+downburst|reventón de aire descendente||S|cli|C1
+supercell|supercelda||S|cli|C1
+tornado warning|aviso de tornado||S|cli|C1
+tornado watch|vigilancia de tornado||S|cli|C1
+hailstone|piedra de granizo||S|cli|C1
+barometric pressure|presión barométrica||S|cli|C1
+dew point|punto de rocío||S|cli|C1
+wind shear|cizalladura del viento||S|cli|C1
+jet stream|corriente en chorro||S|cli|C1
+front (meteorología)|frente (meteorológico)||S|cli|C1
+occluded front|frente ocluido||S|cli|C1
+isobar|isobara||S|cli|C1
+weather radar|radar meteorológico||S|cli|C1
+nowcasting|pronóstico inmediato||S|cli|C1
+ensemble forecast|pronóstico por conjuntos||S|cli|C1
+probability of precipitation|probabilidad de precipitación||S|cli|C1
+heat index|índice de calor||S|cli|C1
+wind chill|sensación térmica por viento||S|cli|C1

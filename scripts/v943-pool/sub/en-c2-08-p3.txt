@@ -1,0 +1,267 @@
+cartography|cartografía||S|tec|C2
+topographic|topográfico||A|tec|C2
+contour line|curva de nivel||L|tec|C2
+map projection|proyección cartográfica||L|tec|C2
+geodesy|geodesia||S|tec|C2
+georeferencing|georreferenciación||S|tec|C2
+remote sensing|teledetección||L|tec|C2
+satellite imagery|imágenes de satélite||L|tec|C2
+orthophoto|ortofoto||S|tec|C2
+raster|ráster||S|tec|C2
+vector layer|capa vectorial||L|tec|C2
+geocoding|geocodificación||S|tec|C2
+spatial analysis|análisis espacial||L|tec|C2
+interpolation|interpolación||S|tec|C2
+land cover|cobertura del suelo||L|tec|C2
+photogrammetry|fotogrametría||S|tec|C2
+triangulation|triangulación||S|tec|C2
+graticule|retícula geográfica||S|tec|C2
+azimuth|acimut||S|tec|C2
+relief shading|sombreado del relieve||L|tec|C2
+nadir|nadir||S|tec|C2
+swath|franja de barrido||S|tec|C2
+multispectral|multiespectral||A|tec|C2
+ground truth|verificación en campo||L|tec|C2
+toponym|topónimo||S|tec|C2
+geodetic datum|datum geodésico||L|tec|C2
+iambic pentameter|pentámetro yámbico||L|let|C2
+blank verse|verso blanco||L|let|C2
+free verse|verso libre||L|let|C2
+scansion|escansión||S|let|C2
+meter|metro poético||S|let|C2
+rhyme scheme|esquema de rima||L|let|C2
+alliteration|aliteración||S|let|C2
+assonance|asonancia||S|let|C2
+consonance|consonancia poética||S|let|C2
+caesura|cesura||S|let|C2
+enjambment|encabalgamiento||S|let|C2
+stanza|estrofa||S|let|C2
+quatrain|cuarteta||S|let|C2
+sestet|sesteto||S|let|C2
+dactyl|dactilo||S|let|C2
+trochee|troqueo||S|let|C2
+anapest|anapesto||S|let|C2
+spondee|espondeo||S|let|C2
+metrical foot|pie métrico||L|let|C2
+prosody|prosodia||S|let|C2
+cadence|cadencia||S|let|C2
+internal rhyme|rima interna||L|let|C2
+elision|elisión||S|let|C2
+versification|versificación||S|let|C2
+alexandrine|alejandrino||S|let|C2
+couplet|pareado||S|let|C2
+heroic couplet|pareado heroico||L|let|C2
+soliloquy|soliloquio||S|art|C2
+aside|aparte teatral||S|art|C2
+dramatic irony|ironía dramática||L|art|C2
+catharsis|catarsis||S|art|C2
+hamartia|hamartia||S|art|C2
+stage directions|acotaciones||L|art|C2
+staging|puesta en escena||S|art|C2
+blocking|posiciones escénicas||S|art|C2
+dress rehearsal|ensayo general de vestuario||L|art|C2
+tech rehearsal|ensayo técnico||L|art|C2
+understudy|suplente||S|art|C2
+farce|farsa||S|art|C2
+melodrama|melodrama||S|art|C2
+tragicomedy|tragicomedia||S|art|C2
+tableau vivant|cuadro plástico||L|art|C2
+proscenium|proscenio||S|art|C2
+thrust stage|escenario saliente||L|art|C2
+fourth wall|cuarta pared||L|art|C2
+deus ex machina|deus ex machina||L|art|C2
+in medias res|in medias res||E|art|C2
+Greek chorus|coro griego||L|art|C2
+verbatim theater|teatro verbatim||L|art|C2
+immersive theater|teatro inmersivo||L|art|C2
+puppetry|arte de las marionetas||S|art|C2
+playwright|dramaturgo||S|art|C2
+dramaturgy|dramaturgia||S|art|C2
+one-act play|pieza en un acto||L|art|C2
+metonymy|metonimia||S|let|C2
+synecdoche|sinécdoque||S|let|C2
+zeugma|zeugma||S|let|C2
+chiasmus|quiasmo||S|let|C2
+anaphora|anáfora||S|let|C2
+epistrophe|epístrofe||S|let|C2
+apostrophe|apóstrofe||S|let|C2
+litotes|lítote||S|let|C2
+oxymoron|oxímoron||S|let|C2
+antithesis|antítesis||S|let|C2
+juxtaposition|yuxtaposición||S|let|C2
+ellipsis|elipsis||S|let|C2
+euphemism|eufemismo||S|let|C2
+hendiadys|hendiadis||S|let|C2
+periphrasis|perífrasis||S|let|C2
+rhetoric|retórica||S|let|C2
+ethos|ethos||S|let|C2
+pathos|pathos||S|let|C2
+logos|logos||S|let|C2
+syllogism|silogismo||S|let|C2
+enthymeme|entimema||S|let|C2
+trope|tropo||S|let|C2
+topos|tópos||S|let|C2
+verisimilitude|verosimilitud||S|let|C2
+mimesis|mímesis||S|let|C2
+diegesis|diegesis||S|let|C2
+defamiliarization|desfamiliarización||S|let|C2
+philology|filología||S|let|C2
+paleography|paleografía||S|let|C2
+papyrology|papirología||S|let|C2
+codicology|codicología||S|let|C2
+illuminated manuscript|manuscrito iluminado||L|let|C2
+codex|códice||S|let|C2
+palimpsest|palimpsesto||S|let|C2
+scholium|escolio||S|let|C2
+apparatus criticus|aparato crítico||L|let|C2
+textual criticism|crítica textual||L|let|C2
+stemma|árbol de manuscritos||S|let|C2
+recension|recensión||S|let|C2
+lacuna|laguna textual||S|let|C2
+hapax legomenon|hápax||L|let|C2
+etymon|etimón||S|let|C2
+loanword|préstamo léxico||S|let|C2
+vernacular|lengua vernácula||S|let|C2
+humanism|humanismo||S|let|C2
+scholasticism|escolástica||S|let|C2
+hermeneutics|hermenéutica||S|let|C2
+exegesis|exégesis||S|let|C2
+epigraphy|epigrafía||S|let|C2
+numismatics|numismática||S|let|C2
+lexicography|lexicografía||S|let|C2
+lexicology|lexicología||S|let|C2
+philologist|filólogo||S|let|C2
+source text|texto de origen||L|let|C2
+target language|lengua de llegada||L|let|C2
+source language|lengua de origen||L|let|C2
+equivalence|equivalencia||S|let|C2
+untranslatability|intraducibilidad||S|let|C2
+back-translation|retrotraducción||S|let|C2
+calque|calco||S|let|C2
+transcreation|transcreación||S|let|C2
+localization|localización||S|let|C2
+domestication|domesticación||S|let|C2
+foreignization|extranjerización||S|let|C2
+skopos|finalidad de la traducción||S|let|C2
+translationese|estilo traductoresco||S|let|C2
+compensation|compensación||S|let|C2
+explicitation|explicitación||S|let|C2
+paraphrase|paráfrasis||S|let|C2
+dubbing|doblaje||S|let|C2
+subtitling|subtitulado||S|let|C2
+machine translation|traducción automática||L|let|C2
+post-editing|postedición||S|let|C2
+retranslation|retraducción||S|let|C2
+pseudotranslation|pseudotraducción||S|let|C2
+translator's note|nota del traductor||L|let|C2
+register|registro lingüístico||S|let|C2
+fidelity|fidelidad||S|let|C2
+self-translation|autotraducción||S|let|C2
+voice-over|voz en off||S|let|C2
+essayist|ensayista||S|let|C2
+polemical|polémico||A|let|C2
+treatise|tratado||S|let|C2
+manifesto|manifiesto||S|let|C2
+aphorism|aforismo||S|let|C2
+epigram|epigrama||S|let|C2
+maxim|máxima||S|let|C2
+critique|crítica||S|let|C2
+close reading|lectura atenta||L|let|C2
+hermeneutic circle|círculo hermenéutico||L|let|C2
+argumentation|argumentación||S|let|C2
+rebuttal|refutación||S|let|C2
+counterargument|contraargumento||S|let|C2
+straw man|hombre de paja||L|let|C2
+slippery slope|pendiente resbaladiza||L|let|C2
+false dilemma|falsa dicotomía||L|let|C2
+ad hominem|argumento ad hominem||L|let|C2
+non sequitur|non sequitur||L|let|C2
+begging the question|petición de principio||L|let|C2
+red herring|pista falsa||L|let|C2
+equivocation|equívoco||S|let|C2
+sophistry|sofistería||S|let|C2
+sophism|sofisma||S|let|C2
+dialectics|dialéctica||S|let|C2
+diatribe|diatriba||S|let|C2
+apologia|apología||S|let|C2
+essayistic|ensayístico||A|let|C2
+dystopia|distopía||S|let|C2
+dystopian|distópico||A|let|C2
+utopian|utópico||A|let|C2
+utopian socialism|socialismo utópico||L|let|C2
+speculative fiction|ficción especulativa||L|let|C2
+world-building|construcción de mundos||S|let|C2
+alternate history|historia alternativa||L|let|C2
+post-apocalyptic|posapocalíptico||A|let|C2
+cyberpunk|cyberpunk||S|let|C2
+space opera|ópera espacial||L|let|C2
+first contact|primer contacto||L|let|C2
+terraforming|terraformación||S|let|C2
+time slip|salto temporal||L|let|C2
+automaton|autómata||S|let|C2
+simulacrum|simulacro||S|let|C2
+surveillance state|Estado de vigilancia||L|let|C2
+totalitarianism|totalitarismo||S|let|C2
+thought experiment|experimento mental||L|let|C2
+singularity|singularidad tecnológica||S|let|C2
+transhumanism|transhumanismo||S|let|C2
+cryonics|criónica||S|let|C2
+generation ship|nave generacional||L|let|C2
+misanthropy|misantropía||S|let|C2
+cautionary tale|relato de advertencia||L|let|C2
+eugenics|eugenesia||S|let|C2
+ecocide|ecocidio||S|let|C2
+posthumanism|poshumanismo||S|let|C2
+canon|canon||S|let|C2
+canonical|canónico||A|let|C2
+comparative literature|literatura comparada||L|let|C2
+world literature|literatura mundial||L|let|C2
+periodization|periodización||S|let|C2
+literary movement|movimiento literario||L|let|C2
+avant-garde|vanguardia||S|let|C2
+modernism|modernismo||S|let|C2
+postmodernism|posmodernismo||S|let|C2
+romanticism|romanticismo||S|let|C2
+transcendentalism|trascendentalismo||S|let|C2
+imagism|imagismo||S|let|C2
+magical realism|realismo mágico||L|let|C2
+naturalism|naturalismo||S|let|C2
+symbolism|simbolismo||S|let|C2
+aestheticism|esteticismo||S|let|C2
+reception theory|teoría de la recepción||L|let|C2
+horizon of expectations|horizonte de expectativas||L|let|C2
+minor literature|literatura menor||L|let|C2
+belles-lettres|bellas letras||L|let|C2
+pastiche|pastiche||S|let|C2
+burlesque|obra burlesca||S|let|C2
+epigone|epígono||S|let|C2
+anxiety of influence|ansiedad de la influencia||L|let|C2
+anthology|antología||S|let|C2
+variorum edition|edición variorum||L|let|C2
+habitus|habitus||S|let|C2
+pollster|encuestador||S|att|C2
+polling station|colegio electoral||L|att|C2
+exit poll|encuesta a pie de urna||L|att|C2
+canvassing|trabajo puerta a puerta||S|att|C2
+focus group|grupo de discusión||L|att|C2
+sampling error|margen de error||L|att|C2
+weighting|ponderación de la muestra||S|att|C2
+stratified sampling|muestreo estratificado||L|att|C2
+turnout|participación electoral||S|att|C2
+opinion leader|líder de opinión||L|att|C2
+bandwagon effect|efecto arrastre||L|att|C2
+echo chamber|cámara de resonancia||L|att|C2
+filter bubble|burbuja de filtros||L|att|C2
+groupthink|pensamiento de grupo||S|att|C2
+spin|sesgo interesado||S|att|C2
+sound bite|frase efectista||S|att|C2
+talking points|argumentario||L|att|C2
+pundit|analista||S|att|C2
+public sphere|esfera pública||L|att|C2
+undecided|indeciso||A|att|C2
+bellwether|termómetro electoral||S|att|C2
+landslide|victoria aplastante||S|att|C2
+plebiscite|plebiscito||S|att|C2
+ballot initiative|iniciativa ciudadana||L|att|C2
+gerrymandering|manipulación de circunscripciones||S|att|C2
+tracking poll|sondeo de seguimiento||L|att|C2
