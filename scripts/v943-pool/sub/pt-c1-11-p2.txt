@@ -1,0 +1,260 @@
+tradutologia|traductología||S|let|C1
+tradução automática|traducción automática||S|tec|C1
+língua de chegada|lengua de llegada||S|let|C1
+texto fonte|texto fuente||S|let|C1
+literalidade|literalidad||S|let|C1
+domesticação|domesticación (estrategia del traductor)||S|let|C1
+estrangeirização|extranjerización||S|let|C1
+estrangeirismo|extranjerismo||S|let|C1
+equivalência|equivalencia (traductora)||S|let|C1
+adequação|adecuación||S|let|C1
+legendagem|subtitulado||S|cin|C1
+dobragem|doblaje||S|cin|C1
+locução|locución (voz en off)||S|cin|C1
+reescrita|reescritura||S|let|C1
+invisibilidade|invisibilidad (del traductor)||S|let|C1
+mediador intercultural|mediador intercultural||S|let|C1
+calco|calco (léxico)||S|let|C1
+empréstimo|préstamo (léxico)||S|let|C1
+corretor de provas|corrector de pruebas||S|pro|C1
+interpretação de conferências|interpretación de conferencias||S|let|C1
+metalinguagem|metalenguaje||S|let|C1
+barbarismo|barbarismo||S|let|C1
+solecismo|solecismo||S|let|C1
+sobretitulação|surtitulado||S|cin|C1
+metatexto|metatexto||S|let|C1
+transcriação|transcreación||S|let|C1
+reformulação|reformulación||S|let|C1
+adaptação cultural|adaptación cultural||S|let|C1
+localização de software|localización de software||S|tec|C1
+falso amigo|falso amigo||S|let|C1
+alteridade|alteridad||S|let|C1
+polissistema|polisistema||S|let|C1
+audiodescrição|audiodescripción||S|cin|C1
+ensaísta|ensayista||S|let|C1
+diatribe|diatriba||S|let|C1
+controverso|controvertido||A|ast|C1
+opúsculo|opúsculo||S|let|C1
+ideário|ideario||S|ast|C1
+ideólogo|ideólogo||S|ast|C1
+conjectura|conjetura||S|ast|C1
+divagação|divagación||S|let|C1
+digressão|digresión||S|let|C1
+elucubração|elucubración||S|ast|C1
+disquisição|disquisición||S|ast|C1
+perspicaz|perspicaz||A|ast|C1
+refutação|refutación||S|ast|C1
+tréplica|tréplica||S|ast|C1
+invetiva|invectiva||S|let|C1
+panegírico|panegírico||S|let|C1
+elegíaco|elegíaco||A|let|C1
+libelo|libelo||S|let|C1
+heterodoxo|heterodoxo||A|ast|C1
+dogmático|dogmático||A|ast|C1
+sectário|sectario||A|ast|C1
+prosélito|prosélito||S|ast|C1
+apologia|apología||S|ast|C1
+impugnar|impugnar||V|ast|C1
+esgrimir|esgrimir (un argumento)||V|ast|C1
+pressuposto|presupuesto (idea asumida)||S|ast|C1
+corolário|corolario||S|ast|C1
+axiológico|axiológico||A|ast|C1
+epistemologia|epistemología||S|ast|C1
+discernimento|discernimiento||S|ast|C1
+lapidar|lapidario (conciso)||A|let|C1
+aporia|aporía||S|let|C1
+utopia|utopía||S|let|C1
+utópico|utópico||A|let|C1
+distopia|distopía||S|let|C1
+ucronia|ucronía||S|let|C1
+ficção científica|ciencia ficción||S|let|C1
+ficção especulativa|ficción especulativa||S|let|C1
+robótica|robótica||S|tec|C1
+androide|androide||S|let|C1
+apocalíptico|apocalíptico||A|let|C1
+cataclismo|cataclismo||S|let|C1
+despotismo|despotismo||S|ast|C1
+totalitarismo|totalitarismo||S|ast|C1
+interestelar|interestelar||A|let|C1
+futurologia|futurología||S|let|C1
+vaticínio|vaticinio||S|let|C1
+presságio|presagio||S|let|C1
+augúrio|augurio||S|let|C1
+catastrofismo|catastrofismo||S|let|C1
+pós-apocalíptico|posapocalíptico||A|let|C1
+universo paralelo|universo paralelo||S|let|C1
+viagem no tempo|viaje en el tiempo||S|let|C1
+anacronia|anacronía||S|let|C1
+analepse|analepsis||S|let|C1
+prolepse|prolepsis||S|let|C1
+simulacro|simulacro||S|let|C1
+hiperrealidade|hiperrealidad||S|let|C1
+artificialidade|artificialidad||S|let|C1
+eugenia|eugenesia||S|let|C1
+subversão|subversión||S|ast|C1
+contrafactual|contrafactual||A|ast|C1
+desesperança|desesperanza||S|emo|C1
+pária|paria||S|ast|C1
+onírico|onírico||A|let|C1
+comparatismo|comparatismo literario||S|let|C1
+comparatista|comparatista||S|let|C1
+cânone|canon||S|let|C1
+canónico|canónico||A|let|C1
+obra-prima|obra maestra||S|let|C1
+esteticismo|esteticismo||S|let|C1
+literatura mundial|literatura mundial||S|let|C1
+hibridismo|hibridismo||S|let|C1
+miscigenação|mestizaje||S|ast|C1
+crioulização|criollización||S|let|C1
+transculturalidade|transculturalidad||S|let|C1
+pós-colonial|poscolonial||A|let|C1
+indigenismo|indigenismo||S|let|C1
+orientalismo|orientalismo||S|let|C1
+eurocentrismo|eurocentrismo||S|let|C1
+história literária|historia literaria||S|let|C1
+crítica genética|crítica genética||S|let|C1
+intertexto|intertexto||S|let|C1
+hipertexto|hipertexto||S|let|C1
+paratexto|paratexto||S|let|C1
+género literário|género literario||S|let|C1
+subgénero|subgénero||S|let|C1
+narratologia|narratología||S|let|C1
+focalização|focalización||S|let|C1
+resenha|reseña||S|let|C1
+narratário|narratario||S|let|C1
+diegese|diegesis||S|let|C1
+coadjuvante|coadyuvante||A|let|C1
+sucesso editorial|éxito editorial||S|let|C1
+reedição|reedición||S|let|C1
+tiragem|tirada||S|let|C1
+leitor modelo|lector modelo||S|let|C1
+sondagem|sondeo de opinión||S|att|C1
+demoscopia|demoscopia||S|att|C1
+inquiridor|encuestador||S|pro|C1
+à boca das urnas|a pie de urna||E|att|C1
+amostragem|muestreo||S|sci|C1
+margem de erro|margen de error||S|att|C1
+desvio padrão|desviación típica||S|sci|C1
+percentil|percentil||S|sci|C1
+enviesamento|sesgo||S|sci|C1
+enviesado|sesgado||A|sci|C1
+representatividade|representatividad||S|att|C1
+intenção de voto|intención de voto||S|att|C1
+taxa de resposta|tasa de respuesta||S|att|C1
+esfera pública|esfera pública||S|att|C1
+agendamento|fijación de la agenda||S|cmu|C1
+enquadramento|encuadre (periodístico)||S|cmu|C1
+manchete|titular de portada||S|cmu|C1
+artigo de opinião|artículo de opinión||S|cmu|C1
+desinformação|desinformación||S|cmu|C1
+infodemia|infodemia||S|cmu|C1
+verificação de factos|verificación de datos||S|cmu|C1
+desmentido|desmentido||S|cmu|C1
+retificação|rectificación||S|cmu|C1
+linha editorial|línea editorial||S|cmu|C1
+voto útil|voto útil||S|att|C1
+abstenção|abstención||S|att|C1
+participação eleitoral|participación electoral||S|att|C1
+ciclo noticioso|ciclo de noticias||S|cmu|C1
+efeito de manada|efecto rebaño||S|att|C1
+espiral do silêncio|espiral del silencio||S|att|C1
+sensacionalista|sensacionalista||A|cmu|C1
+clivagem|clivaje (división social)||S|att|C1
+deliberativo|deliberativo||A|ast|C1
+acordo de paz|acuerdo de paz||S|ist|C1
+manutenção da paz|mantenimiento de la paz||S|ist|C1
+casco azul|casco azul (soldado de la ONU)||S|ist|C1
+sanção internacional|sanción internacional||S|ist|C1
+armistício|armisticio||S|ist|C1
+dissuasão|disuasión||S|ist|C1
+dissuasório|disuasorio||A|ist|C1
+não proliferação|no proliferación||S|ist|C1
+desarmamento|desarme||S|ist|C1
+rearme|rearme||S|ist|C1
+beligerante|beligerante||A|ist|C1
+belicista|belicista||A|ist|C1
+apaziguamento|apaciguamiento||S|ist|C1
+arbitragem|arbitraje||S|ist|C1
+insurgência|insurgencia||S|ist|C1
+insurreição|insurrección||S|ist|C1
+proteção civil|protección civil||S|ist|C1
+segurança coletiva|seguridad colectiva||S|ist|C1
+serviços de inteligência|servicios de inteligencia||S|ist|C1
+ciberataque|ciberataque||S|tec|C1
+cibersegurança|ciberseguridad||S|tec|C1
+geopolítico|geopolítico||A|ist|C1
+estrategista|estratega||S|pro|C1
+retaguarda|retaguardia||S|ist|C1
+crimes de guerra|crímenes de guerra||S|ist|C1
+escalada|escalada (de tensión)||S|ist|C1
+desescalada|desescalada||S|ist|C1
+zona tampão|zona de amortiguación||S|ist|C1
+estado falhado|estado fallido||S|ist|C1
+não alinhamento|no alineamiento||S|ist|C1
+diplomacia preventiva|diplomacia preventiva||S|ist|C1
+alto-comissário|alto comisario||S|ist|C1
+supranacional|supranacional||A|ist|C1
+integração regional|integración regional||S|ist|C1
+multilateralismo|multilateralismo||S|ist|C1
+unilateralismo|unilateralismo||S|ist|C1
+concertação|concertación||S|ist|C1
+convergência|convergencia (económica)||S|ist|C1
+harmonização|armonización (legislativa)||S|ist|C1
+normativo|normativo||A|ist|C1
+regulamentação|reglamentación||S|ist|C1
+regulamento|reglamento||S|ist|C1
+diretiva|directiva||S|ist|C1
+jurisdição|jurisdicción||S|ist|C1
+competência|competencia (atribución institucional)||S|ist|C1
+subsidiariedade|subsidiariedad||S|ist|C1
+proporcionalidade|proporcionalidad||S|ist|C1
+acervo|acervo (jurídico acumulado)||S|ist|C1
+cooperação reforçada|cooperación reforzada||S|ist|C1
+maioria qualificada|mayoría cualificada||S|ist|C1
+unanimidade|unanimidad||S|ist|C1
+direito de veto|derecho de veto||S|ist|C1
+presidência rotativa|presidencia de turno||S|ist|C1
+cimeira|cumbre||S|ist|C1
+secretariado|secretariado||S|ist|C1
+representação permanente|representación permanente||S|ist|C1
+ratificação|ratificación||S|ist|C1
+adesão|adhesión||S|ist|C1
+salvaguarda|salvaguardia||S|ist|C1
+pauta aduaneira|arancel aduanero||S|ist|C1
+união aduaneira|unión aduanera||S|ist|C1
+mercado único|mercado único||S|ist|C1
+livre circulação|libre circulación||S|ist|C1
+coesão|cohesión (territorial)||S|ist|C1
+apelo|llamamiento (internacional)||S|ist|C1
+estado-providência|estado de bienestar||S|ist|C1
+segurança social|seguridad social||S|ist|C1
+subsídio de desemprego|subsidio por desempleo||S|ist|C1
+abono de família|asignación familiar||S|ist|C1
+rendimento mínimo|renta mínima||S|ist|C1
+renda básica|renta básica||S|ist|C1
+bolsa de estudo|beca de estudio||S|ist|C1
+comparticipação|aportación pública (en medicamentos)||S|ist|C1
+copagamento|copago||S|ist|C1
+regime contributivo|régimen contributivo||S|ist|C1
+retenção na fonte|retención en la fuente||S|fin|C1
+imposto progressivo|impuesto progresivo||S|fin|C1
+fiscalização|fiscalización||S|ist|C1
+equidade|equidad||S|ast|C1
+discriminação positiva|discriminación positiva||S|ist|C1
+ação afirmativa|acción afirmativa||S|ist|C1
+quota de género|cuota de género||S|ist|C1
+teto salarial|tope salarial||S|ist|C1
+solidariedade intergeracional|solidaridad intergeneracional||S|ist|C1
+pensão de velhice|pensión de jubilación||S|ist|C1
+pensão de invalidez|pensión de invalidez||S|ist|C1
+cuidados continuados|cuidados continuos||S|ist|C1
+apoio domiciliário|ayuda a domicilio||S|ist|C1
+lar de idosos|residencia de ancianos||S|ist|C1
+cuidador informal|cuidador informal||S|ist|C1
+conciliação|conciliación (laboral y familiar)||S|ist|C1
+parentalidade|parentalidad||S|ist|C1
+marginalização|marginalización||S|ast|C1
+inserção profissional|inserción profesional||S|ist|C1
+cobertura sanitária|cobertura sanitaria||S|ist|C1
+condicionalidade|condicionalidad||S|ist|C1
+austeridade|austeridad||S|fin|C1

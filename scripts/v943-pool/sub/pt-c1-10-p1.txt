@@ -1,0 +1,260 @@
+vindima|vendimia||S|ali|C1
+lagar|lagar (prensa de uva)||S|ali|C1
+mosto|mosto||S|ali|C1
+casta|cepa (variedad de vid)||S|ali|C1
+vinificação|vinificación||S|ali|C1
+enólogo|enólogo||S|pro|C1
+escanção|escanciador (sumiller)||S|pro|C1
+prova de vinhos|cata de vinos||L|ris|C1
+borras|lías (posos del vino)||S|ali|C1
+abafado|abocado (vino licoroso)||A|ali|C1
+jeropiga|mosto dulce licorado||S|ali|C1
+engarrafamento|embotellado||S|ali|C1
+contra-rótulo|contraetiqueta||S|ali|C1
+decantar|decantar (el vino)||V|ris|C1
+remontagem|remontado (bombeo del mosto)||S|sci|C1
+tanino|tanino||S|ali|C1
+adstringente|astringente||A|ali|C1
+maturação|maduración||S|ali|C1
+salmoura|salmuera||S|ali|C1
+defumado|ahumado||S|ali|C1
+miudezas|menudillos (casquería)||S|ris|C1
+cataplana|cataplana (guiso de marisco)||S|ris|C1
+açorda|açorda (sopa de pan con cilantro)||S|ris|C1
+polvo à lagareiro|pulpo a la lagareira||L|ris|C1
+empratar|emplatar||V|ris|C1
+guarnecer|guarnecer||V|ris|C1
+saltear|saltear||V|ris|C1
+escalfar|escalfar (pochar)||V|ris|C1
+levedar|leudar||V|ali|C1
+sovar|sobadar (amasar a fondo)||V|ali|C1
+doçaria|repostería||S|ali|C1
+requintado|refinado||A|ris|C1
+etologia|etología||S|sci|C1
+inato|innato||A|sci|C1
+nidificação|nidificación||S|ani|C1
+irrupção|irrupción (de aves migradoras)||S|ani|C1
+penugem|plumón (pelusa)||S|ani|C1
+crisálida|crisálida||S|ani|C1
+ecdise|muda (ecdisis)||S|sci|C1
+ofídio|ofidio||S|ani|C1
+batrácio|batracio||S|ani|C1
+lagomorfo|lagomorfo||S|ani|C1
+cetáceo|cetáceo||S|ani|C1
+pinípede|pinípedo||S|ani|C1
+quiróptero|quiróptero||S|ani|C1
+marsupial|marsupial||S|ani|C1
+ungulado|ungulado||S|ani|C1
+necrófago|necrófago||S|ani|C1
+mimetismo|mimetismo||S|sci|C1
+aposematismo|aposematismo||S|sci|C1
+gregário|gregario||A|ani|C1
+enxame|enjambre||S|ani|C1
+zangão|zángano||S|ani|C1
+aracnídeo|arácnido||S|ani|C1
+bivalve|bivalvo||S|ani|C1
+cefalópode|cefalópodo||S|ani|C1
+sifão|sifón (de cefalópodos)||S|ani|C1
+arribação|arribazón (de tortugas)||S|ani|C1
+revoada|vuelo en bandada||S|ani|C1
+covil|guarida (madriguera)||S|ani|C1
+cortejo nupcial|parada nupcial||L|ani|C1
+acasalamento|apareamiento||S|ani|C1
+hibernação|hibernación||S|ani|C1
+estivação|estivación (letargo estival)||S|ani|C1
+epífita|epífita||S|nat|C1
+liana|liana||S|nat|C1
+xerófila|xerófila||A|nat|C1
+caducifólia|caducifolia||A|nat|C1
+súber|súber (corteza del corcho)||S|nat|C1
+lenho|leño||S|nat|C1
+lenhoso|leñoso||A|nat|C1
+estipe|estípite (tronco de palmera)||S|nat|C1
+rizoma|rizoma||S|nat|C1
+estolão|estolón||S|nat|C1
+gomo|yema (brote)||S|nat|C1
+pecíolo|pecíolo||S|nat|C1
+estame|estambre||S|nat|C1
+pistilo|pistilo||S|nat|C1
+polinização|polinización||S|nat|C1
+anemofilia|anemofilia||S|nat|C1
+deiscência|dehiscencia||S|sci|C1
+briófito|briófito||S|nat|C1
+liquén|liquen||S|nat|C1
+micorriza|micorriza||S|nat|C1
+sucessão ecológica|sucesión ecológica||L|nat|C1
+biótopo|biotopo||S|nat|C1
+nicho ecológico|nicho ecológico||L|nat|C1
+charneca|brezal (páramo)||S|nat|C1
+medronhal|madroneño (bosque de madroños)||S|nat|C1
+autóctone|autóctono||A|nat|C1
+ripícola|ripícola||A|nat|C1
+reflorestação|repoblación forestal||S|nat|C1
+turfeira|turbera||S|nat|C1
+lameiro|prado húmedo||S|nat|C1
+sobreiral|alcornocal||S|nat|C1
+eucaliptal|eucaliptal (bosque de eucaliptos)||S|nat|C1
+longa duração|larga duración||L|tmp|C1
+memória coletiva|memoria colectiva||L|tmp|C1
+testemunho|testimonio||S|tmp|C1
+testemunhal|testimonial||A|tmp|C1
+rememorar|rememorar||V|tmp|C1
+resgatar|rescatar (la memoria)||V|tmp|C1
+esquecimento|olvido||S|tmp|C1
+saudoso|añorante||A|emo|C1
+anacrónico|anacrónico||A|tmp|C1
+diacronia|diacronía||S|tmp|C1
+sincronia|sincronía||S|tmp|C1
+efemeridade|efimeridad||S|tmp|C1
+transitoriedade|transitoriedad||S|tmp|C1
+fugacidade|fugacidad||S|tmp|C1
+decurso|transcurso||S|tmp|C1
+interregno|interregno||S|tmp|C1
+vicissitude|vicisitud||S|tmp|C1
+linhagem|linaje||S|tmp|C1
+posteridade|posteridad||S|tmp|C1
+secular|secular||A|tmp|C1
+imemorial|inmemorial||A|tmp|C1
+contemporaneidade|contemporaneidad||S|tmp|C1
+atemporal|atemporal||A|tmp|C1
+recorrência|recurrencia||S|tmp|C1
+estagnação|estancamiento||S|tmp|C1
+vestígio|vestigio||S|tmp|C1
+palimpsesto|palimpsesto||S|let|C1
+historiografia|historiografía||S|stu|C1
+arquivística|archivística||S|ist|C1
+fontes documentais|fuentes documentales||L|tmp|C1
+perpetuidade|perpetuidad||S|tmp|C1
+lapso|lapso||S|tmp|C1
+criptoativo|criptoactivo||S|fin|C1
+criptomoeda|criptomoneda||S|fin|C1
+cadeia de blocos|cadena de bloques||L|tec|C1
+livro-razão|libro mayor (registro contable)||S|fin|C1
+carteira digital|cartera digital||L|fin|C1
+carteira fria|cartera fría||L|fin|C1
+chave privada|clave privada||L|fin|C1
+chave pública|clave pública||L|fin|C1
+criptografia|criptografía||S|tec|C1
+criptografar|cifrar||V|tec|C1
+minerar|minar (criptomonedas)||V|fin|C1
+mineração|minería (de criptomonedas)||S|fin|C1
+prova de trabalho|prueba de trabajo||L|fin|C1
+contratos inteligentes|contratos inteligentes||L|fin|C1
+moeda fiduciária|moneda fiduciaria||L|fin|C1
+tokenização|tokenización||S|fin|C1
+financeirização|financiarización||S|fin|C1
+desintermediação|desintermediación||S|fin|C1
+descentralização|descentralización||S|fin|C1
+escalabilidade|escalabilidad||S|tec|C1
+interoperabilidade|interoperabilidad||S|tec|C1
+volatilidade|volatilidad||S|fin|C1
+bolha especulativa|burbuja especulativa||L|fin|C1
+desvalorização|desvalorización||S|fin|C1
+corretagem|corretaje||S|fin|C1
+ciberataque|ciberataque||S|tec|C1
+cibersegurança|ciberseguridad||S|tec|C1
+lavagem de dinheiro|blanqueo de dinero||L|fin|C1
+anonimato|anonimato||S|fin|C1
+burla informática|estafa informática||L|tec|C1
+oráculo|oráculo (fuente de datos)||S|tec|C1
+juros compostos|interés compuesto||L|fin|C1
+notário|notario||S|pro|C1
+notarial|notarial||A|ist|C1
+cartório|notaría||S|ist|C1
+conservatória|oficina registral||S|ist|C1
+conservador|registrador||S|pro|C1
+escritura pública|escritura pública||L|ist|C1
+escriturar|otorgar escritura||V|ist|C1
+outorga|otorgamiento||S|ist|C1
+outorgante|otorgante||S|ist|C1
+comparecente|compareciente||S|ist|C1
+apostila|apostilla||S|ist|C1
+certidão|certificación (copia certificada)||S|ist|C1
+certidão de teor|certificación de contenido||L|ist|C1
+averbamento|anotación registral||S|ist|C1
+averbar|anotar (en el registro)||V|ist|C1
+apontamento|asiento provisional||S|ist|C1
+penhora|embargo de bienes||S|ist|C1
+penhorar|embargar||V|ist|C1
+ónus|carga (gravamen)||S|ist|C1
+servidão|servidumbre||S|ist|C1
+usufruto|usufructo||S|ist|C1
+usufrutuário|usufructuario||S|ist|C1
+compropriedade|copropiedad||S|ist|C1
+posse|posesión||S|ist|C1
+possuidor|poseedor||S|ist|C1
+prescrição aquisitiva|usucapión||L|ist|C1
+trato sucessivo|tracto sucesivo||L|ist|C1
+cancelamento|cancelación (de asiento)||S|ist|C1
+testamenteiro|albacea||S|pro|C1
+herança jacente|herencia yacente||L|ist|C1
+partilha|partición (herencial)||S|ist|C1
+sinal|arras (señal)||S|ist|C1
+poder executivo|poder ejecutivo||L|ist|C1
+ato administrativo|acto administrativo||L|ist|C1
+regulamento|reglamento||S|ist|C1
+regulamentar|reglamentar||V|ist|C1
+discricionário|discrecional||A|ist|C1
+discricionariedade|discrecionalidad||S|ist|C1
+jurisdição|jurisdicción||S|ist|C1
+contencioso administrativo|contencioso administrativo||L|ist|C1
+recurso hierárquico|recurso jerárquico||L|ist|C1
+recurso contencioso|recurso contencioso||L|ist|C1
+intimação|intimación (requerimiento)||S|ist|C1
+intimar|intimar||V|ist|C1
+despacho|proveído||S|ist|C1
+instrução|instrucción (del procedimiento)||S|ist|C1
+instruir|instruir (un expediente)||V|ist|C1
+contraditório|contradictorio||A|ist|C1
+impugnação|impugnación||S|ist|C1
+impugnar|impugnar||V|ist|C1
+anulação|anulación||S|ist|C1
+revogação|revocación||S|ist|C1
+revogar|revocar||V|ist|C1
+cassação|destitución (anulación)||S|ist|C1
+caducidade|caducidad||S|ist|C1
+dilação|dilación||S|ist|C1
+fundamentação|motivación (fundamentación)||S|ist|C1
+fundamentar|fundamentar||V|ist|C1
+jurisprudência|jurisprudencia||S|ist|C1
+legitimidade processual|legitimación procesal||L|ist|C1
+desapropriação|expropiación||S|ist|C1
+contraordenação|contravención administrativa||S|ist|C1
+coima|multa (sanción administrativa)||S|ist|C1
+interesse legítimo|interés legítimo||L|ist|C1
+criminologia|criminología||S|sci|C1
+criminólogo|criminólogo||S|pro|C1
+penologia|penología||S|sci|C1
+vitimologia|victimología||S|sci|C1
+delinquência|delincuencia||S|ist|C1
+delinquente|delincuente||S|ist|C1
+criminalizar|criminalizar||V|ist|C1
+criminalística|criminalística||S|sci|C1
+reincidência|reincidencia||S|ist|C1
+reincidente|reincidente||S|ist|C1
+ressocialização|resocialización||S|ist|C1
+reinserção social|reinserción social||L|ist|C1
+pena suspensa|pena suspendida||L|ist|C1
+prisão preventiva|prisión preventiva||L|ist|C1
+liberdade condicional|libertad condicional||L|ist|C1
+regime aberto|tercer grado (régimen abierto)||L|ist|C1
+remissão|remisión (de la pena)||S|ist|C1
+comutação|conmutación (de pena)||S|ist|C1
+indulto|indulto||S|ist|C1
+amnistia|amnistía||S|ist|C1
+agravante|agravante||S|ist|C1
+atenuante|atenuante||S|ist|C1
+reclusão|reclusión||S|ist|C1
+recluso|recluso||S|ist|C1
+estabelecimento prisional|centro penitenciario||L|ist|C1
+vigilância eletrónica|vigilancia electrónica||L|ist|C1
+tornozeleira|tobillera electrónica||S|ist|C1
+peritagem|peritaje||S|ist|C1
+perito|perito||S|pro|C1
+arguido|imputado (investigado)||S|ist|C1
+foragido|prófugo||S|ist|C1
+mandado de captura|orden de busca y captura||L|ist|C1
+tratado|tratado||S|ist|C1
+convenção|convenio||S|ist|C1
+ratificação|ratificación||S|ist|C1
+ratificar|ratificar||V|ist|C1

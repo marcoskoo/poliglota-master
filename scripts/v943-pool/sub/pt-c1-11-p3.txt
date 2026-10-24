@@ -1,0 +1,260 @@
+contestação|contestación||S|ast|C1
+contestatário|contestatario||A|ast|C1
+reivindicação|reivindicación||S|ast|C1
+reivindicar|reivindicar||V|ast|C1
+piquete de greve|piquete de huelga||S|ast|C1
+sindicalismo|sindicalismo||S|ast|C1
+acampamento|campamento (de protesta)||S|ast|C1
+desobediência civil|desobediencia civil||S|ast|C1
+não violência|no violencia||S|ast|C1
+sentada|sentada (protesta)||S|ast|C1
+comício|mitin||S|ast|C1
+palavra de ordem|consigna||S|ast|C1
+concentração|concentración (convocatoria)||S|ast|C1
+mobilização|movilización||S|ast|C1
+militância|militancia||S|ast|C1
+carga policial|carga policial||S|ast|C1
+gás lacrimogéneo|gas lacrimógeno||S|ast|C1
+liberdade provisória|libertad provisional||S|ist|C1
+movimento social|movimiento social||S|ast|C1
+terceiro setor|tercer sector||S|ast|C1
+ação coletiva|acción colectiva||S|ast|C1
+indignação|indignación||S|emo|C1
+amotinamento|motín||S|ast|C1
+arruço|alteración del orden público||S|ast|C1
+boicote|boicot||S|ast|C1
+greve de fome|huelga de hambre||S|ast|C1
+cadeia humana|cadena humana||S|ast|C1
+abaixo-assinado|petición firmada (bajo firmas)||S|ast|C1
+angariação de assinaturas|captación de firmas||S|ast|C1
+coligação|coalición||S|ast|C1
+frente comum|frente común||S|ast|C1
+emancipação|emancipación||S|ast|C1
+tomar as ruas|tomar las calles||E|ast|C1
+suborno|soborno||S|ist|C1
+subornar|sobornar||V|ist|C1
+branqueamento de capitais|blanqueo de capitales||S|fin|C1
+branquear|blanquear (dinero sucio)||V|fin|C1
+desvio de fundos|desvío de fondos||S|ist|C1
+desfalque|apropiación indebida||S|fin|C1
+peculato|peculado||S|ist|C1
+conflito de interesses|conflicto de intereses||S|ist|C1
+abuso de poder|abuso de poder||S|ist|C1
+nepotismo|nepotismo||S|ist|C1
+clientelismo|clientelismo||S|ist|C1
+compadrio|compadreo||S|ast|C1
+favoritismo|favoritismo||S|ist|C1
+conluio|colusión||S|ist|C1
+encobrimento|encubrimiento||S|ist|C1
+paraíso fiscal|paraíso fiscal||S|fin|C1
+fuga de capitais|fuga de capitales||S|fin|C1
+transparência|transparencia||S|ist|C1
+opacidade|opacidad||S|ast|C1
+auditoria|auditoría||S|ist|C1
+contabilidade criativa|contabilidad creativa||S|fin|C1
+responsabilização|responsabilización||S|ist|C1
+destituição|destitución||S|ist|C1
+suspeição|recusación (del juez)||S|ist|C1
+escuta|escucha (intervención telefónica)||S|ist|C1
+busca e apreensão|registro e incautación||S|ist|C1
+arguido|imputado (investigado)||S|ist|C1
+instrução|instrucción (de la causa)||S|ist|C1
+prescrição|prescripción (del delito)||S|ist|C1
+impunidade|impunidad||S|ist|C1
+recuperação de ativos|recuperación de activos||S|ist|C1
+confiscação de bens|confiscación de bienes||S|ist|C1
+demografia|demografía||S|ast|C1
+censo|censo||S|ist|C1
+recenseamento|padrón municipal||S|ist|C1
+envelhecimento|envejecimiento (de la población)||S|ast|C1
+pirâmide etária|pirámide de población||S|ast|C1
+explosão demográfica|explosión demográfica||S|ast|C1
+êxodo rural|éxodo rural||S|ast|C1
+êxodo cerebral|fuga de cerebros||S|ast|C1
+despovoamento|despoblamiento||S|ast|C1
+povoamento|poblamiento||S|ast|C1
+corrente migratória|flujo migratorio||S|ast|C1
+requerente de asilo|solicitante de asilo||S|ist|C1
+apátrida|apátrida||S|ist|C1
+naturalização|naturalización||S|ist|C1
+dupla nacionalidade|doble nacionalidad||S|ist|C1
+visto de residência|permiso de residencia||S|ist|C1
+reagrupamento familiar|reagrupación familiar||S|ist|C1
+diáspora|diáspora||S|ast|C1
+expatriação|expatriación||S|ast|C1
+repatriação|repatriación||S|ist|C1
+enclave|enclave (de inmigrantes)||S|ast|C1
+acolhimento|acogida (de refugiados)||S|ast|C1
+quotas de imigração|cupos de inmigración||S|ist|C1
+tráfico de seres humanos|trata de seres humanos||S|ist|C1
+remessa|remesa (de dinero)||S|fin|C1
+trabalhador sazonal|trabajador estacional||S|lav|C1
+transnacional|transnacional||A|ast|C1
+deslocalização|deslocalización (de empresas)||S|ast|C1
+regressado|retornado||S|ast|C1
+luso-descendente|de ascendencia portuguesa||S|ast|C1
+taxa de fecundidade|tasa de fecundidad||S|ast|C1
+saldo migratório|saldo migratorio||S|ast|C1
+população ativa|población activa||S|ast|C1
+iconografia|iconografía||S|art|C1
+iconográfico|iconográfico||A|art|C1
+simbologia|simbología||S|art|C1
+atributo|atributo (iconográfico)||S|art|C1
+hagiografia|hagiografía||S|art|C1
+numinoso|numinoso||A|ast|C1
+totémico|totémico||A|art|C1
+litúrgico|litúrgico||A|art|C1
+sacralidade|sacralidad||S|ast|C1
+sacralizar|sacralizar||V|ast|C1
+emblemática|emblemática||S|art|C1
+heráldica|heráldica||S|art|C1
+brasão|blasón||S|art|C1
+esquartelado|cuartelado (blasón)||A|art|C1
+sigilografia|sigilografía||S|art|C1
+numismática|numismática||S|art|C1
+glifo|glifo||S|art|C1
+hieróglifo|jeroglífico||S|art|C1
+ideograma|ideograma||S|art|C1
+iconoclastia|iconoclastia||S|ast|C1
+relicário|relicario||S|art|C1
+retábulo|retablo||S|art|C1
+políptico|políptico||S|art|C1
+tríptico|tríptico||S|art|C1
+hermetismo|hermetismo||S|art|C1
+esotérico|esotérico||A|art|C1
+talismã|talismán||S|art|C1
+bestiário|bestiario||S|art|C1
+profanar|profanar||V|ast|C1
+cromatismo|cromatismo||S|art|C1
+nimbo|nimbo (aureola de un santo)||S|art|C1
+tetramorfos|tetramorfos||S|art|C1
+ourivesaria|orfebrería||S|art|C1
+ourives|orfebre||S|pro|C1
+joalharia|joyería||S|art|C1
+filigrana|filigrana||S|art|C1
+gravação|grabado (en metal)||S|art|C1
+cinzelar|cincelar||V|art|C1
+cinzel|cincel||S|art|C1
+nielado|nielado||S|art|C1
+marchetaria|marquetería||S|art|C1
+talha|talla (retablo de madera)||S|art|C1
+douramento|dorado (con oro fino)||S|art|C1
+prataria|platería||S|art|C1
+faiança|loza esmaltada||S|art|C1
+azulejaria|arte del azulejo||S|art|C1
+vidraria|vidriería||S|art|C1
+serralharia|herrería (forja artística)||S|art|C1
+fundição|fundición||S|art|C1
+entalhe|tallado (de madera)||S|art|C1
+marcenaria|ebanistería||S|art|C1
+tapeçaria|tapicería||S|art|C1
+mobiliário|mobiliario||S|art|C1
+ebanista|ebanista||S|pro|C1
+desenho industrial|diseño industrial||S|art|C1
+ergonomia|ergonomía||S|sci|C1
+minimalismo|minimalismo||S|art|C1
+pátina|pátina||S|art|C1
+buril|buril||S|art|C1
+água-forte|aguafuerte||S|art|C1
+serigrafia|serigrafía||S|art|C1
+madrepérola|madreperla||S|art|C1
+pedraria|pedrería||S|art|C1
+lapidação|tallado (de gemas)||S|art|C1
+cravejado|engastado (de piedras)||A|art|C1
+fotograma|fotograma||S|art|C1
+instantâneo|instantánea (fotografía)||S|art|C1
+câmara escura|cámara oscura||S|art|C1
+diafragma|diafragma (de la cámara)||S|art|C1
+obturador|obturador||S|art|C1
+tempo de exposição|tiempo de exposición||S|art|C1
+sobreposição|sobreimpresión||S|art|C1
+granulação|grano (de la película)||S|art|C1
+profundidade de campo|profundidad de campo||S|art|C1
+focagem|enfoque||S|art|C1
+desfocado|desenfocado||A|art|C1
+teleobjetiva|teleobjetivo||S|art|C1
+grande angular|gran angular||S|art|C1
+contraluz|contraluz||S|art|C1
+luz rasante|luz rasante||S|art|C1
+claro-escuro|claroscuro||S|art|C1
+ampliação|ampliación (fotográfica)||S|art|C1
+pixelado|pixelado||A|tec|C1
+pós-produção|posproducción||S|art|C1
+montagem|montaje (fotográfico)||S|art|C1
+colagem|collage||S|art|C1
+instalação|instalación (arte)||S|art|C1
+arte conceptual|arte conceptual||S|art|C1
+videoarte|videoarte||S|art|C1
+arte urbana|arte urbano||S|art|C1
+suporte|soporte (de la obra)||S|art|C1
+ensaio fotográfico|ensayo fotográfico||S|art|C1
+fotorreportagem|fotorreportaje||S|cmu|C1
+restauro|restauración (de obras)||S|art|C1
+cavalete|caballete||S|art|C1
+ateliê|taller de artista||S|art|C1
+curadoria|comisariado de exposiciones||S|art|C1
+arquitetónico|arquitectónico||A|art|C1
+abóbada|bóveda||S|art|C1
+abóbada de aresta|bóveda de arista||S|art|C1
+arco-botante|arbotante||S|art|C1
+contraforte|contrafuerte||S|art|C1
+pináculo|pináculo||S|art|C1
+ogiva|ojiva||S|art|C1
+neogótico|neogótico||A|art|C1
+manuelino|manuelino (estilo)||A|art|C1
+rococó|rococó||A|art|C1
+neoclássico|neoclásico||A|art|C1
+pombalino|pombalino (estilo)||A|art|C1
+racionalismo|racionalismo (arquitectónico)||S|art|C1
+alvenaria|fábrica de albañilería||S|art|C1
+silhar|sillar||S|art|C1
+cantaria|cantería||S|art|C1
+betão armado|hormigón armado||S|art|C1
+ensoleiramento|solera de cimentación||S|art|C1
+pilastra|pilastra||S|art|C1
+colunata|columnata||S|art|C1
+entablamento|entablamento||S|art|C1
+tímpano|tímpano (de un portal)||S|art|C1
+rosácea|rosetón||S|art|C1
+aduela|dovela||S|art|C1
+balaustrada|balaustrada||S|art|C1
+platibanda|platibanda (pretil)||S|art|C1
+cimalha|cornisa||S|art|C1
+soco|zócalo||S|art|C1
+adro|atrio de una iglesia||S|art|C1
+escadaria|escalinata||S|art|C1
+cumeeira|cumbrera||S|art|C1
+cunhal|pilastra en ángulo||S|art|C1
+ombreira|jamba (de puerta)||S|art|C1
+primeiro bailarino|primer bailarín||S|art|C1
+coreografia|coreografía||S|art|C1
+corpo de baile|cuerpo de baile||S|art|C1
+sapatilha de ponta|zapatilla de puntas||S|art|C1
+barra|barra (de danza)||S|art|C1
+passo a dois|paso a dos||S|art|C1
+dança contemporânea|danza contemporánea||S|art|C1
+performativo|performativo||A|art|C1
+mimo|mimo (artista)||S|art|C1
+circo contemporâneo|circo contemporáneo||S|art|C1
+malabarismo|malabares||S|art|C1
+equilibrismo|virtuosismo de equilibrio||S|art|C1
+pré-estreia|preestreno||S|art|C1
+adágio|adagio (en danza)||S|art|C1
+fossa orquestral|foso de orquesta||S|art|C1
+notação de movimento|notación de movimiento||S|art|C1
+cinestesia|cinestesia||S|sci|C1
+propriocepção|propiocepción||S|sci|C1
+porte|porte (figura)||S|art|C1
+etéreo|etéreo||A|art|C1
+deixa|deixa (señal de entrada)||S|art|C1
+pano de fundo|telón de fondo||S|art|C1
+teatro-dança|teatro danza||S|art|C1
+marcação|marcación (coreográfica)||S|art|C1
+deslocamento|desplazamiento escénico||S|art|C1
+ocupação do espaço|ocupación del espacio||S|art|C1
+gestual|repertorio gestual||S|art|C1
+meia-ponta|media punta||S|art|C1
+bailado|ballet (coreografía)||S|art|C1
+solista convidado|solista invitado||S|art|C1
+mestre de balé|maestro de ballet||S|art|C1
+coxia|coxia (laterales de escena)||S|art|C1

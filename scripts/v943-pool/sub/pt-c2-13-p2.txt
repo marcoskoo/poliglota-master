@@ -1,0 +1,294 @@
+balanço|balance (de situación)||S|fin|C2
+balancete|balance de sumas y saldos||S|fin|C2
+demonstração de resultados|cuenta de resultados||L|fin|C2
+fluxo de caixa|flujo de caja||L|fin|C2
+valor contabilístico|valor contable||L|fin|C2
+depreciação|amortización (contable)||S|fin|C2
+reavaliação de ativos|revalorización de activos||L|fin|C2
+crédito de cobrança duvidosa|crédito de dudoso cobro||L|fin|C2
+imposto diferido|impuesto diferido||L|fin|C2
+imposto sobre o lucro|impuesto sobre sociedades||L|fin|C2
+lucro tributável|beneficio imponible||L|fin|C2
+valor justo|valor razonable||L|fin|C2
+fundos próprios|fondos propios||L|fin|C2
+capitais alheios|recursos ajenos||L|fin|C2
+auditoria|auditoría||S|lav|C2
+auditor|auditor||S|pro|C2
+contas anuais|cuentas anuales||L|fin|C2
+rácio de liquidez|ratio de liquidez||L|fin|C2
+rácio de endividamento|ratio de endeudamiento||L|fin|C2
+proveito|ingreso (de explotación)||S|fin|C2
+diferimento|diferimiento (contable)||S|fin|C2
+escrituração|registro contable||S|fin|C2
+razão|libro mayor||S|fin|C2
+diário|libro diario||S|fin|C2
+passivo exigível|pasivo exigible||L|fin|C2
+trespasse|fondo de comercio||S|fin|C2
+sociedade-mãe|sociedad matriz||S|fin|C2
+participações financeiras|participaciones financieras||L|fin|C2
+fusão de empresas|fusión de empresas||L|fin|C2
+cisão|escisión (de sociedades)||S|fin|C2
+liquidação de sociedade|liquidación de sociedad||L|fin|C2
+falência|quiebra (concurso de acreedores)||S|fin|C2
+acordo de credores|acuerdo de acreedores||L|fin|C2
+derivado financeiro|derivado financiero||S|fin|C2
+contrato a prazo|contrato a plazo||L|fin|C2
+contrato de futuros|contrato de futuros||L|fin|C2
+opção de compra|opción de compra||L|fin|C2
+opção de venda|opción de venta||L|fin|C2
+prémio de emissão|prima de emisión||L|fin|C2
+ação ao portador|acción al portador||L|fin|C2
+obrigação do tesouro|bono del tesoro||L|fin|C2
+obrigação convertível|obligación convertible||L|fin|C2
+rendibilidade|rentabilidad||S|fin|C2
+rendimento|rendimiento (de un activo)||S|fin|C2
+volatilidade|volatilidad||S|fin|C2
+alavancagem|apalancamiento||S|fin|C2
+venda a descoberto|venta al descubierto||L|fin|C2
+margem de garantia|margen de garantía||L|fin|C2
+colateral|colateral (garantía real)||S|fin|C2
+risco de crédito|riesgo de crédito||L|fin|C2
+risco sistémico|riesgo sistémico||L|fin|C2
+teste de resistência|test de resistencia||L|fin|C2
+realização de lucros|toma de beneficios||L|fin|C2
+bolha especulativa|burbuja especulativa||L|fin|C2
+especulação|especulación (financiera)||S|fin|C2
+investidor institucional|inversor institucional||L|fin|C2
+oferta pública de aquisição|opa (oferta pública de adquisición)||L|fin|C2
+informação privilegiada|información privilegiada||L|fin|C2
+corretagem|corretaje (comisión de intermediación)||S|fin|C2
+custódia de títulos|custodia de valores||L|fin|C2
+mercado secundário|mercado secundario||L|fin|C2
+cupão|cupón (de un bono)||S|fin|C2
+juro composto|interés compuesto||L|fin|C2
+vencimento|vencimiento (de un activo)||S|fin|C2
+exposição|exposición (al riesgo)||S|fin|C2
+índice bolsista|índice bursátil||L|fin|C2
+alelo|alelo||S|sci|C2
+homozigoto|homocigoto||S|sci|C2
+heterozigoto|heterocigoto||S|sci|C2
+cromossoma|cromosoma||S|sci|C2
+cromatina|cromatina||S|sci|C2
+mitose|mitosis||S|sci|C2
+meiose|meiosis||S|sci|C2
+transcrição|transcripción (genética)||S|sci|C2
+tradução|traducción (síntesis de proteínas)||S|sci|C2
+codão|codón||S|sci|C2
+código genético|código genético||L|sci|C2
+mendeliano|mendeliano||A|sci|C2
+herdabilidade|heredabilidad||S|sci|C2
+mutação|mutación||S|sci|C2
+recombinação homóloga|recombinación homóloga||L|sci|C2
+sequenciação|secuenciación||S|sci|C2
+polimorfismo|polimorfismo||S|sci|C2
+expressão génica|expresión génica||L|sci|C2
+epigenética|epigenética||S|sci|C2
+metilação|metilación (del ADN)||S|sci|C2
+telómero|telómero||S|sci|C2
+herança ligada ao sexo|herencia ligada al sexo||L|sci|C2
+consanguinidade|consanguinidad||S|sci|C2
+penetrância|penetrancia||S|sci|C2
+mosaicismo|mosaicismo||S|sci|C2
+aneuploidia|aneuploidía||S|sci|C2
+clonagem|clonación||S|sci|C2
+plasmídeo|plásmido||S|sci|C2
+enzima de restrição|enzima de restricción||L|sci|C2
+proteoma|proteoma||S|sci|C2
+quiasma|quiasma (cromosómico)||S|sci|C2
+haploide|haploide||A|sci|C2
+diploide|diploide||A|sci|C2
+anticorpo|anticuerpo||S|sci|C2
+antigénio|antígeno||S|sci|C2
+imunidade adaptativa|inmunidad adaptativa||L|sci|C2
+resposta imunitária|respuesta inmunitaria||L|sci|C2
+linfócito|linfocito||S|sci|C2
+fagocitose|fagocitosis||S|sci|C2
+timo|timo (glándula)||S|sci|C2
+medula óssea|medula ósea||L|sci|C2
+imunoglobulina|inmunoglobulina||S|sci|C2
+interleucina|interleucina||S|sci|C2
+citocina|citoquina||S|sci|C2
+soroconversão|seroconversión||S|sci|C2
+hipersensibilidade|hipersensibilidad||S|sci|C2
+alergénio|alérgeno||S|sci|C2
+anafilaxia|anafilaxia||S|sci|C2
+sorologia|serología||S|sci|C2
+tolerância|tolerancia (inmunológica)||S|sci|C2
+enxerto|injerto||S|sci|C2
+rejeição|rechazo (del injerto)||S|sci|C2
+patogenicidade|patogenicidad||S|sci|C2
+virulência|virulencia||S|sci|C2
+saprófito|saprófito||A|sci|C2
+anaeróbio|anaerobio||A|sci|C2
+aeróbio|aerobio||A|sci|C2
+esporo|espora||S|sci|C2
+antibiograma|antibiograma||S|sci|C2
+meio de cultura|medio de cultivo||L|sci|C2
+colónia bacteriana|colonia bacteriana||L|sci|C2
+bacilo|bacilo||S|sci|C2
+espiroqueta|espiroqueta||S|sci|C2
+retrovírus|retrovirus||S|sci|C2
+oncogénico|oncogénico||A|sci|C2
+linfoma|linfoma||S|sci|C2
+sinapse|sinapsis||S|sci|C2
+neurotransmissor|neurotransmisor||S|sci|C2
+neurónio|neurona||S|sci|C2
+córtex|corteza cerebral||S|sci|C2
+cerebelo|cerebelo||S|sci|C2
+hipotálamo|hipotálamo||S|sci|C2
+amígdala|amígdala (cerebral)||S|sci|C2
+hipocampo|hipocampo||S|sci|C2
+tálamo|tálamo||S|sci|C2
+mielina|mielina||S|sci|C2
+axónio|axón||S|sci|C2
+dendrite|dendrita||S|sci|C2
+potencial de ação|potencial de acción||L|sci|C2
+plasticidade neural|plasticidad neuronal||L|sci|C2
+degenerescência|degeneración (neuronal)||S|sci|C2
+cognição|cognición||S|sci|C2
+perceção|percepción||S|sci|C2
+memória de trabalho|memoria de trabajo||L|sci|C2
+amnésia|amnesia||S|sci|C2
+afasia|afasia||S|sci|C2
+disartria|disartria||S|sci|C2
+apraxia|apraxia||S|sci|C2
+agnosia|agnosia||S|sci|C2
+prosopagnosia|prosopagnosia||S|sci|C2
+sinestesia|sinestesia||S|sci|C2
+córtex pré-frontal|corteza prefrontal||L|sci|C2
+eletroencefalograma|electroencefalograma||S|sci|C2
+estimulação cerebral profunda|estimulación cerebral profunda||L|sci|C2
+nocicepção|nocicepción||S|sci|C2
+propriocepção|propiocepción||S|sci|C2
+neurodegenerativo|neurodegenerativo||A|sci|C2
+estado vegetativo|estado vegetativo||L|sci|C2
+lateralização|lateralización||S|sci|C2
+isómero|isómero||S|sci|C2
+isomeria|isomería||S|sci|C2
+estereoquímica|estereoquímica||S|sci|C2
+grupo funcional|grupo funcional||L|sci|C2
+fórmula estrutural|fórmula estructural||L|sci|C2
+ligação covalente|enlace covalente||L|sci|C2
+ligação iónica|enlace iónico||L|sci|C2
+ponte de hidrogénio|puente de hidrógeno||L|sci|C2
+hidrocarboneto|hidrocarburo||S|sci|C2
+aromático|aromático (compuesto)||A|sci|C2
+alcino|alquino||S|sci|C2
+aldeído|aldehído||S|sci|C2
+cetona|cetona||S|sci|C2
+éter|éter||S|sci|C2
+éster|éster||S|sci|C2
+amina|amina||S|sci|C2
+amida|amida||S|sci|C2
+hidroxila|hidroxilo (grupo)||S|sci|C2
+carbonila|carbonilo (grupo)||S|sci|C2
+halogenação|halogenación||S|sci|C2
+destilação fracionada|destilación fraccionada||L|sci|C2
+volumetria|volumetría||S|sci|C2
+estequiometria|estequiometría||S|sci|C2
+catalisador|catalizador||S|sci|C2
+reação exotérmica|reacción exotérmica||L|sci|C2
+reação endotérmica|reacción endotérmica||L|sci|C2
+equilíbrio químico|equilibrio químico||L|sci|C2
+anfótero|anfótero||A|sci|C2
+precipitação|precipitación (química)||S|sci|C2
+solubilidade|solubilidad||S|sci|C2
+ponto de fusão|punto de fusión||L|sci|C2
+valência|valencia (química)||S|sci|C2
+massa molar|masa molar||L|sci|C2
+entrelaçamento|entrelazamiento||S|sci|C2
+sobreposição quântica|superposición cuántica||L|sci|C2
+dualidade onda-corpúsculo|dualidad onda-corpúsculo||L|sci|C2
+princípio da incerteza|principio de incertidumbre||L|sci|C2
+função de onda|función de onda||L|sci|C2
+partícula elementar|partícula elemental||L|sci|C2
+acelerador de partículas|acelerador de partículas||L|sci|C2
+colisor|colisionador||S|sci|C2
+hádrón|hadrón||S|sci|C2
+lépton|leptón||S|sci|C2
+quark|quark||S|sci|C2
+bosão|bosón||S|sci|C2
+fermião|fermión||S|sci|C2
+neutrino|neutrino||S|sci|C2
+antimatéria|antimateria||S|sci|C2
+decaimento|desintegración (radioactiva)||S|sci|C2
+espectro contínuo|espectro continuo||L|sci|C2
+radiação de corpo negro|radiación de cuerpo negro||L|sci|C2
+número quântico|número cuántico||L|sci|C2
+efeito túnel|efecto túnel||L|sci|C2
+decoerência|descoherencia||S|sci|C2
+simetria|simetría||S|sci|C2
+quebra de simetria|ruptura de simetría||L|sci|C2
+isótopo|isótopo||S|sci|C2
+fissão nuclear|fisión nuclear||L|sci|C2
+reator nuclear|reactor nuclear||L|sci|C2
+efeito fotoelétrico|efecto fotoelétrico||L|sci|C2
+interação fundamental|interacción fundamental||L|sci|C2
+gravitação|gravitación||S|sci|C2
+muão|muón||S|sci|C2
+gluão|gluón||S|sci|C2
+paridade|paridad (física)||S|sci|C2
+buraco negro|agujero negro||L|sci|C2
+singularidade gravitacional|singularidad gravitacional||L|sci|C2
+horizonte de acontecimentos|horizonte de sucesos||L|sci|C2
+radiação cósmica de fundo|radiación cósmica de fondo||L|sci|C2
+expansão do universo|expansión del universo||L|sci|C2
+constante cosmológica|constante cosmológica||L|sci|C2
+matéria escura|materia oscura||L|sci|C2
+energia escura|energía oscura||L|sci|C2
+nucleossíntese|nucleosíntesis||S|sci|C2
+supernova|supernova||S|sci|C2
+anã branca|enana blanca||L|sci|C2
+estrela de neutrões|estrella de neutrones||L|sci|C2
+pulsar|púlsar||S|sci|C2
+quasar|cuásar||S|sci|C2
+aglomerado de galáxias|cúmulo de galaxias||L|sci|C2
+paralaxe|paralaje||S|sci|C2
+parsec|pársec||S|sci|C2
+exoplaneta|exoplaneta||S|sci|C2
+zona habitável|zona habitable||L|sci|C2
+espectro eletromagnético|espectro electromagnético||L|sci|C2
+gigante vermelha|gigante roja||L|sci|C2
+nebulosa|nebulosa||S|sci|C2
+protoestrela|protoestrella||S|sci|C2
+ocultação|ocultación (astronómica)||S|sci|C2
+espaço-tempo|espacio-tiempo||S|sci|C2
+curvatura|curvatura (del espacio-tiempo)||S|sci|C2
+dilatação do tempo|dilatación del tiempo||L|sci|C2
+lente gravitacional|lente gravitacional||L|sci|C2
+cosmologia|cosmología||S|sci|C2
+cosmogonia|cosmogonía||S|sci|C2
+planetesimal|planetesimal||S|sci|C2
+astrometria|astrometría||S|sci|C2
+engenharia genética|ingeniería genética||L|sci|C2
+biorremediação|biorremediación||S|sci|C2
+edição de genes|edición de genes||L|sci|C2
+terapia génica|terapia génica||L|sci|C2
+vetor viral|vector viral||L|sci|C2
+engenharia metabólica|ingeniería metabólica||L|sci|C2
+cultura de tecidos|cultivo de tejidos||L|sci|C2
+fermentação|fermentación (industrial)||S|sci|C2
+biorreator|biorreactor||S|sci|C2
+biocombustível|biocombustible||S|sci|C2
+bioprospeção|bioprospección||S|sci|C2
+biobanco|biobanco||S|sci|C2
+criopreservação|criopreservación||S|sci|C2
+liofilização|liofilización||S|sci|C2
+transgénico|transgénico||S|sci|C2
+organismo modelo|organismo modelo||L|sci|C2
+linhagem celular|linaje celular||L|sci|C2
+diferenciação celular|diferenciación celular||L|sci|C2
+célula estaminal|célula troncal||L|sci|C2
+reprogramação|reprogramación (celular)||S|sci|C2
+biossensor|biosensor||S|sci|C2
+nanotecnologia|nanotecnología||S|sci|C2
+nanopartícula|nanopartícula||S|sci|C2
+bioinformática|bioinformática||S|sci|C2
+genotipagem|genotipado||S|sci|C2
+marcador molecular|marcador molecular||L|sci|C2
+amplificação|amplificación (de ADN)||S|sci|C2
+hibridização|hibridación (molecular)||S|sci|C2
+eletroforese|electroforesis||S|sci|C2
+proteína recombinante|proteína recombinante||L|sci|C2
+pluripotente|pluripotente||A|sci|C2
+metabolómica|metabolómica||S|sci|C2

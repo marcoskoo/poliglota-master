@@ -1,0 +1,260 @@
+perda total|pérdida total||L|fin|C1
+vistoria|peritación (inspección)||S|fin|C1
+avaria|avería||S|tra|C1
+subscrição|suscripción (de riesgos)||S|fin|C1
+indemnização de sinistros|indemnización de siniestros||L|fin|C1
+assistência em viagem|asistencia en viaje||L|vig|C1
+danos materiais|daños materiales||L|fin|C1
+furto|hurto||S|ist|C1
+reclamação|reclamación||S|cmu|C1
+renovação automática|renovación automática||L|fin|C1
+salvamento|salvamento (de siniestros)||S|fin|C1
+regulação de sinistros|liquidación de siniestros||L|fin|C1
+país em desenvolvimento|país en vías de desarrollo||L|fin|C1
+subdesenvolvimento|subdesarrollo||S|fin|C1
+empobrecimento|empobrecimiento||S|fin|C1
+distribuição de riqueza|distribución de la riqueza||L|fin|C1
+desigualdade|desigualdad||S|fin|C1
+pobreza extrema|pobreza extrema||L|fin|C1
+indigência|indigencia||S|fin|C1
+segurança alimentar|seguridad alimentaria||L|fin|C1
+ajuda humanitária|ayuda humanitaria||L|fin|C1
+fundos de coesão|fondos de cohesión||L|fin|C1
+cooperação bilateral|cooperación bilateral||L|ist|C1
+subvenção|subvención||S|fin|C1
+subvencionar|subvencionar||V|fin|C1
+perdão da dívida|condonación de la deuda||L|fin|C1
+dívida externa|deuda externa||L|fin|C1
+dívida pública|deuda pública||L|fin|C1
+sustentabilidade|sostenibilidad||S|nat|C1
+autossuficiência|autosuficiencia||S|fin|C1
+comércio justo|comercio justo||L|fin|C1
+balança comercial|balanza comercial||L|fin|C1
+protecionismo|proteccionismo||S|fin|C1
+aranzel|arancel||S|fin|C1
+remessa|remesa||S|fin|C1
+êxodo rural|éxodo rural||L|nat|C1
+fuga de cérebros|fuga de cerebros||L|fin|C1
+crescimento económico|crecimiento económico||L|fin|C1
+microcrédito|microcrédito||S|fin|C1
+empoderamento|empoderamiento||S|fin|C1
+austeridade|austeridad||S|fin|C1
+condicionalidade|condicionalidad||S|fin|C1
+resgate financeiro|rescate financiero||L|fin|C1
+titulação|valoración (titulación)||S|sci|C1
+volumetria|volumetría||S|sci|C1
+pipeta|pipeta||S|sci|C1
+pipetar|pipetear||V|sci|C1
+balança|balanza (de laboratorio)||S|sci|C1
+bureta|bureta||S|sci|C1
+proveta|probeta||S|sci|C1
+cadinho|crisol||S|sci|C1
+almofariz|mortero||S|sci|C1
+espectroscopia|espectroscopía||S|sci|C1
+espectrometria de massa|espectrometría de masas||L|sci|C1
+cromatografia|cromatografía||S|sci|C1
+amostra|muestra||S|sci|C1
+amostragem|muestreo||S|sci|C1
+ensaio|ensayo||S|sci|C1
+reagente|reactivo||S|sci|C1
+solvente|disolvente||S|sci|C1
+soluto|soluto||S|sci|C1
+precipitado|precipitado||S|sci|C1
+destilação|destilación||S|sci|C1
+filtração|filtración||S|sci|C1
+calcinação|calcinación||S|sci|C1
+alíquota|alícuota||S|sci|C1
+curva de calibração|curva de calibración||L|sci|C1
+limiar de deteção|límite de detección||L|sci|C1
+exatidão|exactitud||S|sci|C1
+precisão|precisión (repetibilidad)||S|sci|C1
+validação|validación (de método)||S|sci|C1
+estequiometria|estequiometría||S|sci|C1
+molaridade|molaridad||S|sci|C1
+oxidação|oxidación||S|sci|C1
+estado sólido|estado sólido||L|sci|C1
+cristalino|cristalino||A|sci|C1
+amorfo|amorfo||A|sci|C1
+célula unitária|celda unitaria||L|sci|C1
+semicondutor|semiconductor||S|sci|C1
+dopagem|dopaje (de semiconductores)||S|tec|C1
+banda proibida|banda prohibida (intervalo de energía)||L|sci|C1
+supercondutor|superconductor||S|sci|C1
+supercondutividade|superconductividad||S|sci|C1
+dielétrico|dieléctrico||S|sci|C1
+piezoelectricidade|piezoelectricidad||S|sci|C1
+ferromagnético|ferromagnético||A|sci|C1
+tensão de ruptura|tensión de rotura||L|sci|C1
+deformação|deformación||S|sci|C1
+plasticidade|plasticidad||S|sci|C1
+ductilidade|ductilidad||S|sci|C1
+tenacidade|tenacidad||S|sci|C1
+fragilidade|fragilidad||S|sci|C1
+fadiga|fatiga (de materiales)||S|sci|C1
+corrosão|corrosión||S|sci|C1
+galvanização|galvanización||S|sci|C1
+liga|aleación||S|sci|C1
+metalurgia|metalurgia||S|sci|C1
+polímero|polímero||S|sci|C1
+polimerização|polimerización||S|sci|C1
+compósito|material compuesto||S|sci|C1
+grafeno|grafeno||S|sci|C1
+nanotubo|nanotubo||S|sci|C1
+ensaio de tração|ensayo de tracción||L|sci|C1
+microscopia eletrónica|microscopía electrónica||L|sci|C1
+difração|difracción||S|sci|C1
+meteorologia|meteorología||S|sci|C1
+climatologia|climatología||S|sci|C1
+estação meteorológica|estación meteorológica||L|sci|C1
+pressão atmosférica|presión atmosférica||L|sci|C1
+poluição atmosférica|contaminación atmosférica||L|sci|C1
+depressão|borrasca (depresión atmosférica)||S|sci|C1
+anticiclone|anticiclón||S|sci|C1
+corrente de jato|corriente en chorro||L|sci|C1
+monção|monzón||S|nat|C1
+precipitação|precipitación||S|sci|C1
+pluviosidade|pluviosidad||S|sci|C1
+aridez|aridez||S|nat|C1
+desertificação|desertización||S|nat|C1
+erosão|erosión||S|nat|C1
+degelo|deshielo||S|nat|C1
+subida do nível do mar|subida del nivel del mar||L|sci|C1
+camada de ozono|capa de ozono||L|sci|C1
+aerossol|aerosol||S|sci|C1
+partículas em suspensão|partículas en suspensión||L|sci|C1
+qualidade do ar|calidad del aire||L|sci|C1
+teledeteção|teledetección||S|sci|C1
+mitigação|mitigación||S|sci|C1
+vulnerabilidade|vulnerabilidad||S|sci|C1
+resiliência|resiliencia||S|sci|C1
+ciclo hidrológico|ciclo hidrológico||L|sci|C1
+evapotranspiração|evapotranspiración||S|sci|C1
+mudanças climáticas|cambio climático||L|sci|C1
+aquecimento global|calentamiento global||L|sci|C1
+efeito de estufa|efecto invernadero||L|sci|C1
+pegada de carbono|huella de carbono||L|sci|C1
+descarbonização|descarbonización||S|sci|C1
+paleontologia|paleontología||S|sci|C1
+registo fóssil|registro fósil||L|sci|C1
+fossilização|fosilización||S|sci|C1
+estratigrafia|estratigrafía||S|sci|C1
+estrato|estrato||S|sci|C1
+datação|datación||S|sci|C1
+datação radiométrica|datación radiométrica||L|sci|C1
+glaciação|glaciación||S|sci|C1
+interglaciar|período interglaciar||S|sci|C1
+extinção em massa|extinción masiva||L|sci|C1
+megafauna|megafauna||S|sci|C1
+trilobite|trilobites||S|sci|C1
+evolucionário|evolucionario||A|sci|C1
+evolução convergente|evolución convergente||L|sci|C1
+seleção natural|selección natural||L|sci|C1
+deriva continental|deriva continental||L|sci|C1
+tectónica de placas|tectónica de placas||L|sci|C1
+ancestral comum|ancestro común||L|sci|C1
+hominídeo|hominido||S|sci|C1
+bipedismo|bipedismo||S|sci|C1
+filogenia|filogenia||S|sci|C1
+cladística|cladística||S|sci|C1
+taxonomia|taxonomía||S|sci|C1
+espécime|espécimen||S|sci|C1
+holótipo|holotipo||S|sci|C1
+especiação|especiación||S|sci|C1
+radiação adaptativa|radiación adaptativa||L|sci|C1
+pressão seletiva|presión selectiva||L|sci|C1
+aptidão|aptitud (biológica)||S|sci|C1
+deriva genética|deriva genética||L|sci|C1
+vestigial|vestigial||A|sci|C1
+virologia|virología||S|sci|C1
+virulência|virulencia||S|sla|C1
+patogenicidade|patogenicidad||S|sla|C1
+patogénico|patógeno||A|sla|C1
+reservatório|reservorio||S|sla|C1
+hospedeiro|hospedador||S|sla|C1
+hospedeiro intermediário|hospedador intermediario||L|sla|C1
+salto de espécie|salto de especie||L|sla|C1
+zoonótico|zoonótico||A|sla|C1
+cepa|cepa||S|sla|C1
+mutação|mutación||S|sci|C1
+recombinação|recombinación||S|sci|C1
+carga viral|carga viral||L|sla|C1
+teste rápido|test rápido||L|sla|C1
+antigénio|antígeno||S|sla|C1
+anticorpo|anticuerpo||S|sla|C1
+imunidade cruzada|inmunidad cruzada||L|sla|C1
+imunossupressão|inmunosupresión||S|sla|C1
+antivírico|antivírico||A|sla|C1
+antirretroviral|antirretroviral||S|sla|C1
+resistência aos antimicrobianos|resistencia a los antimicrobianos||L|sla|C1
+meningite|meningitis||S|sla|C1
+encefalite|encefalitis||S|sla|C1
+sépsis|sepsis||S|sla|C1
+septicemia|septicemia||S|sla|C1
+tuberculose|tuberculosis||S|sla|C1
+dengue|dengue||S|sla|C1
+malária|paludismo||S|sla|C1
+leishmaniose|leishmaniosis||S|sla|C1
+infeção hospitalar|infección nosocomial||L|sla|C1
+incubação|incubación||S|sla|C1
+engenharia genética|ingeniería genética||L|sci|C1
+edição genética|edición genética||L|sci|C1
+genoma|genoma||S|sci|C1
+genótipo|genotipo||S|sci|C1
+fenótipo|fenotipo||S|sci|C1
+alelo|alelo||S|sci|C1
+homozigoto|homozigoto||S|sci|C1
+heterozigoto|heterocigoto||S|sci|C1
+recessivo|recesivo||A|sci|C1
+mutagénese|mutagénesis||S|sci|C1
+transgénico|transgénico||A|sci|C1
+sequenciamento|secuenciación||S|sci|C1
+sequenciar|secuenciar||V|sci|C1
+cromossoma|cromosoma||S|sci|C1
+cariótipo|cariotipo||S|sci|C1
+telómero|telómero||S|sci|C1
+mitose|mitosis||S|sci|C1
+meiose|meiosis||S|sci|C1
+clonagem|clonación||S|sci|C1
+clonar|clonar||V|sci|C1
+plasmídeo|plásmido||S|sci|C1
+enzima de restrição|enzima de restricción||L|sci|C1
+terapia génica|terapia génica||L|sla|C1
+expressão génica|expresión génica||L|sci|C1
+epigenética|epigenética||S|sci|C1
+biotecnologia|biotecnología||S|sci|C1
+bioética|bioética||S|sci|C1
+célula estaminal|célula troncal||L|sla|C1
+fertilização in vitro|fecundación in vitro||L|sla|C1
+silenciamento|silenciamiento génico||S|sci|C1
+consentimento informado|consentimiento informado||L|sla|C1
+neuroimagem|neuroimagen||S|sci|C1
+ressonância magnética|resonancia magnética||L|sci|C1
+tomografia computorizada|tomografía computarizada||L|sci|C1
+tomografia de emissão de positrões|tomografía por emisión de positrones||L|sci|C1
+eletroencefalografia|electroencefalografía||S|sci|C1
+magnetoencefalografia|magnetoencefalografía||S|sci|C1
+mapeamento cerebral|mapeo cerebral||L|sci|C1
+córtex|corteza (cerebral)||S|cor|C1
+córtex pré-frontal|corteza prefrontal||L|cor|C1
+substância cinzenta|sustancia gris||L|cor|C1
+substância branca|sustancia blanca||L|cor|C1
+circunvolução|circunvolución||S|cor|C1
+sulco|surco (circunvolución)||S|cor|C1
+corpo caloso|cuerpo calloso||L|cor|C1
+gânglios da base|ganglios basales||L|cor|C1
+hipocampo|hipocampo||S|cor|C1
+amígdala|amígdala cerebral||S|cor|C1
+tálamo|tálamo||S|cor|C1
+cerebelo|cerebelo||S|cor|C1
+medula espinal|médula espinal||L|cor|C1
+conectoma|conectoma||S|sci|C1
+conectividade funcional|conectividad funcional||L|sci|C1
+lateralização|lateralización||S|sci|C1
+neuroplasticidade|neuroplasticidad||S|sci|C1
+potencial de ação|potencial de acción||L|sci|C1
+neuromodulação|neuromodulación||S|sci|C1
+estimulação cerebral profunda|estimulación cerebral profunda||L|sla|C1
+resolução espacial|resolución espacial||L|sci|C1
+agente de contraste|agente de contraste||L|sci|C1
+artefacto|artefacto||S|sci|C1
+mapear|mapear||V|sci|C1

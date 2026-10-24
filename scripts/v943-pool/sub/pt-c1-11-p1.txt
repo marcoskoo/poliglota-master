@@ -1,0 +1,260 @@
+nanotubo|nanotubo||S|sci|C1
+nanopartícula|nanopartícula||S|sci|C1
+grafeno|grafeno||S|sci|C1
+quântico|cuántico||A|sci|C1
+supercondutor|superconductor||S|sci|C1
+supercondutividade|superconductividad||S|sci|C1
+polímero|polímero||S|sci|C1
+polimerização|polimerización||S|sci|C1
+elastómero|elastómero||S|sci|C1
+compósito|material compuesto||S|sci|C1
+cerâmica refratária|cerámica refractaria||S|sci|C1
+corrosão|corrosión||S|sci|C1
+oxidar|oxidar||V|sci|C1
+fadiga|fatiga (de los materiales)||S|sci|C1
+fragilização|fragilización (de un material)||S|sci|C1
+ductilidade|ductilidad||S|sci|C1
+maleabilidade|maleabilidad||S|sci|C1
+tenacidade|tenacidad||S|sci|C1
+tração|tracción||S|sci|C1
+compressão|compresión||S|sci|C1
+sinterização|sinterización||S|sci|C1
+epitaxia|epitaxia||S|sci|C1
+reticulação|reticulación (de polímeros)||S|sci|C1
+dopagem|dopaje (de un semiconductor)||S|sci|C1
+microestrutura|microestructura||S|sci|C1
+cristalografia|cristalografía||S|sci|C1
+monocristal|monocristal||S|sci|C1
+porosidade|porosidad||S|sci|C1
+catálise|catálisis||S|sci|C1
+catalisador|catalizador||S|sci|C1
+titânio|titanio||S|sci|C1
+tungsténio|tungsteno||S|sci|C1
+grafite|grafito||S|sci|C1
+fotónica|fotónica||S|sci|C1
+fotão|fotón||S|sci|C1
+refração|refracción||S|sci|C1
+difração|difracción||S|sci|C1
+interferência|interferencia (de ondas)||S|sci|C1
+polarização|polarización (de la luz)||S|sci|C1
+coerência|coherencia (de un haz)||S|sci|C1
+comprimento de onda|longitud de onda||S|sci|C1
+espetro|espectro||S|sci|C1
+espetroscopia|espectroscopía||S|sci|C1
+dioptria|dioptría||S|sci|C1
+aberração|aberración (óptica)||S|sci|C1
+dispersão|dispersión (de la luz)||S|sci|C1
+índice de refração|índice de refracción||S|sci|C1
+acústica|acústica||S|sci|C1
+ressonância|resonancia||S|sci|C1
+infrassom|infrasonido||S|sci|C1
+ultrassom|ultrasonido||S|sci|C1
+reverberação|reverberación||S|sci|C1
+ecolocalização|ecolocalización||S|sci|C1
+atenuação|atenuación (de una señal)||S|sci|C1
+fibra ótica|fibra óptica||S|sci|C1
+holografia|holografía||S|sci|C1
+luminescência|luminiscencia||S|sci|C1
+fluorescência|fluorescencia||S|sci|C1
+fosforescência|fosforescencia||S|sci|C1
+estereoscopia|estereoscopia||S|sci|C1
+acromático|acromático||A|sci|C1
+colimador|colimador||S|sci|C1
+decibél|decibelio||S|sci|C1
+radiofrequência|radiofrecuencia||S|sci|C1
+birrefringência|birrefringencia||S|sci|C1
+harmónica|armónico (acústica)||S|sci|C1
+termodinâmica|termodinámica||S|sci|C1
+entropia|entropía||S|sci|C1
+entalpia|entalpía||S|sci|C1
+isoterma|isoterma||S|sci|C1
+adiabático|adiabático||A|sci|C1
+calor latente|calor latente||S|sci|C1
+dissipação|disipación (de energía)||S|sci|C1
+convecção|convección||S|sci|C1
+condução térmica|conducción térmica||S|sci|C1
+viscosidade|viscosidad||S|sci|C1
+turbulência|turbulencia||S|sci|C1
+laminar|laminar (régimen de un fluido)||A|sci|C1
+caudal|caudal (de un fluido)||S|sci|C1
+massa volúmica|masa volumétrica||S|sci|C1
+impulsão|empuje (hidrostático)||S|sci|C1
+tensão superficial|tensión superficial||S|sci|C1
+capilaridade|capilaridad||S|sci|C1
+compressibilidade|compresibilidad||S|sci|C1
+reologia|reología||S|sci|C1
+escoamento|flujo (de un fluido)||S|sci|C1
+cavitação|cavitación||S|sci|C1
+aeração|aireación||S|sci|C1
+centrifugação|centrifugación||S|sci|C1
+isentrópico|isentrópico||A|sci|C1
+irreversibilidade|irreversibilidad||S|sci|C1
+máquina térmica|máquina térmica||S|sci|C1
+calor específico|calor específico||S|sci|C1
+equilíbrio termodinâmico|equilibrio termodinámico||S|sci|C1
+camada limite|capa límite||S|sci|C1
+vórtice|vórtice||S|sci|C1
+atrito|fricción||S|sci|C1
+pressão parcial|presión parcial||S|sci|C1
+cartografia|cartografía||S|sci|C1
+topográfico|topográfico||A|sci|C1
+orografia|orografía||S|sci|C1
+hipsometria|hipsometría||S|sci|C1
+batimetria|batimetría||S|sci|C1
+curva de nível|curva de nivel||S|sci|C1
+projeção cartográfica|proyección cartográfica||S|sci|C1
+meridiano|meridiano||S|sci|C1
+teledeteção|teledetección||S|sci|C1
+deteção remota|detección remota||S|sci|C1
+imagem de satélite|imagen de satélite||S|sci|C1
+ortofotomapa|ortofotomapa||S|sci|C1
+fotogrametria|fotogrametría||S|sci|C1
+georreferenciar|georreferenciar||V|tec|C1
+geocodificação|geocodificación||S|tec|C1
+vetorização|vectorización||S|tec|C1
+pancromático|pancromático||A|sci|C1
+resolução espacial|resolución espacial||S|sci|C1
+ortorretificação|ortorrectificación||S|sci|C1
+geodésia|geodesia||S|sci|C1
+elipsoide|elipsoide||S|sci|C1
+triangulação|triangulación||S|sci|C1
+altimetria|altimetría||S|sci|C1
+cartograma|cartograma||S|sci|C1
+levantamento topográfico|levantamiento topográfico||S|sci|C1
+isolinha|isolinia||S|sci|C1
+interpolação|interpolación (de datos)||S|sci|C1
+geoprocessamento|geoprocesamiento||S|tec|C1
+informação geográfica|información geográfica||S|sci|C1
+mapeamento|mapeo cartográfico||S|sci|C1
+restituição|restitución (cartográfica)||S|sci|C1
+geolocalização|geolocalización||S|tec|C1
+métrica|métrica||S|let|C1
+versificação|versificación||S|let|C1
+prosódia|prosodia||S|let|C1
+escansão|escansión||S|let|C1
+pé métrico|pie métrico||S|let|C1
+decassílabo|decasílabo||S|let|C1
+hendecassílabo|hendecasílabo||S|let|C1
+redondilha|redondilla||S|let|C1
+sáfico|sáfico (verso)||A|let|C1
+verso branco|verso blanco||S|let|C1
+verso livre|verso libre||S|let|C1
+rima toante|rima asonante||S|let|C1
+esdrúxula|esdrújula (palabra)||A|let|C1
+elisão|elisión||S|let|C1
+sinalefa|sinalefa||S|let|C1
+sinérese|sinéresis||S|let|C1
+diérese|diéresis||S|let|C1
+crase|crase||S|let|C1
+hiato|hiato||S|let|C1
+cesura|cesura||S|let|C1
+estância|estancia (estrofa)||S|let|C1
+sextilha|sextilla||S|let|C1
+iâmbico|yámbico||A|let|C1
+trocaico|trocaico||A|let|C1
+jambo|yambo (pie métrico)||S|let|C1
+troqueu|troqueo||S|let|C1
+anapesto|anapesto||S|let|C1
+pentâmetro|pentámetro||S|let|C1
+aliteração|aliteración||S|let|C1
+assonância|asonancia||S|let|C1
+entoação|entonación||S|let|C1
+polimétrico|polimétrico||A|let|C1
+dramaturgia|dramaturgia||S|let|C1
+dramaturgo|dramaturgo||S|let|C1
+encenação|puesta en escena||S|art|C1
+encenador|director de escena||S|art|C1
+cenografia|escenografía||S|art|C1
+cenógrafo|escenógrafo||S|art|C1
+figurino|vestuario (de teatro)||S|art|C1
+adereço|utilería||S|art|C1
+bastidores|bastidores (tras bambalinas)||S|art|C1
+camarim|camerino||S|art|C1
+proscénio|proscenio||S|art|C1
+ribalta|boca del escenario||S|art|C1
+solilóquio|soliloquio||S|let|C1
+aparte|aparte (acotación)||S|let|C1
+didascália|acotación escénica||S|let|C1
+tragicomédia|tragicomedia||S|let|C1
+peça didática|pieza didáctica||S|let|C1
+teatro de revista|teatro de revista (género cómico)||S|let|C1
+ensaio geral|ensayo general||S|art|C1
+subtexto|subtexto||S|let|C1
+quarta parede|cuarta pared||S|let|C1
+suspensão da descrença|suspensión de la incredulidad||S|let|C1
+catarse|catarsis||S|let|C1
+peripécia|peripecia||S|let|C1
+anagnórise|anagnórisis||S|let|C1
+desfecho|desenlace||S|let|C1
+reposição|reposición (de un montaje)||S|art|C1
+figurante|extra (figura de reparto)||S|art|C1
+contrarregra|regidor (ayudante de escena)||S|art|C1
+iluminador|iluminador (diseño de luces)||S|art|C1
+entremez|entremés||S|let|C1
+pantomima|pantomima||S|let|C1
+teatro de câmara|teatro de cámara||S|let|C1
+poética|poética||S|let|C1
+retórica|retórica||S|let|C1
+sinestesia|sinestesia (figura retórica)||S|let|C1
+sinédoque|sinécdoque||S|let|C1
+metonímia|metonimia||S|let|C1
+catacrese|catacresis||S|let|C1
+alegoria|alegoría||S|let|C1
+prosopopeia|prosopopeya||S|let|C1
+perífrase|perífrasis||S|let|C1
+litote|lítote||S|let|C1
+eufemismo|eufemismo||S|let|C1
+hipérbato|hipérbaton||S|let|C1
+anáfora|anáfora||S|let|C1
+epístrofe|epístrofe||S|let|C1
+polissíndeto|polisíndeton||S|let|C1
+assíndeto|asíndeton||S|let|C1
+quiasmo|quiasmo||S|let|C1
+antítese|antítesis||S|let|C1
+oxímoro|oxímoron||S|let|C1
+apóstrofe|apóstrofe (figura)||S|let|C1
+gradação|gradación (retórica)||S|let|C1
+elipse|elipsis||S|let|C1
+zeugma|zeugma||S|let|C1
+hipálage|hipálage||S|let|C1
+paronomásia|paronomasia||S|let|C1
+intertextualidade|intertextualidad||S|let|C1
+polissemia|polisemia||S|let|C1
+verossimilhança|verosimilitud||S|let|C1
+mimese|mímesis||S|let|C1
+elocução|elocución||S|let|C1
+silogismo|silogismo||S|let|C1
+tautologia|tautología||S|let|C1
+filologia|filología||S|let|C1
+filólogo|filólogo||S|let|C1
+epigrafia|epigrafía||S|let|C1
+paleografia|paleografía||S|let|C1
+papirologia|papirología||S|let|C1
+codicologia|codicología||S|let|C1
+códice|códice||S|let|C1
+incunábulo|incunable||S|let|C1
+hermenêutica|hermenéutica||S|let|C1
+exegese|exégesis||S|let|C1
+crítica textual|crítica textual||S|let|C1
+latinista|latinista||S|let|C1
+helenista|helenista||S|let|C1
+classicista|clasicista||S|let|C1
+humanismo|humanismo||S|let|C1
+renascentista|renacentista||S|let|C1
+escolástica|escolástica||S|let|C1
+dialética|dialéctica||S|let|C1
+latinismo|latinismo||S|let|C1
+helenismo|helenismo||S|let|C1
+arcaísmo|arcaísmo||S|let|C1
+glosário|glosario||S|let|C1
+escólio|escolio||S|let|C1
+palimpsesto|palimpsesto||S|let|C1
+epopeia|epopeya||S|let|C1
+epigrama|epigrama||S|let|C1
+égloga|égloga||S|let|C1
+vernáculo|vernáculo||S|let|C1
+transliteração|transliteración||S|let|C1
+lacuna|laguna (hueco en un texto)||S|let|C1
+oratória|oratoria||S|let|C1
+declamar|declamar||V|let|C1
+deturpação|adulteración (de un texto)||S|let|C1

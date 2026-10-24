@@ -1,0 +1,260 @@
+crise epiléptica|crisis epiléptica||L|sla|C1
+demência|demencia||S|sla|C1
+discinesia|discinesia||S|sla|C1
+distonia|distonía||S|sla|C1
+ataxia|ataxia||S|sla|C1
+paralisia|parálisis||S|sla|C1
+parésia|paresia||S|sla|C1
+hemiplegia|hemiplejía||S|sla|C1
+paraplegia|paraplejía||S|sla|C1
+espasticidade|espasticidad||S|sla|C1
+acidente vascular cerebral|ictus (accidente cerebrovascular)||L|sla|C1
+cefaleia|cefalea||S|sla|C1
+neurodegenerativo|neurodegenerativo||A|sla|C1
+degenerescência|degeneración||S|sla|C1
+cognição|cognición||S|sci|C1
+afasia|afasia||S|sla|C1
+disartria|disartria||S|sla|C1
+disfagia|disfagia||S|sla|C1
+apraxia|apraxia||S|sla|C1
+agnosia|agnosia||S|sla|C1
+estado vegetativo|estado vegetativo||L|sla|C1
+punção lombar|punción lumbar||L|sla|C1
+coreia|corea||S|sla|C1
+esclerose lateral amiotrófica|esclerosis lateral amiotrófica||L|sla|C1
+obstetra|obstetra||S|pro|C1
+ginecologista|ginecólogo||S|pro|C1
+pediatra|pediatra||S|pro|C1
+pediátrico|pediátrico||A|sla|C1
+parto distócico|parto distócico||L|sla|C1
+cesariana|cesárea||S|sla|C1
+episiotomia|episiotomía||S|sla|C1
+fórceps|fórceps||S|cor|C1
+ventosa obstétrica|ventosa obstétrica||L|sla|C1
+contração uterina|contracción uterina||L|sla|C1
+dilatação|dilatación (del cuello uterino)||S|sla|C1
+bolsa das águas|bolsa de aguas||L|sla|C1
+líquido amniótico|líquido amniótico||L|sla|C1
+descolamento da placenta|desprendimiento de placenta||L|sla|C1
+eclâmpsia|eclampsia||S|sla|C1
+pré-eclâmpsia|preeclampsia||S|sla|C1
+gravidez ectópica|embarazo ectópico||L|sla|C1
+gravidez gemelar|embarazo gemelar||L|sla|C1
+nado-morto|mortinato||S|sla|C1
+recém-nascido|recién nacido||S|cor|C1
+prematuridade|prematuridad||S|sla|C1
+aleitamento|lactancia materna||S|sla|C1
+desmame|destete||S|sla|C1
+puerpério|puerperio||S|sla|C1
+depressão pós-parto|depresión posparto||L|sla|C1
+icterícia neonatal|ictericia neonatal||L|sla|C1
+baixo peso à nascença|bajo peso al nacer||L|sla|C1
+incubadora|incubadora||S|sla|C1
+mortalidade infantil|mortalidad infantil||L|sla|C1
+triagem neonatal|cribado neonatal||L|sla|C1
+puericultura|puericultura||S|sla|C1
+traumatologia|traumatología||S|sci|C1
+ortopedia|ortopedia||S|sci|C1
+fratura exposta|fractura abierta||L|sla|C1
+luxação|luxación||S|sla|C1
+periósteo|periostio||S|cor|C1
+condromalácia|condromalacia||S|sla|C1
+artrose|artrosis||S|sla|C1
+artrite reumatoide|artritis reumatoide||L|sla|C1
+osteoporose|osteoporosis||S|sla|C1
+escoliose|escoliosis||S|sla|C1
+cifose|cifosis||S|sla|C1
+lordose|lordosis||S|sla|C1
+hérnia discal|hernia discal||L|sla|C1
+compressão medular|compresión medular||L|sla|C1
+tendinite|tendinitis||S|sla|C1
+bursite|bursitis||S|sla|C1
+rotura muscular|rotura muscular||L|sla|C1
+imobilização|inmovilización||S|sla|C1
+tala|férula||S|sla|C1
+fisioterapia|fisioterapia||S|sla|C1
+fisioterapeuta|fisioterapeuta||S|pro|C1
+reabilitação|rehabilitación||S|sla|C1
+terapia ocupacional|terapia ocupacional||L|sla|C1
+cadeira de rodas|silla de ruedas||L|sla|C1
+prótese|prótesis||S|sla|C1
+amputação|amputación||S|sla|C1
+membro fantasma|miembro fantasma||L|sla|C1
+dor crónica|dolor crónico||L|sla|C1
+propriocepção|propiocepción||S|sla|C1
+contratura|contractura||S|sla|C1
+osteossíntese|osteosíntesis||S|sla|C1
+saúde pública|salud pública||L|sla|C1
+epidemiologia|epidemiología||S|sci|C1
+epidemiológico|epidemiológico||A|sci|C1
+endemia|endemia||S|sla|C1
+surto|brote||S|sla|C1
+incidência|incidencia||S|sci|C1
+prevalência|prevalencia||S|sci|C1
+soroprevalência|seroprevalencia||S|sci|C1
+letalidade|letalidad||S|sla|C1
+vigilância epidemiológica|vigilancia epidemiológica||L|sla|C1
+notificação obrigatória|declaración obligatoria||L|sla|C1
+fator de risco|factor de riesgo||L|sla|C1
+promoção da saúde|promoción de la salud||L|sla|C1
+literacia em saúde|alfabetización en salud||L|sla|C1
+copagamento|copago||S|fin|C1
+profilaxia|profilaxis||S|sla|C1
+imunização|inmunización||S|sla|C1
+vacinação|vacunación||S|sla|C1
+cobertura vacinal|cobertura vacunal||L|sla|C1
+imunidade de grupo|inmunidad de grupo||L|sla|C1
+cadeia de frio|cadena de frío||L|sla|C1
+sorologia|serología||S|sla|C1
+soroconversão|seroconversión||S|sla|C1
+confinamento|confinamiento||S|sla|C1
+rastreio de contactos|rastreo de contactos||L|sla|C1
+vetor|vector||S|sla|C1
+zoonose|zoonosis||S|sla|C1
+portador assintomático|portador asintomático||L|sla|C1
+superpropagação|superpropagación||S|sla|C1
+telessaúde|telesalud||S|sla|C1
+cuidados primários|atención primaria||L|sla|C1
+tributação|tributación||S|fin|C1
+fiscalidade|fiscalidad||S|fin|C1
+contribuinte|contribuyente||S|fin|C1
+contribuição|contribución (cotización social)||S|fin|C1
+autoliquidação|autoliquidación||S|fin|C1
+retenção na fonte|retención en la fuente||L|fin|C1
+dedução|deducción||S|fin|C1
+deduzir|deducir||V|fin|C1
+isenção|exención||S|fin|C1
+isento|exo||A|fin|C1
+progressividade|progresividad||S|fin|C1
+regressividade|regresividad||S|fin|C1
+elisão fiscal|elusión fiscal||L|fin|C1
+evasão fiscal|evasión fiscal||L|fin|C1
+fraude fiscal|fraude fiscal||L|fin|C1
+fraudar|defraudar||V|fin|C1
+fuga de capitais|fuga de capitales||L|fin|C1
+paraíso fiscal|paraíso fiscal||L|fin|C1
+preços de transferência|precios de transferencia||L|fin|C1
+economia subterrânea|economía sumergida||L|fin|C1
+planeamento sucessório|planificación sucesoria||L|fin|C1
+inspeção tributária|inspección tributaria||L|fin|C1
+execução fiscal|ejecución fiscal||L|fin|C1
+mais-valias|plusvalías||S|fin|C1
+juros de mora|intereses de demora||L|fin|C1
+reembolso|devolución (de impuestos)||S|fin|C1
+declaração de rendimentos|declaración de la renta||L|fin|C1
+regularização|regularización (tributaria)||S|fin|C1
+dolo|dolo||S|ist|C1
+imposto indireto|impuesto indirecto||L|fin|C1
+lançamento|liquidación (de impuesto)||S|fin|C1
+conta à ordem|cuenta corriente||L|fin|C1
+depósito a prazo|depósito a plazo||L|fin|C1
+levantamento|reintegro (retirada de dinero)||S|fin|C1
+despesas de manutenção|gastos de mantenimiento||L|fin|C1
+empréstimo hipotecário|préstamo hipotecario||L|fin|C1
+crédito à habitação|crédito hipotecario (vivienda)||L|fin|C1
+crédito malparado|crédito dudoso||L|fin|C1
+amortização|amortización||S|fin|C1
+amortizar|amortizar||V|fin|C1
+prestação|cuota (mensualidad)||S|fin|C1
+devedor|deudor||S|fin|C1
+credor|acreedor||S|fin|C1
+fiança|fianza||S|fin|C1
+colateral|colateral (garantía)||S|fin|C1
+garantia|garantía||S|fin|C1
+garantia de depósitos|garantía de depósitos||L|fin|C1
+provisão|provisión (por insolvencia)||S|fin|C1
+incumprimento|impago||S|fin|C1
+taxa de esforço|ratio de esfuerzo||L|fin|C1
+teste de esforço|prueba de resistencia||L|fin|C1
+solvência|solvencia||S|fin|C1
+rácio de solvência|ratio de solvencia||L|fin|C1
+liquidez|liquidez||S|fin|C1
+iliquidez|iliquidez||S|fin|C1
+supervisão bancária|supervisión bancaria||L|fin|C1
+descoberto bancário|descubierto bancario||L|fin|C1
+período de carência|período de carencia||L|fin|C1
+exposição|exposición (al riesgo)||S|fin|C1
+risco de crédito|riesgo de crédito||L|fin|C1
+refinanciamento|refinanciación||S|fin|C1
+ativo tóxico|activo tóxico||L|fin|C1
+avaliação|valoración (de empresas)||S|fin|C1
+valorização|revalorización||S|fin|C1
+balanço|balance||S|fin|C1
+balanço consolidado|balance consolidado||L|fin|C1
+demonstração de resultados|cuenta de resultados||L|fin|C1
+fluxo de caixa|flujo de caja||L|fin|C1
+valor contabilístico|valor contable||L|fin|C1
+valor justo|valor razonable||L|fin|C1
+fundo de comércio|fondo de comercio||L|fin|C1
+margem operacional|margen operativa||L|fin|C1
+rentabilidade|rentabilidad||S|fin|C1
+proveitos|ingresos (cifra de negocios)||S|fin|C1
+lucro antes de impostos|beneficio antes de impuestos||L|fin|C1
+capitalização bolsista|capitalización bursátil||L|fin|C1
+cotação|cotización||S|fin|C1
+fusão|fusión||S|fin|C1
+aquisição|adquisición||S|fin|C1
+aquisição hostil|adquisición hostil||L|fin|C1
+oferta pública de aquisição|oferta pública de adquisición||L|fin|C1
+sinergia|sinergia||S|fin|C1
+alavancagem|apalancamiento||S|fin|C1
+diluição|dilución (de accionistas)||S|fin|C1
+acionista minoritário|accionista minoritario||L|fin|C1
+direitos de voto|derechos de voto||L|fin|C1
+depreciação|depreciación||S|fin|C1
+depreciar|depreciar||V|fin|C1
+intangível|intangible||S|fin|C1
+taxa interna de retorno|tasa interna de retorno||L|fin|C1
+reestruturação|reestructuración||S|fin|C1
+desinvestimento|desinversión||S|fin|C1
+consolidação de contas|consolidación de cuentas||L|fin|C1
+microeconomia|microeconomía||S|sci|C1
+macroeconomia|macroeconomía||S|sci|C1
+oferta e procura|oferta y demanda||L|fin|C1
+elasticidade|elasticidad||S|fin|C1
+excedente do consumidor|excedente del consumidor||L|fin|C1
+utilidade marginal|utilidad marginal||L|fin|C1
+custo de oportunidade|coste de oportunidad||L|fin|C1
+custo marginal|coste marginal||L|fin|C1
+rendimentos decrescentes|rendimientos decrecientes||L|fin|C1
+concorrência perfeita|competencia perfecta||L|fin|C1
+concorrência monopolística|competencia monopolística||L|fin|C1
+monopólio|monopolio||S|fin|C1
+oligopólio|oligopolio||S|fin|C1
+monopsónio|monopsonio||S|fin|C1
+cartel|cártel||S|fin|C1
+barreira à entrada|barrera de entrada||L|fin|C1
+externalidade|externalidad||S|fin|C1
+falha de mercado|fallo de mercado||L|fin|C1
+preço de equilíbrio|precio de equilibrio||L|fin|C1
+escassez|escasez||S|fin|C1
+substituto|sustitutivo||S|fin|C1
+bens complementares|bienes complementarios||L|fin|C1
+assimetria de informação|asimetría de la información||L|fin|C1
+seleção adversa|selección adversa||L|fin|C1
+maximização|maximización||S|fin|C1
+discriminação de preços|discriminación de precios||L|fin|C1
+colusão|colusión||S|fin|C1
+guerra de preços|guerra de precios||L|fin|C1
+bem-estar social|bienestar social||L|fin|C1
+poder de mercado|poder de mercado||L|fin|C1
+dumping|dumping (venta con pérdidas)||S|fin|C1
+seguradora|aseguradora||S|fin|C1
+resseguro|reaseguro||S|fin|C1
+apólice|póliza||S|fin|C1
+prémio|prima (del seguro)||S|fin|C1
+sinistro|siniestro||S|fin|C1
+índice de sinistralidade|índice de siniestralidad||L|fin|C1
+franquia|franquicia (del seguro)||S|fin|C1
+cobertura|cobertura||S|fin|C1
+cláusula de exclusão|cláusula de exclusión||L|fin|C1
+beneficiário|beneficiario||S|fin|C1
+tomador do seguro|tomador del seguro||L|fin|C1
+mutualista|mutualista||S|fin|C1
+atuarial|actuarial||A|fin|C1
+atuário|actuario||S|pro|C1
+tábua de mortalidade|tabla de mortalidad||L|fin|C1
+invalidez|invalidez||S|sla|C1
+incapacidade|incapacidad||S|sla|C1
+acidente de trabalho|accidente de trabajo||L|sla|C1
+responsabilidade civil|responsabilidad civil||L|fin|C1

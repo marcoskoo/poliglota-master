@@ -1,0 +1,293 @@
+inferência estatística|inferencia estadística||L|sci|C2
+desvio padrão|desviación típica||L|sci|C2
+intervalo de confiança|intervalo de confianza||L|sci|C2
+nível de significância|nivel de significación||L|sci|C2
+hipótese nula|hipótesis nula||L|sci|C2
+regressão linear|regresión lineal||L|sci|C2
+regressão múltipla|regresión múltiple||L|sci|C2
+correlação espúria|correlación espuria||L|sci|C2
+variável independente|variable independiente||L|sci|C2
+variável dependente|variable dependiente||L|sci|C2
+fator de confusão|factor de confusión||L|sci|C2
+aleatorização|aleatorización||S|sci|C2
+amostragem aleatória|muestreo aleatorio||L|sci|C2
+amostragem estratificada|muestreo estratificado||L|sci|C2
+amostra representativa|muestra representativa||L|sci|C2
+viés de seleção|sesgo de selección||L|sci|C2
+replicação|replicación (de resultados)||S|sci|C2
+reprodutibilidade|reproducibilidad||S|sci|C2
+validade interna|validez interna||L|sci|C2
+validade externa|validez externa||L|sci|C2
+fiabilidade|fiabilidad||S|sci|C2
+calibração|calibración||S|sci|C2
+modelo probabilístico|modelo probabilístico||L|sci|C2
+distribuição normal|distribución normal||L|sci|C2
+assimetria|asimetría (de una distribución)||S|sci|C2
+curtose|curtosis||S|sci|C2
+homocedasticidade|homocedasticidad||S|sci|C2
+teste de hipóteses|contraste de hipótesis||L|sci|C2
+poder estatístico|potencia estadística||L|sci|C2
+tamanho da amostra|tamaño de la muestra||L|sci|C2
+meta-análise|metaanálisis||S|sci|C2
+dados longitudinais|datos longitudinales||L|sci|C2
+pré-registo|preregistro||S|sci|C2
+incidência|incidencia||S|sla|C2
+prevalência|prevalencia||S|sla|C2
+mortalidade|mortalidad||S|sla|C2
+morbilidade|morbilidad||S|sla|C2
+sobremortalidade|exceso de mortalidad||S|sla|C2
+transmissão comunitária|transmisión comunitaria||L|sla|C2
+surto epidémico|brote epidémico||L|sla|C2
+endemia|endemia||S|sla|C2
+endémico|endémico||A|sla|C2
+vigilância epidemiológica|vigilancia epidemiológica||L|sla|C2
+notificação obrigatória|declaración obligatoria||L|sla|C2
+testagem em massa|cribado masivo||L|sla|C2
+isolamento profilático|aislamiento profiláctico||L|sla|C2
+profilaxia|profilaxis||S|sla|C2
+imunização|inmunización||S|sla|C2
+plano de contingência|plan de contingencia||L|sla|C2
+cordão sanitário|cordón sanitario||L|sla|C2
+determinantes da saúde|determinantes de la salud||L|sla|C2
+desigualdades em saúde|desigualdades en salud||L|sla|C2
+carga de doença|carga de enfermedad||L|sla|C2
+fator predisponente|factor predisponente||L|sla|C2
+sedentarismo|sedentarismo||S|sla|C2
+tabagismo|tabaquismo||S|sla|C2
+recidiva|reincidencia (de una enfermedad)||S|sla|C2
+estudo de coorte|estudio de cohortes||L|sla|C2
+estudo caso-controlo|estudio de casos y controles||L|sla|C2
+medicina preventiva|medicina preventiva||L|sla|C2
+medicina do trabalho|medicina del trabajo||L|sla|C2
+toxicologia|toxicología||S|sla|C2
+soroepidemiologia|seroepidemiología||S|sla|C2
+zoonose|zoonosis||S|sla|C2
+reservatório animal|reservorio animal||L|sla|C2
+infeção nosocomial|infección nosocomial||L|sla|C2
+tectónica de placas|tectónica de placas||L|nat|C2
+falha geológica|falla geológica||L|nat|C2
+sismologia|sismología||S|nat|C2
+hipocentro|hipocentro||S|nat|C2
+câmara magmática|cámara magmática||L|nat|C2
+erupção freática|erupción freática||L|nat|C2
+pedra-pomes|piedra pómez||S|nat|C2
+fumarola|fumarola||S|nat|C2
+gêiser|géiser||S|nat|C2
+subdução|subducción||S|nat|C2
+orogenia|orogenia||S|nat|C2
+epirogénese|epirogénesis||S|nat|C2
+sedimentação|sedimentación||S|nat|C2
+estratigrafia|estratigrafía||S|nat|C2
+fossilização|fosilización||S|nat|C2
+datação radiométrica|datación radiométrica||L|nat|C2
+glaciação|glaciación||S|nat|C2
+morena|morrena||S|nat|C2
+estalactite|estalactita||S|nat|C2
+estalagmite|estalagmita||S|nat|C2
+carste|karst||S|nat|C2
+aquífero|acuífero||S|nat|C2
+jazigo mineral|depósito mineral||L|nat|C2
+exploração mineira|explotación minera||L|nat|C2
+deriva continental|deriva continental||L|nat|C2
+paleomagnetismo|paleomagnetismo||S|nat|C2
+plúton|plutón (intrusión ígnea)||S|nat|C2
+metamorfismo|metamorfismo||S|nat|C2
+xisto|esquisto||S|nat|C2
+afloramento|afloramiento||S|nat|C2
+litosfera|litosfera||S|nat|C2
+batimetria|batimetría||S|nat|C2
+pluma hidrotermal|pluma hidrotermal||L|nat|C2
+cálculo integral|cálculo integral||L|sci|C2
+cálculo vetorial|cálculo vectorial||L|sci|C2
+derivada parcial|derivada parcial||L|sci|C2
+integral definido|integral definida||L|sci|C2
+sucessão convergente|sucesión convergente||L|sci|C2
+série infinita|serie infinita||L|sci|C2
+convergência|convergencia||S|sci|C2
+divergência|divergencia||S|sci|C2
+topologia|topología||S|sci|C2
+espaço métrico|espacio métrico||L|sci|C2
+teoria dos conjuntos|teoría de conjuntos||L|sci|C2
+conjunto aberto|conjunto abierto||L|sci|C2
+matriz invertível|matriz invertible||L|sci|C2
+determinante|determinante||S|sci|C2
+autovalor|valor propio||S|sci|C2
+autovetor|vector propio||S|sci|C2
+equação diferencial|ecuación diferencial||L|sci|C2
+equação às derivadas parciais|ecuación en derivadas parciales||L|sci|C2
+demonstração por indução|demostración por inducción||L|sci|C2
+redução ao absurdo|reducción al absurdo||L|sci|C2
+contraditório|contradictorio||A|sci|C2
+recíproco|recíproco (de un teorema)||S|sci|C2
+silogismo|silogismo||S|sci|C2
+premissa maior|premisa mayor||L|sci|C2
+quantificador|cuantificador||S|sci|C2
+tautologia|tautología||S|sci|C2
+infinitésimo|infinitésimo||S|sci|C2
+axiomático|axiomático||A|sci|C2
+corolário|corolario||S|sci|C2
+lema|lema (matemático)||S|sci|C2
+conjectura|conjetura||S|sci|C2
+heurística|heurística||S|sci|C2
+probabilidade condicionada|probabilidad condicionada||L|sci|C2
+hermenêutica|hermenéutica||S|let|C2
+exegese|exégesis||S|let|C2
+crítica textual|crítica textual||L|let|C2
+cânone literário|canon literario||L|let|C2
+intertextualidade|intertextualidad||S|let|C2
+dialogismo|dialogismo||S|let|C2
+polifonia|polifonía (narrativa)||S|let|C2
+estética da receção|estética de la recepción||L|let|C2
+horizonte de expetativas|horizonte de expectativas||L|let|C2
+poética|poética (arte poética)||S|let|C2
+dramaturgia|dramaturgia||S|let|C2
+estância|estancia (estrofa)||S|let|C2
+ironia dramática|ironía dramática||L|let|C2
+ambivalência|ambivalencia||S|let|C2
+arquétipo|arquetipo||S|let|C2
+sublime|sublime (lo sublime)||S|let|C2
+verosímil|verosímil||A|let|C2
+catarse|catarsis||S|let|C2
+mímesis|mímesis||S|let|C2
+suspensão da descrença|suspensión de la incredulidad||L|let|C2
+distância estética|distancia estética||L|let|C2
+intenção do autor|intención del autor||L|let|C2
+autonomia da obra|autonomía de la obra||L|let|C2
+epopeia|epopeya||S|let|C2
+elegia|elegía||S|let|C2
+égloga|égloga||S|let|C2
+epigrama|epigrama||S|let|C2
+elegíaco|elegíaco||A|let|C2
+verso branco|verso blanco||L|let|C2
+verso livre|verso libre||L|let|C2
+obra aberta|obra abierta||L|let|C2
+literariedade|literariedad||S|let|C2
+estilística|estilística||S|let|C2
+diérese|diéresis||S|let|C2
+sinérese|sinéresis||S|let|C2
+sinalefa|sinalefa||S|let|C2
+cesura|cesura||S|let|C2
+hemistíquio|hemistiquio||S|let|C2
+dodecassílabo|dodecasílabo||S|let|C2
+redondilha|redondilla||S|let|C2
+escansão|escansión||S|let|C2
+encavalgamento|encabalgamiento||S|let|C2
+aliteração|aliteración||S|let|C2
+litote|lítote||S|let|C2
+antítese|antítesis||S|let|C2
+oxímoro|oxímoron||S|let|C2
+quiasmo|quiasmo (figura retórica)||S|let|C2
+metonímia|metonimia||S|let|C2
+sinédoque|sinécdoque||S|let|C2
+catacrese|catacresis||S|let|C2
+hipérbato|hipérbaton||S|let|C2
+anáfora|anáfora (figura retórica)||S|let|C2
+assíndeto|asíndeton||S|let|C2
+antífrase|antífrasis||S|let|C2
+prosopopeia|prosopopeya||S|let|C2
+pleonasmo|pleonasmo||S|let|C2
+elipse|elipsis||S|let|C2
+paronomásia|paronomasia||S|let|C2
+apóstrofe|apóstrofe (figura retórica)||S|let|C2
+argumentação|argumentación||S|cmu|C2
+falácia|falacia||S|cmu|C2
+entimema|entimema||S|let|C2
+elocução|elocución||S|cmu|C2
+peroração|peroración||S|cmu|C2
+exórdio|exordio||S|let|C2
+narratologia|narratología||S|let|C2
+narrador omnisciente|narrador omnisciente||L|let|C2
+heterodiegético|heterodiegético||A|let|C2
+homodiegético|homodiegético||A|let|C2
+focalização|focalización||S|let|C2
+diegese|diegesis||S|let|C2
+analepse|analepsis||S|let|C2
+prolepse|prolepsis||S|let|C2
+actante|actante||S|let|C2
+monólogo interior|monólogo interior||L|let|C2
+fluxo de consciência|flujo de conciencia||L|let|C2
+voz narrativa|voz narrativa||L|let|C2
+narrador não fiável|narrador no fiable||L|let|C2
+desenlace|desenlace||S|let|C2
+peripécia|peripecia||S|let|C2
+agnição|anagnórisis||S|let|C2
+metanarrativa|metanarrativa||S|let|C2
+metaficção|metaficción||S|let|C2
+narratário|narratario||S|let|C2
+leitor implícito|lector implícito||L|let|C2
+autor implícito|autor implícito||L|let|C2
+pacto narrativo|pacto narrativo||L|let|C2
+verosimilhança|verosimilitud||S|let|C2
+narrativa em moldura|narrativa enmarcada||L|let|C2
+subtexto|subtexto||S|let|C2
+arco narrativo|arco narrativo||L|let|C2
+caracterização indireta|caracterización indirecta||L|let|C2
+narrativa não linear|narrativa no lineal||L|let|C2
+oralidade|oralidad||S|let|C2
+autobiográfico|autobiográfico||A|let|C2
+heterónimo|heterónimo||S|let|C2
+estilo livre indireto|estilo indirecto libre||L|let|C2
+alvura|albor (blancura)||S|let|C2
+arauto|heraldo||S|let|C2
+arfar|bracear (agitarse el mar)||V|nat|C2
+balbuciar|balbucear||V|cmu|C2
+candura|candor (ingenuidad)||S|ast|C2
+clangor|clangor (sonido de metales)||S|let|C2
+cismar|meditar absorto||V|emo|C2
+inquietude|inquietud||S|emo|C2
+deslumbre|deslumbramiento||S|emo|C2
+fulgor|fulgor||S|let|C2
+lume|lumbre (fuego)||S|let|C2
+luar|luz de luna||S|let|C2
+crepuscular|crepuscular||A|let|C2
+outonal|otoñal||A|nat|C2
+plangente|plañidero||A|let|C2
+pranto|llanto||S|emo|C2
+sidério|sideral||A|let|C2
+soidão|soledad (desamparo)||S|let|C2
+saudoso|nostálgico (añorante)||A|emo|C2
+turvo|turbio||A|let|C2
+ermo|yermo||S|nat|C2
+fragor|fragor (estruendo)||S|let|C2
+penedo|peñasco||S|nat|C2
+socalco|terraza agrícola||S|nat|C2
+azinhaga|calleja (sendero estrecho)||S|nat|C2
+freixo|fresno||S|nat|C2
+esgar|gesto descompuesto (mueca)||S|let|C2
+arroubo|arrobamiento||S|emo|C2
+enleio|embelesamiento||S|let|C2
+brandura|suavidad (dulzura)||S|let|C2
+algoz|verdugo (carrasco)||S|let|C2
+torvo|torvo||A|let|C2
+epistemologia|epistemología||S|ast|C2
+gnosiologia|gnoseología||S|ast|C2
+doxa|doxa (opinión)||S|ast|C2
+episteme|episteme (saber científico)||S|ast|C2
+a priori|a priori||L|ast|C2
+a posteriori|a posteriori||L|ast|C2
+ente|ente||S|ast|C2
+ontologia|ontología||S|ast|C2
+quididade|quiddidad (esencia)||S|ast|C2
+imputabilidade|imputabilidad||S|ast|C2
+responsabilidade moral|responsabilidad moral||L|ast|C2
+deontologia|deontología||S|ast|C2
+utilitarismo|utilitarismo||S|ast|C2
+consequencialismo|consecuencialismo||S|ast|C2
+imperativo categórico|imperativo categórico||L|ast|C2
+raciocínio dedutivo|razonamiento deductivo||L|ast|C2
+raciocínio indutivo|razonamiento inductivo||L|ast|C2
+falibilismo|falibilismo||S|ast|C2
+solipsismo|solipsismo||S|ast|C2
+nihilismo|nihilismo||S|ast|C2
+determinismo|determinismo||S|ast|C2
+livre-arbítrio|libre albedrío||S|ast|C2
+compatibilismo|compatibilismo||S|ast|C2
+inatismo|innatismo||S|ast|C2
+tabula rasa|tabula rasa||L|ast|C2
+qualia|qualia||S|ast|C2
+intencionalidade|intencionalidad||S|ast|C2
+fenomenologia|fenomenología||S|ast|C2
+axiológico|axiológico||A|ast|C2
+transcendência|trascendencia||S|ast|C2
+imanência|inmanencia||S|ast|C2
+epistémico|epistémico||A|ast|C2

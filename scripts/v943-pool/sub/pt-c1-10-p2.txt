@@ -1,0 +1,260 @@
+denúncia|denuncia (de un tratado)||S|ist|C1
+denunciar|denunciar (un tratado)||V|ist|C1
+protocolo|protocolo||S|ist|C1
+adesão|adhesión||S|ist|C1
+aderir|adherir||V|ist|C1
+entrada em vigor|entrada en vigor||L|ist|C1
+vigência|vigencia||S|ist|C1
+reciprocidade|reciprocidad||S|ist|C1
+soberania|soberanía||S|ist|C1
+extradição|extradición||S|ist|C1
+extraditar|extraditar||V|ist|C1
+asilo político|asilo político||L|ist|C1
+apátrida|apátrida||S|ist|C1
+imunidade diplomática|inmunidad diplomática||L|ist|C1
+jurisdição universal|jurisdicción universal||L|ist|C1
+genocídio|genocidio||S|ist|C1
+crimes de guerra|crímenes de guerra||L|ist|C1
+crimes contra a humanidade|crímenes de lesa humanidad||L|ist|C1
+direito humanitário|derecho humanitario||L|ist|C1
+direito consuetudinário|derecho consuetudinario||L|ist|C1
+sanção internacional|sanción internacional||L|ist|C1
+embargo|embargo||S|ist|C1
+retorsão|retorsión||S|ist|C1
+cessar-fogo|alto el fuego||S|ist|C1
+armistício|armisticio||S|ist|C1
+comissão rogatória|comisión rogatoria||L|ist|C1
+exequatur|exequátur||S|ist|C1
+extraterritorialidade|extraterritorialidad||S|ist|C1
+sociedade anónima|sociedad anónima||L|ist|C1
+sociedade por quotas|sociedad de responsabilidad limitada||L|ist|C1
+estatutos|estatutos (sociales)||S|ist|C1
+sócio|socio||S|ist|C1
+gerir|gestionar||V|lav|C1
+conselho de administração|consejo de administración||L|ist|C1
+assembleia geral|junta general||L|ist|C1
+quota|cuota (participación social)||S|fin|C1
+acionista|accionista||S|fin|C1
+dividendo|dividendo||S|fin|C1
+distribuição de lucros|reparto de dividendos||L|fin|C1
+capital social|capital social||L|fin|C1
+aumento de capital|ampliación de capital||L|fin|C1
+cisão|escisión||S|ist|C1
+dissolução|disolución||S|ist|C1
+liquidação|liquidación||S|ist|C1
+liquidatário|liquidador||S|pro|C1
+filial|filial||S|fin|C1
+estabelecimento estável|establecimiento permanente||L|fin|C1
+sede social|domicilio social||L|ist|C1
+pacto parasocial|pacto parasocial||L|ist|C1
+governação corporativa|gobernanza corporativa||L|fin|C1
+fiscalização|supervisión||S|ist|C1
+auditoria|auditoría||S|fin|C1
+revisor de contas|auditor de cuentas||L|pro|C1
+insolvência|insolvencia||S|fin|C1
+livrança|pagaré||S|fin|C1
+avalista|avalista||S|fin|C1
+mora|mora (retraso con intereses)||S|fin|C1
+arbitragem|arbitraje||S|ist|C1
+cláusula compromissória|cláusula compromisoria||L|ist|C1
+carta de crédito|carta de crédito||L|fin|C1
+legislação laboral|legislación laboral||L|ist|C1
+contrato de trabalho|contrato de trabajo||L|lav|C1
+negociação coletiva|negociación colectiva||L|lav|C1
+convenção coletiva|convenio colectivo||L|lav|C1
+acordo de empresa|acuerdo de empresa||L|lav|C1
+comissão de empresa|comité de empresa||L|lav|C1
+sindical|sindical||A|ist|C1
+piquete|piquete de huelga||S|lav|C1
+fecho patronal|cierre patronal||L|lav|C1
+conflito laboral|conflicto laboral||L|lav|C1
+empregatício|laboral (relativo al empleo)||A|lav|C1
+vínculo empregatício|vínculo laboral||L|lav|C1
+remuneração|remuneración||S|lav|C1
+remuneratório|remunerativo||A|lav|C1
+subsídio de férias|paga extra de vacaciones||L|fin|C1
+subsídio de refeição|subsidio de comidas||L|fin|C1
+banco de horas|banco de horas||L|lav|C1
+horas extraordinárias|horas extraordinarias||L|lav|C1
+teletrabalho|teletrabajo||S|lav|C1
+cessação do contrato|extinción del contrato||L|lav|C1
+justa causa|causa justa||L|lav|C1
+vencimento|salario (nómina)||S|fin|C1
+despedimento ilícito|despido improcedente||L|lav|C1
+indemnização por despedimento|indemnización por despido||L|lav|C1
+período experimental|período de prueba||L|lav|C1
+avaliação de desempenho|evaluación del desempeño||L|lav|C1
+assiduidade|asiduidad||S|lav|C1
+absentismo|absentismo laboral||S|lav|C1
+doença profissional|enfermedad profesional||L|sla|C1
+mediação|mediación||S|ist|C1
+licença parental|permiso parental||L|lav|C1
+licença sem vencimento|excedencia sin sueldo||L|lav|C1
+dissecção|disección||S|cor|C1
+incisão|incisión||S|cor|C1
+sutura|sutura||S|cor|C1
+suturar|suturar||V|cor|C1
+hemostasia|hemostasia||S|cor|C1
+garrote|torniquete||S|cor|C1
+cânula|cánula||S|cor|C1
+bisturi|bisturí||S|cor|C1
+afastador|separador||S|cor|C1
+pinça|pinza||S|cor|C1
+porta-agulhas|portaagujas||S|cor|C1
+drenagem|drenaje||S|cor|C1
+penso|apósito||S|sla|C1
+compressa|compresa||S|sla|C1
+desbridamento|desbridamiento||S|cor|C1
+assepsia|asepsia||S|sla|C1
+antisepsia|antisepsia||S|sla|C1
+campo cirúrgico|campo quirúrgico||L|cor|C1
+cauterização|cauterización||S|cor|C1
+hérnia|hernia||S|cor|C1
+anestesiologista|anestesiólogo||S|pro|C1
+sedação|sedación||S|sla|C1
+sedar|sedar||V|sla|C1
+intubação|intubación||S|sla|C1
+laparotomia|laparotomía||S|cor|C1
+laparoscopia|laparoscopia||S|cor|C1
+toracotomia|toracotomía||S|cor|C1
+resseção|resección||S|cor|C1
+excisão|exéresis||S|cor|C1
+ablação|ablación||S|cor|C1
+enxerto|injerto||S|cor|C1
+retalho|colgajo||S|cor|C1
+cardiologista|cardiólogo||S|pro|C1
+cardiopatia|cardiopatía||S|sla|C1
+isquemia|isquemia||S|sla|C1
+enfarte do miocárdio|infarto de miocardio||L|sla|C1
+trombose|trombosis||S|sla|C1
+embolia pulmonar|embolia pulmonar||L|sla|C1
+aterosclerose|aterosclerosis||S|sla|C1
+estenose|estenosis||S|sla|C1
+insuficiência cardíaca|insuficiencia cardiaca||L|sla|C1
+arritmia|arritmia||S|sla|C1
+fibrilhação auricular|fibrilación auricular||L|sla|C1
+taquicardia|taquicardia||S|sla|C1
+bradicardia|bradicardia||S|sla|C1
+sístole|sístole||S|sla|C1
+diástole|diástole||S|sla|C1
+sopro cardíaco|soplo cardíaco||L|sla|C1
+hipertensão arterial|hipertensión arterial||L|sla|C1
+angioplastia|angioplastia||S|sla|C1
+cateterismo|cateterismo||S|sla|C1
+valvulopatia|valvulopatía||S|sla|C1
+aneurisma|aneurisma||S|sla|C1
+diseção aórtica|disección aórtica||L|sla|C1
+síncope|síncope||S|sla|C1
+dispneia|disnea||S|sla|C1
+apneia obstrutiva do sono|apnea obstructiva del sueño||L|sla|C1
+estertor|estertor||S|sla|C1
+hemoptise|hemoptisis||S|sla|C1
+doença pulmonar obstrutiva crónica|enfermedad pulmonar obstructiva crónica||L|sla|C1
+pneumotórax|neumotórax||S|sla|C1
+derrame pleural|derrame pleural||L|sla|C1
+ventilação mecânica|ventilación mecánica||L|sla|C1
+espirometria|espirometría||S|sla|C1
+endocrinologista|endocrinólogo||S|pro|C1
+endócrino|endocrino||A|sla|C1
+glândula tiroide|glándula tiroides||L|cor|C1
+hipertiroidismo|hipertiroidismo||S|sla|C1
+hipotiroidismo|hipotiroidismo||S|sla|C1
+hipófise|hipófisis||S|cor|C1
+pituitário|pituitario||A|cor|C1
+cortisol|cortisol||S|sla|C1
+corticoide|corticoide||S|sla|C1
+resistência à insulina|resistencia a la insulina||L|sla|C1
+hipoglicemia|hipoglucemia||S|sla|C1
+hiperglicemia|hiperglucemia||S|sla|C1
+cetoacidose|cetoacidosis||S|sla|C1
+homeostasia|homeostasis||S|sci|C1
+metabolismo basal|metabolismo basal||L|sla|C1
+síndrome metabólico|síndrome metabólico||L|sla|C1
+anabolismo|anabolismo||S|sci|C1
+catabolismo|catabolismo||S|sci|C1
+lipólise|lipólisis||S|sci|C1
+colesterolemia|colesterolemia||S|sla|C1
+triglicéridos|triglicéridos||S|sla|C1
+obesidade mórbida|obesidad mórbida||L|sla|C1
+tecido adiposo|tejido adiposo||L|cor|C1
+tiroxina|tiroxina||S|sla|C1
+paratormona|hormona paratiroidea||S|sla|C1
+menopausa|menopausia||S|sla|C1
+acromegália|acromegalia||S|sla|C1
+gigantismo|gigantismo||S|sla|C1
+nanismo|enanismo||S|sla|C1
+bócio|bocio||S|sla|C1
+exoftalmia|exoftalmía||S|sla|C1
+acidose|acidosis||S|sla|C1
+dermatologista|dermatólogo||S|pro|C1
+dermatite|dermatitis||S|sla|C1
+epiderme|epidermis||S|cor|C1
+hipoderme|hipodermis||S|cor|C1
+melanócito|melanocito||S|cor|C1
+queratina|queratina||S|cor|C1
+queratose|queratosis||S|sla|C1
+colagénio|colágeno||S|cor|C1
+elastina|elastina||S|cor|C1
+psoríase|psoriasis||S|sla|C1
+urticária|urticaria||S|sla|C1
+prurido|prurito||S|sla|C1
+pústula|pústula||S|cor|C1
+pápula|pápula||S|cor|C1
+vitiligo|vitíligo||S|sla|C1
+descamação|descamación||S|sla|C1
+eritema|eritema||S|sla|C1
+rosácea|rosácea||S|sla|C1
+ictiose|ictiosis||S|sla|C1
+queloide|queloide||S|sla|C1
+alopecia|alopecia||S|sla|C1
+hirsutismo|hirsutismo||S|sla|C1
+alergénio|alérgeno||S|sla|C1
+alergista|alergólogo||S|pro|C1
+atopia|atopia||S|sla|C1
+anafilaxia|anafilaxia||S|sla|C1
+choque anafilático|shock anafiláctico||L|sla|C1
+antihistamínico|antihistamínico||S|sla|C1
+histamina|histamina||S|sla|C1
+rinite alérgica|rinitis alérgica||L|sla|C1
+dessensibilização|desensibilización||S|sla|C1
+celiaquia|celiaquía||S|sla|C1
+oncologista|oncólogo||S|pro|C1
+neoplasia|neoplasia||S|sla|C1
+carcinoma|carcinoma||S|sla|C1
+sarcoma|sarcoma||S|sla|C1
+linfoma|linfoma||S|sla|C1
+melanoma|melanoma||S|sla|C1
+metástase|metástasis||S|sla|C1
+quimioterapia|quimioterapia||S|sla|C1
+radioterapia|radioterapia||S|sla|C1
+imunoterapia|inmunoterapia||S|sla|C1
+hormonoterapia|hormonoterapia||S|sla|C1
+biópsia|biopsia||S|sla|C1
+marcador tumoral|marcador tumoral||L|sla|C1
+estadiamento|estadificación||S|sla|C1
+remissão completa|remisión completa||L|sla|C1
+recidiva|recidiva (recaída)||S|sla|C1
+prognóstico|pronóstico||S|sla|C1
+sobrevivência|supervivencia||S|sla|C1
+cuidados paliativos|cuidados paliativos||L|sla|C1
+sedação paliativa|sedación paliativa||L|sla|C1
+gestão da dor|manejo del dolor||L|sla|C1
+analgesia|analgesia||S|sla|C1
+opiáceo|opiáceo||S|sla|C1
+eutanásia|eutanasia||S|sla|C1
+obstinação terapêutica|encarnizamiento terapéutico||L|sla|C1
+testamento vital|testamento vital||L|sla|C1
+luto|duelo||S|emo|C1
+mucosite|mucositis||S|sla|C1
+neutropenia|neutropenia||S|sla|C1
+caquexia|caquexia||S|sla|C1
+rastreio|cribado (detección precoz)||S|sla|C1
+gânglio linfático|ganglio linfático||L|cor|C1
+neurologista|neurólogo||S|pro|C1
+neurónio|neurona||S|sci|C1
+sinapse|sinapsis||S|sci|C1
+neurotransmissor|neurotransmisor||S|sci|C1
+mielina|mielina||S|sci|C1
+esclerose múltipla|esclerosis múltiple||L|sla|C1
+polineuropatia|polineuropatía||S|sla|C1
+enxaqueca|migraña||S|sla|C1

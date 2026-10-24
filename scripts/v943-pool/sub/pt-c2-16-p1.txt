@@ -1,0 +1,294 @@
+oncologia|oncología||S|sla|C2
+oncológico|oncológico||A|sla|C2
+quimioterapia|quimioterapia||S|sla|C2
+radioterapia|radioterapia||S|sla|C2
+imunoterapia|inmunoterapia||S|sla|C2
+metástase|metástasis||S|sla|C2
+neoplasia|neoplasia||S|sla|C2
+carcinoma|carcinoma||S|sla|C2
+sarcoma|sarcoma||S|sla|C2
+linfoma|linfoma||S|sla|C2
+melanoma|melanoma||S|sla|C2
+leucemia|leucemia||S|sla|C2
+biópsia|biopsia||S|sla|C2
+exérese|exéresis||S|sla|C2
+mastectomia|mastectomía||S|sla|C2
+estadiamento|estadificación||S|sla|C2
+remissão|remisión||S|sla|C2
+recidiva|recidiva||S|sla|C2
+carcinogénese|carcinogénesis||S|sla|C2
+angiogénese|angiogénesis||S|sla|C2
+citotóxico|citotóxico||A|sla|C2
+malignidade|malignidad||S|sla|C2
+prognóstico|pronóstico||S|sla|C2
+caquexia|caquexia||S|sla|C2
+astenia|astenia||S|sla|C2
+disfagia|disfagia||S|sla|C2
+neutropenia|neutropenia||S|sla|C2
+mucosite|mucositis||S|sla|C2
+cuidados paliativos|cuidados paliativos||L|sla|C2
+sedação|sedación||S|sla|C2
+opiáceo|opiáceo||S|sla|C2
+eutanásia|eutanasia||S|sla|C2
+testamento vital|testamento vital||L|sla|C2
+neurologia|neurología||S|sla|C2
+epilepsia|epilepsia||S|sla|C2
+convulsão|convulsión||S|sla|C2
+crise epiléptica|crisis epiléptica||L|sla|C2
+migranha|migraña||S|sla|C2
+acidente vascular cerebral|accidente cerebrovascular||L|sla|C2
+trombose|trombosis||S|sla|C2
+aneurisma|aneurisma||S|sla|C2
+demência|demencia||S|sla|C2
+esclerose múltipla|esclerosis múltiple||L|sla|C2
+degenerescência|degeneración||S|sla|C2
+atrofia|atrofia||S|sla|C2
+espasticidade|espasticidad||S|sla|C2
+parestesia|parestesia||S|sla|C2
+vertigem|vértigo||S|sla|C2
+encefalite|encefalitis||S|sla|C2
+meningite|meningitis||S|sla|C2
+cefaleia|cefalea||S|sla|C2
+letargia|letargo||S|sla|C2
+estupor|estupor||S|sla|C2
+afasia|afasia||S|sla|C2
+disartria|disartria||S|sla|C2
+ataxia|ataxia||S|sla|C2
+coreia|corea||S|sla|C2
+distonia|distonía||S|sla|C2
+tremor|temblor||S|sla|C2
+paralisia|parálisis||S|sla|C2
+hemiplegia|hemiplejia||S|sla|C2
+paraplegia|paraplejia||S|sla|C2
+eletroencefalograma|electroencefalograma||S|sla|C2
+punção lombar|punción lumbar||L|sla|C2
+amnésia|amnesia||S|sla|C2
+síncope|síncope||S|sla|C2
+obstetrícia|obstetricia||S|sla|C2
+obstétrico|obstétrico||A|sla|C2
+ginecologia|ginecología||S|sla|C2
+pediatria|pediatría||S|sla|C2
+pediátrico|pediátrico||A|sla|C2
+cesariana|cesárea||S|sla|C2
+episiotomia|episiotomía||S|sla|C2
+eclâmpsia|eclampsia||S|sla|C2
+pré-eclâmpsia|preeclampsia||S|sla|C2
+gestação|gestación||S|sla|C2
+líquido amniótico|líquido amniótico||L|sla|C2
+amniocentese|amniocentesis||S|sla|C2
+aborto espontâneo|aborto espontáneo||L|sla|C2
+natimorto|mortinato||A|sla|C2
+neonatologia|neonatología||S|sla|C2
+neonatal|neonatal||A|sla|C2
+aleitamento|lactancia materna||S|sla|C2
+puerpério|puerperio||S|sla|C2
+puerperal|puerperal||A|sla|C2
+puérpera|puérpera||S|sla|C2
+tocologia|tocología (obstetricia)||S|sla|C2
+icterícia|ictericia||S|sla|C2
+fototerapia|fototerapia||S|sla|C2
+tosse convulsa|tosferina||L|sla|C2
+laringite|laringitis||S|sla|C2
+bronquiolite|bronquiolitis||S|sla|C2
+anomalia congénita|anomalía congénita||L|sla|C2
+cardiopatia congénita|cardiopatía congénita||L|sla|C2
+espinha bífida|espina bífida||L|sla|C2
+fenda palatina|fisura palatina||L|sla|C2
+lábio leporino|labio leporino||L|sla|C2
+prematuridade|prematuridad||S|sla|C2
+perinatal|perinatal||A|sla|C2
+traumatologia|traumatología||S|sla|C2
+ortopedia|ortopedia||S|sla|C2
+fratura exposta|fractura abierta||L|sla|C2
+luxação|luxación||S|sla|C2
+entorse|esguince||S|sla|C2
+osteoporose|osteoporosis||S|sla|C2
+osteossíntese|osteosíntesis||S|sla|C2
+artroplastia|artroplastia||S|sla|C2
+artrite|artritis||S|sla|C2
+artrose|artrosis||S|sla|C2
+prótese|prótesis||S|sla|C2
+fisioterapia|fisioterapia||S|sla|C2
+reabilitação|rehabilitación||S|sla|C2
+cinesiterapia|cinesiterapia||S|sla|C2
+tala|férula||S|sla|C2
+imobilização|inmovilización||S|sla|C2
+amputação|amputación||S|sla|C2
+deambulação|deambulación||S|sla|C2
+contratura|contractura||S|sla|C2
+anquilose|anquilosis||S|sla|C2
+hérnia discal|hernia discal||L|sla|C2
+lombalgia|lumbalgia||S|sla|C2
+cervicalgia|cervicalgia||S|sla|C2
+tendinite|tendinitis||S|sla|C2
+bursite|bursitis||S|sla|C2
+distrofia|distrofia||S|sla|C2
+hemartrose|hemartrosis||S|sla|C2
+politraumatismo|politraumatismo||S|sla|C2
+lesão medular|lesión medular||L|sla|C2
+propriocepção|propriocepción||S|sla|C2
+ortótese|ortesis||S|sla|C2
+manguito rotador|manguito rotador||L|sla|C2
+síndrome compartimental|síndrome compartimental||L|sla|C2
+saúde pública|salud pública||L|sla|C2
+epidemiologia|epidemiología||S|sla|C2
+epidemiológico|epidemiológico||A|sla|C2
+endemia|endemia||S|sla|C2
+endémico|endémico||A|sla|C2
+letalidade|letalidad||S|sla|C2
+mortalidade|mortalidad||S|sla|C2
+morbilidade|morbilidad||S|sla|C2
+incidência|incidencia||S|sla|C2
+prevalência|prevalencia||S|sla|C2
+soroprevalência|seroprevalencia||S|sla|C2
+taxa de ataque|tasa de ataque||L|sla|C2
+imunização|inmunización||S|sla|C2
+cobertura vacinal|cobertura vacunal||L|sla|C2
+imunidade de grupo|inmunidad de grupo||L|sla|C2
+erradicação|erradicación||S|sla|C2
+profilaxia|profilaxis||S|sla|C2
+quimioprofilaxia|quimioprofilaxis||S|sla|C2
+transmissibilidade|transmisibilidad||S|sla|C2
+assintomático|asintomático||A|sla|C2
+rastreio|cribado||S|sla|C2
+vetor|vector (transmisor de enfermedades)||S|sla|C2
+zoonose|zoonosis||S|sla|C2
+soroconversão|seroconversión||S|sla|C2
+carga de doença|carga de enfermedad||L|sla|C2
+caso índice|caso índice||L|sla|C2
+saneamento básico|saneamiento básico||L|sla|C2
+cronicidade|cronicidad||S|sla|C2
+eficácia vacinal|eficacia vacunal||L|sla|C2
+segurança do doente|seguridad del paciente||L|sla|C2
+iatrogénico|iatrogénico||A|sla|C2
+nosocomial|nosocomial||A|sla|C2
+resistência antimicrobiana|resistencia antimicrobiana||L|sla|C2
+fiscalidade|fiscalidad||S|fin|C2
+fiscal|inspector de impuestos||S|pro|C2
+tributação|tributación||S|fin|C2
+contribuinte|contribuyente||S|fin|C2
+isenção|exención||S|fin|C2
+dedução|deducción||S|fin|C2
+fraude fiscal|fraude fiscal||L|fin|C2
+evasão fiscal|evasión fiscal||L|fin|C2
+paraíso fiscal|paraíso fiscal||L|fin|C2
+execução fiscal|ejecución tributaria||L|fin|C2
+fisco|fisco||S|fin|C2
+branqueamento de capitais|blanqueo de capitales||L|fin|C2
+contabilidade criativa|contabilidad creativa||L|fin|C2
+auditoria|auditoría||S|fin|C2
+suborno|soborno||S|fin|C2
+peculato|peculado||S|fin|C2
+conluio|colusión||S|fin|C2
+burla|estafa||S|fin|C2
+burlar|estafar||V|fin|C2
+defraudar|defraudar||V|fin|C2
+penhora|embargo de bienes||S|fin|C2
+liquidação|liquidación||S|fin|C2
+retenção na fonte|retención en la fuente||L|fin|C2
+omissão de rendimentos|omisión de ingresos||L|fin|C2
+prestação de contas|rendición de cuentas||L|fin|C2
+declaração de rendimentos|declaración de la renta||L|fin|C2
+coima|multa||S|fin|C2
+juros de mora|intereses de demora||L|fin|C2
+caducidade|caducidad||S|fin|C2
+contencioso|contencioso||S|fin|C2
+mais-valia|plusvalía||S|fin|C2
+progressividade|progresividad||S|fin|C2
+taxa de juro|tipo de interés||L|fin|C2
+diferencial de juro|diferencial de interés||L|fin|C2
+crédito à habitação|crédito hipotecario||L|fin|C2
+crédito ao consumo|crédito al consumo||L|fin|C2
+penhor|prenda||S|fin|C2
+aval|aval||S|fin|C2
+prestação mensal|cuota mensal||L|fin|C2
+amortização|amortización||S|fin|C2
+capital em dívida|capital pendiente||L|fin|C2
+incumprimento|impago||S|fin|C2
+incumpridor|moroso||S|fin|C2
+risco de crédito|riesgo de crédito||L|fin|C2
+risco de contraparte|riesgo de contraparte||L|fin|C2
+alavancagem|apalancamiento||S|fin|C2
+colateral|colateral (garantía real)||S|fin|C2
+resolução bancária|resolución bancaria||L|fin|C2
+garantia de depósitos|garantía de depósitos||L|fin|C2
+depósito a prazo|depósito a plazo||L|fin|C2
+conta à ordem|cuenta corriente||L|fin|C2
+descoberto bancário|descubierto bancario||L|fin|C2
+solvência|solvencia||S|fin|C2
+solvabilidade|solvabilidad||S|fin|C2
+liquidez|liquidez||S|fin|C2
+taxa de esforço|tasa de esfuerzo||L|fin|C2
+indexante|índice de referencia (de préstamos)||S|fin|C2
+rácio|ratio||S|fin|C2
+supervisão bancária|supervisión bancaria||L|fin|C2
+linha de crédito|línea de crédito||L|fin|C2
+renegociação|renegociación||S|fin|C2
+reestruturação de dívida|reestructuración de deuda||L|fin|C2
+usura|usura||S|fin|C2
+juros abusivos|intereses abusivos||L|fin|C2
+valorização|valoración||S|fin|C2
+avaliação|evaluación||S|fin|C2
+fusão|fusión||S|fin|C2
+aquisição|adquisición||S|fin|C2
+diligência devida|diligencia debida||L|fin|C2
+capital de risco|capital riesgo||L|fin|C2
+participada|filial participada||S|fin|C2
+subsidiária|filial||S|fin|C2
+matriz|matriz (casa matriz)||S|fin|C2
+sede social|domicilio social||L|fin|C2
+objeto social|objeto social||L|fin|C2
+capital social|capital social||L|fin|C2
+acionista|accionista||S|fin|C2
+diluição|dilución||S|fin|C2
+absorção|absorción||S|fin|C2
+cisão|escisión||S|fin|C2
+sinergia|sinergia||S|fin|C2
+carteira de clientes|cartera de clientes||L|fin|C2
+fluxo de caixa|flujo de caja||L|fin|C2
+capitalização bolsista|capitalización bursátil||L|fin|C2
+rentabilidade|rentabilidad||S|fin|C2
+lucratividade|lucratividad||S|fin|C2
+margem operacional|margen operativo||L|fin|C2
+proveitos|ingresos||S|fin|C2
+depreciação|depreciación||S|fin|C2
+fundo de maneio|fondo de maniobra||L|fin|C2
+imparidade|deterioro de valor||S|fin|C2
+relatório e contas|informe y cuentas||L|fin|C2
+intangível|intangible||A|fin|C2
+valor de mercado|valor de mercado||L|fin|C2
+reavaliação de ativos|revaluación de activos||L|fin|C2
+ativos incorpóreos|activos intangibles||L|fin|C2
+microeconomia|microeconomía||S|fin|C2
+macroeconomia|macroeconomía||S|fin|C2
+oferta e procura|oferta y demanda||L|fin|C2
+procura|demanda||S|fin|C2
+equilíbrio de mercado|equilibrio de mercado||L|fin|C2
+excedente do consumidor|excedente del consumidor||L|fin|C2
+elasticidade|elasticidad||S|fin|C2
+utilidade marginal|utilidad marginal||L|fin|C2
+custo marginal|coste marginal||L|fin|C2
+custo de oportunidade|coste de oportunidad||L|fin|C2
+externalidade|externalidad||S|fin|C2
+falha de mercado|fallo de mercado||L|fin|C2
+monopólio|monopolio||S|fin|C2
+oligopólio|oligopolio||S|fin|C2
+monopsónio|monopsonio||S|fin|C2
+cartel|cártel||S|fin|C2
+concorrência perfeita|competencia perfecta||L|fin|C2
+barreira à entrada|barrera de entrada||L|fin|C2
+diferenciação de produto|diferenciación de producto||L|fin|C2
+escassez|escasez||S|fin|C2
+alocação|asignación de recursos||S|fin|C2
+produtividade|productividad||S|fin|C2
+rendimentos decrescentes|rendimientos decrecientes||L|fin|C2
+economias de escala|economías de escala||L|fin|C2
+efeito de substituição|efecto de sustitución||L|fin|C2
+rigidez de preços|rigidez de precios||L|fin|C2
+poder de mercado|poder de mercado||L|fin|C2
+racionalidade limitada|racionalidad limitada||L|fin|C2
+assimetria de informação|asimetría de información||L|fin|C2
+risco moral|riesgo moral||L|fin|C2
+seleção adversa|selección adversa||L|fin|C2
+teoria dos jogos|teoría de juegos||L|fin|C2
+dilema do prisioneiro|dilema del prisionero||L|fin|C2

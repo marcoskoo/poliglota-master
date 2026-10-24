@@ -1,0 +1,294 @@
+seguradora|aseguradora||S|fin|C2
+apólice|póliza||S|fin|C2
+prémio de seguro|prima de seguro||L|fin|C2
+segurado|asegurado||S|fin|C2
+beneficiário|beneficiario||S|fin|C2
+sinistro|siniestro||S|fin|C2
+sinistralidade|siniestralidad||S|fin|C2
+franquia|franquicia||S|fin|C2
+resseguro|reaseguro||S|fin|C2
+retrocessão|retrocesión||S|fin|C2
+atuarial|actuarial||A|fin|C2
+atuário|actuario||S|pro|C2
+mutualidade|mutualidad||S|fin|C2
+mutualização do risco|mutualización del riesgo||L|fin|C2
+avaliação de danos|evaluación de daños||L|fin|C2
+indemnização|indemnización||S|fin|C2
+indemnizar|indemnizar||V|fin|C2
+ressarcimento|resarcimiento||S|fin|C2
+responsabilidade civil|responsabilidad civil||L|fin|C2
+subscrição|suscripción||S|fin|C2
+subscritor|suscriptor||S|pro|C2
+fundo de pensões|fondo de pensiones||L|fin|C2
+carteira de riscos|cartera de riesgos||L|fin|C2
+matriz de riscos|matriz de riesgos||L|fin|C2
+exposição ao risco|exposición al riesgo||L|fin|C2
+vulnerabilidade|vulnerabilidad||S|fin|C2
+resiliência|resiliencia||S|fin|C2
+plano de contingência|plan de contingencia||L|fin|C2
+mitigação|mitigación||S|fin|C2
+mitigar|mitigar||V|fin|C2
+segurador|asegurador||S|pro|C2
+corretor de seguros|corredor de seguros||L|fin|C2
+sub-rogação|subrogación||S|fin|C2
+subdesenvolvimento|subdesarrollo||S|fin|C2
+cooperação para o desenvolvimento|cooperación al desarrollo||L|fin|C2
+ajuda ao desenvolvimento|ayuda al desarrollo||L|fin|C2
+ajustamento estrutural|ajuste estructural||L|fin|C2
+condicionalidade|condicionalidad||S|fin|C2
+austeridade|austeridad||S|fin|C2
+endividamento|endeudamiento||S|fin|C2
+dívida externa|deuda externa||L|fin|C2
+condonação da dívida|condonación de la deuda||L|fin|C2
+remessas de emigrantes|remesas de emigrantes||L|fin|C2
+fuga de capitais|fuga de capitales||L|fin|C2
+investimento direto estrangeiro|inversión extranjera directa||L|fin|C2
+linha da pobreza|umbral de pobreza||L|fin|C2
+redistribuição|redistribución||S|fin|C2
+agricultura de subsistência|agricultura de subsistencia||L|fin|C2
+desnutrição|desnutrición||S|sla|C2
+segurança alimentar|seguridad alimentaria||L|sla|C2
+soberania alimentar|soberanía alimentaria||L|sla|C2
+microcrédito|microcrédito||S|fin|C2
+microfinanças|microfinanzas||S|fin|C2
+economia informal|economía informal||L|fin|C2
+empobrecimento|empobrecimiento||S|fin|C2
+estagnação|estancamiento||S|fin|C2
+hiperinflação|hiperinflación||S|fin|C2
+deflação|deflación||S|fin|C2
+reforma agrária|reforma agraria||L|fin|C2
+êxodo rural|éxodo rural||L|fin|C2
+fuga de cérebros|fuga de cerebros||E|fin|C2
+sustentabilidade|sostenibilidad||S|nat|C2
+comércio justo|comercio justo||L|fin|C2
+protecionismo|proteccionismo||S|fin|C2
+subvenção|subvención||S|fin|C2
+teoria da dependência|teoría de la dependencia||L|fin|C2
+química analítica|química analítica||L|sci|C2
+analito|analito||S|sci|C2
+reagente|reactivo||S|sci|C2
+titulação|valoración||S|sci|C2
+volumetria|volumetría||S|sci|C2
+cromatografia|cromatografía||S|sci|C2
+cromatógrafo|cromatógrafo||S|sci|C2
+espetrometria de massas|espectrometría de masas||L|sci|C2
+espetroscopia|espectroscopia||S|sci|C2
+calibração|calibración||S|sci|C2
+curva de calibração|curva de calibración||L|sci|C2
+limiar de deteção|límite de detección||L|sci|C2
+exatidão|exactitud||S|sci|C2
+reprodutibilidade|reproducibilidad||S|sci|C2
+validação|validación||S|sci|C2
+amostragem|muestreo||S|sci|C2
+balança analítica|balanza analítica||L|sci|C2
+cadinho|crisol||S|sci|C2
+dessecador|desecador||S|sci|C2
+mufla|mufla (horno de calcinación)||S|sci|C2
+calcinação|calcinación||S|sci|C2
+solubilidade|solubilidad||S|sci|C2
+eluente|eluente||S|sci|C2
+eluição|elución||S|sci|C2
+fase estacionária|fase estacionaria||L|sci|C2
+alíquota|alícuota||S|sci|C2
+centrifugação|centrifugación||S|sci|C2
+destilação fracionada|destilación fraccionada||L|sci|C2
+solução tampão|solución tampón||L|sci|C2
+esterilização|esterilización||S|sci|C2
+turvação|turbidez||S|sci|C2
+condutividade|conductividad||S|sci|C2
+potenciometria|potenciometría||S|sci|C2
+física do estado sólido|física del estado sólido||L|sci|C2
+matéria condensada|materia condensada||L|sci|C2
+cristalografia|cristalografía||S|sci|C2
+cristalino|cristalino||A|sci|C2
+cela unitária|celda unitaria||L|sci|C2
+difração de raios X|difracción de rayos X||L|sci|C2
+rede recíproca|red recíproca||L|sci|C2
+banda proibida|banda prohibida||L|sci|C2
+banda de valência|banda de valencia||L|sci|C2
+semicondutor|semiconductor||S|sci|C2
+supercondutor|superconductor||S|sci|C2
+supercondutividade|superconductividad||S|sci|C2
+dopagem|dopado||S|sci|C2
+dopante|dopante||S|sci|C2
+isótopo|isótopo||S|sci|C2
+meia-vida|vida media||S|sci|C2
+fissão nuclear|fisión nuclear||L|sci|C2
+maleabilidade|maleabilidad||S|sci|C2
+ductilidade|ductilidad||S|sci|C2
+tenacidade|tenacidad||S|sci|C2
+fragilidade|fragilidad||S|sci|C2
+plasticidade|plasticidad||S|sci|C2
+tensão de rotura|tensión de rotura||L|sci|C2
+deformação plástica|deformación plástica||L|sci|C2
+fadiga|fatiga (de los materiales)||S|sci|C2
+fluência|fluencia||S|sci|C2
+dilatação térmica|dilatación térmica||L|sci|C2
+fonão|fonón||S|sci|C2
+ligação covalente|enlace covalente||L|sci|C2
+lacuna|vacante (en la red cristalina)||S|sci|C2
+compósito|material compuesto||S|sci|C2
+grafeno|grafeno||S|sci|C2
+liga metálica|aleación||L|sci|C2
+climatologia|climatología||S|sci|C2
+variabilidade climática|variabilidad climática||L|cli|C2
+alteração climática|cambio climático||L|cli|C2
+efeito de estufa|efecto invernadero||L|cli|C2
+pegada de carbono|huella de carbono||L|cli|C2
+pegada ecológica|huella ecológica||L|cli|C2
+neutralidade carbónica|neutralidad de carbono||L|cli|C2
+descarbonização|descarbonización||S|cli|C2
+sequestro de carbono|captura de carbono||L|cli|C2
+depressão atmosférica|borrasca||L|cli|C2
+corrente de jato|corriente en chorro||L|cli|C2
+buraco de ozono|agujero de ozono||L|cli|C2
+aerossol|aerosol||S|sci|C2
+inversão térmica|inversión térmica||L|cli|C2
+pluviosidade|pluviosidad||S|cli|C2
+aridez|aridez||S|nat|C2
+desertificação|desertización||S|nat|C2
+salinização|salinización||S|nat|C2
+acidificação dos oceanos|acidificación de los océanos||L|nat|C2
+degelo|deshielo||S|nat|C2
+calota polar|casquete polar||L|nat|C2
+moreia|morrena||S|nat|C2
+erosão costeira|erosión costera||L|nat|C2
+linha de costa|línea de costa||L|nat|C2
+sedimentação|sedimentación||S|sci|C2
+paleoclimatologia|paleoclimatología||S|sci|C2
+glaciologia|glaciología||S|sci|C2
+albedo|albedo||S|sci|C2
+forçamento radiativo|forzamiento radiativo||L|sci|C2
+retroalimentação|retroalimentación||S|sci|C2
+ponto de não retorno|punto de no retorno||E|cli|C2
+ponto de viragem|punto de inflexión||E|cli|C2
+clorofluorocarboneto|clorofluorocarbono||S|sci|C2
+paleontologia|paleontología||S|sci|C2
+fóssil|fósil||S|sci|C2
+fossilização|fosilización||S|sci|C2
+estratigrafia|estratigrafía||S|sci|C2
+datação radiométrica|datación radiométrica||L|sci|C2
+extinção em massa|extinción masiva||L|sci|C2
+especiação|especiación||S|sci|C2
+seleção natural|selección natural||L|sci|C2
+deriva génica|deriva génica||L|sci|C2
+aptidão|aptitud biológica||S|sci|C2
+recombinação|recombinación||S|sci|C2
+filogenia|filogenia||S|sci|C2
+filogenético|filogenético||A|sci|C2
+cladística|cladística||S|sci|C2
+clado|clado||S|sci|C2
+táxon|taxón||S|sci|C2
+taxonomia|taxonomía||S|sci|C2
+holótipo|holotipo||S|sci|C2
+espécime|espécimen||S|sci|C2
+linhagem|linaje||S|sci|C2
+hominídeo|hominido||S|sci|C2
+jazida paleontológica|yacimiento paleontológico||L|sci|C2
+convergência evolutiva|convergencia evolutiva||L|sci|C2
+deriva continental|deriva continental||L|sci|C2
+tectónica de placas|tectónica de placas||L|sci|C2
+megafauna|megafauna||S|sci|C2
+macroevolução|macroevolución||S|sci|C2
+microevolução|microevolución||S|sci|C2
+gradualismo|gradualismo||S|sci|C2
+equilíbrio pontuado|equilibrio puntuado||L|sci|C2
+atavismo|atavismo||S|sci|C2
+vestigial|vestigial||A|sci|C2
+virologia|virología||S|sci|C2
+virião|virión||S|sci|C2
+capsídeo|cápside||S|sci|C2
+retrovírus|retrovirus||S|sci|C2
+bacteriófago|bacteriófago||S|sci|C2
+lise|lisis||S|sci|C2
+lisogénico|lisogénico||A|sci|C2
+patogenicidade|patogenicidad||S|sci|C2
+patogénico|patógeno||A|sci|C2
+virulência|virulencia||S|sci|C2
+inóculo|inóculo||S|sci|C2
+inoculação|inoculación||S|sci|C2
+viremia|viremia||S|sci|C2
+antigénico|antigénico||A|sci|C2
+cepa|cepa (estirpe microbiana)||S|sci|C2
+cultura celular|cultivo celular||L|sci|C2
+meio de cultura|medio de cultivo||L|sci|C2
+ágar|agar||S|sci|C2
+antibiograma|antibiograma||S|sci|C2
+reservatório|reservorio (de patógenos)||S|sci|C2
+hospedeiro|huésped (organismo hospedante)||S|sci|C2
+malária|paludismo||S|sla|C2
+esquistossomose|esquistosomosis||S|sla|C2
+leishmaniose|leishmaniosis||S|sla|C2
+tifo|tifus||S|sla|C2
+meningococo|meningococo||S|sci|C2
+estafilococo|estafilococo||S|sci|C2
+biofilme|biofilm||S|sci|C2
+esporulação|esporulación||S|sci|C2
+anaeróbio|anaerobio||A|sci|C2
+viroide|viroide||S|sci|C2
+prião|prión||S|sci|C2
+engenharia genética|ingeniería genética||L|sci|C2
+genómica|genómica||S|sci|C2
+transcriptoma|transcriptoma||S|sci|C2
+proteómica|proteómica||S|sci|C2
+sequenciamento|secuenciación||S|sci|C2
+sequenciar|secuenciar||V|sci|C2
+clonagem|clonación||S|sci|C2
+plasmídeo|plásmido||S|sci|C2
+enzima de restrição|enzima de restricción||L|sci|C2
+endonuclease|endonucleasa||S|sci|C2
+ligase|ligasa||S|sci|C2
+polimerase|polimerasa||S|sci|C2
+transcriptase reversa|transcriptasa inversa||L|sci|C2
+edição genética|edición genética||L|sci|C2
+mutagénese dirigida|mutagénesis dirigida||L|sci|C2
+silenciamento genético|silenciamiento génico||L|sci|C2
+oligonucleótido|oligonucleótido||S|sci|C2
+codão|codón||S|sci|C2
+expressão génica|expresión génica||L|sci|C2
+organismo geneticamente modificado|organismo genéticamente modificado||L|sci|C2
+transgénico|transgénico||A|sci|C2
+cisgénico|cisgénico||A|sci|C2
+terapia génica|terapia génica||L|sci|C2
+célula estaminal|célula madre||L|sci|C2
+pluripotente|pluripotente||A|sci|C2
+recombinante|recombinante||A|sci|C2
+xenotransplante|xenotrasplante||S|sci|C2
+bioética|bioética||S|sci|C2
+consentimento informado|consentimiento informado||L|sla|C2
+célula germinativa|célula germinal||L|sci|C2
+epigenética|epigenética||S|sci|C2
+metilação|metilación||S|sci|C2
+neuroimagem|neuroimagen||S|sci|C2
+imagiologia|diagnóstico por imagen||S|sla|C2
+ressonância magnética|resonancia magnética||L|sci|C2
+tomografia computorizada|tomografía computarizada||L|sci|C2
+eletroencefalografia|electroencefalografía||S|sci|C2
+angiografia|angiografía||S|sci|C2
+cartografia cerebral|cartografía cerebral||L|sci|C2
+córtex|corteza cerebral||S|cor|C2
+circunvolução cerebral|circunvolución cerebral||L|sci|C2
+substância cinzenta|sustancia gris||L|sci|C2
+neurónio|neurona||S|sci|C2
+sinapse|sinapsis||S|sci|C2
+sináptico|sináptico||A|sci|C2
+dendrite|dendrita||S|sci|C2
+axónio|axón||S|sci|C2
+mielina|mielina||S|sci|C2
+desmielinização|desmielinización||S|sci|C2
+neurotransmissor|neurotransmisor||S|sci|C2
+perfusão|perfusión||S|sci|C2
+voxel|vóxel||S|sci|C2
+resolução espacial|resolución espacial||L|sci|C2
+estereotaxia|estereotaxia||S|sci|C2
+estimulação cerebral profunda|estimulación cerebral profunda||L|sci|C2
+potencial evocado|potencial evocado||L|sci|C2
+conectoma|conectoma||S|sci|C2
+artefacto|artefacto||S|sci|C2
+morfometria|morfometría||S|sci|C2
+tensor de difusão|tensor de difusión||L|sci|C2
+tractografia|tractografía||S|sci|C2
+gadolínio|gadolinio||S|sci|C2
+cognição|cognición||S|sci|C2
+lateralidade|lateralidad||S|sci|C2
+excitabilidade|excitabilidad||S|sci|C2

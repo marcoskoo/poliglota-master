@@ -1,0 +1,294 @@
+usucapião|usucapión||S|ist|C2
+curatela|curatela||S|ist|C2
+legítima|legítima (porción hereditaria reservada por ley)||S|ist|C2
+usufruto|usufructo||S|ist|C2
+servidão predial|servidumbre predial||L|ist|C2
+cláusula penal|cláusula penal||L|ist|C2
+rescisão|rescisión (de contrato)||S|ist|C2
+dolo|dolo (intención de engañar)||S|ist|C2
+coação|coacción||S|ist|C2
+agravante|circunstancia agravante||S|ist|C2
+atenuante|circunstancia atenuante||S|ist|C2
+reincidência|reincidencia||S|ist|C2
+prescrição|prescripción (extinción de responsabilidad)||S|ist|C2
+mora|mora (retraso culpable en el cumplimiento)||S|ist|C2
+litispendência|litispendencia||S|ist|C2
+coisa julgada|cosa juzgada||L|ist|C2
+boa-fé|buena fe||L|ist|C2
+força maior|fuerza mayor||L|ist|C2
+ónus da prova|carga de la prueba||L|ist|C2
+indemnização|indemnización||S|ist|C2
+co-autor|coautor||S|ist|C2
+cumplicidade|complicidad||S|ist|C2
+extorsão|extorsión||S|ist|C2
+burla|estafa (engaño patrimonial)||S|ist|C2
+falso testemunho|falso testimonio||L|ist|C2
+peculato|peculado||S|ist|C2
+arrendamento|arrendamiento||S|ist|C2
+retracto|retracto (derecho de adquisición preferente)||S|ist|C2
+doação|donación||S|ist|C2
+mandato|mandato (contrato de representación)||S|ist|C2
+penhor|prenda (garantía real)||S|ist|C2
+usura|usura||S|ist|C2
+exceção de incumprimento|excepción de incumplimiento||L|ist|C2
+arguido|imputado (acusado en proceso penal)||S|ist|C2
+réu|reo||S|ist|C2
+juiz de instrução|juez de instrucción||S|ist|C2
+sentença|sentencia||S|ist|C2
+despacho|auto (resolución judicial)||S|ist|C2
+acórdão|sentencia de tribunal colegiado||S|ist|C2
+alegações finais|alegaciones finales||L|ist|C2
+contestação|contestación (a la demanda)||S|ist|C2
+pedido reconvencional|demanda reconvencional||S|ist|C2
+julgamento|juicio (vista oral)||S|ist|C2
+recorrer|recurrir (una resolución)||V|ist|C2
+pronúncia|auto de procesamiento||S|ist|C2
+coima|multa (sanción administrativa)||S|ist|C2
+absolvição|absolución||S|ist|C2
+prisão preventiva|prisión preventiva||L|ist|C2
+intimação|intimación (requerimiento judicial)||S|ist|C2
+citatória|cédula de citación||S|ist|C2
+audiência preliminar|audiencia preliminar||L|ist|C2
+probatório|probatorio||A|ist|C2
+depoimento|declaración testifical||S|ist|C2
+exame pericial|pericia judicial||L|ist|C2
+escrivão|escribano (funcionario judicial)||S|pro|C2
+sobrestar|sobreseer (archivar el proceso)||V|ist|C2
+nulidade processual|nulidad procesal||L|ist|C2
+segredo de justiça|secreto de las actuaciones||L|ist|C2
+assistente|acusador particular (en proceso penal)||S|ist|C2
+custas judiciais|costas judiciales||L|ist|C2
+crime culposo|delito imprudente||L|ist|C2
+premeditação|premeditación||S|ist|C2
+legítima defesa|legítima defensa||L|ist|C2
+instância|instancia (grado jurisdiccional)||S|ist|C2
+habeas corpus|hábeas corpus||L|ist|C2
+contencioso|contencioso (procedimiento judicial)||S|ist|C2
+constitucionalidade|constitucionalidad||S|ist|C2
+inconstitucionalidade|inconstitucionalidad||S|ist|C2
+poder constituinte|poder constituyente||L|ist|C2
+veto presidencial|veto presidencial||L|ist|C2
+promulgação|promulgación||S|ist|C2
+referendo|referéndum||S|ist|C2
+soberania popular|soberanía popular||L|ist|C2
+sufrágio|sufragio||S|ist|C2
+eleições legislativas|elecciones legislativas||L|ist|C2
+abstenção|abstención||S|ist|C2
+moção de censura|moción de censura||L|ist|C2
+moção de confiança|moción de confianza||L|ist|C2
+dissolução do parlamento|disolución del parlamento||L|ist|C2
+decreto-lei|decreto ley||S|ist|C2
+decreto regulamentar|decreto reglamentario||S|ist|C2
+emenda constitucional|enmienda constitucional||L|ist|C2
+lei fundamental|ley fundamental||L|ist|C2
+direitos fundamentais|derechos fundamentales||L|ist|C2
+separação de poderes|separación de poderes||L|ist|C2
+estado de sítio|estado de sitio||L|ist|C2
+lei marcial|ley marcial||L|ist|C2
+autodeterminação|autodeterminación||S|ist|C2
+descentralização|descentralización||S|ist|C2
+autonomia regional|autonomía regional||L|ist|C2
+imunidade parlamentar|inmunidad parlamentaria||L|ist|C2
+incompatibilidade|incompatibilidad (de cargos)||S|ist|C2
+prevaricação|prevaricación||S|ist|C2
+abuso de poder|abuso de poder||L|ist|C2
+ponderação de interesses|ponderación de intereses||L|ist|C2
+proporcionalidade|proporcionalidad (principio de)||S|ist|C2
+jurisprudência|jurisprudencia||S|ist|C2
+Estado de direito|Estado de derecho||L|ist|C2
+legitimação democrática|legitimidad democrática||L|ist|C2
+prognóstico|pronóstico||S|sla|C2
+diagnóstico diferencial|diagnóstico diferencial||L|sla|C2
+propedêutica|propedéutica (método clínico)||S|sla|C2
+etiologia|etiología||S|sla|C2
+comorbilidade|comorbilidad||S|sla|C2
+sintomatologia|sintomatología||S|sla|C2
+anamnese|anamnesis (historia clínica)||S|sla|C2
+internamento|ingreso hospitalario||S|sla|C2
+alta hospitalar|alta hospitalaria||L|sla|C2
+urgência|urgencias (servicio de)||S|sla|C2
+bloco operatório|quirófano||S|sla|C2
+entubação|intubación||S|sla|C2
+sutura|sutura||S|sla|C2
+punção lombar|punción lumbar||L|sla|C2
+biópsia|biopsia||S|sla|C2
+laparotomia|laparotomía||S|sla|C2
+colonoscopia|colonoscopia||S|sla|C2
+tomografia computorizada|tomografía computarizada||L|sla|C2
+ressonância magnética|resonancia magnética||L|sla|C2
+analgesia|analgesia||S|sla|C2
+sedação|sedación||S|sla|C2
+cuidados intensivos|cuidados intensivos||L|sla|C2
+paragem cardiorrespiratória|parada cardiorrespiratoria||L|sla|C2
+reanimação|reanimación||S|sla|C2
+desfibrilhação|desfibrilación||S|sla|C2
+monitorização|monitorización||S|sla|C2
+contraindicação|contraindicación||S|sla|C2
+efeitos adversos|efectos adversos||L|sla|C2
+letalidade|letalidad||S|sla|C2
+cuidados paliativos|cuidados paliativos||L|sla|C2
+agravamento|agravamiento (del estado del paciente)||S|sla|C2
+intercorrência|complicación (episodio intercurrente)||S|sla|C2
+rastreio|cribado (detección precoz)||S|sla|C2
+farmacocinética|farmacocinética||S|sci|C2
+farmacodinâmica|farmacodinámica||S|sci|C2
+ensaio clínico|ensayo clínico||L|sci|C2
+ensaio em dupla ocultação|ensayo doble ciego||L|sci|C2
+grupo de controlo|grupo de control||L|sci|C2
+placebo|placebo||S|sci|C2
+efeito placebo|efecto placebo||L|sci|C2
+posologia|posología||S|sci|C2
+via de administração|vía de administración||L|sci|C2
+biodisponibilidade|biodisponibilidad||S|sci|C2
+meia-vida|vida media (de un fármaco)||S|sci|C2
+metabólito|metabolito||S|sci|C2
+interação medicamentosa|interacción medicamentosa||L|sci|C2
+sobredosagem|sobredosis||S|sci|C2
+iatrogenia|yatrogenia||S|sci|C2
+teratogenicidade|teratogenicidad||S|sci|C2
+carcinogénese|carcinogénesis||S|sci|C2
+mutagénese|mutagénesis||S|sci|C2
+protocolo terapêutico|protocolo terapéutico||L|sci|C2
+princípio ativo|principio activo||L|sci|C2
+excipiente|excipiente||S|sci|C2
+via intravenosa|vía intravenosa||L|sci|C2
+dose de manutenção|dosis de mantenimiento||L|sci|C2
+aderência à medicação|adherencia a la medicación||L|sci|C2
+medicação|medicación||S|sci|C2
+resistência antimicrobiana|resistencia antimicrobiana||L|sci|C2
+estirpe|cepa (microbiana)||S|sci|C2
+galénico|galénico (preparado farmacéutico)||A|sci|C2
+vacina de reforço|vacuna de refuerzo||L|sci|C2
+corticosteroide|corticosteroide||S|sci|C2
+randomizado|aleatorizado||A|sci|C2
+medicamento de referência|medicamento original (de referencia)||L|sci|C2
+titulação|titulación (ajuste gradual de la dosis)||S|sci|C2
+psicopatologia|psicopatología||S|sla|C2
+nosologia|nosología||S|sla|C2
+etiopatogenia|etiopatogenia||S|sla|C2
+fobia social|fobia social||L|sla|C2
+perturbação obsessivo-compulsiva|trastorno obsesivo-compulsivo||L|sla|C2
+perturbação bipolar|trastorno bipolar||L|sla|C2
+esquizofrenia|esquizofrenia||S|sla|C2
+esquizoafetivo|esquizoafectivo||A|sla|C2
+ideação paranoide|ideación paranoide||L|sla|C2
+ideação suicida|ideación suicida||L|sla|C2
+delírio de perseguição|delirio de persecución||L|sla|C2
+alucinação auditiva|alucinación auditiva||L|sla|C2
+delirar|delirar||V|sla|C2
+catatonia|catatonia||S|sla|C2
+abulia|abulia||S|sla|C2
+anedonia|anedonia||S|sla|C2
+dissociação|disociación||S|sla|C2
+despersonalização|despersonalización||S|sla|C2
+desrealização|desrealización||S|sla|C2
+letargia|letargo||S|sla|C2
+hipersónia|hipersomnia||S|sla|C2
+crise de angústia|crisis de angustia||L|sla|C2
+labilidade emocional|labilidad emocional||L|sla|C2
+surto psicótico|brote psicótico||L|sla|C2
+psicose|psicosis||S|sla|C2
+remissão|remisión (clínica)||S|sla|C2
+recaída|recaída||S|sla|C2
+eutímico|eutímico||A|sla|C2
+distimia|distimia||S|sla|C2
+ciclotimia|ciclotimia||S|sla|C2
+neurose|neurosis||S|sla|C2
+psicanálise|psicoanálisis||S|sla|C2
+psicofármaco|psicofármaco||S|sla|C2
+bioética|bioética||S|ast|C2
+consentimento informado|consentimiento informado||L|sla|C2
+autonomia do paciente|autonomía del paciente||L|sla|C2
+dignidade humana|dignidad humana||L|ast|C2
+eutanásia|eutanasia||S|sla|C2
+distanásia|distanasia||S|sla|C2
+ortotanásia|ortotanasia||S|sla|C2
+diretiva antecipada|instrucciones previas||L|sla|C2
+futilidade médica|futilidad médica||L|sla|C2
+alocação de recursos|asignación de recursos||L|sla|C2
+justiça distributiva|justicia distributiva||L|ast|C2
+equidade|equidad||S|ast|C2
+confidencialidade|confidencialidad||S|sla|C2
+segredo médico|secreto médico||L|sla|C2
+comité de ética|comité de ética||L|ist|C2
+duplo efeito|doble efecto (principio del)||L|sla|C2
+mal menor|mal menor||L|ast|C2
+conflito de interesses|conflicto de intereses||L|sla|C2
+beneficência|beneficencia||S|ast|C2
+não maleficência|no maleficencia||L|ast|C2
+imparcialidade|imparcialidad||S|ast|C2
+triagem|triaje||S|sla|C2
+encarniçamento terapêutico|encarnizamiento terapéutico||L|sla|C2
+estatuto do embrião|estatuto del embrión||L|sla|C2
+reprodução medicamente assistida|reproducción asistida||L|sla|C2
+barriga de aluguer|alquiler de vientres||L|sla|C2
+dador de órgãos|donante de órganos||L|sla|C2
+colheita de órgãos|extracción de órganos||L|sla|C2
+xenotransplante|xenotrasplante||S|sla|C2
+morte encefálica|muerte encefálica||L|sla|C2
+objeção de consciência|objeción de conciencia||L|ast|C2
+vulnerabilidade|vulnerabilidad||S|ast|C2
+política monetária|política monetaria||L|fin|C2
+política fiscal|política fiscal||L|fin|C2
+taxa de juro|tipo de interés||L|fin|C2
+inflação subjacente|inflación subyacente||L|fin|C2
+deflação|deflación||S|fin|C2
+estagflação|estanflación||S|fin|C2
+desvalorização|devaluación||S|fin|C2
+valorização|revaluación (apreciación de la moneda)||S|fin|C2
+aperto monetário|endurecimiento monetario||L|fin|C2
+flexibilização quantitativa|flexibilización cuantitativa||L|fin|C2
+procura interna|demanda interna||L|fin|C2
+procura agregada|demanda agregada||L|fin|C2
+oferta agregada|oferta agregada||L|fin|C2
+ciclo económico|ciclo económico||L|fin|C2
+conjuntura económica|coyuntura económica||L|fin|C2
+recessão técnica|recesión técnica||L|fin|C2
+estagnação|estancamiento||S|fin|C2
+austeridade|austeridad||S|fin|C2
+consolidação orçamental|consolidación presupuestaria||L|fin|C2
+dívida pública|deuda pública||L|fin|C2
+dívida soberana|deuda soberana||L|fin|C2
+emissão de moeda|emisión de moneda||L|fin|C2
+liquidez|liquidez||S|fin|C2
+estabilidade de preços|estabilidad de precios||L|fin|C2
+meta de inflação|objetivo de inflación||L|fin|C2
+convergência nominal|convergencia nominal||L|fin|C2
+desaceleração|desaceleración||S|fin|C2
+superávit primário|superávit primario||L|fin|C2
+défice orçamental|déficit presupuestario||L|fin|C2
+amortização|amortización (de la deuda)||S|fin|C2
+desemprego estrutural|desempleo estructural||L|fin|C2
+rigidez salarial|rigidez salarial||L|fin|C2
+pauta aduaneira|arancel aduanero||L|fin|C2
+tarifa pautal|tarifa arancelaria||L|fin|C2
+contingente|contingente (cuota arancelaria)||S|fin|C2
+barreira não tarifária|barrera no arancelaria||L|fin|C2
+quota de importação|cuota de importación||L|fin|C2
+dumping|dumping (venta bajo coste)||S|fin|C2
+subsídio à exportação|subvención a la exportación||L|fin|C2
+balança comercial|balanza comercial||L|fin|C2
+excedente comercial|superávit comercial||L|fin|C2
+termos de troca|términos de intercambio||L|fin|C2
+livre-cambismo|librecambismo||S|fin|C2
+protecionismo|proteccionismo||S|fin|C2
+protecionista|proteccionista||A|fin|C2
+embargo|embargo||S|fin|C2
+deslocalização|deslocalización (de empresas)||S|fin|C2
+cadeia de abastecimento|cadena de suministro||L|fin|C2
+cadeia de valor|cadena de valor||L|fin|C2
+zona de comércio livre|zona de libre comercio||L|fin|C2
+zona franca|zona franca||L|fin|C2
+união aduaneira|unión aduanera||L|fin|C2
+transitário|transitario (agente de aduanas)||S|pro|C2
+desalfandegamento|despacho de aduanas||S|fin|C2
+certificado de origem|certificado de origen||L|fin|C2
+taxa de câmbio|tipo de cambio||L|fin|C2
+flutuação cambial|fluctuación cambiaria||L|fin|C2
+reexportação|reexportación||S|fin|C2
+importação paralela|importación paralela||L|fin|C2
+concorrência desleal|competencia desleal||L|fin|C2
+práticas anticoncorrenciais|prácticas anticompetitivas||L|fin|C2
+dumping social|dumping social||L|fin|C2
+medida de salvaguarda|medida de salvaguardia||L|fin|C2
+retorsão|represalia (comercial)||S|fin|C2

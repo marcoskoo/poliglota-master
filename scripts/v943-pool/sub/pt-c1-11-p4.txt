@@ -1,0 +1,257 @@
+microprocessador|microprocesador||S|tec|C1
+semicondutor|semiconductor||S|sci|C1
+transístor|transistor||S|sci|C1
+circuito integrado|circuito integrado||S|tec|C1
+circuito impresso|circuito impreso||S|tec|C1
+placa-mãe|placa base||S|tec|C1
+silício|silicio||S|sci|C1
+pastilha de silício|oblea de silicio||S|tec|C1
+fotolitografia|fotolitografía||S|tec|C1
+conjunto de instruções|conjunto de instrucciones||S|tec|C1
+registo|registro (de procesador)||S|tec|C1
+memória volátil|memoria volátil||S|tec|C1
+latência|latencia||S|tec|C1
+gargalo|cuello de botella||S|tec|C1
+multinúcleo|multinúcleo||A|tec|C1
+escalonamento|planificación de procesos||S|tec|C1
+interrupção|interrupción (señal de hardware)||S|tec|C1
+compilador|compilador||S|tec|C1
+linguagem máquina|lenguaje máquina||S|tec|C1
+microarquitetura|microarquitectura||S|tec|C1
+condutividade elétrica|conductividad eléctrica||S|sci|C1
+díodo|diodo||S|sci|C1
+válvula|válvula (tubo de vacío)||S|sci|C1
+encapsulamento|encapsulado||S|tec|C1
+barramento|bus (de datos)||S|tec|C1
+periférico|periférico||S|tec|C1
+microcódigo|microcódigo||S|tec|C1
+superaquecimento|sobrecalentamiento||S|tec|C1
+dissipador|disipador (de calor)||S|tec|C1
+dados massivos|macrodatos||S|tec|C1
+base de dados|base de datos||S|tec|C1
+repositório|repositorio (de datos)||S|tec|C1
+mineração de dados|minería de datos||S|tec|C1
+analítica|analítica (de datos)||S|tec|C1
+modelação|modelado||S|tec|C1
+parametrização|parametrización||S|tec|C1
+estatística inferencial|estadística inferencial||S|sci|C1
+correlação|correlación||S|sci|C1
+causalidade|causalidad||S|sci|C1
+espúrio|espurio||A|sci|C1
+agregação|agregación (de datos)||S|tec|C1
+segmentação|segmentación||S|tec|C1
+etiquetagem|etiquetado (de datos)||S|tec|C1
+indexação|indexación||S|tec|C1
+chave estrangeira|clave foránea||S|tec|C1
+normalização|normalización (de datos)||S|tec|C1
+redundância|redundancia||S|tec|C1
+escalabilidade|escalabilidad||S|tec|C1
+granularidade|granularidad||S|tec|C1
+metadados|metadatos||S|tec|C1
+anonimização|anonimización||S|tec|C1
+pseudonimização|pseudonimización||S|tec|C1
+painel de controlo|panel de control||S|tec|C1
+aprendizagem automática|aprendizaje automático||S|tec|C1
+aprendizagem profunda|aprendizaje profundo||S|tec|C1
+sobreajuste|sobreajuste (de un modelo)||S|tec|C1
+rastreabilidade|trazabilidad||S|tec|C1
+regressão|regresión (estadística)||S|sci|C1
+cadeia de blocos|cadena de bloques||S|tec|C1
+livro-razão|libro mayor (de contabilidad)||S|fin|C1
+registo distribuído|registro distribuido||S|tec|C1
+contrato inteligente|contrato inteligente||S|tec|C1
+criptomoeda|criptomoneda||S|fin|C1
+criptoativo|criptoactivo||S|fin|C1
+carteira digital|cartera digital||S|fin|C1
+chave pública|clave pública||S|tec|C1
+assinatura digital|firma digital||S|tec|C1
+soma de verificação|suma de verificación||S|tec|C1
+mecanismo de consenso|mecanismo de consenso||S|tec|C1
+prova de trabalho|prueba de trabajo||S|tec|C1
+prova de participação|prueba de participación||S|tec|C1
+minerador|minero de criptomonedas||S|tec|C1
+nó|nodo (de una red)||S|tec|C1
+descentralizado|descentralizado||A|tec|C1
+inviolável|inviolable||A|tec|C1
+imutabilidade|inmutabilidad||S|tec|C1
+imutável|inmutable||A|tec|C1
+tokenização|tokenización||S|fin|C1
+moeda estável|moneda estable||S|fin|C1
+bifurcação|bifurcación (de una red)||S|tec|C1
+gás|gas (tarifa de transacción)||S|tec|C1
+oráculo|oráculo (de datos)||S|tec|C1
+dupla despesa|doble gasto||S|tec|C1
+custódia|custodia (de activos)||S|fin|C1
+liquidação|liquidación (de transacciones)||S|fin|C1
+validador|validador||S|tec|C1
+carteira fria|cartera fría||S|fin|C1
+biometria|biometría||S|tec|C1
+biométrico|biométrico||A|tec|C1
+impressão digital|huella dactilar||S|tec|C1
+reconhecimento de padrões|reconocimiento de patrones||S|tec|C1
+reconhecimento facial|reconocimiento facial||S|tec|C1
+autenticação|autenticación||S|tec|C1
+furto de identidade|robo de identidad||S|tec|C1
+distribuição de probabilidade|distribución de probabilidad||S|sci|C1
+classificador|clasificador||S|tec|C1
+agrupamento|agrupamiento (clustering)||S|tec|C1
+descritor|descriptor (de características)||S|tec|C1
+conjunto de treino|conjunto de entrenamiento||S|tec|C1
+exatidão|exactitud||S|sci|C1
+revocação|exhaustividad (recuperación de información)||S|tec|C1
+taxa de falsos positivos|tasa de falsos positivos||S|tec|C1
+videovigilância|videovigilancia||S|tec|C1
+termografia|termografía||S|sci|C1
+modelo probabilístico|modelo probabilístico||S|tec|C1
+inferência bayesiana|inferencia bayesiana||S|sci|C1
+camada oculta|capa oculta||S|tec|C1
+neurónio artificial|neurona artificial||S|tec|C1
+similaridade|similitud (entre patrones)||S|tec|C1
+deteção de vivacidade|detección de vitalidad||S|tec|C1
+matriz de confusão|matriz de confusión||S|tec|C1
+cifragem|cifrado||S|tec|C1
+confidencialidade|confidencialidad||S|tec|C1
+consentimento informado|consentimiento informado||S|ist|C1
+espécime|espécimen (muestra biológica)||S|sci|C1
+vetor de características|vector de características||S|tec|C1
+internet das coisas|internet de las cosas||S|tec|C1
+cidade inteligente|ciudad inteligente||S|cit|C1
+urbanismo|urbanismo||S|cit|C1
+sensorização|sensorización||S|tec|C1
+atuador|actuador||S|tec|C1
+telemetria|telemetría||S|tec|C1
+conectividade|conectividad||S|tec|C1
+interoperabilidade|interoperabilidad||S|tec|C1
+embebido|embebido (sistema integrado)||A|tec|C1
+computação em nuvem|computación en la nube||S|tec|C1
+malha viária|red viaria||S|cit|C1
+mobilidade urbana|movilidad urbana||S|cit|C1
+gestão de tráfego|gestión del tráfico||S|cit|C1
+mobilidade suave|movilidad suave||S|cit|C1
+iluminação pública|alumbrado público||S|cit|C1
+resíduos urbanos|residuos urbanos||S|cit|C1
+eficiência energética|eficiencia energética||S|tec|C1
+rede elétrica inteligente|red eléctrica inteligente||S|tec|C1
+ecrã tátil|pantalla táctil||S|tec|C1
+quiosque multimédia|quiosco multimedia||S|cit|C1
+governação eletrónica|gobierno electrónico||S|ist|C1
+resiliência|resiliencia||S|ast|C1
+pegada ecológica|huella ecológica||S|nat|C1
+poluição luminosa|contaminación lumínica||S|nat|C1
+ilha de calor|isla de calor||S|nat|C1
+drenagem pluvial|drenaje pluvial||S|cit|C1
+renaturalização|renaturalización||S|nat|C1
+domótica|domótica||S|tec|C1
+assistente de voz|asistente de voz||S|tec|C1
+realidade virtual|realidad virtual||S|tec|C1
+realidade aumentada|realidad aumentada||S|tec|C1
+imersão|inmersión||S|tec|C1
+imersivo|inmersivo||A|tec|C1
+avatar|avatar (personaje virtual)||S|tec|C1
+vicissitude|vicisitud||S|ast|C1
+mundo virtual|mundo virtual||S|tec|C1
+comando|mando (de videojuego)||S|tec|C1
+consola|consola||S|tec|C1
+jogabilidade|jugabilidad||S|tec|C1
+personagem não jogável|personaje no jugable||S|tec|C1
+simulador de voo|simulador de vuelo||S|tec|C1
+retorno tátil|respuesta táctil||S|tec|C1
+háptico|háptico||A|tec|C1
+rastreio ocular|seguimiento ocular||S|tec|C1
+cinetose|mareo por movimiento||S|sla|C1
+motor de jogo|motor de juego||S|tec|C1
+ponto de verificação|punto de control||S|tec|C1
+mundo aberto|mundo abierto||S|tec|C1
+multijogador|multijugador||A|tec|C1
+escapismo|escapismo||S|ast|C1
+metaverso|metaverso||S|tec|C1
+telepresença|telepresencia||S|tec|C1
+narrativa interativa|narrativa interactiva||S|tec|C1
+monetização|monetización||S|fin|C1
+microtransação|microtransacción||S|fin|C1
+progressão|progresión (en el juego)||S|tec|C1
+jogo sério|juego serio||S|tec|C1
+vulcanologia|vulcanología||S|nat|C1
+vulcânico|volcánico||A|nat|C1
+sismologia|sismología||S|nat|C1
+sismógrafo|sismógrafo||S|sci|C1
+epicentro|epicentro||S|nat|C1
+hipocentro|hipocentro||S|nat|C1
+magnitude|magnitud (sísmica)||S|nat|C1
+câmara magmática|cámara magmática||S|nat|C1
+cinza vulcânica|ceniza volcánica||S|nat|C1
+piroclasto|piroclasto||S|nat|C1
+nuvem ardente|nube ardiente||S|nat|C1
+fumarola|fumarola||S|nat|C1
+géiser|géiser||S|nat|C1
+entrar em erupção|hacer erupción||E|nat|C1
+risco geológico|riesgo geológico||S|nat|C1
+perigosidade|peligrosidad||S|nat|C1
+mitigação|mitigación||S|nat|C1
+ordenamento do território|ordenación del territorio||S|nat|C1
+réplica|réplica (de un terremoto)||S|nat|C1
+deriva continental|deriva continental||S|nat|C1
+placa tectónica|placa tectónica||S|nat|C1
+subdução|subducción||S|nat|C1
+deslizamento de terras|desprendimiento de tierras||S|nat|C1
+lahar|lahar||S|nat|C1
+caldeira|caldera volcánica||S|nat|C1
+monitorização|monitorización||S|tec|C1
+alerta precoce|alerta temprana||S|nat|C1
+esboroamento|derrumbe||S|nat|C1
+limnologia|limnología||S|nat|C1
+hidrologia|hidrología||S|nat|C1
+bacia hidrográfica|cuenca hidrográfica||S|nat|C1
+linha de água|cauce||S|nat|C1
+leito|lecho (de un río)||S|nat|C1
+afluente|afluente||S|nat|C1
+foz|desembocadura||S|nat|C1
+estuário|estuario||S|nat|C1
+albufeira|embalse||S|nat|C1
+açude|azud||S|nat|C1
+levada|levada (canal de riego)||S|nat|C1
+zona húmida|humedal||S|nat|C1
+turfeira|turbera||S|nat|C1
+lençol freático|nivel freático||S|nat|C1
+aquífero|acuífero||S|nat|C1
+nascente|manantial||S|nat|C1
+fluvial|fluvial||A|nat|C1
+cheia|crecida||S|nat|C1
+leito maior|lecho mayor (de inundación)||S|nat|C1
+sedimentação|sedimentación||S|nat|C1
+assoreamento|colmatación (atoramiento)||S|nat|C1
+meandro|meandro||S|nat|C1
+corredeira|rápido (de un río)||S|nat|C1
+queda de água|salto de agua||S|nat|C1
+eutrófico|eutrófico||A|nat|C1
+eutrofização|eutrofización||S|nat|C1
+macroinvertebrado|macroinvertebrado||S|nat|C1
+requalificação|recualificación||S|nat|C1
+agronomia|agronomía||S|nat|C1
+edafologia|edafología||S|nat|C1
+perfil do solo|perfil del suelo||S|nat|C1
+textura do solo|textura del suelo||S|nat|C1
+adubagem|abonado||S|nat|C1
+regadio|regadío||S|nat|C1
+rega gota-a-gota|riego por goteo||S|nat|C1
+sequeiro|secano||S|nat|C1
+monda|escarda (aclareo)||S|nat|C1
+sachar|escardar||V|nat|C1
+rotação de culturas|rotación de cultivos||S|nat|C1
+pousio|barbecho||S|nat|C1
+encharcamento|encharcamiento (del suelo)||S|nat|C1
+salinização|salinización||S|nat|C1
+socalco|bancale (terraza agrícola)||S|nat|C1
+enxertia|injerto||S|nat|C1
+cultivo protegido|cultivo protegido||S|nat|C1
+hidroponia|hidroponía||S|nat|C1
+aquaponia|acuaponía||S|nat|C1
+agricultura de precisão|agricultura de precisión||S|nat|C1
+pulverização|fumigación||S|nat|C1
+transgénico|transgénico||A|nat|C1
+sementeira|siembra||S|nat|C1
+ceifa|siega||S|nat|C1
+pastoreio rotativo|pastoreo rotacional||S|nat|C1
+fitossanitário|fitosanitario||A|nat|C1
+chorume|purines||S|nat|C1
+compostagem|compostaje||S|nat|C1
