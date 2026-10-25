@@ -2,6 +2,7 @@ import type { VocabWord, WordCategory } from "./types";
 import { VOCAB_EXTRA } from "./extra/vocabulary-extra";
 import { DICT_PACKS } from "./dict";
 import { IT_MEGA } from "./dict/lang-it-mega";
+import { IT_V943 } from "./dict/lang-it-v943";
 
 /* ── Vocabolario · learning dictionary (IT→ES) ────────────────────── */
 
@@ -255,7 +256,7 @@ function mergePacks(packs: VocabWord[]): VocabWord[] {
   return out;
 }
 
-VOCAB.push(...mergePacks(VOCAB_EXTRA), ...mergePacks(DICT_PACKS), ...mergePacks(IT_MEGA));
+VOCAB.push(...mergePacks(VOCAB_EXTRA), ...mergePacks(DICT_PACKS), ...mergePacks(IT_MEGA), ...mergePacks(IT_V943));
 
 export const VOCAB_BY_ID: Record<string, VocabWord> = Object.fromEntries(VOCAB.map((w) => [w.id, w]));
 /* alias: ids eliminados por dedup siguen resolviendo (cursos, SRS, admin) */

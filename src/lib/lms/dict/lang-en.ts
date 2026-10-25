@@ -1,6 +1,7 @@
 import type { VocabWord, WordType, WordCategory } from "../types";
 import { EN_PLUS } from "./lang-en-plus";
 import { EN_MEGA } from "./lang-en-mega";
+import { EN_V943 } from "./lang-en-v943";
 import { dedupMerge } from "./mega-parse";
 
 /* ═══ EN Dictionary · inglés americano → español (A1-A2) ══════════════
@@ -710,5 +711,5 @@ church|iglesia|tʃɜːrtʃ|S|art|3|A quiet church after work.|Una iglesia tranqu
    el arranque de la app no paga el coste de las 5 lenguas juntas.        */
 let _enDict: VocabWord[] | null = null;
 export function getENDict(): VocabWord[] {
-  return (_enDict ??= dedupMerge(EN_DICT_BASE, EN_PLUS, EN_MEGA));
+  return (_enDict ??= dedupMerge(EN_DICT_BASE, EN_PLUS, EN_MEGA, EN_V943));
 }

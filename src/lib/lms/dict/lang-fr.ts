@@ -1,6 +1,7 @@
 import type { VocabWord, WordType, WordCategory } from "../types";
 import { FR_PLUS } from "./lang-fr-plus";
 import { FR_MEGA } from "./lang-fr-mega";
+import { FR_V943 } from "./lang-fr-v943";
 import { dedupMerge } from "./mega-parse";
 
 /* ═══ FR Dictionary · français de France → español (A1-B1) ══════════════
@@ -651,5 +652,5 @@ les|los / las|le|T|cmu|5|Les enfants dorment.|Los niños duermen.
    v9.43 · CEFR 16.000 : parse paresseux avec cache (voir lang-en.ts). */
 let _frDict: VocabWord[] | null = null;
 export function getFRDict(): VocabWord[] {
-  return (_frDict ??= dedupMerge(FR_DICT_BASE, FR_PLUS, FR_MEGA));
+  return (_frDict ??= dedupMerge(FR_DICT_BASE, FR_PLUS, FR_MEGA, FR_V943));
 }

@@ -1,6 +1,7 @@
 import type { VocabWord, WordType, WordCategory } from "../types";
 import { PT_PLUS } from "./lang-pt-plus";
 import { PT_MEGA } from "./lang-pt-mega";
+import { PT_V943 } from "./lang-pt-v943";
 import { dedupMerge } from "./mega-parse";
 
 /* ═══ PT Dictionary · português europeu → español (A1-A2) ══════════════
@@ -597,5 +598,5 @@ os três grandes|los tres grandes|uʃ tɾeʃ ɡɾɐ̃ˈdɨʃ|L|spt|3|Benfica, Sp
    v9.43 · CEFR 16.000: parse preguiçoso com cache (ver lang-en.ts). */
 let _ptDict: VocabWord[] | null = null;
 export function getPTDict(): VocabWord[] {
-  return (_ptDict ??= dedupMerge(PT_DICT_BASE, PT_PLUS, PT_MEGA));
+  return (_ptDict ??= dedupMerge(PT_DICT_BASE, PT_PLUS, PT_MEGA, PT_V943));
 }

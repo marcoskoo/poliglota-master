@@ -1,6 +1,7 @@
 import type { VocabWord, WordType, WordCategory } from "../types";
 import { DE_PLUS } from "./lang-de-plus";
 import { DE_MEGA } from "./lang-de-mega";
+import { DE_V943 } from "./lang-de-v943";
 import { dedupMerge } from "./mega-parse";
 
 /* ═══ DE Dictionary · Deutsch (Deutschland) → español (A1-B1) ═══════
@@ -627,5 +628,5 @@ die Rente|la pensión de jubilación|ˈʁɛntə|S|fin|2|Mit 67 geht er in Rente.
    v9.43 · CEFR 16.000: fauler Parse mit Cache (siehe lang-en.ts). */
 let _deDict: VocabWord[] | null = null;
 export function getDEDict(): VocabWord[] {
-  return (_deDict ??= dedupMerge(DE_DICT_BASE, DE_PLUS, DE_MEGA));
+  return (_deDict ??= dedupMerge(DE_DICT_BASE, DE_PLUS, DE_MEGA, DE_V943));
 }
