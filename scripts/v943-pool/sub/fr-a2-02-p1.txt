@@ -8,7 +8,6 @@ pas de problème|sin problema||E|sal|A2
 félicitations|felicidades||I|sal|A2
 beau-fils|hijastro||S|fam|A2
 demi-sœur|hermanastra||S|fam|A2
-se marier|casarse||V|fam|A2
 en famille|en familia||L|fam|A2
 table de chevet|mesilla de noche||S|cas|A2
 banc|banco||S|cas|A2
@@ -16,8 +15,6 @@ porte-manteau|perchero||S|cas|A2
 cafétière|cafetera||S|cas|A2
 véranda|porche acristalado||S|cas|A2
 lavabo|lavabo||S|cas|A2
-évier|fregadero||S|cas|A2
-robinet|grifo||S|cas|A2
 ouvre-boîte|abrelatas||S|cas|A2
 passoire|colador||S|cas|A2
 assiette creuse|plato hondo||S|cas|A2
@@ -55,7 +52,6 @@ eau gazeuse|agua con gas||L|ali|A2
 vin rosé|vino rosado||S|ali|A2
 romarin|romero||S|ali|A2
 basilic|albahaca||S|ali|A2
-huile d'olive|aceite de oliva||L|ali|A2
 poivre noir|pimienta negra||L|ali|A2
 pois cassé|guisante partido||S|ali|A2
 haricot blanc|judía blanca||L|ali|A2
@@ -72,27 +68,21 @@ bidon|bidón||S|cmp|A2
 barquette|bandejita de fruta||S|cmp|A2
 canette|lata||S|cmp|A2
 carnet|carné de billetes||S|tra|A2
-station de métro|estación de metro||L|tra|A2
 arrêt de métro|parada de metro||L|tra|A2
 abribus|marquesina||S|tra|A2
-rétroviseur|retrovisor||S|tra|A2
 coffre|maletero||S|tra|A2
 ceinture de sécurité|cinturón de seguridad||L|tra|A2
-essuie-glace|limpiaparabrisas||S|tra|A2
 billet de train|billete de tren||L|tra|A2
 composter le billet|validar el billete||L|tra|A2
 rater le train|perder el tren||L|tra|A2
-atterrissage|aterrizaje||S|vig|A2
 prendre l'avion|coger el avión||L|vig|A2
 rater l'avion|perder el avión||L|vig|A2
 hôtesse de l'air|azafata||L|vig|A2
 bicyclette|bicicleta||S|tra|A2
 sonnette de vélo|timbre de bici||L|tra|A2
-faire du vélo|montar en bici||L|tra|A2
 sac de voyage|bolsa de viaje||L|vig|A2
 trousse de toilette|neceser||L|vig|A2
 faire des photos|hacer fotos||L|vig|A2
-voyager|viajar||V|vig|A2
 moustiquaire|mosquitera||S|vig|A2
 hamac|hamaca||S|vig|A2
 canne à pêche|caña de pescar||L|vig|A2
@@ -110,7 +100,6 @@ se casser la jambe|romperse la pierna||L|sla|A2
 se fouler la cheville|torcerse el tobillo||L|sla|A2
 cabinet|consultorio||S|sla|A2
 aller chez le médecin|ir al médico||L|sla|A2
-piqûre|pinchazo||S|sla|A2
 carie|caries||S|sla|A2
 sirop pour la toux|jarabe para la tos||L|sla|A2
 pastille pour la gorge|pastilla para la garganta||L|sla|A2
@@ -125,7 +114,6 @@ trombone|clip||S|lav|A2
 perforatrice|perforadora||S|lav|A2
 récréation|recreo||S|stu|A2
 cartable|cartera escolar||S|stu|A2
-rentrée|vuelta al colegio||S|stu|A2
 faire ses devoirs|hacer los deberes||L|stu|A2
 calculatrice|calculadora||S|stu|A2
 dictionnaire|diccionario||S|stu|A2
@@ -148,13 +136,9 @@ en été|en verano||L|cli|A2
 en automne|en otoño||L|cli|A2
 en hiver|en invierno||L|cli|A2
 chaussette|calcetín||S|rop|A2
-fermeture éclair|cremallera||L|rop|A2
-sous-vêtements|ropa interior||S|rop|A2
 s'habiller|vestirse||V|rop|A2
 botte|bota||S|rop|A2
 boucle d'oreille|pendiente||L|rop|A2
-porte-monnaie|monedero||S|rop|A2
-pointure|talla de zapato||S|rop|A2
 télécommande|mando a distancia||S|tec|A2
 haut-parleur|altavoz||S|tec|A2
 écran plat|pantalla plana||L|tec|A2
@@ -162,14 +146,11 @@ charger le téléphone|cargar el móvil||L|tec|A2
 courriel|correo electrónico||S|tec|A2
 clé USB|memoria USB||L|tec|A2
 moteur de recherche|buscador||L|tec|A2
-réseau social|red social||L|tec|A2
 foot|fútbol||S|spt|A2
 patinage|patinaje||S|spt|A2
 surf|surf||S|spt|A2
-penalty|penalti||S|spt|A2
 survêtement|chándal||S|spt|A2
 chaussures de sport|zapatillas de deporte||L|spt|A2
-gymnase|gimnasio||S|spt|A2
 clarinette|clarinete||S|mus|A2
 harpe|arpa||S|mus|A2
 saxophone|saxofón||S|mus|A2
@@ -179,10 +160,8 @@ reggae|reggae||S|mus|A2
 film d'horreur|película de terror||L|cin|A2
 comédie romantique|comedia romántica||L|cin|A2
 série télévisée|serie de televisión||L|cin|A2
-séance|sesión (de cine)||S|cin|A2
 amitié|amistad||S|rel|A2
 se faire des amis|hacer amigos||L|rel|A2
-inviter à dîner|invitar a cenar||L|rel|A2
 passer du temps|pasar tiempo juntos||L|rel|A2
 distributeur|cajero automático||S|fin|A2
 ouvrir un compte|abrir una cuenta||L|fin|A2
@@ -221,7 +200,6 @@ rouge-gorge|petirrojo||S|ani|A2
 coccinelle|mariquita||S|ani|A2
 cafard|cucaracha||S|ani|A2
 chenille|oruga||S|ani|A2
-puce|pulga||S|ani|A2
 dune|duna||S|nat|A2
 prairie|pradera||S|nat|A2
 bois|bosquecillo||S|nat|A2

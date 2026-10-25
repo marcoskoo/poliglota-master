@@ -1,0 +1,82 @@
+poste à pourvoir|puesto vacante||S|lav|B2
+centre d'intérêt|intereses en el currículum||S|lav|B2
+gratification de stage|retribución de las prácticas||S|lav|B2
+convocation à un entretien|citación para una entrevista||S|lav|B2
+temps partiel|media jornada||S|lav|B2
+salarier|salar||V|lav|B2
+titularisation|obtención de la plaza fija||S|lav|B2
+promotion interne|promoción interna||S|lav|B2
+augmentation de salaire|subida de sueldo||S|lav|B2
+prime de rendement|prima de rendimiento||S|lav|B2
+réunion plénière|reunión plenaria||S|lav|B2
+relevé de conclusions|resumen de acuerdos||S|lav|B2
+brainstorming|lluvia de ideas||S|lav|B2
+report de réunion|aplazamiento de la reunión||S|lav|B2
+maladie professionnelle|enfermedad profesional||S|lav|B2
+passer un concours|presentarse a unas oposiciones||E|stu|B2
+admissible|admitido en la siguiente fase||A|stu|B2
+mention très bien|matrícula de honor||S|stu|B2
+diplôme d'État|título oficial||S|stu|B2
+certification professionnelle|certificación profesional||S|stu|B2
+attestation de réussite|certificado de aptitud||S|stu|B2
+antisèche|chuleta||S|stu|B2
+bourse au mérite|beca al mérito||S|stu|B2
+critères d'attribution|criterios de concesión||S|stu|B2
+pièce justificative|documento justificativo||S|stu|B2
+carte étudiante|carné de estudiante||S|stu|B2
+unité d'enseignement|asignatura||S|stu|B2
+méthode d'apprentissage|método de aprendizaje||S|stu|B2
+surligneur|subrayador||S|stu|B2
+esprit de synthèse|capacidad de síntesis||S|stu|B2
+formation à distance|formación a distancia||S|stu|B2
+autodidacte|autodidacta||S|stu|B2
+grands ensembles|bloques de viviendas sociales||S|cit|B2
+logement social|vivienda social||S|cit|B2
+habitat insalubre|vivienda insalubre||S|cit|B2
+densité urbaine|densidad urbana||S|cit|B2
+stationnement payant|aparcamiento de pago||S|cit|B2
+nuisance sonore|contaminación acústica||S|cit|B2
+travaux de voirie|obras en la vía pública||S|cit|B2
+espaces verts|zonas verdes||S|cit|B2
+quartier populaire|barrio popular||S|cit|B2
+adjoint au maire|teniente de alcalde||S|ist|B2
+arrondissement|distrito municipal||S|ist|B2
+livret de famille|libro de familia||S|ist|B2
+déposer une plainte|poner una denuncia||E|ist|B2
+collecte des ordures|recogida de basuras||S|cit|B2
+coupure d'eau|corte de agua||S|cit|B2
+consultation citoyenne|consulta ciudadana||S|ist|B2
+vague de froid|ola de frío||S|cli|B2
+alerte rouge|alerta roja||S|cli|B2
+évacuation des populations|evacuación de la población||S|cli|B2
+plan d'urgence|plan de emergencia||S|cli|B2
+industrie textile|industria textil||S|rop|B2
+filature|hilatura||S|rop|B2
+étiquette d'entretien|etiqueta de cuidados||S|rop|B2
+commentaire blessant|comentario hiriente||S|tec|B2
+influenceuse|influenciadora||S|tec|B2
+faux profil|perfil falso||S|tec|B2
+nom d'utilisateur|nombre de usuario||S|tec|B2
+pirater un compte|hackear una cuenta||E|tec|B2
+double authentification|doble factor de autenticación||S|tec|B2
+sauvegarde de données|copia de seguridad||S|tec|B2
+effacer l'historique|borrar el historial||E|tec|B2
+logiciel libre|software libre||S|tec|B2
+spécifications techniques|especificaciones técnicas||S|tec|B2
+interface graphique|interfaz gráfica||S|tec|B2
+système d'exploitation|sistema operativo||S|tec|B2
+sport de haut niveau|deporte de élite||S|spt|B2
+entraînement intensif|entrenamiento intensivo||S|spt|B2
+sélection nationale|selección nacional||S|spt|B2
+médaillé|medallista||S|spt|B2
+recordman|plusmarquista||S|spt|B2
+blessure musculaire|lesión muscular||S|spt|B2
+fracture de fatigue|fractura por sobrecarga||S|spt|B2
+remise en forme|puesta en forma||S|spt|B2
+contrôle antidopage|control antidopaje||S|spt|B2
+clé de fa|clave de fa||S|mus|B2
+nuance|matiz||S|mus|B2
+placement numéroté|localidades numeradas||S|mus|B2
+plateau de tournage|plató de rodaje||S|cin|B2
+projection en plein air|proyección al aire libre||S|cin|B2
+bande-son|banda sonora||S|cin|B2

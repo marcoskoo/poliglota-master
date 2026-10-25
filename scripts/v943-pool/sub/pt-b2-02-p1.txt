@@ -1,0 +1,152 @@
+primeira infância|primera infancia||L|fam|B2
+crise de adolescência|crisis de adolescencia||L|fam|B2
+herdeiro universal|heredero universal||L|fam|B2
+ascendentes|ascendientes||S|fam|B2
+viuvez|viudez||S|fam|B2
+educação parental|educación parental||L|fam|B2
+autoridade parental|patria potestad||L|fam|B2
+guarda partilhada|custodia compartida||L|fam|B2
+divórcio litigioso|divorcio contencioso||L|fam|B2
+estabelecer limites|poner límites||L|fam|B2
+superprotetor|sobreprotector||A|fam|B2
+negligência parental|negligencia parental||L|fam|B2
+diálogo franco|diálogo franco||L|fam|B2
+renda mensal|renta mensual||L|cas|B2
+camião de mudanças|camión de mudanzas||L|cas|B2
+caixote de cartão|caja de cartón||L|cas|B2
+vistoria de saída|inspección de salida||L|cas|B2
+escritura da casa|escritura de la vivienda||L|cas|B2
+rescisão do contrato|rescisión del contrato||L|cas|B2
+renovação do contrato|renovación del contrato||L|cas|B2
+casa mobilada|casa amueblada||L|cas|B2
+quarto arrendado|habitación alquilada||L|cas|B2
+soalho de madeira|suelo de madera||L|cas|B2
+parede divisória|pared divisoria||L|cas|B2
+móvel à medida|mueble a medida||L|cas|B2
+estofador|tapicero||S|cas|B2
+alcatifa|moqueta||S|cas|B2
+relógio de parede|reloj de pared||L|cas|B2
+colcha|colcha||S|cas|B2
+cabeceira|cabecero||S|cas|B2
+tinta plástica|pintura plástica||L|cas|B2
+estore|estor||S|cas|B2
+lava-louças|lavavajillas||S|cas|B2
+ementa do dia|menú del día||L|ris|B2
+azeite virgem extra|aceite de oliva virgen extra||L|ali|B2
+hortaliça|verdura||S|ali|B2
+leguminosa|legumbre||S|ali|B2
+queijo curado|queso curado||L|ali|B2
+doçaria tradicional|repostería tradicional||L|ris|B2
+bacalhau salgado|bacalao salado||L|ali|B2
+paladar requintado|paladar refinado||L|ris|B2
+panela de pressão|olla a presión||L|ris|B2
+intolerância alimentar|intolerancia alimentaria||L|sla|B2
+regime vegetariano|dieta vegetariana||L|ali|B2
+proteína vegetal|proteína vegetal||L|ali|B2
+açúcar refinado|azúcar refinado||L|ali|B2
+corante alimentar|colorante alimentario||L|ali|B2
+rótulo alimentar|etiqueta alimentaria||L|ali|B2
+porção recomendada|ración recomendada||L|ali|B2
+obesidade infantil|obesidad infantil||L|sla|B2
+anemia ferroprivada|anemia ferropénica||L|sla|B2
+tempura|tempura||S|ris|B2
+curry indiano|curry indio||L|ris|B2
+risoto|risotto||S|ris|B2
+lasanha à bolonhesa|lasaña a la boloñesa||L|ris|B2
+nhoque|ñoquis||S|ris|B2
+crepe doce|crep dulce||L|ris|B2
+saltear no wok|saltear en el wok||L|ris|B2
+molho de soja|salsa de soja||L|ali|B2
+wasabi|wasabi||S|ris|B2
+comida picante|comida picante||L|ali|B2
+adega climatizada|bodega climatizada||L|ris|B2
+sommelier|sumiller||S|pro|B2
+taça de vinho|copa de vino||L|ris|B2
+amargor|amargor||S|ali|B2
+café duplo|café doble||L|ris|B2
+espuma de leite|espuma de leche||L|ris|B2
+grão de café|grano de café||L|ali|B2
+café torrado|café tostado||L|ali|B2
+bebida destilada|bebida destilada||L|ali|B2
+licor caseiro|licor casero||L|ris|B2
+painel publicitário|valla publicitaria||L|cmp|B2
+estratégia de marketing|estrategia de marketing||L|cmp|B2
+promoção de lançamento|promoción de lanzamiento||L|cmp|B2
+código promocional|código promocional||L|cmp|B2
+liquidação de stocks|liquidación de stocks||L|cmp|B2
+saldo de inverno|rebajas de invierno||L|cmp|B2
+endividamento das famílias|endeudamiento de las familias||L|fin|B2
+influenciador digital|influencer digital||L|cmp|B2
+devolução de artigos|devolución de artículos||L|cmp|B2
+reembolso integral|reembolso íntegro||L|cmp|B2
+talão de compra|ticket de compra||L|cmp|B2
+fatura de compra|factura de compra||L|cmp|B2
+garantia de dois anos|garantía de dos años||L|cmp|B2
+reclamação formal|reclamación formal||L|cmp|B2
+defeito de fabrico|defecto de fabricación||L|cmp|B2
+artigo com defeito|artículo defectuoso||L|cmp|B2
+troca ou devolução|cambio o devolución||L|cmp|B2
+prazo de troca|plazo de cambio||L|cmp|B2
+consumidor lesado|consumidor perjudicado||L|cmp|B2
+direitos do consumidor|derechos del consumidor||L|ist|B2
+peça sobresselente|pieza de recambio||L|cmp|B2
+linha de apoio ao cliente|línea de atención al cliente||L|cmp|B2
+loja de proximidade|comercio de barrio||L|cmp|B2
+morada de entrega|dirección de entrega||L|cmp|B2
+encomenda atrasada|pedido retrasado||L|cmp|B2
+cacifo de recolha|taquilla de recogida||L|cmp|B2
+avaliação do vendedor|valoración del vendedor||L|cmp|B2
+artigo esgotado|artículo agotado||L|cmp|B2
+devolução gratuita|devolución gratuita||L|cmp|B2
+existências disponíveis|existencias disponibles||L|cmp|B2
+radar de velocidade|radar de velocidad||L|tra|B2
+condução perigosa|conducción temeraria||L|tra|B2
+sentido proibido|dirección prohibida||L|tra|B2
+pneu suplente|rueda de repuesto||L|tra|B2
+bateria descarregada|batería descargada||L|tra|B2
+triângulo de sinalização|triángulo de señalización||L|tra|B2
+colete refletor|chaleco reflectante||L|tra|B2
+inspeção periódica obrigatória|inspección técnica de vehículos||L|tra|B2
+oficina mecânica|taller mecánico||L|tra|B2
+depósito de combustível|depósito de combustible||L|tra|B2
+farol de nevoeiro|faro antinieblas||L|tra|B2
+limpa-para-brisas|limpiaparabrisas||S|tra|B2
+macaco do carro|gato del coche||L|tra|B2
+via verde|telepeaje||L|tra|B2
+partilha de viaturas|compartir coche||L|tra|B2
+elétrico urbano|tranvía urbano||L|tra|B2
+corredor de autocarro|carril bus||L|tra|B2
+horário de ponta|hora punta||L|tra|B2
+comboio de mercadorias|tren de mercancías||L|tra|B2
+carro partilhado|coche compartido||L|tra|B2
+rede de transportes|red de transporte||L|tra|B2
+deslocação profissional|desplazamiento profesional||L|vig|B2
+reembolso de despesas|reembolso de gastos||L|lav|B2
+nota de despesas|nota de gastos||L|lav|B2
+classe executiva|clase ejecutiva||L|vig|B2
+voo com escala|vuelo con escala||L|vig|B2
+voo cancelado|vuelo cancelado||L|vig|B2
+atraso considerável|retraso considerable||L|vig|B2
+bagagem extraviada|equipaje extraviado||L|vig|B2
+reclamação de bagagem|reclamación de equipaje||L|vig|B2
+bilhete de ida e volta|billete de ida y vuelta||L|vig|B2
+assento reservado|asiento reservado||L|vig|B2
+pernoitar|pernoctar||V|vig|B2
+escala técnica|escala técnica||L|vig|B2
+visto de longa duração|visado de larga duración||L|vig|B2
+pedido de visto|solicitud de visado||L|vig|B2
+passaporte caducado|pasaporte caducado||L|vig|B2
+autenticação de documentos|autenticación de documentos||L|ist|B2
+declarar à alfândega|declarar en la aduana||E|vig|B2
+controlo alfandegário|control aduanero||L|vig|B2
+hotel de charme|hotel con encanto||L|htl|B2
+pousada histórica|posada histórica||L|htl|B2
+agroturismo|agroturismo||S|vig|B2
+tudo incluído|todo incluido||L|htl|B2
+estacionamento privado|aparcamiento privado||L|htl|B2
+avaliação dos hóspedes|valoración de los huéspedes||L|htl|B2
+classificação por estrelas|clasificación por estrellas||L|htl|B2
+turismo de habitação|alojamiento en casas particulares||L|htl|B2
+cofre do quarto|caja fuerte de la habitación||L|htl|B2
+pequeno-almoço buffet|desayuno bufé||L|htl|B2
+estadia prolongada|estancia prolongada||L|htl|B2

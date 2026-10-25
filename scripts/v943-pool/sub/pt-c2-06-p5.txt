@@ -1,0 +1,166 @@
+orça|orza||S|tra|C2
+barlavento|barlovento||S|tra|C2
+sotavento|sotavento||S|tra|C2
+chamina|chimenea (de barco)||S|tra|C2
+revelim|revellín||S|art|C2
+contraguarda|contraguardia||S|art|C2
+tenalha|tenaza (obra de fortificación)||S|art|C2
+casamata|casamata||S|art|C2
+canhoneira|canonera (tronera de fortaleza)||S|art|C2
+couraça|coraza||S|art|C2
+sarja|sarga (tela)||S|rop|C2
+cambraia|batista||S|rop|C2
+fustão|fustán||S|rop|C2
+gorgorão|gorgorán||S|rop|C2
+tafetá|tafetán||S|rop|C2
+organdi|organdí||S|rop|C2
+renda de bilros|encaje de bolillos||E|rop|C2
+arrecadas|arrecadas (pendientes de filigrana)||S|art|C2
+capela-mor|cabecera (capilla mayor)||S|art|C2
+morgadio|morgadío||S|ist|C2
+morgado|morgado (mayorazgo)||S|ist|C2
+padroado|patronato (derecho de patronato)||S|ist|C2
+comenda|encomienda||S|ist|C2
+comendador|comendador||S|pro|C2
+grã-cruz|gran cruz||S|ist|C2
+esfera armilar|esfera armilar||S|sci|C2
+brasão de armas|blasón de armas||E|art|C2
+paúl|paúl (pantano)||S|nat|C2
+nauta|nauta||S|pro|C2
+maldizência|maldicencia||S|ast|C2
+mexeriqueiro|chismoso (cizañero)||S|ast|C2
+sovina|roñosa (avasalladora)||A|ast|C2
+tropelia|tropelía (estropicio)||S|ast|C2
+estropício|estropicio||S|ast|C2
+mundivivência|mundivivencia (experiencia del mundo)||S|ast|C2
+pachorrice|pachorra||S|ast|C2
+desfastio|desfastio (hastío)||S|ali|C2
+azedume|acedume (amargor)||S|emo|C2
+descomedimento|descomedimiento (exceso)||S|ast|C2
+empoçar|empozar (formar charcos)||V|nat|C2
+arrotear|roturar (romper tierra)||V|nat|C2
+vindimar|vendimiar||V|nat|C2
+aguilhoar|aguijonear||V|ast|C2
+precatar|precatar (precaverse)||V|cmu|C2
+aprumar|aprumar (adrizar)||V|tra|C2
+orçar|orzar (ciñar)||V|tra|C2
+empavesar|empavesar (engalanar con banderas)||V|tra|C2
+refratometria|refractometría||S|sci|C2
+polarimetria|polarimetría||S|sci|C2
+condutimetria|conductimetría||S|sci|C2
+amperometria|amperometría||S|sci|C2
+colorimetria|colorimetría||S|sci|C2
+efusividade|efusividad||S|sci|C2
+difusividade|difusividad||S|sci|C2
+dilatometria|dilatometría||S|sci|C2
+porosimetria|porosimetría||S|sci|C2
+azótico|azótico (nitrogenado)||A|sci|C2
+fluoroscopia|fluoroscopia||S|sci|C2
+radioscopia|radioscopia||S|sci|C2
+escintigrafia|gammagrafía||S|sla|C2
+ressonância magnética nuclear|resonancia magnética nuclear||E|sla|C2
+ecocardiografia|ecocardiografía||S|sla|C2
+elastografia|elastografía||S|sla|C2
+regedor|regidor||S|pro|C2
+juiz de fora|juez de fuera||S|pro|C2
+ouvidor|oidor||S|pro|C2
+cartorial|cartorial (de notaría)||A|ist|C2
+furriel|furriel (cabo de guardas)||S|pro|C2
+feitor|feitor (capataz)||S|pro|C2
+feitoria|factoría (posto comercial)||S|ist|C2
+almoxarife|almoxarife (mayordomo de rentas)||S|pro|C2
+vedor|veedor||S|pro|C2
+vedor da fazenda|veedor de la hacienda||S|pro|C2
+desgarrada|desgarrada (canto improvisado)||S|mus|C2
+modinha|modinha (canción antigua)||S|mus|C2
+lundum|lundúm (danza antigua)||S|mus|C2
+romanceiro|romancero||S|let|C2
+laudatório|laudatorio||A|ast|C2
+vênia|venia (licencia para hablar)||S|cmu|C2
+esofagoscopia|esofagoscopia||S|sla|C2
+broncoscopia|broncoscopia||S|sla|C2
+cistoscopia|cistoscopia||S|sla|C2
+uretroscopia|uretroscopia||S|sla|C2
+uretrotomia|uretrotomía||S|sla|C2
+amigdalectomia|amigdalectomía||S|sla|C2
+adenoidectomia|adenoidectomía||S|sla|C2
+septoplastia|septoplastia||S|sla|C2
+mentoplastia|mentoplastia||S|sla|C2
+blefaroplastia|blefaroplastia||S|sla|C2
+otoplastia|otoplastia||S|sla|C2
+frenectomia|frenectomía||S|sla|C2
+gingivectomia|gingivectomía||S|sla|C2
+apicectomia|apicectomía||S|sla|C2
+toracoscopia|toracoscopia||S|sla|C2
+anexectomia|anexectomía||S|sla|C2
+miomectomia|miomectomía||S|sla|C2
+conização|conización (del cuello uterino)||S|sla|C2
+episiorrafia|episiorrafia||S|sla|C2
+nefrectomia|nefrectomía||S|sla|C2
+litotripsia|litotricia||S|sla|C2
+hemicolectomia|hemicolectomía||S|sla|C2
+gastrostomia|gastrostomía||S|sla|C2
+jejunostomia|yeyunostomía||S|sla|C2
+esofagectomia|esofaguectomía||S|sla|C2
+pneumectomia|neumectomía||S|sla|C2
+segmentectomia|segmentectomía||S|sla|C2
+tiroidectomia|tiroidectomía||S|sla|C2
+paratiroidectomia|paratiroidectomía||S|sla|C2
+adrenalectomia|adrenalectomía||S|sla|C2
+esplenectomia|esplenectomía||S|sla|C2
+pancreatectomia|pancreatectomía||S|sla|C2
+hepatectomia|hepatectomía||S|sla|C2
+embolectomia|embolectomía||S|sla|C2
+trombectomia|trombectomía||S|sla|C2
+ceitil|ceitil (moneda antigua portuguesa)||S|fin|C2
+macuta|macuta (moneda antigua)||S|fin|C2
+poejo|poleo||S|nat|C2
+segurelha|ajedrea||S|nat|C2
+hipericão|hipérico (hierba de San Juan)||S|nat|C2
+salsaparrilha|zarzaparrilla||S|nat|C2
+alcacuz|regaliz||S|nat|C2
+assafétida|asafétida||S|nat|C2
+benjoim|benjuí||S|nat|C2
+azeda|acedera||S|nat|C2
+beldroegas|verdolagas||S|nat|C2
+xávega|xávega (arte de arrastre por orilla)||S|nat|C2
+corrico|curricán (pesca de recreo)||S|sve|C2
+espinhel|espinel (palangre)||S|nat|C2
+galerno|galerno (vendaval)||S|nat|C2
+sachola|azada (laya pequeña)||S|lav|C2
+aguilhada|aguijada||S|lav|C2
+malho|mazo (mallo)||S|lav|C2
+roca|rueca||S|cas|C2
+meada|madeja||S|cas|C2
+galena|galena||S|sci|C2
+cassiterite|casiterita||S|sci|C2
+wolframite|wolframita||S|sci|C2
+scheelite|scheelita||S|sci|C2
+argentífero|argentífero||A|sci|C2
+limonite|limonita||S|sci|C2
+frágua|fragua||S|tec|C2
+estanhador|estañador||S|pro|C2
+latoeiro|hojalatero||S|pro|C2
+caldeireiro|calderero||S|pro|C2
+estampilha|estampilla (sello fiscal)||S|fin|C2
+corticeiro|corchero||S|pro|C2
+breu|breu (pez)||S|tec|C2
+bergantim|bergantín||S|tra|C2
+mala-posta|diligencia (correo de postas)||S|tra|C2
+prosaísmo|prosaísmo||S|let|C2
+poetastro|poetastro||S|pro|C2
+seiscentista|seiscientista (del Seiscientos)||A|let|C2
+oitocentista|ochocentista (del Ochocientos)||A|let|C2
+arcadismo|arcadismo||S|let|C2
+pré-romantismo|prerromanticismo||S|let|C2
+leite-creme|natillas (crema de leche)||S|ali|C2
+doce de chila|dulce de cidra||S|ali|C2
+fogaça|fogaza (bollo de fiesta)||S|ali|C2
+quebranto|quebranto (mal de ojo)||S|ast|C2
+mau-olhado|mal de ojo||S|ast|C2
+benzedeiras|sanadoras (curanderas)||S|pro|C2
+jogo do pau|juego del palo||S|spt|C2
+postilhão|postillón||S|pro|C2
+alqueve|alqueve (tierra de barbecho larguísimo)||S|nat|C2
+medas|medas (hacinas de paja)||S|nat|C2
+desfeite|desaire (derrota)||S|spt|C2

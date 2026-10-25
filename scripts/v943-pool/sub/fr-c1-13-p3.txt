@@ -1,0 +1,173 @@
+hypertextualité|hipertextualidad||S|let|C1
+extradiegétique|extradiegético||A|let|C1
+roman-fleuve|novela río||S|let|C1
+syllepse|silepsis||S|let|C1
+hendiadys|hendiadis||S|let|C1
+auroral|auroral||A|let|C1
+adamantin|adamantino||A|let|C1
+divagation|divagación||S|let|C1
+incantatoire|incantatorio||A|let|C1
+antienne|antífona||S|let|C1
+oraison funèbre|oración fúnebre||L|let|C1
+vêpres|vísperas||S|let|C1
+matines|maitines||S|let|C1
+simonie|simonía||S|ast|C1
+intentionalité|intencionalidad||S|ast|C1
+noème|noema||S|ast|C1
+criticisme|criticismo||S|ast|C1
+eudémonisme|eudemonismo||S|ast|C1
+conséquentialisme|consecuencialismo||S|ast|C1
+vertu cardinale|virtud cardinal||L|ast|C1
+pusillanimité|pusilanimidad||S|ast|C1
+hypostase|hipóstasis||S|ast|C1
+émanation|emanación||S|ast|C1
+être-en-soi|ser en sí||L|ast|C1
+ipséité|ipseidad||S|ast|C1
+facticité|factacidad||S|ast|C1
+sécularisation|secularización||S|ast|C1
+logocentrisme|logocentrismo||S|ast|C1
+indécidable|indecidible||A|ast|C1
+itérabilité|iterabilidad||S|ast|C1
+vexillologie|vexilología||S|sci|C1
+registre paroissial|registro parroquial||L|sci|C1
+mobilier funéraire|ajuar funerario||L|art|C1
+hypogée|hipogeo||S|art|C1
+stèle funéraire|estela funeraria||L|art|C1
+tumulus|túmulo||S|art|C1
+ossuaire|osario||S|art|C1
+cénotaphe|cenotafio||S|art|C1
+épitaphe|epitafio||S|let|C1
+ostensoir|ostensorio||S|art|C1
+antiquaille|antigüalla||S|let|C1
+syntagme nominal|sintagma nominal||L|sci|C1
+déixis|deixis||S|sci|C1
+allocutaire|alocutario||S|sci|C1
+sabir|sabir (lengua franca)||S|sci|C1
+créolisation|criollización||S|sci|C1
+superstrat|superestrato||S|sci|C1
+anthroponymie|antroponimia||S|sci|C1
+langues d'oïl|lenguas de oïl||L|sci|C1
+bretonnant|bretonohablante||A|sci|C1
+pulsion de vie|pulsión de vida||L|ast|C1
+clivage du moi|escisión del yo||L|ast|C1
+extimité|extimidad||S|ast|C1
+échange inégal|intercambio desigual||L|ast|C1
+biopouvoir|biopoder||S|ast|C1
+chancelleries|cancillerías||S|ist|C1
+dénucléarisation|desnuclearización||S|ist|C1
+guerre hybride|guerra híbrida||L|att|C1
+démocratie délibérative|democracia deliberativa||L|ist|C1
+mandat impératif|mandato imperativo||L|ist|C1
+obstruction parlementaire|obstrucción parlamentaria||L|ist|C1
+scrutin proportionnel|escrutinio proporcional||L|ist|C1
+précariat|precariado||S|lav|C1
+glocalisation|glocalización||S|sci|C1
+métropolisation|metropolitanización||S|cit|C1
+capital symbolique|capital simbólico||L|sci|C1
+ethnométhodologie|etnometodología||S|sci|C1
+créolité|criollidad||S|sci|C1
+tissu urbain|trama urbana||L|cit|C1
+portrait-robot|retrato robot||S|cmu|C1
+faire la une|salir en portada||L|cmu|C1
+mésinformation|información errónea||S|cmu|C1
+intox|desinformación deliberada||S|cmu|C1
+emballement médiatique|escalada mediática||L|att|C1
+toccata|toccata||S|mus|C1
+gamme pentatonique|escala pentatónica||L|mus|C1
+enharmonique|enarmónico||A|mus|C1
+flash-back|escena retrospectiva||S|cin|C1
+repeint|repinte||S|art|C1
+rentoilage|reentelado||S|art|C1
+copie d'atelier|copia de taller||L|art|C1
+abstraction lyrique|abstracción lírica||L|art|C1
+art brut|arte marginal||L|art|C1
+pointillisme|puntillismo||S|art|C1
+divisionnisme|divisionismo||S|art|C1
+tachisme|tachismo||S|art|C1
+orphisme|orfismo||S|art|C1
+cadavre exquis|cadáver exquisito||L|art|C1
+camaïeu|gama de tonos próximos||S|art|C1
+sinopia|sinopia||S|art|C1
+ronde-bosse|bulto redondo||S|art|C1
+figuration narrative|figuración narrativa||L|art|C1
+infobésité|sobrecarga informativa||S|lav|C1
+centre de profits|centro de beneficios||L|fin|C1
+revue de performance|revisión de desempeño||L|lav|C1
+prime de rendement|prima de rendimiento||L|lav|C1
+roulement du personnel|rotación de personal||L|lav|C1
+validation des acquis|validación de la experiencia||L|stu|C1
+compétences transversales|competencias transversales||L|stu|C1
+cavalerie|gestión fraudulenta de fondos||S|fin|C1
+se bidonner|desternillarse de risa||L|cmu|C1
+tchatcher|charlar por los codos||V|cmu|C1
+tire-au-flanc|gandul (esquivador)||S|cmu|C1
+teuf|juerga (verlan de fête)||S|sve|C1
+zonard|marginado (de barrio)||S|cmu|C1
+bifton|billete (de gran valor)||S|cmu|C1
+pioncer|sobar (dormir)||V|cmu|C1
+taulard|preso reincidente||S|cmu|C1
+taule|talego (prisión)||S|cmu|C1
+racontar|cotilleo (rumor)||S|cmu|C1
+conditio sine qua non|condición indispensable||L|ast|C1
+primus inter pares|primero entre iguales||L|ast|C1
+ex officio|por derecho propio||L|ast|C1
+inter alia|entre otras cosas||L|ast|C1
+sic et non|sí y no (método escolástico)||L|ast|C1
+deus ex machina|deus ex machina||L|let|C1
+tempus fugit|tempus fugit (el tiempo vuela)||L|tmp|C1
+alea jacta est|la suerte está echada||L|ast|C1
+errare humanum est|errar es humano||L|ast|C1
+festina lente|despacio que tengo prisa||L|ast|C1
+aurea mediocritas|dorada medianía||L|ast|C1
+labor omnia vincit|el trabajo todo lo vence||L|ast|C1
+pacta sunt servanda|los pactos se cumplen||L|ist|C1
+dura lex sed lex|dura ley, pero ley||L|ist|C1
+summum jus summa injuria|el derecho extremo es la mayor injusticia||L|ist|C1
+ab uno disce omnes|por uno conoce a todos||L|ast|C1
+scripta manent|lo escrito permanece||L|ast|C1
+sic transit gloria mundi|así pasa la gloria del mundo||L|ast|C1
+brocard|aforismo jurídico||S|ist|C1
+gausserie|burla festiva||S|let|C1
+lanterner|dar largas||V|cmu|C1
+échapper belle|salir por los pelos||L|cmu|C1
+parler à mots couverts|hablar con rodeos||L|cmu|C1
+ulcéré|dolido (indignado)||A|emo|C1
+se fourvoyer|descarriarse||V|ast|C1
+humeur noire|ánimo sombrío||L|emo|C1
+rébarbatif|repelente (aburrido)||A|emo|C1
+fût de chêne|barrica de roble||L|ris|C1
+chaptalisation|chaptalización||S|ris|C1
+sous-espèce|subespecie||S|sci|C1
+congénère|congénere||S|sci|C1
+chiroptère|quiróptero||S|ani|C1
+pinnipède|pinnípedo||S|ani|C1
+anémophilie|anemofilia||S|nat|C1
+marcottage|acodado||S|nat|C1
+porte-greffe|portainjerto||S|nat|C1
+strate arborée|estrato arbóreo||L|nat|C1
+durée pure|duración pura||L|ast|C1
+passéisme|pasadismo||S|ast|C1
+quiddité|quiddidad (esencia)||S|ast|C1
+haeccéité|haecceidad||S|ast|C1
+transcendantal|trascendental||A|ast|C1
+immanent|inmanente||A|ast|C1
+gnose|gnosis||S|ast|C1
+hermétisme|hermetismo||S|ast|C1
+kabbale|cábala||S|ast|C1
+alchimie|alquimia||S|ast|C1
+hallucination|alucinación (de una IA)||S|tec|C1
+logique floue|lógica difusa||L|tec|C1
+inférence bayésienne|inferencia bayesiana||L|tec|C1
+texte en clair|texto en claro||L|tec|C1
+preuve à divulgation nulle|prueba de conocimiento cero||L|tec|C1
+débit descendant|velocidad de bajada||L|tec|C1
+perte de paquets|pérdida de paquetes||L|tec|C1
+routage|enrutamiento||S|tec|C1
+roboticien|roboticista||S|pro|C1
+cobótique|cobótica||S|tec|C1
+capteur de proximité|sensor de proximidad||L|tec|C1
+chaleur fatale|calor residual||L|tec|C1
+éolien en mer|eólica marina||L|tec|C1
+manche à balai|palanca de mando||L|tec|C1
+variomètre|variómetro||S|tec|C1
+astromobile|astromóvil||S|tec|C1

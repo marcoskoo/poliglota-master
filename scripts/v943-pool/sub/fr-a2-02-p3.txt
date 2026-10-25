@@ -1,0 +1,99 @@
+souhaiter la bienvenue|dar la bienvenida||L|sal|A2
+enfant unique|hijo único||S|fam|A2
+lit superposé|litera||S|cas|A2
+chaise haute|trona||S|cas|A2
+porte-serviettes|toallero||S|cas|A2
+cuillère à soupe|cuchara sopera||S|cas|A2
+papier de verre|lija||S|cas|A2
+liquide vaisselle|lavavajillas líquido||S|cas|A2
+chaise de bureau|silla de escritorio||S|cas|A2
+compote de pommes|compota de manzana||S|ali|A2
+purée de pommes de terre|puré de patatas||S|ali|A2
+soupe de légumes|sopa de verduras||S|ali|A2
+salade verte|ensalada verde||S|ali|A2
+filet de poisson|lomo de pescado||S|ali|A2
+blanc de poulet|pechuga de pollo||S|ali|A2
+lait demi-écrémé|leche semidesnatada||S|ali|A2
+jus de pomme|zumo de manzana||S|ali|A2
+herbes de Provence|hierbas provenzales||S|ali|A2
+beurre de cacahuète|crema de cacahuete||S|ali|A2
+fleur de sel|flor de sal||S|ali|A2
+faire les soldes|ir a las rebajas||L|cmp|A2
+magasin de quartier|tienda de barrio||S|cmp|A2
+papier d'aluminium|papel de aluminio||S|cmp|A2
+ticket de métro|billete de metro||S|tra|A2
+monter dans le bus|subir al autobús||L|tra|A2
+descendre du bus|bajar del autobús||L|tra|A2
+passage souterrain|paso subterráneo||S|tra|A2
+faire le plein|llenar el depósito||L|tra|A2
+piste d'atterrissage|pista de aterrizaje||S|vig|A2
+vol de nuit|vuelo nocturno||S|vig|A2
+faire du camping|hacer camping||L|vig|A2
+faire une randonnée|hacer una excursión||L|vig|A2
+terrain de camping|parcela de camping||S|vig|A2
+tomber malade|ponerse enfermo||V|sla|A2
+spray nasal|espray nasal||S|sla|A2
+professeur de musique|profesor de música||S|pro|A2
+agent d'entretien|personal de limpieza||S|pro|A2
+stylo à bille|bolígrafo||S|lav|A2
+bloc-notes|bloc de notas||S|lav|A2
+écran d'ordinateur|pantalla de ordenador||S|lav|A2
+souris d'ordinateur|ratón de ordenador||S|lav|A2
+école maternelle|escuela infantil||S|stu|A2
+sortie scolaire|excursión escolar||S|stu|A2
+matériel scolaire|material escolar||S|stu|A2
+cours de piano|clase de piano||S|stu|A2
+hôtel de ville|ayuntamiento||S|cit|A2
+bibliothèque municipale|biblioteca municipal||S|cit|A2
+piscine municipale|piscina municipal||S|cit|A2
+piscine couverte|piscina cubierta||S|cit|A2
+arrêt de taxi|parada de taxi||S|cit|A2
+parking souterrain|aparcamiento subterráneo||S|cit|A2
+chemin de terre|camino de tierra||S|cit|A2
+ciel couvert|cielo cubierto||S|cli|A2
+il fait doux|hace un tiempo suave||E|cli|A2
+il gèle|hiela||E|cli|A2
+veste en cuir|chaqueta de cuero||S|rop|A2
+robe à fleurs|vestido de flores||S|rop|A2
+manteau d'hiver|abrigo de invierno||S|rop|A2
+chemise à carreaux|camisa de cuadros||S|rop|A2
+faire les boutiques|ir de tiendas||L|rop|A2
+chaussures à talons|zapatos de tacón||S|rop|A2
+batterie de secours|batería externa||S|tec|A2
+coque de téléphone|funda del móvil||S|tec|A2
+faire des recherches|hacer búsquedas||L|tec|A2
+piste de ski|pista de esquí||S|spt|A2
+faire du jogging|hacer footing||L|spt|A2
+terrain de foot|campo de fútbol||S|spt|A2
+guitare électrique|guitarra eléctrica||S|mus|A2
+groupe de musique|grupo de música||S|mus|A2
+copain d'enfance|amigo de la infancia||S|rel|A2
+sortir entre amis|salir con amigos||L|rel|A2
+prendre un verre|tomar algo||L|rel|A2
+proposer une sortie|proponer una salida||L|rel|A2
+code secret|código secreto||S|fin|A2
+pour deux personnes|para dos personas||E|ris|A2
+boisson comprise|bebida incluida||E|ris|A2
+couleurs vives|colores vivos||S|col|A2
+troupeau de moutons|rebaño de ovejas||S|ani|A2
+toile d'araignée|telaraña||S|ani|A2
+litière du chat|arenero del gato||S|ani|A2
+sommet de la montagne|cima de la montaña||S|nat|A2
+bord de la rivière|orilla del río||S|nat|A2
+champ de blé|campo de trigo||S|nat|A2
+forêt de pins|bosque de pinos||S|nat|A2
+marée haute|marea alta||S|nat|A2
+une fois par semaine|una vez por semana||L|tmp|A2
+début du mois|principios de mes||L|tmp|A2
+jour de l'an|día de Año Nuevo||S|tmp|A2
+jeu de cartes|juego de cartas||S|sve|A2
+pêche à la ligne|pesca con caña||S|sve|A2
+chasse au trésor|búsqueda del tesoro||S|sve|A2
+galette des rois|roscón de Reyes||S|sve|A2
+faire peur|dar miedo||L|emo|A2
+tomber amoureux|enamorarse||V|emo|A2
+répondre au téléphone|responder al teléfono||L|cmu|A2
+cours de dessin|clase de dibujo||S|art|A2
+musée des beaux-arts|museo de bellas artes||S|art|A2
+peinture à l'huile|pintura al óleo||S|art|A2
+exposition de photos|exposición de fotos||S|art|A2

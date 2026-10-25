@@ -1,0 +1,158 @@
+alvíssaras|alvíssaras (¡vivas!)||I|cmu|C2
+desaforos|desafueros (dicterios)||S|cmu|C2
+descompostura|descompostura (reprimenda)||S|cmu|C2
+estultícia|estulticia (tontería solemne)||S|ast|C2
+estulto|estulto (necio)||A|ast|C2
+peçonha|ponzoña||S|nat|C2
+peçonhento|ponzoñoso||A|nat|C2
+moscardo|moscardo (tábano)||S|nat|C2
+dejeto|heces||S|sla|C2
+calafrio|calofrío||S|cor|C2
+esmorecimento|desmayo (abatimiento)||S|emo|C2
+alquebramento|quebrantamiento (postración)||S|sla|C2
+frouxidão|flojedad (flacidez)||S|ast|C2
+torpor|torpor||S|sla|C2
+entorpecimento|entorpecimiento||S|sla|C2
+afoito|afoito (osado)||A|ast|C2
+receoso|receloso||A|ast|C2
+suspeitoso|sospechoso||A|ast|C2
+ressabiado|ressabiado (desconfiado)||A|ast|C2
+alvoroçar|alborotar||V|ast|C2
+azafamar|azafamar (atarullar)||V|lav|C2
+atarapalhar|atarullar (despistar)||V|cmu|C2
+sobrestar|sobrestar (demorar)||V|ast|C2
+empanturrar|empachar (hartar)||V|ali|C2
+assestar|asestar (apuntar)||V|ast|C2
+emparedar|emparedar (encerrar en paredes)||V|ast|C2
+acutilar|acuchillar (herir de punta)||V|ast|C2
+transfixar|transfixar (atravesar)||V|ast|C2
+mordomo-mor|mayordomo mayor||S|pro|C2
+camareiro-mor|camarero mayor||S|pro|C2
+estribeiro-mor|estribero mayor||S|pro|C2
+copero-mor|copero mayor||S|pro|C2
+capitão-mor|capitán mayor||S|pro|C2
+sargento-mor|sargento mayor||S|pro|C2
+alferes-mor|alférez mayor||S|pro|C2
+guarda-mor|guarda mayor||S|pro|C2
+porteiro-mor|portero mayor||S|pro|C2
+monteiro-mor|montero mayor||S|pro|C2
+meirinho|meirino (alguacil)||S|pro|C2
+meirinho-mor|meirino mayor||S|pro|C2
+condestável|condestable||S|pro|C2
+arrais|arrais (patrón de barca)||S|pro|C2
+mareante|mareante (gente de mar)||S|pro|C2
+abegão|abegón (mayoral de mulas)||S|pro|C2
+regateira|regatera (revendedora)||S|pro|C2
+droguista|droguista||S|pro|C2
+cesteiro|cestero||S|pro|C2
+mercancia|mercancía (trato comercial)||S|fin|C2
+sobreiral|sobral (dehesa de alcornoques)||S|nat|C2
+azinhal|encinar||S|nat|C2
+carvalhal|robledal||S|nat|C2
+quebrada|quebrada (rambla)||S|nat|C2
+esteiro|estero (entrante de marea)||S|nat|C2
+sapal|sapal (marisma)||S|nat|C2
+alverca|alberca (estanque)||S|nat|C2
+fontanário|fontanero (caño público)||S|cit|C2
+baixio|bajío (bajo de arena)||S|nat|C2
+restinga|restinga (cabo de arena)||S|nat|C2
+abibe|avefría||S|ani|C2
+poupa|abubilla||S|ani|C2
+tentilhão|pinzón||S|ani|C2
+verdilhão|verderón||S|ani|C2
+toutinegra|curruca||S|ani|C2
+açor|azor (gavilán)||S|ani|C2
+milhafre|milano (ratonero)||S|ani|C2
+guarda-rios|martín pescador||S|ani|C2
+cotovia|cotovía (alondra)||S|ani|C2
+mergulhão|colimbo (ave mergulhadora)||S|ani|C2
+arcão|arcón (arca de noivo)||S|cas|C2
+canastra|canastra (cesta grande)||S|cas|C2
+canastro|canastro (cesta de esparto)||S|cas|C2
+lucerna|lucerna (lámpara de aceite)||S|cas|C2
+gibão|jubón||S|rop|C2
+ceroulas|zaragüelles (calzoncillos)||S|rop|C2
+finta|finta (tributo municipal)||S|fin|C2
+jugada|pecha (tributo antiguo)||S|fin|C2
+sisa|sisa (imposto de compravenda)||S|fin|C2
+gabela|gabela (impuesto sobre la sal)||S|fin|C2
+memorialista|memorialista||S|pro|C2
+epistolário|epistolario||S|let|C2
+interseccionismo|interseccionismo||S|let|C2
+sensacionismo|sensacionismo||S|let|C2
+paulismo|paulismo (movimento literário)||S|let|C2
+iberismo|iberismo||S|ist|C2
+cartismo|cartismo||S|ist|C2
+miguelismo|miguelismo||S|ist|C2
+setembrismo|setembrismo||S|ist|C2
+luso-tropicalismo|lusotropicalismo||S|ast|C2
+alfacinha|lisboeta (de Lisboa)||S|cit|C2
+transmontano|trasmontano||A|cit|C2
+beirão|beirano (de la Beira)||A|cit|C2
+tanoeiro|tonelero||S|pro|C2
+jaez|jaez (jaeces de montar)||S|ani|C2
+acoimar|acoimar (denunciar por faltas)||V|ist|C2
+degredar|degradar (desterrar)||V|ist|C2
+degredo|degredo (destierro penal)||S|ist|C2
+desarranjo|desarreglo||S|ast|C2
+desalinho|desalifio (desaseo)||S|ast|C2
+desasseio|desaseo||S|ast|C2
+guitarra portuguesa|guitarra portuguesa (citara de doce cordas)||S|mus|C2
+cantiga de escárnio|cantiga de escarnio (sátira medieval)||E|let|C2
+apólogo|apólogo (fábula razonada)||S|let|C2
+lazarilha|lazarillo (guía de ciego)||S|pro|C2
+trebejos|trebejos (aderezos de teatro)||S|art|C2
+salamaleque|salamaleque (reverencia afectada)||S|cmu|C2
+melindre|melindre (escrúpulo quimérico)||S|ast|C2
+esquivança|esquivanza (cortejo esquivo)||S|cmu|C2
+circunlóquio|circunloquio||S|cmu|C2
+epiceno|epiceno (de género común)||A|let|C2
+cavilação|cavilación (sutileza)||S|ast|C2
+grão-mestre|gran maestre||S|ist|C2
+bula de cruzada|bula de cruzada||S|ist|C2
+entredito|entredicho (interdicto)||S|ist|C2
+auto de fé|auto de fe||S|ist|C2
+razia|razia (correría)||S|ist|C2
+cavalgada|cabalgada||S|ist|C2
+lantejoula|lentejuela||S|rop|C2
+missanga|mostacilla (abalario)||S|art|C2
+bugalho|bugallo (agalla de roble)||S|nat|C2
+sorva|serba (fruto do serval)||S|nat|C2
+atascar|atascar (embarrancar)||V|tra|C2
+encalhar|encallar (varar)||V|tra|C2
+alardo|alardo (desfile militar)||S|ist|C2
+alardar|alardar (alardear)||V|ist|C2
+responso|responso (réquiem popular)||S|ast|C2
+matinas|maitines||S|ist|C2
+laudes|laudes (laudes)||S|ist|C2
+ladainha|letanía (jaculatoria repetida)||S|cmu|C2
+prédica|predicación (sermón)||S|ist|C2
+vitupério|vituperio (denuesto)||S|cmu|C2
+denostar|denostar||V|cmu|C2
+vilipêndio|vilipendio (ultraje)||S|cmu|C2
+sarau|saráu (velada literaria)||S|sve|C2
+farnel|farneles (avío de camino)||S|ali|C2
+comes-e-bebes|comes y bebes (convite)||S|ali|C2
+libação|libación (brinde solene)||S|ali|C2
+arcabuz|arcabuz (arma de fogo antiga)||S|ist|C2
+arcabuzaria|arcabucería||S|ist|C2
+virote|virote (saeta de ballesta)||S|ist|C2
+pelouro|pelouro (bala de pedra)||S|ist|C2
+colubrina|culebrina||S|ist|C2
+falconete|falconete||S|ist|C2
+pisão|pisón (batán)||S|lav|C2
+aceña|aceña (molino de agua)||S|tec|C2
+atafona|atahona (molino de mano)||S|tec|C2
+pregão|pregón (voz de calle)||S|cmp|C2
+pregoeiro|pregonero||S|pro|C2
+telheiro|tejarejo (cobertizo)||S|tec|C2
+gulodice|golosina (gollería)||S|ali|C2
+doces conventuais|dulces conventuales||S|ali|C2
+criadagem|criadumbre (servidumbre)||S|cas|C2
+aia|aya (dama de honor)||S|pro|C2
+fraguedo|fraguedo (peñascal)||S|nat|C2
+calhau|guijarro (canto rodado)||S|nat|C2
+varapau|varapalo||S|lav|C2
+silvo|silbo (toque de llamada)||S|nat|C2
+espineta|espineta (clavecín pequeño)||S|mus|C2
+clavicórdio|clavicordio||S|mus|C2

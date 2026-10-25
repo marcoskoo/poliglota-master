@@ -1,0 +1,40 @@
+faire la bise|dar dos besos||L|sal|A2
+arbre généalogique|árbol genealógico||S|fam|A2
+trousse à outils|caja de herramientas||S|cas|A2
+cabillaud|bacalao||S|ali|A2
+jaune d'oeuf|yema de huevo||S|ali|A2
+oeuf dur|huevo duro||S|ali|A2
+film plastique|film transparente||S|cmp|A2
+chambre simple|habitación individual||S|htl|A2
+crème hydratante|crema hidratante||S|sla|A2
+photocopieuse|fotocopiadora||S|lav|A2
+taille-crayon|sacapuntas||S|lav|A2
+école primaire|colegio de primaria||S|stu|A2
+salle de classe|aula||S|stu|A2
+manuel scolaire|libro de texto||S|stu|A2
+sens interdit|dirección prohibida||S|cit|A2
+il fait frais|hace fresco||E|cli|A2
+blouson|cazadora||S|rop|A2
+boîte de réception|bandeja de entrada||S|tec|A2
+équitation|equitación||S|spt|A2
+gardien de but|portero||S|spt|A2
+donner rendez-vous|quedar con alguien||L|rel|A2
+compte courant|cuenta corriente||S|fin|A2
+faire un virement|hacer una transferencia||L|fin|A2
+carafe d'eau|jarra de agua||S|ris|A2
+à pois|de lunares||L|col|A2
+rayé|rayado||A|col|A2
+poussin|pollito||S|ani|A2
+taureau|toro||S|ani|A2
+bourdon|abejorro||S|ani|A2
+libellule|libélula||S|ani|A2
+étoile de mer|estrella de mar||S|nat|A2
+quart d'heure|cuarto de hora||S|tmp|A2
+coucher du soleil|atardecer||S|tmp|A2
+fête des mères|día de la madre||S|tmp|A2
+gâteau d'anniversaire|tarta de cumpleaños||S|sve|A2
+ballon de baudruche|globo||S|sve|A2
+repas de famille|comida familiar||S|sve|A2
+être fier de|estar orgulloso de||L|emo|A2
+appel manqué|llamada perdida||S|cmu|A2
+crayon de couleur|lápiz de color||S|art|A2

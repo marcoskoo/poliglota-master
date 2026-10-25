@@ -1,0 +1,121 @@
+resserrement monétaire|endurecimiento monetario||L|fin|C1
+déficit primaire|déficit primario||L|fin|C1
+monnaie fiduciaire|dinero fiduciario||L|fin|C1
+change flottant|cambio flotante||L|fin|C1
+parité de pouvoir d'achat|paridad de poder adquisitivo||L|fin|C1
+créance subordonnée|deuda subordinada||L|fin|C1
+défaut souverain|impago soberano||L|fin|C1
+cible d'inflation|objetivo de inflación||L|fin|C1
+ancrage des anticipations|anclaje de las expectativas||L|fin|C1
+réserve obligatoire|coeficiente de caja||L|fin|C1
+zone monétaire optimale|zona monetaria óptima||L|fin|C1
+surchauffe économique|sobrecalentamiento económico||L|fin|C1
+relance budgétaire|estímulo fiscal||L|fin|C1
+rendement actuariel|rentabilidad efectiva||L|fin|C1
+rétorsion commerciale|represalia comercial||L|fin|C1
+fret aérien|flete aéreo||L|tra|C1
+règle d'origine|norma de origen||L|fin|C1
+embarguer|embargar||V|fin|C1
+geler des avoirs|congelar activos||L|fin|C1
+dotation aux amortissements|dotación a la amortización||L|fin|C1
+actif incorporel|activo intangible||L|fin|C1
+valeur nette comptable|valor neto contable||L|fin|C1
+écriture de régularisation|asiento de regularización||L|fin|C1
+pièce justificative|justificante contable||L|fin|C1
+provision pour risques|provisión para riesgos||L|fin|C1
+bilan consolidé|balance consolidado||L|fin|C1
+certification des comptes|certificación de las cuentas||L|fin|C1
+seuil de matérialité|umbral de importancia relativa||L|fin|C1
+immobilisation corporelle|inmovilizado material||L|fin|C1
+dépréciation d'actif|deterioro de activo||L|fin|C1
+inventaire permanent|inventario permanente||L|fin|C1
+gestion indicielle|gestión indexada||L|fin|C1
+liquidité du marché|liquidez del mercado||L|fin|C1
+profondeur de marché|profundidad de mercado||L|fin|C1
+position vendeuse|posición corta||L|fin|C1
+couverture dynamique|cobertura dinámica||L|fin|C1
+débouché commercial|salida comercial||S|fin|C1
+portefeuille froid|cartera fría (sin conexión)||L|tec|C1
+actif numérique|activo digital||L|fin|C1
+passerelle de paiement|pasarela de pago||L|tec|C1
+agrégateur bancaire|agregador bancario||S|tec|C1
+paiement instantané|pago instantáneo||L|fin|C1
+authentification forte|autenticación reforzada||L|tec|C1
+recombinaison homologue|recombinación homóloga||L|sci|C1
+mutation somatique|mutación somática||L|sci|C1
+hélicase|hélica (enzima)||S|sci|C1
+transcriptase inverse|transcriptasa inversa||L|sci|C1
+ribozyme|ribozima||S|sci|C1
+cellule souche pluripotente|célula madre pluripotente||L|sci|C1
+reprogrammation cellulaire|reprogramación celular||L|sci|C1
+microfluidique|microfluídica||S|sci|C1
+biocapteur|biosensor||S|tec|C1
+biomimétisme|biomimetismo||S|sci|C1
+mastocyte|mastocito||S|sci|C1
+immunodépression|inmunodepresión||S|sla|C1
+séropositivité|seropositividad||S|sla|C1
+souche virale|cepa viral||L|sci|C1
+foyer d'infection|foco de infección||L|sla|C1
+traçage des contacts|rastreo de contactos||L|sla|C1
+étude cas-témoin|estudio de casos y controles||L|sci|C1
+valeur prédictive|valor predictivo||L|sci|C1
+gaine de myéline|vaina de mielina||L|sci|C1
+neuromodulateur|neuromodulador||S|sci|C1
+fente synaptique|hendidura sináptica||L|sci|C1
+prosopagnosie|prosopagnosia||S|sci|C1
+synesthésie|sinestesia||S|sci|C1
+corps calleux|cuerpo calloso||L|cor|C1
+tronc cérébral|tronco encefálico||L|cor|C1
+gyrus|circunvolución cerebral||S|cor|C1
+sillon central|surco central||L|cor|C1
+amygdale cérébrale|amígdala cerebral||L|cor|C1
+liaison hydrogène|puente de hidrógeno||L|sci|C1
+lanthanide|lantánido||S|sci|C1
+actinide|actínido||S|sci|C1
+cinétique chimique|cinética química||L|sci|C1
+azoture|azida||S|sci|C1
+hydrure|hidruro||S|sci|C1
+acide carboxylique|ácido carboxílico||L|sci|C1
+vide quantique|vacío cuántico||L|sci|C1
+principe d'exclusion|principio de exclusión||L|sci|C1
+rayonnement cosmique|radiación cósmica||L|sci|C1
+naine rouge|enana roja||L|sci|C1
+magnétar|magnétar||S|sci|C1
+périhélie|perihelio||S|sci|C1
+aphélie|afelio||S|sci|C1
+exosphère|exosfera||S|sci|C1
+héliopause|heliopausa||S|sci|C1
+éjection de masse coronale|eyección de masa coronal||L|sci|C1
+voûte céleste|bóveda celeste||L|nat|C1
+magnitude absolue|magnitud absoluta||L|sci|C1
+céphéide|cefeida (estrella variable)||S|sci|C1
+excentricité orbitale|excentricidad orbital||L|sci|C1
+corrélation spurieuse|correlación espuria||L|sci|C1
+test d'hypothèse|contraste de hipótesis||L|sci|C1
+réplication d'une étude|réplica de un estudio||L|sci|C1
+isomorphisme|isomorfismo||S|sci|C1
+démonstration par l'absurde|demostración por el absurdo||L|sci|C1
+borne supérieure|cota superior||L|sci|C1
+probabilité conditionnelle|probabilidad condicional||L|sci|C1
+intégrale impropre|integral impropia||L|sci|C1
+apagogie|reducción al absurdo||S|sci|C1
+raisonnement par récurrence|razonamiento por inducción||L|sci|C1
+surjection|sobreyección||S|sci|C1
+continuum|continuo||S|sci|C1
+axiome du choix|axioma de elección||L|sci|C1
+anneau commutatif|anillo conmutativo||L|sci|C1
+sédimentologie|sedimentología||S|sci|C1
+gneiss|gneis||S|nat|C1
+rhyolite|riolita||S|nat|C1
+stalagmite|estalagmita||S|nat|C1
+carotte sédimentaire|testigo de sondeo||L|sci|C1
+ophiolite|ofiolita||S|nat|C1
+turbidite|turbidita||S|sci|C1
+latérite|laterita||S|nat|C1
+anomalie de température|anomalía térmica||L|sci|C1
+dendroclimatologie|dendroclimatología||S|sci|C1
+neutralité carbone|neutralidad en carbono||L|sci|C1
+recul du trait de côte|retroceso de la línea de costa||L|nat|C1
+bathyscaphe|batiscafo||S|sci|C1
+gyre océanique|giro oceánico||L|sci|C1
+fosse abyssale|fosa abisal||L|nat|C1

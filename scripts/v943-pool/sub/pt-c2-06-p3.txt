@@ -1,0 +1,92 @@
+folguedo|regocijo (juego festivo)||S|sve|C2
+doirar|dorar||V|let|C2
+à míngua|en mengua||E|ast|C2
+loa|loa (elogio)||S|cmu|C2
+arremedo|remedo (imitación)||S|let|C2
+chancelar|rubricar (refrendar)||V|cmu|C2
+motejar|motejar (burlar)||V|cmu|C2
+apostrofar|apostrofar (interpelar)||V|cmu|C2
+data venia|data venia||L|cmu|C2
+nota bene|nota bene||L|stu|C2
+ad kalendas graecas|para las calendas griegas||L|ast|C2
+psicogénese|psicogénesis||S|sci|C2
+validade preditiva|validez predictiva||E|stu|C2
+sociograma|sociograma||S|stu|C2
+catártico|catártico||A|sla|C2
+sugestionável|sugestionable||A|sla|C2
+psicodrama|psicodrama||S|sla|C2
+impecilho|estorbo (impedimento)||S|ast|C2
+omnicanal|omnicanal||A|tec|C2
+comprador misterioso|cliente misterioso||E|pro|C2
+canibalização de vendas|canibalización de ventas||E|fin|C2
+lote piloto|lote piloto||E|lav|C2
+arrematação|remate (judicial)||S|ist|C2
+jurisprudencial|jurisprudencial||A|ist|C2
+nosológico|nosológico||A|sla|C2
+lesional|lesional||A|sla|C2
+escara|escara||S|sla|C2
+caldeiraria|calderería||S|tec|C2
+trefilação|trefilado (estirado)||S|tec|C2
+tubagem|tubería||S|tec|C2
+mandrilagem|mandrinado||S|tec|C2
+provas públicas|oposiciones públicas||E|stu|C2
+plagiário|plagiario||S|stu|C2
+reliquiário|relicario||S|art|C2
+maridagem|maridaje||S|ali|C2
+suculência|suculencia||S|ali|C2
+tertúlia|tertulia||S|sve|C2
+conviva|comensal||S|ris|C2
+apadrinhamento|apadrinamiento||S|rel|C2
+desconvite|desconvite (revocación de invitación)||S|cmu|C2
+treino intervalado|entrenamiento por intervalos||E|spt|C2
+ergómetro|ergómetro||S|spt|C2
+mastim|mastín||S|ani|C2
+podengo|podenco||S|ani|C2
+bárico|bárico (relativo a la presión)||A|sci|C2
+modelação numérica|modelización numérica||E|sci|C2
+efemérides astronómicas|efemérides astronómicas||E|sci|C2
+borrasca|borrasca||S|nat|C2
+que digamos|que digamos (atenuante)||E|cnn|C2
+a rigor|en rigor||E|cnn|C2
+sem mais|sin más dilación||E|cnn|C2
+não fora|no fuera por (si no hubiera sido por)||E|cnn|C2
+arranjo urbanístico|adecuación urbanística||E|cit|C2
+centralidade urbana|centralidad urbana||E|cit|C2
+artrodese|artrodesis||S|sla|C2
+ortóptica|ortóptica (ejercicios oculares)||S|sla|C2
+acordo de dupla tributação|convenio de doble imposición||E|fin|C2
+hipotecação|hipotecación||S|fin|C2
+reserva fracionária|encaje fraccionario||E|fin|C2
+valor de resgate|valor de rescate (de la póliza)||E|fin|C2
+servidão da dívida|servidumbre de la deuda||E|fin|C2
+ajuda ligada|ayuda ligada||E|fin|C2
+padrão primário|patrón primario (química)||E|sci|C2
+dessecação|deshidratación||S|sci|C2
+encruamento|estricción (endurecimiento)||S|sci|C2
+macla|macla||S|sci|C2
+aerossol estratosférico|aerosol estratosférico||E|sci|C2
+biostratigrafia|bioestratigrafía||S|sci|C2
+fóssil índice|fósil índice||E|sci|C2
+quiescência|quiescencia||S|sci|C2
+adsorção|adsorción||S|sci|C2
+isócora|isócora||S|sci|C2
+toante|asonante (verso)||A|let|C2
+direito da concorrência|derecho de la competencia||E|ist|C2
+rendimento social de inserção|renta de inserción social||E|ist|C2
+marfaria|marfilería||S|art|C2
+carga de combustível|carga de combustible||E|nat|C2
+desabusado|desencantado||A|ast|C2
+remisso|remiso (omiso)||A|ast|C2
+arrazoar|argumentar||V|cmu|C2
+alcofa|capazo (cesta)||S|cas|C2
+adarga|adarga (escudo moruno)||S|ist|C2
+ipsis litteris|ipsis litteris||L|cmu|C2
+jurisdicional|jurisdiccional||A|ist|C2
+etiológico|etiológico||A|sla|C2
+acufeno|acúfeno||S|sla|C2
+ressegurador|reasegurador||S|pro|C2
+condicionalismo|condicionamiento||S|fin|C2
+vagaroso|paulatino||A|ast|C2
+cortiço|corrala||S|cit|C2
+cautelar|cautelar (medida provisional)||A|ist|C2
+ajardinamento|ajardinamiento||S|cit|C2

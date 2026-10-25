@@ -1,0 +1,214 @@
+arrière-petit-fils|bisnieto||S|fam|B2
+droit de visite|derecho de visitas||S|fam|B2
+enfant gâté|niño consentido||S|fam|B2
+chahut|jaleo||S|fam|B2
+courtiser|cortear||V|rel|B2
+union libre|unión libre||S|rel|B2
+conjoints|cónyuges||S|rel|B2
+vie de couple|vida en pareja||S|rel|B2
+chagrin d'amour|desamor||S|rel|B2
+peine de cœur|pena de amor||S|rel|B2
+adultère|adulterio||S|rel|B2
+maîtresse|amante (mujer)||S|rel|B2
+raviver la flamme|reavivar la llama||E|rel|B2
+amor-propre|amor propio||S|rel|B2
+blessure d'amour-propre|herida de amor propio||S|rel|B2
+chamaillerie|pelea juguetona||S|rel|B2
+se chamailler|pelearse jugando||V|rel|B2
+tendresse|ternura||S|rel|B2
+passer à autre chose|pasar página||E|rel|B2
+guérir de|recuperarse de||V|rel|B2
+engagement associatif|implicación asociativa||S|rel|B2
+sans but lucratif|sin ánimo de lucro||E|rel|B2
+financement participatif|financiación colectiva||S|fin|B2
+cagnotte en ligne|hucha online||S|tec|B2
+générosité|generosidad||S|rel|B2
+lien social|cohesión social||S|cit|B2
+solitude|soledad||S|rel|B2
+précaire|precario||A|rel|B2
+personne dépendante|persona dependiente||S|rel|B2
+auxiliaire de vie|asistente personal||S|pro|B2
+téléassistance|teleasistencia||S|sla|B2
+gériatrie|geriatría||S|sla|B2
+piston|palanca||S|lav|B2
+propos déplacés|comentarios desplazados||S|lav|B2
+révision du loyer|revisión del alquiler||S|cas|B2
+caution solidaire|aval solidario||S|cas|B2
+sous-location|subarriendo||S|cas|B2
+sous-louer|subarrendar||V|cas|B2
+entreprise de déménagement|empresa de mudanzas||S|cas|B2
+monte-meuble|elevador de mudanzas||S|cas|B2
+papier bulle|papel de burbujas||S|cas|B2
+ragréage|nivelación del suelo||S|cas|B2
+chape de béton|capa de hormigón||S|cas|B2
+isolant thermique|aislante térmico||S|cas|B2
+laine de roche|lana de roca||S|cas|B2
+volet roulant|persiana enrollable||S|cas|B2
+moustiquaire|mosquitera||S|cas|B2
+gouttière|canalón||S|cas|B2
+tuile|teja||S|cas|B2
+soupirail|ventanuco de sótano||S|cas|B2
+rampe d'escalier|barandilla de la escalera||S|cas|B2
+moulure|moldura||S|cas|B2
+lambris|chapa de madera decorativa||S|cas|B2
+vaisselier|aparador de vajillas||S|cas|B2
+chiffonnier|cómoda alta||S|cas|B2
+causeuse|sofá de dos plazas||S|cas|B2
+table extensible|mesa extensible||S|cas|B2
+lit superposé|litera||S|cas|B2
+tringle à rideau|barra de cortina||S|cas|B2
+embrasse|sujeta cortinas||S|cas|B2
+housse de couette|funda nórdica||S|cas|B2
+traversin|almohada cilíndrica||S|cas|B2
+matelas à mémoire de forme|colchón viscoelástico||S|cas|B2
+bouillotte|bolsa de agua caliente||S|cas|B2
+veilleuse|lamparita nocturna||S|cas|B2
+applique murale|aplique de pared||S|cas|B2
+spot encastré|foco empotrado||S|cas|B2
+lustre|araña de techo||S|cas|B2
+guirlande lumineuse|guirnalda de luces||S|cas|B2
+serre-livres|paralibros||S|cas|B2
+vide-poche|bandeja de las llaves||S|cas|B2
+patère|perchero||S|cas|B2
+porte-manteau|percha de pared||S|cas|B2
+syndic de copropriété|administrador de fincas||S|cas|B2
+conseil syndical|junta de la comunidad||S|cas|B2
+règlement de copropriété|estatutos de la comunidad||S|cas|B2
+charges de copropriété|gastos de comunidad||S|cas|B2
+interphone|porterizo||S|cas|B2
+portail|portal||S|cas|B2
+abri de jardin|caseta de jardín||S|cas|B2
+tondeuse à gazon|cortacésped||S|cas|B2
+taille-haie|cortasetos||S|cas|B2
+pergola|pérgola||S|cas|B2
+réfection de toiture|reparación del tejado||S|cas|B2
+dégât des eaux|daño por agua||S|cas|B2
+chauffe-eau|calentador de agua||S|cas|B2
+thermostat|termostato||S|cas|B2
+raccordement|conexión a la red||S|cas|B2
+tuyauterie|tuberías||S|cas|B2
+robinetterie|grifería||S|cas|B2
+mitigeur|grifo monomando||S|cas|B2
+siphon|sifón||S|cas|B2
+égout|alcantarilla||S|cit|B2
+tout-à-l'égout|red de alcantarillado||S|cit|B2
+fosse septique|fosa séptica||S|cit|B2
+isolation phonique|aislamiento acústico||S|cas|B2
+déperdition thermique|pérdida térmica||S|cas|B2
+passoire thermique|chabola energética||S|cit|B2
+diagnostic de performance énergétique|certificado de eficiencia energética||S|cas|B2
+pompe à chaleur|bomba de calor||S|cas|B2
+heure creuse|hora valle||S|cas|B2
+heure pleine|hora punta||S|cas|B2
+certificat de conformité|certificado de conformidad||S|cas|B2
+levée des réserves|subsanación de defectos||S|cas|B2
+promoteur immobilier|promotor inmobiliario||S|pro|B2
+programme immobilier|promoción inmobiliaria||S|cas|B2
+vente sur plan|compra sobre plano||S|cas|B2
+appartement témoin|vivienda piloto||S|cas|B2
+clé en main|llave en mano||E|cas|B2
+promesse de vente|promesa de compraventa||S|fin|B2
+clauses suspensives|cláusulas condicionantes||S|fin|B2
+maraîcher|hortelano||S|pro|B2
+potager|huerto||S|cas|B2
+primeurs|frutas y verduras de temporada||S|ali|B2
+châtaigne|castaña||S|ali|B2
+marron glacé|marrón glaseado||S|ali|B2
+dragée|almendra confitada||S|ali|B2
+praliné|pralinado||S|ali|B2
+caramel au beurre salé|caramelo de mantequilla salada||S|ali|B2
+île flottante|flan de merengue flotante||S|ali|B2
+farine complète|harina integral||S|ali|B2
+galette de sarrasin|crepe de trigo sarraceno||S|ali|B2
+sirop d'érable|sirope de arce||S|ali|B2
+spiruline|espirulina||S|ali|B2
+seigle|centeno||S|ali|B2
+avoine|avena||S|ali|B2
+lentilles corail|lentejas coral||S|ali|B2
+pois cassés|guisantes partidos||S|ali|B2
+pois chiches|garbanzos||S|ali|B2
+flageolets|judías tiernas||S|ali|B2
+topinambour|aguaturma||S|ali|B2
+rutabaga|colinabo||S|ali|B2
+panais|chirivía||S|ali|B2
+cerfeuil|perifollo||S|ali|B2
+estragon|estragón||S|ali|B2
+sauge|salvia||S|ali|B2
+mélisse|melisa||S|ali|B2
+verveine|hierba luisa||S|ali|B2
+sarriette|ajedrea||S|ali|B2
+raifort|rábano picante||S|ali|B2
+cèpe|boleto||S|ali|B2
+girolle|rebozuelo||S|ali|B2
+morille|colmenilla||S|ali|B2
+jus de veau|fondo de ternera||S|ris|B2
+papillote|papelina||S|ris|B2
+mijoteuse|olla de cocción lenta||S|ris|B2
+autocuiseur|olla exprés||S|ris|B2
+lier une sauce|ligar una salsa||E|ris|B2
+saumure|salmuera||S|ris|B2
+magret de canard|magret de pato||S|ris|B2
+gésiers|mollejas||S|ris|B2
+abats|casquería||S|ris|B2
+abattis|despojos de ave||S|ris|B2
+cuisses de grenouille|ancas de rana||S|ris|B2
+tian|verduras asadas al horno||S|ris|B2
+civet|estofado al vino tinto||S|ris|B2
+blanquette|blanqueta de ternera||S|ris|B2
+potée|cocido de legumbres||S|ris|B2
+navarin de mouton|estofado de cordero||S|ris|B2
+piperade|piperrada||S|ris|B2
+croque-madame|tostada de jamón huevo y queso||S|ris|B2
+jambon-beurre|bocadillo de jamón y mantequilla||S|ris|B2
+chapelure|pan rallado||S|ris|B2
+beurre noisette|mantequilla avellana||S|ris|B2
+crème fleurette|nata líquida para montar||S|ris|B2
+faisselle|requesón escurrido||S|ris|B2
+tomme|queso tomme||S|ris|B2
+arrière-goût|regusto||S|ris|B2
+fondant au chocolat|bizcocho fundente de chocolate||S|ris|B2
+moelleux au chocolat|bizcocho líquido de chocolate||S|ris|B2
+saignant|poco hecho||A|ris|B2
+cuisson à point|cocción en su punto||S|ris|B2
+assiette copieuse|plato abundante||S|ris|B2
+brigade de cuisine|brigada de cocina||S|ris|B2
+commis de cuisine|ayudante de cocina||S|pro|B2
+plongeur|fregaplatos||S|pro|B2
+formule du midi|menú del mediodía||S|ris|B2
+menu du marché|menú del mercado||S|ris|B2
+carte des desserts|carta de postres||S|ris|B2
+service en salle|servicio en sala||S|ris|B2
+date limite de consommation|fecha de consumo preferente||S|ali|B2
+invendus|productos no vendidos||S|ali|B2
+bouteille consignée|botella con depósito||S|ali|B2
+plastique à usage unique|plástico de un solo uso||S|nat|B2
+lingette|toallita||S|nat|B2
+adoucissant|suavizante||S|cas|B2
+vendangeur|vendimiador||S|pro|B2
+taille de la vigne|poda de la vid||S|nat|B2
+cep de vigne|cepa||S|nat|B2
+sarment|sarmiento||S|nat|B2
+treille|parra||S|nat|B2
+pressoir|lagar||S|pro|B2
+éraflage|despalillado||S|ali|B2
+moût|mosto||S|ali|B2
+cuvaison|maceración||S|ali|B2
+élevage en fût|crianza en barrica||S|ali|B2
+fût de chêne|barrica de roble||S|ali|B2
+appellation d'origine contrôlée|denominación de origen||S|ali|B2
+houblon|lúpulo||S|ali|B2
+orge|cebada||S|ali|B2
+vin doux naturel|vino dulce natural||S|ali|B2
+sans sulfites|sin sulfitos||A|ali|B2
+pétillant|espumoso||A|ali|B2
+astringence|astringencia||S|ali|B2
+verre à pied|copa||S|ris|B2
+café noisette|café con un chorrito de leche||S|ris|B2
+café gourmand|café con mini postres||S|ris|B2
+cafetière à piston|cafetera de émbolo||S|ris|B2
+percolateur|cafetera profesional||S|ris|B2
+dosette|cápsula||S|ris|B2
+mouture|molienda||S|ris|B2
+thé vert|té verde||S|ris|B2
+truffe noire|trufa negra||S|ris|B2
+foie gras|hígado graso||S|ris|B2

@@ -1,0 +1,102 @@
+demi-sœur|hermanastra||S|fam|B2
+filleul|ahijado||S|fam|B2
+désobéissance|desobediencia||S|fam|B2
+lever la voix|levantar la voz||E|fam|B2
+enfant unique|hijo único||S|fam|B2
+carton de déménagement|caja de mudanza||S|cas|B2
+camion de déménagement|camión de mudanzas||S|cas|B2
+charges locatives|gastos de la comunidad||S|cas|B2
+emménagement|entrada en la nueva vivienda||S|cas|B2
+plaquiste|yesero||S|cas|B2
+parquet flottant|suelo laminado||S|cas|B2
+tête de lit|cabecero||S|cas|B2
+voilage|visillo||S|cas|B2
+ravalement de façade|revoque de fachada||S|cas|B2
+spécialité régionale|especialidad regional||S|ali|B2
+art de la table|arte de la mesa||S|ali|B2
+rissoler|dorar en la sartén||V|ali|B2
+repas de fête|comida de fiesta||S|ali|B2
+fromage affiné|queso curado||S|ali|B2
+intolérance alimentaire|intolerancia alimentaria||S|ali|B2
+maladie cœliaque|enfermedad celíaca||S|ali|B2
+végétarisme|vegetarianismo||S|ali|B2
+fibres|fibra||S|ali|B2
+trouble alimentaire|trastorno alimentario||S|ali|B2
+anorexie|anorexia||S|ali|B2
+rassasier|saciar||V|ali|B2
+mélange d'épices|mezcla de especias||S|ali|B2
+rouleau de printemps|rollito de primavera||S|ali|B2
+beignet|buñuelo||S|ali|B2
+fond de volaille|fondo de pollo||S|ali|B2
+coriandre|cilantro||S|ali|B2
+anis étoilé|anís estrellado||S|ali|B2
+citronnelle|hierba limón||S|ali|B2
+chai|bodega de elaboración||S|ali|B2
+barrique|barrica||S|ali|B2
+torréfacteur|tostador de café||S|ali|B2
+moulin à café|molinillo de café||S|ali|B2
+spot publicitaire|anuncio publicitario||S|cmp|B2
+gamme de produits|gama de productos||S|cmp|B2
+lancement de produit|lanzamiento de producto||S|cmp|B2
+segment de marché|segmento de mercado||S|cmp|B2
+étude de marché|estudio de mercado||S|cmp|B2
+prospectus|prospecto publicitario||S|cmp|B2
+surconsommation|sobreconsumo||S|cmp|B2
+numéro vert|teléfono gratuito de atención||S|cmp|B2
+client mécontent|cliente insatisfecho||S|cmp|B2
+article endommagé|artículo dañado||S|cmp|B2
+bon de livraison|albarán de entrega||S|cmp|B2
+panier d'achat|carrito de compra||S|cmp|B2
+bordereau d'expédition|resguardo de envío||S|cmp|B2
+expéditeur|remitente||S|cmp|B2
+confirmation de commande|confirmación del pedido||S|cmp|B2
+batterie à plat|batería descargada||S|tra|B2
+plaquette de frein|pastilla de freno||S|tra|B2
+phare antibrouillard|faro antiniebla||S|tra|B2
+couloir de bus|carril bus||S|tra|B2
+péage urbain|peaje urbano||S|tra|B2
+abonnement annuel|abono anual||S|tra|B2
+fréquence de passage|frecuencia de paso||S|tra|B2
+train de banlieue|tren de cercanías||S|tra|B2
+trolleybus|trolebús||S|tra|B2
+défraiement|dietas||S|vig|B2
+classe affaires|clase ejecutiva||S|vig|B2
+correspondance manquée|escala perdida||S|vig|B2
+vol annulé|vuelo cancelado||S|vig|B2
+vol retardé|vuelo retrasado||S|vig|B2
+bagage enregistré|equipaje facturado||S|vig|B2
+assistance rapatriement|asistencia de repatriación||S|vig|B2
+escale technique|escala técnica||S|vig|B2
+valise égarée|maleta extraviada||S|vig|B2
+passeport biométrique|pasaporte biométrico||S|vig|B2
+visa de long séjour|visado de larga duración||S|vig|B2
+carte de séjour|tarjeta de residencia||S|vig|B2
+demande d'asile|solicitud de asilo||S|vig|B2
+frontière extérieure|frontera exterior||S|vig|B2
+justificatif d'hébergement|justificante de alojamiento||S|vig|B2
+attestation d'accueil|certificado de acogida||S|vig|B2
+traduction assermentée|traducción jurada||S|vig|B2
+tampon d'entrée|sello de entrada||S|vig|B2
+formalité d'entrée|trámite de entrada||S|vig|B2
+gîte rural|casa rural de alquiler||S|htl|B2
+établissement classé|establecimiento clasificado||S|htl|B2
+petit-déjeuner inclus|desayuno incluido||S|htl|B2
+hébergement insolite|alojamiento singular||S|htl|B2
+saison touristique|temporada turística||S|htl|B2
+campagne de dépistage|campaña de cribado||S|sla|B2
+dose de rappel|dosis de recuerdo||S|sla|B2
+glycémie|glucemia||S|sla|B2
+alcoolisme|alcoholismo||S|sla|B2
+mode de vie sain|estilo de vida sano||S|sla|B2
+sécurité sociale|seguridad social||S|sla|B2
+ticket modérateur|copago||S|sla|B2
+pharmacie de garde|farmacia de guardia||S|sla|B2
+prothèse dentaire|prótesis dental||S|sla|B2
+sophrologie|sofrología||S|sla|B2
+trouble anxieux|trastorno de ansiedad||S|sla|B2
+déprime|bajón anímico||S|sla|B2
+gérer le stress|gestionar el estrés||E|sla|B2
+pensées négatives|pensamientos negativos||S|sla|B2
+psychothérapie|psicoterapia||S|sla|B2
+santé mentale|salud mental||S|sla|B2
+exercice de respiration|ejercicio de respiración||S|sla|B2

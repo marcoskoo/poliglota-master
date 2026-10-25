@@ -1,0 +1,61 @@
+séparation à l'amiable|separación de mutuo acuerdo||S|rel|B2
+divorce à l'amiable|divorcio de mutuo acuerdo||S|rel|B2
+s'engueuler|montar una bronca||V|rel|B2
+se vexer|ofenderse||V|rel|B2
+milieu défavorisé|entorno desfavorecido||S|rel|B2
+revenus fonciers|rendimientos inmobiliarios||S|fin|B2
+prime d'activité|ingreso mínimo complementario||S|fin|B2
+prêt à la consommation|préstamo al consumo||S|fin|B2
+emprunteur|prestatario||S|fin|B2
+tableau d'amortissement|cuadro de amortización||S|fin|B2
+période de différé|carencia del préstamo||S|fin|B2
+insolvable|insolvente||A|fin|B2
+portefeuille d'actions|cartera de valores||S|fin|B2
+coter|cotizar en bolsa||V|fin|B2
+profil d'investisseur|perfil de inversor||S|fin|B2
+retraite anticipée|jubilación anticipada||S|fin|B2
+pension de réversion|pensión de viudedad||S|fin|B2
+taux de remplacement|tasa de sustitución||S|fin|B2
+surcote|bonificación por retrasar la jubilación||S|fin|B2
+fin de carrière|final de la vida laboral||S|fin|B2
+agence bancaire|sucursal bancaria||S|fin|B2
+cuisine raffinée|cocina refinada||S|ris|B2
+dressage de l'assiette|emplatado||S|ris|B2
+plat signature|plato estrella||S|ris|B2
+bouche-à-oreille|boca a boca||S|ris|B2
+juriste d'entreprise|asesor jurídico de empresa||S|pro|B2
+gestionnaire de patrimoine|gestor de patrimonios||S|pro|B2
+cadre dirigeant|directivo||S|pro|B2
+chargé de projet|responsable de proyecto||S|pro|B2
+technicien de maintenance|técnico de mantenimiento||S|pro|B2
+métreur|medidor de obras||S|pro|B2
+ajusteur|ajustador||S|pro|B2
+schéma technique|esquema técnico||S|pro|B2
+essai de résistance|prueba de resistencia||S|pro|B2
+gynécologue|ginecólogo||S|pro|B2
+dermatologue|dermatólogo||S|pro|B2
+radiologue|radiólogo||S|pro|B2
+éducateur spécialisé|educador social||S|pro|B2
+directeur artistique|director de arte||S|pro|B2
+preneur de son|técnico de sonido||S|pro|B2
+maquilleur|maquillador||S|pro|B2
+actualité politique|actualidad política||S|att|B2
+formation politique|partido político||S|att|B2
+débat télévisé|debate televisado||S|att|B2
+commission parlementaire|comisión parlamentaria||S|att|B2
+croissance économique|crecimiento económico||S|att|B2
+taux de chômage|tasa de paro||S|att|B2
+dette publique|deuda pública||S|att|B2
+extinction des espèces|extinción de especies||S|nat|B2
+gaz de schiste|gas de esquisto||S|nat|B2
+démarche scientifique|método científico||S|sci|B2
+protocole expérimental|protocolo experimental||S|sci|B2
+publication scientifique|publicación científica||S|sci|B2
+recherche fondamentale|investigación básica||S|sci|B2
+thèse de doctorat|tesis doctoral||S|sci|B2
+oxydation|oxidación||S|sci|B2
+chaîne alimentaire|cadena alimentaria||S|sci|B2
+patrimoine génétique|patrimonio genético||S|sci|B2
+composé chimique|compuesto químico||S|sci|B2
+attraction gravitationnelle|atracción gravitatoria||S|sci|B2
+fission nucléaire|fisión nuclear||S|sci|B2

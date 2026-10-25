@@ -1,0 +1,143 @@
+usufruitier|usufructuario||S|ist|C1
+sauvegarde de justice|salvaguardia judicial||L|ist|C1
+hypothèque légale|hipoteca legal||L|ist|C1
+péremption d'instance|caducidad de la instancia||L|ist|C1
+dilatoire|dilatorio||A|ist|C1
+inexécution|incumplimiento contractual||S|ist|C1
+garantie d'éviction|garantía por evicción||L|ist|C1
+résiliation unilatérale|resolución unilateral||L|ist|C1
+licite|lícito||A|ist|C1
+salle des pas perdus|vestíbulo del palacio de justicia||L|ist|C1
+récusation|recusación||S|ist|C1
+dispositif d'un arrêt|parte dispositiva de la sentencia||L|ist|C1
+chambre de l'instruction|sala de instrucción||L|ist|C1
+arrêt de principe|sentencia de doctrina asentada||L|ist|C1
+déféré gracieux|remisión graciosa||L|ist|C1
+décret en conseil d'État|decreto acordado en Consejo de Estado||L|ist|C1
+jurisprudence constante|jurisprudencia reiterada||L|ist|C1
+cavalier législatif|jinete legislativo||L|ist|C1
+loi d'habilitation|ley de habilitación||L|ist|C1
+minute notariale|matriz notarial||L|ist|C1
+cadastrer|catastrar||V|ist|C1
+livre foncier|registro de la propiedad||L|ist|C1
+droit de mutation|impuesto de transmisiones||L|ist|C1
+indignité successorale|indignidad sucesoria||L|ist|C1
+rapport successoral|colación hereditaria||L|ist|C1
+fouille corporelle|registro corporal||L|ist|C1
+permission de sortir|permiso penitenciario||L|ist|C1
+grâce présidentielle|indulto presidencial||L|ist|C1
+amnistier|amnistiar||V|ist|C1
+dangerosité|peligrosidad||S|ist|C1
+traité-cadre|tratado marco||S|ist|C1
+immunité juridictionnelle|inmunidad jurisdiccional||L|ist|C1
+participations croisées|participaciones cruzadas||L|fin|C1
+grève reconductible|huelga renovable||L|lav|C1
+syndicat patronal|sindicato patronal||L|lav|C1
+caution solidaire|aval solidario||L|fin|C1
+saisie des rémunérations|embargo de salarios||L|ist|C1
+arrêté de protection de biotope|orden de protección del biotopo||L|nat|C1
+liste rouge|lista roja (de especies amenazadas)||L|nat|C1
+trame verte et bleue|red ecológica territorial||L|nat|C1
+fragmentation des habitats|fragmentación de hábitats||L|nat|C1
+assolement|rotación de cultivos||S|nat|C1
+épandage|aplicación de fitosanitarios||S|nat|C1
+lessivage des sols|lavado de suelos||L|nat|C1
+pré salé|pradera salina||S|nat|C1
+passe à poissons|escala de peces||L|nat|C1
+dragage|dragado||S|nat|C1
+clapage|vertido de dragados||S|nat|C1
+quota de pêche|cuota pesquera||L|nat|C1
+herbier marin|pradera marina||L|nat|C1
+mangrove|manglar||S|nat|C1
+compte rendu d'hospitalisation|informe de hospitalización||L|sla|C1
+sortie contre avis médical|alta en contra del criterio médico||L|sla|C1
+chambre implantable|reservorio subcutáneo||L|sla|C1
+pose de voie veineuse|canalización de una vía venosa||L|sla|C1
+gavage|alimentación por sonda||S|sla|C1
+hospitalisation à domicile|hospitalización a domicilio||L|sla|C1
+hospitalisation sans consentement|ingreso involuntario||L|sla|C1
+interne des hôpitaux|médico residente||L|pro|C1
+chef de clinique|médico adjunto||L|pro|C1
+praticien hospitalier|médico de plantilla||L|pro|C1
+dossier patient informatisé|historia clínica informatizada||L|sla|C1
+feuille de surveillance|hoja de constantes||L|sla|C1
+régime hydrique|restricción hídrica||L|sla|C1
+ponction veineuse|venopunción||L|sla|C1
+chariot de soins|carro de curas||L|sla|C1
+plan de clivage|plano de clivaje||L|cor|C1
+bistouri électrique|bisturí eléctrico||L|sla|C1
+table d'instruments|mesa de instrumental||L|sla|C1
+compte des compresses|recuento de gasas||L|sla|C1
+aspiration murale|aspiración de pared||L|sla|C1
+stomie|estomía||S|sla|C1
+colostomie|colostomía||S|sla|C1
+thyroidectomie|tiroidectomía||S|sla|C1
+curage ganglionnaire|linfadenectomía||L|sla|C1
+temps opératoire|tiempo quirúrgico||L|sla|C1
+suites opératoires|postoperatorio||L|sla|C1
+pontage coronarien|injerto coronario||L|sla|C1
+extrasystole|extrasístole||S|sla|C1
+péricardite|pericarditis||S|sla|C1
+myocardite|miocarditis||S|sla|C1
+insuffisance mitrale|insuficiencia mitral||L|sla|C1
+athérome|ateroma||S|sla|C1
+plaque d'athérome|placa de ateroma||L|sla|C1
+dissection aortique|disección aórtica||L|sla|C1
+bronchoscopie|broncoscopia||S|sla|C1
+intubation orotrachéale|intubación orotraqueal||L|sla|C1
+bronchectasie|bronquiectasia||S|sla|C1
+crépitants|crepitantes||S|sla|C1
+sibilants|sibilancias||S|sla|C1
+glycémie à jeun|glucemia en ayunas||L|sla|C1
+adénome hypophysaire|adenoma hipofisario||L|sla|C1
+phéochromocytome|feocromocitoma||S|sla|C1
+hyperaldostéronisme|hiperaldosteronismo||S|sla|C1
+ghréline|grelina||S|sla|C1
+bariatrie|bariatría||S|sla|C1
+statine|estatina||S|sla|C1
+clairance|aclaramiento renal||S|sla|C1
+dermite|dermatitis||S|cor|C1
+angioedème|angioedema||S|sla|C1
+furonculose|furonculosis||S|sla|C1
+nævus|nevo||S|cor|C1
+éphélide|efélide||S|cor|C1
+pityriasis|pitiriasis||S|sla|C1
+ichtyose|ictiosis||S|sla|C1
+pemphigus|pénfigo||S|sla|C1
+désensibilisation|desensibilización||S|sla|C1
+pollinose|polinosis||S|sla|C1
+rhinite allergique|rinitis alérgica||L|sla|C1
+thrombopénie|trombopenia||S|sla|C1
+embole tumoral|émbolo tumoral||L|sla|C1
+index de prolifération|índice de proliferación||L|sla|C1
+marges d'exérèse|márgenes de resección||L|sla|C1
+princeps|medicamento original||S|sla|C1
+critère de jugement|criterio de valoración||L|sci|C1
+observance thérapeutique|cumplimiento terapéutico||L|sla|C1
+paraphasie|parafasia||S|sla|C1
+hypnagogique|hipnagógico||A|sla|C1
+cataplexie|cataplejía||S|sla|C1
+persévation|perseveración||S|sla|C1
+trouble panique|trastorno de pánico||L|sla|C1
+kleptomanie|cleptomanía||S|sla|C1
+pyromanie|piromanía||S|sla|C1
+sevrage toxique|deshabituación de drogas||L|sla|C1
+thérapie cognitivo-comportementale|terapia cognitivo-conductual||L|sla|C1
+charlatan|charlatán||S|pro|C1
+accident ischémique transitoire|accidente isquémico transitorio||L|sla|C1
+akinésie|acinesia||S|sla|C1
+dystonie|distonía||S|sla|C1
+polyneuropathie|polineuropatía||S|sla|C1
+myasthénie|miastenia||S|sla|C1
+myopathie|miopatía||S|sla|C1
+dystrophie musculaire|distrofia muscular||L|sla|C1
+liquide céphalorachidien|líquido cefalorraquídeo||S|sla|C1
+mydriase|midriasis||S|cor|C1
+myosis|miosis||S|cor|C1
+spasticité|espasticidad||S|sla|C1
+syndrome cérébelleux|síndrome cerebeloso||L|sla|C1
+nerf crânien|nervio craneal||L|cor|C1
+céphalée en grappe|cefalea en racimos||L|sla|C1
+contention orthopédique|inmovilización ortopédica||L|sla|C1
+kinésithérapie respiratoire|fisioterapia respiratoria||L|sla|C1
+prise en charge ambulatoire|atención ambulatoria||L|sla|C1

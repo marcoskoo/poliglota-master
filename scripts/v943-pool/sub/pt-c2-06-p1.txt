@@ -1,0 +1,43 @@
+perinatologia|perinatología||S|sla|C2
+cinesterapia|cinesiterapia||S|sla|C2
+inquérito epidemiológico|encuesta epidemiológica||E|sla|C2
+engenharia fiscal|ingeniería fiscal||E|fin|C2
+prescrição fiscal|prescripción tributaria||E|fin|C2
+rendimento coletável|renta imponible||E|fin|C2
+tributação progressiva|tributación progresiva||E|fin|C2
+spread bancário|diferencial bancario||E|fin|C2
+agiotagem|usura (préstamo abusivo)||S|fin|C2
+direitos de subscrição|derechos de suscripción||E|fin|C2
+avaliação por múltiplos|valoración por múltiplos||E|fin|C2
+diluição de capital|dilución de capital||E|fin|C2
+elasticidade cruzada|elasticidad cruzada||E|fin|C2
+salvados|salvamentos (restos siniestrados)||S|fin|C2
+reservas técnicas|reservas técnicas||E|fin|C2
+remessas|remesas||S|fin|C2
+endividamento externo|endeudamiento externo||E|fin|C2
+sustentabilidade da dívida|sostenibilidad de la deuda||E|fin|C2
+moratória da dívida|moratoria de la deuda||E|fin|C2
+ensaio em branco|ensayo en blanco||E|sci|C2
+polimorfismo cristalino|polimorfismo cristalino||E|sci|C2
+advecção|advección||S|sci|C2
+tafonomia|tafonomía||S|sci|C2
+icnologia|icnología (pistas fósiles)||S|sci|C2
+paleobotânica|paleobotánica||S|sci|C2
+estratigráfico|estratigráfico||A|sci|C2
+vírus envelopado|virus con envoltura||E|sci|C2
+reservatório viral|reservorio viral||E|sci|C2
+neuroinvasivo|neuroinvasivo||A|sci|C2
+germoplasma|germoplasma||S|sci|C2
+introgressão|introgresión||S|sci|C2
+expressão heteróloga|expresión heteróloga||E|sci|C2
+edição do genoma|edición del genoma||E|sci|C2
+craniotomia|craniotomía||S|sci|C2
+hidrofobicidade|hidrofobicidad||S|sci|C2
+cerâmica técnica|cerámica técnica||E|sci|C2
+funcionalização superficial|funcionalización superficial||E|sci|C2
+pontos quânticos|puntos cuánticos||E|sci|C2
+fotossensível|fotosensible||A|sci|C2
+cénico|escénico||A|art|C2
+glotologia|glotología||S|let|C2
+retroversão|retroversión||S|let|C2
+aforístico|aforístico||A|let|C2

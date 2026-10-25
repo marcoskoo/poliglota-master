@@ -1,0 +1,176 @@
+rastreio oncológico|cribado oncológico||L|sla|B2
+análises ao sangue|análisis de sangre||L|sla|B2
+colesterol elevado|colesterol alto||L|sla|B2
+vacinação obrigatória|vacunación obligatoria||L|sla|B2
+estilo de vida sedentário|estilo de vida sedentario||L|sla|B2
+sono reparador|sueño reparador||L|sla|B2
+privação de sono|privación de sueño||L|sla|B2
+stresse crónico|estrés crónico||L|sla|B2
+sinal de alerta|señal de alarma||L|sla|B2
+sistema nacional de saúde|sistema nacional de salud||L|ist|B2
+cartão de utente|tarjeta sanitaria||L|sla|B2
+urgência hospitalar|urgencia hospitalaria||L|sla|B2
+comparticipação dos medicamentos|cobertura de los medicamentos||L|sla|B2
+cirurgia programada|cirugía programada||L|sla|B2
+consulta de seguimento|consulta de seguimiento||L|sla|B2
+lista de espera cirúrgica|lista de espera quirúrgica||L|sla|B2
+bem-estar emocional|bienestar emocional||L|sla|B2
+terapia de grupo|terapia de grupo||L|sla|B2
+sessão de terapia|sesión de terapia||L|sla|B2
+ataque de pânico|ataque de pánico||L|sla|B2
+ansiedade generalizada|ansiedad generalizada||L|sla|B2
+autocuidado|autocuidado||S|sla|B2
+meditação guiada|meditación guiada||L|sla|B2
+alongamento muscular|estiramiento muscular||L|spt|B2
+aquecimento prévio|calentamiento previo||L|spt|B2
+exercício aeróbio|ejercicio aeróbico||L|spt|B2
+recuperação física|recuperación física||L|spt|B2
+competências-chave|competencias clave||L|lav|B2
+saber estar|saber estar||L|lav|B2
+entrevista de seleção|entrevista de selección||L|lav|B2
+candidato finalista|candidato finalista||L|lav|B2
+recrutador|reclutador||S|lav|B2
+candidatura online|candidatura online||L|lav|B2
+trabalho temporário|trabajo temporal||L|lav|B2
+vencimento mensal|salario mensual||L|fin|B2
+pergunta capciosa|pregunta capciosa||L|cmu|B2
+carta de admissão|carta de admisión||L|lav|B2
+cláusula contratual|cláusula contractual||L|lav|B2
+promoção interna|ascenso interno||L|lav|B2
+subida de salário|subida de sueldo||L|lav|B2
+objetivos trimestrais|objetivos trimestrales||L|lav|B2
+pedido de demissão|dimisión voluntaria||L|lav|B2
+rescisão por mútuo acordo|extinción por mutuo acuerdo||L|lav|B2
+estagnação profissional|estancamiento profesional||L|lav|B2
+reconhecimento profissional|reconocimiento profesional||L|lav|B2
+política salarial|política salarial||L|lav|B2
+divisão de tarefas|reparto de tareas||L|lav|B2
+delegar tarefas|delegar tareas||L|lav|B2
+prazo apertado|plazo ajustado||L|lav|B2
+participação ativa|participación activa||L|lav|B2
+chegar a um consenso|llegar a un consenso||E|lav|B2
+divergência de opiniões|divergencia de opiniones||L|lav|B2
+acordo coletivo de trabalho|convenio colectivo||L|lav|B2
+direito de greve|derecho de huelga||L|lav|B2
+segurança no trabalho|seguridad en el trabajo||L|lav|B2
+tribunal do trabalho|juzgado de lo social||L|ist|B2
+Segurança Social|Seguridad Social||L|ist|B2
+turno de noite|turno de noche||L|lav|B2
+exame de recurso|examen de recuperación||L|stu|B2
+época especial|convocatoria extraordinaria||L|stu|B2
+média final|nota media final||L|stu|B2
+prova escrita|prueba escrita||L|stu|B2
+certificado de conclusão|certificado de finalización||L|stu|B2
+aproveitamento escolar|rendimiento escolar||L|stu|B2
+passar de ano|pasar de curso||E|stu|B2
+equivalência de estudos|convalidación de estudios||L|stu|B2
+reconhecimento de competências|reconocimiento de competencias||L|stu|B2
+aprovação com distinção|aprobado con distinción||L|stu|B2
+prova de ingresso|prueba de acceso||L|stu|B2
+bolsa de mérito|beca al mérito||L|stu|B2
+propina universitária|matrícula universitaria||L|stu|B2
+tuna universitária|tuna universitaria||L|stu|B2
+praxe académica|novatada estudiantil||L|stu|B2
+traje académico|traje académico||L|stu|B2
+dissertação de mestrado|tesis de máster||L|stu|B2
+tese de doutoramento|tesis doctoral||L|stu|B2
+sublinhar as ideias principais|subrayar las ideas principales||L|stu|B2
+tirar apontamentos|tomar apuntes||E|stu|B2
+apontamentos de aula|apuntes de clase||L|stu|B2
+memorização|memorización||S|stu|B2
+raciocínio lógico|razonamiento lógico||L|stu|B2
+exercício de fixação|ejercicio de refuerzo||L|stu|B2
+ficha de trabalho|ficha de trabajo||L|stu|B2
+correção de erros|corrección de errores||L|stu|B2
+aprendizagem autónoma|aprendizaje autónomo||L|stu|B2
+plano de estudos|plan de estudios||L|stu|B2
+revisão de matéria|repaso de la materia||L|stu|B2
+disciplina opcional|asignatura optativa||L|stu|B2
+planeamento urbano|planeamiento urbanístico||L|cit|B2
+construção ilegal|construcción ilegal||L|cit|B2
+bairro social|barrio de viviendas sociales||L|cit|B2
+degradação do centro histórico|degradación del casco histórico||L|cit|B2
+congestão rodoviária|congestión del tráfico||L|cit|B2
+ruído urbano|ruido urbano||L|cit|B2
+contentor de lixo|contenedor de basura||L|cit|B2
+sujidade|suciedad||S|cit|B2
+buraco no passeio|bache en la acera||L|cit|B2
+assembleia municipal|pleno municipal||L|ist|B2
+atendimento presencial|atención presencial||L|ist|B2
+horário de funcionamento|horario de atención||L|ist|B2
+participação cívica|participación cívica||L|ist|B2
+imposto municipal|impuesto municipal||L|fin|B2
+taxa de lixo|tasa de basuras||L|ist|B2
+certidão de nascimento|certificado de nacimiento||L|ist|B2
+seca prolongada|sequía prolongada||L|cli|B2
+deflorestação|deforestación||S|cli|B2
+perda de biodiversidade|pérdida de biodiversidad||L|nat|B2
+abalo sísmico|temblor de tierra||L|cli|B2
+inundação repentina|inundación repentina||L|cli|B2
+vaga de frio|ola de frío||L|cli|B2
+aviso vermelho|alerta roja||L|cli|B2
+plano de emergência|plan de emergencia||L|cli|B2
+equipa de resgate|equipo de rescate||L|cli|B2
+desalojado|desalojado||S|cli|B2
+nível do mar|nivel del mar||L|cli|B2
+alta costura|alta costura||L|rop|B2
+estar na moda|estar a la última||E|rop|B2
+alfaiataria|sastrería||S|rop|B2
+tecido sintético|tejido sintético||L|rop|B2
+fibra têxtil|fibra textil||L|rop|B2
+confecção de roupa|confección de ropa||L|rop|B2
+roupa de marca|ropa de marca||L|rop|B2
+coleção de outono-inverno|colección otoño-invierno||L|rop|B2
+roupa em segunda mão|ropa de segunda mano||L|rop|B2
+largo de mais|demasiado ancho||L|rop|B2
+assentar bem|sentar bien (la ropa)||E|rop|B2
+remendar|remendar||V|rop|B2
+perfil falso|perfil falso||L|tec|B2
+comentário ofensivo|comentario ofensivo||L|tec|B2
+notícia falsa|noticia falsa||L|att|B2
+bolha informativa|burbuja informativa||L|tec|B2
+tempo de ecrã|tiempo de pantalla||L|tec|B2
+vício no telemóvel|adicción al móvil||L|tec|B2
+bloquear um utilizador|bloquear a un usuario||L|tec|B2
+denunciar conteúdos|denunciar contenidos||L|tec|B2
+partilha de conteúdos|compartición de contenidos||L|tec|B2
+em direto|en directo||L|tec|B2
+legendar um vídeo|subtitular un vídeo||L|tec|B2
+retoque digital|retoque digital||L|tec|B2
+filtro de beleza|filtro de belleza||L|tec|B2
+cibercrime|cibercrimen||S|tec|B2
+programa maligno|programa malicioso||L|tec|B2
+palavra-passe forte|contraseña robusta||L|tec|B2
+autenticação de dois fatores|autenticación de dos factores||L|tec|B2
+verificação em duas etapas|verificación en dos pasos||L|tec|B2
+rastreio na internet|rastreo en internet||L|tec|B2
+cavalo de troia|caballo de Troya||L|tec|B2
+chantagem online|chantaje en línea||L|tec|B2
+código fonte|código fuente||L|tec|B2
+depuração de código|depuración de código||L|tec|B2
+aplicação móvel|aplicación móvil||L|tec|B2
+interface de utilizador|interfaz de usuario||L|tec|B2
+servidor remoto|servidor remoto||L|tec|B2
+restaurar o sistema|restaurar el sistema||L|tec|B2
+atualização do sistema|actualización del sistema||L|tec|B2
+atleta profissional|atleta profesional||L|spt|B2
+carreira desportiva|carrera deportiva||L|spt|B2
+campeonato nacional|campeonato nacional||L|spt|B2
+grande penalidade|penalti||L|spt|B2
+lance decisivo|jugada decisiva||L|spt|B2
+desclassificação|descalificación||S|spt|B2
+patrocínio desportivo|patrocinio deportivo||L|spt|B2
+bilhete de época|abono de temporada||L|spt|B2
+sócio do clube|socio del club||L|spt|B2
+claque|afición||S|spt|B2
+recorde mundial|récord mundial||L|spt|B2
+medalha de ouro|medalla de oro||L|spt|B2
+lesão muscular|lesión muscular||L|sla|B2
+entorse de tornozelo|esguince de tobillo||L|sla|B2
+massagem desportiva|masaje deportivo||L|spt|B2
+massagista|masajista||S|pro|B2
+reabilitação física|rehabilitación física||L|sla|B2
+contratura muscular|contractura muscular||L|sla|B2
+prova de esforço|prueba de esfuerzo||L|sla|B2
+tempo de recuperação|tiempo de recuperación||L|spt|B2
+regresso à competição|regreso a la competición||L|spt|B2

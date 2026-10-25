@@ -1,0 +1,146 @@
+escala maior|escala mayor||L|mus|B2
+acorde menor|acorde menor||L|mus|B2
+coro amador|coro de aficionados||L|mus|B2
+instrumento de cordas|instrumento de cuerda||L|mus|B2
+instrumento de sopro|instrumento de viento||L|mus|B2
+afinar um instrumento|afinar un instrumento||L|mus|B2
+desafinar|desafinar||V|mus|B2
+palco principal|escenario principal||L|mus|B2
+concerto esgotado|concierto agotado||L|mus|B2
+solo de guitarra|solo de guitarra||L|mus|B2
+cena de ação|escena de acción||L|cin|B2
+estreia mundial|estreno mundial||L|cin|B2
+prémio de interpretação|premio de interpretación||L|cin|B2
+júri do festival|jurado del festival||L|cin|B2
+efeitos sonoros|efectos sonoros||L|cin|B2
+discussão acalorada|discusión acalorada||L|rel|B2
+troca de acusações|cruce de acusaciones||L|rel|B2
+falar às costas|hablar a las espaldas||E|rel|B2
+quebrar a confiança|romper la confianza||L|rel|B2
+pedido de desculpas|petición de disculpas||L|cmu|B2
+ofensa|agravio||S|rel|B2
+afastar-se de alguém|alejarse de alguien||E|rel|B2
+rutura amorosa|ruptura sentimental||L|rel|B2
+separação litigiosa|separación contenciosa||L|rel|B2
+estar de mal com alguém|estar peleado con alguien||E|rel|B2
+relação tóxica|relación tóxica||L|rel|B2
+romper o noivado|romper el compromiso||L|rel|B2
+diversidade cultural|diversidad cultural||L|rel|B2
+preconceito racial|prejuicio racial||L|rel|B2
+assédio escolar|acoso escolar||L|rel|B2
+associação de vizinhos|asociación de vecinos||L|cit|B2
+integrar-se na comunidade|integrarse en la comunidad||L|rel|B2
+grupo de autoajuda|grupo de autoayuda||L|rel|B2
+refugiado político|refugiado político||L|rel|B2
+acolhimento familiar|acogida familiar||L|fam|B2
+dedução de despesas|deducción de gastos||L|fin|B2
+inspetor tributário|inspector de hacienda||L|pro|B2
+reembolso de imposto|devolución de impuestos||L|fin|B2
+entrega da declaração|presentación de la declaración||L|fin|B2
+rendimento bruto|ingreso bruto||L|fin|B2
+rendimento líquido|ingreso neto||L|fin|B2
+empréstimo à habitação|préstamo hipotecario||L|fin|B2
+juro variável|interés variable||L|fin|B2
+amortização do capital|amortización del capital||L|fin|B2
+prazo de pagamento|plazo de pago||L|fin|B2
+hipoteca da casa|hipoteca de la vivienda||L|fin|B2
+incumprir|incumplir||V|fin|B2
+prestação da casa|cuota de la vivienda||L|fin|B2
+conta poupança|cuenta de ahorro||L|fin|B2
+carteira de ações|cartera de acciones||L|fin|B2
+cotação da ação|cotización de la acción||L|fin|B2
+risco financeiro|riesgo financiero||L|fin|B2
+investidor particular|inversor minorista||L|fin|B2
+aplicar dinheiro|invertir (dinero)||L|fin|B2
+obrigação do Tesouro|bono del Tesoro||L|fin|B2
+reforma por velhice|pensión de jubilación||L|fin|B2
+reformado|jubilado||S|fin|B2
+pensão de sobrevivência|pensión de viudedad||L|fin|B2
+pensão mínima|pensión no contributiva||L|fin|B2
+pôr dinheiro de parte|ahorrar (dinero)||E|fin|B2
+aforro|ahorro||S|fin|B2
+descontos salariais|descuentos salariales||L|lav|B2
+complemento de reforma|complemento de pensión||L|fin|B2
+guia de restaurantes|guía de restaurantes||L|ris|B2
+chefe de cozinha|jefe de cocina||L|pro|B2
+experiência gastronómica|experiencia gastronómica||L|ris|B2
+apresentação do prato|emplatado||L|ris|B2
+textura crocante|textura crujiente||L|ris|B2
+cozinha caseira|cocina casera||L|ris|B2
+conservador do registo predial|registrador de la propiedad||L|pro|B2
+procurador da República|fiscal||L|pro|B2
+administrador de empresas|administrador de empresas||L|pro|B2
+contabilista certificado|contable colegiado||L|pro|B2
+perito avaliador|perito tasador||L|pro|B2
+consultor fiscal|asesor fiscal||L|pro|B2
+mediador de seguros|corredor de seguros||L|pro|B2
+gestor de topo|directivo||L|pro|B2
+engenheiro informático|ingeniero informático||L|pro|B2
+arquiteto paisagista|arquitecto paisajista||L|pro|B2
+desenhador técnico|delineante||L|pro|B2
+ladrilhador|azulejador||S|pro|B2
+mecânico de automóveis|mecánico de automóviles||L|pro|B2
+técnico de laboratório|técnico de laboratorio||L|pro|B2
+condutor de camião|camionero||L|pro|B2
+operário da construção|obrero de la construcción||L|pro|B2
+enfermeiro especialista|enfermero especialista||L|pro|B2
+parteiro|matrona||S|pro|B2
+radiologista|radiólogo||S|pro|B2
+terapeuta ocupacional|terapeuta ocupacional||L|pro|B2
+professor associado|profesor asociado||L|pro|B2
+reitor da universidade|rector de la universidad||L|pro|B2
+formador profissional|formador profesional||L|pro|B2
+assistente social|trabajador social||L|pro|B2
+psicólogo clínico|psicólogo clínico||L|pro|B2
+designer gráfico|diseñador gráfico||L|pro|B2
+ceramista|ceramista||S|pro|B2
+editor de vídeo|editor de vídeo||L|pro|B2
+apresentador de televisão|presentador de televisión||L|pro|B2
+crítico de cinema|crítico de cine||L|pro|B2
+guionista|guionista||S|pro|B2
+produtor executivo|productor ejecutivo||L|pro|B2
+assembleia legislativa|asamblea legislativa||L|ist|B2
+partido da oposição|partido de la oposición||L|ist|B2
+abstenção eleitoral|abstención electoral||L|ist|B2
+coligação governamental|coalición de gobierno||L|ist|B2
+tomada de posse|toma de posesión||L|ist|B2
+formação de governo|formación de gobierno||L|ist|B2
+assunção do cargo|asunción del cargo||L|ist|B2
+governo minoritário|gobierno en minoría||L|ist|B2
+inflação galopante|inflación galopante||L|fin|B2
+subida dos preços|subida de los precios||L|fin|B2
+desaceleração económica|ralentización económica||L|fin|B2
+recessão económica|recesión económica||L|fin|B2
+desvalorização do euro|depreciación del euro||L|fin|B2
+excedente orçamental|superávit presupuestario||L|fin|B2
+corte da despesa pública|recorte del gasto público||L|fin|B2
+criação de emprego|creación de empleo||L|fin|B2
+exportações em alta|exportaciones al alza||L|fin|B2
+placa solar|placa solar||L|nat|B2
+reciclagem seletiva|reciclaje selectivo||L|nat|B2
+incineração de resíduos|incineración de residuos||L|nat|B2
+agricultura intensiva|agricultura intensiva||L|nat|B2
+sobreexploração dos recursos|sobreexplotación de recursos||L|nat|B2
+hipótese de trabalho|hipótesis de trabajo||L|sci|B2
+experiência controlada|experimento controlado||L|sci|B2
+recolha de dados|recogida de datos||L|sci|B2
+análise estatística|análisis estadístico||L|sci|B2
+resultados inconclusivos|resultados poco concluyentes||L|sci|B2
+equipa de investigação|equipo de investigación||L|sci|B2
+replicação de resultados|replicación de resultados||L|sci|B2
+conclusão preliminar|conclusión preliminar||L|sci|B2
+observação direta|observación directa||L|sci|B2
+sequenciamento genético|secuenciación genética||L|sci|B2
+reprodução assexuada|reproducción asexual||L|sci|B2
+ecossistema marinho|ecosistema marino||L|sci|B2
+espécie em extinção|especie en extinción||L|sci|B2
+composição molecular|composición molecular||L|sci|B2
+evaporar-se|evaporarse||V|sci|B2
+resistência aos antibióticos|resistencia a los antibióticos||L|sci|B2
+bactéria resistente|bacteria resistente||L|sci|B2
+galáxia espiral|galaxia espiral||L|sci|B2
+campo gravitacional|campo gravitacional||L|sci|B2
+energia cinética|energía cinética||L|sci|B2
+órbita terrestre|órbita terrestre||L|sci|B2
+ausência de gravidade|ausencia de gravedad||L|sci|B2
+universo em expansão|universo en expansión||L|sci|B2

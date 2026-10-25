@@ -3091,3 +3091,19 @@ Work Log:
 - fr-c1-11-p*.txt: 1035 entradas · awk OK · dup OK (2 duplicados internos corregidos: polarisation, rayonnement) · comm OK (0 colisiones)
 Stage Summary:
 - fr-c1-11: 1035 entradas C1 francés
+---
+Task ID: v9.43/r2/fr-a2-02
+Agent: subagent
+Task: lexicón FR A2 fr-a2-02 (v4)
+Work Log:
+- fr-a2-02-p*.txt: 384 entradas tras limpieza · awk OK · dup OK
+Stage Summary:
+- fr-a2-02: 384 entradas A2 francés
+---
+Task ID: v9.43/r2/pt-c2-06
+Agent: subagent
+Task: lexicón PT C2 pt-c2-06 (v4)
+Work Log:
+- pt-c2-06-p*.txt: 743 entradas tras limpieza · awk OK · dup OK
+Stage Summary:
+- pt-c2-06: 743 entradas C2 portugués

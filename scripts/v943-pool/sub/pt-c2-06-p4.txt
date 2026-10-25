@@ -1,0 +1,210 @@
+flebotomia|flebotomía||S|sla|C2
+colecistectomia|colecistectomía||S|sla|C2
+estapedectomia|estapedectomía||S|sla|C2
+timpanoplastia|timpanoplastia||S|sla|C2
+queratoplastia|queratoplastia||S|sla|C2
+escleroterapia|escleroterapia||S|sla|C2
+quimioembolização|quimioembolización||S|sla|C2
+criptorquidia|criptorquidia||S|sla|C2
+hipospádia|hipospadia||S|sla|C2
+onfalocelo|onfalocele||S|sla|C2
+gastrosquise|gastrosquisis||S|sla|C2
+atresia esofágica|atresia esofágica||E|sla|C2
+estenose pilórica|estenosis pilórica||E|sla|C2
+espondilite anquilosante|espondilitis anquilosante||E|sla|C2
+osteomielite|osteomielitis||S|sla|C2
+tuberculose miliar|tuberculosis miliar||E|sla|C2
+meningocócico|meningocócico||A|sla|C2
+pneumocócico|neumocócico||A|sla|C2
+estreptocócico|estreptocócico||A|sla|C2
+estafilocócico|estafilocócico||A|sla|C2
+gonocócico|gonocócico||A|sla|C2
+taquipneia|taquipnea||S|sla|C2
+ortopneia|ortopnea||S|sla|C2
+hematêmese|hematemesis||S|sla|C2
+tromboembolismo|tromboembolismo||S|sla|C2
+endarterectomia|endarterectomía||S|sla|C2
+coronariografia|coronariografía||S|sla|C2
+linfangite|linfangitis||S|sla|C2
+linfedema|linfedema||S|sla|C2
+hemorroidectomia|hemorroidectomía||S|sla|C2
+colectomia|colectomía||S|sla|C2
+ileostomia|ileostomía||S|sla|C2
+colostomia|colostomía||S|sla|C2
+duodenoscopia|duodenoscopia||S|sla|C2
+retossigmoidoscopia|rectosigmoidoscopia||S|sla|C2
+proctologia|proctología||S|sla|C2
+flebologia|flebología||S|sla|C2
+imunohistoquímica|inmunohistoquímica||S|sci|C2
+imunofluorescência|inmunofluorescencia||S|sci|C2
+imunossoro|suero inmune||S|sla|C2
+soroterapia|soroterapia||S|sla|C2
+toxiinfeção|toxiinfección||S|sla|C2
+enterocolite|enterocolitis||S|sla|C2
+tripanossomíase|tripanosomiasis||S|sla|C2
+oncocercose|oncocercosis||S|sla|C2
+dracunculose|dracunculosis||S|sla|C2
+filariose|filariasis||S|sla|C2
+pediculose|pediculosis||S|sla|C2
+onicomicose|onicomicosis||S|sla|C2
+paroníquia|paroniquia||S|sla|C2
+estomatite|estomatitis||S|sla|C2
+pulpectomia|pulpectomía||S|sla|C2
+implantologia|implantología||S|sla|C2
+osteomalácia|osteomalacia||S|sla|C2
+citometria de fluxo|citometría de flujo||E|sci|C2
+hibridização in situ|hibridación in situ||E|sci|C2
+osteíte|osteítis||S|sla|C2
+oposição executiva|tercería de dominio||E|ist|C2
+legitimidade ativa|legitimación activa||E|ist|C2
+instrução contraditória|instrucción contradictoria||E|ist|C2
+pacto de preferência|pacto de preferencia||E|ist|C2
+obrigação natural|obligación natural||E|ist|C2
+recurso de revisão|recurso de revisión||E|ist|C2
+embargos de execução|embargos de ejecución||E|ist|C2
+direito de recesso|derecho de separación||E|ist|C2
+acordo de acionistas|pacto de socios||E|ist|C2
+imunidade de jurisdição|inmunidad jurisdiccional||E|ist|C2
+votação nominal|votación nominal||E|ist|C2
+carta de crenças|carta de credenciales||E|ist|C2
+audiência de despedida|audiencia de despedida||E|ist|C2
+nota verbal|nota verbal||E|ist|C2
+ordem de precedência|orden de precedencia||E|ist|C2
+participações cruzadas|participaciones cruzadas||E|ist|C2
+regime de acréscimos|criterio de devengo||E|fin|C2
+encargos por imparidade|pérdidas por deterioro de valor||E|fin|C2
+anexo ao balanço|memoria del balance||E|fin|C2
+curva de rendimento|curva de rendimientos||E|fin|C2
+prémio de risco|prima de riesgo||E|fin|C2
+contabilidade de caixa|contabilidad de caja||E|fin|C2
+preferência de subscrição|derecho de suscripción preferente||E|fin|C2
+desconto por pronto pagamento|descuento por pronto pago||E|fin|C2
+reserva de contingência|reserva de contingencia||E|fin|C2
+capitalização de juros|capitalización de intereses||E|fin|C2
+taxa efetiva anual|tasa efectiva anual||E|fin|C2
+paridade cambial|paridad cambiaria||E|fin|C2
+controlo de capitais|control de capitales||E|fin|C2
+declínio orbital|decaimiento orbital||E|sci|C2
+emaranhado quântico|entrelazamiento cuántico||E|sci|C2
+decoerência quântica|decoherencia cuántica||E|sci|C2
+princípio da exclusão|principio de exclusión||E|sci|C2
+desvio para o azul|corrimiento al azul||E|sci|C2
+heliosfera|heliosfera||S|sci|C2
+heliopausa|heliopausa||S|sci|C2
+periélio|perihelio||S|sci|C2
+afélio|afelio||S|sci|C2
+precessão dos equinócios|precesión de los equinoccios||E|sci|C2
+obliquidade da eclíptica|oblicuidad de la eclíptica||E|sci|C2
+paralaxe estelar|paralaje estelar||E|sci|C2
+câmara de bolhas|cámara de burbujas||E|sci|C2
+orbital atómico|orbital atómico||S|sci|C2
+entalpia de formação|entalpía de formación||E|sci|C2
+energia de ligação|energía de enlace||E|sci|C2
+azeotropo|azeótropo||S|sci|C2
+condutância|conductancia||S|sci|C2
+permeabilidade magnética|permeabilidad magnética||E|sci|C2
+susceptibilidade magnética|susceptibilidad magnética||E|sci|C2
+relutância magnética|reluctancia magnética||E|sci|C2
+ciclo de histerese|ciclo de histéresis||E|sci|C2
+resistividade|resistividad||S|sci|C2
+colisor de hádrons|colisionador de hadrones||E|sci|C2
+epêntese|epéntesis||S|let|C2
+metaplasmo|metaplasmo||S|let|C2
+sinquise|sínquisis (confusión)||S|let|C2
+homeoteleuto|homeoteleuton||S|let|C2
+etopeia|etopeya||S|let|C2
+cronótopo|cronotopo||S|let|C2
+ilocutório|ilocutivo||A|let|C2
+perlocutório|perlocutivo||A|let|C2
+deíxe|deixis||S|let|C2
+proclítico|proclítico||A|let|C2
+apócope|apócope||S|let|C2
+diégese|diegesis||S|cin|C2
+hiperbato|hipérbaton||S|let|C2
+charola|charola (rotunda)||S|art|C2
+seteira|saetera||S|art|C2
+tronreira|tronera||S|art|C2
+menagem|homenaje (torre del homenaje)||S|art|C2
+barbacã|barbacana||S|art|C2
+cubelo|cubelo (torreón)||S|art|C2
+olho de boi|ojo de buey (ventanuco)||E|art|C2
+telhado de quatro águas|techo a cuatro aguas||E|art|C2
+mão-francesa|ménsula (zapata)||S|art|C2
+arquivolta|arquivolta||S|art|C2
+imposta|imposta (dintel)||S|art|C2
+tapada|tapada (coto de caza)||S|nat|C2
+alfobre|semillero||S|nat|C2
+valado|vallado (talud)||S|nat|C2
+leira|leira (parcela de tierra)||S|nat|C2
+sacha|escarda (deshierbe manual)||S|nat|C2
+estrumeira|estercolero||S|nat|C2
+achada|achada (claro de monte)||S|nat|C2
+bouça|bouza (matorral)||S|nat|C2
+giesta|hiniesta||S|nat|C2
+carqueja|carqueja (planta)||S|nat|C2
+queiró|queiró (mata rasteira)||S|nat|C2
+engaço|engazo (raspón)||S|nat|C2
+temulento|temulento (ebrio)||A|ast|C2
+desvairado|desvairado (desatinado)||A|ast|C2
+enlevado|embelesado||A|emo|C2
+ensimesmado|ensimismado||A|ast|C2
+espantadiço|espantadizo (arisco)||A|ast|C2
+matreiro|matrero||A|ast|C2
+socarrão|socarrón||A|ast|C2
+malquisto|malquisto (malavenido)||A|rel|C2
+benquisto|bienquisto||A|rel|C2
+desavindo|desavenido (reñido)||A|rel|C2
+empolado|empolado (hinchado)||A|let|C2
+amaneirado|amaneirado (afectado)||A|let|C2
+canhestro|canestro (desmañado)||A|ast|C2
+estabanado|estabanado (atropellado)||A|ast|C2
+esguio|esguio (esbelto)||A|cor|C2
+espadaúdo|corpulento||A|cor|C2
+pachorrento|pachorrento (lento)||A|ast|C2
+embirrado|terco (porfiado)||A|ast|C2
+comovimento|comovimiento||S|emo|C2
+crueza|crueldad (fierza)||S|ast|C2
+padecimento|padecimiento||S|ast|C2
+enfadar|harta||V|emo|C2
+amuar|entristecer||V|emo|C2
+embirrar|emperrarse||V|emo|C2
+esbaldar-se|esbaldarse||V|sve|C2
+esfalfar|esfalfar (agota)||V|lav|C2
+empachar|empacha (harta)||V|ali|C2
+enfastiar|enfastia (empalaga)||V|ali|C2
+esganar|estrangular (ahorca)||V|ast|C2
+estrebuchar|estrebucha (desboca)||V|ani|C2
+espernear|patalea||V|ast|C2
+tresandar|tresanda (apesta)||V|ast|C2
+endeusar|endeusa||V|cmu|C2
+condoer-se|condolerse||V|cmu|C2
+apiedar-se|apiadarse||V|cmu|C2
+aligeirar|aligeira (aligera)||V|ast|C2
+atropeladamente|atropelladamente||D|ast|C2
+melindroso|melindroso (quisquilloso)||A|ast|C2
+esparrela|lazo (trampa)||S|nat|C2
+dantesco|dantesco||A|let|C2
+bosquejar|bosqueja (esboza)||V|art|C2
+arrufos|arrufos (disputas amorosas)||S|rel|C2
+empachado|empachado (harto de comida)||A|ali|C2
+enfadado|harto (enfadado)||A|ast|C2
+berlindas|enredos (discordias)||S|rel|C2
+estardalhaço|alboroto (estardalhaço)||S|ast|C2
+escarcéu|escándalo (algazara)||S|ast|C2
+sarabanda|zarabanda||S|mus|C2
+bulício|bullicio||S|cit|C2
+futricas|berrinches (rabietas)||S|ast|C2
+chousa|choza (cerrado de labor)||S|nat|C2
+lamaçal|lodazal||S|nat|C2
+eguada|yeguada||S|ani|C2
+palafrém|palafrén||S|ani|C2
+requinta|requinto||S|mus|C2
+rabeca|rabel (violín popular)||S|mus|C2
+viola campaniça|viola campaniça (guitarra del Alentejo)||S|mus|C2
+gaita-de-foles|gaita gallega||S|mus|C2
+beneditino|beneditino||A|ast|C2
+trapista|trapense||S|ast|C2
+fado vadio|fado vadio (fado de afeccionados)||E|mus|C2
+carreteiro|carretero||S|pro|C2
+besteiro|ballestero||S|pro|C2
+taberneiro|tabernero||S|pro|C2

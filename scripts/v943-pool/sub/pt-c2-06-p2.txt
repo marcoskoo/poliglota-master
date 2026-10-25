@@ -1,0 +1,74 @@
+quinhentismo|quinhentismo (literatura del XVI)||S|let|C2
+correligionário|correligionario||S|att|C2
+desmobilização|desmovilización||S|ist|C2
+capacetes azuis|cascos azules||E|ist|C2
+escaramuça|escaramuza||S|ist|C2
+contrainteligência|contraespionaje||S|ist|C2
+pautal|arancelario||A|fin|C2
+cofinanciamento|cofinanciación||S|ist|C2
+direito comunitário|derecho comunitario||E|ist|C2
+estado-providência|estado de bienestar||S|ist|C2
+pensão não contributiva|pensión no contributiva||E|ist|C2
+carenciado|desfavorecido||A|ist|C2
+incapacitante|incapacitante||A|ist|C2
+subsídio de sobrevivência|pensión de supervivencia||E|ist|C2
+assembleia popular|asamblea popular||E|ist|C2
+reivindicativo|reivindicativo||A|ist|C2
+greve selvagem|huelga salvaje||E|ist|C2
+caixa dois|caja B||E|fin|C2
+declaração de interesses|declaración de intereses||E|ist|C2
+guetificação|guetización||S|ist|C2
+saldo natural|saldo natural||E|ist|C2
+blasão|blasón (heráldico)||S|art|C2
+zoomórfico|zoomórfico||A|art|C2
+tetramorfo|tetramorfos||S|art|C2
+marqueteria|marquetería||S|art|C2
+solarização|solarización||S|art|C2
+performático|performático||A|art|C2
+arcobotante|arbotante||S|art|C2
+rosetão|rosetón||S|art|C2
+arcaria|arcadas (serie de arcos)||S|art|C2
+abóbada de ogivas|bóveda de crucería||E|art|C2
+mímico|mímico||A|art|C2
+ordem de bytes|orden de bytes||E|tec|C2
+deteção de intrusos|detección de intrusos||E|tec|C2
+verificação do falante|verificación del hablante||E|tec|C2
+contador inteligente|contador inteligente||E|tec|C2
+ignimbrita|ignimbrita||S|nat|C2
+turbidez|turbidez||S|nat|C2
+hidropónica|hidropónica||S|nat|C2
+arável|arable||A|nat|C2
+rega por gotejamento|riego por goteo||E|nat|C2
+agrofloresta|agroforestería||S|nat|C2
+alevino|alevino (cría de pez)||S|nat|C2
+aceiro|cortafuegos||S|nat|C2
+resinífero|resinífero||A|nat|C2
+desramação|desrame||S|nat|C2
+ecocentro|punto limpio||S|cit|C2
+valoração|valorización||S|fin|C2
+acutilante|incisivo||A|ast|C2
+perfunctório|perfunctorio||A|ast|C2
+caviloso|caviloso (sofista)||A|ast|C2
+grandíloquo|grandílocuo||A|ast|C2
+inexorável|inexorable||A|ast|C2
+obsequioso|obsequioso||A|ast|C2
+assacar|achacar (imputar)||V|cmu|C2
+apoucar|menospreciar||V|cmu|C2
+arrostar|arrostrar||V|cmu|C2
+obtemperar|obtemperar (acatar)||V|cmu|C2
+mitomania|mitomanía||S|sla|C2
+estupefação|estupefacción||S|emo|C2
+hedonístico|hedonístico||A|ast|C2
+néscio|nescio (ignorante)||A|ast|C2
+desvalimento|desvalimiento||S|ast|C2
+estritamente|estrictamente||D|cnn|C2
+marginalmente|marginalmente||D|ast|C2
+quantificável|cuantificable||A|sci|C2
+nominalmente|nominalmente||D|ast|C2
+passamento|fallecimiento||S|cmu|C2
+diplomatizar|diplomatizar||V|cmu|C2
+eufemístico|eufemístico||A|cmu|C2
+alusivo|alusivo||A|cmu|C2
+arrufar|arrugar (fruncir el ceño)||V|cmu|C2
+genuinidade|genuinidad||S|ast|C2
+enoitecer|anochecer||V|tmp|C2
