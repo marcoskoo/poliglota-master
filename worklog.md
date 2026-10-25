@@ -3075,3 +3075,19 @@ Work Log:
 - pt-b2-08-p*.txt: 418 entradas · awk OK · dup OK
 Stage Summary:
 - pt-b2-08: 418 entradas B2 portugués
+---
+Task ID: v9.43/r2/fr-c2-18
+Agent: subagent
+Task: lexicón FR C2 fr-c2-18 (v3 mecánico)
+Work Log:
+- fr-c2-18-p*.txt: 879 entradas · awk OK · dup OK · comm OK (0 colisiones corregidas)
+Stage Summary:
+- fr-c2-18: 879 entradas C2 francés
+---
+Task ID: v9.43/r2/fr-c1-11
+Agent: subagent
+Task: lexicón FR C1 fr-c1-11 (v3 mecánico)
+Work Log:
+- fr-c1-11-p*.txt: 1035 entradas · awk OK · dup OK (2 duplicados internos corregidos: polarisation, rayonnement) · comm OK (0 colisiones)
+Stage Summary:
+- fr-c1-11: 1035 entradas C1 francés

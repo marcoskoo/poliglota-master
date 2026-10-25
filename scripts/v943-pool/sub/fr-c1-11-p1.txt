@@ -1,259 +1,259 @@
 alliage|aleación||S|sci|C1
+polymère|polímero||S|sci|C1
+céramique|cerámica||S|sci|C1
+supraconductivité|superconductividad||S|sci|C1
+dilatation|dilatación||S|sci|C1
+résistance à la traction|resistencia a la tracción||L|sci|C1
 malléable|maleable||A|sci|C1
 ductilité|ductilidad||S|sci|C1
-polymère|polímero||S|sci|C1
-polymérisation|polimerización||S|sci|C1
-céramique|cerámica||S|sci|C1
-composite|material compuesto||S|sci|C1
-nanoparticule|nanopartícula||S|sci|C1
-résistance à la traction|resistencia a la tracción||L|sci|C1
-rigidité|rigidez||S|sci|C1
-porosité|porosidad||S|sci|C1
-ténacité|tenacidad||S|sci|C1
-dilatation|dilatación (térmica)||S|sci|C1
-trempe|templado (metalúrgico)||S|sci|C1
-forgeage|forjado||S|sci|C1
-corrosion|corrosión||S|sci|C1
-galvanisation|galvanización||S|sci|C1
 amorphe|amorfo||A|sci|C1
-réseau cristallin|red cristalina||L|sci|C1
-résine|resina||S|sci|C1
-élasticité|elasticidad||S|sci|C1
-friable|friable||A|sci|C1
-inaltérable|inalterable||A|sci|C1
-recouvrir|recubrir||V|sci|C1
-magnétisme|magnetismo||S|sci|C1
-aimantation|imanación||S|sci|C1
-couche mince|capa fina||L|sci|C1
+frittage|sinterización||S|sci|C1
+revêtement|revestimiento||S|sci|C1
+corrosion|corrosión||S|sci|C1
+nanoparticule|nanopartícula||S|sci|C1
+catalyseur|catalizador||S|sci|C1
+adsorption|adsorción||S|sci|C1
 substrat|sustrato||S|sci|C1
+cristallisation|cristalización||S|sci|C1
+élasticité|elasticidad||S|sci|C1
+trempe|temple (tratamiento térmico)||S|sci|C1
+recuit|recocido||S|sci|C1
+forgeage|forja||S|sci|C1
+matériau composite|material compuesto||L|sci|C1
+épitaxie|epitaxia||S|sci|C1
+granulométrie|granulometría||S|sci|C1
 dureté|dureza||S|sci|C1
-élastomère|elastómero||S|sci|C1
 fatigue des matériaux|fatiga de los materiales||L|sci|C1
-affinage|afinado (metalúrgico)||S|sci|C1
-matrice de moulage|matriz de moldeo||L|sci|C1
+rhéologie|reología||S|sci|C1
+polymérisation|polimerización||S|sci|C1
+réticulation|reticulación (de polímeros)||S|sci|C1
 réfraction|refracción||S|sci|C1
 diffraction|difracción||S|sci|C1
-interférence|interferencia (de ondas)||S|sci|C1
-polarisation|polarización||S|sci|C1
+interférence|interferencia||S|sci|C1
 longueur d'onde|longitud de onda||L|sci|C1
-spectre électromagnétique|espectro electromagnético||L|sci|C1
-prisme|prisma||S|sci|C1
-lentille convergente|lente convergente||L|sci|C1
-focaliser|enfocar (hacer converger)||V|sci|C1
-faisceau|haz de luz||S|sci|C1
 luminescence|luminiscencia||S|sci|C1
-phosphorescence|fosforescencia||S|sci|C1
-fibre optique|fibra óptica||L|sci|C1
-hologramme|holograma||S|sci|C1
-holographie|holografía||S|sci|C1
-photon|fotón||S|sci|C1
-photonique|fotónica||S|sci|C1
-résonance|resonancia (acústica)||S|sci|C1
-ultrasons|ultrasonidos||S|sci|C1
-diapason|diapasón||S|sci|C1
-timbre|timbre (color del sonido)||S|mus|C1
-intensité sonore|intensidad sonora||L|sci|C1
-insonoriser|insonorizar||V|sci|C1
-aberration|aberración (óptica)||S|sci|C1
-irisé|iridiscente||A|sci|C1
-spectromètre|espectrómetro||S|sci|C1
-optique géométrique|óptica geométrica||L|sci|C1
-dispersion|dispersión (de la luz)||S|sci|C1
-réflexion totale|reflexión total||L|sci|C1
-cohérence|coherencia (de ondas)||S|sci|C1
+photodiode|fotodiodo||S|sci|C1
+faisceau|haz (de luz)||S|sci|C1
+diffus|difuso||A|sci|C1
+focaliser|enfocar||V|sci|C1
+focale|distancia focal||S|sci|C1
+aberration|aberración||S|sci|C1
 acoustique|acústica||S|sci|C1
-acousticien|acústico (especialista)||S|pro|C1
+résonance|resonancia||S|sci|C1
+infrarouge|infrarrojo||A|sci|C1
+ultraviolet|ultravioleta||A|sci|C1
+polarisation|polarización||S|sci|C1
+cohérence|coherencia||S|sci|C1
+hologramme|holograma||S|sci|C1
+fibre optique|fibra óptica||L|sci|C1
+prisme|prisma||S|sci|C1
+éblouissement|deslumbramiento||S|sci|C1
+acuité visuelle|agudeza visual||L|sci|C1
+phonon|fonón||S|sci|C1
+photonique|fotónica||S|sci|C1
+optique géométrique|óptica geométrica||L|sci|C1
+verre trempé|cristal templado||L|sci|C1
+onde stationnaire|onda estacionaria||L|sci|C1
+spectrométrie|espectrometría||S|sci|C1
 dioptrie|dioptría||S|sci|C1
-thermodynamique|termodinámica||S|sci|C1
 entropie|entropía||S|sci|C1
-adiabatique|adiabático||A|sci|C1
+enthalpie|entalpía||S|sci|C1
 isotherme|isotermo||A|sci|C1
+adiabatique|adiabático||A|sci|C1
 calorimétrie|calorimetría||S|sci|C1
 convection|convección||S|sci|C1
 conduction thermique|conducción térmica||L|sci|C1
-gradient de température|gradiente de temperatura||L|sci|C1
+rayonnement|radiación||S|sci|C1
 viscosité|viscosidad||S|sci|C1
-visqueux|viscoso||A|sci|C1
 turbulence|turbulencia||S|sci|C1
-écoulement laminaire|flujo laminar||L|sci|C1
-débit|caudal (de un fluido)||S|sci|C1
+écoulement|flujo||S|sci|C1
+laminaire|laminar||A|sci|C1
+débit|caudal||S|sci|C1
 compressibilité|compresibilidad||S|sci|C1
-incompressible|incompresible||A|sci|C1
-aérodynamique|aerodinámica||S|sci|C1
-hydrodynamique|hidrodinámica||S|sci|C1
 capillarité|capilaridad||S|sci|C1
 tension superficielle|tensión superficial||L|sci|C1
-vaporisation|vaporización||S|sci|C1
-point de fusion|punto de fusión||L|sci|C1
-sublimation|sublimación||S|sci|C1
-rendement|rendimiento (energético)||S|sci|C1
-mouvement perpétuel|movimiento perpetuo||L|sci|C1
-calorifuger|aislar térmicamente||V|sci|C1
-équilibre thermique|equilibrio térmico||L|sci|C1
-refroidissement|refrigeración||S|sci|C1
-échangeur de chaleur|intercambiador de calor||L|sci|C1
+pression partielle|presión parcial||L|sci|C1
+point de rosée|punto de rocío||L|sci|C1
+condensation|condensación||S|sci|C1
 chaleur latente|calor latente||L|sci|C1
-irréversibilité|irreversibilidad||S|sci|C1
-fluidité|fluidez||S|sci|C1
-aubage|rodete de álabes||S|sci|C1
+rendement|rendimiento||S|sci|C1
+irréversible|irreversible||A|sci|C1
+équilibre thermodynamique|equilibrio termodinámico||L|sci|C1
+bilan énergétique|balance energético||L|sci|C1
+vortex|vórtice||S|sci|C1
+aérodynamique|aerodinámica||S|sci|C1
+hydrodynamique|hidrodinámica||S|sci|C1
 cavitation|cavitación||S|sci|C1
+gradient de pression|gradiente de presión||L|sci|C1
 cartographie|cartografía||S|sci|C1
-cartographier|cartografiar||V|sci|C1
-topographie|topografía||S|sci|C1
-coordonnées géographiques|coordenadas geográficas||L|sci|C1
-méridien|meridiano||S|sci|C1
-parallèle|paralelo (geográfico)||S|sci|C1
-latitude|latitud||S|sci|C1
-longitude|longitud||S|sci|C1
 projection cartographique|proyección cartográfica||L|sci|C1
-échelle|escala (de un mapa)||S|sci|C1
-légende|leyenda (de un mapa)||S|sci|C1
-courbe de niveau|curva de nivel||L|sci|C1
-relief|relieve (terrestre)||S|sci|C1
-géoréférencement|georreferenciación||S|sci|C1
-système d'information géographique|sistema de información geográfica||L|tec|C1
-imagerie satellitaire|imagen satelital||L|sci|C1
+méridien|meridiano||S|sci|C1
+parallèle|paralelo||S|sci|C1
+coordonnées géographiques|coordenadas geográficas||L|sci|C1
 télédétection|teledetección||S|sci|C1
-résolution spatiale|resolución espacial||L|sci|C1
-composition colorée|composición en color||L|sci|C1
+imagerie satellitaire|imágenes satelitales||L|sci|C1
+photogrammétrie|fotogrametría||S|sci|C1
+altimétrie|altimetría||S|sci|C1
+courbe de niveau|curva de nivel||L|sci|C1
 levé topographique|levantamiento topográfico||L|sci|C1
+géoréférencement|georreferenciación||S|sci|C1
+couche cartographique|capa cartográfica||L|sci|C1
+géolocalisation|geolocalización||S|sci|C1
+balise|baliza||S|sci|C1
+stéréoscopie|estereoscopia||S|sci|C1
+spectre électromagnétique|espectro electromagnético||L|sci|C1
+résolution spatiale|resolución espacial||L|sci|C1
 triangulation|triangulación||S|sci|C1
-géodésie|geodesia||S|sci|C1
-géolocalisation|geolocalización||S|tec|C1
-cadastre|catastro||S|sci|C1
-parcelle cadastrale|parcela catastral||L|sci|C1
-planisphère|planisferio||S|sci|C1
-isobare|isobara||S|sci|C1
-orthophotographie|ortofotografía||S|sci|C1
-stéréoscopie|estereoscopía||S|sci|C1
-borne|mojón (geodésico)||S|sci|C1
-hydrographie|hidrografía||S|sci|C1
-profil en travers|perfil transversal||L|sci|C1
-versification|versificación||S|let|C1
-alexandrin|alejandrino (verso de doce sílabas)||S|let|C1
+azimut|acimut||S|sci|C1
+borne|mojón||S|sci|C1
+plan cadastral|plano catastral||L|sci|C1
+toponymie|toponimia||S|sci|C1
+carroyage|malla cuadriculada||S|sci|C1
+numérisation|digitalización||S|sci|C1
+fusion d'images|fusión de imágenes||L|sci|C1
+capteur|sensor||S|sci|C1
+orthorectification|ortorrectificación||S|sci|C1
+métrique|métrica||S|let|C1
+alexandrin|alejandrino (verso)||S|let|C1
 décasyllabe|decasílabo||S|let|C1
 octosyllabe|octosílabo||S|let|C1
 rime plate|rima pareada||L|let|C1
-rime croisée|rima alterna||L|let|C1
+rime croisée|rima cruzada||L|let|C1
 vers libre|verso libre||L|let|C1
-vers impair|verso impar||L|let|C1
 césure|cesura||S|let|C1
 diérèse|diéresis||S|let|C1
 synérèse|sinéresis||S|let|C1
 hémistiche|hemistiquio||S|let|C1
-prosodie|prosodia||S|let|C1
-scander|escandir (los versos)||V|let|C1
+pied|pie (métrico)||S|let|C1
+iambe|yambo||S|let|C1
+trochée|troqueo||S|let|C1
+anapeste|anapesto||S|let|C1
+dactyle|dáctilo||S|let|C1
+spondée|espondeo||S|let|C1
 accent tonique|acento tónico||L|let|C1
+scansion|escansión||S|let|C1
+versification|versificación||S|let|C1
+prosodie|prosodia||S|let|C1
 allitération|aliteración||S|let|C1
 assonance|asonancia||S|let|C1
-élision|elisión||S|let|C1
-hiatus|hiato||S|let|C1
-euphonie|eufonía||S|let|C1
-cadence|cadencia (métrica)||S|let|C1
 strophe|estrofa||S|let|C1
 quatrain|cuarteto||S|let|C1
 distique|dístico||S|let|C1
-refrain|estribillo||S|let|C1
 enjambement|encabalgamiento||S|let|C1
-mètre|metro (poético)||S|let|C1
-verset|versículo||S|let|C1
-psalmodier|salmodiar||V|let|C1
-déclamation|declamación||S|let|C1
-stance|estancia (estrofa)||S|let|C1
-décompte syllabique|cómputo silábico||L|let|C1
-metteur en scène|director de escena||L|let|C1
+élision|elisión||S|let|C1
+prosodique|prosódico||A|let|C1
+tragédie|tragedia||S|art|C1
+tragicomédie|tragicomedia||S|art|C1
+drame bourgeois|drama burgués||L|art|C1
+vaudeville|vodevil||S|art|C1
+melodrame|melodrama||S|art|C1
+théâtre de l'absurde|teatro del absurdo||L|art|C1
+mise en scène|puesta en escena||L|art|C1
 scénographie|escenografía||S|art|C1
-didascalie|acotación||S|let|C1
-tirade|parrafada (réplica extensa)||S|let|C1
-aparté|aparte||S|let|C1
-quiproquo|quiproquo (malentendido cómico)||S|let|C1
-dénouement|desenlace||S|let|C1
-coup de théâtre|golpe de efecto teatral||L|let|C1
-souffleur|apuntador||S|let|C1
-répétition générale|ensayo general||L|let|C1
-entracte|entreacto||S|let|C1
-figurant|figurante (de reparto)||S|let|C1
-tragi-comédie|tragicomedia||S|let|C1
-bouffon|bufón||S|let|C1
-livret|libreto||S|let|C1
-tréteau|tablado||S|let|C1
-praticable|tarima (plataforma escénica)||S|let|C1
-loge|camerino||S|let|C1
-cintres|telares (del escenario)||S|let|C1
-vaudeville|vodevil||S|let|C1
-théâtre de l'absurde|teatro del absurdo||L|let|C1
-drame bourgeois|drama burgués||L|let|C1
-exposition|planteamiento (de la acción teatral)||S|let|C1
-plateau|escenario||S|let|C1
-troupe|compañía teatral||S|let|C1
-jeu d'acteur|trabajo actoral||L|let|C1
-dramaturge|dramaturgo||S|pro|C1
-dramaturgie|dramaturgia||S|let|C1
-réplique|réplica (en el diálogo)||S|let|C1
-cantatrice|cantante de ópera||S|mus|C1
-pantomime|pantomima||S|let|C1
-lever de rideau|subida del telón||L|let|C1
-métaphore filée|metáfora continuada||L|let|C1
+décor|decorado||S|art|C1
+praticable|practicable (plataforma escénica)||S|art|C1
+régisseur|regidor||S|art|C1
+souffleur|apuntador||S|art|C1
+intermède|entremés||S|art|C1
+aparté|aparte||S|art|C1
+didascalie|didascalia||S|art|C1
+quatrième mur|cuarta pared||L|art|C1
+dénouement|desenlace||S|art|C1
+lever de rideau|subida del telón||L|art|C1
+jeu d'acteur|trabajo actoral||L|art|C1
+canevas|esquema argumental||S|art|C1
+pièce à thèse|obra de tesis||L|art|C1
+distanciation|distanciamiento (teatral)||S|art|C1
+intrigue|trama||S|art|C1
+tirade|tirada (parlamento teatral)||S|art|C1
+stichomythie|esticomitia||S|art|C1
+coup de théâtre|giro teatral||L|art|C1
+entracte|entreacto||S|art|C1
+figurant|figurante||S|art|C1
+doublure|doble (de actor)||S|art|C1
+métaphore filée|metáfora sostenida||L|let|C1
 métonymie|metonimia||S|let|C1
 synecdoque|sinécdoque||S|let|C1
+allégorie|alegoría||S|let|C1
+hyperbole|hipérbole||S|let|C1
 litote|lítote||S|let|C1
 euphémisme|eufemismo||S|let|C1
+antiphrase|antífrasis||S|let|C1
 oxymore|oxímoron||S|let|C1
-antithèse|antítesis||S|let|C1
 chiasme|quiasmo||S|let|C1
 anaphore|anáfora||S|let|C1
-ellipse|elipsis (retórica)||S|let|C1
-zeugme|zeugma||S|let|C1
+gradation|gradación||S|let|C1
+anacoluthe|anacoluto||S|let|C1
+ellipse|elipsis||S|let|C1
+hyperbate|hipérbaton||S|let|C1
+parallélisme|paralelismo||S|let|C1
 prosopopée|prosopopeya||S|let|C1
-allégorie|alegoría||S|let|C1
-mise en abyme|relato dentro del relato||L|let|C1
-narratologie|narratología||S|let|C1
-focalisation|focalización (narrativa)||S|let|C1
-diégèse|diegesis||S|let|C1
-intertextualité|intertextualidad||S|let|C1
-pastiche|pastiche||S|let|C1
-ironie dramatique|ironía dramática||L|let|C1
-antiphrase|antífrasis||S|let|C1
+personnification|personificación||S|let|C1
 catachrèse|catacresis||S|let|C1
 périphrase|perífrasis||S|let|C1
-pléonasme|pleonasmo||S|let|C1
-trope|tropo (figura retórica)||S|let|C1
+antithèse|antítesis||S|let|C1
 apostrophe|apóstrofe||S|let|C1
-gradation|gradación (retórica)||S|let|C1
-hyperbate|hipérbaton||S|let|C1
-registre lyrique|registro lírico||L|let|C1
-point de vue narratif|punto de vista narrativo||L|let|C1
-énonciation|enunciación||S|let|C1
-sous-entendu|sobreentendido||S|let|C1
+image poétique|imagen poética||L|let|C1
+figure de style|figura retórica||L|let|C1
+mise en abyme|puesta en abismo||L|let|C1
+lyrisme|lirismo||S|let|C1
+poétique|poética||S|let|C1
+élégie|elegía||S|let|C1
+ode|oda||S|let|C1
 philologie|filología||S|let|C1
 philologue|filólogo||S|let|C1
 épigraphie|epigrafía||S|let|C1
 papyrologie|papirología||S|let|C1
-paléographie|paleografía||S|let|C1
 codicologie|codicología||S|let|C1
-enluminure|miniatura (de manuscrito)||S|art|C1
+paléographie|paleografía||S|let|C1
+manuscrit|manuscrito||S|let|C1
 codex|códice||S|let|C1
-palimpseste|palimpsesto||S|let|C1
-glose|glosa||S|let|C1
-scholie|escolio (nota erudita)||S|let|C1
-apparat critique|aparato crítico||L|let|C1
+incunable|incunable||S|let|C1
+critique textuelle|crítica textual||L|let|C1
 édition critique|edición crítica||L|let|C1
-variante|variante textual||S|let|C1
 helléniste|helenista||S|let|C1
 latiniste|latinista||S|let|C1
-humanités|humanidades (clásicas)||S|let|C1
-syllogisme|silogismo||S|let|C1
-dialectique|dialéctica||S|ast|C1
-sophisme|sofisma||S|ast|C1
-emprunt lexical|préstamo léxico||L|let|C1
-champ sémantique|campo semántico||L|let|C1
-lexicographie|lexicografía||S|let|C1
-déclinaison|declinación (gramatical)||S|let|C1
+humanisme|humanismo||S|let|C1
+humaniste|humanista||S|let|C1
 exégèse|exégesis||S|let|C1
 herméneutique|hermenéutica||S|let|C1
-incunable|incunable||S|let|C1
-stèle|estela (con inscripción)||S|let|C1
-copiste|copista||S|let|C1
-grammaire comparée|gramática comparada||L|let|C1
-érudition|erudición||S|let|C1
-scolastique|escolástica||S|ast|C1
+glose|glosa||S|let|C1
+scholie|escolio||S|let|C1
+palimpseste|palimpsesto||S|let|C1
+étymon|etimón||S|let|C1
+emprunt|préstamo lingüístico||S|let|C1
+calque|calco||S|let|C1
+diachronique|diacrónico||A|let|C1
+vulgate|vulgata||S|let|C1
+hapax|hapax (único empleo)||S|let|C1
+hagiographie|hagiografía||S|let|C1
+épigramme|epigrama||S|let|C1
+commentaire de texte|comentario de texto||L|let|C1
+traductologie|traductología||S|let|C1
+langue de départ|lengua de partida||L|let|C1
+langue cible|lengua meta||L|let|C1
+équivalence|equivalencia||S|let|C1
+transposition|transposición||S|let|C1
+modulation|modulación||S|let|C1
+étoffement|ampliación (procedimiento de traducción)||S|let|C1
+compensation|compensación||S|let|C1
+explicitation|explicitación||S|let|C1
+reformulation|reformulación||S|let|C1
+fidélité|fidelidad||S|let|C1
+belles infidèles|bellas infieles||L|let|C1
+interprétariat|interpretación (de conferencias)||S|let|C1
+interprète|intérprete||S|let|C1
+sous-titrage|subtitulado||S|let|C1
+doublage|doblaje||S|let|C1
+localisation|localización (adaptación de productos)||S|let|C1
+métatexte|metatexto||S|let|C1
+domestiquer|domesticar (la traducción)||V|let|C1
+version|traducción a la lengua propia||S|let|C1
+thème|traducción a la lengua extranjera||S|let|C1
+contresens|contrasentido||S|let|C1
+faux ami|falso amigo||L|let|C1
+glossaire|glosario||S|let|C1
+corpus|corpus||S|let|C1
+tournure idiomatique|giro idiomático||L|let|C1
+unité de traduction|unidad de traducción||L|let|C1
+littéralité|literalidad||S|let|C1

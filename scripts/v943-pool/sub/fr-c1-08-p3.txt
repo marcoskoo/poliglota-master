@@ -1,259 +1,259 @@
-cosmologie|cosmología||S|sci|C1
-astrophysique|astrofísica||S|sci|C1
-expansion de l'univers|expansión del universo||L|sci|C1
-étoile à neutrons|estrella de neutrones||L|sci|C1
-naine blanche|enana blanca||L|sci|C1
-trou noir|agujero negro||L|sci|C1
-horizon des événements|horizonte de sucesos||L|sci|C1
-singularité gravitationnelle|singularidad gravitacional||L|sci|C1
-relativité générale|relatividad general||L|sci|C1
-relativité restreinte|relatividad especial||L|sci|C1
-lentille gravitationnelle|lente gravitacional||L|sci|C1
-interféromètre|interferómetro||S|sci|C1
-exoplanète|exoplaneta||S|sci|C1
-planète tellurique|planeta rocoso||L|sci|C1
-géante gazeuse|gigante gaseoso||L|sci|C1
-nébuleuse|nebulosa||S|sci|C1
-supernova|supernova||S|sci|C1
-pulsar|púlsar||S|sci|C1
-quasar|cuásar||S|sci|C1
-amas galactique|cúmulo galáctico||L|sci|C1
-rayonnement cosmologique|radiación de fondo||L|sci|C1
-énergie sombre|energía oscura||L|sci|C1
-vitesse de libération|velocidad de escape||L|sci|C1
-fusion nucléaire|fusión nuclear||L|sci|C1
-voie lactée|vía láctea||L|sci|C1
-astéroïde|asteroide||S|sci|C1
-mécanique céleste|mecánica celeste||L|sci|C1
-trou de ver|agujero de gusano||L|sci|C1
-année-lumière|año luz||S|sci|C1
 biotechnologie|biotecnología||S|sci|C1
+génie génétique|ingeniería genética||L|sci|C1
 thérapie génique|terapia génica||L|sci|C1
-organisme génétiquement modifié|organismo modificado genéticamente||L|sci|C1
-cloner|clonar||V|sci|C1
 vecteur viral|vector viral||L|sci|C1
 plasmide|plásmido||S|sci|C1
-enzyme de restriction|enzima de restricción||L|sci|C1
-protéine recombinante|proteína recombinante||L|sci|C1
-culture cellulaire|cultivo celular||L|sci|C1
-culture de tissus|cultivo de tejidos||L|sci|C1
-organisme modèle|organismo modelo||L|sci|C1
+manipulation génétique|manipulación genética||L|sci|C1
+biobanque|biobanco||S|sci|C1
 cryoconservation|crioconservación||S|sci|C1
-lyophilisation|liofilización||S|sci|C1
-séquençage haut débit|secuenciación masiva||L|sci|C1
-ciseaux moléculaires|tijeras moleculares||L|sci|C1
+organoïde|organoides||S|sci|C1
+organisme modèle|organismo modelo||L|sci|C1
+drosophile|drosófila||S|sci|C1
 biocarburant|biocarburante||S|sci|C1
-biomasse|biomasa||S|sci|C1
-bioréacteur|biorreactor||S|sci|C1
-souris transgénique|ratón transgénico||L|sci|C1
-transgénique|transgénico||A|sci|C1
-biosécurité|bioseguridad||S|sci|C1
-rétrovirus|retrovirus||S|sci|C1
-biomédical|biomédico||A|sci|C1
-spermatozoïde|espermatozoide||S|sci|C1
-ovocyte|ovocito||S|sci|C1
-banque de tissus|banco de tejidos||L|sci|C1
-chimère|quimera (organismo)||S|sci|C1
-mutagenèse|mutagénesis||S|sci|C1
+bioremédiation|biorremediación||S|sci|C1
+nanotechnologie|nanotecnología||S|sci|C1
+nanoparticule|nanopartícula||S|sci|C1
 bioinformatique|bioinformática||S|sci|C1
-statistique inférentielle|estadística inferencial||L|sci|C1
+recombinant|recombinante||A|sci|C1
+culture cellulaire|cultivo celular||L|sci|C1
+mutagenèse|mutagénesis||S|sci|C1
+génomique|genómica||S|sci|C1
+protéomique|proteómica||S|sci|C1
+clonage thérapeutique|clonaje terapéutico||L|sci|C1
 échantillonnage|muestreo||S|sci|C1
-échantillon représentatif|muestra representativa||L|sci|C1
-biais de sélection|sesgo de selección||L|sci|C1
-corrélation|correlación||S|sci|C1
-corrélation partielle|correlación parcial||L|sci|C1
-causalité|causalidad||S|sci|C1
-variable dépendante|variable dependiente||L|sci|C1
-variable indépendante|variable independiente||L|sci|C1
-hypothèse nulle|hipótesis nula||L|sci|C1
-seuil de signification|umbral de significación||L|sci|C1
-significativité|significatividad||S|sci|C1
-intervalle de confiance|intervalo de confianza||L|sci|C1
-écart-type|desviación típica||S|sci|C1
 variance|varianza||S|sci|C1
-distribution normale|distribución normal||L|sci|C1
-régression linéaire|regresión lineal||L|sci|C1
-analyse factorielle|análisis factorial||L|sci|C1
-données longitudinales|datos longitudinales||L|sci|C1
-essai randomisé|ensayo aleatorizado||L|sci|C1
-plan d'expérience|diseño de la experiencia||L|sci|C1
-expérimentation|experimentación||S|sci|C1
+quantile|cuantil||S|sci|C1
+espérance mathématique|esperanza matemática||L|sci|C1
+inférence|inferencia||S|sci|C1
+significativité|significación estadística||S|sci|C1
+hypothèse nulle|hipótesis nula||L|sci|C1
+intervalle de confiance|intervalo de confianza||L|sci|C1
+puissance statistique|potencia estadística||L|sci|C1
+estimateur|estimador||S|sci|C1
+robustesse|robustez||S|sci|C1
+réplicabilité|replicabilidad||S|sci|C1
 reproductibilité|reproducibilidad||S|sci|C1
-validité externe|validez externa||L|sci|C1
-fiabilité|fiabilidad||S|sci|C1
+causalité|causalidad||S|sci|C1
+validité|validez||S|sci|C1
+étalonnage|calibración||S|sci|C1
+analyse factorielle|análisis factorial||L|sci|C1
+moindres carrés|mínimos cuadrados||L|sci|C1
+résidus|residuos||S|sci|C1
+observation participante|observación participante||L|sci|C1
+corpus|corpus||S|sci|C1
+analyse de contenu|análisis de contenido||L|sci|C1
+triangulation|triangulación||S|sci|C1
+réflexivité|reflexividad||S|sci|C1
+abduction|abducción||S|sci|C1
+vraisemblance|verosimilitud||S|sci|C1
+pondération|ponderación||S|sci|C1
 méta-analyse|metaanálisis||S|sci|C1
-entretien semi-directif|entrevista semiestructurada||L|sci|C1
-données quantitatives|datos cuantitativos||L|sci|C1
-écart interquartile|rango intercuartílico||L|sci|C1
-épidémiologie|epidemiología||S|sla|C1
-incidence|incidencia||S|sla|C1
-prévalence|prevalencia||S|sla|C1
-comorbidité|comorbilidad||S|sla|C1
-mortalité|mortalidad||S|sla|C1
-morbidité|morbilidad||S|sla|C1
-létalité|letalidad||S|sla|C1
-endémie|endemia||S|sla|C1
-flambée épidémique|brote epidémico||L|sla|C1
-chaîne de contamination|cadena de contagio||L|sla|C1
-cas index|caso índice||L|sla|C1
-cas contact|contacto estrecho||L|sla|C1
-recherche des contacts|rastreo de contactos||L|sla|C1
-couverture vaccinale|cobertura vacunal||L|sla|C1
-immunité collective|inmunidad de grupo||L|sla|C1
-éradication|erradicación||S|sla|C1
-maladie chronique|enfermedad crónica||L|sla|C1
-facteur de risque|factor de riesgo||L|sla|C1
-inégalités de santé|desigualdades en salud||L|sla|C1
-santé publique|salud pública||L|sla|C1
-espérance de vie|esperanza de vida||L|sla|C1
-mortalité infantile|mortalidad infantil||L|sla|C1
-surmortalité|exceso de mortalidad||S|sla|C1
-zoonose|zoonosis||S|sla|C1
-assainissement|saneamiento||S|sla|C1
-étiologie|etiología||S|sla|C1
-surveillance épidémiologique|vigilancia epidemiológica||L|sla|C1
-prévention primaire|prevención primaria||L|sla|C1
-précarité|precariedad||S|ast|C1
-tectonique des plaques|tectónica de placas||L|nat|C1
-sismicité|sismicidad||S|nat|C1
-faille active|falla activa||L|nat|C1
-épicentre|epicentro||S|nat|C1
-sédimentation|sedimentación||S|nat|C1
-strate|estrato||S|nat|C1
-stratigraphie|estratigrafía||S|nat|C1
-plissement|plegamiento||S|nat|C1
-orogenèse|orogénesis||S|nat|C1
-subduction|subducción||S|nat|C1
-dorsale océanique|dorsal oceánica||L|nat|C1
-manteau terrestre|manto terrestre||L|nat|C1
-croûte terrestre|corteza terrestre||L|nat|C1
-noyau|núcleo terrestre||S|nat|C1
-pergélisol|permafrost||S|nat|C1
-moraine|morrena||S|nat|C1
-caldeira|caldera volcánica||S|nat|C1
-volcanisme|vulcanismo||S|nat|C1
-roche magmatique|roca ígnea||L|nat|C1
-gisement|yacimiento||S|nat|C1
-carotte de forage|testigo de perforación||L|nat|C1
-nappe phréatique|acuífero||L|nat|C1
-spéléologie|espeleología||S|nat|C1
-dérive des continents|deriva continental||L|nat|C1
-isostasie|isostasia||S|nat|C1
-paléontologie|paleontología||S|nat|C1
-fossilisation|fosilización||S|nat|C1
-datation au carbone|datación por carbono||L|nat|C1
-glaciation|glaciación||S|nat|C1
-théorème|teorema||S|sci|C1
-conjecture|conjetura||S|sci|C1
-corollaire|corolario||S|sci|C1
+taille d'effet|tamaño del efecto||L|sci|C1
+hétérogénéité|heterogeneidad||S|sci|C1
+épidémiologie|epidemiología||S|sci|C1
+prévalence|prevalencia||S|sci|C1
+morbidité|morbilidad||S|sci|C1
+létalité|letalidad||S|sci|C1
+surmortalité|exceso de mortalidad||S|sci|C1
+flambée épidémique|brote epidémico||L|sci|C1
+couverture vaccinale|cobertura vacunal||L|sci|C1
+éradication|erradicación||S|sci|C1
+assainissement|saneamiento||S|sci|C1
+salubrité|salubridad||S|sci|C1
+potabilité|potabilidad||S|sci|C1
+veille sanitaire|vigilancia sanitaria||L|sci|C1
+prématurité|prematuridad||S|sci|C1
+périnatalité|perinatalidad||S|sci|C1
+facteur de confusion|factor de confusión||L|sci|C1
+étude cas-témoins|estudio de casos y controles||L|sci|C1
+chaîne du froid|cadena de frío||L|sci|C1
+toxi-infection alimentaire|toxiinfección alimentaria||L|sci|C1
+immunité collective|inmunidad de grupo||L|sci|C1
+cas index|caso índice||L|sci|C1
+courbe épidémique|curva epidémica||L|sci|C1
+prophylaxie|profilaxis||S|sci|C1
+désert médical|desierto médico||L|sla|C1
+tiers payant|tercero pagador||L|fin|C1
+ambulatoire|ambulatorio||A|sla|C1
+sérologie|serología||S|sci|C1
+sismologie|sismología||S|sci|C1
+sismique|sísmico||A|sci|C1
+tellurique|telúrico||A|sci|C1
+sédimentation|sedimentación||S|sci|C1
+stratigraphie|estratigrafía||S|sci|C1
+pétrologie|petrología||S|sci|C1
+minéralogie|mineralogía||S|sci|C1
+cristallographie|cristalografía||S|sci|C1
+gisement|yacimiento||S|sci|C1
+filon|filón||S|sci|C1
+carottage|sondeo con testigo||S|sci|C1
+basalte|basalto||S|sci|C1
+obsidienne|obsidiana||S|sci|C1
+volcanisme|volcanismo||S|sci|C1
+géothermie|geotermia||S|sci|C1
+orogenèse|orogénesis||S|sci|C1
+moraine|morrena||S|sci|C1
+éboulis|derrubios||S|nat|C1
+glissement de terrain|desprendimiento de tierra||L|nat|C1
+subsidence|subsidencia||S|sci|C1
+océanographie|oceanografía||S|sci|C1
+hydrologie|hidrología||S|sci|C1
+aquifère|acuífero||S|sci|C1
+spéléologie|espeleología||S|sci|C1
+géodésie|geodesia||S|sci|C1
+paléontologie|paleontología||S|sci|C1
 lemme|lema||S|sci|C1
-axiome|axioma||S|sci|C1
-axiomatique|axiomático||A|sci|C1
-postulat|postulado||S|sci|C1
-démonstration|demostración||S|sci|C1
-équation différentielle|ecuación diferencial||L|sci|C1
-dérivée|derivada||S|sci|C1
-intégrale|integral||S|sci|C1
-intégration|integración||S|sci|C1
-matrice|matriz||S|sci|C1
-déterminant|determinante (matriz)||S|sci|C1
+tautologie|tautología||S|sci|C1
+prémisse|premisa||S|sci|C1
+implication|implicación lógica||S|sci|C1
+quantificateur|cuantificador||S|sci|C1
+prédicat|predicado||S|sci|C1
+dénombrable|numerable||A|sci|C1
+bijection|biyección||S|sci|C1
+primitive|primitiva||S|sci|C1
+asymptote|asíntota||S|sci|C1
+scalaire|escalar||A|sci|C1
+topologie|topología||S|sci|C1
 espace vectoriel|espacio vectorial||L|sci|C1
 valeur propre|valor propio||L|sci|C1
-topologie|topología||S|sci|C1
-convergence|convergencia||S|sci|C1
-asymptote|asíntota||S|sci|C1
-exponentielle|exponencial||S|sci|C1
-théorie des probabilités|teoría de la probabilidad||L|sci|C1
-logique formelle|lógica formal||L|sci|C1
-prédicat|predicado||S|sci|C1
-quantificateur|cuantificador||S|sci|C1
+équation différentielle|ecuación diferencial||L|sci|C1
+récursivité|recursividad||S|sci|C1
+itération|iteración||S|sci|C1
+combinatoire|combinatoria||S|sci|C1
+factorielle|factorial||S|sci|C1
+infinitésimal|infinitesimal||A|sci|C1
+stochastique|estocástico||A|sci|C1
 syllogisme|silogismo||S|sci|C1
-tautologie|tautología||S|sci|C1
-raisonnement par l'absurde|razonamiento por reducción al absurdo||L|sci|C1
-fractale|fractal||S|sci|C1
-critique littéraire|crítica literaria||L|let|C1
-canon littéraire|canon literario||L|let|C1
+contraposée|contrarrecíproca||S|sci|C1
+sophisme|sofisma||S|sci|C1
+raisonnement par l'absurde|demostración por el absurdo||L|sci|C1
+tiers exclu|tercero excluido||L|sci|C1
+gradient|gradiente||S|sci|C1
+rotationnel|rotacional||S|sci|C1
+laplacien|laplaciano||S|sci|C1
+tenseur|tensor||S|sci|C1
+lyrisme|lirismo||S|let|C1
+versification|versificación||S|let|C1
+alexandrin|verso alejandrino||S|let|C1
 intertextualité|intertextualidad||S|let|C1
 palimpseste|palimpsesto||S|let|C1
+burlesque|burlesco||A|let|C1
+canon|canon literario||S|let|C1
+classicisme|clasicismo||S|let|C1
+formalisme|formalismo||S|let|C1
 herméneutique|hermenéutica||S|let|C1
 exégèse|exégesis||S|let|C1
-sémiotique|semiótica||S|let|C1
-signifiant|significante||S|let|C1
-signifié|significado (concepto)||S|let|C1
+fabulation|fabulación||S|let|C1
 stylistique|estilística||S|let|C1
-poétique|poética||S|let|C1
-registre épique|registro épico||L|let|C1
-registre lyrique|registro lírico||L|let|C1
-courant de pensée|corriente de pensamiento||L|ast|C1
-classicisme|clasicismo||S|let|C1
-romantisme|romanticismo||S|let|C1
-symbolisme|simbolismo||S|let|C1
-surréalisme|surrealismo||S|let|C1
-existentialisme|existencialismo||S|let|C1
-dystopie|distopía||S|let|C1
-pamphlet|panfleto||S|let|C1
-feuilleton|folletín||S|let|C1
-poète maudit|poeta maldito||L|let|C1
-péripétie|peripecia||S|let|C1
-dénouement|desenlace||S|let|C1
-littérarité|literariedad||S|let|C1
-érudition|erudición||S|let|C1
-antihéros|antihéroe||S|let|C1
-chute|remate final (de un relato)||S|let|C1
-démystifier|desmitificar||V|let|C1
-métonymie|metonimia||S|let|C1
-synecdoque|sinécdoque||S|let|C1
-allégorie|alegoría||S|let|C1
-hyperbole|hipérbole||S|let|C1
+topos|tópos||S|let|C1
+sémiotique|semiótica||S|let|C1
+structuralisme|estructuralismo||S|let|C1
+déconstruction|deconstrucción||S|let|C1
+mort de l'auteur|muerte del autor||L|let|C1
+industrie culturelle|industria cultural||L|let|C1
+mise en abyme|puesta en abismo||L|let|C1
+glose|glosa||S|let|C1
+roman courtois|novela cortés||L|let|C1
+chanson de geste|cantar de gesta||L|let|C1
+enluminure|miniatura iluminada||S|art|C1
+autofiction|autoficción||S|let|C1
+hagiographie|hagiografía||S|let|C1
+postmodernisme|posmodernismo||S|let|C1
+bibliophilie|bibliofilia||S|let|C1
+incunable|incunable||S|let|C1
+hypotexte|hipotexto||S|let|C1
+pathos|pathos||S|let|C1
+ethos|ethos||S|let|C1
+anaphore|anáfora||S|let|C1
+épiphore|epífora||S|let|C1
+chiasme|quiasmo||S|let|C1
 litote|lítote||S|let|C1
 euphémisme|eufemismo||S|let|C1
+métonymie|metonimia||S|let|C1
+synecdoque|sinécdoque||S|let|C1
 oxymore|oxímoron||S|let|C1
-antithèse|antítesis||S|let|C1
-anaphore|anáfora||S|let|C1
-asyndète|asíndeton||S|let|C1
-ellipse|elipsis||S|let|C1
-zeugme|zeugma||S|let|C1
-chiasme|quiasmo||S|let|C1
-hypallage|hipálage||S|let|C1
 prosopopée|prosopopeya||S|let|C1
-apostrophe|apóstrofe (figura retórica)||S|let|C1
-périphrase|perífrasis||S|let|C1
-pléonasme|pleonasmo||S|let|C1
+préterition|preterición||S|let|C1
 antiphrase|antífrasis||S|let|C1
-euphonie|eufonía||S|let|C1
-versification|versificación||S|let|C1
-alexandrin|alejandrino (verso)||S|let|C1
-rime plate|rima pareada||L|let|C1
-rime croisée|rima alternada||L|let|C1
+asyndète|asíndeton||S|let|C1
+gradation|gradación||S|let|C1
 césure|cesura||S|let|C1
 hémistiche|hemistiquio||S|let|C1
 diérèse|diéresis||S|let|C1
-prolepse|prolepsis||S|let|C1
+polyptote|políptoton||S|let|C1
+paronomase|paranomasia||S|let|C1
+hyperbate|hipérbaton||S|let|C1
+hypallage|hipálage||S|let|C1
+métalepse|metálepsis||S|let|C1
+ironie dramatique|ironía dramática||L|let|C1
+dramaturgie|dramaturgia||S|cin|C1
+didascalie|acotación teatral||S|cin|C1
+stichomythie|esticomitia||S|let|C1
+coup de théâtre|golpe de teatro||L|let|C1
+peroraison|peroración||S|let|C1
+proème|proemio||S|let|C1
+amplification|amplificación||S|let|C1
+laconisme|laconismo||S|let|C1
+grandiloquent|grandilocuente||A|let|C1
+verbiage|verborrea||S|let|C1
 narratologie|narratología||S|let|C1
-narrataire|narratario||S|let|C1
-focalisation|focalización||S|let|C1
-focalisation interne|focalización interna||L|let|C1
-récit|relato||S|let|C1
-récit-cadre|relato marco||S|let|C1
 diégèse|diegesis||S|let|C1
-diégétique|diegético||A|let|C1
-actant|actante||S|let|C1
-schéma actanciel|modelo actancial||L|let|C1
-héros éponyme|héroe epónimo||L|let|C1
-intrigue|trama||S|let|C1
-retour en arrière|vuelta atrás (flashback)||L|let|C1
-exposition|exposición (planteamiento)||S|let|C1
-effet de réel|efecto de realidad||L|let|C1
-pacte de lecture|pacto de lectura||L|let|C1
-suspension d'incrédulité|suspensión de la incredulidad||L|let|C1
-incipit|incipit (comienzo)||S|let|C1
-excipit|excipit (cierre del texto)||S|let|C1
-auteur implicite|autor implícito||L|let|C1
+focalisation|focalización||S|let|C1
+analepse|analepsis||S|let|C1
+prolepse|prolepsis||S|let|C1
+trame|trama||S|let|C1
+narrataire|narratario||S|let|C1
 lecteur modèle|lector modelo||L|let|C1
-métalepse|métalepsis||S|let|C1
-ellipse narrative|elipsis narrativa||L|let|C1
-isotopie|isotopía (recurrencia temática)||S|let|C1
-hypotexte|hipotexto||S|let|C1
-hypertexte|hipertexto (texto derivado)||S|let|C1
-vraisemblance|verosimilitud||S|let|C1
-mise en abyme|puesta en abismo||L|let|C1
+auteur implicite|autor implícito||L|let|C1
+actant|actante||S|let|C1
+archétype|arquetipo||S|let|C1
+uchronie|ucronía||S|let|C1
+distanciation|distanciamiento||S|let|C1
+péripétie|peripecia||S|let|C1
+fin ouverte|final abierto||L|let|C1
+temporalité|temporalidad||S|let|C1
+chronotope|cronotopo||S|let|C1
+narrativité|narratividad||S|let|C1
+métafiction|metaficción||S|let|C1
+quatrième mur|cuarta pared||L|cin|C1
+incipit|incipit||S|let|C1
+acmé|acmé||S|let|C1
+omniscience|omnisciencia||S|let|C1
+inquiétante étrangeté|lo siniestro||L|let|C1
+récit cadre|relato marco||L|let|C1
+réception|recepción||S|let|C1
+firmament|firmamento||S|let|C1
+astre|astro||S|let|C1
+givre|escarcha||S|nat|C1
+effluve|efluvio||S|nat|C1
+bruissement|susurro||S|let|C1
+frémissement|estremecimiento||S|let|C1
+morne|morno||A|let|C1
+tourmente|tempestad||S|let|C1
+courroux|cólera||S|let|C1
+ondée|chubasco||S|nat|C1
+giboulée|chaparrón de primavera||S|nat|C1
+ressac|rompiente||S|nat|C1
+tison|tizón||S|nat|C1
+errance|deambular||S|let|C1
+linceul|sudario||S|let|C1
+gisant|efigie yacente||S|art|C1
+if|tejo||S|nat|C1
+orme|olmo||S|nat|C1
+bocage|paisaje de prados y setos||S|nat|C1
+lierre|hiedra||S|nat|C1
+bruyère|brezo||S|nat|C1
+fougère|helecho||S|nat|C1
+chaumière|choza de paja||S|cas|C1
+pâtre|pastor||S|pro|C1
+chiourme|chusma||S|let|C1
+gueux|pordiosero||S|let|C1
+hardes|harapos||S|let|C1
+farfadet|duende||S|let|C1
+psalmodie|salmodia||S|let|C1
+sénescence|senescencia||S|let|C1
+écrin|estuche||S|let|C1
+parure|atavío||S|let|C1
+oriflamme|oriflama||S|let|C1
+blason|blasón||S|let|C1
+jadis|antaño||D|tmp|C1

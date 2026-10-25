@@ -1,259 +1,259 @@
-tarif douanier|arancel aduanero||L|fin|C1
-droits de douane|derechos de aduana||L|fin|C1
-protectionnisme|proteccionismo||S|fin|C1
-libre-échange|libre comercio||S|fin|C1
-barrière non tarifaire|barrera no arancelaria||L|fin|C1
-contingentement|contingenciación||S|fin|C1
-quota d'importation|cuota de importación||L|fin|C1
-dumping social|dumping social||L|fin|C1
-subvention publique|subvención pública||L|fin|C1
-subventionner|subvencionar||V|fin|C1
-mesure de rétorsion|medida de represalia||L|fin|C1
-balance commerciale|balanza comercial||L|fin|C1
 balance des paiements|balanza de pagos||L|fin|C1
 excédent commercial|superávit comercial||L|fin|C1
 termes de l'échange|relación de intercambio||L|fin|C1
-compétitivité|competitividad||S|fin|C1
-avantage compétitif|ventaja competitiva||L|fin|C1
-délocalisation|deslocalización||S|fin|C1
-relocalisation|relocalización||S|fin|C1
-chaîne d'approvisionnement|cadena de suministro||L|fin|C1
-embargo|embargo||S|fin|C1
-sanction économique|sanción económica||L|fin|C1
-zone de libre-échange|zona de libre comercio||L|fin|C1
-normes sanitaires|normas sanitarias||L|fin|C1
-règles d'origine|normas de origen||L|fin|C1
-fret|flete||S|fin|C1
-transbordement|transbordo||S|fin|C1
-porte-conteneurs|portacontenedores||S|tra|C1
-accise|impuesto especial||S|fin|C1
-contrefaçon|falsificación||S|fin|C1
-cabotage|navegación de cabotaje||S|tra|C1
-lettre de crédit|carta de crédito||L|fin|C1
-commerce équitable|comercio justo||L|fin|C1
-bilan|balance de situación||S|fin|C1
-compte de résultat|cuenta de resultados||L|fin|C1
-écriture comptable|asiento contable||L|fin|C1
-amortissement|amortización||S|fin|C1
-provision|provisión||S|fin|C1
-créance douteuse|crédito dudoso||L|fin|C1
-passif|pasivo||S|fin|C1
-actif|activo||S|fin|C1
-immobilisation|inmovilizado||S|fin|C1
-fonds de roulement|fondo de maniobra||L|fin|C1
-trésorerie|tesorería||S|fin|C1
-flux de trésorerie|flujo de caja||L|fin|C1
-capitaux propres|fondos propios||L|fin|C1
-augmentation de capital|ampliación de capital||L|fin|C1
-offre publique d'achat|oferta pública de adquisición||L|fin|C1
-fusion|fusión||S|fin|C1
-scission|escisión||S|fin|C1
-filiale|filial||S|fin|C1
-maison mère|empresa matriz||L|fin|C1
-holding|holding||S|fin|C1
-redressement judiciaire|concurso de acreedores||L|fin|C1
-liquidation|liquidación (de una empresa)||S|fin|C1
-procédure collective|procedimiento concursal||L|fin|C1
+contingent|contingente arancelario||S|fin|C1
+mesures de rétorsion|medidas de represalia||L|fin|C1
+lettre de change|letra de cambio||L|fin|C1
+crédit documentaire|crédito documentario||L|fin|C1
+affréter|fletar||V|fin|C1
+affrètement|fletamento||S|fin|C1
+cabotage|cabotaje||S|fin|C1
+débouché|salida comercial||S|fin|C1
+entrepôt|depósito aduanero||S|fin|C1
+zone franche|zona franca||L|fin|C1
+union douanière|unión aduanera||L|fin|C1
+clause de sauvegarde|cláusula de salvaguardia||L|fin|C1
+tarif extérieur commun|arancel exterior común||L|fin|C1
+franchise douanière|franquicia aduanera||L|fin|C1
+armateur|armador naviero||S|fin|C1
+autarcie|autarquía||S|fin|C1
+réciprocité|reciprocidad||S|fin|C1
+multilatéralisme|multilateralismo||S|fin|C1
+pays tiers|países terceros||L|fin|C1
+réexportation|reexportación||S|fin|C1
+oligopole|oligopolio||S|fin|C1
+position dominante|posición dominante||L|fin|C1
+avantage comparatif|ventaja comparativa||L|fin|C1
+coentreprise|empresa conjunta||S|fin|C1
+colportage|venta ambulante||S|fin|C1
+ristourne|descuento retroactivo||S|fin|C1
+balance courante|balanza por cuenta corriente||L|fin|C1
 commissaire aux comptes|auditor de cuentas||L|fin|C1
-audit|auditoría||S|fin|C1
-clôture de l'exercice|cierre del ejercicio||L|fin|C1
-ristourne|rebaja comercial||S|fin|C1
-escompte|descuento de efectos||S|fin|C1
-insolvabilité|insolvencia||S|fin|C1
-fraude fiscale|fraude fiscal||L|fin|C1
-évasion fiscale|evasión fiscal||L|fin|C1
-inventaire|inventario||S|fin|C1
-action|acción (valor bursátil)||S|fin|C1
-marché obligataire|mercado de renta fija||L|fin|C1
-dividende|dividendo||S|fin|C1
-rendement|rentabilidad||S|fin|C1
-plus-value|plusvalía||S|fin|C1
-moins-value|minusvalía||S|fin|C1
+redressement judiciaire|concurso de acreedores||L|fin|C1
+banqueroute|quiebra fraudulenta||S|fin|C1
+capitaux propres|fondos propios||L|fin|C1
+fonds de commerce|fondo de comercio||L|fin|C1
+états financiers|estados financieros||L|fin|C1
+compte de résultat|cuenta de resultados||L|fin|C1
+excédent brut d'exploitation|excedente de explotación||L|fin|C1
+exercice fiscal|ejercicio fiscal||L|fin|C1
+siège social|domicilio social||L|fin|C1
+capitalisation boursière|capitalización bursátil||L|fin|C1
+scission|escisión||S|fin|C1
+assujetti|sujeto pasivo||S|fin|C1
+intéressement|participación en beneficios||S|fin|C1
+courtage|corretaje||S|fin|C1
+malversation|malversación||S|fin|C1
+détournement de fonds|desfalco||L|fin|C1
+abus de confiance|abuso de confianza||L|ist|C1
+escroquerie|estafa||S|ist|C1
+filouterie|timo||S|ist|C1
+voies de fait|vías de hecho||L|ist|C1
+coups et blessures|golpes y lesiones||L|ist|C1
+sévices|malos tratos||S|ist|C1
+méfait|fechoría||S|ist|C1
+parricide|parricidio||S|ist|C1
+homicide involontaire|homicidio imprudente||L|ist|C1
+crime passionnel|crimen pasional||L|ist|C1
+délictuel|delictivo||A|ist|C1
+apporteur d'affaires|corredor de negocios||L|pro|C1
+gage|prenda||S|fin|C1
+nantissement|prenda mercantil||S|fin|C1
+encours|saldo vivo||S|fin|C1
+actionnariat|accionariado||S|fin|C1
 indice boursier|índice bursátil||L|fin|C1
-cotation|cotización||S|fin|C1
+produit dérivé|producto derivado||L|fin|C1
+sous-jacent|subyacente||S|fin|C1
+option d'achat|opción de compra||L|fin|C1
+contrat à terme|contrato a plazo||L|fin|C1
+prix d'exercice|precio de ejercicio||L|fin|C1
+effet de levier|apalancamiento||L|fin|C1
+appel de marge|llamada de margen||L|fin|C1
+vente à découvert|venta en corto||L|fin|C1
+risque systémique|riesgo sistémico||L|fin|C1
+titrisation|titulización||S|fin|C1
+tranche|tramo||S|fin|C1
+gré à gré|mercado extrabursátil||L|fin|C1
+contrepartie|contraparte||S|fin|C1
+carnet d'ordres|libro de órdenes||L|fin|C1
+cambiste|cambista||S|fin|C1
+fourchette|horquilla||S|fin|C1
+retournement de marché|cambio de tendencia||L|fin|C1
+capital-risque|capital riesgo||S|fin|C1
+levée de fonds|captación de fondos||L|fin|C1
 introduction en bourse|salida a bolsa||L|fin|C1
 volatilité|volatilidad||S|fin|C1
-dérivé|derivado financiero||S|fin|C1
-produit dérivé|producto derivado||L|fin|C1
-option d'achat|opción de compra||L|fin|C1
-option de vente|opción de venta||L|fin|C1
-contrat à terme|contrato de futuros||L|fin|C1
-couverture|cobertura (de riesgo)||S|fin|C1
-se couvrir|cubrirse (ante el riesgo)||V|fin|C1
-fonds spéculatif|fondo de inversión libre||L|fin|C1
-effet de levier|apalancamiento||L|fin|C1
-vente à découvert|venta en corto||L|fin|C1
-appel de marge|llamada de margen||L|fin|C1
-risque systémique|riesgo sistémico||L|fin|C1
-bulle spéculative|burbuja especulativa||L|fin|C1
-valorisation|valoración (de empresas)||S|fin|C1
-actif sous-jacent|activo subyacente||L|fin|C1
-carnet d'ordres|libro de órdenes||L|fin|C1
-société cotée|empresa cotizada||L|fin|C1
-actionnariat|accionariado||S|fin|C1
-coupon|cupón||S|fin|C1
-valeur de refuge|valor refugio||L|fin|C1
-arbitrage|arbitraje||S|fin|C1
-krach|crash bursátil||S|fin|C1
-ordre à cours limité|orden a precio limitado||L|fin|C1
-caryotype|cariotipo||S|sci|C1
-allèle|alelo||S|sci|C1
-génotype|genotipo||S|sci|C1
-phénotype|fenotipo||S|sci|C1
-homozygote|homozigoto||A|sci|C1
-hétérozygote|heterocigoto||A|sci|C1
-mutation|mutación||S|sci|C1
+obligataire|bonista||A|fin|C1
+allocation d'actifs|asignación de activos||L|fin|C1
+dépositaire|depositario||S|fin|C1
+placement privé|colocación privada||L|fin|C1
+produit structuré|producto estructurado||L|fin|C1
+mandat de gestion|mandato de gestión||L|fin|C1
+courbe des taux|curva de tipos||L|fin|C1
+marché monétaire|mercado monetario||L|fin|C1
+dépréciation|depreciación||S|fin|C1
+juste valeur|valor razonable||L|fin|C1
+provisionnement|provisión para insolvencias||S|fin|C1
+chromatine|cromatina||S|sci|C1
+mitose|mitosis||S|sci|C1
+méiose|meiosis||S|sci|C1
 réplication|replicación||S|sci|C1
 transcription|transcripción||S|sci|C1
-traduction|traducción (síntesis de proteínas)||S|sci|C1
-protéine|proteína||S|sci|C1
-acide aminé|aminoácido||S|sci|C1
-ribosome|ribosoma||S|sci|C1
-mitochondrie|mitocondria||S|sci|C1
-chromosome|cromosoma||S|sci|C1
-chromatide|cromátida||S|sci|C1
-méiose|meiosis||S|sci|C1
-mitose|mitosis||S|sci|C1
-recombinaison|recombinación||S|sci|C1
-double hélice|doble hélice||L|sci|C1
-nucléotide|nucleótido||S|sci|C1
-cytoplasme|citoplasma||S|sci|C1
-hérédité|herencia biológica||S|sci|C1
-récessif|recesivo||A|sci|C1
-dominant|dominante (gen)||A|sci|C1
+code génétique|código genético||L|sci|C1
+codon|codón||S|sci|C1
+allèle|alelo||S|sci|C1
+homozygote|homocigoto||A|sci|C1
+hétérozygote|heterocigoto||A|sci|C1
+génotype|genotipo||S|sci|C1
+phénotype|fenotipo||S|sci|C1
 polymorphisme|polimorfismo||S|sci|C1
-télomère|telómero||S|sci|C1
+récessif|recesivo||A|sci|C1
+délétère|deletéreo||A|sci|C1
+caryotype|cariotipo||S|sci|C1
 séquençage|secuenciación||S|sci|C1
-épissage|empalme (genética)||S|sci|C1
-péptide|péptido||S|sci|C1
-haploïde|haploide||A|sci|C1
-diploïde|diploide||A|sci|C1
-anticorps|anticuerpo||S|sci|C1
-anticorps monoclonal|anticuerpo monoclonal||L|sci|C1
+électrophorèse|electroforesis||S|sci|C1
+nucléotide|nucleótido||S|sci|C1
+épissage|empalme||S|sci|C1
+intron|intrón||S|sci|C1
+exon|exón||S|sci|C1
+gamète|gameto||S|sci|C1
+zygote|cigoto||S|sci|C1
+ovocyte|ovocito||S|sci|C1
+lignée|linaje||S|sci|C1
+recombinaison|recombinación||S|sci|C1
+expression génique|expresión génica||L|sci|C1
+transgénique|transgénico||A|sci|C1
+phylogénie|filogenia||S|sci|C1
 antigène|antígeno||S|sci|C1
-lymphocyte|linfocito||S|sci|C1
-leucocyte|leucocito||S|sci|C1
-leucopénie|leucopenia||S|sci|C1
-macrophage|macrófago||S|sci|C1
-phagocytose|fagocitosis||S|sci|C1
-réponse immunitaire|respuesta inmunitaria||L|sci|C1
-infection opportuniste|infección oportunista||L|sci|C1
-sérologie|serología||S|sci|C1
-séropositif|seropositivo||A|sci|C1
-cytokine|citoquina||S|sci|C1
+lymphome|linfoma||S|sci|C1
+thymus|timo||S|sci|C1
+immunoglobuline|inmunoglobulina||S|sci|C1
 interféron|interferón||S|sci|C1
-interleukine|interleuquina||S|sci|C1
-pathogène|patógeno||A|sci|C1
-agent pathogène|agente patógeno||L|sci|C1
-souche|cepa microbiana||S|sci|C1
-microbiote|microbiota||S|sci|C1
+cytokine|citoquina||S|sci|C1
+phagocytose|fagocitosis||S|sci|C1
+macrophage|macrófago||S|sci|C1
 mycose|micosis||S|sci|C1
-antibiorésistance|antibiorresistencia||S|sci|C1
-prion|prión||S|sci|C1
-virologie|virología||S|sci|C1
-virulent|virulento||A|sci|C1
-contagiosité|contagiosidad||S|sci|C1
+ensemencement|siembra de cultivo||S|sci|C1
+gélose|agar||S|sci|C1
+souche|cepa||S|sci|C1
 porteur sain|portador sano||L|sci|C1
-paludisme|paludismo||S|sci|C1
-réaction inflammatoire|reacción inflamatoria||L|sci|C1
-rappel vaccinal|dosis de refuerzo||L|sci|C1
-moelle osseuse|médula ósea||L|sci|C1
-charge virale|carga viral||L|sci|C1
-plasma sanguin|plasma sanguíneo||L|sci|C1
-lymphome|linfoma||S|sla|C1
-neurone|neurona||S|sci|C1
+zoonose|zoonosis||S|sci|C1
+toxine|toxina||S|sci|C1
+hématie|hematíe||S|sci|C1
+spore|espora||S|sci|C1
+oncologie|oncología||S|sci|C1
+allergène|alérgeno||S|sci|C1
+auto-immun|autoinmunitario||A|sci|C1
+greffon|injerto||S|sci|C1
+vascularisation|vascularización||S|sci|C1
+ischémie|isquemia||S|sci|C1
+nécrose|necrosis||S|sci|C1
+fibrose|fibrosis||S|sci|C1
+cirrhose|cirrosis||S|sci|C1
+virologie|virología||S|sci|C1
+nosocomial|nosocomial||A|sci|C1
+sérotype|serotipo||S|sci|C1
+rétrovirus|retrovirus||S|sci|C1
 synapse|sinapsis||S|sci|C1
-plasticité synaptique|plasticidad sináptica||L|sci|C1
-neurotransmetteur|neurotransmisor||S|sci|C1
-cortex|corteza cerebral||S|sci|C1
-plasticité cérébrale|plasticidad cerebral||L|sci|C1
-accident vasculaire cérébral|accidente cerebrovascular||L|sci|C1
-encéphale|encéfalo||S|sci|C1
-encéphalite|encefalitis||S|sci|C1
-moelle épinière|médula espinal||L|sci|C1
 axone|axón||S|sci|C1
 dendrite|dendrita||S|sci|C1
 myéline|mielina||S|sci|C1
-sclérose en plaques|esclerosis múltiple||L|sci|C1
-maladie neurodégénérative|enfermedad neurodegenerativa||L|sci|C1
+neurotransmetteur|neurotransmisor||S|sci|C1
+dopamine|dopamina||S|sci|C1
+sérotonine|serotonina||S|sci|C1
+plasticité|plasticidad||S|sci|C1
 dégénérescence|degeneración||S|sci|C1
-aphasie|afasia||S|sci|C1
-agnosie|agnosia||S|sci|C1
-apraxie|apraxia||S|sci|C1
-amnésie|amnesia||S|sci|C1
+neurodégénératif|neurodegenerativo||A|sci|C1
+potentiel d'action|potencial de acción||L|sci|C1
 mémoire de travail|memoria de trabajo||L|sci|C1
-charge cognitive|carga cognitiva||L|sci|C1
-biais|sesgo||S|sci|C1
-état végétatif|estado vegetativo||L|sci|C1
-épilepsie|epilepsia||S|sci|C1
-crise d'épilepsie|ataque epiléptico||L|sci|C1
-électroencéphalogramme|electroencefalograma||S|sci|C1
-neuroimagerie|neuroimagen||S|sci|C1
-lobe frontal|lóbulo frontal||L|sci|C1
-influx nerveux|impulso nervioso||L|sci|C1
-cognition|cognición||S|sci|C1
-rythme circadien|ritmo circadiano||L|sci|C1
-composé organique|compuesto orgánico||L|sci|C1
+amnésie|amnesia||S|sci|C1
+aphasie|afasia||S|sci|C1
+apraxie|apraxia||S|sci|C1
+heuristique|heurística||S|sci|C1
+proprioception|propiocepción||S|sci|C1
+vestibulaire|vestibular||A|sci|C1
+cochlée|cóclea||S|sci|C1
+acouphène|acúfeno||S|sci|C1
+saccade|sacada ocular||S|sci|C1
+circonvolution|circunvolución||S|sci|C1
+neurogenèse|neurogénesis||S|sci|C1
+encéphale|encéfalo||S|sci|C1
+encéphalite|encefalitis||S|sci|C1
+cervelet|cerebelo||S|sci|C1
+hypothalamus|hipotálamo||S|sci|C1
+homéostasie|homeostasis||S|sci|C1
+circadien|circadiano||A|sci|C1
+motricité|motricidad||S|sci|C1
 liaison covalente|enlace covalente||L|sci|C1
-valence|valencia||S|sci|C1
-isomère|isómero||S|sci|C1
-isomérie|isomería||S|sci|C1
-stéréochimie|estereoquímica||S|sci|C1
-chiralité|quiralidad||S|sci|C1
-groupement fonctionnel|grupo funcional||L|sci|C1
-chaîne carbonée|cadena carbonada||L|sci|C1
-polymère|polímero||S|sci|C1
-polymérisation|polimerización||S|sci|C1
-solvant|disolvente||S|sci|C1
-réactif|reactivo||S|sci|C1
-réaction chimique|reacción química||L|sci|C1
-catalyseur|catalizador||S|sci|C1
-catalyse|catálisis||S|sci|C1
-oxydoréduction|oxidación-reducción||S|sci|C1
+alcali|álcali||S|sci|C1
+titrage|valoración||S|sci|C1
+burette|bureta||S|sci|C1
 précipité|precipitado||S|sci|C1
-titrage|valoración volumétrica||S|sci|C1
-distillation|destilación||S|sci|C1
+soluté|soluto||S|sci|C1
 chromatographie|cromatografía||S|sci|C1
-spectroscopie|espectroscopia||S|sci|C1
 spectrométrie|espectrometría||S|sci|C1
-cristallisation|cristalización||S|sci|C1
-allotropie|alotropía||S|sci|C1
-halogène|halógeno||S|sci|C1
-métalloïde|metaloide||S|sci|C1
+spectroscopie|espectroscopía||S|sci|C1
 hydrocarbure|hidrocarburo||S|sci|C1
-benzène|benceno||S|sci|C1
-ester|éster||S|sci|C1
-aldéhyde|aldehído||S|sci|C1
+alcane|alcano||S|sci|C1
+alcène|alqueno||S|sci|C1
 cétone|cetona||S|sci|C1
-quantique|cuántico||A|sci|C1
+aldéhyde|aldehído||S|sci|C1
+ester|éster||S|sci|C1
+amine|amina||S|sci|C1
+polymérisation|polimerización||S|sci|C1
+exothermique|exotérmico||A|sci|C1
+endothermique|endotérmico||A|sci|C1
+isomère|isómero||S|sci|C1
+tensioactif|tensioactivo||S|sci|C1
+colloïde|coloide||S|sci|C1
+surfusion|sobrefusión||S|sci|C1
+oxydoréduction|oxidoreducción||S|sci|C1
+ionisant|ionizante||A|sci|C1
+stoechiométrie|estequiometría||S|sci|C1
+substrat|sustrato||S|sci|C1
+inhibiteur|inhibidor||S|sci|C1
+chiral|quiral||A|sci|C1
+énantiomère|enantiómero||S|sci|C1
 mécanique quantique|mecánica cuántica||L|sci|C1
-photon|fotón||S|sci|C1
-électron|electrón||S|sci|C1
-neutron|neutrón||S|sci|C1
-proton|protón||S|sci|C1
-neutrino|neutrino||S|sci|C1
-boson|bosón||S|sci|C1
 quark|quark||S|sci|C1
-hadron|hadron||S|sci|C1
-collisionneur|colisionador de partículas||S|sci|C1
-accélérateur de particules|acelerador de partículas||L|sci|C1
-particule élémentaire|partícula elemental||L|sci|C1
+neutrino|neutrino||S|sci|C1
+fermion|fermión||S|sci|C1
+boson|bosón||S|sci|C1
 spin|espin||S|sci|C1
-superposition d'états|superposición de estados||L|sci|C1
-intrication|entrelazamiento cuántico||S|sci|C1
+superposition quantique|superposición cuántica||L|sci|C1
+intrication|entrelazamiento||S|sci|C1
 décohérence|descoherencia||S|sci|C1
 fonction d'onde|función de onda||L|sci|C1
-amplitude de probabilité|amplitud de probabilidad||L|sci|C1
-principe d'incertitude|principio de incertidumbre||L|sci|C1
-dualité onde-corpuscule|dualidad onda-corpúsculo||L|sci|C1
-fluctuation du vide|fluctuación del vacío||L|sci|C1
+effet photoélectrique|efecto fotoeléctrico||L|sci|C1
 effet tunnel|efecto túnel||L|sci|C1
+invariance|invariancia||S|sci|C1
 brisure de symétrie|ruptura de simetría||L|sci|C1
+espace-temps|espaciotiempo||S|sci|C1
+onde gravitationnelle|onda gravitacional||L|sci|C1
+physique des particules|física de partículas||L|sci|C1
+accélérateur de particules|acelerador de partículas||L|sci|C1
+collisionneur|colisionador||S|sci|C1
+synchrotron|sincrotón||S|sci|C1
 antimatière|antimateria||S|sci|C1
-matière noire|materia oscura||L|sci|C1
-transition de phase|transición de fase||L|sci|C1
-supraconductivité|superconductividad||S|sci|C1
-énergie de liaison|energía de enlace||L|sci|C1
-interaction fondamentale|interacción fundamental||L|sci|C1
-désintégration radioactive|desintegración radiactiva||L|sci|C1
-expérience de pensée|experimento mental||L|sci|C1
+annihilation|aniquilación||S|sci|C1
+astrophysique|astrofísica||S|sci|C1
+nébuleuse|nebulosa||S|sci|C1
+amas|cúmulo estelar||S|sci|C1
+naine blanche|enana blanca||L|sci|C1
+géante rouge|gigante roja||L|sci|C1
+supernova|supernova||S|sci|C1
+stellaire|estelar||A|sci|C1
+interstellaire|interestelar||A|sci|C1
+exoplanète|exoplaneta||S|sci|C1
+cosmologie|cosmología||S|sci|C1
+cosmogonie|cosmogonía||S|sci|C1
+rayonnement fossile|radiación fósil||L|sci|C1
+énergie noire|energía oscura||L|sci|C1
+multivers|multiverso||S|sci|C1
+singularité|singularidad||S|sci|C1
+lentille gravitationnelle|lente gravitacional||L|sci|C1
+parallaxe|paralaje||S|sci|C1
+parsec|pársec||S|sci|C1
+albédo|albedo||S|sci|C1
+décalage vers le rouge|corrimiento al rojo||L|sci|C1
+magnitude apparente|magnitud aparente||L|sci|C1

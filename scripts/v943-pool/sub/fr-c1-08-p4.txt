@@ -1,258 +1,258 @@
-jadis|antaño||D|let|C1
-naguère|hace poco tiempo||D|let|C1
-suave|suavemente||D|let|C1
-dès lors|desde entonces||L|cnn|C1
-ténèbres|tinieblas||S|let|C1
-clarté|claridad||S|let|C1
-lueur|resplandor||S|let|C1
-brume|bruma||S|nat|C1
-crépuscule|crepúsculo||S|tmp|C1
-aube|alba||S|tmp|C1
-aurore|aurora||S|tmp|C1
-pénombre|penumbra||S|nat|C1
-givre|escarcha||S|nat|C1
-rosée|rocío||S|nat|C1
-bocage|paisaje de prados y setos||S|nat|C1
-bruyère|brezal||S|nat|C1
-asphodèle|asfódelo||S|nat|C1
-rossignol|ruiseñor||S|ani|C1
-alouette|alondra||S|ani|C1
-linceul|sudario||S|let|C1
-exil|destierro||S|let|C1
-errance|vagabundeo||S|let|C1
-lisière|linde (borde del bosque)||S|nat|C1
-clairière|claro del bosque||S|nat|C1
-oripeau|oropel||S|let|C1
-outrecuidance|presunción (soberbia)||S|let|C1
-funeste|funesto||A|let|C1
-funérailles|exequias||S|let|C1
-heaume|yelmo||S|let|C1
-thrène|treno||S|let|C1
-ampoulé|ampuloso||A|let|C1
-alambiqué|rebuscado||A|let|C1
-hermétique|hermético||A|let|C1
-laconique|lacónico||A|let|C1
 épistémologie|epistemología||S|ast|C1
-épistémè|episteme||S|ast|C1
-cogito|cogito||S|ast|C1
-doute méthodique|duda metódica||L|ast|C1
-rationalisme|racionalismo||S|ast|C1
-empirisme|empirismo||S|ast|C1
-dogmatisme|dogmatismo||S|ast|C1
-scepticisme|escepticismo||S|ast|C1
-relativisme|relativismo||S|ast|C1
-universalisme|universalismo||S|ast|C1
-utilitarisme|utilitarismo||S|ast|C1
-impératif catégorique|imperativo categórico||L|ast|C1
-bienveillance|benevolencia||S|ast|C1
+véridique|veraz||A|ast|C1
+contingence|contingencia||S|ast|C1
+contingent|contingente||A|ast|C1
 intentionnalité|intencionalidad||S|ast|C1
 phénoménologie|fenomenología||S|ast|C1
-falsifiabilité|falsabilidad||S|ast|C1
-réfutabilité|refutabilidad||S|ast|C1
-réfuter|refutar||V|ast|C1
-paradigme|paradigma||S|ast|C1
-changement de paradigme|cambio de paradigma||L|ast|C1
-doxa|doxa (opinión común)||S|ast|C1
-a priori|a priori||L|ast|C1
-solipsisme|solipsismo||S|ast|C1
-libre arbitre|libre albedrío||L|ast|C1
+vécu|vivencia||S|ast|C1
+épistémique|epistémico||A|ast|C1
+relativisme|relativismo||S|ast|C1
+utilitarisme|utilitarismo||S|ast|C1
+stoïcisme|estoicismo||S|ast|C1
+ataraxie|ataraxia||S|ast|C1
+concupiscence|concupiscencia||S|ast|C1
+tempérance|templanza||S|ast|C1
+ascèse|ascesis||S|ast|C1
+nihilisme|nihilismo||S|ast|C1
+mauvaise foi|mala fe||L|ast|C1
+autrui|el prójimo||P|ast|C1
+altérité|alteridad||S|ast|C1
+aliénation|alienación||S|ast|C1
 déterminisme|determinismo||S|ast|C1
-responsabilité morale|responsabilidad moral||L|ast|C1
+libre arbitre|libre albedrío||L|ast|C1
+impératif catégorique|imperativo categórico||L|ast|C1
+discernement|discernimiento||S|ast|C1
+perspicacité|perspicacia||S|ast|C1
+acuité|agudeza||S|ast|C1
+circonspection|circunspección||S|ast|C1
 scrupule|escrúpulo||S|ast|C1
-cas de conscience|caso de conciencia||L|ast|C1
-dilemme éthique|dilema ético||L|ast|C1
-compassion|compasión||S|emo|C1
-clémence|clemencia||S|ast|C1
-mansuétude|mansedumbre||S|ast|C1
-métaphysique|metafísica||S|ast|C1
+miséricorde|misericordia||S|ast|C1
+magnanime|magnánimo||A|ast|C1
+libéralité|generosidad||S|ast|C1
+prodigue|pródigo||A|ast|C1
+opiniâtreté|porfía||S|ast|C1
+rédemption|redención||S|ast|C1
+damnation|condenación||S|ast|C1
+eschatologie|escatología||S|ast|C1
 ontologie|ontología||S|ast|C1
 ontologique|ontológico||A|ast|C1
-substance|sustancia||S|ast|C1
-essence|esencia||S|ast|C1
-existantiel|existencial||A|ast|C1
-immanence|inmanencia||S|ast|C1
+métaphysique|metafísica||S|ast|C1
+essentialisme|esencialismo||S|ast|C1
+existentialisme|existencialismo||S|ast|C1
+antinomie|antinomia||S|ast|C1
+aporie|aporía||S|ast|C1
 transcendance|trascendencia||S|ast|C1
-transcendant|trascendente||A|ast|C1
-contingence|contingencia||S|ast|C1
-finitude|finitud||S|ast|C1
-néant|nada (negación total)||S|ast|C1
-phénomène|fenómeno||S|ast|C1
+immanence|inmanencia||S|ast|C1
 téléologie|teleología||S|ast|C1
-finalité|finalidad||S|ast|C1
-dessein|designio||S|ast|C1
-esthétique|estética||S|art|C1
-jugement esthétique|juicio estético||L|art|C1
-sublime|sublime||S|ast|C1
+panthéisme|panteísmo||S|ast|C1
+néant|nada (no-ser)||S|ast|C1
 académisme|academicismo||S|art|C1
-pictural|pictórico||A|art|C1
-esquisse|boceto||S|art|C1
-ébauche|esbozo||S|art|C1
-lavis|aguada||S|art|C1
-touche|pincelada||S|art|C1
-fresque|fresco||S|art|C1
+maniérisme|manierismo||S|art|C1
+néoclassicisme|neoclasicismo||S|art|C1
+clair-obscur|claroscuro||S|art|C1
+catharsis|catarsis||S|ast|C1
+mimésis|mímesis||S|ast|C1
+ogive|ogiva||S|art|C1
+arc-boutant|arbotante||S|art|C1
+gargouille|gárgola||S|art|C1
 chapiteau|capitel||S|art|C1
-clef de voûte|clave de bóveda||L|art|C1
-arabesque|arabesco||S|art|C1
-grotesque|grotesco||A|art|C1
-mimésis|mímesis||S|art|C1
-catharsis|catarsis||S|art|C1
+abside|ábside||S|art|C1
+transept|transepto||S|art|C1
+retable|retablo||S|art|C1
+polyptyque|políptico||S|art|C1
+diptyque|díptico||S|art|C1
+fusain|carboncillo||S|art|C1
+sanguine|sanguina||S|art|C1
+lavis|aguada||S|art|C1
 historiographie|historiografía||S|ast|C1
-annales|anales||S|ast|C1
-archivistique|archivística||S|ast|C1
-périodisation|periodización||S|ast|C1
-datation|datación||S|ast|C1
-longue durée|larga duración||L|ast|C1
-histoire des mentalités|historia de las mentalidades||L|ast|C1
-révisionnisme|revisionismo||S|ast|C1
-négationnisme|negacionismo||S|ast|C1
-mémoire collective|memoria colectiva||L|ast|C1
-commémoration|conmemoración||S|ast|C1
-patrimoine|patrimonio||S|ast|C1
-patrimonialisation|patrimonialización||S|ast|C1
-sources primaires|fuentes primarias||L|ast|C1
-critique des sources|crítica de las fuentes||L|ast|C1
-paléographie|paleografía||S|ast|C1
-épigraphie|epigrafía||S|ast|C1
-codicologie|codicología||S|ast|C1
-généalogie|genealogía||S|ast|C1
-prosopographie|prosobografía||S|ast|C1
-légende noire|leyenda negra||L|ast|C1
-mythe fondateur|mito fundacional||L|ast|C1
-âge d'or|edad de oro||L|ast|C1
-décadence|decadencia||S|ast|C1
 féodalité|feudalidad||S|ast|C1
-servage|servidumbre (siervos)||S|ast|C1
 vassalité|vasallaje||S|ast|C1
 fief|feudo||S|ast|C1
-historiographe|historiógrafo||S|ast|C1
-chronique|crónica||S|let|C1
-anachronisme|anacronismo||S|ast|C1
-muséification|museificación||S|ast|C1
-phonétique|fonética||S|let|C1
+apanage|apanaje||S|ast|C1
+régence|regencia||S|ast|C1
+régicide|regicidio||S|ast|C1
+protectorat|protectorado||S|ast|C1
+mémoire collective|memoria colectiva||L|ast|C1
+devoir de mémoire|deber de memoria||L|ast|C1
+révisionnisme|revisionismo||S|ast|C1
+négationnisme|negacionismo||S|ast|C1
+érudition|erudición||S|ast|C1
+paléographie|paleografía||S|ast|C1
+numismatique|numismática||S|ast|C1
+chroniqueur|cronista||S|pro|C1
+médiéviste|medievalista||S|pro|C1
+archiviste|archivero||S|pro|C1
+épigraphie|epigrafía||S|ast|C1
+stèle|estela||S|art|C1
+cunéiforme|cuneiforme||A|let|C1
+vélin|vitela||S|let|C1
+lettrine|letra capitular||S|let|C1
+théocratie|teocracia||S|ast|C1
+reliquaire|relicario||S|ast|C1
+bûcher|hoguera||S|ast|C1
+autodafé|auto de fe||S|ast|C1
+indulgence|indulgencia||S|ast|C1
+hérésie|herejía||S|ast|C1
+encyclopédisme|enciclopedismo||S|ast|C1
+despotisme éclairé|despotismo ilustrado||L|ast|C1
+mercantilisme|mercantilismo||S|fin|C1
+protohistoire|protohistoria||S|ast|C1
+comptoir|factoría colonial||S|fin|C1
+traite négrière|trata de esclavos||L|ast|C1
+abolitionnisme|abolicionismo||S|ast|C1
+sécession|secesión||S|ast|C1
+revanchisme|revanchismo||S|ast|C1
 phonologie|fonología||S|let|C1
-morphologie|morfología||S|let|C1
 morphème|morfema||S|let|C1
-syntaxe|sintaxis||S|let|C1
-syntagme|sintagma||S|let|C1
-sémantique|semántica||S|let|C1
-lexical|léxico||A|let|C1
-lexicographie|lexicografía||S|let|C1
-néologisme|neologismo||S|let|C1
-archaïsme|arcaísmo||S|let|C1
-vieilli|anticuado||A|let|C1
-emprunt|préstamo (lingüístico)||S|let|C1
-calque|calco||S|let|C1
-acception|acepción||S|let|C1
-polysémie|polisemia||S|let|C1
-homonymie|homonimia||S|let|C1
-paronyme|parónimo||S|let|C1
-étymologie|etimología||S|let|C1
-étymon|étimo||S|let|C1
-racine|raíz (de una palabra)||S|let|C1
-affixe|afijo||S|let|C1
-suffixation|sufijación||S|let|C1
-composé|compuesto (palabra compuesta)||S|let|C1
-flexion|flexión||S|let|C1
+diphtongue|diptongo||S|let|C1
 locuteur|hablante||S|let|C1
 énonciation|enunciación||S|let|C1
-énoncé|enunciado||S|let|C1
 pragmatique|pragmática||S|let|C1
-diglossie|diglosia||S|let|C1
-sociolecte|sociolecto||S|let|C1
-vernaculaire|vernáculo||A|let|C1
-psychanalyse|psicoanálisis||S|ast|C1
-psychanalytique|psicoanalítico||A|ast|C1
-inconscient|inconsciente||S|ast|C1
-ça|ello (psicoanálisis)||S|ast|C1
-surmoi|superyó||S|ast|C1
-moi|yo (psicoanálisis)||S|ast|C1
+performatif|performativo||A|let|C1
+acte de langage|acto de habla||L|let|C1
+sous-entendu|sobrentendido||S|let|C1
+diachronie|diacronía||S|let|C1
+diachronique|diacrónico||A|let|C1
+synchronie|sincronía||S|let|C1
+étymon|etimón||S|let|C1
+cognat|cognado||S|let|C1
+calque|calco||S|let|C1
+archaïsme|arcaísmo||S|let|C1
+philologie|filología||S|let|C1
+prosodie|prosodia||S|let|C1
+affixe|afijo||S|let|C1
+apocope|apócope||S|let|C1
+aphérèse|aféresis||S|let|C1
+isoglosse|isoglosa||S|let|C1
+lexicologie|lexicología||S|let|C1
+lexicographie|lexicografía||S|let|C1
+concordancier|concordancia lexicográfica||S|let|C1
+onomastique|onomástica||S|let|C1
+toponymie|toponimia||S|let|C1
+cataphore|catáfora||S|let|C1
+déictique|deíctico||A|let|C1
+embrayeur|conmutador||S|let|C1
+rhème|rema||S|let|C1
+présupposé|presuposición||S|let|C1
+phatique|fático||A|let|C1
+isotopie|isotopía||S|let|C1
+lexème|lexema||S|let|C1
+syntagme|sintagma||S|let|C1
+paradigmatique|paradigmático||A|let|C1
+syntagmatique|sintagmático||A|let|C1
 refoulement|represión||S|ast|C1
-retour du refoulé|retorno de lo reprimido||L|ast|C1
-clivage|clivaje (escisión del yo)||S|ast|C1
-pulsion|pulsión||S|ast|C1
-pulsion de mort|pulsión de muerte||L|ast|C1
-libido|libido||S|ast|C1
-transfert|transferencia||S|ast|C1
-contre-transfert|contratransferencia||S|ast|C1
-divan|diván||S|ast|C1
-association libre|asociación libre||L|ast|C1
-lapsus|lapsus||S|let|C1
-acte manqué|acto fallido||L|ast|C1
 sublimation|sublimación||S|ast|C1
 introjection|introyección||S|ast|C1
-travail du deuil|elaboración del duelo||L|ast|C1
-compulsion à la répétition|compulsión a la repetición||L|ast|C1
-théorie critique|teoría crítica||L|ast|C1
-industrie culturelle|industria cultural||L|ast|C1
-société de consommation|sociedad de consumo||L|ast|C1
-pensée unique|pensamiento único||L|ast|C1
-hégémonie culturelle|hegemonía cultural||L|ast|C1
-aliénation|alienación||S|ast|C1
-réification|cosificación (reificación)||S|ast|C1
-marchandise|mercancía||S|ast|C1
-fétichisme de la marchandise|fetichismo de la mercancía||L|ast|C1
-résistance|resistencia (psicoanalítica)||S|ast|C1
+stade du miroir|estadio del espejo||L|ast|C1
+jouissance|goce||S|ast|C1
+pulsion|pulsión||S|ast|C1
+surmoi|superyó||S|ast|C1
+passage à l'acte|paso al acto||L|ast|C1
+clivage|escisión||S|ast|C1
+abréaction|abreacción||S|ast|C1
+réification|cosificación||S|ast|C1
+violence symbolique|violencia simbólica||L|ast|C1
+habitus|habitus||S|ast|C1
+retour du refoulé|retorno de lo reprimido||L|ast|C1
+compulsion de répétition|compulsión a la repetición||L|ast|C1
+pulsion de mort|pulsión de muerte||L|ast|C1
+identification projective|identificación proyectiva||L|ast|C1
+objet transitionnel|objeto transicional||L|ast|C1
+perlaboration|perlaboración||S|ast|C1
+idéal du moi|ideal del yo||L|ast|C1
+semblant|semblante||S|ast|C1
+point de capiton|punto de capitonaje||L|ast|C1
+acte gratuit|acto gratuito||L|ast|C1
+facétie|bufonada||S|let|C1
+palinodie|palinodia||S|let|C1
+horizon d'attente|horizonte de expectativas||L|let|C1
+société du spectacle|sociedad del espectáculo||L|ast|C1
+valeur d'échange|valor de cambio||L|fin|C1
+force de travail|fuerza de trabajo||L|fin|C1
+praxis|praxis||S|ast|C1
+panoptique|panóptico||A|ast|C1
+normativité|normatividad||S|ast|C1
+généalogie|genealogía||S|ast|C1
+rhizome|rizoma||S|ast|C1
+déterritorialisation|desterritorialización||S|ast|C1
+reterritorialisation|reterritorialización||S|ast|C1
+reproduction sociale|reproducción social||L|ast|C1
+déclassement|descenso social||S|ast|C1
 géopolitique|geopolítica||S|att|C1
-puissance|potencia (poderío)||S|att|C1
+hégémonie|hegemonía||S|att|C1
+impérialisme|imperialismo||S|att|C1
 unipolaire|unipolar||A|att|C1
 multipolaire|multipolar||A|att|C1
-course aux armements|carrera armamentística||L|att|C1
-couloir humanitaire|corredor humanitario||L|att|C1
-droit international|derecho internacional||L|ist|C1
-ingérence|ingerencia||S|att|C1
-ingérence humanitaire|ingerencia humanitaria||L|att|C1
-coopération internationale|cooperación internacional||L|att|C1
-aide au développement|ayuda al desarrollo||L|att|C1
-zone d'influence|zona de influencia||L|att|C1
-équilibre des forces|equilibrio de poderes||L|att|C1
-rapport de force|correlación de fuerzas||L|att|C1
-conflit gelé|conflicto congelado||L|att|C1
-cessez-le-feu|alto el fuego||L|att|C1
-pourparlers|negociaciones||S|att|C1
-médiation|mediación||S|att|C1
-protocole diplomatique|protocolo diplomático||L|att|C1
-reconnaissance diplomatique|reconocimiento diplomático||L|att|C1
-extraterritorialité|extraterritorialidad||S|att|C1
-demandeur d'asile|solicitante de asilo||S|att|C1
-géostratégie|geoestrategia||S|att|C1
-endiguement|contención||S|att|C1
-désarmement|desarme||S|att|C1
-non-prolifération|no proliferación||S|att|C1
+multipolarité|multipolaridad||S|att|C1
 dissuasion|disuasión||S|att|C1
-crime de guerre|crimen de guerra||L|att|C1
-crime contre l'humanité|crimen de lesa humanidad||L|att|C1
-pays tampon|país tampón||L|att|C1
 détente|distensión||S|att|C1
-escalade|escalada (conflicto)||S|att|C1
-gouvernance|gobernanza||S|ist|C1
-gouvernementalité|gubernamentalidad||S|ist|C1
-politique publique|política pública||S|ist|C1
-prise de décision|toma de decisiones||L|ist|C1
-État-providence|Estado de bienestar||S|ist|C1
-filet de sécurité|red de protección social||L|ist|C1
-nationalisation|nacionalización||S|ist|C1
-prélèvements obligatoires|impuestos y cotizaciones obligatorias||L|ist|C1
-redistributif|redistributivo||A|ist|C1
-redistribution|redistribución||S|ist|C1
-décentralisation|descentralización||S|ist|C1
-collectivité territoriale|entidad territorial||L|ist|C1
-concertation|concertación||S|ist|C1
-abstention|abstención||S|ist|C1
-démocratie participative|democracia participativa||L|ist|C1
-démocratie représentative|democracia representativa||L|ist|C1
-citoyenneté|ciudadanía||S|ist|C1
-civisme|civismo||S|ist|C1
-société civile|sociedad civil||L|ist|C1
-libéralisme|liberalismo||S|ist|C1
-capitalisme|capitalismo||S|ist|C1
-clientélisme|clientelismo||S|ist|C1
-corporatisme|corporativismo||S|ist|C1
-technocratie|tecnocracia||S|ist|C1
-régulation|regulación||S|ist|C1
-dérégulation|desregulación||S|ist|C1
-bien commun|bien común||L|ist|C1
-intérêt général|interés general||L|ist|C1
-désobéissance civile|desobediencia civil||L|ist|C1
-minorité de blocage|minoría de bloqueo||L|ist|C1
-campagne électorale|campaña electoral||L|ist|C1
-vote de confiance|voto de confianza||L|ist|C1
+endiguement|política de contención||S|att|C1
+raison d'État|razón de Estado||L|att|C1
+droit d'ingérence|derecho de injerencia||L|att|C1
+chargé d'affaires|encargado de negocios||L|pro|C1
+tractations|tratativas||S|att|C1
+pourparlers|conversaciones preliminares||S|att|C1
+zone tampon|estado tapón||L|att|C1
+apatride|apátrida||S|att|C1
+droit d'asile|derecho de asilo||L|att|C1
+isolationnisme|aislacionismo||S|att|C1
+hyperpuissance|hiperpotencia||S|att|C1
+non-alignement|no alineamiento||S|att|C1
+altermondialisme|altermundialismo||S|att|C1
+euroscepticisme|euroescepticismo||S|att|C1
+irrédentisme|irredentismo||S|att|C1
+expansionnisme|expansionismo||S|att|C1
+ultranationalisme|ultranacionalismo||S|att|C1
+puissance douce|poder blando||L|att|C1
+préséance|precedencia protocolaria||S|ast|C1
+pavillon de complaisance|bandera de conveniencia||L|tra|C1
+extraterritorialité|extraterritorialidad||S|att|C1
+commission rogatoire|comisión rogatoria||L|ist|C1
+gouvernement en exil|gobierno en el exilio||L|att|C1
+maintien de la paix|mantenimiento de la paz||L|att|C1
+plateau continental|plataforma continental||L|nat|C1
+zone économique exclusive|zona económica exclusiva||L|att|C1
+eaux territoriales|aguas territoriales||L|att|C1
+exclave|exclava||S|att|C1
+thalassocratie|potencia marítima hegemónica||S|att|C1
+géoéconomie|geoeconomía||S|att|C1
+État providence|Estado de bienestar||L|att|C1
+patronat|cúpula empresarial||S|att|C1
+dirigisme|dirigismo||S|att|C1
+clientélisme|clientelismo||S|att|C1
+communautarisme|comunitarismo||S|att|C1
+subsidiarité|subsidiariedad||S|att|C1
+redevance|canon||S|fin|C1
+péréquation|nivelación fiscal||S|fin|C1
+civilité|civilidad||S|rel|C1
+incivisme|incivismo||S|ast|C1
+insoumission|desobediencia||S|ast|C1
+désobéissance civile|desobediencia civil||L|ast|C1
+objection de conscience|objeción de conciencia||L|ast|C1
+frondeur|díscolo||S|ast|C1
+assistanat|asistencialismo||S|ast|C1
+acculturation|aculturación||S|ast|C1
+multiculturalisme|multiculturalismo||S|att|C1
+interculturalité|interculturalidad||S|ast|C1
+égalitarisme|igualitarismo||S|ast|C1
+corporatisme|corporativismo||S|ast|C1
+salariat|asalariado colectivo||S|fin|C1
+précarisation|precarización||S|fin|C1
+flexicurité|flexiseguridad||S|fin|C1
+minima sociaux|prestaciones mínimas||L|fin|C1
+bouclier fiscal|escudo fiscal||L|fin|C1
+excédent primaire|superávit primario||L|fin|C1
+productivisme|productivismo||S|fin|C1
+décarbonation|descarbonización||S|nat|C1
+prospective|prospectiva||S|ast|C1
+acquis sociaux|derechos sociales consolidados||L|fin|C1
+fracture sociale|fractura social||L|ast|C1
+politique de la ville|política urbana social||L|ast|C1
+gentrification|gentrificación||S|cit|C1
+périurbanisation|periurbanización||S|cit|C1
+dépeuplement|despoblamiento||S|cit|C1
+aménagement du territoire|ordenación del territorio||L|ast|C1
+intercommunalité|intermunicipalidad||S|ast|C1
+conurbation|conurbación||S|cit|C1
+répartition|sistema de reparto||S|fin|C1
+mutualisation|mutualización del riesgo||S|fin|C1

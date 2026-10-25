@@ -1,259 +1,259 @@
 testament|testamento||S|ist|C1
-legs|legado (por testamento)||S|ist|C1
-succession|sucesión hereditaria||S|ist|C1
+héritier|heredero||S|ist|C1
 légataire|legatario||S|ist|C1
 usufruit|usufructo||S|ist|C1
-nue-propriété|nuda propiedad||S|ist|C1
-indivision|indivisión||S|ist|C1
 servitude|servidumbre||S|ist|C1
-mitoyenneté|medianería||S|ist|C1
-expropriation|expropiación||S|ist|C1
-bail|contrato de arrendamiento||S|ist|C1
-bailleur|arrendador||S|ist|C1
+codicille|codicilo||S|ist|C1
+legs|legado hereditario||S|ist|C1
+donation|donación||S|ist|C1
+filiation|filiación||S|ist|C1
+curatelle|curatela||S|ist|C1
+tutelle|tutela||S|ist|C1
+répudiation|repudiación||S|ist|C1
+séparation de biens|separación de bienes||L|cas|C1
+régime matrimonial|régimen matrimonial||L|ist|C1
 clause|cláusula||S|ist|C1
-clause pénale|cláusula penal||L|ist|C1
-stipuler|estipular||V|ist|C1
+stipulation|estipulación||S|ist|C1
+avenant|adenda contractual||S|ist|C1
+résiliation|rescisión||S|ist|C1
 résilier|rescindir||V|ist|C1
-caution|fianza||S|ist|C1
-nantissement|prenda (garantía real)||S|ist|C1
-hypothèque|hipoteca||S|ist|C1
-dédit|desistimiento||S|ist|C1
-force majeure|fuerza mayor||L|ist|C1
+nullité|nulidad||S|ist|C1
+dol|dolo||S|ist|C1
+vice du consentement|vicio del consentimiento||L|ist|C1
+cautionnement|fianza||S|ist|C1
+forclusion|caducidad||S|ist|C1
+cession|cesión||S|ist|C1
+mandat|poder de representación||S|ist|C1
+mandataire|apoderado||S|ist|C1
+bailleur|arrendador||S|ist|C1
+preneur|arrendatario||S|ist|C1
+congé|desahucio||S|ist|C1
+acte notarié|escritura notarial||L|ist|C1
+mise en demeure|requerimiento||L|ist|C1
 dommages et intérêts|daños y perjuicios||L|ist|C1
 préjudice|perjuicio||S|ist|C1
-faute|culpa (ilícito civil)||S|ist|C1
-dol|dolo||S|ist|C1
-créancier|acreedor||S|ist|C1
-débiteur|deudor||S|ist|C1
-quittance|carta de pago||S|ist|C1
-renonciation|renuncia de derechos||S|ist|C1
-forclusion|preclusión||S|ist|C1
-déchéance|decaimiento de un derecho||S|ist|C1
-tutelle|tutela||S|ist|C1
-curatelle|curatela||S|ist|C1
-magistrat|magistrado||S|ist|C1
+indemnisation|indemnización||S|ist|C1
+insolvabilité|insolvencia||S|fin|C1
+préméditation|premeditación||S|ist|C1
+complicité|complicidad||S|ist|C1
+recel|encubrimiento||S|ist|C1
+parjure|perjurio||S|ist|C1
+diffamation|difamación||S|ist|C1
+calomnie|calumnia||S|ist|C1
+outrage|desacato||S|ist|C1
+larcin|hurto||S|ist|C1
+juge d'instruction|juez de instrucción||L|ist|C1
 parquet|fiscalía||S|ist|C1
 procureur|fiscal||S|ist|C1
-juge d'instruction|juez de instrucción||L|ist|C1
-mise en examen|imputación judicial||L|ist|C1
-détention provisoire|prisión provisional||L|ist|C1
-mandat d'arrêt|orden de detención||L|ist|C1
-garde à vue|detención policial||L|ist|C1
-interrogatoire|interrogatorio||S|ist|C1
-déposition|declaración testifical||S|ist|C1
-expertise|pericia||S|ist|C1
-expert judiciaire|perito judicial||L|ist|C1
-pièce à conviction|pieza de convicción||L|ist|C1
-scellés|precintos judiciales||S|ist|C1
-réquisitoire|escrito de acusación||S|ist|C1
-attendu|considerando (de una sentencia)||S|ist|C1
-dispositif|fallo (parte dispositiva)||S|ist|C1
-pourvoi en cassation|recurso de casación||L|ist|C1
-référé|procedimiento de urgencia||S|ist|C1
-plaider|defender en juicio||V|ist|C1
+cour d'assises|tribunal del jurado||L|ist|C1
 plaidoirie|alegato||S|ist|C1
-avocat commis d'office|abogado de oficio||L|ist|C1
-aide juridictionnelle|justicia gratuita||L|ist|C1
-huissier de justice|oficial judicial||L|ist|C1
-signification|notificación judicial||S|ist|C1
-astreinte|multa coercitiva||S|ist|C1
-sursis|suspensión de pena||S|ist|C1
-relaxe|absolución (penal)||S|ist|C1
-non-lieu|sobreseimiento||S|ist|C1
-irrecevabilité|inadmisibilidad||S|ist|C1
-fin de non-recevoir|excepción de inadmisibilidad||L|ist|C1
-se constituer partie civile|constituirse en acusación particular||L|ist|C1
+plaider|abogar||V|ist|C1
+requête|solicitud procesal||S|ist|C1
+assignation|emplazamiento||S|ist|C1
+citation à comparaître|citación judicial||L|ist|C1
+comparaître|comparecer||V|ist|C1
+comparution|comparecencia||S|ist|C1
+prévenu|procesado||S|ist|C1
+inculpation|inculpación||S|ist|C1
+déposition|declaración testifical||S|ist|C1
+déposer|declarar ante el tribunal||V|ist|C1
+faux témoignage|falso testimonio||L|ist|C1
+huis clos|a puerta cerrada||L|ist|C1
+pourvoi|recurso de casación||S|ist|C1
+cassation|casación||S|ist|C1
+relaxe|sobreseimiento||S|ist|C1
+acquittement|absolución||S|ist|C1
+sursis|condena en suspenso||S|ist|C1
+réclusion|reclusión||S|ist|C1
+circonstances atténuantes|circunstancias atenuantes||L|ist|C1
+récidive|reincidencia||S|ist|C1
+amnistie|amnistía||S|ist|C1
+clémence|clemencia||S|ist|C1
+garde à vue|detención en comisaría||L|ist|C1
+mandat d'arrêt|orden de detención||L|ist|C1
+extradition|extradición||S|ist|C1
+extrader|extraditar||V|ist|C1
+détention provisoire|prisión preventiva||L|ist|C1
+libération conditionnelle|libertad condicional||L|ist|C1
+casier judiciaire|antecedentes penales||L|ist|C1
+saisie|embargo||S|ist|C1
+astreinte|apremio||S|ist|C1
 constitutionnalité|constitucionalidad||S|ist|C1
-contrôle de constitutionnalité|control de constitucionalidad||L|ist|C1
-loi organique|ley orgánica||L|ist|C1
+inconstitutionnel|inconstitucional||A|ist|C1
+séparation des pouvoirs|separación de poderes||L|ist|C1
+état de droit|Estado de derecho||L|ist|C1
+juridiction|jurisdicción||S|ist|C1
+cour d'appel|tribunal de apelación||L|ist|C1
+tribunal administratif|tribunal contencioso-administrativo||L|ist|C1
+amendement|enmienda||S|ist|C1
+ordonnance|decreto-ley||S|ist|C1
 promulgation|promulgación||S|ist|C1
 promulguer|promulgar||V|ist|C1
-ratification|ratificación||S|ist|C1
-décret|decreto||S|ist|C1
-règlement|reglamento||S|ist|C1
-séparation des pouvoirs|separación de poderes||L|ist|C1
-État de droit|Estado de derecho||L|ist|C1
-souveraineté|soberanía||S|ist|C1
-référendum|referéndum||S|ist|C1
-scrutin|escrutinio||S|ist|C1
-suffrage|sufragio||S|ist|C1
-collège électoral|colegio electoral||L|ist|C1
-éligibilité|elegibilidad||S|ist|C1
-initiative populaire|iniciativa popular||L|ist|C1
-immunité parlementaire|inmunidad parlamentaria||L|ist|C1
+abroger|derogar||V|ist|C1
+caduc|caduco||A|ist|C1
+légiférer|legislar||V|ist|C1
 motion de censure|moción de censura||L|ist|C1
-question de confiance|cuestión de confianza||L|ist|C1
-dissolution|disolución (de una cámara)||S|ist|C1
-ordre public|orden público||L|ist|C1
-liberté fondamentale|libertad fundamental||L|ist|C1
-principe de précaution|principio de precaución||L|ist|C1
-laïcité|laicidad||S|ist|C1
-amendement|enmienda||S|ist|C1
-navette parlementaire|vaivén parlamentario||L|ist|C1
+fédéralisme|federalismo||S|ist|C1
+plébiscite|plebiscito||S|ist|C1
+éligibilité|elegibilidad||S|ist|C1
+inéligibilité|inelegibilidad||S|ist|C1
+investiture|investidura||S|ist|C1
+destituer|destituir||V|ist|C1
 destitution|destitución||S|ist|C1
 haute trahison|alta traición||L|ist|C1
-magistrature|judicatura||S|ist|C1
-indépendance de la justice|independencia judicial||L|ist|C1
-vote par procuration|voto delegado||L|ist|C1
-triage|triaje||S|sla|C1
-hospitalisation|ingreso hospitalario||S|sla|C1
-hospitaliser|hospitalizar||V|sla|C1
-ambulatoire|ambulatorio (sin ingreso)||A|sla|C1
-bloc opératoire|quirófano||L|sla|C1
-anesthésie|anestesia||S|sla|C1
-anesthésiste|anestesista||S|sla|C1
-réanimation|reanimación||S|sla|C1
-soins intensifs|cuidados intensivos||L|sla|C1
-perfusion|perfusión intravenosa||S|sla|C1
-transfusion|transfusión||S|sla|C1
-poser un diagnostic|emitir un diagnóstico||L|sla|C1
+lèse-majesté|lesa majestad||L|ist|C1
+prérogative|prerrogativa||S|ist|C1
+contre-pouvoir|contrapoder||S|ist|C1
+assermentation|juramento de cargo||S|ist|C1
+préambule|preámbulo||S|ist|C1
 diagnostic différentiel|diagnóstico diferencial||L|sla|C1
 pronostic vital|pronóstico vital||L|sla|C1
-examens complémentaires|pruebas complementarias||L|sla|C1
-biopsie|biopsia||S|sla|C1
-ponction|punción||S|sla|C1
-endoscopie|endoscopia||S|sla|C1
-échographie|ecografía||S|sla|C1
-imagerie médicale|pruebas de imagen||L|sla|C1
-numération formule sanguine|hemograma||L|sla|C1
-gaz du sang|gasometría||L|sla|C1
-cicatrisation|cicatrización||S|sla|C1
-points de suture|puntos de sutura||L|sla|C1
-infection nosocomiale|infección nosocomial||L|sla|C1
-ordonnance|receta médica||S|sla|C1
-brancardier|camillero||S|sla|C1
-asepsie|asepsia||S|sla|C1
-pansement|apósito||S|sla|C1
-intubation|intubación||S|sla|C1
-greffe|trasplante||S|sla|C1
-greffon|injerto||S|sla|C1
-dialyse|diálisis||S|sla|C1
-posologie|posología||S|sla|C1
-dosage|dosificación||S|sla|C1
-principe actif|principio activo||L|sla|C1
-excipient|excipiente||S|sla|C1
-générique|genérico (medicamento)||S|sla|C1
-effets indésirables|efectos adversos||L|sla|C1
-contre-indication|contraindicación||S|sla|C1
-surdosage|sobredosis||S|sla|C1
-interactions médicamenteuses|interacciones farmacológicas||L|sla|C1
-pharmacovigilance|farmacovigilancia||S|sla|C1
-pharmacocinétique|farmacocinética||S|sla|C1
-biodisponibilité|biodisponibilidad||S|sla|C1
-demi-vie|vida media||S|sla|C1
-métabolite|metabolito||S|sla|C1
-essai clinique|ensayo clínico||L|sla|C1
-double aveugle|doble ciego||L|sla|C1
-groupe témoin|grupo de control||L|sla|C1
-placebo|placebo||S|sla|C1
-randomisation|aleatorización||S|sla|C1
-protocole|protocolo||S|sla|C1
-critère d'évaluation|criterio de valoración||L|sla|C1
-cohorte|cohorte||S|sla|C1
-innocuité|inocuidad||S|sla|C1
-tolérance|tolerancia (de un fármaco)||S|sla|C1
-dispensation|dispensación||S|sla|C1
-antalgique|analgésico||S|sla|C1
-anticoagulant|anticoagulante||S|sla|C1
-corticoïde|corticosteroide||S|sla|C1
-marge thérapeutique|margen terapéutico||L|sla|C1
-forme galénique|forma farmacéutica||L|sla|C1
-injectable|inyectable||A|sla|C1
-antihypertenseur|antihipertensivo||S|sla|C1
-trouble bipolaire|trastorno bipolar||L|sla|C1
-accès mélancolique|crisis de melancolía||L|sla|C1
-anxiété généralisée|ansiedad generalizada||L|sla|C1
-attaque de panique|ataque de pánico||L|sla|C1
-phobie sociale|fobia social||L|sla|C1
-trouble obsessionnel compulsif|trastorno obsesivo-compulsivo||L|sla|C1
-compulsion|compulsión||S|sla|C1
-délire paranoïaque|delirio paranoide||L|sla|C1
-schizophrénie|esquizofrenia||S|sla|C1
-psychose|psicosis||S|sla|C1
-hallucination auditive|alucinación auditiva||L|sla|C1
-dissociation|disociación||S|sla|C1
-névrose|neurosis||S|sla|C1
-hystérie|histeria||S|sla|C1
-catatonie|catatonía||S|sla|C1
-mutisme|mutismo||S|sla|C1
-anorexie mentale|anorexia||L|sla|C1
-boulimie|bulimia||S|sla|C1
-sevrage|desintoxicación||S|sla|C1
-thérapie cognitivo-comportementale|terapia cognitivo-conductual||L|sla|C1
-neuroleptique|neuroléptico||S|sla|C1
-antidépresseur|antidepresivo||S|sla|C1
-anxiolytique|ansiolítico||S|sla|C1
-thymorégulateur|estabilizador del ánimo||S|sla|C1
-internement psychiatrique|internamiento psiquiátrico||L|sla|C1
-hypochondrie|hipocondría||S|sla|C1
-dysmorphophobie|dismorfofobia||S|sla|C1
-alexithymie|alexitimia||S|sla|C1
-stress post-traumatique|estrés postraumático||L|sla|C1
-idéation suicidaire|ideación suicida||L|sla|C1
-passage à l'acte|paso al acto||L|sla|C1
-rémission|remisión (mejoría)||S|sla|C1
+étiologie|etiología||S|sla|C1
+séquelle|secuela||S|sla|C1
+convalescence|convalecencia||S|sla|C1
+rémission|remisión||S|sla|C1
 rechute|recaída||S|sla|C1
-bioéthique|bioética||S|ast|C1
-consentement éclairé|consentimiento informado||L|sla|C1
-autonomie du patient|autonomía del paciente||L|sla|C1
-dignité humaine|dignidad humana||L|ast|C1
-fin de vie|final de la vida||L|sla|C1
-acharnement thérapeutique|encarnizamiento terapéutico||L|sla|C1
-euthanasie|eutanasia||S|sla|C1
-directive anticipée|testamento vital||L|sla|C1
-sédation profonde|sedación profunda||L|sla|C1
-interruption volontaire de grossesse|interrupción voluntaria del embarazo||L|sla|C1
-procréation médicalement assistée|reproducción asistida||L|sla|C1
-fécondation in vitro|fecundación in vitro||L|sla|C1
-dépistage|detección precoz||S|sla|C1
-embryon|embrión||S|sla|C1
-foetus|feto||S|sla|C1
-eugénisme|eugenesia||S|ast|C1
-cellules souches|células madre||L|sla|C1
-don d'organes|donación de órganos||L|sla|C1
-prélèvement d'organes|extracción de órganos||L|sla|C1
-anonymat|anonimato||S|ast|C1
-confidentialité|confidencialidad||S|ast|C1
-secret médical|secreto médico||L|sla|C1
-comité d'éthique|comité de ética||L|sla|C1
-déontologie|deontología||S|ast|C1
-conflit d'intérêts|conflicto de intereses||L|ast|C1
-expérimentation animale|experimentación animal||L|sla|C1
-cobaye|conejillo de indias||S|sla|C1
-personne vulnérable|persona vulnerable||L|ast|C1
+palpation|palpación||S|sla|C1
+auscultation|auscultación||S|sla|C1
+perfusion|perfusión||S|sla|C1
+bloc opératoire|quirófano||L|sla|C1
+incision|incisión||S|sla|C1
+biopsie|biopsia||S|sla|C1
+fibroscopie|fibroscopia||S|sla|C1
+coloscopie|colonoscopia||S|sla|C1
+cathéter|catéter||S|sla|C1
+intubation|intubación||S|sla|C1
+trachéotomie|traqueotomía||S|sla|C1
+défibrillateur|desfibrilador||S|sla|C1
+asepsie|asepsia||S|sla|C1
+septicémie|septicemia||S|sla|C1
+embolie|embolia||S|sla|C1
+thrombose|trombosis||S|sla|C1
+phlébite|flebitis||S|sla|C1
+défaillance|fallo de órgano||S|sla|C1
+prélèvement|toma de muestra||S|sla|C1
+posologie|posología||S|sla|C1
+antécédents|antecedentes médicos||S|sla|C1
 soins palliatifs|cuidados paliativos||L|sla|C1
-gestation pour autrui|gestación subrogada||L|sla|C1
-sélection d'embryons|selección de embriones||L|sla|C1
+civière|camilla||S|sla|C1
+monitorage|monitorización||S|sla|C1
+sédation|sedación||S|sla|C1
+sémiologie|semiología||S|sla|C1
+comorbidité|comorbilidad||S|sla|C1
+prodrome|pródromo||S|sla|C1
+décompensation|descompensación||S|sla|C1
+essai clinique|ensayo clínico||L|sla|C1
+effet indésirable|efecto adverso||L|sla|C1
+contre-indication|contraindicación||S|sla|C1
+excipient|excipiente||S|sla|C1
+principe actif|principio activo||L|sla|C1
+groupe témoin|grupo de control||L|sla|C1
+surdosage|sobredosis||S|sla|C1
+sevrage|deshabituación||S|sla|C1
+antagoniste|antagonista||S|sla|C1
+agoniste|agonista||S|sla|C1
+opioïde|opioide||S|sla|C1
+corticoïde|corticoide||S|sla|C1
+immunodépresseur|inmunosupresor||S|sla|C1
+iatrogène|iatrogénico||A|sla|C1
+officine|oficina de farmacia||S|sla|C1
+pharmacopée|farmacopea||S|sla|C1
+phytothérapie|fitoterapia||S|sla|C1
+randomisation|aleatorización||S|sci|C1
+anxiolytique|ansiolítico||S|sla|C1
+neuroleptique|neuroléptico||S|sla|C1
+psychotrope|psicotrópico||S|sla|C1
+pharmacovigilance|farmacovigilancia||S|sla|C1
+galénique|galénico||A|sla|C1
+observance|cumplimiento terapéutico||S|sla|C1
+anaphylaxie|anafilaxia||S|sla|C1
+exanthème|exantema||S|sla|C1
+prurit|prurito||S|sla|C1
+polymédication|polifarmacia||S|sla|C1
+essai en double aveugle|ensayo doble ciego||L|sla|C1
+biosimilaire|biosimilar||S|sla|C1
+névrose|neurosis||S|sla|C1
+psychose|psicosis||S|sla|C1
+psychotique|psicótico||A|sla|C1
+hypocondrie|hipocondría||S|sla|C1
+compulsion|compulsión||S|sla|C1
+mutisme|mutismo||S|sla|C1
+logorrhée|logorrea||S|sla|C1
+catatonie|catatonía||S|sla|C1
+stupeur|estupor||S|sla|C1
+aboulie|abulia||S|sla|C1
+dysthymie|distimia||S|sla|C1
+lipothymie|lipotimia||S|sla|C1
+syncope|síncope||S|sla|C1
+toxicomane|drogadicto||S|sla|C1
+mécanisme de défense|mecanismo de defensa||L|sla|C1
+neuropsychologie|neuropsicología||S|sla|C1
+psychopathologie|psicopatología||S|sla|C1
+introspection|introspección||S|sla|C1
+alexithymie|alexitimia||S|sla|C1
+anosognosie|anosognosia||S|sla|C1
+dysmorphie|dismorfia||S|sla|C1
+dysphorie|disforia||S|sla|C1
+cyclothymie|ciclotimia||S|sla|C1
+nosologie|nosología||S|sla|C1
+symptomatologie|sintomatología||S|sla|C1
+psychogenèse|psicogénesis||S|sla|C1
+psychosomatique|psicosomático||A|sla|C1
+onychophagie|onicofagia||S|sla|C1
+écholalie|ecolalia||S|sla|C1
+stéréotypie|estereotipia||S|sla|C1
+bioéthique|bioética||S|sla|C1
+consentement éclairé|consentimiento informado||L|sla|C1
+acharnement thérapeutique|encarnizamiento terapéutico||L|sla|C1
+fin de vie|final de la vida||L|sla|C1
+comité d'éthique|comité de ética||L|sla|C1
+don d'organes|donación de órganos||L|sla|C1
+secret médical|secreto médico||L|sla|C1
+déontologie|deontología||S|sla|C1
+principe de précaution|principio de precaución||L|sla|C1
+diagnostic prénatal|diagnóstico prenatal||L|sla|C1
+eugénisme|eugenesia||S|sla|C1
+insémination|inseminación||S|sla|C1
+fécondation in vitro|fecundación in vitro||L|sla|C1
+mère porteuse|gestante subrogada||L|sla|C1
+bienfaisance|beneficencia||S|sla|C1
+non-malfaisance|no maleficencia||S|sla|C1
+biomédecine|biomedicina||S|sla|C1
 personne de confiance|persona de confianza||L|sla|C1
-politique monétaire|política monetaria||L|fin|C1
-taux directeur|tipo de interés de referencia||L|fin|C1
-taux de change|tipo de cambio||L|fin|C1
-inflation|inflación||S|fin|C1
-déflation|deflación||S|fin|C1
-récession|recesión||S|fin|C1
-stagnation|estancamiento||S|fin|C1
-croissance|crecimiento económico||S|fin|C1
-masse monétaire|oferta monetaria||L|fin|C1
-liquidité|liquidez||S|fin|C1
-banque centrale|banco central||L|fin|C1
-réserves de change|reservas de divisas||L|fin|C1
-devise|divisa||S|fin|C1
-dévaluation|devaluación||S|fin|C1
-dévaluation concurrentielle|devaluación competitiva||L|fin|C1
-austérité|austeridad||S|fin|C1
-déficit public|déficit público||L|fin|C1
-dette souveraine|deuda soberana||L|fin|C1
-restructuration de la dette|reestructuración de la deuda||L|fin|C1
-agence de notation|agencia de calificación||L|fin|C1
-défaut de paiement|impago||L|fin|C1
+directives anticipées|testamento vital||L|sla|C1
+suicide assisté|suicidio asistido||L|sla|C1
+xénogreffe|xenotrasplante||S|sla|C1
+clonage reproductif|clonaje reproductivo||L|sla|C1
+désinflation|desinflación||S|fin|C1
+stagflation|estanflación||S|fin|C1
+masse monétaire|masa monetaria||L|fin|C1
+taux directeur|tipo de interés director||L|fin|C1
+parité|paridad||S|fin|C1
+convertibilité|convertibilidad||S|fin|C1
+fiduciaire|fiduciario||A|fin|C1
+planche à billets|imprenta de billetes||L|fin|C1
 assouplissement quantitatif|flexibilización cuantitativa||L|fin|C1
-stabilité des prix|estabilidad de precios||L|fin|C1
-surchauffe|sobrecalentamiento económico||S|fin|C1
-demande globale|demanda agregada||L|fin|C1
-chômage structurel|paro estructural||L|fin|C1
-plan de relance|plan de estímulo||L|fin|C1
-consolidation budgétaire|consolidación fiscal||L|fin|C1
-pouvoir d'achat|poder adquisitivo||L|fin|C1
-cycle économique|ciclo económico||L|fin|C1
+escompte|descuento||S|fin|C1
+réescompte|redescuento||S|fin|C1
+refinancement|refinanciación||S|fin|C1
+dette souveraine|deuda soberana||L|fin|C1
+défaut de paiement|suspensión de pagos||L|fin|C1
+prime de risque|prima de riesgo||L|fin|C1
+agence de notation|agencia de calificación||L|fin|C1
+notation|calificación crediticia||S|fin|C1
+haussier|alcista||A|fin|C1
+baissier|bajista||A|fin|C1
+krach|crac bursátil||S|fin|C1
+atterrissage en douceur|aterrizaje suave||L|fin|C1
 conjoncture|coyuntura||S|fin|C1
-choc pétrolier|choque petrolero||L|fin|C1
+conjoncturel|coyuntural||A|fin|C1
+élasticité|elasticidad||S|fin|C1
+propension à consommer|propensión al consumo||L|fin|C1
+demande agrégée|demanda agregada||L|fin|C1
+monétarisme|monetarismo||S|fin|C1
+prélèvements obligatoires|cotizaciones obligatorias||L|fin|C1
+assiette|base imponible||S|fin|C1
+niche fiscale|ventaja fiscal||L|fin|C1
+plus-value|plusvalía||S|fin|C1
+étalon-or|patrón oro||S|fin|C1
+fléchissement|debilitamiento||S|fin|C1

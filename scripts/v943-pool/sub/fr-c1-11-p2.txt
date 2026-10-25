@@ -1,259 +1,259 @@
-traductologie|traductología||S|let|C1
-littéralité|literalidad||S|let|C1
-calque|calco (de traducción)||S|let|C1
-équivalence|equivalencia (traductiva)||S|let|C1
-fidélité|fidelidad (al original)||S|let|C1
-les belles infidèles|las bellas infieles (traducciones libres)||L|let|C1
-domestication|domesticación (del texto)||S|let|C1
-étrangéisation|extranjerización||S|let|C1
-sous-titrage|subtitulado||S|cin|C1
-doublage|doblaje||S|cin|C1
-interprétariat|interpretación (traducción oral)||S|let|C1
-interprète de conférence|intérprete de conferencias||L|pro|C1
-intraduisible|intraducible||A|let|C1
-contresens|contrasentido||S|let|C1
-faux sens|sentido erróneo (error de traducción)||L|let|C1
-langue cible|lengua de llegada||L|let|C1
-langue source|lengua de partida||L|let|C1
-transfert linguistique|transferencia lingüística||L|let|C1
-traduction automatique|traducción automática||L|tec|C1
-post-édition|postedición||S|let|C1
-calembour|juego de palabras||S|let|C1
-idiomatique|idiomático||A|let|C1
-déverbalisation|desverbalización||S|let|C1
-transposition|transposición (traductiva)||S|let|C1
-modulation|modulación (cambio de perspectiva)||S|let|C1
-version|versión (traducción a la lengua materna)||S|let|C1
-thème|tema (traducción a la lengua extranjera)||S|let|C1
-interlangue|interlengua||S|let|C1
-interculturalité|interculturalidad||S|let|C1
-adaptation culturelle|adaptación cultural||L|let|C1
-mot à mot|palabra por palabra||L|let|C1
-anglicisme|anglicismo||S|let|C1
-sens figuré|sentido figurado||L|let|C1
+essai|ensayo||S|let|C1
 pamphlet|panfleto||S|let|C1
-pamphlétaire|panfletario||S|let|C1
-plaidoyer|alegato||S|let|C1
-réquisitoire|requisitoria||S|let|C1
-diatribe|diatriba||S|let|C1
-apologie|apología (defensa entusiasta)||S|let|C1
-panégyrique|panegírico||S|let|C1
-polémiste|polemista||S|pro|C1
-chroniqueur|columnista||S|pro|C1
+pamphlétaire|panfletario||A|let|C1
 tribune|tribuna (artículo de opinión)||S|let|C1
-éditorial|artículo editorial||S|let|C1
+éditorial|editorial (artículo)||S|let|C1
+plaidoyer|alegato||S|let|C1
+dissertation|disertación||S|let|C1
 argumentaire|argumentario||S|let|C1
-raisonnement par l'absurde|demostración por el absurdo||L|ast|C1
-jusqu'à l'outrance|hasta el exceso||L|ast|C1
-pondéré|ponderado||A|ast|C1
-perspicacité|perspicacia||S|ast|C1
-clairvoyance|clarividencia||S|ast|C1
-idéaliser|idealizar||V|ast|C1
-déconstruction|deconstrucción||S|let|C1
-épistémologie|epistemología||S|ast|C1
-doctrinaire|doctrinario||A|ast|C1
-postulat|postulado||S|ast|C1
-prémisse|premisa||S|ast|C1
-corollaire|corolario||S|ast|C1
-inférence|inferencia||S|ast|C1
-conjecture|conjetura||S|ast|C1
-spéculation|especulación (filosófica)||S|ast|C1
-métaphysique|metafísica||S|ast|C1
-ontologique|ontológico||A|ast|C1
-lucide|lúcido||A|ast|C1
-engagement|compromiso (implicación)||S|ast|C1
-aporie|aporía||S|ast|C1
-relativisme|relativismo||S|ast|C1
+dialectique|dialéctica||S|let|C1
+spécieux|especioso||A|let|C1
+sophisme|sofisma||S|let|C1
+paralogisme|paralogismo||S|let|C1
+pétition de principe|petición de principio||L|let|C1
+argument d'autorité|argumento de autoridad||L|let|C1
+réfuter|refutar||V|let|C1
+rétorquer|replicar||V|let|C1
+nuancer|matizar||V|let|C1
+pondéré|ponderado||A|let|C1
+sagace|sagaz||A|let|C1
+perspicacité|perspicacia||S|let|C1
+lucidité|lucidez||S|let|C1
+irrévérencieux|irreverente||A|let|C1
+iconoclaste|iconoclasta||A|let|C1
+subversif|subversivo||A|let|C1
+conjecture|conjetura||S|let|C1
+postulat|postulado||S|let|C1
+axiome|axioma||S|let|C1
+corollaire|corolario||S|let|C1
+syllogisme|silogismo||S|let|C1
 utopie|utopía||S|let|C1
 dystopie|distopía||S|let|C1
-dystopique|distópico||A|let|C1
 uchronie|ucronía||S|let|C1
-contre-utopie|contrautopía||S|let|C1
-anticipation|ficción de anticipación||S|let|C1
-roman de science-fiction|novela de ciencia ficción||L|let|C1
+merveilleux scientifique|maravilloso científico||L|let|C1
+post-apocalyptique|postapocalíptico||A|let|C1
 androïde|androide||S|let|C1
-clonage|clonación||S|sci|C1
-apocalyptique|apocalíptico||A|let|C1
-post-apocalyptique|posapocalíptico||A|let|C1
-totalitarisme|totalitarismo||S|ast|C1
-surveillance de masse|vigilancia masiva||L|ast|C1
-novlangue|neolengua (lengua del poder)||S|let|C1
-prophétie autoréalisatrice|profecía autocumplida||L|ast|C1
-prospective|prospectiva||S|ast|C1
-transhumanisme|transhumanismo||S|ast|C1
-parabole|parábola (relato alegórico)||S|let|C1
-récit fondateur|relato fundacional||L|let|C1
-merveilleux|maravilloso (género)||S|let|C1
+futurisme|futurismo||S|let|C1
+science-fiction|ciencia ficción||S|let|C1
+cataclysme|cataclismo||S|let|C1
+totalitarisme|totalitarismo||S|let|C1
+conditionnement|condicionamiento||S|let|C1
+eugénisme|eugenésia||S|let|C1
+clonage|clonación||S|let|C1
+manipulation génétique|manipulación genética||L|let|C1
+génie génétique|ingeniería genética||L|let|C1
+astronef|astronave||S|let|C1
+cosmologie|cosmología||S|let|C1
 voyage dans le temps|viaje en el tiempo||L|let|C1
-monde parallèle|mundo paralelo||L|let|C1
-futurologie|futurología||S|ast|C1
-manipulation génétique|manipulación genética||L|sci|C1
-colonisation de l'espace|colonización del espacio||L|let|C1
-mutant|mutante||S|let|C1
-mutagène|mutágeno||S|sci|C1
-cybernétique|cibernética||S|sci|C1
-robotique|robótica||S|sci|C1
-futurisme|futurismo||S|art|C1
-cataclysme|cataclismo||S|nat|C1
-surhomme|superhombre||S|let|C1
-catastrophisme|catastrofismo||S|ast|C1
+paradoxe temporel|paradoja temporal||L|let|C1
+posthumain|posthumano||A|let|C1
+transhumanisme|transhumanismo||S|let|C1
+multivers|multiverso||S|let|C1
+novlangue|novelengua||S|let|C1
+aliénation|alienación||S|let|C1
+asservissement|sojuzgamiento||S|let|C1
+uniformisation|uniformización||S|let|C1
+anticipation|anticipación||S|let|C1
+roman d'anticipation|novela de anticipación||L|let|C1
+colonisation|colonización||S|let|C1
 littérature comparée|literatura comparada||L|let|C1
-canon|canon literario||S|let|C1
+comparatiste|comparatista||S|let|C1
+canon|canon||S|let|C1
 canonique|canónico||A|let|C1
 patrimoine littéraire|patrimonio literario||L|let|C1
-réception|recepción (de una obra)||S|let|C1
-postérité|posteridad||S|let|C1
-posthume|póstumo||A|let|C1
-académisme|academicismo||S|art|C1
-avant-gardiste|vanguardista||A|art|C1
-école littéraire|escuela literaria||L|let|C1
-manifeste|manifiesto (literario)||S|let|C1
-courant de pensée|corriente de pensamiento||L|ast|C1
-négritude|negritud||S|let|C1
-réécriture|reescritura||S|let|C1
+réception|recepción||S|let|C1
+horizon d'attente|horizonte de expectativas||L|let|C1
+hypotexte|hipotexto||S|let|C1
+littérature-monde|literatura-mundo||S|let|C1
+francophonie|francofonía||S|let|C1
+métissage culturel|mestizaje cultural||L|let|C1
+oralité|oralidad||S|let|C1
+postcolonial|postcolonial||A|let|C1
 anthologie|antología||S|let|C1
-florilège|florilegio (antología selecta)||S|let|C1
-écrivain maudit|escritor maldito||L|let|C1
-verve|brío (fervor expresivo)||S|let|C1
-inclassable|inclasificable||A|let|C1
-intemporel|atemporal||A|let|C1
-chef de file|adalid||L|let|C1
-consécration|consagración (reconocimiento)||S|let|C1
-plume|pluma (estilo del escritor)||S|let|C1
-style ampoulé|estilo ampuloso||L|let|C1
-phrasé|fraseo||S|let|C1
-velléité|veleidad||S|ast|C1
-fin de non-recevoir|negativa de plano||L|let|C1
-belles-lettres|bellas letras||L|let|C1
-genre mineur|género menor||L|let|C1
-intertexte|intertexto||S|let|C1
-influence|influencia (de un autor)||S|let|C1
-herméneute|hermeneuta||S|pro|C1
+florilège|florilegio||S|let|C1
+somme|suma (obra de referencia)||S|let|C1
+incontournable|imprescindible||A|let|C1
+structuralisme|estructuralismo||S|let|C1
+formalisme|formalismo||S|let|C1
+sémiotique|semiótica||S|let|C1
+narratologie|narratología||S|let|C1
+classicisme|clasicismo||S|let|C1
+belles-lettres|bellas letras||S|let|C1
+vernaculaire|vernáculo||A|let|C1
+postérité|posteridad||S|let|C1
+épopée|epopeya||S|let|C1
+grand récit|gran relato||L|let|C1
+littérature mineure|literatura menor||L|let|C1
+transfert culturel|transferencia cultural||L|let|C1
+opinion publique|opinión pública||L|att|C1
 sondage d'opinion|encuesta de opinión||L|att|C1
-échantillon représentatif|muestra representativa||L|sci|C1
-échantillonnage|muestreo||S|sci|C1
-marge d'erreur|margen de error||L|sci|C1
-méthode des quotas|método de cuotas||L|sci|C1
-représentativité|representatividad||S|sci|C1
-biais|sesgo (estadístico)||S|sci|C1
-redressement|ajuste (de datos de encuesta)||S|sci|C1
-baromètre|barómetro (indicador de opinión)||S|att|C1
-cote de popularité|índice de popularidad||L|att|C1
-intentions de vote|intención de voto||L|att|C1
-vote blanc|voto en blanco||L|att|C1
-abstention|abstención (electoral)||S|att|C1
-démocratie d'opinion|democracia de opinión||L|att|C1
-spirale du silence|espiral del silencio||L|att|C1
-indice de confiance|índice de confianza||L|sci|C1
-pondération|ponderación (estadística)||S|sci|C1
-extrapoler|extrapolar||V|sci|C1
-extrapolation|extrapolación||S|sci|C1
-institut de sondage|instituto demoscópico||L|att|C1
 démoscopie|demoscopia||S|att|C1
+échantillon|muestra||S|att|C1
+échantillonnage|muestreo||S|att|C1
+marge d'erreur|margen de error||L|att|C1
+méthode des quotas|método de las cuotas||L|att|C1
+panel|panel (muestra fija)||S|att|C1
+intentions de vote|intención de voto||L|att|C1
+institut de sondage|instituto de sondeo||L|att|C1
+taux de réponse|tasa de respuesta||L|att|C1
+biais|sesgo||S|att|C1
+représentativité|representatividad||S|att|C1
+question fermée|pregunta cerrada||L|att|C1
+question ouverte|pregunta abierta||L|att|C1
+abstention|abstención||S|att|C1
+abstentionnisme|abstencionismo||S|att|C1
+clivage|clivaje||S|att|C1
+fracture sociale|fractura social||L|att|C1
+courant d'opinion|corriente de opinión||L|att|C1
+vote utile|voto útil||L|att|C1
+écho médiatique|eco mediático||L|att|C1
+baromètre|barómetro (indicador)||S|att|C1
+doxa|doxa (opinión común)||S|att|C1
+crédibilité|credibilidad||S|att|C1
+défiance|desconfianza||S|att|C1
+courrier des lecteurs|cartas al director||L|att|C1
+revue de presse|revisión de prensa||L|att|C1
 électorat|electorado||S|att|C1
-électeur indécis|elector indeciso||L|att|C1
-taux de participation|tasa de participación||L|att|C1
-volatilité|volatilidad (electoral)||S|att|C1
-clivage|clivaje (político)||S|att|C1
-sympathisant|simpatizante||S|att|C1
-militantisme|militancia||S|att|C1
-micro-trottoir|encuesta callejera||S|att|C1
-statistique inférentielle|estadística inferencial||L|sci|C1
-panel|panel (muestra fija de consulta)||S|sci|C1
-consensus médiatique|consenso mediático||L|att|C1
-cessez-le-feu|alto el fuego||L|att|C1
-armistice|armisticio||S|att|C1
-pourparlers|conversaciones (negociación)||S|att|C1
-médiation|mediación||S|att|C1
-désarmement|desarme||S|att|C1
-prolifération nucléaire|proliferación nuclear||L|att|C1
-dissuasion|disuasión||S|att|C1
-dissuader|disuadir||V|att|C1
-maintien de la paix|mantenimiento de la paz||L|att|C1
-casque bleu|casco azul (soldado de la ONU)||L|att|C1
-zone tampon|zona de amortiguamiento||L|att|C1
-corridor humanitaire|corredor humanitario||L|att|C1
-escalade|escalada (del conflicto)||S|att|C1
-déminage|desminado||S|att|C1
-consolidation de la paix|consolidación de la paz||L|att|C1
-réconciliation nationale|reconciliación nacional||L|att|C1
-crime de guerre|crimen de guerra||L|att|C1
-crime contre l'humanité|crimen de lesa humanidad||L|att|C1
-nettoyage ethnique|limpieza étnica||L|att|C1
-exode|éxodo||S|att|C1
-otage|rehén||S|att|C1
-prise d'otages|toma de rehenes||L|att|C1
-ratification|ratificación||S|att|C1
-belligérant|beligerante||S|att|C1
-mercenaire|mercenario||S|att|C1
-stratège|estratega||S|att|C1
-géopolitique|geopolítica||S|att|C1
-sécurité collective|seguridad colectiva||L|att|C1
-sanction internationale|sanción internacional||L|att|C1
-guérilla|guerrilla||S|att|C1
-riposte|respuesta (contraataque)||S|att|C1
-force d'interposition|fuerza de interposición||L|att|C1
+cessez-le-feu|alto el fuego||L|ist|C1
+pourparlers|negociaciones preliminares||S|ist|C1
+médiation|mediación||S|ist|C1
+armistice|armisticio||S|ist|C1
+désarmement|desarme||S|ist|C1
+prolifération nucléaire|proliferación nuclear||L|ist|C1
+dissuasion|disuasión||S|ist|C1
+prise d'otages|toma de rehenes||L|ist|C1
+maintien de la paix|mantenimiento de la paz||L|ist|C1
+casque bleu|casco azul||L|ist|C1
+onusien|de la ONU||A|ist|C1
+embargo|embargo||S|ist|C1
+rapports de force|correlación de fuerzas||L|ist|C1
+escalade|escalada||S|ist|C1
+apaisement|apaciguamiento||S|ist|C1
+détente|distensión||S|ist|C1
+zone tampon|zona de amortiguamiento||L|ist|C1
+corridor humanitaire|corredor humanitario||L|ist|C1
+aide humanitaire|ayuda humanitaria||L|ist|C1
+belligérant|beligerante||S|ist|C1
+accords de paix|acuerdos de paz||L|ist|C1
+sécurité collective|seguridad colectiva||L|ist|C1
+armement|armamento||S|ist|C1
+trêve|tregua||S|ist|C1
+conflagration|conflagración||S|ist|C1
+protocole d'accord|protocolo de acuerdo||L|ist|C1
+désescalade|desescalada||S|ist|C1
+annexion|anexión||S|ist|C1
+sécession|secesión||S|ist|C1
 intégration régionale|integración regional||L|ist|C1
 supranational|supranacional||A|ist|C1
-intergouvernemental|intergubernamental||A|ist|C1
 multilatéralisme|multilateralismo||S|ist|C1
-unilatéralisme|unilateralismo||S|ist|C1
 coopération renforcée|cooperación reforzada||L|ist|C1
-libre circulation|libre circulación||L|ist|C1
+subsidiarité|subsidiariedad||S|ist|C1
+acquis communautaire|acervo comunitario||L|ist|C1
+élargissement|ampliación (de la UE)||S|ist|C1
+présidence tournante|presidencia de turno||L|ist|C1
+droit de veto|derecho de veto||L|ist|C1
+majorité qualifiée|mayoría cualificada||L|ist|C1
+codécision|codecisión||S|ist|C1
+comitologie|comitología||S|ist|C1
+gouvernance mondiale|gobernanza global||L|ist|C1
+agence spécialisée|organismo especializado||L|ist|C1
+coopération décentralisée|cooperación descentralizada||L|ist|C1
+conditionnalité|condicionalidad||S|ist|C1
+allègement de la dette|alivio de la deuda||L|ist|C1
 union douanière|unión aduanera||L|ist|C1
 marché commun|mercado común||L|ist|C1
-subsidiarité|subsidiariedad||S|ist|C1
-siège|sede (institucional)||S|ist|C1
-adhésion|adhesión (a un tratado)||S|ist|C1
-élargissement|ampliación (de una unión)||S|ist|C1
-réciprocité|reciprocidad||S|ist|C1
+libre circulation|libre circulación||L|ist|C1
+rapprochement|acercamiento||S|ist|C1
+intergouvernemental|intergubernamental||A|ist|C1
+communautaire|comunitario||A|ist|C1
 concertation|concertación||S|ist|C1
-sommet|cumbre (diplomática)||S|ist|C1
-assemblée parlementaire|asamblea parlamentaria||L|ist|C1
-gouvernance mondiale|gobernanza mundial||L|ist|C1
-règlement des différends|solución de controversias||L|ist|C1
-bailleur de fonds|proveedor de fondos||L|ist|C1
-groupe d'intérêt|grupo de interés||L|ist|C1
-droit communautaire|derecho comunitario||L|ist|C1
-acquis communautaire|acervo comunitario||L|ist|C1
-clause de sauvegarde|cláusula de salvaguardia||L|ist|C1
-État membre|Estado miembro||L|ist|C1
-majorité qualifiée|mayoría cualificada||L|ist|C1
-secrétariat général|secretaría general||L|ist|C1
-représentation permanente|representación permanente||L|ist|C1
-harmonisation|armonización (legislativa)||S|ist|C1
-convergence|convergencia (económica)||S|ist|C1
 statut d'observateur|estatuto de observador||L|ist|C1
-zone de libre-échange|zona de libre comercio||L|ist|C1
-État-providence|Estado del bienestar||S|ist|C1
+ratification|ratificación||S|ist|C1
+dénonciation|denuncia (de un tratado)||S|ist|C1
+entrée en vigueur|entrada en vigor||L|ist|C1
+État-providence|Estado de bienestar||S|ist|C1
 protection sociale|protección social||L|ist|C1
-couverture maladie|cobertura sanitaria||L|ist|C1
-allocation chômage|subsidio por desempleo||L|ist|C1
-allocation familiale|subsidio familiar||L|ist|C1
-précarité|precariedad||S|att|C1
-précarisation|precarización||S|att|C1
-exclusion sociale|exclusión social||L|att|C1
 filet de sécurité|red de seguridad||L|ist|C1
+couverture maladie|cobertura sanitaria||L|ist|C1
 cotisation|cotización (social)||S|ist|C1
-cotiser|cotizar||V|ist|C1
-retraite complémentaire|pensión complementaria||L|ist|C1
-dépendance|dependencia (pérdida de autonomía)||S|sla|C1
-perte d'autonomie|pérdida de autonomía||L|sla|C1
-aidant familial|cuidador informal||L|sla|C1
-maison de retraite|residencia de mayores||L|sla|C1
-seuil de pauvreté|umbral de pobreza||L|att|C1
-réduction des inégalités|reducción de las desigualdades||L|att|C1
-redistribution|redistribución (de la riqueza)||S|att|C1
-insertion professionnelle|inserción profesional||L|lav|C1
-congé parental|permiso parental||L|lav|C1
-contrepartie|contrapartida||S|ist|C1
+prélèvements obligatoires|cotizaciones e impuestos obligatorios||L|ist|C1
+prestations sociales|prestaciones sociales||L|ist|C1
+allocation chômage|subsidio por desempleo||L|ist|C1
 aide au logement|ayuda a la vivienda||L|ist|C1
-revenu minimum|renta mínima||L|ist|C1
 assurance chômage|seguro de desempleo||L|ist|C1
-assurance maladie|seguro de salud||L|ist|C1
-mutualisation|mutualización||S|ist|C1
-péréquation|nivelación (redistribución financiera)||S|ist|C1
-collectivité territoriale|entidad territorial||L|ist|C1
-décentralisation|descentralización||S|ist|C1
-barème|baremo||S|ist|C1
-plafond de ressources|límite de recursos||L|ist|C1
+assurance maladie|seguro de enfermedad||L|ist|C1
+retraite par répartition|pensión de reparto||L|ist|C1
+retraite complémentaire|pensión complementaria||L|ist|C1
+dépendance|dependencia||S|ist|C1
+perte d'autonomie|pérdida de autonomía||L|ist|C1
+services à la personne|servicios de ayuda a domicilio||L|ist|C1
+aidant|cuidador (informal)||S|ist|C1
+minima sociaux|rentas mínimas||S|ist|C1
+congé parental|permiso parental||L|ist|C1
+allocation familiale|asignación familiar||L|ist|C1
+redistribution|redistribución||S|ist|C1
+égalité des chances|igualdad de oportunidades||L|ist|C1
+discrimination positive|discriminación positiva||L|ist|C1
+exclusion sociale|exclusión social||L|ist|C1
+précarité|precariedad||S|ist|C1
+insertion professionnelle|inserción laboral||L|ist|C1
+taux de pauvreté|tasa de pobreza||L|ist|C1
+seuil de pauvreté|umbral de pobreza||L|ist|C1
+travailleur pauvre|trabajador pobre||L|ist|C1
+contestation|contestación (protesta)||S|att|C1
+contestataire|contestatario||A|att|C1
+mobilisation|movilización||S|att|C1
+revendication|reivindicación||S|att|C1
+cortège|comitiva||S|att|C1
+piquet de grève|piquete de huelga||L|att|C1
+grève de la faim|huelga de hambre||L|att|C1
+syndicalisme|sindicalismo||S|att|C1
+intersyndicale|intersindical||S|att|C1
+désobéissance civile|desobediencia civil||L|att|C1
+insurrection|insurrección||S|att|C1
+émeute|motín||S|att|C1
+émeutier|amotinado||S|att|C1
+ras-le-bol|hartazgo||S|att|C1
+fronde|fronda (rebelión)||S|att|C1
+frondeur|díscolo||A|att|C1
+maintien de l'ordre|mantenimiento del orden||L|att|C1
+forces de l'ordre|fuerzas del orden||L|att|C1
+gaz lacrymogène|gas lacrimógeno||L|att|C1
+interpellation|detención policial||S|att|C1
+garde à vue|detención preventiva||L|att|C1
+tract|octavilla||S|att|C1
+mouvement social|movimiento social||L|att|C1
+négociation collective|negociación colectiva||L|att|C1
+casseur|alborotador violento||S|att|C1
+soulèvement|levantamiento||S|att|C1
+blocus|bloqueo||S|att|C1
+occupation|ocupación (de un local)||S|att|C1
+corruption|corrupción||S|ist|C1
+détournement de fonds|desvío de fondos||L|ist|C1
+pot-de-vin|soborno||S|ist|C1
+enrichissement illicite|enriquecimiento ilícito||L|ist|C1
+conflit d'intérêts|conflicto de intereses||L|ist|C1
+pantouflage|puertas giratorias||S|ist|C1
+évasion fiscale|evasión fiscal||L|ist|C1
+paradis fiscal|paraíso fiscal||S|ist|C1
+blanchiment|blanqueo de dinero||S|ist|C1
+rétrocommission|retrocomisión||S|ist|C1
+favoritisme|favoritismo||S|ist|C1
+népotisme|nepotismo||S|ist|C1
+clientélisme|clientelismo||S|ist|C1
+transparence|transparencia||S|ist|C1
+traçabilité|trazabilidad||S|ist|C1
+reddition des comptes|rendición de cuentas||L|ist|C1
+déclaration d'intérêts|declaración de intereses||L|ist|C1
+déclaration de patrimoine|declaración de patrimonio||L|ist|C1
+inéligibilité|inelegibilidad||S|ist|C1
+prévarication|prevaricación||S|ist|C1
+abus de biens sociaux|apropiación de bienes sociales||L|ist|C1
+abus de pouvoir|abuso de poder||L|ist|C1
+délit d'initié|uso de información privilegiada||L|ist|C1
+lanceur d'alerte|denunciante de irregularidades||S|ist|C1
+fuite d'information|filtración de información||L|ist|C1
+instruction|instrucción (de una causa)||S|ist|C1
+inculpation|inculpación||S|ist|C1
+non-lieu|sobreseimiento||S|ist|C1
+opacité|opacidad||S|ist|C1

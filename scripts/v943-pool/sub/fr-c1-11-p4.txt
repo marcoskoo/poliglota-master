@@ -1,258 +1,258 @@
-microprocesseur|microprocesador||S|tec|C1
-semi-conducteur|semiconductor||S|tec|C1
-transistor|transistor||S|tec|C1
-photolithographie|fotolitografía||S|tec|C1
-puce électronique|chip electrónico||L|tec|C1
-circuit intégré|circuito integrado||L|tec|C1
-circuit imprimé|circuito impreso||L|tec|C1
-carte mère|placa base||L|tec|C1
-mémoire cache|memoria caché||L|tec|C1
-fréquence d'horloge|frecuencia de reloj||L|tec|C1
-jeu d'instructions|conjunto de instrucciones||L|tec|C1
-registre|registro (de procesador)||S|tec|C1
-bus interne|bus interno||L|tec|C1
-latence|latencia||S|tec|C1
-bande passante|ancho de banda||L|tec|C1
-silicium|silicio||S|sci|C1
-plaquette de silicium|oblea de silicio||L|sci|C1
-dopage|dopaje (de un semiconductor)||S|sci|C1
-nanomètre|nanómetro||S|sci|C1
-dissipateur|disipador de calor||S|tec|C1
-mémoire tampon|memoria intermedia||L|tec|C1
-parallélisation|paralelización||S|tec|C1
-traitement parallèle|procesamiento paralelo||L|tec|C1
-unité de calcul|unidad de cálculo||L|tec|C1
-processeur graphique|procesador gráfico||L|tec|C1
-multicœur|multinúcleo||A|tec|C1
-ordonnancement|planificación (de procesos)||S|tec|C1
-salle blanche|sala limpia||L|sci|C1
-mégadonnées|macrodatos||S|tec|C1
-fouille de données|minería de datos||L|tec|C1
-entrepôt de données|almacén de datos||L|tec|C1
-requête|consulta (a una base de datos)||S|tec|C1
-indexation|indexación||S|tec|C1
-agrégation|agregación||S|tec|C1
-apprentissage automatique|aprendizaje automático||L|tec|C1
-apprentissage profond|aprendizaje profundo||L|tec|C1
-corpus de textes|corpus de textos||L|tec|C1
-métadonnée|metadato||S|tec|C1
-anonymisation|anonimización||S|tec|C1
-anonymiser|anonimizar||V|tec|C1
-hachage|resumen criptográfico||S|tec|C1
-modèle relationnel|modelo relacional||L|tec|C1
-schéma|esquema (de datos)||S|tec|C1
-redondance|redundancia||S|tec|C1
-réplication|réplica (copia de datos)||S|tec|C1
-flux en continu|flujo continuo||L|tec|C1
-traitement par lots|procesamiento por lotes||L|tec|C1
-informatique décisionnelle|inteligencia empresarial||L|tec|C1
-visualisation interactive|visualización interactiva||L|tec|C1
-clé primaire|clave primaria||L|tec|C1
-clé étrangère|clave foránea||L|tec|C1
-normalisation|normalización (de bases de datos)||S|tec|C1
-accès séquentiel|acceso secuencial||L|tec|C1
-synchronisation|sincronización||S|tec|C1
-tableau de bord|cuadro de mando||L|tec|C1
-analyse prédictive|análisis predictivo||L|tec|C1
 chaîne de blocs|cadena de bloques||L|tec|C1
 registre distribué|registro distribuido||L|tec|C1
+contrat intelligent|contrato inteligente||L|tec|C1
+cryptoactif|criptoactivo||S|tec|C1
+cryptographie|criptografía||S|tec|C1
+jeton|ficha digital (token)||S|tec|C1
+portefeuille logiciel|monedero de software||L|tec|C1
+clé privée|clave privada||L|tec|C1
+clé publique|clave pública||L|tec|C1
+chiffrement|cifrado||S|tec|C1
+empreinte numérique|huella digital||L|tec|C1
+signature électronique|firma electrónica||L|tec|C1
+minage|minado (de criptomonedas)||S|tec|C1
 preuve de travail|prueba de trabajo||L|tec|C1
 preuve d'enjeu|prueba de participación||L|tec|C1
-minage|minado (de bloques)||S|tec|C1
-mineur|minero (de criptomonedas)||S|tec|C1
-portefeuille virtuel|monedero virtual||L|tec|C1
-cryptomonnaie|criptomoneda||S|fin|C1
-cryptographie|criptografía||S|tec|C1
-chiffrement|cifrado||S|tec|C1
-signature numérique|firma digital||L|tec|C1
-horodatage|sellado temporal||S|tec|C1
-jeton non fongible|activo digital no fungible||L|tec|C1
-contrat intelligent|contrato inteligente||L|tec|C1
-réseau décentralisé|red descentralizada||L|tec|C1
-nœud du réseau|nodo de la red||L|tec|C1
-immuabilité|inmutabilidad||S|tec|C1
-traçabilité|trazabilidad||S|tec|C1
-pseudonymat|seudonimato||S|tec|C1
-double dépense|doble gasto||L|tec|C1
+nœud|nodo (de la red)||S|tec|C1
 mécanisme de consensus|mecanismo de consenso||L|tec|C1
+immuabilité|inmutabilidad||S|tec|C1
+pseudonymisation|seudonimización||S|tec|C1
+volatilité|volatilidad||S|tec|C1
+pair à pair|entre iguales||L|tec|C1
+désintermédiation|desintermediación||S|tec|C1
+décentralisation|descentralización||S|tec|C1
+double dépense|doble gasto||L|tec|C1
+sous-jacent|subyacente (activo)||S|tec|C1
+règlement|liquidación (de operaciones)||S|tec|C1
+frais de transaction|comisiones de transacción||L|tec|C1
+authentification|autenticación||S|tec|C1
 validateur|validador||S|tec|C1
-monnaie stable|moneda estable||L|fin|C1
-levée de fonds|recaudación de fondos||L|fin|C1
-confiance distribuée|confianza distribuida||L|tec|C1
-grand livre|libro mayor||L|fin|C1
-consommation énergétique|consumo energético||L|tec|C1
-certificat électronique|certificado electrónico||L|tec|C1
-fonction de hachage|función de resumen||L|tec|C1
+jeton non fongible|token no fungible||L|tec|C1
+récompense de bloc|recompensa de bloque||L|tec|C1
+grand livre|libro mayor||L|tec|C1
+dépositaire|depositario||S|tec|C1
 biométrie|biometría||S|tec|C1
 biométrique|biométrico||A|tec|C1
 reconnaissance faciale|reconocimiento facial||L|tec|C1
-reconnaissance vocale|reconocimiento de voz||L|tec|C1
-empreinte digitale|huella dactilar||L|tec|C1
-vecteur de caractéristiques|vector de características||L|tec|C1
-regroupement|agrupamiento (clúster)||S|tec|C1
+reconnaissance de formes|reconocimiento de patrones||L|tec|C1
+synthèse vocale|síntesis de voz||L|tec|C1
+classification automatique|clasificación automática||L|tec|C1
+catégorisation|categorización||S|tec|C1
 détection d'anomalies|detección de anomalías||L|tec|C1
-segmentation|segmentación (de imagen)||S|tec|C1
-motif récurrent|patrón recurrente||L|tec|C1
-taux de faux positifs|tasa de falsos positivos||L|tec|C1
-authentification|autenticación||S|tec|C1
-authentifier|autenticar||V|tec|C1
-usurpation d'identité|suplantación de identidad||L|tec|C1
-appariement|emparejamiento||S|tec|C1
-matrice de confusion|matriz de confusión||L|tec|C1
-surajustement|sobreajuste||S|tec|C1
-étiquetage|etiquetado (de datos)||S|tec|C1
-base d'entraînement|base de entrenamiento||L|tec|C1
-vision par ordinateur|visión artificial||L|tec|C1
-traitement d'images|procesamiento de imágenes||L|tec|C1
-extraction de caractéristiques|extracción de características||L|tec|C1
-profilage|perfilado||S|tec|C1
-algorithme prédictif|algoritmo predictivo||L|tec|C1
+faux positif|falso positivo||L|tec|C1
 seuil de décision|umbral de decisión||L|tec|C1
-descripteur|descriptor (de imagen)||S|tec|C1
-classificateur|clasificador||S|tec|C1
+extraction de caractéristiques|extracción de características||L|tec|C1
+descripteur|descriptor||S|tec|C1
+vision par ordinateur|visión artificial||L|tec|C1
+traitement d'image|procesamiento de imágenes||L|tec|C1
+détection de contours|detección de bordes||L|tec|C1
+appariement|emparejamiento||S|tec|C1
+regroupement|agrupamiento||S|tec|C1
+partitionnement|particionado||S|tec|C1
+surapprentissage|sobreajuste||S|tec|C1
+robustesse|robustez||S|tec|C1
+invariance|invariancia||S|tec|C1
+usurpation d'identité|suplantación de identidad||L|tec|C1
+signature vocale|firma de voz||L|tec|C1
+consentement|consentimiento||S|tec|C1
+anthropométrie|antropometría||S|tec|C1
+vidéosurveillance|videovigilancia||S|tec|C1
+empreinte digitale|huella dactilar||L|tec|C1
 arbre de décision|árbol de decisión||L|tec|C1
-sélection de variables|selección de variables||L|tec|C1
+forêt aléatoire|bosque aleatorio||L|tec|C1
+biais algorithmique|sesgo algorítmico||L|tec|C1
+boîte noire|caja negra||L|tec|C1
+scan rétinien|escaneado de retina||L|tec|C1
+croisement de fichiers|cruce de ficheros||L|tec|C1
+contrôle au faciès|control policial por el aspecto||L|tec|C1
+fichage|fichaje||S|tec|C1
+surveillance de masse|vigilancia masiva||L|tec|C1
+seuil de tolérance|umbral de tolerancia||L|tec|C1
 objet connecté|objeto conectado||L|tec|C1
-ville intelligente|ciudad inteligente||L|cit|C1
-capteur|sensor||S|tec|C1
-domotique|domótica||S|tec|C1
+internet des objets|internet de las cosas||L|tec|C1
 maison connectée|hogar conectado||L|tec|C1
-protocole de communication|protocolo de comunicación||L|tec|C1
-jumeau numérique|gemelo digital||L|tec|C1
+ville intelligente|ciudad inteligente||L|tec|C1
+réseau de capteurs|red de sensores||L|tec|C1
+télémétrie|telemetría||S|tec|C1
+domotique|domótica||S|tec|C1
+bâtiment intelligent|edificio inteligente||L|tec|C1
 compteur communicant|contador inteligente||L|tec|C1
-mobilité urbaine|movilidad urbana||L|cit|C1
-gestion des déchets|gestión de residuos||L|cit|C1
-vidéosurveillance|videovigilancia||S|cit|C1
-relevé à distance|lectura remota||L|tec|C1
-interconnexion|interconexión||S|tec|C1
-interopérabilité|interoperabilidad||S|tec|C1
-passerelle|pasarela (de conexión)||S|tec|C1
-bande de fréquences|banda de frecuencias||L|tec|C1
-actionneur|actuador||S|tec|C1
-microcontrôleur|microcontrolador||S|tec|C1
-système embarqué|sistema embebido||L|tec|C1
-télésurveillance|televigilancia||S|tec|C1
+mobilité douce|movilidad suave||L|tec|C1
+borne de recharge|punto de recarga||L|tec|C1
+autopartage|coche compartido||S|tec|C1
+rénovation énergétique|rehabilitación energética||L|tec|C1
+écoquartier|ecobarrio||S|tec|C1
+circulation restreinte|tráfico restringido||L|tec|C1
+protocole de communication|protocolo de comunicación||L|tec|C1
+passerelle|pasarela||S|tec|C1
+bande passante|ancho de banda||L|tec|C1
+latence|latencia||S|tec|C1
 cybersécurité|ciberseguridad||S|tec|C1
-pare-feu|cortafuegos||S|tec|C1
+cyberattaque|ciberataque||S|tec|C1
+piratage|piratería informática||S|tec|C1
 rançongiciel|secuestrador de datos||S|tec|C1
 vulnérabilité|vulnerabilidad (informática)||S|tec|C1
-faille de sécurité|brecha de seguridad||L|tec|C1
-consentement éclairé|consentimiento informado||L|tec|C1
-mobilier urbain|mobiliario urbano||L|cit|C1
-paiement sans contact|pago sin contacto||L|tec|C1
-immersif|inmersivo||A|tec|C1
+porte dérobée|puerta trasera||L|tec|C1
+identité numérique|identidad digital||L|tec|C1
+jumeau numérique|gemelo digital||L|tec|C1
+télémédecine|telemedicina||S|tec|C1
+maintenance prédictive|mantenimiento predictivo||L|tec|C1
+vote électronique|voto electrónico||L|tec|C1
+système embarqué|sistema embebido||L|tec|C1
+informatique en nuage|computación en la nube||L|tec|C1
+réseau maillé|red en malla||L|tec|C1
+standardisation|estandarización||S|tec|C1
+obsolescence programmée|obsolescencia programada||L|tec|C1
+déploiement|despliegue||S|tec|C1
+passage à l'échelle|escalado||L|tec|C1
 réalité virtuelle|realidad virtual||L|tec|C1
 réalité augmentée|realidad aumentada||L|tec|C1
-casque immersif|casco inmersivo||L|tec|C1
-plateforme de jeu|plataforma de juegos||L|sve|C1
-simulateur de vol|simulador de vuelo||L|tec|C1
-ludique|lúdico||A|sve|C1
-ludification|ludificación||S|tec|C1
-jouabilité|jugabilidad||S|sve|C1
-cinématique|cinemática (escena del videojuego)||S|cin|C1
+immersion|inmersión||S|tec|C1
+immersif|inmersivo||A|tec|C1
+visiocasque|casco de realidad virtual||S|tec|C1
+monde virtuel|mundo virtual||L|tec|C1
+monde persistant|mundo persistente||L|tec|C1
+ludique|lúdico||A|tec|C1
+jouabilité|jugabilidad||S|tec|C1
 haptique|háptico||A|tec|C1
+retour de force|retorno de fuerza||L|tec|C1
 retour haptique|respuesta háptica||L|tec|C1
-capture de mouvement|captura de movimiento||L|cin|C1
-interactivité|interactividad||S|tec|C1
-cyberespace|ciberespacio||S|tec|C1
-identité en ligne|identidad en línea||L|tec|C1
-monde ouvert|mundo abierto||L|sve|C1
-salle d'évasion|sala de escape||L|sve|C1
-pixellisation|pixelado||S|tec|C1
+capture de mouvement|captura de movimiento||L|tec|C1
+narration interactive|narrativa interactiva||L|tec|C1
+fiction interactive|ficción interactiva||L|tec|C1
+diégèse|diegésis||S|tec|C1
 synthèse d'images|síntesis de imágenes||L|tec|C1
-rendu graphique|renderizado||L|tec|C1
-son spatialisé|sonido espacializado||L|tec|C1
-téléprésence|telepresencia||S|tec|C1
-commande vocale|comando de voz||L|tec|C1
-dématérialisation|desmaterialización||S|tec|C1
-scénarisation|diseño narrativo||S|cin|C1
-bruitage|sonorización (efectos)||S|cin|C1
-diffusion en direct|emisión en directo||L|tec|C1
-univers persistant|mundo persistente||L|sve|C1
-volcanologie|vulcanología||S|sci|C1
-sismologie|sismología||S|sci|C1
-sismographe|sismógrafo||S|sci|C1
+interactivité|interactividad||S|tec|C1
+multijoueur|multijugador||A|tec|C1
+monétisation|monetización||S|tec|C1
+microtransaction|microtransacción||S|tec|C1
+métavers|metaverso||S|tec|C1
+pseudonymat|seudonimia||S|tec|C1
+sensation de présence|sensación de presencia||L|tec|C1
+binaural|binaural||A|tec|C1
+spatialisation sonore|sonido espacializado||L|tec|C1
+holophonie|holofonía||S|tec|C1
+ergonomie|ergonomía||S|tec|C1
+expérience utilisateur|experiencia de usuario||L|tec|C1
+ludification|gamificación||S|tec|C1
+jeu sérieux|juego serio||L|tec|C1
+synchronisation|sincronización||S|tec|C1
+omnidirectionnel|omnidireccional||A|tec|C1
+rendu|renderizado||S|tec|C1
+ombrage|sombreado (infografía)||S|tec|C1
+maillage|mallado (malla poligonal)||S|tec|C1
+modélisation tridimensionnelle|modelado tridimensional||L|tec|C1
+volcanologie|vulcanología||S|nat|C1
+volcanique|volcánico||A|nat|C1
 éruption|erupción||S|nat|C1
-nuée ardente|nube ardiente||L|nat|C1
-coulée pyroclastique|flujo piroclástico||L|nat|C1
 coulée de lave|colada de lava||L|nat|C1
+magma|magma||S|nat|C1
 chambre magmatique|cámara magmática||L|nat|C1
+panache de cendres|penacho de cenizas||L|nat|C1
+nuée ardente|nube ardiente||L|nat|C1
+pyroclastique|piroclástico||A|nat|C1
+caldeira|caldera||S|nat|C1
 fumerolle|fumarola||S|nat|C1
-source chaude|fuente termal||L|nat|C1
+séisme|sismo||S|nat|C1
+sismique|sísmico||A|nat|C1
 secousse tellurique|sacudida telúrica||L|nat|C1
-épicentre|epicentro||S|nat|C1
 hypocentre|hipocentro||S|nat|C1
+épicentre|epicentro||S|nat|C1
 faille|falla (geológica)||S|nat|C1
 plaque tectonique|placa tectónica||L|nat|C1
+subduction|subducción||S|nat|C1
 glissement de terrain|desprendimiento de tierra||L|nat|C1
 éboulement|derrumbe||S|nat|C1
-affaissement|hundimiento (del terreno)||S|nat|C1
-effondrement|colapso (del terreno)||S|nat|C1
+affaissement|hundimiento del terreno||S|nat|C1
+coulée de boue|flujo de barro||L|nat|C1
 aléa naturel|peligro natural||L|nat|C1
-prévention des risques|prevención de riesgos||L|nat|C1
-obsidienne|obsidiana||S|nat|C1
-roche magmatique|roca magmática||L|sci|C1
-volcanologue|vulcanólogo||S|pro|C1
-dispositif d'alerte|dispositivo de alerta||L|tec|C1
-caldeira|caldera||S|nat|C1
+plan d'évacuation|plan de evacuación||L|nat|C1
+système d'alerte précoce|sistema de alerta temprana||L|nat|C1
+stratigraphie|estratigrafía||S|nat|C1
+sédimentaire|sedimentario||A|nat|C1
+karst|karst||S|nat|C1
+doline|dolina||S|nat|C1
+dégazage|desgasificación||S|nat|C1
+pouzzolane|puzolana||S|nat|C1
+fissure éruptive|fisura eruptiva||L|nat|C1
 dôme de lave|domo de lava||L|nat|C1
-protection civile|protección civil||L|ist|C1
-au péril de|a riesgo de||L|ast|C1
-limnologie|limnología||S|sci|C1
-hydrologie|hidrología||S|sci|C1
-hydrique|hídrico||A|sci|C1
-lit mineur|cauce menor||L|nat|C1
-lit majeur|cauce mayor||L|nat|C1
-zone inondable|zona inundable||L|nat|C1
-crue|crecida||S|nat|C1
-étiage|estiaje||S|nat|C1
-nappe phréatique|acuífero||L|nat|C1
-exutoire|desagüe natural||S|nat|C1
-confluence|confluencia||S|nat|C1
-estuaire|estuario||S|nat|C1
-bras mort|meandro abandonado||L|nat|C1
-méandre|meandro||S|nat|C1
-ripisylve|bosque de ribera||S|nat|C1
-roselière|carrizal||S|nat|C1
-tourbière|turbera||S|nat|C1
-zone humide|humedal||L|nat|C1
-assèchement|desecación||S|nat|C1
-endoréique|endorreico||A|sci|C1
-karstique|kárstico||A|sci|C1
-source|manantial||S|nat|C1
-ruissellement|escorrentía||S|nat|C1
+accéléromètre|acelerómetro||S|nat|C1
+géothermie|geotermia||S|nat|C1
+risque naturel|riesgo natural||L|nat|C1
+périmètre de sécurité|perímetro de seguridad||L|nat|C1
+limnologie|limnología||S|nat|C1
+hydrologie|hidrología||S|nat|C1
 bassin versant|cuenca hidrográfica||L|nat|C1
-sédimentation|sedimentación||S|sci|C1
-alluvion|aluvión||S|sci|C1
-envasement|colmatación||S|sci|C1
-marnage|rango de marea||S|sci|C1
-turbidité|turbidez||S|sci|C1
-agronomie|agronomía||S|sci|C1
-phytosanitaire|fitosanitario||A|sci|C1
-amendement|enmienda (del suelo)||S|sci|C1
-fertilisation|fertilización||S|sci|C1
-semis direct|siembra directa||L|sci|C1
-rotation culturale|rotación de cultivos||L|sci|C1
-jachère|barbecho||S|sci|C1
-irrigation goutte à goutte|riego por goteo||L|sci|C1
-permaculture|permacultura||S|sci|C1
-hydroponie|hidroponía||S|sci|C1
-culture sous serre|cultivo en invernadero||L|sci|C1
-agroforesterie|agroforestería||S|sci|C1
-lisier|purín||S|sci|C1
-paillage|acolchado||S|sci|C1
-désherbage|desherbado||S|sci|C1
-lutte biologique|control biológico||L|sci|C1
-pédologie|edafología||S|sci|C1
-limon|limo||S|sci|C1
-acidification|acidificación (del suelo)||S|sci|C1
-érosion hydrique|erosión hídrica||L|sci|C1
-lessivage|lavado (del suelo)||S|sci|C1
-salinisation|salinización (del suelo)||S|sci|C1
-stress hydrique|estrés hídrico||L|sci|C1
-bouturage|esquejado||S|sci|C1
-greffage|injerto (técnica)||S|sci|C1
-pollinisation|polinización||S|sci|C1
-maladie cryptogamique|enfermedad criptogámica||L|sci|C1
-terroir|terruño||S|sci|C1
-fumure|abonado de fondo||S|sci|C1
+lit majeur|cauce mayor||L|nat|C1
+lit mineur|cauce menor||L|nat|C1
+ripisylve|bosque de ribera||S|nat|C1
+zone humide|zona húmeda (humedal)||L|nat|C1
+tourbière|turbera||S|nat|C1
+estuaire|estuario||S|nat|C1
+affluent|afluente||S|nat|C1
+confluence|confluencia||S|nat|C1
+résurgence|resurgencia||S|nat|C1
+nappe phréatique|nivel freático||L|nat|C1
+aquifère|acuífero||S|nat|C1
+étiage|estiaje||S|nat|C1
+crue|crecida||S|nat|C1
+crue centennale|crecida centenaria||L|nat|C1
+inondation éclair|inundación relámpago||L|nat|C1
+transport solide|transporte de sedimentos||L|nat|C1
+frayère|zona de freza||S|nat|C1
+piscicole|piscícola||A|nat|C1
+halieutique|haliéutico||A|nat|C1
+eutrophisation|eutrofización||S|nat|C1
+efflorescence algale|floración de algas||L|nat|C1
+turbidité|turbidez||S|nat|C1
+anoxie|anoxia||S|nat|C1
+renaturation|renaturalización||S|nat|C1
+continuité écologique|continuidad ecológica||L|nat|C1
+génie écologique|ingeniería ecológica||L|nat|C1
+bathymétrie|batimetría||S|nat|C1
+salinité|salinidad||S|nat|C1
+thermocline|termoclina||S|nat|C1
+débordement|desbordamiento||S|nat|C1
+sphagne|esfagno||S|nat|C1
+tourbe|turba||S|nat|C1
+biotope|biotopo||S|nat|C1
+corridor écologique|corredor ecológico||L|nat|C1
+trame verte|infraestructura verde||L|nat|C1
+agronomie|agronomía||S|nat|C1
+agronome|agrónomo||S|nat|C1
+pédologie|edafología||S|nat|C1
+labour|labranza||S|nat|C1
+semis|siembra||S|nat|C1
+rotation des cultures|rotación de cultivos||L|nat|C1
+jachère|barbecho||S|nat|C1
+engrais|abono (fertilizante)||S|nat|C1
+amendement|enmienda||S|nat|C1
+fertilisation|fertilización||S|nat|C1
+phytosanitaire|fitosanitario||A|nat|C1
+biocontrôle|control biológico||S|nat|C1
+lutte intégrée|lucha integrada||L|nat|C1
+permaculture|permacultura||S|nat|C1
+agroforesterie|agroforestería||S|nat|C1
+agroécologie|agroecología||S|nat|C1
+maraîchage|cultivo de huerta||S|nat|C1
+culture sous serre|cultivo bajo invernadero||L|nat|C1
+hydroponie|hidroponía||S|nat|C1
+goutte-à-goutte|riego por goteo||S|nat|C1
+irrigation de précision|riego de precisión||L|nat|C1
+agriculture de précision|agricultura de precisión||L|nat|C1
+humique|húmico||A|nat|C1
+azote|nitrógeno||S|nat|C1
+lessivage|lavado (del suelo)||S|nat|C1
+lixiviation|lixiviación||S|nat|C1
+couvert végétal|cobertura vegetal||L|nat|C1
+enherbement|encespedado||S|nat|C1
+désherbage|desherbado||S|nat|C1
+compaction du sol|compactación del suelo||L|nat|C1
+ruissellement|escorrentía||S|nat|C1
+sélection variétale|mejora varietal||L|nat|C1
+semoir|sembradora||S|nat|C1
+moisson|cosecha||S|nat|C1
+ensilage|ensilado||S|nat|C1
+viticulture|viticultura||S|nat|C1
+terroir|terruño||S|nat|C1
+appellation d'origine|denominación de origen||L|nat|C1
