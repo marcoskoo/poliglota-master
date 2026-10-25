@@ -1,0 +1,210 @@
+adolescência|adolescencia||S|fam|B2
+terceira idade|tercera edad||S|fam|B2
+velhice|vejez||S|fam|B2
+nora|nuera||S|fam|B2
+genro|yerno||S|fam|B2
+sogra|suegra||S|fam|B2
+neto|nieto||S|fam|B2
+bisavô|bisabuelo||S|fam|B2
+herança|herencia||S|fam|B2
+testamento|testamento||S|fam|B2
+apelido|apellido||S|fam|B2
+geração|generación||S|fam|B2
+recordação|recuerdo||S|fam|B2
+bodas de prata|bodas de plata||S|fam|B2
+desavença|desacuerdo||S|fam|B2
+birra|rabieta||S|fam|B2
+castigo|castigo||S|fam|B2
+educar|educar||V|fam|B2
+impor limites|poner límites||E|fam|B2
+valores|valores||S|fam|B2
+arrendamento|alquiler||S|cas|B2
+arrendar|alquilar||V|cas|B2
+inquilino|inquilino||S|cas|B2
+senhorio|casero||S|cas|B2
+renda|alquiler (mensual)||S|cas|B2
+caução|fianza||S|cas|B2
+mudança|mudanza||S|cas|B2
+vistoria|inspección (de la vivienda)||S|cas|B2
+escritura|escritura||S|cas|B2
+arrumar|recoger (ordenar)||V|cas|B2
+reforma|reforma||S|cas|B2
+canalização|fontanería||S|cas|B2
+azulejo|azulejo||S|cas|B2
+soalho|suelo de madera||S|cas|B2
+teto|techo||S|cas|B2
+tijolo|ladrillo||S|cas|B2
+betão|hormigón||S|cas|B2
+poltrona|butaca||S|cas|B2
+tapete|alfombra||S|cas|B2
+cortina|cortina||S|cas|B2
+almofada|cojín||S|cas|B2
+estante|estantería||S|cas|B2
+eletricista|electricista||S|pro|B2
+pedreiro|albañil||S|pro|B2
+tempero|condimento||S|ali|B2
+especiaria|especia||S|ali|B2
+açafrão|azafrán||S|ali|B2
+coentros|cilantro||S|ali|B2
+enchido|embutido||S|ali|B2
+marisco|marisco||S|ali|B2
+petisco|tapa||S|ali|B2
+doçaria|repostería||S|ali|B2
+gastronomia|gastronomía||S|ali|B2
+sobremesa|postre||S|ris|B2
+ementa|carta (de restaurante)||S|ris|B2
+gorjeta|propina||S|ris|B2
+pequeno-almoço|desayuno||S|ali|B2
+empregado de mesa|camarero||S|ris|B2
+especialidade da casa|especialidad de la casa||S|ris|B2
+vegetarianismo|vegetarianismo||S|ali|B2
+veganismo|veganismo||S|ali|B2
+intolerância à lactose|intolerancia a la lactosa||S|sla|B2
+dose|porción||S|ali|B2
+nutriente|nutriente||S|sla|B2
+hidratos de carbono|hidratos de carbono||S|sla|B2
+gordura saturada|grasa saturada||S|sla|B2
+proteína|proteína||S|sla|B2
+desidratação|deshidratación||S|sla|B2
+rótulo|etiqueta||S|ali|B2
+conservante|conservante||S|ali|B2
+corante|colorante||S|ali|B2
+data de fabrico|fecha de fabricación||S|ali|B2
+ultraprocessado|ultraprocesado||A|ali|B2
+prova de vinhos|cata de vinos||S|ali|B2
+enólogo|enólogo||S|pro|B2
+adega|bodega||S|ali|B2
+vinho verde|vino verde||S|ali|B2
+paladar|paladar||S|ali|B2
+publicidade|publicidad||S|cmp|B2
+anúncio|anuncio||S|cmp|B2
+campanha publicitária|campaña publicitaria||S|cmp|B2
+slogan|eslogan||S|cmp|B2
+patrocínio|patrocinio||S|cmp|B2
+consumismo|consumismo||S|cmp|B2
+promoção|promoción (oferta)||S|cmp|B2
+devolução|devolución||S|cmp|B2
+reembolso|reembolso||S|cmp|B2
+garantia|garantía||S|cmp|B2
+fatura|factura||S|cmp|B2
+reclamação|reclamación||S|cmp|B2
+livro de reclamações|libro de reclamaciones||S|cmp|B2
+arrepender-se|arrepentirse||V|cmp|B2
+compra por impulso|compra por impulso||S|cmp|B2
+avaliação|valoración||S|cmp|B2
+loja online|tienda online||S|cmp|B2
+encomenda|pedido||S|cmp|B2
+rastreio|seguimiento (del envío)||S|cmp|B2
+portes de envio|gastos de envío||S|cmp|B2
+embalagem|embalaje||S|cmp|B2
+logística|logística||S|cmp|B2
+coima|multa||S|tra|B2
+carta de condução|carné de conducir||S|tra|B2
+pneu|neumático||S|tra|B2
+avaria|avería||S|tra|B2
+embraiagem|embrague||S|tra|B2
+rotunda|rotonda||S|tra|B2
+peagem|peaje||S|tra|B2
+alcoolémia|alcoholemia||S|tra|B2
+inspeção|inspección (del vehículo)||S|tra|B2
+engarrafamento|atasco||S|tra|B2
+mobilidade suave|movilidad suave||S|tra|B2
+pegada carbónica|huella de carbono||S|nat|B2
+passe|abono||S|tra|B2
+ciclovia|carril bici||S|cit|B2
+viagem de negócios|viaje de negocios||S|vig|B2
+itinerário|itinerario||S|vig|B2
+bagagem de mão|equipaje de mano||S|vig|B2
+despachar a bagagem|facturar el equipaje||E|vig|B2
+visto|visado||S|vig|B2
+alfândega|aduana||S|vig|B2
+autorização de residência|autorización de residencia||S|vig|B2
+cidadania|ciudadanía||S|ist|B2
+nacionalidade|nacionalidad||S|ist|B2
+apátrida|apátrida||S|ist|B2
+meia pensão|media pensión||S|htl|B2
+pensão completa|pensión completa||S|htl|B2
+pousada|posada (hotel rural)||S|htl|B2
+época alta|temporada alta||S|htl|B2
+receção|recepción||S|htl|B2
+utente|usuario (sanitario)||S|sla|B2
+centro de saúde|centro de salud||S|sla|B2
+urgências|urgencias (hospital)||S|sla|B2
+subsídio de doença|subsidio por enfermedad||S|sla|B2
+baixa médica|baja médica||S|sla|B2
+sedentarismo|sedentarismo||S|sla|B2
+tabagismo|tabaquismo||S|sla|B2
+obesidade|obesidad||S|sla|B2
+pressão arterial|tensión arterial||S|sla|B2
+colesterol|colesterol||S|sla|B2
+diagnóstico|diagnóstico||S|sla|B2
+prevenção|prevención||S|sla|B2
+esgotamento|agotamiento (burnout)||S|sla|B2
+ansiedade|ansiedad||S|sla|B2
+bem-estar|bienestar||S|sla|B2
+autoestima|autoestima||S|emo|B2
+terapia|terapia||S|sla|B2
+hidratação|hidratación||S|sla|B2
+frequência cardíaca|frecuencia cardíaca||S|spt|B2
+aquecimento|calentamiento||S|spt|B2
+oferta de emprego|oferta de empleo||S|lav|B2
+carta de motivação|carta de motivación||S|lav|B2
+experiência profissional|experiencia profesional||S|lav|B2
+competência|competencia||S|lav|B2
+mercado de trabalho|mercado laboral||S|lav|B2
+rede de contactos|red de contactos||S|lav|B2
+entrevista de emprego|entrevista de trabajo||S|lav|B2
+entrevistador|entrevistador||S|lav|B2
+ponto forte|punto fuerte||S|lav|B2
+ponto fraco|punto débil||S|lav|B2
+remuneração|remuneración||S|lav|B2
+ordenado|sueldo||S|lav|B2
+subsídio de alimentação|subsidio de comidas||S|lav|B2
+ascensão|ascenso||S|lav|B2
+despedimento|despido||S|lav|B2
+despedir|despedir||V|lav|B2
+progressão na carreira|progreso en la carrera||S|lav|B2
+rescisão|rescisión||S|lav|B2
+reunião de equipa|reunión de equipo||S|lav|B2
+ata|acta||S|lav|B2
+ordem de trabalhos|orden del día||S|lav|B2
+delegar|delegar||V|lav|B2
+direito do trabalho|derecho laboral||S|lav|B2
+negociação coletiva|negociación colectiva||S|lav|B2
+sindicato|sindicato||S|ist|B2
+horas extraordinárias|horas extraordinarias||S|lav|B2
+assédio|acoso||S|lav|B2
+subsídio de Natal|subsidio de Navidad||S|fin|B2
+exame nacional|examen nacional||S|stu|B2
+prova oral|prueba oral||S|stu|B2
+aprovação|aprobación||S|stu|B2
+chumbar|suspender (un examen)||V|stu|B2
+média|nota media||S|stu|B2
+bolseiro|becario||S|stu|B2
+bolsa de estudo|beca de estudios||S|stu|B2
+propinas|tasas universitarias||S|stu|B2
+cantina|comedor universitario||S|stu|B2
+mestrado|máster||S|stu|B2
+doutoramento|doctorado||S|stu|B2
+intercâmbio|intercambio||S|stu|B2
+sublinhar|subrayar||V|stu|B2
+memorizar|memorizar||V|stu|B2
+apontamentos|apuntes||S|stu|B2
+periferia|periferia||S|cit|B2
+bairro de lata|barrio de chabolas||S|cit|B2
+gentrificação|gentrificación||S|cit|B2
+bairro histórico|barrio histórico||S|cit|B2
+miradouro|mirador||S|cit|B2
+atendimento|atención al público||S|cit|B2
+câmara municipal|ayuntamiento||S|ist|B2
+freguesia|parroquia (distrito)||S|ist|B2
+ecoponto|punto limpio||S|cit|B2
+aquecimento global|calentamiento global||S|cli|B2
+seca|sequía||S|cli|B2
+cheia|crecida||S|cli|B2
+incêndio florestal|incendio forestal||S|nat|B2
+sismo|terremoto||S|nat|B2
+previsão do tempo|previsión del tiempo||S|cli|B2
+onda de calor|ola de calor||S|cli|B2
+granizo|granizo||S|cli|B2
+trovoada|tormenta||S|cli|B2

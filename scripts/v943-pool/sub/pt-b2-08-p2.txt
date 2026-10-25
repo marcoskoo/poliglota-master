@@ -1,0 +1,208 @@
+geada|helada||S|cli|B2
+moda rápida|moda rápida (fast fashion)||S|rop|B2
+alfaiate|sastre||S|pro|B2
+joalharia|joyería||S|rop|B2
+segunda mão|segunda mano||S|rop|B2
+rede social|red social||S|tec|B2
+notificação|notificación||S|tec|B2
+era digital|era digital||S|tec|B2
+cibersegurança|ciberseguridad||S|tec|B2
+roubo de identidade|robo de identidad||S|tec|B2
+palavra-passe|contraseña||S|tec|B2
+cópia de segurança|copia de seguridad||S|tec|B2
+dados pessoais|datos personales||S|tec|B2
+armazenamento na nuvem|almacenamiento en la nube||S|tec|B2
+atualizar|actualizar||V|tec|B2
+programação|programación||S|tec|B2
+código-fonte|código fuente||S|tec|B2
+programador|programador||S|pro|B2
+algoritmo|algoritmo||S|tec|B2
+inteligência artificial|inteligencia artificial||S|tec|B2
+eliminatória|eliminatoria||S|spt|B2
+meia-final|semifinal||S|spt|B2
+arbitragem|arbitraje||S|spt|B2
+transferência|fichaje||S|spt|B2
+relvado|césped||S|spt|B2
+entorse|esguince||S|sla|B2
+rotura|rotura||S|sla|B2
+tendinite|tendinitis||S|sla|B2
+inflamação|inflamación||S|sla|B2
+recuperar-se|recuperarse||V|sla|B2
+lombalgia|lumbalgia||S|sla|B2
+queimadura|quemadura||S|sla|B2
+ferida|herida||S|sla|B2
+desmaio|desmayo||S|sla|B2
+penso rápido|tirita||S|sla|B2
+partitura|partitura||S|mus|B2
+acorde|acorde||S|mus|B2
+palco|escenario||S|mus|B2
+bilheteira|taquilla||S|mus|B2
+gira|gira (tour)||S|mus|B2
+repertório|repertorio||S|mus|B2
+rodagem|rodaje||S|cin|B2
+realizador|realizador (director de cine)||S|cin|B2
+roteiro|guion||S|cin|B2
+figurino|vestuario||S|cin|B2
+estreia|estreno||S|cin|B2
+dobragem|doblaje||S|cin|B2
+curta-metragem|cortometraje||S|cin|B2
+subscrição|suscripción||S|cin|B2
+romper com alguém|romper con alguien||E|rel|B2
+reconciliar-se|reconciliarse||V|rel|B2
+ciúmes|celos||S|rel|B2
+saudade|morriña (añoranza)||S|emo|B2
+encontro|cita||S|rel|B2
+desmarcar|cancelar (una cita)||V|cmu|B2
+mudar de planos|cambiar de planes||E|rel|B2
+inclusão|inclusión||S|ist|B2
+discriminação|discriminación||S|ist|B2
+preconceito|prejuicio||S|ist|B2
+rede de apoio|red de apoyo||S|ist|B2
+voluntariado|voluntariado||S|ist|B2
+declaração de rendimentos|declaración de la renta||S|fin|B2
+contribuinte|contribuyente||S|fin|B2
+dedução|deducción||S|fin|B2
+retenção na fonte|retención en la fuente||L|fin|B2
+crédito à habitação|hipoteca||S|fin|B2
+juro|interés||S|fin|B2
+taxa de juro|tipo de interés||S|fin|B2
+prestação mensal|cuota mensal||S|fin|B2
+poupança|ahorro||S|fin|B2
+investir|invertir||V|fin|B2
+bolsa de valores|bolsa de valores||S|fin|B2
+acionista|accionista||S|fin|B2
+desvalorização|devaluación||S|fin|B2
+aposentação|jubilación||S|fin|B2
+pensão de velhice|pensión de jubilación||S|fin|B2
+fundo de pensões|fondo de pensiones||S|fin|B2
+orçamento familiar|presupuesto familiar||S|fin|B2
+despesas mensais|gastos mensuales||S|fin|B2
+dívida|deuda||S|fin|B2
+emprestar|prestar||V|fin|B2
+burla|estafa||S|fin|B2
+taxa de câmbio|tipo de cambio||S|fin|B2
+inflação|inflación||S|fin|B2
+desemprego|desempleo||S|fin|B2
+orçamento de Estado|presupuestos del Estado||S|fin|B2
+défice|déficit||S|fin|B2
+poder de compra|poder adquisitivo||S|fin|B2
+legislativas|elecciones legislativas||S|att|B2
+deputado|diputado||S|ist|B2
+oposição|oposición||S|att|B2
+moção de censura|moción de censura||S|ist|B2
+eleitorado|electorado||S|att|B2
+sondagem|encuesta||S|att|B2
+votação|votación||S|ist|B2
+abstenção|abstención||S|ist|B2
+boletim de voto|papeleta electoral||S|ist|B2
+julgamento|juicio||S|ist|B2
+sentença|sentencia||S|ist|B2
+arguido|procesado||S|ist|B2
+proteção civil|protección civil||S|ist|B2
+formulário|formulario||S|ist|B2
+requerimento|solicitud||S|ist|B2
+certidão|certificado (acta)||S|ist|B2
+marcação|cita||S|ist|B2
+hipótese|hipótesis||S|sci|B2
+variável|variable||S|sci|B2
+amostra|muestra||S|sci|B2
+investigador|investigador||S|pro|B2
+descoberta|descubrimiento||S|sci|B2
+genoma|genoma||S|sci|B2
+fermentação|fermentación||S|sci|B2
+enzima|enzima||S|sci|B2
+gravidade|gravedad||S|sci|B2
+órbita|órbita||S|sci|B2
+telescópio|telescopio||S|sci|B2
+buraco negro|agujero negro||S|sci|B2
+romance|novela||S|let|B2
+ensaio|ensayo||S|let|B2
+enredo|trama||S|let|B2
+metáfora|metáfora||S|let|B2
+sinopse|sinopsis||S|let|B2
+capa dura|tapa dura||S|let|B2
+articulação|articulación||S|cor|B2
+tendão|tendón||S|cor|B2
+coluna vertebral|columna vertebral||S|cor|B2
+circulação sanguínea|circulación sanguínea||S|cor|B2
+migração|migración||S|ani|B2
+matilha|manada||S|ani|B2
+predador|depredador||S|ani|B2
+cativeiro|cautiverio||S|ani|B2
+em vias de extinção|en peligro de extinción||L|ani|B2
+caça furtiva|caza furtiva||S|ani|B2
+adiestrar|adiestrar||V|ani|B2
+painel solar|panel solar||S|nat|B2
+parque eólico|parque eólico||S|nat|B2
+central hidroelétrica|central hidroeléctrica||S|nat|B2
+descarbonização|descarbonización||S|nat|B2
+eficiência energética|eficiencia energética||S|nat|B2
+sustentável|sostenible||A|nat|B2
+prazo de entrega|plazo de entrega||S|tmp|B2
+validade|caducidad||S|tmp|B2
+quinzenal|quincenal||A|tmp|B2
+a longo prazo|a largo plazo||L|tmp|B2
+de última hora|de última hora||L|tmp|B2
+vida noturna|vida nocturna||S|sve|B2
+jogo de tabuleiro|juego de mesa||S|sve|B2
+colecionador|coleccionista||S|sve|B2
+costura|costura||S|sve|B2
+acampar|acampar||V|nat|B2
+trilho|sendero||S|nat|B2
+motivação|motivación||S|emo|B2
+procrastinar|procrastinar||V|emo|B2
+resiliência|resiliencia||S|emo|B2
+força de vontade|fuerza de voluntad||S|emo|B2
+autoconfiança|autoconfianza||S|emo|B2
+argumentação|argumentación||S|cmu|B2
+refutar|refutar||V|cmu|B2
+rebater|rebatir||V|cmu|B2
+consenso|consenso||S|cmu|B2
+apresentação|presentación||S|cmu|B2
+plateia|platea||S|cmu|B2
+gaguejar|tartamudear||V|cmu|B2
+linguagem corporal|lenguaje corporal||S|cmu|B2
+negociar|negociar||V|cmu|B2
+concessão|concesión||S|cmu|B2
+chegar a um acordo|llegar a un acuerdo||E|cmu|B2
+queixar-se|quejarse||V|cmu|B2
+pedir desculpa|pedir disculpas||E|cmu|B2
+anedota|chiste||S|cmu|B2
+no entanto|sin embargo||L|cnn|B2
+por conseguinte|por consiguiente||L|cnn|B2
+ainda que|aunque||C|cnn|B2
+uma vez que|ya que||C|cnn|B2
+além disso|además||L|cnn|B2
+ao passo que|mientras que||C|cnn|B2
+ou seja|es decir||L|cnn|B2
+tendo em conta|teniendo en cuenta||L|cnn|B2
+afinal|al final||D|cnn|B2
+aliás|de hecho||D|cnn|B2
+enfim|en fin||D|cnn|B2
+ou melhor|o mejor dicho||L|cnn|B2
+para ser sincero|para ser sincero||L|cnn|B2
+equidade|equidad||S|ast|B2
+gratidão|gratitud||S|ast|B2
+lealdade|lealtad||S|ast|B2
+sabedoria|sabiduría||S|ast|B2
+acaso|azar||S|ast|B2
+transformação|transformación||S|ast|B2
+renascimento|renacimiento||S|art|B2
+barroco|barroco||S|art|B2
+vanguarda|vanguardia||S|art|B2
+obra-prima|obra maestra||S|art|B2
+restauro|restauración (de arte)||S|art|B2
+património|patrimonio (histórico)||S|art|B2
+abóbada|bóveda||S|art|B2
+condomínio|comunidad de vecinos||S|cit|B2
+assembleia de condóminos|junta de propietarios||S|cit|B2
+regulamento|reglamento||S|cit|B2
+apeadeiro|apeadero||S|tra|B2
+carruagem|vagón||S|tra|B2
+ida e volta|ida y vuelta||S|vig|B2
+cartão de embarque|tarjeta de embarque||S|vig|B2
+visita guiada|visita guiada||S|vig|B2
+teletrabalho|teletrabajo||S|lav|B2
+horário flexível|horario flexible||S|lav|B2
+formação contínua|formación continua||S|lav|B2
+avaliação de desempenho|evaluación del desempeño||S|lav|B2
