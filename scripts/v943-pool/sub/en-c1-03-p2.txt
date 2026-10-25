@@ -1,0 +1,309 @@
+open-pit mine|mina a cielo abierto||S|nat|C1
+mine shaft|pozo de mina||S|nat|C1
+smelting|fundición del mineral||S|sci|C1
+blast furnace|alto horno||S|sci|C1
+tailings|esteriles mineros||S|nat|C1
+slag|escoria||S|sci|C1
+ore body|yacimiento||S|nat|C1
+ore grade|ley del mineral||S|sci|C1
+drift|galería (de mina)||S|nat|C1
+longwall mining|minería de tajos largos||S|sci|C1
+coal mining|minería de carbón||S|sci|C1
+mineral rights|derechos mineros||S|ist|C1
+subsidence|hundimiento del terreno||S|nat|C1
+beneficiation|beneficio del mineral||S|sci|C1
+froth flotation|flotación de espuma||S|sci|C1
+leaching|lixiviación||S|sci|C1
+cave-in|derrumbe||S|nat|C1
+prospecting|prospección||S|sci|C1
+adit|boca de mina||S|nat|C1
+borehole|pozo de sondeo||S|nat|C1
+stope|tajo minero||S|nat|C1
+smelter|planta de fundición||S|sci|C1
+ventilation shaft|pozo de ventilación||S|nat|C1
+overburden|estéril (sobrecarga de terreno)||S|nat|C1
+oil rig|plataforma petrolífera||S|sci|C1
+offshore drilling|perforación en alta mar||S|sci|C1
+fracking|fracturación hidráulica||S|sci|C1
+shale gas|gas de esquisto||S|sci|C1
+petroleum|petróleo||S|sci|C1
+tank farm|parque de tanques||S|sci|C1
+refinery|refinería||S|sci|C1
+distillation column|columna de destilación||S|sci|C1
+petrochemical|petroquímico||A|sci|C1
+oil spill|vertido de petróleo||S|nat|C1
+wildcat well|pozo de exploración a ciegas||S|sci|C1
+derrick|torre de perforación||S|sci|C1
+wellhead|cabeza de pozo||S|sci|C1
+liquified natural gas|gas natural licuado||S|sci|C1
+seismic survey|estudio sísmico||S|sci|C1
+drilling rig|plataforma de sondeo||S|sci|C1
+mud logging|registro de lodos||S|sci|C1
+downstream|aguas abajo (refino y comercialización)||A|sci|C1
+flare stack|antorcha de gas||S|sci|C1
+kerosene|queroseno||S|sci|C1
+catalytic cracking|craqueo catalítico||S|sci|C1
+pour point|punto de fluidez||S|sci|C1
+core sample|muestra de núcleo||S|sci|C1
+bitumen|betún||S|sci|C1
+stratigraphic trap|trampa estratigráfica||S|sci|C1
+superalloy|superaleación||S|sci|C1
+steelmaking|siderurgia||S|sci|C1
+forging|forja||S|sci|C1
+die casting|fundición a presión||S|sci|C1
+work hardening|acritud por deformación||S|sci|C1
+stress relieving|aliviado de tensiones||S|sci|C1
+case hardening|cementación superficial||S|sci|C1
+compressive strength|resistencia a la compresión||S|sci|C1
+metal fatigue|fatiga del material||S|sci|C1
+passivation|pasivado||S|sci|C1
+galvanized|galvanizado||A|sci|C1
+stainless steel|acero inoxidable||S|sci|C1
+wrought iron|hierro forjado||S|sci|C1
+sheet metal|chapa||S|sci|C1
+ingot|lingote||S|sci|C1
+elongation at break|alargamiento a la rotura||S|sci|C1
+metal creep|fluencia||S|sci|C1
+metallurgist|metalúrgico||S|pro|C1
+heat treatment|tratamiento térmico||S|sci|C1
+carbon content|contenido de carbono||S|sci|C1
+welding|soldadura||S|sci|C1
+solder|soldadura blanda||S|sci|C1
+fatigue limit|límite de fatiga||S|sci|C1
+impact resistance|resistencia al impacto||S|sci|C1
+greenware|pieza en crudo||S|art|C1
+underglaze|decoración bajo esmalte||S|art|C1
+porcelain|porcelana||S|art|C1
+bone china|porcelana de hueso||S|art|C1
+faience|fayenza||S|art|C1
+potter's wheel|torno de alfarero||S|art|C1
+firing|cocción||S|art|C1
+kaolin|caolín||S|sci|C1
+glassblowing|soplado de vidrio||S|art|C1
+leaded glass|cristal emplomado||S|art|C1
+crosslinking|reticulación||S|sci|C1
+monomer|monómero||S|sci|C1
+elastomer|elastómero||S|sci|C1
+thermoplastic|termoplástico||S|sci|C1
+resin|resina||S|sci|C1
+injection molding|moldeo por inyección||S|sci|C1
+extrusion|extrusión||S|sci|C1
+fiberglass|fibra de vidrio||S|sci|C1
+frit|frita||S|art|C1
+ceramic|cerámico||A|sci|C1
+bisque|bizcocho cerámico||S|art|C1
+vitrification|vitrificación||S|sci|C1
+polycondensation|policondensación||S|sci|C1
+synthetic fiber|fibra sintética||S|sci|C1
+freight train|tren de mercancías||S|tra|C1
+boxcar|vagón cerrado||S|tra|C1
+caboose|furgón de cola||S|tra|C1
+locomotive|locomotora||S|tra|C1
+rail yard|estación de clasificación||S|tra|C1
+coupling|enganche||S|tra|C1
+derailment|descarrilamiento||S|tra|C1
+grade crossing|paso a nivel||S|tra|C1
+commuter rail|tren de cercanías||S|tra|C1
+bullet train|tren bala||S|tra|C1
+brakeman|frenador||S|pro|C1
+freight consolidator|consolidador de carga||S|pro|C1
+piggyback transportation|transporte de remolques sobre vagón||S|tra|C1
+loading dock|muelle de carga||S|tra|C1
+waybill|carta de porte||S|tra|C1
+sea waybill|carta de porte marítima||S|tra|C1
+cartage|transporte por carretera de corta distancia||S|tra|C1
+siding|apartadero||S|tra|C1
+track gauge|ancho de vía||S|tra|C1
+tank car|vagón cisterna||S|tra|C1
+switching|maniobras de clasificación||S|tra|C1
+switchman|agente de maniobras||S|pro|C1
+dispatch money|prima de rapidez en carga||S|tra|C1
+seaport|puerto marítimo||S|tra|C1
+longshoreman|estibador||S|pro|C1
+container terminal|terminal de contenedores||S|tra|C1
+container ship|portacontenedores||S|tra|C1
+bulk carrier|granelero||S|tra|C1
+tanker|buque cisterna||S|tra|C1
+tugboat|remolcador||S|tra|C1
+barge|barcaza||S|tra|C1
+quay|muelle||S|tra|C1
+berth|atracadero||S|tra|C1
+moor|amarrar||V|tra|C1
+mooring|amarre||S|tra|C1
+maritime pilot|práctico de puerto||S|pro|C1
+seaworthy|en condiciones de navegar||A|tra|C1
+manifest|manifiesto de carga||S|tra|C1
+customs broker|agente de aduanas||S|pro|C1
+stowaway|polizón||S|tra|C1
+ballast|lastre||S|tra|C1
+shipping lane|ruta marítima||S|tra|C1
+port authority|autoridad portuaria||S|ist|C1
+cargo handling|manipulación de la carga||S|tra|C1
+draught|calado||S|tra|C1
+deadweight tonnage|peso muerto||S|tra|C1
+shipbroker|corredor marítimo||S|pro|C1
+air traffic control|control aéreo||S|tra|C1
+control tower|torre de control||S|tra|C1
+runway threshold|umbral de pista||S|tra|C1
+taxiway|pista de rodadura||S|tra|C1
+tarmac|zona de pistas||S|tra|C1
+jet bridge|pasarela de embarque||S|tra|C1
+stopover|escala técnica||S|tra|C1
+glass cockpit|cabina de cristal||S|tra|C1
+autothrottle|autoacelerador||S|tra|C1
+flight crew|tripulación de vuelo||S|tra|C1
+preflight check|inspección previa al vuelo||S|tra|C1
+mayday|llamada de socorro||I|tra|C1
+flight recorder|grabador de vuelo||S|tra|C1
+hangar|hangar||S|tra|C1
+vertical stabilizer|deriva||S|tra|C1
+stabilizer|estabilizador||S|tra|C1
+wing flap|hipersustentador||S|tra|C1
+contrail|estela de condensación||S|tra|C1
+red-eye|vuelo nocturno sin dormir||S|tra|C1
+airspace|espacio aéreo||S|tra|C1
+go around|maniobra de aproximación frustrada||E|tra|C1
+flight plan|plan de vuelo||S|tra|C1
+turboprop|turbopropulsor||S|tra|C1
+deicing|deshielo preventivo de la aeronave||S|tra|C1
+engine block|bloque motor||S|tec|C1
+transmission|caja de cambios||S|tec|C1
+driveshaft|árbol de transmisión||S|tec|C1
+piston|pistón||S|tec|C1
+crankshaft|cigüeñal||S|tec|C1
+camshaft|árbol de levas||S|tec|C1
+fuel injector|inyector de combustible||S|tec|C1
+carburetor|carburador||S|tec|C1
+spark plug|bujía||S|tec|C1
+catalytic converter|catalizador||S|tec|C1
+power steering|dirección asistida||S|tec|C1
+brake pad|pastilla de freno||S|tec|C1
+shock absorber|amortiguador||S|tec|C1
+chassis|chasis||S|tec|C1
+four-wheel drive|tracción integral||S|tec|C1
+bore and stroke|diámetro y carrera||S|tec|C1
+horsepower|caballos de potencia||S|tec|C1
+gas mileage|consumo de gasolina||S|tec|C1
+recall|retirada del mercado||S|tec|C1
+industrial engineering|ingeniería industrial||S|sci|C1
+ignition|encendido||S|tec|C1
+antifreeze|anticongelante||S|tec|C1
+timing belt|correa de distribución||S|tec|C1
+clutch|embrague||S|tec|C1
+torque converter|convertidor de par||S|tec|C1
+shoring|apuntalamiento||S|tec|C1
+crane|grúa||S|tec|C1
+backhoe|retroexcavadora||S|tec|C1
+grader|niveladora||S|tec|C1
+cement mixer|hormigonera||S|tec|C1
+rebar|acero de refuerzo||S|tec|C1
+formwork|cimbra||S|tec|C1
+grout|lechada de cemento||S|tec|C1
+beam|viga||S|tec|C1
+bearing wall|muro de carga||S|tec|C1
+foundation|cimiento||S|tec|C1
+footing|zapata||S|tec|C1
+insulation|aislamiento||S|cas|C1
+plasterboard|placa de yeso laminado||S|cas|C1
+shop drawing|planos de taller||S|tec|C1
+site manager|jefe de obra||S|pro|C1
+subcontractor|subcontratista||S|pro|C1
+site foreman|capataz de obra||S|pro|C1
+building code|normativa de construcción||S|ist|C1
+zoning variance|excepción de uso urbanístico||S|ist|C1
+demolition|demolición||S|tec|C1
+punch list|lista de defectos para subsanar||S|tec|C1
+change order|modificado de obra||S|tec|C1
+caisson|cámara de cimentación||S|tec|C1
+site plan|plan de emplazamiento||S|tec|C1
+construction bid|licitación de obra||S|ist|C1
+land surveyor|agrimensor||S|pro|C1
+geomatics|geomática||S|sci|C1
+theodolite|teodolito||S|tec|C1
+elevation datum|datum altimétrico||S|tec|C1
+trilateration|trilateración||S|tec|C1
+leveling|nivelación||S|tec|C1
+property line|lindero||S|ist|C1
+plat|plano catastral||S|ist|C1
+tract|finca rústica||S|ist|C1
+encroachment|invasión de lindero||S|ist|C1
+restrictive covenant|carga urbanística restrictiva||S|ist|C1
+title insurance|seguro de título||S|fin|C1
+land registry|registro de la propiedad||S|ist|C1
+home inspection|inspección de la vivienda||S|ist|C1
+spot elevation|punto acotado||S|tec|C1
+staking out|replanteo||S|tec|C1
+cadastral|catastral||A|ist|C1
+land patent|título primigenio de tierras||S|ist|C1
+geodetic|geodésico||A|sci|C1
+floor area ratio|índice de edificabilidad||S|ist|C1
+right of way|derecho de paso||L|ist|C1
+clinometer|inclinómetro||S|tec|C1
+gravity dam|presa de gravedad||S|tec|C1
+retention basin|balsa de laminación||S|tec|C1
+spillway|aliviadero||S|tec|C1
+levee|dique de contención||S|tec|C1
+floodgate|compuerta||S|tec|C1
+weir|azud||S|tec|C1
+culvert|alcantarilla de paso||S|tec|C1
+headwater|cabecera del río||S|nat|C1
+thalweg|talweg||S|nat|C1
+bedload|carga de fondo||S|nat|C1
+sinkhole|dolina||S|nat|C1
+silt|limo||S|nat|C1
+siltation|colmatación||S|nat|C1
+lock gate|puerta de esclusa||S|tec|C1
+vadose zone|zona no saturada||S|nat|C1
+recharge zone|zona de recarga||S|nat|C1
+watercourse|curso de agua||S|nat|C1
+stormwater|aguas pluviales||S|nat|C1
+catchment area|cuenca de drenaje||S|nat|C1
+embankment|terraplén||S|tec|C1
+riprap|escollera||S|tec|C1
+alluvial plain|llanura aluvial||S|nat|C1
+penstock|tubería forzada||S|tec|C1
+desalination|desalación||S|tec|C1
+fluvial geomorphology|geomorfología fluvial||S|sci|C1
+water diversion|trasvase||S|nat|C1
+energy transition|transición energética||S|ist|C1
+blade pitch|paso de pala||S|tec|C1
+rotor blade|pala del rotor||S|tec|C1
+photovoltaic|fotovoltaico||A|tec|C1
+solar farm|planta solar||S|tec|C1
+solar inverter|inversor solar||S|tec|C1
+grid parity|paridad con la red||S|tec|C1
+capacity factor|factor de capacidad||S|tec|C1
+production tax credit|desgravación por generación renovable||S|fin|C1
+net metering|compensación de excedentes||S|tec|C1
+intermittency|intermitencia||S|tec|C1
+repowering|repotenciación||S|tec|C1
+hub height|altura de buje||S|tec|C1
+irradiance|irradiancia||S|cli|C1
+battery storage|almacenamiento en baterías||S|tec|C1
+renewables|energías renovables||S|nat|C1
+curtailment|recorte de generación||S|tec|C1
+enhanced geothermal system|sistema geotérmico mejorado||S|tec|C1
+biomass|biomasa||S|sci|C1
+wake effect|efecto de estela||S|tec|C1
+electrical grid|red eléctrica||S|tec|C1
+transmission line|línea de transporte de energía||S|tec|C1
+switchyard|parque de conexiones||S|tec|C1
+transformer|transformador||S|tec|C1
+voltage drop|caída de tensión||S|tec|C1
+rolling blackout|apagón rotatorio||S|tec|C1
+brownout|apagón parcial||S|tec|C1
+time-of-use pricing|tarifa por franjas horarias||S|fin|C1
+peak demand|demanda punta||S|tec|C1
+base load|potencia de base||S|tec|C1
+virtual power plant|central eléctrica virtual||S|tec|C1
+utility company|compañía eléctrica||S|ist|C1
+interconnection|interconexión||S|tec|C1
+unbundling|desagregación del sector eléctrico||S|ist|C1
+spot market|mercado al contado||S|fin|C1
+capacity auction|subasta de capacidad||S|fin|C1
+system operator|operador del sistema||S|pro|C1
+kilowatt-hour|kilovatio-hora||S|tec|C1
+network stability|estabilidad de la red||S|tec|C1
+power generation|generación eléctrica||S|tec|C1
+cogeneration|cogeneración||S|tec|C1
+electricity market|mercado eléctrico||S|fin|C1

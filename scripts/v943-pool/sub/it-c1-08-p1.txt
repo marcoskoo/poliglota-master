@@ -1,0 +1,290 @@
+emicrania|jaqueca (migraña)||S|sla|C1
+attacco ischemico transitorio|accidente isquémico transitorio||S|sla|C1
+sclerosis laterale amiotrofica|esclerosis lateral amiotrófica||S|sla|C1
+neurite|neuritis||S|sla|C1
+nevralgia|neuralgia||S|sla|C1
+crisi epilettica|crisis epiléptica||S|sla|C1
+elettroencefalogramma|electroencefalograma||S|sla|C1
+tremore essenziale|temblor esencial||S|sla|C1
+afasia|afasia||S|sla|C1
+paraplegia|paraplejia||S|sla|C1
+tetraplegia|tetraplejia||S|sla|C1
+sincope|síncope (desmayo)||S|sla|C1
+neuropatia periferica|neuropatía periférica||S|sla|C1
+encefalopatia|encefalopatía||S|sla|C1
+stato confusionale|estado confusional||S|sla|C1
+mielografia|mielografía||S|sla|C1
+parossismo|paroxismo (acceso de síntomas)||S|sla|C1
+aura visiva|aura visual (migraña con aura)||S|sla|C1
+cataplessia|cataplejía||S|sla|C1
+travaglio pretermine|trabajo de parto prematuro||S|sla|C1
+eclampsia|eclampsia||S|sla|C1
+gestazione gemellare|embarazo gemelar||S|sla|C1
+ostetricia|obstetricia||S|sla|C1
+neonatologia|neonatología||S|sla|C1
+colostro|calostro||S|sla|C1
+epidurale|epidural (anestesia)||A|sla|C1
+gravidanza ectopica|embarazo ectópico||S|sla|C1
+lanugo|lanugo (vello del recién nacido)||S|sla|C1
+bilirubina|bilirrubina||S|sla|C1
+ittero ostruttivo|ictericia obstructiva||S|sla|C1
+circoncisione|circuncisión||S|sla|C1
+pediatra|pediatra||S|sla|C1
+ostetrica|matrona (comadrona)||S|sla|C1
+perineotomia|episiotomía (incisión perineal)||S|sla|C1
+presentazione podalica|presentación de nalgas||S|sla|C1
+puerperio|puerperio||S|sla|C1
+monitoraggio fetale|monitorización fetal||S|sla|C1
+incubatrice|incubadora||S|sla|C1
+frattura esposta|fractura abierta||S|sla|C1
+lussazione|luxación (dislocación)||S|sla|C1
+artrodesi|artrodesis (fijación quirúrgica)||S|sla|C1
+riabilitazione motoria|rehabilitación motora||S|sla|C1
+fisioterapista|fisioterapeuta||S|sla|C1
+osteosintesi|osteosíntesis||S|sla|C1
+emartro|hemartros (derrame articular)||S|sla|C1
+meniscectomia|meniscectomía||S|sla|C1
+scoliosi|escoliosis||S|sla|C1
+cifosi|cifosis||S|sla|C1
+lordosi|lordosis||S|sla|C1
+stenosi lombare|estenosis lumbar||S|sla|C1
+traumatologia|traumatología||S|sla|C1
+ginnastica posturale|gimnasia postural||S|sla|C1
+deambulazione|deambulación (marcha)||S|sla|C1
+tutore|férula (tutor ortopédico)||S|sla|C1
+artroprotesi|artroprótesis (prótesis de articulación)||S|sla|C1
+legamento collaterale|ligamento colateral||S|sla|C1
+dose di richiamo|dosis de recuerdo||S|sla|C1
+profilassi|profilaxis||S|sla|C1
+focolaio|brote (foco de contagio)||S|sla|C1
+isolamento fiduciario|aislamiento preventivo||S|sla|C1
+immunità di gregge|inmunidad de grupo||S|sla|C1
+tasso di letalità|tasa de letalidad||S|sla|C1
+incidenza|incidencia||S|sla|C1
+prevalenza|prevalencia||S|sla|C1
+notifica obbligatoria|declaración obligatoria de enfermedad||S|sla|C1
+zoonosi|zoonosis||S|sla|C1
+ospite intermedio|huésped intermediario||S|sla|C1
+endemia|endemia||S|sla|C1
+salute pubblica|salud pública||S|sla|C1
+coorte|cohorte (grupo de estudio)||S|sla|C1
+endemico|endémico (propio de una zona)||A|sla|C1
+decorso clinico|evolución clínica||S|sla|C1
+risposta immunitaria|respuesta inmunitaria||S|sla|C1
+igiene ospedaliera|higiene hospitalaria||S|sla|C1
+accertamento|comprobación (inspección fiscal)||S|fin|C1
+elusione|elusión||S|fin|C1
+evasione|evasión||S|fin|C1
+imposta di bollo|impuesto de timbre||S|fin|C1
+aliquota|tipo impositivo (alícuota)||S|fin|C1
+scudo fiscale|amnistía fiscal (escudo fiscal)||S|fin|C1
+ravvedimento operoso|rectificación voluntaria (regularización espontánea)||S|fin|C1
+contribuente|contribuyente||S|fin|C1
+liquidazione delle imposte|liquidación de impuestos||S|fin|C1
+ritenuta d'acconto|retención a cuenta||S|fin|C1
+imponibile|base imponible||S|fin|C1
+detrazione|deducción (desgravación)||S|fin|C1
+accise|impuestos especiales||S|fin|C1
+catasto|catastro||S|fin|C1
+iscrizione ipotecaria|anotación hipotecaria||S|fin|C1
+falso in bilancio|falsedad en las cuentas||S|fin|C1
+rottamazione delle cartelle|condonación de deudas tributarias||S|fin|C1
+cartella esattoriale|notificación de deuda tributaria||S|fin|C1
+fido|línea de crédito (crédito concedido)||S|fin|C1
+sofferenza|crédito dudoso (incobrable)||S|fin|C1
+surroga del mutuo|subrogación de la hipoteca||S|fin|C1
+pegno|prenda (garantía pignoraticia)||S|fin|C1
+ipoteca di primo grado|hipoteca de primer grado||S|fin|C1
+garanzia personale|garantía personal||S|fin|C1
+istruttoria|estudio de riesgo (tramitación del expediente)||S|fin|C1
+rischio di credito|riesgo de crédito||S|fin|C1
+spread|diferencial (prima de riesgo)||S|fin|C1
+commissione di massimo scoperto|comisión por descubierto||S|fin|C1
+scoperto di conto|descubierto en cuenta||S|fin|C1
+direttore di filiale|director de sucursal||S|fin|C1
+deposito a termine|depósito a plazo||S|fin|C1
+interesse composto|interés compuesto||S|fin|C1
+insolvenza|insolvencia||S|fin|C1
+riserva obbligatoria|reserva obligatoria||S|fin|C1
+estinzione del mutuo|cancelación de la hipoteca||S|fin|C1
+morosità|morosidad||S|fin|C1
+perizia di stima|tasación (informe pericial)||S|fin|C1
+valore di libro|valor en libros||S|fin|C1
+capitale sociale|capital social||S|fin|C1
+aumento di capitale|ampliación de capital||S|fin|C1
+scalata ostile|toma de control hostil (opa hostil)||S|fin|C1
+leva finanziaria|apalancamiento financiero||S|fin|C1
+flottante|capital flotante (acciones en circulación)||S|fin|C1
+collocamento|colocación (salida a bolsa)||S|fin|C1
+quotazione in borsa|cotización en bolsa||S|fin|C1
+premio di controllo|prima de control||S|fin|C1
+avviamento|fondo de comercio||S|fin|C1
+bilancio consolidato|balance consolidado||S|fin|C1
+prospetto informativo|folleto informativo||S|fin|C1
+azionista di riferimento|accionista de control||S|fin|C1
+patti parasociali|pactos parasociales||S|fin|C1
+fusione|fusión (combinación de empresas)||S|fin|C1
+buonuscita|indemnización de salida||S|fin|C1
+utili non distribuiti|beneficios no distribuidos||S|fin|C1
+elasticità della domanda|elasticidad de la demanda||S|fin|C1
+bene succedaneo|bien sustitutivo||S|fin|C1
+costo marginale|coste marginal||S|fin|C1
+rendimenti di scala|rendimientos a escala||S|fin|C1
+concorrenza perfetta|competencia perfecta||S|fin|C1
+oligopolio|oligopolio||S|fin|C1
+monopsonio|monopsonio||S|fin|C1
+fallimento del mercato|fallo de mercado||S|fin|C1
+esternalità|externalidad||S|fin|C1
+asimmetria informativa|asimetría de la información||S|fin|C1
+curva di offerta|curva de oferta||S|fin|C1
+surplus del consumatore|excedente del consumidor||S|fin|C1
+azzardo morale|riesgo moral (problema de agencia)||S|fin|C1
+selezione avversa|selección adversa||S|fin|C1
+utilità marginale|utilidad marginal||S|fin|C1
+equilibrio di mercato|equilibrio de mercado||S|fin|C1
+costo di opportunità|coste de oportunidad||S|fin|C1
+domanda anelastica|demanda inelástica||S|fin|C1
+sinistro|siniestro||S|fin|C1
+massimale|límite de cobertura (suma máxima)||S|fin|C1
+franchigia|franquicia (deducible)||S|fin|C1
+polizza|póliza||S|fin|C1
+perito assicurativo|perito de seguros||S|fin|C1
+riassicurazione|reaseguro||S|fin|C1
+clausola di rivalsa|cláusula de repetición||S|fin|C1
+indennizzo|indemnización||S|fin|C1
+scadenza della polizza|vencimiento de la póliza||S|fin|C1
+contraente|contratante||S|fin|C1
+beneficiario|beneficiario||S|fin|C1
+constatazione amichevole|declaración amistosa de accidente||S|fin|C1
+furto con scasso|robo con fuerza en las cosas||S|fin|C1
+liquidazione del sinistro|liquidación del siniestro||S|fin|C1
+sopralluogo|inspección ocular||S|fin|C1
+rischio catastrofale|riesgo catastrófico||S|fin|C1
+copertura assicurativa|cobertura aseguradora||S|fin|C1
+risarcimento diretto|indemnización directa||S|fin|C1
+cooperazione allo sviluppo|cooperación al desarrollo||S|fin|C1
+decollo economico|despegue económico||S|fin|C1
+reddito pro capite|renta per cápita||S|fin|C1
+paese in via di sviluppo|país en vías de desarrollo||S|fin|C1
+condizionalità|condicionalidad (de la ayuda)||S|fin|C1
+alleggerimento del debito|alivio de la deuda||S|fin|C1
+economia di sussistenza|economía de subsistencia||S|fin|C1
+fuga di capitali|fuga de capitales||S|fin|C1
+commercio equo e solidale|comercio justo y solidario||S|fin|C1
+microcredito|microcrédito||S|fin|C1
+indotto|efecto inducido (empresas auxiliares)||S|fin|C1
+sperequazione|desigualdad (desequilibrio entre territorios)||S|fin|C1
+indigenza|indigencia||S|fin|C1
+finanziamento agevolato|financiación blanda||S|fin|C1
+sostituzione delle importazioni|sustitución de importaciones||S|fin|C1
+aiuto pubblico allo sviluppo|ayuda pública al desarrollo||S|fin|C1
+soglia di povertà|umbral de pobreza||S|fin|C1
+bilancia commerciale|balanza comercial||S|fin|C1
+titolazione|valoración (titulación de una disolución)||S|sci|C1
+cromatografia|cromatografía||S|sci|C1
+potenziometria|potenciometría||S|sci|C1
+spettrofotometria|espectrofotometría||S|sci|C1
+reattivo|reactivo||S|sci|C1
+precipitato|precipitado||S|sci|C1
+soluzione satura|disolución saturada||S|sci|C1
+vetreria di laboratorio|material de vidrio de laboratorio||S|sci|C1
+bilancia analitica|balanza analítica||S|sci|C1
+cappa aspirante|campana extractora de gases||S|sci|C1
+titolante|disolución valorante||S|sci|C1
+calibrazione|calibración||S|sci|C1
+campione di controllo|muestra de control||S|sci|C1
+limite di rivelabilità|límite de detección||S|sci|C1
+concentrazione molare|concentración molar||S|sci|C1
+distillazione a vapore|destilación por arrastre de vapor||S|sci|C1
+essiccatore|desecador||S|sci|C1
+soluzione tampone|disolución tampón||S|sci|C1
+reticolo cristallino|red cristalina||S|sci|C1
+drogaggio|dopado (de un semiconductor)||S|sci|C1
+banda proibita|banda prohibida (separación de energías)||S|sci|C1
+piezoelettricità|piezoelectricidad||S|sci|C1
+superconduttività|superconductividad||S|sci|C1
+sinterizzazione|sinterizado||S|sci|C1
+deformazione plastica|deformación plástica||S|sci|C1
+modulo di elasticità|módulo de elasticidad||S|sci|C1
+snervamento|fluencia (límite elástico)||S|sci|C1
+tempra|temple (enfriamiento brusco)||S|sci|C1
+ricottura|recocido||S|sci|C1
+grana|grano (tamaño de cristal)||S|sci|C1
+duttilità|ductilidad||S|sci|C1
+tenacità|tenacidad||S|sci|C1
+monocristallo|monocristal||S|sci|C1
+epitassia|epitaxia||S|sci|C1
+strato sottile|capa fina||S|sci|C1
+conduttività termica|conductividad térmica||S|sci|C1
+gas serra|gas de efecto invernadero||S|sci|C1
+forzante radiativo|forzamiento radiativo||S|sci|C1
+aerosol atmosferico|aerosol atmosférico||S|sci|C1
+buco dell'ozono|agujero de ozono||S|sci|C1
+modello climatico|modelo climático||S|sci|C1
+paleoclimatologia|paleoclimatología||S|sci|C1
+anomalia termica|anomalía térmica||S|sci|C1
+forzante antropico|forzamiento antropogénico||S|sci|C1
+circolazione atmosferica|circulación atmosférica||S|sci|C1
+corrente a getto|corriente en chorro (a gran altitud)||S|sci|C1
+equilibrio radiativo|equilibrio radiativo||S|sci|C1
+albedo|albedo (poder reflectante de una superficie)||S|sci|C1
+acidificazione degli oceani|acidificación de los océanos||S|sci|C1
+neutralità del carbonio|neutralidad de carbono||S|sci|C1
+vapore acqueo|vapor de agua||S|sci|C1
+scioglimento dei ghiacci|deshielo de los glaciares||S|sci|C1
+serbatoio di carbonio|sumidero de carbono||S|sci|C1
+decarbonizzazione|descarbonización||S|sci|C1
+fossile guida|fósil guía||S|sci|C1
+giacimento fossilifero|yacimiento fosilífero||S|sci|C1
+estinzione di massa|extinción masiva||S|sci|C1
+selezione naturale|selección natural||S|sci|C1
+deriva genetica|deriva genética||S|sci|C1
+speciazione|especiación||S|sci|C1
+omologia|homología||S|sci|C1
+convergenza evolutiva|convergencia evolutiva||S|sci|C1
+atavismo|atavismo||S|sci|C1
+neotenia|neotenia||S|sci|C1
+filogenesi|filogénesis||S|sci|C1
+ontogenesi|ontogénesis||S|sci|C1
+cladistica|cladística||S|sci|C1
+stratigrafia|estratigrafía||S|sci|C1
+datazione radiometrica|datación radiométrica||S|sci|C1
+olotipo|holotipo||S|sci|C1
+macroevoluzione|macroevolución||S|sci|C1
+fossilizzazione|fossilización||S|sci|C1
+carica virale|carga viral||S|sci|C1
+test sierologico|prueba serológica||S|sci|C1
+sieropositivo|seropositivo||A|sci|C1
+antigene|antígeno||S|sci|C1
+anticorpi monoclonali|anticuerpos monoclonales||S|sci|C1
+endotossina|endotoxina||S|sci|C1
+esantema|exantema (erupción cutánea)||S|sci|C1
+periodo di incubazione|periodo de incubación||S|sci|C1
+contagiosità|contagiosidad||S|sci|C1
+patogenicità|patogenicidad||S|sci|C1
+salto di specie|salto de especie (contagio entre especies)||S|sci|C1
+ceppo|cepa (variante microbiana)||S|sci|C1
+vaccino inattivato|vacuna inactivada||S|sci|C1
+inoculazione|inoculación||S|sci|C1
+coltura cellulare|cultivo celular||S|sci|C1
+citochina|citoquina||S|sci|C1
+viremia|viremia||S|sci|C1
+lisogenia|lisogenia||S|sci|C1
+nucleasi guidate|nucleasas guiadas||S|sci|C1
+vettore virale|vector viral||S|sci|C1
+microiniezione|microinyección||S|sci|C1
+mosaicismo|mosaicismo (variación celular)||S|sci|C1
+silenziamento genico|silenciamiento génico||S|sci|C1
+sequenziamento|secuenciación||S|sci|C1
+oligonucleotide|oligonucleótido||S|sci|C1
+trasfezione|transfección||S|sci|C1
+clonaggio terapeutico|clonación terapéutica||S|sci|C1
+cellula staminale|célula madre||S|sci|C1
+differenziamento cellulare|diferenciación celular||S|sci|C1
+blastocisti|blástula (blastocisto)||S|sci|C1
+imprinting genomico|imprinting genómico||S|sci|C1
+aplotipo|haplotipo||S|sci|C1
+mutagenesi|mutagénesis||S|sci|C1
+terapia genica|terapia génica||S|sci|C1
+polimorfismo genetico|polimorfismo genético||S|sci|C1
+transgenico|transgénico||A|sci|C1

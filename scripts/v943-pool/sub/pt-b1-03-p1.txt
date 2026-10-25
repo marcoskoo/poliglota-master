@@ -1,0 +1,309 @@
+romance|novela||S|let|B1
+conto|cuento||S|let|B1
+conto de fadas|cuento de hadas||S|let|B1
+poesia|poesía||S|let|B1
+poema|poema||S|let|B1
+biografia|biografía||S|let|B1
+autobiografia|autobiografía||S|let|B1
+personagem|personaje||S|let|B1
+narrador|narrador||S|let|B1
+enredo|trama||S|let|B1
+capítulo|capítulo||S|let|B1
+parágrafo|párrafo||S|let|B1
+metáfora|metáfora||S|let|B1
+citação|cita textual||S|let|B1
+ficção científica|ciencia ficción||S|let|B1
+obra-prima|obra maestra||S|let|B1
+ler nas entrelinhas|leer entre líneas||E|let|B1
+coluna vertebral|columna vertebral||S|cor|B1
+músculo|músculo||S|cor|B1
+articulação|articulación||S|cor|B1
+tendão|tendón||S|cor|B1
+pulmão|pulmón||S|cor|B1
+coração|corazón||S|cor|B1
+estômago|estómago||S|cor|B1
+intestino|intestino||S|cor|B1
+bexiga|vejiga||S|cor|B1
+vértebra|vértebra||S|cor|B1
+circulação sanguínea|circulación sanguínea||S|cor|B1
+postura|postura||S|cor|B1
+flexibilidade|flexibilidad||S|cor|B1
+resistência física|resistencia física||S|cor|B1
+torso|torso||S|cor|B1
+lombar|lumbar||A|cor|B1
+massagem|masaje||S|sla|B1
+habitat|hábitat||S|ani|B1
+ninho|nido||S|ani|B1
+toca|madriguera||S|ani|B1
+matilha|jauría||S|ani|B1
+rebanho|rebaño||S|ani|B1
+alcateia|manada de lobos||S|ani|B1
+predador|depredador||S|ani|B1
+presa|presa||S|ani|B1
+caçar|cazar||V|ani|B1
+migrar|migrar||V|ani|B1
+hibernar|hibernar||V|ani|B1
+acasalar|aparearse||V|ani|B1
+instinto|instinto||S|ani|B1
+garra|garra||S|ani|B1
+plumagem|plumaje||S|ani|B1
+camuflagem|camuflaje||S|ani|B1
+selvagem|salvaje||A|ani|B1
+espécie ameaçada|especie amenazada||S|ani|B1
+em perigo de extinção|en peligro de extinción||E|ani|B1
+ameaçar|amenazar||V|ani|B1
+caça furtiva|caza furtiva||S|ani|B1
+desmatamento|deforestación||S|nat|B1
+reflorestação|repoblación forestal||S|nat|B1
+cativeiro|cautiverio||S|ani|B1
+ecossistema|ecosistema||S|nat|B1
+conservação|conservación||S|nat|B1
+preservar|preservar||V|nat|B1
+proteção|protección||S|nat|B1
+santuário de aves|santuario de aves||S|ani|B1
+reserva natural|reserva natural||S|nat|B1
+corredor verde|corredor verde||S|nat|B1
+reprodução|reproducción||S|ani|B1
+desaparecimento|desaparición||S|ani|B1
+zona húmida|humedal||S|nat|B1
+energia eólica|energía eólica||S|sci|B1
+painel solar|placa solar||S|sci|B1
+turbina eólica|turbina eólica||S|sci|B1
+central elétrica|central eléctrica||S|sci|B1
+barragem|presa (embalse)||S|nat|B1
+reator nuclear|reactor nuclear||S|sci|B1
+combustível fóssil|combustible fóssil||S|sci|B1
+biocombustível|biocombustible||S|sci|B1
+pegada de carbono|huella de carbono||S|nat|B1
+alterações climáticas|cambio climático||S|nat|B1
+impacto ambiental|impacto ambiental||S|nat|B1
+poluente|contaminante||S|nat|B1
+descarbonização|descarbonización||S|sci|B1
+eficiência energética|eficiencia energética||S|sci|B1
+espécie invasora|especie invasora||S|nat|B1
+reflorestar|reforestar||V|nat|B1
+desperdício|desperdicio||S|nat|B1
+previsão do tempo|previsión del tiempo||S|cli|B1
+meteorologista|meteorólogo||S|cli|B1
+trovoada|tormenta eléctrica||S|cli|B1
+relâmpago|relámpago||S|cli|B1
+trovão|trueno||S|cli|B1
+granizo|granizo||S|cli|B1
+geada|helada||S|cli|B1
+onda de calor|ola de calor||S|cli|B1
+rajada de vento|racha de viento||S|cli|B1
+nevoeiro|niebla||S|cli|B1
+névoa|bruma||S|cli|B1
+pressão atmosférica|presión atmosférica||S|cli|B1
+terramoto|terremoto||S|cli|B1
+chuvada|lluvia torrencial||S|cli|B1
+nevasca|ventisca||S|cli|B1
+boletim meteorológico|boletín meteorológico||S|cli|B1
+aguaceiro|chaparrón||S|cli|B1
+duração|duración||S|tmp|B1
+data limite|fecha límite||S|tmp|B1
+mensal|mensual||A|tmp|B1
+semanal|semanal||A|tmp|B1
+anual|anual||A|tmp|B1
+quinzenal|quincenal||A|tmp|B1
+diariamente|a diario||D|tmp|B1
+frequentemente|frecuentemente||D|tmp|B1
+raramente|rara vez||D|tmp|B1
+de vez em quando|de vez en cuando||E|tmp|B1
+com frequência|con frecuencia||E|tmp|B1
+pontualmente|puntualmente||D|tmp|B1
+atrasar-se|retrasarse||V|tmp|B1
+demorar|tardar||V|tmp|B1
+durar|durar||V|tmp|B1
+dentro de|dentro de||L|tmp|B1
+em dia|al día||E|tmp|B1
+vida noturna|vida nocturna||S|sve|B1
+saída à noite|salida nocturna||S|sve|B1
+discoteca|discoteca||S|sve|B1
+clube noturno|club nocturno||S|sve|B1
+pista de dança|pista de baile||S|sve|B1
+música ao vivo|música en directo||S|mus|B1
+convívio|convivencia social||S|sve|B1
+lazer|ocio||S|sve|B1
+passatempo|pasatiempo||S|sve|B1
+divertir-se|divertirse||V|sve|B1
+ficar pela noite dentro|trasnochar||E|sve|B1
+madrugada|madrugada||S|tmp|B1
+noitada|juerga nocturna||S|sve|B1
+entretenimento|entretenimiento||S|sve|B1
+entreter|entretener||V|sve|B1
+tempo livre|tiempo libre||S|sve|B1
+fado|fado||S|mus|B1
+jogo de tabuleiro|juego de mesa||S|sve|B1
+dado|dado||S|sve|B1
+lançar os dados|tirar los dados||E|sve|B1
+ficha|ficha||S|sve|B1
+baralho|baraja||S|sve|B1
+baralhar|barajar||V|sve|B1
+xadrez|ajedrez||S|sve|B1
+vencer|vencer||V|sve|B1
+colecionador|coleccionista||S|sve|B1
+coleção|colección||S|sve|B1
+selo|sello||S|sve|B1
+moeda rara|moneda rara||S|sve|B1
+trabalhos manuais|manualidades||S|sve|B1
+croché|ganchillo||S|sve|B1
+agulha|aguja||S|sve|B1
+feltro|fieltro||S|sve|B1
+regra do jogo|regla del juego||S|sve|B1
+motivação|motivación||S|emo|B1
+motivar|motivar||V|emo|B1
+pressão|presión||S|emo|B1
+desânimo|desánimo||S|emo|B1
+desanimar-se|desanimarse||V|emo|B1
+força de vontade|fuerza de voluntad||S|emo|B1
+frustração|frustración||S|emo|B1
+respiração profunda|respiración profunda||S|emo|B1
+lidar com|lidiar con||V|emo|B1
+superar|superar||V|emo|B1
+aguentar|aguantar||V|emo|B1
+preocupação|preocupación||S|emo|B1
+nervoso|nervioso||A|emo|B1
+aflição|aflicción||S|emo|B1
+calma|calma||S|emo|B1
+alívio|alivio||S|emo|B1
+descansar|descansar||V|emo|B1
+argumentar|argumentar||V|cmu|B1
+debate|debate||S|cmu|B1
+ponto de vista|punto de vista||S|cmu|B1
+a meu ver|a mi parecer||E|cmu|B1
+na minha opinião|en mi opinión||E|cmu|B1
+refutar|refutar||V|cmu|B1
+contradizer|contradecir||V|cmu|B1
+defender|defender||V|cmu|B1
+sustentar uma opinião|sostener una opinión||E|cmu|B1
+objeção|objeción||S|cmu|B1
+persuasivo|persuasivo||A|cmu|B1
+convincente|convincente||A|cmu|B1
+questionar|cuestionar||V|cmu|B1
+pôr em causa|poner en duda||E|cmu|B1
+estar de acordo|estar de acuerdo||E|cmu|B1
+discordância|desacuerdo||S|cmu|B1
+tese|tesis||S|cmu|B1
+apresentação|presentación||S|cmu|B1
+orador|orador||S|cmu|B1
+público-alvo|público objetivo||S|cmu|B1
+diapositivo|diapositiva||S|cmu|B1
+discurso|discurso||S|cmu|B1
+microfone|micrófono||S|cmu|B1
+audiência|audiencia||S|cmu|B1
+começar por|empezar por||E|cmu|B1
+a seguir|a continuación||E|cmu|B1
+para concluir|para concluir||E|cmu|B1
+contacto visual|contacto visual||S|cmu|B1
+linguagem corporal|lenguaje corporal||S|cmu|B1
+ensaiar|ensayar||V|cmu|B1
+entrar em pânico|entrar en pánico||E|cmu|B1
+timidez|timidez||S|emo|B1
+clareza|claridad||S|cmu|B1
+negociação|negociación||S|cmu|B1
+negociar|negociar||V|cmu|B1
+chegar a um acordo|llegar a un acuerdo||E|cmu|B1
+proposta|propuesta||S|cmu|B1
+concessão|concesión||S|cmu|B1
+ceder|ceder||V|cmu|B1
+exigir|exigir||V|cmu|B1
+impasse|punto muerto||S|cmu|B1
+benefício mútuo|beneficio mutuo||S|cmu|B1
+diplomata|diplomático||S|pro|B1
+diplomacia|diplomacia||S|cmu|B1
+eufemismo|eufemismo||S|cmu|B1
+tato|tacto||S|cmu|B1
+recusar|rechazar||V|cmu|B1
+insistir|insistir||V|cmu|B1
+compromisso|punto intermedio||S|cmu|B1
+renunciar|renunciar||V|cmu|B1
+jurado|jurado||S|ist|B1
+advogado de defesa|abogado defensor||S|pro|B1
+depoimento|declaración testifical||S|ist|B1
+prova|prueba||S|ist|B1
+veredicto|veredicto||S|ist|B1
+sentença|sentencia||S|ist|B1
+inocente|inocente||A|ist|B1
+condenar|condenar||V|ist|B1
+condenado|condenado||S|ist|B1
+absolver|absolver||V|ist|B1
+absolvição|absolución||S|ist|B1
+apelação|apelación||S|ist|B1
+crime|delito||S|ist|B1
+réu|acusado||S|ist|B1
+acusação|acusación||S|ist|B1
+acusado|acusado||S|ist|B1
+caso judicial|caso judicial||S|ist|B1
+administração pública|administración pública||S|ist|B1
+burocracia|burocracia||S|ist|B1
+repartição|oficina pública||S|ist|B1
+balcão de atendimento|ventanilla de atención||S|ist|B1
+senha|número de turno||S|ist|B1
+formulário|formulario||S|ist|B1
+preencher|rellenar||V|ist|B1
+certidão|certificado||S|ist|B1
+fotocópia|fotocopia||S|ist|B1
+autenticar|autenticar||V|ist|B1
+carta registada|carta certificada||S|ist|B1
+funcionário|funcionario||S|pro|B1
+papelada|papeleo||S|ist|B1
+identificação|identificación||S|ist|B1
+guia de pagamento|carta de pago||S|ist|B1
+tributário|tributario||A|ist|B1
+expediente|expediente||S|ist|B1
+eleição|elección||S|ist|B1
+eleger|elegir||V|ist|B1
+urna|urna||S|ist|B1
+boletim de voto|papeleta||S|ist|B1
+cartão de eleitor|carné electoral||S|ist|B1
+partido político|partido político||S|ist|B1
+promessa eleitoral|promesa electoral||S|ist|B1
+democracia|democracia||S|ist|B1
+democrático|democrático||A|ist|B1
+abstenção|abstención||S|ist|B1
+maioria|mayoría||S|ist|B1
+maioria absoluta|mayoría absoluta||S|ist|B1
+autarquia|ayuntamiento||S|ist|B1
+vencedor|ganador||S|ist|B1
+governar|gobernar||V|ist|B1
+constituição|constitución||S|ist|B1
+mandato|mandato||S|ist|B1
+além disso|además||E|cnn|B1
+no entanto|sin embargo||E|cnn|B1
+apesar de|a pesar de||L|cnn|B1
+embora|aunque||C|cnn|B1
+portanto|por lo tanto||C|cnn|B1
+por isso|por eso||E|cnn|B1
+por um lado|por un lado||E|cnn|B1
+por outro lado|por otro lado||E|cnn|B1
+em conclusão|en conclusión||E|cnn|B1
+em síntese|en síntesis||E|cnn|B1
+ou seja|es decir||E|cnn|B1
+de facto|de hecho||E|cnn|B1
+contudo|no obstante||C|cnn|B1
+dado que|dado que||L|cnn|B1
+desde que|siempre que||L|cnn|B1
+mesmo assim|aun así||E|cnn|B1
+em vez de|en vez de||L|cnn|B1
+justiça|justicia||S|ast|B1
+justo|justo||A|ast|B1
+verdade|verdad||S|ast|B1
+verdadeiro|verdadero||A|ast|B1
+beleza|belleza||S|ast|B1
+belo|bello||A|ast|B1
+honestidade|honestidad||S|ast|B1
+honesto|honesto||A|ast|B1
+liberdade|libertad||S|ast|B1
+igualdade|igualdad||S|ast|B1
+dignidade|dignidad||S|ast|B1
+tolerância|tolerancia||S|ast|B1
+solidariedade|solidaridad||S|ast|B1
+virtude|virtud||S|ast|B1
+vício|vicio||S|ast|B1
+moral|moral||S|ast|B1
+ética|ética||S|ast|B1
+corrente artística|corriente artística||S|art|B1
+renascimento|renacimiento||S|art|B1
+barroco|barroco||S|art|B1
+impressionismo|impresionismo||S|art|B1

@@ -1,0 +1,292 @@
+risonanza magnetica funzionale|resonancia magnética funcional||S|sci|C1
+tomografia computerizzata|tomografía computarizada||S|sci|C1
+potenziali evocati|potenciales evocados||S|sci|C1
+magnetoencefalografia|magnetoencefalografía||S|sci|C1
+perfusione cerebrale|perfusión cerebral||S|sci|C1
+materia bianca|sustancia blanca||S|sci|C1
+sinaptogenesi|sinaptogénesis||S|sci|C1
+amigdala|amígdala (cerebral)||S|sci|C1
+neurotrasmettitore|neurotransmisor||S|sci|C1
+assone|axón||S|sci|C1
+mielina|mielina||S|sci|C1
+circuito della ricompensa|circuito de recompensa||S|sci|C1
+gangli della base|gangli basales||S|sci|C1
+neurodegenerazione|neurodegeneración||S|sci|C1
+connettività funzionale|conectividad funcional||S|sci|C1
+metabolismo cerebrale|metabolismo cerebral||S|sci|C1
+stimolazione transcranica|estimulación transcraneal||S|sci|C1
+sostanza grigia|sustancia gris||S|sci|C1
+nanotubo di carbonio|nanotubo de carbono||S|sci|C1
+grafene|grafeno||S|sci|C1
+nanoparticella|nanopartícula||S|sci|C1
+rivestimento antiriflesso|recubrimiento antirreflectante||S|sci|C1
+catalisi eterogenea|catálisis heterogénea||S|sci|C1
+adsorbimento|adsorción||S|sci|C1
+polimerizzazione|polimerización||S|sci|C1
+reticolazione|reticulación (entrecruzado)||S|sci|C1
+porosità|porosidad||S|sci|C1
+microscopio a forza atomica|microscopio de fuerza atómica||S|sci|C1
+spettroscopia|espectroscopía||S|sci|C1
+diffrazione|difracción||S|sci|C1
+composto intermetallico|compuesto intermetálico||S|sci|C1
+autoassemblaggio|autoensamblaje||S|sci|C1
+biocompatibile|biocompatible||A|sci|C1
+nitruro di silicio|nitruro de silicio||S|sci|C1
+ceramica tecnica|cerámica técnica||S|sci|C1
+monodisperso|monodisperso (de tamaño uniforme)||A|sci|C1
+ottica non lineare|óptica no lineal||S|sci|C1
+fibra ottica|fibra óptica||S|sci|C1
+birifrangenza|birrefringencia||S|sci|C1
+polarizzazione|polarización||S|sci|C1
+interferometria|interferometría||S|sci|C1
+lunghezza d'onda|longitud de onda||S|sci|C1
+fotone|fotón||S|sci|C1
+fotovoltaico|fotovoltaico||A|sci|C1
+luminescenza|luminiscencia||S|sci|C1
+fosforescenza|fosforescencia||S|sci|C1
+infrasuono|infrasonido||S|sci|C1
+riverbero acustico|reverberación acústica||S|sci|C1
+fonone|fonón||S|sci|C1
+dispersione cromatica|dispersión cromática||S|sci|C1
+fotolitografia|fotolitografía||S|sci|C1
+coerenza|coherencia (de la luz)||S|sci|C1
+ottica geometrica|óptica geométrica||S|sci|C1
+aberrazione cromatica|aberración cromática||S|sci|C1
+entropia|entropía||S|sci|C1
+entalpia|entalpía||S|sci|C1
+adiabatico|adiabático||A|sci|C1
+irreversibilità|irreversibilidad||S|sci|C1
+ciclo termodinamico|ciclo termodinámico||S|sci|C1
+rendimento termodinamico|rendimiento termodinámico||S|sci|C1
+reologia|reología||S|sci|C1
+viscosimetro|viscosímetro||S|sci|C1
+turbolenza|turbulencia||S|sci|C1
+scorrimento laminare|flujo laminar||S|sci|C1
+convezione|convección||S|sci|C1
+equazione di stato|ecuación de estado||S|sci|C1
+gas ideale|gas ideal||S|sci|C1
+vorticità|vorticidad||S|sci|C1
+portata|caudal (gasto de un fluido)||S|sci|C1
+onda d'urto|onda de choque||S|sci|C1
+aerodinamica|aerodinámica||S|sci|C1
+diagramma di fase|diagrama de fases||S|sci|C1
+cartografia|cartografía||S|sci|C1
+ortofoto|ortofoto||S|sci|C1
+telerilevamento|teledetección||S|sci|C1
+fotogrammetria|fotogrametría||S|sci|C1
+georeferenziamento|georreferenciación||S|sci|C1
+geodesia|geodesia||S|sci|C1
+proiezione cartografica|proyección cartográfica||S|sci|C1
+curva di livello|curva de nivel||S|sci|C1
+triangolazione|triangulación||S|sci|C1
+idrografia|hidrografía||S|sci|C1
+batimetria|batimetría||S|sci|C1
+sistema informativo territoriale|sistema de información territorial||S|sci|C1
+sensore multispettrale|sensor multiespectral||S|sci|C1
+immagine satellitare|imagen satelital||S|sci|C1
+planimetria|planimetría||S|sci|C1
+ellissoide|elipsoide||S|sci|C1
+geoida|geoide||S|sci|C1
+aerofotografia|aerofotografía||S|sci|C1
+endecasillabo|endecasílabo||S|let|C1
+settenario|heptasílabo||S|let|C1
+quinario|pentasílabo||S|let|C1
+terzina|terceto||S|let|C1
+strofa|estrofa||S|let|C1
+assonanza|asonancia||S|let|C1
+versi sciolti|versos libres (verso blanco)||S|let|C1
+spondeo|espondeo||S|let|C1
+trocheo|troqueo||S|let|C1
+pentametro giambico|pentámetro yámbico||S|let|C1
+cesura|cesura (pausa versale)||S|let|C1
+epentesi|epéntesis||S|let|C1
+sinalefe|sinalefa||S|let|C1
+dialefe|dialefa||S|let|C1
+sdrucciolo|esdrújula (acento en la antepenúltima)||A|let|C1
+ictus|icto (golpe rítmico)||S|let|C1
+rima baciata|rima abrazada||S|let|C1
+ottava rima|octava real||S|let|C1
+polimetria|polimetría (variedad de metros)||S|let|C1
+aferesi|aféresis (supresión de vocal inicial)||S|let|C1
+commedia dell'arte|comedia del arte (teatro de máscaras italianas)||S|let|C1
+tragicommedia|tragicomedia||S|let|C1
+monologo|monólogo||S|let|C1
+didascalia|acotación||S|let|C1
+macchina scenica|tramoya||S|let|C1
+quarta parete|cuarta pared||S|let|C1
+palcoscenico|escenario||S|let|C1
+fondale|telón de fondo||S|let|C1
+comparsa|figurante (actor secundario)||S|let|C1
+scenotecnica|escenotecnia||S|let|C1
+messa in scena|puesta en escena||S|let|C1
+adattamento teatrale|adaptación teatral||S|let|C1
+compagnia stabile|compañía estable||S|let|C1
+anteprima|preestreno||S|let|C1
+buca dell'orchestra|foso de la orquesta||S|let|C1
+loggione|gallinero (del teatro)||S|let|C1
+travesti|papel travestido (hombre en papel de mujer)||S|let|C1
+copione|guion||S|let|C1
+chiasmo|quiasmo||S|let|C1
+zeugma|zeugma||S|let|C1
+ossimoro|oxímoron (paradoja aparente)||S|let|C1
+sinestesia|sinestesia||S|let|C1
+litote|lítote (atenuación irónica)||S|let|C1
+climax|clímax (gradación retórica)||S|let|C1
+anafora|anáfora||S|let|C1
+apostrofe|apóstrofe (invectiva al lector)||S|let|C1
+prosopopea|prosopopeya (personificación)||S|let|C1
+sineddoche|sinécdoque||S|let|C1
+ipallage|hipálage||S|let|C1
+aposiopesi|aposíopesis (reticencia)||S|let|C1
+preterizione|preterición (callar algo citándolo)||S|let|C1
+iperbole|hipérbole (exageración retórica)||S|let|C1
+antitesi|antítesis||S|let|C1
+similitudine|símil (comparación)||S|let|C1
+reticenza|reticencia (silencio elocuente)||S|let|C1
+perifrasi|perífrasis||S|let|C1
+epigrafia|epigrafía||S|let|C1
+papirologia|papirología||S|let|C1
+codicologia|codicología||S|let|C1
+paleografia|paleografía||S|let|C1
+manoscritto|manuscrito||S|let|C1
+codice miniato|códice miniado||S|let|C1
+incipit|incipit (palabra inicial de un manuscrito)||S|let|C1
+explicit|explicit (colofón final)||S|let|C1
+glosa|glosa||S|let|C1
+minuscola|minúscula (caligrafía antigua)||S|let|C1
+maiuscola|mayúscula (letra uncial)||S|let|C1
+esegesi|exégesis||S|let|C1
+ermeneutica|hermenéutica||S|let|C1
+ecdotica|crítica textual (ecdotica)||S|let|C1
+volgarizzamento|traducción medieval al italiano||S|let|C1
+lessicografia|lexicografía||S|let|C1
+etimo|etimo (origen de una palabra)||S|let|C1
+diplomatica|diplomatica (ciencia de los documentos)||S|let|C1
+calco|calco (préstamo traducido literalmente)||S|let|C1
+interferenza linguistica|interferencia lingüística||S|let|C1
+compensazione|compensación (recurso del traductor)||S|let|C1
+domesticazione|domesticación (naturalizar lo extranjero)||S|let|C1
+esotizzazione|exotización (extranjerizar el texto)||S|let|C1
+lingua di arrivo|lengua de llegada||S|let|C1
+testo fonte|texto fuente||S|let|C1
+interpretariato|interpretariado||S|let|C1
+traduzione a vista|traducción a vista||S|let|C1
+falsi amici|falsos amigos||S|let|C1
+idiotismo|idiomatismo (modismo)||S|let|C1
+nota del traduttore|nota del traductor||S|let|C1
+retroversione|retroversión (volver a la lengua original)||S|let|C1
+parafrastico|parafrástico||A|let|C1
+intraducibile|intraducible||A|let|C1
+sottotitolazione|subtitulado||S|let|C1
+versione interlineare|versión interlineal||S|let|C1
+traduttologia|traductología||S|let|C1
+saggistica|ensayística||S|let|C1
+confutazione|refutación||S|let|C1
+petizione di principio|petición de principio||S|let|C1
+aporia|aporía||S|let|C1
+corollario|corolario||S|let|C1
+postulato|postulado||S|let|C1
+assiomatico|axiomático||A|let|C1
+speculativo|especulativo||A|let|C1
+elucubrazione|elucubración||S|let|C1
+divagazione|divagación||S|let|C1
+invettiva|invectiva||S|let|C1
+dialettica|dialéctica||S|let|C1
+relativismo|relativismo||S|let|C1
+sensismo|sensismo (empirismo radical)||S|let|C1
+sorite|sorites (polisilogismo)||S|let|C1
+dogma|dogma||S|let|C1
+assunto|supuesto (premis)||S|let|C1
+sillogismo|silogismo||S|let|C1
+ucronia|ucronía (historia alternativa)||S|let|C1
+distopico|distópico||A|let|C1
+apocalittico|apocalíptico||A|let|C1
+fantascienza|ciencia ficción||S|let|C1
+millenarismo|mesianismo milenarista||S|let|C1
+romanzo di formazione|novela de formación||S|let|C1
+romanzo storico|novela histórica||S|let|C1
+mondo alla rovescia|mundo al revés (carnaval literario)||S|let|C1
+palingenesi|palingenesia (renacimiento del mundo)||S|let|C1
+escatologia|escatología||S|let|C1
+finale aperto|final abierto||S|let|C1
+sospensione dell'incredulità|suspensión de la incredulidad||S|let|C1
+extrapolazione|extrapolación||S|let|C1
+androide|androide||S|let|C1
+viaggio interstellare|viaje interestelar||S|let|C1
+terraformazione|terraformación||S|let|C1
+utopico|utópico||A|let|C1
+distopia|distopía||S|let|C1
+canone|canon (lista de obras clásicas)||S|let|C1
+novelliere|recopilador de cuentos||S|let|C1
+influsso|influjo (influencia literaria)||S|let|C1
+fortuna|fortuna (recepción de una obra)||S|let|C1
+topos|tópos (motivo recurrente)||S|let|C1
+intertestualità|intertextualidad||S|let|C1
+ipotesto|hipotexto (texto fuente)||S|let|C1
+ricezione|recepción (teoría de la recepción)||S|let|C1
+orizzonte di attesa|horizonte de expectativas||S|let|C1
+classicismo|clasicismo||S|let|C1
+cronotopo|cronotopo (espacio-tiempo narrativo)||S|let|C1
+mimesi|mímesis||S|let|C1
+catarsi|catarsis||S|let|C1
+epigone|epígono||S|let|C1
+letteratura comparata|literatura comparada||S|let|C1
+avanguardia storica|vanguardia histórica||S|let|C1
+ermetismo|hermetismo (poesía hermética)||S|let|C1
+canonizzazione|canonización (entrada en el canon)||S|let|C1
+sondaggio|encuesta (sondeo de opinión)||S|att|C1
+campione rappresentativo|muestra representativa||S|att|C1
+margine di errore|margen de error||S|att|C1
+propensione al voto|intención de voto||S|att|C1
+demagogia|demagogia||S|att|C1
+plebiscitario|plebiscitario||A|att|C1
+astensionismo|abstencionismo||S|att|C1
+spoglio|escrutinio (recuento de votos)||S|att|C1
+demoscopia|demoscopia||S|att|C1
+campagna elettorale|campaña electoral||S|att|C1
+ballottaggio|segunda vuelta (balotaje)||S|att|C1
+primarie|primarias||S|att|C1
+corpo elettorale|cuerpo electoral||S|att|C1
+rilevazione|sondeo (medición)||S|att|C1
+referendario|referendario (consultivo)||A|att|C1
+opinionista|opinionista||S|att|C1
+clivaggio|clivaje (fractura electoral)||S|att|C1
+maggioranza assoluta|mayoría absoluta||S|att|C1
+alto il fuoco|alto el fuego||E|att|C1
+armistizio|armisticio||S|att|C1
+bellicista|belicista||S|att|C1
+mantenimento della pace|mantenimiento de la paz||S|att|C1
+non proliferazione|no proliferación||S|att|C1
+disarmo|desarme||S|att|C1
+deterrenza|disuasión (disuasorio)||S|att|C1
+blocco navale|bloqueo naval||S|att|C1
+riarmo|rearme||S|att|C1
+stato canaglia|estado canalla (paria internacional)||S|att|C1
+controspionaggio|contraespionaje||S|att|C1
+rappresaglia|represalia||S|att|C1
+trattato di non aggressione|tratado de no agresión||S|att|C1
+guerra fredda|guerra fría||S|att|C1
+cordone sanitario|cordón sanitario||S|att|C1
+decolonizzazione|descolonización||S|att|C1
+casus belli|casus belli (motivo de guerra)||L|att|C1
+fuoco amico|fuego amigo||S|att|C1
+supranazionale|supranacional||A|att|C1
+comunitario|comunitario (de la integración europea)||A|att|C1
+allargamento|ampliación (incorporación de nuevos miembros)||S|att|C1
+convergenza|convergencia (aproximación de economías)||S|att|C1
+subsidiarietà|subsidiariedad||S|att|C1
+ponderazione dei voti|ponderación de los votos||S|att|C1
+semestre europeo|semestre europeo||S|att|C1
+aiuti di stato|ayudas estatales (a empresas)||S|att|C1
+libera circolazione|libre circulación||S|att|C1
+diritto di veto|derecho de veto||S|att|C1
+presidenza di turno|presidencia de turno||S|att|C1
+normativa comunitaria|normativa comunitaria||S|att|C1
+alto commissariato|alto comisariado||S|att|C1
+osservatore internazionale|observador internacional||S|att|C1
+clausola di non regresso|cláusula de no regresión||S|att|C1
+cooperazione rafforzata|cooperación reforzada||S|att|C1
+mutuo riconoscimento|reconocimiento mutuo||S|att|C1
+trattato costitutivo|tratado constitutivo||S|att|C1
+stato sociale|estado social (estado del bienestar)||S|att|C1
+previdenza sociale|seguridad social (pensiones)||S|att|C1

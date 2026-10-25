@@ -1,0 +1,309 @@
+astigmatism|astigmatismo||S|cor|C1
+presbyopia|presbicia||S|cor|C1
+glaucoma|glaucoma||S|cor|C1
+keratoplasty|queratoplastia||S|sla|C1
+retinal detachment|desprendimiento de retina||S|sla|C1
+macular degeneration|degeneración macular||S|sla|C1
+intraocular pressure|presión intraocular||S|sla|C1
+ophthalmoscope|oftalmoscopio||S|sla|C1
+slit lamp|lámpara de hendidura||S|sla|C1
+diopter|dioptría||S|sla|C1
+bifocals|lentes bifocales||S|cor|C1
+progressive lenses|lentes progresivas||S|cor|C1
+ophthalmologist|oftalmólogo||S|pro|C1
+optometry|optometría||S|sla|C1
+strabismus|estrabismo||S|cor|C1
+amblyopia|ambliopía||S|cor|C1
+dry eye|ojo seco||S|cor|C1
+photophobia|fotofobia||S|sla|C1
+visual acuity|agudeza visual||S|sla|C1
+eyestrain|fatiga ocular||S|cor|C1
+color blindness|daltonismo||S|cor|C1
+laser eye surgery|cirugía láser ocular||S|sla|C1
+pupil dilation|dilatación de pupila||S|sla|C1
+night blindness|ceguera nocturna||S|cor|C1
+tonometer|tonómetro||S|sla|C1
+aplastic anemia|anemia aplásica||S|sla|C1
+hematocrit|hematocrito||S|sla|C1
+hemoglobin|hemoglobina||S|sla|C1
+myeloma|mieloma||S|sla|C1
+splenomegaly|esplenomegalia||S|sla|C1
+platelet count|recuento de plaquetas||S|sla|C1
+blood transfusion|transfusión de sangre||S|sla|C1
+blood bank|banco de sangre||S|sla|C1
+hemophilia|hemofilia||S|sla|C1
+sickle cell disease|anemia falciforme||S|sla|C1
+bone marrow transplant|trasplante de médula ósea||S|sla|C1
+leukocyte|leucocito||S|sla|C1
+erythrocyte|eritrocito||S|sla|C1
+antiphospholipid syndrome|síndrome antifosfolípido||S|sla|C1
+thrombophilia|trombofilia||S|sla|C1
+anticoagulant|anticoagulante||S|sla|C1
+thrombus|trombo||S|sla|C1
+iron deficiency anemia|anemia ferropénica||S|sla|C1
+venipuncture|venopunción||S|sla|C1
+phlebotomist|flebotomista||S|pro|C1
+type and crossmatch|tipificación y prueba cruzada||S|sla|C1
+peripheral smear|frotis sanguíneo periférico||S|sla|C1
+coagulation cascade|cascada de coagulación||S|sla|C1
+septic shock|shock séptico||S|sla|C1
+hemochromatosis|hemocromatosis||S|sla|C1
+kidney stone|cálculo renal||S|sla|C1
+renal failure|insuficiencia renal||S|sla|C1
+hemodialysis|hemodiálisis||S|sla|C1
+peritoneal dialysis|diálisis peritoneal||S|sla|C1
+nephrology|nefrología||S|sla|C1
+nephron|nefrona||S|sla|C1
+creatinine|creatinina||S|sla|C1
+urinary tract infection|infección del tracto urinario||S|sla|C1
+incontinence|incontinencia||S|sla|C1
+cystoscopy|cistoscopia||S|sla|C1
+prostatectomy|prostatectomía||S|sla|C1
+vasectomy|vasectomía||S|sla|C1
+urethra|uretra||S|cor|C1
+renal artery|arteria renal||S|cor|C1
+kidney transplant|trasplante de riñón||S|sla|C1
+urologist|urólogo||S|pro|C1
+hematuria|hematuria||S|sla|C1
+lithotripsy|litotricia||S|sla|C1
+glomerulonephritis|glomerulonefritis||S|sla|C1
+ureter|uréter||S|cor|C1
+nocturia|nicturia||S|sla|C1
+overactive bladder|vejiga hiperactiva||S|sla|C1
+urinalysis|análisis de orina||S|sla|C1
+uremia|uremia||S|sla|C1
+gastroenterologist|gastroenterólogo||S|pro|C1
+gastroenterology|gastroenterología||S|sla|C1
+endoscopy|endoscopia||S|sla|C1
+colonoscopy|colonoscopia||S|sla|C1
+ulcerative colitis|colitis ulcerosa||S|sla|C1
+cirrhosis|cirrosis||S|sla|C1
+hepatomegaly|hepatomegalia||S|sla|C1
+pancreatitis|pancreatitis||S|sla|C1
+gallstone|cálculo biliar||S|sla|C1
+acid reflux|reflujo gastroesofágico||S|sla|C1
+intestinal obstruction|obstrucción intestinal||S|sla|C1
+appendectomy|apendicectomía||S|sla|C1
+hiatal hernia|hernia de hiato||S|sla|C1
+gastroscopy|gastroscopia||S|sla|C1
+liver enzyme|enzima hepática||S|sla|C1
+bilirubin|bilirrubina||S|sla|C1
+peristalsis|peristaltismo||S|sla|C1
+intestinal flora|flora intestinal||S|sla|C1
+colostomy|colostomía||S|sla|C1
+antiemetic|antiemético||S|sla|C1
+irritable bowel syndrome|síndrome del intestino irritable||S|sla|C1
+peptic ulcer|úlcera péptica||S|sla|C1
+hepatic|hepático||A|sla|C1
+rheumatoid arthritis|artritis reumatoide||S|sla|C1
+osteoarthritis|artrosis||S|sla|C1
+lupus|lupus||S|sla|C1
+immunodeficiency|inmunodeficiencia||S|sla|C1
+rheumatologist|reumatólogo||S|pro|C1
+arthralgia|artralgia||S|sla|C1
+fibromyalgia|fibromialgia||S|sla|C1
+gout|gota||S|sla|C1
+tendinopathy|tendinopatía||S|sla|C1
+bursitis|bursitis||S|sla|C1
+multiple sclerosis|esclerosis múltiple||S|sla|C1
+biologic drug|fármaco biológico||S|sla|C1
+exacerbation|exacerbación||S|sla|C1
+relapsing-remitting|remitente con recaídas||A|sla|C1
+synovium|sinovia||S|cor|C1
+ankylosing spondylitis|espondilitis anquilosante||S|sla|C1
+antinuclear antibody|anticuerpo antinuclear||S|sla|C1
+immunoglobulin|inmunoglobulina||S|sla|C1
+seronegative|seronegativo||A|sla|C1
+trigger point|punto gatillo||S|sla|C1
+vasculitis|vasculitis||S|sla|C1
+autoantibody|autoanticuerpo||S|sla|C1
+spinal stenosis|estenosis espinal||S|sla|C1
+geriatrician|geriatra||S|pro|C1
+nursing home|residencia de mayores||S|ist|C1
+assisted living|residencia asistida||S|ist|C1
+bereavement support|apoyo en el duelo||S|sla|C1
+death with dignity|muerte digna||S|sla|C1
+next of kin|familiar más cercano||L|fam|C1
+sundowning|síndrome del atardecer||S|sla|C1
+cognitive decline|deterioro cognitivo||S|sla|C1
+bedsores|úlceras por presión||S|sla|C1
+fall prevention|prevención de caídas||S|sla|C1
+walker|andador||S|sla|C1
+house call|visita a domicilio||S|sla|C1
+respite care|servicio de respiro familiar||S|sla|C1
+living will|testamento vital||S|ist|C1
+comfort care|cuidados de confort||S|sla|C1
+polypharmacy|polifarmacia||S|sla|C1
+frailty|síndrome de fragilidad||S|sla|C1
+sarcopenia|sarcopenia||S|sla|C1
+bone density|densidad ósea||S|sla|C1
+joint replacement|artroplastia||S|sla|C1
+cochlear implant|implante coclear||S|sla|C1
+gerontology|gerontología||S|sla|C1
+conservatorship|tutela legal de adultos||S|ist|C1
+patient advocate|defensor del paciente||S|pro|C1
+elder abuse|maltrato a personas mayores||S|ist|C1
+bedridden|encamado||A|sla|C1
+anesthesiologist|anestesiólogo||S|pro|C1
+general anesthesia|anestesia general||S|sla|C1
+sedative|sedante||S|sla|C1
+extubation|extubación||S|sla|C1
+noninvasive ventilation|ventilación no invasiva||S|sla|C1
+epidural|epidural||S|sla|C1
+lancet|lanceta||S|sla|C1
+surgical thread|hilo quirúrgico||S|sla|C1
+wound dehiscence|dehiscencia de la herida||S|sla|C1
+anesthesia risk assessment|evaluación del riesgo anestésico||S|sla|C1
+operating room|quirófano||S|sla|C1
+scrub nurse|enfermero instrumentista||S|pro|C1
+laryngoscope|laringoscopio||S|sla|C1
+pulse oximeter|pulsioxímetro||S|sla|C1
+perioperative|perioperatorio||A|sla|C1
+twilight sedation|sedación consciente||S|sla|C1
+nerve block|bloqueo nervioso||S|sla|C1
+proctoscope|proctoscopio||S|sla|C1
+surgical clamp|pinza quirúrgica||S|sla|C1
+ligate|ligar (un vaso sanguíneo)||V|sla|C1
+hemorrhage|hemorragia||S|sla|C1
+gown up|ponerse el pijama de quirófano||E|sla|C1
+surgical instruments|instrumental quirúrgico||S|sla|C1
+sterilize|esterilizar||V|sla|C1
+necropsy|necropsia||S|sla|C1
+medical examiner|médico forense||S|pro|C1
+homicide investigation|investigación de un homicidio||S|ist|C1
+toxicology|toxicología||S|sci|C1
+toxicologist|toxicólogo||S|pro|C1
+rifling|estriado del ánima||S|sla|C1
+paternity test|prueba de paternidad||S|sla|C1
+spatter pattern|patrón de salpicaduras||S|sla|C1
+rigor mortis|rigor mortis||L|sla|C1
+cadaver|cadáver||S|sla|C1
+postmortem|post mórtem||A|sla|C1
+poisoning|intoxicación||S|sla|C1
+overdose|sobredosis||S|sla|C1
+lethal dose|dosis letal||S|sla|C1
+forensic entomology|entomología forense||S|sla|C1
+forensic pathologist|patólogo forense||S|pro|C1
+dental records|registros dentales||S|sla|C1
+dactyloscopy|dactiloscopia||S|sla|C1
+bite mark|marca de mordedura||S|sla|C1
+inquest|investigación de muerte sospechosa||S|ist|C1
+breathalyzer|alcoholímetro||S|sla|C1
+cold case|caso sin resolver||S|ist|C1
+cause of death|causa de la muerte||L|sla|C1
+radiologist|radiólogo||S|pro|C1
+radiograph|radiografía||S|sla|C1
+ultrasound|ecografía||S|sla|C1
+magnetic resonance imaging|resonancia magnética||S|sla|C1
+radiotracer|radiotrazador||S|sci|C1
+mammography|mamografía||S|sla|C1
+fluoroscopy|fluoroscopia||S|sla|C1
+angiography|angiografía||S|sla|C1
+interventional radiology|radiología intervencionista||S|sla|C1
+polyp|pólipo||S|sla|C1
+calcification|calcificación||S|sla|C1
+radiopaque|radiopaco||A|sla|C1
+radiolucent|radiolúcido||A|sla|C1
+coronary bypass|bypass coronario||S|sla|C1
+lead apron|delantal de plomo||S|sla|C1
+radiation shield|blindaje radiológico||S|sla|C1
+radiation therapy|radioterapia||S|sla|C1
+imaging study|prueba de imagen||S|sla|C1
+diagnostic imaging|diagnóstico por imagen||S|sla|C1
+sonographer|ecografista||S|pro|C1
+orthodontist|ortodoncista||S|pro|C1
+orthodontics|ortodoncia||S|sla|C1
+dental implant|implante dental||S|sla|C1
+root canal|endodoncia||S|sla|C1
+wisdom tooth|muela del juicio||S|cor|C1
+porcelain crown|corona de porcelana||S|sla|C1
+periodontitis|periodontitis||S|sla|C1
+gingivitis|gingivitis||S|sla|C1
+enamel|esmalte dental||S|cor|C1
+denture|dentadura postiza||S|sla|C1
+palatal expander|expansor palatino||S|sla|C1
+occlusal surface|superficie oclusal||S|cor|C1
+halitosis|halitosis||S|sla|C1
+bruxism|bruxismo||S|sla|C1
+tooth extraction|extracción dental||S|sla|C1
+temporomandibular joint|articulación temporomandibular||S|cor|C1
+oral surgery|cirugía oral||S|sla|C1
+abscess|absceso||S|sla|C1
+onlay|incrustación dental||S|sla|C1
+gum recession|recesión de las encías||S|sla|C1
+malocclusion|maloclusión||S|sla|C1
+fluoride treatment|aplicación de flúor||S|sla|C1
+dietitian|dietista-nutricionista||S|pro|C1
+nutritionist|nutricionista||S|pro|C1
+caloric intake|ingesta calórica||S|ali|C1
+macronutrient|macronutriente||S|ali|C1
+micronutrient|micronutriente||S|ali|C1
+unsaturated fat|grasa insaturada||S|ali|C1
+trans fat|grasa trans||S|ali|C1
+satiety|saciedad||S|ali|C1
+hyperkalemia|hiperpotasemia||S|sla|C1
+malnutrition|desnutrición||S|sla|C1
+body image|imagen corporal||S|emo|C1
+anorexia|anorexia||S|sla|C1
+bulimia|bulimia||S|sla|C1
+binge eating|atracones||S|sla|C1
+food allergy|alergia alimentaria||S|sla|C1
+celiac disease|enfermedad celíaca||S|sla|C1
+fructose malabsorption|malabsorción de fructosa||S|sla|C1
+dietary fiber|fibra dietética||S|ali|C1
+nutritional deficiency|carencia nutricional||S|sla|C1
+vitamin deficiency|carencia vitamínica||S|sla|C1
+dietary supplement|suplemento dietético||S|ali|C1
+enteral feeding|nutrición enteral||S|sla|C1
+parenteral nutrition|nutrición parenteral||S|sla|C1
+basal metabolic rate|metabolismo basal||S|sla|C1
+sodium intake|ingesta de sodio||S|ali|C1
+veterinary medicine|medicina veterinaria||S|sla|C1
+stable hand|mozo de cuadra||S|pro|C1
+epizootic|epizoótico||A|ani|C1
+rabies|rabia||S|ani|C1
+distemper|moquillo||S|ani|C1
+kennel cough|tos de las perreras||S|ani|C1
+deworming|desparasitación||S|sla|C1
+neutering|esterilización||S|sla|C1
+hybrid vigor|heterosis||S|ani|C1
+muzzle|bozal||S|ani|C1
+microchipping|identificación por microchip||S|ani|C1
+estrus|celo||S|ani|C1
+rumen|rumen||S|ani|C1
+colostrum|calostro||S|ani|C1
+foot-and-mouth disease|fiebre aftosa||S|ani|C1
+avian flu|gripe aviar||S|sla|C1
+anthrax|ántrax||S|sla|C1
+brucellosis|brucelosis||S|sla|C1
+put down|sacrificar (a un animal)||E|ani|C1
+equine|equino||A|ani|C1
+bovine|bovino||A|ani|C1
+porcine|porcino||A|ani|C1
+avian|aviar||A|ani|C1
+vaccination schedule|calendario vacunal||S|sla|C1
+cattery|gatil||S|ani|C1
+farrowing|parto de la cerda||S|ani|C1
+usability|usabilidad||S|tec|C1
+occupational hazard|riesgo laboral||S|lav|C1
+workplace safety|seguridad en el trabajo||S|lav|C1
+disability insurance|seguro de incapacidad||S|lav|C1
+repetitive strain injury|lesión por esfuerzo repetitivo||S|sla|C1
+carpal tunnel|túnel carpiano||S|cor|C1
+medical leave|baja médica||S|lav|C1
+occupational therapist|terapeuta ocupacional||S|pro|C1
+work-related illness|enfermedad derivada del trabajo||S|sla|C1
+exposure limit|límite de exposición||S|lav|C1
+hard hat|casco de seguridad||S|lav|C1
+noise-induced hearing loss|hipoacusia inducida por ruido||S|sla|C1
+piecework|trabajo a destajo||S|lav|C1
+industrial accident|accidente laboral||S|lav|C1
+ergonomic|ergonómico||A|lav|C1
+personal protective equipment|equipo de protección individual||S|lav|C1
+workplace stress|estrés laboral||S|lav|C1
+labor inspection|inspección de trabajo||S|ist|C1
+shift work|trabajo por turnos||S|lav|C1
+sick building syndrome|síndrome del edificio enfermo||S|sla|C1
+safety audit|auditoría de seguridad||S|lav|C1
+death benefit|seguro de fallecimiento||S|lav|C1
+injury rate|tasa de siniestralidad||S|lav|C1

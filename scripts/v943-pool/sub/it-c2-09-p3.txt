@@ -1,0 +1,276 @@
+de facto|de facto||L|ast|C2
+in vitro|in vitro||L|sci|C2
+ex novo|ex novo (desde cero)||L|ast|C2
+pro capite|per cápita||L|fin|C2
+a posteriori|a posteriori||L|ast|C2
+sui generis|sui generis||L|ast|C2
+mutatis mutandis|mutatis mutandis (cambiando lo que haya que cambiar)||L|ast|C2
+expressis verbis|expressis verbis (expressamente)||L|cmu|C2
+in extremis|in extremis (en el último momento)||L|tmp|C2
+in situ|in situ||L|sci|C2
+ad calenda graecas|para las calendas griegas (nunca)||L|ast|C2
+insinuazione|insinuación||S|cmu|C2
+allusivo|alusivo||A|let|C2
+sottinteso|sobreentendido||S|cmu|C2
+velatamente|de manera velada||D|cmu|C2
+eufemismo|eufemismo||S|cmu|C2
+perifrasi|perífrasis||S|let|C2
+bellimbusto|petimetre||S|cmu|C2
+cialtrone|sinvergüenza (pordiosero fanfarrón)||S|cmu|C2
+imbonitore|vocero de feria||S|cmu|C2
+lestofante|maleante (pícaro)||S|cmu|C2
+sbruffone|fanfarrón||S|cmu|C2
+smargiasso|engreído (fanfarrón)||S|cmu|C2
+cicisbeo|cicisbeo (acomodante de dama)||S|cmu|C2
+gattopardo|gato montés||S|ani|C2
+buzzurro|cateto (forastero tosco)||S|cmu|C2
+bisca|garito||S|cmu|C2
+sussiego|untuosa compostura||S|emo|C2
+alterigia|altivez||S|emo|C2
+caparbietà|testarudez (obstinación)||S|emo|C2
+imperturbabilità|imperturbabilidad||S|emo|C2
+sornioneria|astucia socarrona||S|emo|C2
+spregiudicatezza|desinhibición (falta de prejuicios)||S|emo|C2
+spocchia|chulería||S|cmu|C2
+supponenza|presunción||S|cmu|C2
+sommesso|apagado (contenido)||A|ast|C2
+equanime|ecuánime||A|ast|C2
+insindacabile|insindacable (inapelable)||A|ist|C2
+irreprensibile|irreprochable||A|ast|C2
+disincantato|desencantado||A|ast|C2
+irriducibile|irreductible||A|ast|C2
+confutare|refutar||V|ast|C2
+pontificare|pontificar||V|cmu|C2
+insinuare|insinuar||V|cmu|C2
+stigmatizzare|estigmatizar||V|cmu|C2
+soprassedere|desistir (dejar para después)||V|cnn|C2
+preconizzare|preconizar (proponer)||V|cmu|C2
+postulare|postular||V|ast|C2
+dicotomia|dicotomía||S|ast|C2
+complementarità|complementariedad||S|ast|C2
+ineluttabilità|inevitabilidad (lo ineludible)||S|ast|C2
+endogeno|endógeno||A|ast|C2
+esogeno|exógeno||A|ast|C2
+cogenza|carácter perentorio||S|ast|C2
+veridicità|veracidad||S|ast|C2
+fallacia|falacia||S|ast|C2
+mendacio|embuste (mentira)||S|let|C2
+falsificabilità|falsabilidad||S|ast|C2
+apocrifo|apócrifo (no auténtico)||A|let|C2
+limpidezza|limpidez||S|ast|C2
+rettitudine|rectitud||S|ast|C2
+abnegazione|abnegación||S|ast|C2
+compostezza|compostura||S|ast|C2
+esecrabile|execrable||A|ast|C2
+ordine di grandezza|orden de magnitud||L|sci|C2
+esiguo|exiguo||A|ast|C2
+siderale|sideral (distancia sideral)||A|sci|C2
+edulcorare|edulcorar (suavizar)||V|cmu|C2
+cautelare|cautelar||V|ist|C2
+riservatezza|reserva (discreción)||S|cmu|C2
+peregrino|peregrino (raro, extraño)||A|let|C2
+sempiterno|sempiterno||A|let|C2
+lagrimare|llorar (derramar lágrimas)||V|let|C2
+aureo|áureo||A|let|C2
+invero|en verdad (por cierto)||D|cnn|C2
+oltreché|además de||C|cnn|C2
+oltremodo|en sumo grado||D|cnn|C2
+vegliardo|anciano venerable||S|let|C2
+menestrello|juglar||S|mus|C2
+donzella|doncella||S|let|C2
+nondimeno|no obstante||C|cnn|C2
+in ultima analisi|en último análisis||L|cnn|C2
+codesto|ese (aquel)||P|cnn|C2
+quantunque|aunque (por más que)||C|cnn|C2
+a bella posta|a propósito (deliberadamente)||L|cnn|C2
+adombrare|insinuar (dejar entrever)||V|let|C2
+paventare|recelar (temer)||V|let|C2
+glissare|esquivar el tema||V|cmu|C2
+attaccamento|apego (vínculo afectivo)||S|emo|C2
+mentalizzazione|mentalización||S|sla|C2
+perseverazione|perseveración (psicopatología)||S|sla|C2
+psicofarmaco|psicofármaco||S|sla|C2
+alleanza terapeutica|alianza terapéutica||L|sla|C2
+parsimonia|parsimonia||S|ast|C2
+temerarietà|temeridad||S|ast|C2
+integerrimo|integérrimo||A|ast|C2
+corruttela|corruptela||S|ist|C2
+dissolutezza|disolución (libertinaje)||S|ast|C2
+pianificazione strategica|planificación estratégica||L|lav|C2
+esternalizzazione|externalización||S|lav|C2
+esternalità|externalidad||S|fin|C2
+fare squadra|trabajar en equipo||E|lav|C2
+delega di poteri|delegación de poderes||L|ist|C2
+incentivazione|incentivación||S|lav|C2
+mobbing|acoso laboral||S|lav|C2
+fidelizzazione|fidelización||S|cmp|C2
+riqualificazione|recualificación||S|lav|C2
+inquadramento|clasificación profesional||S|lav|C2
+andragogia|andragogía||S|stu|C2
+metacognizione|metacognición||S|stu|C2
+motivazione intrinseca|motivación intrínseca||L|stu|C2
+maieutica|mayéutica||S|stu|C2
+affinità elettiva|afinidad electiva||L|rel|C2
+dimestichezza|familiaridad (soltura)||S|rel|C2
+sodalizio|sodalicio (vínculo de colaboración)||S|rel|C2
+astio|rencor||S|rel|C2
+sollecitudine|solicitud (atención solícita)||S|rel|C2
+frecciata|pulla (indirecta)||S|cmu|C2
+scenotecnica|escenotecnia||S|art|C2
+loggione|gallinero (grada popular)||S|art|C2
+versificare|versificar||V|let|C2
+ottava rima|octava real||L|let|C2
+stornello|stornelo (copla popular)||S|mus|C2
+campo-controcampo|plano y contraplano||L|cin|C2
+fuoricampo|fuera de campo||S|cin|C2
+ellissi|elipsis||S|cin|C2
+profondità di campo|profundidad de campo||L|cin|C2
+denatalità|caída de natalidad||S|ast|C2
+fecondità|fecundidad||S|ast|C2
+nuzialità|nupcialidad||S|ast|C2
+famiglia monogenitoriale|familia monoparental||L|fam|C2
+famiglia ricomposta|familia reconstituida||L|fam|C2
+mortalità infantile|mortalidad infantil||L|sla|C2
+bifora|ventana geminada (bifora)||S|art|C2
+merlatura|almenado||S|art|C2
+rosona|rosetón||S|art|C2
+gentrificazione|gentrificación||S|cit|C2
+quartiere dormitorio|ciudad dormitorio||L|cit|C2
+affinamento|crianza (en botella)||S|ris|C2
+vitigno|cepa (variedad de vid)||S|ris|C2
+impiattamento|emplatado||S|ris|C2
+frollatura|maduración (de la carne)||S|ris|C2
+degustazione alla cieca|cata a ciegas||L|ris|C2
+annata|añada||S|ris|C2
+parata nuziale|parada nupcial||L|ani|C2
+predazione|depredación (acción depredadora)||S|ani|C2
+commensalismo|comensalismo||S|ani|C2
+feromone|feromona||S|ani|C2
+olotipo|holotipo||S|sci|C2
+endemismo|endemismo||S|nat|C2
+infiorescenza|inflorescencia||S|nat|C2
+dioico|dioico||A|nat|C2
+talea|esqueje||S|nat|C2
+sclerofillo|esclerófilo||A|nat|C2
+durata|duración (concreta del tiempo vivido)||S|ast|C2
+rimembranza|recuerdo (evocación nostálgica)||S|let|C2
+obliare|olvidar||V|let|C2
+effimero|efímero||A|ast|C2
+criptovaluta|criptomoneda||S|fin|C2
+tokenizzazione|tokenización||S|fin|C2
+collateralizzazione|colateralización||S|fin|C2
+risparmio gestito|ahorro gestionado||L|fin|C2
+rogito|escritura (notarial)||S|ist|C2
+rogare|otorgar (autorizar notarialmente)||V|ist|C2
+voltura|cambio de titularidad registral||S|ist|C2
+nuda proprietà|nuda propiedad||L|ist|C2
+silenzio-assenso|silencio administrativo positivo||L|ist|C2
+provvedimento|providencia (acto administrativo)||S|ist|C2
+espropriazione per pubblica utilità|expropiación por utilidad pública||L|ist|C2
+piano regolatore|plan general urbanístico||L|cit|C2
+recidiva|reincidencia||S|ist|C2
+vittimologia|victimología||S|ist|C2
+dolo|dolo (intención delictiva)||S|ist|C2
+imputabilità|imputabilidad||S|ist|C2
+extradizione|extradición||S|ist|C2
+immunità diplomatica|inmunidad diplomática||L|ist|C2
+arbitrato internazionale|arbitraje internacional||L|ist|C2
+società per azioni|sociedad anónima||L|fin|C2
+assemblea degli azionisti|junta de accionistas||L|fin|C2
+azionista di riferimento|accionista de referencia||L|fin|C2
+procedura concorsuale|procedimiento concursal||L|fin|C2
+contratto collettivo|convenio colectivo||L|lav|C2
+licenziamento per giusta causa|despido por justa causa||L|lav|C2
+precariato|precariedad (laboral)||S|lav|C2
+picchettaggio|piquete (de huelga)||S|lav|C2
+divaricatore|separador (valva quirúrgica)||S|sla|C2
+elettrobisturi|bisturí eléctrico||S|sla|C2
+clampaggio|pinzamiento (clampaje)||S|sla|C2
+sternotomia|esternotomía||S|sla|C2
+fibrillazione atriale|fibrilación auricular||L|sla|C2
+angioplastica|angioplastia||S|sla|C2
+broncodilatatore|broncodilatador||S|sla|C2
+spirometria|espirometría||S|sla|C2
+ipotiroidismo|hipotiroidismo||S|sla|C2
+cortisolo|cortisol||S|sla|C2
+insulinoresistenza|insulinorresistencia||S|sla|C2
+dermatite atopica|dermatitis atópica||L|sla|C2
+psoriasi|psoriasis||S|sla|C2
+desensibilizzazione|desensibilización||S|sla|C2
+cheratina|queratina||S|sla|C2
+cure palliative|cuidados paliativos||L|sla|C2
+cachessia|caquexia||S|sla|C2
+parestesia|parestesia||S|sla|C2
+atassia|ataxia||S|sla|C2
+emiparesi|hemiparesia||S|sla|C2
+parto pretermine|parto prematuro||L|sla|C2
+neonatologia|neonatología||S|sla|C2
+puerperio|puerperio||S|sla|C2
+lussazione|luxación||S|sla|C2
+chinesiterapia|cinesiterapia||S|sla|C2
+deambulazione|deambulación||S|sla|C2
+ortesi|ortesis||S|sla|C2
+biopsia|biopsia||S|sla|C2
+necrosi|necrosis||S|sla|C2
+metastasi|metástasis||S|sla|C2
+carcinoma|carcinoma||S|sla|C2
+istologia|histología||S|sla|C2
+abuso d'ufficio|abuso de cargo||L|ist|C2
+giurisprudenza|jurisprudencia||S|ist|C2
+difensore d'ufficio|defensor de oficio||L|ist|C2
+iatrogeno|iatrogénico||A|sla|C2
+nosocomiale|nosocomial (intrahospitalario)||A|sla|C2
+bando di concorso|convocatoria (oposición o beca)||L|stu|C2
+assegno di ricerca|ayuda posdoctoral||L|stu|C2
+antiquariato|anticuario (comercio de antigüedades)||S|cmp|C2
+certificato di autenticità|certificado de autenticidad||L|art|C2
+ossequio|deferencia||S|rel|C2
+burbero|huraño||A|rel|C2
+accondiscendente|complaciente||A|rel|C2
+acido lattico|ácido láctico||L|spt|C2
+soglia anaerobica|umbral anaeróbico||L|spt|C2
+cardiofrequenzimetro|pulsómetro||S|spt|C2
+mantello|manto (capa del caballo)||S|ani|C2
+cucciolata|camada (de cachorros)||S|ani|C2
+bomba meteorologica|bomba meteorológica||L|nat|C2
+tromba d'aria|manga de agua (tornado)||L|nat|C2
+a maggior ragione|con mayor razón||L|cnn|C2
+per l'appunto|justamente (precisamente)||L|cnn|C2
+per così dire|por así decirlo||L|cnn|C2
+arredo urbano|mobiliario urbano||L|cit|C2
+cordata|cordada (de alpinistas)||S|spt|C2
+speleologia|espeleología||S|spt|C2
+iconologia|iconología||S|art|C2
+araldica|heráldica||S|art|C2
+blasone|blasón||S|art|C2
+oreficeria|orfebrería||S|art|C2
+xilografia|xilografía||S|art|C2
+cesello|cincelado fino||S|art|C2
+fotoreporter|fotoperiodista||S|pro|C2
+otturatore|obturador||S|tec|C2
+capitello|capitel||S|art|C2
+architrave|arquitrabe||S|art|C2
+matroneo|matroneo (tribuna)||S|art|C2
+bugnato|almohadillado||S|art|C2
+saltarello|saltarello (danza popular)||S|mus|C2
+divismo|divismo (culto a las estrellas)||S|cin|C2
+imprenditorialità|capacidad emprendedora||S|lav|C2
+capitale di rischio|capital riesgo||L|fin|C2
+catena di fornitura|cadena de suministro||L|lav|C2
+appalto|adjudicación de obra||S|lav|C2
+subappalto|subcontrata||S|lav|C2
+posizionamento|posicionamiento (de marca)||S|cmp|C2
+non conformità|no conformidad||S|pro|C2
+tracciabilità|trazabilidad||S|pro|C2
+spedizione polare|expedición polar||L|vig|C2
+bivacco|vivac (refugio de alta montaña)||S|spt|C2
+crepaccio|grieta (de glaciar)||S|nat|C2
+brughiera|brezal (páramo)||S|nat|C2
+batimetria|batimetría||S|nat|C2
+termoclina|termoclina||S|nat|C2
+valutazione d'impatto ambientale|evaluación de impacto ambiental||L|nat|C2
+difesa del suolo|protección del territorio||L|nat|C2
+anomalia termica|anomalía térmica||L|nat|C2
+circolazione atmosferica|circulación atmosférica||L|nat|C2
+pozzo di carbonio|sumidero de carbono||L|nat|C2
+acidificazione degli oceani|acidificación de los océanos||L|nat|C2

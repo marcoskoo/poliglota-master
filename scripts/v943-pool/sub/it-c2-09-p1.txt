@@ -1,0 +1,276 @@
+clausola risolutiva|cláusula resolutoria||L|ist|C2
+perenzione|caducidad de la instancia||S|ist|C2
+usucapione|usucapión||S|ist|C2
+servitù prediale|servidumbre predial||L|ist|C2
+comodato|comodato (préstamo de uso)||S|ist|C2
+danno emergente|daño emergente||L|ist|C2
+lucro cessante|lucro cesante||L|ist|C2
+imputabile|imputable (capaz penalmente)||A|ist|C2
+circostanze attenuanti|circunstancias atenuantes||L|ist|C2
+custodia cautelare|prisión preventiva||L|ist|C2
+nullità|nulidad||S|ist|C2
+alienazione|enajenación (cesión de bienes)||S|ist|C2
+usufrutto|usufructo||S|ist|C2
+erede legittimario|heredero forzoso||L|ist|C2
+testamento olografo|testamento ológrafo||L|ist|C2
+querela|querella (denuncia penal)||S|ist|C2
+udienza preliminare|audiencia preliminar||L|ist|C2
+giudice monocratico|juez unipersonal||L|ist|C2
+parte civile|parte civil (acusación particular)||L|ist|C2
+flagranza|flagrancia||S|ist|C2
+ricorso in cassazione|recurso de casación||L|ist|C2
+mandato di cattura|orden de detención||L|ist|C2
+liberazione condizionale|libertad condicional||L|ist|C2
+patrocinio|patrocinio (defensa letrada)||S|ist|C2
+proscioglimento|sobreseimiento||S|ist|C2
+escussione|examen (declaración procesal)||S|ist|C2
+parte lesa|parte perjudicada||L|ist|C2
+sequestro preventivo|embargo preventivo||L|ist|C2
+requisitoria|alegato del fiscal (petición de pena)||S|ist|C2
+istruttoria|instrucción (fase procesal)||S|ist|C2
+arringa|discurso de alegaciones||S|ist|C2
+contraddittorio|contradictorio (principio procesal)||S|ist|C2
+revisione costituzionale|reforma constitucional||L|ist|C2
+scioglimento delle camere|disolución de las cámaras||L|ist|C2
+questione di fiducia|cuestión de confianza||L|ist|C2
+potestà|potestad||S|ist|C2
+cartella clinica|historia clínica||L|sla|C2
+laparoscopia|laparoscopia||S|sla|C2
+anamnesi|anamnesis (historia del paciente)||S|sla|C2
+prognosi|pronóstico||S|sla|C2
+degente|paciente ingresado||S|sla|C2
+dimissione|alta hospitalaria||S|sla|C2
+referto|informe médico||S|sla|C2
+auscultazione|auscultación||S|sla|C2
+palpazione|palpación||S|sla|C2
+laparotomia|laparotomía||S|sla|C2
+resezione|resección quirúrgica||S|sla|C2
+sutura|sutura||S|sla|C2
+sala operatoria|quirófano||L|sla|C2
+medicazione|cura y vendaje de heridas||S|sla|C2
+degenza|ingreso (estancia hospitalaria)||S|sla|C2
+diagnosi differenziale|diagnóstico diferencial||L|sla|C2
+sperimentazione clinica|ensayo clínico||L|sla|C2
+farmacovigilanza|farmacovigilancia||S|sla|C2
+principio attivo|principio activo||L|sla|C2
+posologia|posología||S|sla|C2
+controindicazione|contraindicación||S|sla|C2
+eccipiente|excipiente||S|sla|C2
+bioequivalenza|bioequivalencia||S|sla|C2
+tossicità|toxicidad||S|sla|C2
+evento avverso|efecto adverso||L|sla|C2
+braccio|brazo (grupo de un ensayo)||S|sla|C2
+randomizzazione|aleatorización||S|sla|C2
+dosaggio|dosificación||S|sla|C2
+comorbilità|comorbilidad||S|sla|C2
+distimia|distimia||S|sla|C2
+eutimia|eutimia||S|sla|C2
+catatonia|catatonía||S|sla|C2
+dissociazione|disociación||S|sla|C2
+ipocondria|hipocondría||S|sla|C2
+psicopatologia|psicopatología||S|sla|C2
+consenso informato|consentimiento informado||L|sla|C2
+accanimento terapeutico|encarnizamiento terapéutico||L|sla|C2
+testamento biologico|testamento vital||L|sla|C2
+clonazione terapeutica|clonación terapéutica||L|sla|C2
+prelievo di organi|extracción de órganos||L|sla|C2
+comitato etico|comité de ética||L|sla|C2
+obiezione di coscienza|objeción de conciencia||L|sla|C2
+politica monetaria|política monetaria||L|fin|C2
+tasso di sconto|tipo de descuento||L|fin|C2
+riserve obbligatorie|coeficiente de reservas obligatorias||L|fin|C2
+inflazione sottostante|inflación subyacente||L|fin|C2
+spirale prezzi-salari|espiral precios-salarios||L|fin|C2
+stagflazione|estanflación||S|fin|C2
+keynesiano|keynesiano||A|fin|C2
+monetarista|monetarista||A|fin|C2
+signoraggio|señoreaje (derecho de emisión)||S|fin|C2
+dazio doganale|arancel aduanero||L|fin|C2
+barriera non tariffaria|barrera no arancelaria||L|fin|C2
+dumping|dumping (venta bajo coste)||S|fin|C2
+bilancia dei pagamenti|balanza de pagos||L|fin|C2
+contingentamento|contingente (cuota de importación)||S|fin|C2
+lettera di credito|carta de crédito||L|fin|C2
+porto franco|puerto franco||L|fin|C2
+liberalizzazione degli scambi|liberalización del comercio||L|fin|C2
+bilancio di esercizio|cuentas anuales||L|fin|C2
+revisione contabile|auditoría de cuentas||L|fin|C2
+patrimonio netto|patrimonio neto||L|fin|C2
+utile per azione|beneficio por acción||L|fin|C2
+ammortamento|amortización||S|fin|C2
+accantonamento|dotación a fondos de reserva||S|fin|C2
+nota integrativa|memoria de las cuentas anuales||L|fin|C2
+flusso di cassa|flujo de caja||L|fin|C2
+capitalizzazione|capitalización bursátil||S|fin|C2
+consolidamento|consolidación de estados financieros||S|fin|C2
+credito d'imposta|crédito fiscal||L|fin|C2
+strumento derivato|instrumento derivado||L|fin|C2
+copertura|cobertura (protección de riesgo)||S|fin|C2
+volatilità|volatilidad||S|fin|C2
+titolo di Stato|bono del Estado||L|fin|C2
+azzardo morale|riesgo moral||L|fin|C2
+avversione al rischio|aversión al riesgo||L|fin|C2
+rialzista|alcista||A|fin|C2
+ribassista|bajista||A|fin|C2
+vendita allo scoperto|venta en corto||L|fin|C2
+oligopolio|oligopolio||S|fin|C2
+monopsonio|monopsonio||S|fin|C2
+elasticità della domanda|elasticidad de la demanda||L|fin|C2
+costo marginale|coste marginal||L|fin|C2
+rendimenti decrescenti|rendimientos decrecientes||L|fin|C2
+franchigia|franquicia (deducible)||S|fin|C2
+massimale|suma máxima asegurada||S|fin|C2
+riassicurazione|reaseguro||S|fin|C2
+premio assicurativo|prima de seguro||L|fin|C2
+infortunio sul lavoro|accidente de trabajo||L|lav|C2
+condizionalità|condicionalidad||S|fin|C2
+decollo|despegue económico||S|fin|C2
+aggiustamento strutturale|ajuste estructural||L|fin|C2
+rimesse dei migranti|remesas de los migrantes||L|fin|C2
+microcredito|microcrédito||S|fin|C2
+evasione fiscale|evasión fiscal||L|fin|C2
+elusione fiscale|elusión fiscal||L|fin|C2
+accertamento|comprobación tributaria||S|fin|C2
+aliquota|tipo impositivo||S|fin|C2
+imposta di bollo|impuesto de timbre||L|fin|C2
+ravvedimento operoso|rectificación voluntaria||L|fin|C2
+ritenuta d'acconto|retención a cuenta||L|fin|C2
+morosità|morosidad (impagos)||S|fin|C2
+sofferenza|crédito incobrable (cartera dudosa)||S|fin|C2
+pignoramento|embargo de bienes||S|ist|C2
+fido|crédito concedido (límite de riesgo)||S|fin|C2
+cartolarizzazione|titulización||S|fin|C2
+patrimonio di vigilanza|requisitos de capital (supervisión bancaria)||L|fin|C2
+valutazione d'azienda|valoración de empresas||L|fin|C2
+multiplo di mercato|múltiplo de mercado||L|fin|C2
+capitale circolante|capital circulante (fondo de maniobra)||L|fin|C2
+fusione societaria|fusión societaria||L|fin|C2
+scissione|escisión (de sociedad)||S|fin|C2
+leva finanziaria|apalancamiento||L|fin|C2
+deviazione standard|desviación típica||L|sci|C2
+regressione|regresión||S|sci|C2
+campionamento|muestreo||S|sci|C2
+variabile confondente|variable de confusión||L|sci|C2
+significatività|significación estadística||S|sci|C2
+correlazione spuria|correlación espuria||L|sci|C2
+campione rappresentativo|muestra representativa||L|sci|C2
+intervallo di confidenza|intervalo de confianza||L|sci|C2
+ipotesi nulla|hipótesis nula||L|sci|C2
+gruppo di controllo|grupo de control||L|sci|C2
+tasso di mortalità|tasa de mortalidad||L|sla|C2
+catena di trasmissione|cadena de transmisión||L|sla|C2
+sorveglianza epidemiologica|vigilancia epidemiológica||L|sla|C2
+vettore|vector (transmisor de enfermedades)||S|sci|C2
+endemia|endemia||S|sla|C2
+copertura vaccinale|cobertura vacunal||L|sla|C2
+incidenza|incidencia (de una enfermedad)||S|sla|C2
+prevalenza|prevalencia||S|sla|C2
+isolamento fiduciario|aislamiento en domicilio||L|sla|C2
+profilassi|profilaxis||S|sla|C2
+zoonosi|zoonosis||S|sla|C2
+salubrità|salubridad||S|sla|C2
+dispensario|dispensario (centro de salud)||S|sla|C2
+faglia|falla geológica||S|nat|C2
+camera magmatica|cámara magmática||L|nat|C2
+piroclasto|piroclasto||S|nat|C2
+sedimentazione|sedimentación||S|nat|C2
+placca tettonica|placa tectónica||L|nat|C2
+carsismo|karst (proceso kárstico)||S|nat|C2
+stratigrafia|estratigrafía||S|nat|C2
+subsidenza|subsidencia (hundimiento del terreno)||S|nat|C2
+congettura|conjetura||S|sci|C2
+assiomatizzazione|axiomatización||S|sci|C2
+calcolo integrale|cálculo integral||L|sci|C2
+matrice|matriz||S|sci|C2
+spazio vettoriale|espacio vectorial||L|sci|C2
+infinitesimo|infinitésimo||S|sci|C2
+topologia|topología||S|sci|C2
+sillogismo|silogismo||S|sci|C2
+tautologia|tautología||S|sci|C2
+antinomia|antinomia||S|sci|C2
+allele|alelo||S|sci|C2
+meiosi|meiosis||S|sci|C2
+mitosi|mitosis||S|sci|C2
+apoptosi|apoptosis||S|sci|C2
+polimorfismo|polimorfismo||S|sci|C2
+codone|codón||S|sci|C2
+epigenetica|epigenética||S|sci|C2
+omozigote|homocigoto||S|sci|C2
+eterozigote|heterocigoto||S|sci|C2
+diploide|diploide||A|sci|C2
+anticorpi monoclonali|anticuerpos monoclonales||L|sci|C2
+sierologia|serología||S|sla|C2
+micobatterio|micobacterio (bacilo tuberculoso)||S|sci|C2
+ceppo|cepa (de microorganismo)||S|sci|C2
+anaerobio|anaerobio||A|sci|C2
+stafilococco|estafilococo||S|sci|C2
+coltura cellulare|cultivo celular||L|sci|C2
+sinapsi|sinapsis||S|sci|C2
+neuroni specchio|neuronas espejo||L|sci|C2
+corteccia|corteza (cerebral)||S|sci|C2
+assone|axón||S|sci|C2
+mielina|mielina||S|sci|C2
+plasticità neuronale|plasticidad neuronal||L|sci|C2
+neurotrasmettitore|neurotransmisor||S|sci|C2
+cognizione|cognición||S|sci|C2
+lateralizzazione|lateralización (cerebral)||S|sci|C2
+isomero|isómero||S|sci|C2
+legame covalente|enlace covalente||L|sci|C2
+catalizzatore|catalizador||S|sci|C2
+stechiometria|estequiometría||S|sci|C2
+idrocarburo|hidrocarburo||S|sci|C2
+precipitato|precipitado||S|sci|C2
+titolazione|valoración (titulación de laboratorio)||S|sci|C2
+fotone|fotón||S|sci|C2
+quantistico|cuántico||A|sci|C2
+meccanica quantistica|mecánica cuántica||L|sci|C2
+bosone|bosón||S|sci|C2
+fermione|fermión||S|sci|C2
+acceleratore di particelle|acelerador de partículas||L|sci|C2
+antimateria|antimateria||S|sci|C2
+gravitone|gravitón||S|sci|C2
+decadimento radioattivo|desintegración radiactiva||L|sci|C2
+fissione|fisión||S|sci|C2
+nana bianca|enana blanca||L|sci|C2
+spostamento verso il rosso|corrimiento al rojo||L|sci|C2
+singularità|singularidad (espacio-temporal)||S|sci|C2
+radiazione cosmica di fondo|radiación cósmica de fondo||L|sci|C2
+astrofisica|astrofísica||S|sci|C2
+stella di neutroni|estrella de neutrones||L|sci|C2
+esopianeta|exoplaneta||S|sci|C2
+ingegneria genetica|ingeniería genética||L|sci|C2
+ricombinazione|recombinación (genética)||S|sci|C2
+plasmide|plásmido||S|sci|C2
+coltura in vitro|cultivo in vitro||L|sci|C2
+ibridoma|hibridoma||S|sci|C2
+enzima di restrizione|enzima de restricción||L|sci|C2
+mutagenesi|mutagénesis||S|sci|C2
+conduttività|conductividad||S|sci|C2
+reticolo cristallino|red cristalina||L|sci|C2
+dislocazione|dislocación (defecto de red)||S|sci|C2
+tempra|temple (del metal)||S|sci|C2
+semiconduttore|semiconductor||S|tec|C2
+superconduttività|superconductividad||S|sci|C2
+cromatografia|cromatografía||S|sci|C2
+spettrofotometria|espectrofotometría||S|sci|C2
+vetreria di laboratorio|cristalería de laboratorio||L|sci|C2
+taratura|calibración||S|sci|C2
+entropia|entropía||S|sci|C2
+entalpia|entalpía||S|sci|C2
+convezione|convección||S|sci|C2
+irreversibilità|irreversibilidad||S|sci|C2
+cavitazione|cavitación||S|tec|C2
+adiabatico|adiabático||A|sci|C2
+arricchimento dell'uranio|enriquecimiento de uranio||L|tec|C2
+scorie radioattive|residuos radiactivos||L|tec|C2
+smantellamento|desmantelamiento (de una central)||S|tec|C2
+dosimetro|dosímetro||S|tec|C2
+fossile guida|fósil guía||L|sci|C2
+estinzione di massa|extinción masiva||L|sci|C2
+speciazione|especiación||S|sci|C2
+deriva genetica|deriva genética||L|sci|C2
+filogenesi|filogénesis||S|sci|C2
+particolato|material particulado||S|nat|C2
+inversione termica|inversión térmica||L|nat|C2
+corrente a getto|corriente en chorro||L|nat|C2
+desertificazione|desertificación||S|nat|C2

@@ -1,0 +1,308 @@
+printing press|prensa de imprenta||S|tec|C1
+typesetting|composición tipográfica||S|art|C1
+font|fuente tipográfica||S|art|C1
+serif|serifa||S|art|C1
+sans-serif|sin serifa||A|art|C1
+kerning|espaciado entre letras||S|art|C1
+leading|interlineado||S|art|C1
+typography|tipografía||S|art|C1
+colophon|colofón||S|let|C1
+copyediting|edición de textos||S|lav|C1
+galley proof|galerada||S|let|C1
+dust jacket|sobrecubierta||S|let|C1
+front matter|páginas preliminares||S|let|C1
+typesetter|cajista||S|pro|C1
+print run|tirada||S|let|C1
+out of print|descatalogado||E|let|C1
+remainder|saldo de librería||S|let|C1
+advance|anticipo de derechos de autor||S|fin|C1
+royalties|derechos de autor||S|fin|C1
+imprint|sello editorial||S|let|C1
+bleed margin|margen de sangrado||S|art|C1
+four-color printing|impresión a cuatro tintas||S|art|C1
+offset lithography|litografía offset||S|art|C1
+letterpress|impresión en relieve||S|art|C1
+binding|encuadernación||S|art|C1
+broadcasting|emisión radiofónica||S|cmu|C1
+shock jock|locutor provocador||S|pro|C1
+audio engineer|ingeniero de sonido||S|pro|C1
+mixing console|mesa de mezclas||S|mus|C1
+audio branding|identidad sonora de marca||S|cmu|C1
+audio description|audiodescripción||S|cmu|C1
+dead air|silencio en antena||S|cmu|C1
+sweeps week|semana de medición de audiencias||S|cmu|C1
+syndication|sindicación de contenidos||S|cmu|C1
+call-in show|programa con llamadas de oyentes||S|cmu|C1
+soundcheck|prueba de sonido||S|mus|C1
+talking point|mensaje clave||S|cmu|C1
+guest host|presentador sustituto||S|pro|C1
+podcaster|creador de pódcast||S|pro|C1
+dynamic range|rango dinámico||S|mus|C1
+remote broadcast|conexión en directo||S|cmu|C1
+drive-time radio|radio de máxima audiencia||S|cmu|C1
+abridged edition|edición abreviada||S|let|C1
+narration|narración en off||S|cmu|C1
+station manager|director de la emisora||S|pro|C1
+haute couture|alta costura||L|rop|C1
+seamstress|modista||S|pro|C1
+tailoring|sastrería||S|rop|C1
+hem|dobladillo||S|rop|C1
+seam|costura||S|rop|C1
+bust dart|pinza de pecho||S|rop|C1
+cut on the bias|cortar al bies||E|rop|C1
+patternmaking|patronaje||S|rop|C1
+draping|modelado sobre maniquí||S|rop|C1
+muslin|muselina||S|rop|C1
+herringbone|espiga (tejido)||S|rop|C1
+woven fabric|tejido plano||S|rop|C1
+knitwear|género de punto||S|rop|C1
+cross-stitch|punto de cruz||S|rop|C1
+fashion show|desfile de moda||S|art|C1
+catwalk|pasarela||S|art|C1
+hemline|largo del bajo||S|rop|C1
+ready-to-wear|moda lista para llevar||S|rop|C1
+throwaway fashion|moda de usar y tirar||S|rop|C1
+stylist|estilista||S|pro|C1
+atelier|taller de alta costura||S|rop|C1
+selvage|orillo||S|rop|C1
+tweed|tela de tweed||S|rop|C1
+seam ripper|descosedor||S|rop|C1
+serger|remalladora||S|rop|C1
+watchmaking|relojería||S|tec|C1
+watchmaker|relojero||S|pro|C1
+timepiece|pieza de relojería||S|tec|C1
+escapement|escape (mecanismo del reloj)||S|tec|C1
+mainspring|muelle real||S|tec|C1
+hairspring|espiral||S|tec|C1
+balance wheel|volante||S|tec|C1
+bezel|bisel||S|tec|C1
+winding stem|eje de cuerda||S|tec|C1
+quartz movement|movimiento de cuarzo||S|tec|C1
+chronometer|cronómetro||S|tec|C1
+chronograph|cronógrafo||S|tec|C1
+traceable standard|patrón trazable||S|sci|C1
+micrometer|micrómetro||S|tec|C1
+vernier caliper|calibre de vernier||S|tec|C1
+gauge block|bloque patrón||S|tec|C1
+manufacturing tolerance|tolerancia de fabricación||S|tec|C1
+atomic clock|reloj atómico||S|sci|C1
+metrology|metrología||S|sci|C1
+antimagnetic|antimagnético||A|tec|C1
+measurement uncertainty|incertidumbre de medida||S|sci|C1
+heraldic charge|figura heráldica||S|ist|C1
+crest|cimera||S|ist|C1
+emblazon|decorar con blasón||V|art|C1
+armiger|titular de armas||S|ist|C1
+blazonry|arte de blasonar||S|art|C1
+escutcheon|escudo de armas||S|ist|C1
+motto|lema||S|let|C1
+descent line|línea de descendencia||S|ist|C1
+bloodline|linaje animal||S|ist|C1
+matriarchal|matriarcal||A|ist|C1
+scion|vástago (descendiente)||S|ist|C1
+quartering|cuartelado||S|ist|C1
+vexillology|vexilología||S|ist|C1
+gonfalon|gonfalón||S|ist|C1
+pennon|pendón||S|ist|C1
+gentry|baja nobleza||S|ist|C1
+peerage|nobleza titulada||S|ist|C1
+primogeniture|primogenitura||S|ist|C1
+armorial|blasonario||S|ist|C1
+cadet branch|rama menor de una dinastía||S|ist|C1
+intestate succession|sucesión intestada||S|ist|C1
+folk wisdom|sabiduría popular||S|let|C1
+mythology|mitología||S|let|C1
+trickster|pícaro sobrenatural||S|let|C1
+underworld|inframundo||S|let|C1
+pantheon|panteón||S|let|C1
+deity|deidad||S|let|C1
+demigod|semidiós||S|let|C1
+seer|vidente||S|let|C1
+prophecy|profecía||S|let|C1
+omen|presagio||S|let|C1
+talisman|talismán||S|let|C1
+amulet|amuleto||S|let|C1
+ritual|ritual||S|ist|C1
+medicine man|chamán tribal||S|ist|C1
+mana|maná||S|let|C1
+folktale|cuento popular||S|let|C1
+mytheme|mitema||S|let|C1
+creation myth|mito fundacional||S|let|C1
+lore|saber tradicional||S|let|C1
+otherworld|el otro mundo||S|let|C1
+hero's journey|viaje del héroe||S|let|C1
+rite of passage|rito de paso||L|ist|C1
+anthropomorphic|antropomórfico||A|let|C1
+theology|teología||S|ast|C1
+theologian|teólogo||S|pro|C1
+liturgy|liturgia||S|ist|C1
+liturgical|litúrgico||A|ist|C1
+pilgrimage|peregrinación||S|ist|C1
+pilgrim|peregrino||S|ist|C1
+monastery|monasterio||S|ist|C1
+monastic|monástico||A|ist|C1
+abbey|abadía||S|ist|C1
+denomination|confesión religiosa||S|ist|C1
+ecumenical|ecuménico||A|ist|C1
+ecumenism|ecumenismo||S|ist|C1
+secularism|laicismo||S|ist|C1
+disestablishment|separación entre iglesia y estado||S|ist|C1
+blasphemy|blasfemia||S|ist|C1
+heresy|herejía||S|ist|C1
+schism|cisma||S|ist|C1
+creed|credo||S|ist|C1
+catechism|catecismo||S|ist|C1
+clergy|clero||S|ist|C1
+ordination|ordenación sacerdotal||S|ist|C1
+missionary work|labor misionera||S|ist|C1
+fasting|ayuno||S|ist|C1
+mysticism|misticismo||S|ast|C1
+perfumery|perfumería||S|sve|C1
+perfumer|perfumista||S|pro|C1
+top note|nota de salida||S|sve|C1
+base note|nota de fondo||S|sve|C1
+sillage|estela del perfume||S|sve|C1
+accord|acorde olfativo||S|sve|C1
+essential oil|aceite esencial||S|sve|C1
+maceration|maceración||S|sve|C1
+olfactory|olfativo||A|cor|C1
+musk|almizcle||S|sve|C1
+ambergris|ámbar gris||S|sve|C1
+cosmetics|cosmética||S|cmp|C1
+skincare|cuidado de la piel||S|cmp|C1
+concealer|corrector||S|cmp|C1
+highlighter|iluminador||S|cmp|C1
+palette|paleta de maquillaje||S|cmp|C1
+shelf life|vida útil||S|cmp|C1
+hypoallergenic|hipoalergénico||A|cmp|C1
+paraben|parabeno||S|sci|C1
+fragrance family|familia olfativa||S|sve|C1
+fretwork|trabajo de calado||S|art|C1
+cabinetmaker|ebanista||S|pro|C1
+lap joint|unión a media madera||S|art|C1
+tongue and groove|unión de ranura y lengüeta||L|art|C1
+mortise and tenon|caja y espiga||L|art|C1
+wood grain|vetas de la madera||S|art|C1
+sanding|lijado||S|art|C1
+wood stain|tinte para madera||S|art|C1
+lacquer|laca||S|art|C1
+laminated board|tablero laminado||S|art|C1
+intarsia|taraceado||S|art|C1
+parquetry|marquetería geométrica||S|art|C1
+lathe|torno||S|art|C1
+woodturning|torneado de madera||S|art|C1
+gouge|gubia||S|art|C1
+chisel|formón||S|art|C1
+hand plane|cepillo de ebanista||S|art|C1
+furniture restoration|restauración de muebles||S|art|C1
+distressing|acabado envejecido||S|art|C1
+reupholster|retapizar||V|art|C1
+tufting|capitoné||S|cas|C1
+shellac|goma laca||S|art|C1
+bandsaw|sierra de cinta||S|art|C1
+horticulture|horticultura||S|nat|C1
+landscaping|paisajismo||S|nat|C1
+topiary|arte topiario||S|nat|C1
+hydrozoning|hidrozonación||S|nat|C1
+pruning|poda||S|nat|C1
+grafting|injerto||S|nat|C1
+trellis|espaldera||S|nat|C1
+arborist|arborista||S|pro|C1
+plant nursery|vivero||S|nat|C1
+perennial|vivaz||S|nat|C1
+green manure|abono verde||S|nat|C1
+soil compaction|compactación del suelo||S|nat|C1
+silty clay|arcilla limosa||S|nat|C1
+root ball|cepellón||S|nat|C1
+deadheading|eliminación de flores marchitas||S|nat|C1
+transplant shock|estrés del trasplante||S|nat|C1
+hardiness zone|zona de rusticidad||S|nat|C1
+sod|tepe||S|nat|C1
+furrow irrigation|riego por surcos||S|nat|C1
+arboretum|arboreto||S|nat|C1
+compost bin|compostador||S|cas|C1
+rain garden|jardín de lluvia||S|nat|C1
+latte art|arte del café con leche||S|ali|C1
+single origin|de origen único||A|ali|C1
+roast profile|perfil de tueste||S|ali|C1
+green coffee|café verde||S|ali|C1
+cupping|cata de café||S|ali|C1
+pour-over|café de filtro manual||S|ali|C1
+grinding|molienda||S|ali|C1
+loose-leaf tea|té en hojas sueltas||S|ali|C1
+steeping time|tiempo de infusión||S|ali|C1
+oolong|té oolong||S|ali|C1
+matcha|té verde en polvo||S|ali|C1
+saffron|azafrán||S|ali|C1
+cardamom|cardamomo||S|ali|C1
+turmeric|cúrcuma||S|ali|C1
+clove|clavo de olor||S|ali|C1
+espresso crema|crema del espresso||S|ali|C1
+cup profile|perfil de taza||S|ali|C1
+astringency|astringencia||S|ali|C1
+microclimate|microclima||S|nat|C1
+roaster|tostador||S|pro|C1
+social contagion|contagio social||S|ist|C1
+conformity|conformismo||S|emo|C1
+social loafing|pereza social||S|ist|C1
+bystander effect|efecto del espectador||S|ist|C1
+in-group|endogrupo||S|ist|C1
+out-group|exogrupo||S|ist|C1
+attribution theory|teoría de la atribución||S|sci|C1
+cognitive dissonance|disonancia cognitiva||S|sci|C1
+self-concept|autoconcepto||S|emo|C1
+self-serving bias|sesgo autocomplaciente||S|sci|C1
+normative influence|influencia normativa||S|ist|C1
+deindividuation|desindividuación||S|ist|C1
+obedience to authority|obediencia a la autoridad||S|ist|C1
+persuasion|persuasión||S|cmu|C1
+halo effect|efecto halo||S|sci|C1
+risky shift|desplazamiento hacia el riesgo||S|ist|C1
+social facilitation|facilitación social||S|ist|C1
+group polarization|polarización grupal||S|ist|C1
+foot-in-the-door|técnica del pie en la puerta||L|cmu|C1
+door-in-the-face|técnica de la puerta en la cara||L|cmu|C1
+psycholinguistics|psicolingüística||S|sci|C1
+innateness hypothesis|hipótesis innatista||S|sci|C1
+second language acquisition|adquisición de segundas lenguas||S|stu|C1
+sensitive period|período sensible||S|stu|C1
+cross-linguistic influence|influencia interlingüística||S|stu|C1
+language attrition|attrición lingüística||S|stu|C1
+stabilization|estabilización (de la interlengua)||S|stu|C1
+interlanguage|interlengua||S|stu|C1
+immersion program|programa de inmersión||S|stu|C1
+bilingualism|bilingüismo||S|stu|C1
+multilingualism|multilingüismo||S|stu|C1
+phonological awareness|conciencia fonológica||S|stu|C1
+semantic drift|deriva semántica||S|let|C1
+relevance theory|teoría de la relevancia||S|sci|C1
+disfluency|disfluencia||S|stu|C1
+cloze test|prueba de huecos||S|stu|C1
+comprehensible input|input comprensible||S|stu|C1
+silent period|período silencioso||S|stu|C1
+affective filter|filtro afectivo||S|stu|C1
+decodable text|texto decodificable||S|stu|C1
+sight word|palabra global||S|stu|C1
+library science|biblioteconomía||S|stu|C1
+archival science|archivística||S|stu|C1
+cataloging|catalogación||S|stu|C1
+special collections|fondos especiales||S|stu|C1
+circulation desk|mostrador de préstamo||S|stu|C1
+interlibrary loan|préstamo interbibliotecario||S|stu|C1
+bibliographic record|registro bibliográfico||S|stu|C1
+controlled vocabulary|vocabulario controlado||S|stu|C1
+thesaurus|tesauro||S|stu|C1
+subject heading|encabezamiento de materia||S|stu|C1
+periodicals|publicaciones periódicas||S|stu|C1
+microfilm|microfilme||S|stu|C1
+digitization|digitalización||S|tec|C1
+subscription model|modelo de suscripción||S|fin|C1
+compendium|compendio||S|let|C1
+collected poems|poemas reunidos||S|let|C1
+foreword|prólogo||S|let|C1
+bookplate|exlibris||S|let|C1
+rare book room|sala de fondos antiguos||S|stu|C1
+library stacks|depósito de la biblioteca||S|stu|C1
+finding aid|instrumento de descripción documental||S|stu|C1
+citation style|estilo de citación||S|stu|C1
+archivist|archivero||S|pro|C1

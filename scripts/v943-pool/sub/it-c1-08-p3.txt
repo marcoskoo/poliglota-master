@@ -1,0 +1,292 @@
+sussidio di disoccupazione|subsidio por desempleo||S|att|C1
+assegno sociale|pensión no contributiva||S|att|C1
+erogazione|pago (disposición de una prestación)||S|att|C1
+contributivo|contributivo (cotización)||A|att|C1
+prestazione sanitaria|prestación sanitaria||S|att|C1
+spesa pensionistica|gasto pensionístico||S|att|C1
+invecchiamento della popolazione|envejecimiento de la población||S|att|C1
+rete di sicurezza|red de seguridad (colchón social)||S|att|C1
+povertà educativa|pobreza educativa||S|att|C1
+esclusione sociale|exclusión social||S|att|C1
+nucleo familiare|núcleo familiar||S|att|C1
+politiche attive del lavoro|políticas activas de empleo||S|att|C1
+reddito di cittadinanza|renta de ciudadanía||S|att|C1
+sussidio di malattia|subsidio por enfermedad||S|att|C1
+previdenza complementare|previsión complementaria||S|att|C1
+assistenza domiciliare|asistencia domiciliaria||S|att|C1
+mobilitazione|mobilización||S|att|C1
+sciopero della fame|huelga de hambre||S|att|C1
+picchetto|piquete (de huelga)||S|att|C1
+presidio|acampada (concentración protestataria)||S|att|C1
+sindacalista|sindicalista||S|att|C1
+attivismo|activismo||S|att|C1
+contestazione|contestación (revuelta del sesenta y ocho)||S|att|C1
+rivendicazione|reivindicación||S|att|C1
+catena umana|cadena humana||S|att|C1
+corteo|manifestación (desfile protestatario)||S|att|C1
+striscione|pancarta||S|att|C1
+volantinaggio|reparto de octavillas||S|att|C1
+autogestione|autogestión||S|att|C1
+boicottaggio|boicot||S|att|C1
+disobbedienza civile|desobediencia civil||S|att|C1
+sollevazione|sublevación (alzamiento)||S|att|C1
+serrata|cierre patronal||S|att|C1
+insurrezione|insurrección||S|att|C1
+corruzione|corrupción||S|att|C1
+mazzetta|mordida (soborno)||S|att|C1
+bustarella|soborno (propina ilícita)||S|att|C1
+concussione|concusión (extorsión del funcionario)||S|att|C1
+peculato|peculado||S|att|C1
+abuso di ufficio|abuso de funciones||S|att|C1
+conflitto di interessi|conflicto de intereses||S|att|C1
+trasparenza|transparencia||S|att|C1
+rendicontazione|rendición de cuentas||S|att|C1
+revisione dei conti|fiscalización de cuentas||S|att|C1
+spesa pubblica|gasto público||S|att|C1
+finanziamento illecito|financiación ilícita||S|att|C1
+riciclaggio|blanqueo (reciclaje de capitales)||S|att|C1
+interdizione dai pubblici uffici|inhabilitación para cargos públicos||S|att|C1
+fuga di notizie|fuga de información (filtración)||S|att|C1
+delazione|delación (denuncia)||S|att|C1
+opacità|opacidad (falta de transparencia)||S|att|C1
+arricchimento illecito|enriquecimiento ilícito||S|att|C1
+calo demografico|descenso demográfico||S|att|C1
+denatalità|caída de natalidad||S|att|C1
+saldo demografico|saldo demográfico||S|att|C1
+fecondità|fecundidad||S|att|C1
+esodo|éxodo||S|att|C1
+diaspora|diáspora||S|att|C1
+rimpatrio|regreso al país de origen (repatriación)||S|att|C1
+espatrio|salida del país (emigración)||S|att|C1
+richiedente asilo|solicitante de asilo||S|att|C1
+permesso di soggiorno|permiso de residencia||S|att|C1
+accoglienza|acogida (recepción de migrantes)||S|att|C1
+ius soli|ius soli (ciudadanía por nacimiento)||L|att|C1
+anagrafe|registro civil (padrón)||S|att|C1
+politiche migratorie|políticas migratorias||S|att|C1
+quarta età|cuarta edad||S|att|C1
+spopolamento|despoblamiento||S|att|C1
+speranza di vita|esperanza de vida||S|att|C1
+migrazione forzata|migración forzada||S|att|C1
+iconografia|iconografía||S|art|C1
+iconologia|iconología (estudio de los símbolos)||S|art|C1
+araldica|heráldica||S|art|C1
+blasone|blasón (escudo heráldico)||S|art|C1
+allegoria|alegoría||S|art|C1
+personificazione|personificación||S|art|C1
+clipeo|clipeo (escudo redondo antiguo)||S|art|C1
+aureola|aureola (halo sagrado)||S|art|C1
+mandorla mistica|almendra mística (gloria de Cristo)||S|art|C1
+bestiario|bestiario (manual de animales simbólicos)||S|art|C1
+geroglifico|jeroglífico||S|art|C1
+epigrafe|epígrafe (inscripción)||S|art|C1
+immagine devozionale|imagen devocional||S|art|C1
+ex voto|ex voto (ofrenda por un favor recibido)||L|art|C1
+reliquiario|relicario||S|art|C1
+trittico|tríptico||S|art|C1
+sinopia|sinopia (dibujo preparatorio del fresco)||S|art|C1
+vessillo|vessillo (estandarte)||S|art|C1
+oreficeria|orfebrería||S|art|C1
+argenteria|platería||S|art|C1
+smalto|esmalte (esmaltado vidriado)||S|art|C1
+niello|niel (grabado en negro)||S|art|C1
+cesellatura|cincelado||S|art|C1
+bulino|buril||S|art|C1
+tarsia|taracea||S|art|C1
+pietre dure|piedras duras (mosaico florentino)||S|art|C1
+maiolica|mayólica||S|art|C1
+sgraffito|esgrafiado (decoración rayada)||S|art|C1
+invetriatura|vidriado (esmaltado cerámico)||S|art|C1
+cartiglio|cartela (filacteria con lema)||S|art|C1
+putto|putto (amorcillo)||S|art|C1
+arazzo|tapiz (arras)||S|art|C1
+merletto|encaje||S|art|C1
+sbalzo|repujado||S|art|C1
+filigrana|filigrana||S|art|C1
+scagliola|escayola marmórea (intarsi de mármol artificial)||S|art|C1
+diaframma|diafragma (apertura del objetivo)||S|art|C1
+otturatore|obturador||S|art|C1
+pellicola|película (carrete)||S|art|C1
+controluce|contraluz||S|art|C1
+inquadratura|encuadre||S|art|C1
+scatto|instantánea (disparo)||S|art|C1
+fotogramma|fotograma||S|art|C1
+servizio fotografico|sesión fotográfica||S|art|C1
+ritocco|retoque||S|art|C1
+esposimetro|exposímetro||S|art|C1
+paraluce|parasol||S|art|C1
+ingrandimento|ampliación (copia en grande)||S|art|C1
+lastra|placa (negativo de vidrio)||S|art|C1
+iperrealismo|hiperrealismo||S|art|C1
+installazione|instalación (obra artística)||S|art|C1
+serigrafia|serigrafía||S|art|C1
+cianotipia|cianotipia||S|art|C1
+ferrotipo|ferrotipo||S|art|C1
+timpano|frontón (tímpano)||S|art|C1
+fregio|friso||S|art|C1
+trabeazione|trabeación||S|art|C1
+architrave|arquitrabe||S|art|C1
+echino|équino (moldura dórica)||S|art|C1
+abaco|ábaco (cápitel dórico)||S|art|C1
+volta a crociera|bóveda de crucería||S|art|C1
+contrafforte|contrafuerte||S|art|C1
+rosone|rosetón||S|art|C1
+matroneo|tribuna (galería superior)||S|art|C1
+cassettoni|artesonado (techo de casetones)||S|art|C1
+bugnato|almohadillado||S|art|C1
+marcapiano|imposta (línea de forjado)||S|art|C1
+parasta|pilastra (faja adosada)||S|art|C1
+oculo|óculo (ventana circular)||S|art|C1
+protiro|pórtico avanzado (atrio)||S|art|C1
+bifora|ventana geminada (bífora)||S|art|C1
+modanatura|moldura||S|art|C1
+coreografia|coreografía||S|art|C1
+punte|puntas (zapatillas de ballet)||S|art|C1
+elevazione|elevación (salto)||S|art|C1
+scenografia|escenografía||S|art|C1
+prova generale|ensayo general||S|art|C1
+corpo di ballo|cuerpo de baile||S|art|C1
+funambolo|funámbulo||S|art|C1
+equilibrismo|malabarismo (juego de equilibrio)||S|art|C1
+pantomima|pantomima||S|art|C1
+gestualità|gestualidad||S|art|C1
+espressività|expresividad||S|art|C1
+coreutica|coreutica (arte de la danza)||S|art|C1
+macchietta|caricatura (tipo cómico)||S|art|C1
+teatrante|hombre de teatro||S|art|C1
+drammaturgia|dramaturgia||S|art|C1
+allestimento|montaje (puesta en escena)||S|art|C1
+corporeità|corporalidad||S|art|C1
+mimica|mímica (arte gestual)||S|art|C1
+microprocessore|microprocesador||S|tec|C1
+semiconduttore|semiconductor||S|tec|C1
+circuito integrato|circuito integrado||S|tec|C1
+porta logica|puerta lógica||S|tec|C1
+calcolo parallelo|cálculo paralelo||S|tec|C1
+germanio|germanio (elemento)||S|tec|C1
+transistore|transistor||S|tec|C1
+dissipatore|disipador (de calor)||S|tec|C1
+scheda madre|placa base||S|tec|C1
+substrato|sustrato (oblea de silicio)||S|tec|C1
+elettromigrazione|electromigración||S|tec|C1
+istruzione macchina|instrucción máquina||S|tec|C1
+linguaggio macchina|lenguaje máquina||S|tec|C1
+emulazione|emulación||S|tec|C1
+latenza|latencia||S|tec|C1
+superscalare|superescalar (procesador)||A|tec|C1
+passivazione|pasivación (protección superficial)||S|tec|C1
+coprocessore|coprocesador||S|tec|C1
+profilazione|perfilado (de usuarios)||S|tec|C1
+algoritmico|algorítmico||A|tec|C1
+apprendimento automatico|aprendizaje automático||S|tec|C1
+insieme di addestramento|conjunto de entrenamiento||S|tec|C1
+etichettatura|etiquetado (de datos)||S|tec|C1
+normalizzazione|normalización||S|tec|C1
+indicizzazione|indexación||S|tec|C1
+deduplicazione|deduplicación||S|tec|C1
+aggregazione|agregación||S|tec|C1
+visualizzazione|visualización||S|tec|C1
+correlazione spuria|correlación espuria||S|tec|C1
+regressione|regresión||S|tec|C1
+segmentazione|segmentación||S|tec|C1
+modello predittivo|modelo predictivo||S|tec|C1
+rilevamento di anomalie|detección de anomalías||S|tec|C1
+riservatezza|confidencialidad||S|tec|C1
+pseudonimizzazione|pseudonimización||S|tec|C1
+interoperabilità|interoperabilidad||S|tec|C1
+metadato|metadato||S|tec|C1
+registro distribuito|registro distribuido (blockchain)||S|tec|C1
+libro mastro|libro mayor||S|tec|C1
+consenso distribuito|consenso distribuido||S|tec|C1
+validatore|validador (nodo)||S|tec|C1
+criptovaluta|criptomoneda||S|tec|C1
+portafoglio digitale|monedero digital||S|tec|C1
+contratto intelligente|contrato inteligente||S|tec|C1
+oracolo|oráculo (fuente de datos externos)||S|tec|C1
+diramazione|bifurcación (de una cadena)||S|tec|C1
+conio|acuñación (emisión de moneda)||S|tec|C1
+tracciabilità|trazabilidad||S|tec|C1
+attestazione|atestación (certificación)||S|tec|C1
+sigillo temporale|sello de tiempo (sellado temporal)||S|tec|C1
+doppia spesa|doble gasto||S|tec|C1
+protocollo di consenso|protocolo de consenso||S|tec|C1
+commissione di transazione|comisión de transacción||S|tec|C1
+immutabilità|inmutabilidad||S|tec|C1
+emittente|emisor (de criptoactivos)||S|tec|C1
+impronta digitale|huella digital||S|tec|C1
+riconoscimento facciale|reconocimiento facial||S|tec|C1
+iride|iris (del ojo)||S|tec|C1
+contraffazione|falsificación (de billetes)||S|tec|C1
+similarità|similitud (medida de semejanza)||S|tec|C1
+matrice di confusione|matriz de confusión||S|tec|C1
+soglia di accettazione|umbral de aceptación||S|tec|C1
+tasso di falsi positivi|tasa de falsos positivos||S|tec|C1
+classificatore|clasificador||S|tec|C1
+vettore di caratteristiche|vector de características||S|tec|C1
+prova di vita|prueba de vida (antifalsificación)||S|tec|C1
+punteggio di similarità|puntuación de similitud||S|tec|C1
+lettura ottica|lectura óptica||S|tec|C1
+avente diritto|interesado (titular del derecho)||S|tec|C1
+titolare del trattamento|responsable del tratamiento||S|tec|C1
+trattamento dei dati|tratamiento de datos||S|tec|C1
+identità digitale|identidad digital||S|tec|C1
+autenticazione|autenticación (verificación de identidad)||S|tec|C1
+sensoristica|sensores (instrumentación)||S|tec|C1
+domotica|domótica||S|tec|C1
+rete di sensori|red de sensores||S|tec|C1
+telemetria|telemetría||S|tec|C1
+contatore intelligente|contador inteligente||S|tec|C1
+interconnessione|interconexión||S|tec|C1
+vulnerabilità|vulnerabilidad||S|tec|C1
+piattaforma civica|plataforma cívica||S|tec|C1
+dati aperti|datos abiertos||S|tec|C1
+digitalizzazione|digitalización||S|tec|C1
+rete intelligente|red inteligente (eléctrica)||S|tec|C1
+oggetto connesso|objeto conectado||S|tec|C1
+sincronizzazione|sincronización||S|tec|C1
+attuatore|actuador||S|tec|C1
+concentratore|concentrador||S|tec|C1
+interoperabile|interoperable||A|tec|C1
+videosorveglianza|videovigilancia||S|tec|C1
+efficienza energetica|eficiencia energética||S|tec|C1
+realtà virtuale|realidad virtual||S|tec|C1
+realtà aumentata|realidad aumentada||S|tec|C1
+immersività|inmersividad||S|tec|C1
+visore|visor (gafas de realidad virtual)||S|tec|C1
+cattura del movimento|captura de movimiento||S|tec|C1
+avatar|avatar||S|tec|C1
+giocabilità|jugabilidad||S|tec|C1
+frequenza di aggiornamento|frecuencia de actualización||S|tec|C1
+generazione procedurale|generación procedimental||S|tec|C1
+cinetosi|cinetosis (mareo virtual)||S|tec|C1
+teletrasporto|teletransporte (en el juego)||S|tec|C1
+simulatore|simulador||S|tec|C1
+schermata|pantalla (de juego)||S|tec|C1
+multigiocatore|multijugador||A|tec|C1
+monetizzazione|monetización (de contenidos digitales)||S|tec|C1
+contenuto scaricabile|contenido descargable||S|tec|C1
+immersione|inmersión (en el juego)||S|tec|C1
+narrativa interattiva|narrativa interactiva||S|tec|C1
+vulcanologia|vulcanología||S|nat|C1
+magma|magma||S|nat|C1
+camera magmatica|cámara magmática||S|nat|C1
+flusso piroclastico|flujo piroclástico||S|nat|C1
+lapilli|lapilli (piedras pumíticas)||S|nat|C1
+nube ardente|nube ardiente (flujo incandescente)||S|nat|C1
+fumarola|fumarola (vapor volcánico)||S|nat|C1
+sismografo|sismógrafo||S|nat|C1
+sismicità|sismicidad||S|nat|C1
+magnitudo|magnitud (de un sismo)||S|nat|C1
+scossa di assestamento|réplica (sismo secundario)||S|nat|C1
+ipocentro|hipocentro||S|nat|C1
+faglia attiva|falla activa||S|nat|C1
+subsidenza|subsidencia (hundimiento)||S|nat|C1
+colata di fango|colada de lodo||S|nat|C1
+effusivo|efusivo (erupción lenta)||A|nat|C1
+glaciazione|glaciación||S|nat|C1
+disseto idrogeologico|inestabilidad hidrogeológica (derrumbe)||S|nat|C1
+tettonica delle placche|tectónica de placas||S|nat|C1
+agitazione sindacale|agitación sindical||S|att|C1
+inurbamento|éxodo rural (traslado a la ciudad)||S|att|C1
+chiave di volta|clave de bóveda||S|art|C1
+colata lavica|colada de lava||S|nat|C1

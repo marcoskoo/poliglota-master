@@ -1,0 +1,275 @@
+auspicio|augurio (presagio)||S|let|C2
+crinale|divisoria (línea de cumbre)||S|nat|C2
+crepuscolo|crepúsculo||S|tmp|C2
+vivido|vívido||A|let|C2
+velame|velamen (juego de velas)||S|let|C2
+lucore|resplandor||S|let|C2
+tenebre|tinieblas||S|let|C2
+clivo|collado||S|let|C2
+notturno|nocturno||S|mus|C2
+vaghezza|vaguedad (melancolía indefinible)||S|let|C2
+canone|canon (literario)||S|let|C2
+ermeneutica|hermenéutica||S|let|C2
+esegesi|exégesis||S|let|C2
+intertestualità|intertextualidad||S|let|C2
+diegesi|diegesis||S|let|C2
+topos|tópos (motivo recurrente)||S|let|C2
+inconscio collettivo|inconsciente colectivo||L|ast|C2
+anafora|anáfora||S|let|C2
+chiasmo|quiasmo||S|let|C2
+metonimia|metonimia||S|let|C2
+sinestesia|sinestesia||S|let|C2
+iperbole|hipérbole||S|let|C2
+litote|lítote||S|let|C2
+endecasillabo|endecasílabo||S|let|C2
+alessandrino|alejandrino (verso)||S|let|C2
+narratologia|narratología||S|let|C2
+focalizzazione|focalización||S|let|C2
+analessi|analepsis||S|let|C2
+prolessi|prolepsis||S|let|C2
+eterodiegetico|heterodiegético||A|let|C2
+attante|actante||S|let|C2
+cornice narrativa|marco narrativo||L|let|C2
+epistemologia|epistemología||S|ast|C2
+fallibilismo|falibilismo||S|ast|C2
+deduzione|deducción||S|ast|C2
+deontologico|deontológico||A|ast|C2
+consequenzialismo|consecuencialismo||S|ast|C2
+imperativo categorico|imperativo categórico||L|ast|C2
+solipsismo|solipsismo||S|ast|C2
+atarassia|ataraxia||S|ast|C2
+libero arbitrio|libre albedrío||L|ast|C2
+ontologia|ontología||S|ast|C2
+ontologico|ontológico||A|ast|C2
+immanente|inmanente||A|ast|C2
+trascendenza|trascendencia||S|ast|C2
+sublime|sublime||A|art|C2
+verosimile|verosímil||A|ast|C2
+numinoso|numinoso||A|ast|C2
+storiografia|historiografía||S|ast|C2
+fonte documentale|fuente documental||L|ast|C2
+revisionismo|revisionismo (historiográfico)||S|ast|C2
+lunga durata|larga duración (historia)||L|ast|C2
+periodizzazione|periodización||S|ast|C2
+retrospettivo|retrospectivo||A|tmp|C2
+fonologia|fonología||S|let|C2
+diacronia|diacronía||S|let|C2
+isoglossa|isoglosa||S|let|C2
+idioletto|idiolecto||S|let|C2
+sostrato|sustrato||S|let|C2
+calco|calco (préstamo traducido)||S|let|C2
+polisemia|polisemia||S|let|C2
+transfert|transferencia (psicoanalítica)||S|ast|C2
+controtransfert|contratransferencia||S|ast|C2
+pulsione|pulsión||S|ast|C2
+catarsi|catarsis||S|ast|C2
+catartico|catártico||A|ast|C2
+sublimazione|sublimación||S|ast|C2
+rimozione|represión (psicoanalítica)||S|ast|C2
+industria culturale|industria cultural||L|ast|C2
+falsa coscienza|conciencia falsa||L|ast|C2
+egemonia culturale|hegemonía cultural||L|ast|C2
+geopolitica|geopolítica||S|att|C2
+sfera d'influenza|esfera de influencia||L|att|C2
+deterrenza|disuasión||S|att|C2
+controspionaggio|contraespionaje||S|att|C2
+guerra ibrida|guerra híbrida||L|att|C2
+governabilità|gobernabilidad||S|ist|C2
+centralismo|centralismo||S|ist|C2
+decentramento|descentralización||S|ist|C2
+clientelismo|clientelismo||S|ist|C2
+polarizzazione|polarización||S|att|C2
+plebiscitario|plebiscitario||A|ist|C2
+sussidiarietà|subsidiariedad||S|ist|C2
+stratificazione|estratificación (social)||S|ast|C2
+mobilità sociale|movilidad social||L|ast|C2
+secolarizzazione|secularización||S|ast|C2
+urbanizzazione|urbanización||S|cit|C2
+disgregazione|desintegración||S|ast|C2
+atomizzazione|atomización||S|ast|C2
+etnografia|etnografía||S|ast|C2
+etnocentrismo|etnocentrismo||S|ast|C2
+acculturazione|aculturación||S|ast|C2
+rito di passaggio|rito de paso||L|ast|C2
+sciamanesimo|chamanismo||S|ast|C2
+matrilineare|matrilineal||A|ast|C2
+totemismo|totemismo||S|ast|C2
+delazione|delación||S|att|C2
+depistaggio|despiste (desinformación deliberada)||S|att|C2
+rettifica|rectificación||S|cmu|C2
+palinsesto|parrilla (programación de TV)||S|cin|C2
+corrispondenza di guerra|corresponsalía de guerra||L|cmu|C2
+polifonia|polifonía||S|mus|C2
+contrappunto|contrapunto||S|mus|C2
+cromatismo|cromatismo||S|mus|C2
+temperamento equabile|temperamento igual||L|mus|C2
+librettista|libretista||S|mus|C2
+atonalità|atonalidad||S|mus|C2
+dodecafonia|dodecafonismo||S|mus|C2
+museografia|museografía||S|art|C2
+restauro|restauración||S|art|C2
+patina|pátina||S|art|C2
+allestimento|montaje (de una exposición)||S|art|C2
+curatela|comisariado (de exposición)||S|art|C2
+catalogazione|catalogación||S|art|C2
+falso d'autore|falso de autor||L|art|C2
+iperrealismo|hiperrealismo||S|art|C2
+spazialismo|espacialismo||S|art|C2
+installazione|instalación (artística)||S|art|C2
+mimesi|mímesis||S|let|C2
+orizzonte d'attesa|horizonte de expectativas||L|let|C2
+intenzionalità|intencionalidad||S|ast|C2
+straniamento|extrañamiento (distanciamiento)||S|art|C2
+settenario|heptasílabo||S|let|C2
+sdrucciolo|esdrújulo (verso o palabra)||A|let|C2
+assonanza|asonancia||S|let|C2
+cesura|cesura||S|let|C2
+commedia dell'arte|comedia del arte||L|art|C2
+didascalia|didascalia (acotación)||S|cin|C2
+corifeo|corifeo||S|art|C2
+tetralogia|tetralogía||S|art|C2
+canovaccio|canovaccio (esquema de comedia)||S|art|C2
+filologia|filología||S|let|C2
+codicologia|codicología||S|let|C2
+paleografia|paleografía||S|let|C2
+incunabolo|incunable||S|let|C2
+stemma codicum|stemma codicum (árbol de manuscritos)||L|let|C2
+apografo|apógrafo||S|let|C2
+sottotitolatura|subtitulado||S|cin|C2
+retroversione|retroversión||S|let|C2
+lingua di partenza|lengua de origen||L|let|C2
+domesticazione|domesticación (en traducción)||S|let|C2
+saggistica|ensayística||S|let|C2
+divagazione|divagación||S|let|C2
+elucubrazione|elucubración||S|let|C2
+aforisma|aforismo||S|let|C2
+invettiva|invectiva||S|let|C2
+disquisizione|disquisición||S|let|C2
+ucronia|ucronía||S|let|C2
+distopico|distópico||A|let|C2
+postapocalittico|postapocalíptico||A|let|C2
+comparatistica|comparatística||S|let|C2
+influsso|influjo (influencia)||S|let|C2
+classicità|clasicidad (carácter clásico)||S|let|C2
+decadentismo|decadentismo||S|let|C2
+demoscopia|demoscopia||S|att|C2
+intenzione di voto|intención de voto||L|att|C2
+seggio|mesa electoral||S|ist|C2
+astensionismo|abstencionismo||S|att|C2
+ballottaggio|segunda vuelta||S|att|C2
+scrutinio|escrutinio||S|ist|C2
+cessate il fuoco|alto el fuego||L|att|C2
+armistizio|armisticio||S|att|C2
+caschi blu|cascos azules||L|att|C2
+pulizia etnica|limpieza étnica||L|att|C2
+casus belli|casus belli||L|att|C2
+sovranazionale|supranacional||A|ist|C2
+comunitario|comunitario (derecho)||A|ist|C2
+intergovernativo|intergubernamental||A|ist|C2
+trasferimento di sovranità|transferencia de soberanía||L|ist|C2
+previdenza sociale|seguridad social||L|ist|C2
+sussidio di disoccupazione|subsidio por desempleo||L|ist|C2
+reddito di cittadinanza|renta de ciudadanía||L|ist|C2
+universalismo|universalismo||S|ist|C2
+selettività|selectividad||S|ist|C2
+sciopero della fame|huelga de hambre||L|att|C2
+lotta di classe|lucha de clases||L|att|C2
+antagonista|antagonista (del movimiento)||S|att|C2
+malversazione|malversación||S|ist|C2
+concussione|concusión (cohecho)||S|ist|C2
+riciclaggio|blanqueo de capitales||S|fin|C2
+rendicontazione|rendición de cuentas||S|ist|C2
+interdizione dai pubblici uffici|inhabilitación para cargos públicos||L|ist|C2
+calo demografico|descenso demográfico||L|ast|C2
+catena migratoria|cadena migratoria||L|ast|C2
+diaspora|diáspora||S|ast|C2
+espatrio|exilio (salida del país)||S|ast|C2
+ricongiungimento familiare|reagrupación familiar||L|ist|C2
+sostituzione generazionale|relevo generacional||L|ast|C2
+fuga di cervelli|fuga de cerebros||L|att|C2
+apprendimento automatico|aprendizaje automático||L|tec|C2
+rete neurale|red neuronal||L|tec|C2
+inferenza|inferencia||S|tec|C2
+addestramento|entrenamiento (de un modelo)||S|tec|C2
+etichettatura|etiquetado (de datos)||S|tec|C2
+pregiudizio algoritmico|sesgo algoritmico||L|tec|C2
+crittografia|criptografía||S|tec|C2
+crittoanalisi|criptoanálisis||S|tec|C2
+firma digitale|firma digital||L|tec|C2
+autenticazione a due fattori|autenticación de dos factores||L|tec|C2
+ingegneria sociale|ingeniería social||L|tec|C2
+commutazione di pacchetto|conmutación de paquetes||L|tec|C2
+telematica|telemática||S|tec|C2
+modulazione|modulación||S|tec|C2
+orbita geostazionaria|órbita geoestacionaria||L|tec|C2
+propulsione|propulsión||S|tec|C2
+carico utile|carga útil||L|tec|C2
+portello|escotilla||S|tec|C2
+fusoliera|fuselaje||S|tec|C2
+volo di collaudo|vuelo de prueba||L|tec|C2
+robotica|robótica||S|tec|C2
+attuatore|actuador||S|tec|C2
+sensoristica|sensorística||S|tec|C2
+odometria|odometría||S|tec|C2
+servomeccanismo|servomecanismo||S|tec|C2
+microprocessore|microprocesador||S|tec|C2
+superscalare|superescalar||A|tec|C2
+virtualizzazione|virtualización||S|tec|C2
+proprietà intellettuale|propiedad intelectual||L|ist|C2
+indicizzazione|indexación||S|tec|C2
+predittivo|predictivo||A|tec|C2
+granularità|granularidad||S|tec|C2
+metadato|metadato||S|tec|C2
+biometria|biometría||S|tec|C2
+riconoscimento facciale|reconocimiento facial||L|tec|C2
+domotica|domótica||S|tec|C2
+telemetria|telemetría||S|tec|C2
+connubio|connubio (unión)||S|ast|C2
+realtà aumentata|realidad aumentada||L|tec|C2
+immersivo|inmersivo||A|tec|C2
+ludico|lúdico||A|sve|C2
+cartografia|cartografía||S|nat|C2
+ortofoto|ortofoto||S|nat|C2
+telerilevamento|teledetección||S|nat|C2
+geolocalizzazione|geolocalización||S|tec|C2
+isoipsa|curva de nivel||S|nat|C2
+triangolazione|triangulación||S|nat|C2
+sopralluogo|inspección sobre el terreno||S|tec|C2
+perizia|peritaje||S|ist|C2
+collaudo|prueba de recepción||S|tec|C2
+tolleranza di lavorazione|tolerancia de mecanizado||L|tec|C2
+travatura|cerchado (estructura de vigas)||S|art|C2
+diffrazione|difracción||S|sci|C2
+rifrangenza|refringencia||S|sci|C2
+fotolitografia|fotolitografía||S|tec|C2
+idrofono|hidrófono||S|sci|C2
+camera anecoica|cámara anecoica||L|sci|C2
+antigene|antígeno||S|sci|C2
+capside|cápside||S|sci|C2
+viremia|viremia||S|sla|C2
+nasofaringe|nasofaringe||S|cor|C2
+editing genomico|edición genómica||L|sci|C2
+organismo geneticamente modificato|organismo genéticamente modificado||L|sci|C2
+risonanza magnetica funzionale|resonancia magnética funcional||L|sci|C2
+elettroencefalografia|electroencefalografía||S|sci|C2
+magnetoencefalografia|magnetoencefalografía||S|sci|C2
+stimolazione magnetica transcranica|estimulación magnética transcraneal||L|sci|C2
+tractografia|tractografía||S|sci|C2
+nanotubo|nanotubo||S|sci|C2
+nanoparticella|nanopartícula||S|sci|C2
+fullerene|fullereno||S|sci|C2
+metamateriale|metamaterial||S|sci|C2
+paradossale|paradójico||A|ast|C2
+aporia|aporía||S|ast|C2
+magnanimità|magnanimidad||S|ast|C2
+quiddità|quiddidad (esencia)||S|ast|C2
+atavico|atávico||A|ast|C2
+idiosincrasia|idiosincrasia||S|ast|C2
+vissuto|vivencia (experiencia vivida)||S|ast|C2
+a priori|a priori||L|ast|C2
+ad valorem|ad valórem||L|fin|C2
+erga omnes|erga omnes||L|ist|C2
+in itinere|in itinere (en curso)||L|ast|C2
+de iure|de iure||L|ist|C2
+ipseità|ipseidad||S|ast|C2
+alterità|alteridad||S|ast|C2
