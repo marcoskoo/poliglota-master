@@ -7,7 +7,7 @@
    · /api/* → solo red (nunca se cachea el backend)
    · Web Push (v9.0): recordatorios diarios vía VAPID          */
 
-const VERSION = "im-v9-41-0";
+const VERSION = "im-v9-43-0";
 const CACHE = `italiano-master-${VERSION}`;
 
 const PRECACHE = [
