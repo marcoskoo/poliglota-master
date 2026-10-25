@@ -1,0 +1,105 @@
+crítica literária|crítica literaria||S|let|B2
+posfácio|epílogo (texto final del libro)||S|let|B2
+plagiário|plagiario||S|let|B2
+estrofe|estrofa||S|let|B2
+cartilagem|cartílago||S|cor|B2
+oxigenação|oxigenación||S|cor|B2
+poleiro|posadero (de aves)||S|ani|B2
+farejar|husmear||V|ani|B2
+uivo|aullido||S|ani|B2
+rugido|rugido||S|ani|B2
+marcar território|marcar el territorio||L|ani|B2
+estar à espreita|estar al acecho||L|ani|B2
+espreita|acecho||S|ani|B2
+extinguir-se|extinguirse||V|ani|B2
+reintrodução|reintroducción (de una especie)||S|ani|B2
+criadouro|criadero (centro de cría)||S|ani|B2
+santuário|santuario (de fauna)||S|ani|B2
+aves migradoras|aves migratorias||S|ani|B2
+ninhada|nidada||S|ani|B2
+filhote|cría (cachorro)||S|ani|B2
+central hidroelétrica|central hidroeléctrica||S|sci|B2
+painel fotovoltaico|panel fotovoltaico||S|sci|B2
+rede elétrica|red eléctrica||S|sci|B2
+gélido|gélido||A|cli|B2
+abrasador|abrasador||A|cli|B2
+com regularidade|con regularidad||L|tmp|B2
+de tempos a tempos|de tiempo en tiempo||L|tmp|B2
+prazo-limite|fecha límite||S|tmp|B2
+incessante|incesante||A|tmp|B2
+intermitente|intermitente||A|tmp|B2
+esporádico|esporádico||A|tmp|B2
+de raras vezes|en raras ocasiones||L|tmp|B2
+em vésperas de|en vísperas de||L|tmp|B2
+prolongado|prolongado||A|tmp|B2
+noite dentro|hacia la madrugada||L|sve|B2
+casa de fados|casa de fados||S|mus|B2
+ócio|ocio||S|sve|B2
+saída noturna|salida nocturna||S|sve|B2
+feira do livro|feria del libro||S|sve|B2
+arejar a cabeça|tomar el aire (despejarse)||L|sve|B2
+sair à noite|salir de noche||L|sve|B2
+sessão de cinema|sesión de cine||S|cin|B2
+copo de convívio|copa de convivencia||S|sve|B2
+tabuleiro|tablero||S|sve|B2
+jogada|jugada||S|sve|B2
+fazer batota|hacer trampas||L|sve|B2
+charada|charada (adivinanza)||S|sve|B2
+naipe|palo (de la baraja)||S|sve|B2
+trunfo|triunfo (carta que gana)||S|sve|B2
+novelo|ovillo||S|sve|B2
+miçanga|abalorio||S|sve|B2
+ponto de cruz|punto de cruz||S|sve|B2
+automotivação|automotivación||S|emo|B2
+desmotivação|desmotivación||S|emo|B2
+empenho|empeño (dedicación)||S|emo|B2
+empenhar-se|empeñarse||V|emo|B2
+serenidade|serenidad||S|emo|B2
+descompressão|descompresión (tras el estrés)||S|emo|B2
+recompensa|recompensa||S|emo|B2
+persuasão|persuasión||S|cmu|B2
+contra-argumento|contraargumento||S|cmu|B2
+conferencista|conferenciante||S|pro|B2
+auditório|público (audiencia)||S|cmu|B2
+improviso|improviso||S|cmu|B2
+improvisar|improvisar||V|cmu|B2
+dicção|dicción||S|cmu|B2
+eloquência|elocuencia||S|cmu|B2
+cativar|cautivar (hechizar)||V|cmu|B2
+prender a atenção|captar la atención||L|cmu|B2
+negociador|negociador||S|cmu|B2
+contraproposta|contrapropuesta||S|cmu|B2
+meio-termo|término medio||S|cmu|B2
+mediador|mediador||S|ist|B2
+diplomático|diplomático||A|ist|B2
+andar com rodeios|dar rodeos||L|cmu|B2
+implacável|implacable||A|cmu|B2
+apelar|apelar||V|ist|B2
+demandado|demandado||S|ist|B2
+incriminar|incriminar||V|ist|B2
+atestado|justificante (certificado)||S|ist|B2
+licenciamento|licenciamiento (autorización)||S|ist|B2
+licença de obras|licencia de obras||S|ist|B2
+burocrático|burocrático||A|ist|B2
+impresso|impreso (formulario)||S|ist|B2
+voto em branco|voto en blanco||S|ist|B2
+voto nulo|voto nulo||S|ist|B2
+cabine de voto|cabina electoral||S|ist|B2
+colégio eleitoral|colegio electoral||S|ist|B2
+abstencionismo|abstencionismo||S|ist|B2
+em consequência|como resultado||L|cnn|B2
+isto é|esto es||L|cnn|B2
+apesar de tudo|a pesar de todo||L|cnn|B2
+de qualquer modo|de cualquier modo||L|cnn|B2
+a este respeito|a este respecto||L|cnn|B2
+numa palavra|en una palabra||L|cnn|B2
+falsidade|falsedad||S|ast|B2
+honra|honra||S|ast|B2
+nua e crua|desnuda y cruda (la verdad sin adornos)||L|ast|B2
+senso de justiça|sentido de la justicia||S|ast|B2
+harmonioso|armonioso||A|ast|B2
+renascença|renacimiento||S|art|B2
+fresco|fresco (pintura mural)||S|art|B2
+atelier|taller (de artista)||S|art|B2
+retratista|retratista||S|art|B2
+luminosidade|luminosidad||S|art|B2

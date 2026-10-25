@@ -1,0 +1,151 @@
+die Verwirkung|caducidad (pérdida de un derecho por inacción)||S|ist|C2
+die Wandelung|resolución del contrato por vicios||S|ist|C2
+der Erfüllungsort|lugar de cumplimiento (de la obligación)||S|ist|C2
+die Stellvertretung|representación (legal o voluntaria)||S|ist|C2
+der Strafantrag|querella (condición de perseguibilidad)||S|ist|C2
+die tätige Reue|arrepentimiento activo (desistimiento eficaz)||E|ist|C2
+die Knebelung|coacción contractual abusiva||S|ist|C2
+die Erfüllungsverweigerung|negativa a cumplir (incumplimiento anticipado)||S|ist|C2
+der Vollstreckungsbescheid|auto de ejecución monitorio||S|ist|C2
+die Beweiswürdigung|valoración de la prueba||S|ist|C2
+der Parteiverrat|infidelidad del defensor (perjuicio a la propia parte)||S|ist|C2
+der Beweisbeschluss|auto de admisión de prueba||S|ist|C2
+der Ermittlungsrichter|juez de instrucción (de garantías)||S|ist|C2
+der Verfassungsrang|rango constitucional||S|ist|C2
+die Kommunalverfassung|normativa municipal (constitución local)||S|ist|C2
+der Verfassungsauftrag|mandato constitucional||S|ist|C2
+die Rechtsgleichheit|igualdad ante la ley||S|ist|C2
+die Grundrechtsschranken|límites de los derechos fundamentales||S|ist|C2
+die Staatsräson|razón de Estado||S|ist|C2
+der Verfassungsgeber|poder constituyente||S|ist|C2
+der Behandlungsvertrag|contrato médico||S|sla|C2
+der Verweilkatheter|sonda de permanencia||S|sla|C2
+die Notfalloperation|cirugía de urgencia||S|sla|C2
+der Verbandwechsel|cambio de cura (vendaje)||S|sla|C2
+das Konsil|interconsulta||S|sla|C2
+die Therapietreue|adherencia al tratamiento||S|sla|C2
+die Placebogruppe|grupo placebo||S|sla|C2
+die Verblindung|enmascaramiento (ciego del ensayo)||S|sla|C2
+die Randomisierung|aleatorización||S|sla|C2
+die Evidenzlage|grado de evidencia disponible||S|sla|C2
+die Gegenanzeige|contraindicación||S|sla|C2
+der Wirkungsnachweis|demostración de eficacia||S|sla|C2
+die Affektverflachung|empobrecimiento afectivo||S|sla|C2
+die Ich-Störung|trastorno del yo||S|sla|C2
+die Anpassungsstörung|trastorno adaptativo||S|sla|C2
+die Wahnidee|idea delirante||S|sla|C2
+der Realitätsverlust|pérdida del contacto con la realidad||S|sla|C2
+die Gedankenflucht|fuga de ideas||S|sla|C2
+die Therapiebegrenzung|limitación del esfuerzo terapéutico||S|sla|C2
+die Zwangsbehandlung|tratamiento forzado||S|sla|C2
+das Offenmarktgeschäft|operación de mercado abierto||S|fin|C2
+die Deflationsspirale|espiral deflacionaria||S|fin|C2
+die Nachfrageschwäche|debilidad de la demanda||S|fin|C2
+die Produktivitätslücke|brecha de productividad||S|fin|C2
+der Preisdruck|presión sobre los precios||S|fin|C2
+die Geldschöpfung|creación de dinero||S|fin|C2
+der Zahlungsausfall|impago (suspensión de pagos)||S|fin|C2
+das Handelshemmnis|obstáculo comercial||S|fin|C2
+die Ausfuhrbeschränkung|restricción a la exportación||S|fin|C2
+der Präferenztarif|arancel preferencial||S|fin|C2
+der Ausgleichszoll|arancel compensatorio||S|fin|C2
+die Handelsverflechtung|interdependencia comercial||S|fin|C2
+die Ausfuhrerstattung|subvención a la exportación||S|fin|C2
+die Absatzeinbuße|pérdida de ventas||S|fin|C2
+die Wiederausfuhr|reexportación||S|fin|C2
+die Wirtschaftsprüfung|auditoría de cuentas||S|fin|C2
+das Testat|opinión de auditoría||S|fin|C2
+der Bilanzstichtag|fecha de cierre contable||S|fin|C2
+die Fortführungsannahme|principio de empresa en funcionamiento||S|fin|C2
+der Verlustvortrag|compensación de pérdidas (arrastre fiscal)||S|fin|C2
+die Kapitalrücklage|reserva de capital||S|fin|C2
+die Prüfungspflicht|obligación de auditar||S|fin|C2
+das Termingeschäft|operación a plazo||S|fin|C2
+die Optionsprämie|prima de la opción||S|fin|C2
+der Kursverfall|caída de la cotización||S|fin|C2
+das Kreditderivat|derivado de crédito||S|fin|C2
+der Risikopuffer|margen de seguridad||S|fin|C2
+die Markteffizienz|eficiencia del mercado||S|fin|C2
+das Kontrahentenrisiko|riesgo de contraparte||S|fin|C2
+die Markttiefe|profundidad de mercado||S|fin|C2
+der Genlocus|locus génico||S|sci|C2
+die Pleiotropie|pleiotropía||S|sci|C2
+das Intron|intrón||S|sci|C2
+die Heterozygotie|heterocigosis||S|sci|C2
+die Allelfrequenz|frecuencia alélica||S|sci|C2
+die Rückmutation|mutación inversa||S|sci|C2
+die Kreuzimmunität|inmunidad cruzada||S|sci|C2
+die Resistenzbildung|desarrollo de resistencias||S|sci|C2
+die Toxinbildung|producción de toxinas||S|sci|C2
+die Latenzzeit|período de latencia||S|sci|C2
+die Erregungsleitung|conducción del impulso nervioso||S|sci|C2
+das Belohnungssystem|sistema de recompensa||S|sci|C2
+die Hirndurchblutung|perfusión cerebral||S|sci|C2
+das Katalysatorgift|veneno del catalizador||S|sci|C2
+der Trennungsgang|marcha analítica||S|sci|C2
+die Elektronenpaarbindung|enlace covalente||S|sci|C2
+die Quantenverschränkung|entrelazamiento cuántico||S|sci|C2
+der Zerfallskanal|canal de desintegración||S|sci|C2
+das Wirkungsquantum|cuanto de acción||S|sci|C2
+die Blasenkammer|cámara de burbujas||S|sci|C2
+der Grundzustand|estado fundamental||S|sci|C2
+die Vakuumfluktuation|fluctuación del vacío||S|sci|C2
+die Quantenzahl|número cuántico||S|sci|C2
+das Ausschlussprinzip|principio de exclusión||S|sci|C2
+die Lichtkurve|curva de luz||S|sci|C2
+die Gravitationslinse|lente gravitacional||S|sci|C2
+die Dunkelwolke|nube oscura (nebulosa)||S|sci|C2
+die Leuchtkraft|luminosidad (potencia luminosa)||S|sci|C2
+die Eigenbewegung|movimiento propio (estelar)||S|sci|C2
+der Sternhaufen|cúmulo estelar||S|sci|C2
+die Stammzelllinie|línea de células madre||S|sci|C2
+der Genvektor|vector génico||S|sci|C2
+die Erbgutanalyse|análisis del genoma||S|sci|C2
+das Enzympräparat|preparado enzimático||S|sci|C2
+die Gewebekultur|cultivo de tejidos||S|sci|C2
+die Schädlingsresistenz|resistencia a plagas (transgénica)||S|sci|C2
+der Standardfehler|error estándar||S|sci|C2
+die Fallzahlplanung|cálculo del tamaño muestral||S|sci|C2
+die Regressionsgerade|recta de regresión||S|sci|C2
+die Signifikanzprüfung|prueba de significación||S|sci|C2
+der Störfaktor|factor de confusión||S|sci|C2
+die Messwiederholung|medida repetida (intrasujeto)||S|sci|C2
+die Gegenprobe|contraprueba (verificación cruzada)||S|sci|C2
+die Seuchengefahr|riesgo epidémico||S|sla|C2
+die Impfmüdigkeit|fatiga vacunal||S|sla|C2
+die Krankheitslast|carga de enfermedad||S|sla|C2
+die Aufklärungsarbeit|labor de sensibilización sanitaria||S|sla|C2
+die Reihenuntersuchung|cribado masivo (screening en cadena)||S|sla|C2
+die Immunitätslage|situación inmunitaria (de la población)||S|sla|C2
+die Gesteinskunde|petrografía||S|sci|C2
+die Schichtfolge|secuencia estratigráfica||S|sci|C2
+das Leitfossil|fósil guía||S|sci|C2
+das Ergussgestein|roca efusiva||S|sci|C2
+der Gletscherschliff|estría glaciar||S|sci|C2
+die Kernbohrung|sondeo con testigo (de perforación)||S|sci|C2
+die Umkehrfunktion|función inversa||S|sci|C2
+die Beweisbarkeit|demostrabilidad||S|sci|C2
+die Gruppentheorie|teoría de grupos||S|sci|C2
+das Dualitätsprinzip|principio de dualidad||S|sci|C2
+die Knotentheorie|teoría de nudos||S|sci|C2
+der Vollständigkeitssatz|teorema de completitud||S|sci|C2
+das Bildungsideal|ideal formativo (Bildung)||S|let|C2
+die Kanondebatte|debate sobre el canon||S|let|C2
+die Stoffforschung|investigación de motivos y materias||S|let|C2
+die Germanistik|filología alemana||S|let|C2
+die Romanistik|filología románica||S|let|C2
+die Dichtungslehre|poética (teoría del decir poético)||S|let|C2
+die Literaturbetrachtung|contemplación crítica de la literatura||S|let|C2
+die Binnenerzählung|relato intercalado||S|let|C2
+die Erzählsituation|situación narrativa||S|let|C2
+die erlebte Rede|estilo indirecto libre||S|let|C2
+der Bewusstseinsstrom|corriente de conciencia||S|let|C2
+der Abglanz|reflejo velado (resplandor apagado)||S|let|C2
+die Wehklage|lamento plañidero||S|let|C2
+das Irrsal|errancia (vagabundeo)||S|let|C2
+die Holde|la bella (amada idealizada)||S|let|C2
+die Wonne|gozo embriagador||S|let|C2
+der Trübsinn|melancolía sombría||S|let|C2
+die Letztbegründung|fundamentación última||S|ast|C2
+die Gesinnungsethik|ética de convicción||S|ast|C2
+das Sittengesetz|ley moral||S|ast|C2

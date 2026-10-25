@@ -1,0 +1,160 @@
+die Gebärmutterruptur|rotura uterina||S|sla|C2
+die Uterusatonie|atonía uterina||S|sla|C2
+die Zervixinsuffizienz|insuficiencia istmocervical||S|sla|C2
+die Plazentalösung|desprendimiento de placenta||S|sla|C2
+der Nabelschnurvorfall|prolapso del cordón umbilical||S|sla|C2
+die Perinatalmedizin|medicina perinatal||S|sla|C2
+der Neugeborenenikterus|ictericia neonatal||S|sla|C2
+die Rachitis|raquitismo||S|sla|C2
+die Hüftendoprothese|endoprótesis de cadera||S|sla|C2
+die Kreuzbandruptur|rotura del ligamento cruzado||S|sla|C2
+die Wundheilungsstörung|alteración de la cicatrización||S|sla|C2
+die Lymphdrainage|drenaje linfático||S|sla|C2
+die Arthrodese|artrodesis||S|sla|C2
+die Pseudarthrose|pseudoartrosis||S|sla|C2
+die Gangschulung|reeducación de la marcha||S|sla|C2
+das Schmerzgedächtnis|memoria del dolor||S|sla|C2
+die Impfmüdigkeit|fatiga vacunal||S|sla|C2
+die Seroprävalenz|seroprevalencia||S|sla|C2
+das Ausbruchsmanagement|gestión de brotes||S|sla|C2
+der Impfdurchbruch|infección pese a la vacunación||S|sla|C2
+die Steuerfahndung|inspección fiscal contra el fraude||S|fin|C2
+die Selbstanzeige|regularización voluntaria del fraude fiscal||S|fin|C2
+das Karussellgeschäft|operación carrusel (fraude de IVA)||S|fin|C2
+der Progressionsvorbehalt|reserva de progresividad||S|fin|C2
+die Doppelbesteuerung|doble imposición||S|fin|C2
+die Quellensteuer|retención en la fuente||S|fin|C2
+die Vermögensabgabe|gravamen patrimonial||S|fin|C2
+der Härtefallausgleich|atenuación por situación de dificultad||S|fin|C2
+das Kreditausfallrisiko|riesgo de impago||S|fin|C2
+das Einlagensicherungssystem|sistema de garantía de depósitos||S|fin|C2
+der Dispozins|interés del descubierto||S|fin|C2
+die Restschuldversicherung|seguro de saldo pendiente||S|fin|C2
+das Eigenkapitalpolster|colchón de capital propio||S|fin|C2
+das Ausleihgeschäft|actividad crediticia||S|fin|C2
+der Unternehmenszusammenschluss|fusión de empresas||S|fin|C2
+die Abfindungsregelung|régimen de indemnización||S|fin|C2
+die Kartellfreigabe|autorización antimonopolio||S|fin|C2
+der Mantelkauf|compra de sociedad carcasa con pérdidas acumuladas||S|fin|C2
+der Buchwert|valor contable||S|fin|C2
+die Kaufpreisallokation|asignación del precio de adquisición||S|fin|C2
+die Konsumentenrente|excedente del consumidor||S|fin|C2
+die Quersubventionierung|subsidación cruzada||S|fin|C2
+die Angebotslücke|escasez de oferta||S|fin|C2
+die Nachfrageschwäche|debilidad de la demanda||S|fin|C2
+die Preisabsprache|pacto de precios||S|fin|C2
+der vollkommene Markt|mercado perfecto||E|fin|C2
+die Rückversicherung|reaseguro||S|fin|C2
+die Verjährungsfrist|plazo de prescripción||S|fin|C2
+das Kumulrisiko|riesgo de acumulación||S|fin|C2
+der Risikoträger|soporte del riesgo||S|fin|C2
+der Schadenshergang|circunstancias del siniestro||S|fin|C2
+das Schuldenerlassprogramm|programa de condonación de deuda||S|fin|C2
+die Mikrofinanzierung|microfinanciación||S|fin|C2
+die Wiederaufbauhilfe|ayuda a la reconstrucción||S|fin|C2
+die Nothilfemaßnahme|medida de ayuda de emergencia||S|fin|C2
+die Fördermittelvergabe|adjudicación de subvenciones||S|fin|C2
+die Entkolonialisierung|descolonización||S|att|C2
+die Retentionszeit|tiempo de retención (cromatografía)||S|sci|C2
+die Gravimetrie|gravimetría||S|sci|C2
+die Maßlösung|disolución valorante||S|sci|C2
+die Veraschung|cenizado de la muestra||S|sci|C2
+die Polarographie|polarografía||S|sci|C2
+der Blindwert|valor de blanco (análisis)||S|sci|C2
+die Elution|elución||S|sci|C2
+der Sprödbruch|rotura frágil||S|sci|C2
+die Hochtemperatursupraleitung|superconductividad de alta temperatura||S|sci|C2
+die Dielektrizitätskonstante|constante dieléctrica||S|sci|C2
+der Diamagnetismus|diamagnetismo||S|sci|C2
+der Einkristall|monocristal||S|sci|C2
+die Bandlücke|banda prohibida (semiconductores)||S|sci|C2
+die Werkstoffermüdung|fatiga del material||S|sci|C2
+der Dauerfrostboden|suelo de permafrost||S|sci|C2
+die Klimamodellrechnung|simulación climática||S|sci|C2
+die Meereisschmelze|deshielo del hielo marino||S|sci|C2
+die Inversionswetterlage|situación de inversión térmica||S|sci|C2
+die Versauerung der Meere|acidificación de los océanos||E|sci|C2
+der Klimawandelleugner|negacionista del cambio climático||S|att|C2
+der Staubsturm|tormenta de polvo||S|nat|C2
+das Leitfossil|fósil guía||S|sci|C2
+der Belemnit|belemnito||S|sci|C2
+das Massenaussterben|extinción masiva||S|sci|C2
+der Schädelfund|hallazgo de cráneo||S|sci|C2
+die Konvergenzerscheinung|fenómeno de convergencia evolutiva||S|sci|C2
+die Fossillagerstätte|yacimiento de fósiles||S|sci|C2
+der Koprolith|coprolito||S|sci|C2
+das Kapsid|cápside||S|sci|C2
+die Doppelinfektion|coinfección||S|sci|C2
+die Ansteckungsfähigkeit|capacidad de contagio||S|sci|C2
+die Replikationsrate|tasa de replicación||S|sci|C2
+das Genpatent|patente genética||S|sci|C2
+die Stammzelllinie|línea de células madre||S|sci|C2
+die Erbgutveränderung|alteración del genoma||S|sci|C2
+der Zellkerntransfer|transferencia de núcleo celular||S|sci|C2
+das Exon|exón||S|sci|C2
+der Kortex|corteza cerebral||S|sci|C2
+die Diffusionstensorbildgebung|imagen por tensor de difusión||S|sci|C2
+die Hirnwindung|circunvolución cerebral||S|sci|C2
+die Magnetenzephalographie|magnetoencefalografía||S|sci|C2
+die weiße Substanz|sustancia blanca||E|sci|C2
+die Reaktionszeitmessung|medición del tiempo de reacción||S|sci|C2
+die Hirnfurche|surco cerebral||S|sci|C2
+die Neurobildgebung|neuroimagen||S|sci|C2
+die Grenzflächenchemie|química de interfases||S|sci|C2
+der Kristallit|cristalito||S|sci|C2
+das Sinterverfahren|procedimiento de sinterización||S|sci|C2
+die Formgedächtnislegierung|aleación con memoria de forma||S|sci|C2
+der Kavitationsverschleiß|desgaste por cavitación||S|sci|C2
+die Kristallzüchtung|crecimiento de cristales||S|sci|C2
+die Lichtstreuung|dispersión de la luz||S|sci|C2
+das Interferenzbild|figura de interferencia||S|sci|C2
+die Schwingungsanregung|excitación de vibraciones||S|sci|C2
+die Nachhallzeit|tiempo de reverberación||S|sci|C2
+die Wellenfront|frente de onda||S|sci|C2
+der Polarisationsfilter|filtro polarizador||S|sci|C2
+das Streulicht|luz difusa||S|sci|C2
+der Wärmeübergang|transmisión de calor||S|sci|C2
+die Wirbelbildung|formación de vórtices||S|sci|C2
+die Entropiezunahme|aumento de entropía||S|sci|C2
+die Kavitationsblase|burbuja de cavitación||S|sci|C2
+das Phasendiagramm|diagrama de fases||S|sci|C2
+die Luftbildauswertung|interpretación de imágenes aéreas||S|sci|C2
+die Schichtlinie|curva de nivel||S|sci|C2
+das Rasterbild|imagen ráster||S|tec|C2
+die Ortsauflösung|resolución espacial||S|sci|C2
+die Vektordaten|datos vectoriales||S|sci|C2
+die Reliefdarstellung|representación del relieve||S|sci|C2
+das Mysterienspiel|teatro de misterios (medieval)||S|let|C2
+die vierte Wand|cuarta pared||E|let|C2
+die Nebenfigur|personaje secundario||S|let|C2
+der Erwartungshorizont|horizonte de expectativas del lector||S|let|C2
+die Editionsphilologie|filología de la edición||S|let|C2
+die Überlieferungslage|estado de la tradición manuscrita||S|let|C2
+die Übersetzungskompetenz|competencia traductora||S|let|C2
+das Simultandolmetschen|interpretación simultánea||S|let|C2
+die Interferenzerscheinung|fenómeno de interferencia (traducción)||S|let|C2
+die Translationswissenschaft|traductología||S|let|C2
+die Zeitkritik|crítica de la época||S|let|C2
+die Ideenwelt|mundo de las ideas||S|ast|C2
+der Essayismus|ensayismo||S|let|C2
+die Gelehrtenrepublik|república de las letras||S|let|C2
+der Endzeitroman|novela apocalíptica||S|let|C2
+die Weltuntergangsstimmung|clima apocalíptico||S|let|C2
+der Gegenentwurf|contraproyecto||S|ast|C2
+der Perfektionswahn|obsesión perfeccionista||S|ast|C2
+der Maschinenmensch|hombre-máquina||S|let|C2
+die Schreckensvision|visión de espanto||S|let|C2
+der Kanonstreit|polémica sobre el canon||S|let|C2
+der Klassikerstatus|condición de clásico||S|let|C2
+das Erstlingswerk|obra primeriza||S|let|C2
+die Rücklaufquote|tasa de respuesta (encuesta)||S|sci|C2
+der Zustimmungswert|índice de aprobación||S|att|C2
+die Bevölkerungsbefragung|encuesta a la población||S|att|C2
+das Meinungsklima|clima de opinión||S|att|C2
+das Waffenstillstandsabkommen|acuerdo de alto el fuego||S|ist|C2
+die Friedenskonsolidierung|consolidación de la paz||S|ist|C2
+der Zündstoff|materia de conflicto||S|att|C2
+die Eskalationsstufe|nivel de escalada||S|ist|C2
+die Deeskalationsstrategie|estrategia de desescalada||S|ist|C2
+die Friedensdividende|dividendo de la paz||S|ist|C2
+die Geiselbefreiung|liberación de rehenes||S|ist|C2

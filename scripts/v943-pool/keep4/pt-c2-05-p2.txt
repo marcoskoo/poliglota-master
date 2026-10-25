@@ -1,0 +1,272 @@
+heterozigose|heterocigosis||S|sci|C2
+penetrância|penetrancia||S|sci|C2
+epistasia|epistasia||S|sci|C2
+pleiotropia|pleiotropía||S|sci|C2
+aneuploidia|aneuploidía||S|sci|C2
+poliploidia|poliploidía||S|sci|C2
+haplotipo|haplotipo||S|sci|C2
+eucromatina|eucromatina||S|sci|C2
+heterocromatina|heterocromatina||S|sci|C2
+impressão genómica|impronta genómica||L|sci|C2
+proteoma|proteoma||S|sci|C2
+transcriptoma|transcriptoma||S|sci|C2
+epigenoma|epigenoma||S|sci|C2
+quimerismo|quimerismo||S|sci|C2
+mosaicismo|mosaicismo||S|sci|C2
+especiação alopátrica|especiación alopátrica||L|sci|C2
+especiação simpátrica|especiación simpátrica||L|sci|C2
+cladogénese|cladogénesis||S|sci|C2
+paedomorfose|pedomorfosis||S|sci|C2
+homoplasia|homoplasia||S|sci|C2
+apomorfia|apomorfía||S|sci|C2
+plesiomorfia|plesiomorfía||S|sci|C2
+codão|codón||S|sci|C2
+anticodão|anticodón||S|sci|C2
+operão|operón||S|sci|C2
+vector viral|vector viral||L|sci|C2
+clonagem terapêutica|clonación terapéutica||L|sci|C2
+transgénico|transgénico||A|sci|C2
+cisgénico|cisgénico||A|sci|C2
+hibridoma|hibridoma||S|sci|C2
+xenotransplante|xenotrasplante||S|sci|C2
+biorreator|biorreactor||S|sci|C2
+microscopia confocal|microscopía confocal||L|sci|C2
+opsonização|opsonización||S|sci|C2
+endocitose|endocitosis||S|sci|C2
+pinocitose|pinocitosis||S|sci|C2
+linfocina|linfocina||S|sci|C2
+interleucina|interleucina||S|sci|C2
+hapteno|hapteno||S|sci|C2
+epítopo|epítopo||S|sci|C2
+paratopo|paratopo||S|sci|C2
+idiotipo|idiotipo||S|sci|C2
+alotipo|alotipo||S|sci|C2
+imunossenescência|inmunosenescencia||S|sci|C2
+saprofitismo|saprofitismo||S|sci|C2
+sorovar|sorovar||S|sci|C2
+esporulação|esporulación||S|sci|C2
+conídio|conidio||S|sci|C2
+plasmídeo|plasmídeo||S|sci|C2
+lisogenia|lisogenia||S|sci|C2
+disbiose|disbiosis||S|sci|C2
+bacteriemia|bacteriemia||S|sci|C2
+viremia|viremia||S|sci|C2
+neuromodulador|neuromodulador||S|sci|C2
+potenciação de longa duração|potenciación a largo plazo||L|sci|C2
+prosopagnosia|prosopagnosia||S|sci|C2
+acalculia|acalculia||S|sci|C2
+alexia|alexia (incapacidad de leer)||S|sci|C2
+amnésia anterógrada|amnesia anterógrada||L|sci|C2
+confabulação|confabulación||S|sci|C2
+pareidolia|pareidolia||S|sci|C2
+interocepção|interocepción||S|sci|C2
+nocicepção|nocicepción||S|sci|C2
+desmielinização|desmielinización||S|sci|C2
+poda sináptica|poda sináptica||L|sci|C2
+núcleo caudado|núcleo caudado||L|sci|C2
+circunvolução|circunvolución||S|sci|C2
+neurónio-espelho|neurona espejo||S|sci|C2
+enantímero|enantiómero||S|sci|C2
+diastereómero|diastereoisómero||S|sci|C2
+racemato|racemato||S|sci|C2
+quelação|quelación||S|sci|C2
+estereoquímica|estereoquímica||S|sci|C2
+copolímero|copolímero||S|sci|C2
+oligómero|oligómero||S|sci|C2
+autocatálise|autocatálisis||S|sci|C2
+esterificação|esterificación||S|sci|C2
+saponificação|saponificación||S|sci|C2
+volumetria|volumetría||S|sci|C2
+gravimetria|gravimetría||S|sci|C2
+eluente|eluyente||S|sci|C2
+azeótropo|azeótropo||S|sci|C2
+miscibilidade|miscibilidad||S|sci|C2
+hidrofobicidade|hidrofobicidad||S|sci|C2
+anfótero|anfótero||A|sci|C2
+alotropia|alotropía||S|sci|C2
+hidreto|hidruro||S|sci|C2
+carboneto|carburo||S|sci|C2
+solvatação|solvatación||S|sci|C2
+entrelaçamento|entrelazamiento||S|sci|C2
+decoerência|decoherencia||S|sci|C2
+não-localidade|no localidad||S|sci|C2
+efeito túnel|efecto túnel||L|sci|C2
+spintrónica|espintrónica||S|sci|C2
+fermião|fermión||S|sci|C2
+leptão|leptón||S|sci|C2
+barião|barión||S|sci|C2
+supercondutividade|superconductividad||S|sci|C2
+criogenia|criogenia||S|sci|C2
+renormalização|renormalización||S|sci|C2
+espalhamento inelástico|dispersión inelástica||L|sci|C2
+ergosfera|ergosfera||S|sci|C2
+disco de acreção|disco de acreción||L|sci|C2
+anã castanha|enana marrón||L|sci|C2
+magnetar|magnetar||S|sci|C2
+cefeida|cefeida (variable)||S|sci|C2
+nucleossíntese|nucleosíntesis||S|sci|C2
+inflação cósmica|inflación cósmica||L|sci|C2
+constante cosmológica|constante cosmológica||L|sci|C2
+princípio antrópico|principio antrópico||L|sci|C2
+protoestrela|protoestrella||S|sci|C2
+horizonte de acontecimentos|horizonte de sucesos||L|sci|C2
+teia cósmica|red cósmica||L|sci|C2
+desvio para o vermelho|corrimiento al rojo||L|sci|C2
+subducção|subducción||S|nat|C2
+obdução|obducción||S|nat|C2
+falha transformante|falla transformante||L|nat|C2
+graben|graben (fosa tectónica)||S|nat|C2
+horst|horst (bloque alzado)||S|nat|C2
+astenosfera|astenosfera||S|nat|C2
+pluma mantélica|pluma del manto||L|nat|C2
+piroclasto|piroclasto||S|nat|C2
+ignimbrito|ignimbrita||S|nat|C2
+gabro|gabro||S|nat|C2
+peridotito|peridotita||S|nat|C2
+bioestratigrafia|bioestratigrafía||S|nat|C2
+datação radiométrica|datación radiométrica||L|nat|C2
+tafonomia|tafonomía||S|nat|C2
+icnofóssil|icnofósil||S|nat|C2
+moreia|morrena||S|nat|C2
+criosfera|criosfera||S|nat|C2
+isostasia|isostasia||S|nat|C2
+enviesamento de seleção|sesgo de selección||L|sci|C2
+confundidor|variable de confusión||S|sci|C2
+endogeneidade|endogeneidad||S|sci|C2
+heterocedasticidade|heterocedasticidad||S|sci|C2
+variável instrumental|variable instrumental||L|sci|C2
+pareamento|emparejamiento||S|sci|C2
+validade de construto|validez de constructo||L|sci|C2
+poder estatístico|potencia estadística||L|sci|C2
+pré-registo|preregistro||S|sci|C2
+replicabilidade|replicabilidad||S|sci|C2
+fração atribuível|fracción atribuible||L|sci|C2
+razão de probabilidades|razón de probabilidades (odds ratio)||L|sci|C2
+contrafactual|contrafactual||S|sci|C2
+variável latente|variable latente||L|sci|C2
+soroprevalência|seroprevalencia||S|sla|C2
+vigilância sentinela|vigilancia centinela||L|sla|C2
+notificação obrigatória|declaración obligatoria||L|sla|C2
+morbimortalidade|morbimortalidad||S|sla|C2
+letalidade|letalidad||S|sla|C2
+despistagem|cribado (detección precoz)||S|sla|C2
+literacia em saúde|alfabetización sanitaria||L|sla|C2
+excipiente|excipiente||S|sla|C2
+bioequivalência|bioequivalencia||S|sla|C2
+taquifilaxia|taquifilaxia||S|sla|C2
+libertação prolongada|liberación prolongada||L|sla|C2
+adesivo transdérmico|parche transdérmico||L|sla|C2
+agonista inverso|agonista inverso||L|sla|C2
+efeito de primeira passagem|efecto de primer paso||L|sla|C2
+depuração renal|aclaramiento renal||L|sla|C2
+relação dose-resposta|relación dosis-respuesta||L|sla|C2
+ocultação da alocação|ocultación de la asignación||L|sla|C2
+homeomorfismo|homeomorfismo||S|sci|C2
+difeomorfismo|difeomorfismo||S|sci|C2
+autovalor|autovalor||S|sci|C2
+martingala|martingala (proceso estocástico)||S|sci|C2
+ergodicidade|ergodicidad||S|sci|C2
+estacionariedade|estacionariedad||S|sci|C2
+redução ao absurdo|reducción al absurdo||L|sci|C2
+contrapositivo|contrapositivo||S|sci|C2
+decidibilidade|decidibilidad||S|sci|C2
+completude|completitud||S|sci|C2
+antinomia|antinomia||S|sci|C2
+incomensurabilidade|inconmensurabilidad||S|sci|C2
+falseabilidade|falseabilidad||S|sci|C2
+verificacionismo|verificacionismo||S|sci|C2
+redondilha|redondilla||S|let|C2
+decassílabo|decasílabo||S|let|C2
+hendecassílabo|hendecasílabo||S|let|C2
+cesura|cesura||S|let|C2
+sinalefa|sinalefa||S|let|C2
+rima toante|rima asonante||L|let|C2
+oitava real|octava real||L|let|C2
+sextina|sextina||S|let|C2
+glosa|glosa||S|let|C2
+endecha|endecha||S|let|C2
+cantiga de amigo|cantiga de amigo (género medieval)||L|let|C2
+cantiga de escárnio|cantiga de escarnio||L|let|C2
+prosopopeia|prosopopeya||S|let|C2
+antífrase|antífrasis (ironía)||S|let|C2
+preterição|preterición||S|let|C2
+litote|lítote||S|let|C2
+apólogo|apólogo||S|let|C2
+égloga|égloga||S|let|C2
+diégese|diegesis||S|let|C2
+homodiegético|homodiegético||A|let|C2
+narratário|narratario||S|let|C2
+metalepse|metalepsis||S|let|C2
+metaficção|metaficción||S|let|C2
+hipotexto|hipotexto||S|let|C2
+hipertexto|hipertexto||S|let|C2
+isotopia|isotopía (narrativa)||S|let|C2
+actante|actante||S|let|C2
+alvores|albores||S|let|C2
+alvíssaras|albricias||S|let|C2
+ditoso|dichoso (venturoso)||A|let|C2
+cismar|cavilar||V|let|C2
+requebro|requiebro||S|let|C2
+esgar|mueca||S|let|C2
+espargir|esparcir||V|let|C2
+dest'arte|destarte (de esta manera)||D|let|C2
+estrela-d'alva|lucero del alba||S|nat|C2
+morriña|morrina||S|let|C2
+fulgor|fulgor||S|let|C2
+arauto|heraldo||S|let|C2
+solavanco|bandazo (sacudida)||S|vig|C2
+revérbero|reflejo (de luz)||S|let|C2
+míngua|mengua||S|let|C2
+perder a tramontana|perder el norte||E|cmu|C2
+codicologia|codicología||S|let|C2
+sigilografia|sigilografía||S|let|C2
+cartulário|cartulario||S|let|C2
+regesto|regesto||S|let|C2
+incunábulo|incunable||S|let|C2
+prosopografia|prosopografía||S|let|C2
+presentismo|presentismo||S|let|C2
+micro-história|microhistoria||S|let|C2
+mesóclise|mesóclisis||S|let|C2
+hapax legomenon|hapax legomenon||L|let|C2
+calco semântico|calco semántico||L|let|C2
+monoftongação|monoptongación||S|let|C2
+metafonia|metafonía||S|let|C2
+metaplasmo|metaplasmo||S|let|C2
+ilocutório|ilocutivo||A|let|C2
+perlocutório|perlocutivo||A|let|C2
+suprassegmental|suprasegmental||A|let|C2
+elocução|elocución||S|let|C2
+topicalização|topicalización||S|let|C2
+aporia|aporía||S|ast|C2
+doxa|doxa (opinión)||S|ast|C2
+episteme|episteme (saber científico)||S|ast|C2
+noema|noema||S|ast|C2
+noesis|noesis||S|ast|C2
+epoché|epoché (suspensión del juicio)||S|ast|C2
+quididade|quiddidad (esencia)||S|ast|C2
+haecceidade|haecceidad (estidad)||S|ast|C2
+ipseidade|ipseidad||S|ast|C2
+consequencialismo|consecuencialismo||S|ast|C2
+compatibilismo|compatibilismo||S|ast|C2
+qualia|qualia||S|ast|C2
+superveniência|superveniencia||S|ast|C2
+emergentismo|emergentismo||S|ast|C2
+panpsiquismo|panpsiquismo||S|ast|C2
+círculo hermenêutico|círculo hermenéutico||L|ast|C2
+pré-compreensão|precomprensión||S|ast|C2
+arqueologia do saber|arqueología del saber||L|ast|C2
+biopoder|biopoder||S|ast|C2
+biopolítica|biopolítica||S|ast|C2
+governamentalidade|gubernamentalidad||S|ast|C2
+heterotopia|heterotopía||S|ast|C2
+imediaticidade|inmediatez||S|ast|C2
+coisa em si|cosa en sí||L|ast|C2
+em si e para si|en sí y para sí||L|ast|C2
+recalque|represión (psicoanalítica)||S|ast|C2
+contratransferência|contratransferencia||S|ast|C2
+clivagem|escisión (psicoanalítica)||S|ast|C2
+desmentido|desmentido (denegación)||S|ast|C2
+sobredeterminação|sobredeterminación||S|ast|C2
+compulsão à repetição|compulsión a la repetición||L|ast|C2
+devaneio|ensoñación||S|ast|C2
+estádio do espelho|estadio del espejo||L|ast|C2

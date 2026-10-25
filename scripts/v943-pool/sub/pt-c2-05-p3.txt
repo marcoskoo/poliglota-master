@@ -1,0 +1,362 @@
+realpolitik|realpolitik||S|ist|C2
+vassalagem|vasallaje||S|ist|C2
+suserania|suzeranía||S|ist|C2
+suserano|suzerano||S|ist|C2
+hiperpotência|hiperpotencia||S|ist|C2
+cordão sanitário|cordón sanitario||L|ist|C2
+irredentismo|irredentismo||S|ist|C2
+multipolaridade|multipolaridad||S|ist|C2
+hinterland|hinterland (retaguarda económica)||S|ist|C2
+caciquismo|caciquismo||S|ist|C2
+cleptocracia|cleptocracia||S|ist|C2
+gerontocracia|gerontocracia||S|ist|C2
+isonomia|isonomía||S|ist|C2
+garantismo|garantismo||S|ist|C2
+governabilidade|gobernabilidad||S|ist|C2
+apuramento|escrutinio (recuento)||S|ist|C2
+ascensor social|ascensor social||L|att|C2
+pós-verdade|posverdad||S|att|C2
+periferização|periferización||S|att|C2
+gentrificação|gentrificación||S|att|C2
+realojamento|realojamiento||S|att|C2
+família recomposta|familia reconstituida||L|rel|C2
+nupcialidade|nupcialidad||S|att|C2
+fecundidade|fecundidad||S|att|C2
+morbilidade|morbilidad||S|att|C2
+envelhecimento demográfico|envejecimiento demográfico||L|att|C2
+pirâmide etária|pirámide de edad||L|att|C2
+liminaridade|liminalidad||S|att|C2
+subalternidade|subalternidad||S|att|C2
+pós-colonial|poscolonial||A|att|C2
+decolonialidade|decolonialidad||S|att|C2
+creolização|creolización||S|att|C2
+glocalização|glocalización||S|att|C2
+etnocídio|etnocidio||S|att|C2
+émico|émico (punto de vista interno)||A|att|C2
+habitus|habitus (disposición incorporada)||S|att|C2
+efeito manada|efecto manada||L|att|C2
+gralha|errata (fallo tipográfico)||S|att|C2
+necrológio|esquela (sección necrológica)||S|att|C2
+apojadura|apoyatura||S|mus|C2
+grupeto|grupeto||S|mus|C2
+orfeão|orfeón||S|mus|C2
+modinha|modinha||S|mus|C2
+acalanto|nana (canción de cuna)||S|mus|C2
+politonalidade|politonalidad||S|mus|C2
+dodecafonismo|dodecafonismo||S|mus|C2
+serialismo|serialismo||S|mus|C2
+coxia|coxia (fondo del escenario)||S|art|C2
+contracena|contrajuego (réplica en escena)||S|art|C2
+deixa|dejo (indicación de entrada)||S|art|C2
+espineta|espineta||S|mus|C2
+clavicórdio|clavicordio||S|mus|C2
+decupagem|desglose (de planos)||S|cin|C2
+contra-plano|contraplano||S|cin|C2
+montagem paralela|montaje paralelo||L|cin|C2
+talha dourada|talla dorada (retablo barroco)||L|art|C2
+vernissagem|vernissage||S|art|C2
+comissariado|comisariado (de una exposición)||S|art|C2
+luminotecnia|luminotecnia||S|art|C2
+biodeterioração|biodeterioro||S|art|C2
+douração|dorado (a oro)||S|art|C2
+esgrafito|esgrafiado||S|art|C2
+marquetaria|marquetería||S|art|C2
+quadratura|quadratura (pintura ilusionista)||S|art|C2
+grisalha|grisalla||S|art|C2
+imprimadura|imprimación||S|art|C2
+craqueladura|craquelado||S|art|C2
+azulejaria|azulejería||S|art|C2
+sublimidade|sublimidad||S|art|C2
+grandiloquente|grandilocuente||A|let|C2
+enviesamento algorítmico|sesgo algorítmico||L|tec|C2
+sobreajustamento|sobreajuste||S|tec|C2
+subajustamento|subajuste||S|tec|C2
+retropropagação|retropropagación||S|tec|C2
+lematização|lematización||S|tec|C2
+tokenização|tokenización||S|tec|C2
+etiquetagem|etiquetado (de datos)||S|tec|C2
+explicabilidade|explicabilidad||S|tec|C2
+desambiguação|desambiguación||S|tec|C2
+dados massivos|datos masivos||L|tec|C2
+criptograma|criptograma||S|tec|C2
+criptossistema|criptosistema||S|tec|C2
+função de resumo|función resumen||L|tec|C2
+criptoativo|criptoactivo||S|fin|C2
+carteira fria|cartera fría||L|fin|C2
+carteira quente|cartera caliente||L|fin|C2
+armazenamento a frio|almacenamiento en frío||L|fin|C2
+registo distribuído|registro distribuido||L|tec|C2
+prova de trabalho|prueba de trabajo||L|fin|C2
+prova de participação|prueba de participación||L|fin|C2
+gasto duplo|doble gasto||L|fin|C2
+ciberespionagem|ciberespionaje||S|tec|C2
+porta traseira|puerta trasera||L|tec|C2
+itinerância|itinerancia (roaming)||S|tec|C2
+atendedor de chamadas|contestador (de llamadas)||L|tec|C2
+resíduo radiativo|residuo radiactivo||S|tec|C2
+salvaguardas nucleares|salvaguardas nucleares||L|tec|C2
+interligação elétrica|interconexión eléctrica||L|tec|C2
+sobretensão|sobretensión||S|tec|C2
+consumo em vazio|consumo en modo de espera||L|tec|C2
+neutralidade carbónica|neutralidad de carbono||L|tec|C2
+captura de carbono|captura de carbono||L|tec|C2
+empuxo|empuje (propulsión)||S|tec|C2
+trem de aterragem|tren de aterrizaje||L|tec|C2
+estanqueidade|estanqueidad||S|tec|C2
+voo rasante|vuelo rasante||L|tec|C2
+vaivém espacial|transbordador espacial||L|tec|C2
+amaragem|amerizaje||S|tec|C2
+acoplagem|acoplamiento (acoplamiento espacial)||S|tec|C2
+perigeu|perigeo||S|sci|C2
+veículo lançador|vehículo lanzador||L|tec|C2
+fato espacial|traje espacial||L|tec|C2
+efetuador|efector (del robot)||S|tec|C2
+laço fechado|lazo cerrado||L|tec|C2
+retroação|retroalimentación||S|tec|C2
+servomecanismo|servomecanismo||S|tec|C2
+paletização|paletizado||S|tec|C2
+transelevador|transelevador||S|tec|C2
+holonómico|holonómico||A|tec|C2
+teleoperação|teleoperación||S|tec|C2
+atuador|actuador||S|tec|C2
+corrente de jato|corriente en chorro||L|nat|C2
+teleconexão|teleconexión||S|nat|C2
+aridificação|aridificación||S|nat|C2
+balanço hídrico|balance hídrico||L|nat|C2
+evapotranspiração|evapotranspiración||S|nat|C2
+pluviosidade|pluviosidad||S|nat|C2
+radiossonda|radiosonda||S|nat|C2
+reanálise|reanálisis (climática)||S|nat|C2
+variabilidade interanual|variabilidad interanual||L|nat|C2
+circulação termoalina|circulación termohalina||L|nat|C2
+ressurgência|surgencia (surgencia costera)||S|nat|C2
+talude continental|talud continental||L|nat|C2
+mareógrafo|mareógrafo||S|nat|C2
+maré viva|marea viva||L|nat|C2
+nécton|necton||S|ani|C2
+demersal|demersal||A|ani|C2
+eurihalino|eurihalino||A|ani|C2
+poluidor-pagador|el que contamina paga (principio)||S|nat|C2
+estatuto de conservação|estatus de conservación||L|nat|C2
+serviços ecossistémicos|servicios ecosistémicos||L|nat|C2
+escassez hídrica|escasez hídrica||L|nat|C2
+luta integrada|lucha integrada (contra plagas)||L|nat|C2
+luta biológica|control biológico (contra plagas)||L|nat|C2
+sequeiro|secano (cultivo sin riego)||S|nat|C2
+pousio|barbecho||S|nat|C2
+bisturi elétrico|bisturí eléctrico||S|sla|C2
+eletrocautério|electrocauterio||S|sla|C2
+afastador|separador (instrumental quirúrgico)||S|sla|C2
+sugador|aspirador (quirúrgico)||S|sla|C2
+pinçamento|pinzamiento (vascular)||S|sla|C2
+trocarte|trocar||S|sla|C2
+porta-agulhas|portaagujas||S|sla|C2
+penso hemostático|apósito hemostático||S|sla|C2
+campo estéril|campo estéril||L|sla|C2
+desbridamento|desbridamiento||S|sla|C2
+exérese|exéresis||S|sla|C2
+fio reabsorvível|hilo reabsorbible||S|sla|C2
+herniorrafia|herniorrafia||S|sla|C2
+deiscência|dehiscencia (de la herida operatoria)||S|sla|C2
+algaliação|sondaje vesical||S|sla|C2
+toracocentese|toracocentesis||S|sla|C2
+paracentese|paracentesis||S|sla|C2
+punção lombar|punción lumbar||L|sla|C2
+lavagem broncoalveolar|lavado broncoalveolar||L|sla|C2
+coronariografia|coronariografía||S|sla|C2
+ergometria|ergometría||S|sla|C2
+hemocultura|hemocultivo||S|sla|C2
+urocultura|urocultivo||S|sla|C2
+coprocultura|coprocultivo||S|sla|C2
+soroconversão|seroconversión||S|sla|C2
+serotipagem|serotipado||S|sla|C2
+quimioprofilaxia|quimioprofilaxis||S|sla|C2
+braquiterapia|braquiterapia||S|sla|C2
+esferocitose|esferocitosis||S|sla|C2
+galactosemia|galactosemia||S|sla|C2
+alcaptonúria|alcaptonuria||S|sla|C2
+mucopolissacaridose|mucopolisacaridosis||S|sla|C2
+amiloidose|amiloidosis||S|sla|C2
+granulomatose|granulomatosis||S|sla|C2
+hipersonia|hipersomnia||S|sla|C2
+parassonia|parasomnia||S|sla|C2
+polissonografia|polisomnografía||S|sla|C2
+imunohistoquímica|inmunohistoquímica||S|sla|C2
+quilotórax|quilotórax||S|sla|C2
+empiema|empiema||S|sla|C2
+estridor|estridor||S|sla|C2
+frêmito|fremimiento (táctil)||S|sla|C2
+timpanograma|timpanograma||S|sla|C2
+retoscopia|rectoscopia||S|sla|C2
+rinoscopia|rinoscopia||S|sla|C2
+parotidite|parotiditis||S|sla|C2
+sialorreia|sialorrea||S|sla|C2
+eritrocitose|eritrocitosis||S|sla|C2
+trombocitopenia|trombocitopenia||S|sla|C2
+estertor|estertor||S|sla|C2
+ortopneia|ortopnea||S|sla|C2
+hemoptisia|hemoptisis||S|sla|C2
+taquipneia|taquipnea||S|sla|C2
+efeito iatrogénico|efecto yatrogénico||L|sla|C2
+valvuloplastia|valvuloplastia||S|sla|C2
+livedo|livedo (reticularis)||S|sla|C2
+liquenificação|liquenificación||S|sla|C2
+escoriação|excoriación (de la piel)||S|sla|C2
+neoadjuvante|neoadyuvante||A|sla|C2
+paraneoplásico|paraneoplásico||A|sla|C2
+carga tumoral|carga tumoral||L|sla|C2
+insulinorresistência|insulinorresistencia||S|sla|C2
+discinesia|discinesia||S|sla|C2
+bradicinesia|bradicinesia||S|sla|C2
+mioclonia|mioclonía||S|sla|C2
+desrealização|desrealización||S|sla|C2
+anedonia|anedonia||S|sla|C2
+distimia|distimia||S|sla|C2
+ciclotimia|ciclotimia||S|sla|C2
+coprolalia|coprolalia||S|sla|C2
+ecolalia|ecolalia||S|sla|C2
+abulia|abulia||S|sla|C2
+sintonização afetiva|sintonía afectiva (con el bebé)||L|sla|C2
+obstinação terapêutica|encarnizamiento terapéutico||L|sla|C2
+distanásia|distanasia||S|sla|C2
+ortotanásia|ortotanasia||S|sla|C2
+testamento vital|testamento vital||L|sla|C2
+não maleficência|no maleficencia (principio)||L|sla|C2
+nocebo|nocebo||S|sla|C2
+diacronia|diacronía||S|ast|C2
+transitoriedade|transitoriedad||S|ast|C2
+rememoração|rememoración||S|ast|C2
+obliteração|obliteración||S|ast|C2
+exéquias|exequias||S|ist|C2
+catafalco|catafalco||S|ist|C2
+probidade|probidad||S|ast|C2
+prodigalidade|prodigalidad||S|ast|C2
+pudicícia|pudicia||S|ast|C2
+pudibundo|pudibundo||A|ast|C2
+mesquinhez|mezquindad||S|ast|C2
+opróbrio|oprobio||S|ast|C2
+ignomínia|ignominia||S|ast|C2
+infausto|infausto||A|ast|C2
+desdita|desdicha||S|ast|C2
+mofino|apocado (desventurado)||A|ast|C2
+acrasia|acrasia (incontinencia de la voluntad)||S|ast|C2
+eudaimonia|eudaimonía||S|ast|C2
+desfastio|hastío (repugnancia)||S|ast|C2
+inopinado|inopinado (imprevisto)||A|ast|C2
+iniludível|ineludible||A|ast|C2
+insuspeito|insospechado (digno de crédito)||A|ast|C2
+impecunioso|impecunioso (sin blanca)||A|ast|C2
+outrossim|asimismo||D|cnn|C2
+destarte|destarte (de esta suerte)||D|cnn|C2
+a bem dizer|por así decirlo||L|cnn|C2
+águas passadas|aguas pasadas (lo pasado, pasado)||L|let|C2
+de cor e salteado|de carrerilla (de memoria)||L|let|C2
+a olhos vistos|a ojos vistas (visiblemente)||L|cmu|C2
+a bom entendedor|a buen entendedor (media palabra)||L|let|C2
+de boa mente|de buena gana||L|let|C2
+vir a calhar|venir al pelo||L|cmu|C2
+de mansinho|quedamente (paso a paso)||L|cmu|C2
+cortina de fumo|cortina de humo (maniobra de distracción)||L|cmu|C2
+por meias palavras|por medias palabras (con insinuaciones)||L|cmu|C2
+verdades a meias|verdades a medias||L|cmu|C2
+sobrentendido|sobreentendido (lo tácito)||S|cmu|C2
+anfibologia|anfibología (ambigüedad de construcción)||S|let|C2
+chico-esperto|pícaro avispado (matreiro)||S|cmu|C2
+engonçado|desgarbado (torpe)||A|cmu|C2
+paspalho|pasmarote||S|cmu|C2
+lesto|ligero y pronto||A|cmu|C2
+atarracado|achaparrado (rechoncho)||A|cmu|C2
+espampanante|apantallante||A|cmu|C2
+estapafúrdio|estrafalario||A|cmu|C2
+atocaiar|emboscar (aguardar para sorprender)||V|cmu|C2
+espinafrar|echar una bronca (a alguien)||V|cmu|C2
+estoirar|reventar (con estrépito)||V|cmu|C2
+arrenegar|maldecir (renegar)||V|cmu|C2
+tresandar|apestar a (oler intensamente a)||V|cmu|C2
+mangar|tomar el pelo (burlarse)||V|cmu|C2
+achincalhar|vejar (enxovalhar publicamente)||V|cmu|C2
+embirrar|emperrarse (empecinarse)||V|cmu|C2
+de roldão|en bloque (de una vez)||L|cmu|C2
+à boca cheia|a voz en cuello (a boca llena)||L|cmu|C2
+pé atrás|pies atrás (desconfianza cautelosa)||L|cmu|C2
+pulga atrás da orelha|mosca detrás de la oreja||L|cmu|C2
+de mão beijada|de buena gana (sin rechistar)||L|cmu|C2
+sem-vergonhice|sinvergonzonería||S|cmu|C2
+desfaçatez|desfachatez||S|cmu|C2
+afoiteza|imprudencia (atolondramiento)||S|cmu|C2
+espigueiro|hórreo||S|nat|C2
+adufe|adufe (pandero cuadrado)||S|mus|C2
+entrudo|antruejo (carnaval tradicional)||S|sve|C2
+careto|careto (máscara ritual)||S|nat|C2
+almocreve|arriero (muletero)||S|pro|C2
+varapau|varapalo||S|nat|C2
+suestada|suestada (temporal del sudeste)||S|nat|C2
+rebentação|rompiente (quebra das ondas)||S|nat|C2
+bolina|bolina (navegación a la ceñida)||S|vig|C2
+orçar|orzar (meter la proa al viento)||V|vig|C2
+enxárcia|jarcia (cordaje del navío)||S|vig|C2
+velame|velamen (conjunto de velas)||S|vig|C2
+bivaque|vivac||S|vig|C2
+bivacar|hacer vivac||V|vig|C2
+cordada|cordada (equipo de alpinistas)||S|vig|C2
+cumeada|cordal (divisoria de aguas)||S|nat|C2
+serac|sérac (bloque de hielo)||S|nat|C2
+lezíria|vega de aluvión||S|nat|C2
+esteiro|estero (brazo de ría)||S|nat|C2
+chanfana|chanfana (guiso de cabra)||S|ali|C2
+enleio|embeleso (arrobamiento)||S|emo|C2
+enlevo|arrobamiento||S|emo|C2
+desafeição|desafección (desamor)||S|emo|C2
+afrontamento|afrontamiento (intento osado)||S|emo|C2
+ensoberbecimento|envanecimiento (orgullo hinchado)||S|emo|C2
+longanimidade|longanimidad (paciencia heroica)||S|emo|C2
+obsequiosidade|obsequiosidad (afán de agradar)||S|emo|C2
+ufanismo|ufanismo (jactancia)||S|emo|C2
+acanhamento|apocamiento (sonrojo)||S|emo|C2
+despeito|despecho (resentimiento)||S|emo|C2
+desvelos|desvelos (cuidados esmerados)||S|emo|C2
+desforra|desquite (revancha)||S|emo|C2
+mexeriqueiro|chismoso (cuentista)||S|rel|C2
+a rogo|a ruego (firmado por outro)||L|ist|C2
+martelada|martillazo (adjudicación a martillo)||S|ist|C2
+autuação|incoación (abertura do expediente)||S|ist|C2
+caderno de encargos|pliego de condiciones (cláusulas do contrato)||L|ist|C2
+caução provisória|garantía provisional (de licitação)||L|ist|C2
+arrematação|remate (almoneda)||S|ist|C2
+unidade curricular|asignatura (do curso)||S|stu|C2
+propedêutico|propedéutico (preparatório)||A|stu|C2
+remuneratório|remunerativo (relativo ao salário)||A|lav|C2
+recondução|reconducción (readscripción forzosa)||S|lav|C2
+etograma|etograma (repertorio de pautas)||S|ani|C2
+filopatria|filopatría (tendencia al retorno)||S|ani|C2
+altricial|altricial (cría inmadura)||A|ani|C2
+nidífugo|nidífugo (cría precoz)||A|ani|C2
+ovopositor|ovopositor (aparato postor)||S|ani|C2
+exúvia|exuvias (muda deixada)||S|ani|C2
+alomona|alomona (sinal interespecífico)||S|ani|C2
+cairomona|cairomona (sinal de presa)||S|ani|C2
+táxon|táxon (unidade classificatória)||S|ani|C2
+monofilia|monofilia (descendência de um ancestral)||S|ani|C2
+parafilético|parafilético (grupo incompleto)||A|ani|C2
+holótipo|holotipo (exemplar tipo)||S|ani|C2
+parátipo|paratipo (exemplar adjunto)||S|ani|C2
+relictual|relictual (población relictica)||A|ani|C2
+espécie-chave|especie clave (piedra angular ecológica)||L|nat|C2
+florística|florística (composición em espécies)||S|nat|C2
+fitossociologia|fitosociología (estudio das comunidades)||S|nat|C2
+sinúsia|sinusia (unidade da vegetação)||S|nat|C2
+subarbusto|subarbusto (planta semilenhosa)||S|nat|C2
+esciófila|esciófila (planta umbrosa)||A|nat|C2
+heliófila|heliófila (de lugares soalheiros)||A|nat|C2
+marcescente|marcescente (folha que persiste seca)||A|nat|C2
+infrutescência|infrutescencia (fruto compuesto)||S|nat|C2
+antese|antesis (abertura da flor)||S|nat|C2
+anemofilia|anemofilia (polinización por el viento)||S|nat|C2
+entomofilia|entomofilia (polinización por insectos)||S|nat|C2
+zoocoria|zoocoria (dispersión por animales)||S|nat|C2
+anemocoria|anemocoria (dispersión por el viento)||S|nat|C2
+esfagno|esfagno (musgo das turfeiras)||S|nat|C2
+turfeira|turbera (terreno de turfa)||S|nat|C2
+carvalhal|robledal||S|nat|C2
+sobreiral|alcornocal (montado de sobro)||S|nat|C2
+eucaliptal|eucaliptal (plantación de eucaliptos)||S|nat|C2

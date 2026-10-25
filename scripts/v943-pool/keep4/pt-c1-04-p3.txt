@@ -1,0 +1,168 @@
+morgadio|morgadio (mayorazgo, vínculo)||S|ist|C1
+comenda|encomienda (de una orden militar)||S|ist|C1
+coutada|coto cerrado (vedado de caza)||S|nat|C1
+reguengo|realengo (heredad de la Corona)||S|ist|C1
+padroado|patronato regio (derecho de presentación)||S|ist|C1
+desamortização|desamortización (de bienes de la Iglesia)||S|ist|C1
+dízimo|diezmo (tributo decimal)||S|ist|C1
+ouvidor|oidor (juez de apelación colonial)||S|pro|C1
+vedor|veedor (inspector real)||S|pro|C1
+almoxarife|almoxarife (recaudador de rentas)||S|pro|C1
+feitor|feitor (capataz, mayordomo)||S|pro|C1
+alçada|alzada (jurisdicción, competencia)||S|ist|C1
+arguir|argüir (discutir, impugnar)||V|cmu|C1
+ilir|ilir (refutar, destruir pruebas)||V|cmu|C1
+esgrimar|esgrimir (alegar con arte)||V|cmu|C1
+rubricar|rubricar (firmar de rúbrica)||V|ist|C1
+parafar|parafar (firmar con rúbrica)||V|ist|C1
+gafaria|leprosería (lazareto medieval)||S|ist|C1
+vintena|veintena (tributo de veintena)||S|ist|C1
+barregã|barragana (concubina real)||S|rel|C1
+mancebia|mancebía (casa de mancebos)||S|cit|C1
+barbacã|barbacana (muralla avanzada)||S|art|C1
+alcáçova|alcázaba (fortaleza interior)||S|cit|C1
+seteira|saetera (tronera de muro)||S|art|C1
+pavês|pavés (escudo grande)||S|sci|C1
+besteiro|ballestero (soldado de ballesta)||S|pro|C1
+gibão|jubón (veste de guerra)||S|rop|C1
+loriga|loriga (cota de malla)||S|rop|C1
+arnez|arnés (armadura de miembro)||S|rop|C1
+cadafalso|cadalso (patíbulo, tablado)||S|ist|C1
+azorrague|azorrague (correa de castigo)||S|nat|C1
+varapau|varapalo (garrote, palo)||S|nat|C1
+soldadesca|soldadesca (tropa mílite)||S|att|C1
+corja|corja (chusma, canalla)||S|cmu|C1
+patuleia|patuleya (turba, chusma)||S|cmu|C1
+magote|magote (montón de gente)||S|cmu|C1
+catrefa|caterva (caterva, chusma)||S|cmu|C1
+escabelo|escabello (banquillo de estrado)||S|cas|C1
+alguidar|lebrillo (barreño)||S|cas|C1
+arcão|arcón (arca de colchas)||S|cas|C1
+cancão|arcón (arca de ropa blanca)||S|cas|C1
+bacio|bacín (orinal de loza)||S|cas|C1
+malgem|alcuza (aceitera de barro)||S|cas|C1
+alcofa|espuerta (cesta de palma)||S|ris|C1
+lousa|lousa (lápida, pedra)||S|art|C1
+lampião|farolillo (lámpara de aceite)||S|cas|C1
+balseiro|badil (badilete de braseiro)||S|cas|C1
+botija|botija (cantarilla de barro)||S|ris|C1
+dorna|dornajo (artesa de lagar)||S|ali|C1
+masseira|masera (artesa de amasar)||S|ali|C1
+tina|tina (cubeta de lagar)||S|ali|C1
+gamela|gamella (dornajo de madeira)||S|ris|C1
+bofete|bufete (mesa de despacho)||S|cas|C1
+espreguiceira|tumbona (sillón de descanso)||S|cas|C1
+trempes|trébedes (soporte del fogón)||S|ris|C1
+perol|perol (caldera de cobre)||S|ris|C1
+relho|rejo (correa de azotar)||S|nat|C1
+alvião|laya (azada de hierro)||S|nat|C1
+foice|hoz (guadaña)||S|nat|C1
+ancinho|rastrillo (grada de hierba)||S|nat|C1
+charrua|arado de vertedera (charrúa)||S|nat|C1
+ceifar|segar (cosechar)||V|nat|C1
+sacha|escarda (labor de escardillar)||S|nat|C1
+alfobre|almáciga (semillero)||S|nat|C1
+malhada|redil (majada)||S|nat|C1
+abegoaria|establo (cuadra de montaña)||S|nat|C1
+engonho|ingenio (molino trapiche)||S|nat|C1
+azinho|encina (coscoja)||S|nat|C1
+freixial|fresneda (fresnedal)||S|nat|C1
+amieiral|aliseda (bosque de alisos)||S|nat|C1
+choupal|chopera (bosque de chopos)||S|nat|C1
+medronheiro|madroño (árbol del fruto)||S|nat|C1
+rosmaninho|cantueso (romero salvaje)||S|nat|C1
+alfazema|espliego (lavanda)||S|nat|C1
+poejo|poleo (hierba aromática)||S|nat|C1
+segurelha|ajedrea (hierba)||S|nat|C1
+hipericão|hipericón (hierba de San Juan)||S|nat|C1
+giesta|retama (hiniestra)||S|nat|C1
+silvado|zarzal (espinal)||S|nat|C1
+brejo|brezal (vega encharcada)||S|nat|C1
+tapada|coto (bosque cerrado de caza)||S|nat|C1
+mourão|palenque (estaca de cerca)||S|nat|C1
+parral|parral (emparrado de vides)||S|nat|C1
+mastranto|mastranto (hierba amarga)||S|nat|C1
+frecha|saeta (dardo arcaico)||S|spt|C1
+sapa|zapa (mina militar)||S|sci|C1
+galaria|galería (socavón minero)||S|sci|C1
+marmelo|membrillo (fruta)||S|ali|C1
+ginja|guinda (licor de guindas)||S|ali|C1
+açúcar mascavado|azúcar mascabado||L|ali|C1
+salpicão|salchichón (embutido ahumado)||S|ali|C1
+morcela|morcilla de arroz (embutida)||S|ali|C1
+água-pé|vino aguado (beberaje del Miño)||S|ali|C1
+folar|mona de Pascua (bollo salgado)||S|ali|C1
+leite-creme|natillas caseras (con costra)||S|ali|C1
+ovos moles|yemas dulces (doce conventual)||S|ali|C1
+empalagoso|empalagoso (repugnante por doce)||A|ali|C1
+trigo sarraceno|trigo sarraceno (alforfón)||S|ali|C1
+centeio|centeno (cereal)||S|nat|C1
+faneca|faneca (pescadilla)||S|ali|C1
+tamboril|rape (pez pescador)||S|ali|C1
+espadarte|espadarte (pez aguja)||S|ani|C1
+cágado|galápago (tortuga de río)||S|ani|C1
+lacraia|ciempiés (escolopendra venenosa)||S|nat|C1
+osga|osga (salamanquesa de pared)||S|nat|C1
+peçonha|ponzoña (veneno de animal)||S|nat|C1
+empeçonhado|emponzoñado (venenoso)||A|nat|C1
+desgarrada|cante al desafío (coplas improvisadas)||S|mus|C1
+mourisca|danza morisca (guerrera)||S|mus|C1
+modinha|modinha (canción sentimental dieciochesca)||S|mus|C1
+folguedo|holgorio (juego popular)||S|sve|C1
+rebuliço|rebujina (mezcla bulliciosa)||S|cmu|C1
+alvoroço|alboroto (bullicio, conmoción)||S|cmu|C1
+bulício|bullicio (alboroto)||S|cmu|C1
+choldra|barahúnda (bullicio callejero)||S|cit|C1
+baixel|bajel (navío, nao)||S|sci|C1
+fusta|fusta (galera ligera)||S|sci|C1
+patacho|patache (navío ligero)||S|sci|C1
+urca|urca (nave de carga)||S|sci|C1
+abrolho|arrecife (bajo sumergido)||S|nat|C1
+baixio|bajío (bajo de arena)||S|nat|C1
+torvelinho|torbellino (remolino de viento)||S|nat|C1
+relento|sereno (rocío nocturno)||S|cli|C1
+viração|virazón (brisa fresca)||S|nat|C1
+moina|lluvia menuda (bonanza)||S|nat|C1
+borralho|rescoldo (brasas, rescoldo)||S|nat|C1
+cerração|cerrazón (niebla espesa)||S|cli|C1
+cuspido e escarrado|de pe a pa (idéntico)||E|cmu|C1
+de fio a pavio|de cabo a rabo (entero)||L|cmu|C1
+nem por sombras|de ningún modo (ni por esas)||L|cnn|C1
+à tripa forra|a la desbandada (a todo correr)||L|cmu|C1
+de borla|de balde (gratis)||L|cmu|C1
+à chita calada|a escondidas (sin decir nada)||L|cmu|C1
+a bom tempo|a tiempo (sin apuro)||L|tmp|C1
+ao deus-dará|al buen tuntún (a lo que salga)||L|cmu|C1
+à boca de cena|en el último momento||L|tmp|C1
+de roldão|de rondón (de repente)||L|cmu|C1
+a rodo|a espuertas (en abundancia)||L|cmu|C1
+às tantas|cuando menos se espera||L|tmp|C1
+de permeio|por medio (entremezclado)||L|cmu|C1
+à mistura|en el lote (en la mezcla)||L|cmu|C1
+a medo|a regañadientes (con miedo)||L|emo|C1
+de bom grado|de buena gana (gustosamente)||L|emo|C1
+de córas|de sobra (con exceso)||L|ast|C1
+ao arrepio|a contrapelo (contra la corriente)||L|cmu|C1
+na calada da noite|en la calada de la noche||L|tmp|C1
+ao correr da pena|al correr de la pluma||L|let|C1
+de caminho|de paso (incidentalmente)||L|cnn|C1
+desaire|descalabro (revés, fracaso)||S|ast|C1
+revés|revés (contratiempo)||S|ast|C1
+avesso|aveso (lo contrario, el envés)||S|ast|C1
+envés|envés (el reverso de la tela)||S|ast|C1
+alvedrio|albedrío (voluntad, arbitrio)||S|ast|C1
+outrem|otro (cualquier otra persona)||P|ast|C1
+alhures|en otra parte (allá)||D|ast|C1
+aquém|aquende (a este lado de)||R|ast|C1
+acolá|acullá (allá)||D|ast|C1
+deveras|de veras (con toda certeza)||D|ast|C1
+afinco|ahínco (empeño pertinaz)||S|ast|C1
+alacridade|regocijo (viveza alegre)||S|emo|C1
+quebranto|quebranto (pesar, mal de ojo)||S|ast|C1
+mau-olhado|mal de ojo (aojamiento)||S|ast|C1
+faina|faina (faena, pesca de ballenas)||S|lav|C1
+tardança|tardanza (dilación, detención)||S|tmp|C1
+obstar|obstar (oponer, impedir)||V|cnn|C1
+aluir|socavar (abalar, demoler)||V|ast|C1
+cavilar|cavilar (sutilar en objeciones)||V|cmu|C1
+tropelia|tropelía (refriega, avalancha)||S|cmu|C1

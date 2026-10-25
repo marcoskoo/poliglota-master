@@ -1,0 +1,160 @@
+die Seinsvergessenheit|olvido del ser||S|ast|C2
+die Unverborgenheit|desocultamiento (alétheia)||S|ast|C2
+die Lichtung|claro (despejamiento del ser)||S|ast|C2
+die Kunstautonomie|autonomía del arte||S|ast|C2
+die Abbildtheorie|teoría del reflejo (mímesis)||S|ast|C2
+die Zeiterfahrung|experiencia del tiempo (estética)||S|ast|C2
+die Urkundenlehre|diplomática (ciencia de documentos)||S|ast|C2
+der Epochenbruch|ruptura epocal||S|ast|C2
+die Legendenbildung|mitificación (creación de leyendas)||S|ast|C2
+die Aktenlage|estado del expediente (según la documentación)||S|ast|C2
+das Satzglied|constituyente oracional||S|let|C2
+die Abtönungspartikel|partícula matizante (modal)||S|let|C2
+die Artikulationsstelle|punto de articulación||S|let|C2
+die Sprachverwandtschaft|parentesco lingüístico||S|let|C2
+die Lehnprägung|calco (préstamo semántico)||S|let|C2
+die Zwangsneurose|neurosis obsesiva||S|ast|C2
+der Wiederholungszwang|compulsión a la repetición||S|ast|C2
+das Seelenleben|vida anímica||S|ast|C2
+die Widerstandsanalyse|análisis de resistencias||S|ast|C2
+die Einflussphäre|esfera de influencia||S|ist|C2
+der Machtkalkül|cálculo de poder||S|ist|C2
+die Pattsituation|situación de bloqueo (empate)||S|ist|C2
+die Blockbildung|formación de bloques||S|ist|C2
+die Schutzmacht|potencia protectora||S|ist|C2
+die Regierungsfähigkeit|gobernabilidad||S|ist|C2
+das Politikfeld|ámbito político (campo de política)||S|ist|C2
+die Wirkungsanalyse|análisis de impacto||S|ist|C2
+die Regulierungsdichte|densidad normativa||S|ist|C2
+der Vollzugsdefizit|déficit de aplicación||S|ist|C2
+die Zielvorgabe|objetivo directriz||S|ist|C2
+das Anhörungsrecht|derecho a ser oído (audiencia)||S|ist|C2
+die Politikverflechtung|entrelazamiento institucional||S|ist|C2
+die Abstiegsangst|miedo al descenso social||S|ast|C2
+die Schamgrenze|umbral de vergüenza||S|ast|C2
+die Prekarisierung|precarización||S|ast|C2
+die Wohlstandsgefälle|brecha de prosperidad (renta)||S|ast|C2
+die Entwurzelung|desarraigo||S|ast|C2
+das Deutungsmuster|patrón interpretativo||S|ast|C2
+die Kulturgefälle|desnivel cultural||S|ast|C2
+die Ethnographie|etnografía||S|ast|C2
+das Verwandtschaftssystem|sistema de parentesco||S|ast|C2
+das Gewohnheitsrecht|derecho consuetudinario||S|ast|C2
+die Völkerkunde|etnología||S|ast|C2
+der Vorabdruck|publicación anticipada||S|att|C2
+der Quellenschutz|protección de fuentes||S|att|C2
+die Nachrichtenlage|situación informativa||S|att|C2
+die Pressestimme|eco de prensa||S|att|C2
+die Motivverarbeitung|elaboración del motivo||S|mus|C2
+der Vorhalt|retardo (apoyatura retardada)||S|mus|C2
+der Mordent|mordente||S|mus|C2
+die Satztechnik|técnica compositiva||S|mus|C2
+der Durchführungsteil|sección de desarrollo (sonata)||S|mus|C2
+der Schimmelbefall|infestación de moho||S|art|C2
+die Lichtempfindlichkeit|sensibilidad a la luz||S|art|C2
+die Provenienzforschung|investigación de procedencia||S|art|C2
+das Ausstellungskonzept|concepto expositivo||S|art|C2
+das Sammlungsgut|fondo patrimonial (de la colección)||S|art|C2
+das Kunstwollen|voluntad artística||S|art|C2
+die Bildfindung|búsqueda plástica (invención de imagen)||S|art|C2
+die Raumwirkung|efecto espacial||S|art|C2
+die Bildhauerkunst|arte de la escultura||S|art|C2
+die Aquarellmalerei|pintura a la acuarela||S|art|C2
+das Bildgedächtnis|memoria visual (iconográfica)||S|art|C2
+die Trainingsdaten|datos de entrenamiento||S|sci|C2
+die Verlustfunktion|función de pérdida||S|sci|C2
+die Datenprovenienz|procedencia de los datos||S|sci|C2
+die Schlüssellänge|longitud de clave||S|tec|C2
+das Chiffrierverfahren|procedimiento de cifrado||S|tec|C2
+der Schlüsseltausch|intercambio de claves||S|tec|C2
+das Angriffsmuster|patrón de ataque||S|tec|C2
+die Schwachstellenanalyse|análisis de vulnerabilidades||S|tec|C2
+die Datenpanne|fuga de datos||S|tec|C2
+die Zertifikatsprüfung|verificación de certificados||S|tec|C2
+der Netzausbau|despliegue de red||S|tec|C2
+die Frequenzvergabe|adjudicación de frecuencias||S|tec|C2
+die Antwortzeit|tiempo de respuesta||S|tec|C2
+der Funkmast|mástil de radiodifusión||S|tec|C2
+die Leitungskapazität|capacidad de línea||S|tec|C2
+das Brennelement|elemento combustible (nuclear)||S|tec|C2
+die Nachzerfallswärme|calor residual del núcleo||S|tec|C2
+die Sicherheitshülle|envolvente de seguridad (containment)||S|tec|C2
+die Lastspitze|pico de carga||S|tec|C2
+die Einspeisevergütung|tarifa de inyección (primación renovable)||S|tec|C2
+der Kabinendruck|presión de cabina||S|tec|C2
+die Schubkraft|empuje (fuerza de propulsión)||S|tec|C2
+die Bahnkorrektur|corrección de trayectoria||S|tec|C2
+die Koppelung|acoplamiento (orbital)||S|tec|C2
+die Flugbahn|trayectoria (de vuelo)||S|tec|C2
+der Bordcomputer|computadora de a bordo||S|tec|C2
+die Regelgröße|variable regulada||S|tec|C2
+die Greifzange|pinza de agarre||S|tec|C2
+die Sicherheitsabschaltung|parada de seguridad||S|tec|C2
+der Störfall|incidente operativo (fallo grave)||S|tec|C2
+die Temperaturreihe|serie de temperaturas||S|sci|C2
+das Klimaarchiv|archivo climático (proxy)||S|sci|C2
+die Eiskernbohrung|sondeo de hielo (testigo glaciar)||S|sci|C2
+das Treibhauspotenzial|potencial de efecto invernadero||S|sci|C2
+die Kohlenstoffbilanz|balance de carbono||S|sci|C2
+das Jahresmittel|media anual||S|sci|C2
+die Eisgrenze|límite de hielos||S|sci|C2
+die Klimafolgenforschung|investigación sobre impactos climáticos||S|sci|C2
+die Gezeitenkunde|ciencia de las mareas||S|sci|C2
+das Planktonnetz|red de plancton||S|sci|C2
+der Tiefseegrund|fondo abisal||S|sci|C2
+die Sprungschicht|termoclina (picnoclina)||S|sci|C2
+die Brandungszone|zona de rompientes||S|sci|C2
+das Tiefseebecken|cuenca oceánica||S|sci|C2
+der Tauchgang|inmersión (buceo)||S|sci|C2
+die Tiefseekarte|carta batimétrica||S|sci|C2
+der Immissionsschutz|protección contra inmisones (contaminación)||S|ist|C2
+die Eingriffsregelung|regla de intervención (compensación ecológica)||S|ist|C2
+die Schutzgebietsausweisung|declaración de espacio protegido||S|ist|C2
+die Altlastensanierung|remediación de suelos contaminados||S|nat|C2
+das Artenhilfsprogramm|programa de conservación de especies||S|nat|C2
+die Nachhaltigkeitsprüfung|evaluación de sostenibilidad||S|nat|C2
+die Kollagenfaser|fibra de colágeno||S|cor|C2
+das Lymphgefäß|vaso linfático||S|cor|C2
+die Faszie|fascia (aponeurosis)||S|cor|C2
+die Nervenwurzel|raíz nerviosa||S|cor|C2
+der Kehldeckel|epiglotis||S|cor|C2
+die Keimdrüse|gónada||S|cor|C2
+die Seinsfrage|pregunta por el ser||S|ast|C2
+die Wesensbestimmung|determinación esencial||S|ast|C2
+der Sinnhorizont|horizonte de sentido||S|ast|C2
+die Voraussetzungslosigkeit|ausencia de presupuestos||S|ast|C2
+die Unverfügbarkeit|inasequibilidad (no disponibilidad)||S|ast|C2
+die Einmaligkeit|unicidad||S|ast|C2
+die Vorläufigkeit|provisionalidad||S|ast|C2
+die Unbedingtheit|incondicionalidad||S|ast|C2
+die Verflochtenheit|enredo (interdependencia)||S|ast|C2
+die Dissidenz|disidencia||S|ast|C2
+der Atavismus|atavismo||S|ast|C2
+die Persiflage|persifle (parodia burlona)||S|ast|C2
+das Diktum|dictum (sentencia autorizada)||S|ast|C2
+die Affektiertheit|afectación (amaneramiento)||S|ast|C2
+die Digression|digresión (divagación)||S|ast|C2
+der Terminus|término (voz técnica)||S|ast|C2
+Wer rastet, der rostet|quien se estanca, se oxida (quien no ejercita, se atrofia)||E|ast|C2
+Alles zu seiner Zeit|todo a su tiempo||E|ast|C2
+auf Herz und Nieren|a fondo (con lupa y escrupulosidad)||L|ast|C2
+die Leviten lesen|leer la cartilla (reprender)||L|ast|C2
+Eulen nach Athen tragen|llevar agua al mar (lechuzas a Atenas)||E|ast|C2
+auf den Leim gehen|caer en la trampa (picar)||E|ast|C2
+der Unterton|tono subyacente (segundo sentido)||S|cmu|C2
+die Zweideutigkeit|ambigüedad (doble sentido)||S|cmu|C2
+die Floskel|frase hecha vacía (cliché)||S|cmu|C2
+das Augenzwinkern|guiño (complicidad irónica)||S|cmu|C2
+die Doppelbödigkeit|doble fondo (ambivalencia irónica)||S|cmu|C2
+die Schieberei|trapicheo (chanchullo)||S|cmu|C2
+über die Stränge schlagen|pasarse de la raya||E|cmu|C2
+unter aller Kanone|de pena (ínfimo, bajo mínimos)||L|cmu|C2
+Schmiere stehen|hacer de gancho (vigilar para otros)||E|cmu|C2
+der Mief|ambiente rancio (tufo)||S|cmu|C2
+die Schickeria|pijamafera (gente de moda)||S|cmu|C2
+sich verdrücken|esfumarse (pirarse)||V|cmu|C2
+das Gwand|traje (ropa, alemán meridional)||S|cmu|C2
+die Fisimatenten|masmolas (excusas enredadas)||S|cmu|C2
+die Bemme|rebanada con manteca (sajona)||S|cmu|C2
+die Gelsen|mosquitos (austríaco)||S|cmu|C2
+der Jänner|enero (austríaco)||S|cmu|C2

@@ -1,0 +1,68 @@
+enantiómero|enantiómero||S|sci|C1
+ligação de hidrogénio|puente de hidrógeno||L|sci|C1
+incompletude|incompletitud (teorema de Gödel)||S|sci|C1
+contra-exemplo|contraejemplo||S|sci|C1
+geada negra|helada negra||L|nat|C1
+carrascal|carrascal (encinar)||S|nat|C1
+fogo de copas|fuego de copas||L|nat|C1
+coudelaria|yeguada (criadero de caballos)||S|ani|C1
+cinofilia|cinofilia (afición a los perros)||S|ani|C1
+garrafeira|reserva (vino de guarda)||S|ali|C1
+sima|sima (abismo vertical)||S|nat|C1
+silharia|sillería (aparejo de piedra)||S|art|C1
+arco botante|arbotante||S|art|C1
+figuração|figuración (pictórica)||S|art|C1
+arrematação|remate (adjudicación en subasta)||S|fin|C1
+fora de campo|fuera de campo (cine)||L|cin|C1
+décima|décima (poema de diez versos)||S|let|C1
+aporía|aporía (impasse lógico)||S|ast|C1
+númeno|noúmeno||S|ast|C1
+juízo de gosto|juicio de gusto||L|ast|C1
+historicidade|historicidad||S|ast|C1
+providencialismo|providencialismo||S|stu|C1
+sintagma|sintagma||S|stu|C1
+idioleto|idiolecto||S|stu|C1
+compulsão à repetição|compulsión a la repetición||L|ast|C1
+desafeto|desafección (enemistad)||S|emo|C1
+benquerença|benevolencia (afecto mutuo)||S|emo|C1
+obsequioso|obsequioso||A|emo|C1
+lascivo|lascivo||A|emo|C1
+acutilante|incisivo (mordaz)||A|emo|C1
+pusilánime|pusilánime||A|emo|C1
+fanfarrão|fanfarrón||A|cmu|C1
+objetivação|objetivación||S|ast|C1
+demasia|demasía (exceso)||S|ast|C1
+desleixo|dejadeo (descuido)||S|ast|C1
+desvelo|desvelo (cuidado esmerado)||S|ast|C1
+subreptício|subrepticio||A|ast|C1
+por meias palavras|con medias palabras||L|cmu|C1
+desancar|vapular (criticar duramente)||V|cmu|C1
+exprobrar|reprochar||V|cmu|C1
+apaziguar|apaciguar||V|rel|C1
+rodeios|circunloquios (rodeos)||S|cmu|C1
+venalidade|venalidad||S|ast|C1
+teoria da mente|teoría de la mente||L|sci|C1
+regulação emocional|regulación emocional||L|sla|C1
+atenção plena|atención plena (mindfulness)||L|sla|C1
+pós-doutoramento|posdoctorado||S|stu|C1
+agenda de investigação|agenda de investigación||L|stu|C1
+noticioso|informativo (relativo a noticias)||A|cmu|C1
+dossier|dossier (expediente)||S|cmu|C1
+sobrecarga informacional|sobrecarga informativa||S|tec|C1
+transmissão em fluxo|transmisión en flujo (streaming)||L|tec|C1
+jogo eletrónico|juego electrónico||L|tec|C1
+fadiga do material|fatiga del material||L|tec|C1
+planeamento urbanístico|planeamiento urbanístico||L|cit|C1
+estar com a corda toda|estar en plena forma||E|cmu|C1
+galdério|pícaro (vago atrevido)||S|cmu|C1
+brutamontes|hombretón rudo||S|cmu|C1
+paspalho|pardillo (ingenuo)||A|cmu|C1
+transmontano|trasmontano||A|cit|C1
+nortenho|norteño||A|cit|C1
+nefando|nefando||A|let|C1
+sidéreo|sidéreo||A|let|C1
+acedia|acedia (desánimo espiritual)||S|ast|C1
+sobremodo|sobremanera||D|ast|C1
+asseaz|en extremo (arcaísmo)||D|let|C1
+seja como for|sea como sea||L|cnn|C1
+quod erat demonstrandum|como queríamos demostrar||L|ast|C1

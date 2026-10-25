@@ -1,0 +1,109 @@
+arcobotante|arbotante||S|art|B2
+ameias|almenas||S|art|B2
+citadela|ciudadela||S|art|B2
+torre de menagem|torre del homenaje||S|art|B2
+zimbório|cimborio (cúpula)||S|art|B2
+condómino|miembro de la comunidad (vecino)||S|cas|B2
+prédio de rendimento|edificio de alquiler||S|cas|B2
+propriedade horizontal|propiedad horizontal||S|cas|B2
+caixa de escada|portal (caja de la escalera)||S|cas|B2
+aquecimento central|calefacción central||S|cas|B2
+contador de água|contador de agua||S|cas|B2
+barulho|ruido||S|cas|B2
+zelador|conserje (encargado del edificio)||S|cas|B2
+fechar à chave|cerrar con llave||L|cas|B2
+data de fabrico|fecha de fabricación||S|ali|B2
+edulcorante|edulcorante||S|ali|B2
+valor nutricional|valor nutricional||S|ali|B2
+dosear|dosificar||V|ali|B2
+intolerância alimentar|intolerancia alimentaria||S|ali|B2
+gare|estación (de tren)||S|tra|B2
+locomotiva|locomotora||S|tra|B2
+maquinista|maquinista||S|pro|B2
+reserva de lugar|reserva de asiento||S|tra|B2
+transbordar|hacer transbordo||V|tra|B2
+percurso|recorrido (trayecto)||S|tra|B2
+rumo|rumbo||S|tra|B2
+desvio|desvío (cambio de trayecto)||S|tra|B2
+insolação|insolación||S|sla|B2
+desfibrilador|desfibrilador||S|sla|B2
+horário contínuo|horario continuo (jornada sin pausa)||S|lav|B2
+acumular|acumular (tareas pendientes)||V|lav|B2
+sobrecarregado|sobrecargado||A|lav|B2
+acta de reunião|acta de reunión||S|lav|B2
+curso de aperfeiçoamento|curso de perfeccionamiento||S|stu|B2
+especialização|especialización (posgrado)||S|stu|B2
+credencial|credencial||S|lav|B2
+reciclagem profissional|reciclaje profesional||S|lav|B2
+estágio probatório|período de prueba||S|lav|B2
+orientação profissional|orientación profesional||S|stu|B2
+polivalente|polivalente (versátil)||A|lav|B2
+intercâmbio linguístico|intercambio lingüístico||S|stu|B2
+equivalência de estudos|convalidación de estudios||S|stu|B2
+família de acolhimento|familia de acogida||S|stu|B2
+anfitrião|anfitrión (casa de acogida)||S|stu|B2
+ambientar-se|adaptarse (aclimatarse)||V|stu|B2
+permuta|permuta (cambio de vivienda)||S|cas|B2
+terreno|parcela (solar)||S|cas|B2
+loteamento|urbanización (parcelación)||S|cit|B2
+despensa|despensa||S|cas|B2
+arrumos|trastero (cuarto de guardado)||S|cas|B2
+código promocional|código promocional||S|cmp|B2
+dados bancários|datos bancarios||S|tec|B2
+satisfatório|satisfactorio||A|cmp|B2
+decepcionante|decepcionante||A|cmp|B2
+trocas e devoluções|cambios y devoluciones||S|cmp|B2
+bloqueado|bloqueado||A|tec|B2
+rede sem fios|red inalámbrica||S|tec|B2
+carregamento sem fios|carga inalámbrica||S|tec|B2
+falta de ar|falta de aire||L|spt|B2
+batimentos cardíacos|palpitaciones (latidos)||S|spt|B2
+federado|federado (con licencia)||A|spt|B2
+pontapé|patada (golpe con el pie)||S|spt|B2
+remate|remate||S|spt|B2
+desempate|desempate||S|spt|B2
+braçada|brazada (de natación)||S|spt|B2
+lotação|aforo (ocupación del local)||S|mus|B2
+fã-clube|club de fans||S|mus|B2
+desafinar|desafinar||V|mus|B2
+pavilhão desportivo|pabellón deportivo||S|spt|B2
+passagem de som|prueba de sonido||S|mus|B2
+plataforma de streaming|plataforma de streaming||S|cin|B2
+guionista|guionista||S|cin|B2
+narração|narración (locución de la película)||S|cin|B2
+versão dobrada|versión doblada||S|cin|B2
+episódio-piloto|episodio piloto||S|cin|B2
+suspense|suspenso (tensión)||S|cin|B2
+noiva|novia (contrayente)||S|rel|B2
+pedido de casamento|pedida de mano||S|rel|B2
+casamento civil|boda civil||S|rel|B2
+argola|alianza (anillo de boda)||S|rel|B2
+boda|boda (banquete de boda)||S|rel|B2
+copo-d'água|recepción (banquete tras la boda)||S|rel|B2
+meia-idade|mediana edad||S|rel|B2
+desposar|desposar||V|rel|B2
+celebração|celebración (ceremonia)||S|rel|B2
+despesa fixa|gasto fijo||S|fin|B2
+despesas inesperadas|gastos inesperados||S|fin|B2
+esbanjar|derrochar (gastar sin control)||V|fin|B2
+apertado|apretado (justo de dinero)||A|fin|B2
+fazer contas|hacer cuentas||L|fin|B2
+ficar a dever|quedar a deber||L|fin|B2
+vigarista|timador (estafador)||S|fin|B2
+extrato de conta|extracto de cuenta||S|fin|B2
+esplanada|terraza||S|ris|B2
+pasteleiro|pastelero||S|pro|B2
+chá das cinco|té de las cinco||S|ris|B2
+compota|compota||S|ali|B2
+bolo de bolacha|tarta de galletas||S|ris|B2
+café com cheirinho|café con licor||S|ris|B2
+refém|rehén||S|att|B2
+corpo de bombeiros|cuerpo de bomberos||S|att|B2
+sirene|sirena||S|att|B2
+socorro|socorro (auxilio)||S|att|B2
+prestar socorro|prestar auxilio||L|att|B2
+fuga de gás|fuga de gas||S|att|B2
+vandalismo|vandalismo||S|att|B2
+tiroteio|tiroteo||S|att|B2
+achado|hallazgo||S|sci|B2
+escavação|excavación||S|sci|B2

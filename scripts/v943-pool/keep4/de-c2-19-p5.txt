@@ -1,0 +1,103 @@
+der Schauerroman|novela de terror (gótica)||S|let|C2
+der Kolportageroman|novela por entregas (vendida a domicilio)||S|let|C2
+die Stoffquelle|fuente del asunto (material literario)||S|let|C2
+die Dichterweihe|consagración poética (unción del vate)||S|let|C2
+das Dichtertum|condición de poeta (poetuidad)||S|let|C2
+der Versbau|versificación (construcción del verso)||S|let|C2
+die Volksdichtung|poesía popular (literatura tradicional)||S|let|C2
+der Dichterling|poetastro (versificador menor)||S|let|C2
+die Gelehrtensprache|lengua de los eruditos (jerga académica)||S|let|C2
+die Flugschrift|hoja volandera (impreso satírico antiguo)||S|let|C2
+das Werkverzeichnis|catálogo razonado (de la obra)||S|let|C2
+der Purismus|purismo (depuración idiomática)||S|let|C2
+die Sprachreinigung|purga idiomática (depuración lingüística)||S|let|C2
+die Mundartforschung|dialectología||S|let|C2
+die Daseinsanalyse|análisis del ser (Daseinanalyse)||S|ast|C2
+die Wertfreiheit|libertad de valores (neutralidad axiológica)||S|ast|C2
+die Ereignisgeschichte|historia de los acontecimientos||S|ast|C2
+die Versagung|frustración (renuncia impuesta)||S|ast|C2
+die Verleugnung|desmentida (renegación)||S|ast|C2
+die Entstellung|desfiguración (del sueño)||S|ast|C2
+der Statusverlust|pérdida de estatus (degradación social)||S|ast|C2
+die Überqualifizierung|sobrecualificación||S|ast|C2
+die Nivellierung|nivelación (homogeneización)||S|ast|C2
+die Entsolidarisierung|desolidarización (retirada del vínculo social)||S|ast|C2
+die Vereinsamung|soledad creciente (aislamiento)||S|ast|C2
+die Willensschwäche|acrasia (debilidad de la voluntad)||S|ast|C2
+die Skrupel|escrúpulos (remordimientos)||S|ast|C2
+die Insubordination|insubordinación||S|ast|C2
+die Finesse|finura (sutileza técnica)||S|ast|C2
+der Obskurantismus|oscurantismo||S|ast|C2
+der Dilettantismus|diletantismo||S|ast|C2
+die Pflichtenlehre|deontología (teoría de los deberes)||S|ast|C2
+Gut Ding will Weile haben|lo bueno se hace esperar||E|ast|C2
+Viele Köche verderben den Brei|muchos cocineros estropean el caldo||E|ast|C2
+Über Geschmack lässt sich streiten|sobre gustos se puede discutir (y más)||E|ast|C2
+Ohne Fleiß kein Preis|sin sudar no hay gloria (sin esfuerzo no hay premio)||E|ast|C2
+die Bildnismalerei|pintura de retrato||S|art|C2
+die Erwerbungsgeschichte|historia de adquisición (procedencia)||S|art|C2
+die Dauerleihgabe|préstamo permanente (depósito indefinido)||S|art|C2
+das Vitrinenklima|microclima de vitrina||S|art|C2
+die Lasur|veladura (capa transparente)||S|art|C2
+das Zellenschmelz|esmalte tabicado (cloisonné)||S|art|C2
+der Notenschlüssel|clave (de sol, de fa)||S|mus|C2
+die Staffage|figuración secundaria (accesorios de relleno)||S|art|C2
+der Zwiebelturm|torre de cebolla (chapitel bulboso)||S|cit|C2
+das Orgelregister|registro de órgano (juego de tubos)||S|mus|C2
+die Mensuralnotation|notación mensural||S|mus|C2
+die Klangfülle|plenitud sonora (copioso sonido)||S|mus|C2
+die Aufführungsgeschichte|historia interpretativa (de los montajes)||S|mus|C2
+die Stimmführung|conducción de voces||S|mus|C2
+die Kantilene|cantilena (línea cantabile)||S|mus|C2
+das Tremolo|trémolo||S|mus|C2
+die Klangmalerei|pintura sonora (onomatopeya orquestal)||S|mus|C2
+die Zwischentitel|intertítulos (carteles del cine mudo)||S|cin|C2
+die Exklusivmeldung|noticia en exclusiva||S|att|C2
+die Zuschauerbindung|fidelización de audiencias||S|att|C2
+die Verschwörungserzählung|relato conspirativo||S|att|C2
+die Echokammer|cámara de eco||S|att|C2
+die Filterblase|burbuja de filtro||S|att|C2
+die Blockrandbebauung|edificación perimetral (en manzana)||S|cit|C2
+die Stadterneuerung|regeneración urbana||S|cit|C2
+das Quartiersmanagement|gestión de barrio (comunitaria)||S|cit|C2
+die Stippvisite|visita relámpago (vistazo fugaz)||S|cmu|C2
+der Gernegroß|perdonavidas (fanfarrón generoso)||S|cmu|C2
+der Wichtigtuer|presumido (que se da importancia)||S|cmu|C2
+der Schönfärber|adulador (que todo lo pinta de rosa)||S|cmu|C2
+der Maulheld|cobarde fanfarrón (boca sin brazos)||S|cmu|C2
+der Drückeberger|escurrideras (que escurre el bulto)||S|cmu|C2
+der Faulpelz|gandul (haragán)||S|cmu|C2
+der Spielverderber|aguafiestas||S|cmu|C2
+das Muttersöhnchen|niño de mamá (mamón)||S|cmu|C2
+die Kraftmeierei|fanfarronada (alardes de fuerza)||S|cmu|C2
+die Prahlerei|jactancia (alarde)||S|cmu|C2
+die Verbrüderung|hermandad (fraternización)||S|cmu|C2
+die Boshaftigkeit|malignidad (malicia gratuita)||S|cmu|C2
+der Saftladen|tugurio (changarro cutre)||S|cmu|C2
+der Blender|fanfarrón (farsante)||S|cmu|C2
+die Laberei|parloteo (charla vacía)||S|cmu|C2
+der Maturant|graduado de bachillerato (austríaco)||S|cmu|C2
+der Kren|rábano picante (austríaco)||S|cmu|C2
+die Paradeiser|tomates (austríaco)||S|cmu|C2
+der Schlagobers|nata montada (austríaco)||S|cmu|C2
+die Ribisel|grosellas (austríaco)||S|cmu|C2
+die Kraxe|espaldera (mochila de mimbre, austral-bávara)||S|cmu|C2
+die Schelmerei|trastada (picardía traviesa)||S|cmu|C2
+der Tagedieb|holgazán (vago, arcaizante)||S|cmu|C2
+der Bua|chico (bávaro-austríaco)||S|cmu|C2
+das Maderl|muchacha (bávaro-austríaco)||S|cmu|C2
+die Schmäh|burla vienesa (chiste con gancho)||S|cmu|C2
+abgebrüht|curtido (desfachatado)||A|cmu|C2
+klammheimlich|clandestino (muy a escondidas)||D|cmu|C2
+sturmfrei|con la casa libre (sin mayores)||A|cmu|C2
+die Unbekümmertheit|despreocupación (ligereza alegre)||S|emo|C2
+die Selbstgenügsamkeit|autocomplacencia (autosuficiencia satisfecha)||S|emo|C2
+die Kleinlichkeit|mezquindad (rutinismo)||S|emo|C2
+die Schneidigkeit|brío (arrojo gallardo)||S|emo|C2
+die Verschmitztheit|socarronería (travesura velada)||S|emo|C2
+die Verstocktheit|contumacia (obstinación empedernida)||S|emo|C2
+die Betroffenheit|consternación (aflicción compartida)||S|emo|C2
+die Halsstarrigkeit|tozudez (obstinación cervantina)||S|emo|C2
+die Seelengröße|grandeza de alma (magnanimidad)||S|emo|C2
+die Grundhaltung|actitud básica (postura de fondo)||S|emo|C2
+die Weltsicht|visión del mundo (cosmovisión)||S|emo|C2

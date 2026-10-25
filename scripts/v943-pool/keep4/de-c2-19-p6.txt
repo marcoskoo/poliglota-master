@@ -1,0 +1,89 @@
+die Klimasensitivität|sensibilidad climática||S|sci|C2
+die Auftautiefe|profundidad de deshielo||S|sci|C2
+der Tidenhub|amplitud de marea (rango mareal)||S|sci|C2
+die Zellatmung|respiración celular||S|sci|C2
+die Auslese|selección (elección natural)||S|sci|C2
+die Zuchtwahl|selección artificial (crianza selectiva)||S|sci|C2
+das Fruchtwasser|líquido amniótico||S|cor|C2
+der Gletschervorstoß|avance glaciar||S|sci|C2
+die Moräne|morrena||S|sci|C2
+der Findling|bloque errático||S|sci|C2
+der Gebirgsstock|macizo montañoso||S|sci|C2
+die Salzlagerstätte|depósito salino||S|sci|C2
+der Bohrkern|testigo de perforación (núcleo)||S|sci|C2
+die Zeigerart|especie indicadora (bioindicadora)||S|nat|C2
+die Ruderalvegetation|vegetación ruderal (nitrófila)||S|nat|C2
+der Kronenschluss|cierre de doseles (concatenación de copas)||S|nat|C2
+die Erbgang|modo de herencia (patrón hereditario)||S|sci|C2
+die Abstammungslehre|teoría de la descendencia (evolucionaria)||S|sci|C2
+die Stichprobenziehung|muestreo (extracción muestral)||S|sci|C2
+der Existenzbeweis|demostración de existencia||S|sci|C2
+die Maßtheorie|teoría de la medida||S|sci|C2
+die Randbedingung|condición de contorno (restricción del modelo)||S|sci|C2
+das Näherungsverfahren|procedimiento aproximado (método iterativo)||S|sci|C2
+die Fehlerfortpflanzung|propagación de errores||S|sci|C2
+die Störgröße|perturbación (variable de perturbación)||S|tec|C2
+die Sollgröße|consigna (valor deseado)||S|tec|C2
+die Istgröße|valor real (medido)||S|tec|C2
+die Zeitkonstante|constante de tiempo||S|tec|C2
+die Sprungantwort|respuesta al escalón||S|tec|C2
+die Totzone|zona muerta (banda insensible)||S|tec|C2
+die Anlagenauslastung|aprovechamiento de la planta (utilización)||S|tec|C2
+der Leerlauf|marcha en vacío (ralentí)||S|tec|C2
+die Zwangskühlung|refrigeración forzada||S|tec|C2
+die Blindleistung|potencia reactiva||S|tec|C2
+die Netzfrequenz|frecuencia de red||S|tec|C2
+die Bahnregelung|regulación de trayectoria||S|tec|C2
+der Höhenverlust|pérdida de altura (descenso)||S|tec|C2
+die Grenzschichtablösung|desprendimiento de capa límite||S|tec|C2
+der Landeanflug|aproximación final (a la pista)||S|tec|C2
+die Datenaufbereitung|preprocesado de datos (depuración)||S|sci|C2
+die Merkmalsauswahl|selección de variables (características)||S|sci|C2
+die Konfusionsmatrix|matriz de confusión||S|sci|C2
+die Kryptoanalyse|criptoanálisis||S|tec|C2
+die Steganographie|esteganografía||S|tec|C2
+die Nutzdaten|datos de carga (payload)||S|tec|C2
+die Hochverfügbarkeit|alta disponibilidad||S|tec|C2
+der Wiederanlauf|reinicio (rearranque tras parada)||S|tec|C2
+die Nebenhöhlenentzündung|sinusitis||S|sla|C2
+die Trinktemperatur|temperatura de servicio||S|ris|C2
+die Flaschenreife|maduración en botella||S|ris|C2
+die Maischestandzeit|maceración pelicular (contacto con hollejos)||S|ris|C2
+die Fleischreifung|maduración de la carne (añejado)||S|ris|C2
+das Geschmacksprofil|perfil organoléptico||S|ris|C2
+die Grundnote|nota de fondo (en cata)||S|ris|C2
+der Säuregehalt|grado de acidez||S|ris|C2
+die Botrytis|botrytis (podredumbre noble)||S|ris|C2
+der Weinfehler|defecto del vino||S|ris|C2
+der Pollenflug|dispersión del polen (polinización aérea)||S|nat|C2
+die Wurzelknolle|tubérculo radicular||S|nat|C2
+die Rankpflanze|planta trepadora||S|nat|C2
+die Nisthöhle|cavidad de nidificación||S|ani|C2
+der Horst|nido de rapaces (plataforma)||S|ani|C2
+das Drohverhalten|comportamiento de amenaza||S|ani|C2
+die Familiennachzug|reagrupación familiar||S|fam|C2
+die Ehefähigkeit|capacidad nupcial||S|fam|C2
+die Kreislaufschwäche|debilidad circulatoria||S|sla|C2
+die Lebenskrise|crisis vital||S|sla|C2
+der Erschöpfungszustand|estado de agotamiento||S|sla|C2
+die Resilienzforschung|investigación sobre resiliencia||S|sla|C2
+die Stressresistenz|resistencia al estrés||S|sla|C2
+der Zeitablauf|transcurso del tiempo (expiración)||S|tmp|C2
+die Gedenktafel|placa conmemorativa||S|tmp|C2
+der Ballungsraum|área metropolitana (aglomeración)||S|cit|C2
+die Grenzregion|región fronteriza||S|cit|C2
+die Asylpolitik|política de asilo||S|ist|C2
+die Visumspflicht|obligación de visado||S|ist|C2
+die Bergwacht|guardia de montaña (socorro alpino)||S|vig|C2
+der Lawinenwarndienst|servicio de alerta de aludes||S|vig|C2
+die Abstimmungsniederschrift|acta de votación (escrutinio)||S|ist|C2
+die Amtsbezeichnung|denominación del cargo (título oficial)||S|ist|C2
+die Dienstaufsicht|supervisión jerárquica (inspección de servicio)||S|ist|C2
+die Verbeamtung|funcionarización (ingreso a la carrera)||S|ist|C2
+das Disziplinarverfahren|expediente disciplinario||S|ist|C2
+die Besoldungsgruppe|grupo retributivo (nivel administrativo)||S|ist|C2
+die Haushaltslage|situación presupuestaria||S|ist|C2
+die Haushaltskonsolidierung|consolidación fiscal (saneamiento)||S|ist|C2
+der Schuldenstand|nivel de deuda (stock)||S|fin|C2
+die Zweckbindung|vinculación a destino (finalidad presupuestaria)||S|fin|C2
+der Stellenplan|relación de puestos de trabajo||S|ist|C2

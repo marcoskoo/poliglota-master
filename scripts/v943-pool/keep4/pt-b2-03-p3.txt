@@ -1,0 +1,144 @@
+edição de bolso|edición de bolsillo||S|let|B2
+capa dura|tapa dura||S|let|B2
+capa mole|tapa blanda||S|let|B2
+sessão de autógrafos|sesión de firmas||S|let|B2
+marca-páginas|separador de libros||S|let|B2
+pseudónimo|seudónimo||S|let|B2
+saga|saga||S|let|B2
+trilogia|trilogía||S|let|B2
+folhear|hojear||V|let|B2
+de um fôlego|de un tirón||L|let|B2
+edição esgotada|edición agotada||S|let|B2
+percurso pedestre|ruta de senderismo||S|nat|B2
+ribeira|ribera (orilla del río)||S|nat|B2
+avistamento|avistamiento||S|nat|B2
+fauna e flora|fauna y flora||S|nat|B2
+silvado|zarzal||S|nat|B2
+lancheira|fiambrera||S|nat|B2
+cantil|cantimplora||S|nat|B2
+feira da ladra|mercado de pulgas||S|vig|B2
+bugiganga|baratija||S|cmp|B2
+pernoitar|pernoctar||V|vig|B2
+excursão|excursión||S|vig|B2
+viagem organizada|viaje organizado||S|vig|B2
+feriado prolongado|puente (festivo alargado)||S|vig|B2
+época alta|temporada alta||S|vig|B2
+cruzeiro|crucero||S|vig|B2
+compaixão|compasión||S|emo|B2
+fraquejar|flaquear (decaer)||V|emo|B2
+afirmar-se|afirmarse (imponerse)||V|emo|B2
+constância|constancia||S|emo|B2
+persistir|persistir||V|emo|B2
+gratidão|gratitud||S|emo|B2
+interpretar mal|malinterpretar||V|cmu|B2
+sem querer|sin querer||L|cmu|B2
+ofensa|ofensa||S|cmu|B2
+dar satisfações|dar explicaciones||L|cmu|B2
+levar a mal|tomarse a mal||L|cmu|B2
+troca de impressões|intercambio de opiniones||L|cmu|B2
+marcar hora|pedir cita (concertar cita)||L|ist|B2
+processo|expediente (proceso)||S|ist|B2
+estatuto de residência|tarjeta de residencia||S|ist|B2
+mudança de morada|cambio de domicilio||S|ist|B2
+declaração|declaración (de impuestos)||S|ist|B2
+hora de atendimento|horario de atención||S|ist|B2
+atendimento prioritário|atención prioritaria||S|ist|B2
+ora bem|bueno (pues veamos)||I|cnn|B2
+pronto|bueno (vale, listo)||I|cnn|B2
+olha|oye (mira)||I|cnn|B2
+quer dizer|es decir (o sea)||L|cnn|B2
+se calhar|a lo mejor (quizá)||L|cnn|B2
+a bem da verdade|a decir verdad||L|cnn|B2
+entretanto|entretanto (mientras tanto)||D|cnn|B2
+para variar|para variar||L|cnn|B2
+em todo o caso|en todo caso||L|cnn|B2
+seja como for|sea como sea||L|cnn|B2
+sinceramente|sinceramente||D|cnn|B2
+em jeito de conclusão|a modo de conclusión||L|cnn|B2
+acaso|casualidad (acaso)||S|ast|B2
+fatalidade|fatalidad (crueldad del destino)||S|ast|B2
+sina|sino (destino)||S|ast|B2
+alteração|alteración (cambio)||S|ast|B2
+viragem|giro (cambio de rumbo)||S|ast|B2
+de última hora|de última hora||L|ast|B2
+ao longo do tempo|a lo largo del tiempo||L|ast|B2
+com vagar|con calma (sin prisa)||L|ast|B2
+exposição itinerante|exposición itinerante||S|art|B2
+galeria de arte|galería de arte||S|art|B2
+busto|busto||S|art|B2
+friso|friso (arquitectura)||S|art|B2
+reabertura|reapertura||S|art|B2
+placa comemorativa|placa conmemorativa||S|art|B2
+detetor de metais|detector de metales||S|tra|B2
+excesso de bagagem|exceso de equipaje||S|tra|B2
+assento na janela|asiento de ventanilla||S|tra|B2
+despachar as malas|facturar las maletas||L|tra|B2
+mala de mão|equipaje de mano||S|tra|B2
+voo atrasado|vuelo retrasado||S|tra|B2
+comissário de bordo|azafato (auxiliar de vuelo)||S|tra|B2
+quarto interior|habitación interior||S|htl|B2
+limpeza do quarto|limpieza de la habitación||S|htl|B2
+sem reembolso|sin reembolso||L|htl|B2
+tarifa por noite|precio por noche||S|htl|B2
+saída tardia|salida tardía (hora de salir más tarde)||S|htl|B2
+pergunta-armadilha|pregunta trampa||S|lav|B2
+expectativa salarial|pretensión salarial||S|lav|B2
+carga de trabalho|carga de trabajo||S|lav|B2
+ambiente de trabalho|ambiente de trabajo||S|lav|B2
+início de funções|incorporación al puesto||S|lav|B2
+registo de presenças|control de presencia||S|lav|B2
+hierarquia|jerarquía||S|lav|B2
+de geração em geração|de generación en generación||L|rel|B2
+ancião|anciano||S|rel|B2
+tempos idos|tiempos pasados||L|rel|B2
+no meu tempo|en mis tiempos||L|rel|B2
+lengalenga|letanía (rollo)||S|cmu|B2
+cochilo|siesta (cabezada)||S|sla|B2
+ressonar|roncar||V|sla|B2
+sonâmbulo|sonámbulo||S|sla|B2
+vigor|vigor||S|sla|B2
+disposição|disposición (ánimo)||S|sla|B2
+relaxante|relajante||A|sla|B2
+equilibrada|equilibrada (dieta equilibrada)||A|sla|B2
+moderação|moderación||S|sla|B2
+rotina matinal|rutina matinal||S|sla|B2
+privação de sono|privación de sueño||S|sla|B2
+noite em claro|noche en vela||L|sla|B2
+a sono solto|a pierna suelta (durmiendo profundamente)||L|sla|B2
+sonolência|somnolencia||S|sla|B2
+bocejo|bostezo||S|sla|B2
+espreguiçar-se|estirarse (desperezarse)||V|sla|B2
+cancelar|cancelar (anular)||V|rel|B2
+desmarcar|anular la cita||V|rel|B2
+antecedência|antelación||S|rel|B2
+deixar ficar|plantar (dejar plantado)||L|rel|B2
+imprevisto|imprevisto||S|rel|B2
+inesperado|inesperado||A|rel|B2
+a tempo e horas|a tiempo y a tiempo (sin retraso)||L|rel|B2
+mudar de planos|cambiar de planes||L|rel|B2
+agenda cheia|agenda llena||S|rel|B2
+à última hora|a última hora (en el último momento)||L|rel|B2
+contar comigo|cuenta conmigo (puedes contar conmigo)||L|rel|B2
+furar um compromisso|fallar a un compromiso||L|rel|B2
+tal como combinado|como quedamos||L|rel|B2
+já se verá|ya se verá||L|rel|B2
+ficar para outro dia|quedar para otro día||L|rel|B2
+sem falta|sin falta||L|rel|B2
+bicho de estimação|animal de compañía||S|ani|B2
+comedouro|comedero||S|ani|B2
+areeiro|arenero (letrina del gato)||S|ani|B2
+tosquiar|esquilar||V|ani|B2
+miar|maullar||V|ani|B2
+ladrido|ladrido||S|ani|B2
+rosnar|gruñir||V|ani|B2
+domesticar|domesticar||V|ani|B2
+rabinho|rabo (colita)||S|ani|B2
+dar boleia|dar un aventón (llevar en el coche)||L|tra|B2
+chapa de matrícula|placa de matrícula||S|tra|B2
+partilha de carro|compartir coche||S|tec|B2
+tráfego|tráfico||S|tra|B2
+faixa pedonal|paso de peatones||S|tra|B2
+faixa de rodagem|calzada||S|tra|B2
+estimativa de chegada|hora estimada de llegada||S|tra|B2
+taxímetro|taxímetro||S|tra|B2
+aluguer de trotinetas|alquiler de patinetes||S|tra|B2

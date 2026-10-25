@@ -1,0 +1,159 @@
+insofrimento|desasosiego (impaciencia)||S|emo|C1
+desvalimento|desvalimiento (abandono)||S|emo|C1
+pesadume|pesadumbre (melancolía)||S|emo|C1
+pezado|apesadumbrado (contrariado)||A|emo|C1
+acabrunhado|abrumado (abatido)||A|emo|C1
+agastado|disgustado (agastado)||A|emo|C1
+desassombrado|desembarazado (intrépido)||A|emo|C1
+arrufado|emfurruñado (mosqueado)||A|emo|C1
+amuar|amohinarse (poner mal humor)||V|emo|C1
+amuo|amohino (mal humor)||S|emo|C1
+irritadiço|irritable (pronto a irritarse)||A|emo|C1
+embirrado|empecinado (porfiado)||A|emo|C1
+mesquinharia|mezquindad (roña)||S|emo|C1
+azedume|acidez (agrura, mal humor)||S|emo|C1
+desabrido|áspero (insulso, destemplado)||A|cmu|C1
+dengoso|dengoso (melindroso)||A|emo|C1
+pachorrento|pachorrento (flemático)||A|emo|C1
+atarracado|atarracado (rechoncho y bajo)||A|cor|C1
+nédio|lozano (corpulento y fresco)||A|cor|C1
+lamposo|lampiño (lustroso, pulido)||A|cor|C1
+garrido|garrido (apuesto, vistoso)||A|emo|C1
+donaire|donaire (solura y gracia)||S|ast|C1
+donoso|donoso (garboso y galán)||A|emo|C1
+galantice|galantería (cortesía de enamorado)||S|rel|C1
+afouto|osado (fogoso, valentón)||A|emo|C1
+alvar|bobo (mentecato, simple)||A|cmu|C1
+lorpa|lorpa (simple, mentecato)||A|cmu|C1
+insciente|nesciente (que no sabe)||A|ast|C1
+sabichão|sabihondo (presumido de sabio)||S|cmu|C1
+truão|truhan (bufón, chocarrero)||S|cmu|C1
+mofar|mofar (burlarse, moteo)||V|cmu|C1
+derrisório|derisorio (burlón)||A|cmu|C1
+burlão|burlón (chacotero, befa)||A|cmu|C1
+malandrice|malandrería (pilletez)||S|cmu|C1
+mandrião|holgazán (mandria)||S|cmu|C1
+madraça|holgazana (madraza)||S|cmu|C1
+mandratice|mandriera (holgazanería)||S|cmu|C1
+galdéria|galdéria (mala vida, picaresca)||S|cmu|C1
+galarifo|galarife (perifollero vano)||S|cmu|C1
+pintalegrete|perifollero (dandi de pacotilla)||S|cmu|C1
+petimetre|petimetre (pisaverde)||S|cmu|C1
+peralta|peralta (petimetre cursi)||S|cmu|C1
+mexeriqueiro|murmurador (chismoso)||S|cmu|C1
+mexericos|chismes (murmuración)||S|cmu|C1
+cochicho|cuchicheo (susurro)||S|cmu|C1
+linguaraz|lenguazar (deslenguado)||A|cmu|C1
+palreiro|parlero (hablador vano)||S|cmu|C1
+tagarelice|parlería (charla insufrible)||S|cmu|C1
+maldizente|maldeciente (murmurador)||A|cmu|C1
+aldrabice|aldrabía (embustidad)||S|cmu|C1
+aldrabão|aldrabón (embustero)||S|cmu|C1
+balela|bulo (chisme infundado)||S|cmu|C1
+lamúria|lamentación (lloros, querella)||S|cmu|C1
+eiva|defecto (tacha)||S|cmu|C1
+eivado|achacado (viciado, corrompido)||A|ast|C1
+desbarato|desbarate (derroche, confusión)||S|fin|C1
+logrador|logrero (engañador de oficio)||S|pro|C1
+alento|aliento (vigor, consuelo)||S|emo|C1
+desamparo|desamparo (abandono)||S|emo|C1
+banzo|morriña (nostalgia del desterrado)||S|emo|C1
+alinho|aliño (adorno, disposición)||S|ast|C1
+desasseio|desaseo (falta de aseo)||S|ast|C1
+paspalhada|patochada (grupo de ingenuos)||S|cmu|C1
+carão|carantoña (gesto severo)||S|cmu|C1
+carantonhas|regañinas (ceño adusto)||S|cmu|C1
+reganho|regañido (enseñando los dientes)||S|cmu|C1
+molemente|muellemente (con desgana)||D|ast|C1
+gerigonça|jerigonza (habla ininteligible)||S|cmu|C1
+escangalhar|trastornar (destrozar, descoyuntar)||V|cmu|C1
+desengonçado|desgarbado (descoyuntado)||A|emo|C1
+desengonço|desgarbo (falta de soltura)||S|ast|C1
+enguiço|estorbo (traba)||S|cmu|C1
+atafalar|agobiar (dar prisa)||V|cmu|C1
+estorvar|estorbar (entorpecer)||V|cmu|C1
+entorpecer|entorpecer (adormecer un miembro)||V|sla|C1
+entorpecimento|acorchamiento (entumecimiento)||S|sla|C1
+esmorecer|esmorecer (desmayarse)||V|emo|C1
+abismar|abismar (pasmar, aturdir)||V|emo|C1
+aturdir|aturdir (ensordecer con estrépito)||V|cmu|C1
+tresandar|exceder en extremo (apestar a)||V|cmu|C1
+desatinar|desatinar (trastornar)||V|emo|C1
+aterritar|aterrorizar (asustar de muerte)||V|emo|C1
+encabular|acoquinar (espantar, acobardar)||V|emo|C1
+tremelicar|tambalearse (temblar de miedo)||V|emo|C1
+arrepiar|erizar (asustar, repeler)||V|emo|C1
+arredar|apartar (retirar de ahí)||V|cmu|C1
+negacear|regatear (andarse con rodeos)||V|cmu|C1
+remedar|remedar (imitar burlándose)||V|cmu|C1
+remedo|remedo (imitación burlesca)||S|cmu|C1
+esbaldar|dar rienda suelta (festejar a lo grande)||V|sve|C1
+empanturrar|empaturrar (hartar de comida)||V|ali|C1
+sorver|sorber (beber a sorbos)||V|ali|C1
+trincar|trincar (beber a sorbitos)||V|ali|C1
+mesclar|mesclar (mezclar, entremezclar)||V|cmu|C1
+mesturar|mesturar (amasar, mezclar)||V|ris|C1
+entremear|entremear (entremezclar)||V|cmu|C1
+cavaquear|cotorrear (charlar a gusto)||V|cmu|C1
+espicaçar|espicaçar (provocar, aguijonear)||V|cmu|C1
+aguilhoar|aguijar (espolear, picar)||V|cmu|C1
+aguilhão|aguijada (espuelazo picante)||S|cmu|C1
+esbugalhar os olhos|desgañitar los ojos||L|cmu|C1
+embasbacado|embobado (boca abierta)||A|cmu|C1
+arroubar|arrobar (extasiar)||V|emo|C1
+enlevar|embelesar (arrebatar)||V|emo|C1
+postema|postema (absceso, furúnculo)||S|sla|C1
+untura|untura (pomada, unto)||S|sla|C1
+mezinheiro|curandero (boticario ambulante)||S|pro|C1
+mezinha|melecina (remedio de andar por casa)||S|sla|C1
+clister|clíster (enema)||S|sla|C1
+terçã|terciana (fiebre terciana)||S|sla|C1
+quartã|cuartana (fiebre cuartana)||S|sla|C1
+papeira|paperas (parotiditis)||S|sla|C1
+impigem|impétigo (erupción costrosa)||S|sla|C1
+chaga|chaga (llaga, úlcera)||S|sla|C1
+lazarento|lazarino (apenasado, apestado)||A|sla|C1
+morféia|lepra (mal de Hansen)||S|sla|C1
+benzedeira|santiguadora (curandera popular)||S|pro|C1
+benzimento|santiguamiento (ensalmo)||S|sla|C1
+ensalmar|ensalmar (curar con ensalmos)||V|sla|C1
+ensalmo|ensalmo (conjuro medicinal)||S|ast|C1
+esconjurar|esconjurar (exorcizar, conjurar)||V|ast|C1
+praguejar|praguejar (maldecir, apenar)||V|cmu|C1
+cambaleio|tambaleo (pasos vacilantes)||S|cor|C1
+vergão|cardenal (moratón de azote)||S|cor|C1
+estrapada|tunda (paliza)||S|cmu|C1
+varejada|zurra (varapalazo)||S|cmu|C1
+frangalho|jirón (andrajo)||S|rop|C1
+saio|sayo (vestidura antigua)||S|rop|C1
+basquina|basquiña (vestido campesino)||S|rop|C1
+samarra|zamarra (chaqueta de piel)||S|rop|C1
+embuço|embozo (capuz, antifaz)||S|rop|C1
+mantéu|manteo (manto de estudiante)||S|rop|C1
+surrão|zurrón (odre de pastor)||S|nat|C1
+récua|recua (recua de mulas)||S|tra|C1
+acémola|acémila (bestia de carga)||S|ani|C1
+andarilha|andariega (marchadora infatigable)||S|nat|C1
+anduranças|andanzas (aventuras, penalidades)||S|nat|C1
+ossada|osamenta (huesos del difunto)||S|cor|C1
+sobrecenho|sobrecejo (ceño adusto)||S|cmu|C1
+lassidão|lasitud (abatimiento, flojedad)||S|emo|C1
+lasso|laso (flojo de cansancio)||A|cor|C1
+alquebrado|alquebrado (desfallecido)||A|cor|C1
+esbaforido|jadeante (sin resuello)||A|cor|C1
+esfalfado|molido (reventado de cansancio)||A|cor|C1
+esgalgado|espigado (alto y desgarbado)||A|cor|C1
+esguio|espigado (ligero y vivo)||A|cor|C1
+entrevado|tullido (paralizado, lisiado)||A|cor|C1
+tolhido|tullido (impedido, lisiado)||A|cor|C1
+malfadado|malfadado (de funesto sino)||A|ast|C1
+malaventurado|malaventurado (desdichado)||A|emo|C1
+malquisto|malquisto (desestimado)||A|emo|C1
+benquerer|bienquerer (querer bien)||V|emo|C1
+velhacaria|bellacada (ruindad de bellaco)||S|cmu|C1
+brioso|brioso (fogoso, gallardo)||A|emo|C1
+soltura|soltura (desembarazo)||S|ast|C1
+desembaraço|desembarazo (donosura)||S|ast|C1
+abespinhar|abespinar (irritar, encolerizar)||V|emo|C1
+acanheado|encanijado (de mala catadura)||A|emo|C1
+réstia|ristra (sarta de ajos)||S|ali|C1

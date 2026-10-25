@@ -1,0 +1,242 @@
+usucapião|usucapión (prescripción adquisitiva)||S|ist|C2
+novação|novación (de obligaciones)||S|ist|C2
+sub-rogação|subrogación||S|ist|C2
+cláusula penal|cláusula penal (indemnización convencional)||L|ist|C2
+exceção de não cumprimento|excepción de incumplimiento||L|ist|C2
+exceção perentória|excepción perentoria||L|ist|C2
+condição suspensiva|condición suspensiva||L|ist|C2
+condição resolutiva|condición resolutoria||L|ist|C2
+mora do devedor|mora del deudor||L|ist|C2
+venda a contento|venta a contento||L|ist|C2
+retrovenda|retroventa||S|ist|C2
+pacto de preferência|pacto de preferencia||L|ist|C2
+reserva de propriedade|reserva de dominio||L|ist|C2
+cessão de posição contratual|cesión de posición contractual||L|ist|C2
+colação|colación (de bienes hereditarios)||S|ist|C2
+testamento cerrado|testamento cerrado||L|ist|C2
+codicilo|codicilo||S|ist|C2
+inventário por morte|inventario hereditario||L|ist|C2
+herdeiro legitimário|heredero legitimario||S|ist|C2
+coisa julgada material|cosa juzgada material||L|ist|C2
+litisconsórcio|litisconsorcio||S|ist|C2
+litispendência|litispendencia||S|ist|C2
+embargos de terceiro|embargos de tercero||L|ist|C2
+embargos de executado|embargos del ejecutado||L|ist|C2
+despacho saneador|auto de saneamiento||L|ist|C2
+nulidade processual|nulidad procesal||L|ist|C2
+suplicatório|exhorto (despacho del supremo)||S|ist|C2
+carta rogatória|carta rogatoria||L|ist|C2
+acórdão uniformizador|sentencia uniformizadora (de jurisprudencia)||L|ist|C2
+reformatio in pejus|reformatio in peius||L|ist|C2
+transitada em julgado|firme en autoridad de cosa juzgada||L|ist|C2
+detração|cómputo de la detención en la pena||S|ist|C2
+comutação da pena|conmutación de la pena||L|ist|C2
+remição da pena|remisión de la pena||L|ist|C2
+autoria mediata|autoría mediata||L|ist|C2
+crime continuado|delito continuado||L|ist|C2
+erro de proibição|error de prohibición||L|ist|C2
+inexigibilidade|inexigibilidad (de otra conducta)||S|ist|C2
+prescrição do procedimento|prescripción de la acción penal||L|ist|C2
+vitimologia|victimología||S|ist|C2
+periculosidade|peligrosidad||S|ist|C2
+imputabilidade|imputabilidad||S|ist|C2
+inimputabilidade|inimputabilidad||S|ist|C2
+averbação|anotación registral||S|ist|C2
+trato sucessivo|tracto sucesivo||L|ist|C2
+descrição predial|descripción registral de la finca||L|ist|C2
+matriz predial|matriz registral (de la finca)||S|ist|C2
+hipoteca legal|hipoteca legal||L|ist|C2
+servidão administrativa|servidumbre administrativa||L|ist|C2
+aforamento|foro (censo enfiteútico)||S|ist|C2
+enfiteuse|enfiteusis||S|ist|C2
+laudémio|ludemio (renta enfiteútica)||S|ist|C2
+anticrese|anticresis||S|ist|C2
+inconstitucionalidade por omissão|inconstitucionalidad por omisión||L|ist|C2
+jurisdição constitucional|jurisdicción constitucional||L|ist|C2
+parlamentarismo racionalizado|parlamentarismo racionalizado||L|ist|C2
+reserva de lei|reserva de ley||L|ist|C2
+estado de sítio|estado de sitio||L|ist|C2
+contencioso administrativo|contencioso administrativo||L|ist|C2
+recurso hierárquico|recurso jerárquico||L|ist|C2
+contraordenação|infracción administrativa (sancionable con multa)||S|ist|C2
+coima|multa (por infracción administrativa)||S|ist|C2
+nação mais favorecida|nación más favorecida||L|ist|C2
+imunidade de jurisdição|inmunidad de jurisdicción||L|ist|C2
+terra nullius|terra nullius||L|ist|C2
+uti possidetis|uti possidetis (frontera consolidada)||L|ist|C2
+compra e venda|compraventa (escritura de)||L|ist|C2
+pacto social|pacto social (estatutos)||L|ist|C2
+governação das sociedades|gobierno corporativo||L|fin|C2
+aquisição alavancada|adquisición apalancada||L|fin|C2
+oferta pública de aquisição|oferta pública de adquisición (opa)||L|fin|C2
+obrigacionista|obligacionista||S|fin|C2
+colocação privada|colocación privada||L|fin|C2
+sede social|domicilio social||L|ist|C2
+convenção coletiva|convenio colectivo||L|lav|C2
+caducidade|caducidad (extinción del contrato)||S|ist|C2
+suspensão da eficácia|suspensión de eficacia (del acto)||L|ist|C2
+interesse legítimo|interés legítimo||L|ist|C2
+excessiva onerosidade|excesiva onerosidad sobrevenida||L|ist|C2
+teoria da imprevisão|teoría de la imprevisión||L|ist|C2
+boa-fé objetiva|buena fe objetiva||L|ist|C2
+vícios do consentimento|vicios del consentimiento||L|ist|C2
+negócio simulado|negocio simulado||L|ist|C2
+por interposta pessoa|por persona interpuesta||L|ist|C2
+intuitu personae|intuitu personae (en consideración a la persona)||L|ist|C2
+revogável ad nutum|revocable ad nutum||L|ist|C2
+exceptio non adimpleti contractus|exceptio non adimpleti contractus||L|ist|C2
+condictio indebiti|condictio indebiti (repetición de lo indebido)||L|ist|C2
+enriquecimento sem causa|enriquecimiento sin causa||L|ist|C2
+imissão na posse|imisión en la posesión||L|ist|C2
+saneamento por evicção|saneamiento por evicción||L|ist|C2
+vício redibitório|vicio redhibitorio||S|ist|C2
+reserva mental|reserva mental||L|ist|C2
+amigável compositor|amigable componedor||L|ist|C2
+cláusula compromissória|cláusula compromisoria||L|ist|C2
+mandato aparente|mandato aparente||L|ist|C2
+responsabilidade extracontratual|responsabilidad extracontractual||S|ist|C2
+interpretação conforme|interpretación conforme (a la Constitución)||L|ist|C2
+obiter dictum|obiter dictum (dicho de paso)||L|ist|C2
+ratio decidendi|ratio decidendi (razón del fallo)||L|ist|C2
+lex ferenda|lex ferenda (derecho futuro)||L|ist|C2
+erga omnes|erga omnes||L|ist|C2
+inter partes|inter partes||L|ist|C2
+amicus curiae|amicus curiae||L|ist|C2
+mutatis mutandis|mutatis mutandis||L|ist|C2
+ad cautelam|ad cautelam (por cautela)||L|ist|C2
+pacta sunt servanda|pacta sunt servanda||L|ist|C2
+dura lex sed lex|dura lex sed lex||L|ist|C2
+volenti non fit iniuria|volenti non fit iniuria||L|ist|C2
+ignorantia legis non excusat|ignorantia legis non excusat||L|ist|C2
+audiatur et altera pars|audiatur et altera pars||L|ist|C2
+quirografário|quirografario (acreedor sin garantía)||A|ist|C2
+testamenteiro|albacea||S|ist|C2
+inventariante|administrador del caudal hereditario||S|ist|C2
+suspeição|recusación (del juez)||S|ist|C2
+ajuizamento|interposición de la demanda||S|ist|C2
+ajuizar|interponer (demanda)||V|ist|C2
+apenso|pieza separada (del proceso)||S|ist|C2
+certidão de teor|certificación literal||L|ist|C2
+graduação de créditos|graduación de créditos||L|ist|C2
+massa insolvente|masa concursal||L|ist|C2
+impenhorabilidade|impenhorabilidad||S|ist|C2
+irrenunciabilidade|irrenunciabilidad||S|ist|C2
+efeito suspensivo|efecto suspensivo||L|ist|C2
+substituição processual|sustitución procesal||L|ist|C2
+inabilitação|incapacitación judicial||S|ist|C2
+curatela|curatela||S|ist|C2
+pródigo|pródigo (derrochador declarado)||S|ist|C2
+avença|avenencia (transacción)||S|ist|C2
+perjúrio|perjurio||S|ist|C2
+colusão|colusión||S|ist|C2
+branqueamento de capitais|blanqueo de capitales||L|ist|C2
+tráfico de influência|tráfico de influencias||L|ist|C2
+insolvência fraudulenta|insolvencia fraudulenta||L|ist|C2
+sucumbência|condena en costas||S|ist|C2
+juros de mora|intereses de demora||L|ist|C2
+trespasse|traspaso (del fondo de comercio)||S|fin|C2
+com a devida vênia|con la debida venia||L|ist|C2
+salvo erro ou omissão|salvo error u omisión||L|fin|C2
+estagflação|estanflación||S|fin|C2
+reflação|reflación||S|fin|C2
+desinflação|desinflación||S|fin|C2
+ancoragem das expetativas|anclaje de las expectativas||L|fin|C2
+expetativas de inflação|expectativas de inflación||L|fin|C2
+calibração|calibración (de la política monetaria)||S|fin|C2
+flexibilização quantitativa|flexibilización cuantitativa||L|fin|C2
+notação de crédito|calificación crediticia||L|fin|C2
+obrigações de alto rendimento|bonos de alto rendimiento||L|fin|C2
+rendibilidade|rentabilidad||S|fin|C2
+acumulação primitiva|acumulación originaria||L|fin|C2
+fetiche da mercadoria|fetichismo de la mercancía||L|fin|C2
+reificação|cosificación||S|ast|C2
+aparelho ideológico|aparato ideológico||L|ist|C2
+pauta aduaneira|arancel aduanero||L|fin|C2
+despacho aduaneiro|despacho aduanero||L|fin|C2
+subsídio à exportação|subvención a la exportación||L|fin|C2
+medidas de salvaguarda|medidas de salvaguardia||L|fin|C2
+barreira não tarifária|barrera no arancelaria||L|fin|C2
+termos de troca|términos de intercambio||L|fin|C2
+transações correntes|balanza por cuenta corriente||L|fin|C2
+prémio de risco|prima de riesgo||L|fin|C2
+cláusula de ação coletiva|cláusula de acción colectiva||L|fin|C2
+quitação|carta de pago||S|fin|C2
+sobra orçamental|superávit presupuestario||L|fin|C2
+elisão fiscal|elusión fiscal||L|fin|C2
+prejuízo fiscal|pérdida fiscal (compensable)||L|fin|C2
+parecer de auditoria|informe de auditoría||L|fin|C2
+partidas dobradas|partida doble||L|fin|C2
+balancete|balance de sumas y saldos||S|fin|C2
+venda a descoberto|venta en corto||L|fin|C2
+permuta financeira|permuta financiera (swap)||L|fin|C2
+incumprimento seletivo|impago selectivo||L|fin|C2
+volatilidade implícita|volatilidad implícita||L|fin|C2
+profundidade de mercado|profundidad de mercado||L|fin|C2
+formador de mercado|creador de mercado||L|fin|C2
+leilão inverso|subasta inversa||L|fin|C2
+mercado de balcão|mercado de balcón (extrabursátil)||L|fin|C2
+curva de rendimento|curva de rendimiento||L|fin|C2
+bilhete de tesouraria|pagaré de tesorería||L|fin|C2
+desvalorização competitiva|devaluación competitiva||L|fin|C2
+controlo de capitais|control de capitales||L|fin|C2
+colateralização|colateralización||S|fin|C2
+desalavancagem|desapalancamiento||S|fin|C2
+rácio de alavancagem|ratio de apalancamiento||L|fin|C2
+rácio de solvência|ratio de solvencia||L|fin|C2
+colchão de capital|colchón de capital||L|fin|C2
+fundo de resolução|fondo de resolución||L|fin|C2
+teste de resistência|prueba de resistencia||L|fin|C2
+corrida ao banco|corrida bancaria||L|fin|C2
+resolução bancária|resolución bancaria||L|fin|C2
+reserva fracionária|reserva fraccionaria||L|fin|C2
+encolhimento do balanço|contracción del balance||L|fin|C2
+normalização monetária|normalización monetaria||L|fin|C2
+bandas de flutuação|bandas de fluctuación||L|fin|C2
+flutuação suja|flotación sucia||L|fin|C2
+ajustamento interno|ajuste interno||L|fin|C2
+estabilizadores automáticos|estabilizadores automáticos||L|fin|C2
+contra-cíclico|anticíclico||A|fin|C2
+prociclicalidade|prociclicidad||S|fin|C2
+mercado cinzento|mercado gris||L|fin|C2
+risco de cauda|riesgo de cola||L|fin|C2
+engenharia financeira|ingeniería financiera||L|fin|C2
+securitização|titularización||S|fin|C2
+papel comercial|papel comercial (a corto plazo)||L|fin|C2
+crédito malparado|crédito dudoso||L|fin|C2
+moeda fiduciária|dinero fiduciario||L|fin|C2
+padrão-ouro|patrón oro||S|fin|C2
+âncora cambial|ancla cambiaria||L|fin|C2
+ataque especulativo|ataque especulativo||L|fin|C2
+empréstimo de títulos|préstamo de valores||L|fin|C2
+arbitragem estatística|arbitraje estadístico||L|fin|C2
+rebalanceamento|rebalanceo (de cartera)||S|fin|C2
+supervisão prudencial|supervisión prudencial||L|fin|C2
+substituição de importações|sustitución de importaciones||L|fin|C2
+certificado de origem|certificado de origen||L|fin|C2
+acordo de livre-câmbio|acuerdo de libre comercio||L|fin|C2
+deslocalização|deslocalización||S|fin|C2
+custos afundados|costes hundidos||L|fin|C2
+seleção adversa|selección adversa||L|fin|C2
+monopsónio|monopsonio||S|fin|C2
+oligopsónio|oligopsonio||S|fin|C2
+banca universal|banca universal||L|fin|C2
+banca de investimento|banca de inversión||L|fin|C2
+seguro multirriscos|seguro multirriesgos||L|fin|C2
+cédula hipotecária|cédula hipotecaria||S|fin|C2
+obrigação hipotecária|bono hipotecario||L|fin|C2
+desconto racional|descuento racional||L|fin|C2
+carestia|carestía (encarecimiento)||S|fin|C2
+descoberto bancário|descubierto bancario||L|fin|C2
+fundo de maneio|fondo de maniobra||L|fin|C2
+livrança|pagaré||S|fin|C2
+balanço social|balance social||L|fin|C2
+auditoria de conformidade|auditoría de cumplimiento||L|fin|C2
+contabilístico|contable||A|fin|C2
+custeio por absorção|costeo por absorción||L|fin|C2
+custeio variável|costeo variable||L|fin|C2
+excedente de exploração|excedente de explotación||L|fin|C2
+conta satélite|cuenta satélite||L|fin|C2
+fundo de comércio|fondo de comercio||L|fin|C2
+lucros retidos|beneficios no distribuidos||L|fin|C2
+fraude contabilística|fraude contable||L|fin|C2
+haveres|haberes (bienes)||S|ist|C2

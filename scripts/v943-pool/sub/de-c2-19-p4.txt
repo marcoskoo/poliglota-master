@@ -1,0 +1,132 @@
+die Widerklage|demanda reconvencional (reconvención)||S|ist|C2
+der Abtretungsempfänger|cesionario (adquirente del crédito)||S|ist|C2
+das Armenrecht|beneficio de pobreza (gratuidas procesales, histórico)||S|ist|C2
+die Besitzstörungsklage|interdicto de recobrar (acción posesoria)||S|ist|C2
+die Eigentumsfreiheitsklage|acción negatoria de la propiedad||S|ist|C2
+die Nebenintervention|intervención coadyuvante (litisconsorcial)||S|ist|C2
+die Rechtshängigkeit|pendencia del proceso (litispendencia)||S|ist|C2
+das Übermaßverbot|prohibición del exceso (proporcionalidad)||S|ist|C2
+die Gerichtsstandvereinbarung|pacto de foro (cláusula jurisdiccional)||S|ist|C2
+der Urkundsbeamte|actuario (oficial de actas)||S|ist|C2
+die Ladungsfrist|plazo de citación (emplazamiento)||S|ist|C2
+die Führungsaufsicht|libertad vigilada||S|ist|C2
+die Notwehrüberschreitung|exceso en la legítima defensa||S|ist|C2
+die Zurechnungsunfähigkeit|imputabilidad (incapacidad de culpabilidad)||S|ist|C2
+der Verbotsirrtum|error de prohibición||S|ist|C2
+die Einziehung|comiso (decomiso)||S|ist|C2
+die Einstellungsverfügung|auto de archivo (sobreseimiento)||S|ist|C2
+der Tatverdacht|sospecha de los hechos (contra el imputado)||S|ist|C2
+der Gewohnheitstäter|delincuente habitual||S|ist|C2
+die Intensivtäter|delincuente de alta frecuencia (reincidente)||S|ist|C2
+die Bewährungswiderruf|revocación de la condicional||S|ist|C2
+der Vollzugsplan|plan de tratamiento (penitenciario)||S|ist|C2
+die Lockerungsmaßnahme|medida de flexibilización (penitenciaria)||S|ist|C2
+der Freigänger|preso en semilibertad (de confianza)||S|ist|C2
+der Strafvollzugsbeamte|funcionario penitenciario||S|ist|C2
+die Abschiebungshaft|prisión preventiva de expulsión||S|ist|C2
+die Duldung|tolerancia (estancia provisional)||S|ist|C2
+die Reallast|carga real (censo sobre inmueble)||S|ist|C2
+die Löschungsbewilligung|consentimiento de cancelación registral||S|ist|C2
+die Aufsandungserklärung|declaración de consentimiento (transmisión inmobiliaria, austríaco)||S|ist|C2
+der Schuldbeitritt|asunción cumulativa de deuda||S|ist|C2
+die Schuldübernahme|asunción de deuda (liberatoria o cumulativa)||S|ist|C2
+die Gefahrenabwehr|prevención de peligros (seguridad interior)||S|ist|C2
+die Eingriffsverwaltung|administración intervencionista||S|ist|C2
+die Leistungsverwaltung|administración prestacional||S|ist|C2
+die Rückverweisung|reenvío (remisión de vuelta, DIPr)||S|ist|C2
+die Vorfrage|cuestión previa (preliminar)||S|ist|C2
+die Genehmigungsfähigkeit|autorizabilidad (que puede ser autorizado)||S|ist|C2
+der Aufschiebungseffekt|efecto suspensivo (de los recursos)||S|ist|C2
+die Rechtsverordnung|reglamento (disposición reglamentaria)||S|ist|C2
+die Beistandsklausel|cláusula de asistencia mutua||S|ist|C2
+die Sachgründung|aportación no dineraria (constitución en bienes)||S|ist|C2
+die Sacheinlage|aporte en especie (a la sociedad)||S|ist|C2
+die Kapitalmaßnahme|operación sobre el capital||S|fin|C2
+die Einigungsstelle|órgano de arbitraje (conciliación laboral)||S|lav|C2
+der Abandon|abandono (derecho de seguro, histórico)||S|fin|C2
+die Wertpapierleihe|préstamo de valores||S|fin|C2
+die Zinsstruktur|estructura temporal de tipos||S|fin|C2
+der Kursabschlag|descuento sobre cotización (deságio)||S|fin|C2
+das Aufgeld|prima sobre el nominal (agio)||S|fin|C2
+die Kurssicherung|cobertura de divisas||S|fin|C2
+der Mittelzufluss|aporte de fondos (entradas de caja)||S|fin|C2
+die Rücklagenbildung|constitución de reservas||S|fin|C2
+der Anlagenspiegel|cuadro de inmovilizado||S|fin|C2
+die Ausweispflicht|deber de revelación (presentación en balance)||S|fin|C2
+die Verwahrpflicht|obligación de custodia (de criptoactivos)||S|fin|C2
+der Deckungsbeitrag|margen de contribución (por producto)||S|fin|C2
+die Herstellungskosten|costes de fabricación||S|fin|C2
+die Liquiditätsreserve|reserva de liquidez||S|fin|C2
+der Tilgungsplan|plan de amortización||S|fin|C2
+die Dividendenrendite|rentabilidad por dividendo||S|fin|C2
+der Buchwert|valor contable||S|fin|C2
+die Führungsspanne|tramo de control (span de mando)||S|lav|C2
+die Geschäftseinheit|unidad de negocio||S|lav|C2
+die Ergebnisverantwortung|responsabilidad por resultados||S|lav|C2
+die Delegationsbefugnis|facultad de delegación (competencia delegada)||S|lav|C2
+die Zuständigkeitsmatrix|matriz de competencias (reparto de funciones)||S|lav|C2
+die Berichtspflicht|obligación de informe (reporte)||S|lav|C2
+die Sozialpartnerschaft|concertación social (diálogo social)||S|lav|C2
+die Begabungsdiagnostik|diagnóstico de talentos (identificación)||S|stu|C2
+die Lehrmittelfreiheit|gratuidad de material escolar||S|stu|C2
+der Erziehungsberechtigte|tutor legal (titular de la patria potestad)||S|stu|C2
+die Versetzungskonferenz|claustro de promoción (consejo de curso)||S|stu|C2
+das Abgangszeugnis|certificado de estudios (de salida)||S|stu|C2
+die Einflussnahme|injerencia (capacidad de influir)||S|ist|C2
+die Grenzziehung|trazado de fronteras||S|ist|C2
+die Machtkontrolle|control del poder (frenos y contrapesos)||S|ist|C2
+die Wählbarkeit|elegibilidad||S|ist|C2
+das Machtvakuum|vacío de poder||S|ist|C2
+der Streitwert|cuantía del litigio (interés económico)||S|ist|C2
+die Parteifähigkeit|capacidad procesal (legitimación)||S|ist|C2
+die Klagebefugnis|legitimación activa (para accionar)||S|ist|C2
+das Wiederaufnahmeverfahren|proceso de revisión (rescisión de sentencia firme)||S|ist|C2
+die Urteilsgründe|fundamentos de la sentencia (motivación)||S|ist|C2
+die Herztamponade|taponamiento cardíaco||S|sla|C2
+der Dekubitus|úlcera por presión (escara)||S|sla|C2
+die Parese|paresia (parálisis incompleta)||S|sla|C2
+das Exanthem|exantema (erupción cutánea)||S|sla|C2
+die Angiographie|angiografía||S|sla|C2
+die Katamnese|catamnesis (seguimiento evolutivo)||S|sla|C2
+die Enuresis|enuresis (incontinencia nocturna)||S|sla|C2
+der Mutismus|mutismo (electivo)||S|sla|C2
+die Logotherapie|logoterapia||S|sla|C2
+die Arzneiform|forma farmacéutica||S|sla|C2
+das Retardpräparat|preparado de liberación prolongada||S|sla|C2
+die Lebendspende|donación en vida||S|sla|C2
+die Nahtinsuffizienz|dehiscencia de sutura||S|sla|C2
+die Nachblutung|hemorragia secundaria||S|sla|C2
+die Narkoseeinleitung|inducción anestésica||S|sla|C2
+die Hirnhäute|meninges||S|sla|C2
+die Hirnhautentzündung|meningitis||S|sla|C2
+die Polyneuropathie|polineuropatía||S|sla|C2
+die Zweitlinientherapie|terapia de segunda línea||S|sla|C2
+die Supportivtherapie|terapia de soporte||S|sla|C2
+die Allergenkarenz|evicción alergénica (evitación del alérgeno)||S|sla|C2
+die Galenik|galénica (farmacia técnica)||S|sla|C2
+die Grübelsucht|rumiación (cavilación morbosa)||S|sla|C2
+die Zwangsgedanken|obsesiones (ideas obsesivas)||S|sla|C2
+die Beklemmung|opresión (angustia punzante)||S|sla|C2
+die Kompatibilitätsprüfung|prueba de compatibilidad (cruzada)||S|sla|C2
+die Blutkonserve|bolsa de sangre (concentrado hemático)||S|sla|C2
+die Mobilisation|movilización (deambulación precoz)||S|sla|C2
+die Sturzprophylaxe|prevención de caídas||S|sla|C2
+die Schlafapnoe|apnea del sueño||S|sla|C2
+die Arthroskopie|artroscopia||S|sla|C2
+die Beziehungsmuster|patrón vincular (de relación)||S|sla|C2
+der Wirkungsquerschnitt|sección eficaz||S|sci|C2
+die Zerfallskonstante|constante de desintegración||S|sci|C2
+die Kernumwandlung|transmutación nuclear||S|sci|C2
+der Massendefekt|defecto de masa||S|sci|C2
+das Streufeld|campo de dispersión (parásito)||S|sci|C2
+der Scheidetrichter|embudo de decantación (separación)||S|sci|C2
+die Kryokonservierung|crioconservación||S|sci|C2
+die Vitalfärbung|tinción vital||S|sci|C2
+die Einbettung|inclusión (en parafina)||S|sci|C2
+der Mikrotomschnitt|corte de microtomo||S|sci|C2
+die Sternatmosphäre|atmósfera estelar||S|sci|C2
+der Bedeckungsveränderliche|binaria eclipsante (variable por ocultación)||S|sci|C2
+die Bahnneigung|inclinación orbital||S|sci|C2
+das Apogäum|apogeo||S|sci|C2
+das Perigäum|perigeo||S|sci|C2
+der Paläomagnetismus|paleomagnetismo||S|sci|C2

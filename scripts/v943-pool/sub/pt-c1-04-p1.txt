@@ -1,0 +1,49 @@
+tutela cautelar|tutela cautelar (medida provisional)||L|ist|C1
+direito de preferência|derecho de tanteo||L|ist|C1
+escritura de compra e venda|escritura de compraventa||L|ist|C1
+procuração irrevogável|poder irrevocable (notarial)||L|ist|C1
+transitado em julgado|firme en juicio (cosa juzgada)||E|ist|C1
+arrolamento|inventario notarial (embargo de bienes)||S|ist|C1
+caderneta predial|nota simple (certificado de titularidad)||L|ist|C1
+habilitação|habilitación (de herederos)||S|ist|C1
+due diligence|due diligence (auditoría de compra)||L|fin|C1
+goodwill|fondo de comercio||S|fin|C1
+partida dobrada|partida doble||L|fin|C1
+faturação eletrónica|facturación electrónica||S|fin|C1
+emissão de dívida|emisión de deuda||L|fin|C1
+superávit orçamental|superávit presupuestario||L|fin|C1
+curva de rendimento|curva de rendimiento (de tipos)||L|fin|C1
+planeamento fiscal|planificación fiscal||L|fin|C1
+malparado|de dudoso cobro (crédito)||A|fin|C1
+concertação coletiva|negociación colectiva||L|lav|C1
+flexisegurança|flexiseguridad||S|lav|C1
+burnout|burnout (desgaste profesional)||S|lav|C1
+quadro de topo|alta dirección||L|lav|C1
+benchmarking|benchmarking (comparación de referencia)||S|lav|C1
+outsourcing|externalización (outsourcing)||S|lav|C1
+produção temporizada|producción justo a tiempo||L|fin|C1
+cliente oculto|cliente misterioso||L|fin|C1
+rendimento mínimo garantido|renta mínima de inserción||L|att|C1
+cofinanciamento|cofinanciación||S|fin|C1
+acordo de associação|acuerdo de asociación||L|att|C1
+embargo comercial|embargo comercial||L|att|C1
+zona de influência|zona de influencia||L|att|C1
+estratificação|estratificación (social)||S|att|C1
+liminaridade|liminalidad||S|att|C1
+galénica|galénica (forma farmacéutica)||S|sla|C1
+ideação|ideación (pensamientos intrusos)||S|sla|C1
+endotoxina|endotoxina||S|sci|C1
+semiologia clínica|semiología clínica||L|sla|C1
+cautério|cauterio||S|sla|C1
+tiroide|tiroides (glándula)||S|cor|C1
+acromegalia|acromegalia||S|sla|C1
+fotoproteção|fotoprotección||S|sla|C1
+sedação terminal|sedación terminal||L|sla|C1
+neuropatia|neuropatía||S|sla|C1
+malformação|malformación||S|sla|C1
+ectópica|ectópica (embarazo ectópico)||A|sla|C1
+hipóxia|hipoxia||S|sci|C1
+aclimatação|aclimatación (a la altura)||S|spt|C1
+despiste|cribado (detección precoz)||S|sla|C1
+vício de consentimento|vicio de consentimiento (dolo o error)||L|ist|C1
+sensibilização cruzada|sensibilización cruzada (alérgica)||L|sla|C1

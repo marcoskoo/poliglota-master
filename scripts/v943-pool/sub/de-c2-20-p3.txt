@@ -1,0 +1,176 @@
+das Schreibzeug|neceser de escritura||S|let|C2
+die Gemahlin|esposa (arcaico elegante)||S|let|C2
+das Gemach|aposento (arcaico)||S|let|C2
+der Schnupftabak|tabaco de rapé||S|let|C2
+der Landauer|calesa de cuatro ruedas||S|let|C2
+die Schreibfeder|pluma de escribir||S|let|C2
+das Tintenfass|tintero||S|let|C2
+das Siegelwachs|lacre||S|let|C2
+die Standuhr|reloj de pie||S|cas|C2
+der Hauslehrer|preceptor||S|pro|C2
+die Kammerjungfer|doncella de cámara||S|pro|C2
+nichtsdestotrotz|no obstante||D|cnn|C2
+respektive|respectivamente||C|cnn|C2
+desto eher|con mayor razón||E|cnn|C2
+im Umkehrschluss|por deducción inversa||E|cnn|C2
+demgemäß|en consecuencia||D|cnn|C2
+unbeschadet dessen|sin menoscabo de ello||E|cnn|C2
+kraft|en virtud de (con genitivo)||R|cnn|C2
+halber|por causa de (pospuesto)||R|cnn|C2
+anspielen auf|aludir a||V|cmu|C2
+hinhalten|dar largas a alguien||V|cmu|C2
+glauben machen|hacer creer algo a alguien||V|cmu|C2
+verschleiern|velar u ocultar||V|cmu|C2
+ins Feld führen|alegar (como argumento)||E|cmu|C2
+abtun|despachar restándole importancia||V|cmu|C2
+jemandem das Wort abschneiden|cortar la palabra a alguien||E|cmu|C2
+in nuce|en germen||E|ast|C2
+a limine|de plano (sin más trámite)||E|ist|C2
+nota bene|nótese bien||E|cmu|C2
+de iure|de derecho||E|ist|C2
+mutatis mutandis|introducidos los cambios oportunos||E|ast|C2
+sine ira et studio|sin ira ni parcialidad||E|ast|C2
+conditio sine qua non|condición indispensable||E|ast|C2
+prima facie|a primera vista||E|ast|C2
+ad interim|provisionalmente||E|ast|C2
+die Selbstwirksamkeit|autoeficacia||S|sci|C2
+die Frühpädagogik|pedagogía de la primera infancia||S|stu|C2
+die Wertevermittlung|transmisión de valores||S|stu|C2
+die Leistungsmotivation|motivación de logro||S|sci|C2
+die Förderdiagnostik|diagnóstico psicopedagógico||S|stu|C2
+die Hochbegabtenförderung|atención al alumnado de altas capacidades||S|stu|C2
+der Beobachtungsbogen|ficha de observación||S|stu|C2
+die Sozialisationsinstanz|agente de socialización||S|sci|C2
+die Deutungsarbeit|trabajo interpretativo (en terapia)||S|sla|C2
+die Körperwahrnehmung|percepción corporal||S|sla|C2
+die Expositionstherapie|terapia de exposición||S|sla|C2
+die Zwangsgedanken|pensamientos obsesivos||S|sla|C2
+die Verhaltensanalyse|análisis funcional de la conducta||S|sla|C2
+die Beziehungsgestaltung|construcción de la relación terapéutica||S|sla|C2
+die Knausrigkeit|tacañería||S|ast|C2
+die Selbstüberwindung|superación de sí mismo||S|ast|C2
+die Großspurigkeit|petulancia jactanciosa||S|ast|C2
+die Haltlosigkeit|inconstancia (falta de firmeza)||S|ast|C2
+der Wankelmut|veleidad||S|ast|C2
+die Wachstumsfinanzierung|financiación del crecimiento||S|fin|C2
+der Skalierungseffekt|efecto de escalado||S|fin|C2
+die Umsatzschwelle|umbral de facturación||S|fin|C2
+der Gründergeist|espíritu emprendedor||S|fin|C2
+der Gründungszuschuss|subvención de lanzamiento||S|fin|C2
+das Wagniskapital|capital riesgo||S|fin|C2
+die Anteilsverwässerung|dilución de participaciones||S|fin|C2
+die Lieferunterbrechung|interrupción del suministro||S|tec|C2
+die Wareneingangskontrolle|control de recepción de mercancías||S|tec|C2
+der Pufferbestand|stock amortiguador||S|tec|C2
+die Durchlaufzeit|tiempo de tránsito (ciclo)||S|tec|C2
+der Sammelgutverkehr|tráfico de carga agrupada||S|tra|C2
+die Wiederbeschaffungszeit|tiempo de reposición||S|tec|C2
+die Retourenquote|tasa de devoluciones||S|fin|C2
+die Ladungssicherung|estiba y aseguramiento de la carga||S|tra|C2
+der Lagerumschlag|rotación de almacén||S|fin|C2
+die Markenpflege|gestión de marca||S|fin|C2
+das Kaufrisiko|riesgo percibido de compra||S|fin|C2
+die Wechselbereitschaft|propensión a cambiar de proveedor||S|fin|C2
+die Kaufreue|arrepentimiento de compra||S|fin|C2
+die Warenplatzierung|colocación de productos||S|fin|C2
+der Streuverlust|difusión publicitaria dispersa||S|fin|C2
+der Warenkorbwert|valor medio del carrito||S|fin|C2
+die Sortimentspolitik|política de surtido||S|fin|C2
+die Rabattierung|aplicación de descuentos||S|fin|C2
+das Normblatt|hoja de norma||S|tec|C2
+die Belastungsprobe|prueba de carga||S|tec|C2
+das Toleranzfeld|campo de tolerancias||S|tec|C2
+die Eichpflicht|obligación de verificación metrológica||S|tec|C2
+die Reklamationsbearbeitung|tramitación de reclamaciones||S|tec|C2
+die Nullfehlerstrategie|estrategia de cero defectos||S|tec|C2
+die Konformitätserklärung|declaración de conformidad||S|tec|C2
+die Beweiswürdigung|valoración de la prueba||S|ist|C2
+der Schadensersatzanspruch|derecho a indemnización||S|ist|C2
+die Anspruchsgrundlage|base jurídica de la pretensión||S|ist|C2
+der Schuldvorwurf|imputación de culpa||S|ist|C2
+die Pfändungsandrohung|requerimiento de embargo||S|ist|C2
+der Prozessvergleich|transacción judicial||S|ist|C2
+die Spruchpraxis|jurisprudencia (práctica de fallos)||S|ist|C2
+die Anfechtungsfrist|plazo de impugnación||S|ist|C2
+die Unterlassungserklärung|compromiso de cese||S|ist|C2
+die Strafzumessung|individualización de la pena||S|ist|C2
+die Anamneseerhebung|toma de la anamnesis||S|sla|C2
+der Konsiliararzt|médico de interconsulta||S|pro|C2
+die Therapietreue|cumplimiento terapéutico||S|sla|C2
+die Dosisanpassung|ajuste de dosis||S|sla|C2
+die Passung|ajuste (mecánico)||S|tec|C2
+der Verschleißschutz|protección contra el desgaste||S|tec|C2
+die Drehmomentübertragung|transmisión del par motor||S|tec|C2
+das Loslager|cojinete móvil||S|tec|C2
+das Auswuchten|equilibrado de masas giratorias||S|tec|C2
+die Dichtungsfläche|superficie de estanqueidad||S|tec|C2
+der Spannungsriss|grieta por tensión||S|tec|C2
+die Eigenfrequenz|frecuencia propia||S|tec|C2
+die Messunsicherheit|incertidumbre de medida||S|sci|C2
+die Verschraubung|empalme roscado||S|tec|C2
+die Untersuchungsanlage|diseño del estudio||S|stu|C2
+das Erhebungsdesign|diseño del levantamiento de datos||S|stu|C2
+die Fallauswahl|selección de casos||S|stu|C2
+die Zitationspraxis|práctica de citación||S|stu|C2
+die Methodenkritik|crítica metodológica||S|stu|C2
+die Befundlage|estado de los hallazgos||S|stu|C2
+die Verallgemeinerbarkeit|capacidad de generalización||S|stu|C2
+die Nachwuchsförderung|promoción de investigadores noveles||S|stu|C2
+die Lehrbefugnis|habilitación docente||S|stu|C2
+das Mindestgebot|puja mínima||S|fin|C2
+der Zustandsbericht|informe de estado de la pieza||S|fin|C2
+die Provenienzforschung|investigación de procedencia||S|art|C2
+das Rarissimum|ejemplar rarísimo||S|let|C2
+der Nachlassverkauf|venta de herencia||S|fin|C2
+die Kuriositätensammlung|colección de rarezas||S|art|C2
+die Verkostungsnotiz|nota de cata||S|ris|C2
+die Fleischreifung|maduración de la carne||S|ris|C2
+das Vakuumgaren|cocción al vacío||S|ris|C2
+die Weinbegleitung|maridaje||S|ris|C2
+der Fehdehandschuh|guante de desafío||S|let|C2
+der Kumpan|compinche||S|rel|C2
+die Versöhnungsgeste|gesto de reconciliación||S|rel|C2
+der Kniefall|prosternación (gesto de sumisión)||S|ast|C2
+die Herabwürdigung|denigración||S|cmu|C2
+die Ehrverletzung|ofensa al honor||S|ist|C2
+die Sauerstoffschuld|deuda de oxígeno||S|spt|C2
+die Laktatbildung|producción de lactato||S|spt|C2
+die Ausdauerkapazität|capacidad de resistencia||S|spt|C2
+die Herzfrequenzvariabilität|variabilidad de la frecuencia cardíaca||S|spt|C2
+das Kraftausdauertraining|entrenamiento de fuerza-resistencia||S|spt|C2
+die Bewegungsamplitude|amplitud de movimiento||S|spt|C2
+die Belastungsintensität|intensidad de carga||S|spt|C2
+der Elektrolythaushalt|equilibrio electrolítico||S|sla|C2
+die Ausbelastung|esfuerzo hasta el límite (prueba de esfuerzo)||S|spt|C2
+der Rappe|caballo de capa negra||S|ani|C2
+der Deckhengst|semental||S|ani|C2
+das Stutbuch|registro de yeguas de cría||S|ani|C2
+der Hufbeschlag|herrado de cascos||S|ani|C2
+der Passgang|ambladura (aire equino)||S|ani|C2
+die Wesensprüfung|prueba de carácter (cría canina)||S|ani|C2
+die Reinzucht|cría en pureza de raza||S|ani|C2
+die Rittigkeit|domicilidad del caballo||S|ani|C2
+die Sturmflutwarnung|aviso de marea de tormenta||S|nat|C2
+die Böenfront|frente de rachas||S|nat|C2
+die Niederschlagsintensität|intensidad de precipitación||S|nat|C2
+die Kaltluftfront|frente frío||S|nat|C2
+die Zugbahn|trayectoria de una borrasca||S|nat|C2
+die Wetterkapriole|capricho del tiempo||S|nat|C2
+bei weitem|con diferencia||E|cnn|C2
+allein schon|solo el hecho de que ya||E|cnn|C2
+nur allzu|demasiado (refuerzo)||E|cnn|C2
+bei allem Respekt|con todo el respeto||E|cnn|C2
+nicht eben|no precisamente||E|cnn|C2
+obschon|aunque (culto)||C|cnn|C2
+vornehmlich|principalmente||D|cnn|C2
+nichtsdestoweniger|no obstante (concesivo culto)||D|cnn|C2
+der Flächennutzungsplan|plan general de ordenación||S|cit|C2
+die Bauleitplanung|planeamiento urbanístico||S|cit|C2
+der Grünzug|corredor verde||S|cit|C2
+die Stadtmöblierung|mobiliario urbano||S|cit|C2
+die Zwischennutzung|uso interino de espacios||S|cit|C2
+das Sanierungsgebiet|área de rehabilitación urbana||S|cit|C2
+die Straßenraumgestaltung|diseño del espacio viario||S|cit|C2
+die Lichtplanung|diseño de iluminación||S|cit|C2
+die Blickbeziehung|relación visual entre espacios||S|cit|C2
+der Stadtumbau|reconversión urbana||S|cit|C2

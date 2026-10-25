@@ -1,0 +1,178 @@
+die Völkerrechtssubjektivität|personalidad jurídica internacional||S|ist|C2
+die Bündnisverpflichtung|obligación aliada por tratado||S|ist|C2
+der Souveränitätstransfer|cesión de soberanía||S|ist|C2
+die Entscheidungsbefugnis|competencia decisoria||S|ist|C2
+der Abstimmungsmechanismus|mecanismo de votación||S|ist|C2
+die Beistandsklausel|cláusula de asistencia mutua||S|ist|C2
+das Beitrittsgesuch|solicitud de adhesión||S|ist|C2
+die Vermittlungsmission|misión de mediación||S|ist|C2
+die Umverteilungswirkung|efecto redistributivo||S|ist|C2
+die Leistungsgerechtigkeit|justicia según el mérito||S|ist|C2
+die Altersarmut|pobreza en la vejez||S|ist|C2
+der Kombilohn|salario complementado con subsidio||S|ist|C2
+die Sozialstaatlichkeit|naturaleza del Estado social||S|ist|C2
+die Teilhabegerechtigkeit|justicia participativa||S|ist|C2
+der Leistungsmissbrauch|abuso de prestaciones||S|ist|C2
+die Basisbewegung|movimiento de base||S|att|C2
+der Streikposten|piquete de huelga||S|lav|C2
+das Widerstandsrecht|derecho de resistencia||S|ist|C2
+die Empörungswelle|ola de indignación||S|att|C2
+die Ämterhäufung|acumulación de cargos||S|ist|C2
+der Spendenskandal|escándalo de donaciones||S|ist|C2
+die Aktenvernichtung|destrucción de expedientes||S|ist|C2
+die Schmiergeldzahlung|pago de sobornos||S|ist|C2
+der Geburtenüberschuss|excedente de natalidad||S|sci|C2
+der Wanderungssaldo|saldo migratorio||S|sci|C2
+die Alterung der Gesellschaft|envejecimiento de la sociedad||E|sci|C2
+die Duldung|estancia tolerada (estatus provisional)||S|ist|C2
+die Bildformel|fórmula iconográfica||S|art|C2
+die Sinnbildlichkeit|carácter simbólico||S|art|C2
+die Vanitasdarstellung|representación vanitas||S|art|C2
+die Symbolforschung|simbología||S|art|C2
+der Feinguss|fundición a la cera perdida||S|art|C2
+die Emailmalerei|pintura sobre esmalte||S|art|C2
+die Intarsienarbeit|taracea||S|art|C2
+der Entwurfsprozess|proceso de diseño||S|art|C2
+der Silbergelatineabzug|copia en gelatina de plata||S|art|C2
+die Lichtinstallation|instalación lumínica||S|art|C2
+die Serienarbeit|trabajo en series fotográficas||S|art|C2
+die Schärfeebene|plano de enfoque||S|art|C2
+das Kleinbildformat|formato de paso universal||S|art|C2
+die Farbfeldmalerei|pintura de campos de color||S|art|C2
+die Installationskunst|arte de instalación||S|art|C2
+das Kreuzgewölbe|bóveda de crucería||S|art|C2
+die Vorhangfassade|fachada cortina||S|art|C2
+die Skelettbauweise|construcción de esqueleto estructural||S|art|C2
+die Blendarkade|arcada ciega||S|art|C2
+die Baugrube|zanja de cimentación||S|tec|C2
+der Gastauftritt|actuación como invitado||S|art|C2
+die Speicherhierarchie|jerarquía de memoria||S|tec|C2
+der Siliziumwafer|oblea de silicio||S|tec|C2
+die Fotolithographie|fotolitografía||S|tec|C2
+die Chipfertigung|fabricación de chips||S|tec|C2
+die Mehrkernarchitektur|arquitectura multinúcleo||S|tec|C2
+die Abfrageoptimierung|optimización de consultas||S|tec|C2
+der Datenpool|conjunto de datos||S|tec|C2
+die Datenbereinigung|limpieza de datos||S|tec|C2
+die Echtzeitanalyse|análisis en tiempo real||S|tec|C2
+die Metadatenverwaltung|gestión de metadatos||S|tec|C2
+die Vorhersagegüte|precisión predictiva||S|tec|C2
+die Merkmalsselektion|selección de rasgos||S|tec|C2
+der Privatschlüssel|clave privada||S|tec|C2
+die Manipulationssicherheit|seguridad frente a manipulación||S|tec|C2
+die Kryptowährungsbörse|bolsa de criptomonedas||S|fin|C2
+die Transaktionsbestätigung|confirmación de transacción||S|tec|C2
+die Falschakzeptanzrate|tasa de falsa aceptación||S|tec|C2
+die Stimmerkennung|reconocimiento de voz||S|tec|C2
+der Stimmabdruck|huella vocal||S|tec|C2
+die Trainingsdaten|datos de entrenamiento||S|tec|C2
+die Musterklassifikation|clasificación de patrones||S|tec|C2
+der Referenzabgleich|cotejo con la referencia||S|tec|C2
+das Sensornetzwerk|red de sensores||S|tec|C2
+die Datenschutzkonformität|conformidad con la protección de datos||S|tec|C2
+die Latenzzeit|tiempo de latencia||S|tec|C2
+die Verbrauchsoptimierung|optimización del consumo||S|tec|C2
+das Feldgerät|dispositivo de campo||S|tec|C2
+das Echtzeitrendering|renderizado en tiempo real||S|tec|C2
+die Rückkopplungsschleife|bucle de retroalimentación||S|tec|C2
+die Egoperspektive|perspectiva en primera persona||S|tec|C2
+die Klangkulisse|paisaje sonoro||S|art|C2
+der Schlackekegel|cono de escorias||S|nat|C2
+der Erdstoß|sacudida sísmica||S|nat|C2
+die Bodenverflüssigung|licuefacción del suelo||S|nat|C2
+der Magmenaufstieg|ascenso de magma||S|nat|C2
+die Erosionsanfälligkeit|vulnerabilidad a la erosión||S|nat|C2
+die Frühwarnkette|cadena de alerta temprana||S|nat|C2
+das Stillgewässer|masa de agua estancada||S|nat|C2
+die Nährstoffbelastung|carga de nutrientes||S|nat|C2
+die Uferzone|zona litoral||S|nat|C2
+der Schwebstoff|material en suspensión||S|nat|C2
+der Torfabbau|extracción de turba||S|nat|C2
+der Humusverlust|pérdida de humus||S|nat|C2
+der Zwischenfruchtanbau|cultivo intercalario||S|nat|C2
+die Nährstoffauswaschung|lixiviación de nutrientes||S|nat|C2
+die Saatgutbehandlung|tratamiento de semillas||S|nat|C2
+die Flächenprämie|subvención por superficie agraria||S|fin|C2
+das Bodengefüge|estructura del suelo||S|nat|C2
+die Intensivtierhaltung|ganadería intensiva||S|nat|C2
+die Herdenleistung|producción del rebaño||S|nat|C2
+die Weidehaltung|cría en pastoreo||S|nat|C2
+die Zuchtwertschätzung|estimación del valor genético||S|nat|C2
+die Kreislaufanlage|sistema de recirculación acuícola||S|nat|C2
+die Lachszucht|cría de salmones||S|nat|C2
+der Milchviehbestand|censo de ganado lechero||S|nat|C2
+der Brandherd|foco de incendio||S|nat|C2
+die Waldverjüngung|regeneración del bosque||S|nat|C2
+der Totholzanteil|proporción de madera muerta||S|nat|C2
+die Borkenkäferplage|plaga de escolítidos||S|nat|C2
+die Kronenverlichtung|aclareo de copas (daño forestal)||S|nat|C2
+der Löschangriff|ataque de extinción||S|nat|C2
+die Brandschneise|cortafuegos||S|nat|C2
+der Waldumbau|reconversión del bosque||S|nat|C2
+die Wertstofftrennung|separación de residuos valorizables||S|nat|C2
+die Schadstoffsammlung|recogida de residuos peligrosos||S|nat|C2
+die Sekundärrohstoffgewinnung|obtención de materias primas secundarias||S|nat|C2
+die Schlackenverwertung|valorización de escorias||S|nat|C2
+die Rohstoffrückgewinnung|recuperación de materias primas||S|nat|C2
+das Einwegpfand|depósito de envase de un solo uso||S|nat|C2
+die wilde Müllentsorgung|vertido ilegal de residuos||E|nat|C2
+die Deponiegasnutzung|aprovechamiento del gas de vertedero||S|nat|C2
+die Kompostierbarkeit|compostabilidad||S|nat|C2
+kleingeistig|de miras estrechas||A|ast|C2
+unbelehrbar|incorregible||A|emo|C2
+eingefleischt|empedernido||A|emo|C2
+bedächtig|meditado y pausado||A|ast|C2
+unbeirrbar|inquebrantable en su rumbo||A|ast|C2
+mildtätig|caritativo||A|ast|C2
+herablassend|condescendiente||A|emo|C2
+wankelmütig|veleidoso||A|emo|C2
+entkräften|refutar con argumentos||V|cmu|C2
+deduzieren|deducir (inferir)||V|cmu|C2
+kontern|replicar con agudeza||V|cmu|C2
+referieren|exponer oralmente un contenido||V|cmu|C2
+subsumieren|subsumir||V|cmu|C2
+pointieren|acentuar con agudeza||V|cmu|C2
+apostrophieren|apostrofar||V|let|C2
+die Vorläufigkeit|carácter provisional||S|ast|C2
+die Unverfügbarkeit|indisponibilidad||S|ast|C2
+die Bedeutsamkeit|significatividad||S|ast|C2
+die Verwobenheit|imbricación||S|ast|C2
+die Letztbegründung|fundamentación última||S|ast|C2
+die Zurechenbarkeit|imputabilidad||S|ast|C2
+die Fallibilität|falibilidad||S|ast|C2
+die Erkenntnisgrenze|límite del conocimiento||S|ast|C2
+die Unwahrhaftigkeit|falta de veracidad||S|ast|C2
+die Schutzbehauptung|afirmación defensiva (excusa fingida)||S|ast|C2
+die Beweislastumkehr|inversión de la carga de la prueba||S|ist|C2
+die Täuschungsabsicht|intención de engaño||S|ist|C2
+die Geschichtsklitterung|falsificación de la historia||S|ast|C2
+das Lügengebäude|edificio de mentiras||S|ast|C2
+der Fehltritt|traspié||S|ast|C2
+die Makellosigkeit|impecabilidad||S|ast|C2
+die Innigkeit|recogimiento íntimo||S|art|C2
+durchweg|en todos los casos||D|ast|C2
+bisweilen|de vez en cuando||D|tmp|C2
+verschwindend gering|despreciable (mínimo)||E|ast|C2
+ein gut Teil|una buena parte||E|ast|C2
+in Ansätzen|de forma incipiente||E|ast|C2
+ein Mehrfaches|un múltiplo de algo||E|ast|C2
+hochgerechnet|extrapolado||A|ast|C2
+nicht im Geringsten|en absoluto (ni por asomo)||E|ast|C2
+mehrheitlich|mayoritariamente||D|ast|C2
+abgestuft|graduado por niveles||A|ast|C2
+sanft entschlafen|fallecer plácidamente||E|cmu|C2
+die Personalanpassung|ajuste de plantilla (eufemismo)||S|lav|C2
+eines natürlichen Todes sterben|morir de muerte natural||E|cmu|C2
+die Gesprächsbasis|base para el diálogo||S|cmu|C2
+nicht ausgeschlossen|no descartable||E|cmu|C2
+sich bedeckt halten|mantenerse en la ambigüedad||E|cmu|C2
+harsch|áspero (severo)||A|cmu|C2
+die Sprachregelung|uso lingüístico oficial pactado||S|cmu|C2
+die Verbalnote|nota verbal (diplomacia)||S|ist|C2
+die Äolsharfe|arpa eólica||S|let|C2
+das Firmanent|firmamento||S|let|C2
+die Grabesstille|silencio sepulcral||S|let|C2
+die Blütenlese|florilegio (antología)||S|let|C2
+das Tagelied|alba (canción del amanecer)||S|let|C2
+verklärt|transfigurado||A|let|C2
+hinscheiden|fallecer (poético)||V|let|C2

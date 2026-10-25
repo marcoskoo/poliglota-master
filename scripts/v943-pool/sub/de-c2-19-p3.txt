@@ -1,0 +1,168 @@
+die Verletzlichkeit|vulnerabilidad||S|emo|C2
+die Großspurigkeit|altanería grandilocuente||S|emo|C2
+die Rührseligkeit|sentimentalismo lacrimógeno||S|emo|C2
+die Herzensbildung|bondad de corazón||S|emo|C2
+die Schwerfälligkeit|torpeza (falta de agilidad)||S|emo|C2
+die Schamhaftigkeit|recato (pudor)||S|emo|C2
+die Berichtswege|canales de reporte||S|lav|C2
+der Geschäftsverlauf|evolución del negocio||S|lav|C2
+die Marktbearbeitung|aproximación comercial al mercado||S|lav|C2
+die Vorleistung|suministro previo (bien intermedio)||S|lav|C2
+der Prüfungsausschuss|comité de auditoría||S|lav|C2
+die Eignungsdiagnostik|diagnóstico de aptitudes||S|lav|C2
+die Leitungsfunktion|función directiva||S|lav|C2
+die Arbeitsverdichtung|intensificación del trabajo||S|lav|C2
+der Absentismus|absentismo||S|lav|C2
+die Teambildung|formación de equipos||S|lav|C2
+die Überlastungsanzeige|aviso de sobrecarga laboral||S|lav|C2
+die Fortbildungsmaßnahme|medida de formación continua||S|lav|C2
+die Bildungsgerechtigkeit|justicia educativa||S|stu|C2
+die Kompetenzstufe|nivel de competencia||S|stu|C2
+die Versetzungsordnung|normativa de promoción||S|stu|C2
+die Studierfähigkeit|aptitud para los estudios||S|stu|C2
+die Bildungsbeteiligung|participación educativa||S|stu|C2
+der Förderbedarf|necesidad de apoyo (educativo)||S|stu|C2
+die Notengebung|calificación (asignación de notas)||S|stu|C2
+die Lehrbefähigung|habilitación docente||S|stu|C2
+die Beweislastumkehr|inversión de la carga de la prueba||S|pro|C2
+die Vermögensauskunft|declaración patrimonial (para embargo)||S|pro|C2
+der Klageweg|vía judicial (recurso a los tribunales)||S|pro|C2
+die Sachwalterpflicht|deber de lealtad fiduciaria||S|pro|C2
+der Rückgriff|derecho de repetición (recambio)||S|pro|C2
+die Gefährdungshaftung|responsabilidad por riesgo (objetiva)||S|pro|C2
+die Unterlassungsklage|demanda de cesación||S|pro|C2
+die Zwangsmaßnahme|medida coactiva||S|pro|C2
+die Wogen glätten|calmar las aguas (apaciguar)||E|rel|C2
+wohlgesinnt|bien dispuesto||A|rel|C2
+die Behutsamkeit|miramiento (suavidad en el trato)||S|rel|C2
+die Verstrickung|enredo (compromiso emocional)||S|rel|C2
+die Soubrette|soubreta (dama joven cómica)||S|mus|C2
+der Spielplan|programación (cartel teatral)||S|mus|C2
+der Heldentenor|tenor heroico (wagneriano)||S|mus|C2
+der Gletscherbruch|desprendimiento glaciar (zona de grietas)||S|vig|C2
+die Wegmarkierung|señalización del sendero||S|vig|C2
+die Lawinenkunde|ciencia de aludes||S|vig|C2
+der Gipfelsieg|conquista de la cima||S|vig|C2
+die Höhenanpassung|aclimatación a la altitud||S|vig|C2
+der Schnittplatz|mesa de montaje||S|cin|C2
+das Autorenkino|cine de autor||S|cin|C2
+die Erzählstruktur|estructura narrativa||S|cin|C2
+der Geburtenschwund|caída de la natalidad||S|fam|C2
+der Altersquotient|tasa de dependencia (cociente de vejez)||S|fam|C2
+die Haushaltsgröße|tamaño del hogar||S|fam|C2
+die Scheidungsfolgen|consecuencias del divorcio||S|fam|C2
+der Familienernährer|sostenedor de la familia||S|fam|C2
+der Einpersonenhaushalt|hogar unipersonal||S|fam|C2
+der Vorbau|porche saliente (cuerpo volado)||S|cit|C2
+die Bauplastik|plástica arquitectónica (ornamento edilicio)||S|cit|C2
+das Strebewerk|arbotantes (sistema de contrafuertes)||S|cit|C2
+die Fluchtlinie|alineación (línea de edificación)||S|cit|C2
+der Stadtgrundriss|trazado urbano (plano de la ciudad)||S|cit|C2
+die Traufe|alero (línea de goteo)||S|cit|C2
+der Backsteinbau|construcción en ladrillo||S|cit|C2
+das Fasslager|añejamiento en barrica||S|ris|C2
+die Trinkreife|momento óptimo de consumo (madurez)||S|ris|C2
+die Sortenreinheit|pureza varietal (monovarietal)||S|ris|C2
+der Grundwein|vino base (para espumosos)||S|ris|C2
+degorgieren|desliar (expulsar las lías, dégorgement)||V|ris|C2
+die Weinbegleitung|maridaje||S|ris|C2
+die Weinbeschreibung|ficha de cata||S|ris|C2
+der Futterneid|competencia por el alimento (avidez)||S|ani|C2
+die Insektenkunde|entomología||S|ani|C2
+die Unterart|subespecie||S|ani|C2
+das Larvenstadium|estado larvario||S|ani|C2
+das Nahrungsnetz|red trófica||S|ani|C2
+der Fellwechsel|muda del pelaje||S|ani|C2
+der Ringfund|recuperación de ave anillada||S|ani|C2
+der Stockausschlag|rebrote de cepa (brotes del tocón)||S|nat|C2
+die Verbuschung|arbustización (matorralización)||S|nat|C2
+die Streunutzung|aprovechamiento de la hojarasca (mantillo)||S|nat|C2
+die Blattstellung|filotaxis (disposición de las hojas)||S|nat|C2
+der Zeithorizont|horizonte temporal||S|tmp|C2
+die Zeugenschaft|condición de testigo (testificación)||S|tmp|C2
+das Zeitgefühl|sentimiento del tiempo||S|tmp|C2
+die Entschleunigung|desaceleración (ralentización vital)||S|tmp|C2
+die Eigenzeit|tiempo propio||S|tmp|C2
+der Kurssturz|desplome bursátil||S|fin|C2
+die Vertragsautomatisierung|automatización contractual||S|fin|C2
+die Abwicklungsfrist|plazo de liquidación||S|fin|C2
+die Programmierbarkeit|programabilidad (del dinero)||S|fin|C2
+die Doppelausgabe|doble gasto (gasto duplicado)||S|fin|C2
+die Wertaufbewahrung|reserva de valor (depósito)||S|fin|C2
+die Notierungsaufnahme|admisión a cotización||S|fin|C2
+der Urkundenentwurf|minuta (borrador de escritura)||S|ist|C2
+die Nebenbestimmung|cláusula accesoria (condición o carga)||S|ist|C2
+die Vormerkung|anotación preventiva||S|ist|C2
+die Untätigkeitsklage|recurso por inactividad||S|ist|C2
+der Verwaltungsgerichtshof|tribunal administrativo supremo||S|ist|C2
+die Zulässigkeitsprüfung|examen de admisibilidad||S|ist|C2
+der Ermessensfehlgebrauch|desviación de poder (abuso de la discrecionalidad)||S|ist|C2
+die Rechtsbehelfsbelehrung|instrucción de recursos (notificación de vías)||S|ist|C2
+die Rückfälligkeit|reincidencia (índice de reincidencia)||S|ist|C2
+der Tathergang|desarrollo de los hechos||S|ist|C2
+das Hellfeld|criminalidad registrada (campo visible)||S|ist|C2
+die Schadenswiedergutmachung|reparación del daño||S|ist|C2
+der Täter-Opfer-Ausgleich|conciliación entre ofensor y víctima||S|ist|C2
+der Maßregelvollzug|ejecución de medidas de seguridad||S|ist|C2
+die Sicherungsverwahrung|reclusión de seguridad (privación preventiva)||S|ist|C2
+der Strafrest|resto de pena (condicional)||S|ist|C2
+die Ratifikationsurkunde|instrumento de ratificación||S|ist|C2
+die Vertragsstaatenkonferenz|conferencia de las partes||S|ist|C2
+die Staatenimmunität|inmunidad de los Estados||S|ist|C2
+der Völkerrechtsbruch|quebrantamiento del derecho de gentes||S|ist|C2
+die Auslegungsregel|regla interpretativa (cánon hermenéutico)||S|ist|C2
+die Schiedsklausel|cláusula arbitral||S|ist|C2
+das Auslieferungsersuchen|solicitud de extradición||S|ist|C2
+die Kündigungsklausel|cláusula de denuncia (del tratado)||S|ist|C2
+das Grundkapital|capital social||S|fin|C2
+der Abfindungsanspruch|derecho a la indemnización de separación||S|ist|C2
+der Bezugsrechtsausschluss|exclusión del derecho de suscripción||S|ist|C2
+die Kapitalherabsetzung|reducción de capital||S|fin|C2
+die Inhaberaktie|acción al portador||S|fin|C2
+das Kartellverbot|prohibición de carteles||S|ist|C2
+der Manteltarifvertrag|convenio marco (estatutario)||S|lav|C2
+die Schichtzulage|plus de turnicidad||S|lav|C2
+das Ungleichbehandlungsverbot|prohibición de discriminación||S|lav|C2
+die Befristungskontrolle|control de la temporalidad||S|lav|C2
+die Arbeitsgerichtsbarkeit|jurisdicción social (laboral)||S|lav|C2
+das Streikgeld|salario de huelga (caja de resistencia)||S|lav|C2
+das Narkosegerät|aparato de anestesia||S|sla|C2
+das Sterilgut|material estéril||S|sla|C2
+der Wundspreizer|separador (valva de la herida)||S|sla|C2
+die Wundheilungsstörung|complicación de la cicatrización||S|sla|C2
+die Ligatur|ligadura||S|sla|C2
+die Bauchspiegelung|laparoscopia||S|sla|C2
+die Eigenblutspende|autotransfusión (donación autóloga)||S|sla|C2
+die Auswurffraktion|fracción de eyección||S|sla|C2
+die Ateminsuffizienz|insuficiencia respiratoria||S|sla|C2
+das Atemgeräusch|ruido respiratorio (murmullo vesicular)||S|sla|C2
+die Blutgasanalyse|gasometría (gases en sangre)||S|sla|C2
+der Lungenflügel|pulmón (lóbulo pulmonar)||S|sla|C2
+die Rippenfellentzündung|pleuresía||S|sla|C2
+die Einflussstauung|congestión venosa (de retorno)||S|sla|C2
+die Glukosetoleranz|tolerancia a la glucosa||S|sla|C2
+die Stoffwechselprodukte|productos del metabolismo||S|sla|C2
+die Schilddrüsenautonomie|autonomía tiroidea (nódulos autónomos)||S|sla|C2
+die Blutzuckerentgleisung|descompensación glucémica||S|sla|C2
+der Grundumsatz|metabolismo basal||S|sla|C2
+die Schuppung|descamación||S|sla|C2
+die Hyposensibilisierung|hiposensibilización (inmunoterapia)||S|sla|C2
+die Atopie|atopia (terreno atópico)||S|sla|C2
+der Pricktest|prueba de punción (prick)||S|sla|C2
+die Kontaktallergie|alergia de contacto||S|sla|C2
+die Lichtdermatose|dermatosis lumínica||S|sla|C2
+die Talgdrüse|glándula sebácea||S|sla|C2
+die Hautatrophie|atrofia cutánea||S|sla|C2
+der Tumormarker|marcador tumoral||S|sla|C2
+die Bestrahlungsplanung|planificación radioterápica||S|sla|C2
+das Tumorboard|comité de tumor (sesión multidisciplinar)||S|sla|C2
+die Angehörigenarbeit|trabajo con los familiares (del enfermo)||S|sla|C2
+die Krankheitsverarbeitung|elaboración de la enfermedad||S|sla|C2
+das Kribbeln|hormigueo (parestesia)||S|sla|C2
+die Ausfallerscheinung|déficit funcional (signo de pérdida neurológica)||S|sla|C2
+der Hirndruck|presión intracraneal||S|sla|C2
+die Lumbalpunktion|punción lumbar||S|sla|C2
+die Reflexprüfung|exploración de reflejos||S|sla|C2
+die Nervenschmerzen|dolor neuropático (neuralgia)||S|sla|C2
+die Vorschädigung|lesión previa (deterioro de base)||S|sla|C2
+die Fremdanamnese|heteroanamnesis (anamnesis por terceros)||S|sla|C2
