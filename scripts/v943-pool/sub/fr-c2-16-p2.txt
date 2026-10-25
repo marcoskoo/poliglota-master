@@ -1,0 +1,293 @@
+assureur|asegurador||S|pro|C2
+assurance-vie|seguro de vida||L|fin|C2
+réassurance|reaseguro||S|fin|C2
+sinistre|siniestro||S|fin|C2
+sinistré|damnificado||S|fin|C2
+expertise|peritaje||S|fin|C2
+franchise|franquicia (del seguro)||S|fin|C2
+déchéance|pérdida del derecho a indemnización||S|fin|C2
+clause d'exclusion|cláusula de exclusión||L|fin|C2
+mutualité|mutualidad||S|fin|C2
+mutuelle|mutua||S|fin|C2
+actuaire|actuario||S|pro|C2
+table de mortalité|tabla de mortalidad||L|fin|C2
+provision mathématique|provisión matemática||L|fin|C2
+risque assuré|riesgo asegurado||L|fin|C2
+assuré|asegurado||S|fin|C2
+avenant|anexo modificativo de póliza||S|fin|C2
+police d'assurance|póliza de seguros||L|fin|C2
+résiliation|rescisión de la póliza||S|fin|C2
+résilier|rescindir||V|fin|C2
+surprime|sobreprima||S|fin|C2
+bonus-malus|sistema de bonificación y penalización||S|fin|C2
+attestation d'assurance|justificante del seguro||L|fin|C2
+responsabilité civile|responsabilidad civil||L|fin|C2
+indemnisation|indemnización||S|fin|C2
+souscription|contratación de una póliza||S|fin|C2
+indemnité journalière|subsidio diario por baja||L|fin|C2
+prévoyance|previsión complementaria||S|fin|C2
+capital décès|capital por fallecimiento||L|fin|C2
+contrat multirisque|póliza multirriesgo||L|fin|C2
+gestion des risques|gestión de riesgos||L|fin|C2
+carte verte|carta verde (del seguro del automóvil)||L|fin|C2
+catastrophe naturelle|catástrofe natural||L|fin|C2
+pays émergent|país emergente||L|fin|C2
+aide au développement|ayuda al desarrollo||L|fin|C2
+aide liée|ayuda ligada||L|fin|C2
+conditionnalité|condicionalidad||S|fin|C2
+allègement de la dette|alivio de la deuda||L|fin|C2
+ajustement structurel|ajuste estructural||L|fin|C2
+moratoire|moratoria||S|fin|C2
+prêt bonifié|préstamo subvencionado||L|fin|C2
+microcrédit|microcrédito||S|fin|C2
+microfinance|microfinanzas||S|fin|C2
+tontine|tontina||S|fin|C2
+économie informelle|economía informal||L|fin|C2
+commerce équitable|comercio justo||L|fin|C2
+transferts de fonds|remesas||L|fin|C2
+rapatriement des bénéfices|repatriación de beneficios||L|fin|C2
+fuite des capitaux|fuga de capitales||L|fin|C2
+coopération décentralisée|cooperación descentralizada||L|fin|C2
+organisation non gouvernementale|organización no gubernamental||L|fin|C2
+productivité|productividad||S|fin|C2
+rente|renta||S|fin|C2
+économie de rente|economía rentista||L|fin|C2
+seuil de pauvreté|umbral de pobreza||L|fin|C2
+durabilité|sostenibilidad||S|fin|C2
+vulnérabilité|vulnerabilidad||S|fin|C2
+résilience|resiliencia||S|fin|C2
+autosuffisance|autosuficiencia||S|fin|C2
+sécurité alimentaire|seguridad alimentaria||L|fin|C2
+souveraineté alimentaire|soberanía alimentaria||L|fin|C2
+accaparement des terres|acaparamiento de tierras||L|fin|C2
+autonomisation|empoderamiento||S|fin|C2
+filet de sécurité|red de seguridad social||L|fin|C2
+grande pauvreté|pobreza extrema||L|fin|C2
+titrage|valoración||S|sci|C2
+titrer|valorar (titular)||V|sci|C2
+réactif|reactivo||S|sci|C2
+réactif limitant|reactivo limitante||L|sci|C2
+burette|bureta||S|sci|C2
+fiole jaugée|matraz aforado||L|sci|C2
+pipette|pipeta||S|sci|C2
+éprouvette|probeta||S|sci|C2
+distillation|destilación||S|sci|C2
+distillerat|destilado||S|sci|C2
+chromatographie|cromatografía||S|sci|C2
+spectrométrie|espectrometría||S|sci|C2
+photométrie|fotometría||S|sci|C2
+électrophorèse|electroforesis||S|sci|C2
+centrifugeuse|centrífuga||S|sci|C2
+centrifugation|centrifugación||S|sci|C2
+précipité|precipitado||S|sci|C2
+précipiter|precipitar||V|sci|C2
+solvant|disolvente||S|sci|C2
+soluté|soluto||S|sci|C2
+solution tampon|disolución tampón||L|sci|C2
+étalonnage|calibrado||S|sci|C2
+incertitude de mesure|incertidumbre de medida||L|sci|C2
+aliquote|alícuota||S|sci|C2
+liquide surnageant|líquido sobrenadante||L|sci|C2
+extrait sec|extracto seco||L|sci|C2
+pesée|pesada||S|sci|C2
+balance de précision|báscula de precisión||L|sci|C2
+pureté|pureza||S|sci|C2
+seuil de détection|límite de detección||L|sci|C2
+essai à blanc|ensayo en blanco||L|sci|C2
+verrerie de laboratoire|cristalería de laboratorio||L|sci|C2
+protocole opératoire|modo operatorio||L|sci|C2
+réseau cristallin|red cristalina||L|sci|C2
+cristallographie|cristalografía||S|sci|C2
+solide amorphe|sólido amorfo||L|sci|C2
+alliage|aleación||S|sci|C2
+dopage|dopaje||S|sci|C2
+dopant|agente dopante||S|sci|C2
+semi-conducteur|semiconductor||S|sci|C2
+bande interdite|banda prohibida||L|sci|C2
+porteur de charge|portador de carga||L|sci|C2
+supraconductivité|superconductividad||S|sci|C2
+supraconducteur|superconductor||S|sci|C2
+ferromagnétisme|ferromagnetismo||S|sci|C2
+aimantation|imanación||S|sci|C2
+hystérésis|histéresis||S|sci|C2
+contrainte mécanique|tensión mecánica||L|sci|C2
+déformation élastique|deformación elástica||L|sci|C2
+limite d'élasticité|límite elástico||L|sci|C2
+ductilité|ductilidad||S|sci|C2
+malléabilité|maleabilidad||S|sci|C2
+ténacité|tenacidad||S|sci|C2
+fatigue des matériaux|fatiga de materiales||L|sci|C2
+dislocation|dislocación (defecto cristalino)||S|sci|C2
+lacune|vacante (defecto reticular)||S|sci|C2
+phonon|fonón||S|sci|C2
+état fondamental|estado fundamental||L|sci|C2
+conductivité thermique|conductividad térmica||L|sci|C2
+densité électronique|densidad electrónica||L|sci|C2
+électron de conduction|electrón de conducción||L|sci|C2
+isolant|aislante||S|sci|C2
+quasi-cristal|cuasicristal||S|sci|C2
+épitaxie|epitaxia||S|sci|C2
+recuit|recocido (tratamiento térmico)||S|sci|C2
+effet de serre|efecto invernadero||L|sci|C2
+réchauffement climatique|calentamiento global||L|sci|C2
+circulation atmosphérique|circulación atmosférica||L|sci|C2
+masse d'air|masa de aire||L|sci|C2
+occlusion|oclusión (frente meteorológico)||S|sci|C2
+dépression|borrasca||S|sci|C2
+anticyclone|anticiclón||S|sci|C2
+isobare|isobara||S|sci|C2
+isotherme|isoterma||S|sci|C2
+point de rosée|punto de rocío||L|sci|C2
+aérosol|aerosol||S|sci|C2
+couche d'ozone|capa de ozono||L|sci|C2
+chlorofluorocarbone|clorofluorocarbono||S|sci|C2
+forçage radiatif|forzamiento radiativo||L|sci|C2
+albédo|albedo||S|sci|C2
+bilan radiatif|balance radiativo||L|sci|C2
+modèle climatique|modelo climático||L|sci|C2
+puits de carbone|sumidero de carbono||L|sci|C2
+empreinte carbone|huella de carbono||L|sci|C2
+atténuation|mitigación||S|sci|C2
+événement extrême|evento extremo||L|sci|C2
+canicule|ola de calor||S|sci|C2
+cumulonimbus|cumulonimbo||S|sci|C2
+stratosphère|estratosfera||S|sci|C2
+troposphère|troposfera||S|sci|C2
+vortex polaire|vórtice polar||L|sci|C2
+courant-jet|corriente en chorro||S|sci|C2
+érosion côtière|erosión costera||L|sci|C2
+montée des eaux|subida del nivel del mar||L|sci|C2
+pergélisol|permafrost||S|sci|C2
+adaptation|adaptación (al cambio climático)||S|sci|C2
+paléoclimatologie|paleoclimatología||S|sci|C2
+carottage|toma de testigos||S|sci|C2
+fossile|fósil||S|sci|C2
+fossilisation|fosilización||S|sci|C2
+strate|estrato||S|sci|C2
+stratigraphie|estratigrafía||S|sci|C2
+sédimentation|sedimentación||S|sci|C2
+sédimentaire|sedimentario||A|sci|C2
+spéciation|especiación||S|sci|C2
+sélection naturelle|selección natural||L|sci|C2
+dérive génétique|deriva genética||L|sci|C2
+phénotype|fenotipo||S|sci|C2
+génotype|genotipo||S|sci|C2
+allèle|alelo||S|sci|C2
+homozygote|homocigoto||S|sci|C2
+hétérozygote|heterocigoto||S|sci|C2
+lignée|linaje||S|sci|C2
+ancêtre commun|ancestro común||L|sci|C2
+taxon|taxón||S|sci|C2
+taxinomie|taxonomía||S|sci|C2
+cladistique|cladística||S|sci|C2
+extinction massive|extinción masiva||L|sci|C2
+cratère d'impact|cráter de impacto||L|sci|C2
+ammonite|ammonites||S|sci|C2
+trilobite|trilobites||S|sci|C2
+datation|datación||S|sci|C2
+quaternaire|cuaternario||A|sci|C2
+pliocène|plioceno||A|sci|C2
+crétacé|cretácico||A|sci|C2
+hominidé|hominido||S|sci|C2
+bipédie|bipedismo||S|sci|C2
+atavisme|atavismo||S|sci|C2
+néoténie|neotenia||S|sci|C2
+convergence évolutive|convergencia evolutiva||L|sci|C2
+pression sélective|presión selectiva||L|sci|C2
+virion|virión||S|sci|C2
+viroïde|viroide||S|sci|C2
+rétrovirus|retrovirus||S|sci|C2
+capside|cápside||S|sci|C2
+incubation|incubación||S|sla|C2
+période d'incubation|período de incubación||L|sla|C2
+contagiosité|contagiosidad||S|sla|C2
+contagieux|contagioso||A|sla|C2
+virulence|virulencia||S|sla|C2
+virulent|virulento||A|sla|C2
+pathogénicité|patogenicidad||S|sla|C2
+surinfection|sobreinfección||S|sla|C2
+co-infection|coinfección||S|sla|C2
+réservoir viral|reservorio vírico||L|sla|C2
+tropisme|tropismo||S|sci|C2
+antiviral|antivírico||A|sla|C2
+antirétroviral|antirretrovírico||A|sla|C2
+trithérapie|triterapia||S|sla|C2
+acide nucléique|ácido nucleico||L|sci|C2
+réassortiment|reordenamiento genético||S|sci|C2
+saut d'espèce|salto de especie||L|sla|C2
+séquençage|secuenciación||S|sci|C2
+test de dépistage|prueba de detección||L|sla|C2
+isolement|aislamiento (de un caso)||S|sla|C2
+cas contact|contacto estrecho||L|sla|C2
+séquelle|secuela||S|sla|C2
+septicémie|septicemia||S|sla|C2
+bactériémie|bacteriemia||S|sla|C2
+stérilisation|esterilización||S|sla|C2
+antiseptique|antiséptico||S|sla|C2
+désinfection|desinfección||S|sla|C2
+maladie émergente|enfermedad emergente||L|sla|C2
+génie génétique|ingeniería genética||L|sci|C2
+génome|genoma||S|sci|C2
+génomique|genómica||S|sci|C2
+nucléotide|nucleótido||S|sci|C2
+nucléase|nucleasa||S|sci|C2
+ciseau génique|tijera genética||L|sci|C2
+édition génique|edición genética||L|sci|C2
+thérapie génique|terapia génica||L|sci|C2
+vecteur viral|vector vírico||L|sci|C2
+plasmide|plásmido||S|sci|C2
+clonage|clonación||S|sci|C2
+clone|clon||S|sci|C2
+transgénique|transgénico||A|sci|C2
+organisme génétiquement modifié|organismo modificado genéticamente||L|sci|C2
+promoteur|promotor (de un gen)||S|sci|C2
+amorce|cebador||S|sci|C2
+mutagenèse dirigée|mutagénesis dirigida||L|sci|C2
+épissage|empalme||S|sci|C2
+haploïde|haploide||A|sci|C2
+embryon|embrión||S|sci|C2
+cellule souche|célula madre||L|sci|C2
+différenciation cellulaire|diferenciación celular||L|sci|C2
+transfection|transfección||S|sci|C2
+transgénèse|transgénesis||S|sci|C2
+enzyme de restriction|enzima de restricción||L|sci|C2
+séquenceur|secuenciador||S|sci|C2
+biologie de synthèse|biología sintética||L|sci|C2
+bioéthique|bioética||S|sci|C2
+brevetabilité|patentabilidad||S|sci|C2
+lignée germinale|línea germinal||L|sci|C2
+caryotype|cariotipo||S|sci|C2
+protéine de fusion|proteína de fusión||L|sci|C2
+délétion|deleción||S|sci|C2
+imagerie cérébrale|imagen cerebral||L|sci|C2
+résonance magnétique|resonancia magnética||L|sci|C2
+tomographie|tomografía||S|sci|C2
+électroencéphalographie|electroencefalografía||S|sci|C2
+stimulation magnétique transcrânienne|estimulación magnética transcraneal||L|sci|C2
+cortex|corteza cerebral||S|cor|C2
+cortex préfrontal|corteza prefrontal||L|sci|C2
+substance grise|materia gris||L|sci|C2
+matière blanche|materia blanca||L|sci|C2
+sillon|surco cerebral||S|sci|C2
+circonvolution|circunvolución||S|sci|C2
+plasticité cérébrale|plasticidad cerebral||L|sci|C2
+connectivité fonctionnelle|conectividad funcional||L|sci|C2
+cartographie cérébrale|cartografía cerebral||L|sci|C2
+flux sanguin cérébral|flujo sanguíneo cerebral||L|sci|C2
+hémodynamique|hemodinámica||S|sci|C2
+voxel|vóxel||S|sci|C2
+électrode|electrodo||S|sci|C2
+potentiels évoqués|potenciales evocados||L|sci|C2
+couplage neurovasculaire|acoplamiento neurovascular||L|sci|C2
+tractographie|tractografía||S|sci|C2
+neuromodulation|neuromodulación||S|sci|C2
+neuroimagerie|neuroimagen||S|sci|C2
+cervelet|cerebelo||S|cor|C2
+thalamus|tálamo||S|cor|C2
+hippocampe|hipocampo||S|cor|C2
+amygdale|amígdala cerebral||S|cor|C2
+faisceau|haz de fibras nerviosas||S|sci|C2
+lobe frontal|lóbulo frontal||L|sci|C2
+représentation corticale|representación cortical||L|sci|C2
+lésion cérébrale|lesión cerebral||L|sci|C2
+neuropsychologie|neuropsicología||S|sci|C2

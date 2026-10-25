@@ -1,0 +1,309 @@
+entrevista de emprego|entrevista de trabajo||L|lav|B1
+entrevistador|entrevistador||S|lav|B1
+pontos fortes|puntos fuertes||L|lav|B1
+pontos fracos|puntos débiles||L|lav|B1
+contrato a termo|contrato temporal||L|lav|B1
+vínculo|vinculación laboral||S|lav|B1
+período probatório|período de prueba||L|lav|B1
+salário|salario||S|fin|B1
+salário mínimo|salario mínimo||L|fin|B1
+subsídio de Natal|paga extra de Navidad||L|fin|B1
+subsídio de férias|paga extra de vacaciones||L|fin|B1
+negociar o salário|negociar el salario||L|lav|B1
+vencimento|sueldo||S|fin|B1
+remuneração|remuneración||S|fin|B1
+folga|día libre||S|lav|B1
+horas extra|horas extra||L|lav|B1
+exigência|exigencia||S|lav|B1
+carreira|carrera||S|lav|B1
+ascensão|ascenso||S|lav|B1
+promover|promover||V|lav|B1
+despedimento|despido||S|lav|B1
+despedir|despedir||V|lav|B1
+desemprego|desempleo||S|lav|B1
+aviso prévio|preaviso||L|lav|B1
+indemnização|indemnización||S|fin|B1
+indemnizar|indemnizar||V|fin|B1
+justa causa|justa causa||L|lav|B1
+estagnação|estancamiento||S|lav|B1
+mérito|mérito||S|lav|B1
+recomendação|recomendación||S|lav|B1
+recomendar|recomendar||V|cmu|B1
+demitir-se|renunciar||V|lav|B1
+progressão|progresión||S|lav|B1
+plano de carreira|plan de carrera||L|lav|B1
+espírito de equipa|espíritu de equipo||L|lav|B1
+equipa|equipo||S|lav|B1
+colega|compañero de trabajo||S|lav|B1
+chefe|jefe||S|lav|B1
+chefe de equipa|jefe de equipo||L|lav|B1
+subordinado|subordinado||S|lav|B1
+departamento|departamento||S|lav|B1
+tarefa|tarea||S|lav|B1
+ata de reunião|acta de reunión||L|lav|B1
+ordem do dia|orden del día||L|cmu|B1
+adiar|aplazar||V|tmp|B1
+adiamento|aplazamiento||S|tmp|B1
+prazo|plazo||S|tmp|B1
+cumprir|cumplir||V|lav|B1
+discordar|discrepar||V|cmu|B1
+concordar|estar de acuerdo||V|cmu|B1
+tomar uma decisão|tomar una decisión||L|cmu|B1
+direitos laborais|derechos laborales||L|lav|B1
+sindicato|sindicato||S|ist|B1
+greve|huelga||S|lav|B1
+greve geral|huelga general||L|lav|B1
+manifestação|manifestación||S|att|B1
+manifestar-se|manifestarse||V|att|B1
+negociação coletiva|negociación colectiva||L|lav|B1
+regulamento|reglamento||S|ist|B1
+horário de trabalho|horario de trabajo||L|lav|B1
+férias anuais|vacaciones anuales||L|lav|B1
+baixa médica|baja médica||L|sla|B1
+licença parental|permiso parental||L|lav|B1
+assédio|acoso||S|lav|B1
+exploração laboral|explotación laboral||S|lav|B1
+quota sindical|cuota sindical||L|lav|B1
+previdência|previsión social||S|fin|B1
+reivindicação|reivindicación||S|lav|B1
+exame|examen||S|stu|B1
+exame nacional|examen nacional||L|stu|B1
+teste|test||S|stu|B1
+classificação|calificación||S|stu|B1
+aprovar|aprobar||V|stu|B1
+reprovar|reprobar||V|stu|B1
+chumbar|suspender (un examen)||V|stu|B1
+diploma|título||S|stu|B1
+certificado|certificado||S|stu|B1
+certificação|certificación||S|stu|B1
+inscrição|inscripción||S|stu|B1
+inscrever-se|inscribirse||V|stu|B1
+propinas|matrícula universitaria||S|stu|B1
+ano letivo|año lectivo||L|stu|B1
+admissão|admisión||S|stu|B1
+admitir|admitir||V|stu|B1
+equivalência|equivalencia||S|stu|B1
+faculdade|facultad||S|stu|B1
+cadeira|asignatura||S|stu|B1
+campus universitário|campus||L|stu|B1
+estudante|estudiante||S|stu|B1
+residência de estudantes|residencia de estudiantes||L|stu|B1
+cantina|comedor||S|stu|B1
+associação de estudantes|asociación de estudiantes||L|stu|B1
+praxe|novatada universitaria||S|stu|B1
+caloiro|novato||S|stu|B1
+finalista|estudiante de último curso||S|stu|B1
+licenciatura|grado||S|stu|B1
+mestrado|máster||S|stu|B1
+doutoramento|doctorado||S|stu|B1
+curso noturno|curso nocturno||L|stu|B1
+ensino superior|enseñanza superior||L|stu|B1
+reitor|rector||S|pro|B1
+média|nota media||S|stu|B1
+método de estudo|método de estudio||L|stu|B1
+memorizar|memorizar||V|stu|B1
+sublinhar|subrayar||V|stu|B1
+esquema|esquema||S|stu|B1
+tirar dúvidas|resolver dudas||L|stu|B1
+estudar em grupo|estudar en grupo||L|stu|B1
+concentração|concentración||S|stu|B1
+distrair-se|distraerse||V|stu|B1
+revisar a matéria|repasar la materia||L|stu|B1
+decorar|aprender de memoria||V|stu|B1
+aprendizagem|aprendizaje||S|stu|B1
+autodidata|autodidacta||S|stu|B1
+apontamentos|apuntes||S|stu|B1
+resumo|resumen||S|stu|B1
+resumir|resumir||V|stu|B1
+pesquisar|investigar||V|stu|B1
+fluência|fluidez||S|stu|B1
+urbanismo|urbanismo||S|cit|B1
+arranha-céus|rascacielos||S|cit|B1
+bairro|barrio||S|cit|B1
+bairro histórico|casco antiguo||L|cit|B1
+trânsito|tráfico||S|tra|B1
+congestionamento|atasco||S|tra|B1
+engarrafamento|retención||S|tra|B1
+poluição|contaminación||S|nat|B1
+poluição sonora|contaminación acústica||L|cit|B1
+lixo|basura||S|cit|B1
+reciclagem|reciclaje||S|cit|B1
+reciclar|reciclar||V|cit|B1
+obra pública|obra pública||L|cit|B1
+vizinho|vecino||S|cit|B1
+vizinhança|vecindario||S|cit|B1
+freguesia|distrito municipal||S|cit|B1
+câmara municipal|ayuntamiento||S|cit|B1
+serviços públicos|servicios públicos||L|ist|B1
+finanças|hacienda (tributos)||S|ist|B1
+atendimento ao público|atención al público||L|ist|B1
+fila de espera|cola||L|cit|B1
+tirar senha|coger turno||L|cit|B1
+correio|correos||S|ist|B1
+bombeiros|bomberos||S|ist|B1
+proteção civil|protección civil||L|ist|B1
+eleitor|elector||S|att|B1
+autárquicas|elecciones municipales||S|att|B1
+vereador|concejal||S|ist|B1
+junta de freguesia|junta de distrito||L|ist|B1
+iluminação pública|alumbrado público||L|cit|B1
+limpeza urbana|limpieza viaria||L|cit|B1
+esgoto|alcantarillado||S|cit|B1
+cartório|notaría||S|ist|B1
+registo civil|registro civil||L|ist|B1
+mudanças climáticas|cambio climático||L|cli|B1
+aquecimento global|calentamiento global||L|cli|B1
+efeito de estufa|efecto invernadero||L|cli|B1
+seca|sequía||S|cli|B1
+cheia|riada||S|cli|B1
+inundação|inundación||S|cli|B1
+inundar|anegar||V|cli|B1
+incêndio florestal|incendio forestal||L|cli|B1
+tempestade|tempestad||S|cli|B1
+tremor de terra|terremoto||L|cli|B1
+furacão|huracán||S|cli|B1
+desabamento|derrumbe||S|cit|B1
+vítima|víctima||S|att|B1
+resgate|rescate||S|att|B1
+evacuação|evacuación||S|cli|B1
+evacuar|evacuar||V|cli|B1
+alerta vermelho|alerta roja||L|cli|B1
+moda|moda||S|rop|B1
+moda sustentável|moda sostenible||L|rop|B1
+tendência|tendencia||S|rop|B1
+desfile de moda|desfile de moda||L|rop|B1
+passarela|pasarela||S|rop|B1
+coleção|colección||S|rop|B1
+peça|prenda||S|rop|B1
+tecido|tejido||S|rop|B1
+linho|lino||S|rop|B1
+lã|lana||S|rop|B1
+algodão|algodón||S|rop|B1
+seda|seda||S|rop|B1
+costura|costura||S|rop|B1
+costurar|coser||V|rop|B1
+provador|probador||S|cmp|B1
+tamanho|talla||S|cmp|B1
+indústria têxtil|industria textil||L|rop|B1
+redes sociais|redes sociales||L|tec|B1
+perfil|perfil||S|tec|B1
+publicar|publicar||V|tec|B1
+seguidor|seguidor||S|tec|B1
+comentário|comentario||S|tec|B1
+partilhar|compartir||V|tec|B1
+viral|viral||A|tec|B1
+influenciador|influencer||S|tec|B1
+bloquear|bloquear||V|tec|B1
+denunciar|denunciar||V|cmu|B1
+denúncia|denuncia||S|att|B1
+notificação|notificación||S|tec|B1
+atualização|actualización||S|tec|B1
+atualizar|actualizar||V|tec|B1
+ecrã|pantalla||S|tec|B1
+ligação|conexión||S|tec|B1
+descarregar|descargar||V|tec|B1
+cibersegurança|ciberseguridad||S|tec|B1
+palavra-passe|contraseña||S|tec|B1
+dados pessoais|datos personales||L|tec|B1
+privacidade|privacidad||S|tec|B1
+privado|privado||A|tec|B1
+fraude online|fraude en línea||L|tec|B1
+golpe|estafa||S|fin|B1
+vírus|virus||S|tec|B1
+antivírus|antivirus||S|tec|B1
+cópia de segurança|copia de seguridad||L|tec|B1
+assédio online|acoso en línea||L|tec|B1
+pirataria informática|piratería informática||L|tec|B1
+utilizador|usuario||S|tec|B1
+dados móveis|datos móviles||L|tec|B1
+navegador|navegador||S|tec|B1
+sítio web|sitio web||L|tec|B1
+mensagem privada|mensaje privado||L|cmu|B1
+segurança online|seguridad en línea||L|tec|B1
+programação|programación||S|tec|B1
+programador|programador||S|pro|B1
+código|código||S|tec|B1
+desenvolvimento de software|desarrollo de software||L|tec|B1
+base de dados|base de datos||L|tec|B1
+inteligência artificial|inteligencia artificial||L|tec|B1
+algoritmo|algoritmo||S|sci|B1
+aplicação|aplicación||S|tec|B1
+teste de software|pruebas de software||L|tec|B1
+engenharia informática|ingeniería informática||L|tec|B1
+portátil|portátil||S|tec|B1
+informático|informático||A|tec|B1
+desenvolvedor|desarrollador||S|pro|B1
+sistema operativo|sistema operativo||L|tec|B1
+nuvem|nube||S|tec|B1
+armazenamento em nuvem|almacenamiento en la nube||L|tec|B1
+interface|interfaz||S|tec|B1
+competição|competición||S|spt|B1
+campeonato|campeonato||S|spt|B1
+campeão|campeón||S|spt|B1
+eliminatória|eliminatoria||S|spt|B1
+meias-finais|semifinales||L|spt|B1
+árbitro|árbitro||S|spt|B1
+arbitragem|arbitraje||S|spt|B1
+pontuação|puntuación||S|spt|B1
+goleada|goleada||S|spt|B1
+empate|empate||S|spt|B1
+patrocínio|patrocinio||S|fin|B1
+atleta|atleta||S|spt|B1
+treinador|entrenador||S|spt|B1
+treinar|entrenar||V|spt|B1
+amador|aficionado||A|spt|B1
+recorde|récord||S|spt|B1
+bater um recorde|batir un récord||L|spt|B1
+lesão|lesión||S|sla|B1
+lesionar|lesionar||V|sla|B1
+entorse|esguince||S|sla|B1
+distensão|distensión||S|sla|B1
+ruptura muscular|rotura muscular||L|sla|B1
+fratura|fractura||S|sla|B1
+fisioterapia|fisioterapia||S|sla|B1
+fisioterapeuta|fisioterapeuta||S|pro|B1
+recuperação|recuperación||S|sla|B1
+cãibra|calambre||S|sla|B1
+dor muscular|agujetas||L|sla|B1
+aquecimento|calentamiento||S|spt|B1
+alongamento|estiramiento||S|spt|B1
+muletas|muletas||S|sla|B1
+gesso|escayola||S|sla|B1
+intervenção cirúrgica|intervención quirúrgica||L|sla|B1
+cicatriz|cicatriz||S|cor|B1
+concerto|concierto||S|mus|B1
+partitura|partitura||S|mus|B1
+instrumento musical|instrumento musical||L|mus|B1
+acorde|acorde||S|mus|B1
+melodia|melodía||S|mus|B1
+harmonia|armonía||S|mus|B1
+coro|coro||S|mus|B1
+maestro|director de orquesta||S|mus|B1
+orquestra|orquesta||S|mus|B1
+ensaio|ensayo||S|mus|B1
+tocar de ouvido|tocar de oído||L|mus|B1
+palco|escenario||S|mus|B1
+gira|gira||S|mus|B1
+compositor|compositor||S|pro|B1
+música clássica|música clásica||L|mus|B1
+plateia|platea||S|mus|B1
+acústico|acústico||A|mus|B1
+afinação|afinación||S|mus|B1
+rodagem|rodaje||S|cin|B1
+rodar|rodar||V|cin|B1
+realizador|director de cine||S|cin|B1
+argumento|guion||S|cin|B1
+argumentista|guionista||S|pro|B1
+dobragem|doblaje||S|cin|B1
+legendas|subtítulos||S|cin|B1
+legendado|subtitulado||A|cin|B1
+elenco|reparto||S|cin|B1
+figurino|vestuario||S|cin|B1
+cenário|decorado||S|cin|B1
+festival de cinema|festival de cine||L|cin|B1
+estreia|estreno||S|cin|B1
+longa-metragem|largometraje||S|cin|B1
+curta-metragem|cortometraje||S|cin|B1
+banda sonora|banda sonora||L|cin|B1
+crítica de cinema|crítica de cine||L|cin|B1
+cinematografia|cinematografía||S|cin|B1

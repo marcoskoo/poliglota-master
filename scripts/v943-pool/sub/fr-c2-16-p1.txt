@@ -1,0 +1,293 @@
+métastase|metástasis||S|sla|C2
+métastatique|metastásico||A|sla|C2
+carcinome|carcinoma||S|sla|C2
+carcinogène|cancerígeno||A|sla|C2
+chimiothérapie|quimioterapia||S|sla|C2
+radiothérapie|radioterapia||S|sla|C2
+hormonothérapie|hormonoterapia||S|sla|C2
+oncologie|oncología||S|sla|C2
+malignité|malignidad||S|sla|C2
+rémission|remisión||S|sla|C2
+récidive|recaída||S|sla|C2
+sarcome|sarcoma||S|sla|C2
+lymphome|linfoma||S|sla|C2
+leucémie|leucemia||S|sla|C2
+biopsie|biopsia||S|sla|C2
+polype|pólipo||S|sla|C2
+cancéreux|canceroso||A|sla|C2
+soins palliatifs|cuidados paliativos||L|sla|C2
+antalgique|analgésico||A|sla|C2
+sédation|sedación||S|sla|C2
+morphinique|analgésico opiáceo||A|sla|C2
+pronostic vital|pronóstico vital||L|sla|C2
+adjuvant|adyuvante||A|sla|C2
+résection|resección||S|sla|C2
+ablation|ablación quirúrgica||S|sla|C2
+escarre|escara||S|sla|C2
+cachexie|caquexia||S|sla|C2
+fin de vie|final de la vida||L|sla|C2
+oncogène|oncogén||S|sla|C2
+bénin|benigno||A|sla|C2
+lésion|lesión||S|sla|C2
+prélèvement|toma de muestras||S|sla|C2
+greffe de moelle|trasplante de médula ósea||L|sla|C2
+convulsion|convulsión||S|sla|C2
+épilepsie|epilepsia||S|sla|C2
+sclérose en plaques|esclerosis múltiple||L|sla|C2
+neuropathie|neuropatía||S|sla|C2
+dégénérescence|degeneración||S|sla|C2
+dégénérer|degenerar||V|sla|C2
+tremblement|temblor||S|sla|C2
+fasciculation|fasciculación||S|sla|C2
+paresthésie|parestesia||S|sla|C2
+syncope|síncope||S|sla|C2
+thrombose|trombosis||S|sla|C2
+embolie|embolia||S|sla|C2
+anévrisme|aneurisma||S|sla|C2
+hémiplégie|hemiplejia||S|sla|C2
+paraplégie|paraplejia||S|sla|C2
+tétraplégie|tetraplejia||S|sla|C2
+parésie|paresia||S|sla|C2
+aphasie|afasia||S|sla|C2
+dysarthrie|disartria||S|sla|C2
+démence|demencia||S|sla|C2
+chorée|corea||S|sla|C2
+réflexe ostéotendineux|reflejo osteotendinoso||L|sla|C2
+électroencéphalogramme|electroencefalograma||S|sla|C2
+ponction lombaire|punción lumbar||L|sla|C2
+stupeur|estupor||S|sla|C2
+myoclonie|mioclonía||S|sla|C2
+narcolepsie|narcolepsia||S|sla|C2
+encéphalite|encefalitis||S|sla|C2
+méningite|meningitis||S|sla|C2
+neuralgie|neuralgia||S|sla|C2
+hypersomnie|hipersomnia||S|sla|C2
+sciatique|ciática||S|sla|C2
+apraxie|apraxia||S|sla|C2
+primipare|primípara||A|sla|C2
+multipare|multípara||A|sla|C2
+dystocie|distocia||S|sla|C2
+éclampsie|eclampsia||S|sla|C2
+prééclampsie|preeclampsia||S|sla|C2
+placenta praevia|placenta previo||L|sla|C2
+col de l'utérus|cuello del útero||L|sla|C2
+hystérectomie|histerectomía||S|sla|C2
+épisiotomie|episiotomía||S|sla|C2
+forceps|fórceps||S|sla|C2
+péridurale|epidural||S|sla|C2
+ocytocine|oxitocina||S|sla|C2
+contraction utérine|contracción uterina||L|sla|C2
+fausse couche|aborto espontáneo||L|sla|C2
+prématurité|prematuridad||S|sla|C2
+couveuse|incubadora||S|sla|C2
+pédiatrie|pediatría||S|sla|C2
+néonatal|neonatal||A|sla|C2
+périnatal|perinatal||A|sla|C2
+allaitement maternel|lactancia materna||L|sla|C2
+sevrage|destete||S|sla|C2
+ictère néonatal|ictericia neonatal||L|sla|C2
+stérilet|dispositivo intrauterino||S|sla|C2
+fécondation in vitro|fecundación in vitro||L|sla|C2
+amniocentèse|amniocentesis||S|sla|C2
+échographie|ecografía||S|sla|C2
+à terme|a término (embarazo cumplido)||L|sla|C2
+mort-né|mortinato||S|sla|C2
+hématome rétroplacentaire|desprendimiento de placenta||L|sla|C2
+lochies|loquios||S|sla|C2
+méconium|meconio||S|sla|C2
+strabisme|estrabismo||S|sla|C2
+hypotrophie|hipotrofia fetal||S|sla|C2
+fracture ouverte|fractura abierta||L|sla|C2
+fracture fermée|fractura cerrada||L|sla|C2
+luxation|luxación||S|sla|C2
+entorse|esguince||S|sla|C2
+foulure|torcedura de tobillo||S|sla|C2
+ostéoporose|osteoporosis||S|sla|C2
+arthroscopie|artroscopia||S|sla|C2
+prothèse de hanche|prótesis de cadera||L|sla|C2
+rééducation|rehabilitación||S|sla|C2
+kinésithérapie|fisioterapia||S|sla|C2
+kinésithérapeute|fisioterapeuta||S|pro|C2
+orthopédique|ortopédico||A|sla|C2
+amputation|amputación||S|sla|C2
+amputé|amputado||S|sla|C2
+prothèse|prótesis||S|sla|C2
+attelle|férula||S|sla|C2
+immobilisation|inmovilización||S|sla|C2
+consolidation osseuse|consolidación ósea||L|sla|C2
+cal vicieux|callo vicioso||L|sla|C2
+pseudarthrose|pseudoartrosis||S|sla|C2
+tendinite|tendinitis||S|sla|C2
+déchirure musculaire|desgarro muscular||L|sla|C2
+claquage|distensión muscular||S|sla|C2
+élongation|elongación muscular||S|sla|C2
+rotule|rótula||S|cor|C2
+ligament croisé|ligamento cruzado||L|sla|C2
+ménisque|menisco||S|sla|C2
+arthrose|artrosis||S|sla|C2
+lombalgie|lumbalgia||S|sla|C2
+cervicalgie|cervicalgia||S|sla|C2
+rachis|raquis||S|cor|C2
+rétraction|retracción muscular||S|sla|C2
+épidémiologie|epidemiología||S|sci|C2
+épidémie|epidemia||S|sla|C2
+endémie|endemia||S|sla|C2
+endémique|endémico||A|sla|C2
+pandémie|pandemia||S|sla|C2
+rappel vaccinal|dosis de refuerzo||L|sla|C2
+couverture vaccinale|cobertura vacunal||L|sla|C2
+immunité collective|inmunidad de grupo||L|sla|C2
+sérum|suero||S|sla|C2
+anticorps|anticuerpo||S|sla|C2
+antigène|antígeno||S|sla|C2
+vecteur|vector (transmisor de enfermedades)||S|sla|C2
+taux d'incidence|tasa de incidencia||L|sla|C2
+létalité|letalidad||S|sla|C2
+prévalence|prevalencia||S|sla|C2
+morbidité|morbilidad||S|sla|C2
+mortalité|mortalidad||S|sla|C2
+quarantaine|cuarentena||S|sla|C2
+dépistage|cribado||S|sla|C2
+salubrité|salubridad||S|sla|C2
+insalubre|insalubre||A|sla|C2
+prophylaxie|profilaxis||S|sla|C2
+assainissement|saneamiento||S|sla|C2
+flambée|brote epidémico||S|sla|C2
+porteur sain|portador sano||L|sla|C2
+zoonose|zoonosis||S|sla|C2
+santé publique|salud pública||L|sla|C2
+veille sanitaire|vigilancia sanitaria||L|sla|C2
+facteur de risque|factor de riesgo||L|sla|C2
+séroprévalence|seroprevalencia||S|sla|C2
+éradication|erradicación||S|sla|C2
+immunodéprimé|inmunodeprimido||S|sla|C2
+chaîne de transmission|cadena de transmisión||L|sla|C2
+assujettissement|sujeción tributaria||S|fin|C2
+assujettir|sujetar al pago de un impuesto||V|fin|C2
+fraude fiscale|fraude fiscal||L|fin|C2
+évasion fiscale|evasión fiscal||L|fin|C2
+paradis fiscal|paraíso fiscal||L|fin|C2
+fait générateur|hecho imponible||S|fin|C2
+contribuable|contribuyente||S|fin|C2
+redevable|obligado tributario||S|fin|C2
+impôt sur le revenu|impuesto sobre la renta||L|fin|C2
+plus-value|plusvalía||S|fin|C2
+moins-value|minusvalía||S|fin|C2
+franchise d'impôt|mínimo exento||L|fin|C2
+exonération|exención||S|fin|C2
+abattement|deducción en la base imponible||S|fin|C2
+défiscalisation|desgravación fiscal||S|fin|C2
+niche fiscale|resquicio fiscal||L|fin|C2
+redressement fiscal|regularización tributaria||L|fin|C2
+contrôle fiscal|inspección fiscal||L|fin|C2
+barème d'imposition|tarifa del impuesto||L|fin|C2
+percepteur|recaudador de impuestos||S|pro|C2
+recouvrement|recaudación tributaria||S|fin|C2
+retenue à la source|retención en la fuente||L|fin|C2
+taxe foncière|impuesto sobre bienes inmuebles||L|fin|C2
+taxe d'habitation|impuesto de residencia||L|fin|C2
+droits de succession|impuesto de sucesiones||L|fin|C2
+droits de mutation|impuesto de transmisiones||L|fin|C2
+dissimulation de revenus|ocultación de ingresos||L|fin|C2
+blanchiment|blanqueo de capitales||S|fin|C2
+rescrit fiscal|consulta tributaria vinculante||L|fin|C2
+amortissement|amortización fiscal||S|fin|C2
+liquidation|liquidación (cálculo del impuesto)||S|fin|C2
+fractionnement|fraccionamiento de donaciones||S|fin|C2
+société écran|sociedad pantalla||L|fin|C2
+crédit-bail|arrendamiento financiero||S|fin|C2
+encours|saldo vivo||S|fin|C2
+créance|crédito contra terceros||S|fin|C2
+surendettement|sobreendeudamiento||S|fin|C2
+endettement|endeudamiento||S|fin|C2
+refinancement|refinanciación||S|fin|C2
+taux d'intérêt|tipo de interés||L|fin|C2
+interbancaire|interbancario||A|fin|C2
+titrisation|titulización||S|fin|C2
+levier financier|apalancamiento financiero||L|fin|C2
+fonds propres|fondos propios||L|fin|C2
+ratio de solvabilité|coeficiente de solvencia||L|fin|C2
+solvabilité|solvencia||S|fin|C2
+liquidité|liquidez||S|fin|C2
+défaut de paiement|impago||L|fin|C2
+défaillance|insolvencia||S|fin|C2
+garantie|garantía||S|fin|C2
+caution|aval||S|fin|C2
+nantissement|prenda||S|fin|C2
+hypothécaire|hipotecario||A|fin|C2
+saisie|embargo||S|fin|C2
+agios|intereses y comisiones de descubierto||S|fin|C2
+découvert autorisé|descubierto autorizado||L|fin|C2
+prélèvement automatique|domiciliación bancaria||L|fin|C2
+crédit immobilier|préstamo hipotecario||L|fin|C2
+apport personnel|aportación propia||L|fin|C2
+prime de risque|prima de riesgo||L|fin|C2
+agence de notation|agencia de calificación crediticia||L|fin|C2
+provision pour créances irrécouvrables|provisión para insolvencias||L|fin|C2
+dépôt de garantie|depósito de garantía||L|fin|C2
+courtage|corretaje||S|fin|C2
+marché obligataire|mercado de renta fija||L|fin|C2
+fusion-acquisition|fusión y adquisición||S|fin|C2
+offre publique d'achat|oferta pública de adquisición||L|fin|C2
+offre publique d'échange|oferta pública de canje||L|fin|C2
+valorisation|valoración de empresas||S|fin|C2
+valoriser|valorar||V|fin|C2
+survaleur|fondo de comercio||S|fin|C2
+bilan comptable|balance contable||L|fin|C2
+compte de résultat|cuenta de resultados||L|fin|C2
+actif net|activo neto||L|fin|C2
+passif exigible|pasivo exigible||L|fin|C2
+immobilisations incorporelles|inmovilizado intangible||L|fin|C2
+dette financière|deuda financiera||L|fin|C2
+flux de trésorerie|flujo de caja||L|fin|C2
+trésorerie|tesorería||S|fin|C2
+fonds de roulement|fondo de maniobra||L|fin|C2
+dilution|dilución de capital||S|fin|C2
+augmentation de capital|ampliación de capital||L|fin|C2
+rachat d'entreprise|adquisición de una empresa||L|fin|C2
+scission|escisión||S|fin|C2
+absorption|absorción||S|fin|C2
+concentration d'entreprises|concentración empresarial||L|fin|C2
+croissance externe|crecimiento externo||L|fin|C2
+audit d'acquisition|auditoría de adquisición||L|fin|C2
+décote|descuento sobre el valor de mercado||S|fin|C2
+valeur comptable|valor contable||L|fin|C2
+valeur de marché|valor de mercado||L|fin|C2
+rendement|rentabilidad||S|fin|C2
+restructuration|reestructuración||S|fin|C2
+licenciement économique|despido colectivo||L|fin|C2
+plan de restructuration|plan de reestructuración||L|fin|C2
+retournement|reorganización de empresa en crisis||S|fin|C2
+titres de participation|participaciones en el capital||L|fin|C2
+élasticité-prix|elasticidad precio||S|fin|C2
+oligopole|oligopolio||S|fin|C2
+monopole|monopolio||S|fin|C2
+monopsone|monopsonio||S|fin|C2
+concurrence pure et parfaite|competencia perfecta||L|fin|C2
+pouvoir de marché|poder de mercado||L|fin|C2
+barrière à l'entrée|barrera de entrada||L|fin|C2
+externalité|externalidad||S|fin|C2
+asymétrie d'information|asimetría de información||L|fin|C2
+aléa moral|riesgo moral||L|fin|C2
+sélection adverse|selección adversa||L|fin|C2
+coût d'opportunité|coste de oportunidad||L|fin|C2
+coût marginal|coste marginal||L|fin|C2
+rendements croissants|rendimientos crecientes||L|fin|C2
+utilité marginale|utilidad marginal||L|fin|C2
+équilibre général|equilibrio general||L|fin|C2
+main invisible|mano invisible||L|fin|C2
+différenciation des produits|diferenciación de productos||L|fin|C2
+bien collectif|bien colectivo||L|fin|C2
+surplus du consommateur|excedente del consumidor||L|fin|C2
+courbe d'offre|curva de oferta||L|fin|C2
+courbe de demande|curva de demanda||L|fin|C2
+fixation des prix|fijación de precios||L|fin|C2
+prix prédateur|precio predatorio||L|fin|C2
+cartellisation|cartelización||S|fin|C2
+entente illicite|colusión ilícita||L|fin|C2
+abus de position dominante|abuso de posición dominante||L|fin|C2
+concurrence déloyale|competencia desleal||L|fin|C2
+défaillance de marché|fallo de mercado||L|fin|C2
+théorie des jeux|teoría de juegos||L|fin|C2
+duopole|duopolio||S|fin|C2
+cartel|cártel||S|fin|C2

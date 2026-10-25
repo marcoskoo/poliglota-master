@@ -1,0 +1,309 @@
+nascimento|nacimiento||S|fam|B1
+infância|infancia||S|fam|B1
+adolescência|adolescencia||S|fam|B1
+maturidade|madurez||S|fam|B1
+velhice|vejez||S|fam|B1
+gémeo|gemelo||S|fam|B1
+afilhado|ahijado||S|fam|B1
+sogra|suegra||S|fam|B1
+sogro|suegro||S|fam|B1
+enteada|hijastra||S|fam|B1
+genro|yerno||S|fam|B1
+nora|nuera||S|fam|B1
+viúvo|viudo||S|fam|B1
+primogénito|primogénito||S|fam|B1
+adotar|adoptar||V|fam|B1
+criar|criar (a los hijos)||V|fam|B1
+discussão|discusión||S|rel|B1
+desentendimento|desacuerdo||S|rel|B1
+zanga|pelea||S|fam|B1
+birra|rabieta||S|fam|B1
+castigo|castigo||S|fam|B1
+castigar|castigar||V|fam|B1
+desobedecer|desobedecer||V|fam|B1
+repreender|reprender||V|fam|B1
+rebeldia|rebeldía||S|fam|B1
+autoridade|autoridad||S|fam|B1
+geração|generación||S|fam|B1
+divergência|divergencia||S|rel|B1
+separação|separación||S|rel|B1
+divórcio|divorcio||S|rel|B1
+divorciar-se|divorciarse||V|rel|B1
+educar|educar||V|fam|B1
+arrendamento|alquiler||S|cas|B1
+arrendar|alquilar||V|cas|B1
+inquilino|inquilino||S|cas|B1
+senhorio|casero||S|cas|B1
+renda|mensualidad del alquiler||S|cas|B1
+caução|fianza||S|cas|B1
+fiador|fiador||S|cas|B1
+contrato de arrendamento|contrato de alquiler||L|cas|B1
+mudança|mudanza||S|cas|B1
+mudar-se|mudarse||V|cas|B1
+caixa de cartão|caja de cartón||L|cas|B1
+escritura|escritura||S|cas|B1
+proprietário|propietario||S|cas|B1
+despejo|desahucio||S|cas|B1
+rescisão|rescisión||S|cas|B1
+condomínio|comunidad de vecinos||S|cas|B1
+mobília|mobiliario||S|cas|B1
+poltrona|sillón||S|cas|B1
+cómoda|cómoda||S|cas|B1
+tapete|alfombra||S|cas|B1
+cortina|cortina||S|cas|B1
+lustre|lámpara de techo||S|cas|B1
+remodelação|reforma||S|cas|B1
+decoração|decoración||S|cas|B1
+pedreiro|albañil||S|pro|B1
+canalizador|fontanero||S|pro|B1
+eletricista|electricista||S|pro|B1
+carpinteiro|carpintero||S|pro|B1
+telhado|tejado||S|cas|B1
+torneira|grifo||S|cas|B1
+armário embutido|armario empotrado||L|cas|B1
+almofada|almohada||S|cas|B1
+petisco|tapa||S|ali|B1
+cozido|cocido||S|ali|B1
+assado|asado||S|ali|B1
+guisado|estofado||S|ali|B1
+caldo|caldo||S|ali|B1
+sopa de legumes|sopa de verduras||L|ali|B1
+bacalhau|bacalao||S|ali|B1
+sardinha|sardina||S|ali|B1
+polvo|pulpo||S|ali|B1
+marisco|marisco||S|ali|B1
+amêijoa|almeja||S|ali|B1
+azeite|aceite de oliva||S|ali|B1
+pimenta|pimienta||S|ali|B1
+colorau|pimentón||S|ali|B1
+sobremesa|postre||S|ali|B1
+prato principal|plato principal||L|ali|B1
+dieta equilibrada|dieta equilibrada||L|sla|B1
+vegetariano|vegetariano||A|sla|B1
+veganismo|veganismo||S|sla|B1
+intolerância à lactose|intolerancia a la lactosa||L|sla|B1
+doença celíaca|enfermedad celíaca||L|sla|B1
+glúten|gluten||S|sla|B1
+alergia alimentar|alergia alimentaria||L|sla|B1
+nutricionista|nutricionista||S|pro|B1
+calorias|calorías||S|sla|B1
+porção|porción||S|ali|B1
+conservante|conservante||S|ali|B1
+gordura|grasa||S|ali|B1
+salgado|salado||A|ali|B1
+açucarado|azucarado||A|ali|B1
+hidratar-se|hidratarse||V|sla|B1
+receita|receta||S|ali|B1
+cozinha de fusão|cocina de fusión||L|ali|B1
+prato típico|plato típico||L|ali|B1
+especialidade|especialidad||S|ali|B1
+picante|picante||A|ali|B1
+agridoce|agridulce||A|ali|B1
+cru|crudo||A|ali|B1
+panado|rebozado||S|ali|B1
+espetada|brocheta||S|ali|B1
+fritura|fritura||S|ali|B1
+congelado|congelado||A|ali|B1
+descongelar|descongelar||V|ali|B1
+tacho|cazuela||S|cas|B1
+frigideira|sartén||S|cas|B1
+saltear|saltear||V|ali|B1
+vinho tinto|vino tinto||L|ali|B1
+vinho branco|vino blanco||L|ali|B1
+espumante|espumoso||S|ali|B1
+prova de vinhos|cata de vinos||L|ali|B1
+adega|bodega||S|ali|B1
+garrafa|botella||S|ali|B1
+rolha|corcho||S|ali|B1
+saca-rolhas|sacacorchos||S|ali|B1
+café expresso|café expreso||L|ali|B1
+descafeinado|descafeinado||A|ali|B1
+cheiro|olor||S|ali|B1
+saboroso|sabroso||A|ali|B1
+amargo|amargo||A|ali|B1
+torrado|tostado||A|ali|B1
+paladar|paladar||S|ali|B1
+publicidade|publicidad||S|cmp|B1
+anúncio|anuncio||S|cmp|B1
+anunciar|anunciar||V|cmp|B1
+campanha publicitária|campaña publicitaria||L|cmp|B1
+promoção|promoción (de ventas)||S|cmp|B1
+desconto|descuento||S|cmp|B1
+saldos|rebajas||S|cmp|B1
+consumidor|consumidor||S|cmp|B1
+consumo responsável|consumo responsable||L|cmp|B1
+compra por impulso|compra por impulso||L|cmp|B1
+rótulo|etiqueta||S|cmp|B1
+embalagem|envase||S|cmp|B1
+cupão|cupón||S|cmp|B1
+marca|marca||S|cmp|B1
+oferta especial|oferta especial||L|cmp|B1
+devolução|devolución||S|cmp|B1
+garantia|garantía||S|cmp|B1
+fatura|factura||S|cmp|B1
+recibo|recibo||S|cmp|B1
+reclamação|reclamación||S|cmp|B1
+livro de reclamações|libro de reclamaciones||L|cmp|B1
+troca|cambio (de un producto)||S|cmp|B1
+trocar|cambiar (un producto)||V|cmp|B1
+reembolso|reembolso||S|cmp|B1
+reembolsar|reembolsar||V|cmp|B1
+defeituoso|defectuoso||A|cmp|B1
+defeito|defecto||S|cmp|B1
+comprovativo|justificante||S|cmp|B1
+cartão de fidelização|tarjeta de fidelización||L|cmp|B1
+selo de qualidade|sello de calidad||L|cmp|B1
+loja online|tienda online||L|cmp|B1
+carrinho de compras|carrito de la compra||L|cmp|B1
+encomenda|pedido||S|cmp|B1
+expedição|envío||S|cmp|B1
+portes de envio|gastos de envío||L|cmp|B1
+transportadora|agencia de transporte||S|cmp|B1
+código de rastreio|código de seguimiento||L|cmp|B1
+entrega em casa|entrega a domicilio||L|cmp|B1
+pagamento online|pago online||L|cmp|B1
+transferência bancária|transferencia bancaria||L|fin|B1
+cartão de crédito|tarjeta de crédito||L|fin|B1
+esgotado|agotado||A|cmp|B1
+venda|venta||S|cmp|B1
+artigo|artículo||S|cmp|B1
+aviso de entrega|aviso de entrega||L|cmp|B1
+matrícula|matrícula||S|tra|B1
+carta de condução|carné de conducir||L|tra|B1
+contraordenação|infracción (de tráfico)||S|tra|B1
+multa|multa||S|tra|B1
+alcoolemia|alcoholemia||S|tra|B1
+estacionamento|aparcamiento||S|tra|B1
+berma|arcén||S|tra|B1
+rotunda|rotonda||S|tra|B1
+portagem|peaje||S|tra|B1
+piscas|intermitentes||S|tra|B1
+pneu|neumático||S|tra|B1
+furo|pinchazo||S|tra|B1
+avaria|avería||S|tra|B1
+reboque|grúa||S|tra|B1
+embraiagem|embrague||S|tra|B1
+mobilidade|movilidad||S|tra|B1
+carro elétrico|coche elétrico||L|tra|B1
+posto de carregamento|punto de recarga||L|tra|B1
+trotineta|patinete||S|tra|B1
+dar boleia a|llevar en coche||L|tra|B1
+assinatura mensal|abono mensual||L|tra|B1
+bilheteira|taquilla||S|tra|B1
+horário|horario||S|tra|B1
+partida|salida||S|tra|B1
+atraso|retraso||S|tra|B1
+elétrico|tranvía||S|tra|B1
+passadeira|paso de peatones||S|tra|B1
+peão|peatón||S|tra|B1
+ciclovia|carril bici||S|tra|B1
+transportes públicos|transporte público||S|tra|B1
+viagem de negócios|viaje de negocios||L|vig|B1
+voo|vuelo||S|vig|B1
+escala|escala||S|vig|B1
+registo de bagagem|facturación del equipaje||L|vig|B1
+bagagem de mão|equipaje de mano||L|vig|B1
+extravio|extravío||S|vig|B1
+companhia aérea|aerolínea||S|vig|B1
+assento|asiento||S|vig|B1
+itinerário|itinerario||S|vig|B1
+cancelamento|cancelación||S|vig|B1
+assistência em viagem|asistencia en viaje||L|vig|B1
+perder-se|perderse||V|vig|B1
+embarque|embarque||S|vig|B1
+destino|destino||S|vig|B1
+atraso do voo|retraso del vuelo||L|vig|B1
+fronteira|frontera||S|vig|B1
+passaporte|pasaporte||S|vig|B1
+visto|visado||S|vig|B1
+visto de residência|visado de residencia||L|vig|B1
+alfândega|aduana||S|vig|B1
+controlo de passaportes|control de pasaportes||L|vig|B1
+cidadania|ciudadanía||S|ist|B1
+cartão de cidadão|documento de identidad||L|ist|B1
+nacionalidade|nacionalidad||S|ist|B1
+embaixada|embajada||S|ist|B1
+consulado|consulado||S|ist|B1
+requerimento|solicitud||S|ist|B1
+solicitar|solicitar||V|ist|B1
+prorrogar|prorrogar||V|ist|B1
+validade|validez||S|ist|B1
+alojamento|alojamiento||S|htl|B1
+alojamento rural|alojamiento rural||L|htl|B1
+quarto duplo|habitación doble||L|htl|B1
+pequeno-almoço incluído|desayuno incluido||L|htl|B1
+vista para o mar|vistas al mar||L|htl|B1
+pensão completa|pensión completa||L|htl|B1
+meia pensão|media pensión||L|htl|B1
+gerente|gerente||S|pro|B1
+receção|recepción||S|htl|B1
+empregada de andares|camarera de piso||L|htl|B1
+toalha|toalla||S|htl|B1
+hospedar-se|hospedarse||V|htl|B1
+reserva|reserva||S|htl|B1
+reservar|reservar||V|htl|B1
+anulação|anulación||S|htl|B1
+prevenção|prevención||S|sla|B1
+prevenir|prevenir||V|sla|B1
+estilo de vida|estilo de vida||L|sla|B1
+sedentário|sedentario||A|sla|B1
+tabagismo|tabaquismo||S|sla|B1
+fumador|fumador||S|sla|B1
+rastreio|cribado||S|sla|B1
+vacina|vacuna||S|sla|B1
+vacinar|vacunar||V|sla|B1
+imunidade|inmunidad||S|sla|B1
+colesterol|colesterol||S|sla|B1
+pressão arterial|tensión arterial||L|sla|B1
+hábito|hábito||S|sla|B1
+hábitos saudáveis|hábitos saludables||L|sla|B1
+obesidade|obesidad||S|sla|B1
+seguro de saúde|seguro de salud||L|sla|B1
+médico de família|médico de cabecera||L|sla|B1
+centro de saúde|centro de salud||L|sla|B1
+urgências|urgencias||S|sla|B1
+internamento|ingreso hospitalario||S|sla|B1
+utente|usuario||S|sla|B1
+receita médica|receta médica||L|sla|B1
+farmacêutico|farmacéutico||S|pro|B1
+comparticipação|copago||S|fin|B1
+especialista|especialista||S|pro|B1
+diagnóstico|diagnóstico||S|sla|B1
+sintoma|síntoma||S|sla|B1
+infeção|infección||S|sla|B1
+enfermaria|sala de hospital||S|sla|B1
+apólice|póliza||S|fin|B1
+bem-estar|bienestar||S|sla|B1
+stresse|estrés||S|emo|B1
+ansiedade|ansiedad||S|emo|B1
+depressão|depresión||S|emo|B1
+psicólogo|psicólogo||S|pro|B1
+terapia|terapia||S|sla|B1
+respirar fundo|respirar hondo||L|sla|B1
+meditar|meditar||V|sla|B1
+relaxar-se|relajarse||V|sla|B1
+equilíbrio|equilibrio||S|ast|B1
+autoestima|autoestima||S|emo|B1
+sobrecarga|sobrecarga||S|emo|B1
+esgotamento|agotamiento||S|emo|B1
+aconselhamento|orientación (psicológica)||S|sla|B1
+desligar do trabalho|desconectar del trabajo||L|emo|B1
+musculação|musculación||S|spt|B1
+insónia|insomnio||S|sla|B1
+currículo|currículum||S|lav|B1
+candidato|candidato||S|lav|B1
+candidatura|candidatura||S|lav|B1
+carta de motivação|carta de motivación||L|lav|B1
+experiência profissional|experiencia profesional||L|lav|B1
+habilitações|titulación académica||S|lav|B1
+competências|competencias||S|lav|B1
+qualificado|cualificado||A|lav|B1
+vaga|vacante||S|lav|B1
+percurso profissional|trayectoria profesional||L|lav|B1
+recrutamento|reclutamiento||S|lav|B1
+recrutar|reclutar||V|lav|B1
+rede de contactos|red de contactos||L|lav|B1
+referências|referencias||S|lav|B1
+estágio|prácticas||S|lav|B1
+estagiário|becario||S|lav|B1
+perfil do candidato|perfil del candidato||L|lav|B1

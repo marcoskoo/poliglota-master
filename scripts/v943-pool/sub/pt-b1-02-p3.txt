@@ -1,0 +1,307 @@
+conflito|conflicto||S|rel|B1
+zangado|enfadado||A|emo|B1
+rusga|altercado||S|rel|B1
+romper o relacionamento|terminar la relación||L|rel|B1
+reconciliação|reconciliación||S|rel|B1
+reconciliar-se|reconciliarse||V|rel|B1
+pedir desculpa|pedir perdón||L|cmu|B1
+magoar|hacer daño||V|emo|B1
+magoado|dolido||A|emo|B1
+ressentimento|rencor||S|emo|B1
+ciúme|celos||S|emo|B1
+traição|traición||S|rel|B1
+trair|traicionar||V|rel|B1
+afastar-se|alejarse||V|rel|B1
+fazer as pazes|hacer las paces||L|rel|B1
+desavença|disputa||S|rel|B1
+relacionamento|relación (de pareja)||S|rel|B1
+desilusão|desilusión||S|emo|B1
+diversidade|diversidad||S|rel|B1
+inclusão|inclusión||S|ist|B1
+integração|integración||S|ist|B1
+deficiência|discapacidad||S|ist|B1
+acessibilidade|accesibilidad||S|cit|B1
+acessível|accesible||A|cit|B1
+discriminação|discriminación||S|ist|B1
+discriminar|discriminar||V|ist|B1
+preconceito|prejuicio||S|emo|B1
+estereótipo|estereotipo||S|ast|B1
+minoria|minoría||S|ist|B1
+voluntariado|voluntariado||S|ist|B1
+organização sem fins lucrativos|organización sin ánimo de lucro||L|ist|B1
+refugiado|refugiado||S|ist|B1
+imigrante|inmigrante||S|ist|B1
+acolhimento|acogida||S|rel|B1
+acolher|acoger||V|rel|B1
+solidário|solidario||A|emo|B1
+imposto|impuesto||S|fin|B1
+imposto sobre o rendimento|impuesto sobre la renta||L|fin|B1
+declaração de rendimentos|declaración de la renta||L|fin|B1
+contribuinte|contribuyente||S|fin|B1
+dedução|deducción||S|fin|B1
+deduzir|deducir||V|fin|B1
+evasão fiscal|evasión fiscal||L|fin|B1
+fraude fiscal|fraude fiscal||L|fin|B1
+taxa|tasa||S|fin|B1
+taxa de juro|tipo de interés||L|fin|B1
+juros|intereses||S|fin|B1
+preencher|rellenar||V|fin|B1
+prazo de entrega|plazo de entrega||L|fin|B1
+rendimento|renta (ingresos)||S|fin|B1
+conta bancária|cuenta bancária||L|fin|B1
+isento|exento||A|fin|B1
+arrecadação|recaudación||S|fin|B1
+retenção na fonte|retención en la fuente||L|fin|B1
+empréstimo|préstamo||S|fin|B1
+hipoteca|hipoteca||S|fin|B1
+hipotecar|hipotecar||V|fin|B1
+crédito à habitação|crédito hipotecario||L|fin|B1
+prestação mensal|cuota mensal||L|fin|B1
+aval|aval||S|fin|B1
+capital|capital||S|fin|B1
+dívida|deuda||S|fin|B1
+dívida pública|deuda pública||L|fin|B1
+endividamento|endeudamiento||S|fin|B1
+credor|acreedor||S|fin|B1
+devedor|deudor||S|fin|B1
+amortização|amortización||S|fin|B1
+garantia bancária|garantía bancaria||L|fin|B1
+beneficiário|beneficiario||S|fin|B1
+encargos|gastos||S|fin|B1
+financiar|financiar||V|fin|B1
+herança|herencia||S|fin|B1
+poupança|ahorro||S|fin|B1
+poupar|ahorrar||V|fin|B1
+depósito a prazo|depósito a plazo||L|fin|B1
+investimento|inversión||S|fin|B1
+investir|invertir||V|fin|B1
+bolsa de valores|bolsa de valores||L|fin|B1
+ações|acciones||S|fin|B1
+acionista|accionista||S|fin|B1
+obrigações|obligaciones (bonos)||S|fin|B1
+dividendo|dividendo||S|fin|B1
+capital de risco|capital riesgo||L|fin|B1
+corretor|corredor de bolsa||S|pro|B1
+desvalorização|devaluación||S|fin|B1
+valorização|revalorización||S|fin|B1
+perda|pérdida||S|fin|B1
+risco|riesgo||S|fin|B1
+lucrativo|lucrativo||A|fin|B1
+especulação imobiliária|especulación inmobiliaria||L|fin|B1
+reforma|pensión (de jubilación)||S|fin|B1
+idade da reforma|edad de jubilación||L|fin|B1
+aposentar-se|jubilarse||V|fin|B1
+aposentado|jubilado||S|fin|B1
+pensão complementar|pensión complementaria||L|fin|B1
+contribuição|cotización||S|fin|B1
+fundo de pensões|fondo de pensiones||L|fin|B1
+invalidez|invalidez||S|fin|B1
+viúvez|viudedad||S|fin|B1
+herdeiro|heredero||S|fin|B1
+testamento|testamento||S|fin|B1
+cônjuge|cónyuge||S|fam|B1
+idoso|mayor (persona mayor)||S|fam|B1
+lar de idosos|residencia de mayores||L|fam|B1
+abono de família|asignación familiar||L|fin|B1
+envelhecer|envejecer||V|fam|B1
+cuidador informal|cuidador informal||S|pro|B1
+medicação|medicación||S|sla|B1
+crítica gastronómica|crítica gastronómica||L|ris|B1
+gastrónomo|gastrónomo||S|pro|B1
+conta|cuenta (restaurante)||S|ris|B1
+gorjeta|propina (de restaurante)||S|ris|B1
+serviço incluído|servicio incluido||L|ris|B1
+prato do dia|plato del día||L|ris|B1
+especialidade da casa|especialidad de la casa||L|ris|B1
+cozinheiro|cocinero||S|pro|B1
+empregado de mesa|camarero||S|pro|B1
+degustação|degustación||S|ris|B1
+tasca|taverna||S|ris|B1
+mesa para dois|mesa para dos||L|ris|B1
+ementa|carta (de restaurante)||S|ris|B1
+entrada|entrante||S|ris|B1
+confeitaria|pastelería||S|ris|B1
+menu de degustação|menú degustación||L|ris|B1
+cozinha de autor|cocina de autor||L|ris|B1
+prato combinado|menú combinado||S|ris|B1
+advogado|abogado||S|pro|B1
+notário|notario||S|pro|B1
+juiz|juez||S|pro|B1
+julgamento|juicio||S|ist|B1
+julgar|juzgar||V|ast|B1
+testemunha|testigo||S|ist|B1
+tribunal|tribunal||S|ist|B1
+gestão|gestión||S|lav|B1
+gestor de projetos|gestor de proyectos||S|pro|B1
+administrador|administrador||S|pro|B1
+contabilista|contable||S|pro|B1
+contabilidade|contabilidad||S|pro|B1
+economista|economista||S|pro|B1
+consultor|consultor||S|pro|B1
+recursos humanos|recursos humanos||L|lav|B1
+funcionário público|funcionario público||L|ist|B1
+concurso público|oposición||L|ist|B1
+escritório de advogados|bufete de abogados||L|pro|B1
+engenheiro|ingeniero||S|pro|B1
+engenheiro civil|ingeniero civil||L|pro|B1
+arquiteto|arquitecto||S|pro|B1
+topógrafo|topógrafo||S|pro|B1
+técnico|técnico||S|pro|B1
+técnico de manutenção|técnico de mantenimiento||L|pro|B1
+serralheiro|cerrajero||S|pro|B1
+soldador|soldador||S|pro|B1
+alfaiate|sastre||S|pro|B1
+mecânico|mecánico||S|pro|B1
+encarregado|encargado||S|pro|B1
+aprendiz|aprendiz||S|pro|B1
+vidraceiro|vidriero||S|pro|B1
+conceber|concebir||V|pro|B1
+desenho técnico|dibujo técnico||L|pro|B1
+matéria-prima|materia prima||S|fin|B1
+mão de obra|mano de obra||L|lav|B1
+linha de montagem|línea de montaje||L|pro|B1
+enfermeiro|enfermero||S|pro|B1
+cirurgião|cirujano||S|pro|B1
+terapeuta|terapeuta||S|pro|B1
+parteira|matrona||S|pro|B1
+dentista|dentista||S|pro|B1
+docente|docente||S|pro|B1
+educador de infância|educador infantil||S|pro|B1
+diretor de turma|tutor de grupo||S|pro|B1
+diretor|director||S|pro|B1
+psiquiatra|psiquiatra||S|pro|B1
+pediatra|pediatra||S|pro|B1
+ginecologista|ginecólogo||S|pro|B1
+bibliotecário|bibliotecario||S|pro|B1
+obstetra|obstetra||S|pro|B1
+formador|formador||S|pro|B1
+parto|parto||S|sla|B1
+recém-nascido|recién nacido||S|fam|B1
+creche|guardería||S|fam|B1
+jornalista|periodista||S|pro|B1
+repórter|reportero||S|pro|B1
+reportagem|reportaje||S|att|B1
+editor|editor||S|pro|B1
+redator|redactor||S|pro|B1
+locutor|locutor||S|pro|B1
+fotógrafo|fotógrafo||S|pro|B1
+ilustrador|ilustrador||S|pro|B1
+estilista|estilista||S|pro|B1
+cineasta|cineasta||S|pro|B1
+produtor|productor||S|pro|B1
+escritor|escritor||S|pro|B1
+escultor|escultor||S|pro|B1
+coreógrafo|coreógrafo||S|pro|B1
+dançarino|bailarín||S|pro|B1
+dramaturgo|dramaturgo||S|pro|B1
+apresentador|presentador||S|pro|B1
+cronista|cronista||S|pro|B1
+deputado|diputado||S|ist|B1
+assembleia|asamblea||S|ist|B1
+primeiro-ministro|primer ministro||S|ist|B1
+ministro|ministro||S|ist|B1
+oposição|oposición||S|att|B1
+legislativas|elecciones legislativas||S|att|B1
+campanha eleitoral|campaña electoral||L|att|B1
+votar|votar||V|att|B1
+voto|voto||S|att|B1
+escrutínio|escrutinio||S|att|B1
+sondagem|encuesta||S|att|B1
+referendo|referéndum||S|att|B1
+parlamento|parlamento||S|ist|B1
+embaixador|embajador||S|ist|B1
+crise|crisis||S|att|B1
+escândalo|escándalo||S|att|B1
+polémica|polémica||S|att|B1
+lei|ley||S|ist|B1
+economia|economía||S|att|B1
+crescimento económico|crecimiento económico||L|att|B1
+recessão|recesión||S|att|B1
+inflação|inflación||S|att|B1
+câmbio|cambio (de divisas)||S|fin|B1
+moeda|moneda||S|fin|B1
+orçamento de Estado|presupuestos del Estado||L|fin|B1
+orçamento familiar|presupuesto familiar||L|fin|B1
+défice|déficit||S|fin|B1
+exportação|exportación||S|att|B1
+importação|importación||S|att|B1
+fusão de empresas|fusión de empresas||L|fin|B1
+conjuntura|coyuntura||S|att|B1
+faturação|cifra de negocios||S|fin|B1
+subida de preços|subida de precios||L|fin|B1
+poder de compra|poder adquisitivo||L|fin|B1
+mercado negro|mercado negro||L|fin|B1
+indústria|industria||S|fin|B1
+meio ambiente|medio ambiente||L|nat|B1
+resíduos|residuos||S|nat|B1
+aterro sanitário|vertedero||S|nat|B1
+biodiversidade|biodiversidad||S|nat|B1
+desflorestação|deforestación||S|nat|B1
+floresta|bosque||S|nat|B1
+parque natural|parque natural||L|nat|B1
+área protegida|área protegida||L|nat|B1
+espécie protegida|especie protegida||L|nat|B1
+pegada carbónica|huella de carbono||L|nat|B1
+emissões|emisiones||S|nat|B1
+energia renovável|energía renovable||L|nat|B1
+energia solar|energía solar||L|nat|B1
+sustentável|sostenible||A|nat|B1
+sustentabilidade|sostenibilidad||S|nat|B1
+petróleo|petróleo||S|nat|B1
+central nuclear|central nuclear||L|nat|B1
+extinção|extinción||S|nat|B1
+método científico|método científico||L|sci|B1
+hipótese|hipótesis||S|sci|B1
+teoria|teoría||S|sci|B1
+experimento|experimento||S|sci|B1
+laboratório|laboratorio||S|sci|B1
+proveta|probeta||S|sci|B1
+microscópio|microscopio||S|sci|B1
+amostra|muestra||S|sci|B1
+análise|análisis||S|sci|B1
+analisar|analizar||V|sci|B1
+evidência|evidencia||S|sci|B1
+observação|observación||S|sci|B1
+investigação|investigación||S|sci|B1
+investigador|investigador||S|pro|B1
+conclusão|conclusión||S|sci|B1
+questionário|cuestionario||S|sci|B1
+ensaio clínico|ensayo clínico||L|sla|B1
+variável|variable||S|sci|B1
+célula|célula||S|sci|B1
+gene|gen||S|sci|B1
+genética|genética||S|sci|B1
+evolução|evolución||S|sci|B1
+organismo|organismo||S|sci|B1
+bactéria|bacteria||S|sci|B1
+reação|reacción||S|sci|B1
+reagente|reactivo||S|sci|B1
+molécula|molécula||S|sci|B1
+elemento químico|elemento químico||L|sci|B1
+oxigénio|oxígeno||S|sci|B1
+hidrogénio|hidrógeno||S|sci|B1
+dióxido de carbono|dióxido de carbono||L|sci|B1
+ácido|ácido||S|sci|B1
+solução|disolución (química)||S|sci|B1
+fermentação|fermentación||S|sci|B1
+fotossíntese|fotosíntesis||S|sci|B1
+cromossoma|cromosoma||S|sci|B1
+gravidade|gravedad||S|sci|B1
+força da gravidade|fuerza de la gravedad||L|sci|B1
+universo|universo||S|sci|B1
+galáxia|galaxia||S|sci|B1
+telescópio|telescopio||S|sci|B1
+observatório|observatorio||S|sci|B1
+astronauta|astronauta||S|pro|B1
+exploração espacial|exploración espacial||L|sci|B1
+satélite|satélite||S|sci|B1
+órbita|órbita||S|sci|B1
+buraco negro|agujero negro||L|sci|B1
+eclipse|eclipse||S|sci|B1
+cometa|cometa||S|sci|B1
+constelação|constelación||S|sci|B1
+atmosfera|atmósfera||S|sci|B1
+corrente elétrica|corriente eléctrica||L|sci|B1
+física|física||S|sci|B1
+massa|masa||S|sci|B1
+velocidade da luz|velocidad de la luz||L|sci|B1

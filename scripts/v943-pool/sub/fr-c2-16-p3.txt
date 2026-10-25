@@ -1,0 +1,293 @@
+nanotechnologie|nanotecnología||S|sci|C2
+nanotube|nanotubo||S|sci|C2
+graphène|grafeno||S|sci|C2
+fullerène|fullereno||S|sci|C2
+quantique|cuántico||A|sci|C2
+capillarité|capilaridad||S|sci|C2
+surface spécifique|superficie específica||L|sci|C2
+catalyseur|catalizador||S|sci|C2
+catalyse|catálisis||S|sci|C2
+polymère|polímero||S|sci|C2
+polymérisation|polimerización||S|sci|C2
+monomère|monómero||S|sci|C2
+céramique|cerámica||S|sci|C2
+matériau composite|material compuesto||L|sci|C2
+revêtement|recubrimiento||S|sci|C2
+adhérence|adherencia||S|sci|C2
+frottement|fricción||S|sci|C2
+usure|desgaste||S|sci|C2
+corrosion|corrosión||S|sci|C2
+passivation|pasivación||S|sci|C2
+électrodéposition|electrodeposición||S|sci|C2
+aérogel|aerogel||S|sci|C2
+métamatériau|metamaterial||S|sci|C2
+granulométrie|granulometría||S|sci|C2
+porosité|porosidad||S|sci|C2
+essai de traction|ensayo de tracción||L|sci|C2
+dureté|dureza||S|sci|C2
+microscopie à effet tunnel|microscopía de efecto túnel||L|sci|C2
+diffraction|difracción||S|sci|C2
+diffusion des neutrons|dispersión de neutrones||L|sci|C2
+interface|interfaz||S|sci|C2
+adsorption|adsorción||S|sci|C2
+rupture|rotura||S|sci|C2
+photonique|fotónica||S|sci|C2
+photon|fotón||S|sci|C2
+optique|óptica||S|sci|C2
+longueur d'onde|longitud de onda||L|sci|C2
+spectre|espectro||S|sci|C2
+indice de réfraction|índice de refracción||L|sci|C2
+réfraction|refracción||S|sci|C2
+réflectance|reflectancia||S|sci|C2
+interférence|interferencia||S|sci|C2
+polarisation|polarización||S|sci|C2
+biréfringence|birrefringencia||S|sci|C2
+dispersion chromatique|dispersión cromática||L|sci|C2
+fibre optique|fibra óptica||L|sci|C2
+guide d'onde|guía de ondas||L|sci|C2
+soliton|solitón||S|sci|C2
+holographie|holografía||S|sci|C2
+hologramme|holograma||S|sci|C2
+acoustique|acústica||S|sci|C2
+réverbération|reverberación||S|sci|C2
+résonance|resonancia||S|sci|C2
+infrason|infrasonido||S|sci|C2
+ultrason|ultrasonido||S|sci|C2
+timbre|timbre (cualidad del sonido)||S|sci|C2
+intensité sonore|intensidad sonora||L|sci|C2
+transducteur|transductor||S|sci|C2
+piézoélectricité|piezoelectricidad||S|sci|C2
+luminescence|luminiscencia||S|sci|C2
+fluorescence|fluorescencia||S|sci|C2
+phosphorescence|fosforescencia||S|sci|C2
+faisceau laser|haz láser||L|sci|C2
+cohérence|coherencia (de una onda)||S|sci|C2
+aberration|aberración (óptica)||S|sci|C2
+optique non linéaire|óptica no lineal||L|sci|C2
+entropie|entropía||S|sci|C2
+enthalpie|entalpía||S|sci|C2
+adiabatique|adiabático||A|sci|C2
+réversible|reversible||A|sci|C2
+irréversibilité|irreversibilidad||S|sci|C2
+calorimétrie|calorimetría||S|sci|C2
+capacité thermique|capacidad térmica||L|sci|C2
+chaleur latente|calor latente||L|sci|C2
+équilibre thermodynamique|equilibrio termodinámico||L|sci|C2
+cycle thermodynamique|ciclo termodinámico||L|sci|C2
+écoulement|flujo||S|sci|C2
+écoulement laminaire|flujo laminar||L|sci|C2
+turbulence|turbulencia||S|sci|C2
+turbulent|turbulento||A|sci|C2
+viscosité|viscosidad||S|sci|C2
+fluide incompressible|fluido incompressible||L|sci|C2
+nombre sans dimension|número adimensional||L|sci|C2
+couche limite|capa límite||L|sci|C2
+débit|caudal||S|sci|C2
+perte de charge|pérdida de carga||L|sci|C2
+flottabilité|flotabilidad||S|sci|C2
+tension superficielle|tensión superficial||L|sci|C2
+convection|convección||S|sci|C2
+conduction|conducción||S|sci|C2
+convection forcée|convección forzada||L|sci|C2
+ébullition|ebullición||S|sci|C2
+condensation|condensación||S|sci|C2
+point triple|punto triple||L|sci|C2
+changement de phase|cambio de fase||L|sci|C2
+compressibilité|compresibilidad||S|sci|C2
+cavitation|cavitación||S|sci|C2
+portance|sustentación||S|sci|C2
+télédétection|teledetección||S|sci|C2
+cartographie|cartografía||S|sci|C2
+système d'information géographique|sistema de información geográfica||L|sci|C2
+géoréférencement|georreferenciación||S|sci|C2
+géodésie|geodesia||S|sci|C2
+orthophotographie|ortofotografía||S|sci|C2
+orthorectification|ortorrectificación||S|sci|C2
+stéréoscopie|estereoscopía||S|sci|C2
+photogrammétrie|fotogrametría||S|sci|C2
+image satellite|imagen satelital||L|sci|C2
+image infrarouge|imagen infrarroja||L|sci|C2
+résolution spatiale|resolución espacial||L|sci|C2
+bande spectrale|banda espectral||L|sci|C2
+fausses couleurs|falsos colores||L|sci|C2
+indice de végétation|índice de vegetación||L|sci|C2
+carte topographique|mapa topográfico||L|sci|C2
+altimétrie|altimetría||S|sci|C2
+projection cartographique|proyección cartográfica||L|sci|C2
+méridien|meridiano||S|sci|C2
+parallèle|paralelo||S|sci|C2
+coordonnées géographiques|coordenadas geográficas||L|sci|C2
+ellipsoïde|elipsoide||S|sci|C2
+toponymie|toponimia||S|sci|C2
+plan cadastral|plano catastral||L|sci|C2
+cadastre|catastro||S|sci|C2
+modèle numérique de terrain|modelo digital del terreno||L|sci|C2
+occupation du sol|uso del suelo||L|sci|C2
+fond de carte|mapa base||L|sci|C2
+relevé|levantamiento topográfico||S|sci|C2
+triangulation|triangulación||S|sci|C2
+azimut|acimut||S|sci|C2
+capteur|sensor||S|sci|C2
+métrique|métrica||S|let|C2
+prosodie|prosodia||S|let|C2
+versification|versificación||S|let|C2
+alexandrin|alejandrino||S|let|C2
+décasyllabe|decasílabo||S|let|C2
+octosyllabe|octosílabo||S|let|C2
+hémistiche|hemistiquio||S|let|C2
+césure|cesura||S|let|C2
+rime plate|rima pareada||L|let|C2
+rime intérieure|rima interior||L|let|C2
+vers libre|verso libre||L|let|C2
+refrain|estribillo||S|mus|C2
+strophe|estrofa||S|let|C2
+quatrain|cuarteto||S|let|C2
+tercet|terceto||S|let|C2
+sonnet|soneto||S|let|C2
+pantoum|pantum||S|let|C2
+villanelle|villanela||S|let|C2
+sestine|sestina||S|let|C2
+pied|pie métrico||S|let|C2
+dierèse|diéresis||S|let|C2
+synérèse|sinéresis||S|let|C2
+élision|elisión||S|let|C2
+hiatus|hiato||S|let|C2
+allitération|aliteración||S|let|C2
+assonance|asonancia||S|let|C2
+enjambement|encabalgamiento||S|let|C2
+syllabation|silabeo||S|let|C2
+accent tonique|acento tónico||L|let|C2
+scansion|escansión||S|let|C2
+cadence|cadencia||S|let|C2
+euphonie|eufonía||S|let|C2
+dissonance|disonancia||S|let|C2
+dramaturgie|dramaturgia||S|art|C2
+dramaturge|dramaturgo||S|pro|C2
+mise en scène|puesta en escena||L|cin|C2
+scénographie|escenografía||S|art|C2
+tragédie|tragedia||S|let|C2
+tragi-comédie|tragicomedia||S|let|C2
+vaudeville|vodevil||S|let|C2
+théâtre de l'absurde|teatro del absurdo||L|let|C2
+drame bourgeois|drama burgués||L|let|C2
+comédie-ballet|comedia ballet||S|let|C2
+monologue|monólogo||S|let|C2
+aparté|aparte||S|let|C2
+didascalie|acotación||S|let|C2
+tirade|tirada||S|let|C2
+réplique|réplica||S|let|C2
+quiproquo|equívoco cómico||S|let|C2
+coup de théâtre|golpe teatral||L|let|C2
+dénouement|desenlace||S|let|C2
+exposition|exposición (presentación de la trama)||S|let|C2
+intrigue|trama||S|let|C2
+antagoniste|antagonista||S|let|C2
+rôle-titre|papel principal||L|let|C2
+régisseur|regidor de escena||S|pro|C2
+figurant|comparsa||S|cin|C2
+souffleur|apuntador||S|pro|C2
+loge|camerino||S|cin|C2
+répétition générale|ensayo general||L|cin|C2
+entracte|entreacto||S|cin|C2
+tréteau|tablado||S|art|C2
+les trois coups|los tres golpes (inicio de la función)||L|art|C2
+cantatrice|cantante de ópera||S|mus|C2
+livret|libreto||S|mus|C2
+costumier|sastre de teatro||S|pro|C2
+poétique|poética||S|let|C2
+allégorie|alegoría||S|let|C2
+métaphore filée|metáfora sostenida||L|let|C2
+métonymie|metonimia||S|let|C2
+synecdoque|sinécdoque||S|let|C2
+hypallage|hipálage||S|let|C2
+anaphore|anáfora||S|let|C2
+épiphore|epífora||S|let|C2
+chiasme|quiasmo||S|let|C2
+oxymore|oxímoron||S|let|C2
+antithèse|antítesis||S|let|C2
+litote|lítote||S|let|C2
+euphémisme|eufemismo||S|let|C2
+hyperbole|hipérbole||S|let|C2
+gradation|gradación||S|let|C2
+ellipse|elipsis||S|let|C2
+zeugme|zeugma||S|let|C2
+asyndète|asíndeton||S|let|C2
+polysyndète|polisíndeton||S|let|C2
+prosopopée|prosopopeya||S|let|C2
+catachrèse|catácresis||S|let|C2
+périphrase|perífrasis||S|let|C2
+antonomase|antonomasia||S|let|C2
+analepse|analepsis||S|let|C2
+prolepse|prolepsis||S|let|C2
+focalisation|focalización||S|let|C2
+narratologie|narratología||S|let|C2
+diégèse|diegésis||S|let|C2
+isotopie|isotopía (coherencia temática)||S|let|C2
+intertextualité|intertextualidad||S|let|C2
+hypotexte|hipotexto||S|let|C2
+hypertexte|hipertexto||S|let|C2
+philologie|filología||S|stu|C2
+philologue|filólogo||S|pro|C2
+manuscrit|manuscrito||S|let|C2
+paléographie|paleografía||S|sci|C2
+codicologie|codicología||S|sci|C2
+papyrologie|papirología||S|sci|C2
+épigraphie|epigrafía||S|sci|C2
+codex|códice||S|let|C2
+incunable|incunable||S|let|C2
+palimpseste|palimpsesto||S|let|C2
+glose|glosa||S|let|C2
+scholie|escolio||S|let|C2
+collation|cotejo de manuscritos||S|let|C2
+leçon|lección (lectura de un texto antiguo)||S|let|C2
+variante|variante textual||S|let|C2
+stemma|stemma (árbol de manuscritos)||S|let|C2
+humanisme|humanismo||S|stu|C2
+humaniste|humanista||S|pro|C2
+renaissant|renacentista||A|art|C2
+littérature comparée|literatura comparada||L|let|C2
+exégèse|exégesis||S|let|C2
+herméneutique|hermenéutica||S|let|C2
+érudition|erudición||S|let|C2
+érudit|erudito||S|let|C2
+grec ancien|griego antiguo||L|stu|C2
+latin tardif|latín tardío||L|stu|C2
+édition critique|edición crítica||L|let|C2
+apparat critique|aparato crítico||L|let|C2
+copiste|copista||S|pro|C2
+ductus|ductus (trazo de la escritura)||S|let|C2
+onciale|uncial||S|let|C2
+minuscule caroline|minúscula carolingia||L|let|C2
+sigillographie|sigilografía||S|sci|C2
+traductologie|traductología||S|let|C2
+traductibilité|traducibilidad||S|let|C2
+littéralité|literalidad||S|let|C2
+littéralisme|literalismo||S|let|C2
+calque|calco||S|let|C2
+emprunt|préstamo lingüístico||S|let|C2
+équivalence|equivalencia||S|let|C2
+équivalent fonctionnel|equivalente funcional||L|let|C2
+idiomatique|idiomático||A|let|C2
+langue source|lengua de origen||L|let|C2
+langue cible|lengua meta||L|let|C2
+interprétation consécutive|interpretación consecutiva||L|let|C2
+déverbalisation|desverbalización||S|let|C2
+les belles infidèles|las bellezas infieles (traducciones libres)||L|let|C2
+domestication|domesticación (en traducción)||S|let|C2
+étrangisation|extranjerización||S|let|C2
+révision|revisión de una traducción||S|let|C2
+calembour|juego de palabras||S|let|C2
+contresens|contrasentido||S|let|C2
+faux ami|falso amigo||L|let|C2
+registre|registro (estilístico)||S|let|C2
+adaptation culturelle|adaptación cultural||L|let|C2
+intraduisible|intraducible||A|let|C2
+post-édition|postedición||S|let|C2
+réécriture|reescritura||S|let|C2
+transcréation|transcreación||S|let|C2
+doublage|doblaje||S|cin|C2
+sous-titrage|subtitulado||S|cin|C2
+interprète de conférence|intérprete de conferencias||L|pro|C2
+transposition|transposición (procedimiento de traducción)||S|let|C2
+modulation|modulación (procedimiento de traducción)||S|let|C2
+relecture|relectura (control de calidad)||S|let|C2
