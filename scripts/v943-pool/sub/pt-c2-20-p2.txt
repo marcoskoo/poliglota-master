@@ -1,0 +1,294 @@
+aperceção|apercepción||S|ast|C2
+epistemologia|epistemología||S|ast|C2
+empirismo|empirismo||S|ast|C2
+ceticismo|escepticismo||S|ast|C2
+monismo|monismo||S|ast|C2
+dualismo|dualismo||S|ast|C2
+utilitarismo|utilitarismo||S|ast|C2
+sofisma|sofisma||S|ast|C2
+aporia|aporía||S|ast|C2
+imperativo categórico|imperativo categórico||S|ast|C2
+a priori|a priori||A|ast|C2
+a posteriori|a posteriori||A|ast|C2
+racionalismo|racionalismo||S|ast|C2
+falibilismo|falibilismo||S|ast|C2
+imanência|inmanencia||S|ast|C2
+transcendência|trascendencia||S|ast|C2
+alteridade|alteridad||S|ast|C2
+sublime|sublime (categoría estética)||A|art|C2
+juízo de gosto|juicio de gusto||S|art|C2
+mímese|mímesis||S|art|C2
+cânone|canon||S|art|C2
+ontologia|ontología||S|ast|C2
+axiológico|axiológico||A|ast|C2
+fenomenologia|fenomenología||S|ast|C2
+hermenêutica|hermenéutica||S|ast|C2
+dialética|dialéctica||S|ast|C2
+teleologia|teleología||S|ast|C2
+determinismo|determinismo||S|ast|C2
+historiografia|historiografía||S|ast|C2
+fonte primária|fuente primaria||S|stu|C2
+epigrafia|epigrafía||S|sci|C2
+numismática|numismática||S|sci|C2
+paleografia|paleografía||S|sci|C2
+heráldica|heráldica||S|art|C2
+de longa duração|de larga duración||L|tmp|C2
+revisionismo|revisionismo||S|ast|C2
+diacronia|diacronía||S|let|C2
+prosopografia|prosopografía||S|sci|C2
+quatrocentista|cuatrocentista (del siglo XV)||A|art|C2
+quinhentista|quinientista (del siglo XVI)||A|art|C2
+nomotético|nomotético (leyes generales)||A|sci|C2
+idiográfico|idiográfico (caso singular)||A|sci|C2
+alofone|alófono||S|stu|C2
+morfema|morfema||S|stu|C2
+sintagma|sintagma||S|stu|C2
+homografia|homografía||S|stu|C2
+polissemia|polisemia||S|stu|C2
+hiponímia|hiponimia||S|stu|C2
+hiperonímia|hiperonimia||S|stu|C2
+deíxe|deíxis||S|stu|C2
+prosódia|prosodia||S|stu|C2
+valência|valencia (gramática)||S|stu|C2
+calco|calco (préstamo lingüístico)||S|stu|C2
+filologia|filología||S|stu|C2
+sociolinguística|sociolingüística||S|stu|C2
+diglossia|diglosia||S|stu|C2
+pulsão|pulsión||S|ast|C2
+transferência|transferencia (psicoanálisis)||S|ast|C2
+lapso|lapsus (acto fallido)||S|cmu|C2
+sublimação|sublimación||S|ast|C2
+introjeção|introyección||S|ast|C2
+denegação|denegación (psicoanálisis)||S|ast|C2
+indústria cultural|industria cultural||S|ast|C2
+racionalidade instrumental|racionalidad instrumental||S|ast|C2
+fetichização|fetichización||S|ast|C2
+reificação|cosificación (marxismo)||S|ast|C2
+mais-valia|plusvalía (marxismo)||S|fin|C2
+ambivalência|ambivalencia||S|emo|C2
+regressão|regresión (psicoanálisis)||S|ast|C2
+onirismo|onirismo||S|ast|C2
+intertextualidade|intertextualidad||S|let|C2
+metaficção|metaficción||S|let|C2
+diegese|diegesis||S|let|C2
+focalização|focalización||S|let|C2
+égloga|égloga||S|let|C2
+epopeia|epopeya||S|let|C2
+epígrafe|epígrafe||S|let|C2
+escólio|escolio (comentario erudito)||S|let|C2
+saudosismo|saudosismo (estética de la saudade)||S|art|C2
+verso branco|verso blanco||S|let|C2
+redondilha|redondilla||S|let|C2
+sextina|sextina (poema)||S|let|C2
+parnasianismo|parnasianismo||S|let|C2
+verossímil|verosímil||A|let|C2
+anáfora|anáfora||S|let|C2
+polissíndeto|polisíndeton||S|let|C2
+catacrese|catacresis||S|let|C2
+silepse|sílepsis||S|let|C2
+hipérbato|hipérbaton||S|let|C2
+quiasmo|quiasmo||S|let|C2
+zeugma|zeugma||S|let|C2
+metonímia|metonimia||S|let|C2
+litote|lítote||S|let|C2
+antífrase|antífrasis||S|let|C2
+preterição|preterición||S|let|C2
+quiproquó|quid pro quo (malentendido)||S|let|C2
+apóstrofe|apóstrofe (figura retórica)||S|let|C2
+eufemismo|eufemismo||S|cmu|C2
+fabulação|fabulación||S|let|C2
+analepse|analepsis||S|let|C2
+prolepse|prolepsis||S|let|C2
+elipse|elipsis (narrativa)||S|let|C2
+acto de fala|acto de habla||S|cmu|C2
+pressuposição|presuposición||S|cmu|C2
+performativo|performativo||A|cmu|C2
+omnisciência|omnisciencia (narrador)||S|let|C2
+monólogo interior|monólogo interior||S|let|C2
+fluxo de consciência|flujo de conciencia||S|let|C2
+narrativa epistolar|novela epistolar||S|let|C2
+verossimilhança|verosimilitud||S|let|C2
+in medias res|in medias res||L|let|C2
+coda|coda||S|mus|C2
+vetusto|vetusto (muy viejo)||A|let|C2
+estia|estío (pleno verano)||S|tmp|C2
+pesar|pesar (pena, sentimiento)||S|emo|C2
+pejo|vergüenza (rubor)||S|emo|C2
+enleio|embrollo (atolladero)||S|ast|C2
+desassossego|desasosiego||S|emo|C2
+acanhamento|apocamiento (timidez)||S|emo|C2
+despeito|despecho||S|emo|C2
+lusco-fusco|entre dos luces (anochecer)||L|tmp|C2
+plangente|plañidero||A|let|C2
+cismar|rumiar (dar vueltas en la cabeza)||V|emo|C2
+cisma|cisma (discordia)||S|cmu|C2
+desdita|desdicha||S|let|C2
+alvor|albor (amanecer)||S|tmp|C2
+dissuasão|disuasión||S|ist|C2
+anexação|anexión||S|ist|C2
+vassalagem|vasallaje||S|ist|C2
+esfera de influência|esfera de influencia||S|ist|C2
+Estado-tampão|Estado tapón||S|ist|C2
+jurisdição universal|jurisdicción universal||S|ist|C2
+extradição|extradición||S|ist|C2
+imunidade diplomática|inmunidad diplomática||S|ist|C2
+pacta sunt servanda|pacta sunt servanda||L|ist|C2
+jus cogens|ius cogens (norma imperativa)||L|ist|C2
+multilateralismo|multilateralismo||S|ist|C2
+contenção|contención (disuasión)||S|ist|C2
+cordão sanitário|cordón sanitario||S|ist|C2
+apaziguamento|apaciguamiento||S|ist|C2
+totalitarismo|totalitarismo||S|ist|C2
+clientelismo|clientelismo||S|ist|C2
+corporativismo|corporativismo||S|ist|C2
+dirigismo|dirigismo||S|fin|C2
+patrimonialismo|patrimonialismo||S|ist|C2
+contractualismo|contractualismo||S|ast|C2
+separação de poderes|separación de poderes||S|ist|C2
+governança|gobernanza||S|ist|C2
+prestação de contas|rendición de cuentas||S|ist|C2
+demagogia|demagogia||S|ist|C2
+caciquismo|caciquismo||S|ist|C2
+estado-providência|Estado de bienestar||S|ist|C2
+cooptação|cooptación||S|ist|C2
+legitimação|legitimación||S|ist|C2
+aculturação|aculturación||S|ast|C2
+marginalidade|marginalidad||S|ast|C2
+desenraizamento|desarraigo||S|ast|C2
+anomia|anomia||S|ast|C2
+estratificação social|estratificación social||S|ast|C2
+endogamia|endogamia||S|ast|C2
+exogamia|exogamia||S|ast|C2
+gentrificação|gentrificación||S|cit|C2
+conurbação|conurbación||S|cit|C2
+etnografia|etnografía||S|sci|C2
+secularização|secularización||S|ast|C2
+mobilidade social|movilidad social||S|ast|C2
+desindustrialização|desindustrialización||S|ast|C2
+precarização|precarización||S|ast|C2
+totemismo|totemismo||S|sci|C2
+xamanismo|chamanismo||S|sci|C2
+ritos de passagem|ritos de paso||S|sci|C2
+consanguinidade|consanguinidad||S|sci|C2
+sincretismo|sincretismo||S|ast|C2
+etnocentrismo|etnocentrismo||S|ast|C2
+oralidade|oralidad||S|let|C2
+hibridismo|hibridismo (cultural)||S|ast|C2
+transculturação|transculturación||S|ast|C2
+etnocídio|etnocidio||S|ast|C2
+parentela|parentela||S|fam|C2
+cosmovisão|cosmovisión||S|ast|C2
+usos e costumes|usos y costumbres||L|ast|C2
+etnometodologia|etnometodología||S|sci|C2
+furo|exclusiva (periodismo)||S|cmu|C2
+manchete|titular de portada||S|cmu|C2
+linha editorial|línea editorial||S|cmu|C2
+chumbar|suspender (reprobar)||V|cmu|C2
+verificação de factos|verificación de datos||S|cmu|C2
+dossiê|dosier||S|cmu|C2
+embargo jornalístico|embargo de publicación||S|cmu|C2
+desinformação|desinformación||S|cmu|C2
+provedor|defensor del pueblo (en Portugal)||S|ist|C2
+articulista|articulista||S|pro|C2
+assunto de capa|tema de portada||S|cmu|C2
+rodapé|pie de página||S|cmu|C2
+legendagem|subtitulado||S|cin|C2
+ensaísta|ensayista||S|pro|C2
+contraponto|contrapunto||S|mus|C2
+baixo contínuo|bajo continuo||S|mus|C2
+solfejo|solfeo||S|mus|C2
+afinação|afinación||S|mus|C2
+escala cromática|escala cromática||S|mus|C2
+arpejo|arpegio||S|mus|C2
+pauta|pentagrama||S|mus|C2
+modulação|modulación||S|mus|C2
+atonalidade|atonalidad||S|mus|C2
+dodecafonismo|dodecafonismo||S|mus|C2
+madrigal|madrigal||S|mus|C2
+motete|motete||S|mus|C2
+contralto|contralto||S|mus|C2
+etnomusicologia|etnomusicología||S|mus|C2
+códice|códice||S|art|C2
+incunábulo|incunable||S|art|C2
+retábulo|retablo||S|art|C2
+afresco|fresco (pintura al fresco)||S|art|C2
+fac-símile|facsímil||S|art|C2
+encadernação|encuadernación||S|art|C2
+restauro|restauración (de obras)||S|art|C2
+lacuna|laguna (en un texto)||S|let|C2
+colofão|colofón||S|let|C2
+gravura|grabado||S|art|C2
+aguatinta|aguatinta||S|art|C2
+buril|buril||S|art|C2
+ourivesaria|orfebrería||S|art|C2
+douração|dorado (a la hoja)||S|art|C2
+maneirismo|manierismo||S|art|C2
+gárgula|gárgola||S|cit|C2
+aduela|dovela||S|art|C2
+frontão|frontón||S|art|C2
+alcáçova|alcázaba (recinto fortificado)||S|cit|C2
+iconografia|iconografía||S|art|C2
+iconologia|iconología||S|art|C2
+escorço|escorzo||S|art|C2
+claro-escuro|claroscuro||S|art|C2
+sinopia|sinopia (dibujo preparatorio)||S|art|C2
+arquivolta|arquivolta||S|art|C2
+estatuária|estatuaria||S|art|C2
+policromia|policromía||S|art|C2
+têmpera|temple (técnica pictórica)||S|art|C2
+reminiscência|reminiscencia||S|ast|C2
+memória coletiva|memoria colectiva||S|ast|C2
+transitoriedade|transitoriedad||S|tmp|C2
+perenidade|perennidad||S|ast|C2
+efemeridade|efimeridad||S|tmp|C2
+sincronia|sincronía||S|tmp|C2
+instantaneidade|instantaneidad||S|tmp|C2
+imemorial|inmemorial||A|tmp|C2
+fugacidade|fugacidad||S|tmp|C2
+senescência|senescencia (celular)||S|sci|C2
+anacronismo|anacronismo||S|tmp|C2
+efeméride|efeméride (aniversario)||S|tmp|C2
+posteridade|posteridad||S|ast|C2
+antiguidade|antigüedad||S|tmp|C2
+antinomia|antinomia||S|ast|C2
+virtuosismo|virtuosismo||S|art|C2
+arquétipo|arquetipo||S|ast|C2
+dicotomia|dicotomía||S|ast|C2
+contingência|contingencia||S|ast|C2
+essencialismo|esencialismo||S|ast|C2
+reducionismo|reducionismo||S|ast|C2
+holístico|holístico||A|ast|C2
+infinitude|infinitud||S|ast|C2
+imutável|inmutable||A|ast|C2
+etéreo|etéreo||A|ast|C2
+quimérico|quimérico||A|ast|C2
+nihilismo|nihilismo||S|ast|C2
+finalismo|finalismo (explicación por fines)||S|ast|C2
+in extremis|in extremis||L|ast|C2
+conditio sine qua non|conditio sine qua non (condición indispensable)||L|ast|C2
+ad hominem|ad hominem (ataque a la persona)||A|ast|C2
+ex libris|ex libris (etiqueta de posesión)||L|let|C2
+in itinere|in itinere (accidente de trabajo)||L|lav|C2
+stricto sensu|stricto sensu (en sentido estricto)||L|sci|C2
+lato sensu|lato sensu (en sentido amplio)||L|sci|C2
+mutatis mutandis|mutatis mutandis (con las debidas alteraciones)||L|ist|C2
+casus belli|casus belli||S|ist|C2
+modus vivendi|modus vivendi||S|ist|C2
+persona non grata|persona non grata||L|ist|C2
+ethos|ethos (carácter, hábito)||S|ast|C2
+logos|logos (razón, discurso)||S|ast|C2
+hybris|hybris (desmesura)||S|ast|C2
+verba volant|verba volant (las palabras vuelan, lo escrito queda)||L|let|C2
+de grão em grão|poco a poco (de grano en grano)||L|ast|C2
+por bem ou por mal|por las buenas o por las malas||L|cmu|C2
+aos trancos e barrancos|a trompicones||L|cmu|C2
+à socapa|a escondidas||L|cmu|C2
+de borla|gratis (sin pagar)||L|cmu|C2
+de viva voz|de viva voz||L|cmu|C2
+de cor e salteado|de memoria (con todos los pormenores)||L|cmu|C2
+ao Deus dará|al buen tuntún||L|cmu|C2
+por miúdo|en detalle (pormenorizadamente)||L|cmu|C2
+de rompante|de repente (impetuosamente)||L|cmu|C2
+de rastos|a rastras||L|cmu|C2
+às cegas|a ciegas||L|cmu|C2
+de par com|a la par (junto con)||L|cmu|C2

@@ -1,0 +1,259 @@
+anxiolytique|ansiolítico||A|sla|C1
+neuroleptique|neuroléptico||S|sla|C1
+sevrage|retirada progresiva||S|sla|C1
+désintoxication|desintoxicación||S|sla|C1
+bilan psychologique|evaluación psicológica||E|sla|C1
+test projectif|test proyectivo||S|sla|C1
+psychopathologie|psicopatología||S|sla|C1
+comorbidité|comorbilidad||S|sla|C1
+étiologie|etiología||S|sla|C1
+séquelle|secuela||S|sla|C1
+automutilation|autolesión||S|sla|C1
+mal-être|desasosiego||S|emo|C1
+acédie|acedía||S|let|C1
+gloutonnerie|gula||S|ali|C1
+ivrognerie|borrachera habitual||S|ali|C1
+luxure|lujuria||S|ast|C1
+concupiscence|concupiscencia||S|ast|C1
+cupidité|codicia||S|ast|C1
+vénalité|venalidad||S|ast|C1
+corruptibilité|corruptibilidad||S|ast|C1
+forfanterie|fanfarronería||S|ast|C1
+rodomontade|rodomontada||S|ast|C1
+jactance|jactancia||S|ast|C1
+médisance|murmuración||S|cmu|C1
+balourdise|tosudez||S|ast|C1
+malveillance|malquerencia||S|ast|C1
+rapacité|rapacidad||S|ast|C1
+bienfaisance|beneficencia||S|ast|C1
+clémence|clemencia||S|ast|C1
+miséricorde|misericordia||S|rel|C1
+sollicitude|solicitud||S|ast|C1
+commisération|commiseración||S|ast|C1
+abnégation|abnegación||S|ast|C1
+dévouement|entrega||S|ast|C1
+stoïcisme|estoicismo||S|ast|C1
+tempérance|templanza||S|ast|C1
+équité|equidad||S|ast|C1
+impartialité|imparcialidad||S|ast|C1
+désintéressement|desinterés||S|ast|C1
+lucre|lucro||S|fin|C1
+dépravation|depravación||S|ast|C1
+dévergondage|disolución||S|ast|C1
+libertinage|libertinaje||S|ast|C1
+amorçage|financiación semilla||S|fin|C1
+levée de fonds|ronda de financiación||E|fin|C1
+pacte d'associés|pacto de socios||E|fin|C1
+capital-risque|capital riesgo||S|fin|C1
+capital-développement|capital de expansión||S|fin|C1
+actionnariat salarié|accionariado asalariado||E|fin|C1
+audit d'acquisition|auditoría de adquisición||E|fin|C1
+rachat hostil|opa hostil||E|fin|C1
+essaimage|creación de empresas derivadas||S|fin|C1
+incubateur|incubadora||S|fin|C1
+accélérateur|aceleradora||S|fin|C1
+passage à l'échelle|escalado||E|fin|C1
+hypercroissance|hipercrecimiento||S|fin|C1
+fonds de roulement|fondo de maniobra||E|fin|C1
+rupture de trésorerie|quiebra de tesorería||E|fin|C1
+pivoter|pivotar||V|fin|C1
+itérer|iterar||V|tec|C1
+démonstrateur|demonstrador||S|tec|C1
+cession|cesión de la empresa||S|fin|C1
+dilution|dilución||S|fin|C1
+dépôt de bilan|presentación de quiebra||E|fin|C1
+redressement judiciaire|concurso de acreedores||E|fin|C1
+cessation de paiements|suspensión de pagos||E|fin|C1
+prise de participation|toma de participación||E|fin|C1
+tour de table|ronda de inversores||E|fin|C1
+rampe de lancement|rampa de lanzamiento||E|fin|C1
+croissance organique|crecimiento orgánico||E|fin|C1
+externalisation|externalización||S|fin|C1
+mentorat|mentoría||S|lav|C1
+jeune pousse|empresa emergente||E|fin|C1
+capitalisation boursière|capitalización bursátil||E|fin|C1
+chaîne d'approvisionnement|cadena de suministro||E|tra|C1
+flux tendu|flujo tenso||E|tra|C1
+juste-à-temps|justo a tiempo||E|tra|C1
+réapprovisionnement|reabastecimiento||S|tra|C1
+rupture de stock|rotura de stock||E|tra|C1
+réassort|reposición||S|tra|C1
+palette|palé||S|tra|C1
+gerbage|apilado de palés||S|tra|C1
+cariste|operario de carretilla||S|pro|C1
+transpalette|transpalé||S|tra|C1
+plateforme logistique|plataforma logística||E|tra|C1
+fret|flete||S|tra|C1
+affrètement|fletamento||S|tra|C1
+transbordement|transbordo||S|tra|C1
+groupage|agrupación de cargas||S|tra|C1
+enlèvement|retirada de mercancías||S|tra|C1
+traçabilité|trazabilidad||S|tra|C1
+rappel de produit|retirada de producto||E|tra|C1
+arrimage|trincaje||S|tra|C1
+vrac|granel||S|tra|C1
+acheminement|expedición||S|tra|C1
+transitaire|agente de aduanas||S|pro|C1
+dédouanement|despacho de aduanas||S|tra|C1
+franco de port|portes pagados||E|fin|C1
+port dû|portes debidos||E|fin|C1
+goulot d'étranglement|cuello de botella||E|lav|C1
+optimisation des flux|optimización de flujos||E|tra|C1
+préparation de commandes|preparación de pedidos||E|lav|C1
+carnet de commandes|cartera de pedidos||E|lav|C1
+stock dormant|stock muerto||E|tra|C1
+sous-traitance|subcontratación||S|lav|C1
+segmentation de marché|segmentación de mercado||E|cmp|C1
+ciblage|definición del público objetivo||S|cmp|C1
+panier moyen|ticket medio||E|cmp|C1
+taux d'attrition|tasa de abandono||E|cmp|C1
+taux de pénétration|tasa de penetración||E|cmp|C1
+valeur vie client|valor de vida del cliente||E|cmp|C1
+parcours client|recorrido del cliente||E|cmp|C1
+linéaire|lineal de venta||S|cmp|C1
+tête de gondole|cabecera de góndola||E|cmp|C1
+mise en avant|promoción destacada||E|cmp|C1
+mise en rayon|reposición en lineal||E|cmp|C1
+démarque inconnue|merma por robo||E|cmp|C1
+fidélisation|fidelización||S|cmp|C1
+prescripteur|prescriptor||S|cmp|C1
+ambassadeur de marque|embajador de marca||E|cmp|C1
+extension de marque|extensión de marca||E|cmp|C1
+notoriété de marque|notoriedad de marca||E|cmp|C1
+positionnement|posicionamiento||S|cmp|C1
+avantage concurrentiel|ventaja competitiva||E|cmp|C1
+achat d'impulsion|compra por impulso||E|cmp|C1
+zone de chalandise|zona comercial||E|cmp|C1
+prospection commerciale|prospección comercial||E|cmp|C1
+démarchage|venta puerta a puerta||S|cmp|C1
+avoir|nota de abono||S|fin|C1
+retour sur investissement|retorno de la inversión||E|fin|C1
+seuil de rentabilité|umbral de rentabilidad||E|fin|C1
+prix psychologique|precio psicológico||E|cmp|C1
+prix d'appel|precio gancho||E|cmp|C1
+marge arrière|margen trasero||E|cmp|C1
+coût de revient|coste total||E|fin|C1
+placement de produit|emplazamiento de producto||E|cin|C1
+référentiel|marco de normas||S|sci|C1
+cahier des charges|pliego de condiciones||E|lav|C1
+spécification technique|especificación técnica||E|tec|C1
+rapport de contrôle|informe de control||E|lav|C1
+mise en conformité|adaptación a la norma||E|lav|C1
+homologation|homologación||S|lav|C1
+agrément|habilitación||S|ist|C1
+accréditation|acreditación||S|lav|C1
+audit de qualité|auditoría de calidad||E|lav|C1
+démarche qualité|proceso de calidad||E|lav|C1
+amélioration continue|mejora continua||E|lav|C1
+non-conformité|no conformidad||S|lav|C1
+dysfonctionnement|disfunción||S|lav|C1
+défaillance|fallo||S|tec|C1
+avarie|avaría||S|tra|C1
+vices cachés|vicios ocultos||E|ist|C1
+vice de fabrication|defecto de fabricación||E|tec|C1
+garantie légale|garantía legal||E|ist|C1
+échantillon témoin|muestra testigo||E|sci|C1
+maintenance préventive|mantenimiento preventivo||E|tec|C1
+maintenance curative|mantenimiento correctivo||E|tec|C1
+rebut|pieza defectuosa||S|lav|C1
+retouche|retoque||S|lav|C1
+protocole d'essai|protocolo de ensayo||E|sci|C1
+mise en service|puesta en servicio||E|tec|C1
+réception de l'ouvrage|recepción de la obra||E|tec|C1
+indicateur de performance|indicador de rendimiento||E|lav|C1
+déontologie|deontología||S|ist|C1
+procès-verbal de réception|acta de recepción||E|ist|C1
+essai de vieillissement|prueba de envejecimiento||E|sci|C1
+gouvernance|gobernanza||S|ist|C1
+attendu|considerando||S|ist|C1
+dispositif|parte dispositiva||S|ist|C1
+motivation|fundamentación de la sentencia||S|ist|C1
+pourvoi en cassation|recurso de casación||E|ist|C1
+détention provisoire|prisión preventiva||E|ist|C1
+mise en examen|imputación||E|ist|C1
+poursuites pénales|acciones penales||E|ist|C1
+classement sans suite|archivo de las actuaciones||E|ist|C1
+non-lieu|sobreseimiento||S|ist|C1
+récidive|reincidencia||S|ist|C1
+libération conditionnelle|libertad condicional||E|ist|C1
+circonstances atténuantes|circunstancias atenuantes||E|ist|C1
+délit d'initié|abuso de información privilegiada||E|ist|C1
+détournement de fonds|malversación de fondos||E|ist|C1
+abus de biens sociaux|apropiación indebida de bienes sociales||E|ist|C1
+abus de confiance|abuso de confianza||E|ist|C1
+prévarication|prevaricación||S|ist|C1
+forfaiture|infidelidad al deber||S|ist|C1
+pot-de-vin|mordida||S|ist|C1
+subornation|cohecho||S|ist|C1
+faux en écriture|falsificación de documento||E|ist|C1
+usurpation d'identité|suplantación de identidad||E|ist|C1
+outrage à magistrat|desacato a la autoridad||E|ist|C1
+partie civile|acusación particular||E|ist|C1
+commis d'office|de oficio||E|ist|C1
+cour d'assises|tribunal del jurado||E|ist|C1
+conseil de prud'hommes|tribunal de lo social||E|ist|C1
+mandataire judiciaire|síndico concursal||S|pro|C1
+usufruit|usufructo||S|ist|C1
+nu-propriété|nuda propiedad||S|ist|C1
+astreinte|multa coercitiva||S|ist|C1
+exécution forcée|ejecución forzosa||E|ist|C1
+mise en demeure|requerimiento fehaciente||E|ist|C1
+dommages et intérêts|daños y perjuicios||E|ist|C1
+pathogénie|patogenia||S|sla|C1
+physiopathologie|fisiopatología||S|sla|C1
+anatomopathologie|anatomopatología||S|sla|C1
+diagnostic différentiel|diagnóstico diferencial||E|sla|C1
+pronostic vital engagé|riesgo vital||E|sla|C1
+symptomatologie|sintomatología||S|sla|C1
+bilan biologique|análisis de laboratorio||E|sla|C1
+numération|recuento sanguíneo||S|sla|C1
+endoscopie|endoscopia||S|sla|C1
+imagerie médicale|diagnóstico por imagen||E|sla|C1
+contre-indication|contraindicación||S|sla|C1
+effet indésirable|efecto adverso||E|sla|C1
+iatrogène|iatrogénico||A|sla|C1
+nosocomial|nosocomial||A|sla|C1
+soins palliatifs|cuidados paliativos||E|sla|C1
+sédation profonde|sedación profunda||E|sla|C1
+unité de soins intensifs|unidad de cuidados intensivos||E|sla|C1
+monitorage|monitorización||S|sla|C1
+protocole opératoire|protocolo quirúrgico||E|sla|C1
+bloc opératoire|quirófano||E|sla|C1
+intubation|intubación||S|sla|C1
+affection de longue durée|enfermedad de larga duración||E|sla|C1
+être de garde|estar de guardia||E|lav|C1
+générique|genérico||S|sla|C1
+médicament princeps|medicamento original||E|sla|C1
+biodisponibilité|biodisponibilidad||S|sci|C1
+forme galénique|forma farmacéutica||E|sla|C1
+excipient|excipiente||S|sla|C1
+principe actif|principio activo||E|sla|C1
+escarre|úlcera por presión||S|cor|C1
+greffon|injerto||S|cor|C1
+hernie discale|hernia discal||E|sla|C1
+résection|resección||S|sla|C1
+exérèse|exéresis||S|sla|C1
+plan de masse|plano de situación||E|tec|C1
+notice de montage|instrucciones de montaje||E|tec|C1
+vérin|cilindro hidráulico||S|tec|C1
+actionneur|actuador||S|tec|C1
+asservissement|control en lazo cerrado||S|tec|C1
+boucle fermée|lazo cerrado||E|tec|C1
+pignon|piñón||S|tec|C1
+roulement à billes|rodamiento de bolas||E|tec|C1
+palier|soporte de eje||S|tec|C1
+jeu|holgura mecánica||S|tec|C1
+cote|cota||S|tec|C1
+usinage|mecanizado||S|tec|C1
+usiner|mecanizar||V|tec|C1
+fraisage|fresado||S|tec|C1
+rectification|rectificado||S|tec|C1
+traitement thermique|tratamiento térmico||E|tec|C1
+trempe|templado del acero||S|tec|C1
+recuit|recocido||S|tec|C1
+grippage|agarrotamiento||S|tec|C1
+fatigue du métal|fatiga del metal||E|tec|C1
+défaut de conception|defecto de diseño||E|tec|C1
+génie civil|ingeniería civil||E|tec|C1
+charpente|estructura portante||S|tec|C1
+coffrage|encofrado||S|tec|C1

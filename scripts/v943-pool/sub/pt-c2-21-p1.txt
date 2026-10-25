@@ -1,0 +1,294 @@
+parto prematuro|parto prematuro||S|sla|C2
+eclampsia|eclampsia||S|sla|C2
+gestante|gestante||S|sla|C2
+amniocentese|amniocentesis||S|sla|C2
+tocologia|tocología||S|sla|C2
+icterícia neonatal|ictericia neonatal||S|sla|C2
+lactente|lactante||S|sla|C2
+desmame|destete||S|sla|C2
+períneo|periné||S|cor|C2
+placenta prévia|placenta previa||S|sla|C2
+episiotomia|episiotomía||S|sla|C2
+aleitamento|lactancia (materna)||S|sla|C2
+mortalidade perinatal|mortalidad perinatal||S|sla|C2
+neonatologista|neonatólogo||S|pro|C2
+entorse|esguince||S|sla|C2
+luxação|luxación (dislocación)||S|sla|C2
+fisiatra|médico rehabilitador||S|pro|C2
+imobilização gessada|inmovilización con yeso||S|sla|C2
+osteossíntese|osteosíntesis||S|sla|C2
+tendinite|tendinitis||S|sla|C2
+cifose|cifosis||S|sla|C2
+lordose|lordosis||S|sla|C2
+canadianas|muletas inglesas||S|sla|C2
+fisioterapeuta|fisioterapeuta||S|pro|C2
+reabilitação funcional|rehabilitación funcional||S|sla|C2
+fratura exposta|fractura abierta||S|sla|C2
+osteoporose|osteoporosis||S|sla|C2
+artroscopia|artroscopia||S|sla|C2
+soroepidemiologia|seroepidemiología||S|sci|C2
+letalidade|letalidad||S|sla|C2
+surto epidémico|brote epidémico||S|sla|C2
+imunidade de grupo|inmunidad de grupo||S|sla|C2
+esquema de vacinação|calendario de vacunación||S|sla|C2
+notificação obrigatória|declaración obligatoria||S|sla|C2
+portador assintomático|portador asintomático||S|sla|C2
+vigilância epidemiológica|vigilancia epidemiológica||S|sla|C2
+endemia|endemia||S|sla|C2
+diagnóstico precoce|diagnóstico precoz||S|sla|C2
+saúde comunitária|salud comunitaria||S|sla|C2
+efeito adverso|efecto adverso||S|sla|C2
+morbimortalidade|morbimortalidad||S|sla|C2
+soroconversão|seroconversión||S|sla|C2
+evasão fiscal|evasión fiscal||S|fin|C2
+elisão fiscal|elusión fiscal||S|fin|C2
+declaração de rendimentos|declaración de la renta||S|fin|C2
+inspeção tributária|inspección tributaria||S|fin|C2
+ocultação de rendimentos|ocultación de ingresos||S|fin|C2
+mais-valia|plusvalía||S|fin|C2
+retenção na fonte|retención en la fuente||S|fin|C2
+coima|multa (administrativa)||S|fin|C2
+contabilista|contable||S|pro|C2
+planeamento sucessório|planificación sucesoria||S|fin|C2
+dívida tributária|deuda tributaria||S|fin|C2
+dedução à coleta|deducción en la cuota||S|fin|C2
+sujeito passivo|sujeto pasivo||S|fin|C2
+liquidação de imposto|liquidación de impuestos||S|fin|C2
+taxa de esforço|tasa de esfuerzo||S|fin|C2
+crédito à habitação|préstamo hipotecario||S|fin|C2
+morosidade|morosidad||S|fin|C2
+taxa de juro|tipo de interés||S|fin|C2
+crédito malparado|crédito dudoso||S|fin|C2
+colateral|colateral (garantía)||S|fin|C2
+depósito a prazo|depósito a plazo||S|fin|C2
+incumprimento|incumplimiento (de pago)||S|fin|C2
+amortização|amortización||S|fin|C2
+refinanciação|refinanciación||S|fin|C2
+usura|usura||S|fin|C2
+descoberto bancário|números rojos (descubierto)||S|fin|C2
+solvência|solvencia||S|fin|C2
+fiador|fiador (avalista)||S|fin|C2
+fusão hostil|fusión hostil||S|fin|C2
+auditoria de aquisição|auditoría de adquisición||S|fin|C2
+tomada de controlo|toma de control||S|fin|C2
+fundos próprios|fondos propios||S|fin|C2
+fluxo de caixa|flujo de caja||S|fin|C2
+sinergia|sinergia||S|fin|C2
+rentabilidade dos capitais próprios|rentabilidad financiera||S|fin|C2
+aquisição alavancada|compra apalancada||S|fin|C2
+capital de risco|capital riesgo||S|fin|C2
+reavaliação de ativos|revalorización de activos||S|fin|C2
+diluição acionista|dilución accionarial||S|fin|C2
+oferta pública de aquisição|oferta pública de adquisición||S|fin|C2
+privatização|privatización||S|fin|C2
+fusão e aquisição|fusión y adquisición||S|fin|C2
+elasticidade-preço|elasticidad-precio||S|fin|C2
+concorrência perfeita|competencia perfecta||S|fin|C2
+oligopólio|oligopolio||S|fin|C2
+monopólio natural|monopolio natural||S|fin|C2
+externalidade|externalidad||S|fin|C2
+falha de mercado|fallo de mercado||S|fin|C2
+curva de procura|curva de demanda||S|fin|C2
+excedente do consumidor|excedente del consumidor||S|fin|C2
+custo de oportunidade|coste de oportunidad||S|fin|C2
+teoria dos jogos|teoría de juegos||S|fin|C2
+discriminação de preços|discriminación de precios||S|fin|C2
+barreira à entrada|barrera de entrada||S|fin|C2
+utilidade marginal|utilidad marginal||S|fin|C2
+procura agregada|demanda agregada||S|fin|C2
+apólice de seguros|póliza de seguros||S|fin|C2
+prémio de seguro|prima de seguro||S|fin|C2
+franquia|franquicia (en el seguro)||S|fin|C2
+seguradora|aseguradora||S|pro|C2
+resseguro|reaseguro||S|fin|C2
+sinistro|siniestro||S|fin|C2
+cláusula de exclusão|cláusula de exclusión||S|fin|C2
+peritagem|peritaje (de daños)||S|fin|C2
+risco catastrófico|riesgo catastrófico||S|fin|C2
+garantia bancária|aval bancario||S|fin|C2
+invalidez|invalidez||S|fin|C2
+gestão de riscos|gestión de riesgos||S|fin|C2
+histórico de sinistralidade|historial de siniestralidad||S|fin|C2
+sub-rogação|subrogación||S|fin|C2
+ajuda pública ao desenvolvimento|ayuda oficial al desarrollo||S|fin|C2
+condicionalidade|condicionalidad||S|fin|C2
+alívio da dívida|alivio de la deuda||S|fin|C2
+economia emergente|economía emergente||S|fin|C2
+comércio justo|comercio justo||S|fin|C2
+microcrédito|microcrédito||S|fin|C2
+sustentabilidade|sostenibilidad||S|fin|C2
+remessas dos emigrantes|remesas de los emigrantes||S|fin|C2
+cooperação descentralizada|cooperación descentralizada||S|fin|C2
+austeridade|austeridad||S|fin|C2
+industrialização|industrialización||S|fin|C2
+autossuficiência alimentar|autosuficiencia alimentaria||S|fin|C2
+programa de ajustamento estrutural|programa de ajuste estructural||S|fin|C2
+ação humanitária|acción humanitaria||S|fin|C2
+volumetria|volumetría||S|sci|C2
+gravimetria|gravimetría||S|sci|C2
+espectrofotometria|espectrofotometría||S|sci|C2
+cromatografia gasosa|cromatografía de gases||S|sci|C2
+titulação|valoración (titulación)||S|sci|C2
+reagente|reactivo||S|sci|C2
+precipitação|precipitación (química)||S|sci|C2
+alíquota|alícuota||S|sci|C2
+pipetar|pipetear||V|sci|C2
+destilação fracionada|destilación fraccionada||S|sci|C2
+solvente orgânico|disolvente orgánico||S|sci|C2
+menisco|menisco (de lectura)||S|sci|C2
+espectrometria de massas|espectrometría de masas||S|sci|C2
+branco de ensaio|blanco de ensayo||S|sci|C2
+retículo cristalino|red cristalina||S|sci|C2
+banda proibida|banda prohibida||S|sci|C2
+dopagem|dopaje (de semiconductores)||S|sci|C2
+semicondutor|semiconductor||S|sci|C2
+condutividade elétrica|conductividad eléctrica||S|sci|C2
+defeito pontual|defecto puntual||S|sci|C2
+alotropia|alotropía||S|sci|C2
+sinterização|sinterización||S|sci|C2
+tensão de ruptura|tensión de rotura||S|sci|C2
+supercondutividade|superconductividad||S|sci|C2
+matéria condensada|materia condensada||S|sci|C2
+deformação plástica|deformación plástica||S|sci|C2
+ligação metálica|enlace metálico||S|sci|C2
+envelhecimento do material|envejecimiento del material||S|sci|C2
+circulação atmosférica|circulación atmosférica||S|sci|C2
+inversão térmica|inversión térmica||S|sci|C2
+pressão barométrica|presión barométrica||S|sci|C2
+corrente de jato|corriente en chorro||S|sci|C2
+albedo|albedo||S|sci|C2
+retroação|retroalimentación||S|sci|C2
+forçamento radiativo|forzamiento radiativo||S|sci|C2
+sumidouro de carbono|sumidero de carbono||S|sci|C2
+estratosfera|estratosfera||S|sci|C2
+anomalia climática|anomalía climática||S|sci|C2
+aridez|aridez||S|sci|C2
+ciclogénese|ciclogénesis||S|sci|C2
+modelação climática|modelización climática||S|sci|C2
+acidificação dos oceanos|acidificación de los océanos||S|sci|C2
+fóssil de transição|fósil de transición||S|sci|C2
+estratigrafia|estratigrafía||S|sci|C2
+datação radiométrica|datación radiométrica||S|sci|C2
+extinção em massa|extinción masiva||S|sci|C2
+deriva continental|deriva continental||S|sci|C2
+icnofóssil|icnofósil||S|sci|C2
+deriva genética|deriva genética||S|sci|C2
+especiação|especiación||S|sci|C2
+hominídeo|hominído||S|sci|C2
+paleoambiente|paleoambiente||S|sci|C2
+tafonomia|tafonomía||S|sci|C2
+anatomia comparada|anatomía comparada||S|sci|C2
+clado|clado||S|sci|C2
+neotenia|neotenia||S|sci|C2
+retrovírus|retrovirus||S|sci|C2
+capsídeo|cápside||S|sci|C2
+virulência|virulencia||S|sla|C2
+zoonose|zoonosis||S|sla|C2
+vetor|vector (transmisor)||S|sla|C2
+carga viral|carga viral||S|sla|C2
+incubação|incubación||S|sla|C2
+resistência antimicrobiana|resistencia antimicrobiana||S|sla|C2
+cepa|cepa||S|sla|C2
+virose|virosis||S|sla|C2
+patogenicidade|patogenicidad||S|sci|C2
+inóculo|inóculo||S|sci|C2
+soroprevalência|seroprevalencia||S|sci|C2
+isolamento viral|aislamiento viral||S|sci|C2
+nuclease|nucleasa||S|sci|C2
+enzima de restrição|enzima de restricción||S|sci|C2
+gene marcador|gen marcador||S|sci|C2
+clonagem reprodutiva|clonación reproductiva||S|sci|C2
+plasmídeo|plásmido||S|sci|C2
+terapia génica|terapia génica||S|sci|C2
+transgénico|transgénico||A|sci|C2
+cariótipo|cariotipo||S|sci|C2
+endonuclease|endonucleasa||S|sci|C2
+mosaicismo|mosaicismo||S|sci|C2
+fenótipo|fenotipo||S|sci|C2
+mutagénese|mutagénesis||S|sci|C2
+sequenciamento do genoma|secuenciación del genoma||S|sci|C2
+alelo recessivo|alelo recesivo||S|sci|C2
+ressonância magnética|resonancia magnética||S|sci|C2
+tomografia computorizada|tomografía computarizada||S|sci|C2
+eletroencefalograma|electroencefalograma||S|sci|C2
+córtex pré-frontal|corteza prefrontal||S|sci|C2
+substância cinzenta|materia gris||S|sci|C2
+neuroimagem|neuroimagen||S|sci|C2
+lateralização cerebral|lateralización cerebral||S|sci|C2
+hipocampo|hipocampo||S|sci|C2
+plasticidade sináptica|plasticidad sináptica||S|sci|C2
+neurotransmissor|neurotransmisor||S|sci|C2
+circunvolução cerebral|circunvolución cerebral||S|sci|C2
+estereotaxia|estereotaxia||S|sci|C2
+potenciais evocados|potenciales evocados||S|sci|C2
+neurodegeneração|neurodegeneración||S|sci|C2
+nanotubo de carbono|nanotubo de carbono||S|sci|C2
+grafeno|grafeno||S|sci|C2
+nanopartícula|nanopartícula||S|sci|C2
+superfície específica|superficie específica||S|sci|C2
+catalisador heterogéneo|catalizador heterogéneo||S|sci|C2
+liga metálica|aleación||S|sci|C2
+porosidade|porosidad||S|sci|C2
+tensioativo|tensoactivo||S|sci|C2
+recobrimento|recubrimiento||S|sci|C2
+ensaio de tração|ensayo de tracción||S|sci|C2
+microscópio eletrónico|microscopio electrónico||S|sci|C2
+dureza superficial|dureza superficial||S|sci|C2
+aerogel|aerogel||S|sci|C2
+nanoescala|nanoescala||S|sci|C2
+interferometria|interferometría||S|sci|C2
+polarização da luz|polarización de la luz||S|sci|C2
+índice de refração|índice de refracción||S|sci|C2
+difração|difracción||S|sci|C2
+aberração cromática|aberración cromática||S|sci|C2
+ressonância acústica|resonancia acústica||S|sci|C2
+fibra ótica|fibra óptica||S|sci|C2
+holografia|holografía||S|sci|C2
+feixe luminoso|haz luminoso||S|sci|C2
+reverberação|reverberación||S|sci|C2
+espectro visível|espectro visible||S|sci|C2
+optoeletrónica|optoelectrónica||S|sci|C2
+dispersão cromática|dispersión cromática||S|sci|C2
+ultrassom|ecografía (ultrasonidos)||S|sci|C2
+entropia|entropía||S|sci|C2
+entalpia|entalpía||S|sci|C2
+trocador de calor|intercambiador de calor||S|sci|C2
+convecção forçada|convección forzada||S|sci|C2
+irreversibilidade|irreversibilidad||S|sci|C2
+escoamento turbulento|flujo turbulento||S|sci|C2
+viscosidade dinâmica|viscosidad dinámica||S|sci|C2
+pressão hidrostática|presión hidrostática||S|sci|C2
+isotermo|isoterma||S|sci|C2
+compressibilidade|compresibilidad||S|sci|C2
+caudal mássico|caudal másico||S|sci|C2
+rendimento termodinâmico|rendimiento termodinámico||S|sci|C2
+equação de continuidade|ecuación de continuidad||S|sci|C2
+cavitação|cavitación||S|sci|C2
+fotointerpretação|fotointerpretación||S|sci|C2
+curva de nível|curva de nivel||S|sci|C2
+escala cartográfica|escala cartográfica||S|sci|C2
+batimetria|batimetría||S|sci|C2
+ortofotomapa|ortofotomapa||S|sci|C2
+sistema de informação geográfica|sistema de información geográfica||S|tec|C2
+teledetecção|teledetección||S|sci|C2
+projeção cartográfica|proyección cartográfica||S|sci|C2
+toponímia|toponimia||S|sci|C2
+hipsometria|hipsometría||S|sci|C2
+carta topográfica|mapa topográfico||S|sci|C2
+georreferenciação|georreferenciación||S|sci|C2
+triangulação geodésica|triangulación geodésica||S|sci|C2
+relevo sombreado|sombreado del relieve||S|sci|C2
+rima toante|rima asonante||S|let|C2
+redondilha maior|heptasílabo||S|let|C2
+esquema rimático|esquema de rima||S|let|C2
+cesura|cesura||S|let|C2
+elisão|elisión||S|let|C2
+sinalefa|sinalefa||S|let|C2
+aliteração|aliteración||S|let|C2
+verso branco|verso blanco||S|let|C2
+prosódia|prosodia||S|let|C2
+pé métrico|pie métrico||S|let|C2
+anfíbraco|anfíbraco||S|let|C2
+hendecassílabo|hendecasílabo||S|let|C2
+encadeamento|encabalgamiento||S|let|C2
+ritmo acentual|ritmo acentual||S|let|C2

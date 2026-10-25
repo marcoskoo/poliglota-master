@@ -1,0 +1,294 @@
+entremez|entremés||S|let|C2
+tragicomédia|tragicomedia||S|let|C2
+cenografia|escenografía||S|let|C2
+encenação|puesta en escena||S|let|C2
+farsa|farsa||S|let|C2
+monólogo interior|monólogo interior||S|let|C2
+aparte|aparte (acotación)||S|let|C2
+quarta parede|cuarta pared||S|let|C2
+dramaturgo|dramaturgo||S|pro|C2
+teatro de improviso|teatro de improvisación||S|let|C2
+leitura encenada|lectura dramatizada||S|let|C2
+dramaturgia|dramaturgia||S|let|C2
+desfecho|desenlace||S|let|C2
+subtexto|subtexto||S|let|C2
+sinédoque|sinécdoque||S|let|C2
+metonímia|metonimia||S|let|C2
+hipérbato|hipérbaton||S|let|C2
+sinestesia|sinestesia (figura)||S|let|C2
+oxímoro|oxímoron||S|let|C2
+apóstrofe|apóstrofe (retórica)||S|let|C2
+antítese|antítesis||S|let|C2
+gradação|gradación (retórica)||S|let|C2
+hipotipose|hipotiposis||S|let|C2
+quiasmo|quiasmo||S|let|C2
+perífrase|perífrasis||S|let|C2
+prosopopeia|prosopopeya||S|let|C2
+polissíndeto|polisíndeton||S|let|C2
+catacrese|catacresis||S|let|C2
+epigrafia|epigrafía||S|let|C2
+paleografia|paleografía||S|let|C2
+codicologia|codicología||S|let|C2
+hermenêutica|hermenéutica||S|let|C2
+escolástica|escolástica||S|let|C2
+filologia românica|filología románica||S|let|C2
+códice|códice||S|let|C2
+manuscrito iluminado|manuscrito iluminado||S|let|C2
+glosa|glosa||S|let|C2
+interpolação|interpolación (en manuscritos)||S|let|C2
+crítica textual|crítica textual||S|let|C2
+incunábulo|incunable||S|let|C2
+epigrama|epigrama||S|let|C2
+filólogo|filólogo||S|pro|C2
+tradutologia|traductología||S|let|C2
+língua de partida|lengua de origen||S|let|C2
+língua de chegada|lengua de llegada||S|let|C2
+domesticação|domesticación (en traducción)||S|let|C2
+estrangeirização|extranjerización||S|let|C2
+invisibilidade do tradutor|invisibilidad del traductor||S|let|C2
+unidade de tradução|unidad de traducción||S|let|C2
+retradução|retraducción||S|let|C2
+tradução automática|traducción automática||S|let|C2
+adaptação cultural|adaptación cultural||S|let|C2
+legendagem|subtitulado||S|cin|C2
+tradutor juramentado|traductor jurado||S|pro|C2
+calco|calco||S|let|C2
+fidelidade|fidelidad (en traducción)||S|let|C2
+ensaísta|ensayista||S|pro|C2
+dialética|dialéctica||S|ast|C2
+refutação|refutación||S|ast|C2
+panfletário|panfletario||A|let|C2
+polemista|polemista||S|pro|C2
+sofisma|sofisma||S|ast|C2
+aporia|aporía||S|ast|C2
+aforismo|aforismo||S|let|C2
+dogmatismo|dogmatismo||S|ast|C2
+ceticismo|escepticismo||S|ast|C2
+relativismo|relativismo||S|ast|C2
+lucidez|lucidez||S|ast|C2
+paralogismo|paralogismo||S|ast|C2
+intelectual orgânico|intelectual orgánico||S|let|C2
+distopia|distopía||S|let|C2
+ucronia|ucronía||S|let|C2
+ficção especulativa|ficción especulativa||S|let|C2
+androide|androide||S|let|C2
+alteridade|alteridad||S|let|C2
+alienígena|extraterrestre||S|let|C2
+pós-apocalíptico|posapocalíptico||A|let|C2
+mundos possíveis|mundos posibles||S|let|C2
+cronotopo|cronotopo||S|let|C2
+utopista|utopista||S|let|C2
+romance de antecipação|novela de anticipación||S|let|C2
+extrapolação|extrapolación||S|let|C2
+futurismo|futurismo||S|art|C2
+universo diegético|universo diegético||S|let|C2
+cânone literário|canon literario||S|let|C2
+literatura comparada|literatura comparada||S|let|C2
+intertextualidade|intertextualidad||S|let|C2
+apócrifo|apócrifo||A|let|C2
+classicismo|clasicismo||S|let|C2
+vanguarda histórica|vanguardia histórica||S|let|C2
+pós-modernismo|posmodernismo||S|let|C2
+recepção crítica|recepción crítica||S|let|C2
+literatura de viagens|literatura de viajes||S|let|C2
+reescrita|reescritura||S|let|C2
+hipotexto|hipotexto||S|let|C2
+comparatismo|comparatismo||S|let|C2
+história literária|historia literaria||S|let|C2
+património literário|patrimonio literario||S|let|C2
+sondagem de opinião|sondeo de opinión||S|att|C2
+margem de erro|margen de error||S|att|C2
+amostra representativa|muestra representativa||S|att|C2
+percentagem de resposta|porcentaje de respuesta||S|att|C2
+intenção de voto|intención de voto||S|att|C2
+demoscopia|demoscopia||S|att|C2
+eleitorado flutuante|electorado flotante||S|att|C2
+amostragem aleatória|muestreo aleatorio||S|att|C2
+boca de urna|encuesta a pie de urna||S|att|C2
+abstenção|abstención||S|att|C2
+espiral do silêncio|espiral del silencio||S|att|C2
+sondagem eleitoral|sondeo electoral||S|att|C2
+erro amostral|error muestral||S|att|C2
+correlação de forças|correlación de fuerzas||S|att|C2
+manutenção da paz|mantenimiento de la paz||S|ist|C2
+embargo de armas|embargo de armas||S|ist|C2
+cessar-fogo|alto el fuego||S|ist|C2
+diplomacia preventiva|diplomacia preventiva||S|ist|C2
+ataque cibernético|ataque cibernético||S|tec|C2
+desmilitarização|desmilitarización||S|ist|C2
+não-proliferação|no proliferación||S|ist|C2
+deslocado interno|desplazado interno||S|ist|C2
+zona-tampão|zona de amortiguamiento||S|ist|C2
+escalada|escalada||S|ist|C2
+arbitragem internacional|arbitraje internacional||S|ist|C2
+dissuasão nuclear|disuasión nuclear||S|ist|C2
+forças de paz|cascos azules (fuerzas de paz)||S|ist|C2
+conflito assimétrico|conflicto asimétrico||S|ist|C2
+integração regional|integración regional||S|ist|C2
+supranacionalidade|supranacionalidad||S|ist|C2
+cooperação multilateral|cooperación multilateral||S|ist|C2
+votação ponderada|votación ponderada||S|ist|C2
+secretariado|secretariado||S|ist|C2
+convenção internacional|convenio internacional||S|ist|C2
+ratificação|ratificación||S|ist|C2
+cessão de soberania|cesión de soberanía||S|ist|C2
+diretiva comunitária|directiva comunitaria||S|ist|C2
+fundo estrutural|fondo estructural||S|ist|C2
+subsidiariedade|subsidiariedad||S|ist|C2
+quórum|quórum||S|ist|C2
+convergência nominal|convergencia nominal||S|ist|C2
+diplomacia multilateral|diplomacia multilateral||S|ist|C2
+estado-providência|estado de bienestar||S|ist|C2
+subsídio de desemprego|subsidio por desempleo||S|ist|C2
+rendimento mínimo garantido|renta mínima garantizada||S|ist|C2
+segurança social|seguridad social||S|ist|C2
+exclusão social|exclusión social||S|ist|C2
+pensão de velhice|pensión de jubilación||S|ist|C2
+indexação de pensões|revalorización de pensiones||S|ist|C2
+vulnerabilidade|vulnerabilidad||S|ast|C2
+apoio à habitação|ayuda a la vivienda||S|ist|C2
+abono de família|asignación familiar||S|ist|C2
+coesão territorial|cohesión territorial||S|ist|C2
+redistribuição|redistribución||S|ist|C2
+universalismo|universalismo||S|ast|C2
+apoio judiciário|asistencia jurídica gratuita||S|ist|C2
+acampamento de protesto|campamento de protesta||S|att|C2
+greve geral|huelga general||S|att|C2
+piquete|piquete (de huelga)||S|att|C2
+desobediência civil|desobediencia civil||S|att|C2
+movimento reivindicativo|movimiento reivindicativo||S|att|C2
+reivindicação|reivindicación||S|att|C2
+ativismo digital|activismo digital||S|att|C2
+greve da fome|huelga de hambre||S|att|C2
+ocupação de edifícios|ocupación de edificios||S|att|C2
+pancarta|pancarta||S|att|C2
+boicote|boicot||S|att|C2
+repressão policial|represión policial||S|att|C2
+sociedade civil|sociedad civil||S|ist|C2
+ativista|activista||S|pro|C2
+enriquecimento ilícito|enriquecimiento ilícito||S|ist|C2
+branqueamento de capitais|blanqueo de capitales||S|fin|C2
+conluio|confabulación (conspiración)||S|ist|C2
+suborno|soborno||S|ist|C2
+prevaricação|prevaricación||S|ist|C2
+peculato|peculado||S|ist|C2
+tráfico de influências|tráfico de influencias||S|ist|C2
+declaração de bens|declaración de bienes||S|ist|C2
+transparência orçamental|transparencia presupuestaria||S|ist|C2
+auditoria externa|auditoría externa||S|fin|C2
+conflito de interesses|conflicto de intereses||S|ist|C2
+queixa-crime|denuncia penal||S|ist|C2
+escrutínio público|escrutinio público||S|ist|C2
+responsabilização|rendición de cuentas||S|ist|C2
+pirâmide etária|pirámide de población||S|att|C2
+natalidade|natalidad||S|att|C2
+envelhecimento demográfico|envejecimiento demográfico||S|att|C2
+migração sazonal|migración estacional||S|att|C2
+diáspora|diáspora||S|att|C2
+repatriação|repatriación||S|att|C2
+acolhimento de refugiados|acogida de refugiados||S|att|C2
+fluxo migratório|flujo migratorio||S|att|C2
+índice de envelhecimento|índice de envejecimiento||S|att|C2
+despovoamento interior|despoblamiento interior||S|att|C2
+crescimento natural|crecimiento natural||S|att|C2
+luso-descendente|luso-descendiente||S|att|C2
+reagrupamento familiar|reagrupamiento familiar||S|ist|C2
+longevidade|longevidad||S|att|C2
+simbologia|simbología||S|art|C2
+atributo iconográfico|atributo iconográfico||S|art|C2
+hagiografia|hagiografía||S|art|C2
+retábulo|retablo||S|art|C2
+tetramorfos|tetramorfos||S|art|C2
+mandorla|mandorla||S|art|C2
+tímpano|tímpano (portada)||S|art|C2
+virtude cardeal|virtud cardinal||S|art|C2
+bestiário medieval|bestiario medieval||S|let|C2
+policromia|policromía||S|art|C2
+frontal de altar|frontal de altar||S|art|C2
+aureola|aureola||S|art|C2
+iconoclastia|iconoclastia||S|art|C2
+grotesco|grotesco||S|art|C2
+ourivesaria|orfebrería||S|art|C2
+filigrana|filigrana||S|art|C2
+marchetaria|marquetería||S|art|C2
+talha dourada|retablo dorado (talla barroca)||S|art|C2
+azulejaria|azulejería||S|art|C2
+prataria|platería||S|art|C2
+faiança|loza (mayólica)||S|art|C2
+gravura a buril|grabado a buril||S|art|C2
+entalhador|tallista||S|pro|C2
+madrepérola|nácar||S|art|C2
+desenhador industrial|diseñador industrial||S|pro|C2
+laca|laca||S|art|C2
+rococó|rococó||A|art|C2
+baixela|vajilla (de plata)||S|art|C2
+profundidade de campo|profundidad de campo||S|art|C2
+velocidade de obturação|velocidad de obturación||S|art|C2
+câmara escura|cámara oscura||S|art|C2
+contraluz|contraluz||S|art|C2
+fotograma|fotograma||S|cin|C2
+reportagem fotográfica|reportaje fotográfico||S|cin|C2
+fotomontagem|fotomontaje||S|art|C2
+objeto encontrado|objeto encontrado||S|art|C2
+instalação multimédia|instalación multimedia||S|art|C2
+conceptualismo|conceptualismo||S|art|C2
+curadoria|comisariado (curaduría)||S|art|C2
+granulação|granulado||S|art|C2
+videoarte|videoarte||S|art|C2
+ângulo de tomada|ángulo de toma||S|cin|C2
+abóbada de cruzaria|bóveda de crucería||S|art|C2
+arco botante|arbotante||S|art|C2
+nave central|nave central||S|art|C2
+platibanda|pretil (muro sobre la cubierta)||S|art|C2
+balaustrada|balaustrada||S|art|C2
+frontão|frontón (pedimento)||S|art|C2
+silhar|sillar||S|art|C2
+cantaria|cantería||S|art|C2
+arco quebrado|arco apuntado||S|art|C2
+alpendre|porche (soportal)||S|cit|C2
+claustro|claustro||S|art|C2
+absidíolo|absidiolo||S|art|C2
+gárgula|gárgola||S|art|C2
+socalco|terraza de cultivo||S|nat|C2
+sapatilha de ponta|zapatilla de punta||S|sve|C2
+bailarino|bailarín||S|pro|C2
+coreografia|coreografía||S|art|C2
+coreógrafo|coreógrafo||S|pro|C2
+bailado|danza (ballet)||S|art|C2
+figurino|vestuario (de escena)||S|art|C2
+ensaio de palco|ensayo de escena||S|art|C2
+primeira bailarina|primera bailarina||S|pro|C2
+dança contemporânea|danza contemporánea||S|art|C2
+deslocamento cénico|desplazamiento escénico||S|art|C2
+palco giratório|escenario giratorio||S|art|C2
+sapateado|claqué (zapateado)||S|art|C2
+corpo de bailado|cuerpo de baile||S|art|C2
+arte performativa|arte performativo||S|art|C2
+microprocessador|microprocesador||S|tec|C2
+conjunto de instruções|conjunto de instrucciones||S|tec|C2
+memória cache|memoria caché||S|tec|C2
+circuito integrado|circuito integrado||S|tec|C2
+pastilha de silício|oblea de silicio||S|tec|C2
+frequência de relógio|frecuencia de reloj||S|tec|C2
+nó de fabrico|nodo de fabricación||S|tec|C2
+dissipador térmico|disipador térmico||S|tec|C2
+porta lógica|puerta lógica||S|tec|C2
+barramento|bus||S|tec|C2
+execução especulativa|ejecución especulativa||S|tec|C2
+transístor|transistor||S|tec|C2
+fotolitografia|fotolitografía||S|tec|C2
+paralelismo de dados|paralelismo de datos||S|tec|C2
+armazém de dados|almacén de datos||S|tec|C2
+mineração de dados|minería de datos||S|tec|C2
+linguagem de consulta|lenguaje de consulta||S|tec|C2
+chave estrangeira|clave foránea||S|tec|C2
+normalização de tabelas|normalización de tablas||S|tec|C2
+processamento distribuído|procesamiento distribuido||S|tec|C2
+metadado|metadato||S|tec|C2
+aprendizagem automática|aprendizaje automático||S|tec|C2
+análise preditiva|analítica predictiva||S|tec|C2
+agregação estatística|agregación estadística||S|tec|C2
+latência|latencia||S|tec|C2
+escalabilidade|escalabilidad||S|tec|C2
+cópia de segurança|copia de seguridad||S|tec|C2
+visualização interativa|visualización interactiva||S|tec|C2

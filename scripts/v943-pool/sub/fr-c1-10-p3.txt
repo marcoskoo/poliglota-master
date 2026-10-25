@@ -1,0 +1,259 @@
+ischémie cérébrale|isquemia cerebral||L|sla|C1
+hémiplégie|hemiplejia||S|sla|C1
+paraplégie|paraplejia||S|sla|C1
+tétraplégie|tetraplejia||S|sla|C1
+myéline|mielina||S|cor|C1
+dégénérescence neuronale|degeneración neuronal||L|sla|C1
+neurone moteur|neurona motora||L|cor|C1
+synapse|sinapsis||S|cor|C1
+neurotransmetteur|neurotransmisor||S|cor|C1
+dopamine|dopamina||S|cor|C1
+sérotonine|serotonina||S|cor|C1
+encéphalite|encefalitis||S|sla|C1
+démence vasculaire|demencia vascular||L|sla|C1
+aphasie|afasia||S|sla|C1
+dysarthrie|disartria||S|sla|C1
+ataxie|ataxia||S|sla|C1
+paresthésie|parestesia||S|sla|C1
+électromyogramme|electromiograma||S|sla|C1
+ponction lombaire|punción lumbar||L|sla|C1
+réflexe ostéotendineux|reflejo osteotendinoso||L|sla|C1
+état végétatif chronique|estado vegetativo persistente||L|sla|C1
+obstétrique|obstétrico||A|sla|C1
+maïeutique|obstetricia (arte de partear)||S|sla|C1
+prénatal|prenatal||A|sla|C1
+périnatal|perinatal||A|sla|C1
+grossesse extra-utérine|embarazo ectópico||L|sla|C1
+fausse couche|aborto espontáneo||L|sla|C1
+col de l'utérus|cuello uterino||L|cor|C1
+dilatation|dilatación (del cuello uterino)||S|sla|C1
+contractions utérines|contracciones uterinas||L|sla|C1
+présentation du siège|presentación de nalgas||L|sla|C1
+déclenchement du travail|inducción del parto||L|sla|C1
+péridurale|epidural||S|sla|C1
+expulsion|expulsivo (parto)||S|sla|C1
+délivrance|alumbramiento||S|sla|C1
+loches|loquios||S|sla|C1
+allaitement maternel|lactancia materna||L|sla|C1
+montée de lait|subida de la leche||L|sla|C1
+colostrum|calostro||S|sla|C1
+prématurité|prematuridad||S|sla|C1
+couveuse|incubadora||S|sla|C1
+hypotrophie fœtale|retraso de crecimiento fetal||L|sla|C1
+monitorage fœtal|monitorización fetal||L|sla|C1
+périmètre crânien|perímetro craneal||L|sla|C1
+croissance staturo-pondérale|crecimiento pondoestatural||L|sla|C1
+éruption dentaire|erupción dentaria||L|sla|C1
+pédiatrie|pediatría||S|sla|C1
+bronchiolite du nourrisson|bronquiolitis del lactante||L|sla|C1
+mort-né|mortinato||S|sla|C1
+ictère néonatal|ictericia neonatal||L|sla|C1
+détresse respiratoire|distrés respiratorio||L|sla|C1
+réanimation néonatale|reanimación neonatal||L|sla|C1
+traumatologie|traumatología||S|sla|C1
+fracture ouverte|fractura abierta||L|sla|C1
+fracture fermée|fractura cerrada||L|sla|C1
+col du fémur|cuello del fémur||L|cor|C1
+entorse|esguince||S|sla|C1
+foulure|torcedura||S|sla|C1
+subluxation|subluxación||S|sla|C1
+déchirure musculaire|desgarro muscular||L|sla|C1
+claquage|distensión muscular||S|sla|C1
+tendinopathie|tendinopatía||S|sla|C1
+rupture tendineuse|rotura tendinosa||L|sla|C1
+périostite|periostitis||S|sla|C1
+sciatique|ciática||S|sla|C1
+hernie discale|hernia discal||L|sla|C1
+cervicalgie|cervicalgia||S|sla|C1
+lombalgie chronique|lumbalgia crónica||L|sla|C1
+arthrose dégénérative|artrosis degenerativa||L|sla|C1
+prothèse totale de genou|prótesis total de rodilla||L|sla|C1
+rééducation fonctionnelle|rehabilitación funcional||L|sla|C1
+kinésithérapie|fisioterapia||S|sla|C1
+mobilisation précoce|movilización precoz||L|sla|C1
+canne anglaise|bastón inglés||L|sla|C1
+immobilisation plâtrée|inmovilización escayolada||L|sla|C1
+traction|tracción (ortopédica)||S|sla|C1
+ostéotomie|osteotomía||S|sla|C1
+arthroplastie|artroplastia||S|sla|C1
+convalescence|convalecencia||S|sla|C1
+ergothérapie|terapia ocupacional||S|sla|C1
+balnéothérapie|balneoterapia||S|sla|C1
+pseudarthrose|pseudoartrosis||S|sla|C1
+algodystrophie|algodistrofia||S|sla|C1
+santé publique|salud pública||L|ist|C1
+épidémiologie|epidemiología||S|sci|C1
+endémie|endemia||S|sci|C1
+épizootie|epizootia||S|sci|C1
+incidence|tasa de incidencia||S|sci|C1
+prévalence|prevalencia||S|sci|C1
+taux de létalité|tasa de letalidad||L|sci|C1
+mortalité infantile|mortalidad infantil||L|sci|C1
+surmortalité|exceso de mortalidad||S|sci|C1
+vecteur|vector (de enfermedad)||S|sci|C1
+réservoir viral|reservorio viral||L|sci|C1
+chaîne de transmission|cadena de transmisión||L|sci|C1
+cas contact|caso contacto||L|sci|C1
+foyer épidémique|brote epidémico||L|sci|C1
+assainissement de l'eau|saneamiento del agua||L|sci|C1
+vaccination obligatoire|vacunación obligatoria||L|sla|C1
+couverture vaccinale|cobertura vacunal||L|sla|C1
+immunité grégaire|inmunidad de grupo||L|sla|C1
+personne vulnérable|persona vulnerable||L|sla|C1
+pharmacovigilance|farmacovigilancia||S|sci|C1
+générique|medicamento genérico||S|sla|C1
+dispensaire|dispensario||S|ist|C1
+dépistage organisé|cribado organizado||L|sla|C1
+médecine préventive|medicina preventiva||L|sla|C1
+promotion de la santé|promoción de la salud||L|sla|C1
+déterminants de santé|determinantes de salud||L|sla|C1
+inégalités de santé|desigualdades en salud||L|sla|C1
+système de soins|sistema sanitario||L|ist|C1
+éthique médicale|ética médica||L|sla|C1
+éducation thérapeutique|educación terapéutica||L|sla|C1
+veille sanitaire|vigilancia sanitaria||L|sci|C1
+fiscalité|fiscalidad||S|fin|C1
+assujettissement|sujeción (tributaria)||S|fin|C1
+fait générateur|hecho imponible||L|fin|C1
+base imposable|base imponible||L|fin|C1
+assiette de l'impôt|base de cálculo del impuesto||L|fin|C1
+taux marginal d'imposition|tipo marginal de gravamen||L|fin|C1
+quotient familial|cociente familiar||L|fin|C1
+tranches d'imposition|tramos impositivos||L|fin|C1
+impôt sur la fortune|impuesto sobre el patrimonio||L|fin|C1
+impôt local|impuesto local||L|fin|C1
+plus-value immobilière|plusvalía inmobiliaria||L|fin|C1
+moins-value|minusvalía||S|fin|C1
+abattement|reducción (en la base)||S|fin|C1
+niche fiscale|resquicio fiscal||L|fin|C1
+fraude fiscale|fraude fiscal||L|fin|C1
+évasion fiscale|elusión fiscal||L|fin|C1
+paradis fiscal|paraíso fiscal||L|fin|C1
+contrôle fiscal|inspección fiscal||L|fin|C1
+vérification de comptabilité|comprobación de cuentas||L|fin|C1
+redressement fiscal|rectificación tributaria||L|fin|C1
+pénalité de retard|recargo por mora||L|fin|C1
+majoration|recargo (de cuota)||S|fin|C1
+recouvrement forcé|recaudación ejecutiva||L|fin|C1
+saisie-attribution|embargo de créditos||S|fin|C1
+avis à tiers détenteur|aviso a terceros depositarios||L|fin|C1
+prélèvements sociaux|cotizaciones sociales||L|fin|C1
+revenu foncier|rendimiento del capital inmobiliario||L|fin|C1
+bénéfice non commercial|rendimiento de actividades profesionales||L|fin|C1
+déficit reportable|déficit compensable a futuro||L|fin|C1
+amortissement dérogatoire|amortización excepcional||L|fin|C1
+prix de transfert|precios de transferencia||L|fin|C1
+établissement de crédit|entidad de crédito||L|fin|C1
+agrément bancaire|autorización bancaria||L|fin|C1
+taux directeur|tipo de interés de referencia||L|fin|C1
+taux débiteur|tipo deudor||L|fin|C1
+taux créditeur|tipo acreedor||L|fin|C1
+marge d'intermédiation|margen de intermediación||L|fin|C1
+refinancement|refinanciación||S|fin|C1
+courtier en crédit|corredor de crédito||L|pro|C1
+crédit immobilier|préstamo hipotecario||L|fin|C1
+crédit à la consommation|crédito al consumo||L|fin|C1
+rachat de crédit|reunificación de deudas||L|fin|C1
+titrisation|titulización||S|fin|C1
+surendettement|sobreendeudamiento||S|fin|C1
+incident de paiement|incidente de pago||L|fin|C1
+interdit bancaire|exclusión bancaria||L|fin|C1
+risque de crédit|riesgo de crédito||L|fin|C1
+risque de défaut|riesgo de impago||L|fin|C1
+ratio de solvabilité|ratio de solvencia||L|fin|C1
+notation financière|calificación crediticia||L|fin|C1
+fonds propres réglementaires|fondos propios regulatorios||L|fin|C1
+exposition au risque|exposición al riesgo||L|fin|C1
+test de résistance|test de resistencia||L|fin|C1
+provision pour créances douteuses|provisión por insolvencias||L|fin|C1
+créance douteuse|crédito dudoso||L|fin|C1
+recouvrement de créances|recuperación de impagados||L|fin|C1
+sûreté réelle|garantía real||L|fin|C1
+liquidité bancaire|liquidez bancaria||L|fin|C1
+restructuration de dette|reestructuración de deuda||L|fin|C1
+dépôt de garantie|depósito de garantía||L|fin|C1
+assurance emprunteur|seguro del prestatario||L|fin|C1
+politique monétaire|política monetaria||L|fin|C1
+valorisation d'entreprise|valoración de empresas||L|fin|C1
+bilan financier|balance financiero||L|fin|C1
+compte de résultat|cuenta de resultados||L|fin|C1
+flux de trésorerie|flujo de caja||L|fin|C1
+capacité d'autofinancement|capacidad de autofinanciación||L|fin|C1
+fonds de roulement|fondo de maniobra||L|fin|C1
+actif net comptable|activo neto contable||L|fin|C1
+survaleur|plusvalía de fusión||S|fin|C1
+décote|descuento (sobre el valor teórico)||S|fin|C1
+prime de contrôle|prima de control||L|fin|C1
+multiple de valorisation|múltiplo de valoración||L|fin|C1
+actualisation des flux|descuento de flujos||L|fin|C1
+capacité de remboursement|capacidad de reembolso||L|fin|C1
+valeur patrimoniale|valor patrimonial||L|fin|C1
+audit externe|auditoría externa||L|fin|C1
+offre publique d'achat|oferta pública de adquisición||L|fin|C1
+offre publique de retrait|oferta pública de exclusión||L|fin|C1
+fusion amicale|fusión amistosa||L|fin|C1
+offre hostile|oferta hostil||L|fin|C1
+contre-offre|contraoferta||S|fin|C1
+délit d'initié|abuso de información privilegiada||L|fin|C1
+cession d'actifs|enajenación de activos||L|fin|C1
+scission d'activités|segregación de actividades||L|fin|C1
+capital-investissement|capital de inversión privada||S|fin|C1
+capital-risque|capital riesgo||S|fin|C1
+levée de fonds|ronda de financiación||L|fin|C1
+synergie|sinergia (de operaciones)||S|fin|C1
+parité d'échange|ecuación de canje||L|fin|C1
+apport en nature|aportación no dineraria||L|fin|C1
+action d'apport|acción de aportación||L|fin|C1
+clôture de l'exercice|cierre del ejercicio||L|fin|C1
+microéconomie|microeconomía||S|fin|C1
+utilité marginale|utilidad marginal||L|fin|C1
+coût d'opportunité|coste de oportunidad||L|fin|C1
+coût marginal|coste marginal||L|fin|C1
+rendements décroissants|rendimientos decrecientes||L|fin|C1
+élasticité-prix|elasticidad-precio||S|fin|C1
+demande dérivée|demanda derivada||L|fin|C1
+équilibre concurrentiel|equilibrio competitivo||L|fin|C1
+concurrence pure et parfaite|competencia perfecta||L|fin|C1
+main invisible|mano invisible||L|fin|C1
+surplus du consommateur|excedente del consumidor||L|fin|C1
+surplus du producteur|excedente del productor||L|fin|C1
+monopole naturel|monopolio natural||L|fin|C1
+oligopsone|oligopsonio||S|fin|C1
+pouvoir de marché|poder de mercado||L|fin|C1
+barrière à l'entrée|barrera de entrada||L|fin|C1
+bien inférieur|bien inferior||L|fin|C1
+effet de substitution|efecto sustitución||L|fin|C1
+biens substituables|bienes sustitutivos||L|fin|C1
+externalité négative|externalidad negativa||L|fin|C1
+défaillance de marché|fallo de mercado||L|fin|C1
+asymétrie d'information|asimetría de información||L|fin|C1
+aléa moral|riesgo moral||L|fin|C1
+sélection adverse|selección adversa||L|fin|C1
+théorie des jeux|teoría de juegos||L|fin|C1
+stratégie dominante|estrategia dominante||L|fin|C1
+allocation des ressources|asignación de recursos||L|fin|C1
+courbe d'indifférence|curva de indiferencia||L|fin|C1
+contrainte budgétaire|restricción presupuestaria||L|fin|C1
+discrimination par les prix|discriminación de precios||L|fin|C1
+prédation tarifaire|depredación de precios||L|fin|C1
+contrat d'assurance|póliza de seguros||L|fin|C1
+assurance responsabilité civile|seguro de responsabilidad civil||L|fin|C1
+multirisque habitation|multirriesgo del hogar||L|fin|C1
+prime d'assurance|prima de seguro||L|fin|C1
+cotisation|cuota (de seguro)||S|fin|C1
+franchise|franquicia (del seguro)||S|fin|C1
+sinistre|siniestro||S|fin|C1
+déclaration de sinistre|declaración de siniestro||L|fin|C1
+constat amiable|parte amistoso||L|fin|C1
+expertise|peritación (de siniestros)||S|fin|C1
+indemnisation|indemnización||S|fin|C1
+indemnité journalière|indemnización diaria (por baja)||L|fin|C1
+souscripteur|tomador del seguro||S|fin|C1
+bénéficiaire|beneficiario (de la póliza)||S|fin|C1
+tiers payant|tercer pagador||L|fin|C1
+exclusion de garantie|exclusión de cobertura||L|fin|C1
+garantie décennale|garantía decenal||L|fin|C1
+valeur de rachat|valor de rescate||L|fin|C1
+rente viagère|renta vitalicia||S|fin|C1
+capital décès|capital por fallecimiento||L|fin|C1
+invalidité partielle|incapacidad parcial||L|fin|C1

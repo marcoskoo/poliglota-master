@@ -1,0 +1,292 @@
+ad hoc|ad hoc||L|ast|C2
+a posteriori|a posteriori||L|ast|C2
+grosso modo|grosso modo||L|ast|C2
+por assim dizer|por así decirlo||L|cmu|C2
+ex libris|ex libris||S|let|C2
+in extremis|in extremis||L|ast|C2
+a contrario sensu|a contrario sensu||L|ast|C2
+mutatis mutandis|mutatis mutandis||L|ast|C2
+sui generis|sui generis||L|ast|C2
+lapsus linguae|lapsus linguae||S|cmu|C2
+primus inter pares|primus inter pares||L|ast|C2
+casus belli|casus belli||S|ist|C2
+conditio sine qua non|conditio sine qua non||L|ast|C2
+ceteris paribus|ceteris paribus||L|fin|C2
+ex cathedra|ex cathedra||L|ast|C2
+apego|apego (vínculo afectivo)||S|sla|C2
+construtivismo|constructivismo||S|stu|C2
+egocentrismo|egocentrismo||S|sla|C2
+psicogênese|psicogénesis||S|sla|C2
+maturação|maduración||S|sla|C2
+socialização|socialización||S|sla|C2
+metacognição|metacognición||S|stu|C2
+avaliação formativa|evaluación formativa||S|stu|C2
+necessidades educativas especiais|necesidades educativas especiales||S|stu|C2
+estimulação precoce|estimulación temprana||S|sla|C2
+psicopedagogo|psicopedagogo||S|pro|C2
+desenvolvimento psicossocial|desarrollo psicosocial||S|sla|C2
+diferenciação pedagógica|atención a la diversidad||S|stu|C2
+funcionamento executivo|funcionamiento ejecutivo||S|sla|C2
+luto|duelo (por una pérdida)||S|emo|C2
+labilidade emocional|labilidad emocional||S|sla|C2
+catarse|catarsis||S|sla|C2
+resiliência|resiliencia||S|sla|C2
+psicose|psicosis||S|sla|C2
+psicofármaco|psicofármaco||S|sla|C2
+perturbação obsessivo-compulsiva|trastorno obsesivo-compulsivo||S|sla|C2
+psicoterapia|psicoterapia||S|sla|C2
+tomada de consciência|toma de conciencia||S|sla|C2
+compulsão|compulsión||S|sla|C2
+dissociação|disociación||S|sla|C2
+aliança terapêutica|alianza terapéutica||S|sla|C2
+sintomatologia|sintomatología||S|sla|C2
+regressão|regresión||S|sla|C2
+mecanismos de defesa|mecanismos de defensa||S|sla|C2
+devasso|disoluto (libertino)||A|ast|C2
+avareza|avaricia||S|ast|C2
+intemperança|intemperancia||S|ast|C2
+soberba|soberbia||S|ast|C2
+indolência|indolencia||S|ast|C2
+misericórdia|misericordia||S|ast|C2
+longanimidade|longanimidad||S|ast|C2
+pusilanimidade|pusilanimidad||S|ast|C2
+devassidão|disolución (libertinaje)||S|ast|C2
+prodigalidade|prodigalidad||S|ast|C2
+parcimónia|parsimonia||S|ast|C2
+iniquidade|iniquidad||S|ast|C2
+temperança|templanza||S|ast|C2
+desfaçatez|desfachatez||S|ast|C2
+envilecimento|envilecimiento||S|ast|C2
+empreendedorismo|emprendimiento||S|lav|C2
+capital semente|capital semilla||S|fin|C2
+ronda de financiamento|ronda de financiación||S|fin|C2
+avaliação de empresa|valoración de empresas||S|fin|C2
+plano de negócios|plan de negocio||S|fin|C2
+reorientação estratégica|reorientación estratégica||S|fin|C2
+incubadora de empresas|incubadora de empresas||S|fin|C2
+produto mínimo viável|producto mínimo viable||S|tec|C2
+fatia de mercado|cuota de mercado||S|fin|C2
+falência|quiebra (bancarrota)||S|fin|C2
+mentoria|mentoría||S|lav|C2
+tesouraria|tesorería||S|fin|C2
+autofinanciamento|autofinanciación||S|fin|C2
+receita recorrente|ingresos recurrentes||S|fin|C2
+cadeia de abastecimento|cadena de suministro||S|lav|C2
+armazém|almacén||S|lav|C2
+palete|palé (paleta)||S|lav|C2
+rotação de stocks|rotación de existencias||S|lav|C2
+última milha|última milla||S|lav|C2
+reposição contínua|reposición continua||S|lav|C2
+contentor|contenedor||S|tra|C2
+stock de segurança|stock de seguridad||S|lav|C2
+carga paletizada|carga paletizada||S|lav|C2
+nível de serviço|nivel de servicio||S|lav|C2
+preparação de encomendas|preparación de pedidos||S|lav|C2
+rastreabilidade|trazabilidad||S|lav|C2
+otimização de rotas|optimización de rutas||S|lav|C2
+subcontratação|subcontratación||S|lav|C2
+gargalo|cuello de botella||S|lav|C2
+segmentação|segmentación||S|fin|C2
+fidelização|fidelización||S|fin|C2
+funil de vendas|embudo de ventas||S|fin|C2
+público-alvo|público objetivo||S|fin|C2
+notoriedade de marca|notoriedad de marca||S|fin|C2
+publicidade testemunhal|publicidad testimonial||S|fin|C2
+comportamento do consumidor|comportamiento del consumidor||S|fin|C2
+conversão de vendas|conversión de ventas||S|fin|C2
+posicionamento de marca|posicionamiento de marca||S|fin|C2
+cartão de fidelização|tarjeta de fidelización||S|cmp|C2
+campanha promocional|campaña promocional||S|fin|C2
+análise da concorrência|análisis de la competencia||S|fin|C2
+cliente misterioso|cliente misterioso||S|fin|C2
+prospecção de clientes|prospección de clientes||S|fin|C2
+certificação|certificación||S|lav|C2
+controlo de qualidade|control de calidad||S|lav|C2
+conformidade|conformidad||S|lav|C2
+acreditação|acreditación||S|lav|C2
+entidade certificadora|organismo de certificación||S|lav|C2
+durabilidade|durabilidad||S|lav|C2
+não conformidade|no conformidad||S|lav|C2
+melhoria contínua|mejora continua||S|lav|C2
+indicador de desempenho|indicador de desempeño||S|lav|C2
+procedimento padrão|procedimiento estándar||S|lav|C2
+inspeção por amostragem|inspección por muestreo||S|lav|C2
+lote de fabricação|lote de fabricación||S|lav|C2
+homologação|homologación||S|lav|C2
+normalização técnica|normalización técnica||S|lav|C2
+garantia de qualidade|garantía de calidad||S|lav|C2
+jurisprudência|jurisprudencia||S|ist|C2
+acórdão|fallo (de tribunal superior)||S|ist|C2
+contestação|contestación (a la demanda)||S|ist|C2
+petição inicial|demanda (escrito inicial)||S|ist|C2
+execução de sentença|ejecución de sentencia||S|ist|C2
+sentença|sentencia||S|ist|C2
+prescrição|prescripción (extintiva)||S|ist|C2
+caducidade|caducidad||S|ist|C2
+usucapião|usucapión||S|ist|C2
+legítima|legítima (parte de la herencia)||S|ist|C2
+curador|curador (judicial)||S|pro|C2
+litispendência|litispendencia||S|ist|C2
+arresto|embargo (preventivo)||S|ist|C2
+registo predial|registro de la propiedad||S|ist|C2
+segredo de justiça|secreto de sumario||S|ist|C2
+diagnóstico diferencial|diagnóstico diferencial||S|sla|C2
+prognóstico|pronóstico||S|sla|C2
+iatrogenia|iatrogenia||S|sla|C2
+comorbidade|comorbilidad||S|sla|C2
+anamnese|anamnesis||S|sla|C2
+etiologia|etiología||S|sla|C2
+semiologia|semiología||S|sla|C2
+auscultação|auscultación||S|sla|C2
+posologia|posología||S|sla|C2
+contraindicação|contraindicación||S|sla|C2
+interação medicamentosa|interacción medicamentosa||S|sla|C2
+consentimento informado|consentimiento informado||S|sla|C2
+tromboembolia|tromboembolia||S|sla|C2
+complicação pós-operatória|complicación posoperatoria||S|sla|C2
+quadro clínico|cuadro clínico||S|sla|C2
+caderno de encargos|pliego de condiciones||S|lav|C2
+torção|torsión||S|sci|C2
+binário de aperto|par de apriete||S|sci|C2
+tolerância dimensional|tolerancia dimensional||S|sci|C2
+desgaste|desgaste||S|sci|C2
+fadiga do material|fatiga del material||S|sci|C2
+soldadura|soldadura||S|lav|C2
+fundição|fundición||S|lav|C2
+maquinagem|mecanizado||S|lav|C2
+alvenaria|albañilería||S|lav|C2
+betão armado|hormigón armado||S|lav|C2
+cabo de aço|cable de acero||S|lav|C2
+válvula de retenção|válvula de retención||S|lav|C2
+galvanização|galvanización||S|sci|C2
+norma técnica|norma técnica||S|lav|C2
+artigo científico|artículo científico||S|stu|C2
+revisão por pares|revisión por pares||S|stu|C2
+fator de impacto|factor de impacto||S|stu|C2
+referência bibliográfica|referencia bibliográfica||S|stu|C2
+estado da arte|estado del arte||S|stu|C2
+bolsa de investigação|beca de investigación||S|stu|C2
+orientador de doutoramento|director de tesis||S|pro|C2
+arguição|defensa (de tesis)||S|stu|C2
+agregação|habilitación (docente)||S|stu|C2
+linha de investigação|línea de investigación||S|stu|C2
+revisão da literatura|revisión de la literatura||S|stu|C2
+divulgação científica|divulgación científica||S|stu|C2
+grupo de controlo|grupo de control||S|stu|C2
+estudo piloto|estudio piloto||S|stu|C2
+pós-doutoramento|posdoctorado||S|stu|C2
+leilão|subasta||S|cmp|C2
+licitação|puja (licitación)||S|cmp|C2
+leiloeiro|subastador||S|pro|C2
+antiquário|anticuario||S|pro|C2
+cunho|cuño (acuñación)||S|cmp|C2
+numismática|numismática||S|cmp|C2
+medalhística|medallística||S|cmp|C2
+proveniência|procedencia||S|cmp|C2
+autenticidade|autenticidad||S|cmp|C2
+falsificação|falsificación||S|cmp|C2
+espólio|legado (fondo artístico)||S|cmp|C2
+restauro|restauración||S|cmp|C2
+colecionador|coleccionista||S|pro|C2
+valor de reserva|valor de reserva||S|cmp|C2
+exposição retrospetiva|exposición retrospectiva||S|art|C2
+cozinha de autor|cocina de autor||S|ris|C2
+menu de degustação|menú degustación||S|ris|C2
+vitivinícola|vitivinícola||A|ris|C2
+escanção|sumiller||S|pro|C2
+fundo de cozinha|fondo de cocina||S|ris|C2
+redução|reducción (de salsa)||S|ris|C2
+emulsão|emulsión||S|ris|C2
+sensação na boca|sensación en boca||S|ris|C2
+harmonização|maridaje||S|ris|C2
+aproveitamento integral|aprovechamiento integral||S|ris|C2
+produto da estação|producto de temporada||S|ris|C2
+cozinha molecular|cocina molecular||S|ris|C2
+guarnição|guarnición||S|ris|C2
+guia gastronómico|guía gastronómica||S|ris|C2
+deferência|deferencia||S|rel|C2
+mesura|mesura||S|ast|C2
+desavença|desavenencia||S|rel|C2
+rixa|riña (pendencia)||S|rel|C2
+obséquio|obsequio||S|rel|C2
+predileção|predilección||S|rel|C2
+patrocínio|patrocinio (protección)||S|rel|C2
+compadrio|compadrazgo||S|rel|C2
+reconciliação|reconciliación||S|rel|C2
+desafeição|desafección||S|rel|C2
+cordialidade|cordialidad||S|rel|C2
+afabilidade|afabilidad||S|rel|C2
+inimizade|enemistad||S|rel|C2
+urbanidade|urbanidad||S|rel|C2
+malquerença|malquerencia||S|rel|C2
+limiar anaeróbio|umbral anaeróbico||S|spt|C2
+consumo máximo de oxigénio|consumo máximo de oxígeno||S|spt|C2
+lactato|lactato||S|spt|C2
+hipertrofia muscular|hipertrofia muscular||S|spt|C2
+periodização do treino|periodización del entrenamiento||S|spt|C2
+sobretreinamento|sobreentrenamiento||S|spt|C2
+recuperação ativa|recuperación activa||S|spt|C2
+débito cardíaco|gasto cardíaco||S|spt|C2
+termorregulação|termorregulación||S|spt|C2
+esgotamento|agotamiento||S|spt|C2
+volume de treino|volumen de entrenamiento||S|spt|C2
+suplementação|suplementación||S|spt|C2
+hidratação|hidratación||S|spt|C2
+potência aeróbia|potencia aeróbica||S|spt|C2
+égua|yegua||S|ani|C2
+garanhão|semental||S|ani|C2
+ferrar|herrar||V|ani|C2
+cabresto|cabestro||S|ani|C2
+arreios|aperos||S|ani|C2
+picadeiro|picadero (para equitación)||S|spt|C2
+picaria|equitación (arte de montar)||S|spt|C2
+puro-sangue|purasangre||S|ani|C2
+canil|perrera (criadero)||S|ani|C2
+ninhada|camada||S|ani|C2
+padreador|reproductor (macho de cría)||S|ani|C2
+livro genealógico|libro genealógico||S|ani|C2
+adestramento|adiestramiento||S|ani|C2
+exposição canina|exposición canina||S|ani|C2
+depressão atmosférica|borrasca||S|cli|C2
+frente fria|frente fría||S|cli|C2
+precipitação extrema|precipitación extrema||S|cli|C2
+temporal|temporal (mar tormentoso)||S|cli|C2
+rajada|ráfaga||S|cli|C2
+saraiva|granizo||S|cli|C2
+nevoeiro|niebla||S|cli|C2
+previsão numérica do tempo|predicción numérica del tiempo||S|sci|C2
+modelo de previsão|modelo de predicción||S|sci|C2
+aviso de mau tempo|aviso de mal tiempo||S|cli|C2
+ola de calor|ola de calor||S|cli|C2
+escassez hídrica|escasez hídrica||S|nat|C2
+tromba de água|manga de agua||S|cli|C2
+radiosonda|radiosonda||S|sci|C2
+sem dúvida alguma|sin duda alguna||L|cnn|C2
+digamos que|digamos que||E|cnn|C2
+convém sublinhar que|conviene subrayar que||E|cnn|C2
+seja como for|sea como fuere||L|cnn|C2
+por mais que|por más que||C|cnn|C2
+a bem dizer|a decir verdad||L|cnn|C2
+fora de dúvida|fuera de duda||L|cnn|C2
+em última análise|en última instancia||L|cnn|C2
+não fosse isso|si no fuera por eso||L|cnn|C2
+salvo melhor opinião|salvo mejor opinión||L|cnn|C2
+para mais|para colmo||L|cnn|C2
+ainda por cima|por si fuera poco||L|cnn|C2
+de sobremaneira|en gran medida||L|cnn|C2
+não sem razão|no sin razón||L|cnn|C2
+se nada me falha|si no me falla la memoria||E|cnn|C2
+plano diretor|plan director||S|cit|C2
+frente ribeirinha|frente ribereño||S|cit|C2
+mobilidade suave|movilidad suave||S|cit|C2
+corredor verde|corredor verde||S|cit|C2
+pavimento permeável|pavimento permeable||S|cit|C2
+águas pluviais|aguas pluviales||S|cit|C2
+bairro histórico|barrio histórico||S|cit|C2
+requalificação|recualificación||S|cit|C2
+percurso pedonal|itinerario peatonal||S|cit|C2
+ciclovia|carril bici||S|cit|C2
+densidade edificada|densidad edificada||S|cit|C2
+arborização|arbolado||S|cit|C2
+mobiliário urbano|mobiliario urbano||S|cit|C2
+paisagem protegida|paisaje protegido||S|nat|C2

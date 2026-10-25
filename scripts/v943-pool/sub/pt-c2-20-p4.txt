@@ -1,0 +1,292 @@
+aterosclerose|aterosclerosis||S|sla|C2
+estenose|estenosis||S|sla|C2
+reestenose|reestenosis||S|sla|C2
+fibrilação auricular|fibrilación auricular||S|sla|C2
+angina de peito|angina de pecho||S|sla|C2
+embolia pulmonar|embolia pulmonar||S|sla|C2
+trombo|trombo||S|sla|C2
+sopro cardíaco|soplo cardíaco||S|sla|C2
+sibilância|sibilancias||S|sla|C2
+crepitações|crepitantes (estertores)||S|sla|C2
+cardiomiopatia|miocardiopatía||S|sla|C2
+endocardite|endocarditis||S|sla|C2
+valvulopatia|valvulopatía||S|sla|C2
+prova de esforço|prueba de esfuerzo||S|sla|C2
+hipertiroidismo|hipertiroidismo||S|sla|C2
+tireotoxicose|tireotoxicosis||S|sla|C2
+insulinoresistência|insulinorresistencia||S|sla|C2
+hipófise|hipófisis||S|cor|C2
+suprarrenal|suprarrenal (glándula)||A|cor|C2
+acromegalia|acromegalia||S|sla|C2
+hipogonadismo|hipogonadismo||S|sla|C2
+hipercortisolismo|hipercortisolismo||S|sla|C2
+homeostasia|homeostasis||S|sci|C2
+catabolismo|catabolismo||S|sci|C2
+anabolizante|anabolizante (esteroides)||A|spt|C2
+bócio|bocio||S|sla|C2
+obesidade mórbida|obesidad mórbida||S|sla|C2
+eutiroidismo|eutiroidismo||S|sla|C2
+psoríase|psoriasis||S|sla|C2
+urticária|urticaria||S|sla|C2
+prurido|prurito||S|sla|C2
+dermatite atópica|dermatitis atópica||S|sla|C2
+líquen plano|liquen plano||S|sla|C2
+eritema|eritema||S|sla|C2
+biópsia|biopsia||S|sla|C2
+esclerodermia|esclerodermia||S|sla|C2
+angioedema|angioedema||S|sla|C2
+anafilaxia|anafilaxia||S|sla|C2
+histamina|histamina||S|sla|C2
+fototerapia|fototerapia||S|sla|C2
+crioterapia|crioterapia||S|sla|C2
+queratose|queratosis||S|sla|C2
+metástase|metástasis||S|sla|C2
+neoadjuvante|neoadyuvante||A|sla|C2
+recidiva|recaída (oncológica)||S|sla|C2
+oncologia de precisão|oncología de precisión||S|sla|C2
+estadiamento|estadificación (del tumor)||S|sla|C2
+mutação somática|mutación somática||S|sla|C2
+angiogénese|angiogénesis||S|sci|C2
+cuidados continuados|cuidados continuados||S|sla|C2
+sedação paliativa|sedación paliativa||S|sla|C2
+tratamento dirigido|terapéutica dirigida||S|sla|C2
+marcador tumoral|marcador tumoral||S|sla|C2
+citostático|citostático||A|sla|C2
+linfadenopatia|linfadenopatía||S|sla|C2
+neoplasia|neoplasia||S|sla|C2
+eletroencefalograma|electroencefalograma||S|sla|C2
+cefalorraquidiano|cefalorraquídeo||A|cor|C2
+cefaleia|cefalea||S|sla|C2
+neurodegeneração|neurodegeneración||S|sla|C2
+neurite|neuritis||S|sla|C2
+radiculopatia|radiculopatía||S|sla|C2
+eletromiografia|electromiografía||S|sla|C2
+punção lombar|punción lumbar||S|sla|C2
+arteriografia|arteriografía||S|sla|C2
+tremor essencial|temblor esencial||S|sla|C2
+disartria|disartria||S|sla|C2
+défice cognitivo|deterioro cognitivo||S|sla|C2
+paresia|paresia||S|sla|C2
+fasciculação|fasciculación||S|sla|C2
+nefron|nefrona||S|cor|C2
+alvéolo|alvéolo||S|cor|C2
+necrose|necrosis||S|sla|C2
+isquemia|isquemia||S|sla|C2
+atrésia|atresia (congénita)||S|sla|C2
+fístula|fístula||S|sla|C2
+sínovia|sinovia||S|cor|C2
+peritoneu|peritoneo||S|cor|C2
+mediastino|mediastino||S|cor|C2
+íleon|íleon||S|cor|C2
+timo|timo (glándula)||S|cor|C2
+bronquíolo|bronquiolo||S|cor|C2
+epitélio|epitelio||S|cor|C2
+endotélio|endotelio||S|sla|C2
+solilóquio|soliloquio||S|let|C2
+encenação|puesta en escena||S|art|C2
+dramaturgia|dramaturgia||S|art|C2
+cenografia|escenografía||S|art|C2
+ária|aria (ópera)||S|mus|C2
+libreto|libreto||S|mus|C2
+auto sacramental|auto sacramental||S|let|C2
+estribilho|estribillo||S|mus|C2
+glosa|glosa (composición poética)||S|let|C2
+vilancico|villancico||S|mus|C2
+endecassílabo|endecasílabo||S|let|C2
+heptassílabo|heptasílabo||S|let|C2
+cesura|cesura||S|let|C2
+pé quebrado|pie quebrado (métrica)||S|let|C2
+travessia|travesía||S|vig|C2
+bivaque|vivac||S|vig|C2
+montanhismo|montañismo||S|spt|C2
+espeleologia|espeleología||S|spt|C2
+jangada|jangada (balsa)||S|vig|C2
+caravela|carabela||S|vig|C2
+nau|nau (navío)||S|vig|C2
+expedição científica|expedición científica||S|vig|C2
+hipoxia|hipoxia (de altitud)||S|sla|C2
+escorbuto|escorbuto||S|sla|C2
+periplo|periplo||S|vig|C2
+descobrimento|descubrimiento||S|vig|C2
+roteiro|itinerario (guion de viaje)||S|vig|C2
+estiva|estiba||S|tra|C2
+plano-sequência|plano secuencia||S|cin|C2
+montagem|montaje||S|cin|C2
+argumento|guion (cine)||S|cin|C2
+pós-produção|posproducción||S|cin|C2
+anacrónico|anacrónico||A|cin|C2
+câmara subjetiva|cámara subjetiva||S|cin|C2
+corte seco|corte seco||S|cin|C2
+escaleta|escaleta (guion)||S|cin|C2
+som direto|sonido directo||S|cin|C2
+profundidade de campo|profundidad de campo||S|cin|C2
+direção de fotografia|dirección de fotografía||S|cin|C2
+cartela|cartela (créditos)||S|cin|C2
+contracampo|contracampo||S|cin|C2
+movimento de câmara|movimiento de cámara||S|cin|C2
+natalidade|natalidad||S|ast|C2
+fecundidade|fecundidad||S|ast|C2
+envelhecimento|envejecimiento||S|ast|C2
+pirâmide etária|pirámide de población||S|ast|C2
+transição demográfica|transición demográfica||S|ast|C2
+longevidade|longevidad||S|ast|C2
+monoparental|monoparental (familia)||A|fam|C2
+agregado familiar|unidad familiar||S|fam|C2
+afinidade|afinidad (vínculo por matrimonio)||S|fam|C2
+família de acolhimento|familia de acogida||S|fam|C2
+emancipação|emancipación||S|fam|C2
+mortalidade infantil|mortalidad infantil||S|sla|C2
+nupcialidade|nupcialidad||S|ast|C2
+coabitação|cohabitación||S|fam|C2
+socalco|bancal (terraza agrícola)||S|nat|C2
+ruela|calleja||S|cit|C2
+arraial|verbena (fiesta popular)||S|sve|C2
+rossio|descampado (a las afueras)||S|cit|C2
+alpendre|porche (entrada cubierta)||S|cas|C2
+sobreloja|entresuelo||S|cit|C2
+cariátide|cariátide||S|art|C2
+atlante|atlante (escultura)||S|art|C2
+ménsula|ménsula||S|art|C2
+lintel|dintel||S|art|C2
+abóbada|bóveda||S|art|C2
+arcobotante|arbotante||S|art|C2
+plinto|plinto||S|art|C2
+bovedilha|bovedilla (forjado)||S|art|C2
+casta|cepa (variedad de uva)||S|ris|C2
+harmonização|maridaje (de vinos)||S|ris|C2
+emulsão|emulsión (salsas)||S|ris|C2
+redução|reducción (de salsa)||S|ris|C2
+cozedura|cocción||S|ris|C2
+enchido|embutido||S|ali|C2
+estágio|crianza (envejecimiento en barrica)||S|ris|C2
+enxerto|injerto (de vid)||S|nat|C2
+tasca|tasca (taberna típica)||S|ris|C2
+menu de degustação|menú degustación||S|ris|C2
+confecionar|elaborar (un plato)||V|ris|C2
+molho-mãe|salsa madre||S|ris|C2
+cozinha de autor|cocina de autor||S|ris|C2
+brasear|asar a la brasa||V|ris|C2
+holótipo|holotipo||S|sci|C2
+espécime|espécimen||S|sci|C2
+nomenclatura binomial|nomenclatura binomial||S|sci|C2
+filogenia|filogenia||S|sci|C2
+cladística|cladística||S|sci|C2
+predação|depredación||S|ani|C2
+estirpe|estirpe (linaje)||S|nat|C2
+estivação|estivación (letargo estival)||S|ani|C2
+parada nupcial|parada nupcial (display)||S|ani|C2
+territorialidade|territorialidad||S|ani|C2
+nidificação|nidificación||S|ani|C2
+espécie-chave|especie clave||S|nat|C2
+endemismo|endemismo||S|nat|C2
+ofídio|ofidio||S|ani|C2
+xerófila|xerófila||A|nat|C2
+sucessão ecológica|sucesión ecológica||S|nat|C2
+corredor ecológico|corredor ecológico||S|nat|C2
+charneca|páramo (lando inculto)||S|nat|C2
+sobreiro|alcornoque||S|nat|C2
+azinheira|encina||S|nat|C2
+esteva|jara||S|nat|C2
+medronheiro|madroño||S|nat|C2
+caducifólia|caducifolia||A|nat|C2
+epífita|epífita||S|nat|C2
+halófita|halófita||S|nat|C2
+estipe|estipe (tronco de palmera)||S|nat|C2
+povoamento florestal|poblamiento forestal||S|nat|C2
+desbaste|aclareo (claras)||S|nat|C2
+gajo|tío (jerga)||S|cmu|C2
+fixe|guay (jerga)||A|cmu|C2
+bué|un montón (jerga)||D|cmu|C2
+ganda|una barbaridad (jerga)||D|cmu|C2
+mangar|tomar el pelo (jerga)||V|cmu|C2
+bica|café solo (en Lisboa)||S|ris|C2
+bacano|estupendo, genial (jerga)||A|cmu|C2
+espinafrar|echar una bronca (jerga)||V|cmu|C2
+abrutar|embrutecer (jerga)||V|cmu|C2
+à chorrilho|a chorros (en cantidad)||L|cmu|C2
+gaiato|mozalbete (jerga)||S|cmu|C2
+cromo|pesado, pelmazo (jerga)||S|cmu|C2
+escangalhar|descoyuntar, destrozar (jerga)||V|cmu|C2
+espichar|estirar la pata (jerga)||V|cmu|C2
+broa|broa (pan de maíz)||S|ali|C2
+caldo verde|caldo verde (sopa de col)||S|ali|C2
+varina|pescadera (figura lisboeta)||S|pro|C2
+alfacinha|lisboeta de pura cepa (gentilicio popular)||S|cmu|C2
+tripeiro|nativo de Oporto (gentilicio popular)||S|cmu|C2
+alguidar|lebrillo||S|cas|C2
+gamela|gamella (artesa)||S|cas|C2
+espigueiro|hórreo||S|nat|C2
+lagar|lagar (de aceite)||S|nat|C2
+ceifa|siega||S|nat|C2
+restolho|rastrojo||S|nat|C2
+adufe|adufe (pandero)||S|mus|C2
+cavaquinho|cavaquinho (instrumento)||S|mus|C2
+careto|figura del carnaval rural (careto)||S|sve|C2
+envaidecimento|jactancia (vanagloria)||S|emo|C2
+consternação|consternación||S|emo|C2
+equanimidade|ecuaminidad||S|emo|C2
+impavidez|impavidez||S|emo|C2
+enfatuado|engreído||A|emo|C2
+animosidade|animosidad||S|emo|C2
+acrimónia|acrimonia||S|emo|C2
+desforra|desquite (venganza)||S|emo|C2
+deslumbramento|deslumbramiento||S|emo|C2
+desconsolo|desconsuelo||S|emo|C2
+regozijo|regocijo||S|emo|C2
+ufania|ufanía||S|emo|C2
+comiseração|conmiseración||S|emo|C2
+turbamento|atolondramiento (confusión)||S|emo|C2
+salvo-conduto|salvoconducto||S|ist|C2
+alvará|licencia (permiso)||S|ist|C2
+referenciação|derivación (sanitaria)||S|sla|C2
+internamento|ingreso (hospitalario)||S|sla|C2
+alta hospitalar|alta hospitalaria||S|sla|C2
+processo clínico|historia clínica||S|sla|C2
+escrivão|escribano (judicial)||S|pro|C2
+solicitador|procurador de tribunales (profesión portuguesa)||S|pro|C2
+oficial de justiça|oficial judicial||S|pro|C2
+habilitações|titulación (estudios)||S|stu|C2
+isenção de responsabilidade|exención de responsabilidad||S|ist|C2
+foro competente|jurisdicción competente||S|ist|C2
+arrematação|subasta judicial (adjudicación)||S|ist|C2
+devassa|devasa (instrucción histórica)||S|ist|C2
+escárnio|escarnio||S|cmu|C2
+mofa|mofa (burla)||S|cmu|C2
+insinuação|insinuación||S|cmu|C2
+duplicidade|doblez||S|cmu|C2
+malícia|malicia (doble sentido)||S|cmu|C2
+segundas intenções|segundas intenciones||S|cmu|C2
+entredito|entredicho||S|cmu|C2
+pudor|pudor||S|emo|C2
+recato|recato||S|cmu|C2
+meias palavras|medias palabras||S|cmu|C2
+entrelinhas|entre líneas||S|cmu|C2
+tácito|tácito||A|cmu|C2
+reticência|reticencia||S|cmu|C2
+fingimento|fingimiento||S|cmu|C2
+criptomoeda|criptomoneda||S|fin|C2
+tecnologia financeira|tecnología financiera||S|fin|C2
+carteira digital|cartera digital||S|fin|C2
+livro-razão|libro mayor||S|fin|C2
+contrato inteligente|contrato inteligente||S|tec|C2
+ativo digital|activo digital||S|fin|C2
+pagamentos instantâneos|pagos instantáneos||S|fin|C2
+banca aberta|banca abierta (open banking)||S|fin|C2
+supervisão prudencial|supervisión prudencial||S|fin|C2
+resolução de bancos|resolución bancaria||S|fin|C2
+desmaterialização|desmaterialización (de valores)||S|fin|C2
+colateralização|colateralización||S|fin|C2
+titulização|titulización||S|fin|C2
+derivado de crédito|derivado de crédito||S|fin|C2
+quadrivium|cuadrivio||S|let|C2
+maiêutica|mayéutica||S|ast|C2
+escolástica|escolástica||S|ast|C2
+compêndio|compendio||S|stu|C2
+epítome|epítome||S|let|C2
+silogismo|silogismo||S|sci|C2
+entimema|entimema||S|let|C2
+paralogismo|paralogismo||S|sci|C2
+palimpsesto|palimpsesto||S|let|C2
+codicilo|codicilo (adenda testamentaria)||S|ist|C2
+colação de grau|colación de grados||S|stu|C2
+arguto|arguto (ingenioso)||A|let|C2

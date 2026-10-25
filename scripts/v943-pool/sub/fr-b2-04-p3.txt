@@ -1,0 +1,286 @@
+bien-être|bienestar||S|sla|B2
+bien dans sa peau|a gusto consigo mismo||E|emo|B2
+épanouissement|plenitud personal||S|emo|B2
+s'épanouir|desarrollarse plenamente||V|emo|B2
+sérénité|serenidad||S|emo|B2
+apaisement|calma||S|emo|B2
+anxiété|ansiedad||S|emo|B2
+angoisse|angustia||S|emo|B2
+dépression|depresión||S|sla|B2
+burn-out|desgaste profesional||S|lav|B2
+psychologue|psicólogo||S|pro|B2
+psychiatre|psiquiatra||S|pro|B2
+thérapie|terapia||S|sla|B2
+thérapeute|terapeuta||S|pro|B2
+remonter le moral|levantar el ánimo||E|emo|B2
+lâcher prise|soltar el control||E|emo|B2
+méditation|meditación||S|sla|B2
+pleine conscience|atención plena||S|sla|B2
+détente|relajación||S|sla|B2
+se détendre|relajarse||V|sla|B2
+activité physique|actividad física||S|spt|B2
+musculation|musculación||S|spt|B2
+échauffement|calentamiento||S|spt|B2
+courbatures|agujetas||S|spt|B2
+blessure|lesión||S|spt|B2
+se blesser|lesionarse||V|spt|B2
+entorse|esguince||S|spt|B2
+kinésithérapeute|fisioterapeuta||S|pro|B2
+se défouler|desahogarse||V|spt|B2
+s'évader|desconectar||V|sve|B2
+joie de vivre|alegría de vivir||S|emo|B2
+récupération|recuperación (muscular)||S|spt|B2
+recherche d'emploi|búsqueda de empleo||S|lav|B2
+demandeur d'emploi|demandante de empleo||S|lav|B2
+chômage|paro||S|lav|B2
+offre d'emploi|oferta de empleo||S|lav|B2
+candidat|candidato||S|lav|B2
+candidature spontanée|candidatura espontánea||S|lav|B2
+postuler|presentarse a un puesto||V|lav|B2
+lettre de motivation|carta de motivación||S|lav|B2
+rédiger|redactar||V|lav|B2
+expérience professionnelle|experiencia profesional||S|lav|B2
+compétence|competencia||S|lav|B2
+bilan de compétences|balance de competencias||S|lav|B2
+qualifié|cualificado||A|lav|B2
+savoir-faire|saber hacer||S|lav|B2
+savoir-être|competencias personales||S|lav|B2
+formation|formación||S|lav|B2
+diplôme|título||S|stu|B2
+diplômé|titulado||A|lav|B2
+stage|prácticas||S|lav|B2
+stagiaire|becario||S|lav|B2
+intérim|trabajo temporal||S|lav|B2
+contrat à durée déterminée|contrato temporal||S|lav|B2
+contrat à durée indéterminée|contrato indefinido||S|lav|B2
+salaire|salario||S|lav|B2
+rémunération|retribución||S|lav|B2
+parcours|trayectoria||S|lav|B2
+reconversion|reconversión profesional||S|lav|B2
+se reconvertir|reconvertirse||V|lav|B2
+atout|punto fuerte||S|lav|B2
+profil|perfil||S|lav|B2
+recruteur|reclutador||S|lav|B2
+employabilité|empleabilidad||S|lav|B2
+recruter|contratar (personal)||V|lav|B2
+sélection|selección||S|lav|B2
+présélection|preselección||S|lav|B2
+convocation|citación||S|lav|B2
+jury|tribunal de selección||S|lav|B2
+question piège|pregunta capciosa||S|lav|B2
+faire bonne impression|causar buena impresión||E|lav|B2
+se présenter|presentarse||V|lav|B2
+se mettre en valeur|realzar la propia valía||E|lav|B2
+mettre en avant|destacar||E|lav|B2
+argumenter|argumentar||V|lav|B2
+argument|argumento||S|lav|B2
+convaincant|convincente||A|lav|B2
+aisance|desenvoltura||S|lav|B2
+à l'aise|con soltura||A|lav|B2
+gérer|gestionar||V|lav|B2
+embaucher|contratar||V|lav|B2
+période d'essai|período de prueba||S|lav|B2
+lettre de recommandation|carta de recomendación||S|lav|B2
+recommandation|recomendación||S|lav|B2
+référence|referencia (laboral)||S|lav|B2
+tester|poner a prueba||V|lav|B2
+négocier|negociar||V|lav|B2
+signer|firmar||V|lav|B2
+intégration|incorporación (a la empresa)||S|lav|B2
+prendre ses fonctions|tomar posesión del cargo||E|lav|B2
+fonction|cargo||S|lav|B2
+tuteur|tutor (de prácticas)||S|lav|B2
+avantages en nature|retribución en especie||S|lav|B2
+profil recherché|perfil buscado||S|lav|B2
+faire ses preuves|demostrar la propia valía||E|lav|B2
+être retenu|quedar seleccionado||E|lav|B2
+évolution de carrière|evolución profesional||S|lav|B2
+carrière|carrera profesional||S|lav|B2
+évoluer|ascender (profesionalmente)||V|lav|B2
+avancement|ascenso||S|lav|B2
+gravir les échelons|escalar posiciones||E|lav|B2
+hiérarchie|jerarquía||S|lav|B2
+supérieur hiérarchique|superior jerárquico||S|lav|B2
+manager|responsable, jefe||S|lav|B2
+encadrant|responsable de equipo||S|lav|B2
+diriger|dirigir||V|lav|B2
+dirigeant|directivo||S|lav|B2
+déléguer|delegar||V|lav|B2
+prendre des responsabilités|asumir responsabilidades||E|lav|B2
+mutation|traslado||S|lav|B2
+licenciement|despido||S|lav|B2
+licencier|despedir||V|lav|B2
+restructuration|reestructuración||S|lav|B2
+rupture conventionnelle|despido pactado||S|lav|B2
+démission|dimisión||S|lav|B2
+démissionner|dimitir||V|lav|B2
+indemnité|indemnización||S|lav|B2
+allocation chômage|prestación por desempleo||S|lav|B2
+reclassement|recolocación||S|lav|B2
+retraite|jubilación||S|lav|B2
+retraité|jubilado||S|lav|B2
+plafond de verre|techo de cristal||S|lav|B2
+reconnaissance|reconocimiento (laboral)||S|lav|B2
+mérite|mérito||S|lav|B2
+augmentation|subida salarial||S|lav|B2
+revalorisation|revalorización||S|lav|B2
+chef de service|jefe de departamento||S|lav|B2
+réorientation|reorientación de carrera||S|lav|B2
+réunion|reunión||S|lav|B2
+participer à|participar en||V|lav|B2
+ordre du jour|orden del día||S|lav|B2
+animer|moderar (una reunión)||V|lav|B2
+compte rendu|acta||S|lav|B2
+rendre compte|dar cuentas||E|lav|B2
+faire le point|hacer balance||E|lav|B2
+statuer|resolver, decidir||V|lav|B2
+concertation|concertación||S|lav|B2
+consensus|consenso||S|lav|B2
+unanimité|unanimidad||S|lav|B2
+mettre aux voix|someter a votación||E|lav|B2
+accord|acuerdo||S|lav|B2
+désaccord|desacuerdo||S|lav|B2
+entente|entendimiento||S|lav|B2
+friction|fricción||S|lav|B2
+compromis|punto intermedio||S|lav|B2
+coopération|cooperación||S|lav|B2
+collaboration|colaboración||S|lav|B2
+collaborateur|colaborador||S|lav|B2
+s'entraider|ayudarse entre sí||V|lav|B2
+esprit d'équipe|espíritu de equipo||S|lav|B2
+cohésion|cohesión||S|lav|B2
+remue-méninges|lluvia de ideas||S|lav|B2
+intervention|intervención||S|lav|B2
+tour de table|ronda de intervenciones||S|lav|B2
+visioconférence|videoconferencia||S|lav|B2
+télétravail|teletrabajo||S|lav|B2
+échéance|fecha límite||S|lav|B2
+répartition des tâches|reparto de tareas||S|lav|B2
+surcharge|sobrecarga (de trabajo)||S|lav|B2
+sous-traitance|subcontratación||S|lav|B2
+droit du travail|derecho laboral||S|lav|B2
+convention collective|convenio colectivo||S|lav|B2
+salarié|asalariado||S|lav|B2
+employeur|empleador||S|lav|B2
+patronat|patronal||S|lav|B2
+syndicat|sindicato||S|lav|B2
+débrayage|huelga relámpago||S|lav|B2
+adhérent|afiliado||S|lav|B2
+adhérer|afiliarse||V|lav|B2
+grève|huelga||S|lav|B2
+gréviste|huelguista||S|lav|B2
+manifestation|manifestación||S|lav|B2
+revendication|reivindicación||S|lav|B2
+revendiquer|reivindicar||V|lav|B2
+dialogue social|diálogo social||S|lav|B2
+partenaires sociaux|agentes sociales||S|lav|B2
+arbitrage|arbitraje||S|lav|B2
+prud'hommes|tribunal laboral||S|ist|B2
+contentieux|contencioso||S|ist|B2
+discrimination|discriminación||S|lav|B2
+harcèlement|acoso||S|lav|B2
+harcèlement moral|acoso psicológico||S|lav|B2
+congé parental|permiso parental||S|lav|B2
+congés payés|vacaciones pagadas||S|lav|B2
+formation en alternance|formación dual||S|lav|B2
+apprenti|aprendiz||S|lav|B2
+délégué syndical|delegado sindical||S|lav|B2
+pouvoir d'achat|poder adquisitivo||S|fin|B2
+protection sociale|protección social||S|ist|B2
+égalité professionnelle|igualdad profesional||S|lav|B2
+négociation collective|negociación colectiva||S|lav|B2
+concours|oposición||S|stu|B2
+épreuve écrite|prueba escrita||S|stu|B2
+épreuve orale|prueba oral||S|stu|B2
+note|nota||S|stu|B2
+contrôle continu|evaluación continua||S|stu|B2
+coefficient|coeficiente||S|stu|B2
+mention|mención||S|stu|B2
+admis|admitido||A|stu|B2
+ajourné|suspenso||A|stu|B2
+rattrapage|examen de recuperación||S|stu|B2
+réussir|aprobar (un examen)||V|stu|B2
+échouer|fracasar||V|stu|B2
+échec|fracaso||S|stu|B2
+éliminatoire|eliminatorio||A|stu|B2
+copie|hoja de examen||S|stu|B2
+correcteur|corrector||S|pro|B2
+barème|baremo||S|stu|B2
+programme|temario||S|stu|B2
+réviser|repasar||V|stu|B2
+bachoter|empollar||V|stu|B2
+certificat|certificado||S|stu|B2
+certification|certificación||S|stu|B2
+brevet|diploma intermedio||S|stu|B2
+baccalauréat|selectividad||S|stu|B2
+master|máster||S|stu|B2
+doctorat|doctorado||S|stu|B2
+thèse|tesis||S|stu|B2
+soutenance|defensa (de tesis)||S|stu|B2
+valider|convalidar||V|stu|B2
+équivalence|homologación||S|stu|B2
+redoublement|repetición de curso||S|stu|B2
+obtention|obtención||S|stu|B2
+boursier|becado||S|stu|B2
+campus|campus||S|stu|B2
+faculté|facultad||S|stu|B2
+amphithéâtre|aula magna||S|stu|B2
+cours magistral|clase magistral||S|stu|B2
+travaux dirigés|clases prácticas||S|stu|B2
+semestre|semestre||S|stu|B2
+inscription|matrícula||S|stu|B2
+s'inscrire|matricularse||V|stu|B2
+résidence universitaire|residencia de estudiantes||S|stu|B2
+restaurant universitaire|comedor universitario||S|stu|B2
+emprunter|tomar prestado||V|stu|B2
+prise de notes|toma de apuntes||S|stu|B2
+annales|exámenes de años anteriores||S|stu|B2
+tutorat|tutoría||S|stu|B2
+orientation|orientación académica||S|stu|B2
+cursus|itinerario académico||S|stu|B2
+spécialisation|especialización||S|stu|B2
+option|asignatura optativa||S|stu|B2
+filière|rama de estudios||S|stu|B2
+prestigieux|prestigioso||A|stu|B2
+vie étudiante|vida universitaria||S|stu|B2
+aide financière|ayuda económica||S|stu|B2
+prêt étudiant|préstamo para estudiantes||S|stu|B2
+partiels|parciales||S|stu|B2
+année d'échange|año de intercambio||S|stu|B2
+année de césure|año sabático||S|stu|B2
+rentrée|comienzo de curso||S|stu|B2
+bureau des étudiants|delegación de alumnos||S|stu|B2
+polycopié|apuntes fotocopiados||S|stu|B2
+niveau d'études|nivel de estudios||S|stu|B2
+méthode de travail|método de trabajo||S|stu|B2
+mémoriser|memorizar||V|stu|B2
+mémorisation|memorización||S|stu|B2
+apprendre par cœur|aprender de memoria||E|stu|B2
+retenir|retener||V|stu|B2
+assimiler|asimilar||V|stu|B2
+fiche de révision|ficha de repaso||S|stu|B2
+s'exercer|practicar||V|stu|B2
+surligner|subrayar||V|stu|B2
+annoter|anotar||V|stu|B2
+schéma|esquema||S|stu|B2
+résumé|resumen||S|stu|B2
+reformuler|reformular||V|stu|B2
+synthèse|síntesis||S|stu|B2
+prendre du recul|tomar perspectiva||E|stu|B2
+esprit critique|espíritu crítico||S|stu|B2
+analyser|analizar||V|stu|B2
+raisonnement|razonamiento||S|stu|B2
+déduction|deducción||S|stu|B2
+incompréhension|incomprensión||S|stu|B2
+lacune|laguna||S|stu|B2
+blocage|bloqueo mental||S|stu|B2
+procrastination|procrastinación||S|stu|B2
+se concentrer|concentrarse||V|stu|B2
+distraction|distracción||S|stu|B2
+régularité|constancia||S|stu|B2
+assidu|aplicado||A|stu|B2
+évaluation|evaluación||S|stu|B2
+évaluer|evaluar||V|stu|B2
+progression|progresión||S|stu|B2
+persévérance|perseverancia||S|stu|B2
+motivation|motivación||S|stu|B2

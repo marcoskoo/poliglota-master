@@ -1,0 +1,294 @@
+contrato inteligente|contrato inteligente||S|tec|C2
+registo distribuído|registro distribuido||S|tec|C2
+mecanismo de consenso|mecanismo de consenso||S|tec|C2
+criptoativo|criptoactivo||S|fin|C2
+carteira digital|cartera digital||S|fin|C2
+nó de rede|nodo de red||S|tec|C2
+assinatura digital|firma digital||S|tec|C2
+descentralização|descentralización||S|tec|C2
+prova de trabalho|prueba de trabajo||S|tec|C2
+prova de participação|prueba de participación||S|tec|C2
+tokenização|tokenización||S|fin|C2
+imutabilidade|inmutabilidad||S|tec|C2
+criptografia de chave pública|criptografía de clave pública||S|tec|C2
+livro-razão|libro mayor||S|fin|C2
+identificação biométrica|identificación biométrica||S|tec|C2
+reconhecimento de íris|reconocimiento de iris||S|tec|C2
+impressão dactilar|huella dactilar||S|tec|C2
+reconhecimento de padrões|reconocimiento de patrones||S|tec|C2
+falsos positivos|falsos positivos||S|tec|C2
+extração de características|extracción de características||S|tec|C2
+classificação supervisionada|clasificación supervisada||S|tec|C2
+verificação de identidade|verificación de identidad||S|tec|C2
+ajuste fino|ajuste fino (de modelo)||S|tec|C2
+segmentação de imagem|segmentación de imagen||S|tec|C2
+dactiloscopia|dactiloscopia||S|tec|C2
+ataque de apresentação|ataque de presentación||S|tec|C2
+limiar de decisão|umbral de decisión||S|tec|C2
+aprendizagem profunda|aprendizaje profundo||S|tec|C2
+cidade inteligente|ciudad inteligente||S|cit|C2
+sensor remoto|sensor remoto||S|tec|C2
+atuador|actuador||S|tec|C2
+computação em nuvem|computación en la nube||S|tec|C2
+telemedicina|telemedicina||S|sla|C2
+mobilidade urbana|movilidad urbana||S|cit|C2
+telegestão|telegestión||S|tec|C2
+protocolo de comunicação|protocolo de comunicación||S|tec|C2
+interoperabilidade|interoperabilidad||S|tec|C2
+domótica|domótica||S|tec|C2
+rede elétrica inteligente|red eléctrica inteligente||S|tec|C2
+segurança cibernética|seguridad cibernética||S|tec|C2
+monitorização remota|monitorización remota||S|tec|C2
+objeto conectado|objeto conectado||S|tec|C2
+realidade virtual|realidad virtual||S|tec|C2
+realidade aumentada|realidad aumentada||S|tec|C2
+imersão|inmersión||S|tec|C2
+óculos de imersão|gafas de inmersión||S|tec|C2
+simulação de voo|simulación de vuelo||S|tec|C2
+consola de jogos|consola de videojuegos||S|sve|C2
+jogo multijogador|juego multijugador||S|sve|C2
+motor gráfico|motor gráfico||S|tec|C2
+modo história|modo historia||S|sve|C2
+mundo aberto|mundo abierto||S|sve|C2
+tecnologia háptica|tecnología háptica||S|tec|C2
+presença imersiva|presencia inmersiva||S|tec|C2
+telepresença|telepresencia||S|tec|C2
+som binaural|sonido binaural||S|tec|C2
+erupção freática|erupción freática||S|nat|C2
+cratera de abatimento|caldera de hundimiento||S|nat|C2
+câmara magmática|cámara magmática||S|nat|C2
+piroclasto|piroclasto||S|nat|C2
+escoamento de lava|flujo de lava||S|nat|C2
+fumarola|fumarola||S|nat|C2
+sismógrafo|sismógrafo||S|nat|C2
+escala de intensidade|escala de intensidad||S|nat|C2
+deslizamento de terras|desprendimiento de tierras||S|nat|C2
+maremoto|maremoto||S|nat|C2
+nuvem ardente|nube ardiente||S|nat|C2
+instabilidade de vertente|inestabilidad de ladera||S|nat|C2
+vigilância sísmica|vigilancia sísmica||S|nat|C2
+falha geológica|falla geológica||S|nat|C2
+ecossistema dulçaquícola|ecosistema de agua dulce||S|nat|C2
+eutrofização|eutrofización||S|nat|C2
+leito do rio|cauce del río||S|nat|C2
+zona húmida|humedal||S|nat|C2
+macrófito|macrófito||S|nat|C2
+caudal ecológico|caudal ecológico||S|nat|C2
+planície de inundação|llanura de inundación||S|nat|C2
+carga de sedimentos|carga de sedimentos||S|nat|C2
+lagoa costeira|albufera||S|nat|C2
+linha de água|línea de agua (cauce)||S|nat|C2
+termoclina|termoclina||S|nat|C2
+turfeira|turbera||S|nat|C2
+macroinvertebrado bentónico|macroinvertebrado bentónico||S|nat|C2
+regime hidrológico|régimen hidrológico||S|nat|C2
+rotação de culturas|rotación de cultivos||S|nat|C2
+adubação|fertilización||S|nat|C2
+pousio|barbecho||S|nat|C2
+percolação|percolación||S|nat|C2
+salinização do solo|salinización del suelo||S|nat|C2
+cultivo protegido|cultivo protegido||S|nat|C2
+rega gota-a-gota|riego por goteo||S|nat|C2
+húmus|húmus||S|nat|C2
+gestão integrada de pragas|gestión integrada de plagas||S|nat|C2
+agricultura de precisão|agricultura de precisión||S|nat|C2
+lavoura de conservação|agricultura de conservación||S|nat|C2
+teor de humidade|contenido de humedad||S|nat|C2
+compactação|compactación||S|nat|C2
+fertilidade do solo|fertilidad del suelo||S|nat|C2
+pecuária extensiva|ganadería extensiva||S|ani|C2
+engorda|cebo (engorde)||S|ani|C2
+tosquia|esquilado||S|ani|C2
+transumância|trashumancia||S|ani|C2
+arte de pesca|arte de pesca||S|ani|C2
+quota pesqueira|cuota pesquera||S|ani|C2
+criação em cativeiro|cría en cautividad||S|ani|C2
+desova|desove||S|ani|C2
+viveiro de peixes|piscifactoría||S|ani|C2
+apanha|captura (de marisco)||S|ani|C2
+raça autóctone|raza autóctona||S|ani|C2
+apicultura|apicultura||S|ani|C2
+ovil|redil (aprisco)||S|ani|C2
+mariscar|mariscar||V|ani|C2
+silvicultura|silvicultura||S|nat|C2
+povoamento florestal|masa forestal||S|nat|C2
+sub-bosque|sotobosque||S|nat|C2
+desbaste|aclareo||S|nat|C2
+eucaliptal|eucaliptal||S|nat|C2
+resinagem|resinación||S|nat|C2
+combustível fino|combustible fino||S|nat|C2
+fogo controlado|fuego controlado||S|nat|C2
+reabilitação pós-fogo|recuperación postincendio||S|nat|C2
+frente de chamas|frente de llamas||S|nat|C2
+vigia florestal|vigía forestal||S|pro|C2
+sementeira directa|siembra directa||S|nat|C2
+souto|castañar||S|nat|C2
+descortiçamento|descorche||S|nat|C2
+resíduo perigoso|residuo peligroso||S|nat|C2
+aterro sanitário|vertedero controlado||S|nat|C2
+incineração|incineración||S|nat|C2
+ecoconceção|ecodiseño||S|nat|C2
+valorização de resíduos|valorización de residuos||S|nat|C2
+logística reversa|logística inversa||S|fin|C2
+deposição em aterro|depósito en vertedero||S|nat|C2
+ponto de recolha|punto de recogida||S|cit|C2
+embalagem retornável|envase retornable||S|nat|C2
+tratamento mecânico-biológico|tratamiento mecánico-biológico||S|nat|C2
+pegada de carbono|huella de carbono||S|nat|C2
+economia circular|economía circular||S|fin|C2
+subproduto|subproducto||S|nat|C2
+desmaterialização|desmaterialización||S|nat|C2
+pusilânime|pusilánime||A|ast|C2
+inescrutável|inescrutable||A|ast|C2
+diletante|diletante||A|ast|C2
+obcecado|obcecado||A|ast|C2
+flemático|flemático||A|ast|C2
+magnânimo|magnánimo||A|ast|C2
+mesquinho|mezquino||A|ast|C2
+altivo|altivo||A|ast|C2
+servil|servil||A|ast|C2
+insidioso|insidioso||A|ast|C2
+circunspecto|circunspecto||A|ast|C2
+volúvel|voluble||A|ast|C2
+lacónico|lacónico||A|ast|C2
+inefável|inefable||A|ast|C2
+refutar|refutar||V|cmu|C2
+rebater|rebatir||V|cmu|C2
+preconizar|preconizar||V|cmu|C2
+aduzir|aducir||V|cmu|C2
+ponderar|ponderar||V|cmu|C2
+estigmatizar|estigmatizar||V|cmu|C2
+perorar|perorar||V|cmu|C2
+esgrimir|esgrimir||V|cmu|C2
+desmentir|desmentir||V|cmu|C2
+inferir|inferir||V|cmu|C2
+contradizer|contradecir||V|cmu|C2
+conjeturar|conjeturar||V|cmu|C2
+admoestar|amonestar||V|cmu|C2
+desdizer|desdecir||V|cmu|C2
+imbricação|imbricación||S|ast|C2
+epistemologia|epistemología||S|ast|C2
+problematização|problematización||S|ast|C2
+operacionalização|operacionalización||S|ast|C2
+heurística|heurística||S|ast|C2
+conjectura|conjetura||S|ast|C2
+axioma|axioma||S|ast|C2
+pressuposto|presupuesto (supuesto)||S|ast|C2
+metodologia|metodología||S|stu|C2
+interdisciplinaridade|interdisciplinariedad||S|ast|C2
+exequibilidade|viabilidad (factibilidad)||S|ast|C2
+verosimilhança|verosimilitud||S|ast|C2
+abrangência|alcance (amplitud)||S|ast|C2
+lacuna|laguna||S|ast|C2
+mendacidade|mendacidad||S|ast|C2
+veracidade|veracidad||S|ast|C2
+embuste|embuste||S|ast|C2
+falácia|falacia||S|ast|C2
+perfídia|perfidia||S|ast|C2
+subterfúgio|subterfugio||S|ast|C2
+solércia|astucia (malicia)||S|ast|C2
+desmentido|desmentido||S|cmu|C2
+impostura|impostura||S|ast|C2
+credulidade|credulidad||S|ast|C2
+verosímil|verosímil||A|ast|C2
+falaz|falaz||A|ast|C2
+logro|engaño (estafa)||S|ast|C2
+artimanha|artimaña||S|ast|C2
+deslumbramento|deslumbramiento||S|art|C2
+sobriedade|sobriedad||S|ast|C2
+exquisitez|exquisitez||S|art|C2
+deslealdade|deslealtad||S|ast|C2
+benevolência|benevolencia||S|ast|C2
+mesquinhez|mezquindad||S|ast|C2
+galhardia|gallardía (hidalguía)||S|ast|C2
+desvelo|desvelo (esmero)||S|ast|C2
+esmero|esmero||S|ast|C2
+formosura|hermosura||S|let|C2
+rectidão|rectitud||S|ast|C2
+torpeza|torpeza||S|ast|C2
+fidalguia|hidalguía||S|ast|C2
+depravação|depravación||S|ast|C2
+ordem de grandeza|orden de magnitud||S|ast|C2
+exíguo|exiguo||A|ast|C2
+acréscimo|incremento||S|ast|C2
+estimativa|estimación (aproximación)||S|ast|C2
+exponencialmente|exponencialmente||D|ast|C2
+desvio-padrão|desviación típica||S|ast|C2
+apreciável|apreciable||A|ast|C2
+irrisório|irrisorio||A|ast|C2
+sensivelmente|considerablemente (aproximadamente)||D|ast|C2
+incomensurável|inconmensurable||A|ast|C2
+quantitativamente|cuantitativamente||D|ast|C2
+progressão geométrica|progresión geométrica||S|ast|C2
+residual|residual||A|ast|C2
+granularidade|granularidad||S|ast|C2
+eufemismo|eufemismo||S|cmu|C2
+disfemismo|disfemismo||S|cmu|C2
+litote|lítote||S|cmu|C2
+meias-verdades|medias verdades||S|cmu|C2
+protocolo diplomático|protocolo diplomático||S|ist|C2
+fórmula de cortesia|fórmula de cortesía||S|cmu|C2
+eufemização|eufemización||S|cmu|C2
+frase de circunstância|frase de circunstancias||S|cmu|C2
+condolências|condolencias||S|cmu|C2
+tabu linguístico|tabú lingüístico||S|cmu|C2
+novilíngua|neolengua||S|cmu|C2
+epíteto|epíteto (calificativo)||S|cmu|C2
+circunspeção|circunspección||S|ast|C2
+jargão|jerga||S|cmu|C2
+alvorada|alborada||S|let|C2
+ermo|ermo (páramo)||A|let|C2
+penedia|pedregal (peñascales)||S|nat|C2
+sodalício|sodalicio||S|let|C2
+mavioso|enternecedor||A|let|C2
+lusco-fusco|penumbra (entre dos luces)||S|let|C2
+vagido|vagido||S|let|C2
+ermida|ermita||S|art|C2
+glicínio|glicinia||S|nat|C2
+corcel|corcel||S|ani|C2
+derradeiro|postrero (último)||A|let|C2
+esmaecer|desvanecerse||V|let|C2
+alva|alba||S|let|C2
+saudosismo|nostalgismo (culto a la saudade)||S|let|C2
+usança|usanza||S|let|C2
+dó|pena (compasión)||S|let|C2
+alimária|bestia (ganado)||S|let|C2
+assaz|bastante (harto)||D|let|C2
+destarte|de esta suerte (así pues)||D|cnn|C2
+outrossim|asimismo||D|cnn|C2
+mercê|merced (gracia)||S|let|C2
+vintém|vellón (moneda antigua)||S|let|C2
+serôdio|tardío||A|let|C2
+galantear|cortejar||V|rel|C2
+peanha|peana (pedestal)||S|art|C2
+cair em desuso|caer en desuso||E|let|C2
+esgar|desgarre (mueca)||S|let|C2
+fidalgo|hidalgo||S|pro|C2
+mormente|principalmente (sobre todo)||D|cnn|C2
+à revelia|a escondidas (sin su conocimiento)||L|cnn|C2
+ato contínuo|acto seguido||L|cnn|C2
+porventura|acaso (por casualidad)||D|cnn|C2
+decerto|sin duda (ciertamente)||D|cnn|C2
+não obstante|no obstante||C|cnn|C2
+mui|muy||D|cnn|C2
+por mor de|a causa de (por amor de)||L|cnn|C2
+malgrado|a pesar de||C|cnn|C2
+isso posto|dicho esto||L|cnn|C2
+por derradeiro|por último||L|cnn|C2
+posto que|puesto que||C|cnn|C2
+nisso|en ello (entonces)||D|cnn|C2
+antes pelo contrário|antes al contrario||L|cnn|C2
+entreouvir|oír a medias||V|cmu|C2
+rumorejar|rumorear||V|cmu|C2
+aludir|aludir||V|cmu|C2
+desabafar|desahogarse||V|emo|C2
+gaguejar|tartamudear||V|cmu|C2
+segredar|susurrar (al oído)||V|cmu|C2
+bradar|bramar (exclamar)||V|cmu|C2
+rosnar|grunir (refunfuñar)||V|cmu|C2
+gabar|alabar (presumir)||V|cmu|C2
+denegrir|denigrir||V|cmu|C2
+insuflar|insuflar (incitar)||V|cmu|C2
+replicar|replicar||V|cmu|C2
+noticiar|dar noticia (informar)||V|cmu|C2
+emudecer|enmudecer||V|cmu|C2

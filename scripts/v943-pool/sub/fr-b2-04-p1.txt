@@ -1,0 +1,286 @@
+naissance|nacimiento||S|fam|B2
+grossesse|embarazo||S|fam|B2
+accoucher|dar a luz||V|fam|B2
+nouveau-né|recién nacido||S|fam|B2
+petite enfance|primera infancia||S|fam|B2
+adolescence|adolescencia||S|fam|B2
+âge adulte|edad adulta||S|fam|B2
+maturité|madurez||S|fam|B2
+vieillesse|vejez||S|fam|B2
+troisième âge|tercera edad||S|fam|B2
+deuil|luto||S|fam|B2
+veuvage|viudedad||S|fam|B2
+veuf|viudo||S|fam|B2
+orphelin|huérfano||S|fam|B2
+fiançailles|esponsales||S|fam|B2
+se marier|casarse||V|fam|B2
+divorcer|divorciarse||V|fam|B2
+remariage|segundo matrimonio||S|fam|B2
+beau-père|suegro o padrastro||S|fam|B2
+belle-mère|suegra o madrastra||S|fam|B2
+demi-frère|hermanastro||S|fam|B2
+belle-sœur|cuñada||S|fam|B2
+jumeau|gemelo||S|fam|B2
+aîné|hermano mayor||S|fam|B2
+cadet|hermano menor||S|fam|B2
+benjamin|el benjamín de la familia||S|fam|B2
+cousin germain|primo hermano||S|fam|B2
+petit-enfant|nieto||S|fam|B2
+lignée|linaje||S|fam|B2
+descendance|descendencia||S|fam|B2
+hériter|heredar||V|fam|B2
+élever|criar (a los hijos)||V|fam|B2
+conflit|conflicto||S|fam|B2
+querelle|altercado||S|fam|B2
+dispute|pelea||S|fam|B2
+se disputer|pelearse||V|fam|B2
+se fâcher|enfadarse||V|fam|B2
+s'énerver|irritarse||V|fam|B2
+engueulade|bronca||S|fam|B2
+crise d'adolescence|crisis de adolescencia||S|fam|B2
+fuguer|fugarse de casa||V|fam|B2
+fugue|fuga de un adolescente||S|fam|B2
+désobéir|desobedecer||V|fam|B2
+obéissant|obediente||A|fam|B2
+punition|castigo||S|fam|B2
+punir|castigar||V|fam|B2
+priver de sortie|castigar sin salir||E|fam|B2
+récompense|recompensa||S|fam|B2
+récompenser|recompensar||V|fam|B2
+éducation|educación||S|fam|B2
+interdit|prohibido||A|fam|B2
+fixer des limites|poner límites||E|fam|B2
+autorité parentale|patria potestad||S|fam|B2
+autoritaire|autoritario||A|fam|B2
+permissif|permisivo||A|fam|B2
+conflit de générations|conflicto de generaciones||S|fam|B2
+se réconcilier|reconciliarse||V|fam|B2
+réconciliation|reconciliación||S|fam|B2
+mensonge|mentira||S|fam|B2
+mentir|mentir||V|fam|B2
+faire confiance|confiar en alguien||E|fam|B2
+surveiller|vigilar||V|fam|B2
+surprotecteur|sobreprotector||A|fam|B2
+dialogue|diálogo||S|fam|B2
+déménagement|mudanza||S|cas|B2
+déménager|mudarse||V|cas|B2
+s'installer|instalarse (en una vivienda)||V|cas|B2
+utilitaire|furgoneta de mudanza||S|cas|B2
+carton|caja de mudanza||S|cas|B2
+emballer|embalar||V|cas|B2
+déballer|desembalar||V|cas|B2
+location|alquiler||S|cas|B2
+louer|alquilar||V|cas|B2
+propriétaire|casero||S|cas|B2
+locataire|inquilino||S|cas|B2
+bail|contrato de arrendamiento||S|cas|B2
+loyer|renta del alquiler||S|cas|B2
+charges|gastos de comunidad||S|cas|B2
+dépôt de garantie|fianza||S|cas|B2
+caution|aval||S|cas|B2
+cautionner|avalar||V|cas|B2
+colocataire|compañero de piso||S|cas|B2
+colocation|piso compartido||S|cas|B2
+meublé|amueblado||A|cas|B2
+état des lieux|inventario de entrada y salida||S|cas|B2
+préavis|preaviso||S|cas|B2
+résilier|rescindir (un contrato)||V|cas|B2
+avis d'échéance|aviso de vencimiento||S|cas|B2
+agence immobilière|inmobiliaria||S|cas|B2
+quittance de loyer|recibo del alquiler||S|cas|B2
+assurance habitation|seguro de hogar||S|cas|B2
+copropriété|comunidad de propietarios||S|cas|B2
+surface habitable|superficie habitable||S|cas|B2
+voisinage|vecindad||S|cas|B2
+pénalité de retard|recargo por retraso||S|cas|B2
+reloger|realojar||V|cas|B2
+rénovation|reforma||S|cas|B2
+rénover|renovar||V|cas|B2
+travaux|obras||S|cas|B2
+chantier|obra (de construcción)||S|cas|B2
+devis|presupuesto||S|cas|B2
+artisan|profesional de oficios||S|pro|B2
+plombier|fontanero||S|pro|B2
+électricien|electricista||S|pro|B2
+maçon|albañil||S|pro|B2
+menuisier|carpintero||S|pro|B2
+cloison|tabique||S|cas|B2
+abattre une cloison|derribar un tabique||E|cas|B2
+isolant|aislante||S|cas|B2
+isolation|aislamiento (térmico)||S|cas|B2
+double vitrage|doble acristalamiento||S|cas|B2
+plomberie|fontanería||S|cas|B2
+parquet|suelo de madera||S|cas|B2
+faïence|azulejo||S|cas|B2
+papier peint|papel pintado||S|cas|B2
+plinthe|rodapié||S|cas|B2
+aménagement|acondicionamiento||S|cas|B2
+aménager|acondicionar||V|cas|B2
+décoration|decoración||S|cas|B2
+décorer|decorar||V|cas|B2
+ameublement|mobiliario||S|cas|B2
+commode|cómoda||S|cas|B2
+buffet|aparador||S|cas|B2
+canapé-lit|sofá cama||S|cas|B2
+table basse|mesa de centro||S|cas|B2
+lampe de chevet|lamparita de noche||S|cas|B2
+bricolage|bricolaje||S|cas|B2
+perceuse|taladro||S|cas|B2
+gastronomie|gastronomía||S|ali|B2
+spécialité|especialidad (culinaria)||S|ali|B2
+terroir|terruño||S|ali|B2
+fromagerie|quesería||S|ali|B2
+croûte|corteza||S|ali|B2
+charcuterie|embutidos||S|ali|B2
+boucherie|carnicería||S|ali|B2
+traiteur|tienda de platos preparados||S|ris|B2
+pâtisserie|pastelería||S|ali|B2
+pâtissier|pastelero||S|pro|B2
+boulangerie|panadería||S|ali|B2
+boulanger|panadero||S|pro|B2
+pain de campagne|pan de pueblo||S|ali|B2
+levain|masa madre||S|ali|B2
+confiserie|confitería||S|ali|B2
+mijoter|cocer a fuego lento||V|ali|B2
+rôtir|asar||V|ali|B2
+braiser|brasear||V|ali|B2
+gratiner|gratinar||V|ali|B2
+flamber|flamear||V|ali|B2
+réduire|reducir (una salsa)||V|ali|B2
+assaisonnement|aliño||S|ali|B2
+assaisonner|aliñar||V|ali|B2
+vinaigrette|vinagreta||S|ali|B2
+marinade|adobo||S|ali|B2
+mariner|marinar||V|ali|B2
+croquant|crujiente||A|ali|B2
+moelleux|esponjoso||A|ali|B2
+saveur|sabor||S|ali|B2
+dégustation|degustación||S|ali|B2
+gourmand|goloso||A|ali|B2
+convive|comensal||S|ris|B2
+régime|dieta||S|ali|B2
+faire un régime|hacer dieta||E|ali|B2
+calorie|caloría||S|ali|B2
+graisse|grasa||S|ali|B2
+gras|graso||A|ali|B2
+sucré|dulce||A|ali|B2
+salé|salado||A|ali|B2
+équilibré|equilibrado||A|ali|B2
+intolérance|intolerancia||S|sla|B2
+intolérance au lactose|intolerancia a la lactosa||S|sla|B2
+allergie|alergia||S|sla|B2
+allergique|alérgico||A|sla|B2
+gluten|gluten||S|ali|B2
+végétarien|vegetariano||A|ali|B2
+végétalien|vegano||A|ali|B2
+bio|ecológico||A|ali|B2
+nutrition|nutrición||S|ali|B2
+nutritionniste|nutricionista||S|pro|B2
+diététicien|dietista||S|pro|B2
+protéine|proteína||S|ali|B2
+glucide|hidrato de carbono||S|ali|B2
+vitamine|vitamina||S|ali|B2
+carence|carencia||S|sla|B2
+déshydratation|deshidratación||S|sla|B2
+grignotage|picoteo||S|ali|B2
+grignoter|picotear||V|ali|B2
+sauter un repas|saltarse una comida||E|ali|B2
+fringale|ataque de hambre||S|ali|B2
+surpoids|sobrepeso||S|sla|B2
+obésité|obesidad||S|sla|B2
+maigrir|adelgazar||V|sla|B2
+grossir|engordar||V|sla|B2
+épicé|especiado||A|ali|B2
+pimenté|picante||A|ali|B2
+blé|trigo||S|ali|B2
+farine|harina||S|ali|B2
+semoule|sémola||S|ali|B2
+couscous|cuscús||S|ali|B2
+tajine|tajín||S|ali|B2
+cuisine de rue|cocina callejera||S|ali|B2
+cuisine fusion|cocina fusión||S|ali|B2
+huile d'olive|aceite de oliva||S|ali|B2
+herbes aromatiques|hierbas aromáticas||S|ali|B2
+sauce soja|salsa de soja||S|ali|B2
+vinaigre|vinagre||S|ali|B2
+moutarde|mostaza||S|ali|B2
+sésame|sésamo||S|ali|B2
+cumin|comino||S|ali|B2
+curcuma|cúrcuma||S|ali|B2
+cannelle|canela||S|ali|B2
+safran|azafrán||S|ali|B2
+gingembre|jengibre||S|ali|B2
+échalote|chalota||S|ali|B2
+fenouil|hinojo||S|ali|B2
+aubergine|berenjena||S|ali|B2
+légumineuse|legumbre||S|ali|B2
+pois chiche|garbanzo||S|ali|B2
+lentille|lenteja||S|ali|B2
+haricot rouge|alubia||S|ali|B2
+patate douce|batata||S|ali|B2
+agrume|cítrico||S|ali|B2
+fruits de mer|marisco||S|ali|B2
+huître|ostra||S|ali|B2
+vignoble|viñedo||S|ali|B2
+vigneron|viticultor||S|pro|B2
+vendanges|vendimia||S|ali|B2
+vendanger|vendimiar||V|ali|B2
+cépage|variedad de uva||S|ali|B2
+millésime|añada||S|ali|B2
+appellation|denominación de origen||S|ali|B2
+cave à vin|bodega||S|ali|B2
+caviste|bodeguero||S|pro|B2
+sommelier|sumiller||S|pro|B2
+bouchon|corcho||S|ali|B2
+tire-bouchon|sacacorchos||S|ali|B2
+carafe|garrafa||S|ali|B2
+décanter|decantar||V|ali|B2
+verre à vin|copa de vino||S|ali|B2
+robe|color del vino||S|ali|B2
+tanin|tanino||S|ali|B2
+arôme|aroma||S|ali|B2
+bouquet|bouquet (aroma)||S|ali|B2
+mousseux|espumoso||A|ali|B2
+amer|amargo||A|ali|B2
+corsé|con cuerpo||A|ali|B2
+torréfaction|tueste del café||S|ali|B2
+grain de café|grano de café||S|ali|B2
+moulu|molido||A|ali|B2
+cafetière|cafetera||S|ali|B2
+expresso|expreso||S|ali|B2
+décaféiné|descafeinado||A|ali|B2
+capsule|cápsula||S|ali|B2
+comptoir|barra del bar||S|ris|B2
+pourboire|propina||S|ris|B2
+consommation|consumo||S|cmp|B2
+consommateur|consumidor||S|cmp|B2
+marketing|marketing||S|cmp|B2
+publicité|publicidad||S|cmp|B2
+publicitaire|publicitario||A|cmp|B2
+affiche|cartel publicitario||S|cmp|B2
+parrainage|patrocinio||S|cmp|B2
+slogan|eslogan||S|cmp|B2
+marque|marca||S|cmp|B2
+image de marque|imagen de marca||S|cmp|B2
+notoriété|notoriedad||S|cmp|B2
+cibler|dirigirse a un público||V|cmp|B2
+cible|público objetivo||S|cmp|B2
+clientèle|clientela||S|cmp|B2
+fidéliser|fidelizar||V|cmp|B2
+carte de fidélité|tarjeta de fidelidad||S|cmp|B2
+enseigne|cadena de tiendas||S|cmp|B2
+soldes|rebajas||S|cmp|B2
+réduction|descuento||S|cmp|B2
+bon de réduction|vale de descuento||S|cmp|B2
+offre|oferta||S|cmp|B2
+achat impulsif|compra impulsiva||S|cmp|B2
+arnaque|timo||S|cmp|B2
+arnaquer|timar||V|cmp|B2
+dépenses|gastos||S|fin|B2
+dépenser|gastar||V|fin|B2
+budget|presupuesto||S|fin|B2
+obsolescence programmée|obsolescencia programada||S|cmp|B2
+éthique|ético||A|cmp|B2
+influenceur|influencer||S|cmp|B2
+bouche à oreille|boca a boca||L|cmp|B2
+vitrine|escaparate||S|cmp|B2

@@ -1,0 +1,258 @@
+arrêt de travail|baja laboral||L|lav|C1
+mutuelle|mutua (sanitaria)||S|fin|C1
+prévoyance|previsión (complementaria)||S|fin|C1
+actuaire|actuario||S|pro|C1
+table de mortalité|tabla de mortalidad||L|fin|C1
+avaries communes|avería gruesa||L|fin|C1
+bris de glace|rotura de lunas||L|fin|C1
+souscription|contratación (de una póliza)||S|fin|C1
+résiliation|rescisión (del contrato)||S|fin|C1
+clause bénéficiaire|cláusula de beneficiarios||L|fin|C1
+économie du développement|economía del desarrollo||L|fin|C1
+pays émergent|país emergente||L|fin|C1
+aide au développement|ayuda al desarrollo||L|fin|C1
+coopération décentralisée|cooperación descentralizada||L|fin|C1
+assistance technique|asistencia técnica||L|fin|C1
+jumelage|hermanamiento (institucional)||S|ist|C1
+contrepartie|contrapartida (local)||S|fin|C1
+donateur|donante||S|pro|C1
+bailleur de fonds|financiador||L|fin|C1
+subvention|subvención||S|fin|C1
+allègement de la dette|alivio de la deuda||L|fin|C1
+dette odieuse|deuda odiosa||L|fin|C1
+ajustement structurel|ajuste estructural||L|fin|C1
+conditionnalité|condicionalidad (de la ayuda)||S|fin|C1
+microcrédit|microcrédito||S|fin|C1
+microfinance|microfinanzas||S|fin|C1
+inclusion financière|inclusión financiera||L|fin|C1
+paiement mobile|pago móvil||L|tec|C1
+bancarisation|bancarización||S|fin|C1
+soutien budgétaire|apoyo presupuestario||L|fin|C1
+commerce équitable|comercio justo||L|fin|C1
+biens publics mondiaux|bienes públicos mundiales||L|fin|C1
+biocapacité|biocapacidad||S|nat|C1
+empreinte écologique|huella ecológica||L|nat|C1
+croissance inclusive|crecimiento inclusivo||L|fin|C1
+filet social|red de protección social||L|fin|C1
+produit intérieur brut|producto interior bruto||L|fin|C1
+indice de développement|índice de desarrollo||L|fin|C1
+capital humain|capital humano||L|fin|C1
+fuite des cerveaux|fuga de cerebros||L|fin|C1
+vulnérabilité économique|vulnerabilidad económica||L|fin|C1
+chimie analytique|química analítica||L|sci|C1
+réactif|reactivo||S|sci|C1
+titrage|valoración (titulométrica)||S|sci|C1
+échantillonnage|muestreo||S|sci|C1
+solvant|disolvente||S|sci|C1
+soluté|soluto||S|sci|C1
+précipité|precipitado||S|sci|C1
+distillation fractionnée|destilación fraccionada||L|sci|C1
+chromatographie en phase gazeuse|cromatografía de gases||L|sci|C1
+spectrométrie de masse|espectrometría de masas||L|sci|C1
+spectrophotomètre|espectrofotómetro||S|sci|C1
+centrifugeuse|centrífuga||S|sci|C1
+verrerie de laboratoire|material de vidrio de laboratorio||L|sci|C1
+fiole jaugée|matraz aforado||L|sci|C1
+pipette graduée|pipeta graduada||L|sci|C1
+burette|bureta||S|sci|C1
+bécher|vaso de precipitados||S|sci|C1
+éprouvette graduée|probeta graduada||L|sci|C1
+filtrer sous vide|filtrar al vacío||L|sci|C1
+étalonnage|calibración||S|sci|C1
+marge d'erreur|margen de error||L|sci|C1
+seuil de détection|límite de detección||L|sci|C1
+contaminant chimique|contaminante químico||L|sci|C1
+composé organique volatil|compuesto orgánico volátil||L|sci|C1
+acidité titrable|acidez valorable||L|sci|C1
+dosage|dosificación (análisis)||S|sci|C1
+solution tampon|disolución tampón||L|sci|C1
+teneur|contenido (de un analito)||S|sci|C1
+pureté|pureza||S|sci|C1
+dénaturation|desnaturalización (de proteínas)||S|sci|C1
+bain-marie|baño maría||L|sci|C1
+physique du solide|física del estado sólido||L|sci|C1
+science des matériaux|ciencia de los materiales||L|sci|C1
+structure cristalline|estructura cristalina||L|sci|C1
+maille élémentaire|celda unitaria||L|sci|C1
+alliage|aleación||S|sci|C1
+phase allotropique|fase alotrópica||L|sci|C1
+semi-conducteur|semiconductor||S|tec|C1
+bande interdite|banda prohibida||L|sci|C1
+dopage|dopaje (de semiconductores)||S|sci|C1
+supraconductivité|superconductividad||S|sci|C1
+ferromagnétisme|ferromagnetismo||S|sci|C1
+aimantation|imantación||S|sci|C1
+hystérésis magnétique|histéresis magnética||L|sci|C1
+frittage|sinterización||S|sci|C1
+trempe|temple (metalúrgico)||S|sci|C1
+recuit|recocido||S|sci|C1
+écrouissage|endurecimiento por deformación||S|sci|C1
+rupture fragile|rotura frágil||L|sci|C1
+ténacité|tenacidad||S|sci|C1
+ductilité|ductilidad||S|sci|C1
+module d'élasticité|módulo elástico||L|sci|C1
+déformation plastique|deformación plástica||L|sci|C1
+fluage|fluencia||S|sci|C1
+fatigue des matériaux|fatiga de materiales||L|sci|C1
+contrainte résiduelle|tensión residual||L|sci|C1
+dislocation|dislocación (cristalina)||S|sci|C1
+défaut cristallin|defecto cristalino||L|sci|C1
+vitrocéramique|vitrocerámica||S|sci|C1
+matériau composite|material compuesto||L|sci|C1
+fibre de carbone|fibra de carbono||L|sci|C1
+polymérisation|polimerización||S|sci|C1
+sciences de l'atmosphère|ciencias de la atmósfera||L|sci|C1
+circulation atmosphérique|circulación atmosférica||L|sci|C1
+courant-jet|corriente en chorro||S|sci|C1
+anticyclone|anticiclón||S|cli|C1
+front occlus|frente ocluido||L|sci|C1
+masse d'air|masa de aire||L|sci|C1
+humidité relative|humedad relativa||L|sci|C1
+point de rosée|punto de rocío||L|sci|C1
+nébulosité|nubosidad||S|sci|C1
+précipitations diluviennes|precipitaciones torrenciales||L|sci|C1
+aridification|aridificación||S|sci|C1
+canicule|ola de calor||S|cli|C1
+vortex polaire|vórtice polar||L|sci|C1
+oscillation australe|oscilación austral||L|sci|C1
+circulation thermohaline|circulación termohalina||L|sci|C1
+acidification des océans|acidificación de los océanos||L|sci|C1
+montée des eaux|subida del nivel del mar||L|sci|C1
+cryosphère|criosfera||S|sci|C1
+pergélisol|permafrost (suelo helado permanente)||S|sci|C1
+calotte glaciaire|casquete glaciar||L|sci|C1
+fonte des glaces|deshielo de los casquetes||L|sci|C1
+bilan radiatif|balance radiativo||L|sci|C1
+forçage radiatif|forzamiento radiativo||L|sci|C1
+effet de serre|efecto invernadero||L|sci|C1
+rétroaction climatique|retroalimentación climática||L|sci|C1
+cyclone tropical|ciclón tropical||L|sci|C1
+régime des vents|régimen de vientos||L|sci|C1
+modèle climatique|modelo climático||L|sci|C1
+scénario de réchauffement|escenario de calentamiento||L|sci|C1
+atténuation|mitigación (climática)||S|sci|C1
+résilience des écosystèmes|resiliencia de los ecosistemas||L|nat|C1
+paléontologie|paleontología||S|sci|C1
+fossilisation|fosilización||S|sci|C1
+gisement fossilifère|yacimiento fosilífero||L|sci|C1
+strate sédimentaire|estrato sedimentario||L|sci|C1
+stratigraphie|estratigrafía||S|sci|C1
+datation radiométrique|datación radiométrica||L|sci|C1
+isotope radioactif|isótopo radiactivo||L|sci|C1
+sédimentation|sedimentación||S|sci|C1
+érosion éolienne|erosión eólica||L|sci|C1
+spéciation|especiación||S|sci|C1
+sélection naturelle|selección natural||L|sci|C1
+dérive génétique|deriva genética||L|sci|C1
+mutation ponctuelle|mutación puntual||L|sci|C1
+flux génétique|flujo génico||L|sci|C1
+succès reproductif|éxito reproductivo||L|sci|C1
+pression sélective|presión selectiva||L|sci|C1
+adaptation évolutive|adaptación evolutiva||L|sci|C1
+convergence évolutive|convergencia evolutiva||L|sci|C1
+ancêtre commun|ancestro común||L|sci|C1
+espèce-sœur|especie hermana||S|sci|C1
+radiation adaptative|radiación adaptativa||L|sci|C1
+extinction massive|extinción masiva||L|sci|C1
+cratère d'impact|cráter de impacto||L|sci|C1
+couche d'iridium|capa de iridio||L|sci|C1
+mégafaune|megafauna||S|ani|C1
+faune relicte|fauna relíctica||L|ani|C1
+formes de transition|formas de transición||L|sci|C1
+néoténie|neotenia||S|sci|C1
+atavisme|atavismo||S|sci|C1
+embryologie|embriología||S|sci|C1
+anatomie comparée|anatomía comparada||L|sci|C1
+virologie|virología||S|sci|C1
+virion|virión||S|sci|C1
+capside|cápside||S|sci|C1
+spicule|espícula (del virus)||S|sci|C1
+génome viral|genoma vírico||L|sci|C1
+cycle de réplication|ciclo de replicación||L|sci|C1
+réassortiment|reordenamiento genético (vírico)||S|sci|C1
+saut d'espèce|salto de especie||L|sci|C1
+zoonose|zoonosis||S|sci|C1
+contagiosité|contagiosidad||S|sci|C1
+période d'incubation|periodo de incubación||L|sla|C1
+porteur sain|portador sano||L|sla|C1
+séroconversion|seroconversión||S|sla|C1
+charge virale|carga viral||L|sla|C1
+antigène de surface|antígeno de superficie||L|sla|C1
+test sérologique|prueba serológica||L|sla|C1
+prélèvement nasopharyngé|muestra nasofaríngea||L|sla|C1
+culture cellulaire|cultivo celular||L|sci|C1
+souche atténuée|cepa atenuada||L|sla|C1
+rappel|dosis de recuerdo (vacunal)||S|sla|C1
+antiviral|antivírico||S|sla|C1
+trithérapie antirétrovirale|triple terapia antirretrovírica||L|sla|C1
+mutation de résistance|mutación de resistencia||L|sla|C1
+fièvre hémorragique|fiebre hemorrágica||L|sla|C1
+maladie opportuniste|enfermedad oportunista||L|sla|C1
+co-infection|coinfección||S|sla|C1
+surinfection|sobreinfección||S|sla|C1
+isolement|aislamiento (de pacientes)||S|sla|C1
+cordon sanitaire|cordón sanitario||L|sla|C1
+déclaration obligatoire|declaración obligatoria (de enfermedad)||L|sla|C1
+nosocomial|nosocomial (intrahospitalario)||A|sla|C1
+génie génétique|ingeniería genética||L|sci|C1
+thérapie génique|terapia génica||L|sla|C1
+édition du génome|edición genómica||L|sci|C1
+ciseaux moléculaires|tijeras moleculares||L|sci|C1
+séquençage|secuenciación||S|sci|C1
+séquençage à haut débit|secuenciación masiva||L|sci|C1
+promoteur|promotor (genético)||S|sci|C1
+répresseur|represor (genético)||S|sci|C1
+expression génique|expresión génica||L|sci|C1
+régulation épigénétique|regulación epigenética||L|sci|C1
+méthylation|metilación (del genoma)||S|sci|C1
+acide ribonucléique|ácido ribonucleico||L|sci|C1
+transcription inversée|transcripción inversa||L|sci|C1
+traduction|traducción (síntesis de proteínas)||S|sci|C1
+codon|codón||S|sci|C1
+code génétique|código genético||L|sci|C1
+gène marqueur|gen marcador||L|sci|C1
+vecteur de transfert|vector de transferencia||L|sci|C1
+plasmide|plásmido||S|sci|C1
+enzyme de restriction|enzima de restricción||L|sci|C1
+nucléase programmable|nucleasa programable||L|sci|C1
+amorce|cebador (biotecnología)||S|sci|C1
+mutagenèse dirigée|mutagénesis dirigida||L|sci|C1
+transgénique|transgénico||A|sci|C1
+organisme génétiquement modifié|organismo modificado genéticamente||L|sci|C1
+clonage thérapeutique|clonación terapéutica||L|sci|C1
+cellule souche|célula madre||L|sla|C1
+thérapie cellulaire|terapia celular||L|sla|C1
+biotechnologie|biotecnología||S|sci|C1
+bioéthique|bioética||S|sci|C1
+brevetabilité du vivant|patentabilidad de lo vivo||L|ist|C1
+neuroimagerie|neuroimagen||S|sci|C1
+imagerie médicale|imagen médica||L|sla|C1
+résonance magnétique|resonancia magnética||L|sci|C1
+tomographie|tomografía||S|sci|C1
+électroencéphalogramme|electroencefalograma||S|sci|C1
+magnétoencéphalographie|magnetoencefalografía||S|sci|C1
+stimulation magnétique transcrânienne|estimulación magnética transcraneal||L|sci|C1
+stimulation cérébrale profonde|estimulación cerebral profunda||L|sla|C1
+cartographie cérébrale|cartografía cerebral||L|sci|C1
+cortex préfrontal|corteza prefrontal||L|cor|C1
+cortex visuel|corteza visual||L|cor|C1
+circonvolution|circunvolución (cerebral)||S|cor|C1
+substance grise|sustancia gris||L|cor|C1
+matière blanche|sustancia blanca||L|cor|C1
+faisceau|haz (de fibras nerviosas)||S|cor|C1
+connectome|conectoma||S|sci|C1
+connectivité fonctionnelle|conectividad funcional||L|sci|C1
+plasticité cérébrale|plasticidad cerebral||L|sci|C1
+activation neuronale|activación neuronal||L|sci|C1
+potentiel évoqué|potencial evocado||L|sci|C1
+temps de latence|tiempo de latencia||L|sci|C1
+couplage neurovasculaire|acoplamiento neurovascular||L|sci|C1
+seuil de conscience|umbral de conciencia||L|sci|C1
+état de conscience minimale|estado de conciencia mínima||L|sla|C1
+syndrome d'enfermement|síndrome de enclaustramiento||L|sla|C1
+imagerie fonctionnelle|imagen funcional||L|sci|C1
+résolution spatiale|resolución espacial||L|sci|C1
+artefact|artefacto (de imagen)||S|sci|C1
+recalage|registro (de imágenes cerebrales)||S|sci|C1
+atlas anatomique|atlas anatómico||L|sci|C1
+sillon|surco (cerebral)||S|cor|C1

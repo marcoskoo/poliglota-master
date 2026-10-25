@@ -1,0 +1,286 @@
+torréfaction|tueste||S|ali|B2
+grains entiers|granos enteros||L|ali|B2
+café moulu|café molido||L|ali|B2
+décaféiné|descafeinado||S|ali|B2
+infusion|infusión||S|ali|B2
+lait végétal|bebida vegetal||L|ali|B2
+mousse de lait|espuma de leche||L|ali|B2
+brunch|brunch||S|ris|B2
+formule midi|menú del día||L|ris|B2
+viennoiserie|bollería||S|ali|B2
+pain au levain|pan de masa madre||L|ali|B2
+tartelette|tartaleta||S|ali|B2
+jus pressé|zumo recién exprimido||L|ali|B2
+boisson chaude|bebida caliente||L|ali|B2
+addition|cuenta||S|ris|B2
+service compris|servicio incluido||L|ris|B2
+consommer sur place|consumir en el local||E|ris|B2
+à emporter|para llevar||E|ris|B2
+terrasse|terraza||S|ris|B2
+tabouret|taburete||S|ris|B2
+comptoir|barra||S|ris|B2
+chaleureux|acogedor||A|ris|B2
+pause café|pausa de café||L|ris|B2
+collation|tentempié||S|ali|B2
+gourmand|goloso||A|ali|B2
+gourmandise|antojo||S|ali|B2
+salon de thé|salón de té||L|ris|B2
+pâtissier|pastelero||S|pro|B2
+pâtisserie|pastelería||S|ali|B2
+expresso|expreso||S|ali|B2
+artisanal|artesanal||A|ali|B2
+fait maison|casero||E|ali|B2
+accident de la route|accidente de tráfico||L|att|B2
+porter secours|prestar socorro||E|att|B2
+sauveteur|socorrista||S|pro|B2
+pompier|bombero||S|pro|B2
+ambulancier|conductor de ambulancia||S|pro|B2
+urgentiste|médico de urgencias||S|pro|B2
+victime|víctima||S|att|B2
+évacuation|evacuación||S|att|B2
+incendie|incendio||S|att|B2
+alarme incendie|alarma de incendios||L|att|B2
+issue de secours|salida de emergencia||L|att|B2
+extincteur|extintor||S|att|B2
+cambriolage|robo en una vivienda||S|att|B2
+cambrioleur|ladrón de viviendas||S|att|B2
+braquage|atracamiento||S|att|B2
+agression|agresión||S|att|B2
+agresseur|agresor||S|att|B2
+disparition|desaparición||S|att|B2
+enlèvement|secuestro||S|att|B2
+prise d'otages|toma de rehenes||L|att|B2
+racket|extorsión||S|att|B2
+vandalisme|vandalismo||S|att|B2
+tapage nocturne|escándalo nocturno||L|att|B2
+conduite en état d'ivresse|conducción en estado de ebriedad||L|att|B2
+excès de vitesse|exceso de velocidad||L|att|B2
+verbaliser|multar||V|att|B2
+contravention|infracción leve||S|att|B2
+porter plainte|poner una denuncia||E|att|B2
+plainte|denuncia||S|att|B2
+témoin oculaire|testigo ocular||L|att|B2
+quartier sensible|barrio conflictivo||L|cit|B2
+patrouille|patrulla||S|att|B2
+chercheur|investigador||S|pro|B2
+laboratoire|laboratorio||S|sci|B2
+expérience|experimento||S|sci|B2
+hypothèse|hipótesis||S|sci|B2
+théorie|teoría||S|sci|B2
+démonstration|demostración||S|sci|B2
+découverte|descubrimiento||S|sci|B2
+spécimen|espécimen||S|sci|B2
+cellule|célula||S|sci|B2
+gène|gen||S|sci|B2
+génétique|genética||S|sci|B2
+évolution|evolución||S|sci|B2
+espèce|especie||S|sci|B2
+fossile|fósil||S|sci|B2
+volcan|volcán||S|nat|B2
+éruption|erupción||S|nat|B2
+séisme|terremoto||S|nat|B2
+tsunami|tsunami||S|nat|B2
+météorite|meteorito||S|sci|B2
+cratère|cráter||S|sci|B2
+atmosphère|atmósfera||S|sci|B2
+réchauffement climatique|calentamiento global||L|sci|B2
+biodiversité|biodiversidad||S|sci|B2
+écosystème|ecosistema||S|sci|B2
+neurosciences|neurociencias||S|sci|B2
+neurone|neurona||S|sci|B2
+vulgarisation|divulgación||S|sci|B2
+mystère|misterio||S|sci|B2
+phénomène|fenómeno||S|sci|B2
+extraterrestre|extraterrestre||S|sci|B2
+roman policier|novela policíaca||S|let|B2
+thriller|novela de suspense||S|let|B2
+roman historique|novela histórica||S|let|B2
+biographie|biografía||S|let|B2
+autobiographie|autobiografía||S|let|B2
+mémoires|memorias||S|let|B2
+essai|ensayo||S|let|B2
+nouvelle|cuento (relato breve)||S|let|B2
+recueil de nouvelles|recopilación de relatos||L|let|B2
+poésie|poesía||S|let|B2
+recueil de poèmes|antología poética||L|let|B2
+livre culte|libro de culto||L|let|B2
+best-seller|superventas||S|let|B2
+club de lecture|club de lectura||L|let|B2
+dédicace|firma de ejemplares||S|let|B2
+rentrée littéraire|temporada literaria||L|let|B2
+prix littéraire|premio literario||L|let|B2
+sélection|selección||S|let|B2
+couverture|portada||S|let|B2
+quatrième de couverture|contraportada||L|let|B2
+chapitre|capítulo||S|let|B2
+héros|héroe||S|let|B2
+héroïne|heroína||S|let|B2
+personnage|personaje||S|let|B2
+narrateur|narrador||S|let|B2
+dénouement|desenlace||S|let|B2
+épilogue|epílogo||S|let|B2
+tome|tomo||S|let|B2
+suite|secuela||S|let|B2
+adaptation cinématographique|adaptación al cine||L|let|B2
+feuilleter|hojear||V|let|B2
+livre de poche|libro de bolsillo||L|let|B2
+sentier|sendero||S|nat|B2
+randonnée|senderismo||S|nat|B2
+chaussures de randonnée|botas de senderismo||L|rop|B2
+balisage|señalización del sendero||S|nat|B2
+balisé|señalizado||A|nat|B2
+parcours|recorrido||S|nat|B2
+dénivelé|desnivel||S|nat|B2
+descente|bajada||S|nat|B2
+sommet|cima||S|nat|B2
+vue panoramique|vista panorámica||L|nat|B2
+plante sauvage|planta silvestre||L|nat|B2
+champignon|seta||S|nat|B2
+cueillette|recolección||S|nat|B2
+pique-nique|pícnic||S|nat|B2
+aire de pique-nique|zona de pícnic||L|nat|B2
+forêt|bosque||S|nat|B2
+sous-bois|sotobosque||S|nat|B2
+lisière|borde del bosque||S|nat|B2
+clairière|claro del bosque||S|nat|B2
+ruisseau|arroyo||S|nat|B2
+cascade|cascada||S|nat|B2
+étang|estanque||S|nat|B2
+marais|pantano||S|nat|B2
+faune|fauna||S|nat|B2
+flore|flora||S|nat|B2
+observation des oiseaux|observación de aves||L|nat|B2
+jumelles|prismáticos||S|nat|B2
+respirer l'air pur|respirar aire puro||E|nat|B2
+pré|prado||S|nat|B2
+ombragé|con sombra||A|nat|B2
+brouillard|niebla||S|cli|B2
+parc naturel|parque natural||L|nat|B2
+escapade culturelle|escapada cultural||L|vig|B2
+escapade|escapada||S|vig|B2
+guide touristique|guía turística||S|vig|B2
+itinéraire|itinerario||S|vig|B2
+point de départ|punto de partida||L|vig|B2
+aller-retour|ida y vuelta||L|vig|B2
+office de tourisme|oficina de turismo||L|vig|B2
+visite guidée|visita guiada||L|vig|B2
+monument|monumento||S|vig|B2
+site classé|lugar protegido||L|vig|B2
+vieille ville|casco antiguo||L|vig|B2
+quartier historique|barrio histórico||L|cit|B2
+bateau|barco||S|tra|B2
+traversée|travesía||S|vig|B2
+prolonger le week-end|alargar el fin de semana||E|vig|B2
+réserver en ligne|reservar online||E|vig|B2
+haute saison|temporada alta||L|vig|B2
+basse saison|temporada baja||L|vig|B2
+affluence|afluencia de público||S|vig|B2
+flâner|pasear sin rumbo||V|vig|B2
+flânerie|paseo sin rumbo||S|vig|B2
+lieu incontournable|lugar imprescindible||L|vig|B2
+boutique de souvenirs|tienda de recuerdos||L|cmp|B2
+spécialité locale|especialidad local||L|ali|B2
+immersion culturelle|inmersión cultural||L|vig|B2
+décalage horaire|desfase horario||L|vig|B2
+croisière|crucero||S|vig|B2
+escale|escala||S|vig|B2
+étape|etapa||S|vig|B2
+sac à dos|mochila||S|vig|B2
+excursion|excursión||S|vig|B2
+se repérer|orientarse||V|vig|B2
+estime de soi|autoestima||L|emo|B2
+confiance en soi|confianza en uno mismo||L|emo|B2
+se respecter|respetarse||V|emo|B2
+s'aimer|quererse||V|emo|B2
+s'accepter|aceptarse||V|emo|B2
+se comparer|compararse||V|emo|B2
+complexe|complejo||S|emo|B2
+sentiment d'infériorité|sentimiento de inferioridad||L|emo|B2
+point fort|punto fuerte||L|emo|B2
+faiblesse|debilidad||S|emo|B2
+perfectionniste|perfeccionista||S|emo|B2
+se tracasser|agobiarse||V|emo|B2
+lâcher prise|relajarse||E|emo|B2
+méditation|meditación||S|sla|B2
+pleine conscience|atención plena||L|sla|B2
+routine|rutina||S|tmp|B2
+habitude|hábito||S|tmp|B2
+prendre de bonnes habitudes|adquirir buenos hábitos||E|emo|B2
+discipline|disciplina||S|emo|B2
+volonté|fuerza de voluntad||S|emo|B2
+persévérance|perseverancia||S|emo|B2
+motivation|motivación||S|emo|B2
+reprendre confiance|recuperar la confianza||E|emo|B2
+échec|fracaso||S|emo|B2
+recommencer|empezar de nuevo||V|emo|B2
+se remettre en question|cuestionarse||E|emo|B2
+réaliser ses rêves|cumplir sus sueños||E|emo|B2
+rêve|sueño (ilusión)||S|emo|B2
+zone de confort|zona de confort||L|emo|B2
+bien-être|bienestar||S|sla|B2
+épanouissement|realización personal||S|emo|B2
+croire en soi|creer en uno mismo||E|emo|B2
+se plaindre de|quejarse de||V|cmu|B2
+exprimer son mécontentement|expresar su descontento||E|cmu|B2
+réclamation|reclamación||S|cmu|B2
+réclamer|reclamar||V|cmu|B2
+exaspéré|exasperado||A|emo|B2
+furieux|furioso||A|emo|B2
+inacceptable|inaceptable||A|cmu|B2
+scandaleux|escandaloso||A|cmu|B2
+honteux|vergonzoso||A|cmu|B2
+faire honte|avergonzar||E|cmu|B2
+s'excuser|disculparse||V|cmu|B2
+excuses|disculpas||S|cmu|B2
+malentendu|malentendido||S|cmu|B2
+se méprendre|malinterpretar||V|cmu|B2
+contresens|error de interpretación||S|cmu|B2
+reformuler|reformular||V|cmu|B2
+pourriez-vous répéter|podría repetir||E|cmu|B2
+faux-fuyant|evasiva||S|cmu|B2
+le prendre mal|tomárselo mal||E|cmu|B2
+se fâcher|enfadarse||V|cmu|B2
+se disputer|pelearse||V|cmu|B2
+dispute|pelea||S|cmu|B2
+se réconcilier|reconciliarse||V|cmu|B2
+pardonner|perdonar||V|cmu|B2
+faire la paix|hacer las paces||E|cmu|B2
+regretter|lamentar||V|cmu|B2
+regret|lamento||S|cmu|B2
+navré|disgustado||A|cmu|B2
+en vouloir à quelqu'un|guardar rencor||E|cmu|B2
+rancune|rencor||S|cmu|B2
+se calmer|calmarse||V|cmu|B2
+vexé|ofendido||A|cmu|B2
+formulaire|formulario||S|ist|B2
+remplir un formulaire|rellenar un formulario||E|ist|B2
+pièce d'identité|documento de identidad||L|ist|B2
+carte d'identité|carné de identidad||S|ist|B2
+permis de conduire|permiso de conducir||L|ist|B2
+justificatif de domicile|justificante de domicilio||L|ist|B2
+justificatif de revenus|justificante de ingresos||L|ist|B2
+relevé d'identité bancaire|datos bancarios||L|ist|B2
+attestation|certificado||S|ist|B2
+certificat médical|certificado médico||L|ist|B2
+extrait de naissance|certificado de nacimiento||L|ist|B2
+photocopie|fotocopia||S|ist|B2
+copie certifiée conforme|copia compulsada||L|ist|B2
+original|original||S|ist|B2
+tampon|sello||S|ist|B2
+signature|firma||S|ist|B2
+signer|firmar||V|ist|B2
+prendre rendez-vous|pedir cita||E|ist|B2
+convocation|citación||S|ist|B2
+guichet|ventanilla||S|ist|B2
+horaires d'ouverture|horario de atención||L|ist|B2
+délai|plazo||S|ist|B2
+dans les délais|dentro del plazo||E|ist|B2
+dossier|expediente||S|ist|B2
+démarche administrative|trámite administrativo||L|ist|B2
+démarches en ligne|trámites online||L|ist|B2
+préfecture|prefectura||S|ist|B2
+renouveler|renovar||V|ist|B2
+renouvellement|renovación||S|ist|B2
+périmé|caducado||A|ist|B2
+faire la queue|hacer cola||E|ist|B2
+agent administratif|funcionario||L|pro|B2

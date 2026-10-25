@@ -1,0 +1,259 @@
+millésime|añada (de vino)||S|ali|C1
+cépage|variedad de uva||S|ali|C1
+terroir|terruño||S|ali|C1
+vigneron|viticultor||S|pro|C1
+vendange|vendimia||S|ali|C1
+tanin|tanino||S|ali|C1
+effervescent|espumoso||A|ali|C1
+liquoreux|licoroso (vino dulce)||A|ali|C1
+assemblage|ensamblaje (de vinos)||S|ali|C1
+vinification|vinificación||S|ali|C1
+macération|maceración||S|ali|C1
+fermentation malolactique|fermentación maloláctica||L|ali|C1
+élevage|crianza (del vino)||S|ali|C1
+ouillage|relleno (de barricas)||S|ali|C1
+bâtonnage|removido de lías||S|ali|C1
+boisé|con notas de madera||A|ali|C1
+bouchonné|con sabor a corcho||A|ali|C1
+décanter|decantar||V|ali|C1
+ambré|ambarino||A|ali|C1
+accord mets et vins|maridaje de platos y vinos||L|ali|C1
+longueur en bouche|persistencia en boca||L|ali|C1
+sommellerie|sumillería||S|ali|C1
+affinage|maduración (del queso)||S|ali|C1
+saumurage|salmuerado||S|ali|C1
+émulsion|emulsión||S|ali|C1
+liaison|ligazón (de una salsa)||S|ali|C1
+monter une sauce|montar una salsa||L|ali|C1
+napper|napar (cubrir con salsa)||V|ali|C1
+flamber|flamear (un plato)||V|ali|C1
+dressage|emplatado||S|ris|C1
+gastronomie moléculaire|gastronomía molecular||L|ali|C1
+cuisson sous vide|cocción al vacío||L|ali|C1
+taxonomie|taxonomía||S|sci|C1
+nomenclature binomiale|nomenclatura binomial||L|sci|C1
+spécimen|espécimen||S|sci|C1
+holotype|holotipo||S|sci|C1
+espèce endémique|especie endémica||L|ani|C1
+niche écologique|nicho ecológico||L|nat|C1
+prédateur apical|depredador apical||L|ani|C1
+rut|celo||S|ani|C1
+parade nuptiale|parada nupcial||L|ani|C1
+marquage|marcado (territorial)||S|ani|C1
+territoire de chasse|territorio de caza||L|ani|C1
+grégaire|gregario||A|ani|C1
+migrateur|migratorio||A|ani|C1
+nichée|nidada (de polluelos)||S|ani|C1
+couvée|puesta (de huevos)||S|ani|C1
+imprégnation|impronta (etología)||S|ani|C1
+rituel d'apaisement|ritual de apaciguamiento||L|ani|C1
+comportement territorial|comportamiento territorial||L|ani|C1
+mimétisme|mimetismo||S|ani|C1
+larvaire|larvario||A|ani|C1
+chrysalide|crisálida||S|ani|C1
+métamorphose complète|metamorfosis completa||L|ani|C1
+espèce menacée|especie amenazada||L|ani|C1
+réintroduction|reintroducción (de especies)||S|nat|C1
+braconnage|furtivismo||S|nat|C1
+ornithologue|ornitólogo||S|pro|C1
+chiroptères|quirópteros (murciélagos)||S|ani|C1
+rapace nocturne|rapaz nocturna||L|ani|C1
+ongulé|ungulado||S|ani|C1
+mustélidé|mustélido||S|ani|C1
+céphalopode|cefalópodo||S|ani|C1
+crustacé|crustáceo||S|ani|C1
+taxon|taxón||S|sci|C1
+angiosperme|angiosperma||S|sci|C1
+gymnosperme|gimnosperma||S|sci|C1
+bryophyte|briófito||S|sci|C1
+fonge|reino fúngico||S|nat|C1
+mycélium|micelio||S|nat|C1
+mycorhize|micorriza||S|nat|C1
+rhizome|rizoma||S|nat|C1
+stipe|estípite||S|nat|C1
+limbe|limbo (de la hoja)||S|nat|C1
+stipule|estípula||S|nat|C1
+inflorescence|inflorescencia||S|nat|C1
+panicule|panícula||S|nat|C1
+pollinisation entomophile|polinización entomófila||L|nat|C1
+dissémination|diseminación (de semillas)||S|nat|C1
+dormance|latencia (de las semillas)||S|nat|C1
+bouturage|esquejado||S|nat|C1
+greffe|injerto (vegetal)||S|nat|C1
+bocage|paisaje de setos vivos||S|nat|C1
+lisière|linde del bosque||S|nat|C1
+maquis|maquia mediterránea||S|nat|C1
+lande|brezal||S|nat|C1
+tourbière|turbera||S|nat|C1
+ripisylve|vegetación de ribera||S|nat|C1
+xérophile|xerófilo||A|nat|C1
+hygrophile|higrófilo||A|nat|C1
+végétation pionnière|vegetación pionera||L|nat|C1
+climax|clímax (ecológico)||S|nat|C1
+succession écologique|sucesión ecológica||L|nat|C1
+corridor écologique|corredor ecológico||L|nat|C1
+reboisement|repoblación forestal||S|nat|C1
+spermatophyte|espermatofita||S|sci|C1
+longévité|longevidad||S|ast|C1
+pérennité|perennidad||S|ast|C1
+fugacité|fugacidad||S|ast|C1
+instantanéité|instantaneidad||S|ast|C1
+simultanéité|simultaneidad||S|ast|C1
+postérité|posteridad||S|ast|C1
+antériorité|anterioridad||S|ast|C1
+postériorité|posterioridad||S|ast|C1
+rétrospection|retrospección||S|ast|C1
+anachronique|anacrónico||A|ast|C1
+diachronique|diacrónico||A|ast|C1
+synchronique|sincrónico||A|ast|C1
+historiographie|historiografía||S|ast|C1
+mémoire collective|memoria colectiva||L|ast|C1
+devoir de mémoire|deber de memoria||L|ast|C1
+révisionnisme|revisionismo||S|ast|C1
+commémoration|conmemoración||S|ast|C1
+patrimonialisation|patrimonialización||S|ast|C1
+vestige|vestigio||S|ast|C1
+immuable|inmutable||A|ast|C1
+impermanence|impermanencia||S|ast|C1
+intemporel|atemporal||A|ast|C1
+datation|datación||S|sci|C1
+récurrent|recurrente||A|ast|C1
+séculaire|secular (de siglos)||A|ast|C1
+pluriannuel|plurianual||A|ast|C1
+inextinguible|inextinguible||A|ast|C1
+indélébile|indeleble||A|ast|C1
+réminiscence|reminiscencia||S|ast|C1
+mélancolie|melancolía||S|emo|C1
+flèche du temps|flecha del tiempo||L|ast|C1
+linéarité|linealidad||S|ast|C1
+cryptomonnaie|criptomoneda||S|fin|C1
+cryptoactif|criptoactivo||S|fin|C1
+blockchain|cadena de bloques||S|tec|C1
+registre distribué|registro distribuido||L|fin|C1
+jeton numérique|token digital||L|fin|C1
+émission de jetons|emisión de tokens||L|fin|C1
+portefeuille numérique|monedero digital||L|fin|C1
+clé privée|clave privada||L|tec|C1
+cryptographie asymétrique|criptografía asimétrica||L|tec|C1
+hachage|función resumen criptográfica||S|tec|C1
+minage|minado (de criptomonedas)||S|fin|C1
+mineur|minero (de criptomonedas)||S|fin|C1
+preuve d'enjeu|prueba de participación||L|fin|C1
+preuve de travail|prueba de trabajo||L|fin|C1
+contrat intelligent|contrato inteligente||L|fin|C1
+décentralisé|descentralizado||A|tec|C1
+pair à pair|de igual a igual (P2P)||L|tec|C1
+actif sous-jacent|activo subyacente||L|fin|C1
+stablecoin|criptomoneda de valor estable||S|fin|C1
+volatilité|volatilidad||S|fin|C1
+bulle spéculative|burbuja especulativa||L|fin|C1
+blanchiment|blanqueo (de capitales)||S|fin|C1
+traçabilité|trazabilidad||S|fin|C1
+bifurcation|bifurcación (de una blockchain)||S|tec|C1
+plateforme d'échange|plataforma de intercambio||L|fin|C1
+conservation d'actifs|custodia de activos||L|fin|C1
+connaissance client|conocimiento del cliente||L|fin|C1
+tokenisation|tokenización||S|fin|C1
+interopérabilité|interoperabilidad||S|tec|C1
+nœud|nodo (de una red)||S|tec|C1
+cyberfraude|ciberfraude||S|fin|C1
+validation des transactions|validación de transacciones||L|tec|C1
+acte notarié|escritura notarial||L|ist|C1
+signification|notificación (de un acto judicial)||S|ist|C1
+exploit d'huissier|diligencia de notificación||L|ist|C1
+hypothèque|hipoteca||S|fin|C1
+inscription hypothécaire|inscripción hipotecaria||L|ist|C1
+mainlevée|levantamiento (de un embargo)||S|ist|C1
+saisie immobilière|embargo inmobiliario||L|ist|C1
+cadastre|catastro||S|ist|C1
+registre foncier|registro de la propiedad||L|ist|C1
+bail emphytéotique|arriendo enfiteútico||L|ist|C1
+indivision|indivisión||S|ist|C1
+usufruit|usufructo||S|ist|C1
+nue-propriété|nuda propiedad||S|ist|C1
+donation entre vifs|donación entre vivos||L|ist|C1
+legs universel|legado universal||L|ist|C1
+héritier réservataire|heredero forzoso||L|ist|C1
+quotité disponible|porción disponible||L|ist|C1
+révocation d'un testament|revocación de un testamento||L|ist|C1
+attestation de propriété|acta de propiedad||L|ist|C1
+servitude|servidumbre (derecho)||S|ist|C1
+mitoyenneté|medianería||S|ist|C1
+clause pénale|cláusula penal||L|ist|C1
+parapher|inicialar (un documento)||V|ist|C1
+expédition|copia ejecutoria (de una escritura)||S|ist|C1
+grosse|testimonio (de una sentencia)||S|ist|C1
+légalisation de signature|legalización de firma||L|ist|C1
+apostille|apostilla||S|ist|C1
+nantissement|prenda sin desplazamiento||S|ist|C1
+dation en paiement|dación en pago||L|ist|C1
+licitation|licitación (división de bienes)||S|ist|C1
+surenchère|sobrepuja (en subasta)||S|ist|C1
+folle enchère|remate fallido (en subasta)||L|ist|C1
+recours administratif|recurso administrativo||L|ist|C1
+recours gracieux|recurso de gracia||L|ist|C1
+recours hiérarchique|recurso jerárquico||L|ist|C1
+excès de pouvoir|exceso de poder||L|ist|C1
+pourvoi en cassation|recurso de casación||L|ist|C1
+décret|decreto||S|ist|C1
+arrêté municipal|ordenanza municipal||L|ist|C1
+pouvoir réglementaire|potestad reglamentaria||L|ist|C1
+acte administratif unilatéral|acto administrativo unilateral||L|ist|C1
+mesure conservatoire|medida cautelar||L|ist|C1
+sursis à exécution|suspensión de ejecución||L|ist|C1
+exécution forcée|ejecución forzosa||L|ist|C1
+décision implicite|decisión tácita||L|ist|C1
+silence de l'administration|silencio administrativo||L|ist|C1
+détournement de pouvoir|desviación de poder||L|ist|C1
+erreur manifeste d'appréciation|error manifiesto de apreciación||L|ist|C1
+requête|solicitud escrita (ante un tribunal)||S|ist|C1
+mémoire en défense|escrito de defensa||L|ist|C1
+annulation d'un acte|anulación (de un acto)||L|ist|C1
+commissaire du gouvernement|comisario del gobierno||L|ist|C1
+juridiction administrative|jurisdicción administrativa||L|ist|C1
+contentieux|contencioso||S|ist|C1
+justiciable|justiciable||S|ist|C1
+plaidoirie|alegato||S|ist|C1
+ordonnance de référé|auto interlocutorio urgente||L|ist|C1
+requérant|solicitante (en proceso)||S|ist|C1
+intimé|recurrido||S|ist|C1
+débouter|desestimar (una demanda)||V|ist|C1
+irrecevabilité|inadmisibilidad||S|ist|C1
+fin de non-recevoir|excepción de inadmisibilidad||L|ist|C1
+prétoire|sala de vistas||S|ist|C1
+faire droit à une demande|estimar una demanda||L|ist|C1
+criminologie|criminología||S|sci|C1
+victimologie|victimología||S|sci|C1
+récidive|reincidencia||S|ist|C1
+récidiviste|reincidente||S|ist|C1
+sursis probatoire|suspensión de pena con prueba||L|ist|C1
+liberté conditionnelle|libertad condicional||L|ist|C1
+peine plancher|pena mínima legal||L|ist|C1
+perpétuité|cadena perpetua||S|ist|C1
+aménagement de peine|individualización de la pena||L|ist|C1
+semi-liberté|semilibertad||S|ist|C1
+bracelet électronique|pulsera electrónica de localización||L|ist|C1
+incarcération|encarcelamiento||S|ist|C1
+surpopulation carcérale|hacinamiento penitenciario||L|ist|C1
+détention provisoire|prisión preventiva||L|ist|C1
+écrou|ingreso en prisión||S|ist|C1
+mitard|celda de aislamiento||S|ist|C1
+surveillant pénitentiaire|vigilante penitenciario||L|pro|C1
+réinsertion|reinserción||S|ist|C1
+probation|probación (libertad vigilada)||S|ist|C1
+médiation pénale|mediación penal||L|ist|C1
+composition pénale|acuerdo de conformidad penal||L|ist|C1
+peine de sûreté|periodo de seguridad||L|ist|C1
+criminalistique|criminalística||S|sci|C1
+profilage criminel|perfilación criminal||L|sci|C1
+modus operandi|modus operandi||L|ist|C1
+préméditation|premeditación||S|ist|C1
+complicité|complicidad||S|ist|C1
+recel|receptación||S|ist|C1
+effraction|forzamiento (de una cerradura)||S|ist|C1
+filouterie|estafa de poca cuantía||S|ist|C1
+détournement de fonds|malversación de caudales||L|ist|C1
+usure|usura (interés abusivo)||S|fin|C1
+traité international|tratado internacional||L|ist|C1
+ratification|ratificación||S|ist|C1
+dénonciation d'un traité|denuncia de un tratado||L|ist|C1

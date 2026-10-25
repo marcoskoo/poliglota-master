@@ -1,0 +1,286 @@
+garantie|garantía||S|cmp|B2
+garantie légale|garantía legal||S|cmp|B2
+remboursement|reembolso||S|cmp|B2
+rembourser|reembolsar||V|cmp|B2
+retour|devolución||S|cmp|B2
+retourner|devolver||V|cmp|B2
+échange|cambio (de un producto)||S|cmp|B2
+frais de port|gastos de envío||S|cmp|B2
+étiquette|etiqueta||S|cmp|B2
+ticket de caisse|ticket de compra||S|cmp|B2
+facture|factura||S|cmp|B2
+facturer|facturar||V|cmp|B2
+réclamation|reclamación||S|cmp|B2
+réclamer|reclamar||V|cmp|B2
+service client|atención al cliente||S|cmp|B2
+service après-vente|servicio posventa||S|cmp|B2
+plainte|queja||S|cmp|B2
+se plaindre|quejarse||V|cmp|B2
+litige|litigio||S|cmp|B2
+médiateur|mediador||S|pro|B2
+défectueux|defectuoso||A|cmp|B2
+endommagé|dañado||A|cmp|B2
+endommager|dañar||V|cmp|B2
+réparation|reparación||S|cmp|B2
+réparer|reparar||V|cmp|B2
+bon d'achat|vale de compra||S|cmp|B2
+avoir|abono (de compra)||S|cmp|B2
+code-barres|código de barras||S|cmp|B2
+emballage d'origine|embalaje original||S|cmp|B2
+délai de rétractation|plazo de desistimiento||S|cmp|B2
+se rétracter|desistir||V|cmp|B2
+indemnisation|indemnización||S|cmp|B2
+commerce en ligne|comercio electrónico||S|cmp|B2
+achat en ligne|compra por internet||S|cmp|B2
+paiement sécurisé|pago seguro||S|cmp|B2
+carte bancaire|tarjeta bancaria||S|fin|B2
+panier|carrito de la compra||S|cmp|B2
+commande|pedido||S|cmp|B2
+commander|hacer un pedido||V|cmp|B2
+suivi|seguimiento (del pedido)||S|cmp|B2
+livraison|entrega||S|cmp|B2
+frais de livraison|gastos de envío||S|cmp|B2
+expédition|expedición||S|cmp|B2
+expédier|expedir||V|cmp|B2
+colis|paquete||S|cmp|B2
+envoi|envío||S|cmp|B2
+bordereau d'envoi|resguardo de envío||S|cmp|B2
+point relais|punto de recogida||S|cmp|B2
+code promo|código promocional||S|cmp|B2
+avis client|reseñas de clientes||S|cmp|B2
+rupture de stock|agotado||S|cmp|B2
+en stock|en existencias||L|cmp|B2
+cliquer|hacer clic||V|tec|B2
+remplir un formulaire|rellenar un formulario||E|tec|B2
+espace client|zona de cliente||S|tec|B2
+mot de passe|contraseña||S|tec|B2
+réseaux sociaux|redes sociales||S|tec|B2
+plateforme|plataforma||S|tec|B2
+vendeur|vendedor||S|pro|B2
+destinataire|destinatario||S|cmp|B2
+abonnement|suscripción||S|cmp|B2
+déballage|desembalaje||S|cmp|B2
+essai gratuit|prueba gratuita||S|cmp|B2
+reçu|recibo||S|cmp|B2
+circulation|tráfico||S|tra|B2
+embouteillage|atasco||S|tra|B2
+rond-point|rotonda||S|tra|B2
+cédez le passage|ceda el paso||L|tra|B2
+griller un feu rouge|saltarse un semáforo en rojo||E|tra|B2
+limitation de vitesse|límite de velocidad||S|tra|B2
+excès de vitesse|exceso de velocidad||S|tra|B2
+radar|radar de tráfico||S|tra|B2
+contravention|multa||S|tra|B2
+verbaliser|multar||V|tra|B2
+permis de conduire|carné de conducir||S|tra|B2
+permis à points|carné por puntos||S|tra|B2
+retrait de permis|retirada del carné||S|tra|B2
+alcoolémie|alcoholemia||S|tra|B2
+éthylotest|alcoholímetro||S|tra|B2
+conducteur|conductor||S|tra|B2
+accident de la route|accidente de tráfico||S|tra|B2
+délit de fuite|delito de fuga||S|tra|B2
+constat amiable|parte amistoso de accidente||S|tra|B2
+dépannage|asistencia en carretera||S|tra|B2
+crevaison|pinchazo||S|tra|B2
+crever|pincharse (una rueda)||V|tra|B2
+roue de secours|rueda de repuesto||S|tra|B2
+pneu|neumático||S|tra|B2
+clignotant|intermitente||S|tra|B2
+tomber en panne|averiarse||E|tra|B2
+panne d'essence|quedarse sin gasolina||S|tra|B2
+vidange|cambio de aceite||S|tra|B2
+entretien du véhicule|mantenimiento del coche||S|tra|B2
+garagiste|mecánico||S|pro|B2
+carrosserie|carrocería||S|tra|B2
+pare-brise|parabrisas||S|tra|B2
+mobilité|movilidad||S|tra|B2
+mobilité douce|movilidad sostenible||S|tra|B2
+transports en commun|transporte público||S|tra|B2
+covoiturage|coche compartido||S|tra|B2
+covoiturer|compartir coche||V|tra|B2
+autopartage|alquiler compartido de coches||S|tra|B2
+piste cyclable|carril bici||S|cit|B2
+cycliste|ciclista||S|tra|B2
+trottinette électrique|patinete eléctrico||S|tra|B2
+voiture électrique|coche eléctrico||S|tra|B2
+borne de recharge|punto de recarga||S|tra|B2
+recharger|recargar||V|tra|B2
+empreinte carbone|huella de carbono||S|nat|B2
+effet de serre|efecto invernadero||S|nat|B2
+pollution|contaminación||S|nat|B2
+polluant|contaminante||S|nat|B2
+qualité de l'air|calidad del aire||S|nat|B2
+piéton|peatón||S|cit|B2
+zone piétonne|zona peatonal||S|cit|B2
+heure de pointe|hora punta||S|tra|B2
+titre de transport|abono de transporte||S|tra|B2
+correspondance|transbordo||S|tra|B2
+composter|validar el billete||V|tra|B2
+usager|usuario||S|tra|B2
+gratuité|gratuidad||S|tra|B2
+péage|peaje||S|tra|B2
+tramway|tranvía||S|tra|B2
+gare routière|estación de autobuses||S|tra|B2
+réseau de transport|red de transporte||S|tra|B2
+perturbation|alteración del servicio||S|tra|B2
+abonné|abonado||S|tra|B2
+écoresponsable|ecorresponsable||A|nat|B2
+voyage d'affaires|viaje de negocios||S|vig|B2
+déplacement professionnel|desplazamiento laboral||S|vig|B2
+ordre de mission|orden de viaje de trabajo||S|vig|B2
+assister à une conférence|asistir a una conferencia||E|vig|B2
+billet d'avion|billete de avión||S|vig|B2
+vol de correspondance|vuelo de conexión||S|vig|B2
+escale|escala||S|vig|B2
+faire escale|hacer escala||E|vig|B2
+retard|retraso||S|vig|B2
+annulation|cancelación||S|vig|B2
+annuler|cancelar||V|vig|B2
+surbooking|sobreventa de plazas||S|vig|B2
+bagage à main|equipaje de mano||S|vig|B2
+perte de bagages|pérdida de equipaje||S|vig|B2
+enregistrer|facturar (el equipaje)||V|vig|B2
+itinéraire|itinerario||S|vig|B2
+décalage horaire|desfase horario||S|vig|B2
+compensation|compensación||S|vig|B2
+carte d'embarquement|tarjeta de embarque||S|vig|B2
+change|cambio de divisas||S|fin|B2
+bureau de change|oficina de cambio||S|fin|B2
+distributeur de billets|cajero automático||S|fin|B2
+séminaire|convención de empresa||S|lav|B2
+salon|feria del sector||S|lav|B2
+réservation|reserva||S|vig|B2
+réserver|reservar||V|vig|B2
+sur place|en el lugar||D|vig|B2
+à la dernière minute|en el último momento||L|vig|B2
+détourner|desviar||V|vig|B2
+détournement|desvío||S|vig|B2
+être bloqué|quedar varado||E|vig|B2
+frontière|frontera||S|vig|B2
+franchir la frontière|cruzar la frontera||E|vig|B2
+douane|aduana||S|ist|B2
+douanier|aduanero||S|pro|B2
+passeport|pasaporte||S|vig|B2
+visa|visado||S|vig|B2
+visa de tourisme|visado turístico||S|vig|B2
+titre de séjour|permiso de residencia||S|ist|B2
+regroupement familial|reagrupación familiar||S|ist|B2
+demandeur d'asile|solicitante de asilo||S|ist|B2
+asile|asilo||S|ist|B2
+réfugié|refugiado||S|ist|B2
+exilé|exiliado||S|ist|B2
+expatrié|expatriado||S|ist|B2
+expatriation|expatriación||S|ist|B2
+immigration|inmigración||S|ist|B2
+immigré|inmigrante||S|ist|B2
+émigration|emigración||S|ist|B2
+émigrer|emigrar||V|ist|B2
+naturalisation|nacionalización||S|ist|B2
+naturalisé|nacionalizado||A|ist|B2
+nationalité|nacionalidad||S|ist|B2
+citoyen|ciudadano||S|ist|B2
+document de voyage|documento de viaje||S|vig|B2
+papiers|documentos de identidad||S|ist|B2
+être en règle|estar en regla||E|ist|B2
+tampon|sello (en el pasaporte)||S|ist|B2
+tamponner|sellar||V|ist|B2
+contrôle d'identité|control de identidad||S|ist|B2
+attestation|certificado||S|ist|B2
+justificatif|justificante||S|ist|B2
+justifier|justificar||V|ist|B2
+chambre d'hôte|casa de huéspedes con desayuno||S|htl|B2
+gîte|casa rural de alquiler||S|htl|B2
+auberge|posada||S|htl|B2
+auberge de jeunesse|albergue juvenil||S|htl|B2
+palace|hotel de gran lujo||S|htl|B2
+hôtel de charme|hotel con encanto||S|htl|B2
+classement|categoría (estrellas)||S|htl|B2
+pension complète|pensión completa||S|htl|B2
+demi-pension|media pensión||S|htl|B2
+tout compris|todo incluido||L|htl|B2
+buffet à volonté|bufé libre||S|htl|B2
+vue sur mer|vistas al mar||S|htl|B2
+suite|suite||S|htl|B2
+accueil|acogida||S|htl|B2
+conciergerie|conserjería||S|htl|B2
+service en chambre|servicio de habitaciones||S|htl|B2
+avis|reseña||S|htl|B2
+commentaire|comentario||S|htl|B2
+décevoir|decepcionar||V|htl|B2
+décevant|decepcionante||A|htl|B2
+à la hauteur|a la altura||L|htl|B2
+rapport qualité-prix|relación calidad-precio||S|htl|B2
+haut de gamme|gama alta||L|htl|B2
+bas de gamme|gama baja||L|htl|B2
+standing|categoría||S|htl|B2
+prestation|servicio ofrecido||S|htl|B2
+insonorisé|insonorizado||A|htl|B2
+fréquentation|afluencia de público||S|htl|B2
+office de tourisme|oficina de turismo||S|htl|B2
+hébergement|alojamiento||S|htl|B2
+héberger|alojar||V|htl|B2
+prévention|prevención||S|sla|B2
+dépistage|detección precoz||S|sla|B2
+bilan de santé|chequeo médico||S|sla|B2
+consultation|consulta médica||S|sla|B2
+praticien|profesional sanitario||S|pro|B2
+généraliste|médico de cabecera||S|pro|B2
+ordonnance|receta médica||S|sla|B2
+générique|medicamento genérico||S|sla|B2
+vaccin|vacuna||S|sla|B2
+vaccination|vacunación||S|sla|B2
+immunité|inmunidad||S|sla|B2
+mode de vie|estilo de vida||S|sla|B2
+sédentaire|sedentario||A|sla|B2
+sédentarité|sedentarismo||S|sla|B2
+tabagisme|tabaquismo||S|sla|B2
+fumeur|fumador||S|sla|B2
+sevrage|desintoxicación||S|sla|B2
+dépendance|dependencia||S|sla|B2
+insomnie|insomnio||S|sla|B2
+épuisement|agotamiento||S|sla|B2
+stress|estrés||S|sla|B2
+prise de sang|análisis de sangre||S|sla|B2
+radiographie|radiografía||S|sla|B2
+facteur de risque|factor de riesgo||S|sla|B2
+cholestérol|colesterol||S|sla|B2
+tension artérielle|tensión arterial||S|sla|B2
+diabète|diabetes||S|sla|B2
+maladie chronique|enfermedad crónica||S|sla|B2
+guérir|curarse||V|sla|B2
+traitement|tratamiento||S|sla|B2
+effet secondaire|efecto secundario||S|sla|B2
+alcool|alcohol||S|sla|B2
+assurance maladie|seguro de enfermedad||S|sla|B2
+mutuelle|mutua (sanitaria)||S|sla|B2
+couverture santé|cobertura sanitaria||S|sla|B2
+cotisation|cotización||S|sla|B2
+cotiser|cotizar||V|sla|B2
+affiliation|afiliación||S|sla|B2
+bénéficiaire|beneficiario||S|sla|B2
+feuille de soins|hoja de gastos médicos||S|sla|B2
+soins|atención médica||S|sla|B2
+conventionné|concertado||A|sla|B2
+hospitalisation|hospitalización||S|sla|B2
+hospitaliser|hospitalizar||V|sla|B2
+clinique|clínica||S|sla|B2
+urgences|urgencias||S|sla|B2
+ambulancier|técnico de ambulancia||S|pro|B2
+ambulance|ambulancia||S|sla|B2
+infirmier|enfermero||S|pro|B2
+sage-femme|matrona||S|pro|B2
+pharmacien|farmacéutico||S|pro|B2
+délai d'attente|tiempo de espera||S|sla|B2
+liste d'attente|lista de espera||S|sla|B2
+médecin traitant|médico de referencia||S|sla|B2
+spécialiste|especialista||S|pro|B2
+arrêt de travail|baja laboral||S|sla|B2
+arrêt maladie|baja por enfermedad||S|sla|B2
+tiers payant|pago directo||S|sla|B2
+complémentaire santé|seguro complementario||S|sla|B2
+prime|prima (del seguro)||S|fin|B2
+assuré|asegurado||S|sla|B2
+sinistre|siniestro||S|fin|B2
+dépassement d'honoraires|exceso de honorarios||S|sla|B2
+honoraires|honorarios (médicos)||S|sla|B2

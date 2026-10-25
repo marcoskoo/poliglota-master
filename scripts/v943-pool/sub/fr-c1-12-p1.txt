@@ -1,0 +1,259 @@
+cheptel|cabaña ganadera||S|ani|C1
+transhumance|trashumancia||S|ani|C1
+estive|pasto de verano en montaña||S|ani|C1
+pacage|derecho de pasto||S|ani|C1
+vêlage|parto de la vaca||S|ani|C1
+agnelage|parición de las ovejas||S|ani|C1
+traire|ordeñar||V|ani|C1
+tonte|esquilado||S|ani|C1
+engraissement|engorde||S|ani|C1
+ensilage|ensilado||S|ani|C1
+croisement|cruzamiento de razas||S|ani|C1
+stabulation|estabulación||S|ani|C1
+abreuvoir|abrevadero||S|ani|C1
+bergerie|aprisco||S|ani|C1
+abattoir|matadero||S|ani|C1
+venaison|carne de caza mayor||S|ani|C1
+ovins|ganado ovino||S|ani|C1
+bovins|ganado bovino||S|ani|C1
+caprin|caprino||A|ani|C1
+aquacole|acuícola||A|ani|C1
+pisciculture|piscicultura||S|ani|C1
+conchyliculture|conchicultura||S|ani|C1
+mytiliculture|cultivo de mejillones||S|ani|C1
+ostréiculture|ostricultura||S|ani|C1
+chalutier|barco de arrastre||S|ani|C1
+chalutage|pesca de arrastre||S|ani|C1
+thonier|atunero||S|ani|C1
+alevin|alevín||S|ani|C1
+frayère|zona de desove||S|ani|C1
+surpêche|sobrepesca||S|ani|C1
+remettre à l'eau|devolver al agua||E|ani|C1
+sylviculture|silvicultura||S|nat|C1
+futaie|monte alto||S|nat|C1
+taillis|monte bajo||S|nat|C1
+perchis|latizal||S|nat|C1
+coupe rase|tala a matarrasa||E|nat|C1
+débardage|arrastre de troncos||S|nat|C1
+élagage|poda de árboles||S|nat|C1
+émondage|poda de ramas||S|nat|C1
+bûcheron|leñador||S|nat|C1
+coupe-feu|cortafuegos||S|nat|C1
+contre-feu|contrafuego||S|nat|C1
+feu de forêt|incendio forestal||E|nat|C1
+brasier|mar de llamas||S|nat|C1
+reboisement|repoblación forestal||S|nat|C1
+déboisement|deforestación||S|nat|C1
+défrichement|roturación de monte||S|nat|C1
+lisière|linde del bosque||S|nat|C1
+sous-bois|sotobosque||S|nat|C1
+drageon|renuevo de raíz||S|nat|C1
+semencier|árbol semillero||S|nat|C1
+canopée|doseles del bosque||S|nat|C1
+litière|mantillo||S|nat|C1
+feuillu|árbol frondoso||S|nat|C1
+résineux|conífera||S|nat|C1
+scolyte|escarabajo perforador||S|nat|C1
+chenille processionnaire|procesionaria del pino||E|nat|C1
+tourbière|turbera||S|nat|C1
+garrigue|garriga||S|nat|C1
+maquis|maleza mediterránea||S|nat|C1
+clairière|claro del bosque||S|nat|C1
+incombustible|incombustible||A|nat|C1
+économie circulaire|economía circular||E|att|C1
+tri sélectif|recogida selectiva||E|cit|C1
+déchetterie|punto limpio||S|cit|C1
+compostage|compostaje||S|nat|C1
+composter|compostar||V|nat|C1
+valorisation|valorización de residuos||S|att|C1
+réemploi|reutilización||S|att|C1
+réutiliser|reutilizar||V|att|C1
+filière|sector productivo||S|att|C1
+gisement|depósito de materias primas||S|att|C1
+obsolescence programmée|obsolescencia programada||E|tec|C1
+suremballage|sobreenvasado||S|ali|C1
+déchets verts|residuos vegetales||E|nat|C1
+biodégradable|biodegradable||A|nat|C1
+dépollution|descontaminación||S|nat|C1
+remédiation|remediación de suelos||S|sci|C1
+déconstruction|desmontaje selectivo||S|att|C1
+ressourcerie|centro de reutilización||S|att|C1
+recyclerie|recogida solidaria de segunda mano||S|att|C1
+ferraille|chatarra||S|nat|C1
+ferrailleur|chatarrero||S|pro|C1
+ordures ménagères|residuos domésticos||E|cit|C1
+microplastique|microplástico||S|sci|C1
+méthanisation|metanización||S|sci|C1
+méthaniseur|metanizador||S|tec|C1
+biogaz|biogás||S|sci|C1
+encombrant|objeto voluminoso||S|cit|C1
+lixiviat|lixiviado||S|sci|C1
+écotaxe|ecotasa||S|fin|C1
+incinération|incineración||S|nat|C1
+incinérateur|incineradora||S|nat|C1
+pondéré|ecuánime||A|ast|C1
+circonspect|circunspecto||A|ast|C1
+nuancé|matizado||A|ast|C1
+lucide|lúcido||A|ast|C1
+obtus|obtuso||A|ast|C1
+borné|corto de entendimiento||A|ast|C1
+outrecuidant|engreído||A|ast|C1
+hautain|altanero||A|ast|C1
+condescendant|condescendiente||A|ast|C1
+obséquieux|obséquioso||A|ast|C1
+complaisant|complaciente||A|ast|C1
+servile|servil||A|ast|C1
+roublard|ladino||A|ast|C1
+madré|astuto||A|ast|C1
+fourbe|felón||A|ast|C1
+sournois|taimado||A|ast|C1
+retors|retorcido||A|ast|C1
+fallacieux|falaz||A|ast|C1
+veule|apocado||A|ast|C1
+nonchalant|indolente||A|ast|C1
+intraitable|intratable||A|ast|C1
+conciliant|conciliador||A|ast|C1
+intransigeant|intransigente||A|ast|C1
+opinionâtre|obstinado en su opinión||A|ast|C1
+sagace|sagaz||A|ast|C1
+perspicace|perspicaz||A|ast|C1
+crédule|crédulo||A|ast|C1
+pingre|roñoso||A|ast|C1
+mesquin|mezquino||A|ast|C1
+narquois|socarrón||A|ast|C1
+vindicatif|rencoroso||A|ast|C1
+arguer|alegar como argumento||V|cmu|C1
+objecter|objetar||V|cmu|C1
+rétorquer|replicar||V|cmu|C1
+concéder|conceder||V|cmu|C1
+tempérer|moderar||V|cmu|C1
+nuancer|matizar||V|cmu|C1
+étayer|sostener con pruebas||V|cmu|C1
+alléguer|alegar||V|cmu|C1
+réfuter|refutar||V|cmu|C1
+sermonner|sermonear||V|cmu|C1
+tancer|regañar||V|cmu|C1
+morigéner|reprender||V|cmu|C1
+apostropher|apostrofar||V|cmu|C1
+invectiver|invectivar||V|cmu|C1
+vilipender|vilipendiar||V|cmu|C1
+dénigrer|denigrar||V|cmu|C1
+décrier|denostar||V|cmu|C1
+persifler|persiflar||V|cmu|C1
+prôner|preconizar||V|cmu|C1
+psalmodier|salmodiar||V|cmu|C1
+haranguer|arengar||V|cmu|C1
+pérorer|perorar||V|cmu|C1
+divaguer|divagar||V|cmu|C1
+tergiverser|tergiversar||V|cmu|C1
+biaiser|actuar con doblez||V|cmu|C1
+louvoyer|maniobrar con rodeos||V|cmu|C1
+asséner|soltar con contundencia||V|cmu|C1
+proférer|profirir||V|cmu|C1
+bafouer|vejar con burla||V|cmu|C1
+honnir|execrar||V|cmu|C1
+chicaner|discutir por nimiedades||V|cmu|C1
+problématique|problemática||S|ast|C1
+heuristique|heurística||S|ast|C1
+paradigme|paradigma||S|ast|C1
+doxa|doxa (opinión común)||S|ast|C1
+herméneutique|hermenéutica||S|ast|C1
+exégèse|exégesis||S|ast|C1
+sémiotique|semiología||S|ast|C1
+dialectique|dialéctica||S|ast|C1
+syllogisme|silogismo||S|ast|C1
+sophisme|sofisma||S|ast|C1
+paralogisme|paralogismo||S|ast|C1
+axiologie|axiología||S|ast|C1
+axiomatique|axiomática||S|ast|C1
+conceptualisation|conceptualización||S|ast|C1
+catégorisation|categorización||S|ast|C1
+inférence|inferencia||S|ast|C1
+induction|inducción||S|ast|C1
+corroboration|corroboración||S|ast|C1
+falsifiabilité|falsabilidad||S|ast|C1
+plausibilité|plausibilidad||S|ast|C1
+contingence|contingencia||S|ast|C1
+immanence|inmanencia||S|ast|C1
+transcendance|trascendencia||S|ast|C1
+diachronie|diacronía||S|ast|C1
+historiographie|historiografía||S|ast|C1
+ethnocentrisme|etnocentrismo||S|ast|C1
+relativisme|relativismo||S|ast|C1
+déterminisme|determinismo||S|ast|C1
+essentialisme|esencialismo||S|ast|C1
+constructivisme|constructivismo||S|ast|C1
+épistémologie|epistemología||S|ast|C1
+véridique|verídico||A|ast|C1
+véracité|veracidad||S|ast|C1
+fabulation|fabulación||S|ast|C1
+affabulation|relato inventado||S|ast|C1
+mystification|engaño urdido||S|ast|C1
+mystifier|engañar||V|ast|C1
+duplicité|duplicidad||S|ast|C1
+supercherie|superchería||S|ast|C1
+fourberie|felonía||S|ast|C1
+sornette|patraña||S|ast|C1
+dénégation|negación de la realidad||S|ast|C1
+candeur|candidez||S|ast|C1
+crédulité|credulidad||S|ast|C1
+lucidité|lucidez||S|ast|C1
+perspicacité|perspicacia||S|ast|C1
+sagacité|sagacidad||S|ast|C1
+acuité|agudeza||S|ast|C1
+leurre|señuelo||S|ast|C1
+mythomane|mitómano||A|sla|C1
+mythomanie|mitomanía||S|sla|C1
+parjure|perjurio||S|ast|C1
+galvauder|devaluar por uso indebido||V|ast|C1
+travestir|desnaturalizar||V|ast|C1
+fausser|falsear||V|ast|C1
+dénaturer|desvirtuar||V|ast|C1
+apocryphe|apócrifo||A|ast|C1
+bévue|error garrafal||S|ast|C1
+contre-vérité|contraverdad||S|ast|C1
+demi-vérité|semiverdad||S|ast|C1
+tartuferie|tartufería||S|ast|C1
+pharisaïsme|fariseísmo||S|ast|C1
+raffinement|refinamiento||S|art|C1
+raffiné|refinado||A|art|C1
+dépouillement|austeridad despojada||S|art|C1
+épuré|depurado||A|art|C1
+épure|trazado esencial||S|art|C1
+sobriété|sobriedad||S|art|C1
+austérité|austeridad||S|art|C1
+prestance|gallardía||S|art|C1
+maintien|porte||S|art|C1
+désinvolture|desenvoltura||S|art|C1
+désinvolte|desenvuelto||A|art|C1
+nonchalance|desgana elegante||S|art|C1
+panache|gallardía con estilo||S|art|C1
+distingué|distinguido||A|art|C1
+racé|de raza||A|art|C1
+clinquant|chillón de mal gusto||A|art|C1
+rococo|rococó||A|art|C1
+académisme|academicismo||S|art|C1
+mièvre|remilgado||A|art|C1
+subtilité|sutileza||S|ast|C1
+probité|probididad||S|ast|C1
+droiture|rectitud||S|ast|C1
+honorabilité|honorabilidad||S|ast|C1
+respectabilité|respetabilidad||S|ast|C1
+scrupule|escrúpulo||S|ast|C1
+turpitude|torpeza||S|ast|C1
+vilenie|vileza||S|ast|C1
+bassesse|bajeza||S|ast|C1
+magnanime|magnánimo||A|ast|C1
+magnanimité|magnanimidad||S|ast|C1
+ostentation|ostentación||S|ast|C1
+infime|ínfimo||A|ast|C1
+infinitésimal|infinitesimal||A|sci|C1
+dérisoire|irrisorio||A|ast|C1
+pléthore|plétora||S|ast|C1
+kyrielle|sarta interminable||S|ast|C1
+myriade|miríada||S|ast|C1
+profusion|profusión||S|ast|C1
+surabondance|superabundancia||S|ast|C1
+disette|carestía||S|ast|C1
+pénurie|penuria||S|ast|C1
+indigence|indigencia||S|ast|C1

@@ -2858,3 +2858,43 @@ Work Log:
 - awk OK / duplicados OK
 Stage Summary:
 - fr-c1-11: 1035 entradas C1 de francés
+---
+Task ID: v9.43/final/fr-b2-07
+Agent: subagent
+Task: lexicón FR B2 job fr-b2-07
+Work Log:
+- generado fr-b2-07-p1.txt/p2.txt/p3.txt con 856 entradas · awk OK (6 campos, 286+286+284) · dup OK (sin duplicados)
+Stage Summary:
+- fr-b2-07: 856 entradas B2 de francés
+---
+Task ID: v9.43/final/fr-c1-10
+Agent: subagent
+Task: lexicón FR C1 job fr-c1-10 (retry)
+Work Log:
+- generado fr-c1-10-p*.txt con 1035 entradas · awk OK · dup OK
+Stage Summary:
+- fr-c1-10: 1035 entradas C1 de francés
+---
+Task ID: v9.43/final/pt-c2-21
+Agent: subagent
+Task: lexicón PT C2 job pt-c2-21
+Work Log:
+- generado pt-c2-21-p*.txt con 1174 entradas · awk OK · dup OK
+Stage Summary:
+- pt-c2-21: 1174 entradas C2 de portugués
+---
+Task ID: v9.43/final/fr-c1-12
+Agent: subagent
+Task: lexicón FR C1 job fr-c1-12 (retry)
+Work Log:
+- generado fr-c1-12-p*.txt con 1035 entradas · awk OK · dup OK
+Stage Summary:
+- fr-c1-12: 1035 entradas C1 de francés
+---
+Task ID: v9.43/final/fr-b2-04
+Agent: subagent
+Task: lexicón FR B2 job fr-b2-04
+Work Log:
+- generado fr-b2-04-p*.txt con 858 entradas · awk OK · dup OK
+Stage Summary:
+- fr-b2-04: 858 entradas B2 de francés

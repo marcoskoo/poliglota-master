@@ -1,0 +1,286 @@
+séjour linguistique|estancia lingüística||E|stu|B2
+bourse d'études|beca de estudios||L|stu|B2
+université d'accueil|universidad de acogida||L|stu|B2
+année universitaire|curso académico||L|stu|B2
+s'inscrire|matricularse||V|stu|B2
+inscription|matrícula||S|stu|B2
+relevé de notes|certificado de notas||L|stu|B2
+partir à l'étranger|irse al extranjero||E|stu|B2
+coût de la vie|coste de la vida||L|stu|B2
+cité universitaire|residencia universitaria||L|stu|B2
+cours magistral|clase magistral||L|stu|B2
+contrôle continu|evaluación continua||L|stu|B2
+mémoire|trabajo de fin de máster||S|stu|B2
+soutenance|defensa del trabajo||S|stu|B2
+stage|prácticas||S|stu|B2
+candidature|candidatura||S|stu|B2
+lettre de motivation|carta de motivación||L|stu|B2
+niveau requis|nivel requerido||L|stu|B2
+parler couramment|hablar con soltura||E|stu|B2
+dépaysement|sensación de desarraigo||S|stu|B2
+s'adapter|adaptarse||V|stu|B2
+rentrer au pays|volver al país||E|stu|B2
+valider|validar los créditos||V|stu|B2
+équivalence|equivalencia||S|stu|B2
+double diplôme|doble titulación||S|stu|B2
+académique|académico||A|stu|B2
+pédagogie|pedagogía||S|stu|B2
+locuteur natif|hablante nativo||L|stu|B2
+interculturel|intercultural||A|stu|B2
+immersion|inmersión||S|stu|B2
+étudiant d'échange|estudiante de intercambio||L|stu|B2
+acquéreur|comprador||S|cas|B2
+notaire|notario||S|cas|B2
+agence immobilière|inmobiliaria||L|cas|B2
+bien immobilier|inmueble||L|cas|B2
+surface habitable|superficie habitable||L|cas|B2
+charges|gastos de comunidad||S|cas|B2
+copropriété|comunidad de vecinos||S|cas|B2
+syndic|administrador de fincas||S|cas|B2
+dernier étage|último piso||L|cas|B2
+cave|bodega||S|cas|B2
+palier|rellano||S|cas|B2
+bail|contrato de alquiler||S|cas|B2
+locataire|inquilino||S|cas|B2
+loyer|alquiler (renta)||S|cas|B2
+caution|fianza||S|cas|B2
+assurance habitation|seguro de hogar||L|cas|B2
+mensualité|mensualidad||S|fin|B2
+taux d'intérêt|tipo de interés||L|fin|B2
+hypothécaire|hipotecario||A|fin|B2
+apport personnel|entrada||L|fin|B2
+négocier|negociar||V|cas|B2
+estimation|tasación||S|cas|B2
+banlieue résidentielle|barrio residencial a las afueras||L|cit|B2
+voisinage|vecindario||S|cit|B2
+commerces de proximité|comercios de barrio||L|cit|B2
+emplacement|ubicación||S|cit|B2
+lumineux|luminoso||A|cas|B2
+spacieux|espacioso||A|cas|B2
+à rénover|para reformar||E|cas|B2
+travaux|obras||S|cas|B2
+visiter|visitar||V|cas|B2
+coup de cœur|flechazo||L|cas|B2
+acheter en ligne|comprar online||E|cmp|B2
+panier|cesta de la compra||S|cmp|B2
+livraison|entrega||S|cmp|B2
+livraison express|envío exprés||L|cmp|B2
+frais de port|gastos de envío||L|cmp|B2
+colis|paquete||S|cmp|B2
+colis endommagé|paquete dañado||L|cmp|B2
+suivi de commande|seguimiento del pedido||L|cmp|B2
+passer commande|hacer un pedido||E|cmp|B2
+retour|devolución||S|cmp|B2
+remboursement|reembolso||S|fin|B2
+chèque cadeau|vale regalo||L|cmp|B2
+code promo|código promocional||L|cmp|B2
+soldes|rebajas||S|cmp|B2
+rabais|descuento||S|cmp|B2
+commentaire client|reseña del cliente||L|cmp|B2
+fiche produit|ficha del producto||L|cmp|B2
+disponibilité|disponibilidad||S|cmp|B2
+en rupture de stock|agotado||E|cmp|B2
+arnaque|estafa||S|cmp|B2
+arnaquer|estafar||V|cmp|B2
+contrefaçon|falsificación||S|cmp|B2
+paiement sécurisé|pago seguro||L|cmp|B2
+moyen de paiement|método de pago||L|fin|B2
+point relais|punto de recogida||L|cmp|B2
+programme de fidélité|programa de fidelidad||L|cmp|B2
+fidélité|fidelidad||S|cmp|B2
+rédiger une critique|escribir una crítica||E|cmp|B2
+recommander|recomendar||V|cmp|B2
+déçu|decepcionado||A|emo|B2
+marchand|vendedor||S|pro|B2
+achat impulsif|compra por impulso||L|cmp|B2
+application|aplicación||S|tec|B2
+télécharger|descargar||V|tec|B2
+mettre à jour|actualizar||E|tec|B2
+notification|notificación||S|tec|B2
+mot de passe|contraseña||L|tec|B2
+empreinte digitale|huella dactilar||L|tec|B2
+reconnaissance faciale|reconocimiento facial||L|tec|B2
+données personnelles|datos personales||L|tec|B2
+vie privée|privacidad||L|tec|B2
+géolocalisation|geolocalización||S|tec|B2
+abonnement|suscripción||S|tec|B2
+essai gratuit|prueba gratuita||L|tec|B2
+publicité ciblée|publicidad segmentada||L|tec|B2
+courrier indésirable|correo no deseado||L|tec|B2
+compte|cuenta||S|tec|B2
+créer un compte|crear una cuenta||E|tec|B2
+pseudonyme|nombre de usuario||S|tec|B2
+cyberharcèlement|ciberacoso||S|tec|B2
+dépendance à l'écran|dependencia de las pantallas||L|tec|B2
+réseau social|red social||L|tec|B2
+publication|publicación||S|tec|B2
+fil d'actualité|muro de noticias||L|tec|B2
+mettre en ligne|subir a internet||E|tec|B2
+connexion|conexión||S|tec|B2
+batterie|batería||S|tec|B2
+recharger|recargar||V|tec|B2
+forfait|tarifa de móvil||S|tec|B2
+visioconférence|videoconferencia||S|tec|B2
+capture d'écran|captura de pantalla||L|tec|B2
+groupe de discussion|grupo de chat||L|tec|B2
+planter|colgarse||V|tec|B2
+déconnexion|desconexión||S|tec|B2
+entraîneur|entrenador||S|spt|B2
+adhésion|inscripción como socio||S|spt|B2
+vestiaires|vestuarios||S|spt|B2
+échauffement|calentamiento||S|spt|B2
+étirements|estiramientos||S|spt|B2
+courbatures|agujetas||S|spt|B2
+récupération|recuperación||S|spt|B2
+footing|footing||S|spt|B2
+cyclisme|ciclismo||S|spt|B2
+natation|natación||S|spt|B2
+salle de sport|gimnasio||L|spt|B2
+cardio|cardio||S|spt|B2
+musculation|musculación||S|spt|B2
+tapis de course|cinta de correr||L|spt|B2
+haltères|mancuernas||S|spt|B2
+séance|sesión||S|spt|B2
+performance|rendimiento||S|spt|B2
+se fixer un objectif|fijarse un objetivo||E|spt|B2
+dépasser ses limites|superar sus límites||E|spt|B2
+esprit d'équipe|espíritu de equipo||L|spt|B2
+fair-play|juego limpio||S|spt|B2
+arbitre|árbitro||S|spt|B2
+prolongation|prórroga||S|spt|B2
+écrasant|aplastante||A|spt|B2
+défaite|derrota||S|spt|B2
+supporter|animar a un equipo||V|spt|B2
+blessure|lesión||S|spt|B2
+entorse|esguince||S|spt|B2
+prendre sa revanche|tomarse la revancha||E|spt|B2
+match nul|empate||L|spt|B2
+raquette|raqueta||S|spt|B2
+maillot|camiseta||S|spt|B2
+billetterie|taquilla||S|mus|B2
+place debout|localidad de pie||L|mus|B2
+fosse|foso||S|mus|B2
+scène|escenario||S|mus|B2
+tournée|gira||S|mus|B2
+première partie|grupo telonero||L|mus|B2
+répertoire|repertorio||S|mus|B2
+auteur-compositeur|cantautor||S|mus|B2
+album|álbum||S|mus|B2
+refrain|estribillo||S|mus|B2
+paroles|letra de la canción||S|mus|B2
+foule|multitud||S|mus|B2
+festivalier|asistente de festival||S|mus|B2
+file d'attente|cola||L|mus|B2
+coupe-file|pase sin colas||S|mus|B2
+bracelet|pulsera acreditativa||S|mus|B2
+agent de sécurité|agente de seguridad||L|mus|B2
+fouille|cacheo||S|mus|B2
+scène principale|escenario principal||L|mus|B2
+complet|agotado||A|mus|B2
+annulé|cancelado||A|mus|B2
+reporté|aplazado||A|mus|B2
+hymne|himno||S|mus|B2
+chanter en chœur|cantar a coro||E|mus|B2
+vibrer|vibrar||V|mus|B2
+mélomane|melómano||S|mus|B2
+disque vinyle|disco de vinilo||L|mus|B2
+écouteurs|auriculares||S|mus|B2
+liste de lecture|lista de reproducción||L|mus|B2
+écouter en boucle|escuchar en bucle||E|mus|B2
+tube|éxito musical||S|mus|B2
+chœur|coro||S|mus|B2
+plateforme de streaming|plataforma de streaming||L|cin|B2
+abonnement mensuel|suscripción mensual||L|cin|B2
+enchaîner les épisodes|encadenar episodios||E|cin|B2
+épisode|episodio||S|cin|B2
+pilote|episodio piloto||S|cin|B2
+diffusion|emisión||S|cin|B2
+rediffusion|reposición||S|cin|B2
+sous-titres|subtítulos||S|cin|B2
+version originale|versión original||L|cin|B2
+doublage|doblaje||S|cin|B2
+scénario|guion||S|cin|B2
+réalisateur|director||S|cin|B2
+tournage|rodaje||S|cin|B2
+décor|decorado||S|cin|B2
+intrigue|trama||S|cin|B2
+rebondissement|giro de guion||S|cin|B2
+fin ouverte|final abierto||L|cin|B2
+générique|cabecera||S|cin|B2
+divulguer la fin|destripar el final||E|cin|B2
+série policière|serie policiaca||L|cin|B2
+documentaire|documental||S|cin|B2
+télé-réalité|telerrealidad||S|cin|B2
+audience|audiencia||S|cin|B2
+record d'audience|récord de audiencia||L|cin|B2
+croustillant|jugoso||A|cin|B2
+captivant|absorbente||A|cin|B2
+prévisible|predecible||A|cin|B2
+acteur principal|actor principal||L|cin|B2
+interpréter un rôle|interpretar un papel||E|cin|B2
+apparition|aparición||S|cin|B2
+produit dérivé|producto derivado||S|cin|B2
+dévorer une série|devorar una serie||E|cin|B2
+fiançailles|compromiso||S|rel|B2
+fiancé|prometido||S|rel|B2
+demande en mariage|pedida de matrimonio||L|rel|B2
+robe de mariée|vestido de novia||L|rop|B2
+costume|traje||S|rop|B2
+alliance|alianza||S|rel|B2
+témoin|testigo de boda||S|rel|B2
+demoiselle d'honneur|dama de honor||L|rel|B2
+liste de mariage|lista de boda||L|rel|B2
+faire un discours|dar un discurso||E|rel|B2
+réception|recepción||S|rel|B2
+vin d'honneur|aperitivo de boda||L|rel|B2
+cortège|comitiva||S|rel|B2
+mairie|ayuntamiento||S|rel|B2
+lune de miel|luna de miel||L|rel|B2
+noces d'or|bodas de oro||L|rel|B2
+pacsé|en pareja de hecho||A|rel|B2
+concubinage|convivencia en pareja||S|rel|B2
+séparation|separación||S|rel|B2
+divorce|divorcio||S|rel|B2
+garde alternée|custodia compartida||L|rel|B2
+naissance|nacimiento||S|rel|B2
+baptême|bautizo||S|rel|B2
+enterrement|entierro||S|rel|B2
+deuil|luto||S|rel|B2
+franchir une étape|superar una etapa||E|rel|B2
+passage à l'âge adulte|paso a la vida adulta||L|rel|B2
+belle-mère|suegra||S|fam|B2
+beau-frère|cuñado||S|fam|B2
+gendre|yerno||S|fam|B2
+bru|nuera||S|fam|B2
+dépenses mensuelles|gastos mensuales||L|fin|B2
+budget serré|presupuesto ajustado||L|fin|B2
+tenir un budget|llevar un presupuesto||E|fin|B2
+livret d'épargne|cuenta de ahorros||L|fin|B2
+épargne|ahorro||S|fin|B2
+mettre de côté|apartar dinero||E|fin|B2
+faire des économies|ahorrar dinero||E|fin|B2
+virement|transferencia||S|fin|B2
+prélèvement automatique|domiciliación bancaria||L|fin|B2
+découvert|números rojos||S|fin|B2
+agios|comisiones por descubierto||S|fin|B2
+frais bancaires|comisiones bancarias||L|fin|B2
+économies|ahorros||S|fin|B2
+se serrer la ceinture|apretarse el cinturón||E|fin|B2
+escroquerie|estafa||S|fin|B2
+escroc|estafador||S|fin|B2
+fraude|fraude||S|fin|B2
+faux billet|billete falso||L|fin|B2
+vol à l'étalage|hurto en tiendas||L|fin|B2
+pickpocket|carterista||S|fin|B2
+se faire avoir|dejarse engañar||E|fin|B2
+crédule|crédulo||A|fin|B2
+méfiant|desconfiado||A|fin|B2
+dépenser sans compter|gastar sin control||E|fin|B2
+coût caché|coste oculto||L|fin|B2
+revenus|ingresos||S|fin|B2
+allocation|prestación||S|fin|B2
+pension alimentaire|pensión de alimentos||L|fin|B2
+réduire ses dépenses|recortar gastos||E|fin|B2
+au noir|en negro||E|fin|B2
+pourboire|propina||S|fin|B2
+guichet automatique|cajero automático||L|fin|B2

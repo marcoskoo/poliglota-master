@@ -1,0 +1,259 @@
+droit des gens|derecho de gentes||L|ist|C1
+réserve à un traité|reserva (a un tratado)||L|ist|C1
+pacte de non-agression|pacto de no agresión||L|ist|C1
+délimitation frontalière|delimitación fronteriza||L|ist|C1
+extraterritorialité|extraterritorialidad||S|ist|C1
+immunité diplomatique|inmunidad diplomática||L|ist|C1
+corps diplomatique|cuerpo diplomático||L|ist|C1
+représentation permanente|representación permanente||L|ist|C1
+droit international humanitaire|derecho internacional humanitario||L|ist|C1
+belligérant|beligerante||S|ist|C1
+nation la plus favorisée|nación más favorecida||L|ist|C1
+juridiction internationale|jurisdicción internacional||L|ist|C1
+arbitrage international|arbitraje internacional||L|ist|C1
+compromis d'arbitrage|compromiso arbitral||L|ist|C1
+sentence arbitrale|laudo arbitral||L|ist|C1
+litige transfrontalier|litigio transfronterizo||S|ist|C1
+asile politique|asilo político||L|ist|C1
+apatride|apátrida||S|ist|C1
+extradition|extradición||S|ist|C1
+entraide judiciaire|auxilio judicial mutuo||L|ist|C1
+mandat d'arrêt international|orden de detención internacional||L|ist|C1
+déclaration commune|declaración conjunta||L|ist|C1
+sommet diplomatique|cumbre diplomática||L|ist|C1
+chancellerie|cancillería||S|ist|C1
+négociation multilatérale|negociación multilateral||L|ist|C1
+accord-cadre|acuerdo marco||S|ist|C1
+protocole d'accord|protocolo de acuerdo||L|ist|C1
+entrée en vigueur|entrada en vigor||L|ist|C1
+dépositaire d'un traité|depositario de un tratado||L|ist|C1
+droit des sociétés|derecho de sociedades||L|ist|C1
+statuts|estatutos (sociales)||S|ist|C1
+capital social|capital social||L|fin|C1
+augmentation de capital|ampliación de capital||L|fin|C1
+réduction de capital|reducción de capital||L|fin|C1
+répartition des bénéfices|reparto de beneficios||L|fin|C1
+boni de liquidation|sobrante de liquidación||L|fin|C1
+liquidation judiciaire|liquidación judicial||L|fin|C1
+redressement judiciaire|concurso de acreedores||L|fin|C1
+cessation de paiements|suspensión de pagos||L|fin|C1
+gérant majoritaire|administrador mayoritario||L|pro|C1
+conseil d'administration|consejo de administración||L|ist|C1
+assemblée générale extraordinaire|junta general extraordinaria||L|ist|C1
+procès-verbal d'assemblée|acta de junta||L|ist|C1
+actionnaire minoritaire|accionista minoritario||L|fin|C1
+actions au porteur|acciones al portador||L|fin|C1
+cession de parts|cesión de participaciones||L|fin|C1
+pacte d'actionnaires|pacto de socios||L|fin|C1
+cautionnement solidaire|aval solidario||L|fin|C1
+lettre de change|letra de cambio||L|fin|C1
+billet à ordre|pagaré||L|fin|C1
+protêt|protesto (cambiario)||S|fin|C1
+clause de non-concurrence|cláusula de no competencia||L|ist|C1
+clause compromissoire|cláusula compromisoria||L|ist|C1
+domiciliation bancaire|domiciliación bancaria||L|fin|C1
+immatriculation au registre|inscripción registral||L|ist|C1
+fonds de commerce|fondo de comercio (clientela)||L|fin|C1
+enseigne commerciale|nombre comercial||L|fin|C1
+concurrence déloyale|competencia desleal||L|fin|C1
+entente illicite|colusión ilícita||L|fin|C1
+abus de position dominante|abuso de posición dominante||L|fin|C1
+fusion-absorption|fusión por absorción||S|fin|C1
+code du travail|código laboral||L|ist|C1
+convention collective|convenio colectivo||L|lav|C1
+accord de branche|convenio sectorial||L|lav|C1
+négociation collective|negociación colectiva||L|lav|C1
+rémunération variable|retribución variable||L|lav|C1
+avantage en nature|retribución en especie||L|lav|C1
+intéressement|participación en beneficios||S|lav|C1
+contrat de chantier|contrato de obra||L|lav|C1
+clause de mobilité|cláusula de movilidad||L|lav|C1
+clause de dédit-formation|cláusula de permanencia||L|lav|C1
+période d'essai|periodo de prueba||L|lav|C1
+rupture conventionnelle|extinción pactada||L|lav|C1
+licenciement économique|despido objetivo||L|lav|C1
+licenciement pour faute grave|despido por falta grave||L|lav|C1
+plan de départ volontaire|plan de salidas voluntarias||L|lav|C1
+préavis|preaviso||S|lav|C1
+solde de tout compte|finiquito||L|lav|C1
+forfait-jours|jornada anualizada||S|lav|C1
+repos compensateur|descanso compensatorio||L|lav|C1
+droit de grève|derecho de huelga||L|lav|C1
+piquet de grève|piquete de huelga||L|lav|C1
+syndicalisation|sindicalización||S|lav|C1
+délégué syndical|delegado sindical||L|lav|C1
+comité d'entreprise|comité de empresa||L|lav|C1
+inspection du travail|inspección de trabajo||L|ist|C1
+conseil de prud'hommes|tribunal laboral||L|ist|C1
+contentieux prud'homal|litigio laboral||S|ist|C1
+inaptitude au poste|incapacidad para el puesto||L|lav|C1
+reclassement professionnel|recalificación profesional||L|lav|C1
+accident du travail|accidente de trabajo||L|lav|C1
+harcèlement moral|acoso laboral||L|lav|C1
+discrimination à l'embauche|discriminación en la contratación||L|lav|C1
+anatomie chirurgicale|anatomía quirúrgica||L|cor|C1
+dissection|disección||S|cor|C1
+incision|incisión||S|cor|C1
+suturer|suturar||V|cor|C1
+point de suture|punto de sutura||L|cor|C1
+anesthésie locorégionale|anestesia locorregional||L|cor|C1
+anesthésie générale|anestesia general||L|cor|C1
+bistouri|bisturí||S|cor|C1
+électrocoagulation|electrocoagulación||S|cor|C1
+pince hémostatique|pinza hemostática||L|cor|C1
+écarteur|separador (quirúrgico)||S|cor|C1
+trocart|trócar||S|cor|C1
+canule|cánula||S|cor|C1
+drain|drenaje (quirúrgico)||S|cor|C1
+sonde d'intubation|sonda de intubación||L|cor|C1
+voie d'abord|vía de acceso quirúrgico||L|cor|C1
+cœlioscopie|laparoscopia||S|cor|C1
+œsophagectomie|esofaguectomía||S|cor|C1
+néphrectomie|nefrectomía||S|cor|C1
+hystérectomie|histerectomía||S|cor|C1
+appendicectomie|apendicectomía||S|cor|C1
+cholécystectomie|colecistectomía||S|cor|C1
+prothèse de hanche|prótesis de cadera||L|cor|C1
+arthrodèse|artrodesis||S|cor|C1
+greffe osseuse|injerto óseo||L|cor|C1
+ostéosynthèse|osteosíntesis||S|cor|C1
+attelle|férula||S|cor|C1
+ligament croisé|ligamento cruzado||L|cor|C1
+ménisque|menisco||S|cor|C1
+hémostase|hemostasia||S|cor|C1
+champ opératoire|campo quirúrgico||L|cor|C1
+bloc opératoire|quirófano||L|cor|C1
+cardiologie|cardiología||S|sla|C1
+insuffisance cardiaque|insuficiencia cardiaca||L|sla|C1
+infarctus du myocarde|infarto de miocardio||L|sla|C1
+coronarographie|coronariografía||S|sla|C1
+angioplastie|angioplastia||S|sla|C1
+endoprothèse vasculaire|endoprótesis vascular||L|sla|C1
+fibrillation auriculaire|fibrilación auricular||L|sla|C1
+bradycardie|bradicardia||S|sla|C1
+valvulopathie|valvulopatía||S|sla|C1
+souffle cardiaque|soplo cardiaco||L|sla|C1
+épreuve d'effort|prueba de esfuerzo||L|sla|C1
+cardiopathie congénitale|cardiopatía congénita||L|sla|C1
+anticoagulation|anticoagulación||S|sla|C1
+thrombose veineuse|trombosis venosa||L|sla|C1
+embolie pulmonaire|embolia pulmonar||L|sla|C1
+insuffisance veineuse|insuficiencia venosa||L|sla|C1
+artériosclérose|arterioesclerosis||S|sla|C1
+sténose|estenosis (arterial)||S|sla|C1
+artériopathie|arteriopatía||S|sla|C1
+pneumologie|neumología||S|sla|C1
+bronchopneumopathie chronique|bronconeumopatía crónica||L|sla|C1
+emphysème|enfisema||S|sla|C1
+fibrose pulmonaire|fibrosis pulmonar||L|sla|C1
+pleurésie|pleuresía||S|sla|C1
+pneumothorax|neumotórax||S|sla|C1
+bronchodilatateur|broncodilatador||S|sla|C1
+corticoïde inhalé|corticoide inhalado||L|sla|C1
+aérosolthérapie|aerosolterapia||S|sla|C1
+exploration fonctionnelle respiratoire|pruebas de función respiratoria||L|sla|C1
+oxygénothérapie|oxigenoterapia||S|sla|C1
+apnée du sommeil|apnea del sueño||L|sla|C1
+endocrinologie|endocrinología||S|sla|C1
+hypothyroïdie|hipotiroidismo||S|sla|C1
+hyperthyroïdie|hipertiroidismo||S|sla|C1
+goitre|bocio||S|sla|C1
+insuffisance surrénale|insuficiencia suprarrenal||L|sla|C1
+hormone de croissance|hormona del crecimiento||L|sla|C1
+hypophyse|hipófisis||S|cor|C1
+hypothalamus|hipotálamo||S|cor|C1
+diabète gestationnel|diabetes gestacional||L|sla|C1
+insulinorésistance|resistencia a la insulina||S|sla|C1
+insulinothérapie|insulinoterapia||S|sla|C1
+hyperglycémie|hiperglucemia||S|sla|C1
+hypoglycémie|hipoglucemia||S|sla|C1
+hémoglobine glyquée|hemoglobina glucosilada||L|sla|C1
+carence en fer|carencia de hierro||L|sla|C1
+métabolisme de base|metabolismo basal||L|sla|C1
+obésité morbide|obesidad mórbida||L|sla|C1
+adipocyte|adipocito||S|cor|C1
+tissu adipeux|tejido adiposo||L|cor|C1
+leptine|leptina||S|sla|C1
+cortisol|cortisol||S|sla|C1
+andropause|andropausia||S|sla|C1
+ostéoporose|osteoporosis||S|sla|C1
+parathormone|hormona paratiroidea||S|sla|C1
+diabétologue|diabetólogo||S|pro|C1
+néoglucogenèse|gluconeogénesis||S|sla|C1
+acidocétose|cetoacidosis||S|sla|C1
+hypercholestérolémie|hipercolesterolemia||S|sla|C1
+triglycéride|triglicérido||S|sla|C1
+syndrome métabolique|síndrome metabólico||L|sla|C1
+stéatose hépatique|esteatosis hepática||L|sla|C1
+dermatologie|dermatología||S|sla|C1
+allergologie|alergología||S|sla|C1
+derme|dermis||S|cor|C1
+hypoderme|hipodermis||S|cor|C1
+follicule pilosébacé|folículo pilosebáceo||L|cor|C1
+kératine|queratina||S|cor|C1
+kératinisation|queratinización||S|cor|C1
+mélanocyte|melanocito||S|cor|C1
+mélanome|melanoma||S|sla|C1
+carcinome basocellulaire|carcinoma basocelular||L|sla|C1
+psoriasis|psoriasis||S|sla|C1
+eczéma|eccema||S|sla|C1
+urticaire|urticaria||S|sla|C1
+prurit|prurito||S|sla|C1
+papule|pápula||S|cor|C1
+pustule|pústula||S|cor|C1
+squame|escama (de la piel)||S|cor|C1
+desquamation|descamación||S|cor|C1
+érythème|eritema||S|cor|C1
+angiœdème|angioedema||S|sla|C1
+allergène|alérgeno||S|sla|C1
+test cutané|prueba cutánea||L|sla|C1
+réaction anaphylactique|reacción anafiláctica||L|sla|C1
+choc anaphylactique|choque anafiláctico||L|sla|C1
+antihistaminique|antihistamínico||S|sla|C1
+corticothérapie locale|corticoterapia tópica||L|sla|C1
+émollient|emoliente||S|sla|C1
+rosacée|rosácea||S|sla|C1
+vitiligo|vitíligo||S|sla|C1
+cryothérapie|crioterapia||S|sla|C1
+biopsie cutanée|biopsia cutánea||L|sla|C1
+oncologie|oncología||S|sla|C1
+cancérogène|cancerígeno||S|sla|C1
+carcinogénèse|carcinogénesis||S|sla|C1
+tumeur maligne|tumor maligno||L|sla|C1
+tumeur bénigne|tumor benigno||L|sla|C1
+métastase|metástasis||S|sla|C1
+envahissement tumoral|infiltración tumoral||L|sla|C1
+ganglion sentinelle|ganglio centinela||L|sla|C1
+chimiothérapie adjuvante|quimioterapia adyuvante||L|sla|C1
+radiothérapie|radioterapia||S|sla|C1
+curiethérapie|braquiterapia||S|sla|C1
+immunothérapie|inmunoterapia||S|sla|C1
+hormonothérapie|hormonoterapia||S|sla|C1
+thérapie ciblée|terapia dirigida||L|sla|C1
+essai clinique|ensayo clínico||L|sla|C1
+protocole de soins|protocolo terapéutico||L|sla|C1
+rémission|remisión||S|sla|C1
+rechute|recaída||S|sla|C1
+pronostic vital|pronóstico vital||L|sla|C1
+survie globale|supervivencia global||L|sla|C1
+soins de support|cuidados de soporte||L|sla|C1
+soins palliatifs|cuidados paliativos||L|sla|C1
+fin de vie|final de la vida||L|sla|C1
+sédation profonde|sedación profunda||L|sla|C1
+analgésie|analgesia||S|sla|C1
+antalgique|analgésico||S|sla|C1
+morphinique|opioide||S|sla|C1
+acharnement thérapeutique|encarnizamiento terapéutico||L|sla|C1
+directives anticipées|instrucciones previas||L|sla|C1
+personne de confiance|persona de referencia sanitaria||L|sla|C1
+deuil anticipé|duelo anticipado||L|sla|C1
+neurologie|neurología||S|sla|C1
+neuropathie|neuropatía||S|sla|C1
+sclérose en plaques|esclerosis múltiple||L|sla|C1
+tremblement de repos|temblor de reposo||L|sla|C1
+épilepsie|epilepsia||S|sla|C1
+crise convulsive|crisis convulsiva||L|sla|C1
+aura migraineuse|aura migrañosa||L|sla|C1
+céphalée de tension|cefalea tensional||L|sla|C1
+accident vasculaire cérébral|accidente cerebrovascular||L|sla|C1
+hémorragie méningée|hemorragia meníngea||L|sla|C1

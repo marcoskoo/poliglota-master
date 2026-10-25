@@ -1,0 +1,259 @@
+exiguïté|exigüidad||S|ast|C1
+parcimonie|parquedad||S|ast|C1
+parcimonieux|parco||A|ast|C1
+prodigalité|prodigalidad||S|ast|C1
+excédent|excedente||S|fin|C1
+échantillonnage|muestreo||S|sci|C1
+ampleur|magnitud||S|ast|C1
+envergure|envergadura||S|ast|C1
+énormité|despropósito||S|ast|C1
+ordre de grandeur|orden de magnitud||E|sci|C1
+sensiblement|sensiblemente||D|ast|C1
+passablement|bastante (notablemente)||D|ast|C1
+outre mesure|en exceso||E|ast|C1
+au plus haut point|en sumo grado||E|ast|C1
+à des lieues de|a años luz de||E|ast|C1
+un tantinet|un poquito||E|ast|C1
+pour le moins|por no decir más||E|ast|C1
+en bonne partie|en buena parte||E|ast|C1
+pour l'essentiel|en lo esencial||E|ast|C1
+tout au plus|como mucho||E|ast|C1
+langue de bois|lengua de madera||E|cmu|C1
+non-dit|lo no dicho||S|cmu|C1
+sous-entendu|sobreentendido||S|cmu|C1
+passer l'éponge sur|borrar y olvidar||E|cmu|C1
+sans offenser|sin ánimo de ofender||E|cmu|C1
+en termes choisis|en términos escogidos||E|cmu|C1
+ménager|tratar con tacto||V|cmu|C1
+euphémisme|eufemismo||S|let|C1
+litote|lítote||S|let|C1
+dysphémisme|disfemismo||S|let|C1
+s'éteindre|apagarse (fallecer)||V|cmu|C1
+disparu|fallecido||A|cmu|C1
+troisième âge|tercera edad||E|cmu|C1
+en fin de vie|en fase final de la vida||E|sla|C1
+non-voyant|invidente||S|cmu|C1
+personne à mobilité réduite|persona con movilidad reducida||E|cmu|C1
+plan social|plan de recolocaciones||E|lav|C1
+départ négocié|salida negociada||E|lav|C1
+erreur de jeunesse|error de juventud||E|cmu|C1
+heureux événement|feliz evento||E|cmu|C1
+divergence de vues|divergencia de opiniones||E|cmu|C1
+échange de vues|intercambio de opiniones||E|cmu|C1
+franc-parler|franqueza||S|cmu|C1
+crûment|crudamente||D|cmu|C1
+sans détour|sin rodeos||E|cmu|C1
+sans fard|sin adornos||E|cmu|C1
+sans ambages|sin ambages||E|cmu|C1
+passer un savon|echar un sermón||E|cmu|C1
+remonter les bretelles|echar una bronca||E|cmu|C1
+débiner|hablar mal de||V|cmu|C1
+à mots couverts|con palabras veladas||E|cmu|C1
+fadaise|nadería||S|let|C1
+roselière|carrizal||S|nat|C1
+crépusculaire|crepuscular||A|let|C1
+lunaire|despreocupado y soñador||A|let|C1
+onirique|onírico||A|let|C1
+chimérique|quimérico||A|let|C1
+éthéré|etéreo||A|let|C1
+diaphane|diáfano||A|let|C1
+nacré|nacarado||A|let|C1
+pourpre|púrpura||A|col|C1
+cinabre|cinabrio||S|col|C1
+vermillon|bermellón||S|col|C1
+fauve|leonado||A|col|C1
+sépia|sepia||A|col|C1
+bruissement|susurro||S|let|C1
+clapotis|chapoteo||S|let|C1
+ruisseler|fluir a chorros||V|let|C1
+ondoyant|ondulante||A|let|C1
+moiré|moaré||A|let|C1
+chatoyant|reluciente||A|let|C1
+évanescence|evanescencia||S|let|C1
+évanescent|evanescente||A|let|C1
+ineffable|inefable||A|let|C1
+indicible|indecible||A|let|C1
+torpeur|torpor||S|let|C1
+langueur|languidez||S|let|C1
+vague à l'âme|angustia del alma||E|let|C1
+spleen|spleen||S|let|C1
+ténèbres|tinieblas||S|let|C1
+auréole|aureola||S|let|C1
+onde|onda||S|let|C1
+pénates|lares||S|let|C1
+se pâmer|desmayarse de placer||V|let|C1
+céans|aquí dentro||D|let|C1
+jadis|antaño||D|tmp|C1
+naguère|hace poco||D|tmp|C1
+souverain|soberano (supremo)||A|ast|C1
+dam|daño||S|let|C1
+nef|nave||S|let|C1
+destrier|caballo de batalla||S|ani|C1
+palfrenier|palafrenero||S|pro|C1
+écuyer|escudero||S|let|C1
+damoiseau|doncel||S|let|C1
+mignard|remilgado||A|let|C1
+mignonne|favorita||S|let|C1
+coquelicot|amapola||S|nat|C1
+muguet|muguete||S|nat|C1
+églantier|escaramujo||S|nat|C1
+chèvrefeuille|madreselva||S|nat|C1
+coudrier|avellano silvestre||S|nat|C1
+ombrage|umbría||S|let|C1
+vermeil|bermejo||A|let|C1
+cloître|claustro||S|let|C1
+cantique|cántico||S|let|C1
+litanie|letanía||S|let|C1
+reliquaire|relicario||S|let|C1
+encensoir|incensario||S|let|C1
+chasuble|casulla||S|let|C1
+surplis|sobrepelliz||S|let|C1
+soutane|sotana||S|let|C1
+bénitier|pila de agua bendita||S|let|C1
+aubépine|espino albar||S|nat|C1
+partant|por consiguiente||C|cnn|C1
+d'où|de ahí que||C|cnn|C1
+encore que|aunque||C|cnn|C1
+fût-ce|aunque sea||C|cnn|C1
+quand bien même|aun cuando||C|cnn|C1
+quitte à|aun a riesgo de||C|cnn|C1
+pour peu que|con que||C|cnn|C1
+à supposer que|suponiendo que||C|cnn|C1
+en admettant que|admitiendo que||C|cnn|C1
+à tout prendre|a fin de cuentas||E|cnn|C1
+tout bien pesé|bien considerado||E|cnn|C1
+en dernière analyse|en última instancia||E|cnn|C1
+en dernier ressort|en última instancia||E|cnn|C1
+d'ores et déjà|desde ahora||E|cnn|C1
+sinon|sino||C|cnn|C1
+hormis|salvo||R|cnn|C1
+à plus forte raison|con mayor razón||E|cnn|C1
+qui plus est|es más||E|cnn|C1
+en l'espèce|en el caso concreto||E|cnn|C1
+en tout état de cause|en todo caso||E|cnn|C1
+quoi qu'il advienne|pase lo que pase||C|cnn|C1
+étant entendu que|entendido que||C|cnn|C1
+cela étant|dicho esto||E|cnn|C1
+toujours est-il que|lo cierto es que||E|cnn|C1
+au demeurant|por lo demás||D|cnn|C1
+du reste|por lo demás||D|cnn|C1
+moins encore|y menos aún||E|cnn|C1
+et pour cause|y con razón||E|cnn|C1
+à bien des égards|en muchos aspectos||E|cnn|C1
+sous ce rapport|bajo este aspecto||E|cnn|C1
+s'agissant de|tratándose de||C|cnn|C1
+non que|no es que||C|cnn|C1
+loin que|lejos de que||C|cnn|C1
+encore faut-il|aún es preciso||C|cnn|C1
+glisser|insinuar de pasada||V|cmu|C1
+sous-entendre|sobreentender||V|cmu|C1
+connoter|connotar||V|cmu|C1
+stipuler|estipular||V|cmu|C1
+balbutier|balbucear||V|cmu|C1
+bafouiller|farfullar||V|cmu|C1
+bredouiller|tartamudear (farfullar)||V|cmu|C1
+articuler|pronunciar con claridad||V|cmu|C1
+marmonner|mascullar||V|cmu|C1
+grommeler|refunfuñar||V|cmu|C1
+maugréer|rezongar||V|cmu|C1
+tonitruer|tronar||V|cmu|C1
+s'esclaffer|estallar en carcajadas||V|cmu|C1
+ricaner|reír con sorna||V|cmu|C1
+pouffer de rire|carcajearse||E|cmu|C1
+rire sous cape|reír por lo bajo||E|cmu|C1
+esquisser un sourire|esbozar una sonrisa||E|cmu|C1
+opiner du chef|asentir con la cabeza||E|cmu|C1
+acquiescer|asentir||V|cmu|C1
+temporiser|ganar tiempo||V|cmu|C1
+scander|escandir||V|cmu|C1
+moduler|modular la voz||V|cmu|C1
+égrener|desgranar||V|cmu|C1
+jargonner|hablar en jerga||V|cmu|C1
+charabia|jerigonza||S|cmu|C1
+baragouin|lengua ininteligible||S|cmu|C1
+verlan|jerga del habla invertida||S|cmu|C1
+du tac au tac|al instante||E|cmu|C1
+rebondir|retomar con brío||V|cmu|C1
+éluder|eludir||V|cmu|C1
+botter en touche|esquivar el tema||E|cmu|C1
+a posteriori|a posteriori||L|ast|C1
+a fortiori|con mayor razón||L|cnn|C1
+ad hominem|ad hominem||L|ast|C1
+a contrario|a contrario||L|cnn|C1
+ante litteram|antes de tiempo||L|ast|C1
+a minima|en el mínimo||L|cnn|C1
+grosso modo|a grandes rasgos||L|cnn|C1
+in extenso|por extenso||L|cnn|C1
+in abstracto|en abstracto||L|ast|C1
+in situ|in situ||L|sci|C1
+in petto|para sí||L|ast|C1
+ipso facto|ipso facto||L|cnn|C1
+ne varietur|sin cambios||L|ast|C1
+ad patres|al otro mundo||L|ast|C1
+in extremis|en el último momento||L|tmp|C1
+in fine|en definitiva||L|cnn|C1
+mutatis mutandis|con los cambios oportunos||L|cnn|C1
+de jure|de derecho||L|ist|C1
+ex nihilo|de la nada||L|ast|C1
+ex abrupto|de sopetón||L|cnn|C1
+ex professo|a propósito||L|cnn|C1
+ex cathedra|ex cathedra||L|ast|C1
+urbi et orbi|urbi et orbi||L|ast|C1
+sine qua non|sine qua non||L|ast|C1
+nota bene|nótese bien||L|cmu|C1
+de motu proprio|por iniciativa propia||L|ast|C1
+ad vitam aeternam|por toda la eternidad||L|tmp|C1
+circa|hacia||R|tmp|C1
+ibidem|ibídem||L|stu|C1
+sic|así escrito||L|cmu|C1
+sine die|sine die||L|tmp|C1
+épanouissement|florecimiento personal||S|stu|C1
+attachement|apego||S|sci|C1
+assiduité|asiduidad||S|stu|C1
+émulation|emulación||S|stu|C1
+décrochage scolaire|abandono escolar||E|stu|C1
+hétérogénéité|heterogeneidad||S|stu|C1
+homogénéité|homogeneidad||S|stu|C1
+évaluation formative|evaluación formativa||E|stu|C1
+major de promotion|primero de la promoción||E|stu|C1
+mémorisation|memorización||S|stu|C1
+automatisme|automatismo||S|sci|C1
+inné|innato||A|sci|C1
+psychomoteur|psicomotor||A|sci|C1
+âge bête|edad tonta||E|stu|C1
+motricité|motricidad||S|sci|C1
+phobie scolaire|fobia escolar||E|sla|C1
+harcèlement scolaire|acoso escolar||E|sla|C1
+brimade|novatada||S|stu|C1
+cancre|burro de clase||S|stu|C1
+conseil de classe|claustro de profesores||E|stu|C1
+prérequis|requisito previo||S|stu|C1
+acquis d'apprentissage|aprendizajes adquiridos||E|stu|C1
+estime de soi|autoestima||E|emo|C1
+complexe d'infériorité|complejo de inferioridad||E|sla|C1
+angoisse de séparation|angustia de separación||E|sla|C1
+enfant roi|niño consentido||E|stu|C1
+parentalité|parentalidad||S|fam|C1
+fratrie|fratria||S|fam|C1
+maturation|maduración||S|sci|C1
+pédopsychiatrie|psiquiatría infantil||S|sla|C1
+orthophoniste|logopeda||S|pro|C1
+psychanalyse|psicoanálisis||S|sla|C1
+refoulement|represión||S|sla|C1
+transfert|transferencia||S|sla|C1
+catharsis|catarsis||S|sla|C1
+abréaction|abreacción||S|sla|C1
+névrose|neurosis||S|sla|C1
+anhédonie|anhedonia||S|sla|C1
+rumination|rumiación||S|sla|C1
+somatisation|somatización||S|sla|C1
+hypocondrie|hipocondría||S|sla|C1
+épuisement professionnel|desgaste profesional||E|lav|C1
+repli sur soi|repliegue sobre sí mismo||E|emo|C1
+résilience|resiliencia||S|sla|C1
+assertivité|asertividad||S|sla|C1
+traumatisme|trauma psíquico||S|sla|C1
+deuil|duelo||S|emo|C1
+lâcher-prise|desapego||S|emo|C1
+pleine conscience|atención plena||E|sla|C1
+psychotrope|psicotrópico||A|sla|C1

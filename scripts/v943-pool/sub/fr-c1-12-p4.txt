@@ -1,0 +1,258 @@
+poutrelle|vigueta||S|tec|C1
+hourdis|bovedilla||S|tec|C1
+gros œuvre|obra gruesa||E|tec|C1
+second œuvre|obra de acabados||E|tec|C1
+pouvoir calorifique|poder calorífico||E|sci|C1
+onduleur|inversor||S|tec|C1
+redresseur|rectificador||S|tec|C1
+comité de lecture|comité editorial||E|stu|C1
+évaluation par les pairs|revisión por pares||E|stu|C1
+facteur d'impact|factor de impacto||E|stu|C1
+bibliométrie|bibliometría||S|stu|C1
+fraude scientifique|fraude científico||E|stu|C1
+reproductibilité|reproducibilidad||S|sci|C1
+réplication|réplica del estudio||S|stu|C1
+méta-analyse|metaanálisis||S|stu|C1
+revue de littérature|revisión de la literatura||E|stu|C1
+état de l'art|estado de la cuestión||E|stu|C1
+intervalle de confiance|intervalo de confianza||E|sci|C1
+lien de causalité|relación de causalidad||E|sci|C1
+biais de sélection|sesgo de selección||E|sci|C1
+groupe témoin|grupo de control||E|sci|C1
+étude randomisée|estudio aleatorizado||E|sci|C1
+double aveugle|doble ciego||E|sci|C1
+données probantes|evidencia científica||E|sci|C1
+entretien semi-directif|entrevista semiestructurada||E|stu|C1
+grille d'analyse|plantilla de análisis||E|stu|C1
+enquête de terrain|trabajo de campo||E|stu|C1
+observation participante|observación participante||E|stu|C1
+soutenance de thèse|defensa de tesis||E|stu|C1
+doctorant|doctorando||S|stu|C1
+maître de conférences|profesor contratado doctor||E|pro|C1
+enseignant-chercheur|profesor-investigador||S|pro|C1
+vacataire|personal docente interino||S|pro|C1
+directeur de thèse|director de tesis||E|pro|C1
+auditeur libre|oyente||E|stu|C1
+leçon inaugurale|lección inaugural||E|stu|C1
+actes de colloque|actas del congreso||E|stu|C1
+chaire|cátedra||S|stu|C1
+antiquaire|anticuario||S|pro|C1
+chiner|buscar gangas en rastros||V|cmp|C1
+curieux|curiosista||S|sve|C1
+expertise|peritaje||S|fin|C1
+adjudication|adjudicación||S|fin|C1
+adjugé|adjudicado||I|fin|C1
+enchère|puja||S|fin|C1
+surenchère|sobrepuja||S|fin|C1
+acquéreur|adquirente||S|fin|C1
+frais de vente|comisiones de venta||E|fin|C1
+de gré à gré|de mutuo acuerdo||E|fin|C1
+vente aux enchères|subasta||E|fin|C1
+vente à la bougie|subasta a la vela||E|fin|C1
+commissaire-priseur|martillero||S|pro|C1
+coup de marteau|golpe de martillo||E|fin|C1
+legs|legado||S|ist|C1
+dation en paiement|dación en pago||E|ist|C1
+provenance|procedencia de la pieza||S|art|C1
+authentification|autenticación||S|art|C1
+attribué à|atribuido a||E|art|C1
+atelier|taller del maestro||S|art|C1
+copie d'après|copia según el original||E|art|C1
+faussaire|falsificador||S|pro|C1
+pièce maîtresse|pieza maestra||E|art|C1
+cabinet de curiosités|gabinete de curiosidades||E|sve|C1
+curios|pieza curiosa||S|sve|C1
+dispersion|dispersión de la colección||S|fin|C1
+état de conservation|estado de conservación||E|art|C1
+cotation|cotización||S|fin|C1
+droit de suite|derecho de seguimiento||E|art|C1
+encan|almoneda||S|fin|C1
+critique culinaire|crítica culinaria||E|ris|C1
+grande cuisine|alta cocina||E|ris|C1
+table d'hôte|menú único||E|ris|C1
+carte blanche|carta blanca||E|ris|C1
+dressage|emplatado||S|ris|C1
+cuisine moléculaire|cocina molecular||E|ris|C1
+cuisson douce|cocción a baja temperatura||E|ris|C1
+cuisson sous vide|cocción al vacío||E|ris|C1
+nappage|baño de cobertura||S|ali|C1
+appareil|preparado base||S|ali|C1
+montage|montaje del plato||S|ris|C1
+déglaçage|desglasado||S|ris|C1
+fond de veau|fondo de ternera||E|ris|C1
+monter au beurre|montar con mantequilla||E|ris|C1
+rectifier|rectificar el punto de sal||V|ris|C1
+parure|recortes de la carne||S|ris|C1
+désossage|deshuesado||S|ris|C1
+truffé|trufado||A|ali|C1
+chef étoilé|chef con estrellas||E|pro|C1
+épicurien|epicúreo||A|ris|C1
+explosion de saveurs|explosión de sabores||E|ris|C1
+attaque en bouche|ataque en boca||E|ris|C1
+longueur en bouche|persistencia en boca||E|ris|C1
+charnu|carnoso||A|ris|C1
+tanique|tánico||A|ris|C1
+madérisé|avinado||A|ris|C1
+bouchonné|con sabor a corcho||A|ris|C1
+vin de garde|vino de guarda||E|ris|C1
+carafer|decantar||V|ris|C1
+sommellerie|sumillería||S|ris|C1
+accord mets et vins|maridaje||E|ris|C1
+faire honneur à|hacer honor a||E|rel|C1
+rendre la politesse|devolver la cortesía||E|rel|C1
+égards|atenciones||S|rel|C1
+par-dessus la jambe|a la ligera||E|rel|C1
+rapprochement|acercamiento||S|rel|C1
+brouille|enfriamiento||S|rel|C1
+refroidissement|distanciamiento||S|rel|C1
+mésentente|desavenencia||S|rel|C1
+différend|desacuerdo||S|rel|C1
+désaveu|desautorización||S|rel|C1
+démenti|desmentido||S|cmu|C1
+relever le gant|aceptar el reto||E|rel|C1
+en découdre|irse a las manos||E|rel|C1
+entente cordiale|entente cordial||E|rel|C1
+être en froid avec|estar peleado con||E|rel|C1
+faire bande à part|ir por libre||E|rel|C1
+faire cause commune|hacer causa común||E|rel|C1
+faire front commun|hacer frente común||E|rel|C1
+dédommagement|resarcimiento||S|fin|C1
+faire amende honorable|pedir perdón públicamente||E|rel|C1
+tirer un trait sur|borrar y olvidar||E|rel|C1
+ravaler|tragar el orgullo||V|rel|C1
+désamorcer|desactivar un conflicto||V|rel|C1
+canaliser les tensions|canalizar las tensiones||E|rel|C1
+aplanir|allanar diferencias||V|rel|C1
+attiser|atizar la discordia||V|rel|C1
+faire grise mine à|recibir con desdén||E|rel|C1
+tenir à distance|mantener a distancia||E|rel|C1
+marquer ses distances|marcar las distancias||E|rel|C1
+rentrer en grâce|recuperar el favor||E|rel|C1
+perdre la face|quedar en ridículo||E|rel|C1
+sauver la face|salvar las apariencias||E|rel|C1
+sauver les meubles|salvar lo salvable||E|rel|C1
+capacité aérobie|capacidad aeróbica||E|spt|C1
+seuil anaérobie|umbral anaeróbico||E|spt|C1
+dette d'oxygène|deuda de oxígeno||E|spt|C1
+récupération active|recuperación activa||E|spt|C1
+surentraînement|sobrentrenamiento||S|spt|C1
+surmenage|sobrecarga||S|sla|C1
+claquage|distensión muscular||S|cor|C1
+contracture|contractura||S|cor|C1
+proprioception|propiocepción||S|cor|C1
+kinésithérapie|fisioterapia||S|sla|C1
+sangle abdominale|faja abdominal||E|cor|C1
+gainage|fortalecimiento del tronco||S|spt|C1
+chaîne musculaire|cadena muscular||E|cor|C1
+amplitude de mouvement|amplitud de movimiento||E|cor|C1
+mobilité articulaire|movilidad articular||E|cor|C1
+détente|impulso de salto||S|spt|C1
+vitesse de pointe|velocidad punta||E|spt|C1
+explosivité|explosividad||S|spt|C1
+cardiofréquencemètre|pulsómetro||S|tec|C1
+volume d'entraînement|volumen de entrenamiento||E|spt|C1
+périodisation|periodización||S|spt|C1
+surcompensation|supercompensación||S|spt|C1
+composition corporelle|composición corporal||E|cor|C1
+hypoxie|hipoxia||S|cor|C1
+hyperthermie|hipertermia||S|cor|C1
+pliométrie|pliometría||S|spt|C1
+coup de pompe|bajón repentino||E|spt|C1
+frapper le mur|darse de bruces con el muro||E|spt|C1
+second souffle|segundo aliento||E|spt|C1
+point de côté|dolor de costado||E|spt|C1
+fréquence de foulée|frecuencia de zancada||E|spt|C1
+haras|yeguada de cría||S|ani|C1
+poulinière|yegua de cría||S|ani|C1
+entier|semental no castrado||S|ani|C1
+hongre|caballo castrado||S|ani|C1
+saillie|monta||S|ani|C1
+poulinage|parición de yeguas||S|ani|C1
+débourrage|doma inicial||S|ani|C1
+lévrier|lebrel||S|ani|C1
+chenil|perrera||S|ani|C1
+muselière|bozal||S|ani|C1
+pedigree|pedigrí||S|ani|C1
+livre des origines|libro de orígenes||E|ani|C1
+standard de race|estándar de raza||E|ani|C1
+consanguinité|consanguinidad||S|sci|C1
+allures|aires||S|ani|C1
+maréchal-ferrant|herrador||S|pro|C1
+ferrure|herrado||S|ani|C1
+sellerie|guarnicionería||S|ani|C1
+mors|bocado||S|ani|C1
+fourbure|laminitis equina||S|ani|C1
+équin|equino||A|ani|C1
+pouliche|potranca||S|ani|C1
+concours complet|concurso completo de equitación||E|spt|C1
+attelage|enganche||S|ani|C1
+harnais|arnés||S|ani|C1
+manège|picadero||S|ani|C1
+cravache|fusta||S|ani|C1
+longe|cuerda de doma||S|ani|C1
+hennissement|relincho||S|ani|C1
+dogue|dogo||S|ani|C1
+molosse|moloso||S|ani|C1
+nichée|nidada||S|ani|C1
+alerte orange|alerta naranja||E|cli|C1
+bourrasque|racha violenta||S|cli|C1
+dépression|borrasca||S|cli|C1
+anticyclone|anticiclón||S|cli|C1
+front occlus|frente ocluido||E|cli|C1
+isobare|isobara||S|cli|C1
+isotherme|isoterma||S|cli|C1
+courant-jet|corriente en chorro||S|cli|C1
+cumulonimbus|cumulonimbo||S|cli|C1
+nébulosité|nubosidad||S|cli|C1
+diluvienne|diluvial||A|cli|C1
+ondée|chubasco||S|cli|C1
+pluie verglaçante|lluvia engelante||E|cli|C1
+verglas|capa de hielo en el suelo||S|cli|C1
+couloir d'avalanche|canal de alud||E|cli|C1
+coulée de boue|corriente de barro||E|cli|C1
+crue éclair|crecida relámpago||E|cli|C1
+submersion marine|inundación costera||E|cli|C1
+raz-de-marée|maremoto||S|cli|C1
+houle|mar de fondo||S|cli|C1
+anémomètre|anemómetro||S|cli|C1
+baisse barométrique|descenso barométrico||E|cli|C1
+hygrométrie|higrometría||S|cli|C1
+point de rosée|punto de rocío||E|cli|C1
+trombe|tromba||S|cli|C1
+grain|chubasco repentino||S|cli|C1
+ciel de traîne|cielo inestable tras el frente||E|cli|C1
+perturbation|frente perturbado||S|cli|C1
+accalmie|tregua||S|cli|C1
+prévisionniste|meteorólogo pronosticador||S|pro|C1
+carte de vigilance|mapa de aviso||E|cli|C1
+bon gré mal gré|de buenas o malas||E|cnn|C1
+nolens volens|nos guste o no||L|cnn|C1
+à plus d'un titre|por más de un concepto||E|cnn|C1
+somme toute|al fin y al cabo||E|cnn|C1
+entre tous|por encima de los demás||E|cnn|C1
+si tant est que|si es que||C|cnn|C1
+autant dire que|mejor dicho||C|cnn|C1
+pour ne pas dire|por no decir||C|cnn|C1
+si ce n'est|si no es||C|cnn|C1
+ne serait-ce que|aunque solo sea||C|cnn|C1
+dussé-je|aunque me costara||C|cnn|C1
+vaille que vaille|como buenamente se pueda||E|cnn|C1
+coûte que coûte|cueste lo que cueste||E|cnn|C1
+nonobstant|no obstante||R|cnn|C1
+grand bien lui fasse|que le aproveche||E|cnn|C1
+soit dit en passant|dicho sea de paso||E|cnn|C1
+entre nous soit dit|entre nosotros||E|cnn|C1
+pour mémoire|para que conste||E|cnn|C1
+sauf erreur|salvo error||E|cnn|C1
+sauf votre respect|con el debido respeto||E|cnn|C1
+si l'on ose dire|si se me permite decir||E|cnn|C1
+si l'on veut|si se quiere||E|cnn|C1
+comment dire|cómo decir||E|cnn|C1
+pour tout dire|a decir verdad||E|cnn|C1
+n'en déplaise à|pese a quien pese||E|cnn|C1
+il va sans dire|ni que decir tiene||E|cnn|C1
+une fois pour toutes|de una vez por todas||E|cnn|C1
+pour de bon|de verdad||E|cnn|C1
+d'arrache-pied|sin descanso||E|cnn|C1
+à qui mieux mieux|a porfía||E|cnn|C1
+perdre son latin|quedarse sin saber qué pensar||E|cnn|C1

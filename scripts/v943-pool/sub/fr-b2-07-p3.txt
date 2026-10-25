@@ -1,0 +1,284 @@
+tout d'abord|ante todo||D|cnn|B2
+en premier lieu|en primer lugar||E|cnn|B2
+deuxièmement|en segundo lugar||D|cnn|B2
+pour commencer|para empezar||E|cnn|B2
+par ailleurs|por otra parte||E|cnn|B2
+de surcroît|por si fuera poco||E|cnn|B2
+en outre|además||E|cnn|B2
+du coup|así que||E|cnn|B2
+cela dit|dicho esto||E|cnn|B2
+toutefois|no obstante||D|cnn|B2
+néanmoins|sin embargo||D|cnn|B2
+en revanche|en cambio||E|cnn|B2
+or|pues bien||C|cnn|B2
+quoi qu'il en soit|en cualquier caso||E|cnn|B2
+après tout|después de todo||E|cnn|B2
+au fond|en el fondo||E|cnn|B2
+à vrai dire|a decir verdad||E|cnn|B2
+autrement dit|dicho de otro modo||E|cnn|B2
+en d'autres termes|en otros términos||E|cnn|B2
+en fin de compte|a fin de cuentas||E|cnn|B2
+somme toute|en definitiva||E|cnn|B2
+pour conclure|para concluir||E|cnn|B2
+en conclusion|en conclusión||E|cnn|B2
+d'ailleurs|dicho sea de paso||D|cnn|B2
+soit dit en passant|por cierto||E|cnn|B2
+à ce propos|a propósito||E|cnn|B2
+du reste|por lo demás||E|cnn|B2
+en tout cas|en todo caso||E|cnn|B2
+de toute façon|de todas formas||E|cnn|B2
+de prime abord|a primera vista||E|cnn|B2
+hasard|azar||S|ast|B2
+par hasard|por casualidad||E|ast|B2
+coïncidence|coincidencia||S|ast|B2
+chance|suerte||S|ast|B2
+avoir de la chance|tener suerte||E|ast|B2
+porte-bonheur|amuleto||S|ast|B2
+destin|destino||S|ast|B2
+fatalité|fatalidad||S|ast|B2
+prédire|predecir||V|ast|B2
+prédiction|predicción||S|ast|B2
+superstition|superstición||S|ast|B2
+superstitieux|supersticioso||A|ast|B2
+changement|cambio||S|ast|B2
+modification|modificación||S|ast|B2
+transformation|transformación||S|ast|B2
+transformer|transformar||V|ast|B2
+bouleverser|trastornar||V|ast|B2
+bouleversement|trastorno||S|ast|B2
+métamorphose|metamorfosis||S|ast|B2
+instable|inestable||A|ast|B2
+stabilité|estabilidad||S|ast|B2
+époque|época||S|tmp|B2
+ère|era||S|tmp|B2
+durée|duración||S|tmp|B2
+durer|durar||V|tmp|B2
+tournant|punto de inflexión||S|ast|B2
+jalon|hito||S|ast|B2
+rythme|ritmo||S|tmp|B2
+faire passer le temps|hacer pasar el rato||E|tmp|B2
+éphémère|efímero||A|ast|B2
+provisoire|provisional||A|ast|B2
+mauvaise passe|mala racha||L|ast|B2
+exposition|exposición||S|art|B2
+exposition temporaire|exposición temporal||L|art|B2
+centre d'art|centro de arte||L|art|B2
+vernissage|inauguración||S|art|B2
+œuvre d'art|obra de arte||L|art|B2
+chef-d'œuvre|obra maestra||S|art|B2
+galerie|galería||S|art|B2
+collection permanente|colección permanente||L|art|B2
+audioguide|audioguía||S|art|B2
+cartel|cartela||S|art|B2
+conservateur|conservador de museo||S|pro|B2
+restauration|restauración||S|art|B2
+restaurer|restaurar||V|art|B2
+sculpture|escultura||S|art|B2
+statue|estatua||S|art|B2
+peinture|pintura||S|art|B2
+tableau|cuadro||S|art|B2
+toile|lienzo||S|art|B2
+fresque|fresco||S|art|B2
+gravure|grabado||S|art|B2
+céramique|cerámica||S|art|B2
+orfèvrerie|orfebrería||S|art|B2
+tapisserie|tapiz||S|art|B2
+antiquité|antigüedad||S|art|B2
+vestige|vestigio||S|art|B2
+patrimoine culturel|patrimonio cultural||L|art|B2
+monument historique|monumento histórico||L|art|B2
+cathédrale|catedral||S|cit|B2
+vitrail|vidriera||S|art|B2
+crypte|cripta||S|art|B2
+fouilles|excavaciones||S|sci|B2
+mise en valeur|puesta en valor||L|art|B2
+vol|vuelo||S|tra|B2
+vol direct|vuelo directo||L|tra|B2
+carte d'embarquement|tarjeta de embarque||L|tra|B2
+porte d'embarquement|puerta de embarque||L|tra|B2
+enregistrement|facturación||S|tra|B2
+enregistrer les bagages|facturar las maletas||E|tra|B2
+soute|bodega||S|tra|B2
+bagage en cabine|equipaje de mano||L|tra|B2
+contrôle de sécurité|control de seguridad||L|tra|B2
+détecteur de métaux|detector de metaux||L|tra|B2
+passer au scanner|pasar por el escáner||E|tra|B2
+douanier|de aduanas||A|tra|B2
+rien à déclarer|nada que declarar||E|tra|B2
+passeport|pasaporte||S|tra|B2
+correspondance|conexión||S|tra|B2
+correspondance courte|conexión corta||L|tra|B2
+transit|tránsito||S|tra|B2
+annulation|cancelación||S|tra|B2
+retard|retraso||S|tra|B2
+décollage|despegue||S|tra|B2
+atterrissage|aterrizaje||S|tra|B2
+turbulence|turbulencia||S|tra|B2
+salle d'attente|sala de espera||L|tra|B2
+piste|pista||S|tra|B2
+aérogare|terminal||S|tra|B2
+débarquement|desembarco||S|tra|B2
+arrivée|llegada||S|tra|B2
+louer une voiture|alquilar un coche||E|tra|B2
+navette|lanzadera||S|tra|B2
+accueil prioritaire|atención prioritaria||L|tra|B2
+réservation|reserva||S|htl|B2
+chambre double|habitación doble||L|htl|B2
+lits jumeaux|camas gemelas||L|htl|B2
+vue sur la mer|vistas al mar||L|htl|B2
+petit-déjeuner compris|desayuno incluido||L|htl|B2
+pension complète|pensión completa||L|htl|B2
+demi-pension|media pensión||L|htl|B2
+taxe de séjour|tasa turística||L|htl|B2
+accueil|recepción||S|htl|B2
+réceptionniste|recepcionista||S|pro|B2
+clé magnétique|tarjeta llave||L|htl|B2
+ascenseur en panne|ascensor averiado||L|htl|B2
+en panne|averiado||E|htl|B2
+climatisation|aire acondicionado||S|htl|B2
+connexion payante|conexión de pago||L|htl|B2
+serviette de toilette|toalla||L|htl|B2
+femme de ménage|limpiadora||L|pro|B2
+direction|dirección||S|htl|B2
+personnel|personal||S|pro|B2
+service d'étage|servicio de habitaciones||L|htl|B2
+blanchisserie|lavandería||S|htl|B2
+coffre-fort|caja fuerte||S|htl|B2
+consigne|consigna||S|htl|B2
+remboursement intégral|reembolso íntegro||L|htl|B2
+surbooking|sobreventa||S|htl|B2
+demander une autre chambre|pedir el cambio de habitación||E|htl|B2
+fuite d'eau|fuga de agua||L|htl|B2
+insonorisé|insonorizado||A|htl|B2
+poussiéreux|polvoriento||A|htl|B2
+faire la valise|hacer la maleta||E|htl|B2
+laisser un commentaire|dejar una reseña||E|htl|B2
+lit d'appoint|cama supletoria||L|htl|B2
+entretien d'embauche|entrevista de trabajo||L|lav|B2
+lettre de recommandation|carta de recomendación||L|lav|B2
+recruteur|reclutador||S|lav|B2
+période d'essai|periodo de prueba||L|lav|B2
+promesse d'embauche|promesa de contratación||L|lav|B2
+contrat à durée déterminée|contrato temporal||L|lav|B2
+contrat à durée indéterminée|contrato indefinido||L|lav|B2
+intérim|trabajo temporal||S|lav|B2
+intérimaire|trabajador temporal||S|lav|B2
+bulletin de paie|nómina||L|lav|B2
+prime|paga extra||S|lav|B2
+heure supplémentaire|hora extra||L|lav|B2
+faire des heures sup|hacer horas extra||E|lav|B2
+hiérarchie|jerarquía||S|lav|B2
+supérieur hiérarchique|superior jerárquico||L|lav|B2
+département|departamento||S|lav|B2
+tâche|tarea||S|lav|B2
+responsable|responsable||S|lav|B2
+déléguer|delegar||V|lav|B2
+compétence|competencia||S|lav|B2
+monter en compétences|mejorar competencias||E|lav|B2
+initiative|iniciativa||S|lav|B2
+prendre des initiatives|tomar la iniciativa||E|lav|B2
+s'intégrer|integrarse||V|lav|B2
+intégration|integración||S|lav|B2
+nouer des liens|crear lazos||E|lav|B2
+réunion|reunión||S|lav|B2
+procès-verbal|acta||S|lav|B2
+faire le point|hacer balance||E|lav|B2
+démission|dimisión||S|lav|B2
+licenciement|despido||S|lav|B2
+préavis|preaviso||S|lav|B2
+génération|generación||S|fam|B2
+de génération en génération|de generación en generación||E|fam|B2
+arrière-grand-mère|bisabuela||S|fam|B2
+arrière-grand-père|bisabuelo||S|fam|B2
+ancêtre|ancestro||S|fam|B2
+aïeul|antepasado||S|fam|B2
+descendance|descendencia||S|fam|B2
+souvenir d'enfance|recuerdo de la infancia||L|fam|B2
+se remémorer|rememorar||V|fam|B2
+anecdote|anécdota||S|fam|B2
+raconter|contar||V|cmu|B2
+récit|relato||S|let|B2
+jadis|antaño||D|tmp|B2
+à l'époque|por aquel entonces||E|tmp|B2
+autrefois|antiguamente||D|tmp|B2
+naguère|hace ya tiempo||D|tmp|B2
+vieillir|envejecer||V|cor|B2
+vieillesse|vejez||S|cor|B2
+retraite|jubilación||S|lav|B2
+retraité|jubilado||S|lav|B2
+transmettre|transmitir||V|fam|B2
+transmission|transmisión||S|fam|B2
+héritage|herencia||S|fam|B2
+hériter|heredar||V|fam|B2
+éducation|educación||S|fam|B2
+élever|criar||V|fam|B2
+enfance|infancia||S|fam|B2
+adolescence|adolescencia||S|fam|B2
+photo de famille|foto de familia||L|fam|B2
+album photo|álbum de fotos||S|fam|B2
+rire aux éclats|reír a carcajadas||E|emo|B2
+nostalgie|nostalgia||S|emo|B2
+s'endormir|quedarse dormido||V|sla|B2
+sommeil|sueño||S|sla|B2
+sommeil réparateur|sueño reparador||L|sla|B2
+insomniaque|insomne||S|sla|B2
+insomnie|insomnio||S|sla|B2
+sieste|siesta||S|sla|B2
+faire la sieste|echarse una siesta||E|sla|B2
+se réveiller|despertarse||V|sla|B2
+se lever tôt|madrugar||E|sla|B2
+fatigue|cansancio||S|sla|B2
+coup de barre|bajón de energía||L|sla|B2
+épuisé|agotado||A|sla|B2
+épuisement|agotamiento||S|sla|B2
+claqué|molido||A|sla|B2
+énergie|energía||S|sla|B2
+rythme circadien|ritmo circadiano||L|sci|B2
+horloge biologique|reloj biológico||L|sci|B2
+caféine|cafeína||S|sla|B2
+apaiser|calmar||V|sla|B2
+détente|relajación||S|sla|B2
+se détendre|relajarse||V|sla|B2
+respiration profonde|respiración profunda||L|sla|B2
+méditer|meditar||V|sla|B2
+hygiène de vie|estilo de vida saludable||L|sla|B2
+mode de vie|estilo de vida||L|sla|B2
+alimentation équilibrée|alimentación equilibrada||L|ali|B2
+bilan de santé|chequeo médico||L|sla|B2
+ordonnance|receta médica||S|sla|B2
+sirop|jarabe||S|sla|B2
+cachet|pastilla||S|sla|B2
+comprimé|comprimido||S|sla|B2
+pharmacien|farmacéutico||S|pro|B2
+sortir ensemble|salir juntos||E|rel|B2
+flirt|coqueteo||S|rel|B2
+flirter|coquetear||V|rel|B2
+coup de foudre|amor a primera vista||L|rel|B2
+faire la cour|hacer la corte||E|rel|B2
+séduire|seducir||V|rel|B2
+séduisant|seductor||A|rel|B2
+charme|encanto||S|rel|B2
+charmant|encantador||A|rel|B2
+inviter à dîner|invitar a cenar||E|rel|B2
+prévoir|tener previsto||V|rel|B2
+imprévu|imprevisto||S|rel|B2
+de dernière minute|de última hora||E|rel|B2
+reporter|aplazar||V|rel|B2
+prévenir|avisar||V|cmu|B2
+au dernier moment|en el último momento||E|tmp|B2
+se décommander|anular su asistencia||V|rel|B2
+avoir un empêchement|tener un impedimento||E|rel|B2
+empêchement|impedimento||S|rel|B2
+poser un lapin|dejar plantado||E|rel|B2
+être en retard|ir con retraso||E|rel|B2
+reprogrammer|reprogramar||V|rel|B2
+disponible|disponible||A|rel|B2
+agenda|agenda||S|rel|B2
+planifier|planificar||V|rel|B2
+organiser|organizar||V|rel|B2
+se donner rendez-vous|quedar con alguien||E|rel|B2
+convenir d'une heure|acordar una hora||E|rel|B2
+sans prévenir|sin avisar||E|rel|B2
+changer d'avis|cambiar de opinión||E|rel|B2
+hésiter|dudar||V|rel|B2
+avancer l'heure|adelantar la hora||E|rel|B2
