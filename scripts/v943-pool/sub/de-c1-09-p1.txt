@@ -1,0 +1,273 @@
+die Wehmut|melancolía||S|emo|C1
+der Übermut|temeridad (osadía excesiva)||S|emo|C1
+die Niedergeschlagenheit|abatimiento||S|emo|C1
+das Mitleid|compasión||S|emo|C1
+die Genugtuung|desagravio (satisfacción moral)||S|emo|C1
+verletzlich|vulnerable||A|emo|C1
+die Beherztheit|valentía||S|emo|C1
+verschlossen|hermético (de carácter reservado)||A|emo|C1
+die Selbstbeherrschung|autocontrol||S|emo|C1
+aufbrausend|irascible||A|emo|C1
+die Zerrissenheit|desgarro interior||S|emo|C1
+hingebungsvoll|abnegado||A|emo|C1
+der Grimm|furia reprimida||S|emo|C1
+die Sehnsucht|añoranza||S|emo|C1
+kleinmütig|apocado||A|emo|C1
+die Geschäftsführung|dirección gerencial||S|lav|C1
+das Benchmarking|comparación de referencia||S|lav|C1
+die Zielvereinbarung|acuerdo de objetivos||S|lav|C1
+der Standortvorteil|ventaja de localización||S|lav|C1
+die Wertschöpfungskette|cadena de valor||S|lav|C1
+der Flaschenhals|cuello de botella||S|lav|C1
+schlankhalten|mantener ágil una estructura||V|lav|C1
+die Ablauforganisation|organización de procesos||S|lav|C1
+die Nachfolgeplanung|planificación de la sucesión||S|lav|C1
+der Umbauprozess|proceso de reestructuración||S|lav|C1
+die Kernkompetenz|competencia esencial||S|lav|C1
+strukturieren|estructurar||V|lav|C1
+der Entscheidungsspielraum|margen de decisión||S|lav|C1
+die Effizienzsteigerung|mejora de la eficiencia||S|lav|C1
+umstrukturieren|reestructurar||V|lav|C1
+die Personalfluktuation|rotación de personal||S|lav|C1
+die Mitarbeiterbindung|fidelización de los empleados||S|lav|C1
+die Führungskraft|directivo||S|lav|C1
+die Leistungsbeurteilung|evaluación del desempeño||S|lav|C1
+die Bedürfnispyramide|pirámide de necesidades||S|lav|C1
+die Arbeitszufriedenheit|satisfacción laboral||S|lav|C1
+das Betriebsklima|clima laboral||S|lav|C1
+die Fehlzeitenquote|tasa de absentismo||S|lav|C1
+die Fachkräftegewinnung|captación de talento||S|lav|C1
+die Motivationsforschung|investigación de la motivación||S|lav|C1
+die Stellenbeschreibung|descripción del puesto||S|lav|C1
+einarbeiten|adiestrar en el puesto||V|lav|C1
+die Beförderung|ascenso||S|lav|C1
+das Vorschlagswesen|sistema de sugerencias||S|lav|C1
+das Weiterbildungsangebot|oferta de formación continua||S|lav|C1
+die Bildungsforschung|investigación educativa||S|stu|C1
+der Lehrplan|plan de estudios||S|stu|C1
+die Begabtenförderung|fomento del talento||S|stu|C1
+das Schulversagen|fracaso escolar||S|stu|C1
+die Vermittlungskompetenz|competencia didáctica||S|stu|C1
+der Bildungsauftrag|mandato educativo||S|stu|C1
+ganzheitlich|integral||A|stu|C1
+die Fachdidaktik|didáctica de la materia||S|stu|C1
+der Frontalunterricht|enseñanza magistral||S|stu|C1
+die Erziehungswissenschaft|ciencia de la educación||S|stu|C1
+die Verhaltensauffälligkeit|alteración de conducta||S|stu|C1
+die Sozialisation|socialización||S|stu|C1
+die Nachhilfe|apoyo escolar||S|stu|C1
+die Schlüsselqualifikation|cualificación clave||S|stu|C1
+das Lernziel|objetivo de aprendizaje||S|stu|C1
+der Rechtsträger|titular jurídico||S|pro|C1
+der Heilberuf|profesión sanitaria||S|pro|C1
+das Fachchinesisch|jerga técnica incomprensible||S|pro|C1
+der Nachlass|masa hereditaria||S|pro|C1
+die Zulassung|habilitación profesional||S|pro|C1
+die Schweigepflicht|secreto profesional||S|pro|C1
+der Gutachter|perito||S|pro|C1
+das Honorar|honorarios profesionales||S|pro|C1
+die Berufshaftpflicht|responsabilidad civil profesional||S|pro|C1
+die Fortbildungsordnung|normativa de formación continua||S|pro|C1
+der Fachanwalt|abogado especialista||S|pro|C1
+die Approbation|homologación para ejercer||S|pro|C1
+das Pflichtpraktikum|prácticas obligatorias||S|pro|C1
+der Werkvertrag|contrato de obra||S|pro|C1
+die Sachkunde|competencia técnica||S|pro|C1
+die Wertschätzung|aprecio||S|rel|C1
+der Beziehungsknick|bache en la relación||S|rel|C1
+sich anvertrauen|confiarse a alguien||V|rel|C1
+die Verschwiegenheit|discreción||S|rel|C1
+zugetan|bien dispuesto hacia alguien||A|rel|C1
+die Zwielichtigkeit|doble moral||S|rel|C1
+jemandem einen Korb geben|dar calabazas a alguien||E|rel|C1
+das Einvernehmen|entendimiento||S|rel|C1
+das Wohlwollen|benevolencia||S|rel|C1
+die Vertrautheit|intimidad||S|rel|C1
+missgönnen|negar de mala gana||V|rel|C1
+der Seelenverwandte|alma gemela||S|rel|C1
+überspielen|disimular tensiones||V|rel|C1
+die Zuneigung|cariño||S|rel|C1
+fremdeln|mostrarse huraño||V|rel|C1
+die Arie|aria||S|mus|C1
+das Libretto|libreto||S|mus|C1
+der Librettist|libretista||S|mus|C1
+die Koloratur|coloratura||S|mus|C1
+die Ouvertüre|obertura||S|mus|C1
+das Bühnenbild|escenografía||S|art|C1
+der Rezitativ|recitativo||S|mus|C1
+die Poetik|poética||S|let|C1
+der Dramatiker|dramaturgo||S|let|C1
+das Ensemble|elenco||S|art|C1
+die Premiere|estreno||S|art|C1
+der Souffleur|apuntador||S|art|C1
+die Inszenierung|puesta en escena||S|art|C1
+das Metrum|metro poético||S|let|C1
+das Kammerspiel|teatro de cámara||S|art|C1
+die Expedition|expedición||S|vig|C1
+das Basislager|campamento base||S|vig|C1
+der Steilhang|pared escarpada||S|nat|C1
+die Gletscherspalte|grieta del glaciar||S|nat|C1
+der Schneesturm|ventisca||S|nat|C1
+die Erfrierung|congelación||S|sla|C1
+die Orientierungslosigkeit|desorientación||S|vig|C1
+der Proviant|avituallamiento||S|vig|C1
+die Wetterlage|situación meteorológica||S|cli|C1
+die Steigeisen|crampones||S|vig|C1
+schwindelerregend|vertiginoso||A|nat|C1
+unberührt|virgen||A|nat|C1
+der Höhenmeter|desnivel acumulado||S|nat|C1
+das Biwak|vivac||S|vig|C1
+der Filmschnitt|montaje cinematográfico||S|cin|C1
+die Einstellungsgröße|escala del plano||S|cin|C1
+die Rückblende|escena retrospectiva||S|cin|C1
+die Erzählperspektive|perspectiva narrativa||S|cin|C1
+die Tonspur|pista de sonido||S|cin|C1
+die Untertitelung|subtitulado||S|cin|C1
+der Cineast|cinéfilo||S|cin|C1
+der Spannungsbogen|arco de tensión||S|cin|C1
+die Filmsprache|lenguaje cinematográfico||S|cin|C1
+der Handlungsstrang|hilo argumental||S|cin|C1
+der Slapstick|humor físico||S|cin|C1
+die Schnittechnik|técnica de montaje||S|cin|C1
+der Autorenfilm|cine de autor||S|cin|C1
+das Filmgenre|género cinematográfico||S|cin|C1
+die Uraufführung|estreno absoluto||S|cin|C1
+die Geburtenrate|tasa de natalidad||S|ist|C1
+die Überalterung|envejecimiento de la población||S|ist|C1
+der Familienverband|agregado familiar||S|fam|C1
+die Fortpflanzung|reproducción||S|sci|C1
+die Rollenverteilung|reparto de roles||S|fam|C1
+der Alleinerziehende|progenitor en solitario||S|fam|C1
+der Geburtenrückgang|descenso de la natalidad||S|ist|C1
+die Familiengründung|formación de una familia||S|fam|C1
+die Haushaltsführung|gestión del hogar||S|cas|C1
+der Nachwuchs|descendencia||S|fam|C1
+die Paarbeziehung|relación de pareja||S|rel|C1
+der Generationenvertrag|pacto intergeneracional||S|ist|C1
+die Binnenwanderung|migración interna||S|ist|C1
+die Kinderlosigkeit|ausencia de descendencia||S|fam|C1
+der Heiratsmarkt|mercado matrimonial||S|ist|C1
+die Bebauung|edificación||S|cit|C1
+der Stadtkern|casco urbano||S|cit|C1
+die Fassadengestaltung|diseño de fachada||S|cit|C1
+die Baugenehmigung|licencia de obra||S|cit|C1
+der Denkmalschutz|protección del patrimonio||S|cit|C1
+die Verkehrsberuhigung|pacificación del tráfico||S|cit|C1
+die Geschossfläche|superficie construida||S|cit|C1
+der Erker|mirador saliente||S|cit|C1
+die Altbausanierung|rehabilitación de inmuebles antiguos||S|cit|C1
+der Städtebau|urbanismo||S|cit|C1
+das Quartier|barrio||S|cit|C1
+der Abriss|demolición||S|cit|C1
+die Zersiedelung|dispersión urbanística||S|cit|C1
+die Trabantenstadt|ciudad satélite||S|cit|C1
+das Flachdach|cubierta plana||S|cit|C1
+die Rebsorte|variedad de uva||S|ali|C1
+das Barrique|barrica de roble||S|ali|C1
+die Weinverkostung|cata de vinos||S|ali|C1
+der Abgang|final en boca||S|ris|C1
+die Aromavielfalt|amplitud aromática||S|ali|C1
+der Sommelier|sumiller||S|pro|C1
+die Spitzengastronomie|alta gastronomía||S|ris|C1
+die Reduktion|reducción (en cocina)||S|ris|C1
+das Mundgefühl|sensación en boca||S|ris|C1
+die Sterneküche|cocina de autor premiada||S|ris|C1
+der Winzer|viticultor||S|pro|C1
+der Weinkeller|bodega||S|ali|C1
+die Reifung|crianza||S|ali|C1
+schaumig|de textura espumosa||A|ali|C1
+die Gattung|género taxonómico||S|sci|C1
+das Beutetier|animal presa||S|ani|C1
+das Territorialverhalten|comportamiento territorial||S|ani|C1
+die Balz|cortejo||S|ani|C1
+das Rudel|manada||S|ani|C1
+die Brutpflege|cuidado de las crías||S|ani|C1
+die Warnfärbung|coloración de advertencia||S|ani|C1
+der Schwarm|bandada||S|ani|C1
+die Metamorphose|metamorfosis||S|sci|C1
+die Tarnung|camuflaje||S|ani|C1
+das Fluchtverhalten|conducta de huida||S|ani|C1
+die Nahrungskette|cadena trófica||S|sci|C1
+der Pheromon|feromona||S|sci|C1
+die Rangordnung|jerarquía de dominancia||S|ani|C1
+die Feldbeobachtung|observación de campo||S|sci|C1
+die Blütezeit|época de floración||S|nat|C1
+der Wurzelballen|cepellón||S|nat|C1
+die Pflanzengesellschaft|comunidad vegetal||S|sci|C1
+der Trockenrasen|pastizal seco||S|nat|C1
+die Sukzession|sucesión ecológica||S|sci|C1
+die Streuobstwiese|prado de frutales dispersos||S|nat|C1
+der Artenreichtum|riqueza de especies||S|sci|C1
+die Krautschicht|estrato herbáceo||S|sci|C1
+die Renaturierung|renaturalización||S|nat|C1
+der Waldrand|borde del bosque||S|nat|C1
+das Herbarium|herbario||S|sci|C1
+die Ausbreitungsstrategie|estrategia de dispersión||S|sci|C1
+schattenverträglich|tolerante a la sombra||A|nat|C1
+die Gefäßpflanze|planta vascular||S|sci|C1
+die Moorlandschaft|paisaje de turbera||S|nat|C1
+die Geschichtsschreibung|historiografía||S|ast|C1
+das Vermächtnis|legado||S|ast|C1
+die Erinnerungskultur|cultura de la memoria||S|ast|C1
+der Zeitzeuge|testigo de su época||S|ast|C1
+die Vergangenheitsbewältigung|elaboración del pasado||S|ast|C1
+das Kontinuum|continuo||S|ast|C1
+die Gleichzeitigkeit|simultaneidad||S|ast|C1
+die Endlichkeit|finitud||S|ast|C1
+das Nachleben|perduración||S|ast|C1
+unumkehrbar|irreversible||A|ast|C1
+die Periodisierung|periodización||S|ast|C1
+der Jahresring|anillo de crecimiento||S|nat|C1
+die Nachwirkung|repercusión posterior||S|ast|C1
+die Jahreswende|cambio de año||S|tmp|C1
+die Blockchain|cadena de bloques||S|fin|C1
+die Wallet|monedero digital||S|tec|C1
+die Dezentralisierung|descentralización||S|tec|C1
+der Token|ficha digital||S|fin|C1
+die Volatilität|volatilidad||S|fin|C1
+die Kursschwankung|fluctuación de cotización||S|fin|C1
+die Kryptobörse|mercado de criptomonedas||S|fin|C1
+der Hashwert|valor hash||S|tec|C1
+der Kleinanleger|inversor minorista||S|fin|C1
+die Geldwäsche|blanqueo de capitales||S|fin|C1
+die Rechenleistung|capacidad de cómputo||S|tec|C1
+die Konsensfindung|búsqueda de consenso||S|tec|C1
+die Verwahrung|custodia de activos||S|fin|C1
+die Spekulationsblase|burbuja especulativa||S|fin|C1
+unveränderbar|inmutable||A|tec|C1
+die Beglaubigung|compulsa||S|ist|C1
+der Notariatsakt|acta notarial||S|ist|C1
+der Grundbucheintrag|inscripción registral||S|ist|C1
+die Erbauseinandersetzung|partición hereditaria||S|ist|C1
+die Testamentsvollstreckung|ejecución testamentaria||S|ist|C1
+der Nießbrauch|usufructo||S|ist|C1
+die Auflassung|transmisión de dominio||S|ist|C1
+der Erbschein|certificado sucesorio||S|ist|C1
+die Beurkundung|otorgamiento notarial||S|ist|C1
+der Rangvorbehalt|reserva de rango||S|ist|C1
+die Zwangsvollstreckung|ejecución forzosa||S|ist|C1
+das Dienstsiegel|sello oficial||S|ist|C1
+die Urkundenfälschung|falsificación de documentos||S|ist|C1
+der Pflichtteil|legítima||S|ist|C1
+die Nachlassregelung|regulación de la herencia||S|ist|C1
+der Verwaltungsakt|acto administrativo||S|ist|C1
+der Widerspruch|recurso de alzada||S|ist|C1
+die Klageerhebung|interposición de demanda||S|ist|C1
+die Satzung|estatuto||S|ist|C1
+die Anhörung|trámite de audiencia||S|ist|C1
+die Verwaltungsgerichtsbarkeit|jurisdicción contencioso-administrativa||S|ist|C1
+der Ermessensspielraum|margen de discrecionalidad||S|ist|C1
+aufschiebende Wirkung|efecto suspensivo||L|ist|C1
+die Sofortvollziehung|ejecución inmediata||S|ist|C1
+der Bescheid|resolución administrativa||S|ist|C1
+die Gesetzeslage|situación legal||S|ist|C1
+der Vorbehalt|reserva||S|ist|C1
+die Normenkontrolle|control normativo||S|ist|C1
+rechtskräftig|que causa estado||A|ist|C1
+die Anfechtungsklage|recurso contencioso-administrativo||S|ist|C1
+der Rückfalltäter|reincidente||S|ist|C1
+die Bewährung|libertad condicional||S|ist|C1
+die Resozialisierung|reinserción social||S|ist|C1
+der Strafvollzug|ejecución penitenciaria||S|ist|C1
+die Beihilfe|complicidad||S|ist|C1
+die Strafmilderung|atenuación de pena||S|ist|C1

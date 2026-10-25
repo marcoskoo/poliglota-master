@@ -1,0 +1,288 @@
+die Tonleiter|escala musical||S|mus|B2
+der Takt|compás||S|mus|B2
+der Rhythmus|ritmo||S|mus|B2
+die Melodie|melodía||S|mus|B2
+die Tonart|tonalidad||S|mus|B2
+der Chor|coro||S|mus|B2
+das Blasinstrument|instrumento de viento||S|mus|B2
+das Streichinstrument|instrumento de cuerda||S|mus|B2
+das Schlagzeug|batería||S|mus|B2
+die Geige|violín||S|mus|B2
+das Cello|violonchelo||S|mus|B2
+die Klarinette|clarinete||S|mus|B2
+die Trompete|trompeta||S|mus|B2
+die Partitur|partitura||S|mus|B2
+der Klang|timbre o sonido||S|mus|B2
+der Auftritt|actuación en directo||S|mus|B2
+die Bühne|escenario||S|mus|B2
+die Zugabe|bis o canción extra||S|mus|B2
+die Tournee|gira||S|mus|B2
+proben|ensayar||V|mus|B2
+die Probe|ensayo||S|mus|B2
+das Publikum|público||S|mus|B2
+der Eintritt|entrada o admisión||S|mus|B2
+ausverkauft|agotadas las entradas||A|mus|B2
+der Vorverkauf|venta anticipada||S|mus|B2
+der Akkord|acorde||S|mus|B2
+die Coverversion|versión de un tema||S|mus|B2
+der Songtext|letra de la canción||S|mus|B2
+der Komponist|compositor||S|pro|B2
+komponieren|componer||V|mus|B2
+das Orchester|orquesta||S|mus|B2
+der Dirigent|director de orquesta||S|pro|B2
+der Produzent|productor||S|pro|B2
+die Dreharbeiten|rodaje||S|cin|B2
+das Drehbuch|guion||S|cin|B2
+der Drehbuchautor|guionista||S|pro|B2
+Regie führen|dirigir la película||E|cin|B2
+der Regisseur|director de cine||S|pro|B2
+die Hauptrolle|papel protagonista||S|cin|B2
+die Nebenrolle|papel secundario||S|cin|B2
+die Besetzung|reparto||S|cin|B2
+der Schauspieler|actor||S|pro|B2
+der Kostümbildner|diseñador de vestuario||S|pro|B2
+der Spezialeffekt|efecto especial||S|cin|B2
+der Schnitt|montaje||S|cin|B2
+die Begleitmusik|banda sonora||S|mus|B2
+der Kameramann|operador de cámara||S|pro|B2
+die Aufnahme|toma||S|cin|B2
+die Premiere|estreno||S|cin|B2
+der Kassenschlager|éxito de taquilla||S|cin|B2
+die Kinokasse|taquilla||S|cin|B2
+die Leinwand|pantalla de cine||S|cin|B2
+das Filmfestival|festival de cine||S|cin|B2
+die Trophäe|trofeo||S|cin|B2
+die Preisverleihung|entrega de premios||S|cin|B2
+die Nominierung|nominación||S|cin|B2
+nominieren|nominar||V|cin|B2
+der Dokumentarfilm|documental||S|cin|B2
+der Animationsfilm|película de animación||S|cin|B2
+der Kurzfilm|cortometraje||S|cin|B2
+die Handlung|argumento||S|cin|B2
+der Handlungsstrang|hilo argumental||S|cin|B2
+die Filmkritik|crítica de cine||S|cin|B2
+der Statist|figurante||S|pro|B2
+der Streit|discusión||S|rel|B2
+streiten|discutir||V|rel|B2
+die Auseinandersetzung|altercado||S|rel|B2
+der Konflikt|conflicto||S|rel|B2
+wütend|furioso||A|emo|B2
+die Wut|rabia||S|emo|B2
+empört|indignado||A|emo|B2
+die Kränkung|ofensa||S|emo|B2
+kränken|ofender||V|emo|B2
+der Groll|rencor||S|emo|B2
+nachtragend|rencoroso||A|emo|B2
+die Versöhnung|reconciliación||S|rel|B2
+sich versöhnen|reconciliarse||V|rel|B2
+verzeihen|perdonar||V|rel|B2
+die Trennung|separación||S|rel|B2
+sich trennen|separarse||V|rel|B2
+die Scheidung|divorcio||S|rel|B2
+sich scheiden lassen|divorciarse||E|rel|B2
+der Kummer|pena||S|emo|B2
+der Liebeskummer|desamor||S|emo|B2
+die Sehnsucht|añoranza||S|emo|B2
+vermissen|echar de menos||V|emo|B2
+die Verzweiflung|desesperación||S|emo|B2
+verzweifelt|desesperado||A|emo|B2
+die Enttäuschung|decepción||S|emo|B2
+enttäuscht|decepcionado||A|emo|B2
+der Vorwurf|reproche||S|cmu|B2
+vorwerfen|reprochar||V|cmu|B2
+das Missverständnis|malentendido||S|cmu|B2
+sich vertragen|hacer las paces||V|rel|B2
+das Zugeständnis|concesión||S|rel|B2
+sich einigen|ponerse de acuerdo||V|rel|B2
+die Vielfalt|diversidad||S|ast|B2
+die Gleichberechtigung|igualdad de derechos||S|ist|B2
+die Gleichstellung|igualdad de género||S|ist|B2
+die Benachteiligung|trato desfavorecedor||S|ist|B2
+benachteiligt|desfavorecido||A|ist|B2
+die Diskriminierung|discriminación||S|ist|B2
+diskriminieren|discriminar||V|ist|B2
+die Ausgrenzung|marginación||S|ist|B2
+ausgegrenzt|marginado||A|ist|B2
+die Chancengleichheit|igualdad de oportunidades||S|ist|B2
+die Barrierefreiheit|accesibilidad||S|ist|B2
+barrierefrei|accesible||A|ist|B2
+der Integrationskurs|curso de integración||S|ist|B2
+die Inklusion|inclusión||S|ist|B2
+das Miteinander|convivencia||S|rel|B2
+die Toleranz|tolerancia||S|ast|B2
+das Vorurteil|prejuicio||S|ast|B2
+der Rassismus|racismo||S|ist|B2
+der Fremdenhass|odio al extranjero||S|ist|B2
+die Zugehörigkeit|sentimiento de pertenencia||S|emo|B2
+der Rückhalt|respaldo||S|rel|B2
+die Unterstützung|apoyo||S|rel|B2
+die Selbsthilfegruppe|grupo de autoayuda||S|rel|B2
+die Randgruppe|colectivo marginado||S|ist|B2
+die Minderheit|minoría||S|ist|B2
+das Ehrenamt|voluntariado||S|lav|B2
+ehrenamtlich|voluntario sin remuneración||A|lav|B2
+die Hilfsbereitschaft|disposición a ayudar||S|emo|B2
+hilfsbereit|servicial||A|emo|B2
+die Anteilnahme|solidaridad||S|emo|B2
+die Fürsorge|asistencia social||S|ist|B2
+die Eingliederung|integración social||S|ist|B2
+die Steuererklärung|declaración de la renta||S|fin|B2
+das Finanzamt|agencia tributaria||S|fin|B2
+der Buchhalter|contable||S|pro|B2
+die Einkünfte|ingresos o rentas||S|fin|B2
+das Einkommen|ingresos totales||S|fin|B2
+die Rückerstattung|devolución||S|fin|B2
+der Freibetrag|importe exento||S|fin|B2
+der Vordruck|impreso oficial||S|fin|B2
+ausfüllen|rellenar un formulario||V|fin|B2
+die Steuerhinterziehung|evasión fiscal||S|fin|B2
+die Abgabe|tributo||S|fin|B2
+die Nachzahlung|pago complementario||S|fin|B2
+nachzahlen|pagar la diferencia pendiente||V|fin|B2
+die Abschreibung|amortización de activos||S|fin|B2
+die Werbungskosten|gastos deducibles||S|fin|B2
+der Beleg|justificante||S|fin|B2
+die Veranlagung|liquidación tributaria||S|fin|B2
+die Frist|plazo||S|fin|B2
+fristgerecht|dentro del plazo||A|fin|B2
+absetzbar|deducible||A|fin|B2
+absetzen|deducir||V|fin|B2
+die Pauschale|importe forfaitario||S|fin|B2
+der Solidarbeitrag|contribución de solidaridad||S|fin|B2
+der Bruttolohn|salario bruto||S|fin|B2
+der Nettolohn|salario neto||S|fin|B2
+der Bescheid|resolución administrativa||S|fin|B2
+Einspruch einlegen|presentar una reclamación||E|fin|B2
+die Vollmacht|poder notarial||S|fin|B2
+die Ausnahmeregelung|excepción normativa||S|fin|B2
+die Betriebsprüfung|auditoría fiscal||S|fin|B2
+die Säumnis|incumplimiento de plazo||S|fin|B2
+der Säumniszuschlag|recargo por mora||S|fin|B2
+das Darlehen|préstamo||S|fin|B2
+der Kredit|crédito||S|fin|B2
+die Kreditrate|cuota del préstamo||S|fin|B2
+die Bonität|solvencia crediticia||S|fin|B2
+die Hypothek|hipoteca||S|fin|B2
+die Tilgung|amortización del préstamo||S|fin|B2
+tilgen|amortizar una deuda||V|fin|B2
+die Anschlussfinanzierung|renovación de la financiación||S|fin|B2
+der Gläubiger|acreedor||S|fin|B2
+der Zins|interés||S|fin|B2
+der Zinssatz|tipo de interés||S|fin|B2
+die Monatsrate|cuota mensual||S|fin|B2
+die Laufzeit|plazo de vigencia||S|fin|B2
+der Darlehensnehmer|prestatario||S|fin|B2
+das Grundbuch|registro de la propiedad||S|fin|B2
+die Grundschuld|garantía real inscrita||S|fin|B2
+der Notar|notario||S|pro|B2
+die Besicherung|garantía del préstamo||S|fin|B2
+die Finanzierung|financiación||S|fin|B2
+die Baufinanzierung|financiación de la vivienda||S|fin|B2
+das Eigenkapital|aportación propia||S|fin|B2
+der Immobilienmarkt|mercado inmobiliario||S|fin|B2
+die Selbstauskunft|autodeclaración patrimonial||S|fin|B2
+die Mahnung|aviso de impago||S|fin|B2
+mahnen|reclamar el pago||V|fin|B2
+die Vollstreckung|ejecución o embargo||S|fin|B2
+die Zwangsversteigerung|subasta judicial||S|fin|B2
+die Zwangsräumung|desahucio||S|fin|B2
+die Zahlungsunfähigkeit|insolvencia||S|fin|B2
+zahlungsunfähig|insolvente||A|fin|B2
+die Bürgschaft|aval||S|fin|B2
+der Bürge|avalista||S|fin|B2
+sparen|ahorrar||V|fin|B2
+das Sparbuch|libreta de ahorro||S|fin|B2
+die Geldanlage|inversión de dinero||S|fin|B2
+anlegen|invertir dinero||V|fin|B2
+die Aktie|acción||S|fin|B2
+der Aktionär|accionista||S|fin|B2
+die Börse|bolsa de valores||S|fin|B2
+der Börsenindex|índice bursátil||S|fin|B2
+der Kurs|cotización||S|fin|B2
+der Kursgewinn|plusvalía||S|fin|B2
+die Wertpapiere|valores negociables||S|fin|B2
+die Anleihe|obligación||S|fin|B2
+der Fonds|fondo de inversión||S|fin|B2
+das Depot|cuenta de valores||S|fin|B2
+die Vermögensberatung|asesoría patrimonial||S|fin|B2
+das Vermögen|patrimonio||S|fin|B2
+die Rendite|rentabilidad||S|fin|B2
+das Verlustrisiko|riesgo de pérdida||S|fin|B2
+die Streuung|diversificación||S|fin|B2
+die Dividende|dividendo||S|fin|B2
+die Schwankung|fluctuación||S|fin|B2
+schwanken|fluctuar||V|fin|B2
+die Krise|crisis||S|fin|B2
+der Einbruch|desplome||S|fin|B2
+die Inflation|inflación||S|fin|B2
+die Deflation|deflación||S|fin|B2
+die Kaufkraft|poder adquisitivo||S|fin|B2
+das Tagesgeld|cuenta remunerada a la vista||S|fin|B2
+der Notgroschen|ahorro de emergencia||S|fin|B2
+das Portfolio|cartera de valores||S|fin|B2
+die Wertsteigerung|revalorización||S|fin|B2
+der Verlust|pérdida||S|fin|B2
+die Rente|pensión de jubilación||S|fin|B2
+der Rentner|jubilado||S|fin|B2
+der Ruhestand|jubilación||S|fin|B2
+in den Ruhestand treten|jubilarse||E|fin|B2
+die Altersgrenze|edad de jubilación||S|fin|B2
+die Altersvorsorge|previsión para la vejez||S|fin|B2
+die Sozialversicherung|seguridad social||S|fin|B2
+die Krankenversicherung|seguro de enfermedad||S|fin|B2
+die Pflegebedürftigkeit|dependencia||S|sla|B2
+der Pensionsanspruch|derecho a pensión||S|fin|B2
+die Pension|pensión de funcionario||S|fin|B2
+die Abfindung|indemnización por despido||S|fin|B2
+der Aufhebungsvertrag|acuerdo de extinción del contrato||S|lav|B2
+die Wartezeit|periodo mínimo de cotización||S|fin|B2
+die Beitragslücke|laguna de cotización||S|fin|B2
+der Abschlag|descuento en la pensión||S|fin|B2
+die Auszahlung|desembolso||S|fin|B2
+auszahlen|abonar||V|fin|B2
+die Erwerbsminderung|incapacidad laboral||S|sla|B2
+berufsunfähig|incapacitado para su profesión||A|sla|B2
+die Hinterbliebenen|familiares supervivientes||S|fam|B2
+die Witwe|viuda||S|fam|B2
+der Witwer|viudo||S|fam|B2
+die Lebenserwartung|esperanza de vida||S|sla|B2
+die Dienstzeit|tiempo de servicio||S|lav|B2
+das Umlageverfahren|sistema de reparto||S|fin|B2
+der Generationenvertrag|pacto intergeneracional||S|fin|B2
+die Rücklagen|reservas||S|fin|B2
+die Anwartschaft|derecho pensionario futuro||S|fin|B2
+das Nebeneinkommen|ingresos adicionales||S|fin|B2
+der Hinzuverdienst|ingresos complementarios||S|fin|B2
+der Lebensabend|vejez||S|fin|B2
+die Spezialität|especialidad culinaria||S|ris|B2
+der Koch|cocinero||S|pro|B2
+der Küchenchef|jefe de cocina||S|pro|B2
+die Küchenhilfe|ayudante de cocina||S|pro|B2
+das Degustationsmenü|menú degustación||S|ris|B2
+der Gang|plato del menú||S|ris|B2
+die Vorspeise|entrante||S|ris|B2
+die Nachspeise|postre||S|ris|B2
+die Beilage|guarnición||S|ris|B2
+die Zutat|ingrediente||S|ali|B2
+das Gewürz|especia||S|ali|B2
+würzen|aliñar||V|ali|B2
+das Aroma|aroma||S|ali|B2
+das Mundgefühl|sensación en boca||S|ris|B2
+die Konsistenz|consistencia||S|ali|B2
+der Nachgeschmack|regusto||S|ali|B2
+der Feinschmecker|sibarita||S|ris|B2
+der Restaurantführer|guía de restaurantes||S|ris|B2
+die Bewertung|valoración||S|ris|B2
+bewerten|valorar||V|ris|B2
+die Reservierung|reserva||S|ris|B2
+reservieren|reservar mesa||V|ris|B2
+die Kellnerin|camarera||S|pro|B2
+die Weinkarte|carta de vinos||S|ris|B2
+der Sommelier|sumiller||S|pro|B2
+die Weinprobe|cata de vinos||S|ris|B2
+der Genuss|deleite||S|ris|B2
+genießen|degustar||V|ris|B2
+die Speisenfolge|secuencia de platos||S|ris|B2
+die Zubereitung|elaboración||S|ali|B2
+zubereiten|preparar un plato||V|ali|B2
+die Delikatesse|manjar||S|ali|B2

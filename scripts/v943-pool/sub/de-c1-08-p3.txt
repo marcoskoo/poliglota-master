@@ -1,0 +1,271 @@
+das Tongeschlecht|el modo mayor o menor||S|mus|C1
+die Instrumentierung|la instrumentación||S|mus|C1
+die Aufführungspraxis|la práctica interpretativa||S|mus|C1
+der Generalbass|el bajo continuo||S|mus|C1
+das Kunstlied|el lied artístico||S|mus|C1
+der Chorsatz|la escritura coral||S|mus|C1
+die Motette|el motete||S|mus|C1
+der Klangkörper|el conjunto sonoro||S|mus|C1
+das Notenbild|la imagen gráfica de la partitura||S|mus|C1
+die Restaurierungswerkstatt|el taller de restauración||S|art|C1
+die Bestandserhaltung|la conservación del fondo||S|art|C1
+die Provenienz|la procedencia de la obra||S|art|C1
+der Leihverkehr|el préstamo entre museos||S|art|C1
+die Dauerausstellung|la exposición permanente||S|art|C1
+der Kurator|el comisario de exposición||S|pro|C1
+die Retusche|el retoque||S|art|C1
+der Ankauf|la adquisición institucional||S|art|C1
+die Schau|la muestra expositiva||S|art|C1
+das Exponat|la pieza expuesta||S|art|C1
+das Inventar|el inventario de fondos||S|art|C1
+die Gemälderestaurierung|la restauración de pintura||S|art|C1
+die Hinweistafel|la cartela explicativa||S|art|C1
+der Vorbesitzer|el propietario anterior||S|art|C1
+die Sonderausstellung|la exposición temporal||S|art|C1
+die Ikonografie|la iconografía||S|art|C1
+das Schaffen|la labor creativa||S|art|C1
+die Bildsprache|el lenguaje visual||S|art|C1
+das Kolorit|el colorido||S|art|C1
+der Farbauftrag|la aplicación del color||S|art|C1
+die Kunstkritik|la crítica de arte||S|art|C1
+die Motivwahl|la elección del motivo||S|art|C1
+die Abstraktion|la abstracción||S|art|C1
+die Gegenständlichkeit|la figuración||S|art|C1
+die Bildhauerei|la escultura||S|art|C1
+der Galerist|el galerista||S|pro|C1
+die Wirkungsästhetik|la estética del efecto||S|art|C1
+die Kompositionsweise|el modo de composición||S|art|C1
+die Zentralperspektive|la perspectiva central||S|art|C1
+der Mäzen|el mecenas||S|pro|C1
+das maschinelle Lernen|el aprendizaje automático||E|tec|C1
+das neuronale Netz|la red neuronal||E|tec|C1
+der Trainingsdatensatz|el conjunto de datos de entrenamiento||S|tec|C1
+die Mustererkennung|el reconocimiento de patrones||S|tec|C1
+die Überanpassung|el sobreajuste||S|tec|C1
+die Modellarchitektur|la arquitectura del modelo||S|tec|C1
+die Annotation|la anotación de datos||S|tec|C1
+der Entscheidungsbaum|el árbol de decisión||S|tec|C1
+die Vorhersagegenauigkeit|la precisión predictiva||S|tec|C1
+die Klassifikation|la clasificación automática||S|tec|C1
+die Merkmalsextraktion|la extracción de características||S|tec|C1
+die Modellverzerrung|el sesgo del modelo||S|tec|C1
+die Inferenz|la inferencia del modelo||S|tec|C1
+die Datenflut|el diluvio de datos||S|tec|C1
+die Trainingsphase|la fase de entrenamiento||S|tec|C1
+die Verschlüsselung|el cifrado||S|tec|C1
+der Schlüsselaustausch|el intercambio de claves||S|tec|C1
+der Geheimtext|el texto cifrado||S|tec|C1
+die Prüfsumme|la suma de verificación||S|tec|C1
+die Schadsoftware|el software malicioso||S|tec|C1
+der Hackerangriff|el ataque informático||S|tec|C1
+die Angriffsfläche|la superficie de ataque||S|tec|C1
+die Zwei-Faktor-Authentifizierung|la autenticación de dos factores||S|tec|C1
+die Sicherheitslücke|la vulnerabilidad||S|tec|C1
+die Zertifizierungsstelle|la autoridad de certificación||S|tec|C1
+abfangen|interceptar una comunicación||V|tec|C1
+der Datendiebstahl|el robo de datos||S|tec|C1
+der Notfallzugang|el acceso de emergencia||S|tec|C1
+die digitale Signatur|la firma digital||E|tec|C1
+die Entschlüsselung|el descifrado||S|tec|C1
+das Mobilfunknetz|la red móvil||S|tec|C1
+die Funkzelle|la celda de cobertura||S|tec|C1
+die Latenz|la latencia||S|tec|C1
+die Richtfunkstrecke|el enlace de radio||S|tec|C1
+die Glasfaserleitung|la línea de fibra óptica||S|tec|C1
+der Sendemast|el mástil emisor||S|tec|C1
+die Zusammenschaltung|la interconexión de redes||S|tec|C1
+das Frequenzband|la banda de frecuencia||S|tec|C1
+die Netzabdeckung|la cobertura de red||S|tec|C1
+die Modulation|la modulación de señal||S|tec|C1
+der Verbindungsabbruch|la caída de la conexión||S|tec|C1
+die Funkstille|el silencio radiofónico||S|cmu|C1
+die Normung|la normalización técnica||S|tec|C1
+die Trägerwelle|la onda portadora||S|tec|C1
+umschalten|conmutar de canal||V|tec|C1
+der Kernbrennstoff|el combustible nuclear||S|tec|C1
+die Kettenreaktion|la reacción en cadena||S|sci|C1
+der Sicherheitsbehälter|la contención del reactor||S|tec|C1
+die Restwärme|el calor residual||S|tec|C1
+der Regelstab|la barra de control del reactor||S|tec|C1
+die Endlagerung|el almacenamiento definitivo||S|tec|C1
+das Kernkraftwerk|la central nuclear||S|tec|C1
+die Netzstabilität|la estabilidad de la red eléctrica||S|tec|C1
+die Versorgungssicherheit|la seguridad de suministro||S|tec|C1
+die Grundlast|la carga base||S|tec|C1
+die Lastverteilung|la distribución de carga||S|tec|C1
+der Wirkungsgrad|el rendimiento energético||S|tec|C1
+die Kraftwerksstilllegung|el cierre de la central||S|tec|C1
+das Zwischenlager|el almacenamiento intermedio||S|tec|C1
+die Abschaltung|la parada del reactor||S|tec|C1
+der Schub|el empuje||S|tec|C1
+die Trägerrakete|el cohete portador||S|tec|C1
+die Landefähre|el módulo de aterrizaje||S|tec|C1
+die Brennstoffzelle|la pila de combustible||S|tec|C1
+der Wiedereintritt|la reentrada atmosférica||S|tec|C1
+die Umlaufbahn|la órbita||S|tec|C1
+die Schwerelosigkeit|la ingravidez||S|sci|C1
+der Raumanzug|el traje espacial||S|tec|C1
+das Andockmanöver|la maniobra de acoplamiento||S|tec|C1
+die Tragfläche|el ala de sustentación||S|tec|C1
+der Strömungswiderstand|la resistencia aerodinámica||S|tec|C1
+die Flugsicherung|el control del tráfico aéreo||S|tec|C1
+das Startfenster|la ventana de lanzamiento||S|tec|C1
+der Raketentreibstoff|el propelente de cohete||S|tec|C1
+die Nutzlast|la carga útil||S|tec|C1
+der Roboterarm|el brazo robótico||S|tec|C1
+die Mensch-Maschine-Schnittstelle|la interfaz persona máquina||S|tec|C1
+der Greifer|la pinza de prensión||S|tec|C1
+die Fertigungsstraße|la línea de producción||S|tec|C1
+die Sensorik|el sistema de sensores||S|tec|C1
+die Stillstandzeit|el tiempo de parada||S|tec|C1
+die Regelungstechnik|la ingeniería de control||S|tec|C1
+die Losgröße|el tamaño de lote||S|tec|C1
+die Werkshalle|la nave industrial||S|tec|C1
+die Endmontage|el montaje final||S|tec|C1
+die Justierung|la calibración||S|tec|C1
+die Ausfallrate|la tasa de averías||S|tec|C1
+ferngesteuert|teledirigido||A|tec|C1
+der Wartungsplan|el plan de mantenimiento||S|tec|C1
+der Kollaborationsroboter|el robot colaborativo||S|tec|C1
+das Klimamodell|el modelo climático||S|sci|C1
+die Erderwärmung|el calentamiento global||S|nat|C1
+der Permafrost|el permafrost||S|nat|C1
+der Meeresspiegelanstieg|la subida del nivel del mar||S|nat|C1
+der Kipppunkt|el punto de no retorno||S|nat|C1
+die Ozeanversauerung|la acidificación de los océanos||S|nat|C1
+der Ausstoß|la emisión de gases||S|nat|C1
+der Klimagipfel|la cumbre climática||S|nat|C1
+die Dürreperiode|el periodo de sequía||S|nat|C1
+die Treibhausgasemission|la emisión de gases de efecto invernadero||S|nat|C1
+die Niederschlagsmenge|el volumen de precipitaciones||S|nat|C1
+der Eisschild|el casquete glaciar||S|nat|C1
+die Albedo|el albedo||S|sci|C1
+die Desertifikation|la desertificación||S|nat|C1
+die Luftzirkulation|la circulación atmosférica||S|nat|C1
+die Meeresströmung|la corriente marina||S|nat|C1
+die Meereskunde|la ciencia del mar||S|nat|C1
+der Tiefseegraben|la fosa oceánica||S|nat|C1
+die Salzkonzentration|la concentración de sal||S|sci|C1
+die Algenblüte|la floración de algas||S|nat|C1
+der Pottwal|el cachalote||S|ani|C1
+die Korallenbleiche|el blanqueamiento de corales||S|nat|C1
+das Naturschutzgebiet|la reserva natural||S|nat|C1
+die Tiefseebohrung|la perforación abisal||S|sci|C1
+der Fischschwarm|el banco de peces||S|ani|C1
+die Strömungsgeschwindigkeit|la velocidad de la corriente||S|nat|C1
+die Fangquote|la cuota de captura||S|nat|C1
+der Deichbau|la construcción de diques||S|nat|C1
+das Brackwasser|el agua salobre||S|nat|C1
+das Korallenriff|el arrecife de coral||S|nat|C1
+die Umweltbelastung|la carga ambiental||S|nat|C1
+die Schadstoffbelastung|la contaminación por sustancias nocivas||S|nat|C1
+die Artenschutzverordnung|el reglamento de protección de especies||S|nat|C1
+die Umweltverträglichkeitsprüfung|la evaluación de impacto ambiental||S|nat|C1
+der Emissionshandel|el comercio de derechos de emisión||S|nat|C1
+der Flächenverbrauch|el consumo de suelo||S|nat|C1
+die Kreislaufwirtschaft|la economía circular||S|nat|C1
+die Kohlenstoffsenke|el sumidero de carbono||S|nat|C1
+die Nachhaltigkeitsstrategie|la estrategia de sostenibilidad||S|nat|C1
+der Bodenschutz|la protección del suelo||S|nat|C1
+die Belastungsgrenze|el límite de carga tolerable||S|nat|C1
+das Einsparpotenzial|el potencial de ahorro||S|nat|C1
+die Luftverschmutzung|la contaminación atmosférica||S|nat|C1
+die Abgabe|la tasa ambiental||S|fin|C1
+die Müllverbrennung|la incineración de residuos||S|nat|C1
+das Geschwür|la úlcera||S|sla|C1
+der Entzündungsherd|el foco inflamatorio||S|sla|C1
+das Karzinom|el carcinoma||S|sla|C1
+die Metastase|la metástasis||S|sla|C1
+das Bindegewebe|el tejido conjuntivo||S|cor|C1
+die Lymphbahn|la vía linfática||S|cor|C1
+das Rippenfell|la pleura||S|cor|C1
+die Bauchhöhle|la cavidad abdominal||S|cor|C1
+das Knochenmark|la médula ósea||S|cor|C1
+die Knorpelschicht|la capa de cartílago||S|cor|C1
+die Nebenniere|la glándula suprarrenal||S|cor|C1
+der Herzbeutel|el pericardio||S|cor|C1
+der Zwölffingerdarm|el duodeno||S|cor|C1
+das Lungenbläschen|el alvéolo pulmonar||S|cor|C1
+der Bandscheibenvorfall|la hernia discal||S|sla|C1
+das Paradoxon|la paradoja||S|ast|C1
+das Sein|el ser||S|ast|C1
+die Erscheinungsform|la forma de manifestación||S|ast|C1
+der Sinngehalt|el contenido de sentido||S|ast|C1
+die Allmacht|la omnipotencia||S|ast|C1
+die Ohnmacht|la falta de poder||S|ast|C1
+die Tugendhaftigkeit|la virtud del carácter||S|ast|C1
+die Widersprüchlichkeit|la índole contradictoria||S|ast|C1
+das Seiende|el ente||S|ast|C1
+die Vergänglichkeit|el carácter perecedero||S|ast|C1
+die Unergründlichkeit|la inescrutabilidad||S|ast|C1
+die Notwendigkeit|la necesidad||S|ast|C1
+die Zufälligkeit|la contingencia||S|ast|C1
+die Kausalität|la causalidad||S|ast|C1
+die Grundeinstellung|la actitud fundamental||S|ast|C1
+der Dissens|el disenso||S|ast|C1
+die Ambivalenz|la ambivalencia||S|ast|C1
+die Apologie|la apología||S|let|C1
+der Usus|el uso establecido||S|ast|C1
+die Maxime|la máxima||S|ast|C1
+die Aporie|la aporía||S|ast|C1
+die Evidenz|la evidencia||S|ast|C1
+die Diskrepanz|la discrepancia||S|ast|C1
+die Ignoranz|la ignorancia deliberada||S|ast|C1
+die Hybris|la hibris||S|ast|C1
+der Imperativ|el imperativo moral||S|ast|C1
+die Konnotation|la connotación||S|let|C1
+das Refugium|el refugio interior||S|ast|C1
+die Kulanz|la benevolencia comercial||S|fin|C1
+der Fauxpas|el paso en falso||S|cmu|C1
+der Weise|el sabio||S|let|C1
+die Lebensweisheit|la sabiduría de la vida||S|let|C1
+das geflügelte Wort|la expresión alada||E|let|C1
+der Denkspruch|el aforismo||S|let|C1
+der Leitsatz|el principio rector||S|let|C1
+der Sinnspruch|la sentencia||S|let|C1
+Aller Anfang ist schwer|todo principio es difícil||E|let|C1
+Übung macht den Meister|la práctica hace al maestro||E|let|C1
+Lügen haben kurze Beine|las mentiras tienen las patas cortas||E|let|C1
+Der Ton macht die Musik|el tono lo es todo||E|cmu|C1
+die Binsenweisheit|la perogrullada||S|let|C1
+die Lebenslüge|la mentira vital||S|ast|C1
+Alles hat seinen Preis|todo tiene su precio||E|let|C1
+Aus Schaden wird man klug|el daño enseña||E|let|C1
+die Selbstironie|la autoironía||S|cmu|C1
+die Beschönigung|la dulcificación||S|cmu|C1
+die Doppeldeutigkeit|el doble sentido||S|cmu|C1
+der Hohn|el escarnio||S|cmu|C1
+die Stichelei|la pulla||S|cmu|C1
+der Seitenhieb|la indirecta maliciosa||S|cmu|C1
+die Andeutung|la insinuación||S|cmu|C1
+der Zwischenton|el matiz implícito||S|cmu|C1
+das Unausgesprochene|lo sobrentendido||S|cmu|C1
+augenzwinkernd|con guiño irónico||A|cmu|C1
+die Verharmlosung|la banalización del peligro||S|cmu|C1
+der Euphemismus|el eufemismo||S|let|C1
+das Lippenbekenntnis|la declaración hipócrita||S|cmu|C1
+der Schmarrn|las memeces||S|cmu|C1
+das Gelaber|las palabrerías||S|cmu|C1
+der Zoff|el jaleo||S|cmu|C1
+die Abzocke|el timo||S|cmu|C1
+der Ramsch|la chatarra||S|cmu|C1
+die Frotzelei|la burla insistente||S|cmu|C1
+verarschen|tomar el pelo a alguien||V|cmu|C1
+der Krimskrams|el cachivache||S|cmu|C1
+die Macke|el tornillo suelto||S|cmu|C1
+der Schlamassel|el marrón||S|cmu|C1
+die Schnüffelei|el fisgoneo indiscreto||S|cmu|C1
+der Schmäh|el humor vienés||S|cmu|C1
+das Kinkerlitzchen|la nimiedad||S|ast|C1
+die Semmel|el panecillo||S|ali|C1
+die Gaudi|la juerga||S|sve|C1
+der Bub|el muchacho||S|cmu|C1
+schnacken|charlar||V|cmu|C1
+die Buxe|el pantalón||S|rop|C1
+der Hallodri|el vividor||S|cmu|C1
+die Jause|la merienda||S|ali|C1
+der Schoppen|la copa de vino||S|ris|C1
+die Mundart|el dialecto||S|stu|C1
+der Anstandswauwau|el acompañante para guardar las apariencias||S|cmu|C1
+das Muggeseggele|el detalle mínimo||S|cmu|C1
+der Schlick|el limo marino||S|nat|C1

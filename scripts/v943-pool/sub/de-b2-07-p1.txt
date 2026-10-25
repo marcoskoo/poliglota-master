@@ -1,0 +1,288 @@
+das Stipendium|beca||S|stu|B2
+der Austauschschüler|alumno de intercambio||S|stu|B2
+die Unterkunft|alojamiento||S|stu|B2
+der Studienplatz|plaza universitaria||S|stu|B2
+die Klausur|examen parcial||S|stu|B2
+der Studiengang|carrera universitaria||S|stu|B2
+das Auslandssemester|semestre en el extranjero||S|stu|B2
+die Sprachprüfung|examen de idioma||S|stu|B2
+die Einschreibung|matriculación||S|stu|B2
+der Betreuer|tutor académico||S|stu|B2
+der Notendurchschnitt|nota media||S|stu|B2
+der Erstsemester|estudiante de primer curso||S|stu|B2
+die Lerngruppe|grupo de estudio||S|stu|B2
+der Bibliotheksausweis|carné de biblioteca||S|stu|B2
+die Bewerbungsunterlagen|documentación de solicitud||S|stu|B2
+die Immatrikulation|matrícula universitaria||S|stu|B2
+der Fachbereich|departamento universitario||S|stu|B2
+die Anwesenheitspflicht|asistencia obligatoria||S|stu|B2
+die Kreditpunkte|créditos académicos||S|stu|B2
+das Praktikum|prácticas||S|stu|B2
+der Kulturaustausch|intercambio cultural||S|stu|B2
+die Verständigung|entendimiento mutuo||S|stu|B2
+die Abschlussarbeit|trabajo de fin de estudios||S|stu|B2
+der Pflichtkurs|curso obligatorio||S|stu|B2
+der Semesterbeitrag|tasa semestral||S|stu|B2
+die Gastfamilie|familia de acogida||S|stu|B2
+der Nachhilfeunterricht|clases de apoyo||S|stu|B2
+die Anerkennung|reconocimiento de créditos||S|stu|B2
+die Hausarbeit|trabajo escrito universitario||S|stu|B2
+der Schnupperkurs|curso de iniciación||S|stu|B2
+belegen|matricularse en una asignatura||V|stu|B2
+auswandern|emigrar||V|stu|B2
+die Hypothek|hipoteca||S|cas|B2
+der Immobilienmakler|agente inmobiliario||S|cas|B2
+die Immobilienanzeige|anuncio inmobiliario||S|cas|B2
+die Eigentumswohnung|piso en propiedad||S|cas|B2
+das Eigenheim|vivienda unifamiliar en propiedad||S|cas|B2
+das Einfamilienhaus|casa unifamiliar||S|cas|B2
+die Wohngemeinschaft|piso compartido||S|cas|B2
+die Kaltmiete|alquiler sin gastos incluidos||S|cas|B2
+der Mietvertrag|contrato de alquiler||S|cas|B2
+die Kaution|fianza del alquiler||S|cas|B2
+der Hausmeister|portero||S|cas|B2
+die Besichtigung|visita de la vivienda||S|cas|B2
+die Renovierung|reforma||S|cas|B2
+renovierungsbedürftig|que necesita reforma||A|cas|B2
+der Quadratmeter|metro cuadrado||S|cas|B2
+der Quadratmeterpreis|precio por metro cuadrado||S|cas|B2
+der Keller|sótano||S|cas|B2
+der Flur|recibidor||S|cas|B2
+der Einbauschrank|armario empotrado||S|cas|B2
+die Nebenkosten|gastos de la comunidad||S|cas|B2
+das Bauland|terreno edificable||S|cas|B2
+die Baugenehmigung|permiso de obras||S|cas|B2
+das Stadtviertel|barrio||S|cas|B2
+die Vorstadt|afueras de la ciudad||S|cas|B2
+die Nachbarschaft|vecindario||S|cas|B2
+der Nachbar|vecino||S|cas|B2
+umziehen|mudarse de casa||V|cas|B2
+einziehen|instalarse en una vivienda||V|cas|B2
+ausziehen|mudarse fuera||V|cas|B2
+erben|heredar||V|cas|B2
+die Grundsteuer|impuesto sobre bienes inmuebles||S|cas|B2
+der Notar|notario||S|pro|B2
+der Onlinehandel|comercio electrónico||S|cmp|B2
+die Lieferkosten|gastos de envío||S|cmp|B2
+der Versand|envío||S|cmp|B2
+die Lieferung|entrega||S|cmp|B2
+das Widerrufsrecht|derecho de desistimiento||S|cmp|B2
+die Kundenbewertung|valoración de los clientes||S|cmp|B2
+der Rabattcode|código de descuento||S|cmp|B2
+der Warenkorb|carrito de la compra||S|cmp|B2
+die Rechnung|factura||S|cmp|B2
+der Umtausch|cambio de un producto||S|cmp|B2
+die Bestellung|pedido||S|cmp|B2
+bestätigen|confirmar||V|cmp|B2
+der Kaufvertrag|contrato de compra||S|cmp|B2
+die Retoure|devolución de una compra online||S|cmp|B2
+der Verkäufer|vendedor||S|cmp|B2
+der Verbraucher|consumidor||S|cmp|B2
+die Garantie|garantía||S|cmp|B2
+das Schnäppchen|chollo||S|cmp|B2
+der Preisvergleich|comparación de precios||S|cmp|B2
+die Verfügbarkeit|disponibilidad||S|cmp|B2
+ausverkauft|agotado||A|cmp|B2
+der Kundendienst|atención al cliente||S|cmp|B2
+die Hotline|línea de atención al cliente||S|cmp|B2
+die Rücksendung|envío de devolución||S|cmp|B2
+der Gutschein|vale de descuento||S|cmp|B2
+die Verpackung|embalaje||S|cmp|B2
+der Paketbote|repartidor de paquetes||S|cmp|B2
+stornieren|anular un pedido||V|cmp|B2
+nachbestellen|volver a pedir||V|cmp|B2
+die Rezension|reseña||S|cmp|B2
+bewerten|valorar||V|cmp|B2
+die Fälschung|falsificación||S|cmp|B2
+die App|aplicación||S|tec|B2
+der Akku|batería||S|tec|B2
+der Akkustand|nivel de batería||S|tec|B2
+aufladen|cargar la batería||V|tec|B2
+das Ladekabel|cable de carga||S|tec|B2
+der Bildschirm|pantalla||S|tec|B2
+der Sperrbildschirm|pantalla de bloqueo||S|tec|B2
+das Passwort|contraseña||S|tec|B2
+der Datentarif|tarifa de datos||S|tec|B2
+der Datenverbrauch|consumo de datos||S|tec|B2
+der Speicher|almacenamiento||S|tec|B2
+freischalten|desbloquear||V|tec|B2
+das Update|actualización||S|tec|B2
+die Sprachnachricht|mensaje de voz||S|tec|B2
+der Anrufbeantworter|contestador||S|tec|B2
+wischen|deslizar el dedo||V|tec|B2
+tippen|teclear||V|tec|B2
+die Tastatur|teclado||S|tec|B2
+der Handyvertrag|contrato de móvil||S|tec|B2
+die Prepaidkarte|tarjeta de prepago||S|tec|B2
+herunterladen|descargar||V|tec|B2
+das Mobilfunknetz|red móvil||S|tec|B2
+der Empfang|cobertura||S|tec|B2
+die Störung|avería||S|tec|B2
+die Nutzungsbedingungen|condiciones de uso||S|tec|B2
+der Datenschutz|protección de datos||S|tec|B2
+die Verschlüsselung|cifrado||S|tec|B2
+der Klingelton|tono de llamada||S|tec|B2
+die Cloud|almacenamiento en la nube||S|tec|B2
+abonnieren|suscribirse||V|tec|B2
+der Abonnent|suscriptor||S|tec|B2
+die Startseite|página de inicio||S|tec|B2
+der Sportverein|club deportivo||S|spt|B2
+das Heimspiel|partido en casa||S|spt|B2
+das Auswärtsspiel|partido fuera de casa||S|spt|B2
+die Meisterschaft|campeonato||S|spt|B2
+der Tabellenstand|clasificación||S|spt|B2
+das Unentschieden|empate||S|spt|B2
+der Schiedsrichter|árbitro||S|spt|B2
+die Halbzeit|descanso del partido||S|spt|B2
+die Ausdauer|resistencia física||S|spt|B2
+das Aufwärmen|calentamiento||S|spt|B2
+sich dehnen|estirarse||V|spt|B2
+der Laufschuh|zapatilla de running||S|spt|B2
+das Laufband|cinta de correr||S|spt|B2
+das Krafttraining|entrenamiento de fuerza||S|spt|B2
+das Fitnessstudio|gimnasio||S|spt|B2
+der Zuschauer|espectador||S|spt|B2
+das Ergebnis|marcador final||S|spt|B2
+das Foul|falta||S|spt|B2
+die rote Karte|tarjeta roja||L|spt|B2
+der Eckball|saque de esquina||S|spt|B2
+der Freistoß|tiro libre||S|spt|B2
+der Elfmeter|penalti||S|spt|B2
+das Abseits|fuera de juego||S|spt|B2
+die Schwimmhalle|piscina cubierta||S|spt|B2
+das Turnier|torneo||S|spt|B2
+die Saison|temporada||S|spt|B2
+die Mannschaftsaufstellung|alineación||S|spt|B2
+die Niederlage|derrota||S|spt|B2
+trainieren|entrenar||V|spt|B2
+die Ausrüstung|equipamiento||S|spt|B2
+die Ersatzbank|banquillo||S|spt|B2
+der Nachwuchs|cantera||S|spt|B2
+das Konzertticket|entrada de concierto||S|mus|B2
+das Festivalgelände|recinto del festival||S|mus|B2
+die Bühne|escenario||S|mus|B2
+die Zugabe|bis||S|mus|B2
+der Auftritt|actuación||S|mus|B2
+die Vorband|grupo telonero||S|mus|B2
+die Playlist|lista de reproducción||S|mus|B2
+das Autogramm|autógrafo||S|mus|B2
+der Kartenverkauf|venta de entradas||S|mus|B2
+der Vorverkauf|venta anticipada||S|mus|B2
+das Publikum|público||S|mus|B2
+der Fan|seguidor incondicional||S|mus|B2
+die Fangemeinde|comunidad de seguidores||S|mus|B2
+das Idol|ídolo||S|mus|B2
+mitsingen|cantar con otros||V|mus|B2
+der Festivalbesucher|asistente al festival||S|mus|B2
+die Warteschlange|cola||S|mus|B2
+kreischen|chillar||V|mus|B2
+die Livemusik|música en directo||S|mus|B2
+das Livekonzert|concierto en directo||S|mus|B2
+die Coverversion|versión de una canción||S|mus|B2
+der Synthesizer|sintetizador||S|mus|B2
+die Akustik|acústica||S|mus|B2
+die Stimmung|ambiente||S|mus|B2
+das Feuerwerk|fuegos artificiales||S|mus|B2
+die Menschenmenge|multitud||S|mus|B2
+das Gedränge|aglomeración||S|mus|B2
+der Gehörschutz|protección auditiva||S|mus|B2
+der Einlass|apertura de puertas||S|mus|B2
+die Garderobe|guardarropa||S|mus|B2
+die Probe|ensayo||S|mus|B2
+begeistern|entusiasmar||V|mus|B2
+der Streamingdienst|plataforma de streaming||S|cin|B2
+die Folge|episodio||S|cin|B2
+die Staffel|temporada de una serie||S|cin|B2
+der Cliffhanger|final en vilo||S|cin|B2
+der Drehort|lugar de rodaje||S|cin|B2
+das Drehbuch|guion||S|cin|B2
+die Handlung|trama||S|cin|B2
+der Handlungsstrang|hilo argumental||S|cin|B2
+der Hauptdarsteller|protagonista||S|cin|B2
+die Nebendarstellerin|actriz secundaria||S|cin|B2
+schauspielern|actuar||V|cin|B2
+die Untertitel|subtítulos||S|cin|B2
+synchronisieren|doblar||V|cin|B2
+der Dokumentarfilm|documental||S|cin|B2
+die Kameraführung|trabajo de cámara||S|cin|B2
+der Schnitt|montaje||S|cin|B2
+streamen|ver en streaming||V|cin|B2
+die Mediathek|mediateca||S|cin|B2
+die Werbepause|pausa publicitaria||S|cin|B2
+die Wendung|giro argumental||S|cin|B2
+das Serienfinale|final de serie||S|cin|B2
+das Genre|género||S|cin|B2
+der Thriller|thriller||S|cin|B2
+die Komödie|comedia||S|cin|B2
+der Liebesfilm|película romántica||S|cin|B2
+die Ausstrahlung|emisión||S|cin|B2
+die Einschaltquote|índice de audiencia||S|cin|B2
+der Kritiker|crítico||S|cin|B2
+das Remake|nueva versión||S|cin|B2
+die Fortsetzung|secuela||S|cin|B2
+die Rückblende|flashback||S|cin|B2
+der Soundtrack|banda sonora||S|cin|B2
+die Verlobung|compromiso de pareja||S|rel|B2
+die Hochzeitsfeier|banquete de boda||S|rel|B2
+das Brautpaar|pareja de novios||S|rel|B2
+das Brautkleid|vestido de novia||S|rel|B2
+der Bräutigam|novio en la boda||S|rel|B2
+die Trauung|ceremonia de boda||S|rel|B2
+der Trauzeuge|testigo de boda||S|rel|B2
+der Ehering|alianza de matrimonio||S|rel|B2
+die goldene Hochzeit|bodas de oro||L|rel|B2
+der Polterabend|fiesta previa a la boda||S|rel|B2
+der Jahrestag|aniversario||S|rel|B2
+die Flitterwochen|luna de miel||S|rel|B2
+das Neugeborene|recién nacido||S|rel|B2
+die Geburtstagsparty|fiesta de cumpleaños||S|rel|B2
+die Taufe|bautizo||S|rel|B2
+das Festessen|comida festiva||S|rel|B2
+die Einladungskarte|invitación||S|rel|B2
+der Blumenstrauß|ramo de flores||S|rel|B2
+die Tischrede|discurso de celebración||S|rel|B2
+anstoßen|brindar||V|rel|B2
+die Schwangerschaft|embarazo||S|rel|B2
+das Rentenalter|edad de jubilación||S|rel|B2
+der Meilenstein|hito||S|rel|B2
+die Station|etapa de la vida||S|rel|B2
+der Einschnitt|punto de inflexión||S|rel|B2
+volljährig|mayor de edad||A|rel|B2
+heiraten|casarse||V|rel|B2
+sich scheiden lassen|divorciarse||E|rel|B2
+der Single|soltero||S|rel|B2
+der Heiratsantrag|pedida de mano||S|rel|B2
+die Girlande|guirnalda||S|rel|B2
+das Konfetti|confeti||S|rel|B2
+das Budget|presupuesto||S|fin|B2
+die Spareinlage|depósito de ahorro||S|fin|B2
+das Taschengeld|paga semanal||S|fin|B2
+die Ausgaben|gastos||S|fin|B2
+die Einnahmen|ingresos||S|fin|B2
+der Kontostand|saldo de la cuenta||S|fin|B2
+die Überweisung|transferencia||S|fin|B2
+die Abbuchung|domiciliación bancaria||S|fin|B2
+der Dispo|descubierto bancario||S|fin|B2
+die Zinsen|intereses||S|fin|B2
+der Kredit|préstamo||S|fin|B2
+die Rate|cuota||S|fin|B2
+die Tilgung|amortización||S|fin|B2
+der Betrug|fraude||S|fin|B2
+der Betrüger|estafador||S|fin|B2
+der Missbrauch|uso fraudulento||S|fin|B2
+der Werbeanruf|llamada comercial||S|fin|B2
+das Lockangebot|oferta engañosa||S|fin|B2
+die Abzocke|timo||S|fin|B2
+hereinfällen|caer en un engaño||V|fin|B2
+der Geldautomat|cajero automático||S|fin|B2
+abheben|sacar dinero||V|fin|B2
+einzahlen|ingresar dinero||V|fin|B2
+die Filiale|sucursal bancaria||S|fin|B2
+die Gebühr|tasa||S|fin|B2
+das Konto überziehen|sobregirar la cuenta||E|fin|B2
+die Rückerstattung|reembolso||S|fin|B2
+der Kassenbon|tique de compra||S|fin|B2
+die Preissteigerung|subida de precios||S|fin|B2
+knauserig|roñoso||A|fin|B2
+verschwenden|malgastar||V|fin|B2
+die Anzahlung|entrada de un pago||S|fin|B2

@@ -1,0 +1,288 @@
+der Anwalt|abogado||S|pro|B2
+der Staatsanwalt|fiscal||S|pro|B2
+der Jurist|jurista||S|pro|B2
+das Jura|carrera de derecho||S|stu|B2
+das Gericht|tribunal||S|ist|B2
+der Prozess|pleito||S|ist|B2
+die Verhandlung|negociación||S|ist|B2
+verhandeln|negociar||V|ist|B2
+das Urteil|sentencia||S|ist|B2
+die Anklage|acusación||S|ist|B2
+der Angeklagte|acusado||S|ist|B2
+der Freispruch|absolución||S|ist|B2
+der Zeuge|testigo||S|ist|B2
+die Zeugenaussage|declaración testifical||S|ist|B2
+der Beweis|prueba||S|ist|B2
+die Geldstrafe|multa||S|ist|B2
+die Haft|prisión||S|ist|B2
+verurteilen|condenar||V|ist|B2
+die Verurteilung|condena||S|ist|B2
+der Vergleich|acuerdo transaccional||S|ist|B2
+der Schöffe|escabino||S|ist|B2
+die Betriebsleitung|dirección de la empresa||S|pro|B2
+der Geschäftsführer|director general||S|pro|B2
+die Führungskraft|directivo||S|pro|B2
+die Personalabteilung|departamento de recursos humanos||S|pro|B2
+der Arbeitgeber|empleador||S|lav|B2
+der Arbeitnehmer|asalariado||S|lav|B2
+rechtskräftig|firme o definitivo||A|ist|B2
+das Mandat|encargo profesional||S|pro|B2
+der Mandant|cliente del abogado||S|pro|B2
+die Kanzlei|despacho de abogados||S|pro|B2
+die Rechtsprechung|jurisprudencia||S|ist|B2
+der Ingenieur|ingeniero||S|pro|B2
+der Mechaniker|mecánico||S|pro|B2
+der Elektriker|electricista||S|pro|B2
+der Installateur|fontanero||S|pro|B2
+der Schlosser|cerrajero||S|pro|B2
+der Schreiner|carpintero||S|pro|B2
+der Dachdecker|tejador||S|pro|B2
+der Maurer|albañil||S|pro|B2
+der Bauarbeiter|obrero de la construcción||S|pro|B2
+der Landvermesser|topógrafo||S|pro|B2
+der Chemiker|químico||S|pro|B2
+der Physiker|físico||S|pro|B2
+der Biologe|biólogo||S|pro|B2
+der Informatiker|informático||S|pro|B2
+der Mechatroniker|mecatrónico||S|pro|B2
+der Entwurf|diseño o plano||S|pro|B2
+entwerfen|diseñar||V|pro|B2
+die Konstruktion|construcción técnica||S|pro|B2
+der Bauplan|plano de obra||S|pro|B2
+der Handwerksbetrieb|taller artesanal||S|pro|B2
+die Statik|cálculo estructural||S|sci|B2
+die Tragfähigkeit|capacidad de carga||S|sci|B2
+die Instandhaltung|mantenimiento||S|tec|B2
+der Schaltplan|esquema eléctrico||S|tec|B2
+löten|soldar con estaño||V|tec|B2
+schweißen|soldar metales||V|tec|B2
+der Schutzhelm|casco de seguridad||S|pro|B2
+der Arbeitsunfall|accidente laboral||S|lav|B2
+die Lehre|aprendizaje dual||S|stu|B2
+der Ausbilder|formador de aprendices||S|pro|B2
+der Lehrling|aprendiz||S|pro|B2
+die Fachkraft|profesional cualificado||S|pro|B2
+der Facharzt|médico especialista||S|pro|B2
+der Chirurg|cirujano||S|pro|B2
+der Zahnarzt|dentista||S|pro|B2
+die Hebamme|matrona||S|pro|B2
+der Sanitäter|sanitario||S|pro|B2
+die Pflegekraft|cuidador sanitario||S|pro|B2
+der Therapeut|terapeuta||S|pro|B2
+der Psychologe|psicólogo||S|pro|B2
+der Apotheker|farmacéutico||S|pro|B2
+die Dosis|dosis||S|sla|B2
+die Nebenwirkung|efecto secundario||S|sla|B2
+die Wechselwirkung|interacción medicamentosa||S|sla|B2
+die Diagnose|diagnóstico||S|sla|B2
+diagnostizieren|diagnosticar||V|sla|B2
+die Behandlung|tratamiento||S|sla|B2
+die Verordnung|prescripción médica||S|sla|B2
+verschreiben|recetar||V|sla|B2
+die Sprechstunde|horario de consulta||S|sla|B2
+der Impfstoff|vacuna||S|sla|B2
+impfen|vacunar||V|sla|B2
+die Patientenakte|historia clínica||S|sla|B2
+die Krankenschwester|enfermera||S|pro|B2
+der Professor|catedrático||S|pro|B2
+die Erzieherin|educadora infantil||S|pro|B2
+der Sozialpädagoge|educador social||S|pro|B2
+der Logopäde|logopeda||S|pro|B2
+das Praxisteam|equipo de consulta||S|pro|B2
+die Fortbildung|formación continua||S|stu|B2
+die Weiterbildung|reciclaje profesional||S|stu|B2
+die Approbation|homologación para ejercer||S|pro|B2
+die Doktorarbeit|tesis doctoral||S|stu|B2
+das Medizinstudium|carrera de medicina||S|stu|B2
+der Journalist|periodista||S|pro|B2
+der Reporter|reportero||S|pro|B2
+die Redakteurin|redactora||S|pro|B2
+die Redaktion|redacción||S|pro|B2
+die Schlagzeile|titular||S|cmu|B2
+die Pressekonferenz|rueda de prensa||S|cmu|B2
+der Fotograf|fotógrafo||S|pro|B2
+die Reportage|reportaje||S|cmu|B2
+der Moderator|presentador||S|pro|B2
+die Sendung|programa||S|cmu|B2
+die Einschaltquote|cuota de pantalla||S|cmu|B2
+der Schriftsteller|escritor||S|pro|B2
+der Lyriker|poeta||S|pro|B2
+der Übersetzer|traductor||S|pro|B2
+das Atelier|taller de artista||S|art|B2
+der Bildhauer|escultor||S|pro|B2
+der Maler|pintor||S|pro|B2
+die Illustratorin|ilustradora||S|pro|B2
+der Grafiker|diseñador gráfico||S|pro|B2
+der Toningenieur|técnico de sonido||S|pro|B2
+der Bühnenbildner|escenógrafo||S|pro|B2
+der Tänzer|bailarín||S|pro|B2
+der Choreograf|coreógrafo||S|pro|B2
+der Verleger|editor||S|pro|B2
+der Lektor|corrector editorial||S|pro|B2
+die Auflage|tirada||S|let|B2
+der Bestseller|superventas||S|let|B2
+das Manuskript|manuscrito||S|let|B2
+die Pressemitteilung|nota de prensa||S|cmu|B2
+die Bildunterschrift|pie de foto||S|cmu|B2
+freiberuflich|autónomo||A|lav|B2
+die Auftragsarbeit|trabajo por encargo||S|lav|B2
+die Bundesregierung|gobierno federal||S|ist|B2
+der Bundestag|parlamento federal||S|ist|B2
+die Opposition|oposición||S|ist|B2
+die Koalition|coalición||S|ist|B2
+der Koalitionsvertrag|pacto de coalición||S|ist|B2
+die Fraktion|grupo parlamentario||S|ist|B2
+der Abgeordnete|diputado||S|ist|B2
+das Wahlprogramm|programa electoral||S|ist|B2
+der Wahlkampf|campaña electoral||S|ist|B2
+die Stimme abgeben|emitir el voto||E|ist|B2
+die Volksvertretung|representación popular||S|ist|B2
+das Grundgesetz|ley fundamental||S|ist|B2
+die Gesetzesvorlage|proyecto de ley||S|ist|B2
+der Ausschuss|comisión parlamentaria||S|ist|B2
+die Anhörung|comparecencia pública||S|ist|B2
+die Mehrheit|mayoría||S|ist|B2
+die Sperrklausel|barrera electoral||S|ist|B2
+die Amtszeit|periodo de mandato||S|ist|B2
+das Misstrauensvotum|voto de censura||S|ist|B2
+die Vertrauensfrage|cuestión de confianza||S|ist|B2
+die Demonstration|manifestación||S|ist|B2
+demonstrieren|manifestarse||V|ist|B2
+die Petition|petición formal||S|ist|B2
+der Skandal|escándalo||S|att|B2
+die Affäre|polémica||S|att|B2
+die Debatte|debate||S|cmu|B2
+die Kontroverse|controversia||S|att|B2
+der Kompromiss|compromiso||S|ist|B2
+der Staatsbesuch|visita de Estado||S|ist|B2
+der Außenminister|ministro de Asuntos Exteriores||S|ist|B2
+der Innenminister|ministro del Interior||S|ist|B2
+die Landesregierung|gobierno regional||S|ist|B2
+die Volkswirtschaft|economía nacional||S|fin|B2
+der Kapitalmarkt|mercado de capitales||S|fin|B2
+die Rezession|recesión||S|fin|B2
+die Konjunktur|coyuntura económica||S|fin|B2
+der Aufschwung|auge económico||S|fin|B2
+der Abschwung|desaceleración||S|fin|B2
+das Wirtschaftswachstum|crecimiento económico||S|fin|B2
+die Arbeitslosigkeit|paro||S|fin|B2
+arbeitslos|en paro||A|fin|B2
+der Arbeitsmarkt|mercado laboral||S|fin|B2
+der Streik|huelga||S|lav|B2
+streiken|hacer huelga||V|lav|B2
+der Tarifvertrag|convenio colectivo||S|lav|B2
+der Betriebsrat|comité de empresa||S|lav|B2
+die Gewerkschaft|sindicato||S|lav|B2
+die Insolvenz|concurso de acreedores||S|fin|B2
+der Konkurs|quiebra||S|fin|B2
+pleitegehen|quebrar||V|fin|B2
+der Umsatz|facturación||S|fin|B2
+der Überschuss|superávit||S|fin|B2
+das Defizit|déficit||S|fin|B2
+die Staatsschulden|deuda pública||S|fin|B2
+der Staatshaushalt|presupuesto del Estado||S|fin|B2
+die Handelsbilanz|balanza comercial||S|fin|B2
+der Welthandel|comercio mundial||S|fin|B2
+die Globalisierung|globalización||S|fin|B2
+der Rohstoff|materia prima||S|fin|B2
+die Teuerung|encarecimiento||S|fin|B2
+die Massenentlassung|despido colectivo||S|lav|B2
+entlassen|despedir||V|lav|B2
+die Kurzarbeit|trabajo a jornada reducida||S|lav|B2
+das Konjunkturprogramm|plan de estímulo||S|fin|B2
+die Umweltverschmutzung|contaminación ambiental||S|nat|B2
+die Gewässerverschmutzung|contaminación de las aguas||S|nat|B2
+die Nachhaltigkeit|sostenibilidad||S|nat|B2
+nachhaltig|sostenible||A|nat|B2
+der Verzicht|renuncia||S|nat|B2
+verzichten|renunciar a algo||V|nat|B2
+das Recycling|reciclaje||S|nat|B2
+die Ressource|recurso||S|nat|B2
+der Verbrauch|consumo||S|nat|B2
+verbrauchen|consumir||V|nat|B2
+die Energiewende|transición energética||S|nat|B2
+erneuerbare Energien|energías renovables||E|nat|B2
+die Windkraft|energía eólica||S|nat|B2
+das Atomkraftwerk|central nuclear||S|nat|B2
+der Atomausstieg|abandono de la energía nuclear||S|nat|B2
+das Abgas|gas de escape||S|nat|B2
+das Gift|veneno||S|nat|B2
+vergiften|contaminar con tóxicos||V|nat|B2
+die Ozonschicht|capa de ozono||S|nat|B2
+das Wildtier|animal salvaje||S|ani|B2
+die Artenvielfalt|biodiversidad||S|nat|B2
+das Ökosystem|ecosistema||S|sci|B2
+der Nährstoff|nutriente||S|sci|B2
+die Abholzung|deforestación||S|nat|B2
+die Wiederaufforstung|repoblación forestal||S|nat|B2
+der Naturschutz|protección de la naturaleza||S|nat|B2
+das Naturschutzgebiet|reserva natural||S|nat|B2
+das Bewusstsein|conciencia||S|ast|B2
+das Engagement|implicación||S|ast|B2
+sich engagieren|implicarse en una causa||V|ast|B2
+die Biosphäre|biosfera||S|sci|B2
+die Menschheit|humanidad||S|ast|B2
+die Hypothese|hipótesis||S|sci|B2
+die Annahme|suposición||S|sci|B2
+die Untersuchung|estudio||S|sci|B2
+untersuchen|examinar||V|sci|B2
+das Experiment|experimento||S|sci|B2
+experimentieren|experimentar||V|sci|B2
+die Versuchsreihe|serie de ensayos||S|sci|B2
+der Versuch|ensayo||S|sci|B2
+die Kontrollgruppe|grupo de control||S|sci|B2
+die Stichprobe|muestra aleatoria||S|sci|B2
+die Umfrage|encuesta||S|sci|B2
+die Auswertung|análisis de datos||S|sci|B2
+auswerten|evaluar datos||V|sci|B2
+die Erkenntnis|hallazgo||S|sci|B2
+die Beobachtung|observación||S|sci|B2
+beobachten|observar||V|sci|B2
+die Messung|medición||S|sci|B2
+messen|medir||V|sci|B2
+die Genauigkeit|exactitud||S|sci|B2
+die Zuverlässigkeit|fiabilidad||S|sci|B2
+die Fachzeitschrift|revista especializada||S|sci|B2
+der Fachbegriff|término técnico||S|sci|B2
+die Publikation|publicación científica||S|sci|B2
+die Begutachtung|revisión por pares||S|sci|B2
+der Wissenschaftler|científico||S|pro|B2
+wissenschaftlich|científico||A|sci|B2
+der Forscher|investigador||S|pro|B2
+das Stipendium|beca||S|stu|B2
+die Förderung|apoyo financiero||S|sci|B2
+fördern|promover||V|sci|B2
+die Erhebung|recolección de datos||S|sci|B2
+die Quellenangabe|referencia de fuentes||S|sci|B2
+die Zelle|célula||S|sci|B2
+das Gewebe|tejido||S|sci|B2
+das Organ|órgano||S|cor|B2
+der Organismus|organismo||S|sci|B2
+die Evolution|evolución||S|sci|B2
+das Gen|gen||S|sci|B2
+der Sauerstoff|oxígeno||S|sci|B2
+der Wasserstoff|hidrógeno||S|sci|B2
+das Element|elemento químico||S|sci|B2
+die Reaktion|reacción química||S|sci|B2
+reagieren|reaccionar||V|sci|B2
+die Lösung|disolución||S|sci|B2
+sich lösen|disolverse||V|sci|B2
+das Periodensystem|tabla periódica||S|sci|B2
+der Siedepunkt|punto de ebullición||S|sci|B2
+der Schmelzpunkt|punto de fusión||S|sci|B2
+die Dichte|densidad||S|sci|B2
+die Konzentration|concentración||S|sci|B2
+der Stoffwechsel|metabolismo||S|sci|B2
+die Photosynthese|fotosíntesis||S|sci|B2
+die Verdauung|digestión||S|sci|B2
+die Fortpflanzung|reproducción||S|sci|B2
+die Befruchtung|fecundación||S|sci|B2
+die Bakterie|bacteria||S|sci|B2
+der Virus|virus||S|sci|B2
+die Infektion|infección||S|sci|B2
+sich infizieren|contagiarse||V|sci|B2
+das Immunsystem|sistema inmunitario||S|sci|B2
+die Nahrungskette|cadena alimentaria||S|sci|B2
+der Lebensraum|hábitat||S|nat|B2
+das Gleichgewicht|equilibrio||S|sci|B2
+das Eiweiß|proteína||S|ali|B2

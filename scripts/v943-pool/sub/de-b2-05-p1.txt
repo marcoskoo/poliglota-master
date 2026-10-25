@@ -1,0 +1,289 @@
+die Stadtplanung|urbanismo||S|cit|B2
+die Fußgängerzone|zona peatonal||S|cit|B2
+der Radweg|carril bici||S|cit|B2
+die Straßenbahn|tranvía||S|cit|B2
+die Verkehrsberuhigung|moderación del tráfico||S|cit|B2
+die Lärmbelästigung|molestias por ruido||S|cit|B2
+der Smog|smog||S|cit|B2
+die Mieterhöhung|subida del alquiler||S|cit|B2
+die Gentrifizierung|gentrificación||S|cit|B2
+der Wohnungsmangel|escasez de vivienda||S|cit|B2
+die Sozialwohnung|vivienda social||S|cit|B2
+der Leerstand|viviendas y locales vacíos||S|cit|B2
+die Obdachlosigkeit|sinhogarismo||S|cit|B2
+der Obdachlose|persona sin hogar||S|cit|B2
+die Vorstadt|afueras de la ciudad||S|cit|B2
+der Vorort|barrio residencial periférico||S|cit|B2
+der Pendler|persona que se desplaza a diario al trabajo||S|cit|B2
+die Umweltzone|zona de bajas emisiones||S|cit|B2
+der Schadstoffausstoß|emisión de sustancias contaminantes||S|cit|B2
+die Feinstaubbelastung|contaminación por partículas finas||S|cit|B2
+das Hochhaus|rascacielos||S|cit|B2
+die Bebauung|edificación del suelo||S|cit|B2
+die Baugenehmigung|licencia de obras||S|cit|B2
+sanieren|rehabilitar||V|cit|B2
+die Sanierung|rehabilitación de un barrio||S|cit|B2
+die Bevölkerungsdichte|densidad de población||S|cit|B2
+die Überbevölkerung|sobrepoblación||S|cit|B2
+die Kriminalität|criminalidad||S|cit|B2
+der Vandalismus|vandalismo||S|cit|B2
+das Stadtviertel|barrio urbano||S|cit|B2
+die Umgehungsstraße|carretera de circunvalación||S|cit|B2
+die Baustelle|obra en construcción||S|cit|B2
+die Wohnanlage|conjunto residencial||S|cit|B2
+das Rathaus|ayuntamiento||S|ist|B2
+der Bürgermeister|alcalde||S|ist|B2
+das Bürgeramt|oficina municipal de atención al ciudadano||S|ist|B2
+das Einwohnermeldeamt|registro municipal de habitantes||S|ist|B2
+ummelden|actualizar el empadronamiento||V|ist|B2
+die Geburtsurkunde|certificado de nacimiento||S|ist|B2
+die Sozialleistung|prestación social||S|ist|B2
+das Jugendamt|servicio de asistencia al menor||S|ist|B2
+die Ausländerbehörde|oficina de extranjería||S|ist|B2
+der Aufenthaltstitel|permiso de residencia||S|ist|B2
+die Aufenthaltserlaubnis|autorización de residencia||S|ist|B2
+die Einbürgerung|naturalización||S|ist|B2
+die Stadtwerke|empresas municipales de servicios||S|ist|B2
+die Müllabfuhr|recogida de residuos||S|ist|B2
+die Mülltrennung|separación de basuras||S|ist|B2
+das Ordnungsamt|policía municipal||S|ist|B2
+die Volksbefragung|consulta popular||S|ist|B2
+die Wahlbeteiligung|participación electoral||S|ist|B2
+wahlberechtigt|con derecho a voto||A|ist|B2
+die Unterschriftensammlung|recogida de firmas||S|ist|B2
+die Verwaltung|administración pública||S|ist|B2
+die Behörde|organismo oficial||S|ist|B2
+der Antrag|solicitud formal||S|ist|B2
+beantragen|solicitar formalmente||V|ist|B2
+die Bescheinigung|justificante||S|ist|B2
+der Schriftverkehr|correspondencia escrita||S|ist|B2
+zuständig|competente||A|ist|B2
+die Zuständigkeit|competencia de un organismo||S|ist|B2
+die Kommunalwahl|elecciones municipales||S|ist|B2
+der Gemeinderat|concejo municipal||S|ist|B2
+die Gemeinde|municipio||S|ist|B2
+der Einwohner|habitante||S|ist|B2
+der Klimawandel|cambio climático||S|cli|B2
+die Klimakrise|crisis climática||S|cli|B2
+die Erderwärmung|calentamiento global||S|cli|B2
+der Treibhauseffekt|efecto invernadero||S|cli|B2
+der Ausstoß|emisión de gases||S|cli|B2
+das Ozonloch|agujero de la capa de ozono||S|cli|B2
+die Dürre|sequía||S|cli|B2
+die Überschwemmung|inundación||S|cli|B2
+das Hochwasser|crecida||S|nat|B2
+die Sturmflut|marea de tormenta||S|nat|B2
+der Orkan|huracán||S|nat|B2
+der Wirbelsturm|tormenta ciclónica||S|nat|B2
+das Erdbeben|terremoto||S|nat|B2
+das Seebeben|terremoto submarino||S|nat|B2
+der Tsunami|tsunami||S|nat|B2
+die Lawine|alud de nieve||S|nat|B2
+der Erdrutsch|desprendimiento de tierra||S|nat|B2
+der Waldbrand|incendio forestal||S|nat|B2
+die Schadensbilanz|balance de daños||S|nat|B2
+die Nothilfe|ayuda de emergencia||S|nat|B2
+der Katastrophenschutz|protección civil||S|nat|B2
+die Evakuierung|evacuación||S|nat|B2
+evakuieren|evacuar||V|nat|B2
+die Spendenaktion|campaña de donaciones||S|nat|B2
+die Trümmer|escombros||S|nat|B2
+die Flutkatastrophe|catástrofe de riada||S|nat|B2
+der Gletscher|glaciar||S|nat|B2
+die Gletscherschmelze|deshielo de los glaciares||S|cli|B2
+der Meeresspiegel|nivel del mar||S|cli|B2
+die Extremwetterlage|situación meteorológica extrema||S|cli|B2
+die Hitzewelle|ola de calor||S|cli|B2
+die Naturkatastrophe|catástrofe natural||S|nat|B2
+die Mode|moda||S|rop|B2
+der Trend|tendencia||S|rop|B2
+trendig|a la última||A|rop|B2
+der Modeschöpfer|diseñador de modas||S|pro|B2
+der Schneider|sastre||S|pro|B2
+die Schneiderei|sastrería||S|rop|B2
+die Naht|costura||S|rop|B2
+nähen|coser||V|rop|B2
+der Reißverschluss|cremallera||S|rop|B2
+der Kragen|cuello de la prenda||S|rop|B2
+der Ärmel|manga||S|rop|B2
+der Saum|dobladillo||S|rop|B2
+kariert|de cuadros||A|rop|B2
+gestreift|de rayas||A|rop|B2
+gepunktet|de lunares||A|rop|B2
+die Strickjacke|chaqueta de punto||S|rop|B2
+das Sakko|chaqueta de traje||S|rop|B2
+die Lederjacke|chaqueta de cuero||S|rop|B2
+der Stoff|tejido||S|rop|B2
+die Baumwolle|algodón||S|rop|B2
+die Wolle|lana||S|rop|B2
+die Seide|seda||S|rop|B2
+das Leinen|lino||S|rop|B2
+die Faser|fibra textil||S|rop|B2
+synthetisch|sintético||A|rop|B2
+die Textilindustrie|industria textil||S|rop|B2
+die Kinderarbeit|trabajo infantil||S|lav|B2
+die Ausbeutung|explotación laboral||S|lav|B2
+die Markenkleidung|ropa de marca||S|rop|B2
+der Secondhandladen|tienda de segunda mano||S|rop|B2
+die Umkleidekabine|probador||S|cmp|B2
+anprobieren|probarse la ropa||V|cmp|B2
+das Netzwerk|red de contactos||S|tec|B2
+der Nutzer|usuario||S|tec|B2
+das Nutzerprofil|perfil de usuario||S|tec|B2
+der Beitrag|publicación en redes||S|cmu|B2
+posten|publicar una entrada||V|tec|B2
+der Kommentar|comentario||S|cmu|B2
+kommentieren|comentar||V|cmu|B2
+liken|dar a me gusta||V|tec|B2
+weiterleiten|reenviar||V|tec|B2
+die Privatsphäre|privacidad||S|tec|B2
+der Datenschutz|protección de datos||S|tec|B2
+das Profilbild|foto de perfil||S|tec|B2
+die Pinnwand|muro o tablón||S|tec|B2
+die Benachrichtigung|notificación||S|tec|B2
+die Meldung|aviso||S|cmu|B2
+veröffentlichen|publicar o difundir||V|cmu|B2
+die Veröffentlichung|publicación||S|cmu|B2
+die Reichweite|alcance||S|tec|B2
+der Influencer|influencer||S|pro|B2
+viral gehen|hacerse viral||E|tec|B2
+die Community|comunidad virtual||S|tec|B2
+der Gruppenchat|chat de grupo||S|tec|B2
+chatten|chatear||V|tec|B2
+die Sprachnachricht|mensaje de voz||S|tec|B2
+das Emoji|emoticono||S|tec|B2
+die Bildschirmzeit|tiempo de pantalla||S|tec|B2
+die Handysucht|adicción al móvil||S|tec|B2
+die Medienkompetenz|competencia mediática||S|stu|B2
+der Shitstorm|avalancha de críticas en línea||S|cmu|B2
+die Hetze|campaña de odio||S|cmu|B2
+die Selbstinszenierung|autopromoción en redes||S|tec|B2
+das Mobbing|acoso||S|lav|B2
+die Cybersicherheit|ciberseguridad||S|tec|B2
+der Hacker|hacker informático||S|pro|B2
+hacken|hackear||V|tec|B2
+der Computervirus|virus informático||S|tec|B2
+die Schadsoftware|software malicioso||S|tec|B2
+der Trojaner|troyano||S|tec|B2
+das Phishing|phishing o suplantación||S|tec|B2
+der Datenmissbrauch|uso fraudulento de datos||S|tec|B2
+der Datendiebstahl|robo de datos||S|tec|B2
+der Identitätsdiebstahl|suplantación de identidad||S|tec|B2
+das Passwort|contraseña||S|tec|B2
+die Verschlüsselung|cifrado||S|tec|B2
+verschlüsseln|cifrar||V|tec|B2
+die Firewall|cortafuegos||S|tec|B2
+die Sicherheitslücke|vulnerabilidad de seguridad||S|tec|B2
+der Missbrauch|abuso||S|tec|B2
+der Angriff|ataque||S|tec|B2
+angreifen|atacar||V|tec|B2
+die Abzocke|timo||S|tec|B2
+der Betrug|fraude||S|tec|B2
+die Betrugsmasche|método de estafa||S|tec|B2
+die Fälschung|falsificación||S|tec|B2
+das Botnetz|red de ordenadores zombis||S|tec|B2
+die Spionage|espionaje||S|tec|B2
+ausspionieren|espiar||V|tec|B2
+die Überwachung|vigilancia||S|tec|B2
+überwachen|vigilar||V|tec|B2
+die Gesichtserkennung|reconocimiento facial||S|tec|B2
+das Bewegungsprofil|rastro de movimientos||S|tec|B2
+das Benutzerkonto|cuenta de usuario||S|tec|B2
+die Verifizierung|verificación||S|tec|B2
+die Sperrung|bloqueo de cuenta||S|tec|B2
+programmieren|programar||V|tec|B2
+die Programmiersprache|lenguaje de programación||S|tec|B2
+der Quellcode|código fuente||S|tec|B2
+der Befehl|instrucción||S|tec|B2
+die Schleife|bucle||S|tec|B2
+die Variable|variable||S|tec|B2
+der Wert|valor||S|tec|B2
+die Schnittstelle|interfaz de conexión||S|tec|B2
+der Fehler|error||S|tec|B2
+die Fehlermeldung|mensaje de error||S|tec|B2
+die Syntax|sintaxis||S|tec|B2
+der Algorithmus|algoritmo||S|tec|B2
+die Funktion|función||S|tec|B2
+die Datenbank|base de datos||S|tec|B2
+der Server|servidor||S|tec|B2
+die Cloud|nube o almacenamiento en línea||S|tec|B2
+die Anwendung|aplicación||S|tec|B2
+das Betriebssystem|sistema operativo||S|tec|B2
+die Benutzeroberfläche|interfaz de usuario||S|tec|B2
+die Software|software||S|tec|B2
+die Hardware|hardware||S|tec|B2
+die Umsetzung|implementación||S|tec|B2
+implementieren|implementar||V|tec|B2
+die Softwareentwicklung|desarrollo de software||S|tec|B2
+entwickeln|desarrollar||V|tec|B2
+die Aktualisierung|actualización||S|tec|B2
+aktualisieren|actualizar||V|tec|B2
+der Testlauf|prueba de ejecución||S|tec|B2
+testen|probar||V|tec|B2
+die Freigabe|aprobación de publicación||S|tec|B2
+die Sitzung|sesión||S|tec|B2
+die Anmeldung|inicio de sesión||S|tec|B2
+der Profisport|deporte profesional||S|spt|B2
+der Wettkampf|competición||S|spt|B2
+die Meisterschaft|campeonato||S|spt|B2
+der Meister|campeón||S|spt|B2
+das Turnier|torneo||S|spt|B2
+das Finale|final||S|spt|B2
+das Endergebnis|resultado final||S|spt|B2
+der Rekord|récord||S|spt|B2
+der Titel|título||S|spt|B2
+der Favorit|favorito||S|spt|B2
+der Außenseiter|outsider||S|spt|B2
+die Niederlage|derrota||S|spt|B2
+der Sieg|victoria||S|spt|B2
+siegen|vencer||V|spt|B2
+das Elfmeterschießen|ronda de penaltis||S|spt|B2
+der Freistoß|tiro libre||S|spt|B2
+der Eckball|saque de esquina||S|spt|B2
+das Abseits|fuera de juego||S|spt|B2
+der Schiedsrichter|árbitro||S|spt|B2
+das Derby|derbi||S|spt|B2
+der Zuschauerschnitt|media de espectadores||S|spt|B2
+die Dauerkarte|abono de temporada||S|spt|B2
+die Fanmeile|fiesta de aficionados en la calle||S|spt|B2
+das Doping|dopaje||S|spt|B2
+die Fairness|juego limpio||S|spt|B2
+die Nationalmannschaft|selección nacional||S|spt|B2
+der Kader|plantilla||S|spt|B2
+der Verein|club||S|spt|B2
+das Sponsoring|patrocinio||S|spt|B2
+die Karriere|carrera deportiva||S|lav|B2
+der Rücktritt|retirada||S|lav|B2
+zurücktreten|retirarse o dimitir||V|lav|B2
+die Verletzung|lesión||S|sla|B2
+sich verletzen|lesionarse||V|sla|B2
+die Prellung|contusión||S|sla|B2
+die Zerrung|distensión muscular||S|sla|B2
+der Muskelfaserriss|rotura de fibras||S|sla|B2
+die Sehnenentzündung|tendinitis||S|sla|B2
+das Kreuzband|ligamento cruzado||S|sla|B2
+der Gipsverband|escayola||S|sla|B2
+die Schiene|férula||S|sla|B2
+die Krücke|muleta||S|sla|B2
+der Verband|vendaje||S|sla|B2
+die Wunde|herida||S|sla|B2
+die Schwellung|hinchazón||S|sla|B2
+geschwollen|hinchado||A|sla|B2
+der Bluterguss|hematoma||S|sla|B2
+das Schienbein|tibia||S|cor|B2
+das Sprunggelenk|tobillo||S|cor|B2
+umknicken|torcerse el tobillo||V|sla|B2
+der Muskelkater|agujetas||S|sla|B2
+die Erschöpfung|agotamiento||S|sla|B2
+erschöpft|agotado||A|sla|B2
+die Überlastung|sobrecarga||S|sla|B2
+überlasten|sobrecargar||V|sla|B2
+die Reha|rehabilitación||S|sla|B2
+der Heilungsprozess|proceso de curación||S|sla|B2
+die Genesung|convalecencia||S|sla|B2
+genesen|restablecerse||V|sla|B2
+der Notfall|urgencia médica||S|sla|B2
+der Notarzt|médico de urgencias||S|pro|B2
+die Ruhigstellung|inmovilización||S|sla|B2
+die Physiotherapie|fisioterapia||S|sla|B2
+das Aufwärmen|calentamiento||S|spt|B2

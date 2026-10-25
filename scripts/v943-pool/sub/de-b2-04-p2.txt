@@ -1,0 +1,289 @@
+die Rückgabe|devolución||S|cmp|B2
+umtauschen|cambiar un producto||V|cmp|B2
+die Gewährleistung|garantía legal||S|cmp|B2
+der Garantieschein|justificante de garantía||S|cmp|B2
+der Kassenbon|ticket de compra||S|cmp|B2
+die Reklamation|reclamación||S|cmp|B2
+die Frist|plazo||S|cmp|B2
+der Kundendienst|atención al cliente||S|cmp|B2
+das Umtauschrecht|derecho a cambio||S|cmp|B2
+die Erstattung|reembolso||S|cmp|B2
+die Beanstandung|queja formal||S|cmp|B2
+der Mangel|defecto||S|cmp|B2
+mangelhaft|defectuoso||A|cmp|B2
+die Nichteinhaltung|incumplimiento del acuerdo||S|cmp|B2
+der Schadensersatz|indemnización por daños||S|cmp|B2
+die Entschädigung|compensación||S|cmp|B2
+die Reparatur|reparación||S|cmp|B2
+die Reparaturkosten|gastos de reparación||S|cmp|B2
+die Werkstatt|taller||S|cmp|B2
+die Beschwerde|queja||S|cmp|B2
+die Kulanz|buena voluntad comercial||S|cmp|B2
+die Gutschrift|abono a favor||S|cmp|B2
+die Quittung|recibo||S|cmp|B2
+die Schlichtungsstelle|junta de arbitraje||S|ist|B2
+das Gütesiegel|sello de calidad||S|cmp|B2
+das Ersatzteil|pieza de recambio||S|cmp|B2
+die Nachbesserung|subsanación||S|cmp|B2
+der Beleg|justificante de pago||S|cmp|B2
+die Mahnung|carta de aviso de pago||S|cmp|B2
+die Ersatzlieferung|entrega de reemplazo||S|cmp|B2
+das Kleingedruckte|letra pequeña||S|cmp|B2
+die Zusicherung|garantía prometida||S|cmp|B2
+der Onlineshop|tienda en línea||S|cmp|B2
+die Versandkosten|gastos de envío||S|cmp|B2
+der Versand|envío||S|cmp|B2
+versenden|enviar un paquete||V|cmp|B2
+die Sendungsverfolgung|seguimiento del envío||S|cmp|B2
+die Lieferung|entrega||S|cmp|B2
+der Lieferant|proveedor||S|cmp|B2
+die Zustellung|entrega a domicilio||S|cmp|B2
+der Paketbote|repartidor de paquetes||S|cmp|B2
+der Kurier|mensajero||S|cmp|B2
+die Fracht|carga de mercancías||S|cmp|B2
+das Bestellformular|formulario de pedido||S|cmp|B2
+die Bestellbestätigung|confirmación de pedido||S|cmp|B2
+die Zahlungsmethode|método de pago||S|cmp|B2
+die Lastschrift|domiciliación bancaria||S|fin|B2
+die Vorkasse|pago por adelantado||S|cmp|B2
+die Nachnahme|pago contra reembolso||S|cmp|B2
+die Datenschutzerklärung|declaración de protección de datos||S|tec|B2
+die Bewertung|valoración||S|cmp|B2
+die Rezension|reseña||S|cmp|B2
+der Karton|caja de cartón||S|cmp|B2
+die Verpackung|envoltorio||S|cmp|B2
+das Lager|almacén||S|cmp|B2
+die Lagerhaltung|gestión de almacén||S|cmp|B2
+die Retoure|devolución por correo||S|cmp|B2
+das Widerrufsrecht|derecho de desistimiento||S|cmp|B2
+die Widerrufsfrist|plazo de desistimiento||S|cmp|B2
+der Zusteller|repartidor||S|cmp|B2
+die Auftragsabwicklung|procesamiento de pedidos||S|cmp|B2
+der Einkaufswagen|carrito de la compra||S|cmp|B2
+die Empfangsbestätigung|acuse de recibo||S|cmp|B2
+die Abholung|recogida||S|cmp|B2
+die Geschwindigkeitsbegrenzung|límite de velocidad||S|tra|B2
+der Blitzer|radar de velocidad||S|tra|B2
+das Bußgeld|multa||S|tra|B2
+der Bußgeldbescheid|notificación de multa||S|tra|B2
+die Verwarnung|amonestación||S|tra|B2
+die Alkoholkontrolle|control de alcoholemia||S|tra|B2
+die Trunkenheit|embriaguez al volante||S|tra|B2
+das Promille|tasa de alcohol en sangre||S|tra|B2
+der Auffahrunfall|colisión por alcance||S|tra|B2
+der Unfallverursacher|causante del accidente||S|tra|B2
+der Blechschaden|abolladura||S|tra|B2
+der Motorschaden|avería del motor||S|tra|B2
+die Motorhaube|capó||S|tra|B2
+die Autobatterie|batería del coche||S|tra|B2
+der Abschleppdienst|servicio de grúa||S|tra|B2
+die Zündkerze|bujía||S|tra|B2
+der Scheinwerfer|faro||S|tra|B2
+der Kofferraum|maletero||S|tra|B2
+der Bremsweg|distancia de frenado||S|tra|B2
+das Warnblinklicht|luces de emergencia||S|tra|B2
+der Wagenheber|gato del coche||S|tra|B2
+die Starthilfe|ayuda para arrancar||S|tra|B2
+der Auspuff|tubo de escape||S|tra|B2
+die Kupplung|embrague||S|tra|B2
+das Getriebe|caja de cambios||S|tra|B2
+der Reifenwechsel|cambio de neumáticos||S|tra|B2
+die Beschilderung|señalización||S|tra|B2
+das Umleitungsschild|señal de desvío||S|tra|B2
+die Umleitung|desvío||S|tra|B2
+die Baustelle|obra en la vía||S|tra|B2
+der Sicherheitsabstand|distancia de seguridad||S|tra|B2
+der Sicherheitsgurt|cinturón de seguridad||S|tra|B2
+die Umweltzone|zona de bajas emisiones||S|tra|B2
+das Umweltbewusstsein|conciencia medioambiental||S|tra|B2
+die Elektromobilität|movilidad eléctrica||S|tra|B2
+das Elektroauto|coche eléctrico||S|tra|B2
+die Ladesäule|columna de recarga||S|tra|B2
+das Carsharing|coche compartido||S|tra|B2
+die Feinstaubplakette|etiqueta medioambiental del coche||S|tra|B2
+der Schadstoffausstoß|emisión de sustancias contaminantes||S|tra|B2
+das Abgas|gas de escape||S|tra|B2
+die Abgasnorm|norma de emisiones||S|tra|B2
+die Lärmbelästigung|ruido molesto||S|tra|B2
+die Fußgängerzone|zona peatonal||S|cit|B2
+der Radweg|carril bici||S|tra|B2
+die Buslinie|línea de autobús||S|tra|B2
+die Straßenbahn|tranvía||S|tra|B2
+der Bahnsteig|andén||S|tra|B2
+der Schaffner|revisor||S|tra|B2
+das Semesterticket|abono semestral||S|tra|B2
+das Abonnement|abono mensual||S|tra|B2
+der Ticketautomat|dispensador de billetes||S|tra|B2
+die Verspätung|retraso||S|tra|B2
+der Anschluss|correspondencia||S|tra|B2
+der Pendler|persona que se desplaza al trabajo||S|tra|B2
+pendeln|ir y venir al trabajo en tren||V|tra|B2
+die Strecke|trayecto||S|tra|B2
+der Umstieg|transbordo||S|tra|B2
+umsteigen|hacer transbordo||V|tra|B2
+der Anwohnerparkplatz|plaza de residentes||S|tra|B2
+die Parkgebühr|tarifa de aparcamiento||S|tra|B2
+die Klimabilanz|balance climático||S|tra|B2
+die Schiene|vía férrea||S|tra|B2
+die Luftverschmutzung|contaminación del aire||S|tra|B2
+der Geschäftsbesuch|visita de negocios||S|lav|B2
+die Spesen|gastos de dietas||S|lav|B2
+die Übernachtung|pernoctación||S|vig|B2
+der Aufenthalt|estancia||S|vig|B2
+die Tagung|jornada||S|lav|B2
+der Tagungsraum|sala de convenciones||S|lav|B2
+die Zwischenlandung|escala técnica||S|vig|B2
+die Annullierung|anulación||S|vig|B2
+die Umbuchung|cambio de reserva||S|vig|B2
+die Verspätungsentschädigung|indemnización por retraso||S|vig|B2
+die Durchsage|anuncio por megafonía||S|vig|B2
+der Gepäckverlust|pérdida de equipaje||S|vig|B2
+das Schließfach|taquilla||S|vig|B2
+der Dolmetscher|intérprete||S|pro|B2
+die Bordkarte|tarjeta de embarque||S|vig|B2
+die Verständigungsprobleme|problemas de comunicación||S|cmu|B2
+das Handgepäck|equipaje de mano||S|vig|B2
+die Platzreservierung|reserva de asiento||S|vig|B2
+die Überbuchung|sobreventa||S|vig|B2
+die Stornierung|cancelación||S|vig|B2
+stornieren|cancelar una reserva||V|vig|B2
+die Buchung|reserva||S|vig|B2
+der Leihwagen|coche de alquiler||S|vig|B2
+die Route|recorrido||S|vig|B2
+der Zeitplan|horario previsto||S|vig|B2
+die Pünktlichkeit|puntualidad||S|vig|B2
+die Turbulenzen|turbulencias||S|vig|B2
+der Start|despegue||S|vig|B2
+die Landung|aterrizaje||S|vig|B2
+die Auslandserfahrung|experiencia en el extranjero||S|vig|B2
+die Ausgleichszahlung|indemnización compensatoria||S|vig|B2
+der Anspruch|derecho exigible||S|vig|B2
+der Rückflug|vuelo de regreso||S|vig|B2
+die Einreise|entrada al país||S|vig|B2
+der Ausweis|documento de identidad||S|vig|B2
+der Aufenthaltstitel|permiso de residencia||S|vig|B2
+das Visum|visado||S|vig|B2
+beantragen|solicitar por escrito||V|ist|B2
+die Grenzkontrolle|control fronterizo||S|vig|B2
+der Grenzübergang|paso fronterizo||S|vig|B2
+die Passkontrolle|control de pasaportes||S|vig|B2
+die Botschaft|embajada||S|ist|B2
+das Konsulat|consulado||S|ist|B2
+die Meldebescheinigung|certificado de empadronamiento||S|ist|B2
+die Anmeldung|registro||S|ist|B2
+das Einwohnermeldeamt|oficina de empadronamiento||S|ist|B2
+die Staatsangehörigkeit|nacionalidad||S|ist|B2
+der Staatsbürger|ciudadano||S|ist|B2
+die Bescheinigung|certificado||S|ist|B2
+die Beglaubigung|copia compulsada||S|ist|B2
+die Übersetzung|traducción||S|ist|B2
+der Stempel|sello oficial||S|ist|B2
+das Transitvisum|visado de tránsito||S|vig|B2
+die Bestimmung|normativa vigente||S|vig|B2
+der Zoll|aduana||S|ist|B2
+die Zollabfertigung|trámite de aduana||S|ist|B2
+verzollen|declarar en la aduana||V|ist|B2
+die Freigrenze|límite de exención||S|ist|B2
+die Ausweisung|expulsión del país||S|ist|B2
+die Abschiebung|deportación||S|ist|B2
+das Asyl|asilo||S|ist|B2
+der Asylbewerber|solicitante de asilo||S|ist|B2
+die Niederlassungserlaubnis|permiso de residencia permanente||S|ist|B2
+das Herkunftsland|país de origen||S|vig|B2
+die Papiere|documentación en regla||S|vig|B2
+die Gastfreundschaft|hospitalidad||S|htl|B2
+die Unterkunft|alojamiento||S|htl|B2
+die Halbpension|media pensión||S|htl|B2
+die Vollpension|pensión completa||S|htl|B2
+die Verpflegung|manutención||S|htl|B2
+das Frühstücksbuffet|bufé de desayuno||S|htl|B2
+die Gaststätte|taberna con comidas||S|ris|B2
+die Rezeption|recepción||S|htl|B2
+die Hotelkette|cadena hotelera||S|htl|B2
+die Hotelkategorie|categoría hotelera||S|htl|B2
+die Klassifizierung|clasificación por estrellas||S|htl|B2
+die Gästebewertung|valoración de los huéspedes||S|htl|B2
+die Auslastung|ocupación||S|htl|B2
+die Nebensaison|temporada baja||S|htl|B2
+die Hauptsaison|temporada alta||S|htl|B2
+das Ausflugsziel|lugar para una excursión||S|vig|B2
+die Sehenswürdigkeit|lugar de interés||S|vig|B2
+die Altstadt|casco antiguo||S|cit|B2
+der Marktplatz|plaza del mercado||S|cit|B2
+die Promenade|paseo marítimo||S|cit|B2
+die Jugendherberge|albergue juvenil||S|htl|B2
+das Doppelzimmer|habitación doble||S|htl|B2
+der Wellnessbereich|zona de spa||S|htl|B2
+das Hallenbad|piscina cubierta||S|htl|B2
+der Liegestuhl|tumbona||S|htl|B2
+der Sonnenuntergang|puesta de sol||S|nat|B2
+der Sonnenaufgang|amanecer||S|nat|B2
+die Aussichtsterrasse|terraza panorámica||S|htl|B2
+der Rundgang|recorrido guiado||S|vig|B2
+das Wahrzeichen|monumento emblemático||S|cit|B2
+die Broschüre|folleto||S|vig|B2
+die Buchungsplattform|plataforma de reservas||S|vig|B2
+die Vorbeugung|prevención||S|sla|B2
+die Vorsorge|prevención sanitaria||S|sla|B2
+die Vorsorgeuntersuchung|revisión médica preventiva||S|sla|B2
+das Gesundheitsbewusstsein|conciencia sanitaria||S|sla|B2
+die Lebensweise|estilo de vida||S|sla|B2
+das Wohlbefinden|bienestar||S|sla|B2
+die Bewegung|actividad física||S|sla|B2
+der Bewegungsmangel|falta de ejercicio||S|sla|B2
+der Alltagsstress|estrés cotidiano||S|sla|B2
+das Burnout|síndrome de desgaste||S|sla|B2
+die Entspannung|relajación||S|sla|B2
+die Ausdauer|resistencia física||S|sla|B2
+das Krafttraining|entrenamiento de fuerza||S|spt|B2
+die Körperhaltung|postura corporal||S|cor|B2
+die Schlaflosigkeit|insomnio||S|sla|B2
+die Impfung|vacunación||S|sla|B2
+das Immunsystem|sistema inmunitario||S|sci|B2
+das Rauchen|tabaquismo||S|sla|B2
+das Gleichgewicht|equilibrio||S|sla|B2
+die Meditation|meditación||S|sla|B2
+der Puls|pulso||S|sla|B2
+die Mäßigung|moderación||S|sla|B2
+übermäßig|en exceso||A|sla|B2
+gesundheitsgefährdend|nocivo para la salud||A|sla|B2
+die Widerstandsfähigkeit|capacidad de resistencia||S|sla|B2
+das Nikotin|nicotina||S|sla|B2
+die Sucht|adicción||S|sla|B2
+die Entzugssymptome|síntomas de abstinencia||S|sla|B2
+die Vitalität|vitalidad||S|sla|B2
+die Regeneration|recuperación muscular||S|sla|B2
+die Auszeit|pausa para desconectar||S|sla|B2
+der Kreislauf|circulación sanguínea||S|sla|B2
+die Krankenkasse|seguro médico público||S|ist|B2
+die Krankenversicherung|seguro de enfermedad||S|ist|B2
+die Pflegeversicherung|seguro de dependencia||S|ist|B2
+die Wahlleistung|prestación a elección||S|sla|B2
+der Hausarzt|médico de cabecera||S|pro|B2
+der Facharzt|médico especialista||S|pro|B2
+die Praxis|consulta médica||S|sla|B2
+die Überweisung|derivación a un especialista||S|sla|B2
+die Verordnung|prescripción médica||S|sla|B2
+die Zuzahlung|copago||S|sla|B2
+der Eigenanteil|parte que paga el paciente||S|sla|B2
+die Kostenübernahme|asunción de gastos||S|sla|B2
+die Nebenwirkung|efecto secundario||S|sla|B2
+der Beipackzettel|prospecto||S|sla|B2
+die Dosis|dosis||S|sla|B2
+die Untersuchung|exploración médica||S|sla|B2
+die Blutabnahme|extracción de sangre||S|sla|B2
+der Befund|informe de resultados||S|sla|B2
+die Notaufnahme|urgencias||S|sla|B2
+der Notfall|emergencia||S|sla|B2
+der Rettungsdienst|servicio de emergencias||S|sla|B2
+die Warteschlange|cola de espera||S|sla|B2
+die Rehabilitation|rehabilitación||S|sla|B2
+das Altersheim|residencia de ancianos||S|ist|B2
+die Patientenakte|historial del paciente||S|sla|B2
+die Schweigepflicht|deber de confidencialidad||S|sla|B2
+die Patientenverfügung|testamento vital||S|sla|B2
+der Versicherte|asegurado||S|ist|B2
+der Behandlungsplan|plan de tratamiento||S|sla|B2
+die Therapie|terapia||S|sla|B2
+die Psychotherapie|psicoterapia||S|sla|B2
+rezeptpflichtig|solo con receta médica||A|sla|B2

@@ -1,0 +1,271 @@
+die Devisenknappheit|escasez de divisas||S|fin|C1
+das Mikrodarlehen|microcrédito||S|fin|C1
+die Nothilfe|ayuda de emergencia||S|fin|C1
+die Konfliktprävention|prevención de conflictos||S|ist|C1
+die Titration|valoración (titulación)||S|sci|C1
+die Probenvorbereitung|preparación de muestras||S|sci|C1
+die Wiederholgenauigkeit|repetibilidad||S|sci|C1
+die Chromatographie|cromatografía||S|sci|C1
+die Kalibrierkurve|curva de calibrado||S|sci|C1
+der Schadstoffnachweis|detección de contaminantes||S|sci|C1
+die Probenahme|toma de muestras||S|sci|C1
+die Reaktionsgleichung|ecuación química||S|sci|C1
+die Spurenanalyse|análisis de trazas||S|sci|C1
+pipettieren|pipetear||V|sci|C1
+die Extraktion|extracción||S|sci|C1
+das Lösungsmittel|disolvente||S|sci|C1
+die Molekülstruktur|estructura molecular||S|sci|C1
+die Verunreinigung|impureza||S|sci|C1
+die Analytik|analítica||S|sci|C1
+der Festkörper|cuerpo sólido||S|sci|C1
+die Gitterstruktur|estructura reticular||S|sci|C1
+die Sprödigkeit|fragilidad||S|sci|C1
+die Leitfähigkeit|conductividad||S|sci|C1
+der Phasenübergang|transición de fase||S|sci|C1
+die Kristallisation|cristalización||S|sci|C1
+die Wärmeausdehnung|dilatación térmica||S|sci|C1
+die Supraleitung|superconductividad||S|sci|C1
+die Legierung|aleación||S|sci|C1
+die Zugfestigkeit|resistencia a la tracción||S|sci|C1
+die Elastizitätsgrenze|límite elástico||S|sci|C1
+das Kristallgitter|red cristalina||S|sci|C1
+die Dotierung|dopaje del semiconductor||S|sci|C1
+amorph|amorfo||A|sci|C1
+die Werkstoffkunde|ciencia de los materiales||S|sci|C1
+das Wettergeschehen|fenómenos meteorológicos||S|cli|C1
+der Permafrost|permafrost||S|cli|C1
+die Erderwärmung|calentamiento global||S|cli|C1
+der Meeresspiegelanstieg|subida del nivel del mar||S|cli|C1
+die Ozonschicht|capa de ozono||S|cli|C1
+das Aerosol|aerosol||S|sci|C1
+das Klimamodell|modelo climático||S|sci|C1
+der Treibhauseffekt|efecto invernadero||S|cli|C1
+der Kipppunkt|punto de no retorno||S|cli|C1
+die Dürreperiode|período de sequía||S|cli|C1
+die Anpassungsstrategie|estrategia de adaptación||S|cli|C1
+der Emissionshandel|comercio de emisiones||S|cli|C1
+die Kryosphäre|criosfera||S|sci|C1
+die Entwaldung|deforestación||S|nat|C1
+die Emissionsreduktion|reducción de emisiones||S|cli|C1
+das Fossil|fósil||S|sci|C1
+der Fundort|yacimiento||S|sci|C1
+die Evolutionstheorie|teoría de la evolución||S|sci|C1
+die Artbildung|especiación||S|sci|C1
+das Sedimentgestein|roca sedimentaria||S|sci|C1
+das Aussterben|extinción||S|sci|C1
+der Fundhorizont|horizonte del yacimiento||S|sci|C1
+die Anpassung|adaptación||S|sci|C1
+der Schädel|cráneo||S|cor|C1
+die Ahnenreihe|linaje ancestral||S|sci|C1
+die Stammesgeschichte|filogenia||S|sci|C1
+ausgraben|excavar||V|sci|C1
+das Bindeglied|eslabón||S|sci|C1
+versteinern|fosilizarse||V|sci|C1
+die Ablagerung|depósito sedimentario||S|sci|C1
+die Virusvariante|variante vírica||S|sla|C1
+der Erreger|patógeno||S|sla|C1
+die Ansteckung|contagio||S|sla|C1
+die Inkubationszeit|período de incubación||S|sla|C1
+das Erbgut|material genético||S|sci|C1
+die Viruslast|carga vírica||S|sla|C1
+der Immunschutz|inmunidad protectora||S|sla|C1
+der Übertragungsweg|vía de transmisión||S|sla|C1
+das Enzym|enzima||S|sci|C1
+die Seuche|epidemia||S|sla|C1
+die Zoonose|zoonosis||S|sci|C1
+die Replikation|replicación||S|sci|C1
+das Genom|genoma||S|sci|C1
+die Virulenz|virulencia||S|sla|C1
+die Durchimpfung|grado de vacunación de la población||S|sla|C1
+die Genschere|tijera genética||S|sci|C1
+die Genmanipulation|manipulación genética||S|sci|C1
+die Sequenzierung|secuenciación||S|sci|C1
+das Erbmerkmal|carácter hereditario||S|sci|C1
+die Stammzelle|célula madre||S|sci|C1
+die Nukleinsäure|ácido nucleico||S|sci|C1
+die Keimbahn|línea germinal||S|sci|C1
+die Ausprägung|manifestación de un rasgo||S|sci|C1
+das Allel|alelo||S|sci|C1
+das Lebewesen|ser vivo||S|nat|C1
+der Doppelstrang|doble hélice||S|sci|C1
+die Keimzelle|célula germinal||S|sci|C1
+der Reparaturmechanismus|mecanismo de reparación||S|sci|C1
+das Basenpaar|par de bases||S|sci|C1
+die Klonierung|clonación||S|sci|C1
+die Gehirnaktivität|actividad cerebral||S|sci|C1
+die Bildgebung|formación de imágenes diagnósticas||S|sla|C1
+die Magnetresonanztomographie|resonancia magnética||S|sla|C1
+die Reizantwort|respuesta al estímulo||S|sci|C1
+die Hirnregion|región cerebral||S|sci|C1
+das Aktivierungsmuster|patrón de activación||S|sci|C1
+die Hirnrinde|corteza cerebral||S|cor|C1
+die Nervenzelle|neurona||S|sci|C1
+die Signalverarbeitung|procesamiento de señales||S|tec|C1
+die Versuchsperson|sujeto experimental||S|sci|C1
+der Ruhezustand|estado de reposo||S|sci|C1
+die Reizschwelle|umbral de estímulo||S|sci|C1
+die Kartierung|cartografiado||S|sci|C1
+die Kognitionsforschung|investigación cognitiva||S|sci|C1
+die Elektrophysiologie|electrofisiología||S|sci|C1
+die Nanotechnologie|nanotecnología||S|sci|C1
+das Nanopartikel|nanopartícula||S|sci|C1
+die Oberflächenbeschichtung|recubrimiento superficial||S|tec|C1
+der Verbundwerkstoff|material compuesto||S|sci|C1
+die Selbstreinigung|autolimpieza||S|tec|C1
+die Korngröße|tamaño de grano||S|sci|C1
+die Verschleißfestigkeit|resistencia al desgaste||S|sci|C1
+die Materialermüdung|fatiga del material||S|sci|C1
+das Beschichtungsverfahren|procedimiento de recubrimiento||S|tec|C1
+die Schichtdicke|espesor de capa||S|tec|C1
+die Materialeigenschaft|propiedad del material||S|sci|C1
+die Miniaturisierung|miniaturización||S|tec|C1
+die Kohlenstoffnanoröhre|nanotubo de carbono||S|sci|C1
+wasserabweisend|hidrófugo||A|tec|C1
+die Lichtbrechung|refracción de la luz||S|sci|C1
+die Wellenlänge|longitud de onda||S|sci|C1
+die Schallausbreitung|propagación del sonido||S|sci|C1
+die Brennweite|distancia focal||S|sci|C1
+die Spektralanalyse|análisis espectral||S|sci|C1
+das Prisma|prisma||S|sci|C1
+das Photon|fotón||S|sci|C1
+die Streuung|dispersión de la luz||S|sci|C1
+die Schallwelle|onda sonora||S|sci|C1
+das Hörvermögen|capacidad auditiva||S|cor|C1
+die Interferenz|interferencia||S|sci|C1
+der Laserstrahl|haz láser||S|tec|C1
+die Faseroptik|fibra óptica||S|tec|C1
+schalldicht|insonorizado||A|tec|C1
+das Farbspektrum|espectro de colores||S|sci|C1
+die Konvektion|convección||S|sci|C1
+der Kreisprozess|ciclo termodinámico||S|sci|C1
+die Strömungslehre|mecánica de fluidos||S|sci|C1
+die Turbulenz|turbulencia||S|sci|C1
+die Viskosität|viscosidad||S|sci|C1
+der Siedepunkt|punto de ebullición||S|sci|C1
+die Enthalpie|entalpía||S|sci|C1
+die Laminarströmung|flujo laminar||S|sci|C1
+der Druckabfall|caída de presión||S|sci|C1
+die Verdichtung|compresión||S|sci|C1
+die Entropie|entropía||S|sci|C1
+der Wärmetauscher|intercambiador de calor||S|sci|C1
+der Volumenstrom|caudal volumétrico||S|sci|C1
+adiabatisch|adiabático||A|sci|C1
+die Verlustleistung|potencia disipada||S|sci|C1
+die Landvermessung|agrimensura||S|tec|C1
+der Kartenmaßstab|escala cartográfica||S|tec|C1
+die Fernerkundung|teledetección||S|sci|C1
+die Luftaufnahme|fotografía aérea||S|tec|C1
+die Satellitenaufnahme|imagen satelital||S|sci|C1
+der Vermessungspunkt|punto geodésico||S|tec|C1
+die Geodäsie|geodesia||S|sci|C1
+die Höhenlinie|curva de nivel||S|sci|C1
+die Positionsangabe|dato de posición||S|tec|C1
+das Koordinatensystem|sistema de coordenadas||S|sci|C1
+der Kartenausschnitt|recorte cartográfico||S|tec|C1
+die Auflösung|resolución||S|tec|C1
+die Flächennutzung|uso del suelo||S|sci|C1
+das Geländemodell|modelo del terreno||S|tec|C1
+der Jambus|yambo||S|let|C1
+der Trochäus|troqueo||S|let|C1
+der Daktylus|dáctilo||S|let|C1
+die Kadenz|cadencia||S|let|C1
+das Reimschema|esquema de rima||S|let|C1
+die Alliteration|aliteración||S|let|C1
+der Auftakt|anacrusis||S|let|C1
+die Zäsur|cesura||S|let|C1
+die Strophenform|forma estrófica||S|let|C1
+die Assonanz|asonancia||S|let|C1
+der Hexameter|hexámetro||S|let|C1
+die Prosodie|prosodia||S|let|C1
+der Knittelvers|verso de arte menor alemán||S|let|C1
+die Betonungsmuster|patrón acentual||S|let|C1
+freier Vers|verso libre||L|let|C1
+das Volksstück|drama costumbrista||S|art|C1
+die Tragödie|tragedia||S|art|C1
+das Lustspiel|comedia clásica||S|art|C1
+der Titelheld|protagonista epónimo||S|let|C1
+die Regieanweisung|acotación||S|let|C1
+episches Theater|teatro épico||L|art|C1
+vierte Wand|cuarta pared||L|art|C1
+das Boulevardtheater|teatro comercial||S|art|C1
+die Bühnentechnik|técnica escénica||S|art|C1
+der Mime|mimo||S|art|C1
+die Rollengestaltung|construcción del personaje||S|art|C1
+die Generalprobe|ensayo general||S|art|C1
+das Stationendrama|drama episódico||S|let|C1
+die Dramaturgie|dramaturgia||S|let|C1
+der Schnürboden|parrilla teatral||S|art|C1
+die Symbolik|simbología||S|let|C1
+die Allegorie|alegoría||S|let|C1
+die Metonymie|metonimia||S|let|C1
+die Chiffre|cifra simbólica||S|let|C1
+das Oxymoron|oxímoron||S|let|C1
+die Hyperbel|hipérbole||S|let|C1
+das Paradoxon|paradoja||S|let|C1
+die Anspielung|alusión||S|let|C1
+die Bildlichkeit|imaginería||S|let|C1
+die Ambivalenz|ambivalencia||S|ast|C1
+die Verfremdung|extrañamiento||S|let|C1
+das Sinnbild|símbolo figurado||S|let|C1
+die Denkfigur|figura del pensamiento||S|ast|C1
+die Selbstironie|autoironía||S|let|C1
+die Mehrdeutigkeit|polisemia||S|let|C1
+die Philologie|filología||S|let|C1
+die Textüberlieferung|transmisión textual||S|let|C1
+die Handschrift|manuscrito||S|let|C1
+das Palimpsest|palimpsesto||S|let|C1
+die Textkritik|crítica textual||S|let|C1
+der Humanismus|humanismo||S|let|C1
+die Quellenkunde|estudio de las fuentes||S|let|C1
+die Glosse|glosa||S|let|C1
+die Antike|Antigüedad clásica||S|let|C1
+die Lesart|variante de lectura||S|let|C1
+die Altertumskunde|estudios de Antigüedad||S|let|C1
+überliefert|transmitido por tradición||A|let|C1
+die Etymologie|etimología||S|let|C1
+das Lemma|lema de diccionario||S|let|C1
+die Ausgangssprache|lengua de partida||S|let|C1
+die Zielsprache|lengua de llegada||S|let|C1
+die Äquivalenz|equivalencia||S|let|C1
+die Vorlage|texto fuente||S|let|C1
+der Dolmetscher|intérprete||S|pro|C1
+die Synchronfassung|versión doblada||S|cin|C1
+die Übersetzungswissenschaft|traductología||S|let|C1
+die Kulturvermittlung|mediación cultural||S|let|C1
+die Werktreue|fidelidad a la obra||S|let|C1
+sinngemäß|con el mismo sentido||A|let|C1
+das Konsekutivdolmetschen|interpretación consecutiva||S|let|C1
+der Kulturtransfer|transferencia cultural||S|let|C1
+die Unübersetzbarkeit|intraducibilidad||S|let|C1
+der Fremdsprachenunterricht|enseñanza de idiomas||S|stu|C1
+die Bearbeitung|adaptación||S|let|C1
+der Essayist|ensayista||S|let|C1
+der Argumentationsgang|hilo argumentativo||S|ast|C1
+die Streitschrift|panfleto||S|let|C1
+die Geisteshaltung|mentalidad||S|ast|C1
+die Diskursanalyse|análisis del discurso||S|ast|C1
+das Urteilsvermögen|capacidad de juicio||S|ast|C1
+widerlegen|refutar||V|ast|C1
+die Anmaßung|presunción||S|ast|C1
+das Werturteil|juicio de valor||S|ast|C1
+die Erkenntnistheorie|teoría del conocimiento||S|ast|C1
+die Schlussfolgerung|inferencia||S|ast|C1
+der Trugschluss|falacia||S|ast|C1
+das Gedankengebäude|armazón conceptual||S|ast|C1
+hinterfragen|cuestionar||V|ast|C1
+die Ideengeschichte|historia de las ideas||S|ast|C1
+die Utopie|utopía||S|let|C1
+die Endzeit|fin de los tiempos||S|let|C1
+der Zukunftsentwurf|proyecto de futuro||S|let|C1
+das Weltuntergangsszenario|escenario apocalíptico||S|let|C1
+die Zeitmaschine|máquina del tiempo||S|let|C1
+der Fortschrittsglaube|fe en el progreso||S|ast|C1
+die Schreckensherrschaft|régimen de terror||S|ast|C1
+der Androide|androide||S|let|C1
+die Überwachung|vigilancia||S|ast|C1
+der Übermensch|superhombre||S|let|C1
+die Herrschaftsform|forma de dominación||S|ist|C1
+das Menschenbild|concepción del ser humano||S|ast|C1
+die Scheinwelt|mundo ilusorio||S|let|C1
+unheimlich|siniestro||A|let|C1
+die Zukunftsmusik|quimera del porvenir||S|let|C1

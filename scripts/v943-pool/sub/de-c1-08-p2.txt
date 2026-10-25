@@ -1,0 +1,273 @@
+die Streuung|la dispersión estadística||S|sci|C1
+die Verzerrung|el sesgo sistemático||S|sci|C1
+die Nullhypothese|la hipótesis nula||S|sci|C1
+die Zufallsauswahl|la selección aleatoria||S|sci|C1
+die Operationalisierung|la operacionalización de variables||S|sci|C1
+replizieren|replicar un estudio||V|sci|C1
+die Messgenauigkeit|la precisión de medición||S|sci|C1
+der Korrelationskoeffizient|el coeficiente de correlación||S|sci|C1
+die Auswertung|el análisis de los datos||S|sci|C1
+der Ausreißer|el valor atípico||S|sci|C1
+die Blindstudie|el estudio a simple ciego||S|sci|C1
+die Extrapolation|la extrapolación de resultados||S|sci|C1
+die Ansteckungskette|la cadena de contagio||S|sla|C1
+die Inzidenz|la incidencia epidemiológica||S|sla|C1
+die Meldepflicht|la obligación de notificación||S|sla|C1
+die Durchseuchung|la inmunidad por contagio natural||S|sla|C1
+die Erkrankungswelle|la ola de contagios||S|sla|C1
+der Ausbruch|el brote epidémico||S|sla|C1
+die Dunkelziffer|la cifra oculta de casos||S|sla|C1
+die Kontaktnachverfolgung|el rastreo de contactos||S|sla|C1
+die Impfkampagne|la campaña de vacunación||S|sla|C1
+die Gesundheitsvorsorge|la prevención sanitaria||S|sla|C1
+die Übersterblichkeit|el exceso de mortalidad||S|sla|C1
+die Tröpfcheninfektion|la infección por gotitas||S|sla|C1
+die Ausgangssperre|el toque de queda sanitario||S|ist|C1
+die Prävalenz|la prevalencia||S|sla|C1
+die Herdenimmunität|la inmunidad de grupo||S|sla|C1
+die Erdkruste|la corteza terrestre||S|sci|C1
+die Plattentektonik|la tectónica de placas||S|sci|C1
+die Magmakammer|la cámara magmática||S|sci|C1
+die Verwitterung|la meteorización||S|sci|C1
+die Sedimentation|la sedimentación||S|sci|C1
+das Nachbeben|la réplica sísmica||S|sci|C1
+die Gesteinsschicht|el estrato rocoso||S|sci|C1
+die Ablagerung|el depósito sedimentario||S|sci|C1
+der Vulkanausbruch|la erupción volcánica||S|sci|C1
+die Tiefenbohrung|la perforación profunda||S|sci|C1
+die Gebirgsbildung|la orogénesis||S|sci|C1
+das Erdmagnetfeld|el campo magnético terrestre||S|sci|C1
+die Plattengrenze|el borde entre placas||S|sci|C1
+der Steinschlag|el desprendimiento de piedras||S|nat|C1
+die Verwerfung|la falla geológica||S|sci|C1
+die Beweisführung|la argumentación demostrativa||S|sci|C1
+der Grenzwert|el límite de una sucesión||S|sci|C1
+die Differentialrechnung|el cálculo diferencial||S|sci|C1
+die Mengenlehre|la teoría de conjuntos||S|sci|C1
+die Aussagenlogik|la lógica de enunciados||S|sci|C1
+die Widerspruchsfreiheit|la consistencia lógica||S|sci|C1
+das Axiom|el axioma||S|sci|C1
+die Folgerichtigkeit|el rigor deductivo||S|sci|C1
+die Näherungslösung|la solución aproximada||S|sci|C1
+die Unbekannte|la incógnita||S|sci|C1
+die Integralrechnung|el cálculo integral||S|sci|C1
+der Rundungsfehler|el error de redondeo||S|sci|C1
+die Unendlichkeit|el infinito matemático||S|sci|C1
+schlussfolgern|inferir una conclusión||V|sci|C1
+die Stochastik|la estocástica||S|sci|C1
+die Werkinterpretation|la interpretación de la obra||S|let|C1
+der Kanon|el canon literario||S|let|C1
+die Rezeptionsästhetik|la estética de la recepción||S|let|C1
+die Textstelle|el pasaje del texto||S|let|C1
+das Beziehungsgeflecht|la red de relaciones narrativas||S|let|C1
+die Deutungshoheit|la autoridad interpretativa||S|let|C1
+die Lesart|la lectura interpretativa||S|let|C1
+der Interpretationsansatz|el enfoque interpretativo||S|let|C1
+das Schrifttum|el conjunto de escritos||S|let|C1
+die Dichtkunst|el arte poético||S|let|C1
+das Sprachkunstwerk|la obra de arte verbal||S|let|C1
+die Exegese|la exégesis textual||S|let|C1
+das Gesamtwerk|la obra completa||S|let|C1
+der Literaturbetrieb|la industria literaria||S|let|C1
+die Werktreue|la fidelidad a la obra||S|let|C1
+die Anapher|la anáfora||S|let|C1
+das Chiasmus|el quiasmo||S|let|C1
+die Hyperbel|la hipérbole||S|let|C1
+der Jambus|el yambo||S|let|C1
+das Reimschema|el esquema de rima||S|let|C1
+die Alliteration|la aliteración||S|let|C1
+die Redefigur|la figura retórica||S|let|C1
+die Klimax|la gradación||S|let|C1
+die Antithese|la antítesis||S|let|C1
+der Daktylus|el dáctilo||S|let|C1
+die Ellipse|la elipsis||S|let|C1
+das Stilmittel|el recurso estilístico||S|let|C1
+die Periphrase|la perífrasis||S|let|C1
+beredt|elocuente||A|let|C1
+der Auftakt|la anacrusis||S|mus|C1
+die Erzählperspektive|la perspectiva narrativa||S|let|C1
+der Wendepunkt|el punto de giro||S|let|C1
+die Rahmenhandlung|el marco narrativo||S|let|C1
+der innere Monolog|el monólogo interior||E|let|C1
+die Erzählhaltung|la actitud narrativa||S|let|C1
+der Handlungsstrang|la línea argumental||S|let|C1
+das offene Ende|el final abierto||E|let|C1
+die Rückblende|la analepsis||S|cin|C1
+der Spannungsbogen|el arco de tensión dramática||S|let|C1
+die Figurenkonstellation|la constelación de personajes||S|let|C1
+die Raffung|la aceleración narrativa||S|let|C1
+die Vorausdeutung|la prolepsis||S|let|C1
+die Begebenheit|el suceso narrado||S|let|C1
+die Ich-Erzählung|la narración en primera persona||S|let|C1
+die Allwissenheit|la omnisciencia narrativa||S|let|C1
+die Fügung|el designio del destino||S|let|C1
+das Weh|el pesar íntimo||S|let|C1
+verklungen|desvanecido en un eco lejano||A|let|C1
+der Minnesang|la lírica amorosa cortesana||S|let|C1
+die Lobeshymne|el panegírico||S|let|C1
+die Totenklage|el planto fúnebre||S|let|C1
+verweht|esfumado por el viento||A|let|C1
+die Mondnacht|la noche de luna||S|let|C1
+das Abendrot|el crepúsculo rojizo||S|let|C1
+die Tränenflut|el torrente de lágrimas||S|let|C1
+der Sang|el canto poético||S|let|C1
+die Klage|el lamento elegíaco||S|let|C1
+hold|hermoso y amable||A|let|C1
+das Ross|el corcel||S|let|C1
+der Fackelschein|el resplandor de antorchas||S|let|C1
+die Erkenntnistheorie|la teoría del conocimiento||S|ast|C1
+die Begründbarkeit|la justificabilidad||S|ast|C1
+der Skeptizismus|el escepticismo filosófico||S|ast|C1
+die Willensfreiheit|el libre albedrío||S|ast|C1
+die Tugendlehre|la doctrina de las virtudes||S|ast|C1
+die Pflichtethik|la ética del deber||S|ast|C1
+das Vernunftwesen|el ser racional||S|ast|C1
+die Gewissensnot|la angustia de conciencia||S|ast|C1
+die Zurechnungsfähigkeit|la imputabilidad||S|ast|C1
+das Laster|el vicio||S|ast|C1
+der Gewissenskonflikt|el conflicto de conciencia||S|ast|C1
+die Verblendung|la ofuscación||S|ast|C1
+erkenntnistheoretisch|epistemológico||A|ast|C1
+die Selbsttäuschung|el autoengaño||S|ast|C1
+die Zumutung|la exigencia inaceptable||S|ast|C1
+die Seinsweise|el modo de ser||S|ast|C1
+das Ding an sich|la cosa en sí||L|ast|C1
+die Endlichkeit|la finitud||S|ast|C1
+die Sinnfrage|la pregunta por el sentido||S|ast|C1
+die Wesensschau|la intuición de la esencia||S|ast|C1
+das Erhabene|lo sublime||S|art|C1
+das Schönheitsideal|el ideal de belleza||S|art|C1
+das Geschmacksurteil|el juicio de gusto||S|art|C1
+die Kontemplation|la contemplación||S|ast|C1
+das Übersinnliche|lo suprasensible||S|ast|C1
+das Wesensmerkmal|el rasgo esencial||S|ast|C1
+die Zeitlichkeit|la temporalidad||S|ast|C1
+die Grundstimmung|el tono afectivo fundamental||S|ast|C1
+das Nichts|la nada||S|ast|C1
+vergehen|perecer con el tiempo||V|ast|C1
+die Geschichtsschreibung|la historiografía||S|ast|C1
+die Datierung|la datación||S|tmp|C1
+die Quellenlage|el estado de las fuentes||S|ast|C1
+die Urkundenfälschung|la falsificación de documentos||S|ast|C1
+der Zeitzeuge|el testigo de su época||S|ast|C1
+die Epochenwende|el cambio de época||S|ast|C1
+die Überlieferung|la transmisión histórica||S|ast|C1
+die Geschichtsdeutung|la interpretación de la historia||S|ast|C1
+der Umbruch|la ruptura histórica||S|ast|C1
+die Herrschaftsform|la forma de gobierno||S|ist|C1
+die Frühgeschichte|la protohistoria||S|ast|C1
+die Nachwirkung|la repercusión posterior||S|ast|C1
+die Erinnerungskultur|la cultura de la memoria||S|ast|C1
+die Gedenkstätte|el lugar de memoria||S|ast|C1
+die Quellenkritik|la crítica de las fuentes||S|ast|C1
+die Linguistik|la lingüística||S|stu|C1
+das Wortfeld|el campo léxico||S|stu|C1
+die Etymologie|la etimología||S|stu|C1
+der Sprachwandel|el cambio lingüístico||S|stu|C1
+das Fremdwort|el extranjerismo||S|stu|C1
+die Flexion|la flexión morfológica||S|stu|C1
+das Althochdeutsch|el alto alemán antiguo||S|stu|C1
+die Lautverschiebung|el desplazamiento consonántico||S|stu|C1
+der Sprachgebrauch|el uso lingüístico||S|stu|C1
+die Interjektion|la interjección||S|stu|C1
+der Numerus|el número gramatical||S|stu|C1
+die Semantik|la semántica||S|stu|C1
+die Philologie|la filología||S|stu|C1
+die Einzelsprache|la lengua individual||S|stu|C1
+die Morphologie|la morfología||S|stu|C1
+das Unbewusste|el inconsciente||S|ast|C1
+die Verdrängung|la represión||S|ast|C1
+der Ödipuskomplex|el complejo de Edipo||S|ast|C1
+die Übertragung|la transferencia analítica||S|ast|C1
+die Traumdeutung|la interpretación de los sueños||S|ast|C1
+die Triebfeder|el resorte pulsional||S|ast|C1
+die Kulturindustrie|la industria cultural||S|ast|C1
+die Regression|la regresión psíquica||S|ast|C1
+die Fehlleistung|el acto fallido||S|ast|C1
+die Charakterstruktur|la estructura del carácter||S|ast|C1
+das Ich-Ideal|el ideal del yo||S|ast|C1
+die Dialektik der Aufklärung|la dialéctica de la Ilustración||L|ast|C1
+das Unbehagen|el desasosiego||S|ast|C1
+der Abwehrmechanismus|el mecanismo de defensa||S|ast|C1
+die Nachträglichkeit|la acción psíquica diferida||S|ast|C1
+die Einflusssphäre|la esfera de influencia||S|ist|C1
+der Pufferstaat|el Estado tapón||S|ist|C1
+die Entspannung|la distensión internacional||S|ist|C1
+der Schwellenstaat|el país emergente||S|ist|C1
+der Grenzstreit|la disputa fronteriza||S|ist|C1
+die Militärallianz|la alianza militar||S|ist|C1
+das Sanktionsregime|el régimen de sanciones||S|ist|C1
+die Vorherrschaft|la hegemonía||S|ist|C1
+die Blockfreiheit|la no alineación||S|ist|C1
+die Weltordnung|el orden mundial||S|ist|C1
+der Friedensschluss|la firma de la paz||S|ist|C1
+das Hinterland|las tierras interiores de un país||S|ist|C1
+der Machtanspruch|la pretensión de poder||S|ist|C1
+die Einmischung|la injerencia||S|ist|C1
+der Hegemonialanspruch|la aspiración hegemónica||S|ist|C1
+die Daseinsvorsorge|los servicios públicos esenciales||S|ist|C1
+das Gemeinwohl|el bien común||S|ist|C1
+die Bürgerbeteiligung|la participación ciudadana||S|ist|C1
+die Sozialpolitik|la política social||S|ist|C1
+die Lobbyarbeit|el cabildeo||S|ist|C1
+die Rechtsstaatlichkeit|el Estado de derecho||S|ist|C1
+die Grundversorgung|el suministro básico garantizado||S|ist|C1
+die Landesverteidigung|la defensa nacional||S|ist|C1
+der Verwaltungsakt|el acto administrativo||S|ist|C1
+der Gestaltungsspielraum|el margen de maniobra||S|ist|C1
+die Umverteilung|la redistribución de la riqueza||S|ist|C1
+die Tarifautonomie|la autonomía de la negociación colectiva||S|ist|C1
+das Mandat|el mandato parlamentario||S|ist|C1
+die Koalitionsverhandlung|la negociación de coalición||S|ist|C1
+die Zweitstimme|el voto de lista||S|ist|C1
+die soziale Schichtung|la estratificación social||E|ast|C1
+die Individualisierung|la individualización||S|ast|C1
+der Habitus|el habitus social||S|ast|C1
+die Bewusstseinsveränderung|el cambio de mentalidad||S|ast|C1
+die Ausgrenzung|la exclusión social||S|ast|C1
+die Zuwanderung|la inmigración||S|ast|C1
+die Vereinzelung|la atomización social||S|ast|C1
+die Subkultur|la subcultura||S|ast|C1
+die Rollenerwartung|la expectativa de rol||S|ast|C1
+der Generationenvertrag|el contrato intergeneracional||S|ast|C1
+die Sozialstruktur|la estructura social||S|ast|C1
+die Umbruchszeit|la época de convulsión||S|ast|C1
+die Lebensführung|la conducción de la vida||S|ast|C1
+die Ausdifferenzierung|la diferenciación funcional||S|ast|C1
+der Bevölkerungsrückgang|el descenso demográfico||S|ast|C1
+die Ethnologie|la etnología||S|ast|C1
+der Ritus|el rito||S|ast|C1
+die Volkskunde|la etnografía tradicional||S|ast|C1
+die Stammesgesellschaft|la sociedad tribal||S|ast|C1
+das Brauchtum|las costumbres tradicionales||S|ast|C1
+die Feldforschung|el trabajo de campo||S|ast|C1
+der Kulturbesitz|el patrimonio cultural||S|art|C1
+die Weltanschauung|la concepción del mundo||S|ast|C1
+die Besessenheit|la posesión espiritual||S|ast|C1
+der Ahnenkult|el culto a los antepasados||S|ast|C1
+der Initiationsritus|el rito de iniciación||S|ast|C1
+der Kulturrelativismus|el relativismo cultural||S|ast|C1
+die Volksfrömmigkeit|la religiosidad popular||S|ast|C1
+der Schamanismus|el chamanismo||S|ast|C1
+die Hochkultur|la civilización avanzada||S|ast|C1
+die Recherche|la investigación periodística||S|cmu|C1
+der Aufmacher|el titular de portada||S|cmu|C1
+der Leitartikel|el editorial||S|cmu|C1
+der Pressekodex|el código deontológico de la prensa||S|cmu|C1
+der Whistleblower|el denunciante interno||S|pro|C1
+die Veröffentlichungssperre|la prohibición de publicación||S|ist|C1
+die Berichterstattung|la cobertura informativa||S|cmu|C1
+der Enthüllungsjournalismus|el periodismo de investigación||S|cmu|C1
+die Meinungsbildung|la formación de la opinión pública||S|cmu|C1
+die Glosse|la glosa satírica||S|cmu|C1
+die Boulevardpresse|la prensa sensacionalista||S|cmu|C1
+die Pressemitteilung|la nota de prensa||S|cmu|C1
+der Ombudsmann|el defensor del lector||S|pro|C1
+zensieren|censurar||V|cmu|C1
+die Namensnennung|la mención de nombres||S|cmu|C1
+die Tonart|la tonalidad||S|mus|C1
+das Metrum|el compás métrico||S|mus|C1
+die Kadenz|la cadencia||S|mus|C1
+das Motiv|el motivo melódico||S|mus|C1
+die Zwölftonmusik|la música dodecafónica||S|mus|C1
+der Kontrapunkt|el contrapunto||S|mus|C1

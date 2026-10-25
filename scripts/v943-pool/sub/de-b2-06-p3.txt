@@ -1,0 +1,288 @@
+die Gerechtigkeit|justicia||S|ast|B2
+die Ungerechtigkeit|injusticia||S|ast|B2
+die Fairness|juego limpio||S|ast|B2
+die Wahrheit|verdad||S|ast|B2
+wahr|verdadero||A|ast|B2
+die Aufrichtigkeit|sinceridad||S|ast|B2
+aufrichtig|sincero||A|ast|B2
+die Ehrlichkeit|honestidad||S|ast|B2
+ehrlich|honesto||A|ast|B2
+die Lüge|mentira||S|ast|B2
+lügen|mentir||V|ast|B2
+die Täuschung|engaño||S|ast|B2
+täuschen|engañar||V|ast|B2
+die Schönheit|belleza||S|ast|B2
+die Ästhetik|estética||S|ast|B2
+ästhetisch|estético||A|ast|B2
+die Harmonie|armonía||S|ast|B2
+das Schönheitsideal|canon de belleza||S|ast|B2
+die Vollkommenheit|perfección||S|ast|B2
+vollkommen|pleno y perfecto||A|ast|B2
+die Tugend|virtud||S|ast|B2
+das Laster|vicio||S|ast|B2
+die Ehre|honor||S|ast|B2
+die Würde|dignidad||S|ast|B2
+der Sinn|sentido||S|ast|B2
+der Unsinn|disparate||S|ast|B2
+der Zweifel|duda||S|ast|B2
+die Gewissheit|certeza||S|ast|B2
+die Vermutung|suposición||S|ast|B2
+vermuten|suponer||V|ast|B2
+die Hingabe|entrega||S|ast|B2
+die Erfüllung|realización personal||S|ast|B2
+die Epoche|época||S|art|B2
+die Strömung|corriente artística||S|art|B2
+der Stil|estilo||S|art|B2
+der Impressionismus|impresionismo||S|art|B2
+der Expressionismus|expresionismo||S|art|B2
+der Kubismus|cubismo||S|art|B2
+der Surrealismus|surrealismo||S|art|B2
+die Romantik|romanticismo||S|art|B2
+die Moderne|modernidad||S|art|B2
+die abstrakte Kunst|arte abstracto||L|art|B2
+das Motiv|motivo||S|art|B2
+die Bildhauerei|arte escultórico||S|art|B2
+der Bildhauer|escultor||S|art|B2
+die Skulptur|escultura||S|art|B2
+die Leinwand|lienzo||S|art|B2
+die Palette|paleta||S|art|B2
+der Farbton|tonalidad||S|art|B2
+das Muster|dibujo o patrón||S|art|B2
+die Komposition|composición||S|art|B2
+die Perspektive|perspectiva||S|art|B2
+die Ausstellung|exposición||S|art|B2
+die Vernissage|inauguración de una exposición||S|art|B2
+der Kunsthändler|marchante de arte||S|art|B2
+der Kunstliebhaber|amante del arte||S|art|B2
+das Kunstwerk|obra de arte||S|art|B2
+die Retrospektive|retrospectiva||S|art|B2
+das Stillleben|naturaleza muerta||S|art|B2
+der Akt|desnudo artístico||S|art|B2
+die Radierung|grabado al aguafuerte||S|art|B2
+das Aquarell|acuarela||S|art|B2
+der Restaurator|restaurador de obras de arte||S|art|B2
+das Atelier|taller de artista||S|art|B2
+der Baustil|estilo arquitectónico||S|art|B2
+die Fassade|fachada||S|art|B2
+der Grundriss|planta de un edificio||S|art|B2
+die Kuppel|cúpula||S|art|B2
+die Säule|columna||S|art|B2
+der Rundbogen|arco de medio punto||S|art|B2
+der Glockenturm|campanario||S|art|B2
+der Kirchturm|torre de iglesia||S|art|B2
+der Dom|catedral||S|art|B2
+das Kloster|monasterio||S|art|B2
+die Burg|castillo fortificado||S|art|B2
+die Renovierung|renovación||S|art|B2
+renovieren|renovar||V|art|B2
+die Sanierung|rehabilitación||S|art|B2
+die Restaurierung|restauración||S|art|B2
+das Denkmal|monumento conmemorativo||S|art|B2
+die Denkmalpflege|conservación del patrimonio||S|art|B2
+die Gedenkstätte|lugar conmemorativo||S|art|B2
+das Welterbe|patrimonio de la humanidad||S|art|B2
+die Altstadt|casco antiguo||S|cit|B2
+das Rathaus|ayuntamiento||S|cit|B2
+die Freitreppe|escalinata||S|art|B2
+der Erker|mirador saledizo||S|art|B2
+das Fachwerkhaus|casa de entramado de madera||S|art|B2
+der Ziegel|ladrillo||S|art|B2
+der Sandstein|piedra arenisca||S|art|B2
+der Architekt|arquitecto||S|pro|B2
+das Bauwerk|construcción||S|art|B2
+das Fundament|cimiento||S|art|B2
+der Einsturz|derrumbe||S|art|B2
+das Baugerüst|andamio||S|art|B2
+die Stadtplanung|urbanismo||S|cit|B2
+die Hausgemeinschaft|comunidad de vecinos||S|cas|B2
+die Hausordnung|normas de convivencia del edificio||S|cas|B2
+die Eigentümerversammlung|junta de propietarios||S|cas|B2
+der Hausmeister|encargado del edificio||S|cas|B2
+der Vermieter|casero||S|cas|B2
+der Mieter|inquilino||S|cas|B2
+die Hausverwaltung|administración de fincas||S|cas|B2
+die Nebenkosten|gastos comunitarios||S|cas|B2
+die Wohngemeinschaft|piso compartido||S|cas|B2
+die Ruhestörung|molestia por ruido||S|cas|B2
+die Beschwerde|queja||S|cas|B2
+sich beschweren|quejarse||V|cas|B2
+der Streit|conflicto entre vecinos||S|cas|B2
+sich streiten|discutir||V|cas|B2
+sich vertragen|reconciliarse||L|cas|B2
+die Absprache|pacto verbal||S|cas|B2
+das Mehrfamilienhaus|bloque de pisos||S|cas|B2
+das Reihenhaus|casa adosada||S|cas|B2
+der Hinterhof|patio interior||S|cas|B2
+der Abstellraum|trastero||S|cas|B2
+der Aufzug|ascensor||S|cas|B2
+die Mülltonne|contenedor de basura||S|cas|B2
+das Treppenhaus|escalera del edificio||S|cas|B2
+der Hausflur|portal del edificio||S|cas|B2
+der Bewohner|residente||S|cit|B2
+die Wohnanlage|urbanización||S|cas|B2
+die Grünanlage|zona verde||S|cit|B2
+der Bolzplatz|campo de fútbol del barrio||S|cit|B2
+der Schrebergarten|huerto urbano||S|cit|B2
+das Zusammenleben|convivencia||S|cit|B2
+das Ehrenamt|voluntariado||S|cit|B2
+die Vermittlung|mediación||S|cit|B2
+die Zutat|ingrediente||S|ali|B2
+der Nährwert|valor nutricional||S|ali|B2
+die Nährwertangabe|información nutricional||S|ali|B2
+die Kalorie|caloría||S|ali|B2
+das Etikett|etiqueta||S|ali|B2
+die Zutatenliste|lista de ingredientes||S|ali|B2
+der Konservierungsstoff|conservante||S|ali|B2
+der Farbstoff|colorante||S|ali|B2
+der Geschmacksverstärker|potenciador del sabor||S|ali|B2
+der Fettgehalt|contenido en grasa||S|ali|B2
+der Zuckergehalt|contenido en azúcar||S|ali|B2
+gesättigt|saturado||A|ali|B2
+der Ballaststoff|fibra alimentaria||S|ali|B2
+das Vollkornbrot|pan integral||S|ali|B2
+das Eiweiß|proteína||S|ali|B2
+das Kohlenhydrat|hidrato de carbono||S|ali|B2
+die Vitaminzufuhr|aporte de vitaminas||S|ali|B2
+die Ernährung|alimentación||S|ali|B2
+ernähren|alimentar||V|ali|B2
+das Mindesthaltbarkeitsdatum|fecha de consumo preferente||S|ali|B2
+das Verbrauchsdatum|fecha de caducidad||S|ali|B2
+die Portionsgröße|tamaño de porción||S|ali|B2
+das Fertiggericht|plato preparado||S|ali|B2
+die Tiefkühlkost|comida congelada||S|ali|B2
+verarbeiten|procesar alimentos||V|ali|B2
+das Süßungsmittel|edulcorante||S|ali|B2
+raffiniert|refinado||A|ali|B2
+die Fettsäure|ácido graso||S|ali|B2
+das Rapsöl|aceite de colza||S|ali|B2
+die Unverträglichkeit|intolerancia alimentaria||S|ali|B2
+das Spurenelement|oligoelemento||S|ali|B2
+die Zubereitung|preparación de alimentos||S|ali|B2
+der Fernzug|tren de larga distancia||S|tra|B2
+der Nachtzug|tren nocturno||S|tra|B2
+der Bahnsteig|andén||S|tra|B2
+der Schaffner|revisor||S|tra|B2
+der Fahrkartenautomat|máquina expendedora de billetes||S|tra|B2
+die Sitzplatzreservierung|reserva de asiento||S|tra|B2
+reservieren|reservar||V|tra|B2
+der Speisewagen|vagón restaurante||S|tra|B2
+der Schlafwagen|vagón cama||S|tra|B2
+die Hinfahrt|trayecto de ida||S|tra|B2
+die Rückfahrt|trayecto de vuelta||S|tra|B2
+der Umstieg|transbordo||S|tra|B2
+umsteigen|hacer transbordo||V|tra|B2
+der Anschluss|enlace de tren||S|tra|B2
+die Verspätung|retraso||S|tra|B2
+verspätet|con retraso||A|tra|B2
+der Fahrplan|horario de trenes||S|tra|B2
+das Reisegepäck|equipaje de viaje||S|tra|B2
+die Grenzkontrolle|control de fronteras||S|tra|B2
+der Zoll|aduana||S|tra|B2
+der Reisende|viajero||S|vig|B2
+die Hin- und Rückfahrkarte|billete de ida y vuelta||S|tra|B2
+der Sparpreis|tarifa reducida||S|tra|B2
+die Endstation|estación terminus||S|tra|B2
+der Zwischenstopp|parada intermedia||S|tra|B2
+die Strecke|trayecto||S|tra|B2
+die Durchsage|anuncio por megafonía||S|tra|B2
+die Wartehalle|sala de espera||S|tra|B2
+das Abteil|compartimento||S|tra|B2
+die Langstrecke|recorrido de larga distancia||S|tra|B2
+die Ankunftstafel|panel de llegadas||S|tra|B2
+das Nichtraucherabteil|compartimento para no fumadores||S|tra|B2
+die Verletzung|lesión||S|sla|B2
+sich verletzen|lesionarse||V|sla|B2
+die Wunde|herida||S|sla|B2
+die Schürfwunde|rozadura||S|sla|B2
+die Blutung|hemorragia||S|sla|B2
+der Verband|vendaje||S|sla|B2
+verbinden|vendar||V|sla|B2
+das Pflaster|tirita||S|sla|B2
+die Schiene|férula||S|sla|B2
+die Schwellung|hinchazón||S|sla|B2
+anschwellen|hincharse||V|sla|B2
+das Hämatom|hematoma||S|sla|B2
+der Hitzschlag|golpe de calor||S|sla|B2
+die Unterkühlung|hipotermia||S|sla|B2
+der Rettungsdienst|servicio de emergencias||S|sla|B2
+die Wiederbelebung|reanimación||S|sla|B2
+die Herzdruckmassage|masaje cardiaco||S|sla|B2
+die stabile Seitenlage|posición lateral de seguridad||L|sla|B2
+der Notruf|llamada de emergencia||S|sla|B2
+der Erste-Hilfe-Kurs|curso de primeros auxilios||S|sla|B2
+die Vergiftung|intoxicación||S|sla|B2
+vergiften|envenenar||V|sla|B2
+die Bewusstlosigkeit|inconsciencia||S|sla|B2
+die Atemwege|vías respiratorias||S|sla|B2
+das Schmerzmittel|analgésico||S|sla|B2
+die örtliche Betäubung|anestesia local||L|sla|B2
+der Schmerz|dolor||S|sla|B2
+der Krampf|calambre||S|sla|B2
+der Knochenbruch|fractura||S|sla|B2
+der Bänderriss|rotura de ligamentos||S|sla|B2
+desinfizieren|desinfectar||V|sla|B2
+ruhigstellen|inmovilizar||V|sla|B2
+das Homeoffice|teletrabajo||S|lav|B2
+die Telearbeit|trabajo a distancia||S|lav|B2
+die Bildschirmarbeit|trabajo ante pantalla||S|lav|B2
+die Videokonferenz|videoconferencia||S|lav|B2
+die Erreichbarkeit|disponibilidad||S|lav|B2
+erreichbar|localizable||A|lav|B2
+die Arbeitszeit|jornada laboral||S|lav|B2
+die Gleitzeit|horario flexible||S|lav|B2
+das Zeitmanagement|gestión del tiempo||S|lav|B2
+die Kinderbetreuung|cuidado de niños||S|lav|B2
+die Elternzeit|permiso parental||S|lav|B2
+der Urlaubsanspruch|derecho a vacaciones||S|lav|B2
+die Überstunde|hora extra||S|lav|B2
+die Teambesprechung|reunión de equipo||S|lav|B2
+der Arbeitsalltag|día a día laboral||S|lav|B2
+die Selbstständigkeit|trabajo por cuenta propia||S|lav|B2
+selbstständig|por cuenta propia||A|lav|B2
+die Ablenkung|distracción||S|lav|B2
+abgelenkt|distraído||A|lav|B2
+die Zeitersparnis|ahorro de tiempo||S|lav|B2
+der Pendler|persona que se desplaza al trabajo||S|lav|B2
+pendeln|desplazarse a diario al trabajo||V|lav|B2
+die Flexibilität|flexibilidad||S|lav|B2
+die Selbstorganisation|autoorganización||S|lav|B2
+ergonomisch|ergonómico||A|lav|B2
+die Kündigung|despido o renuncia||S|lav|B2
+kündigen|despedir o dimitir||V|lav|B2
+der Mitarbeiter|empleado||S|lav|B2
+die Aufgabenverteilung|reparto de tareas||S|lav|B2
+die Familienzeit|tiempo en familia||S|lav|B2
+die Konzentrationsfähigkeit|capacidad de concentración||S|lav|B2
+die Abschaltung|desconexión mental||S|lav|B2
+die Fortbildung|formación continua||S|lav|B2
+die Weiterbildung|formación permanente||S|lav|B2
+sich weiterbilden|formarse a lo largo de la vida||V|lav|B2
+der Lehrgang|curso formativo||S|lav|B2
+der Werdegang|trayectoria profesional||S|lav|B2
+die Laufbahn|carrera profesional||S|lav|B2
+der Aufstieg|ascenso||S|lav|B2
+die Beförderung|promoción laboral||S|lav|B2
+die Bewerbung|solicitud de empleo||S|lav|B2
+der Lebenslauf|currículum||S|lav|B2
+das Arbeitszeugnis|carta de recomendación laboral||S|lav|B2
+das Praktikum|prácticas||S|lav|B2
+der Praktikant|practicante||S|lav|B2
+die Berufserfahrung|experiencia laboral||S|lav|B2
+die Führungskraft|directivo||S|lav|B2
+die Schlüsselqualifikation|competencia clave||S|lav|B2
+die Sozialkompetenz|competencia social||S|lav|B2
+die Fachkompetenz|competencia técnica||S|lav|B2
+der Quereinsteiger|profesional procedente de otro sector||S|lav|B2
+der Fernkurs|curso a distancia||S|lav|B2
+die Berufsschule|escuela de formación profesional||S|lav|B2
+die Lehre|aprendizaje dual||S|lav|B2
+der Auszubildende|aprendiz||S|lav|B2
+ausbilden|formar||V|lav|B2
+das Zertifikat|título acreditativo||S|lav|B2
+die Anerkennung|reconocimiento||S|lav|B2
+anerkennen|reconocer||V|lav|B2
+der Fachkräftemangel|falta de personal cualificado||S|lav|B2
+die Qualifikation|cualificación||S|lav|B2
+das Vorstellungsgespräch|entrevista de trabajo||S|lav|B2
+die Einarbeitung|adaptación al puesto||S|lav|B2
+die Probezeit|periodo de prueba||S|lav|B2

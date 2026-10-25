@@ -1,0 +1,287 @@
+das Selbstwertgefühl|autoestima||S|emo|B2
+das Selbstvertrauen|confianza en sí mismo||S|emo|B2
+die Achtsamkeit|atención plena||S|emo|B2
+die Gelassenheit|serenidad||S|emo|B2
+die Zuversicht|confianza en el futuro||S|emo|B2
+die Niedergeschlagenheit|desánimo||S|emo|B2
+die Antriebslosigkeit|apatía||S|emo|B2
+die Stimmungsschwankung|altibajos del ánimo||S|emo|B2
+die Stressbewältigung|gestión del estrés||S|sla|B2
+der Kummer|pesar||S|emo|B2
+die Belastung|sobrecarga||S|emo|B2
+die Überforderung|agobio||S|emo|B2
+die Erschöpfung|agotamiento||S|sla|B2
+die Anspannung|tensión nerviosa||S|emo|B2
+der Psychologe|psicólogo||S|pro|B2
+der Sportverein|club deportivo||S|spt|B2
+die Mitgliedschaft|afiliación||S|spt|B2
+der Mannschaftssport|deporte de equipo||S|spt|B2
+das Fitnessstudio|gimnasio||S|spt|B2
+das Aufwärmen|calentamiento||S|spt|B2
+sich dehnen|estirarse||V|spt|B2
+die Zerrung|distensión muscular||S|spt|B2
+der Muskelkater|agujetas||S|spt|B2
+der Krampf|calambre||S|spt|B2
+die Verletzung|lesión||S|spt|B2
+die Erste Hilfe|primeros auxilios||E|sla|B2
+der Wettkampf|competición||S|spt|B2
+der Rekord|récord||S|spt|B2
+die Fairness|juego limpio||S|spt|B2
+das Wandern|senderismo||S|spt|B2
+der Wanderweg|sendero señalizado||S|spt|B2
+die Atemübung|ejercicio de respiración||S|sla|B2
+die Stellensuche|búsqueda de empleo||S|lav|B2
+die Stellenanzeige|anuncio de empleo||S|lav|B2
+sich bewerben|solicitar un empleo||V|lav|B2
+das Bewerbungsschreiben|carta de presentación||S|lav|B2
+der Lebenslauf|currículum||S|lav|B2
+das Zeugnis|certificado académico||S|stu|B2
+die Qualifikation|cualificación||S|lav|B2
+die Kompetenz|competencia||S|lav|B2
+die Berufserfahrung|experiencia profesional||S|lav|B2
+das Praktikum|prácticas||S|lav|B2
+der Quereinsteiger|persona que cambia de sector||S|lav|B2
+die Aushilfe|trabajo eventual||S|lav|B2
+die Vermittlung|intermediación||S|lav|B2
+das Profil|perfil||S|lav|B2
+die Referenz|referencia profesional||S|lav|B2
+die Unterlagen|documentación||S|lav|B2
+die Beschäftigung|ocupación||S|lav|B2
+das Netzwerk|red de contactos||S|lav|B2
+die Stärken und Schwächen|puntos fuertes y débiles||E|lav|B2
+Kontakte knüpfen|entablar contactos||L|cmu|B2
+die Gehaltsvorstellung|pretensión salarial||S|lav|B2
+die Berufsberatung|orientación profesional||S|lav|B2
+die Eignung|aptitud||S|lav|B2
+die Voraussetzung|requisito previo||S|lav|B2
+das Auswahlverfahren|proceso de selección||S|lav|B2
+die Einstellungschancen|posibilidades de contratación||S|lav|B2
+das Anforderungsprofil|perfil del puesto||S|lav|B2
+die Zusage|respuesta afirmativa||S|lav|B2
+die Absage|respuesta negativa||S|lav|B2
+die Kenntnisse|conocimientos||S|stu|B2
+die Sprachkenntnisse|conocimientos de idiomas||S|stu|B2
+die Bereitschaft|disponibilidad||S|lav|B2
+das Vorstellungsgespräch|entrevista de trabajo||S|lav|B2
+sich vorstellen|presentarse||V|cmu|B2
+der Personalleiter|jefe de personal||S|pro|B2
+die Personalabteilung|departamento de personal||S|lav|B2
+die Fangfrage|pregunta trampa||S|lav|B2
+die Lohnverhandlung|negociación salarial||S|lav|B2
+die Einstellung|contratación||S|lav|B2
+die Festanstellung|contrato fijo||S|lav|B2
+der Probetag|jornada de prueba||S|lav|B2
+die Probezeit|período de prueba||S|lav|B2
+die Kündigungsfrist|plazo de preaviso||S|lav|B2
+befristet|temporal||A|lav|B2
+unbefristet|por tiempo indefinido||A|lav|B2
+das Auftreten|presencia||S|lav|B2
+die Ausstrahlung|carisma||S|lav|B2
+die Gestik|gesticulación||S|cmu|B2
+die Mimik|mímica||S|cmu|B2
+der Händedruck|apretón de manos||S|cmu|B2
+die Schlagfertigkeit|don de la réplica||S|lav|B2
+die Belastbarkeit|tolerancia al estrés||S|lav|B2
+die Motivation|motivación||S|lav|B2
+die Teamfähigkeit|capacidad de trabajo en equipo||S|lav|B2
+der Teamgeist|espíritu de equipo||S|lav|B2
+die Flexibilität|flexibilidad||S|lav|B2
+die Zuverlässigkeit|fiabilidad||S|lav|B2
+das Feedback|retroalimentación||S|lav|B2
+überzeugend|convincente||A|lav|B2
+die Fragetechnik|técnica de preguntar||S|cmu|B2
+die Beurteilung|evaluación||S|lav|B2
+die Begrüßung|saludo de bienvenida||S|sal|B2
+der Smalltalk|conversación de cortesía||S|cmu|B2
+die Sozialkompetenz|competencia social||S|lav|B2
+die Karrierechancen|oportunidades de carrera||S|lav|B2
+der Aufstieg|avance profesional||S|lav|B2
+die Beförderung|ascenso||S|lav|B2
+die Zulage|complemento salarial||S|lav|B2
+die Prämie|prima||S|fin|B2
+die Anerkennung|reconocimiento||S|lav|B2
+der Erfolgsdruck|presión por resultados||S|lav|B2
+die Überstunden|horas extra||S|lav|B2
+der Abstieg|descenso profesional||S|lav|B2
+die Stagnation|estancamiento||S|lav|B2
+die Laufbahn|trayectoria||S|lav|B2
+die Fortbildung|formación continua||S|lav|B2
+die Leitung|dirección de un equipo||S|lav|B2
+der Vorgesetzte|superior jerárquico||S|lav|B2
+die Hierarchie|jerarquía||S|lav|B2
+die Entlassung|despido||S|lav|B2
+entlassen|despedir||V|lav|B2
+die Abfindung|indemnización por despido||S|lav|B2
+die Freistellung|excedencia temporal||S|lav|B2
+das Renteneintrittsalter|edad de jubilación||S|lav|B2
+die Frustration|frustración||S|emo|B2
+die Zufriedenheit|satisfacción||S|emo|B2
+die Entfaltung|desarrollo pleno||S|lav|B2
+die Herausforderung|reto||S|lav|B2
+die Routine|rutina||S|lav|B2
+die Sackgasse|callejón sin salida||S|lav|B2
+die Versetzung|traslado||S|lav|B2
+die Arbeitslosigkeit|desempleo||S|lav|B2
+die Umschulung|reciclaje profesional||S|lav|B2
+die Karriereplanung|planificación de carrera||S|lav|B2
+die Ambition|ambición||S|lav|B2
+die Ungerechtigkeit|injusticia||S|lav|B2
+die Besprechung|reunión de trabajo||S|lav|B2
+die Sitzung|sesión||S|lav|B2
+die Tagesordnung|orden del día||S|lav|B2
+das Protokoll|acta||S|lav|B2
+die Einladung|convocatoria||S|cmu|B2
+die Anwesenheitsliste|lista de asistencia||S|lav|B2
+die Zustimmung|aprobación||S|cmu|B2
+die Ablehnung|rechazo||S|cmu|B2
+der Konsens|consenso||S|lav|B2
+die Meinungsverschiedenheit|discrepancia de opiniones||S|cmu|B2
+der Gedankenaustausch|intercambio de ideas||S|cmu|B2
+das Treffen|reunión||S|cmu|B2
+das Brainstorming|lluvia de ideas||S|cmu|B2
+die Moderation|moderación||S|cmu|B2
+die Telefonkonferenz|teleconferencia||S|cmu|B2
+die Videokonferenz|videoconferencia||S|cmu|B2
+der Beschluss|acuerdo adoptado||S|lav|B2
+die Abstimmung|votación interna||S|cmu|B2
+der Beitrag|aportación||S|lav|B2
+die Aufgabenverteilung|reparto de tareas||S|lav|B2
+die Verantwortung|responsabilidad||S|lav|B2
+die Absprache|acuerdo previo||S|lav|B2
+die Verhandlung|negociación||S|lav|B2
+die Entscheidungsfindung|toma de decisiones||S|lav|B2
+die Umsetzung|implementación||S|lav|B2
+das Fazit|conclusión||S|cmu|B2
+die Eckdaten|datos clave||S|lav|B2
+die Rahmenbedingungen|condiciones marco||S|lav|B2
+die Vorbereitung|preparación||S|lav|B2
+der Fortschritt|progreso||S|lav|B2
+Prioritäten setzen|establecer prioridades||E|lav|B2
+an einem Strang ziehen|tirar del mismo carro||L|lav|B2
+der Tarifvertrag|convenio colectivo||S|lav|B2
+die Tarifrunde|negociación del convenio||S|lav|B2
+die Gewerkschaft|sindicato||S|ist|B2
+die Betriebsvereinbarung|acuerdo de empresa||S|lav|B2
+der Unternehmer|empresario||S|pro|B2
+die Unternehmensberatung|consultoría empresarial||S|fin|B2
+der Streik|huelga||S|lav|B2
+der Warnstreik|huelga de advertencia||S|lav|B2
+die Belegschaft|plantilla||S|lav|B2
+der Mindestlohn|salario mínimo||S|lav|B2
+die Nachtschicht|turno de noche||S|lav|B2
+die Gleitzeit|horario flexible||S|lav|B2
+das Homeoffice|teletrabajo||S|lav|B2
+die Entgeltfortzahlung|mantenimiento del salario en baja||S|lav|B2
+der Mutterschutz|protección de la maternidad||S|lav|B2
+der Urlaubsanspruch|derecho a vacaciones||S|lav|B2
+die Abmahnung|advertencia disciplinaria||S|lav|B2
+die Aussperrung|cierre patronal||S|lav|B2
+die Mitbestimmung|participación en las decisiones||S|lav|B2
+die Gleichbehandlung|trato igualitario||S|lav|B2
+die Benachteiligung|trato desfavorable||S|lav|B2
+die Unfallkasse|mutua de accidentes||S|ist|B2
+der Zuschlag|plus salarial||S|fin|B2
+die Frauenquote|cuota de mujeres||S|lav|B2
+die Vorsichtsmaßnahme|medida de precaución||S|sla|B2
+der Freiberufler|profesional liberal||S|pro|B2
+die Existenzgründung|creación de una empresa||S|fin|B2
+die Gewerbeanmeldung|alta de actividad||S|fin|B2
+die Sozialabgabe|cotización social||S|fin|B2
+die Schlichtung|arbitraje||S|ist|B2
+der Interessenkonflikt|conflicto de intereses||S|lav|B2
+die Fürsorgepflicht|obligación de protección||S|lav|B2
+die Klausur|examen escrito||S|stu|B2
+die Prüfung|examen||S|stu|B2
+durchfallen|suspender un examen||V|stu|B2
+das Bestehen|aprobación del examen||S|stu|B2
+die Durchfallquote|tasa de suspensos||S|stu|B2
+der Notendurchschnitt|nota media||S|stu|B2
+die Gesamtnote|nota final||S|stu|B2
+das Kriterium|criterio||S|stu|B2
+die Punktzahl|puntuación||S|stu|B2
+der Abschluss|titulación||S|stu|B2
+der Schulabschluss|título escolar||S|stu|B2
+das Abitur|bachillerato alemán||S|stu|B2
+die Hochschulreife|acceso a la universidad||S|stu|B2
+die Zulassung|admisión||S|stu|B2
+der Numerus clausus|nota de corte||S|stu|B2
+die Einschreibung|matrícula||S|stu|B2
+das Kolloquium|coloquio||S|stu|B2
+die Studienberatung|orientación universitaria||S|stu|B2
+der Studienanfänger|estudiante de primero||S|stu|B2
+die Zertifizierung|certificación||S|stu|B2
+das Zertifikat|certificado||S|stu|B2
+die Teilnahmebescheinigung|constancia de asistencia||S|stu|B2
+der Nachweis|acreditación||S|stu|B2
+die Zugangsvoraussetzung|requisito de acceso||S|stu|B2
+die Nachhilfe|clases de repaso||S|stu|B2
+das Lampenfieber|miedo escénico||S|stu|B2
+der Leistungsnachweis|justificante de rendimiento||S|stu|B2
+die Benotung|calificación||S|stu|B2
+die Korrektur|corrección||S|stu|B2
+die Aufgabenstellung|enunciado||S|stu|B2
+die Bearbeitungsdauer|tiempo de realización||S|stu|B2
+die Anwesenheitspflicht|asistencia obligatoria||S|stu|B2
+das Stipendium|beca||S|stu|B2
+der Stipendiat|beneficiario de la beca||S|stu|B2
+die Begabtenförderung|apoyo al talento||S|stu|B2
+die Studentenschaft|comunidad estudiantil||S|stu|B2
+das Studentenwerk|servicio de bienestar estudiantil||S|ist|B2
+die Mensa|comedor universitario||S|stu|B2
+das Wohnheim|residencia de estudiantes||S|stu|B2
+die Studiengebühr|tasas universitarias||S|stu|B2
+die Studienkosten|gastos de estudios||S|stu|B2
+der Semesterbeitrag|contribución semestral||S|stu|B2
+die Immatrikulation|matriculación||S|stu|B2
+die Exmatrikulation|baja académica||S|stu|B2
+die Hochschule|centro universitario||S|ist|B2
+der Fachbereich|departamento universitario||S|stu|B2
+der Lehrstuhl|cátedra||S|stu|B2
+der Dozent|profesor de universidad||S|pro|B2
+die Vorlesung|clase magistral||S|stu|B2
+der Tutor|tutor de curso||S|pro|B2
+das Tutorium|seminario de tutoría||S|stu|B2
+die Dissertation|tesis doctoral||S|stu|B2
+die Promotion|doctorado||S|stu|B2
+der Doktortitel|título de doctor||S|stu|B2
+die Fachschaft|asociación de carrera||S|stu|B2
+das Sekretariat|secretaría||S|ist|B2
+das Vorlesungsverzeichnis|guía de cursos||S|stu|B2
+der Erstsemester|estudiante de primer curso||S|stu|B2
+die Exkursion|excursión académica||S|stu|B2
+das Sprachdiplom|diploma de idiomas||S|stu|B2
+der Workshop|taller||S|stu|B2
+das Auslandssemester|semestre en el extranjero||S|stu|B2
+das Austauschprogramm|programa de intercambio||S|stu|B2
+das Empfehlungsschreiben|carta de recomendación||S|stu|B2
+die Lernstrategie|estrategia de aprendizaje||S|stu|B2
+die Lerngruppe|grupo de estudio||S|stu|B2
+das Fernstudium|estudio a distancia||S|stu|B2
+die Wiederholung|repaso||S|stu|B2
+die Eselsbrücke|truco mnemotécnico||S|stu|B2
+auswendig|de memoria||D|stu|B2
+die Merkfähigkeit|capacidad de retención||S|stu|B2
+die Konzentrationsfähigkeit|capacidad de concentrarse||S|stu|B2
+die Ablenkung|distracción||S|stu|B2
+das Stichwort|palabra clave||S|stu|B2
+markieren|subrayar||V|stu|B2
+die Randnotiz|nota al margen||S|stu|B2
+die Zusammenfassung|resumen||S|stu|B2
+die Gliederung|esquema||S|stu|B2
+das Exzerpt|extracto||S|stu|B2
+die Lektüre|lectura||S|stu|B2
+das Lehrbuch|libro de texto||S|stu|B2
+das Verständnis|comprensión||S|stu|B2
+nachfragen|pedir aclaraciones||V|cmu|B2
+die Wissenslücke|laguna de conocimiento||S|stu|B2
+die Quellenangabe|cita de la fuente||S|stu|B2
+die Fußnote|nota al pie||S|stu|B2
+das Zitat|cita||S|stu|B2
+das Plagiat|plagio||S|stu|B2
+das Literaturverzeichnis|bibliografía||S|stu|B2
+die Abfrage|repaso oral||S|stu|B2
+das Durchhaltevermögen|perseverancia||S|stu|B2
+die Neugier|curiosidad||S|stu|B2
+der Wissensdurst|sed de conocimiento||S|stu|B2
+der Gedankengang|hilo del razonamiento||S|stu|B2
+der Fleiß|aplicación y constancia||S|stu|B2

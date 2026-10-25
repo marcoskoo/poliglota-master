@@ -1,0 +1,273 @@
+die Jugendkriminalität|delincuencia juvenil||S|ist|C1
+das Alibi|coartada||S|ist|C1
+der Tatverdächtige|sospechoso||S|ist|C1
+die Vernehmung|interrogatorio||S|ist|C1
+die Spurensicherung|aseguramiento de indicios||S|ist|C1
+verwahrlosen|degradarse||V|ist|C1
+die Unterbringung|internamiento||S|ist|C1
+die Sozialtherapie|terapia social||S|ist|C1
+die Bagatellkriminalität|delincuencia menor||S|ist|C1
+das Völkerrecht|derecho internacional público||S|ist|C1
+der Staatsvertrag|tratado estatal||S|ist|C1
+die Ratifizierung|ratificación||S|ist|C1
+der Nichtangriffspakt|pacto de no agresión||S|ist|C1
+die Souveränität|soberanía||S|ist|C1
+der Gebietsanspruch|reivindicación territorial||S|ist|C1
+der Völkermord|genocidio||S|ist|C1
+das Asylrecht|derecho de asilo||S|ist|C1
+der Konsularschutz|protección consular||S|ist|C1
+das Inkrafttreten|entrada en vigor||S|ist|C1
+die Hoheitsgewässer|aguas jurisdiccionales||S|ist|C1
+das Rückführungsabkommen|acuerdo de readmisión||S|ist|C1
+die Friedenssicherung|mantenimiento de la paz||S|ist|C1
+die Streitbeilegung|solución de controversias||S|ist|C1
+diplomatische Note|nota diplomática||L|ist|C1
+die Handelsgesellschaft|sociedad mercantil||S|ist|C1
+das Stammkapital|capital social||S|fin|C1
+der Aufsichtsrat|consejo de vigilancia||S|ist|C1
+die Gesellschafterversammlung|junta de socios||S|ist|C1
+der Kommanditist|socio comanditario||S|ist|C1
+die Bilanzierung|elaboración de balances||S|fin|C1
+der Geschäftsanteil|participación social||S|fin|C1
+die Firmierung|denominación social||S|ist|C1
+der Unternehmenskauf|adquisición de empresa||S|fin|C1
+das Wettbewerbsrecht|derecho de la competencia||S|ist|C1
+die Wettbewerbsbeschränkung|restricción de la competencia||S|ist|C1
+die Insolvenzanfechtung|acción de reintegración concursal||S|ist|C1
+verbriefen|garantizar en un título||V|fin|C1
+der Vorstand|consejo de administración||S|ist|C1
+das Handelsregister|registro mercantil||S|ist|C1
+der Tarifvertrag|convenio colectivo||S|lav|C1
+der Betriebsrat|comité de empresa||S|lav|C1
+der Kündigungsschutz|protección frente al despido||S|lav|C1
+die Abfindung|indemnización por despido||S|lav|C1
+der Urlaubsanspruch|derecho a vacaciones||S|lav|C1
+der Arbeitgeberverband|asociación patronal||S|lav|C1
+die Aussperrung|cierre patronal||S|lav|C1
+der Streikbrecher|esquirol||S|lav|C1
+die Tarifautonomie|autonomía colectiva||S|lav|C1
+die Schlichtung|mediación arbitral||S|lav|C1
+das Schiedsgericht|tribunal arbitral||S|ist|C1
+die Abmahnung|amonestación formal||S|lav|C1
+die Befristung|temporalidad del contrato||S|lav|C1
+die Schwerbehinderung|discapacidad severa||S|lav|C1
+die Bauchhöhle|cavidad abdominal||S|cor|C1
+die Speiseröhre|esófago||S|cor|C1
+das Skalpell|bisturí||S|sla|C1
+die Drainage|drenaje||S|sla|C1
+die Klemme|pinza quirúrgica||S|sla|C1
+das Nahtmaterial|material de sutura||S|sla|C1
+die Narkose|anestesia general||S|sla|C1
+die Bandscheibe|disco intervertebral||S|cor|C1
+das Brustbein|esternón||S|cor|C1
+das Kreuzbein|hueso sacro||S|cor|C1
+die Sehnenscheide|vaina tendinosa||S|cor|C1
+die Blutleere|isquemia exanguinante||S|sla|C1
+sterilisieren|esterilizar||V|sla|C1
+der Eingriff|intervención quirúrgica||S|sla|C1
+die Wundheilung|cicatrización||S|sla|C1
+der Herzinfarkt|infarto de miocardio||S|sla|C1
+der Herzkatheter|cateterismo cardiaco||S|sla|C1
+das Elektrokardiogramm|electrocardiograma||S|sla|C1
+die Koronararterie|arteria coronaria||S|sla|C1
+die Atemnot|disnea||S|sla|C1
+die Lungenembolie|embolia pulmonar||S|sla|C1
+das Asthma|asma||S|sla|C1
+die Auskultation|auscultación||S|sla|C1
+die Rhythmusstörung|arritmia||S|sla|C1
+die Sauerstoffsättigung|saturación de oxígeno||S|sla|C1
+der Pneumothorax|neumotórax||S|sla|C1
+die Bronchoskopie|broncoscopia||S|sla|C1
+das Keuchen|jadeo||S|sla|C1
+die Kardiomyopathie|miocardiopatía||S|sla|C1
+die Atemfrequenz|frecuencia respiratoria||S|sla|C1
+die Schilddrüsenüberfunktion|hipertiroidismo||S|sla|C1
+der Blutzuckerspiegel|glucemia||S|sla|C1
+die Insulinresistenz|resistencia a la insulina||S|sla|C1
+die Nebenniere|glándula suprarrenal||S|cor|C1
+der Hormonhaushalt|equilibrio hormonal||S|sla|C1
+die Unterzuckerung|hipoglucemia||S|sla|C1
+das Kortisol|cortisol||S|sla|C1
+die Wechseljahre|menopausia||S|sla|C1
+die Adipositas|obesidad||S|sla|C1
+der Jodmangel|carencia de yodo||S|sla|C1
+die Hormontherapie|terapia hormonal||S|sla|C1
+die Stoffwechselstörung|trastorno metabólico||S|sla|C1
+der Zuckerstoffwechsel|metabolismo de la glucosa||S|sla|C1
+die Schilddrüsenunterfunktion|hipotiroidismo||S|sla|C1
+die Essstörung|trastorno alimentario||S|sla|C1
+der Ausschlag|erupción cutánea||S|sla|C1
+die Nesselsucht|urticaria||S|sla|C1
+das Ekzem|eccema||S|sla|C1
+der Epikutantest|prueba epicutánea||S|sla|C1
+der Juckreiz|prurito||S|sla|C1
+die Schuppenflechte|psoriasis||S|sla|C1
+das Melanom|melanoma||S|sla|C1
+der Lichtschutzfaktor|factor de protección solar||S|sla|C1
+das Allergen|alérgeno||S|sla|C1
+die Quaddel|habón||S|sla|C1
+die Neurodermitis|dermatitis atópica||S|sla|C1
+der Leberfleck|lunar||S|sla|C1
+die Pigmentstörung|trastorno pigmentario||S|sla|C1
+die Narbenbildung|formación de cicatrices||S|sla|C1
+die Hornschicht|capa córnea||S|sla|C1
+die Chemotherapie|quimioterapia||S|sla|C1
+die Bestrahlung|radioterapia||S|sla|C1
+die Metastase|metástasis||S|sla|C1
+die Krebsfrüherkennung|detección precoz del cáncer||S|sla|C1
+die Palliativstation|unidad de cuidados paliativos||S|sla|C1
+die Schmerztherapie|terapia del dolor||S|sla|C1
+die Lebensqualität|calidad de vida||S|sla|C1
+der Verlauf|curso clínico||S|sla|C1
+der Rückfall|recaída||S|sla|C1
+die Strahlenbelastung|exposición a la radiación||S|sla|C1
+die Sterbebegleitung|acompañamiento al final de la vida||S|sla|C1
+aushalten|resistir con entereza||V|emo|C1
+die Tumorerkrankung|enfermedad tumoral||S|sla|C1
+das Zytostatikum|citostático||S|sla|C1
+die Trauerbegleitung|acompañamiento en el duelo||S|sla|C1
+der Schlaganfall|ictus||S|sla|C1
+die Migräne|migraña||S|sla|C1
+das Schwindelgefühl|sensación de vértigo||S|sla|C1
+die Epilepsie|epilepsia||S|sla|C1
+der Krampfanfall|convulsión||S|sla|C1
+die Bewegungsstörung|trastorno del movimiento||S|sla|C1
+die Neuropathie|neuropatía||S|sla|C1
+die Hirnhaut|meninge||S|cor|C1
+die Lähmungserscheinung|episodio de parálisis||S|sla|C1
+die Sprachstörung|trastorno del habla||S|sla|C1
+die Bewusstseinsstörung|alteración de la conciencia||S|sla|C1
+der Muskelschwund|atrofia muscular||S|sla|C1
+der Tremor|temblor||S|sla|C1
+die Demenz|demencia||S|sla|C1
+die Schmerzempfindung|percepción del dolor||S|sla|C1
+die Schwangerschaftsvorsorge|control prenatal||S|sla|C1
+die Geburtseinleitung|inducción del parto||S|sla|C1
+der Kaiserschnitt|cesárea||S|sla|C1
+die Frühgeburt|parto prematuro||S|sla|C1
+das Neugeborene|recién nacido||S|sla|C1
+die Nabelschnur|cordón umbilical||S|sla|C1
+das Wochenbett|puerperio||S|sla|C1
+der Kinderwunsch|deseo de tener hijos||S|sla|C1
+die Säuglingsernährung|alimentación del lactante||S|sla|C1
+die Vorsorgeuntersuchung|examen preventivo||S|sla|C1
+die Entwicklungsverzögerung|retraso del desarrollo||S|sla|C1
+die Kinderkrankheit|enfermedad infantil||S|sla|C1
+das Schreibaby|bebé con llanto incesante||S|sla|C1
+der Geburtshelfer|comadrón||S|pro|C1
+das Stillen|lactancia materna||S|sla|C1
+der Knochenbruch|fractura||S|sla|C1
+der Gipsverband|escayola||S|sla|C1
+die Luxation|luxación||S|sla|C1
+der Muskelfaserriss|desgarro muscular||S|sla|C1
+die Rehabilitation|rehabilitación||S|sla|C1
+die Krankengymnastik|fisioterapia||S|sla|C1
+die Gehhilfe|ayuda para la marcha||S|sla|C1
+die Schleimbeutelentzündung|bursitis||S|sla|C1
+verrenken|luxar||V|sla|C1
+die Versteifung|artrodesis||S|sla|C1
+das Implantat|implante||S|sla|C1
+die Nachbehandlung|tratamiento posterior||S|sla|C1
+die Wirbelsäulenverkrümmung|desviación de la columna||S|sla|C1
+das Hüftgelenk|articulación de la cadera||S|cor|C1
+die Impfpflicht|obligación vacunal||S|att|C1
+die Durchseuchung|propagación masiva del contagio||S|att|C1
+die Infektionskette|cadena de infección||S|sla|C1
+die Meldepflicht|obligación de declaración||S|ist|C1
+die Herdenimmunität|inmunidad de grupo||S|sla|C1
+die Impfrate|cobertura vacunal||S|att|C1
+der Ausbruch|brote||S|att|C1
+die Seuchenbekämpfung|lucha contra las epidemias||S|att|C1
+das Gesundheitsamt|autoridad sanitaria||S|ist|C1
+die Vulnerabilität|vulnerabilidad||S|att|C1
+die Übersterblichkeit|exceso de mortalidad||S|att|C1
+die Prävention|prevención||S|sla|C1
+die Kontaktverfolgung|rastreo de contactos||S|att|C1
+die Gesundheitsversorgung|asistencia sanitaria||S|sla|C1
+die Hygienemaßnahme|medida higiénica||S|sla|C1
+die Steuerhinterziehung|evasión fiscal||S|fin|C1
+der Steuerberater|asesor fiscal||S|pro|C1
+die Abschreibung|depreciación||S|fin|C1
+der Freibetrag|mínimo exento||S|fin|C1
+die Abgabenlast|carga impositiva||S|fin|C1
+das Steuerschlupfloch|laguna fiscal||S|fin|C1
+die Betriebsprüfung|inspección fiscal||S|fin|C1
+die Progression|progresividad del impuesto||S|fin|C1
+das Doppelbesteuerungsabkommen|convenio de doble imposición||S|fin|C1
+veranlagen|liquidar fiscalmente||V|fin|C1
+der Pauschalbetrag|importe forfaitario||S|fin|C1
+die Schattenwirtschaft|economía sumergida||S|fin|C1
+der Solidaritätszuschlag|recargo de solidaridad||S|fin|C1
+die Abgabenordnung|código tributario||S|ist|C1
+das Finanzamt|oficina tributaria||S|ist|C1
+das Kundenguthaben|depósitos de clientes||S|fin|C1
+der Schuldendienst|servicio de la deuda||S|fin|C1
+die Bonitätsprüfung|análisis de solvencia||S|fin|C1
+die Zinsbindung|fijación del tipo de interés||S|fin|C1
+der Kreditausfall|impago crediticio||S|fin|C1
+die Eigenmittel|recursos propios||S|fin|C1
+die Einlagensicherung|garantía de depósitos||S|fin|C1
+das Kreditinstitut|entidad de crédito||S|fin|C1
+die Refinanzierung|refinanciación||S|fin|C1
+die Kontoüberziehung|descubierto de cuenta||S|fin|C1
+die Ratingagentur|agencia de calificación crediticia||S|fin|C1
+das Ausfallrisiko|riesgo de impago||S|fin|C1
+die Kontoführung|gestión de la cuenta||S|fin|C1
+die Tilgung|amortización del principal||S|fin|C1
+die Bankenkrise|crisis bancaria||S|fin|C1
+die Fusion|fusión||S|fin|C1
+das Übernahmeangebot|oferta pública de adquisición||S|fin|C1
+der Unternehmenswert|valor de la empresa||S|fin|C1
+die Preisfindung|fijación del precio||S|fin|C1
+das Ertragswertverfahren|método del valor de rentabilidad||S|fin|C1
+die Beteiligung|participación accionarial||S|fin|C1
+der Sanierungsplan|plan de saneamiento||S|fin|C1
+der Anteilseigner|titular de participaciones||S|fin|C1
+der Börsengang|salida a bolsa||S|fin|C1
+die Abspaltung|escisión||S|fin|C1
+die Verschmelzung|fusión societaria||S|fin|C1
+der Minderheitsaktionär|accionista minoritario||S|fin|C1
+die Kapitalerhöhung|ampliación de capital||S|fin|C1
+der Verkehrswert|valor de mercado||S|fin|C1
+die Transaktionskosten|costes de transacción||S|fin|C1
+der Gleichgewichtspreis|precio de equilibrio||S|fin|C1
+die Preiselastizität|elasticidad-precio||S|fin|C1
+der Grenznutzen|utilidad marginal||S|fin|C1
+die Markttransparenz|transparencia del mercado||S|fin|C1
+der Preiswettbewerb|competencia en precios||S|fin|C1
+die Knappheit|escasez||S|fin|C1
+die Wohlfahrtsökonomik|economía del bienestar||S|fin|C1
+die Nachfragekurve|curva de demanda||S|fin|C1
+das Marktversagen|fallo de mercado||S|fin|C1
+externe Effekte|externalidades||L|fin|C1
+vollkommener Markt|mercado perfecto||L|fin|C1
+die Handelsbeschränkung|restricción comercial||S|fin|C1
+die Zahlungsbereitschaft|disposición a pagar||S|fin|C1
+die Kaufkraftparität|paridad del poder adquisitivo||S|fin|C1
+der Ertrag|rendimiento económico||S|fin|C1
+die Deckungssumme|suma asegurada||S|fin|C1
+der Versicherungsnehmer|tomador del seguro||S|fin|C1
+die Prämienzahlung|pago de primas||S|fin|C1
+der Schadensfall|siniestro||S|fin|C1
+die Haftpflichtversicherung|seguro de responsabilidad civil||S|fin|C1
+die Risikoteilung|reparto del riesgo||S|fin|C1
+die Obliegenheit|carga del asegurado||S|fin|C1
+der Selbstbehalt|franquicia||S|fin|C1
+die Beitragsbemessung|cálculo de la prima||S|fin|C1
+der Leistungsausschluss|exclusión de cobertura||S|fin|C1
+die Police|póliza||S|fin|C1
+das Kleingedruckte|letra pequeña||S|fin|C1
+die Gefahreneinschätzung|evaluación del peligro||S|fin|C1
+die Beitragsrückerstattung|devolución de primas||S|fin|C1
+die Schadenregulierung|liquidación de siniestros||S|fin|C1
+die Entwicklungshilfe|ayuda al desarrollo||S|fin|C1
+der Schuldenerlass|condonación de la deuda||S|fin|C1
+die Armutsbekämpfung|lucha contra la pobreza||S|fin|C1
+das Schwellenland|país emergente||S|fin|C1
+die Ernährungssicherheit|seguridad alimentaria||S|fin|C1
+das Bevölkerungswachstum|crecimiento demográfico||S|att|C1
+der Wiederaufbau|reconstrucción||S|fin|C1
+Hilfe zur Selbsthilfe|ayuda a la autosuficiencia||L|fin|C1
+die Missernte|mala cosecha||S|nat|C1
+das Entwicklungsland|país en desarrollo||S|fin|C1
+die Landflucht|éxodo rural||S|att|C1

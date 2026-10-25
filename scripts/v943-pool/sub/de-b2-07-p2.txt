@@ -1,0 +1,288 @@
+der Milchschaum|espuma de leche||S|ris|B2
+die Bohne|grano de café||S|ris|B2
+die Röstung|tueste||S|ris|B2
+der Milchkaffee|café con leche||S|ris|B2
+entkoffeiniert|descafeinado||A|ris|B2
+die Teigtasche|empanadilla||S|ris|B2
+das Rührei|huevo revuelto||S|ris|B2
+der Smoothie|batido||S|ris|B2
+der Pfannkuchen|tortita||S|ris|B2
+das Omelett|tortilla francesa||S|ris|B2
+der Barista|barista||S|ris|B2
+der Kaffeeklatsch|charla de sobremesa||S|ris|B2
+die Bedienung|camarero||S|ris|B2
+das Trinkgeld|propina||S|ris|B2
+die Hafermilch|bebida de avena||S|ris|B2
+die Haferflocken|copos de avena||S|ris|B2
+der Süßstoff|edulcorante||S|ris|B2
+das Karamell|caramelo||S|ris|B2
+die Außenterrasse|terraza exterior||S|ris|B2
+das Tablett|bandeja||S|ris|B2
+die Serviette|servilleta||S|ris|B2
+die Untertasse|platito de taza||S|ris|B2
+der Happen|bocado||S|ris|B2
+naschen|picar algo dulce||V|ris|B2
+der Nachtisch|postre||S|ris|B2
+das Gebäck|bollería||S|ris|B2
+der Kuchen|tarta||S|ris|B2
+der Kräutertee|infusión de hierbas||S|ris|B2
+der Zimt|canela||S|ris|B2
+duften|oler bien||V|ris|B2
+der Duft|aroma||S|ris|B2
+die Teekanne|tetera||S|ris|B2
+der Verkehrsunfall|accidente de tráfico||S|att|B2
+der Rettungswagen|ambulancia||S|att|B2
+die Feuerwehr|bomberos||S|att|B2
+der Rauchmelder|detector de humo||S|att|B2
+der Notausgang|salida de emergencia||S|att|B2
+der Notruf|llamada de emergencia||S|att|B2
+die Rettungskräfte|equipos de rescate||S|att|B2
+der Erste-Hilfe-Kurs|curso de primeros auxilios||S|att|B2
+der Zeuge|testigo||S|att|B2
+die Zeugenaussage|declaración testifical||S|att|B2
+der Einbruch|robo en una vivienda||S|att|B2
+der Einbrecher|ladrón de viviendas||S|att|B2
+der Überfall|atracamiento||S|att|B2
+der Diebstahl|hurto||S|att|B2
+der Täter|autor del delito||S|att|B2
+das Opfer|víctima||S|att|B2
+der Verletzte|herido||S|att|B2
+der Brandschutz|protección contra incendios||S|att|B2
+der Feuerlöscher|extintor||S|att|B2
+der Gaffer|mirón||S|att|B2
+die Sperrung|corte de vía||S|att|B2
+die Absperrung|acordonamiento||S|att|B2
+der Stromausfall|apagón||S|att|B2
+die Katastrophe|catástrofe||S|att|B2
+der Schaden|daño||S|att|B2
+die Schadensregulierung|peritación del seguro||S|att|B2
+warnen|avisar||V|att|B2
+die Warnmeldung|aviso de alerta||S|att|B2
+der Verdächtige|sospechoso||S|att|B2
+die Fahndung|búsqueda policial||S|att|B2
+die Straftat|delito||S|att|B2
+in Gefahr bringen|poner en peligro||E|att|B2
+die Wissenschaftlerin|científica||S|sci|B2
+der Wissenschaftler|científico||S|sci|B2
+das Experiment|experimento||S|sci|B2
+der Versuchsaufbau|montaje experimental||S|sci|B2
+die Versuchsreihe|serie de experimentos||S|sci|B2
+die Hypothese|hipótesis||S|sci|B2
+der Beweis|prueba científica||S|sci|B2
+die Erkenntnis|hallazgo||S|sci|B2
+bahnbrechend|revolucionario||A|sci|B2
+das Gen|gen||S|sci|B2
+die Zelle|célula||S|sci|B2
+das Molekül|molécula||S|sci|B2
+der Sauerstoff|oxígeno||S|sci|B2
+die Schwerkraft|gravedad||S|sci|B2
+die Strahlung|radiación||S|sci|B2
+das Weltall|espacio exterior||S|sci|B2
+der Satellit|satélite||S|sci|B2
+die Raumfahrt|astronáutica||S|sci|B2
+die Evolution|evolución||S|sci|B2
+die Art|especie||S|sci|B2
+das Fossil|fósil||S|sci|B2
+die Ausgrabung|excavación||S|sci|B2
+der Vulkan|volcán||S|sci|B2
+das Erdbeben|terremoto||S|sci|B2
+die Klimaveränderung|cambio climático||S|sci|B2
+die Vorhersage|predicción||S|sci|B2
+das Phänomen|fenómeno||S|sci|B2
+die Kuriosität|curiosidad||S|sci|B2
+erforschen|investigar||V|sci|B2
+nachweisen|demostrar||V|sci|B2
+widerlegen|refutar||V|sci|B2
+berechnen|calcular||V|sci|B2
+der Bestseller|superventas||S|let|B2
+der Roman|novela||S|let|B2
+der Kriminalroman|novela policíaca||S|let|B2
+die Kurzgeschichte|relato corto||S|let|B2
+der Gedichtband|poemario||S|let|B2
+der Schriftsteller|escritor||S|let|B2
+die Autorin|autora||S|let|B2
+der Verlag|editorial||S|let|B2
+die Auflage|tirada||S|let|B2
+das Hörbuch|audiolibro||S|let|B2
+der Auszug|extracto||S|let|B2
+der Lesekreis|club de lectura||S|let|B2
+die Belletristik|literatura de ficción||S|let|B2
+der Klappentext|texto de contraportada||S|let|B2
+das Kapitel|capítulo||S|let|B2
+die Erzählung|narración||S|let|B2
+der Erzähler|narrador||S|let|B2
+die Buchhandlung|librería||S|let|B2
+die Lesung|presentación de un libro||S|let|B2
+die Trilogie|trilogía||S|let|B2
+der Band|tomo||S|let|B2
+das Vorwort|prólogo||S|let|B2
+schmökern|leer con deleite||V|let|B2
+blättern|hojear||V|let|B2
+die Neuerscheinung|novedad editorial||S|let|B2
+das Cover|portada||S|let|B2
+der Spannungsbogen|curva de tensión narrativa||S|let|B2
+fesselnd|apasionante||A|let|B2
+langatmig|prolijo||A|let|B2
+die Gattung|género literario||S|let|B2
+die Biografie|biografía||S|let|B2
+die Memoiren|memorias||S|let|B2
+der Wanderweg|sendero||S|nat|B2
+die Wanderung|caminata||S|nat|B2
+der Gipfel|cima||S|nat|B2
+der Bergrücken|cresta montañosa||S|nat|B2
+die Schutzhütte|refugio de montaña||S|nat|B2
+der Rucksack|mochila||S|nat|B2
+der Aussichtspunkt|mirador||S|nat|B2
+die Aussicht|vista panorámica||S|nat|B2
+die Blumenwiese|prado florido||S|nat|B2
+der Laubwald|bosque de hoja caduca||S|nat|B2
+der Nadelwald|bosque de coníferas||S|nat|B2
+die Baumkrone|copa del árbol||S|nat|B2
+die Baumart|especie de árbol||S|nat|B2
+das Moos|musgo||S|nat|B2
+der Pilz|seta||S|nat|B2
+der Bach|arroyo||S|nat|B2
+der Wasserfall|cascada||S|nat|B2
+der Stausee|embalse||S|nat|B2
+der Picknickplatz|zona de pícnic||S|nat|B2
+die Grillstelle|zona de barbacoa||S|nat|B2
+das Naturschutzgebiet|espacio natural protegido||S|nat|B2
+die Vogelbeobachtung|observación de aves||S|nat|B2
+das Fütterungsverbot|prohibición de dar de comer a los animales||S|nat|B2
+der Kräutergarten|huerto de hierbas||S|nat|B2
+der Wegweiser|cartel indicador||S|nat|B2
+die Höhenmeter|desnivel en metros||S|nat|B2
+die Etappe|etapa||S|nat|B2
+die Regenjacke|chubasquero||S|nat|B2
+das Regencape|capa de lluvia||S|nat|B2
+die Sternschnuppe|estrella fugaz||S|nat|B2
+der Nachthimmel|cielo nocturno||S|nat|B2
+die Tierwelt|fauna||S|nat|B2
+der Wochenendtrip|viaje de fin de semana||S|vig|B2
+der Kurztrip|escapada corta||S|vig|B2
+die Sehenswürdigkeit|lugar de interés turístico||S|vig|B2
+die Altstadt|casco antiguo||S|vig|B2
+der Dom|catedral||S|vig|B2
+das Wahrzeichen|monumento emblemático||S|vig|B2
+das Rathaus|ayuntamiento||S|vig|B2
+der Marktplatz|plaza del mercado||S|vig|B2
+die Gasse|callejón||S|vig|B2
+das Kopfsteinpflaster|adoquines||S|vig|B2
+die Stadtführung|visita guiada por la ciudad||S|vig|B2
+der Reiseführer|guía de viaje||S|vig|B2
+die Rückreise|viaje de regreso||S|vig|B2
+der Zwischenstopp|escala intermedia||S|vig|B2
+der Ausflug|excursión||S|vig|B2
+das Souvenir|recuerdo de viaje||S|vig|B2
+die Übernachtung|pernoctación||S|vig|B2
+das Gästehaus|casa de huéspedes||S|vig|B2
+die Jugendherberge|albergue juvenil||S|vig|B2
+die Kurtaxe|tasa turística||S|vig|B2
+der Aufenthalt|estancia||S|vig|B2
+die Gepäckaufbewahrung|guardería de equipaje||S|vig|B2
+das Ticket|billete||S|vig|B2
+die Rundfahrt|visita panorámica||S|vig|B2
+die Fahrplanauskunft|información de horarios||S|vig|B2
+der Kulturschock|choque cultural||S|vig|B2
+das Fernweh|ansia de viajar||S|vig|B2
+das Heimweh|morriña||S|vig|B2
+die Verkehrsanbindung|conexiones de transporte||S|vig|B2
+die Fußgängerzone|zona peatonal||S|vig|B2
+die Einkaufsmeile|calle comercial||S|vig|B2
+der Bummel|paseo sin rumbo||S|vig|B2
+das Selbstbewusstsein|autoconfianza||S|emo|B2
+das Selbstwertgefühl|autoestima||S|emo|B2
+die Stärke|fortaleza||S|emo|B2
+die Schwäche|debilidad||S|emo|B2
+anerkennen|reconocer el valor de algo||V|emo|B2
+sich etwas abgewöhnen|perder una costumbre||E|emo|B2
+die Angewohnheit|hábito personal||S|emo|B2
+die Morgenroutine|rutina matutina||S|emo|B2
+die Gelassenheit|tranquilidad de ánimo||S|emo|B2
+die Disziplin|disciplina||S|emo|B2
+die Willenskraft|fuerza de voluntad||S|emo|B2
+der Vorsatz|buen propósito||S|emo|B2
+der Rückfall|recaída||S|emo|B2
+der Fortschritt|progreso||S|emo|B2
+scheitern|fracasar||V|emo|B2
+das Scheitern|fracaso||S|emo|B2
+dranbleiben|perseverar||V|emo|B2
+sich wohlfühlen|sentirse a gusto||V|emo|B2
+das Wohlbefinden|bienestar||S|emo|B2
+die Achtsamkeit|atención plena||S|emo|B2
+die Entspannung|relajación||S|emo|B2
+verspannt|tenso||A|emo|B2
+der Perfektionismus|perfeccionismo||S|emo|B2
+schüchtern|tímido||A|emo|B2
+die Komfortzone|zona de confort||S|emo|B2
+die Herausforderung|desafío||S|emo|B2
+anpacken|ponerse manos a la obra||V|emo|B2
+klarkommen|apañárselas||V|emo|B2
+die Zuversicht|optimismo confiado||S|emo|B2
+zweifeln an|dudar de||E|emo|B2
+überwinden|superar||V|emo|B2
+sich etwas vornehmen|proponerse algo||E|emo|B2
+die Beschwerde|queja||S|cmu|B2
+sich beschweren|quejarse||V|cmu|B2
+das Missverständnis|malentendido||S|cmu|B2
+die Verwechslung|confusión||S|cmu|B2
+verwechseln|confundir una cosa con otra||V|cmu|B2
+sich irren|equivocarse||V|cmu|B2
+unzufrieden|descontento||A|cmu|B2
+die Unzufriedenheit|insatisfacción||S|cmu|B2
+beanstanden|objetar||V|cmu|B2
+reklamieren|reclamar un producto||V|cmu|B2
+die Reklamation|reclamación||S|cmu|B2
+die Wiedergutmachung|reparación||S|cmu|B2
+das Entgegenkommen|buena disposición||S|cmu|B2
+zugeben|admitir||V|cmu|B2
+einräumen|conceder||V|cmu|B2
+vorwerfen|reprochar||V|cmu|B2
+der Vorwurf|reproche||S|cmu|B2
+übel nehmen|tomar a mal||E|cmu|B2
+falsch verstehen|malinterpretar||E|cmu|B2
+das Wortgefecht|altercado verbal||S|cmu|B2
+die Auseinandersetzung|discusión acalorada||S|cmu|B2
+das Schimpfwort|insulto||S|cmu|B2
+beleidigend|ofensivo||A|cmu|B2
+abblocken|ponerse a la defensiva||V|cmu|B2
+sich beruhigen|calmarse||V|cmu|B2
+etwas geht zu weit|algo va demasiado lejos||E|cmu|B2
+die Zumutung|propuesta inaceptable||S|cmu|B2
+der Umgangston|tono del trato||S|cmu|B2
+missverständlich|que presta a confusión||A|cmu|B2
+die Ausrede|excusa||S|cmu|B2
+sich herausreden|escabullirse||V|cmu|B2
+verzeihen|perdonar||V|cmu|B2
+das Formular|formulario||S|ist|B2
+ausfüllen|rellenar||V|ist|B2
+der Antrag|solicitud||S|ist|B2
+beantragen|solicitar||V|ist|B2
+die Behörde|organismo público||S|ist|B2
+der Behördengang|trámite administrativo||S|ist|B2
+das Amt|oficina pública||S|ist|B2
+der Termin|cita||S|ist|B2
+vereinbaren|acordar una cita||V|ist|B2
+die Bescheinigung|certificado||S|ist|B2
+die Beglaubigung|compulsa||S|ist|B2
+beglaubigen|compulsar||V|ist|B2
+die Zuständigkeit|competencia||S|ist|B2
+zuständig|competente||A|ist|B2
+die Bearbeitungszeit|tiempo de tramitación||S|ist|B2
+auf dem Postweg|por correo postal||E|ist|B2
+die Fristverlängerung|prórroga de plazo||S|ist|B2
+die Frist|plazo||S|ist|B2
+die Unterschrift|firma||S|ist|B2
+unterzeichnen|firmar||V|ist|B2
+die Papiere|papeles||S|ist|B2
+die Geburtsurkunde|certificado de nacimiento||S|ist|B2
+die Heiratsurkunde|certificado de matrimonio||S|ist|B2
+die Aufenthaltserlaubnis|permiso de residencia||S|ist|B2
+die Wartezeit|tiempo de espera||S|ist|B2
+der Sachbearbeiter|funcionario gestor||S|pro|B2
+die Vorschrift|norma||S|ist|B2
+die Bestimmung|disposición legal||S|ist|B2
+einreichen|presentar una solicitud||V|ist|B2
+zustellen|entregar correspondencia||V|ist|B2
+das Aktenzeichen|número de expediente||S|ist|B2
+die Auskunft|información al ciudadano||S|ist|B2

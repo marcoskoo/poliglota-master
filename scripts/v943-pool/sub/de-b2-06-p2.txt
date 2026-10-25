@@ -1,0 +1,288 @@
+das Brettspiel|juego de mesa||S|sve|B2
+der Würfel|dado||S|sve|B2
+würfeln|tirar el dado||V|sve|B2
+der Spielstein|ficha de juego||S|sve|B2
+das Spielbrett|tablero||S|sve|B2
+die Spielregel|regla del juego||S|sve|B2
+der Mitspieler|compañero de partida||S|sve|B2
+der Gegner|adversario||S|sve|B2
+der Gewinn|premio ganado||S|sve|B2
+gewinnen|ganar||V|sve|B2
+verlieren|perder||V|sve|B2
+das Glücksspiel|juego de azar||S|sve|B2
+der Einsatz|apuesta||S|sve|B2
+schummeln|hacer trampas||V|sve|B2
+die Spielrunde|ronda de juego||S|sve|B2
+das Kartenspiel|juego de cartas||S|sve|B2
+der Sammler|coleccionista||S|sve|B2
+sammeln|coleccionar||V|sve|B2
+die Briefmarke|sello postal||S|sve|B2
+der Flohmarkt|mercadillo||S|sve|B2
+die Antiquität|antigüedad||S|sve|B2
+die Rarität|pieza rara||S|sve|B2
+basteln|hacer manualidades||V|sve|B2
+das Klebeband|cinta adhesiva||S|sve|B2
+die Wolle|lana||S|sve|B2
+stricken|hacer punto||V|sve|B2
+häkeln|hacer ganchillo||V|sve|B2
+die Nähmaschine|máquina de coser||S|sve|B2
+nähen|coser||V|sve|B2
+der Modellbau|maquetismo||S|sve|B2
+die Laubsäge|sierra de calar||S|sve|B2
+der Bastelladen|tienda de manualidades||S|sve|B2
+die Motivation|motivación||S|emo|B2
+motivieren|motivar||V|emo|B2
+der Antrieb|impulso||S|emo|B2
+der Ehrgeiz|ambición||S|emo|B2
+ehrgeizig|ambicioso||A|emo|B2
+der Anreiz|incentivo||S|emo|B2
+der Stress|estrés||S|emo|B2
+gestresst|estresado||A|emo|B2
+angespannt|tenso||A|emo|B2
+die Überforderung|saturación por exceso de exigencia||S|emo|B2
+überfordert|desbordado||A|emo|B2
+die Überlastung|sobrecarga||S|emo|B2
+die Erschöpfung|agotamiento||S|emo|B2
+erschöpft|exhausto||A|emo|B2
+der Burnout|desgaste profesional||S|emo|B2
+der Frust|frustración||S|emo|B2
+frustrieren|frustrar||V|emo|B2
+die Zuversicht|optimismo||S|emo|B2
+zuversichtlich|optimista||A|emo|B2
+die Selbsteinschätzung|autoevaluación||S|emo|B2
+das Selbstvertrauen|autoconfianza||S|emo|B2
+der Selbstzweifel|duda sobre uno mismo||S|emo|B2
+die Willenskraft|fuerza de voluntad||S|emo|B2
+die Beharrlichkeit|perseverancia||S|emo|B2
+die Geduld|paciencia||S|emo|B2
+geduldig|paciente||A|emo|B2
+die Belohnung|recompensa||S|emo|B2
+belohnen|recompensar||V|emo|B2
+der Vorsatz|propósito||S|emo|B2
+die Ausgeglichenheit|equilibrio emocional||S|emo|B2
+die Nerven behalten|mantener la calma||L|emo|B2
+die Herausforderung|reto||S|emo|B2
+die Debatte|debate||S|cmu|B2
+die Grundsatzfrage|cuestión de fondo||S|cmu|B2
+der Standpunkt|punto de vista||S|cmu|B2
+die Sichtweise|perspectiva||S|cmu|B2
+das Argument|argumento||S|cmu|B2
+das Gegenargument|contraargumento||S|cmu|B2
+die Begründung|justificación||S|cmu|B2
+begründen|justificar||V|cmu|B2
+widerlegen|refutar||V|cmu|B2
+bestreiten|negar||V|cmu|B2
+bezweifeln|poner en duda||V|cmu|B2
+die Überzeugung|convicción||S|cmu|B2
+überzeugen|convencer||V|cmu|B2
+das Fazit|conclusión||S|cmu|B2
+das Resümee|síntesis||S|cmu|B2
+die Rhetorik|retórica||S|cmu|B2
+der Redner|orador||S|cmu|B2
+die Kontroverse|polémica||S|cmu|B2
+umstritten|controvertido||A|cmu|B2
+strittig|disputado||A|cmu|B2
+die Zustimmung|aprobación||S|cmu|B2
+zustimmen|estar de acuerdo||V|cmu|B2
+der Einspruch|objeción||S|cmu|B2
+einwenden|objetar||V|cmu|B2
+der Einwand|réplica en una discusión||S|cmu|B2
+die Behauptung|afirmación||S|cmu|B2
+behaupten|afirmar||V|cmu|B2
+die Ansicht|opinión||S|cmu|B2
+die Ansichtssache|cuestión de opiniones||S|cmu|B2
+einlenken|ceder en una discusión||V|cmu|B2
+der Konsens|consenso||S|cmu|B2
+der Dissens|desacuerdo||S|cmu|B2
+die Präsentation|presentación||S|cmu|B2
+der Vortrag|ponencia||S|cmu|B2
+die Rede|discurso||S|cmu|B2
+das Referat|exposición oral||S|cmu|B2
+die Folie|diapositiva||S|cmu|B2
+der Beamer|proyector||S|cmu|B2
+das Pult|atril||S|cmu|B2
+das Mikrofon|micrófono||S|cmu|B2
+die Bühne|escenario||S|cmu|B2
+das Publikum|público asistente||S|cmu|B2
+der Zuhörer|oyente||S|cmu|B2
+der Applaus|aplauso||S|cmu|B2
+applaudieren|aplaudir||V|cmu|B2
+das Lampenfieber|miedo escénico||S|cmu|B2
+stottern|tartamudear||V|cmu|B2
+sich verhaspeln|trabarse al hablar||L|cmu|B2
+die Sprechpause|pausa al hablar||S|cmu|B2
+die Körpersprache|lenguaje corporal||S|cmu|B2
+der Blickkontakt|contacto visual||S|cmu|B2
+der Stichpunkt|idea clave del guion||S|cmu|B2
+die Gliederung|esquema de la exposición||S|cmu|B2
+das Handout|documento repartido al público||S|cmu|B2
+der Zeitrahmen|marco temporal||S|cmu|B2
+die Fragerunde|turno de preguntas||S|cmu|B2
+die Aufmerksamkeit|atención||S|cmu|B2
+der Einstieg|introducción de una exposición||S|cmu|B2
+zusammenfassen|resumir||V|cmu|B2
+frei sprechen|hablar sin notas||L|cmu|B2
+die Podiumsdiskussion|mesa redonda||S|cmu|B2
+die Moderation|moderación||S|cmu|B2
+moderieren|moderar||V|cmu|B2
+der Ausblick|perspectivas finales||S|cmu|B2
+die Verhandlung|negociación||S|cmu|B2
+verhandeln|negociar||V|cmu|B2
+der Kompromiss|compromiso||S|cmu|B2
+das Zugeständnis|concesión||S|cmu|B2
+der Vorschlag|propuesta||S|cmu|B2
+der Gegenvorschlag|contrapropuesta||S|cmu|B2
+die Bedingung|condición||S|cmu|B2
+die Forderung|exigencia||S|cmu|B2
+fordern|exigir||V|cmu|B2
+die Einigung|acuerdo alcanzado||S|cmu|B2
+sich einigen|llegar a un acuerdo||L|cmu|B2
+die Übereinkunft|pacto||S|cmu|B2
+die Rücksichtnahme|consideración hacia los demás||S|cmu|B2
+rücksichtsvoll|considerado||A|cmu|B2
+das Entgegenkommen|disposición a ceder||S|cmu|B2
+verständnisvoll|comprensivo||A|cmu|B2
+diplomatisch|diplomático||A|cmu|B2
+verbindlich|cordial y con carácter vinculante||A|cmu|B2
+die Zusage|aceptación||S|cmu|B2
+die Absage|rechazo||S|cmu|B2
+zusagen|aceptar||V|cmu|B2
+absagen|rechazar||V|cmu|B2
+die Kompromissbereitschaft|disposición a pactar||S|cmu|B2
+das Ultimatum|ultimátum||S|cmu|B2
+drohen|amenazar||V|cmu|B2
+nachgeben|ceder||V|cmu|B2
+auf etwas beharren|insistir en algo||L|cmu|B2
+insistieren|insistir||V|cmu|B2
+das Tauziehen|tira y afloja||S|cmu|B2
+die Gesprächsbereitschaft|disposición al diálogo||S|cmu|B2
+die Sachlage|estado del asunto||S|cmu|B2
+das Wohlwollen|buena voluntad||S|cmu|B2
+das Gericht|tribunal||S|ist|B2
+der Richter|juez||S|ist|B2
+der Staatsanwalt|fiscal||S|ist|B2
+der Anwalt|abogado||S|ist|B2
+der Strafverteidiger|abogado defensor||S|ist|B2
+die Anklage|acusación||S|ist|B2
+anklagen|acusar ante el tribunal||V|ist|B2
+der Zeuge|testigo||S|ist|B2
+der Beweis|prueba judicial||S|ist|B2
+der Eid|juramento||S|ist|B2
+die Aussage|declaración||S|ist|B2
+das Urteil|sentencia||S|ist|B2
+die Berufung|recurso de apelación||S|ist|B2
+die Revision|recurso de casación||S|ist|B2
+die Strafe|pena||S|ist|B2
+die Geldstrafe|multa||S|ist|B2
+die Haft|prisión o detención||S|ist|B2
+verurteilen|condenar||V|ist|B2
+freisprechen|absolver||V|ist|B2
+der Freispruch|absolución||S|ist|B2
+das Verbrechen|delito grave||S|ist|B2
+der Verbrecher|delincuente||S|ist|B2
+die Straftat|delito castigado por la ley||S|ist|B2
+die Tat|hecho delictivo||S|ist|B2
+das Geständnis|confesión||S|ist|B2
+gestehen|confesar||V|ist|B2
+die Schuld|culpa||S|ist|B2
+schuldig|culpable||A|ist|B2
+der Prozess|proceso judicial||S|ist|B2
+die Vernehmung|interrogatorio||S|ist|B2
+die Rechtsprechung|jurisprudencia||S|ist|B2
+die Justiz|administración de justicia||S|ist|B2
+die Behörde|organismo público||S|ist|B2
+das Amt|oficina pública||S|ist|B2
+der Beamte|funcionario||S|ist|B2
+das Formular|formulario||S|ist|B2
+der Antrag|solicitud||S|ist|B2
+beantragen|solicitar||V|ist|B2
+die Bescheinigung|certificado||S|ist|B2
+der Nachweis|justificante||S|ist|B2
+die Zuständigkeit|competencia||S|ist|B2
+zuständig|competente||A|ist|B2
+die Bearbeitung|tramitación||S|ist|B2
+bearbeiten|tramitar||V|ist|B2
+die Gebühr|tasa administrativa||S|ist|B2
+der Ausweis|documento de identidad||S|ist|B2
+das Einwohnermeldeamt|oficina de empadronamiento||S|ist|B2
+die Anmeldung|registro||S|ist|B2
+anmelden|registrar||V|ist|B2
+der Bescheid|notificación administrativa||S|ist|B2
+die Warteschlange|cola de espera||S|ist|B2
+die Öffnungszeiten|horario de atención||S|ist|B2
+der Sachbearbeiter|funcionario gestor||S|ist|B2
+die Beglaubigung|copia compulsada||S|ist|B2
+beglaubigen|compulsar||V|ist|B2
+die Verwaltung|administración pública||S|ist|B2
+das Schreiben|escrito oficial||S|ist|B2
+der Schriftverkehr|correspondencia oficial||S|ist|B2
+die Aufenthaltserlaubnis|permiso de residencia||S|ist|B2
+die Einbürgerung|nacionalización||S|ist|B2
+das Einreichen|presentación de documentos||S|ist|B2
+einreichen|presentar una solicitud||V|ist|B2
+der Behördengang|gestión ante la administración||S|ist|B2
+die Zustellung|notificación oficial||S|ist|B2
+die Wahl|elección||S|ist|B2
+wählen|votar||V|ist|B2
+die Urne|urna electoral||S|ist|B2
+das Votum|voto o dictamen||S|ist|B2
+die Abstimmung|votación||S|ist|B2
+die Volksabstimmung|referéndum||S|ist|B2
+die Enthaltung|abstención||S|ist|B2
+der Kandidat|candidato||S|ist|B2
+die Kandidatur|candidatura||S|ist|B2
+der Bewerber|aspirante||S|ist|B2
+die Partei|partido político||S|ist|B2
+die Opposition|oposición||S|ist|B2
+die Koalition|coalición||S|ist|B2
+die Mehrheit|mayoría||S|ist|B2
+die Minderheit|minoría||S|ist|B2
+das Parlament|parlamento||S|ist|B2
+der Sitz|escaño||S|ist|B2
+die Fraktion|grupo parlamentario||S|ist|B2
+das Mandat|mandato parlamentario||S|ist|B2
+die Regierung|gobierno||S|ist|B2
+der Ministerpräsident|ministro presidente||S|ist|B2
+das Grundgesetz|ley fundamental||S|ist|B2
+die Verfassung|constitución||S|ist|B2
+das Grundrecht|derecho fundamental||S|ist|B2
+die Pressefreiheit|libertad de prensa||S|ist|B2
+die Kampagne|campaña electoral||S|ist|B2
+das Plakat|cartel electoral||S|ist|B2
+die Volksvertretung|representación popular||S|ist|B2
+das Endergebnis|resultado final||S|ist|B2
+die Hochrechnung|proyección electoral||S|ist|B2
+die Beteiligung|participación||S|ist|B2
+das Misstrauensvotum|votación de censura||S|ist|B2
+allerdings|sin embargo||D|cnn|B2
+dennoch|no obstante||D|cnn|B2
+somit|por lo tanto||D|cnn|B2
+folglich|en consecuencia||D|cnn|B2
+infolgedessen|como consecuencia||L|cnn|B2
+einerseits|por una parte||D|cnn|B2
+andererseits|por otra parte||D|cnn|B2
+zum einen|por un lado||L|cnn|B2
+zum anderen|por otro lado||L|cnn|B2
+zunächst|en primer lugar||D|cnn|B2
+anschließend|a continuación||D|cnn|B2
+nachdem|después de que||C|cnn|B2
+sobald|tan pronto como||C|cnn|B2
+sofern|siempre que||C|cnn|B2
+vorausgesetzt dass|suponiendo que||C|cnn|B2
+falls|en caso de que||C|cnn|B2
+sodass|de modo que||C|cnn|B2
+obwohl|aunque||C|cnn|B2
+wohingegen|mientras que||C|cnn|B2
+indem|mediante||C|cnn|B2
+dadurch dass|gracias a que||C|cnn|B2
+nämlich|pues||D|cnn|B2
+und zwar|y concretamente||L|cnn|B2
+das heißt|es decir||L|cnn|B2
+beziehungsweise|o bien||D|cnn|B2
+zusammenfassend|a modo de resumen||D|cnn|B2
+schlussendlich|en definitiva||D|cnn|B2
+letztendlich|en última instancia||D|cnn|B2
+im Grunde genommen|en el fondo||L|cnn|B2
+übrigens|por cierto||D|cnn|B2
+des Weiteren|asimismo||L|cnn|B2
+überdies|además||D|cnn|B2

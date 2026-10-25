@@ -1,0 +1,289 @@
+die Geburt|nacimiento||S|fam|B2
+die Kindheit|infancia||S|fam|B2
+die Jugend|juventud||S|fam|B2
+das Erwachsenenalter|edad adulta||S|fam|B2
+das Neugeborene|recién nacido||S|fam|B2
+der Säugling|bebé lactante||S|fam|B2
+die Schwangerschaft|embarazo||S|fam|B2
+die Wiege|cuna||S|fam|B2
+die Taufe|bautizo||S|fam|B2
+die Verlobung|compromiso de boda||S|fam|B2
+die Ehekrise|crisis matrimonial||S|fam|B2
+der Witwer|viudo||S|fam|B2
+die Witwe|viuda||S|fam|B2
+der Urenkel|bisnieto||S|fam|B2
+die Urgroßmutter|bisabuela||S|fam|B2
+der Neffe|sobrino||S|fam|B2
+die Nichte|sobrina||S|fam|B2
+der Zwilling|gemelo||S|fam|B2
+die Geschwister|hermanos||S|fam|B2
+die Patchworkfamilie|familia reconstruida||S|fam|B2
+der Stammbaum|árbol genealógico||S|fam|B2
+der Ahne|antepasado||S|fam|B2
+das Erbe|herencia||S|fam|B2
+der Schwiegersohn|yerno||S|fam|B2
+die Verwandtschaft|parentesco||S|fam|B2
+der Nachwuchs|descendencia||S|fam|B2
+der Ruhestand|jubilación||S|fam|B2
+der Meilenstein|hito||S|fam|B2
+die Pubertät|pubertad||S|fam|B2
+die Volljährigkeit|mayoría de edad||S|fam|B2
+das Erwachsenwerden|proceso de hacerse adulto||S|fam|B2
+heranwachsen|crecer hasta ser adulto||V|fam|B2
+sich trennen|separarse||V|rel|B2
+der Familienstreit|disputa familiar||S|fam|B2
+die Auseinandersetzung|discusión acalorada||S|fam|B2
+der Generationenkonflikt|conflicto generacional||S|fam|B2
+der Kompromiss|acuerdo intermedio||S|fam|B2
+der Erziehungsstil|estilo educativo||S|fam|B2
+die Beratungsstelle|punto de asesoramiento||S|ist|B2
+das Sorgerecht|patria potestad||S|fam|B2
+das Besuchsrecht|derecho de visitas||S|fam|B2
+der Unterhalt|pensión alimenticia||S|fam|B2
+der Trotz|terquedad||S|fam|B2
+das Elternhaus|familia de origen||S|fam|B2
+die Elternzeit|excedencia por nacimiento||S|lav|B2
+die Mutterschaft|maternidad||S|fam|B2
+die Vaterschaft|paternidad||S|fam|B2
+der Stiefvater|padrastro||S|fam|B2
+die Stieftochter|hijastra||S|fam|B2
+der Pate|padrino||S|fam|B2
+das Patenkind|ahijado||S|fam|B2
+das Taschengeld|dinero de bolsillo||S|fam|B2
+das Leitbild|modelo de referencia||S|fam|B2
+der Machtkampf|lucha de poder||S|fam|B2
+das Missverständnis|malentendido||S|fam|B2
+die Rebellion|rebelión||S|fam|B2
+die Geschwisterrivalität|rivalidad entre hermanos||S|fam|B2
+gehorchen|obedecer||V|fam|B2
+bestrafen|castigar||V|fam|B2
+schimpfen|regañar||V|fam|B2
+verwöhnen|mimar o consentir||V|fam|B2
+vorwerfen|reprochar||V|fam|B2
+ermutigen|animar||V|fam|B2
+stillen|amamantar||V|fam|B2
+trotzen|desafiar||V|fam|B2
+der Umzug|mudanza||S|cas|B2
+der Umzugskarton|caja de mudanza||S|cas|B2
+der Möbelwagen|camión de mudanzas||S|cas|B2
+die Spedition|empresa de transportes||S|cas|B2
+die Nebenkosten|gastos de comunidad||S|cas|B2
+der Vermieter|arrendador||S|cas|B2
+die Kaution|fianza||S|cas|B2
+kündigen|dar por terminado el contrato||V|cas|B2
+die Aufhebung|anulación del contrato||S|cas|B2
+die Vertragslaufzeit|duración del contrato||S|cas|B2
+verlängern|prorrogar||V|cas|B2
+der Eigenbedarf|uso propio||S|cas|B2
+die Eigentumswohnung|vivienda en propiedad||S|cas|B2
+der Eigentümer|propietario||S|cas|B2
+der Altbau|edificio de construcción antigua||S|cit|B2
+das Reihenhaus|casa adosada||S|cas|B2
+der Quadratmeter|metros cuadrados||S|cas|B2
+die Etage|planta||S|cas|B2
+der Dachboden|desván||S|cas|B2
+der Keller|sótano||S|cas|B2
+das Treppenhaus|escalera del edificio||S|cas|B2
+der Flur|recibidor||S|cas|B2
+die Abrechnung|liquidación de gastos||S|cas|B2
+die Instandhaltung|mantenimiento||S|cas|B2
+die Wohnungssuche|búsqueda de vivienda||S|cas|B2
+der Wohnungsmarkt|mercado de vivienda||S|cas|B2
+die Besichtigung|visita para ver la vivienda||S|cas|B2
+das Übergabeprotokoll|acta de entrega||S|cas|B2
+ausziehen|mudarse de casa||V|cas|B2
+der Wintergarten|invernadero||S|cas|B2
+der Makler|agente inmobiliario||S|cas|B2
+die Maklerprovision|comisión del agente inmobiliario||S|cas|B2
+die Renovierung|reforma||S|cas|B2
+der Umbau|reforma estructural||S|cas|B2
+die Sanierung|rehabilitación||S|cas|B2
+der Maler|pintor||S|pro|B2
+der Maurer|albañil||S|pro|B2
+der Elektriker|electricista||S|pro|B2
+der Klempner|fontanero||S|pro|B2
+der Fliesenleger|azulejista||S|pro|B2
+der Zimmermann|carpintero||S|pro|B2
+die Bohrmaschine|taladro||S|cas|B2
+die Tapete|papel pintado||S|cas|B2
+tapezieren|empapelar||V|cas|B2
+das Laminat|suelo laminado||S|cas|B2
+der Teppichboden|moqueta||S|cas|B2
+die Fliese|azulejo||S|cas|B2
+der Putz|revoco||S|cas|B2
+die Dämmung|aislamiento térmico||S|cas|B2
+die Dachschräge|techo inclinado||S|cas|B2
+der Anstrich|capa de pintura||S|cas|B2
+streichen|pintar una pared||V|cas|B2
+die Wandfarbe|color de pared||S|cas|B2
+die Garderobe|vestíbulo con perchero||S|cas|B2
+das Möbelstück|mueble||S|cas|B2
+die Schublade|cajón||S|cas|B2
+die Kommode|cómoda||S|cas|B2
+der Nachttisch|mesilla de noche||S|cas|B2
+die Stehlampe|lámpara de pie||S|cas|B2
+die Steckdose|enchufe||S|cas|B2
+das Insektengitter|mosquitera||S|cas|B2
+die Markise|toldo||S|cas|B2
+der Rollladen|persiana||S|cas|B2
+die Dunstabzugshaube|campana extractora||S|cas|B2
+die Spezialität|especialidad||S|ali|B2
+die Hausmannskost|cocina casera tradicional||S|ali|B2
+die Kochkunst|arte culinario||S|ali|B2
+die Esskultur|cultura alimentaria||S|ali|B2
+die Gastronomie|gastronomía||S|ali|B2
+die Zutat|ingrediente||S|ali|B2
+die Beilage|guarnición||S|ali|B2
+die Vorspeise|entrante||S|ris|B2
+die Hauptspeise|plato principal||S|ris|B2
+die Rezeptur|formulación de la receta||S|ali|B2
+das Bankett|banquete||S|ali|B2
+die Köstlichkeit|manjar exquisito||S|ali|B2
+der Leckerbissen|capricho gastronómico||S|ali|B2
+die Konsistenz|textura||S|ali|B2
+das Gebäck|bollería||S|ali|B2
+die Zubereitung|preparación||S|ali|B2
+zubereiten|preparar un plato||V|ali|B2
+würzen|condimentar||V|ali|B2
+anbraten|sofreír||V|ali|B2
+dünsten|cocer al vapor||V|ali|B2
+schmoren|estofar||V|ali|B2
+köcheln|cocer a fuego lento||V|ali|B2
+abschmecken|ajustar el punto de sazón||V|ali|B2
+verfeinern|dar un toque refinado||V|ali|B2
+die Anrichtung|emplatado||S|ali|B2
+knusprig|crujiente||A|ali|B2
+saftig|jugoso||A|ali|B2
+herzhaft|sustancioso||A|ali|B2
+mild|suave de sabor||A|ali|B2
+das Kochbuch|libro de cocina||S|ali|B2
+die Imbissbude|puesto de comida rápida||S|ali|B2
+zum Essen einladen|invitar a comer||E|ali|B2
+die Unverträglichkeit|intolerancia||S|sla|B2
+die Laktoseintoleranz|intolerancia a la lactosa||S|sla|B2
+die Nahrungsmittelallergie|alergia alimentaria||S|sla|B2
+die Ernährungsberatung|asesoría nutricional||S|sla|B2
+sich gesund ernähren|alimentarse de forma sana||E|sla|B2
+das Vollkornprodukt|producto integral||S|ali|B2
+zuckerhaltig|con mucho azúcar||A|ali|B2
+zuckerfrei|sin azúcar||A|ali|B2
+die Nährwertangabe|información nutricional||S|ali|B2
+der Zusatzstoff|aditivo||S|ali|B2
+der Geschmacksverstärker|potenciador del sabor||S|ali|B2
+der Süßstoff|edulcorante||S|ali|B2
+abnehmen|adelgazar||V|sla|B2
+das Übergewicht|sobrepeso||S|sla|B2
+die Magersucht|anorexia||S|sla|B2
+der Jo-Jo-Effekt|efecto yoyó||S|sla|B2
+der Heißhunger|antojo voraz||S|sla|B2
+der Blutdruck|tensión||S|sla|B2
+der Cholesterinspiegel|nivel de colesterol||S|sla|B2
+der Nährstoff|nutriente||S|ali|B2
+die Ballaststoffe|fibras||S|ali|B2
+die Lebensmittelvergiftung|intoxicación alimentaria||S|sla|B2
+die Ausgewogenheit|equilibrio||S|sla|B2
+ausgewogen|equilibrado||A|sla|B2
+das Fasten|ayuno||S|sla|B2
+die Kalorienbombe|bomba de calorías||S|sla|B2
+vitaminreich|rico en vitaminas||A|sla|B2
+fettarm|bajo en grasa||A|sla|B2
+kalorienarm|bajo en calorías||A|sla|B2
+die Rohkost|comida cruda||S|ali|B2
+das Körperfett|grasa corporal||S|sla|B2
+die Verdauung|digestión||S|sla|B2
+die Landesküche|cocina regional||S|ali|B2
+das Gulasch|guiso de carne con salsa||S|ali|B2
+die Roulade|filete enrollado||S|ali|B2
+der Eintopf|guiso de una sola olla||S|ali|B2
+der Knödel|bola de masa hervida||S|ali|B2
+der Auflauf|gratin||S|ali|B2
+das Fondue|fondue de queso||S|ali|B2
+die Bratwurst|salchicha a la parrilla||S|ali|B2
+die Frikadelle|albóndiga frita||S|ali|B2
+die Brezel|pretzel salado||S|ali|B2
+das Rührei|revuelto||S|ali|B2
+panieren|rebozar||V|ali|B2
+die Füllung|relleno||S|ali|B2
+der Blätterteig|hojaldre||S|ali|B2
+der Apfelstrudel|hojaldre de manzana||S|ali|B2
+die Schweinshaxe|codillo de cerdo||S|ali|B2
+der Speck|tocino||S|ali|B2
+das Schmalz|manteca||S|ali|B2
+der Kümmel|comino||S|ali|B2
+der Dill|eneldo||S|ali|B2
+das Lorbeerblatt|hoja de laurel||S|ali|B2
+der Majoran|majorana||S|ali|B2
+die Essiggurke|pepinillo en vinagre||S|ali|B2
+der Rotkohl|col roja||S|ali|B2
+die Kohlroulade|rollo de col relleno||S|ali|B2
+räuchern|ahumar||V|ali|B2
+pökeln|salar en salmuera||V|ali|B2
+die Gewürzmühle|molinillo de especias||S|ali|B2
+die Konserve|conserva||S|ali|B2
+der Feinschmecker|gastrónomo||S|ali|B2
+die Brühe|caldo||S|ali|B2
+der Kartoffelsalat|ensalada de patata||S|ali|B2
+der Gaumen|paladar||S|ali|B2
+die Rebsorte|variedad de uva||S|ali|B2
+der Weinberg|viñedo||S|ali|B2
+die Weinlese|vendimia||S|ali|B2
+der Winzer|viticultor||S|pro|B2
+das Weingut|bodega||S|ali|B2
+der Jahrgang|añada||S|ali|B2
+reifen|envejecer||V|ali|B2
+das Fass|barrica||S|ali|B2
+das Bukett|bouquet aromático||S|ali|B2
+vollmundig|de cuerpo pleno||A|ali|B2
+halbtrocken|semiseco||A|ali|B2
+der Sekt|espumoso||S|ali|B2
+die Kostprobe|degustación||S|ali|B2
+verkosten|catar||V|ali|B2
+der Kaffeesatz|poso del café||S|ali|B2
+der Milchschaum|espuma de leche||S|ali|B2
+rösten|tostar||V|ali|B2
+der Aufguss|infusión||S|ali|B2
+das Aroma|aroma||S|ali|B2
+herb|astringente||A|ali|B2
+fruchtig|frutado||A|ali|B2
+blumig|floral||A|ali|B2
+der Abgang|retrogusto||S|ali|B2
+der Genuss|placer al comer o beber||S|ali|B2
+der Kaffeeklatsch|tertulia de café||S|ali|B2
+der Aperitif|aperitivo||S|ali|B2
+der Digestif|digestivo||S|ali|B2
+anstoßen|chocar las copas||V|ali|B2
+zum Wohl|salud||E|ali|B2
+der Sommelier|sumiller||S|pro|B2
+das Etikett|etiqueta de la botella||S|ali|B2
+die Werbeanzeige|anuncio publicitario||S|cmp|B2
+der Werbespot|anuncio de televisión||S|cmp|B2
+der Slogan|eslógan||S|cmp|B2
+der Verbraucher|consumidor||S|cmp|B2
+die Zielgruppe|público objetivo||S|cmp|B2
+das Lockangebot|oferta señuelo||S|cmp|B2
+das Schnäppchen|chollo||S|cmp|B2
+der Ausverkauf|rebajas de liquidación||S|cmp|B2
+die Konsumgesellschaft|sociedad de consumo||S|cmp|B2
+das Konsumgut|bien de consumo||S|cmp|B2
+das Markenzeichen|logotipo de marca||S|cmp|B2
+die Markentreue|fidelidad a la marca||S|cmp|B2
+der Warenkorb|cesta de la compra||S|cmp|B2
+die Filiale|sucursal||S|cmp|B2
+das Sonderangebot|oferta especial||S|cmp|B2
+die Ladenkette|cadena de tiendas||S|cmp|B2
+der Discounter|tienda de descuento||S|cmp|B2
+das Plakat|cartel publicitario||S|cmp|B2
+die Reklame|publicidad insistente||S|cmp|B2
+das Inserat|anuncio de prensa||S|cmp|B2
+die Kaufkraft|poder adquisitivo||S|cmp|B2
+die Verkaufsförderung|promoción de ventas||S|cmp|B2
+der Umsatz|volumen de ventas||S|cmp|B2
+die Preisgestaltung|política de precios||S|cmp|B2
+das Preis-Leistungs-Verhältnis|relación calidad precio||S|cmp|B2
+konkurrenzfähig|competitivo||A|cmp|B2
+der Konkurrent|competidor||S|cmp|B2
+die Nachfrage|demanda||S|cmp|B2
+der Absatz|despacho de ventas||S|cmp|B2
+die Kundenbindung|fidelización de clientes||S|cmp|B2
+der Marktanteil|cuota de mercado||S|cmp|B2
+die Marktforschung|estudio de mercado||S|cmp|B2

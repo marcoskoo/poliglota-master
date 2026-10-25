@@ -1,0 +1,289 @@
+allerdings|no obstante||D|cnn|B2
+dennoch|con todo||D|cnn|B2
+demnach|por lo tanto||D|cnn|B2
+folglich|en consecuencia||D|cnn|B2
+somit|así pues||D|cnn|B2
+andererseits|por otra parte||D|cnn|B2
+überdies|además||D|cnn|B2
+hingegen|en cambio||D|cnn|B2
+dagegen|por el contrario||D|cnn|B2
+insofern|en este sentido||D|cnn|B2
+das heißt|es decir||E|cnn|B2
+und zwar|a saber||E|cnn|B2
+zum einen|por un lado||E|cnn|B2
+zum anderen|por otro lado||E|cnn|B2
+jedenfalls|en todo caso||D|cnn|B2
+unter Umständen|en determinadas circunstancias||E|cnn|B2
+möglicherweise|posiblemente||D|cnn|B2
+womöglich|muy posiblemente||D|cnn|B2
+zufolge|de acuerdo con||P|cnn|B2
+hinsichtlich|en cuanto a||P|cnn|B2
+bezüglich|con respecto a||P|cnn|B2
+angesichts|en vista de||P|cnn|B2
+vorausgesetzt dass|siempre que||C|cnn|B2
+sofern|en caso de que||C|cnn|B2
+sowohl als auch|tanto como||C|cnn|B2
+weder noch|ni tampoco||C|cnn|B2
+beispielsweise|por ejemplo||D|cnn|B2
+vor allem|sobre todo||E|cnn|B2
+genauer gesagt|dicho con más precisión||E|cnn|B2
+wie bereits erwähnt|como ya se ha mencionado||E|cnn|B2
+abschließend|para terminar||D|cnn|B2
+im Grunde|en el fondo||E|cnn|B2
+das Glück|suerte||S|ast|B2
+das Pech|mala suerte||S|ast|B2
+das Missgeschick|contratiempo||S|ast|B2
+zufällig|por casualidad||D|ast|B2
+das Schicksal|destino||S|ast|B2
+das Verhängnis|perdición||S|ast|B2
+die Wende|giro de rumbo||S|ast|B2
+der Umschwung|cambio brusco||S|ast|B2
+der Wandel|transformación||S|ast|B2
+sich wandeln|transformarse||V|ast|B2
+der Augenblick|instante||S|tmp|B2
+die Dauer|duración||S|tmp|B2
+vorübergehend|pasajero||A|tmp|B2
+im Nu|en un santiamén||E|tmp|B2
+die Ewigkeit|eternidad||S|tmp|B2
+die Gelegenheit|ocasión||S|ast|B2
+die Vorahnung|premonición||S|ast|B2
+ahnen|presentir||V|ast|B2
+die Erwartung|expectativa||S|ast|B2
+überraschenderweise|sorprendentemente||D|ast|B2
+das Erlebnis|vivencia||S|ast|B2
+der Eindruck|impresión||S|ast|B2
+der Abstand|distancia en el tiempo||S|ast|B2
+der Verlauf|curso de los acontecimientos||S|ast|B2
+das Maß|grado o medida||S|ast|B2
+das Unheil|desgracia||S|ast|B2
+das Gelingen|buen resultado||S|ast|B2
+gelingen|salir bien||V|ast|B2
+misslingen|salir mal||V|ast|B2
+das Vorhaben|intención||S|ast|B2
+die Gegenwart|presente||S|tmp|B2
+heimtückisch|traicionero||A|ast|B2
+die Dauerausstellung|exposición permanente||S|art|B2
+die Sonderausstellung|exposición temporal||S|art|B2
+das Exponat|pieza expuesta||S|art|B2
+die Vernissage|inauguración de una exposición||S|art|B2
+der Rundgang|recorrido||S|art|B2
+der Audioguide|audioguía||S|art|B2
+das Kunstwerk|obra de arte||S|art|B2
+das Kulturerbe|patrimonio cultural||S|art|B2
+die Kunstsammlung|colección de arte||S|art|B2
+die Leihgabe|obra prestada||S|art|B2
+die Vitrine|vitrina||S|art|B2
+Eintritt frei|entrada gratuita||E|art|B2
+der Saal|sala||S|art|B2
+der Flügel|ala de un edificio||S|art|B2
+das Gemälde|cuadro||S|art|B2
+die Skulptur|escultura||S|art|B2
+die Bildhauerei|arte de esculpir||S|art|B2
+der Pinselstrich|trazo de pincel||S|art|B2
+das Stillleben|bodegón||S|art|B2
+das Selbstporträt|autorretrato||S|art|B2
+die Leinwand|lienzo||S|art|B2
+die Restaurierung|restauración||S|art|B2
+der Kenner|experto||S|art|B2
+die Bewunderung|admiración||S|art|B2
+das Denkmal|monumento||S|art|B2
+die Gedenkstätte|lugar conmemorativo||S|art|B2
+die Restauratorin|restauradora||S|pro|B2
+die Beschilderung|señalización||S|art|B2
+das Rahmenprogramm|programa paralelo||S|art|B2
+die Eröffnungsrede|discurso inaugural||S|art|B2
+die Epoche|época||S|art|B2
+die Sammlerin|coleccionista||S|pro|B2
+der Abflug|despegue||S|tra|B2
+die Verspätung|retraso||S|tra|B2
+das Terminal|terminal del aeropuerto||S|tra|B2
+die Grenzkontrolle|control de fronteras||S|tra|B2
+der Zoll|aduana||S|tra|B2
+verzollen|declarar en la aduana||V|tra|B2
+die Sicherheitskontrolle|control de seguridad||S|tra|B2
+das Handgepäck|equipaje de mano||S|tra|B2
+der Flugsteig|puerta de embarque||S|tra|B2
+die Bordkarte|tarjeta de embarque||S|tra|B2
+die Maschine|avión||S|tra|B2
+die Umsteigezeit|tiempo de transbordo||S|tra|B2
+umsteigen|hacer transbordo||V|tra|B2
+die Verbindung|enlace de transporte||S|tra|B2
+die Landung|aterrizaje||S|tra|B2
+die Startbahn|pista de despegue||S|tra|B2
+die Entschädigung|indemnización||S|tra|B2
+die Turbulenzen|turbulencias||S|tra|B2
+der Fensterplatz|asiento de ventanilla||S|tra|B2
+die Abholung|recogida||S|tra|B2
+der Transfer|traslado al aeropuerto||S|tra|B2
+die Verlustanzeige|denuncia por pérdida||S|tra|B2
+die Durchsage|anuncio por megafonía||S|tra|B2
+die Sicherheitsbestimmungen|normas de seguridad||S|tra|B2
+die Ankunftshalle|sala de llegadas||S|tra|B2
+die Abfertigung|facturación||S|tra|B2
+einchecken|facturar el equipaje||V|tra|B2
+das Rollfeld|pista de rodaje||S|tra|B2
+der Transitbereich|zona de tránsito||S|tra|B2
+der Reisepass|pasaporte||S|tra|B2
+die Einfuhr|importación de mercancías||S|tra|B2
+die Wartehalle|sala de espera||S|tra|B2
+die Rezeption|recepción||S|htl|B2
+der Hoteldirektor|director del hotel||S|htl|B2
+die Reservierung|reserva||S|htl|B2
+das Rauchverbot|prohibición de fumar||S|htl|B2
+die Halbpension|media pensión||S|htl|B2
+die Vollpension|pensión completa||S|htl|B2
+inklusive Frühstück|con desayuno incluido||E|htl|B2
+der Zimmerservice|servicio de habitaciones||S|htl|B2
+die Zimmerreinigung|limpieza de habitaciones||S|htl|B2
+defekt|estropeado||A|htl|B2
+die Klimaanlage|aire acondicionado||S|htl|B2
+die Lärmbelästigung|molestias por ruido||S|htl|B2
+die Belegung|ocupación||S|htl|B2
+der Ausblick|vistas||S|htl|B2
+der Meerblick|vistas al mar||S|htl|B2
+die Hotelrechnung|cuenta del hotel||S|htl|B2
+der Mangel|defecto||S|htl|B2
+mangelhaft|deficiente||A|htl|B2
+die Anfrage|consulta||S|htl|B2
+anfragen|hacer una consulta||V|htl|B2
+ausgebucht|completo||A|htl|B2
+die Überbuchung|sobreventa||S|htl|B2
+die Umbuchung|cambio de reserva||S|htl|B2
+die Stornierung|anulación||S|htl|B2
+die Wäscherei|lavandería||S|htl|B2
+die Minibar|minibar||S|htl|B2
+der Safe|caja fuerte||S|htl|B2
+der Tresen|mostrador||S|htl|B2
+das Auschecken|trámite de salida||S|htl|B2
+der Kofferträger|maletero||S|htl|B2
+die Gästeliste|lista de huéspedes||S|htl|B2
+das Frühstücksbuffet|bufé de desayuno||S|htl|B2
+das Bewerbungsgespräch|entrevista de trabajo||S|lav|B2
+der Lebenslauf|currículum||S|lav|B2
+das Anschreiben|carta de presentación||S|lav|B2
+das Arbeitszeugnis|informe de rendimiento laboral||S|lav|B2
+die Probezeit|período de prueba||S|lav|B2
+die Kündigungsfrist|plazo de preaviso||S|lav|B2
+kündigen|rescindir el contrato||V|lav|B2
+die Gehaltsabrechnung|nómina||S|lav|B2
+der Tarifvertrag|convenio colectivo||S|lav|B2
+der Betriebsrat|comité de empresa||S|lav|B2
+der Vorgesetzte|superior jerárquico||S|lav|B2
+der Azubi|aprendiz||S|lav|B2
+der Ausbildungsplatz|plaza de formación||S|lav|B2
+sich einarbeiten|adaptarse al puesto||V|lav|B2
+die Einarbeitung|fase de adaptación||S|lav|B2
+der Feierabend|fin de la jornada laboral||S|lav|B2
+die Überstunden|horas extra||S|lav|B2
+die Teambesprechung|reunión de equipo||S|lav|B2
+die Kollegialität|compañerismo||S|lav|B2
+der Aufgabenbereich|ámbito de funciones||S|lav|B2
+die Elternzeit|permiso por cuidado de hijos||S|lav|B2
+krankschreiben|dar la baja médica||V|lav|B2
+die Krankmeldung|justificante médico||S|lav|B2
+die Beförderung|ascenso||S|lav|B2
+die Führungskraft|directivo||S|lav|B2
+die Abmahnung|amonestación escrita||S|lav|B2
+die Konkurrenz|competencia||S|lav|B2
+der Nebenjob|trabajo extra||S|lav|B2
+das Homeoffice|teletrabajo||S|lav|B2
+das Betriebsklima|ambiente laboral||S|lav|B2
+die Praktikumsstelle|puesto de prácticas||S|lav|B2
+die Einstellung|contratación||S|lav|B2
+die Generation|generación||S|fam|B2
+der Generationenkonflikt|conflicto generacional||S|fam|B2
+die Kindheit|infancia||S|fam|B2
+die Erinnerung|recuerdo||S|fam|B2
+die Kindheitserinnerung|recuerdo de la infancia||S|fam|B2
+die Nostalgie|nostalgia||S|fam|B2
+die gute alte Zeit|los buenos viejos tiempos||E|fam|B2
+das Enkelkind|nieto||S|fam|B2
+die Schwiegermutter|suegra||S|fam|B2
+die Schwiegereltern|suegros||S|fam|B2
+die Urgroßmutter|bisabuela||S|fam|B2
+die Patchworkfamilie|familia reconstituida||S|fam|B2
+das Familienfest|fiesta familiar||S|fam|B2
+das Schwarzweißfoto|foto en blanco y negro||S|fam|B2
+das Fotoalbum|álbum de fotos||S|fam|B2
+das Erbstück|objeto heredado||S|fam|B2
+die Anekdote|anécdota||S|fam|B2
+das Sprichwort|refrán||S|fam|B2
+die Redensart|frase hecha||S|fam|B2
+der Stammbaum|árbol genealógico||S|fam|B2
+die Herkunft|origen||S|fam|B2
+die Lebensgeschichte|historia de vida||S|fam|B2
+die Jugend|juventud||S|fam|B2
+die Pubertät|pubertad||S|fam|B2
+das Erwachsenwerden|llegada a la edad adulta||S|fam|B2
+der Ruheständler|jubilado||S|fam|B2
+die Nachkriegszeit|posguerra||S|fam|B2
+das Wirtschaftswunder|milagro económico||S|fam|B2
+die Schallplatte|disco de vinilo||S|fam|B2
+der Plattenspieler|toca discos||S|fam|B2
+der Dachboden|desván||S|cas|B2
+das Tagebuch|diario||S|fam|B2
+die Schlafqualität|calidad del sueño||S|sla|B2
+die Schlafstörung|trastorno del sueño||S|sla|B2
+die Müdigkeit|somnolencia||S|sla|B2
+die Erschöpfung|agotamiento||S|sla|B2
+erschöpft|agotado||A|sla|B2
+energielos|sin energía||A|sla|B2
+die Ausgeglichenheit|serenidad||S|sla|B2
+der Biorhythmus|biorritmo||S|sla|B2
+die innere Uhr|reloj interno||E|sla|B2
+das Nickerchen|cabezadita||S|sla|B2
+die Nachtruhe|descanso nocturno||S|sla|B2
+die Verspannung|contractura||S|sla|B2
+die Rückenschmerzen|dolores de espalda||S|sla|B2
+das Schmerzmittel|analgésico||S|sla|B2
+die Hausmittel|remedios caseros||S|sla|B2
+die Heilpflanze|planta medicinal||S|sla|B2
+die Akupunktur|acupuntura||S|sla|B2
+die Vorsorgeuntersuchung|revisión preventiva||S|sla|B2
+die Impfung|vacuna||S|sla|B2
+der Impfpass|cartilla de vacunación||S|sla|B2
+die Ernährungsumstellung|cambio de alimentación||S|sla|B2
+die Vitalität|vitalidad||S|sla|B2
+die Regeneration|recuperación||S|sla|B2
+die Erholung|descanso reparador||S|sla|B2
+der Burnout|desgaste profesional||S|sla|B2
+die Reizüberflutung|sobrecarga de estímulos||S|sla|B2
+der Blutdruck|tensión arterial||S|sla|B2
+der Puls|pulso||S|sla|B2
+die Atemübung|ejercicio de respiración||S|sla|B2
+tief durchatmen|respirar hondo||E|sla|B2
+der Bewegungsmangel|falta de ejercicio||S|sla|B2
+das Fasten|ayuno||S|sla|B2
+die Verabredung|cita||S|rel|B2
+sich verabreden|quedar con alguien||V|rel|B2
+die Absage|cancelación||S|rel|B2
+absagen|cancelar||V|rel|B2
+die Zusage|confirmación||S|rel|B2
+einen Korb bekommen|llevarse una negativa||E|rel|B2
+das Date|cita romántica||S|rel|B2
+sich näherkommen|conocerse mejor||V|rel|B2
+die Verliebtheit|enamoramiento||S|rel|B2
+der Schwarm|persona que te gusta||S|rel|B2
+die Zuneigung|cariño||S|rel|B2
+die Sehnsucht|añoranza||S|rel|B2
+die Fernbeziehung|relación a distancia||S|rel|B2
+die Beziehungskrise|crisis de pareja||S|rel|B2
+der Zeitmangel|falta de tiempo||S|rel|B2
+kurzfristig|a última hora||A|rel|B2
+verschieben|aplazar||V|rel|B2
+verlegen|reprogramar||V|rel|B2
+ins Wasser fallen|irse al agua||E|rel|B2
+auf den letzten Drücker|en el último momento||E|rel|B2
+spontan|espontáneo||A|rel|B2
+die Spontaneität|espontaneidad||S|rel|B2
+die Absprache|acuerdo||S|rel|B2
+sich absprechen|ponerse de acuerdo||V|rel|B2
+zusagen|confirmar la asistencia||V|rel|B2
+das Zeitfenster|hueco en la agenda||S|rel|B2
+der Ausweichplan|plan alternativo||S|rel|B2
+der Spielraum|margen de maniobra||S|rel|B2
+das Wiedersehen|reencuentro||S|rel|B2
+unverbindlich|sin compromiso||A|rel|B2
+das Herzklopfen|palpitaciones del corazón||S|rel|B2
+die Romanze|romance||S|rel|B2
+die Affäre|aventura amorosa||S|rel|B2

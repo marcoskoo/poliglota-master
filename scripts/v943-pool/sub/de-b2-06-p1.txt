@@ -1,0 +1,289 @@
+der Weltraum|espacio exterior||S|sci|B2
+die Schwerkraft|fuerza de gravedad||S|sci|B2
+das Teleskop|telescopio||S|sci|B2
+der Planet|planeta||S|sci|B2
+die Galaxie|galaxia||S|sci|B2
+der Komet|cometa||S|sci|B2
+die Umlaufbahn|órbita||S|sci|B2
+der Satellit|satélite||S|sci|B2
+die Strahlung|radiación||S|sci|B2
+der Lichtstrahl|rayo de luz||S|sci|B2
+die Reibung|fricción||S|sci|B2
+die Geschwindigkeit|velocidad||S|sci|B2
+das Atom|átomo||S|sci|B2
+das Molekül|molécula||S|sci|B2
+der Stoff|sustancia||S|sci|B2
+die Kernspaltung|fisión nuclear||S|sci|B2
+der Druck|presión||S|sci|B2
+die Wärme|calor||S|sci|B2
+das Vakuum|vacío||S|sci|B2
+das Universum|universo||S|sci|B2
+das Sonnensystem|sistema solar||S|sci|B2
+der Krater|cráter||S|sci|B2
+der Einschlag|impacto||S|sci|B2
+die Raumfahrt|astronáutica||S|sci|B2
+die Sternwarte|observatorio astronómico||S|sci|B2
+der Sternenhimmel|cielo estrellado||S|sci|B2
+messen|medir||V|sci|B2
+die Entdeckung|descubrimiento||S|sci|B2
+schweben|flotar suspendido en el aire||V|sci|B2
+die Erdanziehung|atracción gravitatoria||S|sci|B2
+das Gestirn|astro||S|sci|B2
+die Lichtgeschwindigkeit|velocidad de la luz||S|sci|B2
+das Weltall|cosmos||S|sci|B2
+der Roman|novela||S|let|B2
+die Erzählung|relato||S|let|B2
+die Novelle|novela corta||S|let|B2
+das Gedicht|poema||S|let|B2
+der Gedichtband|poemario||S|let|B2
+der Lyriker|poeta||S|let|B2
+der Erzähler|narrador||S|let|B2
+der Protagonist|protagonista||S|let|B2
+die Hauptfigur|personaje principal||S|let|B2
+die Handlung|trama||S|let|B2
+der Spannungsbogen|arco de tensión narrativa||S|let|B2
+der Vers|verso||S|let|B2
+die Strophe|estrofa||S|let|B2
+der Reim|rima||S|let|B2
+der Schriftsteller|escritor||S|let|B2
+die Auflage|tirada||S|let|B2
+der Bestseller|superventas||S|let|B2
+das Sachbuch|libro de divulgación||S|let|B2
+die Biografie|biografía||S|let|B2
+die Gattung|género literario||S|let|B2
+die Fabel|fábula||S|let|B2
+die Ballade|balada||S|let|B2
+die Komödie|comedia||S|let|B2
+die Tragödie|tragedia||S|let|B2
+der Monolog|monólogo||S|let|B2
+die Lesung|lectura pública de un autor||S|let|B2
+das Vorwort|prólogo||S|let|B2
+das Nachwort|epílogo||S|let|B2
+der Klappentext|texto de contraportada||S|let|B2
+das Zitat|cita textual||S|let|B2
+der rote Faden|hilo conductor||L|let|B2
+der Rezensent|crítico literario||S|let|B2
+der Muskel|músculo||S|cor|B2
+die Sehne|tendón||S|cor|B2
+das Gelenk|articulación||S|cor|B2
+die Wirbelsäule|columna vertebral||S|cor|B2
+die Lunge|pulmón||S|cor|B2
+die Leber|hígado||S|cor|B2
+der Magen|estómago||S|cor|B2
+der Darm|intestino||S|cor|B2
+die Blase|vejiga||S|cor|B2
+die Arterie|arteria||S|cor|B2
+die Vene|vena||S|cor|B2
+der Blutkreislauf|circulación sanguínea||S|cor|B2
+der Puls|pulso||S|cor|B2
+die Atmung|respiración||S|cor|B2
+das Skelett|esqueleto||S|cor|B2
+der Knochen|hueso||S|cor|B2
+die Rippe|costilla||S|cor|B2
+die Hüfte|cadera||S|cor|B2
+die Ferse|talón||S|cor|B2
+der Ellbogen|codo||S|cor|B2
+das Handgelenk|muñeca||S|cor|B2
+der Oberschenkel|muslo||S|cor|B2
+die Wade|pantorrilla||S|cor|B2
+das Gewebe|tejido||S|cor|B2
+das Immunsystem|sistema inmunitario||S|cor|B2
+der Stoffwechsel|metabolismo||S|cor|B2
+dehnen|estirar los músculos||V|cor|B2
+die Dehnübung|ejercicio de estiramientos||S|cor|B2
+die Ausdauer|resistencia física||S|cor|B2
+das Wohlbefinden|bienestar||S|cor|B2
+die Entspannung|relajación||S|cor|B2
+die Gymnastik|gimnasia||S|cor|B2
+der Lebensraum|hábitat||S|ani|B2
+die Nahrungskette|cadena alimentaria||S|ani|B2
+die Herde|manada||S|ani|B2
+das Rudel|manada de lobos||S|ani|B2
+der Schwarm|bandada||S|ani|B2
+das Nest|nido||S|ani|B2
+die Höhle|cueva||S|ani|B2
+der Bau|madriguera||S|ani|B2
+die Beute|presa||S|ani|B2
+das Raubtier|animal depredador||S|ani|B2
+die Wanderung|migración||S|ani|B2
+der Zugvogel|ave migratoria||S|ani|B2
+der Instinkt|instinto||S|ani|B2
+das Verhalten|comportamiento||S|ani|B2
+die Paarung|apareamiento||S|ani|B2
+die Brut|nidada||S|ani|B2
+das Gelege|puesta de huevos||S|ani|B2
+das Jungtier|cría animal joven||S|ani|B2
+die Aufzucht|crianza||S|ani|B2
+das Fell|pelaje||S|ani|B2
+das Gefieder|plumaje||S|ani|B2
+die Kralle|garra||S|ani|B2
+der Schnabel|pico||S|ani|B2
+die Flosse|aleta||S|ani|B2
+das Revier|territorio animal||S|ani|B2
+markieren|marcar el territorio||V|ani|B2
+tarnen|camuflarse||V|ani|B2
+die Tarnung|camuflaje||S|ani|B2
+nisten|anidar||V|ani|B2
+jagen|cazar||V|ani|B2
+fressen|comer dicho de animales||V|ani|B2
+die Futtersuche|búsqueda de alimento||S|ani|B2
+die Schonzeit|periodo de veda||S|ani|B2
+der Wal|ballena||S|ani|B2
+die Robbe|foca||S|ani|B2
+der Seelöwe|león marino||S|ani|B2
+der Storch|cigüeña||S|ani|B2
+der Adler|águila||S|ani|B2
+der Wolf|lobo||S|ani|B2
+der Biber|castor||S|ani|B2
+der Luchs|lince||S|ani|B2
+der Fischotter|nutria||S|ani|B2
+das Wildschwein|jabalí||S|ani|B2
+die Fledermaus|murciélago||S|ani|B2
+das Reptil|reptil||S|ani|B2
+der Schneeleopard|leopardo de las nieves||S|ani|B2
+das Nashorn|rinoceronte||S|ani|B2
+der Bestand|población de una especie||S|ani|B2
+der Rückgang|descenso progresivo||S|ani|B2
+der Artenschutz|protección de especies||S|nat|B2
+das Naturschutzgebiet|reserva natural||S|nat|B2
+der Wilderer|cazador furtivo||S|ani|B2
+die Wilderei|caza furtiva||S|ani|B2
+die Zerstörung|destrucción||S|nat|B2
+die Wiedereinbürgerung|reintroducción de especies||S|ani|B2
+das Artensterben|extinción masiva de especies||S|nat|B2
+auswildern|soltar en su hábitat||V|ani|B2
+züchten|criar en cautividad||V|ani|B2
+gefährdet|en peligro de extinción||A|ani|B2
+die Rote Liste|lista roja de especies amenazadas||L|nat|B2
+das Zuchtprogramm|programa de cría||S|ani|B2
+die Tierwelt|fauna||S|ani|B2
+das Ökosystem|ecosistema||S|nat|B2
+das Biotop|biotopo||S|nat|B2
+die Umwelt|medio ambiente||S|nat|B2
+die Ökologie|ecología||S|nat|B2
+der Umweltschutz|protección del medio ambiente||S|nat|B2
+die Verschmutzung|contaminación||S|nat|B2
+die Mülltrennung|separación de residuos||S|nat|B2
+der Klimawandel|cambio climático||S|nat|B2
+der Schadstoffausstoß|emisión de sustancias contaminantes||S|nat|B2
+die Solarenergie|energía solar||S|nat|B2
+die Windkraft|energía eólica||S|nat|B2
+die Wasserkraft|energía hidroeléctrica||S|nat|B2
+die Windkraftanlage|aerogenerador||S|nat|B2
+die Solaranlage|instalación solar||S|nat|B2
+die Fotovoltaik|fotovoltaica||S|nat|B2
+die Geothermie|geotermia||S|nat|B2
+die Biomasse|biomasa||S|nat|B2
+erneuerbar|renovable||A|nat|B2
+die Energiequelle|fuente de energía||S|nat|B2
+die Stromerzeugung|generación de electricidad||S|nat|B2
+das Kraftwerk|central eléctrica||S|nat|B2
+der Stromverbrauch|consumo eléctrico||S|nat|B2
+das Atomkraftwerk|central nuclear||S|nat|B2
+der ökologische Fußabdruck|huella ecológica||L|nat|B2
+der Verzicht|renuncia||S|nat|B2
+verzichten|renunciar a||V|nat|B2
+recyceln|reciclar||V|nat|B2
+der Wertstoffhof|punto limpio||S|nat|B2
+die Nachhaltigkeit|sostenibilidad||S|nat|B2
+nachhaltig|sostenible||A|nat|B2
+die Emission|emisión de gases||S|nat|B2
+die Ressource|recurso natural||S|nat|B2
+die Abholzung|deforestación||S|nat|B2
+wiederverwenden|reutilizar||V|nat|B2
+die Wettervorhersage|previsión del tiempo||S|cli|B2
+die Unwetterwarnung|aviso de fenómenos adversos||S|cli|B2
+das Gewitter|tormenta eléctrica||S|cli|B2
+der Donner|trueno||S|cli|B2
+der Blitz|relámpago||S|cli|B2
+der Regenguss|chaparrón||S|cli|B2
+der Dauerregen|lluvia persistente||S|cli|B2
+die Bewölkung|nubosidad||S|cli|B2
+der Nebel|niebla||S|cli|B2
+der Dunst|bruma||S|cli|B2
+der Sturm|borrasca||S|cli|B2
+der Orkan|huracán||S|cli|B2
+der Wirbelsturm|ciclón||S|cli|B2
+die Überschwemmung|inundación||S|cli|B2
+die Dürre|sequía||S|cli|B2
+die Trockenheit|sequedad extrema||S|cli|B2
+die Hitzewelle|ola de calor||S|cli|B2
+der Hagel|granizo||S|cli|B2
+der Graupel|granizo menudo||S|cli|B2
+der Schneefall|nevada||S|cli|B2
+die Schneeschmelze|deshielo||S|cli|B2
+der Frost|helada||S|cli|B2
+die Lawine|alud||S|cli|B2
+das Erdbeben|terremoto||S|cli|B2
+der Tsunami|tsunami||S|cli|B2
+der Vulkanausbruch|erupción volcánica||S|cli|B2
+die Erosion|erosión||S|cli|B2
+die Luftfeuchtigkeit|humedad del aire||S|cli|B2
+die Kaltfront|frente frío||S|cli|B2
+der Luftdruck|presión atmosférica||S|cli|B2
+es hagelt|graniza||E|cli|B2
+die Böe|ráfaga de viento||S|cli|B2
+die Frist|plazo||S|tmp|B2
+die Dauer|duración||S|tmp|B2
+die Zeitspanne|lapso de tiempo||S|tmp|B2
+der Zeitraum|periodo de tiempo||S|tmp|B2
+der Termin|cita con fecha fijada||S|tmp|B2
+ablaufen|caducar||V|tmp|B2
+die Verlängerung|prórroga||S|tmp|B2
+verlängern|prorrogar||V|tmp|B2
+die Verschiebung|aplazamiento||S|tmp|B2
+verschieben|aplazar||V|tmp|B2
+die Fälligkeit|vencimiento||S|tmp|B2
+überfällig|vencido||A|tmp|B2
+fristlos|sin preaviso||A|tmp|B2
+dauerhaft|permanente||A|tmp|B2
+in regelmäßigen Abständen|a intervalos regulares||L|tmp|B2
+gelegentlich|ocasionalmente||D|tmp|B2
+ab und zu|de vez en cuando||E|tmp|B2
+von Zeit zu Zeit|de tanto en tanto||L|tmp|B2
+wöchentlich|semanal||A|tmp|B2
+monatlich|mensual||A|tmp|B2
+jährlich|anual||A|tmp|B2
+innerhalb|dentro de||R|tmp|B2
+binnen|en el plazo de||R|tmp|B2
+umgehend|de inmediato||D|tmp|B2
+unverzüglich|sin demora||D|tmp|B2
+das Zeitlimit|límite de tiempo||S|tmp|B2
+der Stichtag|fecha límite||S|tmp|B2
+der Zeitdruck|presión por falta de tiempo||S|tmp|B2
+die Pünktlichkeit|puntualidad||S|tmp|B2
+die Verzögerung|retraso||S|tmp|B2
+zügig|con celeridad||A|tmp|B2
+der Augenblick|instante||S|tmp|B2
+das Nachtleben|vida nocturna||S|sve|B2
+die Kneipe|bar de barrio||S|sve|B2
+die Cocktailbar|coctelería||S|sve|B2
+der Imbiss|puesto de comida rápida||S|sve|B2
+die Sperrstunde|hora de cierre de los locales||S|sve|B2
+der Türsteher|portero de discoteca||S|sve|B2
+die Tanzfläche|pista de baile||S|sve|B2
+der Auftritt|actuación||S|sve|B2
+die Livemusik|música en directo||S|sve|B2
+die Freilichtbühne|escenario al aire libre||S|sve|B2
+die Vorstellung|sesión de cine o teatro||S|sve|B2
+der Kinosaal|sala de cine||S|sve|B2
+die Uraufführung|estreno||S|sve|B2
+der Eintritt|precio de la entrada||S|sve|B2
+der Kartenvorverkauf|venta anticipada de entradas||S|sve|B2
+die Jahreskarte|abono anual||S|sve|B2
+das Kulturprogramm|programa cultural||S|sve|B2
+die Freizeitgestaltung|organización del tiempo libre||S|sve|B2
+die Langeweile|aburrimiento||S|sve|B2
+sich langweilen|aburrirse||V|sve|B2
+der Zeitvertreib|pasatiempo||S|sve|B2
+das Vergnügen|diversión||S|sve|B2
+die Kneipentour|ruta de bares||S|sve|B2
+der Feierabend|fin de la jornada||S|sve|B2
+ausgehen|salir de fiesta||V|sve|B2
+das Feuerwerk|fuego artificial||S|sve|B2
+das Festival|festival||S|sve|B2
+der Karneval|carnaval||S|sve|B2
+das Kostüm|disfraz||S|sve|B2
+die Mitternacht|medianoche||S|sve|B2
+die Dämmerung|anochecer||S|sve|B2
+der Wochenendausflug|excursión de fin de semana||S|sve|B2
