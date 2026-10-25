@@ -1,0 +1,325 @@
+contingence|contingencia||S|ast|C2
+réfutabilité|refutabilidad||S|sci|C2
+falsifiabilité|falsabilidad||S|ast|C2
+conventionnalisme|convencionalismo||S|ast|C2
+holisme|holismo||S|ast|C2
+physicalisme|fisicalismo||S|ast|C2
+qualia|cualia||S|ast|C2
+élan vital|impulso vital||L|ast|C2
+intentionnalité|intencionalidad||S|ast|C2
+solipsisme|solipsismo||S|ast|C2
+déontologie|deontología||S|ast|C2
+téléologie|teleología||S|ast|C2
+conséquentialisme|consecuencialismo||S|ast|C2
+impératif catégorique|imperativo categórico||L|ast|C2
+casuistique|casuística||S|ast|C2
+volonté générale|voluntad general||L|ast|C2
+axiomatique|axiomática||S|sci|C2
+quiddité|quiddidad||S|ast|C2
+haecceité|hecceidad||S|ast|C2
+apophatique|apofático||A|ast|C2
+jugement de goût|juicio de gusto||L|ast|C2
+désintéressement|desinterés estético||S|ast|C2
+esthétisation|estetización||S|ast|C2
+mimèsis|mímesis||S|ast|C2
+immanence|inmanencia||S|ast|C2
+intertextualité|intertextualidad||S|let|C2
+diégèse|diegesis||S|let|C2
+narrataire|narratario||S|let|C2
+focalisation|focalización (narrativa)||S|let|C2
+schéma actantiel|modelo actancial||L|let|C2
+isotopie|isotopía (semántica)||S|let|C2
+canonisation|canonización (literaria)||S|let|C2
+esthétique de la réception|estética de la recepción||L|let|C2
+horizon d'attente|horizonte de expectativas||L|let|C2
+aporie|aporía||S|ast|C2
+parergon|parergón||S|ast|C2
+différance|diferancia||S|ast|C2
+logocentrisme|logocentrismo||S|ast|C2
+déconstruction|deconstrucción||S|let|C2
+énonciation|enunciación||S|let|C2
+signifiant|significante||S|let|C2
+signifié|significado||S|let|C2
+mise en abyme|puesta en abismo||L|let|C2
+analepse|analepsis||S|let|C2
+prolepse|prolepsis||S|let|C2
+roman à clef|novela de clave||L|let|C2
+antihéros|antihéroe||S|let|C2
+litote|lítote||S|let|C2
+synecdoque|sinécdoque||S|let|C2
+métonymie|metonimia||S|let|C2
+anaphore|anáfora||S|let|C2
+chiasme|quiasmo||S|let|C2
+zeugme|zeugma||S|let|C2
+prétérition|preterición||S|let|C2
+apodose|apódosis||S|let|C2
+protase|prótasis||S|let|C2
+hysteron-proteron|hísteron próteron||S|let|C2
+hypallage|hipálage||S|let|C2
+anadiplose|anadiplosis||S|let|C2
+polyptote|políptoton||S|let|C2
+isocolon|isocolon||S|let|C2
+homéoptote|homeóptoton||S|let|C2
+épiphonème|exclamación sentenciosa||S|let|C2
+antiphrase|antífrasis||S|let|C2
+euphémisme|eufemismo||S|let|C2
+dysphémisme|disfemismo||S|let|C2
+péjoration|peyorización||S|let|C2
+novlangue|neolengua||S|let|C2
+langue de bois|lengua de madera||L|cmu|C2
+double sens|doble sentido||L|let|C2
+sous-entendu|subentendido||S|cmu|C2
+second degré|segundo grado (ironía)||S|let|C2
+amphigouri|galimatías||S|let|C2
+gradation|gradación retórica||S|let|C2
+parallélisme de construction|paralelismo sintáctico||L|let|C2
+hypotypose|hipotiposis||S|let|C2
+épizeuxis|epizeuxis||S|let|C2
+tétramètre|tetrámetro||S|let|C2
+pentamètre|pentámetro||S|let|C2
+trimètre|trímetro||S|let|C2
+trochée|troqueo||S|let|C2
+spondée|espondeo||S|let|C2
+choriambe|coriambo||S|let|C2
+adonide|adonio||S|let|C2
+heptasyllabe|heptasílabo||S|let|C2
+décasyllabe|decasílabo||S|let|C2
+césure|cesura||S|let|C2
+rime léonine|rima leonina||L|let|C2
+hémistiche|hemistiquio||S|let|C2
+assonance|asonancia||S|let|C2
+verset|versículo||S|let|C2
+prosodie|prosodia||S|let|C2
+diérèse|diéresis métrica||S|let|C2
+synérèse|sinéresis||S|let|C2
+péon|peón métrico||S|let|C2
+vers saturnien|verso saturnio||L|let|C2
+virelai|virelai||S|mus|C2
+pénates|lares||S|cas|C2
+auspices|auspicios||S|ast|C2
+charivari|cencerrada||S|cit|C2
+clinamen|clinamen||S|ast|C2
+onction|unción||S|ast|C2
+gué|vado||S|nat|C2
+chaume|rastrojo||S|nat|C2
+sillage|estela||S|tra|C2
+givre|escarcha||S|nat|C2
+bruyère|brezo||S|nat|C2
+ajonc|tojo||S|nat|C2
+aubépine|espino albar||S|nat|C2
+liane|liana||S|nat|C2
+sureau|saúco||S|nat|C2
+ronce|zarza||S|nat|C2
+diachronie|diacronía||S|let|C2
+synchronie|sincronía||S|let|C2
+sémiotique|semiótica||S|let|C2
+pragmatique|pragmática||S|let|C2
+déixis|deíxis||S|let|C2
+cataphore|catáfora||S|let|C2
+topicalisation|topicalización||S|let|C2
+hyponymie|hiponimia||S|let|C2
+hyperonyme|hiperónimo||S|let|C2
+adstrat|adstrato||S|let|C2
+syntagme|sintagma||S|let|C2
+suppletif|supletivo||A|let|C2
+calque|calco (lingüístico)||S|let|C2
+imperfectif|imperfectivo||A|let|C2
+perfectif|perfectivo||A|let|C2
+valence grammaticale|valencia gramatical||L|let|C2
+locuteur|locutor||S|let|C2
+allocutaire|alocutario||S|let|C2
+performatif|realizativo||A|let|C2
+phatique|fático||A|let|C2
+métabole|metábola (figura móvil)||S|let|C2
+glose|glosa||S|let|C2
+exégèse|exégesis||S|let|C2
+herméneutique|hermenéutica||S|let|C2
+étiologie|etiología||S|sci|C2
+historiographie|historiografía||S|let|C2
+périodisation|periodización||S|let|C2
+longue durée|larga duración||L|let|C2
+prosopographie|prosopografía||S|let|C2
+révisionnisme|revisionismo||S|ast|C2
+anachronisme|anacronismo||S|let|C2
+mentalité|mentalidad (histórica)||S|let|C2
+avatars|peripecias||S|ast|C2
+rémanence|remanencia||S|ast|C2
+érudition|erudición||S|let|C2
+paléographie|paleografía||S|let|C2
+chancellerie|cancillería||S|ist|C2
+souveraineté|soberanía||S|ist|C2
+vassalité|vasallaje||S|ist|C2
+apanage|apanaje||S|ist|C2
+pulsion|pulsión||S|ast|C2
+dénégation|denegación||S|ast|C2
+identification projective|identificación proyectiva||L|ast|C2
+surmoi|superyó||S|ast|C2
+passage à l'acte|paso al acto||L|ast|C2
+sublimation|sublimación||S|ast|C2
+hégémonie|hegemonía||S|ast|C2
+réification|cosificación||S|ast|C2
+fétichisation|fetichización||S|ast|C2
+culture de masse|cultura de masas||L|ast|C2
+industrie culturelle|industria cultural||L|ast|C2
+pensée unique|pensamiento único||L|ast|C2
+appareil idéologique d'État|aparato ideológico de Estado||L|ist|C2
+interpellation|interpelación (ideológica)||S|ast|C2
+société du spectacle|sociedad del espectáculo||L|ast|C2
+dissuasion|disuasión||S|ist|C2
+détente|distensión||S|ist|C2
+équilibre de la terreur|equilibrio del terror||L|ist|C2
+désescalade|desescalada||S|ist|C2
+pays tiers|país tercero||L|ist|C2
+zone tampon|zona tampón||L|nat|C2
+État satellite|Estado satélite||L|ist|C2
+non-alignement|no alineamiento||S|ist|C2
+processus de paix|proceso de paz||L|ist|C2
+maintien de la paix|mantenimiento de la paz||L|ist|C2
+rapport de force|correlación de fuerzas||L|ist|C2
+frappe chirurgicale|ataque quirúrgico||L|ist|C2
+libération d'otages|liberación de rehenes||L|ist|C2
+autodétermination|autodeterminación||S|ist|C2
+protectorat|protectorado||S|ist|C2
+irrédentisme|irredentismo||S|ist|C2
+casus belli|casus belli||L|ist|C2
+cordon sanitaire|cordón sanitario||L|ist|C2
+dégel|deshielo (relaciones)||S|ast|C2
+gouvernance|gobernanza||S|ist|C2
+subsidiarité|subsidiariedad||S|ist|C2
+étatisme|estatismo||S|ist|C2
+austérité|austeridad||S|fin|C2
+clause de cliquet|cláusula de indexación||L|fin|C2
+désaffiliation|desafiliación social||S|ast|C2
+désindustrialisation|desindustrialización||S|fin|C2
+paupérisation|pauperización||S|ast|C2
+embourgeoisement|aburguesamiento||S|ast|C2
+endogamie|endogamia||S|ast|C2
+capital social|capital social||L|ast|C2
+capital culturel|capital cultural||L|ast|C2
+reproduction sociale|reproducción social||L|ast|C2
+distinction|distinción (sociológica)||S|ast|C2
+habitus|habitus||S|ast|C2
+anomie|anomia||S|ast|C2
+massification|masificación||S|ast|C2
+décrochage scolaire|abandono escolar||L|lav|C2
+ethnographie|etnografía||S|sci|C2
+observation participante|observación participante||L|sci|C2
+enquête de terrain|trabajo de campo||L|sci|C2
+parenté|parentesco||S|ast|C2
+matrilinéarité|matrilinealidad||S|sci|C2
+totémisme|totemismo||S|sci|C2
+rite de passage|rito de paso||L|ast|C2
+ethnocentrisme|etnocentrismo||S|ast|C2
+relativisme culturel|relativismo cultural||L|ast|C2
+acculturation|aculturación||S|ast|C2
+appropriation culturelle|apropiación cultural||L|ast|C2
+métissage|mestizaje||S|ast|C2
+exogamie|exogamia||S|ast|C2
+mana|mana||S|ast|C2
+chamanisme|chamanismo||S|sci|C2
+fuite|fuga (de información)||S|cmu|C2
+communiqué de presse|nota de prensa||L|cmu|C2
+revue de presse|repaso de prensa||L|cmu|C2
+couverture médiatique|cobertura mediática||L|cmu|C2
+mésinformation|desinformación||S|cmu|C2
+viralité|viralidad||S|cmu|C2
+attaché de presse|responsable de prensa||L|pro|C2
+sortie d'urne|encuesta a pie de urna||L|cmu|C2
+intention de vote|intención de voto||L|cmu|C2
+marge d'erreur|margen de error||L|cmu|C2
+taux d'abstention|tasa de abstención||L|cmu|C2
+volatilité électorale|volatilidad electoral||L|cmu|C2
+légende de photo|pie de foto||L|cmu|C2
+droit de réponse|derecho de rectificación||L|ist|C2
+prête-plume|negro literario||S|pro|C2
+gros titre|titular de portada||L|cmu|C2
+canular|bulo||S|cmu|C2
+légende urbaine|leyenda urbana||L|cmu|C2
+lanceur d'alerte|alertador||L|pro|C2
+tessiture|tessitura||S|mus|C2
+ornement|adorno musical||S|mus|C2
+appoggiature|apoyatura||S|mus|C2
+mordant|mordente||S|mus|C2
+strette|stretta||S|mus|C2
+motif conducteur|motivo conductor||L|mus|C2
+atonalité|atonalidad||S|mus|C2
+sérialisme|serialismo||S|mus|C2
+neume|neuma||S|mus|C2
+chiffrage|indicación de compás||S|mus|C2
+contrepoint|contrapunto||S|mus|C2
+basse continue|bajo continuo||L|mus|C2
+grupetto|gruppetto||S|mus|C2
+enharmonie|enarmonía||S|mus|C2
+tempérament égal|temperamento igual||L|mus|C2
+cabinet de curiosités|gabinete de curiosidades||L|art|C2
+accrochage|montaje expositivo||S|art|C2
+vernissage|inauguración||S|art|C2
+commissaire d'exposition|comisario de exposición||L|pro|C2
+reliquaire|relicario||S|art|C2
+iconographie|iconografía||S|art|C2
+ébauche|esbozo||S|art|C2
+craquelure|craqueladura||S|art|C2
+retouche|retoque||S|art|C2
+estampe|estampa||S|art|C2
+eau-forte|aguafuerte||S|art|C2
+taille-douce|grabado en talla dulce||S|art|C2
+burin|buril||S|art|C2
+esthétisme|esteticismo||S|art|C2
+académisme|academicismo||S|art|C2
+pittoresque|pintoresco||A|art|C2
+maniériste|manierista||A|art|C2
+clair-obscur|claroscuro||S|art|C2
+automatisme|automatismo||S|art|C2
+cadavre exquis|cadáver exquisito||L|art|C2
+orfèvrerie|orfebrería||S|art|C2
+émaillage|esmaltado||S|art|C2
+nielle|nielado||S|art|C2
+marqueterie|marquetería||S|art|C2
+tapisserie de haute lice|tapiz de alto lizo||L|art|C2
+cadrage|encuadre||S|cin|C2
+contrechamp|contraplano||S|cin|C2
+hors-champ|fuera de campo||S|cin|C2
+fondu enchaîné|fundido encadenado||L|cin|C2
+raccord|encadenado de montaje||S|cin|C2
+montage parallèle|montaje paralelo||L|cin|C2
+voix off|voz en off||L|cin|C2
+plan-séquence|plano secuencia||L|cin|C2
+ellipse temporelle|elipsis temporal||L|cin|C2
+surimpression|doble exposición||S|cin|C2
+panoramique|plano panorámico||S|cin|C2
+profondeur de champ|profundidad de campo||L|cin|C2
+deus ex machina|deus ex machina||L|let|C2
+in medias res|in medias res||L|let|C2
+quiproquo|malentendido||S|cmu|C2
+traductologie|traductología||S|let|C2
+littérature comparée|literatura comparada||L|let|C2
+canon littéraire|canon literario||L|let|C2
+littérature de voyage|literatura de viajes||L|let|C2
+dystopie|distopía||S|let|C2
+uchronie|ucronía||S|let|C2
+palimpseste|palimpsesto||S|let|C2
+hypotexte|hipotexto||S|let|C2
+hypertexte|hipertexto||S|let|C2
+feuilleton|folletín||S|let|C2
+mélodrame|melodrama||S|cin|C2
+vaudeville|vodevil||S|let|C2
+opérette|opereta||S|mus|C2
+librettiste|libretista||S|mus|C2
+baryton|barítono||S|mus|C2
+cantatrice|cantante de ópera||S|mus|C2
+oratorio|oratorio||S|mus|C2
+nocturne|nocturno||S|mus|C2
+solfège|solféo||S|mus|C2
+opéra-comique|ópera cómica||S|mus|C2
+tragicomédie|tragicomedia||S|let|C2
+stichomythie|esticomitia||S|let|C2
+didascalie|didascalia||S|let|C2
+aparté|aparte||S|cin|C2
+monologue intérieur|monólogo interior||L|let|C2
+flux de conscience|flujo de conciencia||L|let|C2
+style indirect libre|estilo indirecto libre||L|let|C2
+pathétique|patético||A|let|C2
+larmoyant|sensiblero||A|let|C2
+nigaud|bobalicón||A|emo|C2
+niais|necdio||A|emo|C2
+pudibond|pudibundo||A|emo|C2

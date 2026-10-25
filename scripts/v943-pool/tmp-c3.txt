@@ -1,0 +1,226 @@
+saisie-arrêt|embargo de sueldo||S|ist|C2
+saisie immobilière|embargo inmobiliario||L|ist|C2
+commandement de payer|requerimiento de pago||L|ist|C2
+référé|procedimiento incidental urgente||S|ist|C2
+fin de non-recevoir|excepción de inadmisibilidad||L|ist|C2
+tiers détenteur|tercer poseedor||S|ist|C2
+exécution en nature|ejecución en especie||L|ist|C2
+exception d'incompétence|excepción de incompetencia||L|ist|C2
+hypothèque judiciaire|hipoteca judicial||L|ist|C2
+compromis de vente|arras (contrato privado)||L|ist|C2
+émoluments|honorarios arancelarios||S|ist|C2
+relaxe|absolución||S|ist|C2
+permission de sortir|permiso penitenciario||L|ist|C2
+libération conditionnelle|libertad condicional||L|ist|C2
+régime de semi-liberté|régimen de semilibertad||L|ist|C2
+dépôt de plainte|presentación de denuncia||L|ist|C2
+partie civile|acusación particular||L|ist|C2
+mise en examen|imputación judicial||L|ist|C2
+correctionnalisation|rebaja del delito||S|ist|C2
+excuse absolutoire|eximente||L|ist|C2
+aménagement de peine|individualización penitenciaria||L|ist|C2
+cour d'assises|tribunal del jurado||L|ist|C2
+vice de forme|vicio de forma||L|ist|C2
+faute inexcusable|falta inexcusable||L|ist|C2
+mémoire en défense|escrito de defensa||L|ist|C2
+clause résolutoire|cláusula resolutoria||L|ist|C2
+pacte commissoire|pacto comisorio||L|ist|C2
+intimé|recurrido||S|ist|C2
+appelant|apelante||S|ist|C2
+prévarication|prevaricación||S|ist|C2
+dessaisissement|desapoderamiento||S|ist|C2
+sentence arbitrale|laudo arbitral||L|ist|C2
+liquidation-partage|liquidación partición||S|ist|C2
+réserve héréditaire|legítima hereditaria||L|ist|C2
+quotité disponible|tercio de libre disposición||L|ist|C2
+rapport successoral|colación hereditaria||L|ist|C2
+donation-partage|donación partición||S|ist|C2
+protêt|protesto de impago||S|ist|C2
+publicité foncière|publicidad registral||L|ist|C2
+prélèvement à la source|retención en origen||L|ist|C2
+exil fiscal|exilio fiscal||L|ist|C2
+signification|notificación judicial||S|ist|C2
+assignation|citación (demanda)||S|ist|C2
+conciliation|conciliación||S|ist|C2
+moratoire|moratoria||S|ist|C2
+armistice|armisticio||S|ist|C2
+dénucléarisation|desnuclearización||S|ist|C2
+prolifération nucléaire|proliferación nuclear||L|ist|C2
+riposte graduée|respuesta graduada||L|ist|C2
+guerre juste|guerra justa||L|ist|C2
+intervention humanitaire|intervención humanitaria||L|ist|C2
+devoir d'ingérence|deber de ingerencia||L|ist|C2
+question de confiance|moción de confianza||L|ist|C2
+majorité qualifiée|mayoría cualificada||L|ist|C2
+lustration|lustración (depuración)||S|ist|C2
+technocratie|tecnocracia||S|ist|C2
+nomenklatura|nomenklatura||S|ist|C2
+pantouflage|puerta giratoria||S|ist|C2
+souverainisme|soberanismo||S|ist|C2
+populisme|populismo||S|ist|C2
+plébiscite|plebiscito||S|ist|C2
+gauchisme|gauchismo||S|ist|C2
+finlandisation|finlandización||S|ist|C2
+pacte de non-agression|pacto de no agresión||L|ist|C2
+traité de paix|tratado de paz||L|ist|C2
+capitulation sans condition|capitulación incondicional||L|ist|C2
+cellule dormante|célula dormida||L|ist|C2
+guérilla|guerrilla||S|ist|C2
+désobéissance civile|desobediencia civil||L|ist|C2
+grève générale|huelga general||L|ist|C2
+syndicalisme|sindicalismo||S|ist|C2
+abstentionnisme|abstencionismo||S|ist|C2
+corps électoral|censo electoral||L|ist|C2
+circonscription|circunscripción||S|ist|C2
+découpage électoral|delimitación electoral||L|ist|C2
+adjoint au maire|teniente de alcalde||L|ist|C2
+préfet|prefecto||S|ist|C2
+fonctionnariat|funcionariado||S|ist|C2
+prestation de serment|juramento de cargo||L|ist|C2
+assermenté|juramentado||A|ist|C2
+parquet|fiscalía||S|ist|C2
+substitut|fiscal adjunto||S|ist|C2
+greffe|registro judicial||S|ist|C2
+huissier de justice|alguacil||L|ist|C2
+inspection du travail|inspección de trabajo||L|ist|C2
+comité d'entreprise|comité de empresa||L|ist|C2
+état-providence|Estado providencia||S|ist|C2
+assistanat|asistencialismo||S|ist|C2
+promesse de vente|promesa de venta||L|fin|C2
+avenant|anexo (adenda)||S|fin|C2
+escompte|descuento comercial||S|fin|C2
+endos|endoso||S|fin|C2
+aval bancaire|aval bancario||L|fin|C2
+échéancier|cuadro de vencimientos||S|fin|C2
+lettre de change|letra de cambio||L|fin|C2
+effet de commerce|efecto de comercio||L|fin|C2
+bordereau|resguardo (nota de entrega)||S|fin|C2
+créance douteuse|crédito dudoso||L|fin|C2
+créance irrécouvrable|crédito incobrable||L|fin|C2
+provision pour créance douteuse|provisión por insolvencia||L|fin|C2
+encours de crédit|crédito vivo||L|fin|C2
+taux d'endettement|tasa de endeudamiento||L|fin|C2
+capacité de remboursement|capacidad de reembolso||L|fin|C2
+valeur d'entreprise|valor de la empresa||L|fin|C2
+parité d'échange|canje de acciones||L|fin|C2
+apport partiel d'actif|aportación parcial de activo||L|fin|C2
+scission|escisión||S|fin|C2
+action de préférence|acción preferente||L|fin|C2
+coentreprise|empresa conjunta||S|fin|C2
+offre publique d'achat|opa (oferta pública de adquisición)||L|fin|C2
+protocole d'accord|preacuerdo||L|fin|C2
+base monétaire|base monetaria||L|fin|C2
+taux d'intérêt réel|tipo de interés real||L|fin|C2
+inversion de la courbe|inversión de la curva de tipos||L|fin|C2
+obligation à haut rendement|bono de alta rentabilidad||L|fin|C2
+dette souveraine|deuda soberana||L|fin|C2
+déficit primaire|déficit primario||L|fin|C2
+solde primaire|saldo primario||L|fin|C2
+poids de la dette|peso de la deuda||L|fin|C2
+charge de la dette|carga de la deuda||L|fin|C2
+consolidation budgétaire|consolidación presupuestaria||L|fin|C2
+recettes fiscales|ingresos fiscales||L|fin|C2
+prélèvements obligatoires|cotizaciones obligatorias||L|fin|C2
+budget primitif|presupuesto inicial||L|fin|C2
+crédit d'impôt|deducción fiscal||L|fin|C2
+réduction d'impôt|desgravación||L|fin|C2
+abattement|reducción (bonificación)||S|fin|C2
+bouclier fiscal|escudo fiscal||L|fin|C2
+fraude au carrousel|fraude carrusel (devolución de IVA)||L|fin|C2
+droits d'enregistrement|impuesto de actos jurídicos||L|fin|C2
+crédit-bail|arrendamiento financiero||S|fin|C2
+prêt hypothécaire|préstamo hipotecario||L|fin|C2
+redevance|canon (cánones)||S|fin|C2
+domiciliation|domiciliación||S|fin|C2
+portage|apoderamiento (tenencia de valores)||S|fin|C2
+quittance|recibo (carta de pago)||S|fin|C2
+monétique|monética||S|fin|C2
+courtage|corretaje||S|fin|C2
+corbeille|parqué (sala de cotización)||S|fin|C2
+cotation|cotización (bursátil)||S|fin|C2
+introduction en bourse|salida a bolsa||L|fin|C2
+actionnariat salarié|accionariado asalariado||S|fin|C2
+division du nominal|desdoblamiento de acciones||L|fin|C2
+rachat d'actions|recompra de acciones||L|fin|C2
+valeur liquidative|valor liquidativo||S|fin|C2
+actif net|activo neto||S|fin|C2
+compte de résultat|cuenta de pérdidas y ganancias||L|fin|C2
+tableau de financement|cuadro de financiación||L|fin|C2
+flux de trésorerie|flujo de caja||L|fin|C2
+autofinancement|autofinanciación||S|fin|C2
+fonds de roulement|fondo de maniobra||S|fin|C2
+relevé de compte|extracto de cuenta||L|fin|C2
+tenue de compte|administración de cuenta||L|fin|C2
+spéculation boursière|especulación bursátil||L|fin|C2
+chômage structurel|paro estructural||L|fin|C2
+hystérèse|histéresis (económica)||S|fin|C2
+cycle économique|ciclo económico||L|fin|C2
+allocations familiales|subsidio familiar||L|fin|C2
+retraite complémentaire|pensión complementaria||L|fin|C2
+régime de retraite|plan de pension||L|fin|C2
+cumul emploi-retraite|compatibilidad de pensión||L|fin|C2
+fiche de paie|nómina||L|fin|C2
+bulletin de salaire|boletín de nómina||L|fin|C2
+salaire brut|salario bruto||L|fin|C2
+salaire net|salario neto||L|fin|C2
+avoir|nota de crédito||S|fin|C2
+moratoire|moratoria (financiera)||S|fin|C2
+laminage|laminado||S|tec|C2
+stéréolithographie|estereolitografía||S|tec|C2
+dépôt en phase vapeur|deposición en fase vapor||L|tec|C2
+épitaxie|epitaxia||S|tec|C2
+hétérojonction|heterounión||S|tec|C2
+puits quantique|pozo cuántico||L|tec|C2
+fil quantique|hilo cuántico||L|tec|C2
+point quantique|punto cuántico||L|tec|C2
+nanostructure|nanoestructura||S|tec|C2
+accéléromètre|acelerómetro||S|tec|C2
+gyroscope|giróscopo||S|tec|C2
+centrale inertielle|central inercial||L|tec|C2
+actionneur|actuador||S|tec|C2
+vérin|cilindro hidráulico||S|tec|C2
+couple moteur|par motor||L|tec|C2
+bord d'attaque|borde de ataque||L|tec|C2
+bord de fuite|borde de salida||L|tec|C2
+postcombustion|postcombustión||S|tec|C2
+ligne de flottaison|línea de flotación||L|tec|C2
+soufflerie|túnel aerodinámico||S|tec|C2
+envergure|envergadura||S|tec|C2
+tuyère|tobera||S|tec|C2
+turboréacteur|turborreactor||S|tec|C2
+propergol|propergol||S|tec|C2
+ergols|ergoles (propergoles)||S|tec|C2
+avionique|aviónica||S|tec|C2
+télémétrie|telemetría||S|tec|C2
+furtivité|furtividad||S|tec|C2
+guerre électronique|guerra electrónica||L|tec|C2
+cyberdéfense|ciberdefensa||S|tec|C2
+stéganographie|esteganografía||S|tec|C2
+bac à sable|entorno aislado (caja de arena)||L|tec|C2
+machine virtuelle|máquina virtual||L|tec|C2
+orchestration|orquestación (de contenedores)||S|tec|C2
+répartition de charge|balanceo de carga||L|tec|C2
+tolérance aux pannes|tolerancia a fallos||L|tec|C2
+haute disponibilité|alta disponibilidad||L|tec|C2
+horodatage|sellado temporal||S|tec|C2
+signature électronique|firma electrónica||L|tec|C2
+autorité de certification|autoridad de certificación||L|tec|C2
+non-répudiation|irrenunciabilidad||S|tec|C2
+profilage|perfilado (de datos)||S|tec|C2
+clé privée|clave privada||L|tec|C2
+chiffrer|cifrar||V|tec|C2
+cryptogramme|criptograma||S|tec|C2
+compteur intelligent|contador inteligente||L|tec|C2
+réseau intelligent|red inteligente||L|tec|C2
+autoconsommation|autoconsumo||S|tec|C2
+cogénération|cogeneración||S|tec|C2
+chaleur fatale|calor residual||L|tec|C2
+pointe de consommation|punta de consumo||L|tec|C2
+effacement de consommation|desconexión de demanda||L|tec|C2
+fracture numérique|brecha digital||L|tec|C2
+illectronisme|analfabetismo digital||S|tec|C2
+cyberharcèlement|ciberacoso||S|tec|C2
+terminal de paiement|datáfono||L|tec|C2
+gouverne|superficie de mando||S|tec|C2
+givrage|formación de hielo||S|tec|C2
+dégivrage|deshielo||S|tec|C2

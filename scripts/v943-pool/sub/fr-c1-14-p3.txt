@@ -1,0 +1,294 @@
+véracité|veracidad||S|ast|C1
+mensonger|mendaz||A|ast|C1
+spécieux|sofístico||A|ast|C1
+invérifiable|no verificable||A|ast|C1
+invraisemblance|falta de verosimilitud||S|ast|C1
+leurre|señuelo (engaño)||S|ast|C1
+travestir|tergiversar||V|ast|C1
+imposture|impostura||S|ast|C1
+supercherie|superchería (engaño)||S|ast|C1
+affabulation|fabulación||S|ast|C1
+approximation|aproximación (imprecisión)||S|ast|C1
+raffinement|refinamiento||S|ast|C1
+sobriété|sobriedad||S|ast|C1
+bienséance|decoro||S|ast|C1
+pudeur|recato||S|ast|C1
+impudeur|desfachatez||S|ast|C1
+outrance|desmesura||S|ast|C1
+scrupule|escrúpulo||S|ast|C1
+intégrité|integridad||S|ast|C1
+probité|honradez||S|ast|C1
+dévouement|entrega||S|ast|C1
+abnégation|abnegación||S|ast|C1
+sensiblement|sensiblemente||D|ast|C1
+notoirement|notoriamente||D|ast|C1
+marginalement|marginalmente||D|ast|C1
+substantiellement|sustancialmente||D|ast|C1
+passablement|bastante||D|ast|C1
+drastique|drástico||A|ast|C1
+exorbitant|exorbitante||A|ast|C1
+dérisoire|risible||A|ast|C1
+infime|ínfimo||A|ast|C1
+myriade|miríada||S|ast|C1
+au prorata|a prorrata||L|ast|C1
+passer l'arme à gauche|estirar la pata||E|cmu|C1
+en dernier ressort|en última instancia||L|cmu|C1
+à mots couverts|con insinuaciones||L|cmu|C1
+échauffourée|escaramuza||S|cmu|C1
+impair|paso en falso||S|cmu|C1
+langue de bois|lengua de madera||S|cmu|C1
+châtié|depurado (estilo)||A|cmu|C1
+circonvolution|circunloquio||S|cmu|C1
+euphémisme|eufemismo||S|cmu|C1
+sans détour|sin rodeos||L|cmu|C1
+mensonge par omission|mentira por omisión||S|cmu|C1
+clarté|claror||S|let|C1
+lueur|resplandor tenue||S|let|C1
+firmament|firmamento||S|let|C1
+verdoyant|frondoso||A|let|C1
+sanglot|sollozo||S|let|C1
+errance|vagabundeo||S|let|C1
+émoi|conmoción||S|let|C1
+étreinte|abrazo||S|let|C1
+gémissement|gemido||S|let|C1
+langueur|languidez||S|let|C1
+aurore|aurora||S|let|C1
+céans|aquí dentro||D|let|C1
+jadis|antaño||D|let|C1
+naguère|no ha mucho||D|let|C1
+quérir|ir a buscar||V|let|C1
+chenu|cano||A|let|C1
+palfrenier|palafrenero||S|let|C1
+naïade|náyade||S|let|C1
+sibylle|sibila||S|let|C1
+pourpoint|jubón||S|let|C1
+chausses|calzas||S|let|C1
+moult|mucho||D|let|C1
+partant|por consiguiente||C|cnn|C1
+en l'espèce|en el caso concreto||L|cnn|C1
+à ce titre|a ese título||L|cnn|C1
+en amont|aguas arriba (antes)||L|cnn|C1
+en aval|aguas abajo (después)||L|cnn|C1
+sauf erreur|salvo error||L|cnn|C1
+pour le moins|por lo menos||L|cnn|C1
+si tant est que|si es que||C|cnn|C1
+quitte à|aun a costa de||L|cnn|C1
+moyennant|mediante||P|cnn|C1
+eu égard à|en atención a||L|cnn|C1
+sous-entendre|dar a entender||V|cmu|C1
+insinuer|insinuar||V|cmu|C1
+ironiser|ironizar||V|cmu|C1
+radoter|chochear (repetir)||V|cmu|C1
+maugréer|mascullar quejas||V|cmu|C1
+larmoyer|lloriquear||V|cmu|C1
+jargonner|hablar en jerga||V|cmu|C1
+bredouiller|farfullar||V|cmu|C1
+persifler|poner en ridículo||V|cmu|C1
+tancer|llamar al orden||V|cmu|C1
+apostropher|apostrofar||V|cmu|C1
+a fortiori|con mayor razón||L|let|C1
+a contrario|por el contrario||L|let|C1
+in extenso|por extenso||L|let|C1
+in fine|al final||L|let|C1
+mutatis mutandis|mutatis mutandis (cambiando lo necesario)||L|let|C1
+ex nihilo|de la nada||L|let|C1
+in abstracto|en abstracto||L|let|C1
+urbi et orbi|al orbe entero||L|let|C1
+in petto|para sí||L|let|C1
+ex abrupto|de improviso||L|let|C1
+grosso modo|a grandes rasgos||L|let|C1
+attachement|apego||S|stu|C1
+étayage|andamiaje||S|stu|C1
+métacognition|métacognición||S|stu|C1
+psychomoteur|psicomotor||A|stu|C1
+mimétisme|mimetismo||S|stu|C1
+candeur|candidez||S|stu|C1
+socialisation|socialización||S|stu|C1
+didactique|didáctica||S|stu|C1
+remédiation|remediación (refuerzo)||S|stu|C1
+inclusion scolaire|inclusión educativa||S|stu|C1
+décrochage scolaire|abandono escolar||S|stu|C1
+affect|afecto||S|sla|C1
+bien-traitance|buen trato||S|sla|C1
+épuisement professionnel|desgaste profesional||S|sla|C1
+sidération|aturdimiento (parálisis)||S|sla|C1
+décompensation|descompensación||S|sla|C1
+passage à l'acte|paso al acto||S|sla|C1
+clivage|clivaje||S|sla|C1
+contre-transfert|contratransferencia||S|sla|C1
+psychotrope|psicotrópico||A|sla|C1
+rumination|rumiación||S|sla|C1
+somatisation|somatización||S|sla|C1
+pingrerie|tacañería extrema||S|ast|C1
+prodigalité|prodigalidad||S|ast|C1
+veulerie|flaqueza moral||S|ast|C1
+couardise|cobardía||S|ast|C1
+forfanterie|fanfarronería||S|ast|C1
+duplicité|duplicidad||S|ast|C1
+fourberie|felonía||S|ast|C1
+intempérance|intemperancia||S|ast|C1
+gloutonnerie|glotonería||S|ast|C1
+malveillance|mala fe||S|ast|C1
+commisération|compasión||S|ast|C1
+jeune pousse|empresa emergente||S|lav|C1
+amorçage|ronda semilla||S|lav|C1
+levée de fonds|ronda de financiación||S|lav|C1
+actionnariat|accionariado||S|lav|C1
+prototypage|prototipado||S|lav|C1
+essaimage|creación de empresas derivadas||S|lav|C1
+incubateur|incubadora||S|lav|C1
+accélérateur|aceleradora (de startups)||S|lav|C1
+mise à l'échelle|escalado||S|lav|C1
+rampe de lancement|rampa de lanzamiento||S|lav|C1
+retour sur investissement|retorno de la inversión||S|lav|C1
+chaîne d'approvisionnement|cadena de suministro||S|lav|C1
+stock de sécurité|stock de seguridad||S|lav|C1
+juste-à-temps|justo a tiempo||L|lav|C1
+préparation de commandes|preparación de pedidos||S|lav|C1
+tournée de livraison|ronda de reparto||S|lav|C1
+dernier kilomètre|última milla||S|lav|C1
+rupture de stock|ruptura de stock||S|lav|C1
+réapprovisionnement|reabastecimiento||S|lav|C1
+niveau de service|nivel de servicio||S|lav|C1
+logistique inversée|logística inversa||S|lav|C1
+dédouanement|despacho de aduanas||S|lav|C1
+segmentation|segmentación||S|lav|C1
+ciblage comportemental|orientación por comportamiento||S|lav|C1
+taux de conversion|tasa de conversión||S|lav|C1
+coût d'acquisition|coste de adquisición||S|lav|C1
+attrition|pérdida de clientes||S|lav|C1
+valeur vie client|valor de vida del cliente||S|lav|C1
+notoriété de marque|notoriedad de marca||S|lav|C1
+mise en avant|destacado||S|lav|C1
+réputation en ligne|reputación en línea||S|lav|C1
+prescripteur|prescriptor||S|lav|C1
+assurance qualité|garantía de calidad||S|lav|C1
+non-conformité|no conformidad||S|lav|C1
+amélioration continue|mejora continua||S|lav|C1
+traçabilité|trazabilidad||S|lav|C1
+échantillonnage|muestreo||S|lav|C1
+référentiel|marco de referencia||S|lav|C1
+conformité réglementaire|cumplimiento normativo||S|lav|C1
+homologation|homologación||S|lav|C1
+métrologie|metrología||S|lav|C1
+indicateur de performance|indicador de desempeño||S|lav|C1
+assignation|citación judicial||S|ist|C1
+mise en demeure|requerimiento||S|ist|C1
+astreinte|multa coercitiva||S|ist|C1
+huissier de justice|oficial de justicia||S|ist|C1
+cassation|casación||S|ist|C1
+clause pénale|cláusula penal||S|ist|C1
+usufruit|usufructo||S|ist|C1
+servitude|servidumbre||S|ist|C1
+forclusion|preclusión||S|ist|C1
+détention provisoire|prisión provisional||S|ist|C1
+iatrogène|iatrogénico||A|sla|C1
+comorbidité|comorbilidad||S|sla|C1
+étiologie|etiología||S|sla|C1
+pronostic vital|pronóstico vital||S|sla|C1
+embolie pulmonaire|embolia pulmonar||S|sla|C1
+occlusion intestinale|obstrucción intestinal||S|sla|C1
+endoscopie|endoscopia||S|sla|C1
+colostomie|colostomía||S|sla|C1
+suites opératoires|evolución posoperatoria||S|sla|C1
+posologie|posología||S|sla|C1
+cahier des charges|pliego de condiciones||S|tec|C1
+géomètre|agrimensor||S|tec|C1
+usinage|mecanizado||S|tec|C1
+traitement thermique|tratamiento térmico||S|tec|C1
+couple de serrage|par de apriete||S|tec|C1
+résistance des matériaux|resistencia de materiales||S|tec|C1
+pont roulant|puente grúa||S|tec|C1
+tôlerie|calderería||S|tec|C1
+forgeage|forjado||S|tec|C1
+essai de traction|ensayo de tracción||S|tec|C1
+maître de conférences|profesor titular||S|stu|C1
+comité de lecture|comité editorial||S|stu|C1
+facteur d'impact|factor de impacto||S|stu|C1
+évaluation par les pairs|evaluación por pares||S|stu|C1
+chaire|cátedra||S|stu|C1
+convention de stage|convenio de prácticas||S|stu|C1
+vacataire|interino por horas||S|stu|C1
+post-doctorant|postdoctorando||S|stu|C1
+soutenance|defensa (de tesis)||S|stu|C1
+directeur de thèse|director de tesis||S|stu|C1
+vente aux enchères|subasta||S|art|C1
+commissaire-priseur|subastador||S|art|C1
+adjudication|adjudicación||S|art|C1
+enchère|puja||S|art|C1
+expertise|peritaje||S|art|C1
+provenance|procedencia||S|art|C1
+huis clos|a puerta cerrada||L|art|C1
+brocante|mercado de antigüedades||S|art|C1
+mécénat|mecenazgo||S|art|C1
+galeriste|galerista||S|art|C1
+restaurant étoilé|restaurante con estrellas||S|ali|C1
+dressage|emplatado||S|ali|C1
+cuisine d'auteur|cocina de autor||S|ali|C1
+note de dégustation|nota de cata||S|ali|C1
+accord mets et vins|maridaje||S|ali|C1
+sommelier|sumiller||S|ali|C1
+velouté|crema aterciopelada||S|ali|C1
+émulsion|emulsión||S|ali|C1
+fumet|fondo de pescado||S|ali|C1
+longueur en bouche|persistencia en boca||S|ali|C1
+entregent|don de gentes||S|rel|C1
+mondanité|mundanalidad||S|rel|C1
+convenances|convencionalismos||S|rel|C1
+faux pas|metedura de pata||S|rel|C1
+s'immiscer|inmiscuirse||V|rel|C1
+assiduité|asiduidad (constancia en el trato)||S|rel|C1
+faire acte de présence|hacer acto de presencia||E|rel|C1
+brouille|distanciamiento||S|rel|C1
+raccommodement|reconciliación||S|rel|C1
+morgue|soberbia||S|rel|C1
+seuil aérobie|umbral aeróbico||S|spt|C1
+seuil anaérobie|umbral anaeróbico||S|spt|C1
+surmenage|sobreentrenamiento||S|spt|C1
+pliométrie|pliometría||S|spt|C1
+lactatémie|lactacidemia||S|spt|C1
+hypoxie|hipoxia||S|spt|C1
+proprioception|propiocepción||S|spt|C1
+anabolisant|anabolizante||S|spt|C1
+périodisation|periodización||S|spt|C1
+fractionné|trabajo fraccionado||S|spt|C1
+pur-sang|purasangre||S|ani|C1
+trotteur|trotador||S|ani|C1
+haras|yeguada||S|ani|C1
+poulinière|yegua de cría||S|ani|C1
+saillie|monta||S|ani|C1
+poulinage|parto de yegua||S|ani|C1
+canin|canino||A|ani|C1
+lignée|linaje||S|ani|C1
+concours complet|concurso completo||S|ani|C1
+cheval de sang|caballo de sangre||S|ani|C1
+alerte orange|alerta naranja||S|cli|C1
+vague de chaleur|ola de calor||S|cli|C1
+front froid|frente frío||S|cli|C1
+front occlus|frente ocluido||S|cli|C1
+isobare|isobara||S|cli|C1
+anticyclone|anticiclón||S|cli|C1
+cellule orageuse|celda tormentosa||S|cli|C1
+bourrasque|ráfaga violenta||S|cli|C1
+modèle atmosphérique|modelo atmosférico||S|cli|C1
+ballon-sonde|globo sonda||S|cli|C1
+force est de constater|hay que reconocer||E|cnn|C1
+il n'empêche que|no obstante||C|cnn|C1
+quoi qu'il advienne|pase lo que pase||C|cnn|C1
+n'en déplaise à|no le pese a||L|cnn|C1
+d'autant que|tanto más cuanto que||C|cnn|C1
+pour peu que|con tal que||C|cnn|C1
+quand bien même|aun cuando||C|cnn|C1
+ne serait-ce que|aunque sea solo||L|cnn|C1
+il va sans dire|sobra decir||E|cnn|C1
+en tout état de cause|en cualquier caso||L|cnn|C1
+trame verte|malla verde||S|cit|C1
+continuité écologique|conectividad ecológica||S|cit|C1
+zonage|zonificación||S|cit|C1
+plan local d'urbanisme|plan de urbanismo||S|cit|C1
+emprise au sol|ocupación de suelo||S|cit|C1
+îlot de chaleur|isla de calor||S|cit|C1
+imperméabilisation|impermeabilización||S|cit|C1
+mobilier urbain|mobiliario urbano||S|cit|C1
+mixité fonctionnelle|usos mixtos||S|cit|C1
+friche urbaine|solar abandonado||S|cit|C1

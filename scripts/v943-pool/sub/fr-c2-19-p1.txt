@@ -1,0 +1,325 @@
+novation|novación (de contrato)||S|ist|C2
+astreinte|multa coercitiva judicial||S|ist|C2
+quasi-délit|cuasidelito||S|ist|C2
+usufruitier|usufructuario||S|ist|C2
+nu-propriétaire|nudo propietario||S|ist|C2
+séquestre|depósito judicial||S|ist|C2
+indivision|indiviso (comunidad de bienes)||S|ist|C2
+emphytéose|censo enfitéutico||S|ist|C2
+déchéance|caducidad (de un derecho)||S|ist|C2
+pacte de préférence|pacto de preferencia||L|ist|C2
+clause de non-concurrence|cláusula de no competencia||L|ist|C2
+exécuteur testamentaire|albacea testamentario||L|ist|C2
+mise en demeure|requerimiento fehaciente||L|ist|C2
+ayant cause|causahabiente||L|ist|C2
+purge des privilèges|cancelación de gravámenes||L|ist|C2
+acte sous seing privé|documento privado||L|ist|C2
+résolution du contrat|resolución del contrato||L|ist|C2
+forclusion|preclusión||S|ist|C2
+récusation|recusación||S|ist|C2
+exploit d'huissier|cédula de requerimiento||L|ist|C2
+provision ad litem|provisión para litigar||L|ist|C2
+jugement contradictoire|sentencia con audiencia de las partes||L|ist|C2
+pourvoi en cassation|recurso de casación||L|ist|C2
+jugement sur pièce|sentencia a la vista de autos||L|ist|C2
+faux en écriture|falsificación documental||L|ist|C2
+incident de procédure|incidente procesal||L|ist|C2
+débouter|desestimar (una demanda)||V|ist|C2
+inscrire en faux|tachar de falso||E|ist|C2
+mise en délibéré|aplazamiento para sentencia||L|ist|C2
+réquisitoire|escrito de acusación||S|ist|C2
+exécution provisoire|ejecución provisional||L|ist|C2
+non-lieu|sobreseimiento||S|ist|C2
+juge d'instruction|juez de instrucción||L|pro|C2
+témoin à charge|testigo de cargo||L|ist|C2
+peine plancher|pena mínima||L|ist|C2
+sursis probatoire|condena en suspenso con prueba||L|ist|C2
+réclusion|reclusión||S|ist|C2
+écrou|ingreso en prisión||S|ist|C2
+mainlevée|levantamiento (de un embargo)||S|ist|C2
+nantissement|prenda (sin desplazamiento)||S|fin|C2
+inscription hypothécaire|inscripción hipotecaria||L|ist|C2
+motion de censure|moción de censura||L|ist|C2
+scrutin uninominal|escrutinio uninominal||L|ist|C2
+scrutateur|escrutador||S|pro|C2
+contentieux constitutionnel|litigio constitucional||L|ist|C2
+régime semi-présidentiel|régimen semipresidencial||L|ist|C2
+immunité parlementaire|inmunidad parlamentaria||L|ist|C2
+hiérarchie des normes|jerarquía normativa||L|ist|C2
+excès de pouvoir|exceso de poder||L|ist|C2
+recours gracieux|recurso de gracia||L|ist|C2
+décision de rejet|decisión desestimatoria||L|ist|C2
+requête en annulation|recurso de anulación||L|ist|C2
+fusion-absorption|fusión por absorción||S|fin|C2
+augmentation de capital|ampliación de capital||L|fin|C2
+apport en nature|aportación no dineraria||L|fin|C2
+actionnaire de référence|accionista de control||L|fin|C2
+faillite personnelle|quiebra personal||L|fin|C2
+redressement judiciaire|concurso de acreedores||L|fin|C2
+liquidation judiciaire|liquidación concursal||L|fin|C2
+valeur mobilière|valor negociable||L|fin|C2
+convention collective|convenio colectivo||L|lav|C2
+délégué syndical|delegado sindical||L|lav|C2
+grève du zèle|huelga de celo||L|lav|C2
+solde de tout compte|liquidación final||L|lav|C2
+licenciement pour motif économique|despido objetivo||L|lav|C2
+prud'hommes|magistratura de trabajo||L|ist|C2
+dénonciation|denuncia (de un tratado)||S|ist|C2
+nation la plus favorisée|nación más favorecida||L|ist|C2
+diplomatie de la canonnière|diplomacia de las cañoneras||L|ist|C2
+note verbale|nota verbal||L|ist|C2
+ambassadeur plénipotentiaire|embajador plenipotenciario||L|pro|C2
+asile politique|asilo político||L|ist|C2
+extrader|extraditar||V|ist|C2
+acte notarié|escritura pública||L|ist|C2
+cadastre|catastro||S|ist|C2
+délinquance en col blanc|delincuencia de cuello blanco||L|ist|C2
+bracelet électronique|pulsera telemática||L|ist|C2
+garde à vue|detención preventiva||L|ist|C2
+récidiviste|reincidente||A|ist|C2
+probation|libertad condicional||S|ist|C2
+commutation de peine|conmutación de pena||L|ist|C2
+circonstances atténuantes|circunstancias atenuantes||L|ist|C2
+détention provisoire|prisión preventiva||L|ist|C2
+clause compromissoire|cláusula compromisoria||L|ist|C2
+subrogation|subrogación||S|ist|C2
+dépens|costas procesales||S|ist|C2
+anamnèse|anamnesis||S|sla|C2
+adénopathie|adenopatía||S|sla|C2
+hémoptysie|hemoptisis||S|sla|C2
+lipothymie|lipotimia||S|sla|C2
+hématurie|hematuria||S|sla|C2
+protéinurie|proteinuria||S|sla|C2
+dysphagie|disfagia||S|sla|C2
+polyurie|poliuria||S|sla|C2
+pollakiurie|polaquiuria||S|sla|C2
+ictère|ictericia||S|sla|C2
+macule|mácula||S|sla|C2
+papule|pápula||S|sla|C2
+pustule|pústula||S|sla|C2
+squame|escama (cutánea)||S|sla|C2
+induration|endurecimiento||S|sla|C2
+souffle cardiaque|soplo cardíaco||L|sla|C2
+bruit de galop|ritmo de galope||L|sla|C2
+extrasystole|extrasístole||S|sla|C2
+cathétérisme|cateterismo||S|sla|C2
+coronarographie|coronariografía||S|sla|C2
+spirométrie|espirometría||S|sla|C2
+emphysème|enfisema pulmonar||S|sla|C2
+angor|angina de pecho||S|sla|C2
+bradycardie|bradicardia||S|sla|C2
+forme galénique|forma farmacéutica||L|sla|C2
+biodisponibilité|biodisponibilidad||S|sla|C2
+effet de premier passage|efecto de primer paso||L|sla|C2
+interaction médicamenteuse|interacción medicamentosa||L|sla|C2
+essai en double aveugle|ensayo doble ciego||L|sla|C2
+randomisation|aleatorización||S|sla|C2
+pharmacovigilance|farmacovigilancia||S|sla|C2
+surdosage|sobredosificación||S|sla|C2
+dysthymie|distimia||S|sla|C2
+cyclothymie|ciclotimia||S|sla|C2
+trouble obsessionnel-compulsif|trastorno obsesivo-compulsivo||L|sla|C2
+idées suicidaires|ideación suicida||L|sla|C2
+anxiété généralisée|ansiedad generalizada||L|sla|C2
+délire paranoïaque|delirio paranoide||L|sla|C2
+hallucination auditive|alucinación auditiva||L|sla|C2
+bouffée délirante|brote psicótico agudo||L|sla|C2
+catatonie|catatonía||S|sla|C2
+agnosie|agnosia||S|sla|C2
+logorrhée|logorrea||S|sla|C2
+écholalie|ecolalia||S|sla|C2
+mutisme|mutismo||S|sla|C2
+dépersonnalisation|despersonalización||S|sla|C2
+déréalisation|desrealización||S|sla|C2
+inhibition psychomotrice|inhibición psicomotriz||L|sla|C2
+thymorégulateur|estabilizador del ánimo||S|sla|C2
+sismothérapie|terapia electroconvulsiva||S|sla|C2
+acharnement thérapeutique|encarnizamiento terapéutico||L|sla|C2
+consentement éclairé|consentimiento informado||L|sla|C2
+directive anticipée|testamento vital||L|sla|C2
+diagnostic prénatal|diagnóstico prenatal||L|sla|C2
+tri des blessés|triaje de heridos||L|sla|C2
+comité d'éthique|comité de ética||L|ist|C2
+procréation médicalement assistée|reproducción asistida||L|sla|C2
+allergie croisée|alergia cruzada||L|sla|C2
+atopie|atopia||S|sla|C2
+réaction anaphylactique|reacción anafiláctica||L|sla|C2
+corticothérapie|corticoterapia||S|sla|C2
+thyroïdite|tiroiditis||S|sla|C2
+insulinorésistance|insulinorresistencia||S|sla|C2
+soins palliatifs|cuidados paliativos||L|sla|C2
+adénocarcinome|adenocarcinoma||S|sla|C2
+neutropénie|neutropenia||S|sla|C2
+mucite|mucositis (oral)||S|sla|C2
+épisiotomie|episiotomía||S|sla|C2
+dystocie|distocia||S|sla|C2
+ostéosynthèse|osteosíntesis||S|sla|C2
+algodystrophie|algodistrofia refleja||S|sla|C2
+aponévrose|aponeurosis||S|cor|C2
+clampage|pinzamiento (quirúrgico)||S|sla|C2
+surmortalité|exceso de mortalidad||S|sla|C2
+nosocomial|nosocomial (intrahospitalario)||A|sla|C2
+couverture vaccinale|cobertura vacunal||L|sla|C2
+éosinophilie|eosinofilia||S|sci|C2
+leucopénie|leucopenia||S|sla|C2
+épreuve d'effort|prueba de esfuerzo||L|sla|C2
+fibrillation auriculaire|fibrilación auricular||L|sla|C2
+bronchopneumopathie|bronconeumopatía||S|sla|C2
+prolactinome|prolactinoma||S|sla|C2
+hyperaldostéronisme|hiperaldosteronismo||S|sla|C2
+érythrodermie|eritrodermia||S|sla|C2
+angioedème|angioedema||S|sla|C2
+paresthésie|parestesia||S|sla|C2
+dysarthrie|disartría||S|sla|C2
+nystagmus|nistagmo||S|sla|C2
+bronchiolite|bronquiolitis||S|sla|C2
+resserrement monétaire|endurecimiento monetario||L|fin|C2
+assouplissement quantitatif|flexibilización cuantitativa||L|fin|C2
+inflation sous-jacente|inflación subyacente||L|fin|C2
+désinflation|desinflación||S|fin|C2
+déflateur|deflactor||S|fin|C2
+taux de refinancement|tipo de refinanciación||L|fin|C2
+réescompte|redescuento||S|fin|C2
+création monétaire|creación monetaria||L|fin|C2
+planche à billets|imprenta de billetes||L|fin|C2
+krach boursier|crac bursátil||L|fin|C2
+titre de créance|valor de renta fija||L|fin|C2
+rendement actuariel|rentabilidad efectiva||S|fin|C2
+courbe des taux|curva de tipos||L|fin|C2
+barrière non tarifaire|barrera no arancelaria||L|fin|C2
+clause de sauvegarde|cláusula de salvaguardia||L|fin|C2
+contingent tarifaire|contingente arancelario||L|fin|C2
+zone franche|zona franca||L|fin|C2
+accord de libre-échange|acuerdo de libre cambio||L|fin|C2
+dumping social|dumping social||L|fin|C2
+actifs immobilisés|activo fijo||L|fin|C2
+report à nouveau|remanente (de pérdidas)||S|fin|C2
+charges constatées d'avance|gastos anticipados||L|fin|C2
+produits constatés d'avance|ingresos anticipados||L|fin|C2
+lettrage|conciliación (de partidas contables)||S|fin|C2
+écarts de conversion|diferencias de conversión||L|fin|C2
+amortissement dégressif|amortización decreciente||L|fin|C2
+juste valeur|valor razonable||L|fin|C2
+dépréciation d'actif|deterioro de activo||L|fin|C2
+commissaire aux comptes|auditor de cuentas||L|pro|C2
+révision comptable|auditoría contable||L|fin|C2
+contrôle interne|control interno||L|fin|C2
+opération de couverture|operación de cobertura||L|fin|C2
+vente à découvert|venta en corto||L|fin|C2
+contrat à terme|contrato de futuros||L|fin|C2
+volatilité implicite|volatilidad implícita||L|fin|C2
+prix d'exercice|precio de ejercicio||L|fin|C2
+appel de marge|llamada de margen||L|fin|C2
+contrepartie centrale|contraparte central||L|fin|C2
+dette subordonnée|deuda subordinada||L|fin|C2
+titrisation|titulización||S|fin|C2
+notation financière|calificación crediticia||L|fin|C2
+obligation convertible|obligación convertible||L|fin|C2
+agrégat monétaire|agregado monetario||L|fin|C2
+stagflation|estanflación||S|fin|C2
+billet à ordre|pagaré||L|fin|C2
+compte à terme|depósito a plazo fijo||L|fin|C2
+perte attendue|pérdida esperada (crediticia)||L|fin|C2
+rééchelonnement|reestructuración de deuda||S|fin|C2
+élasticité-prix|elasticidad precio||S|fin|C2
+pouvoir de marché|poder de mercado||L|fin|C2
+concentration horizontale|concentración horizontal||L|fin|C2
+prédation tarifaire|depredación de precios||L|fin|C2
+avantage comparatif|ventaja comparativa||L|fin|C2
+allègement de la dette|condonación de deuda||L|fin|C2
+aide publique au développement|ayuda oficial al desarrollo||L|fin|C2
+optimisation fiscale|optimización fiscal||L|fin|C2
+impôt sur la fortune|impuesto sobre el patrimonio||L|fin|C2
+niche fiscale|resquicio fiscal||L|fin|C2
+assiette fiscale|base imponible||L|fin|C2
+droits de succession|impuesto de sucesiones||L|fin|C2
+exonération|exención||S|fin|C2
+survaleur|fondo de comercio||S|fin|C2
+acquisition hostile|adquisición hostil||L|fin|C2
+seuil de rentabilité|umbral de rentabilidad||L|fin|C2
+bon du Trésor|letra del Tesoro||L|fin|C2
+épissage|empalme (del pre-ARN)||S|sci|C2
+acétylation des histones|acetilación de histonas||L|sci|C2
+pénétrance|penetrancia||S|sci|C2
+pléiotropie|pleiotropía||S|sci|C2
+aneuploïdie|aneuploidía||S|sci|C2
+non-disjonction|no disyunción||S|sci|C2
+microsatellite|microsatélite||S|sci|C2
+séquençage à haut débit|secuenciación masiva||L|sci|C2
+homozygote|homocigoto||S|sci|C2
+immunogénicité|inmunogenicidad||S|sci|C2
+opsonisation|opsonización||S|sci|C2
+anergie|anergia||S|sci|C2
+greffon contre hôte|injerto contra huésped||L|sci|C2
+anticorps monoclonal|anticuerpo monoclonal||L|sci|C2
+plasticité synaptique|plasticidad sináptica||L|sci|C2
+potentiels évoqués|potenciales evocados||L|sci|C2
+noyaux gris centraux|ganglios de la base||L|sci|C2
+neurogenèse|neurogénesis||S|sci|C2
+gliose|gliosis||S|sci|C2
+réactif limitant|reactivo limitante||L|sci|C2
+solution tampon|disolución tampón||L|sci|C2
+point isoélectrique|punto isoeléctrico||L|sci|C2
+mésomérie|mesomería||S|sci|C2
+diastéréoisomère|diastereoisómero||S|sci|C2
+stéréochimie|estereoquímica||S|sci|C2
+réticulation|reticulación||S|sci|C2
+titrage|valoración (de una disolución)||S|sci|C2
+intrication|entrelazamiento (cuántico)||S|sci|C2
+décohérence|decoherencia||S|sci|C2
+horizon des événements|horizonte de sucesos||L|sci|C2
+lentille gravitationnelle|lente gravitacional||L|sci|C2
+céphéide|cefeida (variable)||S|sci|C2
+fusion nucléaire|fusión nuclear||L|sci|C2
+erreur-type|error típico||S|sci|C2
+corrélation partielle|correlación parcial||L|sci|C2
+significativité statistique|significatividad estadística||L|sci|C2
+puissance statistique|potencia estadística||L|sci|C2
+biais de sélection|sesgo de selección||L|sci|C2
+corrélation fallacieuse|correlación espuria||L|sci|C2
+batholite|batolito||S|sci|C2
+faille inverse|falla inversa||L|sci|C2
+flysch|flysch||S|sci|C2
+forçage radiatif|forzamiento radiativo||L|sci|C2
+circulation thermohaline|circulación termohalina||L|sci|C2
+cardinalité|cardinalidad||S|sci|C2
+intégrale curviligne|integral de línea||L|sci|C2
+jacobienne|jacobiana||S|sci|C2
+infinitésimal|infinitesimal||A|sci|C2
+dérivée partielle|derivada parcial||L|sci|C2
+virion|virión||S|sci|C2
+édition génomique|edición genómica||L|sci|C2
+clonage thérapeutique|clonación terapéutica||L|sci|C2
+vecteur viral|vector viral||L|sci|C2
+cellule souche pluripotente|célula madre pluripotente||L|sci|C2
+induction enzymatique|inducción enzimática||L|sci|C2
+épissage alternatif|empalme alternativo||L|sci|C2
+apoptose|apoptosis||S|sci|C2
+caryotype|cariotipo||S|sci|C2
+lyophilisation|liofilización||S|sci|C2
+macle|macla||S|sci|C2
+oolithe|oolito||S|sci|C2
+pergélisol|permafrost||S|nat|C2
+enthalpie|entalpía||S|sci|C2
+diagramme de phase|diagrama de fases||L|sci|C2
+couche limite|capa límite||L|sci|C2
+interféromètre|interferómetro||S|sci|C2
+biréfringence|birrefringencia||S|sci|C2
+optique adaptative|óptica adaptativa||L|sci|C2
+réverbération|reverberación acústica||S|sci|C2
+fréquence propre|frecuencia propia||L|sci|C2
+supraconductivité|superconductividad||S|sci|C2
+nanoparticule|nanopartícula||S|sci|C2
+nanotube|nanotubo||S|sci|C2
+matériau composite|material compuesto||L|tec|C2
+piézoélectricité|piezoelectricidad||S|sci|C2
+captage du carbone|captura de carbono||L|sci|C2
+puits de carbone|sumidero de carbono||L|sci|C2
+bathymétrie|batimetría||S|sci|C2
+turbidité|turbidez||S|sci|C2
+sismographe|sismógrafo||S|sci|C2
+foyer sismique|hipocentro||L|sci|C2
+nuée ardente|nube ardiente||L|sci|C2
+eutrophisation|eutrofización||S|sci|C2
+macrophyte|macrófito||S|sci|C2
+osmolarité|osmolaridad||S|sci|C2

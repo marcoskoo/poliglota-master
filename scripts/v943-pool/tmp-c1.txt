@@ -1,0 +1,264 @@
+essentialisme|esencialismo||S|ast|C2
+constructivisme|constructivismo||S|ast|C2
+émergentisme|emergentismo||S|ast|C2
+panpsychisme|pampsiquismo||S|ast|C2
+misérabilisme|miserabilismo||S|ast|C2
+rigorisme|rigorismo||S|ast|C2
+eudémonisme|eudemonismo||S|ast|C2
+pyrrhonisme|pirronismo||S|ast|C2
+conceptualisme|conceptualismo||S|ast|C2
+universaux|universales (filosóficos)||S|ast|C2
+a priori|a priori||L|ast|C2
+a posteriori|a posteriori||L|ast|C2
+transcendantal|trascendental||A|ast|C2
+noème|noema||S|ast|C2
+noèse|noesis||S|ast|C2
+monde vécu|mundo vivido||L|ast|C2
+être-au-monde|ser-en-el-mundo||L|ast|C2
+authenticité|autenticidad||S|ast|C2
+désœuvrement|desoeamiento||S|ast|C2
+jouissance|goce||S|ast|C2
+grand Autre|gran Otro||L|ast|C2
+sujet divisé|sujeto dividido||L|ast|C2
+point de capiton|punto de almohadillado||L|ast|C2
+plus-value|plusvalía (marxista)||S|ast|C2
+valeur d'usage|valor de uso||L|ast|C2
+surtravail|plustrabajo||S|ast|C2
+lumpenprolétariat|lumpemproletariado||S|ast|C2
+néocolonialisme|neocolonialismo||S|ast|C2
+subalternité|subalternidad||S|ast|C2
+créolité|creolidad||S|ast|C2
+négritude|negritud||S|ast|C2
+orientalisme|orientalismo (crítica de Said)||S|ast|C2
+exotisme|exotismo||S|ast|C2
+primitivisme|primitivismo||S|ast|C2
+avant-garde|vanguardia||S|ast|C2
+structuralisme|estructuralismo||S|ast|C2
+défaitisme|derrotismo||S|ast|C2
+laxisme|laxismo||S|ast|C2
+moralisme|moralismo||S|ast|C2
+perfectionnisme|perfeccionismo||S|ast|C2
+stoïcisme|estoicismo||S|ast|C2
+épicurisme|epicureísmo||S|ast|C2
+scepticisme|escepticismo||S|ast|C2
+nominalisme|nominalismo||S|ast|C2
+dogmatisme|dogmatismo||S|ast|C2
+doxa|doxa||S|ast|C2
+monisme|monismo||S|ast|C2
+dualisme|dualismo||S|ast|C2
+idéalisme|idealismo||S|ast|C2
+idéalisme transcendantal|idealismo trascendental||L|ast|C2
+probabilisme|probabilismo||S|ast|C2
+subjectivisme|subjetivismo||S|ast|C2
+intersubjectivité|intersubjetividad||S|ast|C2
+aristotélisme|aristotelismo||S|ast|C2
+platonisme|platonismo||S|ast|C2
+thomisme|tomismo||S|ast|C2
+scolastique|escolástica||S|ast|C2
+épistémologie|epistemología||S|ast|C2
+phénoménologie|fenomenología||S|ast|C2
+aliénation|alienación||S|ast|C2
+fétichisme|fetichismo||S|ast|C2
+impérialisme|imperialismo||S|ast|C2
+pantouflage|puerta giratoria||S|ast|C2
+technocratie|tecnocracia||S|ast|C2
+nomenklatura|nomenklatura||S|ast|C2
+lustration|lustración (depuración)||S|ast|C2
+souverainisme|soberanismo||S|ast|C2
+populisme|populismo||S|ast|C2
+plébiscite|plebiscito||S|ast|C2
+gauchisme|gauchismo||S|ast|C2
+morosité|desgana (apesadumbre)||S|ast|C2
+blasement|hartazgo||S|ast|C2
+maussade|mustio||A|ast|C2
+atrabilaire|atrabiliario||A|ast|C2
+dépit|despecho||S|ast|C2
+candeur|candidez||S|ast|C2
+probité|probidad||S|ast|C2
+fatuité|fatuïdad||S|ast|C2
+cuistre|pedante fatuo||S|ast|C2
+hâblerie|farolería (jactancia)||S|ast|C2
+rodomontade|rodomontada||S|ast|C2
+vantardise|presunción jactanciosa||S|ast|C2
+sournoiserie|astucia encubierta||S|ast|C2
+pédanterie|pedantería||S|ast|C2
+godelureau|petimetre||S|ast|C2
+grivoiserie|chabacanería verde||S|ast|C2
+condescendance|condescendencia||S|ast|C2
+paternalisme|paternalismo||S|ast|C2
+vénalité|venalidad||S|ast|C2
+ultralibéralisme|ultraliberalismo||S|ast|C2
+monétarisme|monetarismo||S|ast|C2
+protectionnisme|proteccionismo||S|ast|C2
+libre-échangisme|librecambismo||S|ast|C2
+dirigisme|dirigismo||S|ast|C2
+État-providence|Estado providencia||S|ast|C2
+assistanat|asistencialismo||S|ast|C2
+dynamique de groupe|dinámica de grupo||L|ast|C2
+association libre|asociación libre||L|ast|C2
+compulsion de répétition|compulsión a la repetición||L|ast|C2
+pulsion de mort|pulsión de muerte||L|ast|C2
+après-coup|aplazamiento retrospectivo||S|ast|C2
+compagnonnage|aprendizaje gremial||S|ast|C2
+psychogéographie|psicogeografía||S|ast|C2
+moralisme|moralismo||S|ast|C2
+vétilleux|melindroso||A|ast|C2
+anacoluthe|anacoluto||S|let|C2
+asyndète|asíndeton||S|let|C2
+polysyndète|polisíndeton||S|let|C2
+épanadiplose|epanadiplosis||S|let|C2
+épanalepse|epanalepsis||S|let|C2
+diacope|diacope||S|let|C2
+symploce|simploces||S|let|C2
+antanaclase|antanaclasa||S|let|C2
+antonomase|antonomasia||S|let|C2
+catachrèse|catacresis||S|let|C2
+hendiadys|hendiadys||L|let|C2
+homéotéleute|homeoteleute||S|let|C2
+paronomase|paronomasia||S|let|C2
+asteisme|astéisme||S|let|C2
+mérisme|merismo||S|let|C2
+ethopée|etopeya||S|let|C2
+prosopopée|prosopopeya||S|let|C2
+métaphore filée|metáfora sostenida||L|let|C2
+paralipse|paralipsis||S|let|C2
+octosyllabe|octosílabo||S|let|C2
+alexandrin|alejandrino||S|let|C2
+rime riche|rima rica||L|let|C2
+carrure|cuadratura del verso||S|let|C2
+scansion|escansión||S|let|C2
+anapestique|anapéstico||A|let|C2
+dactylique|dactílico||A|let|C2
+iambique|yámbico||A|let|C2
+anacréontique|anacreóntico||A|let|C2
+lyrisme|lirismo||S|let|C2
+élégiaque|elegíaco||A|let|C2
+bucolique|bucólico||A|let|C2
+e muet|e muda||L|let|C2
+quatrain|cuarteto||S|let|C2
+tercet|terceto||S|let|C2
+quintil|quintilla||S|let|C2
+septain|septeto||S|let|C2
+dizain|décima||S|let|C2
+antistrophe|antístrofa||S|let|C2
+épode|epodo||S|let|C2
+fabliau|fabliau||S|let|C2
+chanson de geste|cantar de gesta||L|let|C2
+roman de chevalerie|libro de caballerías||L|let|C2
+roman épistolaire|novela epistolar||L|let|C2
+autofiction|autoficción||S|let|C2
+biographème|biografema||S|let|C2
+apologue|apólogo||S|let|C2
+acrostiche|acróstico||S|let|C2
+calligramme|caligrama||S|let|C2
+lipogramme|lipograma||S|let|C2
+holorime|holorima||S|let|C2
+fatrasie|fatrasía||S|let|C2
+sotie|sotía||S|let|C2
+chronotope|cronotopo||S|let|C2
+carnavalisation|carnavalización||S|let|C2
+dialogisme|dialogismo||S|let|C2
+hétéroglossie|heteroglosia||S|let|C2
+monologisme|monologismo||S|let|C2
+chosisme|cosismo||S|let|C2
+degré zéro|grado cero||L|let|C2
+écriture blanche|escritura blanca||L|let|C2
+connotation|connotación||S|let|C2
+dénotation|denotación||S|let|C2
+paratexte|paratexto||S|let|C2
+péritexte|peritexto||S|let|C2
+épitexte|epitexto||S|let|C2
+transtextualité|transtextualidad||S|let|C2
+architextualité|architextualidad||S|let|C2
+avant-texte|avantexto||S|let|C2
+palimpsestueux|palimpséstuo||A|let|C2
+hagiographie|hagiografía||S|let|C2
+diatribe|diatriba||S|let|C2
+oraison funèbre|oración fúnebre||L|let|C2
+tombeau littéraire|tombeau literario||L|let|C2
+libelle|libelo||S|let|C2
+pasquinade|pasquinada||S|let|C2
+madrigal|madrigal||S|let|C2
+villanelle|villanelle||S|let|C2
+triolet|triolet||S|let|C2
+sestine|sextina||S|let|C2
+médiévistique|medievalística||S|let|C2
+byzantinologie|bizantinología||S|let|C2
+assyriologie|asiriología||S|let|C2
+papyrologie|papirología||S|let|C2
+codicologie|codicología||S|let|C2
+sigillographie|sigilografía||S|let|C2
+vexillologie|vexilología||S|let|C2
+phaléristique|falerística||S|let|C2
+glyptique|gliptica||S|let|C2
+regeste|regesta||S|let|C2
+cartulaire|cartulario||S|let|C2
+polyptyque|políptico (registro fiscal)||S|let|C2
+lignage|linaje||S|let|C2
+scriptorium|scriptorium||S|let|C2
+lettrine|letra capital||S|let|C2
+bulle pontificale|bula pontificia||L|let|C2
+registre paroissial|registro parroquial||L|let|C2
+dialectologie|dialectología||S|let|C2
+mot-valise|palabra maleta||S|let|C2
+faux ami|falso amigo||L|let|C2
+étymologie populaire|etimología popular||L|let|C2
+autonymie|autonimia||S|let|C2
+cibliste|traductor al sentido||S|let|C2
+sociolecte|sociolecto||S|let|C2
+technolecte|tecnolecto||S|let|C2
+verlan|verlán (habla invertida)||S|let|C2
+louchébem|loucherbem||S|let|C2
+glossolalie|glosolalia||S|let|C2
+onomatopée|onomatopeya||S|let|C2
+concordance des temps|concordancia de tiempos||L|let|C2
+vocatif|vocativo||S|let|C2
+génitif|genitivo||S|let|C2
+ablatif|ablativo||S|let|C2
+locatif|locativo||S|let|C2
+ergatif|ergativo||S|let|C2
+absolutif|absolutivo||S|let|C2
+plus-que-parfait|pluscuamperfecto||S|let|C2
+gérondif|gerundio||S|let|C2
+supin|supino||S|let|C2
+aphérèse|aféresis||S|let|C2
+apocope|apócope||S|let|C2
+métaplasme|métaplasmo||S|let|C2
+métathèse|metátesis||S|let|C2
+épenthèse|epéntesis||S|let|C2
+diphtongue|diptongo||S|let|C2
+triphtongue|triptongo||S|let|C2
+monophtongaison|monoptongación||S|let|C2
+tonème|tonema||S|let|C2
+archiphonème|arquifonema||S|let|C2
+allomorphe|alomorfo||S|let|C2
+nasalisation|nasalización||S|let|C2
+palatalisation|palatalización||S|let|C2
+occlusive|oclusiva||S|let|C2
+fricative|fricativa||S|let|C2
+affriquée|africada||S|let|C2
+spirante|espirante||S|let|C2
+sifflante|silbante||S|let|C2
+chuintante|palatoalveolar||S|let|C2
+paradigmatique|paradigmático||A|let|C2
+syntagmatique|sintagmático||A|let|C2
+morphologie flexionnelle|morfología flexiva||L|let|C2
+déclinaison|declinación||S|let|C2
+affixe|afijo||S|let|C2
+suffixation|sufijación||S|let|C2
+préfixation|prefijación||S|let|C2
+dérivation impropre|derivación impropia||L|let|C2
+narration homodiégétique|narración homodiegética||L|let|C2
+hétérodiégétique|heterodiegético||A|let|C2
+extradiégétique|extradiegético||A|let|C2
+intradiégétique|intradiegético||A|let|C2
+métadiégétique|metadiegético||A|let|C2
+récit cadre|marco narrativo||L|let|C2
+histoire événementielle|historia de acontecimientos||L|let|C2
+microhistoire|microhistoria||S|let|C2
+histoire sérielle|historia serial||L|let|C2
+annaliste|annalista||S|let|C2
+égyptologie|egiptología||S|let|C2
+numismatique|numismática||S|let|C2
+généalogie|genealogía||S|let|C2
+ascendance|ascendencia||S|let|C2

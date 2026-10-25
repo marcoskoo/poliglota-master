@@ -1,0 +1,270 @@
+quantificateur|cuantificador||S|sci|C2
+théorie des ensembles|teoría de conjuntos||L|sci|C2
+axiome du choix|axioma de elección||L|sci|C2
+indécidabilité|indecidibilidad||S|sci|C2
+théorème d'incomplétude|teorema de incompletitud||L|sci|C2
+syllogistique|silogística||S|sci|C2
+contraposée|contrarrecíproca||S|sci|C2
+table de vérité|tabla de verdad||L|sci|C2
+connecteur logique|conector lógico||L|sci|C2
+tiers exclu|tercero excluido||L|sci|C2
+science normale|ciencia normal||L|sci|C2
+incommensurabilité|inconmensurabilidad||S|sci|C2
+plan expérimental|diseño experimental||L|sci|C2
+échantillonnage en grappes|muestreo por conglomerados||L|sci|C2
+répétabilité|repetibilidad||S|sci|C2
+reproductibilité|reproducibilidad||S|sci|C2
+seuil de signification|umbral de significancia||L|sci|C2
+intervalle de confiance|intervalo de confianza||L|sci|C2
+estimateur|estimador||S|sci|C2
+biais de confirmation|sesgo de confirmación||L|sci|C2
+biais de survie|sesgo de supervivencia||L|sci|C2
+facteur de confusion|factor de confusión||L|sci|C2
+analyse de survie|análisis de supervivencia||L|sci|C2
+régression logistique|regresión logística||L|sci|C2
+série temporelle|serie temporal||L|sci|C2
+méta-analyse|metaanálisis||S|sci|C2
+zéolithe|zeolita||S|sci|C2
+réflux|reflujo (destilación)||S|sci|C2
+chromatographie en phase gazeuse|cromatografía de gases||L|sci|C2
+spectrométrie de masse|espectrometría de masas||L|sci|C2
+spectre infrarouge|espectro infrarrojo||L|sci|C2
+fluorescence|fluorescencia||S|sci|C2
+phosphorescence|fosforescencia||S|sci|C2
+électroluminescence|electroluminiscencia||S|sci|C2
+photoluminescence|fotoluminiscencia||S|sci|C2
+magnétostriction|magnetostricción||S|sci|C2
+aimantation|imantación||S|sci|C2
+ferromagnétisme|ferromagnetismo||S|sci|C2
+spintronique|espintrónica||S|sci|C2
+condensat|condensado||S|sci|C2
+rhéologie|reología||S|sci|C2
+viscoélastique|viscoelástico||A|sci|C2
+viscosimètre|viscosímetro||S|sci|C2
+rhéomètre|reómetro||S|sci|C2
+granulométrie|granulometría||S|sci|C2
+rugosité|rugosidad||S|sci|C2
+étalonnage|calibrado||S|sci|C2
+métrologie|metrología||S|sci|C2
+maille cristalline|celda cristalina||L|sci|C2
+recuit|recocido||S|sci|C2
+trempe|templado||S|sci|C2
+cémentation|cementación||S|sci|C2
+nitruration|nitruración||S|sci|C2
+anodisation|anodizado||S|sci|C2
+passivation|pasivación||S|sci|C2
+potentiel redox|potencial redox||L|sci|C2
+pile à combustible|pila de combustible||L|sci|C2
+désorption|desorción||S|sci|C2
+adsorption|adsorción||S|sci|C2
+hétérozygote|heterocigoto||S|sci|C2
+génomique|genómica||S|sci|C2
+protéomique|proteómica||S|sci|C2
+transcriptome|transcriptoma||S|sci|C2
+métabolome|metaboloma||S|sci|C2
+épigénomique|epigenómica||S|sci|C2
+désacétylase|desacetilasa||S|sci|C2
+nucléosome|nucleosoma||S|sci|C2
+nécroptose|necroptosis||S|sci|C2
+autophagie|autofagia||S|sci|C2
+pinocytose|pinocitosis||S|sci|C2
+exocytose|exocitosis||S|sci|C2
+endocytose|endocitosis||S|sci|C2
+peroxysome|peroxisoma||S|sci|C2
+polysome|polisoma||S|sci|C2
+topoisomérase|topoisomerasa||S|sci|C2
+opéron|operón||S|sci|C2
+neuropeptide|neuropéptido||S|sci|C2
+catécholamine|catecolamina||S|sci|C2
+axone|axón||S|sci|C2
+dendrite|dendrita||S|sci|C2
+synapse|sinapsis||S|sci|C2
+neurotransmetteur|neurotransmisor||S|sci|C2
+circuit de la récompense|circuito de recompensa||L|sci|C2
+propriocéption|propiocepción||S|sci|C2
+nociception|nocicepción||S|sci|C2
+allodynie|alodinia||S|sci|C2
+hyperalgésie|hiperalgesia||S|sci|C2
+alexie|alexia||S|sci|C2
+agraphie|agrafia||S|sci|C2
+acalculie|acalculia||S|sci|C2
+exoplanète|exoplaneta||S|sci|C2
+zone habitable|zona habitable||L|sci|C2
+amas globulaire|cúmulo globular||L|sci|C2
+nébuleuse|nebulosa||S|sci|C2
+protoétoile|protoestrella||S|sci|C2
+pulsar|pulsar||S|sci|C2
+magnétar|magnétar||S|sci|C2
+trou noir supermassif|agujero negro supermasivo||L|sci|C2
+disque d'accrétion|disco de acreción||L|sci|C2
+rayonnement de fond|radiación de fondo||L|sci|C2
+inflation cosmique|inflación cósmica||L|sci|C2
+constante cosmologique|constante cosmológica||L|sci|C2
+énergie noire|energía oscura||L|sci|C2
+multivers|multiverso||S|sci|C2
+exobiologie|exobiología||S|sci|C2
+astéroïde géocroiseur|asteroide próximo||L|sci|C2
+météorite|meteorito||S|sci|C2
+chondrite|condrita||S|sci|C2
+achondrite|acondrita||S|sci|C2
+panache mantellique|pluma mantélica||L|sci|C2
+subduction|subducción||S|sci|C2
+obduction|obducción||S|sci|C2
+isostasie|isostasia||S|sci|C2
+périglaciaire|periglaciar||A|sci|C2
+gelivation|gelifracción||S|sci|C2
+lapiaz|lapiaz||S|sci|C2
+doline|dolina||S|sci|C2
+exsurgence|resurgencia (kárstica)||S|sci|C2
+travertin|travertino||S|sci|C2
+aragonite|aragonita||S|sci|C2
+dolomie|dolomía||S|sci|C2
+conglomérat|conglomerado||S|sci|C2
+turbidite|turbidita||S|sci|C2
+loess|loess||S|sci|C2
+moraine|morrena||S|sci|C2
+drumlin|drumlin||S|sci|C2
+esker|esker||S|sci|C2
+poudingue|pudinga||S|sci|C2
+ophite|ofita||S|sci|C2
+gabbro|gabro||S|sci|C2
+riolite|riolita||S|sci|C2
+obsidienne|obsidiana||S|sci|C2
+caldeira|caldera||S|sci|C2
+fumerolle|fumarola||S|sci|C2
+solfatare|solfatara||S|sci|C2
+mofette|emisión fría (fumarola)||S|sci|C2
+lahar|lahar||S|sci|C2
+éruption plinienne|erupción pliniana||L|sci|C2
+éruption phréatique|erupción freática||L|sci|C2
+houle|mar de fondo||S|sci|C2
+déferlement|rompiente||S|sci|C2
+lagon|laguna (arrecife)||S|sci|C2
+récif corallien|arrecife coralino||L|sci|C2
+coralligène|coralígeno||A|sci|C2
+posidonie|posidonia||S|sci|C2
+phytoplancton|fitoplancton||S|sci|C2
+zooplancton|zooplancton||S|sci|C2
+cyanobactérie|cianobacteria||S|sci|C2
+efflorescence algale|floración de algas||L|sci|C2
+surcote|sobreelevación (marea de temporal)||S|sci|C2
+marée de vive-eau|marea de aguas vivas||L|sci|C2
+mortes-eaux|marea de aguas muertas||L|sci|C2
+œil du cyclone|ojo del huracán||L|sci|C2
+onde de tempête|marea de tormenta||L|sci|C2
+albédo|albedo||S|sci|C2
+sensibilité climatique|sensibilidad climática||L|sci|C2
+scénario d'émission|escenario de emisiones||L|sci|C2
+forçage anthropique|forzamiento antrópico||L|sci|C2
+acclimatation|aclimatación||S|sci|C2
+tectonique|tectónica||S|sci|C2
+pangée|pangea||S|sci|C2
+embouchure|desembocadura||S|sci|C2
+estuaire|estuario||S|sci|C2
+climax|clímax (comunidad madura)||S|sci|C2
+niche écologique|nicho ecológico||L|sci|C2
+orthopnée|ortopnea||S|sla|C2
+polypnée|polipnea||S|sla|C2
+subictère|subictericia||S|sla|C2
+odynophagie|odinofagia||S|sla|C2
+méléna|melena||S|sla|C2
+rectorragie|rectorragia||S|sla|C2
+hyponatrémie|hiponatremia||S|sla|C2
+hyperkaliémie|hiperpotasemia||S|sla|C2
+défaillance d'organe|fallo multiorgánico||L|sla|C2
+obnubilation|obnubilación||S|sla|C2
+bradypsychie|bradipsiquia||S|sla|C2
+tachypsychie|taquipsiquia||S|sla|C2
+dyspepsie|dispepsia||S|sla|C2
+pyrosis|pirosis||S|sla|C2
+prurit|prurito||S|sla|C2
+exophtalmie|exoftalmía||S|sla|C2
+hypoacousie|hipoacusia||S|sla|C2
+dysgueusie|disgeusia||S|sla|C2
+agueusie|ageusia||S|sla|C2
+parosmie|parosmia||S|sla|C2
+cénestopathie|cenestopatía||S|sla|C2
+raptus|rapto (impulso irresistible)||S|sla|C2
+anosognosie|anosognosia||S|sla|C2
+alexithymie|alexitimia||S|sla|C2
+comorbidité|comorbilidad||S|sla|C2
+iatrogénie|yatrogenia||S|sla|C2
+curiethérapie|braquiterapia||S|sla|C2
+frottis|frotis (citología)||S|sla|C2
+paracentèse|paracentesis||S|sla|C2
+thoracentèse|toracocentesis||S|sla|C2
+exérèse|exéresis||S|sla|C2
+anastomose|anastomosis||S|sla|C2
+orthèse|ortesis||S|sla|C2
+antalgique|analgésico||S|sla|C2
+antipyrétique|antipirético||S|sla|C2
+antiémétique|antiemético||S|sla|C2
+diurétique|diurético||S|sla|C2
+bronchodilatateur|broncodilatador||S|sla|C2
+cardiotonique|cardiotónico||S|sla|C2
+vasodilatateur|vasodilatador||S|sla|C2
+anticoagulant|anticoagulante||S|sla|C2
+antiagrégant|antiagregante plaquetario||S|sla|C2
+thrombolyse|trombólisis||S|sla|C2
+endarteriectomie|endarteriectomía||S|sla|C2
+valvuloplastie|valvuloplastia||S|sla|C2
+prostration|postración||S|sla|C2
+attaque de panique|ataque de pánico||L|sla|C2
+phobie scolaire|fobia escolar||L|sla|C2
+trouble anxieux|trastorno de ansiedad||L|sla|C2
+boulimie|bulimia||S|sla|C2
+anorexie mentale|anorexia nerviosa||L|sla|C2
+hyperphagie|comedor compulsivo||S|sla|C2
+dysmorphophobie|trastorno dismórfico||S|sla|C2
+trichotillomanie|tricotilomanía||S|sla|C2
+onychophagie|onicofagia||S|sla|C2
+bruxisme|bruxismo||S|sla|C2
+parasomnie|parasomnia||S|sla|C2
+somnambulisme|sonambulismo||S|sla|C2
+terreur nocturne|terror nocturno||L|sla|C2
+hypersomnie|hipersomnia||S|sla|C2
+narcolepsie|narcolepsia||S|sla|C2
+cataplexie|cataplejia||S|sla|C2
+apnée du sommeil|apnea del sueño||L|sla|C2
+polysomnographie|polisomnografía||S|sla|C2
+chronobiologie|cronobiología||S|sla|C2
+rythme circadien|ritmo circadiano||L|sla|C2
+sevrage|desintoxicación||S|sla|C2
+immunosuppresseur|inmunosupresor||S|sla|C2
+macrophage|macrófago||S|sla|C2
+mastocyte|mastocito||S|sla|C2
+granulocyte|granulocito||S|sla|C2
+polynucléaire|polimorfonuclear||S|sla|C2
+basophile|basófilo||S|sla|C2
+leucotriène|leucotrieno||S|sla|C2
+prostaglandine|prostaglandina||S|sla|C2
+cytokine|citoquina||S|sla|C2
+chimiokine|quimiocina||S|sla|C2
+interleukine|interleucina||S|sla|C2
+interféron|interferón||S|sla|C2
+épitope|epítopo||S|sla|C2
+haptène|hapteno||S|sla|C2
+cellule dendritique|célula dendrítica||L|sla|C2
+moelle osseuse|medula ósea||L|sla|C2
+encéphalopathie|encefalopatía||S|sla|C2
+trouble bipolaire|trastorno bipolar||L|sla|C2
+confusion mentale|confusión mental||L|sla|C2
+perlaboration|perlaboración||S|sla|C2
+travail de deuil|elaboración del duelo||L|sla|C2
+mentalisation|mentalización||S|sla|C2
+symbolisation|simbolización||S|sla|C2
+censure onirique|censura onírica||L|sla|C2
+travail du rêve|trabajo del sueño||L|sla|C2
+préconscient|preconsciente||S|sla|C2
+refoulement|represión||S|sla|C2
+retour du refoulé|retorno de lo reprimido||L|sla|C2
+psychodrame|psicodrama||S|sla|C2
+sophrologie|sofrología||S|sla|C2
+maltraitance|maltrato||S|sla|C2
+bientraitance|buen trato||S|sla|C2
+abréaction|abreacción||S|sla|C2
+rêverie|ensoñación||S|sla|C2
+élaboration psychique|elaboración psíquica||L|sla|C2
+labilité affective|labilidad afectiva||L|sla|C2
+mal aigu des montagnes|mal agudo de montaña||L|sla|C2
+médecine du travail|medicina del trabajo||L|sla|C2

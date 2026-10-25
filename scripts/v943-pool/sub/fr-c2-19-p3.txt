@@ -1,0 +1,323 @@
+apprentissage automatique|aprendizaje automático||L|tec|C2
+apprentissage profond|aprendizaje profundo||L|tec|C2
+réseau de neurones|red neuronal||L|tec|C2
+surapprentissage|sobreajuste||S|tec|C2
+donnée d'entraînement|dato de entrenamiento||L|tec|C2
+boîte noire|caja negra||L|tec|C2
+explicabilité|explicabilidad||S|tec|C2
+biais algorithmique|sesgo algorítmico||L|tec|C2
+traitement automatique des langues|procesamiento del lenguaje natural||L|tec|C2
+entrepôt de données|almacén de datos||L|tec|C2
+fouille de données|minería de datos||L|tec|C2
+contrat intelligent|contrato inteligente||L|tec|C2
+preuve d'enjeu|prueba de participación||L|tec|C2
+preuve de travail|prueba de trabajo||L|tec|C2
+portefeuille numérique|monedero digital||L|tec|C2
+hachage|función resumen||S|tec|C2
+chiffrement asymétrique|cifrado asimétrico||L|tec|C2
+rançongiciel|ransomware||S|tec|C2
+hameçonnage|phishing||S|tec|C2
+pare-feu|cortafuegos||S|tec|C2
+ingénierie sociale|ingeniería social||L|tec|C2
+journalisation|registro de actividad||S|tec|C2
+faisceau hertzien|enlace radioeléctrico||L|tec|C2
+commutation de paquets|conmutación de paquetes||L|tec|C2
+itinérance|itinerancia (roaming)||S|tec|C2
+satellite géostationnaire|satélite geoestacionario||L|tec|C2
+paiement instantané|pago instantáneo||L|fin|C2
+argentique|analógico||A|tec|C2
+réacteur à eau pressurisée|reactor de agua a presión||L|tec|C2
+cycle du combustible|ciclo del combustible||L|tec|C2
+démantèlement|desmantelamiento||S|tec|C2
+stockage géologique|almacenamiento geológico||L|tec|C2
+portance|sustentación||S|tec|C2
+siège éjectable|asiento eyectable||L|tec|C2
+turbopropulseur|turbopropulsor||S|tec|C2
+statoréacteur|estatorreactor||S|tec|C2
+vol parabolique|vuelo parabólico||L|tec|C2
+apesanteur|ingravidez||S|sci|C2
+rentrée atmosphérique|reentrada atmosférica||L|sci|C2
+asservissement|servosistema||S|tec|C2
+préhenseur|pinza de agarre||S|tec|C2
+cobotique|robótica colaborativa||S|tec|C2
+maquette numérique|maqueta digital||L|tec|C2
+système d'information géographique|sistema de información geográfica||L|tec|C2
+orthophotographie|ortofotografía||S|sci|C2
+nivellement|nivelación||S|sci|C2
+cellule orageuse|célula tormentosa||L|nat|C2
+rafale descendante|ráfaga descendente||L|nat|C2
+cisaillement|cizalladura del viento||S|nat|C2
+front occlus|frente ocluido||L|nat|C2
+concrétion|concreción||S|nat|C2
+bivouac|vivac||S|spt|C2
+mousqueton|mosquetón||S|spt|C2
+réduction|reducción de salsa||S|ris|C2
+mise en bouche|aperitivo de cortesía||L|ris|C2
+montée au beurre|montado con mantequilla||L|ris|C2
+gastrique|salsa agridulce||S|ris|C2
+cuisson sous-vide|cocción al vacío||L|ris|C2
+assemblage|coupage (mezcla de vinos)||S|ris|C2
+élevage en fût|envejecimiento en barrica||L|ris|C2
+millésime|añada||S|ris|C2
+chocolatine|napolitana de chocolate||S|ris|C2
+goinfre|glotón||S|ris|C2
+parade nuptiale|parada nupcial||L|ani|C2
+nidification|anidamiento||S|ani|C2
+mue|muda||S|ani|C2
+hivernage|invernada||S|ani|C2
+estivation|estivación||S|ani|C2
+dent carnassière|muela carnícera||L|cor|C2
+spéciation|especiación||S|sci|C2
+convergence évolutive|convergencia evolutiva||L|sci|C2
+dérive génétique|deriva genética||L|sci|C2
+dissémination|diseminación||S|nat|C2
+dormance|latencia (de la semilla)||S|nat|C2
+bouturage|esquejado||S|nat|C2
+marcottage|acodo||S|nat|C2
+essence forestière|especie forestal||L|nat|C2
+régénération naturelle|regeneración natural||L|nat|C2
+couvert forestier|cubierta forestal||L|nat|C2
+feu de cime|incendio de copa||L|nat|C2
+débroussaillement|desbroce||S|nat|C2
+assolement|alternancia de cultivos||S|nat|C2
+amendement|enmienda (del suelo)||S|nat|C2
+jachère|barbecho||S|nat|C2
+estive|pastos de verano||S|nat|C2
+transhumance|transhumancia||S|nat|C2
+alevinage|siembra de alevines||S|nat|C2
+embouche|engorde (de ganado)||S|nat|C2
+débourrage|desbravado||S|nat|C2
+maréchal-ferrant|herrador||L|pro|C2
+valorisation|valorización de residuos||S|nat|C2
+enfouissement|depósito en vertedero||S|nat|C2
+réemploi|reutilización||S|nat|C2
+déchetterie|punto limpio||S|cit|C2
+obsolescence programmée|obsolescencia programada||L|tec|C2
+sobriété énergétique|sobriedad energética||L|nat|C2
+mobilité douce|movilidad suave||L|cit|C2
+corridor écologique|corredor ecológico||L|nat|C2
+remédiation|remediación||S|sci|C2
+segmentation|segmentación de mercado||S|fin|C2
+notoriété de marque|notoriedad de marca||L|fin|C2
+panier moyen|ticket medio||L|fin|C2
+fidélisation|fidelización||S|fin|C2
+parrainage|apadrinamiento (de clientes)||S|fin|C2
+achat impulsif|compra impulsiva||L|cmp|C2
+fret|flete||S|fin|C2
+rupture de charge|ruptura de carga||L|fin|C2
+groupage|agrupamiento de carga||S|fin|C2
+conteneurisation|contenerización||S|fin|C2
+juste-à-temps|justo a tiempo||L|fin|C2
+stock de sécurité|stock de seguridad||L|fin|C2
+assurance qualité|garantía de calidad||L|fin|C2
+procès-verbal|acta||S|ist|C2
+conformité|conformidad||S|fin|C2
+traçabilité|trazabilidad||S|fin|C2
+non-conformité|no conformidad||S|fin|C2
+sous-traitance|subcontratación||S|fin|C2
+vente aux enchères|subasta pública||L|fin|C2
+mise à prix|precio de salida||L|fin|C2
+adjudication|adjudicación||S|fin|C2
+brocante|rastrillo||S|cmp|C2
+argenterie|platería||S|art|C2
+poinçon|punzón de garantía||S|art|C2
+virage|virado||S|art|C2
+photomontage|fotomontaje||S|art|C2
+grand angle|gran angular||L|tec|C2
+pas de deux|pas de dos||L|spt|C2
+chorégraphe|coreógrafo||S|mus|C2
+danseuse étoile|bailarina estrella||L|spt|C2
+pirouette|pirueta||S|spt|C2
+grand écart|spagat||L|spt|C2
+percée urbaine|eje urbano||L|cit|C2
+îlot urbain|manzana urbana||L|cit|C2
+faubourg|arrabal||S|cit|C2
+porte cochère|puerta de carruajes||L|cit|C2
+modénature|modenatura||S|art|C2
+bossage|bossaje||S|art|C2
+clé de voûte|clave de bóveda||L|art|C2
+perron|escalinata||S|art|C2
+claustra|celosía||S|art|C2
+tourelle|torreón||S|art|C2
+lucarne|buhardilla||S|cas|C2
+pignon|hastial||S|art|C2
+appentis|cobertizo||S|cas|C2
+balustrade|balaustrada||S|art|C2
+fronton|frontón||S|art|C2
+amertume|amargura||S|emo|C2
+affliction|aflicción||S|emo|C2
+contrition|contrición||S|emo|C2
+jubilation|júbilo||S|emo|C2
+impavide|impávido||A|emo|C2
+ombrage|recelo||S|emo|C2
+aigreur|bilis||S|emo|C2
+torpeur|torpor||S|emo|C2
+exaltation|exaltación||S|emo|C2
+fébrilité|impaciencia febril||S|emo|C2
+scrupule|escrúpulo||S|emo|C2
+clémence|clemencia||S|emo|C2
+affabilité|afabilidad||S|emo|C2
+douceureux|empalagoso||A|emo|C2
+mielleux|meloso||A|emo|C2
+veulerie|desidia (falta de carácter)||S|ast|C2
+veule|falto de carácter||A|ast|C2
+forfanterie|fanfarronería||S|ast|C2
+crânerie|chulería||S|ast|C2
+vilenie|vileza||S|ast|C2
+lâcheté|cobardía||S|ast|C2
+prodigalité|prodigalidad||S|ast|C2
+opiniâtreté|porfía||S|ast|C2
+désinvolture|desenvoltura||S|emo|C2
+morgue|altivez||S|emo|C2
+nonchalance|despreocupación||S|emo|C2
+insouciance|ligereza (despreocupación)||S|emo|C2
+empressement|esmero (afán)||S|emo|C2
+se dégonfler|acobardarse||V|emo|C2
+ramer|ir a duras penas||V|emo|C2
+galérer|pasarlo mal||V|emo|C2
+flemme|pereza||S|emo|C2
+radiner|ser roñoso||V|fin|C2
+trincher|presumir||V|cmu|C2
+jactance|jactancia||S|cmu|C2
+blaguer|chancear||V|cmu|C2
+foutre le camp|largarse||E|cmu|C2
+péter un câble|perder la chaveta||E|emo|C2
+poser un lapin|dejar plantado||E|rel|C2
+dégoter|conseguir con suerte||V|cmu|C2
+goguenard|socarrón||A|cmu|C2
+plaisantin|bromista||S|cmu|C2
+fûté|avispado||A|emo|C2
+cingle|chiflado||A|emo|C2
+patois|habla dialectal||S|cmu|C2
+troquet|taberna de barrio||S|cit|C2
+perruque|trabajo encubierto||S|lav|C2
+un chouïa|un poquito||E|cmu|C2
+un tantinet|un tantico||E|cmu|C2
+une tripotée|una barbaridad||E|cmu|C2
+à la louche|a ojo de buen cubero||E|ast|C2
+bobard|bulito||S|cmu|C2
+baratin|labia||S|cmu|C2
+galipette|voltereta||S|sve|C2
+quitte à|aunque ello suponga||C|cnn|C2
+dût-il|aunque le cueste||C|cnn|C2
+fût-ce|aun cuando fuera||C|cnn|C2
+en l'espèce|en el caso concreto||L|cnn|C2
+pour le coup|en esta ocasión||E|cnn|C2
+en tout et pour tout|en total||E|cnn|C2
+en définitive|en definitiva||L|cnn|C2
+du reste|por lo demás||L|cnn|C2
+en l'occurrence|en este caso||L|cnn|C2
+n'eût été|de no ser por||C|cnn|C2
+pour ainsi dire|por así decirlo||E|cnn|C2
+sans compter que|sin contar con que||C|cnn|C2
+asséner|espetar||V|cmu|C2
+corroborer|corroborar||V|cmu|C2
+stipuler|estipular||V|ist|C2
+pondérer|ponderar||V|ast|C2
+étayer|sostener (argumentar)||V|cmu|C2
+conforter|confirmar||V|cmu|C2
+exhorter|exhortar||V|cmu|C2
+invectiver|invektir||V|cmu|C2
+psalmodier|salmodiar||V|cmu|C2
+grommeler|refunfuñar||V|cmu|C2
+maugréer|maldecir entre dientes||V|cmu|C2
+prodiguer|prodigar||V|cmu|C2
+souscrire|suscribir||V|cmu|C2
+réitérer|reiterar||V|cmu|C2
+s'avérer|resultar ser||V|cmu|C2
+relater|relatar||V|cmu|C2
+arguer|argüir||V|cmu|C2
+objecter|objetar||V|cmu|C2
+fallacieux|falaz||A|ast|C2
+téméraire|temerario||A|ast|C2
+circonspect|circunspecto||A|ast|C2
+pingre|roñoso||A|emo|C2
+prodigue|pródigo||A|emo|C2
+expéditif|expeditivo||A|ast|C2
+pointilleux|puntilloso||A|emo|C2
+ombrageux|receloso||A|emo|C2
+vérace|veraz||A|ast|C2
+insidieux|insidioso||A|ast|C2
+prolixe|prolijo||A|ast|C2
+volubile|voluble||A|cmu|C2
+caustique|mordaz||A|ast|C2
+vétilleux|melindroso||A|ast|C2
+borné|corto de alcances||A|emo|C2
+impartialité|imparcialidad||S|ast|C2
+paralogisme|paralogismo||S|ast|C2
+épistémè|episteme||S|ast|C2
+contrefactuel|contrafáctico||A|sci|C2
+véracité|veracidad||S|ast|C2
+fourberie|canallada||S|ast|C2
+supercherie|superchería||S|ast|C2
+imposture|impostura||S|ast|C2
+mystification|mistificación||S|ast|C2
+verbiage|verborrea||S|cmu|C2
+palinodie|palinodia||S|let|C2
+tempérance|templanza||S|ast|C2
+intrépidité|intrepidez||S|ast|C2
+constance|constancia||S|ast|C2
+brio|brío||S|art|C2
+fougue|fogosidad||S|emo|C2
+panache|gallardía||S|ast|C2
+obsolescence|obsolescencia||S|ast|C2
+a fortiori|con mayor razón||L|ast|C2
+ad hoc|ad hoc||L|ast|C2
+mutatis mutandis|mutatis mutandis||L|ast|C2
+in extremis|in extremis||L|ast|C2
+stricto sensu|en sentido estricto||L|ast|C2
+lato sensu|en sentido amplio||L|ast|C2
+persona non grata|persona non grata||L|ast|C2
+conditio sine qua non|condición indispensable||L|ast|C2
+ceteris paribus|ceteris paribus||L|fin|C2
+nolens volens|quieras o no||L|ast|C2
+in fine|al final||L|ast|C2
+mot d'esprit|agudeza||L|let|C2
+bon mot|frase ingeniosa||L|cmu|C2
+trait d'esprit|ocurrencia aguda||L|let|C2
+petite phrase|frasecita lapidaria||L|cmu|C2
+à mots couverts|con insinuaciones||E|cmu|C2
+périphrase|perífrasis||S|let|C2
+circumlocution|circunlocución||S|let|C2
+attachement|apego||S|emo|C2
+angoisse de séparation|ansiedad de separación||L|sla|C2
+cadre thérapeutique|marco terapéutico||L|sla|C2
+alliance thérapeutique|alianza terapéutica||L|sla|C2
+résilience|resiliencia||S|sla|C2
+évitement|evitación||S|sla|C2
+pleurnicherie|lloriqueo||S|emo|C2
+catharsis|catarsis||S|ast|C2
+abandonnique|con miedo al abandono||A|emo|C2
+trac|miedo escénico||S|emo|C2
+pilotage|dirección por indicadores||S|lav|C2
+feuille de route|hoja de ruta||L|fin|C2
+avantage en nature|retribución en especie||L|lav|C2
+promesse d'embauche|promesa de contratación||L|lav|C2
+période d'essai|período de prueba||L|lav|C2
+mobilité interne|movilidad interna||L|lav|C2
+plafond de verre|techo de cristal||L|lav|C2
+épuisement professionnel|agotamiento profesional||L|lav|C2
+rémunération variable|retribución variable||L|lav|C2
+pédagogie différenciée|pedagogía diferenciada||L|stu|C2
+évaluation formative|evaluación formativa||L|stu|C2
+sortie scolaire|excursión escolar||L|stu|C2
+socle commun|competencias básicas||L|stu|C2
+redoublement|repetición de curso||S|stu|C2
+orientation scolaire|orientación académica||L|stu|C2
+concours d'entrée|examen de ingreso||L|stu|C2
+classe préparatoire|curso preparatorio||L|stu|C2
+conseil de classe|junta de evaluación||L|stu|C2
+bulletin scolaire|boletín de notas||L|stu|C2
+cursus|plan de estudios||S|stu|C2
+savoir-être|competencia conductual||S|lav|C2
+montée en compétences|desarrollo de competencias||L|lav|C2
+polyvalence|polivalencia||S|lav|C2
+rotation du personnel|rotación de personal||L|lav|C2
+prime d'ancienneté|plus de antigüedad||L|lav|C2
+commémoration|conmemoración||S|ast|C2
+devoir de mémoire|deber de memoria||L|ast|C2
+rescapé|superviviente||S|ast|C2
+séquelle|secuela||S|ast|C2
+avant-guerre|anteguerra||S|tmp|C2
+pérennité|perennidad||S|ast|C2
+instantanéité|instantaneidad||S|ast|C2

@@ -1,0 +1,349 @@
+abeille
+abricot
+accordéon
+accueil
+acteur
+addition
+agence
+agneau
+aller simple
+aller-retour
+allergie
+amande
+anniversaire
+appeler
+après-midi
+aquarelle
+arbre
+arrêt
+ascenseur
+aspirateur
+atterrissage
+aubergine
+aujourd'hui
+automne
+avec plaisir
+averse
+baguette
+balai
+ballon
+belle-mère
+belle-sœur
+beurre
+bienvenue
+biologie
+bière
+blé
+bonne journée
+bonne nuit
+bonsoir
+boucherie
+boulanger
+boulangerie
+boussole
+bouteille
+boxe
+brosse à dents
+brouillard
+cacahuète
+cachet
+cadeau
+cahier
+caisse
+canard
+canicule
+cannelle
+carotte
+carrefour
+carré
+carte postale
+cascade
+casque
+casquette
+cathédrale
+cave
+ceinture
+cerise
+chanson
+chargeur
+chasse
+cheville
+chimie
+chocolat chaud
+chèque
+chèvre
+cidre
+classique
+clignotant
+climatisation
+clou
+cochon
+coffre-fort
+coiffeur
+collier
+colline
+collègue
+colère
+commande
+commander
+commode
+compagnie aérienne
+comprimé
+compte
+comédie
+connexion
+consultation
+contrôleur
+copain
+coq
+coquillage
+correspondance
+couloir
+courgette
+craie
+croissant
+crème
+crème solaire
+cumin
+cyclisme
+cycliste
+cygne
+de rien
+demain
+demi-pension
+dessert
+dessin animé
+documentaire
+doigt
+douane
+décollage
+décrocher
+embarquement
+enchanté
+entraînement
+entrée
+enveloppe
+escalade
+escale
+escalier
+espèces
+essence
+falaise
+farine
+fauteuil
+filet
+flûte
+formulaire
+fourmi
+fraise
+frein
+fromage blanc
+gant
+gare
+gendre
+genou
+gomme
+gramme
+grenier
+grille-pain
+grippe
+guichet
+guitare
+guêpe
+gélule
+généreux
+géographie
+hamster
+hibou
+hier
+hirondelle
+hiver
+honte
+horreur
+hérisson
+identifiant
+imprimante
+invitation
+itinéraire
+jalousie
+jambon
+jardinage
+jazz
+je vous en prie
+joie
+jour férié
+judo
+jumeau
+jupe
+laisser un message
+lampe de poche
+lapin
+lave-vaisselle
+lecture
+lessive
+librairie
+ligne
+limonade
+louche
+loup
+lunettes
+maillot de bain
+mairie
+mal de gorge
+mal de tête
+manteau
+manuel
+marguerite
+mariage
+marteau
+marée
+mathématiques
+menuisier
+merci beaucoup
+midi
+minuit
+moineau
+monnaie
+montre
+morceau
+mot de passe
+moutarde
+mouton
+muguet
+médaille
+natation
+navet
+neveu
+noisette
+nuage
+nuitée
+opéra
+orage
+orchidée
+orteil
+pain de mie
+pansement
+papillon
+paresseux
+passage piéton
+passe-temps
+patient
+peinture
+pension complète
+perceuse
+perroquet
+petit-fils
+peur
+pigeon
+pinceau
+pique-nique
+piscine
+pistache
+piste cyclable
+planche à découper
+plat du jour
+plombier
+pneu
+poire
+poireau
+pois chiche
+poissonnerie
+poivre
+pommade
+pompier
+pont
+poule
+pourboire
+printemps
+prise de sang
+prune
+pâtisserie
+pédale
+pêche
+quai
+raccrocher
+racine
+randonnée
+rap
+renard
+rhume
+rivière
+rond-point
+réception
+réseau
+réserver
+réveil
+s'il vous plaît
+sac de couchage
+sac à dos
+sachet
+saison
+saladier
+salle à manger
+sandale
+saucisse
+seau
+selle
+serpillière
+serviette
+serviette de table
+sirop
+ski
+soirée
+soldes
+sonner
+sous-titres
+stade
+station-service
+séjour
+sésame
+tableau
+tablette
+tente
+thermomètre
+timide
+tire-bouchon
+toile
+tortue
+tournevis
+tout droit
+toux
+tramway
+tranche
+tricot
+trompette
+trottinette
+trottoir
+télécharger
+têtu
+vaccin
+vague
+vallée
+veau
+ventre
+vestiaire
+vinaigre
+violon
+virement
+vitamine
+voie
+volant
+vue sur la mer
+week-end
+yaourt
+à bientôt
+à emporter
+à gauche
+âne
+écharpe
+échelle
+écouteurs
+écran
+écureuil
+église
+épargne
+épaule
+épicerie
+éponge
+été
+île

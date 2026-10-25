@@ -1,0 +1,224 @@
+roman policier|novela policíaca||S|let|B2
+recueil de nouvelles|colección de relatos||S|let|B2
+narrateur|narrador||S|let|B2
+métaphore|metáfora||S|let|B2
+intrigue|trama||S|let|B2
+dystopie|distopía||S|let|B2
+alexandrin|alejandrino (verso de doce sílabas)||S|let|B2
+incipit|inicio (comienzo de la obra)||S|let|B2
+antihéros|antihéroe||S|let|B2
+versification|versificación||S|let|B2
+critique littéraire|crítica literaria||S|let|B2
+roman d'apprentissage|novela de formación||S|let|B2
+dénouement|desenlace||S|let|B2
+articulation|articulación||S|cor|B2
+vertèbre|vértebra||S|cor|B2
+tendon|tendón||S|cor|B2
+artère|arteria||S|cor|B2
+voies respiratoires|vías respiratorias||S|cor|B2
+colon|colon||S|cor|B2
+posture|postura||S|cor|B2
+souplesse|flexibilidad||S|cor|B2
+rythme cardiaque|ritmo cardíaco||S|cor|B2
+système immunitaire|sistema inmunitario||S|cor|B2
+haltérophilie|halterofilia||S|spt|B2
+hydratation|hidratación||S|sla|B2
+vertige|mareo (vértigo)||S|sla|B2
+tanière|guarida||S|ani|B2
+meute|manada de lobos||S|ani|B2
+hiberner|hibernar||V|ani|B2
+rongeur|roedor||S|ani|B2
+gibier|pieza de caza||S|ani|B2
+nichée|nidada||S|ani|B2
+migrateur|migratorio||A|ani|B2
+tisser une toile|tejer una telaraña||E|ani|B2
+marquer son territoire|marcar el territorio||E|ani|B2
+instinct de survie|instinto de supervivencia||S|ani|B2
+faucon|halcón||S|ani|B2
+reptile|reptil||S|ani|B2
+espèce menacée|especie amenazada||S|ani|B2
+braconnage|caza furtiva||S|ani|B2
+braconnier|furtivo (cazador ilegal)||S|ani|B2
+réintroduction|reintroducción||S|ani|B2
+faune|fauna||S|ani|B2
+flore|flora||S|nat|B2
+en voie de disparition|en peligro de extinción||E|ani|B2
+déclin des populations|descenso de las poblaciones||S|ani|B2
+tortue marine|tortuga marina||S|ani|B2
+parc naturel|parque natural||S|nat|B2
+espèce protégée|especie protegida||S|ani|B2
+préserver la biodiversité|proteger la biodiversidad||E|nat|B2
+éolien|eólico||A|sci|B2
+compostage|compostaje||S|sci|B2
+dépollution|descontaminación||S|sci|B2
+hydrogène vert|hidrógeno verde||S|sci|B2
+centrale nucléaire|central nuclear||S|sci|B2
+gaz à effet de serre|gas de efecto invernadero||S|sci|B2
+épuisement des ressources|agotamiento de los recursos||S|sci|B2
+empreinte carbone|huella de carbono||S|sci|B2
+transition énergétique|transición energética||S|sci|B2
+biocarburant|biocombustible||S|sci|B2
+gestion des déchets|gestión de residuos||S|sci|B2
+énergie renouvelable|energía renovable||S|sci|B2
+recyclage sélectif|reciclaje selectivo||S|sci|B2
+rafale de vent|racha de viento||S|cli|B2
+grisaille|cielo gris||S|cli|B2
+éclair|relámpago||S|cli|B2
+tonnerre|trueno||S|cli|B2
+canicule|ola de calor||S|cli|B2
+averse|chubasco||S|cli|B2
+dégel|deshielo||S|cli|B2
+chute de neige|nevada||S|cli|B2
+éboulement|derrumbe||S|nat|B2
+perturbation atmosphérique|perturbación atmosférica||S|cli|B2
+prévisions météo|previsiones del tiempo||S|cli|B2
+orage d'été|tormenta de verano||S|cli|B2
+dorénavant|de ahora en adelante||D|tmp|B2
+ultérieurement|posteriormente||D|tmp|B2
+antérieurement|anteriormente||D|tmp|B2
+périodiquement|periódicamente||D|tmp|B2
+exceptionnellement|excepcionalmente||D|tmp|B2
+échéance|vencimiento (plazo límite)||S|tmp|B2
+délai de grâce|plazo de gracia||S|tmp|B2
+de longue durée|de larga duración||E|tmp|B2
+à brève échéance|a corto plazo||E|tmp|B2
+par intervalles|a intervalos||E|tmp|B2
+bihebdomadaire|bisemanal||A|tmp|B2
+au fur et à mesure|a medida que||L|tmp|B2
+ponctuel|puntual (esporádico)||A|tmp|B2
+soirée dansante|fiesta con baile||S|sve|B2
+karaoké|karaoke||S|sve|B2
+veillée|velada||S|sve|B2
+noctambule|noctámbulo||S|sve|B2
+ambiance festive|ambiente festivo||S|sve|B2
+lieu branché|sitio de moda||S|sve|B2
+sortie entre amis|salida entre amigos||S|sve|B2
+faire la fête|fiestar||E|sve|B2
+animation nocturne|animación nocturna||S|sve|B2
+nuit blanche|noche en vela||S|sve|B2
+sortie nocturne|salida nocturna||S|sve|B2
+fin de soirée|última hora de la fiesta||S|sve|B2
+jeu de stratégie|juego de estrategia||S|sve|B2
+lancer les dés|tirar los dados||E|sve|B2
+pion|ficha de juego||S|sve|B2
+à tour de rôle|por turnos||E|sve|B2
+partie nulle|empate||S|sve|B2
+collectionneur|coleccionista||S|sve|B2
+objet ancien|objeto antiguo||S|sve|B2
+broder|bordar||V|sve|B2
+tricot|punto (labores)||S|sve|B2
+maquette|maqueta||S|sve|B2
+règle du jeu|reglas del juego||S|sve|B2
+atelier de poterie|taller de cerámica||S|sve|B2
+découragement|desánimo||S|emo|B2
+surmenage|agotamiento por exceso de trabajo||S|emo|B2
+persévérance|perseverancia||S|emo|B2
+procrastiner|procrastinar||V|emo|B2
+se démener|esforzarse al máximo||V|emo|B2
+douter de soi|dudar de sí mismo||E|emo|B2
+reprendre confiance|recuperar la confianza||E|emo|B2
+source de stress|fuente de estrés||S|emo|B2
+apaisement|sosiego||S|emo|B2
+réconfortant|reconfortante||A|emo|B2
+démotivé|desmotivado||A|emo|B2
+gérer la pression|gestionar la presión||E|emo|B2
+lâcher prise|soltar las riendas||E|emo|B2
+argumentaire|argumentario||S|cmu|B2
+objection|objeción||S|cmu|B2
+réfuter|refutar||V|cmu|B2
+contredire|contradecir||V|cmu|B2
+nuancer|matizar||V|cmu|B2
+thèse|tesis (postura defendida)||S|cmu|B2
+prendre position|tomar posición||E|cmu|B2
+en désaccord|en desacuerdo||E|cmu|B2
+argument fallacieux|argumento falaz||S|cmu|B2
+étayer une idée|sostener una idea||E|cmu|B2
+concéder un point|conceder un punto||E|cmu|B2
+point de vue divergent|punto de vista divergente||S|cmu|B2
+allocution|discurso (intervención formal)||S|cmu|B2
+diaporama|presentación de diapositivas||S|cmu|B2
+trac|miedo escénico||S|emo|B2
+prendre la parole|tomar la palabra||E|cmu|B2
+salle comble|sala llena||S|cmu|B2
+capter l'attention|captar la atención||E|cmu|B2
+s'exprimer en public|hablar en público||E|cmu|B2
+élocution|elocución||S|cmu|B2
+gestuelle|gestualidad||S|cmu|B2
+moduler sa voix|modular la voz||E|cmu|B2
+support visuel|soporte visual||S|cmu|B2
+conclure son propos|cerrar la intervención||E|cmu|B2
+négociateur|negociador||S|pro|B2
+compromis|compromiso (acuerdo)||S|cmu|B2
+terrain d'entente|terreno de entendimiento||S|cmu|B2
+bien vouloir|tener a bien||E|cmu|B2
+non-négociable|innegociable||A|cmu|B2
+en tout état de cause|en todo caso||L|cmu|B2
+laisser une porte ouverte|dejar la puerta abierta||E|cmu|B2
+s'en tenir à sa position|mantenerse en su postura||E|cmu|B2
+conciliateur|conciliador||S|pro|B2
+concession mutuelle|concesión mutua||S|cmu|B2
+parvenir à un accord|llegar a un acuerdo||E|cmu|B2
+formule diplomatique|fórmula diplomática||S|cmu|B2
+prévenu|encausado||S|ist|B2
+audience publique|vista pública||S|ist|B2
+avocat de la défense|abogado defensor||S|pro|B2
+témoin à charge|testigo de cargo||S|ist|B2
+peine de prison|pena de prisión||S|ist|B2
+acquittement|absolución||S|ist|B2
+tribunal correctionnel|juzgado de lo penal||S|ist|B2
+rendre un verdict|dictar veredicto||E|ist|B2
+inculper|inculpar||V|ist|B2
+juridiction|jurisdicción||S|ist|B2
+dossier judiciaire|expediente judicial||S|ist|B2
+recours en appel|recurso de apelación||S|ist|B2
+guichet|ventanilla||S|ist|B2
+démarche administrative|trámite administrativo||S|ist|B2
+remplir un formulaire|rellenar un formulario||E|ist|B2
+fonction publique|función pública||S|ist|B2
+convocation|citación||S|ist|B2
+accusé de réception|acuse de recibo||S|ist|B2
+justificatif de domicile|justificante de domicilio||S|ist|B2
+délai de traitement|plazo de tramitación||S|ist|B2
+guichet automatique|ventanilla automática||S|ist|B2
+renouvellement de titre|renovación del documento||S|ist|B2
+impôts locaux|impuestos locales||S|fin|B2
+heures d'ouverture|horario de atención||S|ist|B2
+bureau de vote|mesa electoral||S|ist|B2
+isoloir|cabina de votación||S|ist|B2
+urne|urna||S|ist|B2
+scrutin|escrutinio||S|ist|B2
+liste électorale|censo electoral||S|ist|B2
+campagne électorale|campaña electoral||S|ist|B2
+taux d'abstention|tasa de abstención||S|ist|B2
+mandat de maire|mandato de alcalde||S|ist|B2
+voter blanc|votar en blanco||E|ist|B2
+débat télévisé|debate televisado||S|ist|B2
+élus locaux|cargos electos locales||S|ist|B2
+promesse de campagne|promesa electoral||S|ist|B2
+droit de suffrage|derecho al sufragio||S|ist|B2
+en somme|en resumen||L|cnn|B2
+quoi qu'il en soit|sea como sea||L|cnn|B2
+d'une part|por una parte||L|cnn|B2
+en l'occurrence|en este caso||L|cnn|B2
+à cet égard|a este respecto||L|cnn|B2
+sous prétexte que|so pretexto de que||C|cnn|B2
+d'ores et déjà|desde ahora mismo||L|cnn|B2
+à supposer que|suponiendo que||C|cnn|B2
+pour ainsi dire|por así decirlo||L|cnn|B2
+en dernier recours|en último recurso||L|cnn|B2
+par voie de conséquence|por consiguiente||L|cnn|B2
+en dépit de|a pesar de||L|cnn|B2
+nonobstant|no obstante||L|cnn|B2
+équité|equidad||S|ast|B2
+équitable|equitativo||A|ast|B2
+véracité|veracidad||S|ast|B2
+canons de beauté|cánones de belleza||S|ast|B2
+laideur|fealdad||S|ast|B2
+partialité|parcialidad||S|ast|B2
+impartial|imparcial||A|ast|B2
+quête de vérité|búsqueda de la verdad||S|ast|B2
+vertu|virtud||S|ast|B2
+menteur invétéré|mentiroso empedernido||S|ast|B2
+sens de l'esthétique|sentido estético||S|ast|B2
+intégrité|integridad (honestidad)||S|ast|B2
+sens de la justice|sentido de la justicia||S|ast|B2

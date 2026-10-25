@@ -1,0 +1,919 @@
+salut
+au revoir
+bonne soirée
+à demain
+à plus tard
+bonne année
+comment allez-vous
+ça va
+faire connaissance
+se présenter
+prénom
+nom de famille
+ravi
+c'est gentil
+pas de problème
+après vous
+félicitations
+mille mercis
+je t'en prie
+tant pis
+s'il te plaît
+merci d'avance
+pas du tout
+pas de souci
+excuse-moi
+oncle
+tante
+cousin
+cousine
+nièce
+beau-frère
+belle-fille
+demi-frère
+demi-sœur
+arrière-grand-mère
+arrière-grand-père
+petit-enfant
+grand-tante
+grand-oncle
+beau-fils
+beau-père
+se marier
+en famille
+en couple
+table basse
+tabouret
+banc
+matelas
+coussin
+chaise haute
+canapé-lit
+tiroir
+table de jardin
+porte-manteau
+penderie
+palier
+terrasse
+balcon
+entrée
+pièce
+véranda
+robinet
+lavabo
+évier
+volet
+store
+barrière
+portail
+cabane
+serrure
+sonnette
+poêle
+casserole
+marmite
+torchon
+bol
+tasse
+soucoupe
+égouttoir
+assiette creuse
+plat à four
+cafétière
+bouilloire
+thermos
+presse-agrumes
+mixeur
+cocotte-minute
+économe
+poubelle
+sac poubelle
+produit ménager
+détergent
+chiffon
+eau de Javel
+balayer
+frotter
+pince à linge
+corde à linge
+panier à linge
+table à repasser
+fer à repasser
+machine à laver
+sèche-linge
+essuie-tout
+papier d'aluminium
+film alimentaire
+faire le ménage
+faire la vaisselle
+passer l'aspirateur
+sortir les poubelles
+faire la lessive
+faire le lit
+ranger
+nettoyer
+laver
+repasser
+accrocher
+décorer
+emménager
+déménager
+loyer
+propriétaire
+locataire
+vis
+scie
+pince
+ruban adhésif
+mètre
+boulon
+râteau
+melon
+pastèque
+framboise
+myrtille
+citron
+pamplemousse
+ananas
+kiwi
+pruneau
+châtaigne
+coing
+poivron
+haricot vert
+petit pois
+lentille
+chou
+brocoli
+concombre
+radis
+fenouil
+céleri
+thon
+saumon
+crevette
+moule
+truite
+sardine
+huître
+poulet
+steak
+escalope
+fromage de chèvre
+crème fraîche
+yaourt nature
+beurre demi-sel
+riz
+pâtes
+biscotte
+brioche
+céréales
+gaufre
+crêpe
+madeleine
+pain complet
+pain au chocolat
+tarte aux pommes
+gâteau au chocolat
+gâteau d'anniversaire
+mousse au chocolat
+salade de fruits
+compote
+caramel
+bon appétit
+petit-déjeuner
+déjeuner
+dîner
+vin blanc
+vin rouge
+eau minérale
+eau gazeuse
+soda
+jus d'orange
+infusion
+citron pressé
+jus de pomme
+eau du robinet
+vin rosé
+sirop de menthe
+thé à la menthe
+sel
+sucre
+huile
+miel
+mayonnaise
+curry
+paprika
+basilic
+persil
+thym
+laurier
+aneth
+menthe
+huile d'olive
+poivre noir
+piment
+bouillon
+cube de bouillon
+ketchup
+saler
+verser
+noix
+graine
+tournesol
+pignon
+haricot blanc
+haricot rouge
+fève
+pois cassé
+supermarché
+marché
+papeterie
+charcuterie
+centre commercial
+grand magasin
+kiosque
+magasin de chaussures
+prix
+centime
+gratuit
+réduction
+paiement
+ticket de caisse
+remise
+faire les courses
+faire le marché
+file d'attente
+faire la queue
+caissier
+cabine d'essayage
+essayer
+pointure
+rembourser
+chariot de supermarché
+rayon
+vitrine
+étal
+panier
+cabas
+passer à la caisse
+payer par carte
+payer en espèces
+rupture de stock
+kilo
+litre
+paquet
+boîte
+pot
+sac
+douzaine
+carton
+bocal
+canette
+barquette
+abonnement
+chauffeur
+ticket
+arrêt de bus
+conducteur
+carte de transport
+arrêt de métro
+abribus
+station de métro
+roue
+phare
+pare-brise
+garage
+permis de conduire
+conduire
+garer
+amende
+ceinture de sécurité
+essuie-glace
+pare-chocs
+boîte à gants
+rétroviseur
+réservoir
+capot
+coffre
+tableau de bord
+portière
+stationnement
+parking
+crever
+changer une roue
+faire le plein
+wagon
+horaire
+billet de train
+gare routière
+train de nuit
+composter le billet
+monter dans le train
+descendre du bus
+rater le train
+vol
+aéroport
+valise
+passeport
+carte d'embarquement
+bagage
+hôtesse de l'air
+billet d'avion
+porte d'embarquement
+rater l'avion
+prendre l'avion
+prendre le train
+louer une voiture
+bicyclette
+antivol
+sonnette de vélo
+faire du vélo
+vacances
+appareil photo
+lunettes de soleil
+serviette de bain
+guide touristique
+souvenir
+sac de voyage
+trousse de toilette
+faire des photos
+brosse à cheveux
+peigne
+sèche-cheveux
+dentifrice
+shampoing
+gel douche
+déodorant
+rouge à lèvres
+maquillage
+rasoir
+coton-tige
+voyager
+visiter
+camping
+feu de camp
+moustiquaire
+hamac
+canne à pêche
+terrain de camping
+glacière
+réchaud
+réservation
+client
+facture
+clé
+étage
+clé de chambre
+réserver une chambre
+annuler une réservation
+drap
+couverture
+oreiller
+couette
+lit double
+lits jumeaux
+peignoir
+rideau de douche
+climatiseur
+fièvre
+nausée
+vertige
+brûlure
+blessure
+éternuement
+mal au dos
+mal de dents
+mal d'estomac
+avoir de la fièvre
+se casser la jambe
+se fouler la cheville
+aller chez le médecin
+être enrhumé
+carie
+piqûre
+avoir mal au cœur
+docteur
+infirmier
+radiographie
+soin
+analyse
+guérir
+traitement
+opération
+pilule
+goutte
+sirop pour la toux
+pastille pour la gorge
+vendeur
+serveur
+ingénieur
+avocat
+secrétaire
+comptable
+électricien
+agriculteur
+mécanicien
+dentiste
+vétérinaire
+photographe
+journaliste
+cuisinier
+boucher
+pâtissier
+chanteur
+stylo
+crayon
+papier
+agenda
+ciseaux
+tampon
+photocopie
+réunion
+patron
+bloc-notes
+surligneur
+casier
+perforatrice
+taille-crayon
+agenda scolaire
+élève
+classe
+examen
+règle
+salle de classe
+note
+devoir
+directeur
+cour
+sortie scolaire
+rentrée
+cartable
+trousse
+bulletin de notes
+faire ses devoirs
+étudier
+réviser
+oublier
+histoire
+physique
+anglais
+espagnol
+français
+allemand
+cahier d'exercices
+sciences
+musée
+théâtre
+cinéma
+bibliothèque
+hôpital
+banque
+poste
+place
+jardin
+château
+monument
+patinoire
+salle de sport
+billetterie
+avenue
+boulevard
+coin
+impasse
+sens interdit
+à droite
+en face
+loin
+près
+à côté de
+au bout de la rue
+tourner à gauche
+tourner à droite
+aller tout droit
+feux de circulation
+zone piétonne
+rue piétonne
+travaux
+demander son chemin
+se perdre
+à pied
+en voiture
+passage souterrain
+passerelle
+traverser
+vent
+neige
+tonnerre
+éclair
+gel
+il fait chaud
+il fait froid
+il pleut
+nuageux
+ensoleillé
+brume
+grêle
+il neige
+il gèle
+la météo
+bulletin météo
+quel temps fait-il
+il fait beau
+il fait gris
+il fait du vent
+au printemps
+en été
+en automne
+en hiver
+chemise
+pantalon
+robe
+pull
+veste
+t-shirt
+short
+chaussette
+chaussure
+costume
+sous-vêtements
+pyjama
+fermeture éclair
+col
+manche
+poche
+rayure
+tissu
+soie
+cuir
+fourrure
+s'habiller
+se déshabiller
+bague
+bracelet
+portefeuille
+sac à main
+parapluie
+talon
+lacet
+basket
+boucle
+porte-monnaie
+vernis à ongles
+portable
+ordinateur
+télévision
+radio
+pile
+appareil
+écran plat
+éteindre le téléphone
+charger le téléphone
+allumer la télé
+message
+site
+navigateur
+fichier
+clé USB
+adresse
+page d'accueil
+moteur de recherche
+courriel
+boîte de réception
+réseau social
+site internet
+envoyer un message
+publier
+partager
+en ligne
+appel manqué
+pseudo
+profil
+foot
+tennis
+basket
+rugby
+patinage
+surf
+course à pied
+hockey
+volley
+pétanque
+faire du sport
+penalty
+hors-jeu
+corner
+jouer au foot
+faire du jogging
+chaussures de sport
+gymnase
+maillot
+équipe
+match
+score
+but
+gourde
+arbitre
+supporter
+championnat
+coupe
+tournoi
+match nul
+s'entraîner
+échauffement
+piano
+batterie
+harpe
+saxophone
+tambour
+rock
+pop
+techno
+reggae
+folk
+valse
+métal
+disco
+concert
+groupe de musique
+micro
+scène
+refrain
+paroles
+actrice
+réalisateur
+épisode
+émission
+policier
+science-fiction
+thriller
+publicité
+film d'action
+film d'horreur
+comédie romantique
+série télévisée
+séance
+place de cinéma
+bande-son
+amitié
+copine
+sortir
+fêter
+inviter
+voisin
+rencontrer
+se faire des amis
+inviter à dîner
+passer du temps
+banque
+carte bancaire
+crédit
+prêt
+banquier
+retrait
+argent liquide
+distributeur de billets
+carte de crédit
+retirer de l'argent
+faire un virement
+déposer de l'argent
+ouvrir un compte
+argent de poche
+tirelire
+faire des économies
+menu
+soupe
+salade
+sauce
+couverts
+repas
+steak-frites
+moules-frites
+la carte
+réserver une table
+boire
+goûter
+service compris
+mettre la table
+débarrasser la table
+faire la cuisine
+préparer le dîner
+demander l'addition
+rond
+point
+étoile
+cube
+losange
+bras
+jambe
+main
+dos
+cou
+pied
+dent
+oreille
+lèvre
+front
+barbe
+sourcil
+joue
+menton
+poignet
+cuisse
+se brosser les dents
+se brosser les cheveux
+se peigner
+se coiffer
+se raser
+se maquiller
+se laver
+se doucher
+se réveiller
+se coucher
+s'endormir
+se dépêcher
+se reposer
+chaton
+animal de compagnie
+niche
+croquettes
+poisson rouge
+perruche
+cobaye
+litière
+promener le chien
+donner à manger
+vache
+cheval
+poussin
+étable
+ferme
+berger
+laine
+lion
+tigre
+singe
+éléphant
+girafe
+zèbre
+biche
+renne
+crocodile
+aigle
+corbeau
+canari
+chouette
+araignée
+escargot
+moustique
+ver
+puce
+bourdon
+chenille
+montagne
+lac
+forêt
+désert
+volcan
+champ
+côte
+dune
+bois
+bord de mer
+prairie
+ruisseau
+fleur
+rose
+feuille
+herbe
+buisson
+rosier
+chêne
+coquelicot
+jonquille
+pivoine
+branche
+arroser les plantes
+pot de fleurs
+arrosoir
+mer
+plage
+sable
+crabe
+bateau
+port
+coquille
+poisson
+algue
+rocher
+château de sable
+matin
+soir
+minute
+seconde
+à l'heure
+en retard
+en avance
+matinée
+tous les jours
+une fois par semaine
+la veille
+le lendemain
+quinzaine
+heure de pointe
+lundi
+janvier
+semaine
+mois
+année
+date
+loisir
+puzzle
+jeu de société
+promenade
+voyage
+collection
+bricolage
+broderie
+danse
+faire une sieste
+faire un tour
+s'amuser
+s'ennuyer
+faire une pause
+fête
+invités
+bougie
+confetti
+bonbon
+joyeux anniversaire
+faire la fête
+souffler les bougies
+offrir un cadeau
+recevoir des invités
+tristesse
+bonheur
+heureux
+fâché
+content
+avoir peur
+fier
+fierté
+triste
+inquiet
+calme
+de bonne humeur
+de mauvaise humeur
+avoir froid
+avoir chaud
+avoir sommeil
+avoir raison
+avoir tort
+avoir honte
+faire peur
+faire plaisir
+gentil
+sympathique
+sérieux
+égoïste
+sociable
+patient
+intelligent
+poli
+honnête
+curieux
+sévère
+distrait
+ponctuel
+menteur
+sincère
+fidèle
+jaloux
+charmant
+désagréable
+agréable
+peureux
+prudent
+doux
+dur
+bête
+malin
+répondre
+envoyer
+sonnerie
+appel
+numéro
+texter
+téléphoner
+rappeler
+répondeur
+coup de téléphone
+dessin
+colle
+peintre
+sculpture
+crayon de couleur
+artiste
+exposition
+statue
+modèle

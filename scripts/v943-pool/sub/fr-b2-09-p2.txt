@@ -1,0 +1,224 @@
+impressionnisme|impresionismo||S|art|B2
+cubisme|cubismo||S|art|B2
+fresque|fresco (pintura mural)||S|art|B2
+avant-garde|vanguardia||S|art|B2
+chef-d'œuvre|obra maestra||S|art|B2
+mouvement artistique|movimiento artístico||S|art|B2
+toile|lienzo||S|art|B2
+exposition rétrospective|exposición antológica||S|art|B2
+courant baroque|corriente barroca||S|art|B2
+sculpture abstraite|escultura abstracta||S|art|B2
+palette de couleurs|paleta de colores||S|art|B2
+voûte|bóveda||S|art|B2
+charpente|armazón de madera||S|art|B2
+patrimoine bâti|patrimonio arquitectónico||S|art|B2
+monument historique|monumento histórico||S|art|B2
+arc en plein cintre|arco de medio punto||S|art|B2
+cathédrale gothique|catedral gótica||S|art|B2
+réhabilitation d'un bâtiment|rehabilitación de un edificio||S|art|B2
+pierre de taille|sillar||S|art|B2
+clocher|campanario||S|art|B2
+art roman|arte románico||S|art|B2
+verrière|vidriera||S|art|B2
+façade|fachada||S|cit|B2
+copropriété|comunidad de vecinos||S|cit|B2
+syndic de copropriété|administrador de fincas||S|pro|B2
+charges communes|gastos de comunidad||S|cit|B2
+règlement d'immeuble|normas del edificio||S|cit|B2
+bruits de voisinage|ruidos de los vecinos||S|cit|B2
+assemblée des propriétaires|junta de propietarios||S|cit|B2
+s'entendre avec ses voisins|llevarse bien con los vecinos||E|cit|B2
+cour commune|patio común||S|cit|B2
+bail|contrato de alquiler||S|cas|B2
+locataire|inquilino||S|cit|B2
+escalier d'immeuble|escalera del edificio||S|cas|B2
+cambriolage|robo en vivienda||S|ist|B2
+valeur nutritionnelle|valor nutricional||S|ali|B2
+additif alimentaire|aditivo alimentario||S|ali|B2
+conservateur|conservante||S|ali|B2
+date de péremption|fecha de caducidad||S|ali|B2
+teneur en sucre|contenido de azúcar||S|ali|B2
+produit transformé|producto procesado||S|ali|B2
+huile de palme|aceite de palma||S|ali|B2
+sans gluten|sin gluten||E|ali|B2
+allergène|alérgeno||S|ali|B2
+riche en fibres|rico en fibra||E|ali|B2
+sel ajouté|sal añadida||S|ali|B2
+portion journalière|ración diaria||S|ali|B2
+train à grande vitesse|tren de alta velocidad||S|tra|B2
+wagon-lit|coche cama||S|tra|B2
+voiture-restaurant|coche restaurante||S|tra|B2
+remboursable|reembolsable||A|tra|B2
+correspondance|transbordo (conexión)||S|tra|B2
+quai de départ|andén de salida||S|tra|B2
+contrôleur|revisor||S|pro|B2
+réservation de siège|reserva de asiento||S|tra|B2
+tarif réduit|tarifa reducida||S|tra|B2
+retard annoncé|retraso anunciado||S|tra|B2
+à bord du train|a bordo del tren||E|tra|B2
+gare de départ|estación de origen||S|tra|B2
+entorse|esguince||S|sla|B2
+foulure|distensión||S|sla|B2
+luxation|luxación||S|sla|B2
+plaie ouverte|herida abierta||S|sla|B2
+saignement abondant|hemorragia abundante||S|sla|B2
+massage cardiaque|masaje cardíaco||S|sla|B2
+défibrillateur|desfibrilador||S|sla|B2
+numéro d'urgence|número de emergencias||S|sla|B2
+pansement|tirita||S|sla|B2
+évanouissement|desmayo||S|sla|B2
+secouriste|socorrista||S|pro|B2
+garrot|torniquete||S|sla|B2
+télétravailler|teletrabajar||V|lav|B2
+jour de télétravail|día de teletrabajo||S|lav|B2
+visioconférence|videoconferencia||S|tec|B2
+droit à la déconnexion|derecho a la desconexión||S|lav|B2
+horaires aménagés|horarios adaptados||S|lav|B2
+flexibilité des horaires|flexibilidad horaria||S|lav|B2
+travailler depuis chez soi|trabajar desde casa||E|lav|B2
+trajet domicile-travail|trayecto casa-trabajo||S|lav|B2
+réunion à distance|reunión a distancia||S|lav|B2
+bureau partagé|oficina compartida||S|lav|B2
+congés payés|vacaciones pagadas||S|lav|B2
+aménager un bureau|acondicionar un despacho||E|cas|B2
+bilan de compétences|balance de competencias||S|lav|B2
+formation continue|formación continua||S|lav|B2
+formation en ligne|formación en línea||S|lav|B2
+reconversion professionnelle|reconversión profesional||S|lav|B2
+promotion interne|promoción interna||S|lav|B2
+mentorat|mentoría||S|lav|B2
+certification professionnelle|certificación profesional||S|lav|B2
+plan de carrière|plan de carrera||S|lav|B2
+montée en compétences|desarrollo de competencias||S|lav|B2
+stage de perfectionnement|curso de perfeccionamiento||S|lav|B2
+savoir-faire|saber hacer||S|lav|B2
+savoir-être|saber estar||S|lav|B2
+programme d'échange|programa de intercambio||S|stu|B2
+université d'accueil|universidad de acogida||S|stu|B2
+carte d'étudiant|carné de estudiante||S|stu|B2
+bourse de mobilité|beca de movilidad||S|stu|B2
+crédits universitaires|créditos universitarios||S|stu|B2
+culture d'accueil|cultura de acogida||S|stu|B2
+s'acclimater|aclimatarse||V|stu|B2
+correspondant étranger|corresponsal extranjero||S|stu|B2
+logement étudiant|alojamiento estudiantil||S|stu|B2
+année à l'étranger|año en el extranjero||S|stu|B2
+cours d'immersion|curso de inmersión||S|stu|B2
+apport personnel|entrada (aportación inicial)||S|fin|B2
+mensualité de crédit|cuota mensual del préstamo||S|fin|B2
+notaire|notario||S|pro|B2
+frais de notaire|gastos de notaría||S|fin|B2
+promotion immobilière|promoción inmobiliaria||S|fin|B2
+quartier résidentiel|barrio residencial||S|cit|B2
+négociation du prix|negociación del precio||S|fin|B2
+superficie habitable|superficie habitable||S|cas|B2
+visite d'appartement|visita de un piso||S|cas|B2
+assurance emprunteur|seguro del prestatario||S|fin|B2
+marché immobilier|mercado inmobiliario||S|fin|B2
+surendettement|sobreendeudamiento||S|fin|B2
+panier d'achat|cesta de la compra||S|cmp|B2
+avis client|opinión del cliente||S|cmp|B2
+frais de port|gastos de envío||S|cmp|B2
+colis suivi|envío con seguimiento||S|cmp|B2
+conditions de retour|condiciones de devolución||S|cmp|B2
+payer à crédit|pagar a crédito||E|fin|B2
+code promo|código promocional||S|cmp|B2
+vendeur tiers|vendedor externo||S|cmp|B2
+évaluation détaillée|valoración detallada||S|cmp|B2
+rupture de stock|rotura de stock||S|cmp|B2
+livraison express|entrega exprés||S|cmp|B2
+site marchand|tienda online||S|cmp|B2
+désactiver|desactivar||V|tec|B2
+forfait mobile|tarifa móvil||S|tec|B2
+réinitialiser|restablecer||V|tec|B2
+espace de stockage|espacio de almacenamiento||S|tec|B2
+application payante|aplicación de pago||S|tec|B2
+publicité ciblée|publicidad segmentada||S|tec|B2
+données personnelles|datos personales||S|tec|B2
+temps d'écran|tiempo de pantalla||S|tec|B2
+abonnement mensuel|suscripción mensual||S|tec|B2
+couper le son|silenciar (el sonido)||E|tec|B2
+recharger son téléphone|cargar el móvil||E|tec|B2
+mot de passe oublié|contraseña olvidada||S|tec|B2
+club de quartier|club de barrio||S|spt|B2
+licence sportive|licencia deportiva||S|spt|B2
+match amical|partido amistoso||S|spt|B2
+course à pied|carrera a pie||S|spt|B2
+s'échauffer|calentar||V|spt|B2
+étirements|estiramientos||S|spt|B2
+esprit d'équipe|espíritu de equipo||S|spt|B2
+s'inscrire à la salle|apuntarse al gimnasio||E|spt|B2
+sport de plein air|deporte al aire libre||S|spt|B2
+entraînement hebdomadaire|entrenamiento semanal||S|spt|B2
+dépasser la fatigue|vencer el cansancio||E|spt|B2
+billetterie|taquilla||S|mus|B2
+foule|multitud||S|mus|B2
+scène ouverte|escenario abierto||S|mus|B2
+festival en plein air|festival al aire libre||S|mus|B2
+tournée nationale|gira nacional||S|mus|B2
+chœur|coro||S|mus|B2
+se produire sur scène|actuar sobre el escenario||E|mus|B2
+billet nominatif|entrada nominativa||S|mus|B2
+file d'attente|cola||S|mus|B2
+premier rang|primera fila||S|mus|B2
+chanson à succès|canción de éxito||S|mus|B2
+fan inconditionnel|fan incondicional||S|mus|B2
+plateforme de streaming|plataforma de streaming||S|cin|B2
+sous-titré|subtitulado||A|cin|B2
+épisode pilote|episodio piloto||S|cin|B2
+feuilleton|serial televisivo||S|cin|B2
+documentaire animalier|documental de naturaleza||S|cin|B2
+diffusion en clair|emisión en abierto||S|cin|B2
+série policière|serie policiaca||S|cin|B2
+nouvelle saison|nueva temporada||S|cin|B2
+révéler la fin|destripar el final||E|cin|B2
+catalogue de séries|catálogo de series||S|cin|B2
+casting|reparto||S|cin|B2
+faire-part de naissance|participación de nacimiento||S|rel|B2
+liste de mariage|lista de boda||S|rel|B2
+demoiselle d'honneur|dama de honor||S|rel|B2
+cortège|cortejo nupcial||S|rel|B2
+alliance|alianza (anillo de boda)||S|rel|B2
+banquet nuptial|banquete de boda||S|rel|B2
+union civile|unión civil||S|ist|B2
+fiançailles|pedida de mano||S|rel|B2
+lune de miel|luna de miel||S|vig|B2
+noces d'argent|bodas de plata||S|rel|B2
+bouquet de la mariée|ramo de la novia||S|rel|B2
+demander en mariage|pedir en matrimonio||E|rel|B2
+dépense courante|gasto corriente||S|fin|B2
+budget serré|presupuesto ajustado||S|fin|B2
+arnaque en ligne|estafa en línea||S|fin|B2
+débiter|cargar en la cuenta||V|fin|B2
+virement instantané|transferencia instantánea||S|fin|B2
+facture détaillée|factura detallada||S|fin|B2
+coupon de réduction|vale de descuento||S|cmp|B2
+hameçonnage|suplantación de identidad (phishing)||S|tec|B2
+dépenses superflues|gastos superfluos||S|fin|B2
+épargne de précaution|ahorro de emergencia||S|fin|B2
+reste à charge|copago (parte a cargo)||S|fin|B2
+retirer de l'argent|sacar dinero||E|fin|B2
+torréfaction|tueste||S|ali|B2
+café filtre|café filtrado||S|ris|B2
+chocolat chaud|chocolate caliente||S|ris|B2
+petit noir|café solo||S|ris|B2
+viennoiserie|bollería de hojaldre||S|ali|B2
+cafetière à piston|cafetera de émbolo||S|cas|B2
+brunch copieux|brunch abundante||S|ris|B2
+terrasse chauffée|terraza climatizada||S|ris|B2
+salon de thé|salón de té||S|ris|B2
+torréfier|tostar (el café)||V|ali|B2
+café serré|café cargado||S|ris|B2
+pourboire|propina||S|ris|B2
+délit de fuite|delito de fuga||S|ist|B2
+barrage de police|control policial||S|ist|B2
+identifier le coupable|identificar al culpable||E|ist|B2
+couvre-feu|toque de queda||S|ist|B2
+forces de l'ordre|fuerzas del orden||S|ist|B2
+plainte contre X|denuncia contra desconocidos||S|ist|B2
+secours d'urgence|servicios de emergencia||S|att|B2
+alerte enlèvement|alerta por secuestro||S|att|B2
+patrouille|patrulla||S|ist|B2
+victime de vol|víctima de un robo||S|ist|B2
+vidéoprotection|videovigilancia||S|ist|B2
+petite délinquance|pequeña delincuencia||S|ist|B2

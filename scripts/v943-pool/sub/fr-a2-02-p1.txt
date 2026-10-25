@@ -1,0 +1,267 @@
+coucou|hola (familiar)||I|sal|A2
+ça va|qué tal||E|sal|A2
+comment allez-vous|cómo está usted||E|sal|A2
+faire connaissance|conocer a alguien||L|sal|A2
+je t'en prie|no hay de qué||E|sal|A2
+merci d'avance|gracias de antemano||E|sal|A2
+pas de problème|sin problema||E|sal|A2
+félicitations|felicidades||I|sal|A2
+beau-fils|hijastro||S|fam|A2
+demi-sœur|hermanastra||S|fam|A2
+se marier|casarse||V|fam|A2
+en famille|en familia||L|fam|A2
+table de chevet|mesilla de noche||S|cas|A2
+banc|banco||S|cas|A2
+porte-manteau|perchero||S|cas|A2
+cafétière|cafetera||S|cas|A2
+véranda|porche acristalado||S|cas|A2
+lavabo|lavabo||S|cas|A2
+évier|fregadero||S|cas|A2
+robinet|grifo||S|cas|A2
+ouvre-boîte|abrelatas||S|cas|A2
+passoire|colador||S|cas|A2
+assiette creuse|plato hondo||S|cas|A2
+couverts|cubiertos||S|cas|A2
+plumeau|plumero||S|cas|A2
+eau de Javel|lejía||L|cas|A2
+faire la vaisselle|fregar los platos||L|cas|A2
+passer l'aspirateur|pasar la aspiradora||L|cas|A2
+brouette|carretilla||S|cas|A2
+boulon|perno||S|cas|A2
+ruban adhésif|cinta adhesiva||S|cas|A2
+râteau|rastrillo||S|cas|A2
+myrtille|arándano||S|ali|A2
+pamplemousse|pomelo||S|ali|A2
+kiwi|kiwi||S|ali|A2
+salade de fruits|macedonia de frutas||L|ali|A2
+poivron|pimiento||S|ali|A2
+brocoli|brócoli||S|ali|A2
+concombre|pepino||S|ali|A2
+laitue|lechuga||S|ali|A2
+côtelette|chuleta||S|ali|A2
+escalope|escalope||S|ali|A2
+sardine|sardina||S|ali|A2
+steak haché|carne picada||S|ali|A2
+camembert|queso camembert||S|ali|A2
+fromage de chèvre|queso de cabra||L|ali|A2
+crème fraîche|nata fresca||L|ali|A2
+lait entier|leche entera||L|ali|A2
+avoine|avena||S|ali|A2
+biscotte|tostada||S|ali|A2
+pain complet|pan integral||L|ali|A2
+pain au chocolat|napolitana de chocolate||S|ali|A2
+jus d'orange|zumo de naranja||L|ali|A2
+eau gazeuse|agua con gas||L|ali|A2
+vin rosé|vino rosado||S|ali|A2
+romarin|romero||S|ali|A2
+basilic|albahaca||S|ali|A2
+huile d'olive|aceite de oliva||L|ali|A2
+poivre noir|pimienta negra||L|ali|A2
+pois cassé|guisante partido||S|ali|A2
+haricot blanc|judía blanca||L|ali|A2
+fève|haba||S|ali|A2
+châtaigne|castaña||S|ali|A2
+magasin de chaussures|zapatería||L|cmp|A2
+étal|puesto de mercado||S|cmp|A2
+cabine d'essayage|probador||L|cmp|A2
+rendre la monnaie|devolver el cambio||L|fin|A2
+centime|céntimo||S|fin|A2
+passer à la caisse|pasar por caja||L|cmp|A2
+payer par carte|pagar con tarjeta||L|fin|A2
+bidon|bidón||S|cmp|A2
+barquette|bandejita de fruta||S|cmp|A2
+canette|lata||S|cmp|A2
+carnet|carné de billetes||S|tra|A2
+station de métro|estación de metro||L|tra|A2
+arrêt de métro|parada de metro||L|tra|A2
+abribus|marquesina||S|tra|A2
+rétroviseur|retrovisor||S|tra|A2
+coffre|maletero||S|tra|A2
+ceinture de sécurité|cinturón de seguridad||L|tra|A2
+essuie-glace|limpiaparabrisas||S|tra|A2
+billet de train|billete de tren||L|tra|A2
+composter le billet|validar el billete||L|tra|A2
+rater le train|perder el tren||L|tra|A2
+atterrissage|aterrizaje||S|vig|A2
+prendre l'avion|coger el avión||L|vig|A2
+rater l'avion|perder el avión||L|vig|A2
+hôtesse de l'air|azafata||L|vig|A2
+bicyclette|bicicleta||S|tra|A2
+sonnette de vélo|timbre de bici||L|tra|A2
+faire du vélo|montar en bici||L|tra|A2
+sac de voyage|bolsa de viaje||L|vig|A2
+trousse de toilette|neceser||L|vig|A2
+faire des photos|hacer fotos||L|vig|A2
+voyager|viajar||V|vig|A2
+moustiquaire|mosquitera||S|vig|A2
+hamac|hamaca||S|vig|A2
+canne à pêche|caña de pescar||L|vig|A2
+glacière|nevera portátil||S|vig|A2
+réserver une chambre|reservar una habitación||L|htl|A2
+annuler une réservation|cancelar una reserva||L|htl|A2
+heure d'arrivée|hora de llegada||L|htl|A2
+nuit d'hôtel|noche de hotel||L|htl|A2
+climatiseur|aire acondicionado||S|htl|A2
+lit double|cama de matrimonio||L|htl|A2
+serviette de bain|toalla de baño||L|htl|A2
+mal au dos|dolor de espalda||L|sla|A2
+avoir de la fièvre|tener fiebre||L|sla|A2
+se casser la jambe|romperse la pierna||L|sla|A2
+se fouler la cheville|torcerse el tobillo||L|sla|A2
+cabinet|consultorio||S|sla|A2
+aller chez le médecin|ir al médico||L|sla|A2
+piqûre|pinchazo||S|sla|A2
+carie|caries||S|sla|A2
+sirop pour la toux|jarabe para la tos||L|sla|A2
+pastille pour la gorge|pastilla para la garganta||L|sla|A2
+goutte|gota||S|sla|A2
+facteur|cartero||S|pro|A2
+fleuriste|florista||S|pro|A2
+jardinier|jardinero||S|pro|A2
+agent de police|agente de policía||L|pro|A2
+agrafeuse|grapadora||S|lav|A2
+classeur|archivador||S|lav|A2
+trombone|clip||S|lav|A2
+perforatrice|perforadora||S|lav|A2
+récréation|recreo||S|stu|A2
+cartable|cartera escolar||S|stu|A2
+rentrée|vuelta al colegio||S|stu|A2
+faire ses devoirs|hacer los deberes||L|stu|A2
+calculatrice|calculadora||S|stu|A2
+dictionnaire|diccionario||S|stu|A2
+cahier d'exercices|cuaderno de ejercicios||L|stu|A2
+surligneur|subrayador||S|stu|A2
+zoo|zoo||S|cit|A2
+cirque|circo||S|cit|A2
+parc d'attractions|parque de atracciones||L|cit|A2
+square|plaza ajardinada||S|cit|A2
+tourner à gauche|girar a la izquierda||E|cit|A2
+tourner à droite|girar a la derecha||E|cit|A2
+demander son chemin|preguntar el camino||L|cit|A2
+feux de circulation|semáforos||L|cit|A2
+il pleut|llueve||E|cli|A2
+la météo|el tiempo (meteorológico)||S|cli|A2
+quel temps fait-il|qué tiempo hace||E|cli|A2
+arc-en-ciel|arcoíris||S|cli|A2
+au printemps|en primavera||L|cli|A2
+en été|en verano||L|cli|A2
+en automne|en otoño||L|cli|A2
+en hiver|en invierno||L|cli|A2
+chaussette|calcetín||S|rop|A2
+fermeture éclair|cremallera||L|rop|A2
+sous-vêtements|ropa interior||S|rop|A2
+s'habiller|vestirse||V|rop|A2
+botte|bota||S|rop|A2
+boucle d'oreille|pendiente||L|rop|A2
+porte-monnaie|monedero||S|rop|A2
+pointure|talla de zapato||S|rop|A2
+télécommande|mando a distancia||S|tec|A2
+haut-parleur|altavoz||S|tec|A2
+écran plat|pantalla plana||L|tec|A2
+charger le téléphone|cargar el móvil||L|tec|A2
+courriel|correo electrónico||S|tec|A2
+clé USB|memoria USB||L|tec|A2
+moteur de recherche|buscador||L|tec|A2
+réseau social|red social||L|tec|A2
+foot|fútbol||S|spt|A2
+patinage|patinaje||S|spt|A2
+surf|surf||S|spt|A2
+penalty|penalti||S|spt|A2
+survêtement|chándal||S|spt|A2
+chaussures de sport|zapatillas de deporte||L|spt|A2
+gymnase|gimnasio||S|spt|A2
+clarinette|clarinete||S|mus|A2
+harpe|arpa||S|mus|A2
+saxophone|saxofón||S|mus|A2
+valse|vals||S|mus|A2
+techno|techno||S|mus|A2
+reggae|reggae||S|mus|A2
+film d'horreur|película de terror||L|cin|A2
+comédie romantique|comedia romántica||L|cin|A2
+série télévisée|serie de televisión||L|cin|A2
+séance|sesión (de cine)||S|cin|A2
+amitié|amistad||S|rel|A2
+se faire des amis|hacer amigos||L|rel|A2
+inviter à dîner|invitar a cenar||L|rel|A2
+passer du temps|pasar tiempo juntos||L|rel|A2
+distributeur|cajero automático||S|fin|A2
+ouvrir un compte|abrir una cuenta||L|fin|A2
+retirer de l'argent|sacar dinero||L|fin|A2
+argent liquide|efectivo||L|fin|A2
+plat principal|plato principal||L|ris|A2
+moules-frites|mejillones con patatas||S|ris|A2
+tarte aux pommes|tarta de manzana||L|ris|A2
+la carte|la carta||L|ris|A2
+réserver une table|reservar mesa||L|ris|A2
+demander l'addition|pedir la cuenta||L|ris|A2
+mettre la table|poner la mesa||L|ris|A2
+cercle|círculo||S|col|A2
+rectangle|rectángulo||S|col|A2
+ovale|óvalo||S|col|A2
+losange|rombo||S|col|A2
+lèvre|labio||S|cor|A2
+front|frente||S|cor|A2
+barbe|barba||S|cor|A2
+chiot|cachorro||S|ani|A2
+cage|jaula||S|ani|A2
+perruche|periquito||S|ani|A2
+promener le chien|pasear al perro||L|ani|A2
+brebis|oveja||S|ani|A2
+poulain|potro||S|ani|A2
+grange|granero||S|ani|A2
+étable|establo||S|ani|A2
+sanglier|jabalí||S|ani|A2
+cerf|ciervo||S|ani|A2
+biche|cierva||S|ani|A2
+renne|reno||S|ani|A2
+mouette|gaviota||S|ani|A2
+cigogne|cigüeña||S|ani|A2
+flamant|flamenco||S|ani|A2
+rouge-gorge|petirrojo||S|ani|A2
+coccinelle|mariquita||S|ani|A2
+cafard|cucaracha||S|ani|A2
+chenille|oruga||S|ani|A2
+puce|pulga||S|ani|A2
+dune|duna||S|nat|A2
+prairie|pradera||S|nat|A2
+bois|bosquecillo||S|nat|A2
+bord de mer|orilla del mar||L|nat|A2
+tige|tallo||S|nat|A2
+buisson|arbusto||S|nat|A2
+jonquille|narciso||S|nat|A2
+pot de fleurs|maceta||L|nat|A2
+requin|tiburón||S|nat|A2
+dauphin|delfín||S|nat|A2
+galet|guijarro||S|nat|A2
+château de sable|castillo de arena||L|nat|A2
+demi-heure|media hora||L|tmp|A2
+lever du soleil|amanecer||L|tmp|A2
+le lendemain|el día siguiente||L|tmp|A2
+la veille|la víspera||L|tmp|A2
+calendrier|calendario||S|tmp|A2
+carnaval|carnaval||S|sve|A2
+fin de semaine|fin de semana||L|tmp|A2
+jeux vidéo|videojuegos||L|sve|A2
+danse|baile||S|sve|A2
+promenade|paseo||S|sve|A2
+faire une sieste|echar una siesta||L|sve|A2
+feux d'artifice|fuegos artificiales||L|sve|A2
+sapin|árbol de Navidad||S|sve|A2
+réveillon|cena de Nochebuena||S|sve|A2
+déguisement|disfraz||S|sve|A2
+ennui|aburrimiento||S|emo|A2
+avoir peur|tener miedo||L|emo|A2
+avoir honte|sentir vergüenza||L|emo|A2
+de bonne humeur|de buen humor||L|emo|A2
+bavard|hablador||A|emo|A2
+courageux|valiente||A|emo|A2
+sincère|sincero||A|emo|A2
+menteur|mentiroso||A|emo|A2
+coup de fil|llamada telefónica||L|cmu|A2
+boîte vocale|buzón de voz||L|cmu|A2
+téléphoner|llamar por teléfono||V|cmu|A2
+envoyer un message|enviar un mensaje||L|cmu|A2
+argile|arcilla||S|art|A2
+gouache|témpera||S|art|A2
+encre|tinta||S|art|A2
+sculpteur|escultor||S|art|A2

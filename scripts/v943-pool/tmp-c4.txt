@@ -1,0 +1,446 @@
+cimaise|cimasa||S|art|C2
+épreuve d'artiste|prueba de autor||L|art|C2
+tirage de tête|tirada de cabeza||L|art|C2
+lithographie|litografía||S|art|C2
+sérigraphie|serigrafía||S|art|C2
+linogravure|linograbado||S|art|C2
+xylographie|xilografía||S|art|C2
+bois de fil|grabado al hilo||L|art|C2
+pointe sèche|punta seca||L|art|C2
+manière noire|manera negra||L|art|C2
+aquatinte|aguatinta||S|art|C2
+trois crayons|a tres sanguinas||L|art|C2
+sanguine|sanguina||S|art|C2
+pierre noire|piedra negra||L|art|C2
+fusain|carboncillo||S|art|C2
+modelé|modelado (volumen)||S|art|C2
+sinopia|sinopia||S|art|C2
+intonaco|intonaco||S|art|C2
+gesso|gesso||S|art|C2
+empâtement|empaste||S|art|C2
+glacis|veladura||S|art|C2
+pentimento|arrepentimiento (repentir)||S|art|C2
+imprimatura|imprimación||S|art|C2
+châssis|bastidor||S|art|C2
+tesselle|tesela||S|art|C2
+pâte de verre|pasta de vidrio||L|art|C2
+souffleur de verre|soplador de vidrio||L|pro|C2
+cristallerie|cristalería (fábrica)||S|art|C2
+verrière|vidriera||S|art|C2
+grisaille|grisalla||S|art|C2
+filigrane|filigrana||S|art|C2
+ciselure|cincelado||S|art|C2
+damasquinure|damasquinado||S|art|C2
+repoussé|repujado||S|art|C2
+niellure|nieladura||S|art|C2
+ferblanterie|hojalatería||S|art|C2
+camée|camafeo||S|art|C2
+outremer|ultramar||S|art|C2
+cochenille|cochinilla||S|art|C2
+garance|rubia (garanza)||S|art|C2
+liant|aglutinante||S|art|C2
+tempera|temple (técnica de pintura)||S|art|C2
+verdet|cardenillo||S|art|C2
+nature morte|bodegón||L|art|C2
+trompe-l'oeil|trampantojo||S|art|C2
+anamorphose|anamorfosis||S|art|C2
+camaïeu|gama tonal||S|art|C2
+triptyque|tríptico||S|art|C2
+diptyque|díptico||S|art|C2
+polyptyque|politrico||S|art|C2
+retable|retablo||S|art|C2
+portraitiste|retratista||S|pro|C2
+paysagiste|paisajista||S|pro|C2
+animalier|animalista||S|pro|C2
+galeriste|galerista||S|pro|C2
+allégresse|regocijo||S|emo|C2
+hilarité|hilaridad||S|emo|C2
+risée|carcajada general||S|emo|C2
+accablement|abatimiento (agobio)||S|emo|C2
+prostration|postración||S|emo|C2
+abattement|desaliento||S|emo|C2
+déconvenue|desilusión (chasco)||S|emo|C2
+désenchantement|desencanto||S|emo|C2
+attendrissement|enternecimiento||S|emo|C2
+émoi|conmoción (sobresalto)||S|emo|C2
+frémissement|estremecimiento||S|emo|C2
+frisson|escalofrío||S|emo|C2
+chair de poule|piel de gallina||L|emo|C2
+embarras|bochorno||S|emo|C2
+honteux|vergonzoso||A|emo|C2
+pudibonderie|pudibundez||S|emo|C2
+pudeur|recato||S|emo|C2
+farouche|arisco||A|emo|C2
+effarouché|espantadizo||A|emo|C2
+susceptibilité|susceptibilidad||S|emo|C2
+dédain|desdén||S|emo|C2
+dédaigneux|desdeñoso||A|emo|C2
+hautain|altivo (soberbio)||A|emo|C2
+sournois|soterrón (reticente)||A|emo|C2
+boudeur|enfurruñado||A|emo|C2
+bouderie|enfurruñamiento||S|emo|C2
+dépité|disgustado||A|emo|C2
+courroux|enojo (furia)||S|emo|C2
+ire|ira||S|emo|C2
+emportement|arrebato||S|emo|C2
+irascible|irascible||A|emo|C2
+furibard|furibundo||A|emo|C2
+naïveté|ingenuidad||S|emo|C2
+convoitise|concupiscencia (codicia)||S|emo|C2
+cupide|codicioso||A|emo|C2
+cupidité|codicia||S|emo|C2
+pédant|pedante||S|emo|C2
+vanteur|presumido||A|emo|C2
+dynamique de groupe|dinámica de grupo||L|emo|C2
+sarcasme|sarcasmo||S|cmu|C2
+raillerie|burla (pulla)||S|cmu|C2
+persiflage|chirigota (puya)||S|cmu|C2
+coq-à-l'âne|disparate (salto inconexo)||S|cmu|C2
+niaiserie|bobada (necedad)||S|cmu|C2
+mirliflore|chulesco (galán de opereta)||A|cmu|C2
+quatrième pouvoir|cuarto poder||L|cmu|C2
+tribune libre|tribuna libre||L|cmu|C2
+courrier des lecteurs|cartas al director||L|cmu|C2
+zapping|zapeo||S|cmu|C2
+part d'audience|cuota de pantalla||L|cmu|C2
+grille de programmes|parrilla de programación||L|cmu|C2
+plumitif|plumífero||S|cmu|C2
+gazetier|gacetillero||S|cmu|C2
+pigiste|colaborador a destajo||S|cmu|C2
+éditorialiste|editorialista||S|cmu|C2
+chroniqueur|tertuliano||S|cmu|C2
+rectificatif|fe de erratas||S|cmu|C2
+errata|errata||S|cmu|C2
+fil de presse|cable (agencia)||L|cmu|C2
+agence de presse|agencia de noticias||L|cmu|C2
+grand reportage|gran reportaje||L|cmu|C2
+propagande|propaganda||S|cmu|C2
+infodémie|infodemia||S|cmu|C2
+post-vérité|posverdad||S|cmu|C2
+chambre d'écho|cámara de eco||L|cmu|C2
+bulle informationnelle|burbuja informativa||L|cmu|C2
+discours de haine|discurso de odio||L|cmu|C2
+journalisme d'investigation|periodismo de investigación||L|cmu|C2
+secret des sources|secreto profesional (de las fuentes)||L|cmu|C2
+presse à scandale|prensa del escándalo||L|cmu|C2
+scoop|exclusiva||S|cmu|C2
+calembour|juego de palabras||S|cmu|C2
+calembredaine|paya (pataleta)||S|cmu|C2
+tergiversation|tergiversación||S|cmu|C2
+biome|bioma||S|nat|C2
+biocénose|biocenosis||S|nat|C2
+biotope|biotopo||S|nat|C2
+phytocénose|fitocenosis||S|nat|C2
+phytosociologie|fitosociología||S|nat|C2
+succession végétale|sucesión vegetal||L|nat|C2
+espèce pionnière|especie pionera||L|nat|C2
+lisière|lindero (orla del bosque)||S|nat|C2
+garrigue|garriga||S|nat|C2
+lande|brezal (páramo)||S|nat|C2
+tourbière|turbera||S|nat|C2
+sphagne|esfagno||S|nat|C2
+mangrove|manglar||S|nat|C2
+pré salé|salina costera||L|nat|C2
+vasière|fangal||S|nat|C2
+estran|intermareal||S|nat|C2
+laisses de mer|restos de arribazón||L|nat|C2
+ripisylve|bosque de ribera||S|nat|C2
+bois mort|madera muerta||L|nat|C2
+canopée|dosel (canopia)||S|nat|C2
+sous-bois|sotobosque||S|nat|C2
+hêtraie|hayedo||S|nat|C2
+chênaie|robledal||S|nat|C2
+prairie de fauche|pradera de siega||L|nat|C2
+pâturage|pastizal||S|nat|C2
+surpâturage|sobrepastoreo||S|nat|C2
+bergerie|aprisco||S|nat|C2
+draille|cañada (vía pecuaria)||S|nat|C2
+restanque|banco de terraza||S|nat|C2
+fourré|espinal||S|nat|C2
+taillis|monte bajo||S|nat|C2
+futaie|monte alto||S|nat|C2
+ébranchage|desramado||S|nat|C2
+débardage|arrastre (saca de madera)||S|nat|C2
+scierie|aserradero||S|nat|C2
+bois d'oeuvre|madera aserrada||L|nat|C2
+bosquet|arboleda||S|nat|C2
+charmille|emparrado de carpes||S|nat|C2
+art topiaire|arte topiario||L|nat|C2
+verger|huerto frutal||S|nat|C2
+potager|huerto||S|nat|C2
+marquage de territoire|marcado del territorio||L|ani|C2
+clause de conscience|cláusula de conciencia||L|lav|C2
+profession libérale|profesión liberal||L|lav|C2
+congé parental|permiso parental||L|lav|C2
+congé de maternité|permiso de maternidad||L|lav|C2
+arrêt maladie|baja médica||L|lav|C2
+arrêt de travail|baja laboral||L|lav|C2
+heures supplémentaires|horas extraordinarias||L|lav|C2
+forfait jours|pacto anual de horas||L|lav|C2
+temps de travail effectif|tiempo de trabajo efectivo||L|lav|C2
+télétravail|teletrabajo||S|lav|C2
+intérim|trabajo temporal||S|lav|C2
+mission d'intérim|asignación temporal||L|lav|C2
+fioriture|fioritura||S|mus|C2
+colorature|coloratura||S|mus|C2
+vocalise|vocalizo||S|mus|C2
+trille|trino||S|mus|C2
+trémolo|trémolo||S|mus|C2
+pizzicato|pizzicato||S|mus|C2
+glissando|glissando||S|mus|C2
+staccato|staccato||S|mus|C2
+legato|legato||S|mus|C2
+vibrato|vibrato||S|mus|C2
+arpège|arpegio||S|mus|C2
+rubato|rubato||S|mus|C2
+cantabile|cantabile||A|mus|C2
+sotto voce|sotto voce||L|mus|C2
+a cappella|a capella||L|mus|C2
+bel canto|bel canto||L|mus|C2
+port de voix|apoyatura ascendente||L|mus|C2
+pincé|mordente invertido||S|mus|C2
+triolet|tresillo||S|mus|C2
+quintolet|cinquillo||S|mus|C2
+contretemps|contratiempo (síncope)||S|mus|C2
+anacrouse|anacrusa||S|mus|C2
+armure|armadura (clave)||S|mus|C2
+tonalité|tonalidad||S|mus|C2
+mode dorien|modo dórico||L|mus|C2
+échelle pentatonique|escala pentatónica||L|mus|C2
+cadence parfaite|cadencia perfecta||L|mus|C2
+cadence rompue|cadencia rota||L|mus|C2
+modulation|modulación||S|mus|C2
+réexposition|reexposición||S|mus|C2
+ritournelle|retahíla (estribillo)||S|mus|C2
+mélisme|melisma||S|mus|C2
+quart de ton|cuarto de tono||L|mus|C2
+musique concrète|música concreta||L|mus|C2
+bruitisme|ruidismo||S|mus|C2
+ostinato|ostinato||S|mus|C2
+micro-intervalle|microintervalo||S|mus|C2
+champ-contrechamp|plano-contraplano||L|cin|C2
+échelle des plans|escala de planos||L|cin|C2
+gros plan|plano cerrado||L|cin|C2
+très gros plan|plano detalle||L|cin|C2
+plan d'ensemble|plano general||L|cin|C2
+plan américain|plano americano||L|cin|C2
+plan de coupe|plano de recurso||L|cin|C2
+retour en arrière|vuelta atrás (analepsis)||L|cin|C2
+générique|créditos||S|cin|C2
+clap|claqueta||S|cin|C2
+mixage|mezcla de sonido||S|cin|C2
+décorateur|director de arte||S|cin|C2
+costumière|figurinista||S|cin|C2
+scripte|continuista||S|cin|C2
+doublure|doble (de acción)||S|cin|C2
+cascadeur|especialista de riesgo||S|cin|C2
+figurant|comparsa||S|cin|C2
+figuration|figuración (de reparto)||S|cin|C2
+doublage|doblaje||S|cin|C2
+sous-titrage|subtitulado||S|cin|C2
+version originale sous-titrée|versión original subtitulada||L|cin|C2
+intertitre|intertítulo||S|cin|C2
+avant-première|preestreno||S|cin|C2
+palmarès|palmarés||S|cin|C2
+monteur|montador||S|cin|C2
+étalonneur|corrector de color||S|cin|C2
+régisseur général|regidor||L|cin|C2
+accessoiriste|utillero||S|cin|C2
+projectionniste|proyeccionista||S|cin|C2
+cinéphilie|cinefilia||S|cin|C2
+cinéthèque|filmoteca||S|cin|C2
+politique des auteurs|política de autores||L|cin|C2
+film noir|cine negro||L|cin|C2
+nanar|bazofia (película)||S|cin|C2
+série B|serie B||L|cin|C2
+mise en scène|puesta en escena||L|cin|C2
+contre-jour|a contraluz||S|cin|C2
+flou artistique|desenfoque creativo||L|cin|C2
+vignettage|viñeteado||S|cin|C2
+de surcroît|además (por añadidura)||L|cnn|C2
+à plus forte raison|con mayor razón||L|cnn|C2
+pour l'heure|por ahora||E|cnn|C2
+à tout le moins|cuando menos||L|cnn|C2
+en un mot como nada|en suma||L|cnn|C2
+somme toute|al cabo||E|cnn|C2
+tous comptes faits|a fin de cuentas||E|cnn|C2
+après coup|a posteriori (posteriormente)||L|cnn|C2
+d'entrée de jeu|de entrada||E|cnn|C2
+d'emblée|de buenas a primeras||E|cnn|C2
+tout bien pesé|todo bien considerado||E|cnn|C2
+à y bien penser|pensándolo bien||E|cnn|C2
+qui plus est|es más||L|cnn|C2
+encore que|aunque bien es verdad||C|cnn|C2
+quand bien même|aun cuando||C|cnn|C2
+ne fût-ce que|aunque solo fuese||C|cnn|C2
+que ce soit|sea lo que sea||C|cnn|C2
+si peu que|por poco que||C|cnn|C2
+d'autant que|tanto más cuanto que||C|cnn|C2
+à cet égard|a este respecto||L|cnn|C2
+sous ce rapport|bajo este aspecto||L|cnn|C2
+en pareil cas|en tal caso||L|cnn|C2
+en la matière|en la materia||L|cnn|C2
+à quelques égards|en varios aspectos||L|cnn|C2
+du moins|al menos||L|cnn|C2
+tout au plus|a lo sumo||L|cnn|C2
+à tout prendre|en conjunto||L|cnn|C2
+au pis aller|en el peor de los casos||L|cnn|C2
+d'ores et déjà|desde ahora||L|cnn|C2
+par avance|con antelación||L|cnn|C2
+sur ce|dicho esto||E|cnn|C2
+voire même|o incluso||E|cnn|C2
+cours du soir|clases nocturnas (escuela de adultos)||L|stu|C2
+formation continue|formación continua||L|stu|C2
+formation initiale|formación inicial||L|stu|C2
+formation en alternance|formación dual||L|stu|C2
+validation des acquis|convalidación de experiencia||L|stu|C2
+année de césure|año sabático||L|stu|C2
+mémoire de fin d'études|trabajo de fin de grado||L|stu|C2
+soutenance|defensa (académica)||S|stu|C2
+proviseur|director de instituto||S|stu|C2
+censeur|jefe de estudios||S|stu|C2
+internat|internado||S|stu|C2
+restauration scolaire|comedor escolar||L|stu|C2
+études surveillées|guardería de estudio||L|stu|C2
+cahier de textes|agenda escolar||L|stu|C2
+carnet de correspondance|carnet de comunicación||L|stu|C2
+mirepoix|mirepoix (sofrito de verduras)||S|ris|C2
+matignon|matignon (fondo aromático)||S|ris|C2
+bouquet garni|ramillete de hierbas||L|ris|C2
+fond brun|fondo oscuro||L|ris|C2
+fumet de poisson|fumet de pescado||L|ris|C2
+court-bouillon|caldo corto||S|ris|C2
+glaçage|glaseado||S|ris|C2
+pâte feuilletée|hojaldre||S|ris|C2
+feuilletage|hojaldre (laminado)||S|ris|C2
+tourage|vuelta (laminado del hojaldre)||S|ris|C2
+beurre noisette|mantequilla avellana||L|ris|C2
+beurre manié|mantequilla amasada||L|ris|C2
+roux blanc|roux blanco||L|ris|C2
+chaud-froid|plato frío con salsa gelatinada||S|ris|C2
+paner|empanar||V|ris|C2
+panure|empanado||S|ris|C2
+à l'étouffée|a la chupeta (estofado)||L|ris|C2
+mijoter|cocer a fuego lento||V|ris|C2
+faire revenir|sofreír||E|ris|C2
+saignant|poco hecho (jugoso)||A|ris|C2
+à point (cuisson)|en su punto||E|ris|C2
+braiser|brasear||V|ris|C2
+braisière|brasera||S|ris|C2
+pocher|escalfar||V|ris|C2
+pochage|escalfado||S|ris|C2
+gratiner|gratinar||V|ris|C2
+singer|espolvorear con harina||V|ris|C2
+chemiser|forrar (un molde)||V|ris|C2
+abaisser|estirar (la masa)||V|ris|C2
+foncer|forrar el molde||V|ris|C2
+chiqueter|picar (el borde de la masa)||V|ris|C2
+dorure|doradura||S|ris|C2
+ergonome|ergonomista||S|pro|C2
+audioprothésiste|audioprotesista||S|pro|C2
+orthoptiste|ortoptista||S|pro|C2
+orthophoniste|logopeda||S|pro|C2
+psychomotricien|psicomotricista||S|pro|C2
+podologue|podólogo||S|pro|C2
+sage-femme|matrona||S|pro|C2
+anesthésiste|anestesista||S|pro|C2
+médecin légiste|forense (médico)||L|pro|C2
+radiologue|radiólogo||S|pro|C2
+urgentiste|médico de urgencias||S|pro|C2
+éclusier|esclusero||S|pro|C2
+cantonnier|peón caminero||S|pro|C2
+meunier|molinero||S|pro|C2
+vannier|cestero||S|pro|C2
+tonnelier|tonelero||S|pro|C2
+ajusteur|ajustador||S|pro|C2
+fraiseur|fresador||S|pro|C2
+vigneron|viticultor||S|pro|C2
+vendangeur|vendimiador||S|pro|C2
+affineur|afinador (madurador de quesos)||S|pro|C2
+caviste|sumiller (bodeguero)||S|pro|C2
+sommelier|sumiller||S|pro|C2
+maître d'hôtel|maître (jefe de sala)||L|pro|C2
+chef de rang|jefe de rango||L|pro|C2
+commis de cuisine|pinche (ayudante de cocina)||L|pro|C2
+maître d'apprentissage|maestro de aprendices||L|pro|C2
+avocat général|fiscal de sala||L|pro|C2
+greffier|actuario||S|pro|C2
+grimpeur|escalador||S|spt|C2
+varappe|escalada (vía rocosa)||S|spt|C2
+dièdre|diedro (rincón de escalada)||S|spt|C2
+surplomb|extraplomo||S|spt|C2
+spéléologue|espeleólogo||S|spt|C2
+spéléologie|espeleología||S|spt|C2
+encordement|encordada (de cordada)||S|spt|C2
+baudrier|arnés||S|spt|C2
+descendeur|descensor||S|spt|C2
+grimpe|vía de escalada||S|spt|C2
+tyrolienne|tirolina||S|spt|C2
+rappel|rápel||S|spt|C2
+alpinisme|alpinismo||S|spt|C2
+randonnée|excursión (senderismo)||S|spt|C2
+camp de base|campamento base||L|spt|C2
+triathlon|triatlón||S|spt|C2
+décathlon|decatlón||S|spt|C2
+heptathlon|heptatlón||S|spt|C2
+lancer du poids|lanzamiento de peso||L|spt|C2
+saut à la perche|salto con pértiga||L|spt|C2
+demi-fond|mediofondo||S|spt|C2
+escrime|esgrima||S|spt|C2
+fleuret|florete||S|spt|C2
+cœur de ville|casco histórico||L|cit|C2
+hypercentre|hipercentro||S|cit|C2
+couronne périurbaine|corona periurbana||L|cit|C2
+périurbanisation|periurbanización||S|cit|C2
+étalement urbain|dispersión urbana||L|cit|C2
+ville-dortoir|ciudad dormitorio||S|cit|C2
+zone pavillonnaire|barrio de chalets||L|cit|C2
+lotissement|urbanización (parcelas)||S|cit|C2
+zone commerciale|polígono comercial||L|cit|C2
+friche urbaine|solar (ruina industrial)||L|cit|C2
+friche industrielle|ruina industrial||L|cit|C2
+quartier historique|barrio histórico||L|cit|C2
+passage couvert|galería cubierta||L|cit|C2
+passage piéton|paso de peatones||L|cit|C2
+véranda|porche acristalado||S|cas|C2
+loggia|loggia||S|cas|C2
+alcôve|alcoba||S|cas|C2
+antichambre|recibidor||S|cas|C2
+arrière-boutique|trastienda||S|cas|C2
+garde-robe|vestidor||S|cas|C2
+dressoir|aparador||S|cas|C2
+bahut|arcón||S|cas|C2
+vaisselier|vitrina (aparador de vajillas)||S|cas|C2
+persienne|persiana||S|cas|C2
+chiens-assis|buhardilla (ventana)||S|cas|C2
+rongeur|roedor||S|ani|C2
+mustélidé|mustélido||S|ani|C2
+rapace diurne|rapaz diurno||L|ani|C2
+charognard|carroñero||S|ani|C2
+charogne|carroña||S|ani|C2
+prédateur|depredador||S|ani|C2
+insectivore|insectívoro||A|ani|C2
+oiseau migrateur|ave migratoria||L|ani|C2
+couvée|pollada (nidada)||S|ani|C2
+incubation|incubación||S|ani|C2
+éclosion|eclosión||S|ani|C2
+oisillon|polluelo||S|ani|C2
+plumée|plumaje (pelaje)||S|ani|C2
+fourrure|pelaje (piel)||S|ani|C2
+pelage|pelaje||S|ani|C2
+serres|garras (talones)||S|ani|C2
+ergot|espolón||S|ani|C2
+muselière|bozal||S|ani|C2
+terrier|madriguera||S|ani|C2
+rut|celo||S|ani|C2
+portée de chiots|camada de cachorros||L|ani|C2
+complicité|complicidad||S|rel|C2
+brouille|enfriamiento (desavenencia)||S|rel|C2
+réconciliation|reconciliación||S|rel|C2
+rancune|rencor||S|rel|C2
+ressentiment|resentimiento||S|rel|C2
+vitrine|escaparate||S|cmp|C2
+bon d'achat|vale (cupón)||L|cmp|C2
+carte de fidélité|tarjeta de fidelidad||L|cmp|C2
+passage en caisse|pasar por caja||L|cmp|C2
+retour d'article|devolución de artículo||L|cmp|C2

@@ -1,0 +1,297 @@
+amniocentèse|amniocentesis||S|sla|C1
+péridurale|anestesia epidural||S|sla|C1
+oligoamnios|oligoamnios||S|sla|C1
+éclampsie|eclampsia||S|sla|C1
+macrosomie|macrosomía (feto excesivamente grande)||S|sla|C1
+dépistage néonatal|cribado neonatal||S|sla|C1
+mortinatalité|mortinatalidad||S|sla|C1
+bronchiolite|bronquiolitis||S|sla|C1
+rhinopharyngite|rinofaringitis||S|sla|C1
+ocytocine|oxitocina||S|sla|C1
+épisiotomie|episiotomía||S|sla|C1
+ostéosynthèse|osteosíntesis||S|sla|C1
+prothèse de hanche|prótesis de cadera||S|sla|C1
+rééducation fonctionnelle|rehabilitación funcional||S|sla|C1
+arthroplastie|artroplastia||S|sla|C1
+algodystrophie|algodistrofia||S|sla|C1
+pseudarthrose|pseudoartrosis||S|sla|C1
+arthrodèse|artrodesis||S|sla|C1
+scoliose|escoliosis||S|sla|C1
+cyphose|cifosis||S|sla|C1
+attelle|férula||S|sla|C1
+entorse|esguince||S|sla|C1
+couverture vaccinale|cobertura vacunal||S|sla|C1
+rappel vaccinal|dosis de refuerzo||S|sla|C1
+prophylaxie|profilaxis||S|sla|C1
+flambée épidémique|brote epidémico||S|sla|C1
+voie de transmission|vía de transmisión||S|sla|C1
+porteur sain|portador sano||S|sla|C1
+veille sanitaire|vigilancia sanitaria||S|sla|C1
+pharmacovigilance|farmacovigilancia||S|sla|C1
+séroprévalence|seroprevalencia||S|sla|C1
+assainissement|saneamiento||S|sla|C1
+endémique|endémico||A|sla|C1
+optimisation fiscale|optimización fiscal||S|fin|C1
+assiette de l'impôt|base imponible||S|fin|C1
+fait générateur|hecho imponible||S|fin|C1
+redressement fiscal|regularización tributaria||S|fin|C1
+niche fiscale|resquicio fiscal||S|fin|C1
+prélèvement à la source|retención en la fuente||S|fin|C1
+droits de succession|impuesto de sucesiones||S|fin|C1
+redevable|obligado tributario||S|fin|C1
+exonération|exención||S|fin|C1
+vérification de comptabilité|inspección tributaria||S|fin|C1
+contribuable|contribuyente||S|fin|C1
+endettement|endeudamiento||S|fin|C1
+apport personnel|aportación propia||S|fin|C1
+surendettement|sobreendeudamiento||S|fin|C1
+créance douteuse|activo dudoso||S|fin|C1
+ratio de solvabilité|ratio de solvencia||S|fin|C1
+test de résistance|prueba de resistencia||S|fin|C1
+défaillance de paiement|impago||S|fin|C1
+refinancement|refinanciación||S|fin|C1
+titrisation|titulización||S|fin|C1
+agence de notation|agencia de calificación crediticia||S|fin|C1
+encours de crédit|saldo vivo del crédito||S|fin|C1
+fusion-acquisition|fusión y adquisición||S|fin|C1
+offre publique d'achat|opa (oferta pública de adquisición)||S|fin|C1
+valorisation d'entreprise|valoración de empresas||S|fin|C1
+levier financier|apalancamiento financiero||S|fin|C1
+scission|escisión||S|fin|C1
+apport d'actif|aportación de activos||S|fin|C1
+dilution|dilución||S|fin|C1
+actionnaire de référence|accionista de referencia||S|fin|C1
+capital-risque|capital riesgo||S|fin|C1
+pacte d'actionnaires|pacto de socios||S|fin|C1
+survaleur|fondo de comercio||S|fin|C1
+élasticité-prix|elasticidad-precio||S|fin|C1
+point mort|punto de equilibrio||S|fin|C1
+coût marginal|coste marginal||S|fin|C1
+rendements d'échelle|rendimientos a escala||S|fin|C1
+concurrence pure et parfaite|competencia perfecta||S|fin|C1
+pouvoir de marché|poder de mercado||S|fin|C1
+barrière à l'entrée|barrera de entrada||S|fin|C1
+externalité|externalidad||S|fin|C1
+asymétrie d'information|asimetría de información||S|fin|C1
+surplus du consommateur|excedente del consumidor||S|fin|C1
+monopsone|monopsonio||S|fin|C1
+sinistre|siniestro||S|fin|C1
+déclaration de sinistre|declaración de siniestro||S|fin|C1
+actuaire|actuario||S|fin|C1
+table de mortalité|tabla de mortalidad||S|fin|C1
+réassurance|reaseguro||S|fin|C1
+coassurance|coaseguro||S|fin|C1
+exclusion de garantie|exclusión de cobertura||S|fin|C1
+avenant|suplemento de póliza||S|fin|C1
+mutualisation du risque|mutualización del riesgo||S|fin|C1
+garantie décennale|garantía decenal||S|fin|C1
+constat amiable|parte amistoso||S|fin|C1
+aide au développement|ayuda al desarrollo||S|fin|C1
+pays émergent|país emergente||S|fin|C1
+allègement de la dette|alivio de la deuda||S|fin|C1
+conditionnalité|condicionalidad||S|fin|C1
+ajustement structurel|ajuste estructural||S|fin|C1
+commerce équitable|comercio justo||S|fin|C1
+microcrédit|microcrédito||S|fin|C1
+transferts de fonds|remesas||S|fin|C1
+fuite des capitaux|fuga de capitales||S|fin|C1
+coopération décentralisée|cooperación descentralizada||S|fin|C1
+pays donateur|país donante||S|fin|C1
+spectrométrie de masse|espectrometría de masas||S|sci|C1
+titrage|valoración (titulación)||S|sci|C1
+étalonnage|calibrado||S|sci|C1
+précipité|precipitado||S|sci|C1
+fiole jaugée|matraz aforado||S|sci|C1
+distillation fractionnée|destilación fraccionada||S|sci|C1
+recristallisation|recristalización||S|sci|C1
+essai à blanc|blanco de control||S|sci|C1
+limite de détection|límite de detección||S|sci|C1
+réactif|reactivo||S|sci|C1
+solvant|disolvente||S|sci|C1
+bande de conduction|banda de conducción||S|sci|C1
+bande interdite|banda prohibida||S|sci|C1
+maille cristalline|celda cristalina||S|sci|C1
+dislocation|dislocación (defecto cristalino)||S|sci|C1
+contrainte mécanique|esfuerzo mecánico||S|sci|C1
+déformation élastique|deformación elástica||S|sci|C1
+supraconductivité|superconductividad||S|sci|C1
+ferromagnétisme|ferromagnetismo||S|sci|C1
+phonon|fonón||S|sci|C1
+diagramme de phase|diagrama de fases||S|sci|C1
+dopage|dopado (de semiconductores)||S|sci|C1
+aérosol|aerosol||S|sci|C1
+bilan radiatif|balance radiativo||S|sci|C1
+albédo|albedo||S|sci|C1
+forçage radiatif|forzamiento radiativo||S|sci|C1
+puits de carbone|sumidero de carbono||S|sci|C1
+séquestration du carbone|secuestro de carbono||S|sci|C1
+rétroaction|retroalimentación||S|sci|C1
+paléoclimatologie|paleoclimatología||S|sci|C1
+carottage|toma de testigos||S|sci|C1
+courant-jet|corriente en chorro||S|sci|C1
+pergélisol|suelo permanentemente helado||S|sci|C1
+spéciation|especiación||S|sci|C1
+dérive génétique|deriva genética||S|sci|C1
+dérive des continents|deriva continental||S|sci|C1
+extinction massive|extinción masiva||S|sci|C1
+gisement|yacimiento||S|sci|C1
+hominidé|hominido||S|sci|C1
+phylogénie|filogenia||S|sci|C1
+vestige|vestigio||S|sci|C1
+registre fossile|registro fósil||S|sci|C1
+datation|datación||S|sci|C1
+affleurement|afloramiento||S|sci|C1
+souche virale|cepa vírica||S|sla|C1
+tropisme|tropismo||S|sla|C1
+virulence|virulencia||S|sla|C1
+cycle de réplication|ciclo de replicación||S|sla|C1
+charge infectieuse|carga infecciosa||S|sla|C1
+séquençage|secuenciación||S|sla|C1
+zoonose|zoonosis||S|sla|C1
+réservoir animal|reservorio animal||S|sla|C1
+sérotype|serotipo||S|sla|C1
+infection nosocomiale|infección nosocomial||S|sla|C1
+contagiosité|contagiosidad||S|sla|C1
+édition du génome|edición genómica||S|sci|C1
+nucléase|nucleasa||S|sci|C1
+thérapie génique|terapia génica||S|sci|C1
+transfection|transfección||S|sci|C1
+ligne germinale|línea germinal||S|sci|C1
+mutagenèse|mutagénesis||S|sci|C1
+organisme modèle|organismo modelo||S|sci|C1
+caryotype|cariotipo||S|sci|C1
+épigénétique|epigenética||S|sci|C1
+polymorphisme|polimorfismo||S|sci|C1
+délétion|deleción||S|sci|C1
+imagerie cérébrale|imagen cerebral||S|sci|C1
+électroencéphalogramme|electroencefalograma||S|sci|C1
+tomographie|tomografía||S|sci|C1
+cortex préfrontal|corteza prefrontal||S|sci|C1
+plasticité cérébrale|plasticidad cerebral||S|sci|C1
+connectome|conectoma||S|sci|C1
+substance grise|sustancia gris||S|sci|C1
+cartographie fonctionnelle|cartografía funcional||S|sci|C1
+tractographie|tractografía||S|sci|C1
+potentiel évoqué|potencial evocado||S|sci|C1
+stimulation transcrânienne|estimulación transcraneal||S|sci|C1
+nanoparticule|nanopartícula||S|sci|C1
+nanotube|nanotubo||S|sci|C1
+graphène|grafeno||S|sci|C1
+matériau composite|material compuesto||S|sci|C1
+céramique technique|cerámica técnica||S|sci|C1
+élastomère|elastómero||S|sci|C1
+aérogel|aerogel||S|sci|C1
+surface spécifique|superficie específica||S|sci|C1
+frittage|sinterización||S|sci|C1
+métamatériau|metamaterial||S|sci|C1
+polymère|polímero||S|sci|C1
+biréfringence|birrefringencia||S|sci|C1
+photonique|fotónica||S|sci|C1
+lentille convergente|lente convergente||S|sci|C1
+aberration chromatique|aberración cromática||S|sci|C1
+holographie|holografía||S|sci|C1
+faisceau lumineux|haz luminoso||S|sci|C1
+réverbération acoustique|reverberación acústica||S|sci|C1
+diffraction|difracción||S|sci|C1
+réflexion totale|reflexión total||S|sci|C1
+ultrason|ultrasonido||S|sci|C1
+longueur d'onde|longitud de onda||S|sci|C1
+enthalpie|entalpía||S|sci|C1
+isotherme|isoterma||A|sci|C1
+adiabatique|adiabático||A|sci|C1
+écoulement turbulent|flujo turbulento||S|sci|C1
+couche limite|capa límite||S|sci|C1
+compressibilité|compresibilidad||S|sci|C1
+transfert thermique|transferencia térmica||S|sci|C1
+détente|expansión||S|sci|C1
+écoulement laminaire|flujo laminar||S|sci|C1
+cavitation|cavitación||S|sci|C1
+entropie|entropía||S|sci|C1
+courbe de niveau|curva de nivel||S|sci|C1
+système d'information géographique|sistema de información geográfica||S|sci|C1
+orthophotographie|ortofotografía||S|sci|C1
+stéréoscopie|estereoscopia||S|sci|C1
+coordonnées géographiques|coordenadas geográficas||S|sci|C1
+géodésie|geodesia||S|sci|C1
+levé topographique|levantamiento topográfico||S|sci|C1
+projection cartographique|proyección cartográfica||S|sci|C1
+altimétrie|altimetría||S|sci|C1
+photogrammétrie|fotogrametría||S|sci|C1
+image satellitaire|imagen de satélite||S|sci|C1
+alexandrin|alejandrino||S|let|C1
+octosyllabe|octosílabo||S|let|C1
+rime plate|rima pareada||S|let|C1
+rime croisée|rima cruzada||S|let|C1
+césure|cesura||S|let|C1
+diérèse|diéresis||S|let|C1
+synérèse|sinéresis||S|let|C1
+hémistiche|hemistiquio||S|let|C1
+allitération|aliteración||S|let|C1
+assonance|asonancia||S|let|C1
+enjambement|encabalgamiento||S|let|C1
+tragi-comédie|tragicomedia||S|let|C1
+didascalie|acotación||S|let|C1
+quatrième mur|cuarta pared||S|let|C1
+aparté|aparte||S|let|C1
+tirade|tirada (largo parlamento)||S|let|C1
+coup de théâtre|golpe teatral||S|let|C1
+mise en abyme|puesta en abismo||S|let|C1
+dramaturge|dramaturgo||S|let|C1
+vaudeville|vodevil||S|let|C1
+scénographie|escenografía||S|let|C1
+régisseur|regidor||S|let|C1
+métonymie|metonimia||S|let|C1
+synecdoque|sinécdoque||S|let|C1
+hypallage|hipálage||S|let|C1
+anaphore|anáfora||S|let|C1
+chiasme|quiasmo||S|let|C1
+zeugme|zeugma||S|let|C1
+litote|lítote||S|let|C1
+oxymore|oxímoron||S|let|C1
+périphrase|perífrasis||S|let|C1
+catachrèse|catacresis||S|let|C1
+gradation|gradación||S|let|C1
+philologie|filología||S|let|C1
+codicologie|codicología||S|let|C1
+paléographie|paleografía||S|let|C1
+incunable|incunable||S|let|C1
+apparat critique|aparato crítico||S|let|C1
+édition critique|edición crítica||S|let|C1
+helléniste|helenista||S|let|C1
+épigraphie|epigrafía||S|let|C1
+papyrologie|papirología||S|let|C1
+palimpseste|palimpsesto||S|let|C1
+exégèse|exégesis||S|let|C1
+traductologie|traductología||S|let|C1
+langue source|lengua de origen||S|let|C1
+langue cible|lengua de llegada||S|let|C1
+calque|calco||S|let|C1
+interférence|interferencia||S|let|C1
+littéralité|literalidad||S|let|C1
+retraduction|retraducción||S|let|C1
+intraduisible|intraducible||A|let|C1
+unité de traduction|unidad de traducción||S|let|C1
+registre de langue|registro lingüístico||S|let|C1
+équivalence|equivalencia||S|let|C1
+pamphlet|panfleto||S|let|C1
+réfutation|refutación||S|let|C1
+intellectuel engagé|intelectual comprometido||S|let|C1
+critique littéraire|crítica literaria||S|let|C1
+postface|posfacio||S|let|C1
+libre-penseur|librepensador||S|let|C1
+aphorisme|aforismo||S|let|C1
+maxime|máxima||S|let|C1
+moraliste|moralista||S|let|C1
+doctrinaire|doctrinario||A|let|C1
+libertinage|libertinaje||S|let|C1
+uchronie|ucronía||S|let|C1
+contre-utopie|contrautopía||S|let|C1
+roman d'anticipation|novela de anticipación||S|let|C1
+post-apocalyptique|posapocalíptico||A|let|C1
+transhumanisme|transhumanismo||S|let|C1
+terraformation|terraformación||S|let|C1
+androïde|androide||S|let|C1
+dystopie|distopía||S|let|C1
+voyage temporel|viaje en el tiempo||S|let|C1
+exoplanète|exoplaneta||S|let|C1
+spatiotemporel|espaciotemporal||A|let|C1

@@ -1,0 +1,224 @@
+vulgarisation scientifique|divulgación científica||S|sci|B2
+hypothèse de travail|hipótesis de trabajo||S|sci|B2
+protocole expérimental|protocolo experimental||S|sci|B2
+corrélation|correlación||S|sci|B2
+neurone|neurona||S|sci|B2
+particule|partícula||S|sci|B2
+théorie de l'évolution|teoría de la evolución||S|sci|B2
+galaxie|galaxia||S|sci|B2
+progrès médical|progreso médico||S|sci|B2
+découverte majeure|hallazgo importante||S|sci|B2
+expérience de laboratoire|experimento de laboratorio||S|sci|B2
+démarche expérimentale|método experimental||S|sci|B2
+revue scientifique|revista científica||S|sci|B2
+livre à succès|libro de éxito||S|let|B2
+club de lecture|club de lectura||S|let|B2
+coup de cœur|favorito (elección preferida)||S|let|B2
+rentrée littéraire|temporada de novedades literarias||S|let|B2
+dédicace d'auteur|dedicatoria del autor||S|let|B2
+saga familiale|saga familiar||S|let|B2
+citer un passage|citar un pasaje||E|let|B2
+tirage limité|tirada limitada||S|let|B2
+trilogie|trilogía||S|let|B2
+pavé|tocho (libro muy extenso)||S|let|B2
+lecture commune|lectura compartida||S|let|B2
+passionnant|apasionante||A|let|B2
+sentier de randonnée|sendero||S|nat|B2
+balisage|señalización de rutas||S|nat|B2
+chaussures de marche|botas de senderismo||S|spt|B2
+carte de randonnée|mapa de senderismo||S|nat|B2
+panorama|panorámica||S|nat|B2
+parc d'attractions|parque de atracciones||S|sve|B2
+pique-niquer|hacer un pícnic||V|nat|B2
+dénivelé|desnivel||S|nat|B2
+forêt de feuillus|bosque de frondosas||S|nat|B2
+belvédère|mirador||S|nat|B2
+marche nordique|marcha nórdica||S|spt|B2
+aire de pique-nique|zona de pícnic||S|nat|B2
+escapade urbaine|escapada urbana||S|vig|B2
+vieille ville|casco antiguo||S|cit|B2
+carnet de voyage|diario de viaje||S|vig|B2
+au détour d'une rue|a la vuelta de una esquina||E|vig|B2
+haute saison|temporada alta||S|vig|B2
+hébergement insolite|alojamiento singular||S|vig|B2
+trésor caché|joya escondida||S|vig|B2
+visite autoguidée|visita autoguiada||S|vig|B2
+circuit touristique|circuito turístico||S|vig|B2
+guide papier|guía en papel||S|vig|B2
+hors des sentiers battus|fuera de los caminos trillados||E|vig|B2
+week-end prolongé|puente (fin de semana largo)||S|vig|B2
+confiance en soi|confianza en uno mismo||S|emo|B2
+s'affirmer|afirmarse||V|emo|B2
+accepter ses limites|aceptar las propias limitaciones||E|emo|B2
+résilience|resiliencia||S|emo|B2
+bien-être mental|bienestar mental||S|emo|B2
+se fixer des objectifs|fijarse objetivos||E|emo|B2
+pensée positive|pensamiento positivo||S|emo|B2
+amour-propre|amor propio||S|emo|B2
+zone de confort|zona de confort||S|emo|B2
+auto-évaluation|autoevaluación||S|emo|B2
+schéma de pensée|esquema mental||S|emo|B2
+dépasser ses peurs|superar los miedos||E|emo|B2
+habitude quotidienne|hábito diario||S|emo|B2
+se plaindre de|quejarse de||V|cmu|B2
+malentendu|malentendido||S|cmu|B2
+sans rancune|sin rencor||E|cmu|B2
+se méprendre|confundirse||V|cmu|B2
+exprimer son mécontentement|expresar su descontento||E|cmu|B2
+formuler une réclamation|presentar una reclamación||E|cmu|B2
+faire amende honorable|reconocer el error (disculparse)||E|cmu|B2
+en vouloir à quelqu'un|guardar rencor a alguien||E|cmu|B2
+présenter ses excuses|presentar sus disculpas||E|cmu|B2
+hors sujet|fuera de tema||E|cmu|B2
+lettre de réclamation|carta de reclamación||S|cmu|B2
+tirer l'affaire au clair|aclarar el asunto||E|cmu|B2
+pièce justificative|documento justificativo||S|ist|B2
+copie certifiée conforme|copia compulsada||S|ist|B2
+convocation en préfecture|citación en la prefectura||S|ist|B2
+tampon officiel|sello oficial||S|ist|B2
+dossier complet|expediente completo||S|ist|B2
+documents à fournir|documentos a aportar||S|ist|B2
+attestation d'assurance|certificado de seguro||S|ist|B2
+renouveler ses papiers|renovar los documentos||E|ist|B2
+photocopie recto verso|fotocopia por ambas caras||S|ist|B2
+voie administrative|vía administrativa||S|ist|B2
+cachet de la poste|matasellos de Correos||S|ist|B2
+formulaire en ligne|formulario en línea||S|ist|B2
+pièce d'identité|documento de identidad||S|ist|B2
+à vrai dire|a decir verdad||L|cnn|B2
+j'ajouterai que|añadiré que||E|cnn|B2
+pour résumer|a modo de resumen||L|cnn|B2
+disons que|digamos que||E|cnn|B2
+entre parenthèses|entre paréntesis||E|cnn|B2
+à propos|a propósito||E|cnn|B2
+autrement dit|dicho de otro modo||L|cnn|B2
+pour conclure|para concluir||L|cnn|B2
+tout compte fait|a fin de cuentas||L|cnn|B2
+je vous suis|le sigo (le entiendo)||E|cmu|B2
+en un mot|en pocas palabras||E|cnn|B2
+pour être franc|siendo sincero||E|cnn|B2
+bref|en definitiva||D|cnn|B2
+coup du sort|golpe del destino||S|ast|B2
+porter chance|dar suerte||E|ast|B2
+virage|giro (cambio de rumbo)||S|ast|B2
+en un clin d'œil|en un abrir y cerrar de ojos||E|tmp|B2
+éphémère|efímero||A|ast|B2
+pérennité|perennidad||S|ast|B2
+métamorphose|metamorfosis||S|ast|B2
+renouveau|renovación||S|ast|B2
+caprice de la nature|capricho de la naturaleza||S|ast|B2
+au fil du temps|al paso del tiempo||E|tmp|B2
+revirement|cambio de opinión||S|ast|B2
+bonne étoile|buena estrella||S|ast|B2
+prix d'entrée|precio de entrada||S|art|B2
+billet jumelé|entrada combinada||S|art|B2
+audioguide|audioguía||S|art|B2
+vernissage|inauguración (de una exposición)||S|art|B2
+collection permanente|colección permanente||S|art|B2
+œuvre contemporaine|obra contemporánea||S|art|B2
+conservateur de musée|conservador de museo||S|pro|B2
+galerie d'art|galería de arte||S|art|B2
+fréquentation|afluencia de público||S|art|B2
+visiteur du dimanche|visitante ocasional||S|art|B2
+réserves du musée|almacén del museo||S|art|B2
+exposition temporaire|exposición temporal||S|art|B2
+gratuité|gratuidad||S|art|B2
+enregistrement des bagages|facturación de equipajes||S|tra|B2
+embarquement immédiat|embarque inmediato||S|tra|B2
+passer la douane|pasar la aduana||E|tra|B2
+vol de correspondance|vuelo de conexión||S|tra|B2
+salle d'attente|sala de espera||S|tra|B2
+valise en soute|maleta facturada||S|tra|B2
+porte d'embarquement|puerta de embarque||S|tra|B2
+zone de transit|zona de tránsito||S|tra|B2
+excédent de bagages|exceso de equipaje||S|tra|B2
+contrôle des passeports|control de pasaportes||S|tra|B2
+escale longue|escala larga||S|tra|B2
+vol retardé|vuelo retrasado||S|tra|B2
+contrôle douanier|control aduanero||S|tra|B2
+chambre insonorisée|habitación insonorizada||S|htl|B2
+service d'étage|servicio de habitaciones||S|htl|B2
+petit-déjeuner compris|desayuno incluido||E|htl|B2
+se plaindre du bruit|quejarse del ruido||E|htl|B2
+changer de chambre|cambiar de habitación||E|htl|B2
+annulation imprévue|cancelación imprevista||S|htl|B2
+rembourser la nuitée|reembolsar la noche||E|htl|B2
+taxe de séjour|tasa turística||S|htl|B2
+personnel de réception|personal de recepción||S|htl|B2
+draps propres|sábanas limpias||S|htl|B2
+climatisation défectueuse|aire acondicionado averiado||S|htl|B2
+hôtel de charme|hotel con encanto||S|htl|B2
+lettre de motivation|carta de motivación||S|lav|B2
+entretien d'embauche|entrevista de trabajo||S|lav|B2
+poste à pourvoir|puesto vacante||S|lav|B2
+fiche de poste|descripción del puesto||S|lav|B2
+intégrer une équipe|incorporarse a un equipo||E|lav|B2
+contrat à durée déterminée|contrato temporal||S|lav|B2
+salaire net|salario neto||S|fin|B2
+prendre ses marques|encontrar su sitio||E|lav|B2
+nouveau collègue|compañero nuevo||S|lav|B2
+période d'adaptation|periodo de adaptación||S|lav|B2
+question piège|pregunta trampa||S|lav|B2
+recommandation d'employeur|recomendación del empleador||S|lav|B2
+grands-parents maternels|abuelos maternos||S|fam|B2
+cousin éloigné|primo lejano||S|fam|B2
+arbre généalogique|árbol genealógico||S|fam|B2
+de génération en génération|de generación en generación||E|fam|B2
+photos de famille|fotos de familia||S|fam|B2
+se remémorer|rememorar||V|emo|B2
+anecdotes d'enfance|anécdotas de la infancia||S|fam|B2
+écart d'âge|diferencia de edad||S|fam|B2
+jadis|antaño||D|tmp|B2
+vieillesse|vejez||S|fam|B2
+nostalgie du passé|nostalgia del pasado||S|emo|B2
+aîné|primogénito||S|fam|B2
+sommeil réparateur|sueño reparador||S|sla|B2
+sieste éclair|siesta relámpago||S|sla|B2
+fatigue accumulée|cansancio acumulado||S|sla|B2
+réveil brutal|despertar brusco||S|sla|B2
+rythme circadien|ritmo circadiano||S|sci|B2
+être à plat|estar sin energía||E|sla|B2
+se coucher tôt|acostarse temprano||E|sla|B2
+pleine forme|en plena forma||E|spt|B2
+routine du matin|rutina matinal||S|sla|B2
+insomniaque|insomne||S|sla|B2
+sommeil profond|sueño profundo||S|sla|B2
+rester éveillé|quedarse despierto||E|sla|B2
+rendez-vous galant|cita romántica||S|rel|B2
+empêchement de dernière heure|imprevisto de última hora||S|rel|B2
+plan de secours|plan alternativo||S|rel|B2
+prévenir à temps|avisar a tiempo||E|cmu|B2
+reporter à plus tard|dejar para más tarde||E|rel|B2
+contremander|cancelar||V|cmu|B2
+au dernier moment|en el último momento||E|tmp|B2
+annulation tardive|cancelación tardía||S|rel|B2
+se donner rendez-vous|quedar (para verse)||E|rel|B2
+proposition de sortie|propuesta de plan||S|rel|B2
+changer d'avis|cambiar de opinión||E|cmu|B2
+à l'improviste|de improviso||E|tmp|B2
+animal de compagnie|mascota||S|ani|B2
+consultation vétérinaire|consulta veterinaria||S|ani|B2
+laisse|correa||S|ani|B2
+gamelle|comedero||S|ani|B2
+toilettage|peluquería canina||S|ani|B2
+éduquer son chien|adiestrar al perro||E|ani|B2
+vacciner|vacunar||V|sla|B2
+chenil|criadero de perros||S|ani|B2
+croquettes|pienso||S|ani|B2
+refuge animalier|refugio de animales||S|ani|B2
+adoption responsable|adopción responsable||S|ani|B2
+carnet de santé|cartilla sanitaria||S|sla|B2
+tatouage d'identification|tatuaje de identificación||S|ani|B2
+covoiturage|coche compartido||S|tra|B2
+trajet quotidien|trayecto diario||S|tra|B2
+application de transport|aplicación de transporte||S|tec|B2
+borne de recharge|punto de recarga||S|tra|B2
+itinéraire optimal|itinerario óptimo||S|tra|B2
+passager régulier|pasajero habitual||S|tra|B2
+avis du passager|valoración del pasajero||S|tec|B2
+navette|lanzadera||S|tra|B2
+chauffeur privé|chófer privado||S|pro|B2
+réservation instantanée|reserva instantánea||S|tec|B2
+vélo en libre-service|bicicleta compartida||S|tra|B2
+montant de la course|importe del trayecto||S|tra|B2
+arriver à bon port|llegar a buen puerto||E|tra|B2

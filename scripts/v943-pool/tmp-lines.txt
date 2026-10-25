@@ -1,0 +1,973 @@
+a fortiori|ast
+abandonnique|emo
+académisme|art
+accord de libre-échange|fin
+accrochage|art
+acculturation|ast
+acharnement thérapeutique|sla
+achat impulsif|cmp
+acquisition hostile|fin
+acte notarié|ist
+acte sous seing privé|ist
+actifs immobilisés|fin
+actionnaire de référence|fin
+acétylation des histones|sci
+ad hoc|ast
+adjudication|fin
+adonide|let
+adstrat|let
+adénocarcinome|sla
+adénopathie|sla
+affabilité|emo
+affliction|emo
+agnosie|sla
+agrégat monétaire|fin
+aide publique au développement|fin
+aigreur|emo
+ajonc|nat
+alevinage|nat
+algodystrophie|sla
+allergie croisée|sla
+alliance thérapeutique|sla
+allocutaire|let
+allègement de la dette|fin
+ambassadeur plénipotentiaire|pro
+amendement|nat
+amertume|emo
+amortissement dégressif|fin
+amphigouri|let
+anachronisme|let
+anadiplose|let
+analepse|let
+anamnèse|sla
+anaphore|let
+anergie|sci
+aneuploïdie|sci
+angioedème|sla
+angoisse de séparation|sla
+angor|sla
+anomie|ast
+anticorps monoclonal|sci
+antihéros|let
+antiphrase|let
+anxiété généralisée|sla
+apanage|ist
+aparté|cin
+apesanteur|sci
+apodose|let
+aponévrose|cor
+apophatique|ast
+apoptose|sci
+aporie|ast
+appareil idéologique d'État|ist
+appel de marge|fin
+appentis|cas
+appoggiature|mus
+apport en nature|fin
+apprentissage automatique|tec
+apprentissage profond|tec
+appropriation culturelle|ast
+argenterie|art
+argentique|tec
+arguer|cmu
+asile politique|ist
+assemblage|ris
+asservissement|tec
+assiette fiscale|fin
+assolement|nat
+assonance|let
+assouplissement quantitatif|fin
+assurance qualité|fin
+asséner|cmu
+astreinte|ist
+atonalité|mus
+atopie|sla
+attachement|emo
+attaché de presse|pro
+aubépine|nat
+augmentation de capital|fin
+auspices|ast
+austérité|fin
+autodétermination|ist
+automatisme|art
+avant-guerre|tmp
+avantage comparatif|fin
+avantage en nature|lav
+avatars|ast
+axiomatique|sci
+ayant cause|ist
+balustrade|art
+baratin|cmu
+barrière non tarifaire|fin
+baryton|mus
+basse continue|mus
+batholite|sci
+bathymétrie|sci
+biais algorithmique|tec
+biais de sélection|sci
+billet à ordre|fin
+biodisponibilité|sla
+biréfringence|sci
+bivouac|spt
+blaguer|cmu
+bobard|cmu
+bon du Trésor|fin
+bon mot|cmu
+borné|emo
+bossage|art
+bouffée délirante|sla
+bouturage|nat
+boîte noire|tec
+bracelet électronique|ist
+bradycardie|sla
+brio|art
+brocante|cmp
+bronchiolite|sla
+bronchopneumopathie|sla
+bruit de galop|sla
+bruyère|nat
+bulletin scolaire|stu
+burin|art
+cabinet de curiosités|art
+cadastre|ist
+cadavre exquis|art
+cadrage|cin
+cadre thérapeutique|sla
+calque|let
+canon littéraire|let
+canonisation|let
+cantatrice|mus
+canular|cmu
+capital culturel|ast
+capital social|ast
+captage du carbone|sci
+cardinalité|sci
+caryotype|sci
+casuistique|ast
+casus belli|ist
+cataphore|let
+catatonie|sla
+catharsis|ast
+cathétérisme|sla
+caustique|ast
+cellule orageuse|nat
+cellule souche pluripotente|sci
+ceteris paribus|fin
+chamanisme|sci
+chancellerie|ist
+charges constatées d'avance|fin
+charivari|cit
+chaume|nat
+chiasme|let
+chiffrage|mus
+chiffrement asymétrique|tec
+chocolatine|ris
+choriambe|let
+chorégraphe|mus
+cingle|emo
+circonspect|ast
+circonstances atténuantes|ist
+circulation thermohaline|sci
+circumlocution|let
+cisaillement|nat
+clair-obscur|art
+clampage|sla
+classe préparatoire|stu
+clause compromissoire|ist
+clause de cliquet|fin
+clause de non-concurrence|ist
+clause de sauvegarde|fin
+claustra|art
+clinamen|ast
+clonage thérapeutique|sci
+clé de voûte|art
+clémence|emo
+cobotique|tec
+comité d'éthique|ist
+commissaire aux comptes|pro
+commissaire d'exposition|pro
+communiqué de presse|cmu
+commutation de paquets|tec
+commutation de peine|ist
+commémoration|ast
+compte à terme|fin
+concentration horizontale|fin
+concours d'entrée|stu
+concrétion|nat
+conditio sine qua non|ast
+conformité|fin
+conforter|cmu
+conseil de classe|stu
+consentement éclairé|sla
+constance|ast
+conséquentialisme|ast
+conteneurisation|fin
+contentieux constitutionnel|ist
+contingence|ast
+contingent tarifaire|fin
+contrat intelligent|tec
+contrat à terme|fin
+contrechamp|cin
+contrefactuel|sci
+contrepartie centrale|fin
+contrepoint|mus
+contrition|emo
+contrôle interne|fin
+convention collective|lav
+conventionnalisme|ast
+convergence évolutive|sci
+cordon sanitaire|ist
+coronarographie|sla
+corridor écologique|nat
+corroborer|cmu
+corrélation fallacieuse|sci
+corrélation partielle|sci
+corticothérapie|sla
+couche limite|sci
+courbe des taux|fin
+couvert forestier|nat
+couverture médiatique|cmu
+couverture vaccinale|sla
+craquelure|art
+crânerie|ast
+création monétaire|fin
+cuisson sous-vide|ris
+culture de masse|ast
+cursus|stu
+cycle du combustible|tec
+cyclothymie|sla
+céphéide|sci
+césure|let
+danseuse étoile|spt
+dent carnassière|cor
+dette subordonnée|fin
+deus ex machina|let
+devoir de mémoire|ast
+diachronie|let
+diagnostic prénatal|sla
+diagramme de phase|sci
+diastéréoisomère|sci
+didascalie|let
+différance|ast
+diplomatie de la canonnière|ist
+directive anticipée|sla
+dissuasion|ist
+dissémination|nat
+distinction|ast
+diégèse|let
+diérèse|let
+donnée d'entraînement|tec
+dormance|nat
+double sens|let
+douceureux|emo
+droit de réponse|ist
+droits de succession|fin
+du reste|cnn
+dumping social|fin
+dysarthrie|sla
+dysphagie|sla
+dysphémisme|let
+dysthymie|sla
+dystocie|sla
+dystopie|let
+débourrage|nat
+débouter|ist
+débroussaillement|nat
+décasyllabe|let
+déchetterie|cit
+déchéance|ist
+décision de rejet|ist
+décohérence|sci
+déconstruction|let
+décrochage scolaire|lav
+déflateur|fin
+dégel|ast
+dégoter|cmu
+déixis|let
+délinquance en col blanc|ist
+délire paranoïaque|sla
+délégué syndical|lav
+démantèlement|tec
+dénonciation|ist
+dénégation|ast
+déontologie|ast
+dépens|ist
+dépersonnalisation|sla
+dépréciation d'actif|fin
+dérive génétique|sci
+dérivée partielle|sci
+déréalisation|sla
+désaffiliation|ast
+désescalade|ist
+désindustrialisation|fin
+désinflation|fin
+désintéressement|ast
+désinvolture|emo
+détente|ist
+détention provisoire|ist
+dût-il|cnn
+eau-forte|art
+effet de premier passage|sla
+ellipse temporelle|cin
+embouche|nat
+embourgeoisement|ast
+emphysème|sla
+emphytéose|ist
+empressement|emo
+en définitive|cnn
+en l'espèce|cnn
+en l'occurrence|cnn
+en tout et pour tout|cnn
+endogamie|ast
+enfouissement|nat
+enharmonie|mus
+enquête de terrain|sci
+enthalpie|sci
+entrepôt de données|tec
+erreur-type|sci
+essai en double aveugle|sla
+essence forestière|nat
+estampe|art
+esthétique de la réception|let
+esthétisation|ast
+esthétisme|art
+estivation|ani
+estive|nat
+ethnocentrisme|ast
+ethnographie|sci
+euphémisme|let
+eutrophisation|sci
+exaltation|emo
+excès de pouvoir|ist
+exhorter|cmu
+exogamie|ast
+exonération|fin
+explicabilité|tec
+exploit d'huissier|ist
+expéditif|ast
+extrader|ist
+extrasystole|sla
+exécuteur testamentaire|ist
+exécution provisoire|ist
+exégèse|let
+faille inverse|sci
+faillite personnelle|fin
+faisceau hertzien|tec
+fallacieux|ast
+falsifiabilité|ast
+faubourg|cit
+faux en écriture|ist
+feu de cime|nat
+feuille de route|fin
+feuilleton|let
+fibrillation auriculaire|sla
+fidélisation|fin
+flemme|emo
+flux de conscience|let
+flysch|sci
+focalisation|let
+fondu enchaîné|cin
+forclusion|ist
+forfanterie|ast
+forme galénique|sla
+forçage radiatif|sci
+fougue|emo
+fouille de données|tec
+fourberie|ast
+foutre le camp|cmu
+foyer sismique|sci
+frappe chirurgicale|ist
+fret|fin
+front occlus|nat
+fronton|art
+fréquence propre|sci
+fuite|cmu
+fusion nucléaire|sci
+fusion-absorption|fin
+fébrilité|emo
+fétichisation|ast
+fût-ce|cnn
+fûté|emo
+galipette|sve
+galérer|emo
+garde à vue|ist
+gastrique|ris
+givre|nat
+gliose|sci
+glose|let
+goguenard|cmu
+goinfre|ris
+gouvernance|ist
+gradation|let
+grand angle|tec
+grand écart|spt
+greffon contre hôte|sci
+grommeler|cmu
+gros titre|cmu
+groupage|fin
+grupetto|mus
+grève du zèle|lav
+gué|nat
+habitus|ast
+hachage|tec
+haecceité|ast
+hallucination auditive|sla
+hameçonnage|tec
+heptasyllabe|let
+herméneutique|let
+historiographie|let
+hivernage|ani
+hiérarchie des normes|ist
+holisme|ast
+homozygote|sci
+homéoptote|let
+horizon d'attente|let
+horizon des événements|sci
+hors-champ|cin
+hypallage|let
+hyperaldostéronisme|sla
+hyperonyme|let
+hypertexte|let
+hyponymie|let
+hypotexte|let
+hypotypose|let
+hysteron-proteron|let
+hégémonie|ast
+hématurie|sla
+hémistiche|let
+hémoptysie|sla
+iconographie|art
+ictère|sla
+identification projective|ast
+idées suicidaires|sla
+immanence|ast
+immunité parlementaire|ist
+immunogénicité|sci
+impartialité|ast
+impavide|emo
+imperfectif|let
+imposture|ast
+impératif catégorique|ast
+impôt sur la fortune|fin
+in extremis|ast
+in fine|ast
+in medias res|let
+incident de procédure|ist
+indivision|ist
+induction enzymatique|sci
+induration|sla
+industrie culturelle|ast
+infinitésimal|sci
+inflation sous-jacente|fin
+ingénierie sociale|tec
+inhibition psychomotrice|sla
+inscription hypothécaire|ist
+inscrire en faux|ist
+insidieux|ast
+insouciance|emo
+instantanéité|ast
+insulinorésistance|sla
+intention de vote|cmu
+intentionnalité|ast
+interaction médicamenteuse|sla
+interféromètre|sci
+interpellation|ast
+intertextualité|let
+intrication|sci
+intrépidité|ast
+intégrale curviligne|sci
+invectiver|cmu
+irrédentisme|ist
+isocolon|let
+isotopie|let
+itinérance|tec
+jachère|nat
+jacobienne|sci
+jactance|cmu
+journalisation|tec
+jubilation|emo
+juge d'instruction|pro
+jugement contradictoire|ist
+jugement de goût|ast
+jugement sur pièce|ist
+juste valeur|fin
+juste-à-temps|fin
+krach boursier|fin
+lanceur d'alerte|pro
+langue de bois|cmu
+larmoyant|let
+lato sensu|ast
+lentille gravitationnelle|sci
+lettrage|fin
+leucopénie|sla
+liane|nat
+librettiste|mus
+libération d'otages|ist
+licenciement pour motif économique|lav
+lipothymie|sla
+liquidation judiciaire|fin
+litote|let
+littérature comparée|let
+littérature de voyage|let
+locuteur|let
+logocentrisme|ast
+logorrhée|sla
+longue durée|let
+lucarne|cas
+lyophilisation|sci
+lâcheté|ast
+légende de photo|cmu
+légende urbaine|cmu
+macle|sci
+macrophyte|sci
+macule|sla
+mainlevée|ist
+maintien de la paix|ist
+mana|ast
+maniériste|art
+maquette numérique|tec
+marcottage|nat
+marge d'erreur|cmu
+marqueterie|art
+maréchal-ferrant|pro
+massification|ast
+matrilinéarité|sci
+matériau composite|tec
+maugréer|cmu
+mentalité|let
+microsatellite|sci
+mielleux|emo
+millésime|ris
+mimèsis|ast
+mise en abyme|let
+mise en bouche|ris
+mise en demeure|ist
+mise en délibéré|ist
+mise à prix|fin
+mobilité douce|cit
+mobilité interne|lav
+modénature|art
+monologue intérieur|let
+montage parallèle|cin
+montée au beurre|ris
+montée en compétences|lav
+mordant|mus
+morgue|emo
+mot d'esprit|let
+motif conducteur|mus
+motion de censure|ist
+mousqueton|spt
+mucite|sla
+mue|ani
+mutatis mutandis|ast
+mutisme|sla
+mystification|ast
+mélodrame|cin
+mésinformation|cmu
+mésomérie|sci
+métabole|let
+métissage|ast
+métonymie|let
+n'eût été|cnn
+nanoparticule|sci
+nanotube|sci
+nantissement|fin
+narrataire|let
+nation la plus favorisée|ist
+neume|mus
+neurogenèse|sci
+neutropénie|sla
+niais|emo
+niche fiscale|fin
+nidification|ani
+nielle|art
+nigaud|emo
+nivellement|sci
+nocturne|mus
+nolens volens|ast
+non-alignement|ist
+non-conformité|fin
+non-disjonction|sci
+non-lieu|ist
+nonchalance|emo
+nosocomial|sla
+notation financière|fin
+note verbale|ist
+notoriété de marque|fin
+novation|ist
+novlangue|let
+noyaux gris centraux|sci
+nu-propriétaire|ist
+nuée ardente|sci
+nystagmus|sla
+objecter|cmu
+obligation convertible|fin
+observation participante|sci
+obsolescence programmée|tec
+obsolescence|ast
+ombrageux|emo
+ombrage|emo
+onction|ast
+oolithe|sci
+opiniâtreté|ast
+opsonisation|sci
+optimisation fiscale|fin
+optique adaptative|sci
+opéra-comique|mus
+opération de couverture|fin
+opérette|mus
+oratorio|mus
+orfèvrerie|art
+orientation scolaire|stu
+ornement|mus
+orthophotographie|sci
+osmolarité|sci
+ostéosynthèse|sla
+pacte de préférence|ist
+paiement instantané|fin
+palimpseste|let
+palinodie|let
+paléographie|let
+panache|ast
+panier moyen|fin
+panoramique|cin
+papule|sla
+parade nuptiale|ani
+parallélisme de construction|let
+paralogisme|ast
+pare-feu|tec
+parenté|ast
+parergon|ast
+paresthésie|sla
+parrainage|fin
+pas de deux|spt
+passage à l'acte|ast
+pathétique|let
+patois|cmu
+paupérisation|ast
+pays tiers|ist
+peine plancher|ist
+pensée unique|ast
+pentamètre|let
+percée urbaine|cit
+perfectif|let
+performatif|let
+pergélisol|nat
+perron|art
+perruque|lav
+persona non grata|ast
+perte attendue|fin
+petite phrase|cmu
+pharmacovigilance|sla
+phatique|let
+photomontage|art
+physicalisme|ast
+pignon|art
+pilotage|lav
+pingre|emo
+pirouette|spt
+pittoresque|art
+piézoélectricité|sci
+plafond de verre|lav
+plaisantin|cmu
+plan-séquence|cin
+planche à billets|fin
+plasticité synaptique|sci
+pleurnicherie|emo
+pléiotropie|sci
+point isoélectrique|sci
+pointilleux|emo
+poinçon|art
+pollakiurie|sla
+polyptote|let
+polyurie|sla
+polyvalence|lav
+pondérer|ast
+portance|tec
+porte cochère|cit
+portefeuille numérique|tec
+poser un lapin|rel
+potentiels évoqués|sci
+pour ainsi dire|cnn
+pour le coup|cnn
+pourvoi en cassation|ist
+pouvoir de marché|fin
+pragmatique|let
+preuve d'enjeu|tec
+preuve de travail|tec
+prime d'ancienneté|lav
+prix d'exercice|fin
+probation|ist
+processus de paix|ist
+procréation médicalement assistée|sla
+procès-verbal|ist
+prodigalité|ast
+prodiguer|cmu
+prodigue|emo
+produits constatés d'avance|fin
+profondeur de champ|cin
+prolactinome|sla
+prolepse|let
+prolixe|ast
+promesse d'embauche|lav
+prosodie|let
+prosopographie|let
+protase|let
+protectorat|ist
+protéinurie|sla
+provision ad litem|ist
+prud'hommes|ist
+prédation tarifaire|fin
+préhenseur|tec
+prétérition|let
+prête-plume|pro
+psalmodier|cmu
+pudibond|emo
+puissance statistique|sci
+puits de carbone|sci
+pulsion|ast
+purge des privilèges|ist
+pustule|sla
+pédagogie différenciée|stu
+péjoration|let
+pénates|cas
+pénétrance|sci
+péon|let
+pérennité|ast
+période d'essai|lav
+périodisation|let
+périphrase|let
+péter un câble|emo
+qualia|ast
+quasi-délit|ist
+quiddité|ast
+quiproquo|cmu
+quitte à|cnn
+raccord|cin
+radiner|fin
+rafale descendante|nat
+ramer|emo
+randomisation|sla
+rançongiciel|tec
+rapport de force|ist
+recours gracieux|ist
+redoublement|stu
+redressement judiciaire|fin
+relater|cmu
+relativisme culturel|ast
+reliquaire|art
+remédiation|sci
+rendement actuariel|fin
+rentrée atmosphérique|sci
+report à nouveau|fin
+reproduction sociale|ast
+requête en annulation|ist
+rescapé|ast
+resserrement monétaire|fin
+retouche|art
+revue de presse|cmu
+rime léonine|let
+rite de passage|ast
+roman à clef|let
+ronce|nat
+rotation du personnel|lav
+rupture de charge|fin
+réacteur à eau pressurisée|tec
+réactif limitant|sci
+réaction anaphylactique|sla
+récidiviste|ist
+réclusion|ist
+récusation|ist
+réduction|ris
+réemploi|nat
+réescompte|fin
+réfutabilité|sci
+régime semi-présidentiel|ist
+régénération naturelle|nat
+réification|ast
+réitérer|cmu
+rémanence|ast
+rémunération variable|lav
+réquisitoire|ist
+réseau de neurones|tec
+résilience|sla
+résolution du contrat|ist
+réticulation|sci
+réverbération|sci
+révision comptable|fin
+révisionnisme|ast
+rééchelonnement|fin
+s'avérer|cmu
+sans compter que|cnn
+satellite géostationnaire|tec
+savoir-être|lav
+schéma actantiel|let
+scrupule|emo
+scrutateur|pro
+scrutin uninominal|ist
+se dégonfler|emo
+second degré|let
+segmentation|fin
+seuil de rentabilité|fin
+signifiant|let
+significativité statistique|sci
+signifié|let
+sillage|tra
+sismographe|sci
+sismothérapie|sla
+siège éjectable|tec
+sobriété énergétique|nat
+société du spectacle|ast
+socle commun|stu
+soins palliatifs|sla
+solde de tout compte|lav
+solfège|mus
+solipsisme|ast
+solution tampon|sci
+sortie d'urne|cmu
+sortie scolaire|stu
+souffle cardiaque|sla
+sous-entendu|cmu
+sous-traitance|fin
+souscrire|cmu
+souveraineté|ist
+spirométrie|sla
+spondée|let
+spéciation|sci
+squame|sla
+stagflation|fin
+statoréacteur|tec
+stichomythie|let
+stipuler|ist
+stock de sécurité|fin
+stockage géologique|tec
+strette|mus
+stricto sensu|ast
+style indirect libre|let
+stéréochimie|sci
+sublimation|ast
+subrogation|ist
+subsidiarité|ist
+supercherie|ast
+suppletif|let
+supraconductivité|sci
+surapprentissage|tec
+surdosage|sla
+sureau|nat
+surimpression|cin
+surmoi|ast
+surmortalité|sla
+sursis probatoire|ist
+survaleur|fin
+synchronie|let
+synecdoque|let
+syntagme|let
+synérèse|let
+système d'information géographique|tec
+sémiotique|let
+séquelle|ast
+séquençage à haut débit|sci
+séquestre|ist
+sérialisme|mus
+taille-douce|art
+tapisserie de haute lice|art
+taux d'abstention|cmu
+taux de refinancement|fin
+tempérament égal|mus
+tempérance|ast
+tessiture|mus
+thymorégulateur|sla
+thyroïdite|sla
+titrage|sci
+titre de créance|fin
+titrisation|fin
+topicalisation|let
+torpeur|emo
+totémisme|sci
+tourelle|art
+trac|emo
+traductologie|let
+tragicomédie|let
+trait d'esprit|let
+traitement automatique des langues|tec
+transhumance|nat
+traçabilité|fin
+tri des blessés|sla
+trimètre|let
+trincher|cmu
+trochée|let
+troquet|cit
+trouble obsessionnel-compulsif|sla
+turbidité|sci
+turbopropulseur|tec
+téléologie|ast
+témoin à charge|ist
+téméraire|ast
+tétramètre|let
+uchronie|let
+un chouïa|cmu
+un tantinet|cmu
+une tripotée|cmu
+usufruitier|ist
+valence grammaticale|let
+valeur mobilière|fin
+valorisation|nat
+vassalité|ist
+vaudeville|let
+vecteur viral|sci
+vente aux enchères|fin
+vente à découvert|fin
+verbiage|cmu
+vernissage|art
+vers saturnien|let
+verset|let
+veulerie|ast
+veule|ast
+vilenie|ast
+virage|art
+viralité|cmu
+virelai|mus
+virion|sci
+voix off|cin
+vol parabolique|tec
+volatilité implicite|fin
+volatilité électorale|cmu
+volonté générale|ast
+volubile|cmu
+vérace|ast
+véracité|ast
+vétilleux|ast
+zeugme|let
+zone franche|fin
+zone tampon|nat
+État satellite|ist
+à la louche|ast
+à mots couverts|cmu
+ébauche|art
+écarts de conversion|fin
+écholalie|sla
+écrou|ist
+édition génomique|sci
+élan vital|ast
+élasticité-prix|fin
+élevage en fût|ris
+émaillage|art
+énonciation|let
+éosinophilie|sci
+épiphonème|let
+épisiotomie|sla
+épissage alternatif|sci
+épissage|sci
+épistémè|ast
+épizeuxis|let
+épreuve d'effort|sla
+épuisement professionnel|lav
+équilibre de la terreur|ist
+érudition|let
+érythrodermie|sla
+étatisme|ist
+étayer|cmu
+étiologie|sci
+évaluation formative|stu
+évitement|sla
+îlot urbain|cit

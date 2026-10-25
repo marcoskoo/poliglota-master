@@ -1,0 +1,92 @@
+chambre double
+carte d'identité
+papiers
+auberge
+chambre d'hôtes
+pêcheur
+chasseur
+libraire
+garagiste
+fleuriste
+poissonnier
+épicier
+portier
+jardinier
+éleveur
+chauffeur de bus
+pilote
+opticien
+pharmacien
+charcutier
+agent de police
+instituteur
+chef
+parc
+université
+crèche
+médiathèque
+salle des fêtes
+centre-ville
+quartier
+banlieue
+usine
+atelier
+zoo
+aquarium
+cirque
+parc d'attractions
+marché couvert
+square
+oie
+taureau
+jument
+poulain
+brebis
+grange
+troupeau
+rouge-gorge
+flamant
+cigogne
+autruche
+dizaine
+anniversaire de mariage
+vacances scolaires
+carnaval
+fin de semaine
+gouache
+encre
+chevalet
+palette
+pastel
+sculpteur
+raisin
+pomme
+orange
+tomate
+oignon
+pomme de terre
+ail
+champignon
+laitue
+steak haché
+imperméable
+gilet
+tablier
+uniforme
+coude
+blessé
+allergique
+bandage
+pluvieux
+venteux
+orageux
+trajet
+bouchon
+circulation
+embouteillage
+placard
+buffet
+brasserie
+bistrot
+menu du jour
+chambre d'hôtel

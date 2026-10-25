@@ -1,0 +1,308 @@
+canon littéraire|canon literario||S|let|C1
+intertextualité|intertextualidad||S|let|C1
+réécriture|reescritura||S|let|C1
+théorie de la réception|teoría de la recepción||S|let|C1
+classicisme|clasicismo||S|let|C1
+courant de pensée|corriente de pensamiento||S|let|C1
+études postcoloniales|estudios poscoloniales||S|let|C1
+déconstruction|deconstrucción||S|let|C1
+herméneutique|hermenéutica||S|let|C1
+sémiotique|semiología||S|let|C1
+comparatiste|comparatista||S|let|C1
+échantillon représentatif|muestra representativa||S|att|C1
+marge d'erreur|margen de error||S|att|C1
+intentions de vote|intención de voto||S|att|C1
+abstentionnisme|abstencionismo||S|att|C1
+sondeur|sondista||S|att|C1
+électorat|electorado||S|att|C1
+biais de sélection|sesgo de selección||S|att|C1
+baromètre d'opinion|barómetro de opinión||S|att|C1
+clivage politique|clivaje político||S|att|C1
+désinformation|desinformación||S|att|C1
+spirale du silence|espiral del silencio||S|att|C1
+casque bleu|casco azul||S|att|C1
+maintien de la paix|mantenimiento de la paz||S|att|C1
+processus de paix|proceso de paz||S|att|C1
+désarmement|desarme||S|att|C1
+non-prolifération|no proliferación||S|att|C1
+dissuasion nucléaire|disuasión nuclear||S|att|C1
+zone tampon|zona de amortiguamiento||S|att|C1
+pourparlers|conversaciones de paz||S|att|C1
+corridor humanitaire|corredor humanitario||S|att|C1
+déplacé|desplazado||S|att|C1
+belligérant|beligerante||S|att|C1
+supranational|supranacional||A|ist|C1
+intergouvernemental|intergubernamental||A|ist|C1
+libre circulation|libre circulación||S|ist|C1
+acquis communautaire|acervo comunitario||S|ist|C1
+subsidiarité|subsidiariedad||S|ist|C1
+élargissement|ampliación||S|ist|C1
+présidence tournante|presidencia rotatoria||S|ist|C1
+gouvernance mondiale|gobernanza global||S|ist|C1
+multilatéralisme|multilateralismo||S|ist|C1
+réciprocité|reciprocidad||S|ist|C1
+droit de veto|derecho de veto||S|ist|C1
+protection sociale|protección social||S|ist|C1
+prestation sociale|prestación social||S|ist|C1
+allocation chômage|prestación por desempleo||S|ist|C1
+retraite complémentaire|pensión complementaria||S|ist|C1
+exclusion|exclusión (marginación)||S|ist|C1
+taux de remplacement|tasa de sustitución||S|ist|C1
+État-providence|Estado de bienestar||S|ist|C1
+redistributif|redistributivo||A|ist|C1
+filet de sécurité|red de seguridad||S|ist|C1
+allocation familiale|asignación familiar||S|ist|C1
+reste à charge|copago||S|ist|C1
+désobéissance civile|desobediencia civil||S|att|C1
+piquet de grève|piquete de huelga||S|att|C1
+revendication|reivindicación||S|att|C1
+boycott|boicot||S|att|C1
+grève de la faim|huelga de hambre||S|att|C1
+tract|octavilla||S|att|C1
+banderole|pancarta||S|att|C1
+soulèvement|levantamiento||S|att|C1
+lutte des classes|lucha de clases||S|att|C1
+rapport de force|relación de fuerzas||S|att|C1
+contestation|contestación||S|att|C1
+détournement|desvío de fondos||S|att|C1
+abus de biens sociaux|apropiación indebida de bienes||S|att|C1
+pot-de-vin|soborno||S|att|C1
+conflit d'intérêts|conflicto de intereses||S|att|C1
+reddition de comptes|rendición de cuentas||S|att|C1
+délit d'initié|delito de información privilegiada||S|att|C1
+blanchiment|blanqueo de capitales||S|att|C1
+commission d'enquête|comisión de investigación||S|att|C1
+lanceur d'alerte|alertador (denunciante)||S|att|C1
+opacité|opacidad||S|att|C1
+immunité parlementaire|inmunidad parlamentaria||S|att|C1
+solde migratoire|saldo migratorio||S|att|C1
+transition démographique|transición demográfica||S|att|C1
+vieillissement de la population|envejecimiento de la población||S|att|C1
+exode rural|éxodo rural||S|att|C1
+répatriement|repatriación||S|att|C1
+demandeur d'asile|solicitante de asilo||S|att|C1
+titre de séjour|permiso de residencia||S|att|C1
+regroupement familial|reagrupación familiar||S|att|C1
+dénatalité|desnatalidad||S|att|C1
+pyramide des âges|pirámide de población||S|att|C1
+migration pendulaire|migración pendular||S|att|C1
+iconologie|iconología||S|art|C1
+hagiographie|hagiografía||S|art|C1
+bestiaire|bestiario||S|art|C1
+mandorle|mandorla||S|art|C1
+héraldique|heráldica||S|art|C1
+blason|blasón||S|art|C1
+imagerie|imaginería||S|art|C1
+iconoclasme|iconoclastia||S|art|C1
+diptyque|díptico||S|art|C1
+triptyque|tríptico||S|art|C1
+attribut iconographique|atributo iconográfico||S|art|C1
+orfèvrerie|orfebrería||S|art|C1
+marqueterie|marquetería||S|art|C1
+laque|laca||S|art|C1
+ébéniste|ebanista||S|art|C1
+ferronnerie|herrería artística||S|art|C1
+pâte de verre|pasta de vidrio||S|art|C1
+verrerie|vidriería||S|art|C1
+joaillerie|alta joyería||S|art|C1
+émaillerie|esmaltería||S|art|C1
+damasquinure|damasquinado||S|art|C1
+ébénisterie|ebanistería||S|art|C1
+contreplongée|contrapicado||S|art|C1
+cadrage|encuadre||S|art|C1
+profondeur de champ|profundidad de campo||S|art|C1
+temps de pose|tiempo de exposición||S|art|C1
+chambre noire|cámara oscura||S|art|C1
+tirage|copia fotográfica||S|art|C1
+argentique|fotografía analógica||S|art|C1
+photomontage|fotomontaje||S|art|C1
+vernissage|inauguración (de exposición)||S|art|C1
+accrochage|montaje (de una exposición)||S|art|C1
+contre-jour|contraluz||S|art|C1
+claveau|dovela||S|art|C1
+arc-boutant|arbotante||S|art|C1
+contrefort|contrafuerte||S|art|C1
+triforium|triforio||S|art|C1
+rosace|rosetón||S|art|C1
+tympan|tímpano (portada)||S|art|C1
+fronton|frontón||S|art|C1
+stylobate|estilóbato||S|art|C1
+entablement|entablamento||S|art|C1
+colonnade|columnata||S|art|C1
+bossage|almohadillado||S|art|C1
+chassé|paso deslizado||S|art|C1
+pas de deux|pas de dos||S|art|C1
+pointes|puntas||S|art|C1
+chorégraphe|coreógrafo||S|art|C1
+danseur étoile|primer bailarín||S|art|C1
+corps de ballet|cuerpo de baile||S|art|C1
+maître de ballet|maestro de ballet||S|art|C1
+notation chorégraphique|notación coreográfica||S|art|C1
+pantomime|pantomima||S|art|C1
+chorégraphie|coreografía||S|art|C1
+grand écart|spagat||S|art|C1
+microlithographie|microlitografía||S|tec|C1
+circuit imprimé|circuito impreso||S|tec|C1
+microprocesseur|microprocesador||S|tec|C1
+mémoire cache|memoria caché||S|tec|C1
+cadence d'horloge|frecuencia de reloj||S|tec|C1
+jeu d'instructions|conjunto de instrucciones||S|tec|C1
+silicium|silicio||S|tec|C1
+plaquette de silicium|oblea de silicio||S|tec|C1
+grille flottante|puerta flotante||S|tec|C1
+semi-conducteur|semiconductor||S|tec|C1
+processeur graphique|procesador gráfico||S|tec|C1
+entrepôt de données|almacén de datos||S|tec|C1
+fouille de données|minería de datos||S|tec|C1
+apprentissage automatique|aprendizaje automático||S|tec|C1
+apprentissage profond|aprendizaje profundo||S|tec|C1
+informatique en nuage|computación en la nube||S|tec|C1
+requête|consulta||S|tec|C1
+dédoublonnage|deduplicación||S|tec|C1
+valeur aberrante|valor atípico||S|tec|C1
+agrégation|agregación||S|tec|C1
+informatique décisionnelle|inteligencia de negocio||S|tec|C1
+tableau de bord|cuadro de mando||S|tec|C1
+chaîne de blocs|cadena de bloques||S|tec|C1
+registre distribué|registro distribuido||S|tec|C1
+contrat intelligent|contrato inteligente||S|tec|C1
+preuve de travail|prueba de trabajo||S|tec|C1
+preuve d'enjeu|prueba de participación||S|tec|C1
+mineur|minero (de criptomonedas)||S|tec|C1
+jeton non fongible|ficha no fungible||S|tec|C1
+portefeuille numérique|cartera digital||S|tec|C1
+hachage|algoritmo de resumen||S|tec|C1
+immuabilité|inmutabilidad||S|tec|C1
+mécanisme de consensus|mecanismo de consenso||S|tec|C1
+reconnaissance faciale|reconocimiento facial||S|tec|C1
+reconnaissance vocale|reconocimiento de voz||S|tec|C1
+analyse de l'iris|análisis de iris||S|tec|C1
+signature biométrique|firma biométrica||S|tec|C1
+faux positifs|falsos positivos||S|tec|C1
+classification automatique|clasificación automática||S|tec|C1
+réseau de neurones|red neuronal||S|tec|C1
+réseau convolutionnel|red convolucional||S|tec|C1
+surapprentissage|sobreajuste||S|tec|C1
+extraction de caractéristiques|extracción de características||S|tec|C1
+biométrie|biometría||S|tec|C1
+objet connecté|objeto conectado||S|tec|C1
+capteur|sensor||S|tec|C1
+maison connectée|hogar conectado||S|tec|C1
+compteur communicant|contador inteligente||S|tec|C1
+jumeau numérique|gemelo digital||S|tec|C1
+domotique|domótica||S|tec|C1
+passerelle|pasarela||S|tec|C1
+protocole de communication|protocolo de comunicación||S|tec|C1
+interopérabilité|interoperabilidad||S|tec|C1
+ville intelligente|ciudad inteligente||S|tec|C1
+maillage de capteurs|malla de sensores||S|tec|C1
+casque de réalité virtuelle|casco de realidad virtual||S|tec|C1
+réalité augmentée|realidad aumentada||S|tec|C1
+retour haptique|respuesta háptica||S|tec|C1
+capture de mouvement|captura de movimiento||S|tec|C1
+temps de latence|tiempo de latencia||S|tec|C1
+moteur de rendu|motor de renderizado||S|tec|C1
+environnement immersif|entorno inmersivo||S|tec|C1
+personnage non-joueur|personaje no jugador||S|tec|C1
+monde virtuel|mundo virtual||S|tec|C1
+simulateur immersif|simulador inmersivo||S|tec|C1
+expérience utilisateur|experiencia de usuario||S|tec|C1
+chambre magmatique|cámara magmática||S|nat|C1
+nuée ardente|nube ardiente||S|nat|C1
+flux pyroclastique|flujo piroclástico||S|nat|C1
+cendre volcanique|ceniza volcánica||S|nat|C1
+fissure éruptive|fisura eruptiva||S|nat|C1
+lahar|lahar||S|nat|C1
+panache volcanique|penacho volcánico||S|nat|C1
+trémor|temblor volcánico||S|nat|C1
+surveillance volcanique|vigilancia volcánica||S|nat|C1
+sismographe|sismógrafo||S|nat|C1
+subsidence|subsidencia||S|nat|C1
+tourbière|turbera||S|nat|C1
+eutrophisation|eutrofización||S|nat|C1
+macrophyte|macrófito||S|nat|C1
+benthique|bentónico||A|nat|C1
+roselière|carrizal||S|nat|C1
+régime hydrologique|régimen hidrológico||S|nat|C1
+débit d'étiage|caudal de estiaje||S|nat|C1
+crue centennale|crecida centenaria||S|nat|C1
+lit mineur|cauce menor||S|nat|C1
+ripisylve|bosque de ribera||S|nat|C1
+zone humide|humedal||S|nat|C1
+pédologie|edafología||S|nat|C1
+salinisation|salinización||S|nat|C1
+désherbage|desherbado||S|nat|C1
+agriculture de précision|agricultura de precisión||S|nat|C1
+jachère|barbecho||S|nat|C1
+semis direct|siembra directa||S|nat|C1
+rotation des cultures|rotación de cultivos||S|nat|C1
+argileux|arcilloso||A|nat|C1
+amendement|enmienda (del suelo)||S|nat|C1
+terreau|tierra vegetal||S|nat|C1
+monoculture|monocultivo||S|nat|C1
+élevage extensif|ganadería extensiva||S|ani|C1
+pastoralisme|pastoralismo||S|ani|C1
+estive|pasto de verano||S|ani|C1
+transhumance|trashumancia||S|ani|C1
+cheptel|cabaña ganadera||S|ani|C1
+agnelage|parición (de ovejas)||S|ani|C1
+aquacole|acuícola||A|ani|C1
+pisciculture|piscicultura||S|ani|C1
+naissain|semilla de moluscos||S|ani|C1
+conchyliculture|conchicultura||S|ani|C1
+chalutier|arrastrero||S|ani|C1
+sylviculture|silvicultura||S|nat|C1
+reboisement|repoblación forestal||S|nat|C1
+défrichement|desmonte (deforestación)||S|nat|C1
+coupe rase|tala rasa||S|nat|C1
+sous-bois|sotobosque||S|nat|C1
+taillis|monte bajo||S|nat|C1
+futaie|monte alto||S|nat|C1
+houppier|copa arbórea||S|nat|C1
+litière forestière|hojarasca||S|nat|C1
+feu de cime|fuego de copas||S|nat|C1
+essence forestière|especie forestal||S|nat|C1
+tri sélectif|recogida selectiva||S|nat|C1
+compostage|compostaje||S|nat|C1
+valorisation des déchets|valorización de residuos||S|nat|C1
+incinération|incineración||S|nat|C1
+enfouissement|enterramiento de residuos||S|nat|C1
+dépollution|descontaminación||S|nat|C1
+matière première recyclée|materia prima reciclada||S|nat|C1
+obsolescence programmée|obsolescencia programada||S|nat|C1
+réemploi|reutilización||S|nat|C1
+déchet ultime|residuo final||S|nat|C1
+geste de tri|hábito de separación||S|nat|C1
+pondéré|ponderado||A|ast|C1
+circonspect|circunspecto||A|ast|C1
+pusillanime|pusilánime||A|ast|C1
+magnanime|magnánimo||A|ast|C1
+obséquieux|obsequioso||A|ast|C1
+volage|inconstante||A|ast|C1
+fourbe|felón||A|ast|C1
+machiavélique|maquiavélico||A|ast|C1
+sémillant|chispeante||A|ast|C1
+borné|corto de entendimiento||A|ast|C1
+avisé|sagaz||A|ast|C1
+étayer|apuntalar (una tesis)||V|cmu|C1
+récuser|recusar||V|cmu|C1
+infirmer|invalidar||V|cmu|C1
+arguer|esgrimir como argumento||V|cmu|C1
+objecter|objetar||V|cmu|C1
+rétorquer|replicar||V|cmu|C1
+alléguer|alegar (invocar)||V|cmu|C1
+accréditer|dar pábulo a||V|cmu|C1
+inférer|inferir||V|cmu|C1
+disserter|disertar||V|cmu|C1
+éluder|eludir||V|cmu|C1
+axiomatique|axiomática||S|ast|C1
+réductionnisme|reduccionismo||S|ast|C1
+holisme|holismo||S|ast|C1
+empirisme|empirismo||S|ast|C1
+dogmatisme|dogmatismo||S|ast|C1
+relativisme|relativismo||S|ast|C1
+essentialisme|esencialismo||S|ast|C1
+constructivisme|constructivismo||S|ast|C1
+nominalisme|nominalismo||S|ast|C1
+catégorisation|categorización||S|ast|C1
+inférence|inferencia||S|ast|C1

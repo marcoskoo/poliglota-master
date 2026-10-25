@@ -1,0 +1,416 @@
+coucou
+bonne nuit
+à bientôt
+bienvenue
+enchanté
+bonsoir
+s'il vous plaît
+merci beaucoup
+de rien
+je vous en prie
+avec plaisir
+bonne journée
+petit-fils
+jumeau
+belle-mère
+neveu
+gendre
+belle-sœur
+commode
+fauteuil
+lave-vaisselle
+aspirateur
+grille-pain
+table de chevet
+couloir
+escalier
+cave
+grenier
+séjour
+salle à manger
+saladier
+tire-bouchon
+ouvre-boîte
+planche à découper
+louche
+passoire
+balai
+seau
+éponge
+plumeau
+serpillière
+lessive
+marteau
+tournevis
+clou
+perceuse
+échelle
+brouette
+poire
+pêche
+cerise
+fraise
+prune
+abricot
+carotte
+poireau
+courgette
+aubergine
+navet
+chou-fleur
+veau
+agneau
+jambon
+saucisse
+côtelette
+canard
+beurre
+yaourt
+camembert
+fromage blanc
+crème
+lait entier
+baguette
+croissant
+farine
+avoine
+blé
+pain de mie
+bière
+limonade
+cidre
+jus de fruits
+sirop
+chocolat chaud
+poivre
+moutarde
+vinaigre
+cannelle
+romarin
+cumin
+pois chiche
+noisette
+amande
+cacahuète
+pistache
+sésame
+boulangerie
+boucherie
+pâtisserie
+librairie
+poissonnerie
+épicerie
+monnaie
+espèces
+chèque
+soldes
+caisse
+rendre la monnaie
+bouteille
+sachet
+gramme
+tranche
+morceau
+bidon
+tramway
+arrêt
+correspondance
+carnet
+ligne
+station
+volant
+frein
+clignotant
+pneu
+essence
+station-service
+gare
+quai
+voie
+aller-retour
+contrôleur
+aller simple
+embarquement
+douane
+décollage
+atterrissage
+escale
+compagnie aérienne
+pédale
+casque
+selle
+cycliste
+trottinette
+piste cyclable
+maillot de bain
+brosse à dents
+carte postale
+itinéraire
+crème solaire
+tente
+sac de couchage
+lampe de poche
+boussole
+randonnée
+pique-nique
+réception
+formulaire
+accueil
+nuitée
+demi-pension
+pension complète
+climatisation
+ascenseur
+coffre-fort
+réveil
+serviette
+vue sur la mer
+toux
+rhume
+grippe
+allergie
+mal de tête
+mal de gorge
+consultation
+patient
+thermomètre
+vaccin
+prise de sang
+cabinet
+comprimé
+gélule
+pommade
+pansement
+vitamine
+cachet
+coiffeur
+plombier
+menuisier
+pompier
+facteur
+boulanger
+agrafeuse
+classeur
+enveloppe
+imprimante
+collègue
+trombone
+cahier
+tableau
+craie
+sac à dos
+récréation
+manuel
+mathématiques
+géographie
+chimie
+calculatrice
+dictionnaire
+biologie
+mairie
+église
+cathédrale
+piscine
+stade
+pont
+carrefour
+rond-point
+trottoir
+passage piéton
+à gauche
+tout droit
+nuage
+orage
+brouillard
+averse
+arc-en-ciel
+canicule
+printemps
+été
+automne
+hiver
+saison
+jupe
+manteau
+écharpe
+ceinture
+casquette
+gant
+botte
+sandale
+montre
+collier
+lunettes
+boucle d'oreille
+tablette
+télécommande
+écouteurs
+chargeur
+écran
+haut-parleur
+mot de passe
+connexion
+réseau
+télécharger
+identifiant
+appeler
+natation
+cyclisme
+judo
+boxe
+escalade
+ski
+ballon
+filet
+survêtement
+vestiaire
+entraînement
+médaille
+guitare
+violon
+flûte
+trompette
+accordéon
+clarinette
+jazz
+rap
+classique
+opéra
+chanson
+comédie
+dessin animé
+documentaire
+acteur
+sous-titres
+horreur
+copain
+invitation
+soirée
+cadeau
+anniversaire
+surprise
+compte
+distributeur
+virement
+agence
+épargne
+guichet
+entrée
+plat principal
+dessert
+plat du jour
+pourboire
+à emporter
+réserver
+commander
+carafe d'eau
+commande
+addition
+serviette de table
+carré
+cercle
+triangle
+rectangle
+ovale
+doigt
+épaule
+genou
+orteil
+cheville
+ventre
+lapin
+hamster
+perroquet
+tortue
+chiot
+cage
+cochon
+mouton
+chèvre
+âne
+poule
+coq
+loup
+renard
+écureuil
+sanglier
+cerf
+hérisson
+pigeon
+moineau
+hirondelle
+hibou
+mouette
+cygne
+papillon
+abeille
+guêpe
+fourmi
+coccinelle
+cafard
+colline
+rivière
+cascade
+île
+vallée
+falaise
+tige
+racine
+marguerite
+orchidée
+muguet
+arbre
+vague
+coquillage
+requin
+dauphin
+marée
+galet
+midi
+après-midi
+minuit
+demi-heure
+lever du soleil
+quart d'heure
+calendrier
+jour férié
+demain
+hier
+aujourd'hui
+week-end
+passe-temps
+jardinage
+tricot
+lecture
+chasse
+jeux vidéo
+mariage
+feux d'artifice
+sapin
+carte de vœux
+réveillon
+déguisement
+joie
+peur
+colère
+ennui
+honte
+jalousie
+généreux
+paresseux
+timide
+bavard
+courageux
+têtu
+décrocher
+raccrocher
+boîte vocale
+coup de fil
+sonner
+laisser un message
+peinture
+aquarelle
+toile
+argile
+gomme
+pinceau
