@@ -2939,3 +2939,51 @@ Work Log:
 - generado pt-c2-20-p1..p4.txt con 1174 entradas · awk OK (6 campos, sin errores) · dup OK (sin duplicados)
 Stage Summary:
 - pt-c2-20: 1174 entradas C2 de portugués (PT-PT) repartidas por los 83 subtemas del job (jurídico, médico-científico, financiero, humanístico, coloquial/regional)
+---
+Task ID: v9.43/final/it-b2-02
+Agent: subagent
+Task: lexicón IT B2 job it-b2-02
+Work Log:
+- it-b2-02-p*.txt: 235 entradas · awk OK · dup OK
+Stage Summary:
+- it-b2-02: 235 entradas B2 italiano
+---
+Task ID: v9.43/final/en-b2-02
+Agent: subagent
+Task: lexicón EN B2 job en-b2-02
+Work Log:
+- en-b2-02-p*.txt: 758 entradas · awk OK · dup OK
+Stage Summary:
+- en-b2-02: 758 entradas B2 inglés
+---
+Task ID: v9.43/final/it-c2-10
+Agent: subagent
+Task: lexicón IT C2 job it-c2-10 (retry)
+Work Log:
+- it-c2-10-p*.txt: 1243 entradas · awk OK · dup OK
+Stage Summary:
+- it-c2-10: 1243 entradas C2 italiano
+---
+Task ID: v9.43/final/en-c2-10
+Agent: subagent
+Task: lexicón EN C2 job en-c2-10
+Work Log:
+- en-c2-10-p*.txt: 1162 entradas · awk OK · dup OK
+Stage Summary:
+- en-c2-10: 1162 entradas C2 inglés
+---
+Task ID: v9.43/final/en-c2-11
+Agent: subagent
+Task: lexicón EN C2 job en-c2-11
+Work Log:
+- en-c2-11-p*.txt: 1162 entradas · awk OK · dup OK
+Stage Summary:
+- en-c2-11: 1162 entradas C2 inglés
+---
+Task ID: v9.43/final/it-c1-06
+Agent: subagent
+Task: lexicón IT C1 job it-c1-06
+Work Log:
+- it-c1-06-p*.txt: 908 entradas (303+303+302) · awk OK (6 campos) · dup OK (sin duplicados)
+Stage Summary:
+- it-c1-06: 908 entradas C1 italiano (derecho, economía, medicina, ciencia, humanidades, técnica, naturaleza)

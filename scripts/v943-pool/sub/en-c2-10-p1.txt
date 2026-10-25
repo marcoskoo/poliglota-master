@@ -1,0 +1,291 @@
+tortfeasor|autor del ilícito civil||S|pro|C2
+rescission|rescisión (de contrato)||S|fin|C2
+indemnity|indemnización||S|fin|C2
+force majeure|fuerza mayor||L|fin|C2
+consideration|contraprestación (requisito contractual)||S|fin|C2
+novation|novación contractual||S|fin|C2
+larceny|hurto||S|ist|C2
+mens rea|dolo, culpabilidad mental||L|ist|C2
+statute of limitations|prescripción (del delito o de la acción)||L|ist|C2
+habeas corpus|habeas corpus||L|ist|C2
+bail bondsman|fiador de fianzas||S|pro|C2
+arraignment|lectura de cargos||S|ist|C2
+tortious|ilícito extracontractual||A|ist|C2
+undue influence|influencia indebida||L|ist|C2
+voir dire|interrogatorio de candidatos a jurado||L|ist|C2
+deposition|declaración jurada previa al juicio||S|ist|C2
+subpoena|citación judicial||S|ist|C2
+plea bargain|acuerdo de culpabilidad||L|ist|C2
+sidebar|conversación a pie de estrados||S|ist|C2
+perjury|perjurio||S|ist|C2
+hearsay|testimonio de oídas||S|ist|C2
+mistrial|juicio nulo||S|ist|C2
+jury nullification|anulación del veredicto por el jurado||L|ist|C2
+exculpatory|exculpatorio||A|ist|C2
+docket|lista de causas||S|ist|C2
+recusal|recusación del juez||S|ist|C2
+prosecutorial discretion|criterio del fiscal||L|ist|C2
+appellate|de apelación||A|ist|C2
+judicial review|control judicial de constitucionalidad||L|ist|C2
+eminent domain|expropiación forzosa||L|ist|C2
+equal protection clause|cláusula de igual protección||L|ist|C2
+writ of certiorari|auto de avocación||L|ist|C2
+cloture|cierre del debate (Senado)||S|ist|C2
+gerrymandering|manipulación de los distritos electorales||S|ist|C2
+plurality|mayoría relativa||S|ist|C2
+bicameral|bicameral||A|ist|C2
+originalism|originalismo||S|ist|C2
+incorporation doctrine|doctrina de incorporación de derechos||L|ist|C2
+redress of grievances|reparación de agravios||L|ist|C2
+enjoin|ordenar judicialmente||V|ist|C2
+quorum|quórum||S|ist|C2
+writ of mandamus|auto de mandamiento judicial||L|ist|C2
+triage|triaje||S|sla|C2
+comorbidity|comorbilidad||S|sla|C2
+nosocomial|nosocomial (contraído en el hospital)||A|sla|C2
+intubation|intubación||S|sla|C2
+differential diagnosis|diagnóstico diferencial||L|sla|C2
+contraindication|contraindicación||S|sla|C2
+inpatient|paciente ingresado||S|sla|C2
+rounds|visita médica a los pacientes||S|sla|C2
+charting|registro en la historia clínica||S|sla|C2
+stat|con carácter urgente||D|sla|C2
+code blue|aviso de parada cardiorrespiratoria||L|sla|C2
+discharge summary|informe de alta||L|sla|C2
+vitals|constantes vitales||S|sla|C2
+scrub in|lavarse para entrar en quirófano||V|sla|C2
+pharmacokinetics|farmacocinética||S|sla|C2
+bioavailability|biodisponibilidad||S|sla|C2
+half-life|vida media||S|sla|C2
+placebo-controlled|controlado con placebo||A|sla|C2
+randomized trial|ensayo aleatorizado||L|sla|C2
+adverse event|reacción adversa||L|sla|C2
+off-label|fuera de indicación autorizada||A|sla|C2
+double-blind|a doble ciego||A|sla|C2
+titration|ajuste gradual de la dosis||S|sla|C2
+agonist|agonista||S|sla|C2
+antagonist|antagonista (fármaco)||S|sla|C2
+first-pass metabolism|metabolismo de primer paso||L|sla|C2
+black box warning|advertencia de caja negra||L|sla|C2
+drug interaction|interacción farmacológica||L|sla|C2
+anhedonia|anhedonia||S|sla|C2
+catatonia|catatonia||S|sla|C2
+delusion of grandeur|delirio de grandeza||L|sla|C2
+rumination|rumiación obsesiva||S|sla|C2
+dissociative|disociativo||A|sla|C2
+hypomania|hipomanía||S|sla|C2
+obsessive-compulsive|obsesivo-compulsivo||A|sla|C2
+paranoid ideation|ideación paranoide||L|sla|C2
+suicidal ideation|ideación suicida||L|sla|C2
+psychotropic|psicotrópico||A|sla|C2
+involuntary commitment|internamiento involuntario||L|sla|C2
+affective flattening|empobrecimiento afectivo||L|sla|C2
+dysthymia|distimia||S|sla|C2
+thought disorder|trastorno del pensamiento||L|sla|C2
+informed consent|consentimiento informado||L|sla|C2
+beneficence|beneficencia (principio ético)||S|sla|C2
+nonmaleficence|no maleficencia||S|sla|C2
+advance directive|testamento vital||L|sla|C2
+surrogate decision-maker|decisor sustituto||L|sla|C2
+confidentiality|secreto profesional||S|sla|C2
+whistle-blower|denunciante interno||S|pro|C2
+reproductive cloning|clonación reproductiva||L|sci|C2
+germline|línea germinal||S|sci|C2
+palliative sedation|sedación paliativa||L|sla|C2
+futile treatment|tratamiento inútil||L|sla|C2
+clinical equipoise|equilibrio clínico||L|sla|C2
+brain death|muerte encefálica||L|sla|C2
+organ procurement|obtención de órganos||L|sla|C2
+quantitative easing|flexibilización cuantitativa||L|fin|C2
+tapering|retirada gradual de estímulos||S|fin|C2
+liquidity trap|trampa de liquidez||L|fin|C2
+stagflation|estanflación||S|fin|C2
+Phillips curve|curva de Phillips||L|fin|C2
+reserve requirement|coeficiente de reservas||L|fin|C2
+open market operations|operaciones de mercado abierto||L|fin|C2
+seigniorage|señoreaje||S|fin|C2
+deflationary spiral|espiral deflacionaria||L|fin|C2
+moral hazard|riesgo moral||L|fin|C2
+macroprudential|macroprudencial||A|fin|C2
+disinflation|desinflación||S|fin|C2
+countercyclical|contracíclico||A|fin|C2
+yield curve inversion|inversión de la curva de tipos||L|fin|C2
+antidumping|antidumping||A|fin|C2
+quota|contingente arancelario||S|fin|C2
+tariff schedule|arancel||L|fin|C2
+rules of origin|normas de origen||L|fin|C2
+trade deficit|déficit comercial||L|fin|C2
+protectionism|proteccionismo||S|fin|C2
+most-favored-nation|de nación más favorecida||A|fin|C2
+customs valuation|valoración en aduana||L|fin|C2
+safeguard clause|cláusula de salvaguardia||L|fin|C2
+export subsidy|subvención a la exportación||L|fin|C2
+customs union|unión aduanera||L|fin|C2
+trade embargo|embargo comercial||L|fin|C2
+dumping margin|margen de dumping||L|fin|C2
+tariffication|arancelización||S|fin|C2
+accrual accounting|criterio de devengo||L|fin|C2
+depreciation|amortización de activos||S|fin|C2
+goodwill|fondo de comercio||S|fin|C2
+contingent liability|pasivo contingente||L|fin|C2
+materiality|importancia relativa||S|fin|C2
+going concern|empresa en funcionamiento||L|fin|C2
+audit trail|pista de auditoría||L|fin|C2
+fiscal year|ejercicio fiscal||L|fin|C2
+write-down|corrección de valor||S|fin|C2
+deferred revenue|ingreso diferido||L|fin|C2
+consolidated statement|estados financieros consolidados||L|fin|C2
+due diligence|diligencia debida||L|fin|C2
+share buyback|recompra de acciones||L|fin|C2
+leverage ratio|ratio de apalancamiento||L|fin|C2
+short selling|venta en corto||L|fin|C2
+hedging|cobertura de riesgo||S|fin|C2
+option premium|prima de la opción||L|fin|C2
+margin call|llamada de garantías||L|fin|C2
+counterparty risk|riesgo de contraparte||L|fin|C2
+notional amount|importe nocional||L|fin|C2
+futures contract|contrato de futuros||L|fin|C2
+volatility index|índice de volatilidad||L|fin|C2
+liquidity crunch|sequía de liquidez||L|fin|C2
+credit default swap|permuta de cobertura por impago||L|fin|C2
+market maker|creador de mercado||L|fin|C2
+arbitrage|arbitraje||S|fin|C2
+systemic risk|riesgo sistémico||L|fin|C2
+fair value accounting|contabilidad a valor razonable||L|fin|C2
+allele|alelo||S|sci|C2
+meiosis|meiosis||S|sci|C2
+transcription|transcripción (genética)||S|sci|C2
+codon|codón||S|sci|C2
+epigenetics|epigenética||S|sci|C2
+knockout mouse|ratón knockout||L|sci|C2
+splicing|empalme del ARN||S|sci|C2
+promoter region|región promotora||L|sci|C2
+gene expression|expresión génica||L|sci|C2
+heterozygous|heterocigótico||A|sci|C2
+plasmid|plásmido||S|sci|C2
+telomere|telómero||S|sci|C2
+point mutation|mutación puntual||L|sci|C2
+genome-wide|a escala del genoma||A|sci|C2
+antibody titer|título de anticuerpos||L|sla|C2
+antigen|antígeno||S|sla|C2
+cytokine|citoquina||S|sla|C2
+pathogen|patógeno||S|sla|C2
+vaccine efficacy|eficacia vacunal||L|sla|C2
+herd immunity|inmunidad de grupo||L|sla|C2
+incubation period|periodo de incubación||L|sla|C2
+antimicrobial resistance|resistencia a los antimicrobianos||L|sla|C2
+gram-positive|grampositivo||A|sla|C2
+endotoxin|endotoxina||S|sla|C2
+seroprevalence|seroprevalencia||S|sla|C2
+immunosuppressed|inmunodeprimido||A|sla|C2
+culture medium|medio de cultivo||L|sci|C2
+virulence factor|factor de virulencia||L|sla|C2
+neuroplasticity|neuroplasticidad||S|sci|C2
+synapse|sinapsis||S|sci|C2
+brain imaging|neuroimagen||L|sci|C2
+lesion study|estudio de lesiones||L|sci|C2
+working memory|memoria de trabajo||L|sci|C2
+executive function|función ejecutiva||L|sci|C2
+lateralization|lateralización cerebral||S|sci|C2
+dendrite|dendrita||S|sci|C2
+white matter|sustancia blanca||L|cor|C2
+cognitive load|carga cognitiva||L|sci|C2
+aphasia|afasia||S|sla|C2
+proprioception|propiocepción||S|sci|C2
+circadian rhythm|ritmo circadiano||L|sci|C2
+synaptic cleft|hendidura sináptica||L|sci|C2
+biopsy|biopsia||S|sla|C2
+histology|histología||S|sla|C2
+metastasis|metástasis||S|sla|C2
+granuloma|granuloma||S|sla|C2
+cytology|citología||S|sla|C2
+autopsy|autopsia||S|sla|C2
+tissue sample|muestra de tejido||L|sla|C2
+differential stain|tinción diferencial||L|sla|C2
+pathology report|informe anatomopatológico||L|sla|C2
+benign tumor|tumor benigno||L|sla|C2
+fibrosis|fibrosis||S|sla|C2
+ischemia|isquemia||S|sla|C2
+angioplasty|angioplastia||S|sla|C2
+excision|escisión quirúrgica||S|sla|C2
+arrhythmia|arritmia||S|sla|C2
+myocardial infarction|infarto de miocardio||L|sla|C2
+cardiac catheterization|cateterismo cardíaco||L|sla|C2
+embolism|embolia||S|sla|C2
+bronchoscopy|broncoscopia||S|sla|C2
+arterial plaque|placa de ateroma||L|sla|C2
+chronic obstructive pulmonary disease|enfermedad pulmonar obstructiva crónica||L|sla|C2
+spirometry|espirometría||S|sla|C2
+tachycardia|taquicardia||S|sla|C2
+bradycardia|bradicardia||S|sla|C2
+stent placement|colocación de stent||L|sla|C2
+hypoxemia|hipoxemia||S|sla|C2
+aneurysm|aneurisma||S|sla|C2
+echocardiogram|ecocardiograma||S|sla|C2
+hyperthyroidism|hipertiroidismo||S|sla|C2
+insulin resistance|resistencia a la insulina||L|sla|C2
+cortisol|cortisol||S|sla|C2
+adrenal gland|glándula suprarrenal||L|cor|C2
+hypothalamic|hipotalámico||A|sla|C2
+glycemic index|índice glucémico||L|ali|C2
+thyroid nodule|nódulo tiroideo||L|sla|C2
+parathyroid|paratiroideo||A|sla|C2
+homeostasis|homeostasis||S|sci|C2
+hypoglycemia|hipoglucemia||S|sla|C2
+metabolic syndrome|síndrome metabólico||L|sla|C2
+pituitary gland|hipófisis||L|cor|C2
+goiter|bocio||S|sla|C2
+ketoacidosis|cetoacidosis||S|sla|C2
+urticaria|urticaria||S|sla|C2
+psoriasis|psoriasis||S|sla|C2
+melanoma|melanoma||S|sla|C2
+dermatitis|dermatitis||S|sla|C2
+pruritus|prurito||S|sla|C2
+epidermis|epidermis||S|cor|C2
+skin graft|injerto de piel||L|sla|C2
+allergen extract|extracto alergénico||L|sla|C2
+atopic|atópico||A|sla|C2
+melanocyte|melanocito||S|sla|C2
+excoriation|excoriación||S|sla|C2
+patch test|prueba del parche||L|sla|C2
+subcutaneous|subcutáneo||A|sla|C2
+topical steroid|corticoide tópico||L|sla|C2
+chemotherapy regimen|pauta de quimioterapia||L|sla|C2
+radiation therapy|radioterapia||L|sla|C2
+tumor marker|marcador tumoral||L|sla|C2
+remission|remisión||S|sla|C2
+palliative care|cuidados paliativos||L|sla|C2
+oncologist|oncólogo||S|pro|C2
+staging|estadificación||S|sla|C2
+metastasize|metastatizar||V|sla|C2
+respite care|cuidados de respiro||L|sla|C2
+morphine drip|perfusión de morfina||L|sla|C2
+lumpectomy|tumorectomía||S|sla|C2
+cancer survivorship|supervivencia oncológica||L|sla|C2
+oncogene|oncogén||S|sci|C2
+inoperable|inoperable||A|sla|C2
+lumbar puncture|punción lumbar||L|sla|C2
+seizure threshold|umbral convulsivo||L|sla|C2
+tremor|temblor||S|sla|C2
+epileptiform|epileptiforme||A|sla|C2
+neurological exam|exploración neurológica||L|sla|C2
+reflex arc|arco reflejo||L|sci|C2
+myelin|mielina||S|sci|C2
+sciatica|ciática||S|sla|C2
+ataxia|ataxia||S|sla|C2
+dystonia|distonía||S|sla|C2
+cranial nerve|nervio craneal||L|cor|C2
+concussion protocol|protocolo de conmoción cerebral||L|sla|C2
+electroencephalogram|electroencefalograma||S|sla|C2
+paresthesia|parestesia||S|sla|C2
+scalpel|bisturí||S|sla|C2
+retractor|separador quirúrgico||S|sla|C2
+forceps|fórceps||S|sla|C2
+suture|sutura||S|sla|C2
+ligature|ligadura||S|sla|C2
+laparoscope|laparoscopio||S|sla|C2
+hemostat|pinza hemostática||S|sla|C2
+sterile field|campo estéril||L|sla|C2
+incision line|línea de incisión||L|sla|C2
+cauterize|cauterizar||V|sla|C2
+drainage tube|tubo de drenaje||L|sla|C2

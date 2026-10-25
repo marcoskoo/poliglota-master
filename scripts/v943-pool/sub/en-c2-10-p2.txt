@@ -1,0 +1,291 @@
+covalent bond|enlace covalente||L|sci|C2
+stereoisomer|estereoisómero||S|sci|C2
+carbonyl group|grupo carbonilo||L|sci|C2
+aromatic ring|anillo aromático||L|sci|C2
+nucleophile|nucleófilo||S|sci|C2
+oxidation state|estado de oxidación||L|sci|C2
+catalysis|catálisis||S|sci|C2
+alkyne|alquino||S|sci|C2
+stoichiometry|estequiometría||S|sci|C2
+chiral|quiral||A|sci|C2
+ligand|ligando||S|sci|C2
+solubility product|producto de solubilidad||L|sci|C2
+resonance structure|estructura de resonancia||L|sci|C2
+hydrolysis|hidrólisis||S|sci|C2
+superposition|superposición (cuántica)||S|sci|C2
+entanglement|entrelazamiento cuántico||S|sci|C2
+uncertainty principle|principio de indeterminación||L|sci|C2
+wavefunction|función de onda||S|sci|C2
+quantum decoherence|descoherencia cuántica||L|sci|C2
+fermion|fermión||S|sci|C2
+boson|bosón||S|sci|C2
+neutrino|neutrino||S|sci|C2
+quark confinement|confinamiento de los quarks||L|sci|C2
+spin-orbit coupling|acoplamiento espín-órbita||L|sci|C2
+particle accelerator|acelerador de partículas||L|sci|C2
+strong nuclear force|interacción nuclear fuerte||L|sci|C2
+wave-particle duality|dualidad onda-corpúsculo||L|sci|C2
+energy level|nivel energético||L|sci|C2
+redshift|desplazamiento al rojo||S|sci|C2
+event horizon|horizonte de sucesos||L|sci|C2
+dark matter|materia oscura||L|sci|C2
+singularity|singularidad gravitacional||S|sci|C2
+exoplanet|exoplaneta||S|sci|C2
+supernova|supernova||S|sci|C2
+accretion disk|disco de acreción||L|sci|C2
+cosmic microwave background|fondo cósmico de microondas||L|sci|C2
+gravitational lensing|lente gravitacional||L|sci|C2
+neutron star|estrella de neutrones||L|sci|C2
+light-year|año luz||S|sci|C2
+parsec|pársec||S|sci|C2
+galactic merger|fusión galáctica||L|sci|C2
+big bang nucleosynthesis|nucleosíntesis primordial||L|sci|C2
+industrial fermentation|fermentación industrial||L|sci|C2
+cloning vector|vector de clonación||L|sci|C2
+restriction map|mapa de restricción||L|sci|C2
+gene therapy|terapia génica||L|sci|C2
+restriction enzyme|enzima de restricción||L|sci|C2
+gel electrophoresis|electroforesis en gel||L|sci|C2
+polymerase chain reaction|reacción en cadena de la polimerasa||L|sci|C2
+transgenic|transgénico||A|sci|C2
+bioreactor|biorreactor||S|sci|C2
+genome sequencing|secuenciación del genoma||L|sci|C2
+base editing|edición de bases||L|sci|C2
+somatic cell|célula somática||L|sci|C2
+pluripotent|pluripotente||A|sci|C2
+immunoassay|inmunoanálisis||S|sci|C2
+standard deviation|desviación típica||L|sci|C2
+null hypothesis|hipótesis nula||L|sci|C2
+confidence interval|intervalo de confianza||L|sci|C2
+regression discontinuity|discontinuidad de la regresión||L|sci|C2
+selection bias|sesgo de selección||L|sci|C2
+confounder|variable de confusión||S|sci|C2
+statistical power|potencia estadística||L|sci|C2
+effect size|tamaño del efecto||L|sci|C2
+peer review|revisión por pares||L|stu|C2
+replication crisis|crisis de reproducibilidad||L|sci|C2
+Bayesian inference|inferencia bayesiana||L|sci|C2
+cohort study|estudio de cohortes||L|sci|C2
+placebo arm|brazo de placebo||L|sci|C2
+meta-analysis|metaanálisis||S|sci|C2
+incidence rate|tasa de incidencia||L|sci|C2
+prevalence|prevalencia||S|sci|C2
+contact tracing|rastreo de contactos||L|sci|C2
+basic reproduction number|número básico de reproducción||L|sci|C2
+zoonosis|zoonosis||S|sci|C2
+vector-borne|de transmisión vectorial||A|sci|C2
+epidemic threshold|umbral epidémico||L|sci|C2
+case fatality rate|tasa de letalidad||L|sci|C2
+health disparity|desigualdad sanitaria||L|sla|C2
+vaccination campaign|campaña de vacunación||L|sla|C2
+outbreak investigation|investigación de brotes||L|sci|C2
+mortality rate|tasa de mortalidad||L|sci|C2
+surveillance system|sistema de vigilancia epidemiológica||L|sci|C2
+health inequity|inequidad sanitaria||L|sla|C2
+tectonic plate|placa tectónica||L|nat|C2
+subduction zone|zona de subducción||L|nat|C2
+sedimentary rock|roca sedimentaria||L|nat|C2
+mantle plume|penacho de manto||L|nat|C2
+orogeny|orogenia||S|nat|C2
+seismic wave|onda sísmica||L|nat|C2
+stratigraphy|estratigrafía||S|nat|C2
+karst topography|relieve kárstico||L|nat|C2
+pyroclastic flow|flujo piroclástico||L|nat|C2
+geothermal gradient|gradiente geotérmico||L|nat|C2
+core sample|testigo de perforación||L|nat|C2
+fault scarp|escarpe de falla||L|nat|C2
+mineral deposit|yacimiento mineral||L|nat|C2
+paleomagnetism|paleomagnetismo||S|nat|C2
+eigenvalue|valor propio||S|sci|C2
+topology|topología||S|sci|C2
+axiomatic system|sistema axiomático||L|sci|C2
+set theory|teoría de conjuntos||L|sci|C2
+prime factorization|factorización en números primos||L|sci|C2
+differential equation|ecuación diferencial||L|sci|C2
+predicate calculus|cálculo de predicados||L|sci|C2
+mathematical induction|inducción matemática||L|sci|C2
+asymptotic|asintótico||A|sci|C2
+manifold|variedad (matemática)||S|sci|C2
+incompleteness theorem|teorema de incompletitud||L|sci|C2
+bijection|biyección||S|sci|C2
+fractal geometry|geometría fractal||L|sci|C2
+tautology|tautología||S|sci|C2
+hermeneutics|hermenéutica||S|let|C2
+close reading|lectura atenta||L|let|C2
+canon formation|formación del canon||L|let|C2
+intertextuality|intertextualidad||S|let|C2
+unreliable narrator|narrador no fiable||L|let|C2
+horizon of expectations|horizonte de expectativas||L|let|C2
+defamiliarization|extrañamiento||S|let|C2
+heteroglossia|heteroglosia||S|let|C2
+mimesis|mímesis||S|let|C2
+poetics|poética||S|let|C2
+authorial intent|intención autorial||L|let|C2
+deconstruction|deconstrucción||S|let|C2
+literary canon|canon literario||L|let|C2
+genre convention|convención de género||L|let|C2
+anaphora|anáfora||S|let|C2
+chiasmus|quiasmo||S|let|C2
+metonymy|metonimia||S|let|C2
+synecdoche|sinécdoque||S|let|C2
+zeugma|zeugma||S|let|C2
+enjambment|encabalgamiento||S|let|C2
+iambic pentameter|pentámetro yámbico||L|let|C2
+caesura|cesura||S|let|C2
+prosopopoeia|prosopopeya||S|let|C2
+litotes|lítote||S|let|C2
+hendiadys|hendiadis||S|let|C2
+ekphrasis|écfrasis||S|let|C2
+peroration|peroración||S|let|C2
+rhetorical flourish|recurso retórico brillante||L|let|C2
+syuzhet|sujet (disposición formal del relato)||S|let|C2
+focalization|focalización||S|let|C2
+frame narrative|relato marco||L|let|C2
+free indirect discourse|estilo indirecto libre||L|let|C2
+story arc|arco argumental||L|let|C2
+analepsis|analepsis||S|let|C2
+prolepsis|prolepsis||S|let|C2
+in medias res|in medias res||L|let|C2
+embedded narrative|relato interpolado||L|let|C2
+diegesis|diegesis||S|let|C2
+round character|personaje redondo||L|let|C2
+flat character|personaje plano||L|let|C2
+pacing|ritmo narrativo||S|let|C2
+second-person narration|narración en segunda persona||L|let|C2
+halcyon|apacible y dorado||A|let|C2
+susurrus|susurro tenue||S|let|C2
+vespertine|vespertino||A|let|C2
+crepuscular|crepuscular||A|let|C2
+lambent|de suave resplandor||A|let|C2
+evanescent|evanescente||A|let|C2
+gossamer|tenue como una telaraña||A|let|C2
+diaphanous|diáfano||A|let|C2
+sylvan|silvestre, del bosque||A|nat|C2
+eventide|anochecer (poético)||S|let|C2
+gloaming|crepúsculo (poético)||S|let|C2
+auroral|auroral||A|let|C2
+nacreous|nacarado||A|let|C2
+twilit|en penumbra crepuscular||A|let|C2
+a priori|a priori||A|ast|C2
+episteme|episteme||S|ast|C2
+justified true belief|creencia verdadera justificada||L|ast|C2
+phenomenalism|fenomenismo||S|ast|C2
+deontological|deontológico||A|ast|C2
+consequentialism|consecuencialismo||S|ast|C2
+moral realism|realismo moral||L|ast|C2
+compatibilism|compatibilismo||S|ast|C2
+tabula rasa|tabula rasa||L|ast|C2
+noumenon|noúmeno||S|ast|C2
+qualia|qualia||S|ast|C2
+falsifiability|falsabilidad||S|sci|C2
+categorical imperative|imperativo categórico||L|ast|C2
+moral relativism|relativismo moral||L|ast|C2
+ontology|ontología||S|ast|C2
+teleology|teleología||S|ast|C2
+the sublime|lo sublime||L|art|C2
+disinterestedness|desinterés (estético)||S|art|C2
+aesthetic judgment|juicio estético||L|art|C2
+kitsch|kitsch (arte cursi)||S|art|C2
+ineffable|inefable||A|ast|C2
+immanence|inmanencia||S|ast|C2
+transcendence|trascendencia||S|ast|C2
+determinism|determinismo||S|ast|C2
+materialism|materialismo||S|ast|C2
+dualism|dualismo||S|ast|C2
+embodiment|corporeidad||S|ast|C2
+monism|monismo||S|ast|C2
+historiography|historiografía||S|ast|C2
+primary source|fuente primaria||L|stu|C2
+longue durée|la larga duración||L|ast|C2
+revisionism|revisionismo||S|ast|C2
+counterfactual history|historia contrafactual||L|ast|C2
+periodization|periodización||S|ast|C2
+historical agency|capacidad de acción histórica||L|ast|C2
+codicology|codicología||S|stu|C2
+metanarrative|metarrelato||S|ast|C2
+oral history|historia oral||L|ast|C2
+collective memory|memoria colectiva||L|ast|C2
+antiquarian|anticuario||S|pro|C2
+paleography|paleografía||S|stu|C2
+historiographical method|método historiográfico||L|ast|C2
+morpheme|morfema||S|stu|C2
+phoneme|fonema||S|stu|C2
+allophone|alófono||S|stu|C2
+syntactic tree|árbol sintáctico||L|stu|C2
+diachronic|diacrónico||A|stu|C2
+etymology|etimología||S|stu|C2
+phonological rule|regla fonológica||L|stu|C2
+semantic shift|cambio semántico||L|stu|C2
+corpus linguistics|lingüística de corpus||L|stu|C2
+creole language|lengua criolla||L|stu|C2
+loanword|préstamo léxico||S|stu|C2
+morphological derivation|derivación morfológica||L|stu|C2
+speech community|comunidad de habla||L|stu|C2
+philology|filología||S|stu|C2
+the unconscious|el inconsciente||L|ast|C2
+repression|represión||S|ast|C2
+cathexis|catexia||S|ast|C2
+sublimation|sublimación||S|ast|C2
+defense mechanism|mecanismo de defensa||L|ast|C2
+dream-work|trabajo del sueño||S|ast|C2
+critical theory|teoría crítica||L|ast|C2
+false consciousness|falsa conciencia||L|ast|C2
+culture industry|industria cultural||L|ast|C2
+dialectic|dialéctica||S|ast|C2
+hegemony|hegemonía||S|ast|C2
+reification|cosificación||S|ast|C2
+alienation|alienación (extrañamiento)||S|ast|C2
+mirror stage|estadio del espejo||L|ast|C2
+realpolitik|realpolitik||S|ist|C2
+deterrence|disuasión||S|ist|C2
+containment policy|política de contención||L|ist|C2
+mutually assured destruction|destrucción mutua asegurada||L|ist|C2
+hegemonic power|potencia hegemónica||L|ist|C2
+soft power|poder blando||L|ist|C2
+proxy war|guerra subsidiaria||L|ist|C2
+nonproliferation|no proliferación||S|ist|C2
+diplomatic immunity|inmunidad diplomática||L|ist|C2
+economic sanction|sanción económica||L|ist|C2
+multilateralism|multilateralismo||S|ist|C2
+buffer zone|zona de amortiguación||L|ist|C2
+irredentism|irredentismo||S|ist|C2
+summitry|diplomacia de cumbres||S|ist|C2
+consent of the governed|consentimiento de los gobernados||L|ist|C2
+negative liberty|libertad negativa||L|ast|C2
+distributive justice|justicia distributiva||L|ast|C2
+deliberative democracy|democracia deliberativa||L|ist|C2
+policy wonk|experto en políticas públicas||S|pro|C2
+regulatory capture|captura del regulador||L|ist|C2
+means-tested|sujeto a comprobación de recursos||A|ist|C2
+welfare state|Estado del bienestar||L|ist|C2
+civil society|sociedad civil||L|ist|C2
+checks and balances|pesos y contrapesos||L|ist|C2
+laissez-faire|laissez-faire||L|fin|C2
+rent-seeking|búsqueda de rentas||S|fin|C2
+public choice|elección pública||L|ist|C2
+technocracy|tecnocracia||S|ist|C2
+anomie|anomia||S|ast|C2
+gentrification|gentrificación||S|cit|C2
+social stratification|estratificación social||L|ast|C2
+habitus|habitus||S|ast|C2
+ascribed status|estatus adscrito||L|ast|C2
+conspicuous consumption|consumo ostentoso||L|fin|C2
+upward mobility|movilidad social ascendente||L|ast|C2
+marginalization|marginación||S|ast|C2
+demographic transition|transición demográfica||L|ast|C2
+othering|construcción del otro como diferente||S|ast|C2
+social cohesion|cohesión social||L|ast|C2
+intersectionality|interseccionalidad||S|ast|C2
+role strain|tensión de rol||L|ast|C2
+precariat|precariado||S|ast|C2
+ethnography|etnografía||S|ast|C2
+participant observation|observación participante||L|ast|C2
+kinship system|sistema de parentesco||L|ast|C2
+liminality|liminalidad||S|ast|C2
+cultural relativism|relativismo cultural||L|ast|C2
+totemism|totemismo||S|ast|C2
+ethnolinguistics|etnolingüística||S|stu|C2
+thick description|descripción densa||L|ast|C2
+syncretism|sincretismo||S|ast|C2
+mythopoeia|mitopoiesis||S|let|C2
+oral tradition|tradición oral||L|let|C2

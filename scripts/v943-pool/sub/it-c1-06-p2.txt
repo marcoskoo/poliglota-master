@@ -1,0 +1,303 @@
+anamnesi|anamnesis (historia clínica)||S|sla|C1
+prognosi|pronóstico||S|sla|C1
+decorso|evolución (clínica)||S|sla|C1
+remissione|remisión||S|sla|C1
+ricaduta|recaída||S|sla|C1
+diagnosi differenziale|diagnóstico diferencial||L|sla|C1
+referto|informe (médico)||S|sla|C1
+degenza|ingreso (estancia hospitalaria)||S|sla|C1
+dimissione|alta (hospitalaria)||S|sla|C1
+cartella clinica|historia clínica||L|sla|C1
+consenso informato|consentimiento informado||L|sla|C1
+posologia|posología||S|sla|C1
+dosaggio|dosificación||S|sla|C1
+principio attivo|principio activo||L|sla|C1
+eccipiente|excipiente||S|sla|C1
+biosimilare|biosimilar||A|sla|C1
+sperimentazione clinica|ensayo clínico||L|sla|C1
+doppio cieco|doble ciego||L|sla|C1
+gruppo di controllo|grupo de control||L|sla|C1
+farmacovigilanza|farmacovigilancia||S|sla|C1
+tollerabilità|tolerabilidad||S|sla|C1
+controindicazione|contraindicación||S|sla|C1
+sovradosaggio|sobredosis||S|sla|C1
+astinenza|abstinencia (síndrome de abstinencia)||S|sla|C1
+farmacocinetica|farmacocinética||S|sla|C1
+emivita|vida media (de un fármaco)||S|sla|C1
+biodisponibilità|biodisponibilidad||S|sla|C1
+somministrare|administrar (un fármaco)||V|sla|C1
+sedazione|sedación||S|sla|C1
+endoscopia|endoscopia||S|sla|C1
+biopsia|biopsia||S|sla|C1
+espirometria|espirometría||S|sla|C1
+dialisi|diálisis||S|sla|C1
+trapianto di midollo|trasplante de médula||L|sla|C1
+metastasi|metástasis||S|sla|C1
+neoplasia|neoplasia||S|sla|C1
+terapia palliativa|cuidados paliativos||L|sla|C1
+eziologia|etiología||S|sla|C1
+patogenesi|patogenia||S|sla|C1
+sintomatologia|sintomatología||S|sla|C1
+cardiopatia|cardiopatía||S|sla|C1
+aritmia|arritmia (cardíaca)||S|sla|C1
+fibrillazione atriale|fibrilación auricular||L|sla|C1
+trombosi|trombosis||S|sla|C1
+embolia|embolia||S|sla|C1
+stenosi|estenosis||S|sla|C1
+ischemia|isquemia||S|sla|C1
+necrosi|necrosis||S|sla|C1
+infarcimento|infarto (infarcimiento)||S|sla|C1
+iperplasia|hiperplasia||S|sla|C1
+metaplasia|metaplasia||S|sla|C1
+ipertrofia|hipertrofia||S|sla|C1
+distrofia|distrofia||S|sla|C1
+dispnea|disnea||S|sla|C1
+tachipnea|taquipnea||S|sla|C1
+cianosi|cianosis||S|sla|C1
+itterizia|ictericia||S|sla|C1
+cirrosi|cirrosis||S|sla|C1
+nefropatia|nefropatía||S|sla|C1
+proteinuria|proteinuria||S|sla|C1
+diuresi|diuresis||S|sla|C1
+enfisema|enfisema||S|sla|C1
+pancreatite|pancreatitis||S|sla|C1
+peristalsi|peristalsis||S|cor|C1
+sepsi|sepsis||S|sla|C1
+acidosi|acidosis||S|sla|C1
+alcalosi|alcalosis||S|sla|C1
+chetosi|cetosis||S|sla|C1
+ipotiroidismo|hipotiroidismo||S|sla|C1
+insulinoresistenza|resistencia a la insulina||S|sla|C1
+allergene|alérgeno||S|sla|C1
+anafilassi|anafilaxia||S|sla|C1
+melanoma|melanoma||S|sla|C1
+cheratina|queratina||S|cor|C1
+petecchia|petequia||S|cor|C1
+cheratosi|queratosis||S|sla|C1
+ematocrito|hematocrito||S|sla|C1
+trombocitopenia|trombocitopenia||S|sla|C1
+ematopoiesi|hematopoyesis||S|sla|C1
+puerperio|puerperio||S|sla|C1
+fontanella|fontanela (mollera)||S|cor|C1
+lussazione|luxación||S|sla|C1
+ortesi|ortesis||S|sla|C1
+chinesiterapia|cinesterapia||S|sla|C1
+deambulazione|deambulación||S|sla|C1
+propriocezione|propiocepción||S|sla|C1
+sutura|sutura||S|sla|C1
+laparotomia|laparotomía||S|sla|C1
+catetere|catéter||S|sla|C1
+divaricatore|separador (quirúrgico)||S|sla|C1
+forcipe|fórceps||S|sla|C1
+cauterizzazione|cauterización||S|sla|C1
+emostasi|hemostasia||S|sla|C1
+bisturi|bisturí||S|sla|C1
+cefalea|cefalea||S|sla|C1
+paralisi|parálisis||S|sla|C1
+parestesia|parestesia||S|sla|C1
+sincope|síncope||S|sla|C1
+narcolessia|narcolepsia||S|sla|C1
+epilessia|epilepsia||S|sla|C1
+psicosi|psicosis||S|sla|C1
+nevrosi|neurosis||S|sla|C1
+psichiatria|psiquiatría||S|sla|C1
+distimia|distimia||S|sla|C1
+allucinazione|alucinación||S|sla|C1
+delirio|delirio||S|sla|C1
+paranoia|paranoia||S|sla|C1
+ipocondria|hipocondría||S|sla|C1
+compulsione|compulsión||S|emo|C1
+catatonia|catatonia||S|sla|C1
+lobotomia|lobotomía||S|sla|C1
+ansiolitico|ansiolítico||A|sla|C1
+antidepressivo|antidepresivo||A|sla|C1
+bioetica|bioética||S|ast|C1
+eutanasia|eutanasia||S|ast|C1
+fecondazione in vitro|fecundación in vitro||L|sla|C1
+crioconservazione|crioconservación||S|sla|C1
+ovocita|ovocito||S|sla|C1
+obiezione di coscienza|objeción de conciencia||L|ist|C1
+epatopatia|hepatopatía||S|sla|C1
+genotipo|genotipo||S|sci|C1
+fenotipo|fenotipo||S|sci|C1
+cariotipo|cariotipo||S|sci|C1
+meiosi|meiosis||S|sci|C1
+mitosi|mitosis||S|sci|C1
+genomica|genómica||S|sci|C1
+epigenetica|epigenética||S|sci|C1
+aploide|haploide||A|sci|C1
+omozigote|homocigoto||A|sci|C1
+polimorfismo|polimorfismo||S|sci|C1
+editing genetico|edición genética||L|sci|C1
+vettore|vector (vehículo de genes)||S|sci|C1
+clonazione|clonación||S|sci|C1
+sequenziamento|secuenciación||S|sci|C1
+transgenico|transgénico||A|sci|C1
+ibridazione|hibridación||S|sci|C1
+apoptosi|apoptosis||S|sci|C1
+telomero|telómero||S|sci|C1
+ribosoma|ribosoma||S|sci|C1
+anticorpo monoclonale|anticuerpo monoclonal||L|sla|C1
+immunoglobulina|inmunoglobulina||S|sla|C1
+linfocita|linfocito||S|sla|C1
+fagocitosi|fagocitosis||S|sci|C1
+antigene|antígeno||S|sla|C1
+istocompatibilità|histocompatibilidad||S|sla|C1
+sieropositivo|seropositivo||A|sla|C1
+immunosoppressione|inmunosupresión||S|sla|C1
+coltura cellulare|cultivo celular||L|sci|C1
+micelio|micelio||S|nat|C1
+patogeno|patógeno||A|sla|C1
+stafilococco|estafilococo||S|sla|C1
+ceppo|cepa (de virus o bacteria)||S|sla|C1
+zoonosi|zoonosis||S|sla|C1
+endemia|endemia||S|sla|C1
+capside|cápside||S|sci|C1
+viremia|viremia||S|sci|C1
+sierologia|serología||S|sla|C1
+epidemiologia|epidemiología||S|sci|C1
+letalità|letalidad (tasa)||S|sci|C1
+morbilità|morbilidad||S|sci|C1
+incidenza|incidencia (tasa de casos)||S|sci|C1
+prevalenza|prevalencia||S|sci|C1
+sterilizzazione|esterilización||S|sla|C1
+sinapsi|sinapsis||S|sci|C1
+neurotrasmettitore|neurotransmisor||S|sci|C1
+corteccia|corteza (cerebral)||S|cor|C1
+assone|axón||S|sci|C1
+dendrite|dendrita||S|sci|C1
+mielina|mielina||S|sci|C1
+ganglio|ganglio (nervioso)||S|cor|C1
+encefalo|encéfalo||S|cor|C1
+cervelletto|cerebelo||S|cor|C1
+ipotalamo|hipotálamo||S|cor|C1
+amigdala|amígdala (cerebral)||S|cor|C1
+neurodegenerativo|neurodegenerativo||A|sla|C1
+convulsione|convulsión||S|sla|C1
+spasmo|espasmo||S|sla|C1
+ematoma|hematoma||S|sla|C1
+legame covalente|enlace covalente||L|sci|C1
+isomero|isómero||S|sci|C1
+chirale|quiral||A|sci|C1
+catalisi|catálisis||S|sci|C1
+benzene|benceno||S|sci|C1
+distillazione|destilación||S|sci|C1
+titolazione|valoración (análisis volumétrico)||S|sci|C1
+cromatografia|cromatografía||S|sci|C1
+spettrofotometria|espectrofotometría||S|sci|C1
+spettrometria|espectrometría||S|sci|C1
+peptide|péptido||S|sci|C1
+amminoacido|aminoácido||S|sci|C1
+substrato|sustrato||S|sci|C1
+isotopo|isótopo||S|sci|C1
+idrolisi|hidrólisis||S|sci|C1
+ossidazione|oxidación||S|sci|C1
+elettrolisi|electrólisis||S|sci|C1
+stechiometria|estequiometría||S|sci|C1
+polimero|polímero||S|sci|C1
+quark|quark||S|sci|C1
+bosone|bosón||S|sci|C1
+fotone|fotón||S|sci|C1
+neutrino|neutrino||S|sci|C1
+antimateria|antimateria||S|sci|C1
+sovrapposizione|superposición (cuántica)||S|sci|C1
+decoerenza|decoherencia||S|sci|C1
+singolarità|singularidad||S|sci|C1
+supernova|supernova||S|nat|C1
+pulsar|púlsar||S|nat|C1
+nebulosa|nebulosa||S|nat|C1
+ammasso|cúmulo (globular)||S|nat|C1
+parallasse|paralaje||S|sci|C1
+fusione nucleare|fusión nuclear||L|sci|C1
+fissile|fisionable||A|sci|C1
+scorie radioattive|residuos radiactivos||L|sci|C1
+decadimento|desintegración (radiactiva)||S|sci|C1
+arricchimento|enriquecimiento (de uranio)||S|sci|C1
+semiconduttore|semiconductor||S|tec|C1
+diodo|diodo||S|tec|C1
+fotolitografia|fotolitografía||S|tec|C1
+nanotubo|nanotubo||S|sci|C1
+grafene|grafeno||S|sci|C1
+condensato|condensado (de Bose-Einstein)||S|sci|C1
+entropia|entropía||S|sci|C1
+entalpia|entalpía||S|sci|C1
+termodinamica|termodinámica||S|sci|C1
+fluidodinamica|fluidodinámica||S|sci|C1
+difrazione|difracción||S|sci|C1
+interferenza|interferencia (óptica)||S|sci|C1
+polarizzazione|polarización||S|sci|C1
+ottica|óptica||S|sci|C1
+fotonica|fotónica||S|sci|C1
+risonanza|resonancia||S|sci|C1
+reticolo|red cristalina||S|sci|C1
+fonone|fonón||S|sci|C1
+superconduttività|superconductividad||S|sci|C1
+sinterizzazione|sinterización||S|sci|C1
+astrofisica|astrofísica||S|sci|C1
+cosmologia|cosmología||S|sci|C1
+radiazione di fondo|radiación de fondo (cósmica)||L|sci|C1
+stella di neutroni|estrella de neutrones||L|sci|C1
+nana bianca|enana blanca||L|sci|C1
+esopianeta|exoplaneta||S|sci|C1
+isteresi|histéresis (magnética)||S|sci|C1
+deviazione standard|desviación típica||L|sci|C1
+regressione|regresión (estadística)||S|sci|C1
+spurio|espurio||A|ast|C1
+ipotesi nulla|hipótesis nula||L|sci|C1
+confondente|de confusión (factor de confusión)||A|sci|C1
+campionamento|muestreo||S|sci|C1
+metanalisi|metanálisis||S|sci|C1
+rischio relativo|riesgo relativo||L|sla|C1
+intervallo di confidenza|intervalo de confianza||L|sci|C1
+randomizzazione|aleatorización (sorteo)||S|sci|C1
+prospettico|prospectivo (ensayo)||A|sla|C1
+matrice|matriz||S|sci|C1
+autovettore|autovector||S|sci|C1
+assioma|axioma||S|sci|C1
+lemme|lema||S|sci|C1
+corollario|corolario||S|sci|C1
+istologia|histología||S|sla|C1
+virologia|virología||S|sci|C1
+oncologia|oncología||S|sla|C1
+cardiologia|cardiología||S|sla|C1
+endocrinologia|endocrinología||S|sla|C1
+nefrologia|nefrología||S|sla|C1
+allergologia|alergología||S|sla|C1
+emodinamica|hemodinámica||S|sla|C1
+aferesi|aféresis (extracción sanguínea)||S|sla|C1
+antibiogramma|antibiograma||S|sla|C1
+nosocomiale|nosocomial (infección hospitalaria)||A|sla|C1
+iatrogeno|iatrogénico||A|sla|C1
+mastectomia|mastectomía||S|sla|C1
+rivascolarizzazione|revascularización||S|sla|C1
+angioplastica|angioplastia||S|sla|C1
+sistole|sístole||S|cor|C1
+diastole|diástole||S|cor|C1
+auscultazione|auscultación||S|sla|C1
+laparoscopia|laparoscopia||S|sla|C1
+carcinoma|carcinoma||S|sla|C1
+galenica|galénica (preparación magistral)||S|sla|C1
+reagente|reactivo||S|sci|C1
+vetreria|cristalería (de laboratorio)||S|sci|C1
+taratura|taratura (calibración)||S|tec|C1
+rianimazione|reanimación||S|sla|C1
+protesi|prótesis||S|sla|C1
+acufene|acúfenos (tinnitus)||S|sla|C1
+ipoacusia|hipoacusia||S|sla|C1
+retinopatia|retinopatía||S|sla|C1
+termoregolazione|termorregulación||S|cor|C1
+omeostasi|homeostasis||S|sci|C1
+anabolismo|anabolismo||S|sci|C1
+catabolismo|catabolismo||S|sci|C1
+cogenerazione|cogeneración||S|tec|C1
+reattore|reactor (nuclear)||S|tec|C1
+criticalità|criticidad (masa crítica)||S|sci|C1
+propulsione|propulsión||S|tec|C1
+scudo termico|escudo térmico||L|tec|C1
+assetto di volo|actitud de vuelo||L|tec|C1
+telemetria|telemetría||S|tec|C1
+latenza|latencia||S|tec|C1
+deglutizione|deglución (acto de tragar)||S|cor|C1
+osteosintesi|osteosíntesis||S|sla|C1
+fonazione|fonación (emisión de voz)||S|cor|C1
+mobilizzazione|movilización (rehabilitadora)||S|sla|C1

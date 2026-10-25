@@ -1,0 +1,310 @@
+deflazione|deflación||S|fin|C2
+stagflazione|estanflación||S|fin|C2
+bilancia dei pagamenti|balanza de pagos||L|fin|C2
+riserva valutaria|reservas de divisas||L|fin|C2
+aggiustamento|ajuste (reconversión)||S|fin|C2
+austerità|austeridad (política de)||S|fin|C2
+congiunturale|coyuntural||A|fin|C2
+sottoccupazione|subempleo||S|fin|C2
+domanda aggregata|demanda agregada||L|fin|C2
+offerta aggregata|oferta agregada||L|fin|C2
+monetarismo|monetarismo||S|fin|C2
+neoliberismo|neoliberalismo||S|fin|C2
+dazio|arancel (derecho aduanero)||S|fin|C2
+contingentamento|contingente (cuota arancelaria)||S|fin|C2
+dumping|dumping (venta a pérdida)||S|fin|C2
+salvaguardia|salvaguardia (protección)||S|fin|C2
+barriera non tariffaria|barrera no arancelaria||L|fin|C2
+delocalizzazione|deslocalización||S|fin|C2
+filiera|cadena productiva||S|fin|C2
+protezionismo|proteccionismo||S|fin|C2
+autarchia|autarquía||S|fin|C2
+multilateralismo|multilateralismo||S|ist|C2
+manovra|ajuste (medidas presupuestarias)||S|fin|C2
+circolante|dinero en circulación||S|fin|C2
+ancoraggio|anclaje (de expectativas)||S|fin|C2
+criptoattività|criptoactivos||S|fin|C2
+stablecoin|stablecoin (moneda estable)||S|fin|C2
+tokenizzazione|tokenización||S|tec|C2
+hash|hash (huella criptográfica)||S|tec|C2
+crittografia asimmetrica|criptografía asimétrica||L|tec|C2
+blockchain|cadena de bloques||S|tec|C2
+contratto intelligente|contrato inteligente||L|tec|C2
+apprendimento automatico|aprendizaje automático||L|tec|C2
+apprendimento profondo|aprendizaje profundo||L|tec|C2
+inferenza|inferencia (del modelo)||S|tec|C2
+bias|sesgo (prejuicio sistemático)||S|tec|C2
+dataset|conjunto de datos||S|tec|C2
+data mining|minería de datos||L|tec|C2
+indicizzazione|indexación||S|tec|C2
+validazione incrociata|validación cruzada||L|tec|C2
+avatar|avatar (encarnación digital)||S|tec|C2
+virtualità|virtualidad||S|tec|C2
+immersività|inmersividad||S|tec|C2
+realtà aumentata|realidad aumentada||L|tec|C2
+ransomware|ransomware (secuestro de datos)||S|tec|C2
+phishing|phishing (suplantación por correo)||S|tec|C2
+cifrario|cifrador (clave de cifrado)||S|tec|C2
+decrittazione|descifrado||S|tec|C2
+sicurezza informatica|ciberseguridad||L|tec|C2
+firewall|cortafuegos||S|tec|C2
+latenza|latencia||S|tec|C2
+commutazione|conmutación (de paquetes)||S|tec|C2
+dorsale|dorsal (red troncal)||S|tec|C2
+cablaggio|cableado||S|tec|C2
+elettrodotto|línea de alta tensión||S|tec|C2
+reattore|reactor (nuclear)||S|tec|C2
+fusione nucleare|fusión nuclear||L|sci|C2
+smantellamento|desmantelamiento||S|tec|C2
+decarbonizzazione|descarbonización||S|nat|C2
+transizione energetica|transición energética||L|nat|C2
+cogenerazione|cogeneración||S|tec|C2
+teleriscaldamento|calefacción de distrito||S|tec|C2
+rientro atmosferico|reentrada atmosférica||L|tec|C2
+propulsione|propulsión||S|tec|C2
+telemetria|telemetría||S|tec|C2
+geostazionario|geostacionario||A|tec|C2
+pressurizzazione|presurización||S|tec|C2
+carlinga|cabina de mando||S|tec|C2
+attuatore|actuador||S|tec|C2
+servoazionamento|servoaccionamiento||S|tec|C2
+prototipazione|creación de prototipos||S|tec|C2
+stampaggio|moldeo (estampado)||S|tec|C2
+forzante|forzante (radiativo)||S|sci|C2
+acidificazione|acidificación (de los océanos)||S|nat|C2
+paleoclimatologia|paleoclimatología||S|sci|C2
+dendrocronologia|dendrocronología||S|sci|C2
+isotopo|isótopo||S|sci|C2
+datazione|datación||S|sci|C2
+proliferazione|proliferación (armamentística)||S|ist|C2
+deterrenza|disuasión||S|ist|C2
+rappresaglia|represalia||S|ist|C2
+embargo|embargo (bloqueo comercial)||S|fin|C2
+escalation|escalada (agravamiento progresivo)||S|ist|C2
+distensione|distensión (internacional)||S|ist|C2
+unilateralismo|unilateralismo||S|ist|C2
+sovranismo|soberanismo||S|ist|C2
+corporativismo|corporativismo||S|ist|C2
+costituzionalismo|constitucionalismo||S|ist|C2
+garantismo|garantismo||S|ist|C2
+emergenziale|de emergencia (deriva emergencialista)||A|ist|C2
+palingenesi|palingenesia (regeneración)||S|ast|C2
+escatologia|escatología||S|rel|C2
+spopolamento|despoblamiento||S|ist|C2
+diaspora|diáspora||S|ist|C2
+ricongiungimento|reagrupación (familiar)||S|ist|C2
+respingimento|devolución (de migrantes)||S|ist|C2
+espatrio|expatriación||S|ist|C2
+rimpatrio|repatriación||S|ist|C2
+campanilismo|campanilismo (localismo de campanario)||S|ast|C2
+vernacolo|vernáculo (habla local)||S|let|C2
+gergo|jerga (argot)||S|cmu|C2
+articolo di fondo|artículo de fondo||L|cmu|C2
+redazionale|publirreportaje (contenido de marca)||S|cmu|C2
+titolone|titular de gran tamaño (titularazo)||S|cmu|C2
+occhiello|entradilla (ojillo)||S|cmu|C2
+fact-checking|verificación de datos||S|cmu|C2
+giornalismo d'inchiesta|periodismo de investigación||L|pro|C2
+rettifica|rectificación (fe de erratas)||S|cmu|C2
+smentita|desmentida||S|cmu|C2
+scoop|exclusiva (primicia)||S|cmu|C2
+clickbait|titular cebo (clicbait)||S|cmu|C2
+infodemia|infodemia (exceso de información)||S|cmu|C2
+bufala|bulo (noticia falsa)||S|cmu|C2
+stratificazione|estratificación (social)||S|ast|C2
+onboarding|integración (acogida laboral)||S|lav|C2
+giacenza|existencias (inventario)||S|fin|C2
+non conformità|no conformidad||S|tec|C2
+richiamo|retirada (de producto del mercado)||S|fin|C2
+rintracciabilità|trazabilidad||S|tec|C2
+startup|empresa emergente (startup)||S|fin|C2
+posizionamento|posicionamiento (de mercado)||S|fin|C2
+segmentazione|segmentación||S|fin|C2
+fidelizzazione|fidelización||S|fin|C2
+branding|gestión de marca||S|fin|C2
+storytelling|narrativa de marca||S|cmu|C2
+testimonial|testimonio publicitario||S|fin|C2
+incubatore|incubadora (de empresas)||S|fin|C2
+astio|rencor (astio)||S|emo|C2
+livore|bilis (rencor enconado)||S|emo|C2
+prodezza|proeza (valentía)||S|emo|C2
+baldanza|brío (osadía)||S|emo|C2
+spavalderia|jactancia||S|emo|C2
+protervia|descaro (insolencia soberbia)||S|emo|C2
+alterigia|altivez||S|emo|C2
+sussiego|pomposidad (distinguido afectado)||S|emo|C2
+remilgo|remilgo (melindre)||S|emo|C2
+svenevolezza|cursilería (sensiblería)||S|emo|C2
+lezioso|amanerado (rebuscado)||A|let|C2
+ampoloso|ampuloso||A|let|C2
+magniloquenza|magniloquencia||S|let|C2
+laconico|lacónico||A|cmu|C2
+ellittico|elíptico (conciso)||A|cmu|C2
+sentenzioso|sentencioso||A|let|C2
+dottrinario|doctrinario||A|ast|C2
+ponderato|meditado (ponderado)||A|ast|C2
+ponderare|ponderar (sopesar)||V|ast|C2
+sagacia|sagacidad||S|ast|C2
+accortezza|tino (astucia)||S|ast|C2
+scaltrezza|astucia (picardía)||S|emo|C2
+furberia|picardía (astucia)||S|emo|C2
+candore|candidez||S|ast|C2
+mansuetudine|mansedumbre||S|ast|C2
+remissivo|remisivo||A|emo|C2
+simulacro|simulacro (copia aparente)||S|ast|C2
+dissimulazione|disimulo||S|ast|C2
+perfidia|perfidia||S|emo|C2
+bieco|retorcido (abyecto)||A|let|C2
+fellonia|felonía (deslealtad)||S|ast|C2
+fedifrago|quebrantador de fe (felón)||A|let|C2
+spergiuro|perjuro||A|let|C2
+renitenza|renuencia||S|ast|C2
+riottoso|reacio||A|emo|C2
+bizzarria|bizarria (extravagancia)||S|emo|C2
+stravaganza|extravagancia||S|emo|C2
+stralunato|atarantado (mirada perdida)||A|emo|C2
+esterrefatto|boquiabierto (estupefacto)||A|emo|C2
+basire|quedarse pasmado||V|emo|C2
+letizia|regocijo||S|emo|C2
+giubilo|júbilo||S|emo|C2
+tedio|tedio||S|emo|C2
+rimpianto|pesar (añoranza con pesar)||S|emo|C2
+rammarico|pesadumbre||S|emo|C2
+cruccio|congoja||S|emo|C2
+afflizione|aflicción||S|emo|C2
+sconforto|desánimo||S|emo|C2
+scoramento|desánimo (abatimiento)||S|emo|C2
+sgomento|consternación||S|emo|C2
+turbamento|turba (sobresalto)||S|emo|C2
+sconcerto|desazón (perplejidad)||S|emo|C2
+smarrimento|desorientación (extravío)||S|emo|C2
+sbigottimento|aturdimiento (pasmo)||S|emo|C2
+abbindolare|engatusar (embaucar)||V|cmu|C2
+ammaliare|hechizar (embaucar)||V|emo|C2
+circuire|captar con astucia||V|cmu|C2
+estorcere|arrancar (con aplausos o confesiones)||V|cmu|C2
+carpire|sonsacar||V|cmu|C2
+adulatore|adulador||S|pro|C2
+leccapiedi|pelotas (adulador)||S|cmu|C2
+ruffiano|alcahuete||S|cmu|C2
+sfottere|tomar el pelo (mofarse)||V|cmu|C2
+menefreghismo|pasotismo||S|cmu|C2
+indispettito|mosqueado (irritado)||A|emo|C2
+stizzoso|irascible||A|emo|C2
+stizza|irritación (rabieta)||S|emo|C2
+collerico|colérico||A|emo|C2
+furente|furibundo||A|emo|C2
+fremere|hervir (de rabia o impaciencia)||V|emo|C2
+fremore|fervor (inquietud)||S|emo|C2
+ribollire|hervir de nuevo (rebelarse)||V|emo|C2
+attecchire|echar raíces (cuajar)||V|ast|C2
+degustazione|cata (degustación)||S|ris|C2
+sommelier|sumiller||S|pro|C2
+decantazione|decantación (trasiego)||S|ris|C2
+affinamento|afinado (crianza en barrica)||S|ris|C2
+barrique|barrique (barrica pequeña)||S|ris|C2
+verticale|vertical (cata de añadas)||A|ris|C2
+millesimato|millesimado (con añada declarada)||A|ris|C2
+organolettico|organoléptico||A|ris|C2
+terroir|terroir (terruño)||S|ris|C2
+torrefazione|torrefacción||S|ris|C2
+impiattare|emplatar||V|ris|C2
+mantecare|mantecar||V|ris|C2
+salmistrare|salmuerar (en salazón)||V|ris|C2
+riduzione|reducción (fondo concentrado)||S|ris|C2
+fondo bruno|fondo oscuro (caldo de carne)||L|ris|C2
+roux|roux (pasta de mantequilla y harina)||S|ris|C2
+napo|napar (cubrir con salsa)||V|ris|C2
+glassare|glasear (dar brillo)||V|ris|C2
+sapido|sápido (sabroso)||A|ris|C2
+viticoltura|viticultura||S|ris|C2
+diradamento|aclareo (poda en verde)||S|nat|C2
+cacciagione|caza (carne de caza)||S|ris|C2
+erborinato|con moho azul (tipo gorgonzola)||A|ris|C2
+pasta filata|pasta filada (queso hilado)||L|ris|C2
+stagionatura|estacionado (curación)||S|ris|C2
+norcineria|charcutería (oficio de porquero)||S|ris|C2
+decostruzione|deconstrucción (plato desmontado)||S|ris|C2
+gelificazione|gelificación||S|ris|C2
+sferificazione|esferificación||S|ris|C2
+frollatura|maduración (reposo de la carne)||S|ris|C2
+vernata|invernada (temporada ganadera de invierno)||S|nat|C2
+forra|collado (puerto de montaña)||S|vig|C2
+crepaccio|grieta (crevasse)||S|nat|C2
+morena|morrena||S|nat|C2
+seracco|sérac (bloque de hielo)||S|nat|C2
+slavina|alud (avalancha)||S|nat|C2
+rampone|crampones||S|spt|C2
+granfondo|granfondo (marcha ciclista)||S|spt|C2
+scalatore|escalador (de montaña)||S|spt|C2
+acclimatamento|aclimatación||S|vig|C2
+ipossia|hipoxia||S|cor|C2
+tallonare|pisar los talones (perseguir de cerca)||V|spt|C2
+catenaccio|cerrojo (catenaccio defensivo)||S|spt|C2
+ippica|hípica||S|spt|C2
+purosangue|pura sangre||S|ani|C2
+fantino|jinete (jockey)||S|pro|C2
+fecondazione in vitro|fecundación in vitro||L|sci|C2
+etologia|etología||S|sci|C2
+imprinting|impronta (apego precoz)||S|ani|C2
+svernare|invernar (pasar el invierno)||V|ani|C2
+nidificazione|nidificación||S|ani|C2
+impollinazione|polinización||S|nat|C2
+saprofago|saprófago||A|ani|C2
+neotenia|neotenia||S|sci|C2
+tassonomia|taxonomía||S|sci|C2
+olotipo|holotipo||S|sci|C2
+speciazione|especiación||S|sci|C2
+filogenesi|filogenia||S|sci|C2
+omologia|homología (caracteres)||S|sci|C2
+atavismo|atavismo||S|sci|C2
+bioma|bioma||S|nat|C2
+ecotono|ecotono||S|nat|C2
+bracconaggio|furtivismo (caza furtiva)||S|nat|C2
+selvicoltura|silvicultura||S|nat|C2
+imboschimento|repoblación forestal||S|nat|C2
+desertificazione|desertización||S|nat|C2
+aridocoltura|cultivo de secano (en árido)||S|nat|C2
+frangivento|cortavientos||S|nat|C2
+transumanza|transhumancia (trashumancia)||S|nat|C2
+alpeggio|alpeggio (pasto de altura)||S|nat|C2
+malga|majada (refugio alpino)||S|vig|C2
+speleologia|espeleología||S|spt|C2
+sima|sima (pozo natural)||S|nat|C2
+voragine|vorágine||S|nat|C2
+mareggiata|marejada (temporal)||S|nat|C2
+andatura|andadura (rumbo de vela)||S|spt|C2
+bolina|bolina (ceñida)||S|spt|C2
+sartia|obenque (jarcia fija)||S|spt|C2
+bifolco|palurdo (grosero rural)||S|cmu|C2
+villano|villano (rústico maleducado)||A|cmu|C2
+zotico|zote (rudo)||A|cmu|C2
+caciarone|guarretón (bullicioso)||A|cmu|C2
+borioso|engreído (fanfarrón)||A|emo|C2
+spaccone|fanfarrón (balagán)||S|cmu|C2
+millantatore|farsante (que presume de más)||S|cmu|C2
+vanagloria|vanagloria (jactancia)||S|emo|C2
+smodato|desmedido||A|ast|C2
+smisurato|desmesurado||A|ast|C2
+spropositato|disparatado (desmesurado)||A|ast|C2
+esorbitante|exorbitante||A|ast|C2
+strabiliante|asombroso (pasmoso)||A|ast|C2
+mirabolante|alucinante (maravillante)||A|ast|C2
+vertiginoso|vertiginoso||A|ast|C2
+a occhio e croce|a ojo de buen cubero||L|cmu|C2
+a spanne|a ojo (por aproximación)||L|cmu|C2
+fuorviante|engañoso (que desvía)||A|ast|C2
+fallace|falaz||A|let|C2
+fallacia|falacia||S|let|C2
+sofisma|sofisma||S|let|C2
+cavillo|objeción capciosa||S|let|C2
+cavillare|poner peros (objetar con sutileza)||V|cmu|C2
+tergiversare|tergiversar||V|cmu|C2
+svicolare|escabullirse (escurrirse)||V|cmu|C2
+tacitare|acallar (sobornar con silencio)||V|cmu|C2
+fiutare|olfatear (husmear)||V|cmu|C2
+divisare|divisar||V|vig|C2
+avvistare|avistar||V|vig|C2
+scrutare|escrutar||V|cmu|C2
+setacciare|cribar (tamizar con cuidado)||V|cmu|C2
+spigolare|espigar (recoger detalles)||V|let|C2

@@ -1,0 +1,291 @@
+preeclampsia|preeclampsia||S|sla|C2
+meconium|meconio||S|sla|C2
+amniocentesis|amniocentesis||S|sla|C2
+teratogen|teratógeno||S|sla|C2
+fontanelle|fontanela||S|sla|C2
+colostrum|calostro||S|sla|C2
+breech birth|parto de nalgas||E|sla|C2
+episiotomy|episiotomía||S|sla|C2
+dystocia|distocia||S|sla|C2
+failure to thrive|retraso del crecimiento infantil||E|sla|C2
+lanugo|lanugo||S|sla|C2
+rooting reflex|reflejo de búsqueda||E|sla|C2
+intussusception|invaginación intestinal||S|sla|C2
+retinopathy of prematurity|retinopatía de la prematuridad||E|sla|C2
+arthroscopy|artroscopia||S|sla|C2
+arthroplasty|artroplastia||S|sla|C2
+meniscectomy|meniscectomía||S|sla|C2
+comminuted fracture|fractura conminuta||E|sla|C2
+greenstick fracture|fractura en tallo verde||E|sla|C2
+osteosynthesis|osteosíntesis||S|sla|C2
+proprioception|propiocepción||S|sla|C2
+rotator cuff|manguito rotador||E|sla|C2
+laminectomy|laminectomía||S|sla|C2
+kyphosis|cifosis||S|sla|C2
+nonunion|pseudoartrosis||S|sla|C2
+avulsion fracture|fractura por avulsión||E|sla|C2
+cryotherapy|crioterapia||S|sla|C2
+tendinopathy|tendinopatía||S|sla|C2
+seroprevalence|seroprevalencia||S|sla|C2
+attack rate|tasa de ataque||E|sla|C2
+case fatality rate|tasa de letalidad||E|sla|C2
+vaccine hesitancy|reticencia vacunal||E|sla|C2
+cold chain|cadena de frío||E|sla|C2
+live attenuated vaccine|vacuna viva atenuada||E|sla|C2
+syndromic surveillance|vigilancia sindrómica||E|sla|C2
+notifiable disease|enfermedad de declaración obligatoria||E|sla|C2
+zoonosis|zoonosis||S|sla|C2
+vector-borne|de transmisión vectorial||A|sla|C2
+seroconversion|seroconversión||S|sla|C2
+waning immunity|inmunidad decreciente||E|sla|C2
+genomic surveillance|vigilancia genómica||E|sla|C2
+cordon sanitaire|cordón sanitario||L|sla|C2
+tax evasion|evasión fiscal||E|fin|C2
+tax avoidance|elusión fiscal||E|fin|C2
+offshore account|cuenta offshore||E|fin|C2
+shell company|empresa pantalla||E|fin|C2
+transfer pricing|precios de transferencia||E|fin|C2
+withholding tax|retención fiscal||E|fin|C2
+tax haven|paraíso fiscal||E|fin|C2
+capital flight|fuga de capitales||E|fin|C2
+tax amnesty|amnistía fiscal||E|fin|C2
+double taxation|doble imposición||E|fin|C2
+tax audit|inspección fiscal||E|fin|C2
+money laundering|blanqueo de capitales||E|fin|C2
+beneficial owner|titular real||E|fin|C2
+loophole|resquicio legal||S|fin|C2
+nonperforming loan|préstamo en mora||E|fin|C2
+charge-off|castigo de crédito incobrable||S|fin|C2
+covenant|pacto (en préstamos sindicados)||S|fin|C2
+haircut|quita (sobre el colateral)||S|fin|C2
+stress test|prueba de resistencia||E|fin|C2
+loan loss provision|provisión por insolvencias||E|fin|C2
+leverage ratio|ratio de apalancamiento||E|fin|C2
+maturity mismatch|descuadre de vencimientos||E|fin|C2
+bank run|corrida bancaria||E|fin|C2
+underwriting|suscripción (de riesgos)||S|fin|C2
+securitization|titulización||S|fin|C2
+interbank market|mercado interbancario||E|fin|C2
+forbearance|moratoria (de pago)||S|fin|C2
+delinquency rate|tasa de morosidad||E|fin|C2
+due diligence|diligencia debida||L|fin|C2
+goodwill|fondo de comercio||S|fin|C2
+leveraged buyout|compra apalancada||E|fin|C2
+hostile takeover|opa hostil||E|fin|C2
+poison pill|píldora venenosa||E|fin|C2
+white knight|caballero blanco||E|fin|C2
+earnout|precio aplazado ligado a resultados||S|fin|C2
+spin-off|empresa segregada||S|fin|C2
+carve-out|escisión parcial||S|fin|C2
+discounted cash flow|descuento de flujos de caja||E|fin|C2
+valuation multiple|múltiplo de valoración||E|fin|C2
+dilutive|dilutivo||A|fin|C2
+breakup fee|indemnización por ruptura||E|fin|C2
+stalking horse|oferta tapadera||E|fin|C2
+marginal utility|utilidad marginal||E|fin|C2
+price elasticity|elasticidad precio||E|fin|C2
+consumer surplus|excedente del consumidor||E|fin|C2
+deadweight loss|pérdida de eficiencia||E|fin|C2
+monopolistic competition|competencia monopólica||E|fin|C2
+sunk cost|coste irrecuperable||E|fin|C2
+price discrimination|discriminación de precios||E|fin|C2
+externality|externalidad||S|fin|C2
+moral hazard|riesgo moral||E|fin|C2
+adverse selection|selección adversa||E|fin|C2
+monopsony|monopsonio||S|fin|C2
+cross-subsidy|subsidio cruzado||S|fin|C2
+fungibility|fungibilidad||S|fin|C2
+diminishing returns|rendimientos decrecientes||E|fin|C2
+actuarial|actuarial||A|fin|C2
+deductible|franquicia (del seguro)||S|fin|C2
+indemnify|indemnizar||V|fin|C2
+act of God|fuerza mayor||E|fin|C2
+subrogation|subrogación||S|fin|C2
+reinsurance|reaseguro||S|fin|C2
+policyholder|tomador de la póliza||S|fin|C2
+rider|cláusula adicional (de la póliza)||S|fin|C2
+claims adjuster|perito de siniestros||E|fin|C2
+peril|riesgo asegurable||S|fin|C2
+loss ratio|ratio de siniestralidad||E|fin|C2
+tail risk|riesgo de cola||E|fin|C2
+parametric insurance|seguro paramétrico||E|fin|C2
+insurable interest|interés asegurable||E|fin|C2
+microfinance|microfinanzas||S|fin|C2
+conditional cash transfer|transferencia monetaria condicionada||E|fin|C2
+purchasing power parity|paridad de poder adquisitivo||E|fin|C2
+debt relief|alivio de la deuda||E|fin|C2
+structural adjustment|ajuste estructural||E|fin|C2
+foreign direct investment|inversión extranjera directa||E|fin|C2
+capacity building|fortalecimiento de capacidades||E|fin|C2
+remittances|remesas||S|fin|C2
+brain drain|fuga de cerebros||E|fin|C2
+empowerment|empoderamiento||S|fin|C2
+trickle-down economics|teoría del derrame||E|fin|C2
+indebtedness|endeudamiento||S|fin|C2
+least developed country|país menos adelantado||E|fin|C2
+informal settlement|asentamiento informal||E|fin|C2
+titration|valoración||S|sci|C2
+chromatography|cromatografía||S|sci|C2
+mass spectrometry|espectrometría de masas||E|sci|C2
+elution|elución||S|sci|C2
+calibration curve|curva de calibrado||E|sci|C2
+limit of detection|límite de detección||E|sci|C2
+blank|blanco (de análisis)||S|sci|C2
+aliquot|alícuota||S|sci|C2
+volumetric flask|matraz aforado||E|sci|C2
+burette|bureta||S|sci|C2
+analyte|analito||S|sci|C2
+standard solution|disolución patrón||E|sci|C2
+spectrophotometry|espectrofotometría||S|sci|C2
+gravimetric|gravimétrico||A|sci|C2
+band gap|banda prohibida||E|sci|C2
+crystal lattice|red cristalina||E|sci|C2
+phonon|fonón||S|sci|C2
+dopant|dopante||S|sci|C2
+grain boundary|borde de grano||E|sci|C2
+dislocation|dislocación (cristalina)||S|sci|C2
+superconductivity|superconductividad||S|sci|C2
+piezoelectric|piezoeléctrico||A|sci|C2
+tensile strength|resistencia a la tracción||E|sci|C2
+creep|fluencia (de los materiales)||S|sci|C2
+allotrope|alótropo||S|sci|C2
+hysteresis|histéresis||S|sci|C2
+annealing|recocido||S|sci|C2
+doping|dopaje (del semiconductor)||S|sci|C2
+albedo|albedo||S|sci|C2
+anthropogenic|antropogénico||A|sci|C2
+radiative forcing|forzamiento radiativo||E|sci|C2
+feedback loop|bucle de retroalimentación||E|sci|C2
+climate sensitivity|sensibilidad climática||E|sci|C2
+tipping point|punto de no retorno||E|sci|C2
+ocean acidification|acidificación de los océanos||E|sci|C2
+stratospheric|estratosférico||A|sci|C2
+paleoclimate|paleoclima||S|sci|C2
+jet stream|corriente en chorro||E|sci|C2
+thermohaline circulation|circulación termohalina||E|sci|C2
+carbon sequestration|secuestro de carbono||E|sci|C2
+permafrost|permafrost||S|sci|C2
+carbon sink|sumidero de carbono||E|sci|C2
+fossil record|registro fósil||E|sci|C2
+phylogeny|filogenia||S|sci|C2
+cladistics|cladística||S|sci|C2
+stratigraphy|estratigrafía||S|sci|C2
+mass extinction|extinción masiva||E|sci|C2
+punctuated equilibrium|equilibrio puntuado||E|sci|C2
+hominid|hominino||S|sci|C2
+trilobite|trilobites||S|sci|C2
+radiometric dating|datación radiométrica||E|sci|C2
+fossilization|fosilización||S|sci|C2
+ammonite|amonites||S|sci|C2
+speciation|especiación||S|sci|C2
+adaptive radiation|radiación adaptativa||E|sci|C2
+holotype|holotipo||S|sci|C2
+capsid|cápside||S|sla|C2
+reverse transcriptase|transcriptasa inversa||E|sla|C2
+lytic cycle|ciclo lítico||E|sla|C2
+lysogenic|lisogénico||A|sla|C2
+antigenic drift|deriva antigénica||E|sla|C2
+antigenic shift|cambio antigénico||E|sla|C2
+viremia|viremia||S|sla|C2
+incubation period|periodo de incubación||E|sla|C2
+reservoir|reservorio (del patógeno)||S|sla|C2
+spillover|salto de especie||S|sla|C2
+budding|gemación (viral)||S|sla|C2
+tropism|tropismo (tisular)||S|sla|C2
+opportunistic infection|infección oportunista||E|sla|C2
+latency|latencia (viral)||S|sla|C2
+gene editing|edición genética||E|sci|C2
+nuclease|nucleasa||S|sci|C2
+knockout|gen inactivado||S|sci|C2
+knockdown|silenciamiento de la expresión||S|sci|C2
+off-target|fuera de diana||A|sci|C2
+germline|línea germinal||S|sci|C2
+plasmid|plásmido||S|sci|C2
+transgenic|transgénico||A|sci|C2
+vector|vector (de transferencia génica)||S|sci|C2
+chimera|quimera||S|sci|C2
+codon|codón||S|sci|C2
+promoter|promotor (genético)||S|sci|C2
+gene drive|impulsor genético||E|sci|C2
+homologous recombination|recombinación homóloga||E|sci|C2
+tractography|tractografía||S|sci|C2
+diffusion imaging|imagen por difusión||E|sci|C2
+cortical|cortical||A|sci|C2
+connectome|conectoma||S|sci|C2
+voxel|vóxel||S|sci|C2
+neuroplasticity|neuroplasticidad||S|sci|C2
+electrophysiology|electrofisiología||S|sci|C2
+somatosensory|somatosensorial||A|sci|C2
+corpus callosum|cuerpo calloso||E|sci|C2
+contralateral|contralateral||A|sci|C2
+myelination|mielinización||S|sci|C2
+sulcus|surco (cerebral)||S|sci|C2
+parcellation|parcelación cortical||S|sci|C2
+gyrus|circunvolución||S|sci|C2
+nanoparticle|nanopartícula||S|sci|C2
+carbon nanotube|nanotubo de carbono||E|sci|C2
+graphene|grafeno||S|sci|C2
+self-assembly|autoensamblaje||S|sci|C2
+hydrogel|hidrogel||S|sci|C2
+metamaterial|metamaterial||S|sci|C2
+yield strength|límite elástico||E|sci|C2
+composite material|material compuesto||E|sci|C2
+thin film|capa fina||E|sci|C2
+sintering|sinterización||S|sci|C2
+microstructure|microestructura||S|sci|C2
+nanoscale|nanoescala||S|sci|C2
+quasicrystal|cuasicristal||S|sci|C2
+toughness|tenacidad||S|sci|C2
+birefringence|birrefringencia||S|sci|C2
+coherence|coherencia (lumínica)||S|sci|C2
+polarization|polarización (de la luz)||S|sci|C2
+total internal reflection|reflexión total interna||E|sci|C2
+chromatic aberration|aberración cromática||E|sci|C2
+waveguide|guía de onda||S|sci|C2
+photonics|fotónica||S|sci|C2
+acoustic impedance|impedancia acústica||E|sci|C2
+reverberation|reverberación||S|sci|C2
+interferometry|interferometría||S|sci|C2
+collimate|colimar||V|sci|C2
+specular|especular||A|sci|C2
+dispersion|dispersión (cromática)||S|sci|C2
+focal length|distancia focal||E|sci|C2
+entropy|entropía||S|sci|C2
+enthalpy|entalpía||S|sci|C2
+adiabatic|adiabático||A|sci|C2
+isentropic|isentrópico||A|sci|C2
+heat flux|flujo de calor||E|sci|C2
+laminar flow|flujo laminar||E|sci|C2
+boundary layer|capa límite||E|sci|C2
+shear stress|tensión de cizalladura||E|sci|C2
+incompressible|incompresible||A|sci|C2
+buoyancy|empuje (fuerza de flotación)||S|sci|C2
+compressibility|compresibilidad||S|sci|C2
+heat engine|máquina térmica||E|sci|C2
+phase transition|transición de fase||E|sci|C2
+remote sensing|teledetección||E|sci|C2
+contour line|curva de nivel||E|sci|C2
+geodesy|geodesia||S|sci|C2
+orthophoto|ortofoto||S|sci|C2
+georeference|georreferenciar||V|sci|C2
+cartography|cartografía||S|sci|C2
+spatial resolution|resolución espacial||E|sci|C2
+raster|ráster||S|sci|C2
+photogrammetry|fotogrametría||S|sci|C2
+graticule|retícula geográfica||S|sci|C2
+azimuth|acimut||S|sci|C2
+basemap|mapa base||S|sci|C2
+choropleth map|mapa coroplético||E|sci|C2
+iambic|yámbico||A|let|C2
+trochee|troqueo||S|let|C2
+dactyl|dáctilo||S|let|C2
+caesura|cesura||S|let|C2
+enjambment|encabalgamiento||S|let|C2
+scansion|escansión||S|let|C2
+meter|metro (poético)||S|let|C2
+anapest|anapesto||S|let|C2
+assonance|asonancia||S|let|C2
+elision|elisión||S|let|C2
+metrical foot|pie métrico||E|let|C2
+villanelle|villanelle||S|let|C2
+prosody|prosodia||S|let|C2

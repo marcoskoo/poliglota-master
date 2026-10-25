@@ -1,0 +1,120 @@
+infanzia|infancia||S|fam|B2
+adolescenza|adolescencia||S|fam|B2
+suocera|suegra||S|fam|B2
+convivenza|convivencia||S|rel|B2
+fidanzamento|noviazgo||S|rel|B2
+nozze|boda||S|rel|B2
+luna di miele|luna de miel||L|rel|B2
+separazione|separación||S|rel|B2
+divorziare|divorciarse||V|rel|B2
+educare|educar||V|fam|B2
+sgridare|regañar||V|fam|B2
+affidamento|custodia||S|ist|B2
+trasloco|mudanza||S|cas|B2
+traslocare|mudarse (de domicilio)||V|cas|B2
+affitto|alquiler||S|cas|B2
+locatore|arrendador||S|cas|B2
+canone|renta (del alquiler)||S|cas|B2
+caparra|fianza||S|cas|B2
+disdetta|desistimiento (del contrato)||S|cas|B2
+ristrutturazione|reforma||S|cas|B2
+soffitta|desván||S|cas|B2
+mansarda|buhardilla||S|cas|B2
+arredamento|mobiliario||S|cas|B2
+comò|cómoda||S|cas|B2
+credenza|aparador||S|cas|B2
+lampadario|lámpara de techo||S|cas|B2
+condominio|comunidad de vecinos||S|cas|B2
+schiamazzi|ruidos (escándalo)||S|cas|B2
+gastronomia|gastronomía||S|ali|B2
+pietanza|plato (de comida)||S|ris|B2
+assaggio|cata||S|ris|B2
+specialità|especialidad (plato típico)||S|ris|B2
+cucina etnica|cocina étnica||L|ris|B2
+piatto unico|plato único||L|ris|B2
+degustazione|degustación||S|ris|B2
+abbuffarsi|darse un atracón||V|ali|B2
+saltare il pasto|saltarse una comida||E|ali|B2
+intolleranza al lattosio|intolerancia a la lactosa||L|ali|B2
+celiachia|celiaquía||S|sla|B2
+nutrizionista|nutricionista||S|pro|B2
+dieta equilibrata|dieta equilibrada||L|ali|B2
+apporto calorico|aporte calórico||L|ali|B2
+etichettatura|etiquetado||S|ali|B2
+scadenza|fecha de caducidad||S|ali|B2
+grassi saturi|grasas saturadas||L|ali|B2
+annata|añada||S|ali|B2
+consumismo|consumismo||S|cmp|B2
+consumatore|consumidor||S|cmp|B2
+campagna pubblicitaria|campaña publicitaria||L|cmp|B2
+marchio|marca||S|cmp|B2
+vetrina|escaparate||S|cmp|B2
+saldi|rebajas||S|cmp|B2
+reso|devolución||S|cmp|B2
+rimborso|reembolso||S|cmp|B2
+garanzia|garantía||S|cmp|B2
+reclamo|reclamación||S|cmp|B2
+ingorgo|atasco||S|tra|B2
+rotonda|glorieta||S|tra|B2
+verbale|acta de multa||S|tra|B2
+patente a punti|carné por puntos||L|tra|B2
+tamponamento|colisión por alcance||S|tra|B2
+guasto|avería||S|tra|B2
+foratura|pinchazo||S|tra|B2
+gomma di scorta|rueda de repuesto||L|tra|B2
+revisione|revisión (del vehículo)||S|tra|B2
+mobilità sostenibile|movilidad sostenible||L|tra|B2
+trasferta|desplazamiento (por trabajo)||S|lav|B2
+coincidenza|conexión (entre vuelos)||S|vig|B2
+scalo|escala||S|vig|B2
+cancellazione del volo|cancelación del vuelo||L|vig|B2
+andata e ritorno|ida y vuelta||L|vig|B2
+visto d'ingresso|visado de entrada||L|vig|B2
+permesso di soggiorno|permiso de residencia||L|vig|B2
+dazio|arancel||S|ist|B2
+pernottamento|pernoctación||S|htl|B2
+pensione completa|pensión completa||L|htl|B2
+mezza pensione|media pensión||L|htl|B2
+servizio in camera|servicio de habitaciones||L|htl|B2
+soggiornare|alojarse||V|htl|B2
+binario|andén||S|tra|B2
+prevenzione|prevención||S|sla|B2
+stile di vita|estilo de vida||L|sla|B2
+visita specialistica|consulta especializada||L|sla|B2
+ricetta|receta (médica)||S|sla|B2
+farmacia di turno|farmacia de guardia||L|sla|B2
+tessera sanitaria|tarjeta sanitaria||L|sla|B2
+ambulatorio|consulta (centro médico)||S|sla|B2
+pronto soccorso|urgencias||L|sla|B2
+esenzione|exención||S|sla|B2
+vaccinazione|vacunación||S|sla|B2
+sedentarietà|sedentarismo||S|sla|B2
+insonnia|insomnio||S|sla|B2
+attacco di panico|ataque de pánico||L|sla|B2
+medico di famiglia|médico de cabecera||L|sla|B2
+esito|resultado (de una prueba)||S|sla|B2
+cerotto|tirita||S|sla|B2
+narrativa|narrativa||S|let|B2
+intreccio|trama (de una obra)||S|let|B2
+saggio|ensayo||S|let|B2
+metafora|metáfora||S|let|B2
+articolazione|articulación||S|cor|B2
+tendine|tendón||S|cor|B2
+metabolismo|metabolismo||S|cor|B2
+postura|postura||S|cor|B2
+proroga|prórroga||S|tmp|B2
+lasso di tempo|lapso de tiempo||L|tmp|B2
+saltuariamente|esporádicamente||D|tmp|B2
+imminente|inminente||A|tmp|B2
+serata|velada (salida nocturna)||S|sve|B2
+scommessa|apuesta||S|sve|B2
+uncinetto|ganchillo||S|sve|B2
+ricamo|bordado||S|sve|B2
+escursione|excursión||S|sve|B2
+procrastinare|procrastinar||V|emo|B2
+frustrazione|frustración||S|emo|B2
+autostima|autoestima||S|emo|B2
+resilienza|resiliencia||S|emo|B2
+confutare|refutar||V|cmu|B2
+obiezione|objeción||S|cmu|B2
+prendere la parola|tomar la palabra||E|cmu|B2

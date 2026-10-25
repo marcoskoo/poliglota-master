@@ -1,0 +1,290 @@
+stakeholder alignment|alineación de las partes interesadas||L|lav|C2
+core competency|competencia esencial||L|lav|C2
+change management|gestión del cambio||L|lav|C2
+benchmarking|comparación de referencia||S|lav|C2
+deliverable|entregable||S|lav|C2
+scale up|escalar (el negocio)||V|lav|C2
+first mover advantage|ventaja del pionero||L|fin|C2
+vertical integration|integración vertical||L|fin|C2
+buy-in|apoyo comprometido||S|lav|C2
+value proposition|propuesta de valor||L|fin|C2
+matrix organization|organización matricial||L|lav|C2
+succession planning|planificación de la sucesión||L|lav|C2
+economies of scale|economías de escala||L|fin|C2
+blue ocean strategy|estrategia de océano azul||L|fin|C2
+onboarding|incorporación de personal||S|lav|C2
+attrition rate|tasa de rotación de plantilla||L|lav|C2
+performance appraisal|evaluación del desempeño||L|lav|C2
+glass ceiling|techo de cristal||L|lav|C2
+severance package|indemnización por cese||L|lav|C2
+deferred compensation|compensación diferida||L|fin|C2
+groupthink|pensamiento de grupo||S|ast|C2
+job satisfaction|satisfacción laboral||L|lav|C2
+burnout|desgaste profesional||S|sla|C2
+employee engagement|implicación de los empleados||L|lav|C2
+psychometric test|test psicométrico||L|lav|C2
+tacit knowledge|conocimiento tácito||L|lav|C2
+mentorship program|programa de mentoría||L|stu|C2
+wrongful termination|despido improcedente||L|lav|C2
+pedagogy|pedagogía||S|stu|C2
+formative assessment|evaluación formativa||L|stu|C2
+scaffolding|andamiaje (didáctico)||S|stu|C2
+differentiated instruction|enseñanza diferenciada||L|stu|C2
+competency-based education|educación basada en competencias||L|stu|C2
+metacognition|metacognición||S|stu|C2
+curriculum design|diseño curricular||L|stu|C2
+andragogy|andragogía||S|stu|C2
+flipped classroom|aula invertida||L|stu|C2
+hidden curriculum|currículo oculto||L|stu|C2
+rubric|rúbrica de evaluación||S|stu|C2
+summative assessment|evaluación sumativa||L|stu|C2
+gifted program|programa para alumnos superdotados||L|stu|C2
+teachable moment|momento pedagógico oportuno||L|stu|C2
+boilerplate|cláusula estándar||S|ist|C2
+addendum|anexo contractual||S|fin|C2
+indemnify|indemnizar||V|fin|C2
+hold harmless|eximir de responsabilidad||E|ist|C2
+attorney-client privilege|secreto profesional abogado-cliente||L|ist|C2
+certified translation|traducción jurada||L|pro|C2
+statute of frauds|exigencia de forma escrita (contratos)||L|ist|C2
+precedent|jurisprudencia (precedente)||S|ist|C2
+tort reform|reforma de la responsabilidad civil||L|ist|C2
+duty of care|deber de diligencia||L|ist|C2
+malpractice claim|demanda por negligencia profesional||L|sla|C2
+informed refusal|rechazo informado||L|sla|C2
+scope of practice|ámbito competencial profesional||L|pro|C2
+work order|orden de trabajo||L|tec|C2
+rapprochement|acercamiento (reconciliación)||S|rel|C2
+camaraderie|camaradería||S|rel|C2
+enmity|enemistad||S|rel|C2
+falling-out|desavenencia, pelea||S|rel|C2
+smitten|enamorado perdidamente||A|rel|C2
+estranged|distanciado||A|rel|C2
+reconcile|reconciliarse||V|rel|C2
+confidant|confidente||S|rel|C2
+budding friendship|amistad incipiente||L|rel|C2
+love-hate relationship|relación de amor-odio||L|rel|C2
+fair-weather friend|amigo de conveniencia||L|rel|C2
+keep at arm's length|mantener a distancia||E|rel|C2
+tacit understanding|entendimiento tácito||L|rel|C2
+vouch for|responder por (dar fe de)||E|rel|C2
+libretto|libreto||S|art|C2
+aria|aria||S|mus|C2
+overture|obertura||S|mus|C2
+bel canto|bel canto||L|mus|C2
+verismo|verismo||S|mus|C2
+stagecraft|técnica teatral||S|art|C2
+proscenium|proscenio||S|art|C2
+matinee|función de tarde||S|art|C2
+soliloquy|soliloquio||S|let|C2
+dramatic irony|ironía dramática||L|let|C2
+villanelle|villanelle||S|let|C2
+sestina|sextina||S|let|C2
+stanza break|corte de estrofa||L|let|C2
+curtain call|salida a saludar||L|art|C2
+wayfarer|viajero a pie||S|vig|C2
+trailblazer|pionero, abrecaminos||S|pro|C2
+portage|porteo (entre cursos de agua)||S|sve|C2
+crevasse|grieta (en un glaciar)||S|nat|C2
+whiteout|tormenta de nieve ciega||S|cli|C2
+bivouac|vivac||S|vig|C2
+high-altitude pulmonary edema|edema pulmonar de altura||L|sla|C2
+summit bid|intento de cumbre||L|spt|C2
+scree|pedregal de ladera||S|nat|C2
+moraine|morrena||S|nat|C2
+serac|bloque de hielo (sérac)||S|nat|C2
+topo map|mapa topográfico||L|vig|C2
+bushwhack|abrirse paso por la maleza||V|nat|C2
+glissade|descenso deslizante sobre nieve||S|spt|C2
+auteurism|política de los autores||S|cin|C2
+mise-en-scene|puesta en escena||L|cin|C2
+jump cut|salto de montaje||L|cin|C2
+cross-cutting|montaje en paralelo||S|cin|C2
+diegetic sound|sonido diegético||L|cin|C2
+freeze frame|imagen congelada||L|cin|C2
+long take|plano secuencia||L|cin|C2
+shot-reverse-shot|plano-contraplano||L|cin|C2
+focal length|distancia focal||L|cin|C2
+letterboxing|bandas negras (formato panorámico)||S|cin|C2
+film noir|cine negro||L|cin|C2
+slow cinema|cine contemplativo||L|cin|C2
+three-act structure|estructura en tres actos||L|cin|C2
+suspension of disbelief|suspensión de la incredulidad||L|cin|C2
+fertility rate|tasa de fecundidad||L|ast|C2
+birth cohort|cohorte de nacimiento||L|sci|C2
+multigenerational household|hogar multigeneracional||L|fam|C2
+kinship network|red de parentesco||L|fam|C2
+blended family|familia reconstituida||L|fam|C2
+empty nest|nido vacío||L|fam|C2
+nuptiality|nupcialidad||S|ast|C2
+median age|edad mediana||L|sci|C2
+age structure|estructura por edades||L|sci|C2
+population pyramid|pirámide de población||L|sci|C2
+pronatalist policy|política pronatalista||L|ist|C2
+intergenerational mobility|movilidad intergeneracional||L|ast|C2
+household composition|composición del hogar||L|fam|C2
+family reunification|reagrupación familiar||L|ist|C2
+urban fabric|trama urbana||L|cit|C2
+streetscape|paisaje urbano||S|cit|C2
+facade|fachada||S|cit|C2
+load-bearing wall|muro de carga||L|cit|C2
+portico|pórtico||S|cit|C2
+arcade|paseo porticado||S|cit|C2
+masonry|fábrica de albañilería||S|cit|C2
+cornice|cornisa||S|cit|C2
+cantilever|voladizo||S|cit|C2
+zoning ordinance|ordenanza de zonificación||L|ist|C2
+adaptive reuse|reutilización adaptativa||L|cit|C2
+brutalism|brutalismo||S|art|C2
+pedestrian mall|calle peatonal||L|cit|C2
+brownstone|casa de arenisca rojiza||S|cit|C2
+terroir|terroir||S|ali|C2
+appellation|denominación de origen||S|ali|C2
+vintage|añada||S|ali|C2
+sommelier|sommelier||S|pro|C2
+decant|decantar||V|ris|C2
+tannin|tanino||S|ali|C2
+malolactic fermentation|fermentación maloláctica||L|ali|C2
+oaky|con notas de roble||A|ali|C2
+mouthfeel|sensación en boca||S|ali|C2
+amuse-bouche|aperitivo de cortesía||S|ris|C2
+sous-vide|al vacío (cocción)||A|ris|C2
+deglaze|desglasar||V|ris|C2
+umami|umami||S|ali|C2
+tasting flight|degustación comparativa||L|ris|C2
+taxonomic classification|clasificación taxonómica||L|sci|C2
+phylogeny|filogenia||S|sci|C2
+sympatric|simpátrido||A|sci|C2
+foraging behavior|comportamiento de forrajeo||L|ani|C2
+imprinting|impronta (etología)||S|ani|C2
+altruism|altruismo (biológico)||S|sci|C2
+sexual dimorphism|dimorfismo sexual||L|sci|C2
+keystone species|especie clave||L|ani|C2
+apex predator|superpredador||L|ani|C2
+migration route|ruta migratoria||L|ani|C2
+molting|muda (plumaje o exoesqueleto)||S|ani|C2
+echolocation|ecolocación||S|ani|C2
+convergent evolution|evolución convergente||L|sci|C2
+vestigial organ|órgano vestigial||L|cor|C2
+phenology|fenología||S|nat|C2
+mycorrhiza|micorriza||S|nat|C2
+xylem|xilema||S|nat|C2
+phloem|floema||S|nat|C2
+pollination syndrome|síndrome de polinización||L|nat|C2
+seed dispersal|dispersión de semillas||L|nat|C2
+ecological succession|sucesión ecológica||L|nat|C2
+edge effect|efecto borde||L|nat|C2
+habitat fragmentation|fragmentación del hábitat||L|nat|C2
+invasive species|especie invasora||L|nat|C2
+endemic|endémico||A|nat|C2
+understory|sotobosque||S|nat|C2
+landscape ecology|ecología del paisaje||L|nat|C2
+diachrony|diacronía||S|ast|C2
+epoche|epoché (suspensión del juicio)||S|ast|C2
+temporality|temporalidad||S|ast|C2
+mnemonic device|regla mnemotécnica||L|stu|C2
+re-enactment|recreación histórica||S|ast|C2
+historical consciousness|conciencia histórica||L|ast|C2
+palimpsest|palimpsesto||S|let|C2
+anachronism|anacronismo||S|let|C2
+instantaneity|instantaneidad||S|ast|C2
+perpetuity|perpetuidad||S|ast|C2
+retrospective|retrospectivo||A|ast|C2
+commemoration|conmemoración||S|ast|C2
+lived time|tiempo vivido||L|ast|C2
+blockchain|cadena de bloques||S|tec|C2
+cryptocurrency exchange|casa de cambio de criptomonedas||L|fin|C2
+cold wallet|monedero frío||L|fin|C2
+smart contract|contrato inteligente||L|tec|C2
+proof of stake|prueba de participación||L|fin|C2
+mining rig|equipo de minado||L|tec|C2
+stablecoin|establecoin (criptomoneda con respaldo)||S|fin|C2
+tokenization|tokenización||S|tec|C2
+decentralized finance|finanzas descentralizadas||L|fin|C2
+fiat on-ramp|pasarela desde el dinero tradicional||L|fin|C2
+airdrop|reparto gratuito de tokens||S|fin|C2
+custody solution|solución de custodia||L|fin|C2
+white paper|libro blanco||L|fin|C2
+notary public|notario||L|pro|C2
+acknowledgment|acta de otorgamiento (notarial)||S|ist|C2
+jurat|fórmula de juramento notarial||S|ist|C2
+apostille|apostilla||S|ist|C2
+power of attorney|poder notarial||L|ist|C2
+escrow account|cuenta de depósito en garantía||L|fin|C2
+title search|estudio de titularidad||L|ist|C2
+lien release|cancelación de gravamen||L|ist|C2
+recordable instrument|documento inscribible||L|ist|C2
+notarization|actuación notarial||S|ist|C2
+grant deed|escritura de transmisión||L|ist|C2
+codicil|codicilo||S|ist|C2
+probate court|juzgado de sucesiones||L|ist|C2
+administrative procedure|procedimiento administrativo||L|ist|C2
+rulemaking|tramitación de reglamentos||S|ist|C2
+notice and comment|trámite de información pública||L|ist|C2
+adjudication|resolución administrativa||S|ist|C2
+exhaustion of remedies|agotamiento de la vía administrativa||L|ist|C2
+arbitrary and capricious|arbitrario y caprichoso||E|ist|C2
+enabling act|ley habilitante||L|ist|C2
+administrative record|expediente administrativo||L|ist|C2
+standing to sue|legitimación procesal||L|ist|C2
+cease-and-desist order|orden de cese||L|ist|C2
+licensing board|junta de licencias||L|ist|C2
+oversight agency|agencia de supervisión||L|ist|C2
+motion to quash|petición de anulación||L|ist|C2
+en banc|en pleno (tribunal completo)||E|ist|C2
+recidivism|reincidencia||S|ist|C2
+criminogenic|criminógeno||A|ist|C2
+restorative justice|justicia restaurativa||L|ist|C2
+labeling theory|teoría del etiquetado||L|ast|C2
+white-collar crime|delito de cuello blanco||L|ist|C2
+penitentiary system|sistema penitenciario||L|ist|C2
+solitary confinement|aislamiento penitenciario||L|ist|C2
+victimology|victimología||S|ist|C2
+forensic anthropology|antropología forense||L|sci|C2
+rational choice theory|teoría de la elección racional||L|ast|C2
+incapacitation|inhabilitación (pena)||S|ist|C2
+probation officer|oficial de libertad condicional||L|pro|C2
+parole board|junta de libertad condicional||L|ist|C2
+community policing|policía de proximidad||L|ist|C2
+treaty ratification|ratificación de tratados||L|ist|C2
+customary international law|derecho internacional consuetudinario||L|ist|C2
+law of armed conflict|derecho de los conflictos armados||L|ist|C2
+extraterritorial jurisdiction|jurisdicción extraterritorial||L|ist|C2
+sovereign debt|deuda soberana||L|fin|C2
+extradition treaty|tratado de extradición||L|ist|C2
+jus cogens|jus cogens||L|ist|C2
+reservation|reserva (a un tratado)||S|ist|C2
+diplomatic note|nota diplomática||L|ist|C2
+international tribunal|tribunal internacional||L|ist|C2
+amicus brief|escrito de amicus curiae||L|ist|C2
+universal jurisdiction|jurisdicción universal||L|ist|C2
+signatory|parte firmante||S|ist|C2
+pacta sunt servanda|pacta sunt servanda||E|ist|C2
+articles of incorporation|escritura de constitución (sociedad)||L|ist|C2
+fiduciary duty|deber fiduciario||L|ist|C2
+corporate bylaws|estatutos sociales||L|ist|C2
+merger agreement|acuerdo de fusión||L|fin|C2
+tender offer|opa (oferta pública de adquisición)||L|fin|C2
+piercing the corporate veil|alzamiento del velo societario||L|ist|C2
+stock option plan|plan de opciones sobre acciones||L|fin|C2
+limited liability company|sociedad de responsabilidad limitada||L|fin|C2
+proxy statement|informe de representación||L|fin|C2
+minority shareholder|accionista minoritario||L|fin|C2
+preferred stock|acciones preferentes||L|fin|C2
+drag-along rights|derechos de arrastre||L|fin|C2
+capital contribution|aportación de capital||L|fin|C2
+dissolution|disolución societaria||S|fin|C2
+collective bargaining agreement|convenio colectivo||L|lav|C2
+grievance procedure|procedimiento de reclamaciones||L|lav|C2
+closed shop|sindicato de ingreso obligatorio||L|lav|C2
+open shop|taller libre (sin obligación sindical)||L|lav|C2
+strike ballot|votación de huelga||L|lav|C2
+picket line|piquete de huelga||L|lav|C2
+lockout|cierre patronal||S|lav|C2
+seniority system|sistema de antigüedad||L|lav|C2
+back pay|salarios atrasados||L|fin|C2
+arbitration award|laudo arbitral||L|ist|C2
+at-will employment|contratación a voluntad||L|lav|C2
+non-compete clause|cláusula de no competencia||L|lav|C2
+overtime exemption|exención de horas extra||L|lav|C2
+union delegate|delegado sindical||L|lav|C2

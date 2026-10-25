@@ -1,0 +1,253 @@
+chord|acorde||S|mus|B2
+sheet music|partitura||L|mus|B2
+composer|compositor||S|mus|B2
+rehearsal|ensayo||S|mus|B2
+backstage|entre bastidores||L|mus|B2
+lyrics|letra (de una canción)||S|mus|B2
+venue|recinto (del concierto)||S|mus|B2
+cast|reparto||S|cin|B2
+soundtrack|banda sonora||S|cin|B2
+premiere|estreno||S|cin|B2
+shoot|rodar (una película)||V|cin|B2
+film festival|festival de cine||L|cin|B2
+screenwriter|guionista||S|cin|B2
+box office|taquilla||L|cin|B2
+break up|romper (con alguien)||L|rel|B2
+fall out|pelearse (dejar de hablarse)||L|rel|B2
+make up|reconciliarse||L|rel|B2
+grudge|rencor||S|rel|B2
+split up|separarse (una pareja)||L|rel|B2
+apologize|disculparse||V|rel|B2
+betray|traicionar||V|rel|B2
+inclusive|incluyente||A|rel|B2
+belonging|sentimiento de pertenencia||S|emo|B2
+background|origen (procedencia)||S|rel|B2
+solidarity|solidaridad||S|rel|B2
+minority|minoría||S|rel|B2
+mentor|mentor (persona que guía)||S|rel|B2
+empathy|empatía||S|emo|B2
+income tax|impuesto sobre la renta||L|fin|B2
+tax return|declaración de la renta||L|fin|B2
+rebate|devolución (de impuestos)||S|fin|B2
+self-employed|autónomo||A|lav|B2
+withhold|retener (en nómina)||V|fin|B2
+bracket|tramo (impositivo)||S|fin|B2
+fiscal|fiscal||A|fin|B2
+mortgage|hipoteca||S|fin|B2
+interest rate|tipo de interés||L|fin|B2
+down payment|entrada (pago inicial)||L|fin|B2
+installment|cuota (pago aplazado)||S|fin|B2
+collateral|garantía (aval)||S|fin|B2
+lender|prestamista||S|fin|B2
+credit score|puntuación de crédito||L|fin|B2
+savings|ahorros||S|fin|B2
+stock market|bolsa (valores)||L|fin|B2
+dividend|dividendo||S|fin|B2
+invest|invertir||V|fin|B2
+portfolio|cartera (de valores)||S|fin|B2
+mutual fund|fondo de inversión||L|fin|B2
+fluctuate|fluctuar||V|fin|B2
+retiree|jubilado||S|fin|B2
+pension plan|plan de pensiones||L|fin|B2
+social security|seguridad social (estadounidense)||L|fin|B2
+senior citizen|persona mayor||L|rel|B2
+nest egg|colchón (ahorro para la vejez)||L|fin|B2
+retirement age|edad de jubilación||L|fin|B2
+life expectancy|esperanza de vida||L|sla|B2
+dining out|comer fuera||L|ris|B2
+tasting menu|menú degustación||L|ris|B2
+undercooked|poco hecho||A|ali|B2
+signature dish|plato estrella||L|ris|B2
+foodie|aficionado a la buena comida||S|ris|B2
+leftovers|sobras||S|ali|B2
+attorney|abogado||S|pro|B2
+paralegal|auxiliar jurídico||S|pro|B2
+auditor|auditor||S|pro|B2
+accountant|contable||S|pro|B2
+executive|directivo||S|pro|B2
+board of directors|consejo de administración||L|pro|B2
+consultant|consultor||S|pro|B2
+blueprint|plano (proyecto)||S|pro|B2
+contractor|contratista||S|pro|B2
+electrician|electricista||S|pro|B2
+technician|técnico||S|pro|B2
+machinery|maquinaria||S|pro|B2
+welder|soldador||S|pro|B2
+foreman|capataz||S|pro|B2
+surgeon|cirujano||S|pro|B2
+paramedic|paramédico||S|pro|B2
+pharmacist|farmacéutico||S|pro|B2
+midwife|matrona||S|pro|B2
+principal|director (de centro escolar)||S|pro|B2
+teaching assistant|auxiliar docente||L|pro|B2
+physician|médico||S|pro|B2
+editor|editor||S|pro|B2
+playwright|dramaturgo||S|pro|B2
+sculptor|escultor||S|pro|B2
+choreographer|coreógrafo||S|pro|B2
+news anchor|presentador de informativos||L|pro|B2
+freelancer|trabajador por cuenta propia||S|lav|B2
+policy|política (medida)||S|att|B2
+bill|proyecto de ley||S|att|B2
+lawmaker|legislador||S|att|B2
+reform|reforma||S|att|B2
+opposition|oposición||S|att|B2
+cabinet|gabinete (gobierno)||S|att|B2
+spokesperson|portavoz||S|att|B2
+recession|recesión||S|att|B2
+inflation|inflación||S|att|B2
+unemployment rate|tasa de paro||L|att|B2
+deficit|déficit||S|att|B2
+growth|crecimiento (económico)||S|att|B2
+austerity|austeridad||S|att|B2
+forecast|previsión||S|att|B2
+deforestation|deforestación||S|nat|B2
+pollution|contaminación||S|nat|B2
+landfill|vertedero||S|nat|B2
+eco-friendly|ecológico||A|nat|B2
+awareness|conciencia (social)||S|nat|B2
+greenhouse gas|gas de efecto invernadero||L|nat|B2
+waste management|gestión de residuos||L|nat|B2
+hypothesis|hipótesis||S|sci|B2
+peer review|revisión por pares||L|sci|B2
+assumption|supuesto (de partida)||S|sci|B2
+outcome|resultado||S|sci|B2
+questionnaire|cuestionario||S|sci|B2
+sample|muestra (estadística)||S|sci|B2
+variable|variable||S|sci|B2
+enzyme|enzima||S|sci|B2
+molecule|molécula||S|sci|B2
+genetics|genética||S|sci|B2
+bacteria|bacterias||S|sci|B2
+compound|compuesto (químico)||S|sci|B2
+gene|gen||S|sci|B2
+gravity|gravedad||S|sci|B2
+particle|partícula||S|sci|B2
+telescope|telescopio||S|sci|B2
+black hole|agujero negro||L|sci|B2
+asteroid|asteroide||S|sci|B2
+constellation|constelación||S|sci|B2
+physicist|físico (científico)||S|pro|B2
+twist|giro (argumental)||S|let|B2
+narrator|narrador||S|let|B2
+setting|escenario (marco narrativo)||S|let|B2
+fictional|de ficción||A|let|B2
+short story|cuento||L|let|B2
+metaphor|metáfora||S|let|B2
+memoir|memorias (género)||S|let|B2
+joint|articulación||S|cor|B2
+spine|columna (vertebral)||S|cor|B2
+posture|postura||S|cor|B2
+flexibility|flexibilidad||S|cor|B2
+breathing|respiración||S|cor|B2
+skeleton|esqueleto||S|cor|B2
+heartbeat|latido||S|cor|B2
+habitat|hábitat||S|ani|B2
+predator|depredador||S|ani|B2
+prey|presa||S|ani|B2
+migrate|migrar||V|ani|B2
+herd|manada||S|ani|B2
+hibernate|hibernar||V|ani|B2
+endangered species|especie en peligro||L|ani|B2
+poaching|caza furtiva||S|ani|B2
+conservation|conservación||S|nat|B2
+extinction|extinción||S|ani|B2
+wildlife|fauna silvestre||S|ani|B2
+biodiversity|biodiversidad||S|nat|B2
+food chain|cadena alimentaria||L|ani|B2
+renewable energy|energía renovable||L|nat|B2
+solar panel|panel solar||L|nat|B2
+wind farm|parque eólico||L|nat|B2
+hydroelectric|hidroeléctrico||A|nat|B2
+ecosystem|ecosistema||S|nat|B2
+power plant|central eléctrica||L|nat|B2
+energy-efficient|de bajo consumo||A|nat|B2
+heatwave|ola de calor||S|cli|B2
+humidity|humedad||S|cli|B2
+thunderstorm|tormenta (con truenos)||S|cli|B2
+hail|granizo||S|cli|B2
+blizzard|ventisca||S|cli|B2
+tide|marea||S|nat|B2
+downpour|aguacero||S|cli|B2
+from now on|de ahora en adelante||L|tmp|B2
+in the long run|a largo plazo||L|tmp|B2
+every so often|de vez en cuando||L|tmp|B2
+sooner or later|más pronto o más tarde||L|tmp|B2
+timeframe|plazo||S|tmp|B2
+reschedule|reprogramar||V|tmp|B2
+countdown|cuenta atrás||S|tmp|B2
+nightclub|discoteca||S|sve|B2
+hang out|pasar el rato||L|sve|B2
+late-night|nocturno||A|sve|B2
+night out|noche de fiesta||L|sve|B2
+get-together|quedada||S|sve|B2
+leisure|ocio||S|sve|B2
+stand-up comedy|monólogos de humor||L|sve|B2
+board game|juego de mesa||L|sve|B2
+jigsaw puzzle|rompecabezas||L|sve|B2
+collectable|coleccionable||S|sve|B2
+knitting|labores de punto||S|sve|B2
+sewing|costura||S|sve|B2
+pottery|cerámica||S|sve|B2
+procrastinate|procrastinar||V|emo|B2
+willpower|fuerza de voluntad||S|emo|B2
+self-discipline|autodisciplina||S|emo|B2
+overwhelmed|abrumado||A|emo|B2
+set a goal|fijarse un objetivo||L|emo|B2
+frustrating|frustrante||A|emo|B2
+mood|estado de ánimo||S|emo|B2
+point of view|punto de vista||L|cmu|B2
+counter-argument|contraargumento||S|cmu|B2
+persuasive|persuasivo||A|cmu|B2
+biased|sesgado||A|cmu|B2
+back down|ceder (retirarse)||L|cmu|B2
+stick up for|defender (apoyar a alguien)||L|cmu|B2
+downplay|minimizar||V|cmu|B2
+slide|diapositiva||S|cmu|B2
+public speaking|hablar en público||L|cmu|B2
+body language|lenguaje corporal||L|cmu|B2
+handout|folleto (distribuido)||S|cmu|B2
+stage fright|miedo escénico||L|cmu|B2
+wrap up|concluir||L|cmu|B2
+eye contact|contacto visual||L|cmu|B2
+compromise|transigir||V|cmu|B2
+meet halfway|encontrarse a mitad de camino||E|cmu|B2
+concession|concesión||S|cmu|B2
+deal-breaker|condición inaceptable||S|cmu|B2
+win-win|de mutuo beneficio||A|cmu|B2
+trade-off|contrapartida||S|cmu|B2
+reach an agreement|llegar a un acuerdo||L|cmu|B2
+courtroom|sala del juicio||S|ist|B2
+verdict|veredicto||S|ist|B2
+sentence|condena||S|ist|B2
+testimony|testimonio||S|ist|B2
+defendant|acusado||S|ist|B2
+jury|jurado||S|ist|B2
+appeal|recurrir (una sentencia)||V|ist|B2
+paperwork|papeleo||S|ist|B2
+fill out|rellenar (un formulario)||L|ist|B2
+stand in line|hacer cola||L|ist|B2
+schedule an appointment|pedir hora (cita)||L|ist|B2
+submit|presentar (una solicitud)||V|ist|B2
+process|tramitar||V|ist|B2
+fee|tasas (derechos administrativos)||S|ist|B2
+ballot|papeleta||S|ist|B2
+polling station|colegio electoral||L|ist|B2
+turnout|participación (electoral)||S|ist|B2
+campaign|campaña electoral||S|ist|B2
+run for office|presentarse a un cargo||L|ist|B2
+opinion poll|encuesta (electoral)||L|ist|B2
+landslide|victoria aplastante||S|ist|B2
+as a result|como resultado||L|cnn|B2
+in other words|en otras palabras||L|cnn|B2
+on the contrary|por el contrario||L|cnn|B2
+moreover|además (es más)||D|cnn|B2
+nevertheless|no obstante||D|cnn|B2
+whereas|mientras que||C|cnn|B2
+fairness|equidad||S|ast|B2
+integrity|integridad||S|ast|B2
+compassion|compasión||S|ast|B2
+dignity|dignidad||S|ast|B2
+equality|igualdad||S|ast|B2
+ideal|ideal||S|ast|B2
+virtue|virtud||S|ast|B2

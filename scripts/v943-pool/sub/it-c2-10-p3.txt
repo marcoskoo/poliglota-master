@@ -1,0 +1,311 @@
+ermeneutica|hermenéutica||S|let|C2
+esegeta|exégeta (intérprete)||S|pro|C2
+esegesi|exégesis||S|let|C2
+filologia|filología||S|let|C2
+ecdotica|ecdotica (crítica textual)||S|let|C2
+variante|variante (lectio alternativa)||S|let|C2
+lectio difficilior|lectio difficilior (lectura más difícil)||L|let|C2
+interpolazione|interpolación (texto ajeno)||S|let|C2
+apocrifo|apócrifo||S|let|C2
+epitome|epítome||S|let|C2
+silloge|silloge (antología)||S|let|C2
+florilegio|florilegio (selección de textos)||S|let|C2
+canzoniere|cancionero||S|let|C2
+aedo|aedo||S|let|C2
+rapsodo|rapsoda||S|let|C2
+corifeo|corifeo||S|let|C2
+stasimo|estásimo||S|let|C2
+tetralogia|tetralogía||S|let|C2
+gnomico|gnómico||A|let|C2
+aforisma|aforismo||S|let|C2
+paremiaco|paremiaco||A|let|C2
+brocardo|brocardo (máxima jurídica)||S|ist|C2
+epigramma|epigrama||S|let|C2
+elegiaco|elegíaco||A|let|C2
+bucolico|bucólico||A|let|C2
+didascalico|didascálico||A|let|C2
+didascalia|didascalia (acotación)||S|cin|C2
+ipotesto|hipotexto||S|let|C2
+intertestualità|intertextualidad||S|let|C2
+dialogismo|dialogismo (polifonía de voces)||S|let|C2
+polifonia|polifonía (novela polifónica)||S|let|C2
+flusso di coscienza|flujo de conciencia||L|let|C2
+focalizzazione|focalización (punto de vista)||S|let|C2
+onnisciente|omnisciente (narrador omnisciente)||A|let|C2
+extradiegetico|extradiegético||A|let|C2
+intradiegetico|intradiegético||A|let|C2
+analessi|analepsis||S|let|C2
+prolessi|prolepsis (prolepsis narrativa)||S|let|C2
+ellissi|elipsis||S|let|C2
+anafora|anáfora||S|let|C2
+anadiplosi|anadiplosis||S|let|C2
+chiasmo|quiasmo||S|let|C2
+zeugma|zeugma||S|let|C2
+iperbato|hipérbaton||S|let|C2
+ipallage|hipálage||S|let|C2
+sinestesia|sinestesia||S|let|C2
+ossimoro|oxímoron||S|let|C2
+merismo|merismo||S|let|C2
+endiadi|hendiadys||S|let|C2
+climax|clímax (gradación retórica)||S|let|C2
+litote|litotes||S|let|C2
+antifrasi|antífrasis||S|let|C2
+preterizione|preterición||S|let|C2
+polisemia|polisemia||S|let|C2
+omonimia|homonimia||S|let|C2
+etimo|etimón (etimología de una palabra)||S|let|C2
+calco|calco (préstamo traducido)||S|let|C2
+prestito|préstamo (léxico)||S|let|C2
+forestierismo|extranjerismo||S|let|C2
+volgarizzamento|romanización (traducción antigua al vulgar)||S|let|C2
+incunabolo|incunable||S|let|C2
+cinquecentina|libro del Quinientos (impreso del XVI)||S|let|C2
+palinsesto|palimpsesto||S|let|C2
+tiratura|tirada||S|let|C2
+edizione critica|edición crítica||L|let|C2
+edizione princeps|editio princeps||L|let|C2
+anastatica|reproducción anastática||A|let|C2
+colophon|colofón||S|let|C2
+frontespizio|portada||S|let|C2
+mise en abyme|puesta en abismo||L|let|C2
+mimesi|mímesis||S|let|C2
+poiesi|poiesis (creación)||S|let|C2
+epistemologia|epistemología||S|ast|C2
+ontologia|ontología||S|ast|C2
+ontologico|ontológico||A|ast|C2
+quiddità|quiddidad (esencia)||S|ast|C2
+haecceitas|haecceidad (estidad)||L|ast|C2
+noetico|noético||A|ast|C2
+noematico|noemático||A|ast|C2
+fenomenologia|fenomenología||S|ast|C2
+epoché|epoché (suspensión del juicio)||S|ast|C2
+intenzionalità|intencionalidad (de la conciencia)||S|ast|C2
+dialettica|dialéctica||S|ast|C2
+negatività|negatividad (hieleguiana)||S|ast|C2
+alienazione|alienación (enajenación)||S|ast|C2
+reificazione|cosificación||S|ast|C2
+feticizzazione|fetichización||S|ast|C2
+egemonia|hegemonía||S|ast|C2
+subalterno|subalterno||A|ast|C2
+prassi|praxis||S|ast|C2
+deontologia|deontología||S|ast|C2
+consequenzialismo|consecuencialismo||S|ast|C2
+imperativo categorico|imperativo categórico||L|ast|C2
+utilitarismo|utilitarismo||S|ast|C2
+edonismo|hedonismo||S|ast|C2
+temperanza|templanza||S|ast|C2
+magnanimità|magnanimidad||S|ast|C2
+liberalità|generosidad (liberalidad)||S|ast|C2
+accidia|acedía||S|ast|C2
+beatitudine|bienaventuranza||S|ast|C2
+contemplazione|contemplación||S|ast|C2
+sublimità|sublimidad (lo sublime)||S|ast|C2
+epifania|epifanía (revelación súbita)||S|let|C2
+cronachistica|cronística (género de crónicas)||S|let|C2
+annalistica|analística (anales)||S|let|C2
+regesta|regesta (registros diplomáticos)||S|let|C2
+diplomatistica|diplomática (ciencia de documentos)||S|let|C2
+paleografia|paleografía||S|let|C2
+epigrafia|epigrafía||S|let|C2
+numismatica|numismática||S|let|C2
+revisionismo|revisionismo (histórico)||S|ast|C2
+negazionismo|negacionismo||S|ast|C2
+anacronismo|anacronismo (error cronológico)||S|let|C2
+storicismo|historicismo||S|ast|C2
+storicizzazione|historicización||S|ast|C2
+periodizzazione|periodización||S|tmp|C2
+congiuntura|coyuntura (histórica)||S|ast|C2
+lunga durata|larga duración||L|tmp|C2
+mentalità|mentalidad (colectiva)||S|ast|C2
+microstoria|microhistoria||S|ast|C2
+prosopografia|prosopografía||S|ast|C2
+erudizione|erudición||S|ast|C2
+inconscio|inconsciente||S|ast|C2
+preconscio|preconsciente||S|ast|C2
+Super-io|superyó||S|ast|C2
+Es|Ello||S|ast|C2
+condensazione|condensación (onírica)||S|ast|C2
+spostamento|desplazamiento (onírico)||S|ast|C2
+atto mancato|acto fallido||L|ast|C2
+godimento|goce (jouissance)||S|ast|C2
+significante|significante||S|let|C2
+semiotica|semiología (semiótica)||S|let|C2
+sintagma|sintagma||S|let|C2
+paradigmatico|paradigmático||A|let|C2
+isotopia|isotopía (coherencia semántica)||S|let|C2
+attante|actante||S|let|C2
+sema|sema (unidad de sentido)||S|let|C2
+fonologia|fonología||S|let|C2
+allofono|alófono||S|let|C2
+dittongazione|diptongación||S|let|C2
+rotacismo|rotacismo||S|let|C2
+metaplasmo|metaplasmo||S|let|C2
+apocope|apócope||S|let|C2
+dieresi|diéresis||S|let|C2
+sineresi|sineresis||S|let|C2
+giambo|yambo||S|let|C2
+trocheo|troqueo||S|let|C2
+dattilo|dáctilo (pie métrico)||S|let|C2
+anfibraco|anfíbraco||S|let|C2
+sdrucciola|esdrújula (acento antepenúltimo)||A|let|C2
+verso sciolto|verso blanco||L|let|C2
+endecasillabo|endecasílabo||S|let|C2
+settenario|heptasílabo||S|let|C2
+alessandrino|alejandrino (verso)||S|let|C2
+terza rima|terceto encadenado||L|let|C2
+terzina|terceto||S|let|C2
+assonanza|asonancia (rima asonante)||S|let|C2
+allitterazione|aliteración||S|let|C2
+cacofonia|cacofonía||S|let|C2
+eufemismo|eufemismo||S|let|C2
+disfemismo|disfemismo||S|let|C2
+perifrasi|perífrasis||S|let|C2
+circonlocuzione|circunlocución||S|let|C2
+pleonasmo|pleonasmo||S|let|C2
+isteron proteron|hísteron próteron||L|let|C2
+allegoria|alegoría||S|let|C2
+metonimia|metonimia||S|let|C2
+sineddoche|sinécdoque||S|let|C2
+ipotiposi|hipotiposis||S|let|C2
+prosopopea|prosopopeya||S|let|C2
+facezia|facecia (agudeza renacentista)||S|let|C2
+arguzia|agudeza||S|cmu|C2
+arguto|agudo (mordaz)||A|cmu|C2
+salace|salaz||A|let|C2
+licenzioso|licencioso||A|let|C2
+scurrile|scurril||A|let|C2
+partitura|partitura||S|mus|C2
+pentagramma|pentagrama||S|mus|C2
+contrappunto|contrapunto||S|mus|C2
+basso continuo|bajo continuo||L|mus|C2
+clavicembalo|clavecín||S|mus|C2
+liuteria|laudería (oficio de lutier)||S|mus|C2
+liutaio|lutier||S|pro|C2
+vibrato|vibrato||S|mus|C2
+cromatismo|cromatismo||S|mus|C2
+atonalità|atonalidad||S|mus|C2
+dodecafonico|dodecafónico||A|mus|C2
+serialismo|serialismo||S|mus|C2
+coloratura|coloratura||S|mus|C2
+bel canto|bel canto||L|mus|C2
+virtuosismo|virtuosismo||S|mus|C2
+librettista|libretista||S|pro|C2
+suggeritore|apuntador (teatro)||S|pro|C2
+loggione|gallinero (anfiteatro popular)||S|cin|C2
+ditirambo|ditirambo (alabanza desatada)||S|let|C2
+scenografia|escenografía||S|cin|C2
+scenotecnica|escenotecnia||S|cin|C2
+montaggio|montaje||S|cin|C2
+campo-controcampo|plano y contraplano||L|cin|C2
+carrellata|travelling (paneo en dolly)||S|cin|C2
+zoomata|zoom (plano de zoom)||S|cin|C2
+fuoricampo|fuera de campo||A|cin|C2
+flashback|flashback (analespsis filmica)||S|cin|C2
+profondità di campo|profundidad de campo||L|cin|C2
+messa in scena|puesta en escena||L|cin|C2
+soggettiva|plano subjetivo||S|cin|C2
+diegesi|diegesis||S|cin|C2
+diegetico|diegético||A|cin|C2
+colonna sonora|banda sonora||L|cin|C2
+doppiaggio|doblaje||S|cin|C2
+storyboard|storyboard (guion gráfico)||S|cin|C2
+sceneggiatura|guion||S|cin|C2
+fotogramma|fotograma||S|cin|C2
+grana|grano (textura de la película)||S|cin|C2
+iconografia|iconografía||S|art|C2
+iconologia|iconología||S|art|C2
+attribuzione|atribución (de una obra)||S|art|C2
+catalogo ragionato|catálogo razonado||L|art|C2
+provenienza|procedencia (de una obra)||S|art|C2
+restauro|restauración||S|art|C2
+lunetta|luneta||S|art|C2
+pennellata|pincelada||S|art|C2
+velatura|veladura||S|art|C2
+imprimitura|imprimación||S|art|C2
+sinopia|sinopia (dibujo previo al fresco)||S|art|C2
+sgraffito|esgrafiado||S|art|C2
+cornicione|cornisa||S|art|C2
+bugnato|almohadillado||S|art|C2
+strombatura|abocinamiento (derrame de jamba)||S|art|C2
+voluta|voluta||S|art|C2
+rosone|rosetón||S|art|C2
+bifora|bífora||S|art|C2
+transetto|transepto (crucero)||S|art|C2
+deambulatorio|deambulatorio (girola)||S|art|C2
+capriata|cercha (armadura de cubierta)||S|art|C2
+oculo|óculo (ventanuco circular)||S|art|C2
+collaudo|recepción (prueba de una obra)||S|art|C2
+oreficeria|orfebrería||S|art|C2
+cesello|cincel (repujado fino)||S|art|C2
+smaltatura|esmaltado||S|art|C2
+filigrana|filigrana||S|art|C2
+cammeo|cameo (glíptica en relieve)||S|art|C2
+glittica|glíptica||S|art|C2
+patina|pátina||S|art|C2
+controluce|a contraluz||A|art|C2
+viraggio|virado (tonalización)||S|art|C2
+museografia|museografía||S|art|C2
+allestimento|montaje (de exposición)||S|art|C2
+aureola|aureola (nimbo)||S|art|C2
+kitsch|kitsch (hortera)||S|art|C2
+minimalismo|minimalismo||S|art|C2
+otturatore|obturador||S|tec|C2
+ritrattistica|retratística||S|art|C2
+carboncino|carboncillo||S|art|C2
+acquerello|acuarela||S|art|C2
+chiaroscuro|claroscuro||S|art|C2
+scorzo|escorzo||S|art|C2
+pentimento|arrepentimiento (cambio visible del pintor)||S|art|C2
+abbozzo|bosquejo||S|art|C2
+macchietta|personaje tipo (figurón cómico)||S|art|C2
+effige|efigie||S|art|C2
+stele|estela||S|art|C2
+capitolato|pliego de condiciones||S|art|C2
+appalto|adjudicación (contrata de obra)||S|fin|C2
+intonaco|revoco (enlucido)||S|art|C2
+maiolica|mayólica (loza esmaltada)||S|art|C2
+invetriatura|vidriado (esmaltado al fuego)||S|art|C2
+scagliola|scagliola (estuco a imitación de mármol)||S|art|C2
+commesso|taracea (mosaico de piedra dura)||S|art|C2
+intarsio|intarsia (taracea)||S|art|C2
+ebanisteria|ebanistería||S|art|C2
+quadratura|quadratura (perspectiva ilusoria)||S|art|C2
+di sotto in su|en escorzo desde abajo||L|art|C2
+anamorfosi|anamorfosis||S|art|C2
+vedutismo|vedutismo (pintura de vistas)||S|art|C2
+paesaggistica|paisajística (pintura de paisaje)||S|art|C2
+pittoresco|pintoresco||A|art|C2
+garbo|garbo (donaire)||S|art|C2
+sprezzatura|sprezzatura (desdén estudiado)||S|art|C2
+verismo|verismo||S|cin|C2
+neorealismo|neorrealismo||S|cin|C2
+calligrafismo|caligrafismo (cine)||S|cin|C2
+avanguardia|vanguardia (movimiento)||S|art|C2
+neoavanguardia|neoavanguardia||S|let|C2
+ermetismo|hermetismo (poesía hermética)||S|let|C2
+cenacolo|cénáculo (círculo selecto)||S|let|C2
+salotto letterario|tertulia literaria||L|let|C2
+plagio|plagio (apropiación de obra)||S|let|C2
+epigonismo|epigonismo (imitación de seguidores)||S|let|C2
+manierismo|manierismo||S|art|C2
+manierato|amanerado||A|let|C2
+decadentismo|decadentismo||S|let|C2
+crepuscolarismo|crepuscularismo (poetas crepusculares)||S|let|C2
+scapigliatura|escapigliatura (bohemia literaria)||S|let|C2
+strambotto|estramboto (cantar popular)||S|let|C2
+ottava rima|octava real (octava rima)||L|let|C2
+sestina|sextina||S|let|C2
+madrigale|madrigal (polifonía profana)||S|mus|C2
+frottola|frottola (canción cómica del Quattrocento)||S|mus|C2
+lauda|lauda (canto laudatorio)||S|mus|C2
+antifona|antífona||S|mus|C2
+salmodia|salmodia||S|mus|C2
+affabulazione|fabulación (arte de narrar)||S|let|C2
+verseggiare|versificar||V|let|C2
+poetare|poetizar (hacer versos)||V|let|C2
+antistrofe|antístrofe||S|let|C2
+epodo|epodo||S|let|C2
+carme|carme (poema en verso)||S|let|C2
+scioglimento|desenlace (resolución del final)||S|let|C2
+fabula|fábula (historia en orden cronológico)||S|let|C2
+iperonimo|hiperónimo||S|let|C2

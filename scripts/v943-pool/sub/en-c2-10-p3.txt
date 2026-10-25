@@ -1,0 +1,290 @@
+muckraking|periodismo de denuncia||S|cmu|C2
+leak|filtración||S|cmu|C2
+scoop|exclusiva (periodística)||S|cmu|C2
+op-ed|artículo de opinión||S|cmu|C2
+press pool|grupo de prensa acreditado||L|cmu|C2
+press embargo|fecha de publicación diferida||L|cmu|C2
+off the record|extraoficialmente||E|cmu|C2
+anonymous source|fuente anónima||L|cmu|C2
+retraction|rectificación||S|cmu|C2
+editorial board|consejo editorial||L|cmu|C2
+newsroom|redacción (de un medio)||S|pro|C2
+hit piece|artículo difamatorio||L|cmu|C2
+gatekeeping|control de acceso a la información||S|cmu|C2
+byline|firma del artículo||S|cmu|C2
+infotainment|infotenimiento||S|cmu|C2
+counterpoint|contrapunto||S|mus|C2
+chromatic scale|escala cromática||L|mus|C2
+sonata form|forma sonata||L|mus|C2
+leitmotif|leitmotiv||S|mus|C2
+atonality|atonalidad||S|mus|C2
+polyrhythm|polirritmia||S|mus|C2
+timbre|timbre (color del sonido)||S|mus|C2
+cadence|cadencia||S|mus|C2
+dissonance|disonancia||S|mus|C2
+vibrato|vibrato||S|mus|C2
+crescendo|crescendo||S|mus|C2
+ostinato|ostinato||S|mus|C2
+music theory|teoría musical||L|mus|C2
+modulation|modulación (cambio de tonalidad)||S|mus|C2
+art restoration|restauración de obras de arte||L|art|C2
+provenance research|investigación de la procedencia||L|art|C2
+preventive conservation|conservación preventiva||L|art|C2
+vitrine|vitrina expositiva||S|art|C2
+permanent collection|colección permanente||L|art|C2
+blockbuster show|gran exposición multitudinaria||L|art|C2
+docent|guía didáctico de museo||S|pro|C2
+deaccessioning|retirada de obras de la colección||S|art|C2
+varnish removal|retirada de barnices||L|art|C2
+museum registrar|registrador de museo||S|pro|C2
+restitution claim|reclamación de restitución||L|art|C2
+in situ|in situ||E|art|C2
+light damage|daño lumínico||L|art|C2
+attribution|atribución (de una obra)||S|art|C2
+avant-garde|vanguardia||S|art|C2
+abstract expressionism|expresionismo abstracto||L|art|C2
+site-specific installation|instalación concebida para un lugar concreto||L|art|C2
+pictorial space|espacio pictórico||L|art|C2
+brushwork|pincelada||S|art|C2
+chiaroscuro|claroscuro||S|art|C2
+trompe-l'oeil|trampantojo||S|art|C2
+readymade|objeto encontrado||S|art|C2
+art criticism|crítica de arte||L|art|C2
+aesthetic experience|experiencia estética||L|art|C2
+formalism|formalismo||S|art|C2
+iconography|iconografía||S|art|C2
+patronage|mecenazgo||S|art|C2
+curatorial|de comisariado (exposiciones)||A|art|C2
+machine learning|aprendizaje automático||L|tec|C2
+neural network|red neuronal||L|tec|C2
+supervised learning|aprendizaje supervisado||L|tec|C2
+overfitting|sobreajuste||S|tec|C2
+feature engineering|ingeniería de variables||L|tec|C2
+natural language processing|procesamiento del lenguaje natural||L|tec|C2
+algorithmic bias|sesgo algorítmico||L|tec|C2
+training set|conjunto de entrenamiento||L|tec|C2
+dimensionality reduction|reducción de dimensionalidad||L|tec|C2
+gradient descent|descenso por gradiente||L|tec|C2
+recommendation system|sistema de recomendación||L|tec|C2
+explainability|explicabilidad||S|tec|C2
+data pipeline|canalización de datos||L|tec|C2
+clustering|agrupamiento (en clústeres)||S|tec|C2
+encryption key|clave de cifrado||L|tec|C2
+hash function|función hash||L|tec|C2
+brute-force attack|ataque de fuerza bruta||L|tec|C2
+zero-day vulnerability|vulnerabilidad de día cero||L|tec|C2
+end-to-end encryption|cifrado de extremo a extremo||L|tec|C2
+ethical hacker|hacker ético||S|tec|C2
+ransomware|ransomware (secuestro de datos)||S|tec|C2
+asymmetric cryptography|criptografía asimétrica||L|tec|C2
+secure handshake|negociación segura de conexión||L|tec|C2
+digital signature|firma digital||L|tec|C2
+threat vector|vector de amenaza||L|tec|C2
+two-factor authentication|autenticación de dos factores||L|tec|C2
+honeypot|sistema señuelo||S|tec|C2
+obfuscation|ofuscación (de código)||S|tec|C2
+bandwidth throttling|limitación del ancho de banda||L|tec|C2
+packet loss|pérdida de paquetes||L|tec|C2
+latency|latencia||S|tec|C2
+mesh network|red en malla||L|tec|C2
+spectrum allocation|asignación del espectro||L|tec|C2
+fiber-optic backbone|troncal de fibra óptica||L|tec|C2
+roaming charges|gastos de itinerancia||L|tec|C2
+net neutrality|neutralidad de la red||L|tec|C2
+cell tower|antena de telefonía móvil||L|tec|C2
+signal attenuation|atenuación de la señal||L|tec|C2
+downlink|enlace descendente||S|tec|C2
+high-band spectrum|espectro de alta frecuencia||L|tec|C2
+protocol stack|pila de protocolos||L|tec|C2
+edge computing|computación en el borde||L|tec|C2
+nuclear fission|fisión nuclear||L|sci|C2
+chain reaction|reacción en cadena||L|sci|C2
+control rod|barra de control||L|sci|C2
+coolant loop|circuito de refrigeración||L|sci|C2
+containment vessel|vasija de contención||L|sci|C2
+enriched uranium|uranio enriquecido||L|sci|C2
+meltdown|fusión del núcleo (accidente)||S|sci|C2
+breeder reactor|reactor reproductor||L|sci|C2
+decommissioning|desmantelamiento||S|sci|C2
+criticality|criticidad||S|sci|C2
+isotope separation|separación isotópica||L|sci|C2
+peaking plant|central de horas punta||L|sci|C2
+feed-in tariff|tarifa de prima energética||L|fin|C2
+spent fuel|combustible gastado||L|sci|C2
+liftoff|despegue||S|tra|C2
+multi-stage rocket|cohete de varias etapas||L|sci|C2
+docking maneuver|maniobra de acoplamiento||L|sci|C2
+reentry|reentrada atmosférica||S|sci|C2
+escape velocity|velocidad de escape||L|sci|C2
+payload capacity|capacidad de carga útil||L|sci|C2
+avionics|aviónica||S|tec|C2
+thrust vectoring|empuje vectorial||L|sci|C2
+abort mode|modo de aborto (misión)||L|sci|C2
+lunar regolith|regolito lunar||L|sci|C2
+pressurized cabin|cabina presurizada||L|tra|C2
+orbital mechanics|mecánica orbital||L|sci|C2
+heat shield|escudo térmico||L|sci|C2
+launch window|ventana de lanzamiento||L|sci|C2
+actuator|actuador||S|tec|C2
+end effector|efector final (del robot)||L|tec|C2
+kinematics|cinemática||S|sci|C2
+servo motor|motor servo||L|tec|C2
+programmable logic controller|autómata programable||L|tec|C2
+cobot|robot colaborativo||S|tec|C2
+pick-and-place|de recogida y colocación||A|tec|C2
+torque sensor|sensor de par||L|tec|C2
+industrial automation|automatización industrial||L|tec|C2
+degrees of freedom|grados de libertad||L|tec|C2
+haptic feedback|retroalimentación háptica||L|tec|C2
+motion planning|planificación de movimientos||L|tec|C2
+safety interlock|enclavamiento de seguridad||L|tec|C2
+factory floor|planta de producción||L|lav|C2
+greenhouse gas|gas de efecto invernadero||L|nat|C2
+anthropogenic forcing|forzamiento antropogénico||L|nat|C2
+climate model|modelo climático||L|nat|C2
+albedo effect|efecto albedo||L|nat|C2
+ocean conveyor belt|cinta transportadora oceánica||L|nat|C2
+tipping point|punto de no retorno||L|nat|C2
+paleoclimatology|paleoclimatología||S|nat|C2
+carbon sequestration|captura y almacenamiento de carbono||L|nat|C2
+methane leak|fuga de metano||L|nat|C2
+climate feedback|retroalimentación climática||L|nat|C2
+proxy record|registro indirecto paleoclimático||L|nat|C2
+radiative forcing|forzamiento radiativo||L|nat|C2
+permafrost thaw|deshielo del permafrost||L|nat|C2
+attribution science|ciencia de la atribución||L|nat|C2
+thermohaline circulation|circulación termohalina||L|nat|C2
+upwelling|afloramiento (de aguas)||S|nat|C2
+bathymetry|batimetría||S|nat|C2
+benthic|bentónico||A|nat|C2
+pelagic|pelágico||A|nat|C2
+estuary|estuario||S|nat|C2
+ocean acidification|acidificación oceánica||L|nat|C2
+marine protected area|área marina protegida||L|nat|C2
+tidal range|rango mareal||L|nat|C2
+coral bleaching|blanqueamiento de coral||L|nat|C2
+plankton bloom|floración de plancton||L|nat|C2
+abyssal plain|llanura abisal||L|nat|C2
+sonar mapping|cartografía por sonar||L|tec|C2
+nutrient cycling|ciclado de nutrientes||L|nat|C2
+environmental impact statement|declaración de impacto ambiental||L|ist|C2
+emissions trading scheme|régimen de comercio de emisiones||L|ist|C2
+precautionary principle|principio de precaución||L|ist|C2
+cap and trade|sistema de tope y comercio||L|ist|C2
+biodiversity offset|compensación de biodiversidad||L|nat|C2
+citizen suit|demanda ciudadana (ambiental)||L|ist|C2
+brownfield site|terreno industrial degradado||L|ist|C2
+riparian rights|derechos de ribera||L|ist|C2
+carbon offset credit|crédito de compensación de carbono||L|fin|C2
+critical habitat|hábitat crítico||L|nat|C2
+stewardship|custodia responsable||S|nat|C2
+circular economy|economía circular||L|fin|C2
+compliance audit|auditoría de cumplimiento||L|fin|C2
+regulatory takings|expropiación regulatoria||L|ist|C2
+paradox|paradoja||S|ast|C2
+verisimilitude|verosimilitud||S|let|C2
+quintessence|quintaesencia||S|ast|C2
+apotheosis|apoteosis||S|ast|C2
+zeitgeist|espíritu de la época||S|ast|C2
+untenable|insostenible||A|ast|C2
+axiological|axiológico||A|ast|C2
+instantiation|instanciación||S|ast|C2
+contingency|contingencia (lo no necesario)||S|ast|C2
+noumenal|nouménico||A|ast|C2
+tautological|tautológico||A|ast|C2
+quiddity|quiddidad (esencia)||S|ast|C2
+presupposition|presuposición||S|ast|C2
+aporia|aporía||S|ast|C2
+apodictic|apodíctico||A|ast|C2
+ad hoc|ad hoc||A|ast|C2
+de facto|de facto||E|ast|C2
+prima facie|a primera vista||E|ast|C2
+modus operandi|modus operandi||L|ast|C2
+non sequitur|conclusión que no se sigue||L|ast|C2
+sine qua non|condición indispensable||L|ast|C2
+mutatis mutandis|con los cambios pertinentes||E|ast|C2
+inter alia|entre otras cosas||E|ast|C2
+per se|en sí mismo||E|ast|C2
+ceteris paribus|permaneciendo igual el resto||E|sci|C2
+mea culpa|mea culpa||E|cmu|C2
+bona fide|de buena fe||E|ast|C2
+carpe diem|aprovecha el día||E|ast|C2
+magnum opus|obra maestra||L|art|C2
+per capita|per cápita||E|fin|C2
+ad infinitum|hasta el infinito||E|ast|C2
+food for thought|materia para reflexionar||E|ast|C2
+a blessing in disguise|no hay mal que por bien no venga||E|ast|C2
+leap of faith|salto de fe||L|ast|C2
+necessary evil|mal necesario||L|ast|C2
+object lesson|lección ilustrativa||L|ast|C2
+slippery slope|pendiente resbaladiza||L|ast|C2
+level playing field|condiciones de igualdad||L|ast|C2
+double-edged sword|arma de doble filo||L|ast|C2
+writing on the wall|presagio de desastre inminente||L|ast|C2
+lesser of two evils|el mal menor||L|ast|C2
+baptism by fire|bautismo de fuego||L|ast|C2
+elephant in the room|el problema evidente que nadie menciona||L|ast|C2
+wisdom of crowds|sabiduría de las multitudes||L|ast|C2
+moment of truth|momento decisivo||L|ast|C2
+Pyrrhic victory|victoria pírrica||L|ast|C2
+white elephant|elefante blanco (carga costosa)||L|ast|C2
+backhanded compliment|cumplido envenenado||L|cmu|C2
+damning with faint praise|condenar con elogios tibios||E|cmu|C2
+doublespeak|lenguaje engañoso||S|cmu|C2
+euphemistic|eufemístico||A|cmu|C2
+tongue-in-cheek|con sorna irónica||A|cmu|C2
+deadpan|con cara de póker||A|cmu|C2
+veiled threat|amenaza velada||L|cmu|C2
+feigned surprise|sorpresa fingida||L|cmu|C2
+understatement|atenuación (decir menos de lo que se siente)||S|cmu|C2
+sardonic|sardónico||A|emo|C2
+facetious|guasón fuera de tono||A|cmu|C2
+passive-aggressive|pasivo-agresivo||A|emo|C2
+dog whistle|mensaje en clave para la propia base||L|cmu|C2
+plausible deniability|negación plausible||L|ist|C2
+snide|despectivo encubierto||A|cmu|C2
+sotto voce|en voz baja||E|cmu|C2
+bamboozle|engatusar||V|cmu|C2
+kerfuffle|jaleo, confusión||S|cmu|C2
+discombobulated|descolocado, aturdido||A|cmu|C2
+hullabaloo|alboroto, algarabía||S|cmu|C2
+lollygag|holgazanear||V|sve|C2
+snarky|socarrón, mordaz||A|cmu|C2
+kludge|apaño chapucero||S|tec|C2
+flabbergasted|estupefacto||A|emo|C2
+skulduggery|malas artes||S|cmu|C2
+rigmarole|proceso engorroso||S|cmu|C2
+hornswoggle|timar (habla rústica)||V|cmu|C2
+hissy fit|rabieta||S|emo|C2
+canoodle|arrumacarse||V|rel|C2
+willy-nilly|a lo loco||D|cmu|C2
+shenanigans|perrerías, travesuras||S|cmu|C2
+y'all|vosotros (sur de EE. UU.)||P|cmu|C2
+fixin' to|estar a punto de (sur de EE. UU.)||E|cmu|C2
+reckon|suponer (registro sureño)||V|cmu|C2
+hella|un montón (jerga californiana)||D|cmu|C2
+buggy|carrito de la compra (sur de EE. UU.)||S|cmp|C2
+pop|refresco (Medio Oeste)||S|ali|C2
+tonic|refresco con gas (Nueva Inglaterra)||S|ali|C2
+holler|hondonada (valle de los Apalaches)||S|nat|C2
+yinz|vosotros (jerga de Pittsburgh)||P|cmu|C2
+crawfish|cangrejo de río (Sur)||S|nat|C2
+chitterlings|tripas de cerdo fritas (plato sureño)||S|ali|C2
+johnnycake|tortita de maíz (Nueva Inglaterra)||S|ali|C2
+bayou|pantano de brazos de río (Luisiana)||S|nat|C2
+veranda|porche (galería cubierta)||S|cas|C2
+wistful|nostálgico y añorante||A|emo|C2
+crestfallen|desconsolado, abatido||A|emo|C2
+forlorn|desamparado, abandonado||A|emo|C2
+effusive|efusivo||A|emo|C2
+brooding|ensimismado y sombrío||A|emo|C2
+unflappable|imperturbable||A|emo|C2
+magnanimous|magnánimo||A|emo|C2
+pusillanimous|pusilánime||A|emo|C2
+saturnine|taciturno y sombrío||A|emo|C2
+mercurial|voluble, de humor cambiante||A|emo|C2
+irascible|irascible||A|emo|C2
+diffident|apocado, inseguro||A|emo|C2
+equanimity|ecuanimidad||S|emo|C2
+introspective|introspectivo||A|emo|C2
+consternation|consternación||S|emo|C2

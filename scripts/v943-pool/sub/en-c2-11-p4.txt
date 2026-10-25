@@ -1,0 +1,290 @@
+sine qua non|condición indispensable||L|ast|C2
+ad hominem|argumento contra la persona||L|ast|C2
+ad infinitum|hasta el infinito||L|ast|C2
+de facto|de hecho||L|ast|C2
+ipso facto|ipso facto||L|ast|C2
+per se|en sí mismo||L|ast|C2
+inter alia|entre otras cosas||L|ast|C2
+prima facie|a primera vista||L|ast|C2
+pro rata|proporcionalmente||L|ast|C2
+mutatis mutandis|realizados los cambios oportunos||L|ast|C2
+sui generis|de género propio||L|ast|C2
+caveat emptor|que el comprador esté alerta||L|ast|C2
+non sequitur|conclusión que no se sigue||L|ast|C2
+ad nauseam|hasta el hastío||L|ast|C2
+ceteris paribus|permaneciendo todo lo demás constante||L|ast|C2
+scaffolding|andamiaje educativo||S|stu|C2
+zone of proximal development|zona de desarrollo próximo||E|stu|C2
+formative assessment|evaluación formativa||E|stu|C2
+attachment|apego||S|sci|C2
+object permanence|permanencia del objeto||E|sci|C2
+theory of mind|teoría de la mente||E|sci|C2
+critical period|periodo crítico||E|sci|C2
+executive function|función ejecutiva||E|sci|C2
+differentiated instruction|atención a la diversidad||E|stu|C2
+inquiry-based learning|aprendizaje por indagación||E|stu|C2
+summative assessment|evaluación sumativa||E|stu|C2
+reinforcement|refuerzo||S|sci|C2
+self-efficacy|autoeficacia||S|sci|C2
+intrinsic motivation|motivación intrínseca||E|sci|C2
+phonemic awareness|conciencia fonológica||E|stu|C2
+catharsis|catarsis||S|emo|C2
+transference|transferencia||S|emo|C2
+countertransference|contratransferencia||S|emo|C2
+rumination|rumiación||S|emo|C2
+dissociation|disociación||S|emo|C2
+hypervigilance|hipervigilancia||S|emo|C2
+exposure therapy|terapia de exposición||E|emo|C2
+catastrophizing|pensamiento catastrofista||S|emo|C2
+intrusive thoughts|pensamientos intrusivos||E|emo|C2
+alexithymia|alexitimia||S|emo|C2
+comorbidity|comorbilidad||S|emo|C2
+remission|remisión||S|emo|C2
+decompensation|descompensación||S|emo|C2
+grounding|anclaje a la realidad||S|emo|C2
+psychosomatic|psicosomático||A|emo|C2
+avarice|avaricia||S|ast|C2
+gluttony|gula||S|ast|C2
+sloth|acidia (pereza)||S|ast|C2
+wrath|ira||S|ast|C2
+hubris|hybris||S|ast|C2
+temperance|templanza||S|ast|C2
+fortitude|entereza||S|ast|C2
+magnanimity|magnanimidad||S|ast|C2
+probity|prohidad||S|ast|C2
+turpitude|turpitud||S|ast|C2
+perfidy|perfidia||S|ast|C2
+cupidity|cupididad||S|ast|C2
+iniquity|iniquidad||S|ast|C2
+improvidence|falta de previsión||S|ast|C2
+dissolute|disoluto||A|ast|C2
+bootstrapping|arranque autofinanciado||S|lav|C2
+scalability|escalabilidad||S|lav|C2
+pivot|pivotar||V|lav|C2
+runway|colchón de tesorería||S|lav|C2
+burn rate|tasa de consumo de caja||E|fin|C2
+seed funding|financiación semilla||E|fin|C2
+unicorn|empresa unicornio||S|lav|C2
+exit strategy|estrategia de salida||E|lav|C2
+minimum viable product|producto mínimo viable||E|lav|C2
+go-to-market|estrategia de salida al mercado||S|lav|C2
+traction|tracción||S|lav|C2
+dilution|dilución (de la participación)||S|fin|C2
+vesting|consolidación de derechos sobre acciones||S|fin|C2
+pitch deck|presentación para inversores||E|lav|C2
+product-market fit|ajuste producto-mercado||E|lav|C2
+supply chain|cadena de suministro||E|lav|C2
+just-in-time|justo a tiempo||A|lav|C2
+safety stock|stock de seguridad||E|lav|C2
+lead time|plazo de entrega||E|lav|C2
+backorder|pedido en espera||S|lav|C2
+last-mile delivery|entrega de última milla||E|lav|C2
+intermodal|intermodal||A|lav|C2
+fulfillment|preparación de pedidos||S|lav|C2
+cross-docking|traspaso directo de mercancía||S|lav|C2
+bullwhip effect|efecto látigo||E|lav|C2
+bill of lading|conocimiento de embarque||E|lav|C2
+pallet|palé||S|lav|C2
+stockout|agotamiento de existencias||S|lav|C2
+drayage|transporte portuario corto||S|lav|C2
+reverse logistics|logística inversa||E|lav|C2
+brand equity|valor de marca||E|fin|C2
+brand loyalty|fidelidad a la marca||E|cmp|C2
+segmentation|segmentación||S|cmp|C2
+churn rate|tasa de cancelación||E|fin|C2
+upselling|venta adicional||S|cmp|C2
+cross-selling|venta cruzada||S|cmp|C2
+price anchoring|anclaje de precios||E|cmp|C2
+loss leader|producto gancho||E|cmp|C2
+customer lifetime value|valor de vida del cliente||E|fin|C2
+psychographics|psicografía||S|cmp|C2
+purchase intent|intención de compra||E|cmp|C2
+conversion funnel|embudo de conversión||E|cmp|C2
+product placement|emplazamiento de producto||E|cmp|C2
+impulse buying|compra por impulso||E|cmp|C2
+nudge|empujón conductual||S|cmp|C2
+quality assurance|aseguramiento de la calidad||E|lav|C2
+statistical process control|control estadístico de procesos||E|lav|C2
+tolerance|tolerancia (dimensional)||S|lav|C2
+calibration|calibración||S|lav|C2
+accreditation|acreditación||S|lav|C2
+traceability|trazabilidad||S|lav|C2
+root cause analysis|análisis de causa raíz||E|lav|C2
+benchmarking|benchmarking||S|lav|C2
+audit trail|registro de auditoría||E|lav|C2
+conformity assessment|evaluación de la conformidad||E|lav|C2
+preventive action|acción preventiva||E|lav|C2
+certification body|organismo de certificación||E|lav|C2
+defect rate|tasa de defectos||E|lav|C2
+sampling plan|plan de muestreo||E|lav|C2
+metrology|metrología||S|lav|C2
+injunction|medida cautelar||S|ist|C2
+estoppel|estoppel (prohibición de contradecirse)||S|ist|C2
+amicus brief|escrito de amicus curiae||E|ist|C2
+discovery|prueba preprocesal||S|ist|C2
+deposition|declaración testifical previa||S|ist|C2
+statute of limitations|plazo de prescripción||E|ist|C2
+class action|demanda colectiva||E|ist|C2
+precedent|jurisprudencia||S|ist|C2
+tort|acto ilícito civil||S|ist|C2
+habeas corpus|habeas corpus||L|ist|C2
+mens rea|intención criminal||L|ist|C2
+subpoena|citación judicial||S|ist|C2
+plea bargain|acuerdo de culpabilidad||E|ist|C2
+voir dire|examen de selección del jurado||E|ist|C2
+hearsay|testimonio de oídas||S|ist|C2
+differential diagnosis|diagnóstico diferencial||E|sla|C2
+idiopathic|idiopático||A|sla|C2
+contraindication|contraindicación||S|sla|C2
+etiology|etiología||S|sla|C2
+palliative care|cuidados paliativos||E|sla|C2
+triage|triaje||S|sla|C2
+iatrogenic|iatrogénico||A|sla|C2
+nosocomial|nosocomial||A|sla|C2
+informed consent|consentimiento informado||E|sla|C2
+staging|estadiaje oncológico||S|sla|C2
+resection|resección quirúrgica||S|sla|C2
+regimen|pauta de tratamiento||S|sla|C2
+titer|título de anticuerpos||S|sla|C2
+prophylaxis|profilaxis||S|sla|C2
+sequelae|secuelas||S|sla|C2
+blueprint|plano de fabricación||S|tec|C2
+load factor|factor de carga||E|tec|C2
+factor of safety|coeficiente de seguridad||E|tec|C2
+gasket|junta de estanqueidad||S|tec|C2
+flange|brida||S|tec|C2
+bearing|rodamiento||S|tec|C2
+torque|par de apriete||S|tec|C2
+wiring harness|mazo de cables||E|tec|C2
+heat sink|disipador térmico||E|tec|C2
+stress-strain curve|curva tensión-deformación||E|tec|C2
+servomechanism|servomecanismo||S|tec|C2
+closed-loop|de lazo cerrado||A|tec|C2
+machining|mecanizado||S|tec|C2
+backlash|juego mecánico||S|tec|C2
+peer review|revisión por pares||E|stu|C2
+replication crisis|crisis de replicabilidad||E|stu|C2
+tenure|plaza en propiedad||S|stu|C2
+systematic review|revisión sistemática||E|stu|C2
+hypothesis testing|contraste de hipótesis||E|stu|C2
+effect size|tamaño del efecto||E|stu|C2
+confounding variable|variable de confusión||E|stu|C2
+p-hacking|manipulación del valor p||S|stu|C2
+preregistration|preregistro||S|stu|C2
+bibliometric|bibliométrico||A|stu|C2
+sabbatical|año sabático||S|stu|C2
+colloquium|coloquio académico||S|stu|C2
+monograph|monografía||S|stu|C2
+external validity|validez externa||E|stu|C2
+appraisal|tasación||S|sve|C2
+antiquarian|anticuario||S|sve|C2
+auction house|casa de subastas||E|sve|C2
+lot|lote (de subasta)||S|sve|C2
+reserve price|precio de salida||E|sve|C2
+hammer price|precio de martillo||E|sve|C2
+bidding war|guerra de pujas||E|sve|C2
+certificate of authenticity|certificado de autenticidad||E|sve|C2
+forger|falsificador||S|sve|C2
+curator|conservador de museo||S|sve|C2
+dealer|marchante||S|sve|C2
+bric-a-brac|baratijas||S|sve|C2
+collector's item|pieza de coleccionista||E|sve|C2
+attribution|atribución de autoría||S|sve|C2
+umami|umami||S|ali|C2
+mouthfeel|sensación en boca||S|ali|C2
+reduction|reducción (de salsa)||S|ali|C2
+sous-vide|cocción al vacío||A|ali|C2
+deglaze|desglasar||V|ali|C2
+brunoise|corte en dados menudos||S|ali|C2
+amuse-bouche|aperitivo de cortesía||S|ris|C2
+tasting menu|menú degustación||E|ris|C2
+palate cleanser|limpiapaladares||S|ris|C2
+farm-to-table|de la granja a la mesa||A|ali|C2
+nose-to-tail|de aprovechamiento total del animal||A|ali|C2
+pairing|maridaje||S|ali|C2
+molecular gastronomy|gastronomía molecular||E|ali|C2
+plating|emplatado||S|ris|C2
+rapprochement|acercamiento||S|rel|C2
+entente|entente||S|rel|C2
+overture|propuesta de acercamiento||S|cmu|C2
+pleasantries|cumplidos||S|cmu|C2
+felicitate|dar la enhorabuena||V|cmu|C2
+condole|dar el pésame||V|cmu|C2
+backchannel|canal reservado||S|cmu|C2
+bona fides|buena fe (credibilidad)||L|cmu|C2
+schmooze|echar labia||V|cmu|C2
+glad-hand|dar la mano efusivamente||V|cmu|C2
+falling-out|desavenencia||S|rel|C2
+make amends|hacer las paces||L|rel|C2
+olive branch|ramo de olivo||E|rel|C2
+at arm's length|a distancia prudencial||L|rel|C2
+lactate threshold|umbral de lactato||E|spt|C2
+hypertrophy|hipertrofia||S|cor|C2
+training load|carga de entrenamiento||E|spt|C2
+overtraining|sobreentrenamiento||S|spt|C2
+plyometrics|pliometría||S|spt|C2
+eccentric|excéntrico (contracción muscular)||A|cor|C2
+slow-twitch|de contracción lenta||A|cor|C2
+erythropoiesis|eritropoyesis||S|cor|C2
+hematocrit|hematocrito||S|cor|C2
+altitude training|entrenamiento en altura||E|spt|C2
+tapering|afinamiento precompetitivo||S|spt|C2
+anaerobic|anaeróbico||A|cor|C2
+proprioceptive|propioceptivo||A|cor|C2
+glycogen depletion|depleción de glucógeno||E|spt|C2
+sire|semental||S|ani|C2
+dam|hembra reproductora||S|ani|C2
+foal|potro||S|ani|C2
+filly|potranca||S|ani|C2
+withers|cruz (del caballo)||S|ani|C2
+canter|galope corto||S|spt|C2
+dressage|doma clásica||S|spt|C2
+farrier|herrador||S|ani|C2
+stud|haras||S|ani|C2
+inbreeding|consanguinidad||S|ani|C2
+pedigree|pedigrí||S|ani|C2
+bloodline|linaje||S|ani|C2
+whelp|parir (dicho de la perra)||V|ani|C2
+conformation|morfología de exposición||S|ani|C2
+storm surge|marea de tormenta||E|cli|C2
+downburst|ráfaga descendente||S|cli|C2
+supercell|supercelda||S|cli|C2
+mesocyclone|mesociclón||S|cli|C2
+hook echo|eco de gancho||E|cli|C2
+nowcasting|predicción inmediata||S|cli|C2
+wind shear|cizalladura del viento||E|cli|C2
+heat index|índice de calor||E|cli|C2
+haboob|tormenta de polvo||S|cli|C2
+flash flood|riada súbita||E|cli|C2
+whiteout|visibilidad nula por nieve||S|cli|C2
+graupel|granizo blando||S|cli|C2
+eyewall|pared del ojo||S|cli|C2
+ensemble forecast|predicción por conjuntos||E|cli|C2
+by all means|por todos los medios||L|cnn|C2
+if nothing else|en todo caso||L|cnn|C2
+to say nothing of|por no hablar de||L|cnn|C2
+let alone|ni siquiera||L|cnn|C2
+not to mention|por no mencionar||L|cnn|C2
+mind you|nótese bien||L|cnn|C2
+for that matter|de hecho||L|cnn|C2
+granted|concedido||L|cnn|C2
+admittedly|hay que reconocerlo||D|cnn|C2
+to be sure|ciertamente||L|cnn|C2
+at the very least|como muy poco||L|cnn|C2
+no less than|nada menos que||L|cnn|C2
+if anything|más bien||L|cnn|C2
+make no mistake|que nadie se equivoque||L|cnn|C2
+placemaking|creación de lugares||S|cit|C2
+streetscape|escena callejera||S|cit|C2
+zoning|zonificación||S|cit|C2
+setback|retranqueo||S|cit|C2
+mixed-use|de usos mixtos||A|cit|C2
+walkability|transitabilidad peatonal||S|cit|C2
+urban sprawl|expansión urbana difusa||E|cit|C2
+gentrification|gentrificación||S|cit|C2
+brownfield|suelo industrial degradado||S|cit|C2
+traffic calming|pacificación del tráfico||E|cit|C2
+public realm|espacio público||E|cit|C2
+greenway|corredor verde||S|cit|C2
+wayfinding|señalización orientativa||S|cit|C2
+adaptive reuse|reutilización adaptativa||E|cit|C2

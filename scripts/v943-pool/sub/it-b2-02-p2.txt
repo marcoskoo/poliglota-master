@@ -1,0 +1,115 @@
+annuncio di lavoro|anuncio de empleo||L|lav|B2
+candidatura|candidatura||S|lav|B2
+colloquio di lavoro|entrevista de trabajo||L|lav|B2
+tirocinio|prácticas||S|lav|B2
+assunzione|contratación||S|lav|B2
+periodo di prova|período de prueba||L|lav|B2
+busta paga|nómina||L|lav|B2
+retribuzione|retribución||S|lav|B2
+avanzamento|ascenso||S|lav|B2
+licenziamento|despido||S|lav|B2
+disoccupazione|desempleo||S|lav|B2
+sindacato|sindicato||S|ist|B2
+sciopero|huelga||S|ist|B2
+lavoro di squadra|trabajo en equipo||L|lav|B2
+telelavoro|teletrabajo||S|lav|B2
+maturità|examen de bachillerato||S|stu|B2
+iscrizione|inscripción||S|stu|B2
+retta|matrícula (universitaria)||S|stu|B2
+borsa di studio|beca||L|stu|B2
+tesi|tesis||S|stu|B2
+interrogazione|examen oral||S|stu|B2
+ateneo|universidad||S|stu|B2
+lode|matrícula de honor||S|stu|B2
+imparare a memoria|aprender de memoria||E|stu|B2
+programma di scambio|programa de intercambio||L|stu|B2
+edilizia|sector de la construcción||S|cit|B2
+cantiere|obra||S|cit|B2
+degrado|degradación (urbana)||S|cit|B2
+raccolta differenziata|recogida selectiva||L|cit|B2
+centro storico|casco antiguo||L|cit|B2
+anagrafe|registro civil||S|ist|B2
+sportello|ventanilla||S|ist|B2
+modulistica|formularios (papeleo)||S|ist|B2
+autocertificazione|autocertificación||S|ist|B2
+pratica|expediente (trámite)||S|ist|B2
+cambiamento climatico|cambio climático||L|cli|B2
+siccità|sequía||S|cli|B2
+alluvione|inundación||S|cli|B2
+ondata di calore|ola de calor||L|cli|B2
+effetto serra|efecto invernadero||L|cli|B2
+esondare|desbordarse (un río)||V|cli|B2
+impronta ecologica|huella ecológica||L|nat|B2
+energia rinnovabile|energía renovable||L|nat|B2
+fotovoltaico|fotovoltaico||A|sci|B2
+bracconaggio|caza furtiva||S|ani|B2
+riserva naturale|reserva natural||L|nat|B2
+migrazione|emigración (de animales)||S|ani|B2
+tana|madriguera||S|ani|B2
+sfilata|desfile de moda||S|rop|B2
+passerella|pasarela||S|rop|B2
+capo d'abbigliamento|prenda de vestir||L|rop|B2
+su misura|a medida||L|rop|B2
+riservatezza|privacidad||S|tec|B2
+truffa online|estafa online||L|tec|B2
+crittografia|cifrado||S|tec|B2
+copia di sicurezza|copia de seguridad||L|tec|B2
+sviluppatore|desarrollador||S|pro|B2
+codice sorgente|código fuente||L|tec|B2
+agonismo|competitividad (deportiva)||S|spt|B2
+infortunio|lesión||S|spt|B2
+distorsione|esguince||S|sla|B2
+stiramento|tirón muscular||S|spt|B2
+riabilitazione|rehabilitación||S|sla|B2
+fisioterapista|fisioterapeuta||S|pro|B2
+esibizione|actuación||S|mus|B2
+sceneggiatura|guion||S|cin|B2
+doppiaggio|doblaje||S|cin|B2
+anteprima|preestreno||S|cin|B2
+colonna sonora|banda sonora||L|cin|B2
+spartito|partitura||S|mus|B2
+dichiarazione dei redditi|declaración de la renta||L|fin|B2
+evasione fiscale|evasión fiscal||L|fin|B2
+mutuo|hipoteca (préstamo)||S|fin|B2
+ammortamento|amortización||S|fin|B2
+tasso d'interesse|tipo de interés||L|fin|B2
+investimento|inversión||S|fin|B2
+crollo|desplome||S|fin|B2
+risparmiatore|ahorrador||S|fin|B2
+fondo pensione|fondo de pensiones||L|fin|B2
+commercialista|asesor fiscal||S|pro|B2
+geometra|aparejador||S|pro|B2
+notaio|notario||S|pro|B2
+magistrato|magistrado||S|pro|B2
+consulente|consultor||S|pro|B2
+docente|docente||S|pro|B2
+giuria|jurado||S|ist|B2
+imputato|acusado||S|ist|B2
+assoluzione|absolución||S|ist|B2
+udienza|vista (judicial)||S|ist|B2
+coalizione|coalición||S|ist|B2
+opposizione|oposición||S|ist|B2
+campagna elettorale|campaña electoral||L|ist|B2
+astensione|abstención||S|ist|B2
+inflazione|inflación||S|att|B2
+congiuntura|coyuntura||S|att|B2
+ipotesi|hipótesis||S|sci|B2
+gravità|gravedad||S|sci|B2
+buco nero|agujero negro||L|sci|B2
+galassia|galaxia||S|sci|B2
+sostenere|sostener (defender)||V|cmu|B2
+ribattere|replicar||V|cmu|B2
+persuadere|persuadir||V|cmu|B2
+eufemismo|eufemismo||S|cmu|B2
+mediazione|mediación||S|cmu|B2
+equità|equidad||S|ast|B2
+veridicità|veracidad||S|ast|B2
+vicissitudine|vicisitud||S|ast|B2
+saggezza|sabiduría||S|ast|B2
+affresco|fresco (pintura)||S|art|B2
+pinacoteca|pinacoteca||S|art|B2
+restauro|restauración||S|art|B2
+facciata|fachada||S|art|B2
+sito archeologico|yacimiento arqueológico||L|art|B2
+addestramento|adiestramiento||S|ani|B2
+veterinario|veterinario||S|pro|B2

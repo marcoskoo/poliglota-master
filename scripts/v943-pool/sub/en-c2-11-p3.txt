@@ -1,0 +1,290 @@
+blockchain|cadena de bloques||S|tec|C2
+smart contract|contrato inteligente||E|tec|C2
+hash function|función hash||E|tec|C2
+consensus mechanism|mecanismo de consenso||E|tec|C2
+proof of work|prueba de trabajo||E|tec|C2
+private key|clave privada||E|tec|C2
+tokenization|tokenización||S|tec|C2
+distributed ledger|libro mayor distribuido||E|tec|C2
+gas fee|comisión de gas||E|tec|C2
+fork|bifurcación (de la red)||S|tec|C2
+nonce|número de un solo uso||S|tec|C2
+oracle|oráculo (de datos externos)||S|tec|C2
+decentralization|descentralización||S|tec|C2
+cold wallet|monedero frío||E|tec|C2
+iris scan|escaneo de iris||E|tec|C2
+voiceprint|huella vocal||S|tec|C2
+false positive|falso positivo||E|tec|C2
+false negative|falso negativo||E|tec|C2
+liveness detection|detección de vitalidad||E|tec|C2
+template|plantilla biométrica||S|tec|C2
+enrollment|inscripción biométrica||S|tec|C2
+feature extraction|extracción de características||E|tec|C2
+convolutional|convolucional||A|tec|C2
+classifier|clasificador||S|tec|C2
+decision boundary|frontera de decisión||E|tec|C2
+dimensionality reduction|reducción de dimensionalidad||E|tec|C2
+spoofing|suplantación||S|tec|C2
+minutiae|minucias (de la huella dactilar)||S|tec|C2
+sensor network|red de sensores||E|tec|C2
+edge computing|computación en el borde||E|tec|C2
+actuator|actuador||S|tec|C2
+interoperability|interoperabilidad||S|tec|C2
+smart grid|red eléctrica inteligente||E|tec|C2
+digital twin|gemelo digital||E|tec|C2
+telemetry|telemetría||S|tec|C2
+mesh network|red en malla||E|tec|C2
+predictive maintenance|mantenimiento predictivo||E|tec|C2
+sensor fusion|fusión de sensores||E|tec|C2
+wearable|dispositivo vestible||S|tec|C2
+protocol stack|pila de protocolos||E|tec|C2
+embedded system|sistema integrado||E|tec|C2
+firmware|firmware||S|tec|C2
+haptic feedback|retroalimentación háptica||E|tec|C2
+field of view|campo de visión||E|tec|C2
+cybersickness|mareo por realidad virtual||S|tec|C2
+respawn|reaparecer (en el juego)||V|sve|C2
+open world|mundo abierto||E|sve|C2
+physics engine|motor de física||E|tec|C2
+procedural generation|generación procedimental||E|tec|C2
+hitbox|caja de impacto||S|sve|C2
+speedrun|partida de velocidad||S|sve|C2
+loot box|caja de botín||E|sve|C2
+nonplayer character|personaje no jugador||E|sve|C2
+game engine|motor de juego||E|sve|C2
+mixed reality|realidad mixta||E|tec|C2
+motion capture|captura de movimiento||E|tec|C2
+pyroclastic flow|flujo piroclástico||E|nat|C2
+caldera|caldera volcánica||S|nat|C2
+lahar|lahar||S|nat|C2
+tephra|tefra||S|nat|C2
+fissure|fisura eruptiva||S|nat|C2
+stratovolcano|estratovolcán||S|nat|C2
+effusive eruption|erupción efusiva||E|nat|C2
+geothermal|geotérmico||A|nat|C2
+subduction|subducción||S|nat|C2
+seismic hazard|peligrosidad sísmica||E|nat|C2
+debris flow|flujo de detritos||E|nat|C2
+swarm|enjambre (sísmico)||S|nat|C2
+volcanology|vulcanología||S|nat|C2
+tiltmeter|inclinómetro||S|nat|C2
+limnology|limnología||S|nat|C2
+wetland|humedal||S|nat|C2
+estuary|estuario||S|nat|C2
+eutrophication|eutrofización||S|nat|C2
+riparian|ripario||A|nat|C2
+watershed|cuenca hidrográfica||S|nat|C2
+turbidity|turbidez||S|nat|C2
+sediment load|carga de sedimentos||E|nat|C2
+floodplain|llanura de inundación||S|nat|C2
+groundwater|agua subterránea||S|nat|C2
+aquifer|acuífero||S|nat|C2
+meander|meandro||S|nat|C2
+algal bloom|floración de algas||E|nat|C2
+dredging|dragado||S|nat|C2
+agronomy|agronomía||S|nat|C2
+tillage|laboreo||S|nat|C2
+nitrogen fixation|fijación de nitrógeno||E|nat|C2
+cover crop|cultivo de cobertura||E|nat|C2
+topsoil|capa fértil del suelo||S|nat|C2
+no-till|de siembra directa||A|nat|C2
+hedgerow|seto vivo||S|nat|C2
+monoculture|monocultivo||S|nat|C2
+soil compaction|compactación del suelo||E|nat|C2
+precision agriculture|agricultura de precisión||E|nat|C2
+salinization|salinización||S|nat|C2
+drip irrigation|riego por goteo||E|nat|C2
+loam|tierra franca||S|nat|C2
+agroforestry|agrosilvicultura||S|nat|C2
+aquaculture|acuicultura||S|nat|C2
+animal husbandry|cría de animales||E|ani|C2
+overfishing|sobrepesca||S|nat|C2
+bycatch|captura incidental||S|nat|C2
+trawling|pesca de arrastre||S|nat|C2
+stocking density|densidad de carga||E|nat|C2
+hatchery|criadero de peces||S|nat|C2
+broodstock|reproductores parentales||S|nat|C2
+silage|ensilado||S|ani|C2
+weaning|destete||S|ani|C2
+ear tag|croctal||E|ani|C2
+foot-and-mouth disease|fiebre aftosa||E|ani|C2
+mastitis|mastitis||S|ani|C2
+feedlot|engorde intensivo||S|ani|C2
+silviculture|silvicultura||S|nat|C2
+clearcutting|tala a matarrasa||S|nat|C2
+understory|sotobosque||S|nat|C2
+canopy|dosel de copas||S|nat|C2
+reforestation|repoblación forestal||S|nat|C2
+selective logging|tala selectiva||E|nat|C2
+prescribed burn|quema prescrita||E|nat|C2
+firebreak|cortafuegos||S|nat|C2
+crown fire|fuego de copas||E|nat|C2
+backfire|contrafuego||S|nat|C2
+fuel load|carga de combustible vegetal||E|nat|C2
+snag|árbol seco en pie||S|nat|C2
+succession|sucesión ecológica||S|nat|C2
+old-growth forest|bosque maduro||E|nat|C2
+landfill|vertedero||S|nat|C2
+waste-to-energy|valorización energética||E|nat|C2
+upcycling|suprarreciclaje||S|nat|C2
+composting|compostaje||S|nat|C2
+single-use|de un solo uso||A|nat|C2
+producer responsibility|responsabilidad del productor||E|nat|C2
+e-waste|residuos electrónicos||S|nat|C2
+leachate|lixiviado||S|nat|C2
+fly ash|cenizas volantes||E|nat|C2
+scrap metal|chatarra||E|nat|C2
+take-back scheme|sistema de devolución||E|nat|C2
+planned obsolescence|obsolescencia programada||E|nat|C2
+circular economy|economía circular||E|nat|C2
+zero-waste|de residuo cero||A|nat|C2
+perspicacious|perspicaz||A|ast|C2
+obtuse|obtuso||A|ast|C2
+magnanimous|magnánimo||A|ast|C2
+pusillanimous|pusilánime||A|ast|C2
+indolent|indolente||A|ast|C2
+intractable|intratable||A|ast|C2
+equivocal|equívoco||A|ast|C2
+unequivocal|inequívoco||A|ast|C2
+querulous|quejumbroso||A|ast|C2
+supercilious|desdeñoso||A|ast|C2
+vainglorious|vanaglorioso||A|ast|C2
+phlegmatic|flemático||A|ast|C2
+saturnine|saturnino||A|ast|C2
+mercurial|voluble||A|ast|C2
+aver|aseverar||V|cmu|C2
+expatiate|extenderse en disertación||V|cmu|C2
+gainsay|contradecir||V|cmu|C2
+obfuscate|oscurecer deliberadamente||V|cmu|C2
+prevaricate|evadir la verdad||V|cmu|C2
+cavil|objetar por nimiedades||V|cmu|C2
+adumbrate|esbozar vagamente||V|cmu|C2
+recapitulate|recapitular||V|cmu|C2
+expostulate|expostular||V|cmu|C2
+intone|entonar con solemnidad||V|cmu|C2
+belabor|machacar en exceso||V|cmu|C2
+moot|someter a debate||V|cmu|C2
+demur|mostrar reparo||V|cmu|C2
+acquiesce|asentir||V|cmu|C2
+salience|saliencia||S|ast|C2
+instantiation|instanciación||S|ast|C2
+operationalization|operacionalización||S|ast|C2
+commensurability|conmensurabilidad||S|ast|C2
+verisimilitude|verosimilitud||S|ast|C2
+ineffability|inefabilidad||S|ast|C2
+determinism|determinismo||S|ast|C2
+axiomatization|axiomatización||S|ast|C2
+causality|causalidad||S|ast|C2
+teleology|teleología||S|ast|C2
+reification|reificación||S|ast|C2
+liminality|liminalidad||S|ast|C2
+performativity|performatividad||S|ast|C2
+normativity|normatividad||S|ast|C2
+canard|bulo||S|ast|C2
+dissemble|disimular (la verdad)||V|ast|C2
+disinform|desinformar||V|ast|C2
+mendacity|mendacidad||S|ast|C2
+tergiversation|tergiversación||S|ast|C2
+half-truth|media verdad||S|ast|C2
+whitewash|encubrir||V|ast|C2
+casuistry|casuística engañosa||S|ast|C2
+apocryphal|apócrifo||A|ast|C2
+specious|especioso||A|ast|C2
+fallacious|falaz||A|ast|C2
+veracious|veraz||A|ast|C2
+spurious|espurio||A|ast|C2
+fabrication|invención falaz||S|ast|C2
+sublime|sublime||S|ast|C2
+kitsch|kitsch||S|art|C2
+ineffable|inefable||A|ast|C2
+discernment|discernimiento||S|ast|C2
+squalid|sórdido||A|ast|C2
+ignoble|innoble||A|ast|C2
+laudable|loable||A|ast|C2
+reprehensible|reprobable||A|ast|C2
+exculpatory|exculpatorio||A|ast|C2
+unscrupulous|sin escrúpulos||A|ast|C2
+scrupulous|escrupuloso||A|ast|C2
+venal|venal||A|ast|C2
+meretricious|meretricio||A|ast|C2
+fastidious|quisquilloso||A|ast|C2
+order of magnitude|orden de magnitud||E|ast|C2
+negligible|despreciable||A|ast|C2
+infinitesimal|infinitesimal||A|ast|C2
+commensurate|proporcionado||A|ast|C2
+marginal|marginal (mínimo)||A|ast|C2
+appreciable|apreciable (considerable)||A|ast|C2
+immeasurable|incalculable||A|ast|C2
+manifold|múltiple||A|ast|C2
+inordinate|desmesurado||A|ast|C2
+scant|escaso||A|ast|C2
+modicum|mínima porción||S|ast|C2
+paucity|escasez||S|ast|C2
+surfeit|exceso||S|ast|C2
+smattering|nociones superficiales||S|ast|C2
+collateral damage|daños colaterales||E|cmu|C2
+rightsizing|reajuste de plantilla||S|lav|C2
+ethnic cleansing|limpieza étnica||E|cmu|C2
+enhanced interrogation|interrogatorio mejorado||E|cmu|C2
+friendly fire|fuego amigo||E|cmu|C2
+pre-owned|seminuevo||A|cmp|C2
+between jobs|en paro||L|cmu|C2
+let someone go|despedir a alguien||E|cmu|C2
+underserved|desatendido||A|cmu|C2
+walk back|retractarse matizando||V|cmu|C2
+misspeak|equivocarse al hablar||V|cmu|C2
+take issue with|disentir de||L|cmu|C2
+frank exchange of views|intercambio franco de pareceres||E|cmu|C2
+constructive ambiguity|ambigüedad constructiva||E|cmu|C2
+ere|antes de que||C|let|C2
+oft|a menudo (poético)||D|let|C2
+whilom|en otro tiempo||D|let|C2
+welkin|firmamento||S|let|C2
+vespers|vísperas||S|let|C2
+yonder|allí (aquel lugar)||D|let|C2
+betwixt|entre||R|let|C2
+gloaming|crepúsculo||S|let|C2
+eventide|anochecer||S|let|C2
+sylvan|silvano||A|let|C2
+lambent|lambente||A|let|C2
+empyrean|empíreo||S|let|C2
+slake|calmar la sed||V|let|C2
+hitherto|hasta entonces||D|cnn|C2
+thence|desde allí||D|cnn|C2
+whence|de donde||D|cnn|C2
+wherefore|por qué||D|cnn|C2
+erstwhile|de antaño||A|let|C2
+forsooth|en verdad||I|let|C2
+prithee|te ruego||I|let|C2
+anon|enseguida||D|let|C2
+mayhap|acaso||D|let|C2
+heretofore|hasta la fecha||D|cnn|C2
+whereby|mediante el cual||C|cnn|C2
+verily|en verdad||D|let|C2
+perchance|por casualidad||D|let|C2
+notwithstanding|no obstante||C|cnn|C2
+henceforth|de ahora en adelante||D|cnn|C2
+insofar as|en la medida en que||C|cnn|C2
+provided that|siempre que||C|cnn|C2
+albeit|si bien||C|cnn|C2
+to wit|a saber||L|cnn|C2
+inasmuch as|en cuanto que||C|cnn|C2
+hence|por consiguiente||D|cnn|C2
+thusly|así pues||D|cnn|C2
+herewith|por la presente||D|cnn|C2
+correspondingly|correlativamente||D|cnn|C2
+that said|dicho esto||E|cnn|C2
+as it were|por así decirlo||L|cnn|C2
+intimate|insinuar||V|cmu|C2
+insinuate|dar a entender||V|cmu|C2
+divulge|revelar||V|cmu|C2
+broach|sacar a colación||V|cmu|C2
+hedge|ir con rodeos||V|cmu|C2
+interject|interrumpir con un comentario||V|cmu|C2
+entreat|suplicar||V|cmu|C2
+importune|importunar con insistencia||V|cmu|C2
+remonstrate|remonstrar||V|cmu|C2
+parley|parlamentar||V|cmu|C2
+beseech|suplicar fervientemente||V|cmu|C2
+apprise|poner al corriente||V|cmu|C2
+brief|instruir sumariamente||V|cmu|C2

@@ -1,0 +1,253 @@
+upbringing|crianza||S|fam|B2
+toddler|niño pequeño (que empieza a andar)||S|fam|B2
+adolescence|adolescencia||S|fam|B2
+widow|viuda||S|fam|B2
+in-laws|familia política||S|fam|B2
+only child|hijo único||L|fam|B2
+grow up|hacerse mayor||L|fam|B2
+middle-aged|de mediana edad||A|fam|B2
+sibling rivalry|rivalidad entre hermanos||L|fam|B2
+set a good example|dar buen ejemplo||E|fam|B2
+spoiled|malcriado||A|fam|B2
+talk back|contestar con malos modos||L|fam|B2
+household chores|tareas de la casa||L|cas|B2
+allowance|paga (semanal)||S|fam|B2
+rebellious|rebelde||A|fam|B2
+landlord|casero||S|cas|B2
+tenant|inquilino||S|cas|B2
+lease|contrato de alquiler||S|cas|B2
+deposit|fianza||S|cas|B2
+move in|mudarse (a una vivienda)||L|cas|B2
+sublet|subarrendar||V|cas|B2
+furnished|amueblado||A|cas|B2
+renovate|reformar||V|cas|B2
+plumbing|fontanería||S|cas|B2
+wallpaper|papel pintado||S|cas|B2
+cushion|cojín||S|cas|B2
+built-in|empotrado||A|cas|B2
+drill|taladro||S|cas|B2
+ladder|escalera de mano||S|cas|B2
+cuisine|cocina (estilo culinario)||S|ali|B2
+takeout|comida para llevar||S|ali|B2
+savory|salado||A|ali|B2
+feast|banquete||S|ali|B2
+delicacy|manjar||S|ali|B2
+home cooking|cocina casera||L|ali|B2
+seasoning|condimento||S|ali|B2
+intolerance|intolerancia (alimentaria)||S|ali|B2
+balanced diet|dieta equilibrada||L|ali|B2
+junk food|comida basura||L|ali|B2
+put on weight|engordar||E|sla|B2
+cut down on|reducir (el consumo de)||L|ali|B2
+whole-grain|integral||A|ali|B2
+nutrient|nutriente||S|ali|B2
+stir-fry|saltear||V|ali|B2
+street food|comida callejera||L|ali|B2
+casserole|estofado||S|ali|B2
+dumpling|bolita de masa (rellena)||S|ali|B2
+vegan|vegano||A|ali|B2
+season|condimentar||V|ali|B2
+marinate|marinar||V|ali|B2
+vineyard|viñedo||S|ali|B2
+winery|bodega||S|ali|B2
+aftertaste|retrogusto||S|ali|B2
+full-bodied|con cuerpo||A|ali|B2
+decaf|descafeinado||S|ali|B2
+brew|preparar (café)||V|ali|B2
+cork|corcho||S|ali|B2
+brand loyalty|fidelidad a la marca||L|cmp|B2
+slogan|eslogan||S|cmp|B2
+billboard|valla publicitaria||S|cmp|B2
+sponsorship|patrocinio||S|cmp|B2
+target audience|público objetivo||L|cmp|B2
+catchy|pegadizo||A|cmp|B2
+special offer|oferta especial||L|cmp|B2
+refund|reembolso||S|cmp|B2
+warranty|garantía||S|cmp|B2
+return policy|política de devoluciones||L|cmp|B2
+faulty|defectuoso||A|cmp|B2
+exchange|cambiar (un producto)||V|cmp|B2
+voucher|vale (canjeable)||S|cmp|B2
+get your money back|recuperar el dinero||E|cmp|B2
+checkout|pago (al finalizar la compra)||S|cmp|B2
+shopping cart|carrito de la compra||L|cmp|B2
+shipment|envío||S|cmp|B2
+tracking number|número de seguimiento||L|cmp|B2
+out of stock|agotado||L|cmp|B2
+courier|mensajero||S|cmp|B2
+browse|navegar (por una tienda en línea)||V|cmp|B2
+speeding|exceso de velocidad||S|tra|B2
+fine|multa||S|tra|B2
+breakdown|avería||S|tra|B2
+tow truck|grúa||L|tra|B2
+flat tire|pinchazo||L|tra|B2
+trunk|maletero||S|tra|B2
+run over|atropellar||L|tra|B2
+bike lane|carril bici||L|tra|B2
+commuter|persona que se desplaza a diario||S|tra|B2
+rush hour|hora punta||L|tra|B2
+public transit|transporte público||L|tra|B2
+sustainable|sostenible||A|tra|B2
+pedestrian zone|zona peatonal||L|tra|B2
+car-free|sin coches||A|tra|B2
+business trip|viaje de negocios||L|vig|B2
+layover|escala (de conexión)||S|vig|B2
+delayed|retrasado||A|vig|B2
+jet lag|desfase horario||S|vig|B2
+missed connection|conexión perdida (vuelo)||L|vig|B2
+expense|gasto (deducible)||S|vig|B2
+reimburse|reembolsar (gastos)||V|fin|B2
+passport control|control de pasaportes||L|vig|B2
+customs|aduana||S|vig|B2
+customs officer|agente de aduanas||L|vig|B2
+expired|caducado||A|vig|B2
+dual citizenship|doble nacionalidad||L|vig|B2
+work permit|permiso de trabajo||L|vig|B2
+consulate|consulado||S|vig|B2
+guesthouse|casa de huéspedes||S|htl|B2
+star rating|categoría por estrellas||L|htl|B2
+amenities|servicios del establecimiento||S|htl|B2
+boutique hotel|hotel boutique||L|htl|B2
+sightseeing|visita turística||S|vig|B2
+tour guide|guía turístico||L|vig|B2
+off the beaten track|alejado de las rutas típicas||L|vig|B2
+checkup|revisión médica||S|sla|B2
+sedentary|sedentario||A|sla|B2
+preventive|preventivo||A|sla|B2
+screening|cribado (prueba preventiva)||S|sla|B2
+vaccination|vacunación||S|sla|B2
+wellness|bienestar||S|sla|B2
+lifestyle|estilo de vida||S|sla|B2
+premium|prima (de la póliza)||S|fin|B2
+copay|copago||S|sla|B2
+coverage|cobertura||S|sla|B2
+deductible|franquicia (del seguro)||S|sla|B2
+waiting list|lista de espera||L|sla|B2
+primary care|atención primaria||L|sla|B2
+emergency room|urgencias (hospital)||L|sla|B2
+burnout|desgaste por estrés||S|sla|B2
+mindfulness|atención plena||S|sla|B2
+counseling|asesoramiento psicológico||S|sla|B2
+self-esteem|autoestima||S|sla|B2
+unwind|relajarse||V|sla|B2
+mental health|salud mental||L|sla|B2
+meditate|meditar||V|sla|B2
+cover letter|carta de presentación||L|lav|B2
+vacancy|vacante||S|lav|B2
+recruiter|reclutador||S|lav|B2
+shortlist|lista de finalistas||S|lav|B2
+job seeker|demandante de empleo||L|lav|B2
+headhunter|cazatalentos||S|lav|B2
+references|referencias (avales)||S|lav|B2
+probation period|período de prueba||L|lav|B2
+onboarding|proceso de incorporación||S|lav|B2
+strengths and weaknesses|puntos fuertes y débiles||L|lav|B2
+internship|prácticas (laborales)||S|lav|B2
+starting salary|salario inicial||L|lav|B2
+candidate|candidato||S|lav|B2
+turn down|rechazar (una oferta)||L|lav|B2
+promotion|ascenso||S|lav|B2
+layoff|despido (colectivo)||S|lav|B2
+pay raise|subida de sueldo||L|lav|B2
+resign|dimitir||V|lav|B2
+career ladder|progresión profesional||L|lav|B2
+notice period|preaviso||L|lav|B2
+workload|carga de trabajo||S|lav|B2
+agenda|orden del día||S|lav|B2
+minutes|acta (de reunión)||S|lav|B2
+brainstorm|hacer una lluvia de ideas||V|lav|B2
+chair|presidir (una reunión)||V|lav|B2
+follow-up|seguimiento||S|lav|B2
+postpone|aplazar||V|lav|B2
+attendee|asistente (a la reunión)||S|lav|B2
+labor union|sindicato||L|lav|B2
+collective bargaining|negociación colectiva||L|lav|B2
+go on strike|ir a la huelga||E|lav|B2
+overtime|horas extra||S|lav|B2
+paid leave|permiso retribuido||L|lav|B2
+maternity leave|permiso de maternidad||L|lav|B2
+minimum wage|salario mínimo||L|lav|B2
+retake|repetir (un examen)||V|stu|B2
+passing grade|nota de aprobado||L|stu|B2
+cheat|copiar (en un examen)||V|stu|B2
+multiple choice|tipo test||L|stu|B2
+with honors|con matrícula de honor||L|stu|B2
+cram|estudiar a última hora||V|stu|B2
+credential|credencial||S|stu|B2
+scholarship|beca||S|stu|B2
+grant|subvención (para estudios)||S|stu|B2
+tuition fees|matrícula (universitaria)||L|stu|B2
+dormitory|residencia universitaria||S|stu|B2
+freshman|estudiante de primer año||S|stu|B2
+dean|decano||S|stu|B2
+gap year|año sabático||L|stu|B2
+by heart|de memoria||L|stu|B2
+highlight|resaltar||V|stu|B2
+take notes|tomar apuntes||L|stu|B2
+summarize|resumir||V|stu|B2
+flashcards|tarjetas de memorización||S|stu|B2
+keep up with|seguir el ritmo de||L|stu|B2
+fall behind|quedarse atrás||L|stu|B2
+urban sprawl|expansión urbana desordenada||L|cit|B2
+overcrowding|masificación||S|cit|B2
+run-down|degradado||A|cit|B2
+suburb|barrio residencial de las afueras||S|cit|B2
+gentrification|aburguesamiento de barrios||S|cit|B2
+littering|tirar basura en la calle||S|cit|B2
+public housing|vivienda protegida||L|cit|B2
+taxpayer|contribuyente||S|ist|B2
+civil servant|funcionario||L|ist|B2
+city council|ayuntamiento||L|cit|B2
+public services|servicios públicos||L|cit|B2
+parking permit|permiso de estacionamiento para residentes||L|cit|B2
+neighborhood association|asociación de vecinos||L|cit|B2
+town hall|sede del ayuntamiento||S|cit|B2
+greenhouse effect|efecto invernadero||L|nat|B2
+drought|sequía||S|nat|B2
+flood|inundación||S|nat|B2
+wildfire|incendio forestal||S|nat|B2
+carbon emissions|emisiones de carbono||L|nat|B2
+carbon footprint|huella de carbono||L|nat|B2
+tsunami|maremoto||S|nat|B2
+fitting room|probador||L|rop|B2
+trendy|a la última||A|rop|B2
+second-hand|de segunda mano||A|rop|B2
+tailor|sastre||S|rop|B2
+garment|prenda (de vestir)||S|rop|B2
+fast fashion|moda rápida||L|rop|B2
+dress code|código de vestimenta||L|rop|B2
+unfollow|dejar de seguir||V|tec|B2
+go viral|hacerse viral||L|tec|B2
+block|bloquear (a un usuario)||V|tec|B2
+scroll|desplazarse (por una pantalla)||V|tec|B2
+screen time|tiempo de pantalla||L|tec|B2
+privacy settings|ajustes de privacidad||L|tec|B2
+troll|provocador en redes||S|tec|B2
+hacker|pirata informático||S|tec|B2
+identity theft|suplantación de identidad||L|tec|B2
+two-step verification|verificación en dos pasos||L|tec|B2
+firewall|cortafuegos||S|tec|B2
+encryption|cifrado||S|tec|B2
+data breach|filtración de datos||L|tec|B2
+back up|hacer copias de seguridad||L|tec|B2
+coding|programación||S|tec|B2
+bug|error (en el código)||S|tec|B2
+debug|depurar||V|tec|B2
+source code|código fuente||L|tec|B2
+developer|desarrollador||S|tec|B2
+user-friendly|fácil de usar||A|tec|B2
+algorithm|algoritmo||S|tec|B2
+championship|campeonato||S|spt|B2
+tournament|torneo||S|spt|B2
+qualify for|clasificarse para||L|spt|B2
+knockout|eliminatoria||S|spt|B2
+win the title|ganar el título||E|spt|B2
+sponsor|patrocinador||S|spt|B2
+underdog|equipo desfavorecido||S|spt|B2
+sprain|esguince||S|sla|B2
+fracture|fractura||S|sla|B2
+physical therapist|fisioterapeuta||L|pro|B2
+warm up|calentar (antes del ejercicio)||L|spt|B2
+stretch|estirar (los músculos)||V|spt|B2
+bruise|moretón||S|cor|B2
+swollen|hinchado||A|sla|B2

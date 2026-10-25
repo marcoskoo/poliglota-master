@@ -1,0 +1,303 @@
+abrogazione|abrogación||S|ist|C1
+adempimento|cumplimiento (de una obligación)||S|ast|C1
+inadempimento|incumplimiento (contractual)||S|fin|C1
+alienazione|enajenación (cesión de bienes)||S|ist|C1
+annullamento|anulación (de un acto)||S|ist|C1
+nullità|nulidad (de pleno derecho)||S|ist|C1
+appalto|adjudicación (contrato de obras)||S|lav|C1
+arbitrato|arbitraje||S|ist|C1
+arringa|alegato final (de la acusación)||S|ist|C1
+caparra|arras (señal del contrato)||S|fin|C1
+cauzione|fianza (caución)||S|fin|C1
+rescissione|rescisión (de contrato)||S|ist|C1
+clausola penale|cláusula penal||L|fin|C1
+clausola vessatoria|cláusula abusiva||L|fin|C1
+comparsa|escrito de parte||S|ist|C1
+contumacia|rebeldía (procesal)||S|ist|C1
+decadenza|caducidad (pérdida de un derecho)||S|ist|C1
+diritto di recesso|derecho de desistimiento||L|ist|C1
+recesso|desistimiento (resolución unilateral)||S|ist|C1
+escussione|ejecución (de la garantía)||S|fin|C1
+fideiussione|fianza (avales)||S|fin|C1
+fideiussore|fiador (avalista)||S|pro|C1
+gravame|gravamen (carga sobre bienes)||S|ist|C1
+ipotecario|hipotecario (registral)||A|ist|C1
+interdizione|interdicción (incapacitación)||S|ist|C1
+abuso d'ufficio|abuso de autoridad||L|ist|C1
+curatela|curatela (administración de bienes)||S|ist|C1
+istanza|solicitud (escrito procesal)||S|ist|C1
+legittimario|heredero forzoso||S|ist|C1
+mora|mora (retraso en el pago)||S|fin|C1
+morosità|morosidad||S|fin|C1
+patrocinio|patrocinio (defensa letrada)||S|ist|C1
+perizia|peritaje (informe pericial)||S|ist|C1
+pignoramento|embargo (retención judicial)||S|ist|C1
+precetto|requerimiento de pago (intimación)||S|ist|C1
+prescrizione|prescripción (caducidad del derecho)||S|ist|C1
+pubblico ministero|ministerio fiscal||L|ist|C1
+quietanza|carta de pago (recibo)||S|fin|C1
+rogito|escritura notarial (de compraventa)||S|fin|C1
+scrittura privata|documento privado||L|ist|C1
+atto notarile|escritura pública (notarial)||L|ist|C1
+surroga|subrogación (novación del préstamo)||S|fin|C1
+stipula|stipulación (firma del contrato)||S|ist|C1
+riconvenzione|reconvención (demanda reconvencional)||S|ist|C1
+litisconsorzio|litisconsorcio||S|ist|C1
+deposizione|declaración (testifical)||S|ist|C1
+ricognizione|inspección ocular (reconocimiento)||S|ist|C1
+consulenza tecnica|peritaje (asistencia técnica)||L|ist|C1
+esecuzione forzata|ejecución forzosa||L|ist|C1
+rogatoria|rogatoria (comisión judicial)||S|ist|C1
+conciliazione|conciliación (acuerdo)||S|ist|C1
+patteggiamento|conformidad (proceso abreviado)||S|ist|C1
+testamento olografo|testamento ológrafo||L|ist|C1
+de cuius|causante (difunto de cuya herencia se trata)||L|ist|C1
+eredità giacente|herencia yacente||L|ist|C1
+successione|sucesión (hereditaria)||S|ist|C1
+usufrutto|usufructo||S|ist|C1
+servitù|servidumbre (de predio)||S|ist|C1
+comodato|comodato (préstamo de uso)||S|ist|C1
+pegno|prenda (garantía real)||S|fin|C1
+voltura|cambio de titular registral||S|ist|C1
+trascrizione|inscripción (registral)||S|ist|C1
+visura|nota simple (consulta registral)||S|ist|C1
+catasto|catastro||S|ist|C1
+giudicato|cosa juzgada (fallo firme)||S|ist|C1
+lite pendente|pleito pendiente (litispendencia)||L|ist|C1
+spese di giustizia|costas judiciales||L|ist|C1
+transazione|transacción (acuerdo extrajudicial)||S|ist|C1
+legittimazione ad agire|legitimación (para comparecer en juicio)||L|ist|C1
+onere della prova|carga de la prueba||L|ist|C1
+decreto ingiuntivo|mandamiento de pago (monitorio)||L|ist|C1
+amnistia|amnistía||S|ist|C1
+indulto|indulto||S|ist|C1
+ergastolo|cadena perpetua||S|ist|C1
+flagranza|flagrancia (delito manifiesto)||S|ist|C1
+reato|delito (tipificado)||S|ist|C1
+dolo|dolo (intención delictiva)||S|ist|C1
+preterintenzione|preterintención (resultado no querido)||S|ist|C1
+colpa grave|culpa grave||L|ist|C1
+imputazione|imputación (escrito de cargos)||S|ist|C1
+requisitoria|requisitoria (escrito de acusación)||S|ist|C1
+querela|querella (denuncia penal)||S|ist|C1
+querelante|querellante||S|pro|C1
+calunnia|calumnia||S|ist|C1
+diffamazione|difamación||S|cmu|C1
+istigazione a delinquere|inducción al delito||L|ist|C1
+favoreggiamento|encubrimiento (favorecimiento)||S|ist|C1
+ricettazione|receptación (tráfico de lo robado)||S|ist|C1
+estorsione|extorsión (chantaje)||S|ist|C1
+concussione|concusión (exacción indebida)||S|ist|C1
+peculato|peculado (malversación)||S|ist|C1
+tangente|comisión (soborno)||S|fin|C1
+mazzetta|sobre (soborno)||S|fin|C1
+riciclaggio|blanqueo de capitales||S|fin|C1
+paradiso fiscale|paraíso fiscal||L|fin|C1
+evasione fiscale|evasión fiscal||L|fin|C1
+evasore|evasor (fugitivo fiscal)||S|pro|C1
+frode|fraude (engaño)||S|fin|C1
+condono|condonación (indulto fiscal)||S|fin|C1
+confisca|comiso (decomiso)||S|ist|C1
+libertà vigilata|libertad vigilada||L|ist|C1
+condanna condizionale|condena condicional||L|ist|C1
+recidiva|reincidencia||S|ist|C1
+recidivo|reincidente||A|ast|C1
+mandante|mandante (instigador)||S|pro|C1
+complicità|complicidad||S|ist|C1
+abigeato|abigeato (hurto de ganado)||S|ist|C1
+vilipendio|ultraje (desprecio público)||S|ist|C1
+depistaggio|despiste (encubrimiento engañoso)||S|att|C1
+eccidio|matanza (carnicería)||S|att|C1
+sequestro conservativo|embargo preventivo||L|ist|C1
+sequestro preventivo|comiso preventivo||L|ist|C1
+custodia cautelare|prisión preventiva||L|ist|C1
+mandato di cattura|orden de detención||L|ist|C1
+perquisizione|registro (domiciliario)||S|ist|C1
+ordinanza|providencia (auto judicial)||S|ist|C1
+dibattimento|vista (juicio oral)||S|ist|C1
+istruttoria|instrucción (fase de investigación)||S|ist|C1
+archiviazione|sobreseimiento (archivo del caso)||S|ist|C1
+proscioglimento|sobreseimiento (absolución)||S|ist|C1
+citazione in giudizio|citación judicial||L|ist|C1
+giurisdizione|jurisdicción||S|ist|C1
+verbale di udienza|acta de la vista||L|ist|C1
+difensore d'ufficio|abogado de oficio||L|pro|C1
+avvocatura|abogacía (colegio de la abogacía)||S|pro|C1
+onorario|honorarios (retribución profesional)||S|fin|C1
+togato|togado (juez de carrera)||A|pro|C1
+semilibertà|semilibertad (permiso penitenciario)||S|ist|C1
+vizio di forma|vicio de forma||L|ist|C1
+perentorio|perentorio (improrrogable)||A|ast|C1
+imperizia|impericia (falta de pericia)||S|ast|C1
+brocardo|brocardo (máxima forense)||S|ist|C1
+incartamento|expediente (legajo)||S|ist|C1
+vidimazione|visado (validación de documentos)||S|ist|C1
+emendamento|enmienda (modificación legislativa)||S|ist|C1
+questione di fiducia|moción de confianza||L|ist|C1
+mozione di sfiducia|moción de censura||L|ist|C1
+scioglimento|disolución (de las cámaras)||S|ist|C1
+astensionismo|abstencionismo||S|att|C1
+seggio|escaño (acta de diputado)||S|ist|C1
+sbarramento|barrera (electoral)||S|ist|C1
+riserva di legge|reserva de ley||L|ist|C1
+decreto legge|decreto-ley||L|ist|C1
+provvedimento|providencia (acto administrativo)||S|ist|C1
+ricorso amministrativo|recurso administrativo||L|ist|C1
+silenzio assenso|silencio administrativo (positivo)||L|ist|C1
+espropriazione|expropiación (forzosa)||S|ist|C1
+sanatoria|regularización (de obra ilegal)||S|cit|C1
+demaniale|de dominio público (demanial)||A|ist|C1
+extradizione|extradición||S|ist|C1
+extraterritorialità|extraterritorialidad||S|ist|C1
+trattato di non proliferazione|tratado de no proliferación||L|ist|C1
+deterrenza|disuasión (potencia que disuade)||S|att|C1
+rappresaglia|represalia||S|att|C1
+armistizio|armisticio||S|att|C1
+belligerante|beligerante||A|att|C1
+autarchia|autarquía||S|att|C1
+egemonia|hegemonía||S|att|C1
+multipolarità|multipolaridad||S|att|C1
+irredentismo|irredentismo||S|ast|C1
+contenzioso|contencioso (fronterizo)||S|att|C1
+sdoganamento|despacho aduanero (normalización)||S|fin|C1
+criminologia|criminología||S|ast|C1
+penologia|penología||S|ast|C1
+penitenziario|penitenciario||A|ist|C1
+risocializzazione|reinserción social||S|ast|C1
+criminalità organizzata|crimen organizado||L|att|C1
+eversivo|subversivo||A|att|C1
+azionariato|accionariado||S|fin|C1
+aumento di capitale|ampliación de capital||L|fin|C1
+fusione e acquisizione|fusión y adquisición||L|fin|C1
+acquisizione|adquisición (compra de empresa)||S|fin|C1
+quotazione|cotización (salida a bolsa)||S|fin|C1
+azioni proprie|acciones propias (recompra)||L|fin|C1
+collegio sindacale|órgano de control (síndicos)||L|fin|C1
+esercizio|ejercicio (fiscal)||S|fin|C1
+partita doppia|partida doble||L|fin|C1
+mastrino|mayor (libro contable)||S|fin|C1
+storno|ajuste (asiento de reversión)||S|fin|C1
+revisione contabile|auditoría de cuentas||L|fin|C1
+revisore legale|auditor de cuentas||S|pro|C1
+avviamento|fondo de comercio||S|fin|C1
+nota integrativa|memoria (anual)||L|fin|C1
+consolidato|estado consolidado||S|fin|C1
+plusvalenza|plusvalía||S|fin|C1
+minusvalenza|minusvalía||S|fin|C1
+cartolarizzazione|titulización||S|fin|C1
+concordato preventivo|convenio concursal preventivo||L|fin|C1
+fallimento|quiebra (concurso de acreedores)||S|fin|C1
+liquidazione|liquidación (concursal)||S|fin|C1
+chirografario|quirografario (sin garantía)||A|fin|C1
+insolvenza|insolvencia||S|fin|C1
+sofferenza|crédito dudoso (incobrable)||S|fin|C1
+capitale di rischio|capital riesgo||L|fin|C1
+leva finanziaria|apalancamiento (financiero)||L|fin|C1
+stima|tasación (valoración pericial)||S|fin|C1
+buonuscita|indemnización de salida||S|fin|C1
+gettito|recaudación (ingreso fiscal)||S|fin|C1
+disavanzo|déficit (desequilibrio)||S|fin|C1
+avanzo|superávit||S|fin|C1
+manovra finanziaria|ajuste presupuestario||L|fin|C1
+congiuntura|coyuntura (económica)||S|fin|C1
+stagflazione|estanflación||S|fin|C1
+svalutazione|devaluación||S|fin|C1
+rivalutazione|revalorización||S|fin|C1
+bolla speculativa|burbuja especulativa||L|fin|C1
+spread|diferencial (de riesgo país)||S|fin|C1
+titoli di Stato|deuda pública (bonos del Estado)||L|fin|C1
+cedola|cupón (del bono)||S|fin|C1
+girata|endoso (de efectos)||S|fin|C1
+cambiale|pagaré (letra de cambio)||S|fin|C1
+avallo|aval (avales)||S|fin|C1
+tasso ufficiale di sconto|tipo oficial de descuento||L|fin|C1
+riserva obbligatoria|reserva obligatoria (coeficiente)||L|fin|C1
+moneta legale|moneda de curso legal||L|fin|C1
+signoraggio|señoreaje (privilegio de emisión)||S|fin|C1
+volatilità|volatilidad||S|fin|C1
+speculazione|especulación||S|fin|C1
+derivato|derivado (producto financiero)||S|fin|C1
+copertura|cobertura (de riesgo)||S|fin|C1
+rischio di credito|riesgo de crédito||L|fin|C1
+capitale di vigilanza|capital regulatorio||L|fin|C1
+merito di credito|calificación crediticia||L|fin|C1
+accantonamento|provisión (dotación a fondo)||S|fin|C1
+proventi|proventos (rendimientos)||S|fin|C1
+obbligazione|obligación (bono)||S|fin|C1
+riscatto|reembolso (canje de bonos)||S|fin|C1
+moratoria|moratoria||S|fin|C1
+dilazione|prórroga (aplazamiento)||S|fin|C1
+ristrutturazione del debito|reestructuración de la deuda||L|fin|C1
+obbligazionario|de renta fija||A|fin|C1
+capitalizzazione|capitalización||S|fin|C1
+capitalizzare|capitalizar||V|fin|C1
+attuariale|actuarial||A|fin|C1
+massimale|límite máximo (de cobertura)||S|fin|C1
+franchigia|franquicia (deducible)||S|fin|C1
+sinistro|siniestro||S|fin|C1
+riassicurazione|reaseguro||S|fin|C1
+accisa|impuesto especial (sobre consumos)||S|fin|C1
+aliquota|tipo impositivo (alícuota)||S|fin|C1
+detrazione|deducción (de la cuota)||S|fin|C1
+deducibilità|deducibilidad||S|fin|C1
+ritenuta d'acconto|retención (a cuenta)||L|fin|C1
+imponibile|base imponible||A|fin|C1
+esenzione|exención (tributaria)||S|fin|C1
+periodo d'imposta|periodo impositivo||L|fin|C1
+ravvedimento|rectificación espontánea (de la deuda)||S|fin|C1
+accertamento|comprobación (tributaria)||S|fin|C1
+riscossione|recaudación (cobro)||S|fin|C1
+forfettario|a tanto alzado (régimen simplificado)||A|fin|C1
+addizionale|recargo (tributo adicional)||S|fin|C1
+stanziamento|asignación (partida presupuestaria)||S|fin|C1
+capitolo di spesa|partida de gasto||L|fin|C1
+erario|erario (hacienda pública)||S|fin|C1
+perequazione|perecuación (equiparación)||S|fin|C1
+patto di stabilità|pacto de estabilidad||L|fin|C1
+vincolo esterno|restricción externa||L|fin|C1
+sovvenzione|subvención (ayuda estatal)||S|fin|C1
+dumping|dumping (prácticas desleales)||S|fin|C1
+dazio|arancel||S|fin|C1
+protezionismo|proteccionismo||S|att|C1
+liberalizzazione|liberalización||S|fin|C1
+quota di mercato|cuota de mercado||L|fin|C1
+concorrenza sleale|competencia desleal||L|fin|C1
+oligopolio|oligopolio||S|fin|C1
+monopsonio|monopsonio||S|fin|C1
+elasticità|elasticidad (de la demanda)||S|fin|C1
+microcredito|microcrédito||S|fin|C1
+cooperazione allo sviluppo|cooperación al desarrollo||L|fin|C1
+condizionalità|condicionalidad (ajuste estructural)||S|fin|C1
+prodotto interno lordo|producto interior bruto||L|fin|C1
+filiera|cadena (sector productivo)||S|fin|C1
+stoccaggio|almacenaje||S|fin|C1
+giacenza|existencias (stock)||S|fin|C1
+contrattazione collettiva|negociación colectiva||L|lav|C1
+picchettaggio|piqueteo (encierro sindical)||S|lav|C1
+cassa integrazione|fondo de suspensión de empleo||L|lav|C1
+previdenza|previsión (seguridad social)||S|fin|C1
+pensionistica|previsional (de pensiones)||A|fin|C1
+contributivo|contributivo (cotización)||A|fin|C1
+emolumenti|emolumentos (retribuciones)||S|lav|C1
+inquadramento|clasificación (categoría laboral)||S|lav|C1
+compartecipazione|comparticipación (a los resultados)||S|fin|C1
+capogruppo|matriz (empresa dominante)||S|fin|C1
+controllata|filial (empresa controlada)||S|fin|C1
+contrattualistica|contratística (práctica contractual)||S|fin|C1
+posizionamento|posicionamiento (de marca)||S|fin|C1
+segmentazione|segmentación (de mercado)||S|fin|C1
+fidelizzazione|fidelización (de clientes)||S|fin|C1
+rendicontazione|rendición de cuentas||S|fin|C1
+pluralismo|pluralismo||S|att|C1
+populismo|populismo||S|att|C1
+clientelismo|clientelismo||S|att|C1
+parlamentarismo|parlamentarismo||S|ist|C1
+demagogia|demagogia||S|att|C1
+plebiscito|plebiscito||S|ist|C1
+lobbismo|cabildeo||S|att|C1
+sussidiarietà|subsidiariedad||S|ast|C1
+azionista di riferimento|accionista de referencia (dominante)||L|fin|C1
+assemblea straordinaria|junta general extraordinaria||L|fin|C1
+camera di consiglio|sala de deliberación (los jueces a solas)||L|ist|C1
+compensazione|compensación (extinción de deudas recíprocas)||S|ist|C1
+legato|legado (disposición testamentaria)||S|ist|C1

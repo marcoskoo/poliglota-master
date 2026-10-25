@@ -1,0 +1,302 @@
+ermeneutica|hermenéutica||S|let|C1
+esegesi|exégesis||S|let|C1
+filologia|filología||S|let|C1
+ecdotica|ecdotica (crítica textual)||S|let|C1
+intertestualità|intertextualidad||S|let|C1
+metonimia|metonimia||S|let|C1
+sineddoche|sinécdoque||S|let|C1
+anafora|anáfora||S|let|C1
+chiasmo|quiasmo||S|let|C1
+ipallage|hipálage||S|let|C1
+zeugma|zeugma||S|let|C1
+litote|lítotes||S|let|C1
+ossimoro|oxímoron||S|let|C1
+endecasillabo|endecasílabo||S|let|C1
+terzina|terceto||S|let|C1
+sinalefe|sinalefa||S|let|C1
+aedo|aedo (poeta épico)||S|let|C1
+catarsi|catarsis||S|let|C1
+mimesi|mímesis||S|let|C1
+metrica|métrica (versificación)||S|let|C1
+focalizzazione|focalización (punto de vista)||S|let|C1
+fabula|fábula (historia frente a relato)||S|let|C1
+epifania|epifanía (revelación repentina)||S|let|C1
+flusso di coscienza|flujo de conciencia||L|let|C1
+ludibrio|escarnio (motivo de burla)||S|let|C1
+distopia|distopía||S|let|C1
+aforisma|aforismo||S|let|C1
+apocrifo|apócrifo (texto no canónico)||A|let|C1
+palinsesto|palimpsesto||S|let|C1
+amanuense|amanuense (copista)||S|pro|C1
+incipit|incipit (comienzo del texto)||S|let|C1
+analessi|analepsis (retrospección narrativa)||S|let|C1
+epistolario|epistolario||S|let|C1
+epistemologia|epistemología||S|ast|C1
+ontologia|ontología||S|ast|C1
+metafisica|metafísica||S|ast|C1
+estetica|estética (filosofía del arte)||S|art|C1
+immanente|inmanente||A|ast|C1
+trascendente|trascendente||A|ast|C1
+dialettica|dialéctica||S|ast|C1
+reificazione|cosificación||S|ast|C1
+aporia|aporía||S|ast|C1
+sillogismo|silogismo||S|ast|C1
+fallacia|falacia||S|ast|C1
+petizione di principio|petición de principio||L|ast|C1
+noumeno|noúmeno||S|ast|C1
+imperativo categorico|imperativo categórico||L|ast|C1
+utilitarismo|utilitarismo||S|ast|C1
+stoicismo|estoicismo||S|ast|C1
+materialismo storico|materialismo histórico||L|ast|C1
+quiddità|quiddidad (esencia)||S|ast|C1
+deontologia|deontología||S|ast|C1
+acrasia|acrasia (incontinencia volitiva)||S|ast|C1
+teleologico|teleológico||A|ast|C1
+libero arbitrio|libre albedrío||L|ast|C1
+falsificabilità|falsabilidad||S|ast|C1
+paradigma|paradigma (científico)||S|ast|C1
+storicismo|historicismo||S|ast|C1
+storiografia|historiografía||S|ast|C1
+periodizzazione|periodización||S|ast|C1
+storicizzare|historizar||V|ast|C1
+revisionismo|revisionismo (histórico)||S|ast|C1
+lunga durata|larga duración (historia estructural)||L|ast|C1
+fonema|fonema||S|let|C1
+morfema|morfema||S|let|C1
+sintagma|sintagma||S|let|C1
+gergo|jerga (argot)||S|cmu|C1
+isoglossa|isoglosa||S|let|C1
+etimo|etimo (raíz etimológica)||S|let|C1
+calco|calco (préstamo traducido)||S|let|C1
+neologismo|neologismo||S|let|C1
+accezione|acepción||S|let|C1
+polisemia|polisemia||S|let|C1
+ipercorrezione|hipercorrección||S|let|C1
+ellisse|elipsis||S|let|C1
+pleonasmo|pleonasmo||S|let|C1
+diacronico|diacrónico||A|let|C1
+lessicografia|lexicografía||S|let|C1
+volgarizzamento|vulgarización (traducción medieval)||S|let|C1
+pragmatica|pragmática (lingüística)||S|let|C1
+deittico|deíctico||A|let|C1
+rimozione|represión (psicoanalítica)||S|emo|C1
+transfert|transferencia (psicoanalítica)||S|emo|C1
+inconscio|inconsciente||S|ast|C1
+sublimazione|sublimación||S|emo|C1
+narcisismo|narcisismo||S|emo|C1
+proiezione|proyección (psicoanalítica)||S|emo|C1
+segregazione|segregación||S|att|C1
+ghettizzazione|guetificación||S|att|C1
+emarginazione|marginación||S|att|C1
+diaspora|diáspora||S|att|C1
+spopolamento|despoblamiento||S|att|C1
+denatalità|caída de la natalidad||S|att|C1
+mobilità sociale|movilidad social||L|att|C1
+ascensore sociale|ascensor social||L|att|C1
+capitale sociale|capital social||L|att|C1
+devianza|desviación (social)||S|ast|C1
+stigmatizzazione|estigmatización||S|ast|C1
+anomia|anomia||S|ast|C1
+secolarizzazione|secularización||S|ast|C1
+emancipazione|emancipación||S|ast|C1
+gentrificazione|gentrificación||S|cit|C1
+famiglia allargata|familia reconstituida (extensa)||L|fam|C1
+affidamento condiviso|custodia compartida||L|fam|C1
+sondaggio d'opinione|sondeo de opinión||L|att|C1
+catena migratoria|cadena migratoria||L|att|C1
+etnocentrismo|etnocentrismo||S|ast|C1
+acculturazione|aculturación||S|ast|C1
+sciamanesimo|chamanismo||S|ast|C1
+patriarcato|patriarcado||S|ast|C1
+sensazionalismo|sensacionalismo||S|cmu|C1
+disinformazione|desinformación||S|cmu|C1
+postverità|posverdad||S|cmu|C1
+bufala|bulo (noticia falsa)||S|cmu|C1
+occhiello|entradilla (de una noticia)||S|cmu|C1
+inchiesta giornalistica|reportaje de investigación||L|cmu|C1
+testata|cabecera (de un periódico)||S|cmu|C1
+libretto|libreto (de ópera)||S|mus|C1
+aria|aria (de ópera)||S|mus|C1
+cavatina|cavatina||S|mus|C1
+spartito|partitura||S|mus|C1
+modulazione|modulación||S|mus|C1
+atonale|atonal||A|mus|C1
+dodecafonismo|dodecafonismo||S|mus|C1
+vibrato|vibrato||S|mus|C1
+contrappunto|contrapunto||S|mus|C1
+polifonia|polifonía||S|mus|C1
+virtuosismo|virtuosismo||S|mus|C1
+museografia|museografía||S|art|C1
+allestimento|montaje (de una exposición)||S|art|C1
+conservazione preventiva|conservación preventiva||L|art|C1
+falsario|falsificador||S|pro|C1
+contraffazione|falsificación||S|ist|C1
+pentimento|arrepentimiento (corrección del pintor)||S|art|C1
+sinopia|sinopia (dibujo preparatorio)||S|art|C1
+velatura|veladura||S|art|C1
+impasto|empaste||S|art|C1
+acquaforte|aguafuerte||S|art|C1
+bulino|buril||S|art|C1
+oreficeria|orfebrería||S|art|C1
+tarsia|taracea (marquetería)||S|art|C1
+matroneo|tribuna (matroneo)||S|art|C1
+bifora|bifora (ventana gemela)||S|art|C1
+rosone|rosetón||S|art|C1
+bugnato|almohadillado||S|art|C1
+spiovente|vertiente (faldón del tejado)||S|art|C1
+scenotecnica|escenotecnia||S|art|C1
+slargo|ensanche (plazoleta)||S|cit|C1
+diaframma|diafragma (apertura del objetivo)||S|art|C1
+viraggio|virado (tonalización)||S|art|C1
+otturatore|obturador||S|tec|C1
+montaggio|montaje (edición cinematográfica)||S|cin|C1
+carrello|travelling (desplazamiento de cámara)||S|cin|C1
+fuoricampo|fuera de campo (off)||A|cin|C1
+doppiaggio|doblaje||S|cin|C1
+piano sequenza|plano secuencia||L|cin|C1
+primissimo piano|primerísimo primer plano||L|cin|C1
+cinema d'autore|cine de autor||L|cin|C1
+dispersione scolastica|abandono escolar||L|stu|C1
+metacognizione|metacognición||S|stu|C1
+docimologia|docimología (evaluación)||S|stu|C1
+elaborazione del lutto|elaboración del duelo||L|emo|C1
+sussiego|gazmoñería (dignidad afectada)||S|emo|C1
+smanceria|zalema (carantoña)||S|emo|C1
+piaggeria|adulación (peloteo)||S|emo|C1
+vessazione|vejación||S|emo|C1
+astio|rencor (malquerencia)||S|emo|C1
+stizza|rabietas (ira súbita)||S|emo|C1
+sdegno|indignación (desdén)||S|emo|C1
+solerzia|diligencia (soltura)||S|emo|C1
+menefreghismo|despreocupación (desgana)||S|emo|C1
+spavalderia|jactancia (gallardía fanfarrona)||S|emo|C1
+goffaggine|torpeza (desmaña)||S|emo|C1
+malagrazia|descortesía (mala educación)||S|emo|C1
+alterigia|altiveza (altanería)||S|emo|C1
+supponenza|presunción (avilantez)||S|emo|C1
+insolenza|insolencia||S|emo|C1
+protervia|desfachatamiento (insolencia arrogante)||S|emo|C1
+petulanza|petulancia (insistencia molesta)||S|emo|C1
+sgomento|consternación (espanto)||S|emo|C1
+rincrescimento|pesar (sentimiento de pena)||S|emo|C1
+longanimità|longanimidad (paciencia longánime)||S|emo|C1
+magnanimità|magnanimidad||S|emo|C1
+meschinità|mezquindad||S|emo|C1
+grettezza|estrechezza (mezquindad)||S|emo|C1
+flemmatico|flemático||A|ast|C1
+irascibile|irascible||A|ast|C1
+pacato|apacible (sosegado)||A|ast|C1
+sfottò|tomadura de pelo (burla)||S|cmu|C1
+sberleffo|burla (gesto de mofa)||S|cmu|C1
+canzonatura|burla (sátira con pullas)||S|cmu|C1
+altroché|claro que sí (por supuesto)||I|cmu|C1
+macché|qué va (en absoluto)||I|cmu|C1
+beninteso|por supuesto (entiéndase bien)||D|cmu|C1
+intendiamoci|entendámonos||E|cmu|C1
+mica|en absoluto (nada de eso)||D|cmu|C1
+maddai|vamos ya (no me digas)||I|cmu|C1
+figuriamoci|ni te imagines (figúrate)||E|cmu|C1
+per carità|por caridad (por favor no)||E|cmu|C1
+vabbè|bueno (qué más da)||I|cmu|C1
+in soldoni|en resumidas cuentas||L|cmu|C1
+per sommi capi|a grandes rasgos||L|cnn|C1
+alla bell'e meglio|a la buena de Dios||L|cmu|C1
+di punto in bianco|de repente (sin previo aviso)||L|tmp|C1
+in un battibaleno|en un santiamén||L|tmp|C1
+alla lontana|ni por asomo (de lejos)||L|cmu|C1
+per esteso|por extenso||L|cmu|C1
+trambusto|trastorno (jaleo)||S|cmu|C1
+baruffa|trifulca (reyerta)||S|cmu|C1
+polverone|polvorada (polémica)||S|cmu|C1
+biascicare|farfullar||V|cmu|C1
+articolare|articular (pronunciar con claridad)||V|cmu|C1
+scandire|escandir (deletrear)||V|cmu|C1
+ciarpame|trastos (chatarra)||S|cas|C1
+mutatis mutandis|mutatis mutandis (con los cambios debidos)||L|ast|C1
+ad abundantiam|en abundancia (con exceso)||L|ast|C1
+ex novo|de nuevo (desde cero)||L|cnn|C1
+in extremis|in extremis (en el último momento)||L|tmp|C1
+sui generis|sui generis (inclasificable)||L|ast|C1
+ex cathedra|ex cathedra (con autoridad)||L|ast|C1
+in ultima analisi|en última instancia||L|cnn|C1
+a monte|aguas arriba (en el origen)||L|cnn|C1
+per l'appunto|justo (exactamente)||L|cnn|C1
+nondimeno|no obstante (con todo)||C|cnn|C1
+invero|en verdad (ciertamente)||D|ast|C1
+orbene|bien pues (ahora bien)||C|cnn|C1
+sicché|por lo cual (así que)||C|cnn|C1
+giacché|pues (ya que)||C|cnn|C1
+laddove|mientras que (allí donde)||C|cnn|C1
+allorché|cuando (por entonces)||C|ast|C1
+all'occorrenza|si acaso (en caso necesario)||L|cnn|C1
+a mala pena|a duras penas||L|cnn|C1
+di buon grado|de buena gana||L|emo|C1
+peraltro|por lo demás||D|cnn|C1
+altresì|asimismo||D|cnn|C1
+codesto|ese (vuestro; arcaizante)||D|ast|C1
+talora|a veces (tal vez)||D|ast|C1
+sovente|a menudo||D|ast|C1
+vessillo|vexilo (estandarte)||S|ast|C1
+greto|cauce (margen del río)||S|nat|C1
+crinale|divisoria (cresta de montaña)||S|nat|C1
+dirupo|despeñadero||S|nat|C1
+augello|avecilla (pajarillo)||S|nat|C1
+stilla|gota (gotita)||S|nat|C1
+guazza|rocío (sereno)||S|nat|C1
+nubifragio|aguacero (chaparrón)||S|nat|C1
+fulgore|fulgor||S|nat|C1
+meriggio|mediodía (siesta meridiana)||S|tmp|C1
+ammantare|envolver (con un manto)||V|ast|C1
+colata piroclastica|flujo piroclástico||L|nat|C1
+faglia|falla (geológica)||S|nat|C1
+carsismo|karst (modelado kárstico)||S|nat|C1
+morena|morrena (depósitos glaciares)||S|nat|C1
+batimetria|batimetría||S|nat|C1
+abissale|abisal||A|nat|C1
+risacca|resaca (retroceso de las olas)||S|nat|C1
+mareggiata|temporada de mar (marejada)||S|nat|C1
+plancton|plancton||S|nat|C1
+inversione termica|inversión térmica||L|cli|C1
+esondazione|desbordamiento (crecida)||S|nat|C1
+smottamento|desprendimiento (derrumbe)||S|nat|C1
+nugolo|enjambre (nube de moscas)||S|nat|C1
+economia circolare|economía circular||L|fin|C1
+impronta di carbonio|huella de carbono||L|nat|C1
+cordata|cordada (de alpinistas)||S|spt|C1
+crepaccio|grieta (crevasse)||S|nat|C1
+cengia|repisa (cornisa rocosa)||S|nat|C1
+via ferrata|vía ferrata||L|spt|C1
+bivacco|vivac (refugio de fortuna)||S|vig|C1
+slavina|alud (nieve desprendida)||S|nat|C1
+vitigno|variedad (de uva)||S|ali|C1
+vinaccia|orujo (hollejo fermentado)||S|ali|C1
+organolettico|organoléptico||A|ali|C1
+retrogusto|retrogusto (posgusto)||S|ali|C1
+tannino|tanino||S|ali|C1
+invecchiamento in botte|crianza en barrica||L|ali|C1
+scipito|soso (insulso)||A|ali|C1
+sapido|sabroso (con gusto)||A|ali|C1
+riduzione|reducción (fondo de cocina)||S|ris|C1
+impiattamento|emplatado||S|ris|C1
+bramito|bramido (berrea del ciervo)||S|ani|C1
+svernare|invernar||V|nat|C1
+stanziale|sedentario (no migratorio)||A|nat|C1
+predazione|depredación (caza de otros)||S|ani|C1
+infiorescenza|inflorescencia||S|nat|C1
+fenologia|fenología||S|nat|C1
+selvicoltura|silvicultura||S|nat|C1
+ceduo|monte bajo (bosque de rebrote)||S|nat|C1
+acquacoltura|acuicultura||S|nat|C1
+terrazzamento|aterrazamiento (bancales)||S|nat|C1
+idroponica|hidroponía (cultivo sin suelo)||S|nat|C1
+alpeggio|alpeggio (pasto de montaña)||S|nat|C1
+euristica|heurística||S|tec|C1
+crittografia|criptografía||S|tec|C1
+cifratura|cifrado||S|tec|C1
+telerilevamento|teledetección||S|tec|C1
+ortofoto|ortofoto||S|tec|C1
+tokenizzare|tokenizar||V|fin|C1
+criptoattività|criptoactivo||S|fin|C1
+biometria|biometría||S|tec|C1
+anonimizzazione|anonimización||S|tec|C1
+interoperabilità|interoperabilidad||S|tec|C1

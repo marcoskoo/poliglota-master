@@ -1,0 +1,291 @@
+soliloquy|soliloquio||S|let|C2
+dramatic irony|ironía dramática||E|let|C2
+fourth wall|cuarta pared||E|let|C2
+deus ex machina|dios ex machina||L|let|C2
+blocking|marcado de movimientos escénicos||S|art|C2
+proscenium|proscenio||S|art|C2
+tragic flaw|defecto trágico||E|let|C2
+histrionics|histrionismo||S|art|C2
+well-made play|pieza bien hecha||E|let|C2
+understudy|suplente teatral||S|art|C2
+dress rehearsal|ensayo general||E|art|C2
+thrust stage|escenario de tres frentes||E|art|C2
+verismo|verismo||S|art|C2
+subtext|subtexto||S|let|C2
+metonymy|metonimia||S|let|C2
+synecdoche|sinécdoque||S|let|C2
+chiasmus|quiasmo||S|let|C2
+zeugma|zeugma||S|let|C2
+anaphora|anáfora||S|let|C2
+litotes|litote||S|let|C2
+oxymoron|oxímoron||S|let|C2
+apostrophe|apóstrofe||S|let|C2
+ekphrasis|écfrasis||S|let|C2
+catachresis|catacresis||S|let|C2
+prosopopoeia|prosopopeya||S|let|C2
+conceit|agudeza metafórica||S|let|C2
+hendiadys|hendiadis||S|let|C2
+aposiopesis|aposiopesis||S|let|C2
+philology|filología||S|let|C2
+palimpsest|palimpsesto||S|let|C2
+codicology|codicología||S|let|C2
+paleography|paleografía||S|let|C2
+epigraphy|epigrafía||S|let|C2
+scholium|escolio||S|let|C2
+textual criticism|crítica textual||E|let|C2
+interpolation|interpolación (textual)||S|let|C2
+lemma|lema (de diccionario)||S|let|C2
+stemma|stemma (árbol de manuscritos)||S|let|C2
+incunabulum|incunable||S|let|C2
+colophon|colofón||S|let|C2
+recension|recensión||S|let|C2
+hapax legomenon|palabra atestiguada una sola vez||L|let|C2
+source text|texto origen||E|let|C2
+target language|lengua meta||E|let|C2
+domestication|domesticación (del texto ajeno)||S|let|C2
+foreignization|extranjerización||S|let|C2
+equivalence|equivalencia (traductológica)||S|let|C2
+untranslatability|intraducibilidad||S|let|C2
+back-translation|retrotraducción||S|let|C2
+calque|calco||S|let|C2
+compensation|compensación (traductológica)||S|let|C2
+skopos|skopos (finalidad del encargo)||S|let|C2
+transcreation|transcreación||S|let|C2
+localization|localización lingüística||S|let|C2
+pivot language|lengua pivote||E|let|C2
+translationese|lengua de traducción||S|let|C2
+polemic|polémica||S|ast|C2
+treatise|tratado||S|let|C2
+diatribe|diatriba||S|let|C2
+apologia|apología (defensa razonada)||S|let|C2
+pamphleteer|panfletario||S|let|C2
+dialectic|dialéctica||S|ast|C2
+zeitgeist|espíritu de la época||S|ast|C2
+commonplace book|cuaderno de aforismos||E|let|C2
+epigram|epigrama||S|let|C2
+marginalia|notas marginales||S|let|C2
+belles-lettres|bellas letras||L|let|C2
+disquisition|disquisición||S|ast|C2
+excursus|digresión erudita||S|let|C2
+caveat|advertencia (condición restrictiva)||S|ast|C2
+dystopia|distopía||S|let|C2
+utopian|utópico||A|let|C2
+speculative fiction|ficción especulativa||E|let|C2
+worldbuilding|construcción de mundos||S|let|C2
+post-apocalyptic|posapocalíptico||A|let|C2
+terraforming|terraformación||S|let|C2
+cyborg|cyborg||S|let|C2
+android|androide||S|let|C2
+space opera|ópera espacial||E|let|C2
+hard science fiction|ciencia ficción dura||E|let|C2
+alternate history|historia alternativa||E|let|C2
+singularity|singularidad tecnológica||S|let|C2
+otherness|alteridad||S|ast|C2
+first contact|primer contacto||E|let|C2
+canonization|canonización||S|let|C2
+intertextuality|intertextualidad||S|let|C2
+heteroglossia|heteroglosia||S|let|C2
+oeuvre|obra completa (de un autor)||S|let|C2
+novella|novela corta||S|let|C2
+bildungsroman|novela de formación||S|let|C2
+comparative literature|literatura comparada||E|let|C2
+periodization|periodización||S|let|C2
+close reading|lectura atenta||E|let|C2
+postcolonial|poscolonial||A|let|C2
+unreliable narrator|narrador no fiable||E|let|C2
+epistolary novel|novela epistolar||E|let|C2
+pastiche|pastiche||S|let|C2
+frame narrative|narración marco||E|let|C2
+margin of error|margen de error||E|att|C2
+sampling error|error muestral||E|att|C2
+weighting|ponderación (de la muestra)||S|att|C2
+approval rating|índice de aprobación||E|att|C2
+exit poll|encuesta a pie de urna||E|att|C2
+push poll|encuesta manipulativa||E|att|C2
+bandwagon effect|efecto arrastre||E|att|C2
+silent majority|mayoría silenciosa||E|att|C2
+echo chamber|cámara de eco||E|att|C2
+astroturfing|falsa movilización espontánea||S|att|C2
+focus group|grupo de discusión||E|att|C2
+nonresponse bias|sesgo de no respuesta||E|att|C2
+bellwether|distrito campana||S|att|C2
+turnout|participación electoral||S|att|C2
+ceasefire|alto el fuego||S|att|C2
+peacekeeping|mantenimiento de la paz||S|att|C2
+insurgency|insurgencia||S|att|C2
+disarmament|desarme||S|att|C2
+proliferation|proliferación armamentística||S|att|C2
+deterrent|disuasorio||S|att|C2
+proxy war|guerra subsidiaria||E|att|C2
+asymmetric warfare|guerra asimétrica||E|att|C2
+scorched earth|tierra quemada||E|att|C2
+armistice|armisticio||S|att|C2
+preventive diplomacy|diplomacia preventiva||E|att|C2
+arms embargo|embargo de armas||E|att|C2
+buffer zone|zona de amortiguación||E|att|C2
+targeted killing|homicidio selectivo||E|att|C2
+supranational|supranacional||A|ist|C2
+accession|adhesión||S|ist|C2
+subsidiarity|subsidiariedad||S|ist|C2
+multilateralism|multilateralismo||S|ist|C2
+veto power|derecho de veto||E|ist|C2
+ratification|ratificación||S|ist|C2
+high commissioner|alto comisionado||E|ist|C2
+peacebuilding|construcción de la paz||S|ist|C2
+summitry|diplomacia de cumbres||S|ist|C2
+nonaligned|no alineado||A|ist|C2
+binding|vinculante||A|ist|C2
+abstention|abstención||S|ist|C2
+reciprocity|reciprocidad||S|ist|C2
+member state|estado miembro||E|ist|C2
+welfare state|estado de bienestar||E|ist|C2
+means-tested|sujeto a prueba de medios||A|ist|C2
+universal basic income|renta básica universal||E|ist|C2
+social safety net|red de protección social||E|ist|C2
+entitlement program|programa de prestaciones||E|ist|C2
+progressive taxation|fiscalidad progresiva||E|ist|C2
+redistributive|redistributivo||A|ist|C2
+copay|copago||S|ist|C2
+poverty trap|trampa de la pobreza||E|ist|C2
+social mobility|movilidad social||E|ist|C2
+destitution|indigencia||S|ist|C2
+in-work poverty|pobreza laboral||E|ist|C2
+social exclusion|exclusión social||E|ist|C2
+payroll tax|impuesto sobre las nóminas||E|ist|C2
+grassroots movement|movimiento de base||E|att|C2
+sit-in|sentada (de protesta)||S|att|C2
+civil disobedience|desobediencia civil||E|att|C2
+picket line|línea de piquete||E|att|C2
+walkout|abandono colectivo del trabajo||S|att|C2
+counterprotest|contramanifestación||S|att|C2
+flash mob|multitud relámpago||E|att|C2
+teach-in|encuentro formativo reivindicativo||S|att|C2
+wildcat strike|huelga salvaje||E|att|C2
+work-to-rule|huelga de celo||E|att|C2
+mobilization|movilización||S|att|C2
+placard|pancarta||S|att|C2
+allyship|apoyo activo a una causa||S|att|C2
+die-in|protesta con cuerpos tendidos||S|att|C2
+accountability|rendición de cuentas||S|ist|C2
+whistleblower|denunciante de irregularidades||S|ist|C2
+embezzlement|malversación||S|ist|C2
+kickback|comisión ilegal||S|ist|C2
+cronyism|amiguismo||S|ist|C2
+nepotism|nepotismo||S|ist|C2
+slush fund|caja B||E|ist|C2
+quid pro quo|contrapartida||L|ist|C2
+conflict of interest|conflicto de intereses||E|ist|C2
+sunshine law|ley de transparencia||E|ist|C2
+influence peddling|tráfico de influencias||E|ist|C2
+graft|corrupción con soborno||S|ist|C2
+oversight|fiscalización||S|ist|C2
+sweetheart deal|contrato amañado||E|ist|C2
+fertility rate|tasa de fecundidad||E|att|C2
+demographic transition|transición demográfica||E|att|C2
+population aging|envejecimiento de la población||E|att|C2
+diaspora|diáspora||S|att|C2
+chain migration|migración en cadena||E|att|C2
+naturalization|nacionalización||S|att|C2
+push factor|factor de expulsión||E|att|C2
+removal order|orden de expulsión||E|ist|C2
+demographic dividend|dividendo demográfico||E|att|C2
+replacement level|nivel de reemplazo||E|att|C2
+net migration|migración neta||E|att|C2
+depopulation|despoblación||S|att|C2
+asylum seeker|solicitante de asilo||E|att|C2
+diasporic|diaspórico||A|att|C2
+iconography|iconografía||S|art|C2
+attribute|atributo (símbolo identificador)||S|art|C2
+heraldry|heráldica||S|art|C2
+semiotics|semiótica||S|art|C2
+motif|motivo decorativo||S|art|C2
+iconoclasm|iconoclastia||S|art|C2
+mandorla|mandorla||S|art|C2
+tetramorph|tetramorfo||S|art|C2
+hagiography|hagiografía||S|art|C2
+zoomorphic|zoomorfo||A|art|C2
+apotropaic|apotropaico||A|art|C2
+emblem|emblema||S|art|C2
+symbology|simbología||S|art|C2
+numinous|numinoso||A|art|C2
+filigree|filigrana||S|art|C2
+marquetry|marquetería||S|art|C2
+chasing|cincelado||S|art|C2
+gilding|doradura||S|art|C2
+glaze|vidriado (cerámico)||S|art|C2
+kiln|horno de cerámica||S|art|C2
+patina|pátina||S|art|C2
+chinoiserie|chinesco||S|art|C2
+provenance|procedencia (de la obra)||S|art|C2
+hallmark|contraste de garantía||S|art|C2
+silversmithing|platería||S|art|C2
+veneer|chapa de madera||S|art|C2
+intaglio|grabado en hueco||S|art|C2
+art deco|art déco||E|art|C2
+shutter speed|velocidad de obturación||E|art|C2
+aperture|apertura de diafragma||S|art|C2
+depth of field|profundidad de campo||E|art|C2
+bokeh|bokeh (desenfoque estético)||S|art|C2
+daguerreotype|daguerrotipo||S|art|C2
+contact sheet|hoja de contactos||E|art|C2
+long exposure|exposición prolongada||E|art|C2
+grain|grano (de la imagen)||S|art|C2
+vignetting|viñeteado||S|art|C2
+chiaroscuro|claroscuro||S|art|C2
+readymade|objeto encontrado||S|art|C2
+installation art|arte de instalación||E|art|C2
+biennial|bienal||S|art|C2
+curate|comisariar||V|art|C2
+buttress|contrafuerte||S|art|C2
+flying buttress|arbotante||E|art|C2
+entablature|entablamento||S|art|C2
+pediment|frontón||S|art|C2
+clerestory|claristorio||S|art|C2
+balustrade|balaustrada||S|art|C2
+tympanum|tímpano de portada||S|art|C2
+quoin|sillar de esquina||S|art|C2
+load-bearing wall|muro de carga||E|art|C2
+cantilever|voladizo||S|art|C2
+brutalism|brutalismo||S|art|C2
+pilaster|pilastra||S|art|C2
+lancet window|ventana apuntada||E|art|C2
+oculus|óculo||S|art|C2
+arabesque|arabesca||S|art|C2
+pirouette|pirueta||S|art|C2
+pas de deux|dúo de ballet||E|art|C2
+choreography|coreografía||S|art|C2
+barre|barra de ballet||S|art|C2
+pointe work|trabajo de puntas||E|art|C2
+variation|variación (solo de ballet)||S|art|C2
+contact improvisation|improvisación de contacto||E|art|C2
+dance notation|notación coreográfica||E|art|C2
+lighting design|diseño de iluminación||E|art|C2
+corps de ballet|cuerpo de baile||E|art|C2
+leotard|maillot de danza||S|art|C2
+matinee|función de tarde||S|art|C2
+pipeline|cauce (de procesador)||S|tec|C2
+branch prediction|predicción de saltos||E|tec|C2
+wafer|oblea de silicio||S|tec|C2
+photolithography|fotolitografía||S|tec|C2
+multicore|multinúcleo||A|tec|C2
+instruction set|conjunto de instrucciones||E|tec|C2
+throughput|caudal de proceso||S|tec|C2
+superscalar|superescalar||A|tec|C2
+overclocking|sobreaceleración del procesador||S|tec|C2
+memory hierarchy|jerarquía de memoria||E|tec|C2
+microarchitecture|microarquitectura||S|tec|C2
+vector processing|procesamiento vectorial||E|tec|C2
+nanometer process|proceso de fabricación nanométrico||E|tec|C2
+data mining|minería de datos||E|tec|C2
+data lake|lago de datos||E|tec|C2
+data warehouse|almacén de datos||E|tec|C2
+normalization|normalización (de datos)||S|tec|C2
+query optimization|optimización de consultas||E|tec|C2
+supervised learning|aprendizaje supervisado||E|tec|C2
+overfitting|sobreajuste||S|tec|C2
+clustering|agrupamiento||S|tec|C2
+anomaly detection|detección de anomalías||E|tec|C2
+batch processing|procesamiento por lotes||E|tec|C2
+schema|esquema (de base de datos)||S|tec|C2
+ingestion|ingesta de datos||S|tec|C2
+cardinality|cardinalidad||S|tec|C2

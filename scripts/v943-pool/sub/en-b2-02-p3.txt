@@ -1,0 +1,252 @@
+exhibition|exposición||S|art|B2
+sculpture|escultura||S|art|B2
+watercolor|acuarela||S|art|B2
+portrait|retrato||S|art|B2
+still life|naturaleza muerta||L|art|B2
+masterpiece|obra maestra||S|art|B2
+art gallery|galería de arte||L|art|B2
+landmark|edificio emblemático||S|art|B2
+skyscraper|rascacielos||S|art|B2
+facade|fachada||S|art|B2
+column|columna||S|art|B2
+heritage|patrimonio||S|art|B2
+vault|bóveda||S|art|B2
+stained glass|vidriera (vidrio de color)||L|art|B2
+neighbor|vecino||S|cit|B2
+keep the noise down|bajar el ruido||L|cas|B2
+noise complaint|queja por ruido||L|cas|B2
+hallway|pasillo (del edificio)||S|cas|B2
+playground|parque infantil||S|cit|B2
+take turns|turnarse||L|cas|B2
+tight-knit|muy unido||A|rel|B2
+ingredient list|lista de ingredientes||L|ali|B2
+additive|aditivo||S|ali|B2
+preservative|conservante||S|ali|B2
+serving size|ración (porción)||L|ali|B2
+expiration date|fecha de caducidad||L|ali|B2
+convenience food|comida preparada||L|ali|B2
+sugar-free|sin azúcar||A|ali|B2
+high-speed train|tren de alta velocidad||L|tra|B2
+one-way ticket|billete de ida||L|tra|B2
+round trip|ida y vuelta||L|tra|B2
+platform|andén||S|tra|B2
+timetable|horario||S|tra|B2
+conductor|revisor||S|tra|B2
+fare|tarifa||S|tra|B2
+first-aid kit|botiquín||L|sla|B2
+choking|asfixia (atragantamiento)||S|sla|B2
+wound|herida||S|sla|B2
+bleeding|hemorragia (sangrado)||S|sla|B2
+stitches|puntos (sutura)||S|sla|B2
+concussion|conmoción (cerebral)||S|sla|B2
+sore|dolorido (tras el ejercicio)||A|sla|B2
+work from home|trabajar desde casa||L|lav|B2
+flexible hours|horario flexible||L|lav|B2
+videoconference|videoconferencia||S|tec|B2
+workspace|espacio de trabajo||S|lav|B2
+time off|tiempo libre (permiso)||L|lav|B2
+work-life balance|conciliación (trabajo y vida)||L|lav|B2
+commute|desplazarse al trabajo||V|tra|B2
+evening class|clase vespertina||L|lav|B2
+workshop|taller (formativo)||S|lav|B2
+seminar|seminario||S|stu|B2
+vocational training|formación profesional||L|stu|B2
+mentoring|acompañamiento (tutoría)||S|lav|B2
+career change|cambio de carrera||L|lav|B2
+performance review|evaluación del desempeño||L|lav|B2
+exchange student|estudiante de intercambio||L|stu|B2
+study abroad|estudiar en el extranjero||L|stu|B2
+language barrier|barrera idiomática||L|stu|B2
+host family|familia de acogida||L|fam|B2
+fluent|con fluidez||A|stu|B2
+settle in|adaptarse (instalarse)||L|stu|B2
+homesickness|añoranza (de casa)||S|emo|B2
+real estate agent|agente inmobiliario||L|cas|B2
+first-time buyer|comprador primerizo||L|cas|B2
+open house|jornada de puertas abiertas||L|cas|B2
+bid|pujar (por una vivienda)||V|cmp|B2
+pricey|caro||A|cmp|B2
+affordable housing|vivienda asequible||L|cas|B2
+add to cart|añadir al carrito||L|cmp|B2
+subscription|suscripción||S|cmp|B2
+rate|valorar (puntuar)||V|cmp|B2
+price comparison|comparación de precios||L|cmp|B2
+buy in bulk|comprar al por mayor||L|cmp|B2
+counterfeit|falsificado||A|cmp|B2
+delivery|entrega a domicilio||S|cmp|B2
+push notification|notificación emergente||L|tec|B2
+swipe|deslizar (con el dedo)||V|tec|B2
+low battery|batería baja||L|tec|B2
+airplane mode|modo avión||L|tec|B2
+upload|subir (a la red)||V|tec|B2
+voicemail|buzón de voz||S|tec|B2
+sync|sincronizar||V|tec|B2
+work out|hacer ejercicio||L|spt|B2
+personal trainer|entrenador personal||L|spt|B2
+couch potato|persona sedentaria (pegada al sofá)||L|spt|B2
+training session|sesión de entrenamiento||L|spt|B2
+warm-up|calentamiento||S|spt|B2
+on a regular basis|con regularidad||L|tmp|B2
+stamina|resistencia (aguante)||S|spt|B2
+scalper|revendedor de entradas||S|mus|B2
+lineup|cartel (de un festival)||S|mus|B2
+sold out|entradas agotadas||L|mus|B2
+fandom|comunidad de fans||S|mus|B2
+support act|grupo de apertura||L|mus|B2
+crowd|público (multitud)||S|mus|B2
+festivalgoer|asistente a festivales||S|mus|B2
+binge-watch|ver en atracones||V|cin|B2
+spoiler|filtración de la trama||S|cin|B2
+subtitles|subtítulos||S|cin|B2
+storyline|trama (argumento)||S|cin|B2
+cliffhanger|final en vilo||S|cin|B2
+release date|fecha de estreno||L|cin|B2
+newlyweds|recién casados||S|rel|B2
+best man|padrino (de boda)||L|rel|B2
+bridesmaid|dama de honor||S|rel|B2
+bachelorette party|despedida de soltera||L|rel|B2
+wedding reception|banquete de boda||L|rel|B2
+vow|promesa (juramento)||S|rel|B2
+honeymoon|luna de miel||S|vig|B2
+budget|presupuesto||S|fin|B2
+overspend|gastar de más||V|fin|B2
+rip-off|timo||S|cmp|B2
+scam|estafa||S|fin|B2
+fraud|fraude||S|fin|B2
+make ends meet|llegar a fin de mes||E|fin|B2
+tighten your belt|apretarse el cinturón||E|fin|B2
+brunch|comida de media mañana||S|ris|B2
+coffee shop|cafetería||L|ris|B2
+tip|propina||S|ris|B2
+fair trade|comercio justo||L|cmp|B2
+to go|para llevar||L|ris|B2
+sweet tooth|goloso (antojo de dulce)||L|ali|B2
+burglary|robo con fuerza en domicilio||S|ist|B2
+theft|hurto||S|ist|B2
+mugging|atraco (callejero)||S|ist|B2
+eyewitness|testigo presencial||S|ist|B2
+emergency services|servicios de emergencia||L|ist|B2
+surveillance|vigilancia||S|ist|B2
+evacuate|evacuar||V|ist|B2
+myth|mito||S|sci|B2
+breakthrough|avance (hito científico)||S|sci|B2
+theory|teoría||S|sci|B2
+trial and error|prueba y error||L|sci|B2
+fact-check|verificar datos||V|sci|B2
+mind-blowing|alucinante||A|sci|B2
+skeptical|escéptico||A|sci|B2
+best seller|éxito de ventas||L|let|B2
+paperback|tapa blanda||S|let|B2
+hardcover|tapa dura||S|let|B2
+book club|club de lectura||L|let|B2
+blurb|texto de contraportada||S|let|B2
+page-turner|libro que engancha||S|let|B2
+bookworm|rata de biblioteca||S|let|B2
+hiking|senderismo||S|nat|B2
+trail|sendero||S|nat|B2
+birdwatching|observación de aves||S|nat|B2
+binoculars|prismáticos||S|nat|B2
+nature reserve|reserva natural||L|nat|B2
+viewpoint|mirador||S|nat|B2
+city break|escapada urbana||L|vig|B2
+long weekend|puente (fin de semana largo)||L|vig|B2
+tourist trap|trampa para turistas||L|vig|B2
+package tour|tour organizado||L|vig|B2
+itinerary|itinerario||S|vig|B2
+souvenir|recuerdo (regalo de viaje)||S|vig|B2
+guided tour|visita guiada||L|vig|B2
+assertiveness|asertividad||S|emo|B2
+comfort zone|zona de confort||L|emo|B2
+setback|contratiempo||S|emo|B2
+mindset|mentalidad||S|emo|B2
+break a habit|dejar un hábito||L|emo|B2
+positive thinking|pensamiento positivo||L|emo|B2
+be proud of|estar orgulloso de||L|emo|B2
+fed up|harto||L|emo|B2
+lodge a complaint|formular una reclamación||L|cmu|B2
+misunderstanding|malentendido||S|cmu|B2
+get on someone's nerves|poner nervioso a alguien||E|cmu|B2
+offend|ofender||V|cmu|B2
+let off steam|desahogarse||E|cmu|B2
+on purpose|a propósito||L|cmu|B2
+birth certificate|acta de nacimiento||L|ist|B2
+proof of identity|prueba de identidad||L|ist|B2
+renew a passport|renovar el pasaporte||L|ist|B2
+notarized|autenticado ante notario||A|ist|B2
+business hours|horario comercial||L|ist|B2
+citizenship|ciudadanía||S|ist|B2
+fingerprint|huella dactilar||S|ist|B2
+as I was saying|como iba diciendo||L|cnn|B2
+long story short|en resumidas cuentas||L|cnn|B2
+by the way|por cierto||L|cnn|B2
+having said that|dicho esto||L|cnn|B2
+if you ask me|si me preguntas||L|cnn|B2
+to be honest|para ser sincero||L|cnn|B2
+coincidence|coincidencia||S|ast|B2
+fate|destino||S|ast|B2
+outlook|perspectiva (visión)||S|ast|B2
+crossroads|encrucijada (momento decisivo)||S|ast|B2
+from time to time|de tanto en tanto||L|tmp|B2
+ups and downs|altibajos||L|ast|B2
+lifetime|toda una vida||S|tmp|B2
+audio guide|audioguía||L|art|B2
+permanent collection|colección permanente||L|art|B2
+exhibit|pieza expuesta||S|art|B2
+wing|ala (de un museo)||S|art|B2
+priceless|inestimable||A|art|B2
+school trip|excursión escolar||L|stu|B2
+check-in|facturación||S|vig|B2
+boarding gate|puerta de embarque||L|vig|B2
+duty-free|libre de impuestos||A|cmp|B2
+carry-on|equipaje de mano||S|vig|B2
+security check|control de seguridad||L|vig|B2
+connecting flight|vuelo de conexión||L|vig|B2
+departure lounge|sala de embarque||L|vig|B2
+front desk|recepción||L|htl|B2
+wake-up call|llamada de despertador||L|htl|B2
+complimentary breakfast|desayuno incluido||L|htl|B2
+late checkout|salida tardía||L|htl|B2
+overbooked|con exceso de reservas||A|htl|B2
+room service|servicio de habitaciones||L|htl|B2
+accommodations|alojamiento||S|htl|B2
+team player|buen compañero de equipo||L|lav|B2
+show someone the ropes|explicar cómo funcionan las cosas||E|lav|B2
+learning curve|curva de aprendizaje||L|lav|B2
+hit the ground running|empezar a toda marcha||E|lav|B2
+handover|traspaso (relevo)||S|lav|B2
+pay stub|nómina (recibo de salario)||L|lav|B2
+generation gap|brecha generacional||L|fam|B2
+childhood|infancia||S|tmp|B2
+look back on|recordar con nostalgia||L|tmp|B2
+back in the day|antiguamente (en su época)||L|tmp|B2
+reminisce|rememorar||V|tmp|B2
+family tree|árbol genealógico||L|fam|B2
+niece|sobrina||S|fam|B2
+night owl|trasnochador||L|sla|B2
+early bird|madrugador||L|sla|B2
+sleep pattern|patrón de sueño||L|sla|B2
+insomnia|insomnio||S|sla|B2
+power nap|cabezada||L|sla|B2
+sleep in|dormir hasta tarde||L|sla|B2
+oversleep|quedarse dormido||V|sla|B2
+stand someone up|dejar plantado||E|rel|B2
+put off|posponer||L|tmp|B2
+last-minute|de última hora||A|tmp|B2
+arrange|concertar (organizar)||V|cmu|B2
+change of plans|cambio de planes||L|cmu|B2
+meet up|quedar (verse)||L|rel|B2
+call off|cancelar||L|tmp|B2
+puppy|cachorro||S|ani|B2
+leash|correa||S|ani|B2
+neuter|castrar||V|ani|B2
+vaccinate|vacunar||V|ani|B2
+walk the dog|pasear al perro||L|ani|B2
+adopt|adoptar||V|ani|B2
+stray|callejero (animal)||A|ani|B2
+carpool|ir en coche compartido||L|tra|B2
+pickup point|punto de recogida||L|tra|B2
+drop-off point|punto de bajada||L|tra|B2
+ride|trayecto (en vehículo)||S|tra|B2
+driver's license|carné de conducir||L|tra|B2
+pick up|recoger (a alguien)||L|tra|B2
+gridlock|atasco total||S|tra|B2
