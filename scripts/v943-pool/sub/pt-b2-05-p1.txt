@@ -1,0 +1,283 @@
+engarrafamento|atasco||S|cit|B2
+passeio|acera||S|cit|B2
+passadeira|paso de peatones||S|cit|B2
+arredores|afueras||S|cit|B2
+bairro de lata|barrio de chabolas||E|cit|B2
+saneamento básico|saneamiento básico||E|cit|B2
+requalificação|rehabilitación urbana||S|cit|B2
+poluição sonora|contaminación acústica||E|cit|B2
+estacionamento abusivo|aparcamiento abusivo||E|cit|B2
+parquímetro|parquímetro||S|cit|B2
+buraco|bache||S|cit|B2
+rotunda|rotonda||S|tra|B2
+serviço público|servicio público||E|ist|B2
+repartição de finanças|delegación de Hacienda||E|ist|B2
+registo criminal|antecedentes penales||E|ist|B2
+cartão de cidadão|documento de identidad||E|ist|B2
+carta de condução|permiso de conducir||E|ist|B2
+requerimento|solicitud escrita||S|ist|B2
+formulário|formulario||S|ist|B2
+proteção civil|protección civil||E|ist|B2
+utente|usuario||S|ist|B2
+autenticar|autenticar (documentos)||V|ist|B2
+aquecimento global|calentamiento global||E|cli|B2
+efeito de estufa|efecto invernadero||E|cli|B2
+emissão de gases|emisión de gases||E|cli|B2
+pegada de carbono|huella de carbono||E|cli|B2
+camada de ozono|capa de ozono||E|cli|B2
+alterações climáticas|cambio climático||E|cli|B2
+seca|sequía||S|cli|B2
+incêndio florestal|incendio forestal||E|cli|B2
+cheia|crecida||S|cli|B2
+inundação|inundación||S|cli|B2
+desfile|desfile de moda||S|rop|B2
+passarela|pasarela||S|rop|B2
+manequim|modelo de pasarela||S|rop|B2
+estilista|diseñador de moda||S|rop|B2
+tecido|tejido||S|rop|B2
+linho|lino||S|rop|B2
+seda|seda||S|rop|B2
+lã|lana||S|rop|B2
+algodão|algodón||S|rop|B2
+couro|cuero||S|rop|B2
+experimentar (roupa)|probarse la ropa||V|rop|B2
+rede social|red social||E|tec|B2
+perfil|perfil||S|tec|B2
+publicação|publicación||S|tec|B2
+seguidor|seguidor||S|tec|B2
+influenciador|influencer||S|tec|B2
+notificação|notificación||S|tec|B2
+conversa de grupo|grupo de chat||E|tec|B2
+chamada de vídeo|videollamada||E|tec|B2
+ligação perdida|llamada perdida||E|tec|B2
+desinformação|desinformación||S|tec|B2
+palavra-passe|contraseña||S|tec|B2
+encriptar|cifrar||V|tec|B2
+decifrar|descifrar||V|tec|B2
+código de verificação|código de verificación||E|tec|B2
+autenticação|autenticación||S|tec|B2
+cibersegurança|ciberseguridad||S|tec|B2
+vírus informático|virus informático||E|tec|B2
+ataque informático|ataque informático||E|tec|B2
+vulnerabilidade|vulnerabilidad||S|tec|B2
+brecha de segurança|brecha de seguridad||E|tec|B2
+código-fonte|código fuente||S|tec|B2
+linguagem de programação|lenguaje de programación||E|tec|B2
+algoritmo|algoritmo||S|tec|B2
+variável|variable||S|tec|B2
+função (código)|función||S|tec|B2
+parâmetro|parámetro||S|tec|B2
+erro de sintaxe|error de sintaxis||E|tec|B2
+depurar|depurar||V|tec|B2
+versão beta|versión beta||E|tec|B2
+repositório|repositorio||S|tec|B2
+competição|competición||S|spt|B2
+adversário|adversario||S|spt|B2
+eliminatória|eliminatoria||S|spt|B2
+meia-final|semifinal||S|spt|B2
+quartos de final|cuartos de final||E|spt|B2
+prolongamento|prórroga||S|spt|B2
+penálti|penalti||S|spt|B2
+pontapé de canto|saque de esquina||E|spt|B2
+lance|jugada||S|spt|B2
+goleada|goleada||S|spt|B2
+lesão|lesión||S|sla|B2
+lesionar-se|lesionarse||V|sla|B2
+entorse|esguince||S|sla|B2
+distensão muscular|distensión muscular||E|sla|B2
+rotura de ligamentos|rotura de ligamentos||E|sla|B2
+tendinite|tendinitis||S|sla|B2
+tendão|tendón||S|cor|B2
+cãibra|calambre||S|sla|B2
+fratura|fractura||S|sla|B2
+gesso|escayola||S|sla|B2
+partitura|partitura||S|mus|B2
+pentagrama|pentagrama||S|mus|B2
+clave de sol|clave de sol||E|mus|B2
+compasso|compás||S|mus|B2
+acorde|acorde||S|mus|B2
+harmonia|armonía||S|mus|B2
+sinfonia|sinfonía||S|mus|B2
+orquestra sinfónica|orquesta sinfónica||E|mus|B2
+maestro|director de orquesta||S|mus|B2
+solista|solista||S|mus|B2
+rodagem|rodaje||S|cin|B2
+rodar (filme)|rodar||V|cin|B2
+realizador|director de cine||S|cin|B2
+realização (cinema)|dirección cinematográfica||S|cin|B2
+guião|guion||S|cin|B2
+argumentista|guionista||S|cin|B2
+cineasta|cineasta||S|cin|B2
+operador de câmara|operador de cámara||E|cin|B2
+cenário|decorado||S|cin|B2
+figurino|vestuario||S|cin|B2
+desentendimento|desacuerdo||S|rel|B2
+mal-entendido|malentendido||S|rel|B2
+desavença|disputa||S|rel|B2
+rixa|riña||S|rel|B2
+insulto|insulto||S|rel|B2
+ressentimento|resentimiento||S|rel|B2
+rancor|rencor||S|rel|B2
+mágoa|disgusto||S|rel|B2
+deceção|decepción||S|rel|B2
+desilusão|desilusión||S|rel|B2
+diversidade|diversidad||S|ist|B2
+inclusão|inclusión||S|ist|B2
+excluir|excluir||V|ist|B2
+igualdade de oportunidades|igualdad de oportunidades||E|ist|B2
+discriminação|discriminación||S|ist|B2
+preconceito|prejuicio||S|ist|B2
+estereótipo|estereotipo||S|ist|B2
+minoria étnica|minoría étnica||E|ist|B2
+acessibilidade|accesibilidad||S|ist|B2
+mobilidade reduzida|movilidad reducida||E|ist|B2
+declaração de rendimentos|declaración de la renta||E|fin|B2
+imposto sobre o rendimento|impuesto sobre la renta||E|fin|B2
+prazo de entrega|plazo de presentación||E|fin|B2
+fisco|Hacienda pública||S|fin|B2
+contribuinte|contribuyente||S|fin|B2
+dedução|deducción||S|fin|B2
+deduzir|deducir||V|fin|B2
+reembolso|devolución de impuestos||S|fin|B2
+reembolsar|reembolsar||V|fin|B2
+retenção na fonte|retención en la fuente||E|fin|B2
+crédito à habitação|hipoteca||E|fin|B2
+crédito ao consumo|crédito al consumo||E|fin|B2
+hipoteca|hipoteca||S|fin|B2
+juro|interés||S|fin|B2
+prestação mensal|cuota mensual||E|fin|B2
+amortizar|amortizar||V|fin|B2
+amortização|amortización||S|fin|B2
+credor|acreedor||S|fin|B2
+devedor|deudor||S|fin|B2
+dívida|deuda||S|fin|B2
+poupança|ahorro||S|fin|B2
+investir|invertir||V|fin|B2
+investimento|inversión||S|fin|B2
+rentabilidade|rentabilidad||S|fin|B2
+dividendo|dividendo||S|fin|B2
+ação (bolsa)|acción bursátil||S|fin|B2
+acionista|accionista||S|fin|B2
+obrigação (título)|obligación (bono)||S|fin|B2
+bolsa de valores|bolsa de valores||E|fin|B2
+índice bolsista|índice bursátil||E|fin|B2
+reforma (pensão)|jubilación||S|fin|B2
+antecipar a reforma|adelantar la jubilación||E|fin|B2
+pensão de velhice|pensión de jubilación||E|fin|B2
+pensão de alimentos|pensión de alimentos||E|fin|B2
+fundo de pensões|fondo de pensiones||E|fin|B2
+aposentar-se|jubilarse||V|fin|B2
+esperança de vida|esperanza de vida||E|fin|B2
+envelhecimento da população|envejecimiento de la población||E|fin|B2
+envelhecimento ativo|envejecimiento activo||E|fin|B2
+crítica gastronómica|crítica gastronómica||E|ris|B2
+requintado|exquisito||A|ris|B2
+requinte|refinamiento||S|ris|B2
+degustação|degustación||S|ris|B2
+degustar|degustar||V|ris|B2
+ementa|carta de restaurante||S|ris|B2
+prato do dia|plato del día||E|ris|B2
+especialidade da casa|especialidad de la casa||E|ris|B2
+confecionar|elaborar comida||V|ris|B2
+refogado|sofrito||S|ris|B2
+advogado|abogado||S|pro|B2
+solicitador|procurador jurídico||S|pro|B2
+notário|notario||S|pro|B2
+magistrado|magistrado||S|pro|B2
+juiz|juez||S|pro|B2
+jurisprudência|jurisprudencia||S|ist|B2
+jurisdição|jurisdicción||S|ist|B2
+gestor|directivo||S|pro|B2
+gestor de projeto|jefe de proyecto||E|pro|B2
+administrador|administrador (consejero)||S|pro|B2
+conselho de administração|consejo de administración||E|pro|B2
+assembleia geral|junta general||E|pro|B2
+diretor geral|director general||E|pro|B2
+recursos humanos|recursos humanos||E|lav|B2
+recrutamento|reclutamiento||S|lav|B2
+recrutar|reclutar||V|lav|B2
+seleção de pessoal|selección de personal||E|lav|B2
+entrevista de emprego|entrevista de trabajo||E|lav|B2
+candidatura espontânea|candidatura espontánea||E|lav|B2
+contrato de trabalho|contrato de trabajo||E|lav|B2
+contrato a termo|contrato temporal||E|lav|B2
+engenheiro|ingeniero||S|pro|B2
+engenharia civil|ingeniería civil||E|pro|B2
+arquiteto|arquitecto||S|pro|B2
+arquitetura|arquitectura||S|pro|B2
+topógrafo|topógrafo||S|pro|B2
+eletricista|electricista||S|pro|B2
+canalizador|fontanero||S|pro|B2
+serralheiro|cerrajero||S|pro|B2
+carpinteiro|carpintero||S|pro|B2
+marceneiro|ebanista||S|pro|B2
+enfermeiro|enfermero||S|pro|B2
+enfermagem|enfermería||S|pro|B2
+cirurgião|cirujano||S|pro|B2
+cirurgia|cirugía||S|sla|B2
+anestesista|anestesista||S|pro|B2
+cardiologista|cardiólogo||S|pro|B2
+pediatra|pediatra||S|pro|B2
+dermatologista|dermatólogo||S|pro|B2
+parteira|matrona||S|pro|B2
+redator|redactor||S|pro|B2
+editor|editor||S|pro|B2
+edição|edición||S|let|B2
+ilustrador|ilustrador||S|pro|B2
+desenhador|dibujante||S|pro|B2
+galeria|galería de arte||S|art|B2
+leilão|subasta||S|art|B2
+curadoria|comisariado||S|art|B2
+governo|gobierno||S|ist|B2
+primeiro-ministro|presidente del gobierno||E|ist|B2
+ministro|ministro||S|ist|B2
+ministério|ministerio||S|ist|B2
+parlamento|parlamento||S|ist|B2
+assembleia|asamblea||S|ist|B2
+partido político|partido político||E|ist|B2
+líder da oposição|líder de la oposición||E|ist|B2
+oposição|oposición||S|ist|B2
+moção de censura|moción de censura||E|ist|B2
+dissolução do parlamento|disolución del parlamento||E|ist|B2
+crescimento económico|crecimiento económico||E|fin|B2
+recessão|recesión||S|fin|B2
+inflação|inflación||S|fin|B2
+taxa de inflação|tasa de inflación||E|fin|B2
+poder de compra|poder adquisitivo||E|fin|B2
+custo de vida|coste de la vida||E|fin|B2
+encarecimento|encarecimiento||S|fin|B2
+subida de preços|subida de precios||E|fin|B2
+desemprego|paro||S|fin|B2
+taxa de desemprego|tasa de paro||E|fin|B2
+meio ambiente|medio ambiente||E|nat|B2
+poluição|contaminación||S|nat|B2
+gases de escape|gases de escape||E|nat|B2
+qualidade do ar|calidad del aire||E|nat|B2
+escassez de água|escasez de agua||E|nat|B2
+dessalinização|desalinización||S|nat|B2
+captação de água|captación de agua||E|nat|B2
+aquífero|acuífero||S|nat|B2
+albufeira|embalse||S|nat|B2
+hipótese|hipótesis||S|sci|B2
+teoria|teoría||S|sci|B2
+teórico|teórico||A|sci|B2
+método científico|método científico||E|sci|B2
+experiência (laboratório)|experimento||S|sci|B2
+observação|observación||S|sci|B2
+observar|observar||V|sci|B2
+análise|análisis||S|sci|B2
+amostra|muestra||S|sci|B2
+amostragem|muestreo||S|sci|B2
+célula|célula||S|sci|B2
+membrana|membrana||S|sci|B2
+gene|gen||S|sci|B2
+genética|genética||S|sci|B2
+clonagem|clonación||S|sci|B2
+evolução|evolución||S|sci|B2
+seleção natural|selección natural||E|sci|B2
+adaptação|adaptación||S|sci|B2
+ecossistema|ecosistema||S|sci|B2
+biodiversidade|biodiversidad||S|sci|B2
+fauna|fauna||S|nat|B2
+flora|flora||S|nat|B2
+microorganismo|microorganismo||S|sci|B2

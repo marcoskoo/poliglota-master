@@ -1,0 +1,283 @@
+jogo de tabuleiro|juego de mesa||S|sve|B2
+xadrez|ajedrez||S|sve|B2
+xeque-mate|jaque mate||S|sve|B2
+baralho|baraja||S|sve|B2
+jogada|jugada||S|sve|B2
+empate|empate||S|sve|B2
+estratégia|estrategia||S|sve|B2
+puzzle|puzzle||S|sve|B2
+dominó|dominó||S|sve|B2
+coleção|colección||S|sve|B2
+colecionador|coleccionista||S|sve|B2
+selo|sello||S|sve|B2
+cromo|cromo (de álbum)||S|sve|B2
+miniatura|miniatura||S|sve|B2
+réplica|réplica||S|sve|B2
+bricolagem|bricolaje||S|sve|B2
+trabalhos manuais|manualidades||S|sve|B2
+artesanato|artesanía||S|sve|B2
+artesão|artesano||S|sve|B2
+costura|costura||S|sve|B2
+coser|coser||V|sve|B2
+agulha|aguja||S|sve|B2
+croché|ganchillo||S|sve|B2
+modelar|modelar||V|sve|B2
+esculpir|esculpir||V|sve|B2
+maqueta|maqueta||S|sve|B2
+aposta|apuesta||S|sve|B2
+apostar|apostar||V|sve|B2
+trapaça|trampa||S|sve|B2
+fazer batota|hacer trampas||E|sve|B2
+torneio|torneo||S|sve|B2
+desafio|desafío||S|sve|B2
+motivação|motivación||S|emo|B2
+motivar|motivar||V|emo|B2
+stresse|estrés||S|emo|B2
+ansiedade|ansiedad||S|emo|B2
+angústia|angustia||S|emo|B2
+frustração|frustración||S|emo|B2
+autoestima|autoestima||S|emo|B2
+insegurança|inseguridad||S|emo|B2
+tranquilidade|tranquilidad||S|emo|B2
+relaxamento|relajación||S|emo|B2
+otimismo|optimismo||S|emo|B2
+pessimismo|pesimismo||S|emo|B2
+resiliência|resiliencia||S|emo|B2
+exigente|exigente||A|emo|B2
+exigência|exigencia||S|emo|B2
+perfeccionismo|perfeccionismo||S|emo|B2
+pressão|presión||S|emo|B2
+sobrecarga|sobrecarga||S|emo|B2
+distração|distracción||S|emo|B2
+concentração|concentración||S|emo|B2
+concentrar-se|concentrarse||V|emo|B2
+vício|vicio||S|emo|B2
+obsessão|obsesión||S|emo|B2
+recompensa|recompensa||S|emo|B2
+ambição|ambición||S|emo|B2
+força de vontade|fuerza de voluntad||S|emo|B2
+determinação|determinación||S|emo|B2
+perseverança|perseverancia||S|emo|B2
+encorajar|animar (dar ánimos)||V|emo|B2
+aconselhar|aconsejar||V|emo|B2
+atenção plena|atención plena||S|emo|B2
+debate|debate||S|cmu|B2
+debater|debatir||V|cmu|B2
+argumento|argumento||S|cmu|B2
+argumentar|argumentar||V|cmu|B2
+raciocínio|razonamiento||S|cmu|B2
+razoável|razonable||A|cmu|B2
+coerência|coherencia||S|cmu|B2
+contradição|contradicción||S|cmu|B2
+contradizer|contradecir||V|cmu|B2
+refutar|refutar||V|cmu|B2
+contestar|cuestionar||V|cmu|B2
+pôr em causa|poner en entredicho||E|cmu|B2
+pôr em dúvida|poner en duda||E|cmu|B2
+ponto de vista|punto de vista||S|cmu|B2
+a meu ver|a mi parecer||E|cmu|B2
+discordar|discrepar||V|cmu|B2
+consenso|consenso||S|cmu|B2
+persuasão|persuasión||S|cmu|B2
+persuadir|persuadir||V|cmu|B2
+convincente|convincente||A|cmu|B2
+generalizar|generalizar||V|cmu|B2
+preconceito|prejuicio||S|cmu|B2
+imparcial|imparcial||A|cmu|B2
+objetividade|objetividad||S|cmu|B2
+subjetividade|subjetividad||S|cmu|B2
+tese|tesis||S|cmu|B2
+hipótese|hipótesis||S|cmu|B2
+evidência|evidencia||S|cmu|B2
+fiável|fiable||A|cmu|B2
+comprovar|comprobar||V|cmu|B2
+fundamentar|fundamentar||V|cmu|B2
+conclusão|conclusión||S|cmu|B2
+apresentação|presentación||S|cmu|B2
+orador|orador||S|cmu|B2
+discurso|discurso||S|cmu|B2
+palestra|charla||S|cmu|B2
+conferência|conferencia||S|cmu|B2
+conferencista|conferenciante||S|cmu|B2
+plateia|público (asistentes)||S|cmu|B2
+auditório|auditorio||S|cmu|B2
+microfone|micrófono||S|cmu|B2
+diapositivo|diapositiva||S|cmu|B2
+projetor|proyector||S|cmu|B2
+roteiro|guion||S|cmu|B2
+gaguejar|tartamudear||V|cmu|B2
+timidez|timidez||S|cmu|B2
+tom de voz|tono de voz||S|cmu|B2
+ênfase|énfasis||S|cmu|B2
+enfatizar|enfatizar||V|cmu|B2
+salientar|destacar||V|cmu|B2
+introdução|introducción||S|cmu|B2
+audiência|audiencia||S|cmu|B2
+cativar|cautivar||V|cmu|B2
+clareza|claridad||S|cmu|B2
+confusão|confusión||S|cmu|B2
+improvisar|improvisar||V|cmu|B2
+memorizar|memorizar||V|cmu|B2
+linguagem corporal|lenguaje corporal||S|cmu|B2
+contacto visual|contacto visual||S|cmu|B2
+moderador|moderador||S|cmu|B2
+intervenção|intervención||S|cmu|B2
+intervir|intervenir||V|cmu|B2
+pedir a palavra|pedir la palabra||E|cmu|B2
+negociação|negociación||S|cmu|B2
+negociar|negociar||V|cmu|B2
+proposta|propuesta||S|cmu|B2
+contraproposta|contrapropuesta||S|cmu|B2
+concessão|concesión||S|cmu|B2
+ceder|ceder||V|cmu|B2
+exigir|exigir||V|cmu|B2
+recusar|rechazar||V|cmu|B2
+rejeitar|rechazar||V|cmu|B2
+aceitação|aceptación||S|cmu|B2
+chegar a um acordo|llegar a un acuerdo||E|cmu|B2
+compromisso|compromiso (pacto)||S|cmu|B2
+impasse|punto muerto||S|cmu|B2
+ultimato|ultimátum||S|cmu|B2
+cláusula|cláusula||S|cmu|B2
+mediador|mediador||S|cmu|B2
+diplomacia|diplomacia||S|cmu|B2
+diplomático|diplomático||A|cmu|B2
+tato|tacto||S|cmu|B2
+delicado|delicado||A|cmu|B2
+eufemismo|eufemismo||S|cmu|B2
+subtileza|sutileza||S|cmu|B2
+mal-entendido|malentendido||S|cmu|B2
+esclarecimento|aclaración||S|cmu|B2
+esclarecer|aclarar||V|cmu|B2
+ambíguo|ambiguo||A|cmu|B2
+cauteloso|cauteloso||A|cmu|B2
+prudência|prudencia||S|cmu|B2
+reciprocidade|reciprocidad||S|cmu|B2
+desconfiança|desconfianza||S|cmu|B2
+em nome de|en nombre de||E|cmu|B2
+tribunal|tribunal||S|ist|B2
+juiz|juez||S|ist|B2
+jurado|jurado||S|ist|B2
+arguido|procesado||S|ist|B2
+réu|reo||S|ist|B2
+testemunha|testigo||S|ist|B2
+depor|declarar (en juicio)||V|ist|B2
+veredicto|veredicto||S|ist|B2
+sentença|sentencia||S|ist|B2
+condenação|condena||S|ist|B2
+condenar|condenar||V|ist|B2
+absolvição|absolución||S|ist|B2
+pena|pena (castigo)||S|ist|B2
+pena de prisão|pena de prisión||S|ist|B2
+prisão|prisión||S|ist|B2
+detenção|detención||S|ist|B2
+culpado|culpable||A|ist|B2
+criminal|criminal||A|ist|B2
+delinquência|delincuencia||S|ist|B2
+fraude|fraude||S|ist|B2
+evasão fiscal|evasión fiscal||S|ist|B2
+infração|infracción||S|ist|B2
+multa|multa||S|ist|B2
+coima|multa (administrativa)||S|ist|B2
+recurso|recurso (apelación)||S|ist|B2
+julgamento|juicio||S|ist|B2
+legislação|legislación||S|ist|B2
+constitucional|constitucional||A|ist|B2
+magistrado|magistrado||S|ist|B2
+processo|proceso (judicial)||S|ist|B2
+arquivar|archivar (un caso)||V|ist|B2
+advogado de defesa|abogado defensor||S|ist|B2
+administração pública|administración pública||S|ist|B2
+serviços públicos|servicios públicos||S|ist|B2
+requerimento|solicitud||S|ist|B2
+formulário|formulario||S|ist|B2
+preencher|rellenar||V|ist|B2
+candidatura|candidatura||S|ist|B2
+candidatar-se|presentarse (a una plaza)||V|ist|B2
+documentação|documentación||S|ist|B2
+certidão|certificación||S|ist|B2
+cartório|notaría||S|ist|B2
+carimbo|sello||S|ist|B2
+senha|número de turno||S|ist|B2
+balcão de atendimento|ventanilla||S|ist|B2
+funcionário público|funcionario público||S|ist|B2
+burocracia|burocracia||S|ist|B2
+papelada|papeleo||S|ist|B2
+tramitação|tramitación||S|ist|B2
+taxa|tasa||S|ist|B2
+isenção|exención||S|ist|B2
+imposto|impuesto||S|fin|B2
+licença|licencia||S|ist|B2
+alvará|licencia de actividad||S|ist|B2
+registo|registro||S|ist|B2
+conservatória|registro (civil o de la propiedad)||S|ist|B2
+câmara municipal|ayuntamiento||S|ist|B2
+comprovativo|justificante||S|ist|B2
+reclamação|reclamación||S|ist|B2
+livro de reclamações|libro de reclamaciones||S|ist|B2
+queixa|queja (denuncia)||S|ist|B2
+cidadão|ciudadano||S|ist|B2
+mudança de morada|cambio de domicilio||S|ist|B2
+eleição|elección||S|ist|B2
+eleitor|elector||S|ist|B2
+voto em branco|voto en blanco||S|ist|B2
+abstenção|abstención||S|ist|B2
+campanha eleitoral|campaña electoral||S|ist|B2
+partido político|partido político||S|ist|B2
+coligação|coalición||S|ist|B2
+sondagem|encuesta||S|ist|B2
+promessa eleitoral|promesa electoral||S|ist|B2
+boletim de voto|papeleta electoral||S|ist|B2
+urna|urna (electoral)||S|ist|B2
+democracia|democracia||S|ist|B2
+ditadura|dictadura||S|ist|B2
+regime|régimen||S|ist|B2
+totalitário|totalitario||A|ist|B2
+liberdade de expressão|libertad de expresión||S|ist|B2
+opinião pública|opinión pública||S|ist|B2
+manifestação|manifestación||S|ist|B2
+protesto|protesta||S|ist|B2
+greve|huelga||S|ist|B2
+sindicato|sindicato||S|ist|B2
+contrato coletivo|convenio colectivo||S|ist|B2
+separação de poderes|separación de poderes||S|ist|B2
+constituição|constitución||S|ist|B2
+parlamento|parlamento||S|ist|B2
+oposição|oposición||S|ist|B2
+referendo|referéndum||S|ist|B2
+vereador|concejal||S|ist|B2
+presidente da câmara|alcalde||S|ist|B2
+apuramento|escrutinio||S|ist|B2
+maioria absoluta|mayoría absoluta||S|ist|B2
+portanto|por lo tanto||C|cnn|B2
+por conseguinte|por consiguiente||C|cnn|B2
+consequentemente|en consecuencia||D|cnn|B2
+além disso|además||C|cnn|B2
+por outro lado|por otro lado||C|cnn|B2
+pelo contrário|al contrario||C|cnn|B2
+em contrapartida|en cambio||C|cnn|B2
+no entanto|sin embargo||C|cnn|B2
+não obstante|no obstante||C|cnn|B2
+aliás|por cierto||D|cnn|B2
+de facto|de hecho||E|cnn|B2
+efectivamente|efectivamente||D|cnn|B2
+ou seja|es decir||E|cnn|B2
+nomeadamente|a saber||D|cnn|B2
+uma vez que|dado que||C|cnn|B2
+dado que|puesto que||C|cnn|B2
+embora|aunque||C|cnn|B2
+apesar de|a pesar de||C|cnn|B2
+entretanto|mientras tanto||D|cnn|B2
+contanto que|siempre que||C|cnn|B2
+quanto a|en cuanto a||C|cnn|B2
+em relação a|en relación con||C|cnn|B2
+resumindo|resumiendo||D|cnn|B2
+em suma|en suma||E|cnn|B2
+enfim|en fin||D|cnn|B2
+afinal|al final||D|cnn|B2
+mesmo assim|aun así||E|cnn|B2
+de qualquer modo|de todos modos||E|cnn|B2
+em primeiro lugar|en primer lugar||E|cnn|B2
+em última análise|en última instancia||E|cnn|B2
+na verdade|en realidad||E|cnn|B2
+regra geral|por regla general||E|cnn|B2

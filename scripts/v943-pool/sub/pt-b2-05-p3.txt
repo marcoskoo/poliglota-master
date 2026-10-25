@@ -1,0 +1,283 @@
+exclusão social|exclusión social||E|cit|B2
+sem-abrigo|sin techo||S|cit|B2
+vandalismo|vandalismo||S|cit|B2
+degradação urbana|degradación urbana||E|cit|B2
+zona pedonal|zona peatonal||E|cit|B2
+ciclovia|carril bici||S|cit|B2
+entupir|atascar||V|cit|B2
+deslocar-se|desplazarse||V|tra|B2
+buzina|bocina||S|tra|B2
+associação de moradores|asociación de vecinos||E|cit|B2
+canteiro de obras|obra de construcción||E|cit|B2
+senha de espera|número de turno||E|ist|B2
+balcão de atendimento|ventanilla de atención||E|ist|B2
+prazo-limite|fecha límite||S|ist|B2
+prorrogar|prorrogar||V|ist|B2
+carimbo|sello||S|ist|B2
+correio registado|correo certificado||E|ist|B2
+forças de segurança|fuerzas de seguridad||E|ist|B2
+abstenção|abstención||S|ist|B2
+voto branco|voto en blanco||E|ist|B2
+escrutínio|escrutinio||S|ist|B2
+socorro|socorro||S|cli|B2
+abrigo de emergência|refugio de emergencia||E|cli|B2
+danos materiais|daños materiales||E|cli|B2
+reconstrução|reconstrucción||S|cli|B2
+degelo|deshielo||S|cli|B2
+onda de calor|ola de calor||E|cli|B2
+rajada de vento|racha de viento||E|cli|B2
+trovoada|tormenta||S|cli|B2
+granizo|granizo||S|cli|B2
+alerta vermelho|alerta roja||E|cli|B2
+bainha|dobladillo||S|rop|B2
+fecho ecler|cremallera||E|rop|B2
+botão de pressão|botón de presión||E|rop|B2
+costura|costura||S|rop|B2
+indústria têxtil|industria textil||E|rop|B2
+pronto-a-vestir|pronto para llevar||E|rop|B2
+retalhos|retales||S|rop|B2
+ajustar|ajustar (la ropa)||V|rop|B2
+desbotar|desteñir||V|rop|B2
+encolher|encoger||V|rop|B2
+acessório|complemento||S|rop|B2
+descarregar|descargar (un archivo)||V|tec|B2
+armazenamento|almacenamiento||S|tec|B2
+sincronizar|sincronizar||V|tec|B2
+atualização|actualización (de software)||S|tec|B2
+ecrã|pantalla||S|tec|B2
+rato (informática)|ratón||S|tec|B2
+carregador|cargador||S|tec|B2
+bateria (equipamento)|batería||S|tec|B2
+portátil|portátil||S|tec|B2
+fibra ótica|fibra óptica||E|tec|B2
+política de privacidade|política de privacidad||E|tec|B2
+pseudónimo|seudónimo||S|tec|B2
+chantagem|chantaje||S|tec|B2
+burla|estafa||S|tec|B2
+burlar|estafar||V|tec|B2
+privacidade|privacidad||S|tec|B2
+anónimo|anónimo||A|tec|B2
+sequestro de dados|secuestro de datos||E|tec|B2
+identidade digital|identidad digital||E|tec|B2
+verificação em dois passos|verificación en dos pasos||E|tec|B2
+comando|comando||S|tec|B2
+atalho de teclado|atajo de teclado||E|tec|B2
+iteração|iteración||S|tec|B2
+atualizar|actualizar||V|tec|B2
+programar|programar||V|tec|B2
+programador|programador||S|pro|B2
+testar|probar (software)||V|tec|B2
+instalar|instalar||V|tec|B2
+ambiente de desenvolvimento|entorno de desarrollo||E|tec|B2
+documentação|documentación||S|tec|B2
+guarda-redes|portero||S|spt|B2
+treinador|entrenador||S|spt|B2
+equipa técnica|cuerpo técnico||E|spt|B2
+arbitragem|arbitraje||S|spt|B2
+cartão amarelo|tarjeta amarilla||E|spt|B2
+expulsão|expulsión||S|spt|B2
+substituição|cambio de jugador||S|spt|B2
+vitória esmagadora|victoria aplastante||E|spt|B2
+taça|copa||S|spt|B2
+jovem promessa|joven promesa||E|spt|B2
+estrear|debutar||V|spt|B2
+exaustão|agotamiento||S|sla|B2
+desidratação|deshidratación||S|sla|B2
+hidratação|hidratación||S|sla|B2
+concussão cerebral|conmoción cerebral||E|sla|B2
+traumatismo craniano|traumatismo craneal||E|sla|B2
+dor muscular|agujetas||E|sla|B2
+sobrecarga|sobrecarga||S|sla|B2
+anti-inflamatório|antiinflamatorio||S|sla|B2
+analgésico|analgésico||S|sla|B2
+alta médica|alta médica||E|sla|B2
+dopagem|dopaje||S|sla|B2
+desafinado|desafinado||A|mus|B2
+improvisar|improvisar||V|mus|B2
+concerto ao vivo|concierto en directo||E|mus|B2
+digressão|gira de conciertos||S|mus|B2
+bilheteira|taquilla||S|mus|B2
+esgotar|agotar (entradas)||V|mus|B2
+palco|escenario||S|mus|B2
+bastidores|camerinos||S|mus|B2
+fado|fado||S|mus|B2
+guitarra portuguesa|guitarra portuguesa||E|mus|B2
+conservatório|conservatorio||S|mus|B2
+festival de cinema|festival de cine||E|cin|B2
+nomeação|nominación||S|cin|B2
+crítica de cinema|crítica de cine||E|cin|B2
+curta-metragem|cortometraje||S|cin|B2
+longa-metragem|largometraje||S|cin|B2
+plano-sequência|plano secuencia||E|cin|B2
+toma|toma||S|cin|B2
+duplo|doble de riesgo||S|cin|B2
+figurante|extra de reparto||S|cin|B2
+produção audiovisual|producción audiovisual||E|cin|B2
+fazer as pazes|hacer las paces||E|rel|B2
+desculpar-se|disculparse||V|rel|B2
+admitir o erro|admitir el error||E|rel|B2
+arrependido|arrepentido||A|rel|B2
+arrependimento|arrepentimiento||S|rel|B2
+ceder|ceder (en un conflicto)||V|rel|B2
+chegar a um compromisso|llegar a un acuerdo||E|rel|B2
+mediação|mediación||S|rel|B2
+perdoar|perdonar||V|rel|B2
+perdão|perdón||S|rel|B2
+quebra de confiança|quiebra de confianza||E|rel|B2
+assédio no trabalho|acoso laboral||E|lav|B2
+representatividade|representación de colectivos||S|ist|B2
+orientação sexual|orientación sexual||E|ist|B2
+identidade de género|identidad de género||E|ist|B2
+estigma|estigma||S|ist|B2
+marginalização|marginación||S|ist|B2
+vulnerável|vulnerable||A|ist|B2
+acolhimento|acogida||S|ist|B2
+acolher|acoger||V|ist|B2
+refugiado|refugiado||S|ist|B2
+migrante|migrante||S|ist|B2
+subsídio de desemprego|subsidio por desempleo||E|fin|B2
+subsídio de refeição|vale de comida||E|lav|B2
+salário líquido|salario neto||E|fin|B2
+salário mínimo|salario mínimo||E|fin|B2
+ordenado|sueldo||S|fin|B2
+contribuições|cotizaciones sociales||S|fin|B2
+segurança social|seguridad social||E|ist|B2
+contabilista|contable||S|pro|B2
+guia de pagamento|carta de pago||E|fin|B2
+preenchimento da declaração|cumplimentación de la declaración||E|fin|B2
+pagamento em atraso|pago atrasado||E|fin|B2
+aval|aval||S|fin|B2
+comissão bancária|comisión bancaria||E|fin|B2
+seguro de vida|seguro de vida||E|fin|B2
+taxa de esforço|ratio de esfuerzo||E|fin|B2
+avaliação bancária|tasación||E|fin|B2
+escritura|escritura notarial||S|fin|B2
+registo predial|registro de la propiedad||E|fin|B2
+refinanciamento|refinanciación||S|fin|B2
+seguro multirriscos|seguro multirriesgo||E|fin|B2
+prestar caução|prestar fianza||E|fin|B2
+bolha especulativa|burbuja especulativa||E|fin|B2
+bolha imobiliária|burbuja inmobiliaria||E|fin|B2
+mercado imobiliário|mercado inmobiliario||E|fin|B2
+queda das cotações|caída de las cotizaciones||E|fin|B2
+arrendamento|alquiler||S|fin|B2
+arrendar|alquilar||V|fin|B2
+renda|renta de alquiler||S|fin|B2
+conta a prazo|cuenta a plazo||E|fin|B2
+resgate|rescate (de inversión)||S|fin|B2
+velhice|vejez||S|fin|B2
+idoso|persona mayor||S|fin|B2
+herança|herencia||S|fin|B2
+testamento|testamento||S|fin|B2
+sucessão|sucesión (herencia)||S|fin|B2
+despesas de saúde|gastos sanitarios||E|fin|B2
+petisco|tapa||S|ris|B2
+insosso|soso||A|ris|B2
+crocante|crujiente||A|ris|B2
+sumarento|jugoso||A|ris|B2
+tábua de queijos|tabla de quesos||E|ris|B2
+cozido|cocido||S|ris|B2
+vinho verde|vino verde||E|ris|B2
+confecção|elaboración culinaria||S|ris|B2
+sazonal|de temporada||A|ris|B2
+produto da época|producto de temporada||E|ris|B2
+porção|ración||S|ris|B2
+apresentar recurso|presentar un recurso||E|ist|B2
+testemunha|testigo||S|ist|B2
+acusação|acusación||S|ist|B2
+arguido|acusado procesado||S|ist|B2
+réu|reo||S|ist|B2
+defesa|defensa||S|ist|B2
+mediador|mediador||S|pro|B2
+despedimento|despido||S|lav|B2
+despedir|despedir||V|lav|B2
+sindicato|sindicato||S|lav|B2
+sindicalista|sindicalista||S|lav|B2
+negociação coletiva|negociación colectiva||E|lav|B2
+greve|huelga||S|lav|B2
+piquete de greve|piquete de huelga||E|lav|B2
+assalariado|asalariado||S|lav|B2
+encerramento|cierre||S|lav|B2
+profissional independente|profesional independiente||E|lav|B2
+levantamento topográfico|levantamiento topográfico||E|pro|B2
+certificação energética|certificación energética||E|pro|B2
+eficiência energética|eficiencia energética||E|sci|B2
+instalações elétricas|instalaciones eléctricas||E|pro|B2
+cano|tubería||S|pro|B2
+curto-circuito|cortocircuito||S|pro|B2
+rebentar|reventar (una tubería)||V|pro|B2
+torneira|grifo||S|cas|B2
+infiltração|infiltración de agua||S|cas|B2
+humidade|humedad||S|cas|B2
+fenda|grieta||S|cas|B2
+reitor|rector||S|pro|B2
+reitoria|rectorado||S|pro|B2
+orientação vocacional|orientación vocacional||E|stu|B2
+refeitório escolar|comedor escolar||E|stu|B2
+bibliotecário|bibliotecario||S|pro|B2
+investigador|investigador||S|pro|B2
+corpo docente|claustro de profesores||E|pro|B2
+cozinheiro|cocinero||S|pro|B2
+artigo de fundo|artículo de fondo||E|cmu|B2
+entrevista exclusiva|entrevista en exclusiva||E|cmu|B2
+fonte|fuente (de información)||S|cmu|B2
+banda desenhada|cómic||E|let|B2
+compositor|compositor||S|mus|B2
+produtor|productor||S|cin|B2
+alfaiate|sastre||S|pro|B2
+costureira|modista||S|pro|B2
+escândalo político|escándalo político||E|att|B2
+corrupção|corrupción||S|att|B2
+corrupto|corrupto||A|att|B2
+suborno|soborno||S|att|B2
+subornar|sobornar||V|att|B2
+branqueamento de capitais|blanqueo de capitales||E|att|B2
+conflito de interesses|conflicto de intereses||E|att|B2
+estado de emergência|estado de emergencia||E|ist|B2
+decreto-lei|decreto ley||S|ist|B2
+legislação|legislación||S|ist|B2
+votação|votación||S|ist|B2
+referendo|referéndum||S|ist|B2
+exportação|exportación||S|fin|B2
+importação|importación||S|fin|B2
+balança comercial|balanza comercial||E|fin|B2
+competitividade|competitividad||S|fin|B2
+quota de vendas|cuota de ventas||E|fin|B2
+fusão de empresas|fusión de empresas||E|fin|B2
+aquisição|adquisición||S|fin|B2
+falência|quiebra||S|fin|B2
+recuperação económica|recuperación económica||E|fin|B2
+deslocalização|deslocalización||S|fin|B2
+incineradora|incineradora||S|nat|B2
+compostagem|compostaje||S|nat|B2
+espécie invasora|especie invasora||E|nat|B2
+espécie protegida|especie protegida||E|nat|B2
+reserva natural|reserva natural||E|nat|B2
+desflorestação|deforestación||S|nat|B2
+reflorestação|repoblación forestal||S|nat|B2
+degradação ambiental|degradación ambiental||E|nat|B2
+consciência ambiental|conciencia ambiental||E|nat|B2
+ativista|activista||S|nat|B2
+revisão por pares|revisión por pares||E|sci|B2
+financiamento|financiación||S|sci|B2
+ensaio clínico|ensayo clínico||E|sci|B2
+cobaia|conejillo de indias||S|sci|B2
+laboratório|laboratorio||S|sci|B2
+microscópio|microscopio||S|sci|B2
+descoberta|descubrimiento||S|sci|B2
+avanço|avance||S|sci|B2
+inovação|innovación||S|sci|B2
+inovador|innovador||A|sci|B2
+densidade|densidad||S|sci|B2
+ácido|ácido||S|sci|B2
+oxigénio|oxígeno||S|sci|B2
+hidrogénio|hidrógeno||S|sci|B2
+nitrogénio|nitrógeno||S|sci|B2
+dióxido de carbono|dióxido de carbono||E|sci|B2
+composto orgânico|compuesto orgánico||E|sci|B2
+enzima|enzima||S|sci|B2
+proteína|proteína||S|sci|B2
+hormona|hormona||S|sci|B2
+neurónio|neurona||S|sci|B2
+fotossíntese|fotosíntesis||S|sci|B2
+clorofila|clorofila||S|sci|B2

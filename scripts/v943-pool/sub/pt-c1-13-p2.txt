@@ -1,0 +1,328 @@
+escritura pública|escritura pública||L|ist|C1
+apostila|apostilla||S|ist|C1
+procuração bastante|poder suficiente||L|ist|C1
+traslado|traslado||S|ist|C1
+penhora|embargo de bienes||S|ist|C1
+inventário|inventario (sucesorio)||S|ist|C1
+recurso hierárquico|recurso jerárquico||L|ist|C1
+concurso público|oposición||L|ist|C1
+ato administrativo|acto administrativo||L|ist|C1
+silêncio administrativo|silencio administrativo||L|ist|C1
+interesse legítimo|interés legítimo||L|ist|C1
+reincidência|reincidencia||S|ist|C1
+regime aberto|tercer grado||L|ist|C1
+delinquência juvenil|delincuencia juvenil||L|ist|C1
+vitimologia|victimología||S|ist|C1
+periculosidade|peligrosidad||S|ist|C1
+costume internacional|costumbre internacional||L|ist|C1
+extradição|extradición||S|ist|C1
+imunidade diplomática|inmunidad diplomática||L|ist|C1
+asilo político|asilo político||L|ist|C1
+tribunal arbitral|tribunal arbitral||L|ist|C1
+concentração empresarial|concentración empresarial||L|fin|C1
+sede social|domicilio social||L|fin|C1
+despedimento ilícito|despido improcedente||L|lav|C1
+comissão de trabalhadores|comité de empresa||L|lav|C1
+convenção coletiva de trabalho|convenio colectivo de trabajo||L|lav|C1
+trabalho precário|empleo precario||L|lav|C1
+conflito de interesses|conflicto de intereses||L|ist|C1
+corrupção ativa|corrupción activa||L|ist|C1
+tráfego de influências|tráfico de influencias||L|ist|C1
+laparotomia|laparotomía||S|sla|C1
+clampagem|pinzamiento||S|sla|C1
+dreno|drenaje||S|sla|C1
+sala de operações|quirófano||L|sla|C1
+hemostasia|hemostasia||S|sla|C1
+desbridamento|desbridamiento||S|sla|C1
+estenose aórtica|estenosis aórtica||L|sla|C1
+fibrilhação auricular|fibrilación auricular||L|sla|C1
+sopro cardíaco|soplo cardíaco||L|sla|C1
+hipertensão pulmonar|hipertensión pulmonar||L|sla|C1
+crepitações|crepitantes||S|sla|C1
+resistência à insulina|resistencia a la insulina||L|sla|C1
+acromegalia|acromegalia||S|sla|C1
+glicemia capilar|glucemia capilar||L|sla|C1
+hipófise|hipófisis||S|cor|C1
+dermatite atópica|dermatitis atópica||L|sla|C1
+psoríase|psoriasis||S|sla|C1
+angioedema|angioedema||S|sla|C1
+pênfigo|penfigo||S|sla|C1
+cuidados paliativos|cuidados paliativos||L|sla|C1
+neoadjuvante|neoadyuvante||A|sla|C1
+carcinoma|carcinoma||S|sla|C1
+sedação paliativa|sedación paliativa||L|sla|C1
+cefaleia em salvas|cefalea en racimos||L|sla|C1
+eletroencefalograma|electroencefalograma||S|sla|C1
+acidente vascular cerebral|ictus||L|sla|C1
+parestesia|parestesia||S|sla|C1
+neuropatia periférica|neuropatía periférica||L|sla|C1
+pré-eclâmpsia|preeclampsia||S|sla|C1
+parto eutócico|parto eutócico||L|sla|C1
+recém-nascido prematuro|recién nacido prematuro||L|sla|C1
+malformação congénita|malformación congénita||L|sla|C1
+fratura exposta|fractura abierta||L|sla|C1
+artroplastia|artroplastia||S|sla|C1
+plano nacional de vacinação|calendario de vacunación||L|sla|C1
+cobertura vacinal|cobertura vacunal||L|sla|C1
+sorotipo|serotipo||S|sci|C1
+carga viral|carga viral||L|sla|C1
+anticorpo neutralizante|anticuerpo neutralizante||L|sci|C1
+variante de preocupação|variante preocupante||L|sla|C1
+transmissão comunitária|transmisión comunitaria||L|sla|C1
+reservatório animal|reservorio animal||L|sla|C1
+evasão fiscal|evasión fiscal||L|fin|C1
+preço de transferência|precio de transferencia||L|fin|C1
+amnistia fiscal|amnistía fiscal||L|fin|C1
+colateral|garantía colateral||S|fin|C1
+crédito malparado|crédito dudoso||L|fin|C1
+provisão|provisión||S|fin|C1
+teste de esforço|prueba de resistencia||L|fin|C1
+fluxos de caixa descontados|flujos de caja descontados||L|fin|C1
+aquisição alavancada|compra apalancada||L|fin|C1
+sinergia|sinergia||S|fin|C1
+elasticidade-preço|elasticidad-precio||S|fin|C1
+monopólio natural|monopolio natural||L|fin|C1
+externalidade negativa|externalidad negativa||L|fin|C1
+falha de mercado|fallo de mercado||L|fin|C1
+curva de procura|curva de demanda||L|fin|C1
+seguro de responsabilidade civil|seguro de responsabilidad civil||L|fin|C1
+prémio de seguro|prima de seguro||L|fin|C1
+avaria|siniestro||S|fin|C1
+resseguro|reaseguro||S|fin|C1
+condicionalidade|condicionalidad||S|fin|C1
+ajuda ao desenvolvimento|ayuda al desarrollo||L|att|C1
+ativo digital|activo digital||S|fin|C1
+criptoativo|criptoactivo||S|fin|C1
+contrato inteligente|contrato inteligente||L|fin|C1
+moeda digital|moneda digital||L|fin|C1
+carteira fria|cartera fría||L|fin|C1
+tokenização|tokenización||S|fin|C1
+registo distribuído|registro distribuido||L|tec|C1
+cromatografia líquida|cromatografía líquida||L|sci|C1
+titulação|valoración||S|sci|C1
+espectrometria de massa|espectrometría de masas||L|sci|C1
+limite de deteção|límite de detección||L|sci|C1
+estrutura cristalina|estructura cristalina||L|sci|C1
+semicondutor dopado|semiconductor dopado||L|tec|C1
+banda proibida|banda prohibida||L|sci|C1
+defeito pontual|defecto puntual||L|sci|C1
+inversão térmica|inversión térmica||L|nat|C1
+corrente de jato|corriente en chorro||L|nat|C1
+monção|monzón||S|nat|C1
+registo fóssil|registro fósil||L|sci|C1
+extinção em massa|extinción masiva||L|sci|C1
+datação radiométrica|datación radiométrica||L|sci|C1
+amonoide|amonoideo||S|ani|C1
+táfonomia|tafonomía||S|sci|C1
+edição génica|edición génica||L|sci|C1
+edição de bases|edición de bases||L|sci|C1
+nuclease|nucleasa||S|sci|C1
+estimulação magnética transcraniana|estimulación magnética transcraneal||L|sci|C1
+ativação cortical|activación cortical||L|sci|C1
+nanopartícula|nanopartícula||S|sci|C1
+grafeno|grafeno||S|sci|C1
+polímero condutor|polímero conductor||L|sci|C1
+microscópio eletrónico|microscopio electrónico||L|sci|C1
+espintrónica|espintrónica||S|sci|C1
+interferência construtiva|interferencia constructiva||L|sci|C1
+índice de refração|índice de refracción||L|sci|C1
+ressonância acústica|resonancia acústica||L|sci|C1
+difração|difracción||S|sci|C1
+entropia|entropía||S|sci|C1
+escoamento turbulento|flujo turbulento||L|sci|C1
+gradiente de pressão|gradiente de presión||L|sci|C1
+transferência de calor|transferencia de calor||L|sci|C1
+camada limite|capa límite||L|sci|C1
+escala cartográfica|escala cartográfica||L|sci|C1
+deteção remota|teledetección||L|sci|C1
+ortofotomapa|ortofotomapa||S|sci|C1
+teatro de revista|teatro de revista cómico||L|art|C1
+tragicomédia|tragicomedia||S|art|C1
+didascália|acotación||S|art|C1
+monólogo dramático|monólogo dramático||L|art|C1
+antítese|antítesis||S|let|C1
+lacuna|laguna||S|let|C1
+interpolação|interpolación||S|let|C1
+tradutologia|traductología||S|let|C1
+equivalência dinâmica|equivalencia dinámica||L|let|C1
+subtitulagem|subtitulado||S|cin|C1
+ensaísmo|ensayismo||S|let|C1
+diatribe|diatriba||S|let|C1
+pensamento único|pensamiento único||L|att|C1
+distopia|distopía||S|let|C1
+ucronia|ucronía||S|let|C1
+mundo possível|mundo posible||L|let|C1
+contrafactual|contrafactual||S|ast|C1
+literatura comparada|literatura comparada||L|let|C1
+tradução intersemiótica|traducción intersemiótica||L|let|C1
+documentário de criação|documental de autor||L|cin|C1
+margem de erro|margen de error||L|att|C1
+intenção de voto|intención de voto||L|att|C1
+voto útil|voto útil||L|ist|C1
+moção de confiança|moción de confianza||L|ist|C1
+manutenção da paz|mantenimiento de la paz||L|att|C1
+zona tampão|zona de amortiguamiento||L|att|C1
+desarmamento|desarme||S|att|C1
+acordo de associação|acuerdo de asociación||L|att|C1
+diretiva europeia|directiva europea||L|ist|C1
+negociação multilateral|negociación multilateral||L|att|C1
+Estado-providência|Estado de bienestar||S|ist|C1
+rendimento mínimo garantido|renta mínima garantizada||L|ist|C1
+pensão de velhice|pensión de jubilación||L|fin|C1
+cuidador informal|cuidador informal||S|pro|C1
+ação direta|acción directa||L|att|C1
+desobediência civil|desobediencia civil||L|att|C1
+plataforma reivindicativa|plataforma reivindicativa||L|lav|C1
+branqueamento de capitais|blanqueo de capitales||L|fin|C1
+diáspora|diáspora||S|att|C1
+repatriação|repatriación||S|att|C1
+fluxo migratório|flujo migratorio||L|att|C1
+visto de residência|permiso de residencia||L|ist|C1
+greve geral|huelga general||L|lav|C1
+marchetaria|marquetería||S|art|C1
+filigrana|filigrana||S|art|C1
+faiança|loza estañífera||S|art|C1
+tempo de exposição|tiempo de exposición||L|art|C1
+abertura do diafragma|apertura del diafragma||L|art|C1
+longa exposição|larga exposición||L|art|C1
+manuelino|manuelino (estilo)||A|art|C1
+ogiva|ojiva||S|art|C1
+balaustrada|balaustrada||S|art|C1
+frontão|frontón||S|art|C1
+arco-botante|arbotante||S|art|C1
+bailado|ballet||S|art|C1
+barra de aquecimento|barra de calentamiento||L|spt|C1
+sapatos de ponta|zapatillas de puntas||L|spt|C1
+adágio|adagio||S|mus|C1
+circuito integrado|circuito integrado||L|tec|C1
+transístor|transistor||S|tec|C1
+microarquitetura|microarquitectura||S|tec|C1
+armazém de dados|almacén de datos||L|tec|C1
+dados massivos|macrodatos||L|tec|C1
+nó validador|nodo validador||S|tec|C1
+reconhecimento de padrões|reconocimiento de patrones||L|tec|C1
+verificação biométrica|verificación biométrica||L|tec|C1
+sensor de proximidade|sensor de proximidad||L|tec|C1
+rede de sensores|red de sensores||L|tec|C1
+medidor inteligente|contador inteligente||L|tec|C1
+telepresença|telepresencia||S|tec|C1
+motor de jogo|motor de videojuego||L|tec|C1
+cinza vulcânica|ceniza volcánica||L|nat|C1
+caldeira vulcânica|caldera volcánica||L|nat|C1
+nuvem ardente|nube ardiente||L|nat|C1
+sismógrafo|sismógrafo||S|sci|C1
+monitorização sísmica|monitorización sísmica||L|sci|C1
+rotação de culturas|rotación de cultivos||L|nat|C1
+adubação|abonado||S|nat|C1
+regadio|regadío||S|nat|C1
+pousio|barbecho||S|nat|C1
+salinização do solo|salinización del suelo||L|nat|C1
+aquacultura|acuicultura||S|nat|C1
+pastorícia|pastoreo||S|nat|C1
+estágio em barrica|crianza en barrica||L|ali|C1
+silvicultura|silvicultura||S|nat|C1
+recolha seletiva|recogida selectiva||L|cit|C1
+economia circular|economía circular||L|nat|C1
+descarbonização|descarbonización||S|nat|C1
+valorização de resíduos|valorización de residuos||L|nat|C1
+pegada de carbono|huella de carbono||L|nat|C1
+deiscência|dehiscencia||S|nat|C1
+polinização cruzada|polinización cruzada||L|nat|C1
+estrato herbáceo|estrato herbáceo||L|nat|C1
+sucessão ecológica|sucesión ecológica||L|nat|C1
+corredor ecológico|corredor ecológico||L|nat|C1
+predação|depredación||S|ani|C1
+insigne|insigne||A|ast|C1
+lábil|lábilo||A|ast|C1
+mesquinho|mezquino||A|ast|C1
+preconizar|preconizar||V|cmu|C1
+esgrimar|esgrimir||V|cmu|C1
+refutar|refutar||V|cmu|C1
+insuflar|insuflar||V|cmu|C1
+exprobrar|reprochar con dureza||V|cmu|C1
+interstício|intersticio||S|ast|C1
+impasse|impasse||S|ast|C1
+premissa|premisa||S|ast|C1
+corolário|corolario||S|ast|C1
+verosímil|verosímil||A|ast|C1
+apócrifo|apócrifo||A|ast|C1
+sofisma|sofisma||S|ast|C1
+alea jacta est|la suerte está echada||E|ast|C1
+deslavado|insípido, soso||A|ast|C1
+mesurado|mesurado||A|ast|C1
+sobranceiro|altivo, desdeñoso||A|ast|C1
+escorreito|irreprochable||A|ast|C1
+probo|probo, honrado||A|ast|C1
+ínfimo|ínfimo||A|ast|C1
+exíguo|exiguo||A|ast|C1
+num ápice|en un instante||L|tmp|C1
+a par e passo|a la par||L|tmp|C1
+destarte|por tanto||D|cnn|C1
+outrossim|asimismo||D|cnn|C1
+não obstante|no obstante||D|cnn|C1
+por conseguinte|por consiguiente||D|cnn|C1
+a saber|a saber||D|cnn|C1
+com efeito|en efecto||D|cnn|C1
+sequer|siquiera||D|cnn|C1
+decerto|sin duda||D|cnn|C1
+de resto|por lo demás||D|cnn|C1
+em boa verdade|a decir verdad||D|cnn|C1
+seja como for|sea como sea||E|cnn|C1
+aludir|aludir||V|cmu|C1
+escusar|excusar||V|cmu|C1
+rebater|rebatir||V|cmu|C1
+ipsis verbis|ipsis verbis||L|ast|C1
+mutatis mutandis|mutatis mutandis||L|ast|C1
+statu quo|statu quo||L|ast|C1
+casus belli|casus belli||L|ast|C1
+in albis|in albis||L|ast|C1
+parsimónia|parsimonia||S|ast|C1
+avareza|avaricia||S|ast|C1
+temperança|templanza||S|ast|C1
+procrastinação|procrastinación||S|ast|C1
+soberba|soberbia||S|ast|C1
+harmonização de vinhos|maridaje de vinos||L|ali|C1
+luto complicado|duelo complicado||L|sla|C1
+regulação emocional|regulación emocional||L|emo|C1
+resiliência|resiliencia||S|sla|C1
+ronda de financiamento|ronda de financiación||L|fin|C1
+investidor-anjo|inversor ángel||S|fin|C1
+mínimo produto viável|mínimo producto viable||L|tec|C1
+cadeia de abastecimento|cadena de suministro||L|tec|C1
+gargalo logístico|cuello de botella logístico||L|tec|C1
+existências|existencias (stock)||S|fin|C1
+última milha|última milla||L|tra|C1
+distribuição a retalho|distribución minorista||L|fin|C1
+segmentação de mercado|segmentación de mercado||L|fin|C1
+funil de conversão|embudo de conversión||L|fin|C1
+fidelização de clientes|fidelización de clientes||L|fin|C1
+posicionamento da marca|posicionamiento de marca||L|fin|C1
+rastreabilidade|trazabilidad||S|lav|C1
+não conformidade|no conformidad||L|lav|C1
+conformidade regulamentar|conformidad reglamentaria||L|lav|C1
+auditoria interna|auditoría interna||L|lav|C1
+leilão de arte|subasta de arte||L|fin|C1
+espólio|legado (fondo documental)||S|art|C1
+antiquário|anticuario||S|pro|C1
+obséquio|obsequio||S|cmu|C1
+mesura|mesura||S|cmu|C1
+quebra-gelo|rompehielos||S|cmu|C1
+entreajuda|ayuda mutua||S|rel|C1
+carta branca|carta blanca||L|cmu|C1
+limiar anaeróbio|umbral anaeróbico||L|spt|C1
+consumo máximo de oxigénio|consumo máximo de oxígeno||L|spt|C1
+recuperação ativa|recuperación activa||L|spt|C1
+carga de treino|carga de entrenamiento||L|spt|C1
+sobretreino|sobreentrenamiento||S|spt|C1
+coudelaria|yeguada||S|ani|C1
+garanhão|semental||S|ani|C1
+livro genealógico|libro genealógico||L|ani|C1
+adestrar|adiestrar||V|ani|C1
+rajada de vento|racha de viento||L|nat|C1
+vinho de talha|vino de tinaja||L|ali|C1
+vaguada|gota fría||S|nat|C1
+balão de sondagem|globo de sondeo||L|sci|C1
+mobiliário urbano|mobiliario urbano||L|cit|C1
+ilha de calor|isla de calor||L|nat|C1
+escalada em livre|escalada libre||L|spt|C1
+bivaque|vivac||S|spt|C1

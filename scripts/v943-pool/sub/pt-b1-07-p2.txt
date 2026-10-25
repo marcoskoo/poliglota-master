@@ -1,0 +1,246 @@
+arbitragem|arbitraje||S|spt|B1
+entorse|esguince||S|sla|B1
+fisioterapia|fisioterapia||S|sla|B1
+tendinite|tendinitis||S|sla|B1
+distensão muscular|distensión muscular||L|sla|B1
+aquecimento|calentamiento||S|spt|B1
+alongamento|estiramiento||S|spt|B1
+muletas|muletas||S|cor|B1
+acorde|acorde||S|mus|B1
+escala musical|escala musical||L|mus|B1
+compasso|compás||S|mus|B1
+maestro|maestro||S|mus|B1
+partitura|partitura||S|mus|B1
+afinar|afinar||V|mus|B1
+palco|escenario||S|mus|B1
+plateia|público (platea)||S|mus|B1
+realizador|director de cine||S|cin|B1
+rodagem|rodaje||S|cin|B1
+argumento|guion||S|cin|B1
+cenário|decorado||S|cin|B1
+bilheteira|taquilla||S|cin|B1
+estreia|estreno||S|cin|B1
+curta-metragem|cortometraje||S|cin|B1
+rutura|ruptura||S|rel|B1
+reconciliar-se|reconciliarse||V|rel|B1
+discussão|discusión||S|rel|B1
+perdão|perdón||S|rel|B1
+arrepender-se|arrepentirse||V|rel|B1
+zangado|enfadado||A|emo|B1
+fazer as pazes|hacer las paces||L|rel|B1
+inclusão|inclusión||S|ast|B1
+minoria|minoría||S|ast|B1
+deficiência|discapacidad||S|ast|B1
+rede de apoio|red de apoyo||L|rel|B1
+integrar|integrar||V|ast|B1
+discriminação|discriminación||S|ast|B1
+igualdade de oportunidades|igualdad de oportunidades||L|ast|B1
+imposto sobre o rendimento|impuesto sobre la renta||L|fin|B1
+declaração de rendimentos|declaración de la renta||L|fin|B1
+retenção na fonte|retención en la fuente||L|fin|B1
+deduzir|deducir||V|fin|B1
+contribuinte|contribuyente||S|fin|B1
+evasão fiscal|evasión fiscal||L|fin|B1
+reembolso de impostos|devolución de impuestos||L|fin|B1
+empréstimo|préstamo||S|fin|B1
+crédito à habitação|hipoteca||L|fin|B1
+crédito pessoal|préstamo personal||L|fin|B1
+prestação mensal|cuota mensual||L|fin|B1
+credor|acreedor||S|fin|B1
+devedor|deudor||S|fin|B1
+amortizar|amortizar||V|fin|B1
+garantia bancária|garantía bancaria||L|fin|B1
+poupança|ahorro||S|fin|B1
+investir|invertir||V|fin|B1
+mercado de ações|mercado bursátil||L|fin|B1
+acionista|accionista||S|fin|B1
+dividendos|dividendos||S|fin|B1
+rentabilidade|rentabilidad||S|fin|B1
+fundos de investimento|fondos de inversión||L|fin|B1
+poupar|ahorrar||V|fin|B1
+aposentação|jubilación||S|fin|B1
+idade da reforma|edad de jubilación||L|fin|B1
+reforma antecipada|jubilación anticipada||L|fin|B1
+segurança social|seguridad social||L|fin|B1
+crítica gastronómica|crítica gastronómica||L|ris|B1
+reserva de mesa|reserva de mesa||L|ris|B1
+conta|cuenta||S|ris|B1
+empregado de mesa|camarero||S|ris|B1
+ementa|carta (menú)||S|ris|B1
+saboroso|sabroso||A|ali|B1
+requintado|refinado||A|ris|B1
+menu de degustação|menú degustación||L|ris|B1
+advogado|abogado||S|pro|B1
+solicitador|procurador de los tribunales||S|pro|B1
+notário|notario||S|pro|B1
+contabilista|contable||S|pro|B1
+gestor|gestor||S|pro|B1
+recursos humanos|recursos humanos||L|pro|B1
+consultoria jurídica|asesoría jurídica||L|pro|B1
+engenheiro|ingeniero||S|pro|B1
+arquiteto|arquitecto||S|pro|B1
+topógrafo|topógrafo||S|pro|B1
+mecânico|mecánico||S|pro|B1
+soldador|soldador||S|pro|B1
+desenho técnico|dibujo técnico||L|pro|B1
+projeto de engenharia|proyecto de ingeniería||L|pro|B1
+médico de família|médico de cabecera||S|pro|B1
+enfermeiro|enfermero||S|pro|B1
+cirurgião|cirujano||S|pro|B1
+docente|docente||S|pro|B1
+diretor de turma|tutor de clase||S|pro|B1
+terapeuta da fala|logopeda||S|pro|B1
+jornalista|periodista||S|pro|B1
+fotógrafo|fotógrafo||S|pro|B1
+desenhador|dibujante||S|pro|B1
+escultor|escultor||S|pro|B1
+coreógrafo|coreógrafo||S|pro|B1
+redator|redactor||S|pro|B1
+editor|editor||S|pro|B1
+eleições legislativas|elecciones legislativas||L|att|B1
+deputado|diputado||S|ist|B1
+oposição|oposición||S|att|B1
+governar|gobernar||V|att|B1
+moção de censura|moción de censura||L|att|B1
+moção de confiança|moción de confianza||L|att|B1
+assembleia|asamblea||S|ist|B1
+recessão|recesión||S|att|B1
+inflação|inflación||S|att|B1
+crescimento económico|crecimiento económico||L|att|B1
+produto interno bruto|producto interior bruto||L|att|B1
+crise financeira|crisis financiera||L|fin|B1
+mercado de trabalho|mercado laboral||L|lav|B1
+meio ambiente|medio ambiente||L|nat|B1
+pegada ecológica|huella ecológica||L|nat|B1
+resíduos|residuos||S|nat|B1
+reciclagem|reciclaje||S|nat|B1
+degradação|degradación||S|nat|B1
+consciência ambiental|conciencia ambiental||L|nat|B1
+hipótese|hipótesis||S|sci|B1
+conclusão|conclusión||S|sci|B1
+prova|prueba (evidencia)||S|sci|B1
+investigador|investigador||S|pro|B1
+estudo científico|estudio científico||L|sci|B1
+demonstrar|demostrar||V|sci|B1
+célula|célula||S|sci|B1
+molécula|molécula||S|sci|B1
+reação química|reacción química||L|sci|B1
+bactéria|bacteria||S|sci|B1
+genética|genética||S|sci|B1
+oxigénio|oxígeno||S|sci|B1
+gravidade|gravedad||S|sci|B1
+universo|universo||S|sci|B1
+galáxia|galaxia||S|sci|B1
+buraco negro|agujero negro||L|sci|B1
+velocidade da luz|velocidad de la luz||L|sci|B1
+telescópio|telescopio||S|sci|B1
+satélite|satélite||S|sci|B1
+conto|cuento||S|let|B1
+ensaio|ensayo||S|let|B1
+narrativa|narrativa||S|let|B1
+poema|poema||S|let|B1
+leitor|lector||S|let|B1
+enredo|trama||S|let|B1
+personagem|personaje||S|let|B1
+coluna vertebral|columna vertebral||L|cor|B1
+articulação|articulación||S|cor|B1
+músculo|músculo||S|cor|B1
+respiração|respiración||S|cor|B1
+postura|postura||S|cor|B1
+flexibilidade|flexibilidad||S|cor|B1
+habitat|hábitat||S|ani|B1
+cadeia alimentar|cadena alimentaria||L|ani|B1
+mamífero|mamífero||S|ani|B1
+reprodução|reproducción||S|ani|B1
+ninho|nido||S|ani|B1
+migração|migración||S|ani|B1
+instinto|instinto||S|ani|B1
+espécie em perigo|especie en peligro||L|ani|B1
+extinção|extinción||S|ani|B1
+caça furtiva|caza furtiva||L|ani|B1
+parque natural|parque natural||L|nat|B1
+fauna e flora|fauna y flora||L|ani|B1
+vida selvagem|vida salvaje||L|ani|B1
+conservação|conservación||S|nat|B1
+energia eólica|energía eólica||L|nat|B1
+energia solar|energía solar||L|nat|B1
+painel solar|placa solar||L|nat|B1
+biocombustível|biocombustible||S|nat|B1
+sustentável|sostenible||A|nat|B1
+emissões de carbono|emisiones de carbono||L|nat|B1
+previsão do tempo|previsión del tiempo||L|cli|B1
+trovoada|tormenta eléctrica||S|cli|B1
+nevoeiro|niebla||S|cli|B1
+granizo|granizo||S|cli|B1
+tempestade|tormenta||S|cli|B1
+humidade|humedad||S|cli|B1
+prazo|plazo||S|tmp|B1
+quinzenal|quincenal||A|tmp|B1
+de vez em quando|de vez en cuando||L|tmp|B1
+semanalmente|semanalmente||D|tmp|B1
+duração|duración||S|tmp|B1
+a longo prazo|a largo plazo||L|tmp|B1
+com frequência|con frecuencia||L|tmp|B1
+sair à noite|salir de noche||L|sve|B1
+fado|fado||S|mus|B1
+madrugada|madrugada||S|tmp|B1
+divertir-se|divertirse||V|sve|B1
+convívio|convivencia||S|sve|B1
+beber um copo|tomar algo (una copa)||L|sve|B1
+jogo de tabuleiro|juego de mesa||L|sve|B1
+baralho de cartas|baraja de cartas||L|sve|B1
+xadrez|ajedrez||S|sve|B1
+dado|dado (juego)||S|sve|B1
+croché|ganchillo||S|sve|B1
+jogar às cartas|jugar a las cartas||L|sve|B1
+motivação|motivación||S|emo|B1
+desanimar|desanimar||V|emo|B1
+força de vontade|fuerza de voluntad||L|emo|B1
+pressão|presión||S|emo|B1
+autoconfiança|autoconfianza||S|emo|B1
+argumentar|argumentar||V|cmu|B1
+discordar|disentir||V|cmu|B1
+no meu entender|a mi parecer||L|cmu|B1
+convencer|convencer||V|cmu|B1
+refutar|refutar||V|cmu|B1
+opinião fundamentada|opinión fundamentada||L|cmu|B1
+apresentação|presentación||S|cmu|B1
+público-alvo|público objetivo||S|cmu|B1
+orador|orador||S|cmu|B1
+gaguejar|tartamudear||V|cmu|B1
+diapositivo|diapositiva||S|cmu|B1
+nervosismo|nerviosismo||S|emo|B1
+perguntas e respostas|preguntas y respuestas||L|cmu|B1
+negociar|negociar||V|cmu|B1
+chegar a um acordo|llegar a un acuerdo||L|cmu|B1
+proposta|propuesta||S|cmu|B1
+concessão|concesión||S|cmu|B1
+diplomaticamente|diplomáticamente||D|cmu|B1
+recusar|rehusar||V|cmu|B1
+meio-termo|término medio||S|cmu|B1
+tribunal|tribunal||S|ist|B1
+julgamento|juicio||S|ist|B1
+testemunha|testigo||S|ist|B1
+advogado de defesa|abogado defensor||L|ist|B1
+sentença|sentencia||S|ist|B1
+acusação|acusación||S|ist|B1
+apelar|apelar||V|ist|B1
+balcão de atendimento|ventanilla de atención||L|ist|B1
+formulário|formulario||S|ist|B1
+fila de espera|fila de espera||L|ist|B1
+carimbo|sello oficial||S|ist|B1
+requerimento|solicitud||S|ist|B1
+documentação|documentación||S|ist|B1
+eleitor|elector||S|ist|B1
+voto branco|voto en blanco||L|ist|B1
+urna|urna||S|ist|B1
+cabine de voto|cabina de votación||L|ist|B1
+abstenção|abstención||S|ist|B1
+cabeça de lista|cabeza de lista||L|ist|B1
+apuramento|escrutinio||S|ist|B1
+portanto|por lo tanto||C|cnn|B1
+além disso|además||L|cnn|B1
+por outro lado|por otro lado||L|cnn|B1
+uma vez que|ya que||C|cnn|B1
+contudo|sin embargo||C|cnn|B1
+ou seja|es decir||L|cnn|B1

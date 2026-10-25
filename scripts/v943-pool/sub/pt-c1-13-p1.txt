@@ -1,0 +1,329 @@
+herdeiro|heredero||S|ist|C1
+legítima|legítima (parte de la herencia reservada)||S|ist|C1
+usucapião|usucapión||S|ist|C1
+cláusula abusiva|cláusula abusiva||L|ist|C1
+mora|mora (retraso en el cumplimiento)||S|ist|C1
+fiança|fianza||S|ist|C1
+litigante|litigante||S|ist|C1
+rescindir|rescindir||V|ist|C1
+burla|estafa||S|ist|C1
+agravo|recurso de queja||S|ist|C1
+arguido|investigado, acusado||S|ist|C1
+arguir|oponer (excepción)||V|ist|C1
+sentença transitada em julgado|sentencia firme||L|ist|C1
+juiz de instrução|juez de instrucción||L|ist|C1
+alegações finais|alegaciones finales||L|ist|C1
+habeas corpus|hábeas corpus||L|ist|C1
+pronúncia|procesamiento||S|ist|C1
+co-réu|coacusado||S|ist|C1
+peritagem|peritaje||S|ist|C1
+jurisprudência|jurisprudencia||S|ist|C1
+inconstitucionalidade|inconstitucionalidad||S|ist|C1
+transição demográfica|transición demográfica||L|att|C1
+prerrogativa|prerrogativa||S|ist|C1
+lei eleitoral|ley electoral||L|ist|C1
+dispneia|disnea||S|sla|C1
+sonda nasogástrica|sonda nasogástrica||L|sla|C1
+etiologia|etiología||S|sla|C1
+icterícia|ictericia||S|sla|C1
+anamnese|anamnesis||S|sla|C1
+compulsão|compulsión||S|sla|C1
+episódio maníaco|episodio maníaco||L|sla|C1
+catatonia|catatonia||S|sla|C1
+psicopatologia|psicopatología||S|sla|C1
+psicoterapêutico|psicoterapéutico||A|sla|C1
+consentimento informado|consentimiento informado||L|sla|C1
+obstinação terapêutica|encarnizamiento terapéutico||L|sla|C1
+posologia|posología||S|sla|C1
+iatrogenia|iatrogenia||S|sla|C1
+farmacovigilância|farmacovigilancia||S|sla|C1
+forma galénica|forma farmacéutica||L|sla|C1
+ensaio clínico|ensayo clínico||L|sla|C1
+bioequivalência|bioequivalencia||S|sci|C1
+necrópsia|autopsia||S|sla|C1
+metástase|metástasis||S|sla|C1
+estadiamento|estadificación||S|sla|C1
+esfregaço|frotis||S|sla|C1
+política monetária|política monetaria||L|fin|C1
+inflação subjacente|inflación subyacente||L|fin|C1
+vicissitude|vicisitud||S|ast|C1
+estabilizador automático|estabilizador automático||L|fin|C1
+pauta aduaneira|arancel aduanero||L|fin|C1
+dumping|dumping (venta por debajo de coste)||S|fin|C1
+contingentamento|contingentamiento||S|fin|C1
+demonstração financeira|estados financieros||L|fin|C1
+perdurável|perdurable||A|ast|C1
+passivo contingente|pasivo contingente||L|fin|C1
+parecer de auditoria|informe de auditoría||L|fin|C1
+imparidade|deterioro de valor||S|fin|C1
+alavancagem|apalancamiento||S|fin|C1
+volatilidade implícita|volatilidad implícita||L|fin|C1
+derivado de crédito|derivado de crédito||L|fin|C1
+venda a descoberto|venta en corto||L|fin|C1
+liquidação|liquidación||S|fin|C1
+holding|holding||S|fin|C1
+assembleia geral|junta general||L|fin|C1
+aumento de capital|ampliación de capital||L|fin|C1
+epigenética|epigenética||S|sci|C1
+cariótipo|cariotipo||S|sci|C1
+alelo recessivo|alelo recesivo||L|sci|C1
+expressão génica|expresión génica||L|sci|C1
+hereditariedade|herencia genética||S|sci|C1
+imunossupressão|inmunosupresión||S|sci|C1
+soroprevalência|seroprevalencia||S|sci|C1
+citocina|citocina||S|sci|C1
+imunidade de grupo|inmunidad de grupo||L|sci|C1
+anticorpo monoclonal|anticuerpo monoclonal||L|sci|C1
+sinapse|sinapsis||S|sci|C1
+neuroplasticidade|neuroplasticidad||S|sci|C1
+córtex pré-frontal|corteza prefrontal||L|sci|C1
+potencial de repouso|potencial de reposo||L|sci|C1
+estereoquímica|estereoquímica||S|sci|C1
+enantiómero|enantiómero||S|sci|C1
+ligação covalente|enlace covalente||L|sci|C1
+destilação fracionada|destilación fraccionada||L|sci|C1
+entrelaçamento|entrelazamiento||S|sci|C1
+decoerência|descoherencia||S|sci|C1
+quantização|cuantización||S|sci|C1
+colapso quântico|colapso cuántico||L|sci|C1
+fecundidade|fecundidad||S|att|C1
+buraco negro supermassivo|agujero negro supermasivo||L|sci|C1
+radiação cósmica de fundo|radiación cósmica de fondo||L|sci|C1
+exoplaneta|exoplaneta||S|sci|C1
+paralaxe|paralaje||S|sci|C1
+enzima de restrição|enzima de restricción||L|sci|C1
+vetor viral|vector viral||L|sci|C1
+sequenciação|secuenciación||S|sci|C1
+desvio padrão|desviación típica||L|sci|C1
+correlação espúria|correlación espuria||L|sci|C1
+nível de significância|nivel de significación||L|sci|C1
+amostragem aleatória estratificada|muestreo aleatorio estratificado||L|sci|C1
+enviesamento|sesgo (estadístico)||S|sci|C1
+inferência estatística|inferencia estadística||L|sci|C1
+letalidade|letalidad||S|sla|C1
+vigilância epidemiológica|vigilancia epidemiológica||L|sla|C1
+cadeia de transmissão|cadena de transmisión||L|sla|C1
+prevalência|prevalencia||S|sla|C1
+rastreio|cribado||S|sla|C1
+orogenia|orogenia||S|sci|C1
+rocha sedimentar|roca sedimentaria||L|nat|C1
+memória coletiva|memoria colectiva||L|att|C1
+tamanho do efeito|tamaño del efecto||L|sci|C1
+incompletude|incompletitud||S|sci|C1
+topologia|topología||S|sci|C1
+derivada parcial|derivada parcial||L|stu|C1
+autovalor|autovalor||S|stu|C1
+falácia|falacia||S|ast|C1
+estilística|estilística||S|let|C1
+intertextualidade|intertextualidad||S|let|C1
+cânone ocidental|canon occidental||L|let|C1
+polissemia|polisemia||S|let|C1
+hermenêutica|hermenéutica||S|let|C1
+diégese|diegesis||S|let|C1
+anáfora|anáfora||S|let|C1
+metonímia|metonimia||S|let|C1
+família monoparental|familia monoparental||L|fam|C1
+decassílabo|decasílabo||S|let|C1
+rima toante|rima asonante||L|let|C1
+focalização|focalización||S|let|C1
+narrador omnisciente|narrador omnisciente||L|let|C1
+analepse|analepsis||S|let|C1
+prolepse|prolepsis||S|let|C1
+pé métrico|pie métrico||L|let|C1
+escansão|escansión||S|let|C1
+sinédoque|sinécdoque||S|let|C1
+catacrese|catacresis||S|let|C1
+hipálage|hipálage||S|let|C1
+quiasmo|quiasmo||S|let|C1
+ironia dramática|ironía dramática||L|let|C1
+catarse|catarsis||S|let|C1
+monólogo interior|monólogo interior||L|let|C1
+alvor|alba||S|let|C1
+soer|soler (uso arcaico)||V|let|C1
+velhaco|bellaco||S|let|C1
+pranto|llanto (poético)||S|let|C1
+dorida|dolorida||A|let|C1
+lânguido|lánguido||A|let|C1
+fugaz|fugaz||A|let|C1
+formosura|belleza (poético)||S|let|C1
+ermo|yermo||S|let|C1
+outeiro|otero||S|let|C1
+fraga|despeñadero||S|nat|C1
+soalheiro|soleado||A|nat|C1
+menestrel|menestrel||S|let|C1
+donzela|doncella||S|let|C1
+galeão|galeón||S|let|C1
+corcel|corcel||S|let|C1
+ceticismo metodológico|escepticismo metodológico||L|ast|C1
+falibilismo|falibilismo||S|ast|C1
+intencionalidade|intencionalidad||S|ast|C1
+a priori|a priori||L|ast|C1
+critério de demarcação|criterio de demarcación||L|ast|C1
+ente|ente||S|ast|C1
+sublime|lo sublime||S|ast|C1
+juízo estético|juicio estético||L|ast|C1
+ontológico|ontológico||A|ast|C1
+aporeia|aporía||S|ast|C1
+virtude cardinal|virtud cardinal||L|ast|C1
+imputabilidade|imputabilidad||S|ast|C1
+sui generis|sui generis||L|ast|C1
+ad hominem|ad hominem||L|ast|C1
+grosso modo|grosso modo||L|ast|C1
+a fortiori|a fortiori||L|ast|C1
+ethos|ethos||S|ast|C1
+axioma|axioma||S|ast|C1
+fonte primária|fuente primaria||L|stu|C1
+revisionismo histórico|revisionismo histórico||L|stu|C1
+longa duração|larga duración||L|stu|C1
+historiografia|historiografía||S|stu|C1
+estruturalismo|estructuralismo||S|stu|C1
+fonologia|fonología||S|stu|C1
+sintagma nominal|sintagma nominal||L|stu|C1
+variação diatópica|variación diatópica||L|stu|C1
+etimologia popular|etimología popular||L|stu|C1
+diglossia|diglosia||S|stu|C1
+calão|jerga, argot||S|cmu|C1
+recalque|represión||S|ast|C1
+pulsão de morte|pulsión de muerte||L|ast|C1
+sublimação|sublimación||S|ast|C1
+contratransferência|contratransferencia||S|ast|C1
+paleografia|paleografía||S|stu|C1
+codicologia|codicología||S|stu|C1
+crítica textual|crítica textual||L|let|C1
+esfera de influência|esfera de influencia||L|att|C1
+Estado falhado|Estado fallido||L|att|C1
+cordão sanitário|cordón sanitario||L|att|C1
+dissuasão nuclear|disuasión nuclear||L|att|C1
+geoestratégia|geoestrategia||S|att|C1
+governança|gobernanza||S|ist|C1
+prestação de contas|rendición de cuentas||L|ist|C1
+janela de oportunidade|ventana de oportunidad||L|ist|C1
+subsidiariedade|subsidiariedad||S|ist|C1
+estratificação social|estratificación social||L|att|C1
+anomia|anomia||S|att|C1
+aculturação|aculturación||S|att|C1
+sociabilidade|sociabilidad||S|att|C1
+etnocentrismo|etnocentrismo||S|att|C1
+ritos de passagem|ritos de paso||L|att|C1
+exogamia|exogamia||S|att|C1
+cosmovisão|cosmovisión||S|att|C1
+xamânico|chamánico||A|att|C1
+escuta telefónica|escucha telefónica||L|cmu|C1
+denunciante|denunciante (delator)||S|pro|C1
+direito de resposta|derecho de réplica||L|cmu|C1
+cláusula de consciência|cláusula de conciencia||L|cmu|C1
+desinformação|desinformación||S|cmu|C1
+sondagem de opinião|encuesta de opinión||L|att|C1
+compasso binário|compás binario||L|mus|C1
+nupcialidade|nupcialidad||S|att|C1
+contraponto|contrapunto||S|mus|C1
+apojadura|apoyatura||S|mus|C1
+recitativo|recitativo||S|mus|C1
+restauro|restauración||S|art|C1
+camada pictórica|capa pictórica||L|art|C1
+museografia|museografía||S|art|C1
+craquelado|craquelado||S|art|C1
+proveniência da obra|procedencia de la obra||L|art|C1
+vanguarda histórica|vanguardia histórica||L|art|C1
+gestualidade|gestualidad||S|art|C1
+abstracionismo|abstraccionismo||S|art|C1
+figuração|figuración||S|art|C1
+sinestesia|sinestesia||S|art|C1
+iconografia religiosa|iconografía religiosa||L|art|C1
+heráldica|heráldica||S|art|C1
+iconoclastia|iconoclastia||S|art|C1
+mandorla|mandorla||S|art|C1
+retábulo|retablo||S|art|C1
+ourivesaria|orfebrería||S|art|C1
+talha dourada|retablo dorado||L|art|C1
+aprendizagem automática|aprendizaje automático||L|tec|C1
+rede neural profunda|red neuronal profunda||L|tec|C1
+aprendizagem por reforço|aprendizaje por refuerzo||L|tec|C1
+privacidade diferencial|privacidad diferencial||L|tec|C1
+enviesamento algorítmico|sesgo algorítmico||L|tec|C1
+cifra de bloco|cifrado de bloques||L|tec|C1
+função hash|función hash||L|tec|C1
+ataque de força bruta|ataque de fuerza bruta||L|tec|C1
+injeção de código|inyección de código||L|tec|C1
+autenticação multifator|autenticación multifactor||L|tec|C1
+latência|latencia||S|tec|C1
+comutação de pacotes|conmutación de paquetes||L|tec|C1
+fissão nuclear|fisión nuclear||L|tec|C1
+resíduo radioativo|residuo radiactivo||S|tec|C1
+blindagem neutrónica|blindaje neutrónico||L|tec|C1
+enriquecimento de urânio|enriquecimiento de uranio||L|tec|C1
+empuxo|empuje||S|tec|C1
+lixo espacial|basura espacial||L|tec|C1
+reentrada atmosférica|reentrada atmosférica||L|tec|C1
+envelope de voo|envolvente de vuelo||L|tec|C1
+aerodinâmica|aerodinámica||S|tec|C1
+combustível criogénico|combustible criogénico||L|tec|C1
+atuador|actuador||S|tec|C1
+manipulador robótico|manipulador robótico||L|tec|C1
+visão computacional|visión artificial||L|tec|C1
+servomecanismo|servomecanismo||S|tec|C1
+variabilidade interanual|variabilidad interanual||L|nat|C1
+forçamento radiativo|forzamiento radiativo||L|sci|C1
+aridificação|aridificación||S|nat|C1
+anomalia térmica|anomalía térmica||L|nat|C1
+talude continental|talud continental||L|nat|C1
+efemeridade|efemeridad||S|tmp|C1
+maré viva|marea viva||L|nat|C1
+acidificação dos oceanos|acidificación de los océanos||L|nat|C1
+corrente de ressurgência|corriente de afloramiento||L|nat|C1
+princípio do poluidor-pagador|principio de quien contamina paga||L|ist|C1
+estudo de impacto ambiental|evaluación de impacto ambiental||L|ist|C1
+licença ambiental|licencia ambiental||L|ist|C1
+crime ecológico|delito ecológico||L|ist|C1
+lagoa costeira|albufera||S|nat|C1
+zona húmida|zona húmeda||L|nat|C1
+eutrofização|eutrofización||S|nat|C1
+gajo|tío, tipo (argot)||S|cmu|C1
+bufo|gracioso (argot)||A|cmu|C1
+lambe-botas|pelota, adulador||S|cmu|C1
+basbaque|pasmado, aturdido||S|cmu|C1
+nabo|paquete, inútil (argot)||S|cmu|C1
+malta|pandilla, peña||S|cmu|C1
+gaiteiro|gaitero||S|mus|C1
+espigueiro|hórreo||S|cas|C1
+eirado|azotea||S|cas|C1
+lagar de azeite|almazara||L|ali|C1
+gandulo|granuja, chiquillo||S|cmu|C1
+desassossego|desasosiego||S|emo|C1
+desalento|desánimo||S|emo|C1
+plangente|plañidero||A|emo|C1
+enlevo|arrobamiento||S|emo|C1
+inquietação|inquietud||S|emo|C1
+despeito|despecho||S|emo|C1
+desavença|desacuerdo, disputa||S|rel|C1
+lisonja|lisonja||S|cmu|C1
+desafeto|desafecto||S|rel|C1
+acerto de contas|ajuste de cuentas||L|rel|C1
+sobrentendido|sobreentendido||S|cmu|C1
+quadro de pessoal|plantilla||L|lav|C1
+delegação de competências|delegación de competencias||L|lav|C1
+rotação de pessoal|rotación de personal||L|lav|C1
+clima organizacional|clima organizacional||L|lav|C1
+assédio moral|acoso laboral||L|lav|C1
+avaliação de desempenho|evaluación del desempeño||L|lav|C1
+absenteísmo|absentismo||S|lav|C1
+aprendizagem significativa|aprendizaje significativo||L|stu|C1
+avaliação formativa|evaluación formativa||L|stu|C1
+currículo oculto|currículo oculto||L|stu|C1
+desistência escolar|abandono escolar||L|stu|C1
+função executiva|función ejecutiva||L|sci|C1
+teoria da mente|teoría de la mente||L|sci|C1
+psicopedagogia|psicopedagogía||S|stu|C1
+reestruturação cognitiva|reestructuración cognitiva||L|sla|C1
+esgotamento profissional|desgaste profesional (burnout)||L|sla|C1
+encenação|puesta en escena||S|art|C1
+plano-sequência|plano secuencia||S|cin|C1
+montagem paralela|montaje paralelo||L|cin|C1
+fora de campo|fuera de campo||L|cin|C1
+metragem|metraje||S|cin|C1
+malha urbana|trama urbana||L|cit|C1
+azulejaria|arte del azulejo||S|art|C1
+quarteirão|manzana||S|cit|C1
+emulsão|emulsión||S|ali|C1
+etograma|etograma||S|ani|C1
+nidícola|nidícola||A|ani|C1

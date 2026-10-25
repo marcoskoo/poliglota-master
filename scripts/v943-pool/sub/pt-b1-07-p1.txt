@@ -1,0 +1,246 @@
+adolescência|adolescencia||S|fam|B1
+nascimento|nacimiento||S|fam|B1
+sogra|suegra||S|fam|B1
+genro|yerno||S|fam|B1
+nora|nuera||S|fam|B1
+descendente|descendiente||S|fam|B1
+tio-avô|tío abuelo||S|fam|B1
+herança familiar|herencia familiar||L|fam|B1
+desacordo|desacuerdo||S|fam|B1
+discutir|discutir (pelearse)||V|fam|B1
+educar|educar||V|fam|B1
+castigo|castigo||S|fam|B1
+desobedecer|desobedecer||V|fam|B1
+filho único|hijo único||L|fam|B1
+ralhar|reñir (regañar)||V|fam|B1
+arrendamento|alquiler||S|cas|B1
+senhorio|casero||S|cas|B1
+inquilino|inquilino||S|cas|B1
+caução|fianza||S|cas|B1
+mudança|mudanza||S|cas|B1
+contrato de arrendamento|contrato de alquiler||L|cas|B1
+rescindir|rescindir||V|cas|B1
+renda|alquiler mensual||S|cas|B1
+pedreiro|albañil||S|cas|B1
+canalizador|fontanero||S|cas|B1
+azulejo|azulejo||S|cas|B1
+soalho|suelo de madera||S|cas|B1
+estante|estantería||S|cas|B1
+cortinado|cortina||S|cas|B1
+decoração|decoración||S|cas|B1
+empreiteiro|constructor||S|cas|B1
+petisco|tapa||S|ali|B1
+doçaria|repostería||S|ali|B1
+confeccionar|elaborar platos||V|ali|B1
+especiaria|especia||S|ali|B1
+iguaria|manjar||S|ali|B1
+tempero|condimento||S|ali|B1
+azeite|aceite de oliva||S|ali|B1
+intolerância à lactose|intolerancia a la lactosa||L|sla|B1
+celíaco|celíaco||A|sla|B1
+vegetarianismo|vegetarianismo||S|sla|B1
+nutricionista|nutricionista||S|pro|B1
+alimentação equilibrada|alimentación equilibrada||L|ali|B1
+engordar|engordar||V|sla|B1
+emagrecer|adelgazar||V|sla|B1
+dieta mediterrânica|dieta mediterránea||L|sla|B1
+sushi|sushi||S|ali|B1
+curry|curry||S|ali|B1
+prato principal|plato principal||L|ali|B1
+prato do dia|plato del día||L|ris|B1
+acompanhamento|guarnición||S|ris|B1
+especialidade da casa|especialidad de la casa||L|ris|B1
+cozinha de fusão|cocina fusión||L|ali|B1
+prova de vinhos|cata de vinos||L|ali|B1
+vinho verde|vino verde joven||L|ali|B1
+casta|variedad de uva||S|ali|B1
+cafeína|cafeína||S|ali|B1
+descafeinado|descafeinado||S|ali|B1
+paladar|paladar||S|ali|B1
+adega|bodega||S|ali|B1
+publicidade|publicidad||S|cmp|B1
+anúncio publicitário|anuncio publicitario||L|cmp|B1
+campanha|campaña||S|cmp|B1
+promoção|promoción (oferta)||S|cmp|B1
+consumidor|consumidor||S|cmp|B1
+compra por impulso|compra por impulso||L|cmp|B1
+fidelizar|fidelizar||V|cmp|B1
+devolução|devolución||S|cmp|B1
+recibo|recibo||S|cmp|B1
+garantia|garantía||S|cmp|B1
+troca|cambio de producto||S|cmp|B1
+reclamar|reclamar||V|cmp|B1
+livro de reclamações|libro de reclamaciones||L|cmp|B1
+defeito|defecto||S|cmp|B1
+reembolso|reembolso||S|cmp|B1
+loja online|tienda online||L|cmp|B1
+carrinho de compras|carrito de la compra||L|cmp|B1
+portes de envio|gastos de envío||L|cmp|B1
+encomenda|pedido (paquete)||S|cmp|B1
+seguimento do pedido|seguimiento del pedido||L|cmp|B1
+avaliação|valoración (opinión)||S|cmp|B1
+devolver|devolver||V|cmp|B1
+pagamento na entrega|pago contra reembolso||L|cmp|B1
+multa|multa||S|tra|B1
+infração|infracción||S|tra|B1
+alcoolémia|tasa de alcoholemia||S|tra|B1
+avaria|avería||S|tra|B1
+pneu furado|neumático pinchado||L|tra|B1
+rebocar|remolcar||V|tra|B1
+rotunda|rotonda||S|tra|B1
+mobilidade sustentável|movilidad sostenible||L|tra|B1
+transporte público|transporte público||L|tra|B1
+cartão de transporte|abono de transporte||L|tra|B1
+bicicleta partilhada|bicicleta compartida||L|tra|B1
+passadeira|paso de peatones||S|tra|B1
+trotinete|patinete||S|tra|B1
+portagem|peaje||S|tra|B1
+deslocação|desplazamiento||S|vig|B1
+voo de ligação|vuelo de conexión||L|vig|B1
+escala|escala||S|vig|B1
+bagagem de mão|equipaje de mano||L|vig|B1
+atraso|retraso||S|vig|B1
+seguro de viagem|seguro de viaje||L|vig|B1
+despesas de viagem|gastos de viaje||L|vig|B1
+visto de residência|visado de residencia||L|vig|B1
+fronteira|frontera||S|vig|B1
+controlo de fronteiras|control de fronteras||L|vig|B1
+passaporte|pasaporte||S|vig|B1
+alfândega|aduana||S|vig|B1
+autorização de trabalho|permiso de trabajo||L|lav|B1
+cidadania|ciudadanía||S|ist|B1
+pensão completa|pensión completa||L|htl|B1
+meia pensão|media pensión||L|htl|B1
+pequeno-almoço incluído|desayuno incluido||L|htl|B1
+alojamento|alojamiento||S|htl|B1
+hotel de cinco estrelas|hotel de cinco estrellas||L|htl|B1
+quarto duplo|habitación doble||L|htl|B1
+receção|recepción||S|htl|B1
+prevenção|prevención||S|sla|B1
+rastreio|cribado||S|sla|B1
+vacina|vacuna||S|sla|B1
+sedentarismo|sedentarismo||S|sla|B1
+estilo de vida|estilo de vida||L|sla|B1
+moderação|moderación||S|sla|B1
+análise ao sangue|análisis de sangre||L|sla|B1
+seguro de saúde|seguro de salud||L|sla|B1
+serviço nacional de saúde|sanidad pública||L|sla|B1
+marcar uma consulta|pedir cita médica||L|sla|B1
+urgência|urgencias||S|sla|B1
+receita|receta médica||S|sla|B1
+utente|usuario (paciente)||S|sla|B1
+taxa moderadora|copago sanitario||L|sla|B1
+bem-estar|bienestar||S|sla|B1
+ansiedade|ansiedad||S|emo|B1
+meditação|meditación||S|sla|B1
+psicólogo|psicólogo||S|pro|B1
+terapia|terapia||S|sla|B1
+stresse|estrés||S|emo|B1
+candidatura|candidatura||S|lav|B1
+carta de motivação|carta de motivación||L|lav|B1
+currículo|currículum||S|lav|B1
+oferta de emprego|oferta de empleo||L|lav|B1
+anúncio de emprego|anuncio de empleo||L|lav|B1
+experiência profissional|experiencia profesional||L|lav|B1
+candidatar-se|presentarse a un puesto||V|lav|B1
+entrevistador|entrevistador||S|lav|B1
+contratar|contratar||V|lav|B1
+contrato de trabalho|contrato de trabajo||L|lav|B1
+salário|salario||S|lav|B1
+período experimental|período de prueba||L|lav|B1
+pontos fortes|puntos fuertes||L|lav|B1
+ascensão|ascenso||S|lav|B1
+carreira|carrera profesional||S|lav|B1
+demitir-se|dimitir||V|lav|B1
+aumento salarial|subida salarial||L|lav|B1
+aposentar-se|jubilarse||V|fin|B1
+desempregado|parado||S|lav|B1
+baixa médica|baja médica||L|sla|B1
+reunião de equipa|reunión de equipo||L|lav|B1
+ordem do dia|orden del día||L|lav|B1
+ata de reunião|acta de reunión||L|lav|B1
+colaboração|colaboración||S|lav|B1
+delegar|delegar||V|lav|B1
+tomada de decisão|toma de decisiones||L|lav|B1
+direitos laborais|derechos laborales||L|lav|B1
+sindicato|sindicato||S|ist|B1
+greve|huelga||S|lav|B1
+negociação coletiva|negociación colectiva||L|lav|B1
+subsídio de desemprego|subsidio por desempleo||L|lav|B1
+flexibilidade horária|flexibilidad horaria||L|lav|B1
+patrão|jefe||S|lav|B1
+exame final|examen final||L|stu|B1
+aprovar|aprobar||V|stu|B1
+reprovar|suspender un examen||V|stu|B1
+certificado|certificado||S|stu|B1
+certificado de habilitações|título académico||L|stu|B1
+época de exames|convocatoria de exámenes||L|stu|B1
+bolsa de estudo|beca de estudios||L|stu|B1
+campus|campus||S|stu|B1
+faculdade|facultad||S|stu|B1
+residência universitária|residencia de estudiantes||L|stu|B1
+matrícula|matrícula||S|stu|B1
+propinas|tasas universitarias||S|stu|B1
+cadeira|asignatura||S|stu|B1
+sublinhar|subrayar||V|stu|B1
+memorizar|memorizar||V|stu|B1
+resumir|resumir||V|stu|B1
+fazer um resumo|hacer un resumen||L|stu|B1
+aprendizagem|aprendizaje||S|stu|B1
+aplicado|aplicado (estudioso)||A|stu|B1
+distração|distracción||S|stu|B1
+trânsito|tráfico||S|cit|B1
+buraco na estrada|bache||L|cit|B1
+estacionamento|aparcamiento||S|cit|B1
+centro histórico|casco antiguo||L|cit|B1
+periferia|periferia||S|cit|B1
+poluição sonora|contaminación acústica||L|cit|B1
+passeio|acera||S|cit|B1
+câmara municipal|ayuntamiento||S|ist|B1
+freguesia|distrito municipal||S|ist|B1
+atendimento ao público|atención al público||L|ist|B1
+cartão de cidadão|documento de identidad||L|ist|B1
+recolha de lixo|recogida de basuras||L|cit|B1
+registo civil|registro civil||L|ist|B1
+alterações climáticas|cambio climático||L|cli|B1
+aquecimento global|calentamiento global||L|cli|B1
+incêndio florestal|incendio forestal||L|nat|B1
+cheia|crecida (inundación)||S|nat|B1
+seca|sequía||S|nat|B1
+sismo|terremoto||S|nat|B1
+vaga de calor|ola de calor||L|cli|B1
+derreter|derretirse||V|cli|B1
+tendência|tendencia||S|rop|B1
+coleção|colección||S|rop|B1
+desfile de moda|desfile de moda||L|rop|B1
+salto alto|tacón de aguja||L|rop|B1
+vestuário|vestimenta||S|rop|B1
+armarinho|mercería||S|rop|B1
+roupa usada|ropa de segunda mano||L|rop|B1
+rede social|red social||L|tec|B1
+notificação|notificación||S|tec|B1
+comentar|comentar||V|tec|B1
+perfil|perfil||S|tec|B1
+influenciador|influencer||S|tec|B1
+partilha|compartición||S|tec|B1
+privacidade|privacidad||S|tec|B1
+senha|contraseña||S|tec|B1
+piratear|piratear||V|tec|B1
+vírus informático|virus informático||L|tec|B1
+dados pessoais|datos personales||L|tec|B1
+cópia de segurança|copia de seguridad||L|tec|B1
+fraude eletrónica|fraude electrónico||L|tec|B1
+programador|programador||S|pro|B1
+programação|programación||S|tec|B1
+aplicação|aplicación||S|tec|B1
+informático|informático||A|tec|B1
+atualização|actualización||S|tec|B1
+descarregar|descargar||V|tec|B1
+falha no sistema|fallo del sistema||L|tec|B1
+competição|competición||S|spt|B1
+treinador|entrenador||S|spt|B1
+campeonato|campeonato||S|spt|B1
+meia-final|semifinal||S|spt|B1
+eliminatória|eliminatoria||S|spt|B1
+patrocinador|patrocinador||S|spt|B1
+recorde|récord||S|spt|B1

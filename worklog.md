@@ -2898,3 +2898,44 @@ Work Log:
 - generado fr-b2-04-p*.txt con 858 entradas · awk OK · dup OK
 Stage Summary:
 - fr-b2-04: 858 entradas B2 de francés
+---
+Task ID: v9.43/final/pt-c1-13
+Agent: subagent
+Task: lexicón PT C1 job pt-c1-13
+Work Log:
+- generado pt-c1-13-p*.txt con 657 entradas · awk OK · dup OK
+Stage Summary:
+- pt-c1-13: 657 entradas C1 de portugués
+
+---
+Task ID: v9.43/final/pt-b2-05
+Agent: subagent
+Task: lexicón PT B2 job pt-b2-05
+Work Log:
+- generado pt-b2-05-p*.txt con 849 entradas · awk OK · dup OK
+Stage Summary:
+- pt-b2-05: 849 entradas B2 de portugués
+---
+Task ID: v9.43/final/pt-b2-06
+Agent: subagent
+Task: lexicón PT B2 job pt-b2-06
+Work Log:
+- generado pt-b2-06-p1/p2/p3.txt con 849 entradas (283 c/u) · awk OK (6 campos, campo 3 vacío, nivel B2) · dup OK (1 dup "registo" detectado y corregido) · códigos tipo/categoría validados
+Stage Summary:
+- pt-b2-06: 849 entradas B2 de portugués de Portugal (27 subtemas: ciencia, literatura, anatomía, fauna, conservación, ecología, meteorología, tiempo, ocio, juegos, psicología, debate, presentaciones, negociación, justicia, administración, elecciones, conectores, abstractos, arte, arquitectura, vecinos, nutrición, trenes, primeros auxilios, teletrabajo, formación)
+---
+Task ID: v9.43/final/pt-b1-07
+Agent: subagent
+Task: lexicón PT B1 job pt-b1-07
+Work Log:
+- generado pt-b1-07-p*.txt con 736 entradas · awk OK · dup OK
+Stage Summary:
+- pt-b1-07: 736 entradas B1 de portugués
+---
+Task ID: v9.43/final/pt-c2-20
+Agent: subagent
+Task: lexicón PT C2 job pt-c2-20 (retry)
+Work Log:
+- generado pt-c2-20-p1..p4.txt con 1174 entradas · awk OK (6 campos, sin errores) · dup OK (sin duplicados)
+Stage Summary:
+- pt-c2-20: 1174 entradas C2 de portugués (PT-PT) repartidas por los 83 subtemas del job (jurídico, médico-científico, financiero, humanístico, coloquial/regional)

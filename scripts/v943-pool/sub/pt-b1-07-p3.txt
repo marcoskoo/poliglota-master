@@ -1,0 +1,244 @@
+apesar de|a pesar de||C|cnn|B1
+justiça|justicia||S|ast|B1
+verdade|verdad||S|ast|B1
+beleza|belleza||S|ast|B1
+liberdade|libertad||S|ast|B1
+dignidade|dignidad||S|ast|B1
+igualdade|igualdad||S|ast|B1
+virtude|virtud||S|ast|B1
+renascimento|renacimiento||S|art|B1
+barroco|barroco||S|art|B1
+impressionismo|impresionismo||S|art|B1
+vanguarda|vanguardia||S|art|B1
+curador|comisario de exposición||S|art|B1
+obra de arte|obra de arte||L|art|B1
+retrato|retrato||S|art|B1
+património|patrimonio||S|art|B1
+fachada|fachada||S|art|B1
+cúpula|cúpula||S|art|B1
+claustro|claustro||S|art|B1
+azulejaria|azulejería||S|art|B1
+ruínas|ruinas||S|art|B1
+arquitetura|arquitectura||S|art|B1
+condomínio|comunidad de vecinos||S|cit|B1
+assembleia de condóminos|junta de propietarios||L|cit|B1
+prédio|edificio||S|cas|B1
+portaria|conserjería||S|cas|B1
+arrendatário|arrendatario||S|cas|B1
+bairro residencial|barrio residencial||L|cit|B1
+rótulo|etiqueta||S|ali|B1
+valor nutricional|valor nutricional||L|ali|B1
+conservante|conservante||S|ali|B1
+açúcar adicionado|azúcares añadidos||L|ali|B1
+corante|colorante||S|ali|B1
+data de validade|fecha de caducidad||L|ali|B1
+produto processado|producto procesado||L|ali|B1
+bilhete de comboio|billete de tren||L|tra|B1
+comboio|tren||S|tra|B1
+carruagem|vagón||S|tra|B1
+lugar reservado|asiento reservado||L|tra|B1
+apeadeiro|apeadero||S|tra|B1
+ida e volta|ida y vuelta||L|tra|B1
+plataforma|andén||S|tra|B1
+hemorragia|hemorragia||S|sla|B1
+penso rápido|tirita||L|sla|B1
+desmaiar|desmayarse||V|sla|B1
+queimadura|quemadura||S|sla|B1
+fratura|fractura||S|sla|B1
+primeiros socorros|primeros auxilios||L|sla|B1
+imobilizar|inmovilizar||V|sla|B1
+teletrabalho|teletrabajo||S|lav|B1
+conciliação|conciliación (familiar)||S|lav|B1
+trabalhar à distância|trabajar a distancia||L|lav|B1
+videoconferência|videoconferencia||S|tec|B1
+pausa para o almoço|pausa para comer||L|lav|B1
+desligar|desconectar||V|lav|B1
+formação profissional|formación profesional||L|lav|B1
+curso de formação|curso de formación||L|lav|B1
+aperfeiçoar|perfeccionar||V|lav|B1
+competências|competencias||S|lav|B1
+seminário|seminario||S|stu|B1
+progressão na carreira|progresión profesional||L|lav|B1
+intercâmbio|intercambio||S|stu|B1
+estudar no estrangeiro|estudiar en el extranjero||L|stu|B1
+bolseiro|becario||S|stu|B1
+ano letivo|curso académico||L|stu|B1
+adaptação|adaptación||S|stu|B1
+adquirir|adquirir||V|cas|B1
+imóvel|inmueble||S|cas|B1
+escritura|escritura (notarial)||S|fin|B1
+agência imobiliária|inmobiliaria||L|cas|B1
+valorização|revalorización||S|fin|B1
+sinal|señal (pago inicial)||S|fin|B1
+compra online|compra online||L|cmp|B1
+confirmar a encomenda|confirmar el pedido||L|cmp|B1
+opinião verificada|opinión verificada||L|cmp|B1
+saldo|rebajas||S|cmp|B1
+portes grátis|envío gratuito||L|cmp|B1
+recomendar|recomendar||V|cmp|B1
+telemóvel|móvil||S|tec|B1
+carregador|cargador||S|tec|B1
+ecrã|pantalla||S|tec|B1
+carregar a bateria|cargar la batería||L|tec|B1
+dados móveis|datos móviles||L|tec|B1
+desbloquear|desbloquear||V|tec|B1
+praticar desporto|hacer deporte||L|spt|B1
+equipamento desportivo|equipamiento deportivo||L|spt|B1
+ginásio|gimnasio||S|spt|B1
+treino de força|entrenamiento de fuerza||L|spt|B1
+corrida de rua|carrera popular||L|spt|B1
+hidratação|hidratación||S|sla|B1
+concerto ao vivo|concierto en directo||L|mus|B1
+fã-clube|club de fans||L|mus|B1
+esgotado|agotado (entradas)||A|mus|B1
+digressão|gira (de conciertos)||S|mus|B1
+banda|banda (grupo)||S|mus|B1
+álbum|álbum||S|mus|B1
+série de televisão|serie de televisión||L|cin|B1
+episódio|episodio||S|cin|B1
+temporada|temporada||S|cin|B1
+legendas|subtítulos||S|cin|B1
+dobrado|doblado||A|cin|B1
+plataforma de subscrição|plataforma de suscripción||L|cin|B1
+casamento|boda||S|rel|B1
+noivado|compromiso (de boda)||S|rel|B1
+noivo|novio||S|rel|B1
+lista de casamentos|lista de bodas||L|rel|B1
+lua de mel|luna de miel||L|rel|B1
+celebração|celebración||S|rel|B1
+despesa|gasto||S|fin|B1
+orçamento|presupuesto||S|fin|B1
+gastar|gastar||V|fin|B1
+gorjeta|propina||S|fin|B1
+extrato|extracto de cuenta||S|fin|B1
+levantar dinheiro|sacar dinero||L|fin|B1
+golpe|timo||S|fin|B1
+garoto|café con un poco de leche||S|ris|B1
+galão|café con leche (en vaso)||S|ris|B1
+meia de leite|café con leche||S|ris|B1
+pastelaria|pastelería||S|ris|B1
+brunch|brunch||S|ris|B1
+torrada|tostada||S|ris|B1
+pastel de nata|pastel de nata||L|ris|B1
+acidente|accidente||S|att|B1
+fuga de gás|fuga de gas||L|att|B1
+desaparecido|desaparecido||S|att|B1
+vandalismo|vandalismo||S|att|B1
+número de emergência|número de emergencia||L|att|B1
+assalto à mão armada|atraco a mano armada||L|att|B1
+curiosidade|curiosidad||S|sci|B1
+descoberta|descubrimiento||S|sci|B1
+expedição científica|expedición científica||L|sci|B1
+teoria da evolução|teoría de la evolución||L|sci|B1
+espécie|especie||S|sci|B1
+invenção|invención||S|sci|B1
+livro de cabeceira|libro de cabecera||L|let|B1
+clube de leitura|club de lectura||L|let|B1
+capa|portada||S|let|B1
+edição de bolso|edición de bolsillo||L|let|B1
+romancista|novelista||S|let|B1
+policial|novela policíaca||S|let|B1
+prefácio|prólogo||S|let|B1
+caminhada|marcha (senderismo)||S|nat|B1
+trilho|sendero||S|nat|B1
+parque de campismo|camping||L|nat|B1
+bota de caminhada|bota de senderismo||L|nat|B1
+miradouro|mirador||S|nat|B1
+piquenique|pícnic||S|sve|B1
+fauna|fauna||S|ani|B1
+escapadinha|escapada (de fin de semana)||S|vig|B1
+roteiro turístico|ruta turística||L|vig|B1
+visita guiada|visita guiada||L|vig|B1
+centro cultural|centro cultural||L|art|B1
+ponto de interesse|punto de interés||L|vig|B1
+fim de semana prolongado|puente (festivo)||L|vig|B1
+autoestima|autoestima||S|emo|B1
+hábito|hábito||S|emo|B1
+crescimento pessoal|crecimiento personal||L|emo|B1
+disciplina|disciplina||S|emo|B1
+autoconhecimento|autoconocimiento||S|emo|B1
+atitude|actitud||S|emo|B1
+queixar-se|quejarse||V|cmu|B1
+reclamação|reclamación||S|cmu|B1
+pedir desculpa|pedir disculpas||L|cmu|B1
+mal-entendido|malentendido||S|cmu|B1
+não tem importância|no importa||E|cmu|B1
+incomodar|molestar||V|cmu|B1
+confundir|confundir||V|cmu|B1
+certidão|certificación||S|ist|B1
+agendar|pedir cita||V|ist|B1
+impresso|impreso (formulario)||S|ist|B1
+número de contribuinte|número de identificación fiscal||L|ist|B1
+assinar|firmar||V|ist|B1
+fotocópia|fotocopia||S|ist|B1
+talão|resguardo||S|ist|B1
+enfim|en fin||C|cnn|B1
+isto é|es decir||L|cnn|B1
+na verdade|en realidad||L|cnn|B1
+pelo contrário|al contrario||L|cnn|B1
+a propósito|por cierto||L|cnn|B1
+de qualquer forma|de todos modos||L|cnn|B1
+azar|mala suerte||S|ast|B1
+mudar|mudarse (cambiar)||V|ast|B1
+destino|destino||S|ast|B1
+ocasião|ocasión||S|ast|B1
+instante|instante||S|tmp|B1
+rotina|rutina||S|tmp|B1
+coincidência|coincidencia||S|ast|B1
+exposição temporária|exposición temporal||L|art|B1
+entrada gratuita|entrada gratuita||L|art|B1
+coleção permanente|colección permanente||L|art|B1
+visitante|visitante||S|art|B1
+audioguia|audioguía||S|art|B1
+sala de exposições|sala de exposiciones||L|art|B1
+embarque|embarque||S|vig|B1
+portão de embarque|puerta de embarque||L|vig|B1
+partida|salida (vuelo)||S|vig|B1
+aterrissagem|aterrizaje||S|vig|B1
+detector de metais|detector de metales||L|vig|B1
+despacho de bagagem|facturación de equipaje||L|vig|B1
+queixa|queja||S|htl|B1
+ar condicionado|aire acondicionado||L|htl|B1
+roupa de cama|ropa de cama||L|htl|B1
+serviço de quartos|servicio de habitaciones||L|htl|B1
+ruidoso|ruidoso||A|htl|B1
+sem água quente|sin agua caliente||L|htl|B1
+entrevistado|entrevistado||S|lav|B1
+novato|novato||S|lav|B1
+integrar-se na equipa|integrarse en el equipo||L|lav|B1
+função|función (puesto)||S|lav|B1
+superior hierárquico|superior jerárquico||L|lav|B1
+tarefa|tarea||S|lav|B1
+geração|generación||S|fam|B1
+recordação|recuerdo||S|tmp|B1
+saudade|añoranza||S|emo|B1
+antigamente|antiguamente||D|tmp|B1
+anedota|anécdota||S|cmu|B1
+naquela altura|en aquella época||L|tmp|B1
+juventude|juventud||S|tmp|B1
+insónia|insomnio||S|sla|B1
+adormecer|quedarse dormido||V|sla|B1
+cochilo|cabezadita||S|sla|B1
+rotina de sono|rutina de sueño||L|sla|B1
+exaustão|agotamiento||S|sla|B1
+vida saudável|vida saludable||L|sla|B1
+encontro|cita (encuentro)||S|rel|B1
+desmarcar|anular (una cita)||V|cmu|B1
+combinar|quedar (concertar)||V|cmu|B1
+atrasar|retrasar||V|tmp|B1
+furar|plantar (fallar a una cita)||V|rel|B1
+de última hora|de última hora||L|tmp|B1
+animal de estimação|mascota||L|ani|B1
+veterinário|veterinario||S|pro|B1
+vacinar|vacunar||V|ani|B1
+ração|pienso||S|ani|B1
+coleira|collar||S|ani|B1
+adestrar|adiestrar||V|ani|B1
+tosquiar|esquilar||V|ani|B1
+aplicação de transportes|aplicación de transporte||L|tra|B1
+condutor|conductor||S|tra|B1
+passageiro|pasajero||S|tra|B1
+carro elétrico|coche elétrico||L|tra|B1
+hora de ponta|hora punta||L|tra|B1
+combustível|combustible||S|tra|B1
+desconto|descuento||S|cmp|B1

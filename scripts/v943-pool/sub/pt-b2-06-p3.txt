@@ -1,0 +1,283 @@
+justiça|justicia||S|ast|B2
+verdadeiro|verdadero||A|ast|B2
+veracidade|veracidad||S|ast|B2
+falsidade|falsedad||S|ast|B2
+beleza|belleza||S|ast|B2
+estética|estética||S|ast|B2
+harmonia|armonía||S|ast|B2
+igualdade|igualdad||S|ast|B2
+desigualdade|desigualdad||S|ast|B2
+equidade|equidad||S|ast|B2
+dignidade|dignidad||S|ast|B2
+honra|honor||S|ast|B2
+honestidade|honestidad||S|ast|B2
+integridade|integridad||S|ast|B2
+lealdade|lealtad||S|ast|B2
+virtude|virtud||S|ast|B2
+moral|moral||S|ast|B2
+ética|ética||S|ast|B2
+consciência|conciencia||S|ast|B2
+dever|deber||S|ast|B2
+responsabilidade|responsabilidad||S|ast|B2
+remorso|remordimiento||S|ast|B2
+arrependimento|arrepentimiento||S|ast|B2
+bondade|bondad||S|ast|B2
+maldade|maldad||S|ast|B2
+crueldade|crueldad||S|ast|B2
+generosidade|generosidad||S|ast|B2
+egoísmo|egoísmo||S|ast|B2
+altruísmo|altruismo||S|ast|B2
+tolerância|tolerancia||S|ast|B2
+sabedoria|sabiduría||S|ast|B2
+renascimento|renacimiento||S|art|B2
+barroco|barroco||S|art|B2
+gótico|gótico||A|art|B2
+românico|románico||A|art|B2
+impressionismo|impresionismo||S|art|B2
+expressionismo|expresionismo||S|art|B2
+surrealismo|surrealismo||S|art|B2
+cubismo|cubismo||S|art|B2
+realismo|realismo||S|art|B2
+modernismo|modernismo||S|art|B2
+vanguarda|vanguardia||S|art|B2
+arte abstrata|arte abstracto||S|art|B2
+escultura|escultura||S|art|B2
+pintura|pintura||S|art|B2
+retábulo|retablo||S|art|B2
+vitral|vidriera||S|art|B2
+auto-retrato|autorretrato||S|art|B2
+natureza-morta|bodegón||S|art|B2
+galeria de arte|galería de arte||S|art|B2
+restauro|restauración (de obras de arte)||S|art|B2
+autenticidade|autenticidad||S|art|B2
+falsificação|falsificación||S|art|B2
+originalidade|originalidad||S|art|B2
+pincelada|pincelada||S|art|B2
+traço|trazo||S|art|B2
+claro-escuro|claroscuro||S|art|B2
+perspetiva|perspectiva||S|art|B2
+composição|composición||S|art|B2
+retrospetiva|retrospectiva||S|art|B2
+mecenas|mecenas||S|art|B2
+gravura|grabado||S|art|B2
+arquitetura|arquitectura||S|art|B2
+arquitetónico|arquitectónico||A|art|B2
+património|patrimonio||S|art|B2
+imóvel classificado|inmueble protegido||S|art|B2
+catedral|catedral||S|art|B2
+mosteiro|monasterio||S|art|B2
+convento|convento||S|art|B2
+claustro|claustro||S|art|B2
+cripta|cripta||S|art|B2
+fachada|fachada||S|art|B2
+cúpula|cúpula||S|art|B2
+abóbada|bóveda||S|art|B2
+muralha|muralla||S|art|B2
+ameias|almenas||S|art|B2
+mosaico|mosaico||S|art|B2
+estuque|estuco||S|art|B2
+cantaria|sillería||S|art|B2
+talha dourada|talla dorada||S|art|B2
+remodelação|reforma||S|art|B2
+reabilitação urbana|rehabilitación urbana||S|art|B2
+urbanismo|urbanismo||S|art|B2
+reconstrução|reconstrucción||S|art|B2
+demolição|demolición||S|art|B2
+ruína|ruina||S|art|B2
+centro histórico|casco histórico||S|art|B2
+palácio|palacio||S|art|B2
+betão|hormigón||S|art|B2
+aqueduto|acueducto||S|art|B2
+escadaria|escalinata||S|art|B2
+contraforte|contrafuerte||S|art|B2
+gárgula|gárgola||S|art|B2
+capitel|capitel||S|art|B2
+vizinho|vecino||S|cas|B2
+vizinhança|vecindario||S|cas|B2
+condomínio|comunidad de vecinos||S|cas|B2
+reunião de condóminos|reunión de la comunidad||S|cas|B2
+quota|cuota (de la comunidad)||S|cas|B2
+regulamento|reglamento||S|cas|B2
+poluição sonora|contaminación acústica||S|cas|B2
+rés-do-chão|planta baja||S|cas|B2
+cave|sótano||S|cas|B2
+sótão|desván||S|cas|B2
+portaria|conserjería||S|cas|B2
+recolha seletiva|recogida selectiva||S|cas|B2
+contentor|contenedor||S|cas|B2
+manutenção|mantenimiento||S|cas|B2
+avaria|avería||S|cas|B2
+canalização|fontanería||S|cas|B2
+fuga de água|fuga de agua||S|cas|B2
+infiltração|infiltración||S|cas|B2
+goteira|gotera||S|cas|B2
+canalizador|fontanero||S|pro|B2
+morador|residente||S|cas|B2
+cortesia|cortesía||S|cas|B2
+incómodo|molestia||S|cas|B2
+incomodar|molestar||V|cas|B2
+convívio|convivencia||S|cas|B2
+associação de moradores|asociación de vecinos||S|cas|B2
+senhorio|casero (arrendador)||S|cas|B2
+inquilino|inquilino||S|cas|B2
+caução|fianza||S|cas|B2
+arrendamento|alquiler||S|cas|B2
+contrato de arrendamento|contrato de alquiler||S|cas|B2
+rótulo|etiqueta||S|ali|B2
+rotulagem|etiquetado||S|ali|B2
+informação nutricional|información nutricional||S|ali|B2
+conservante|conservante||S|ali|B2
+corante|colorante||S|ali|B2
+aromatizante|aromatizante||S|ali|B2
+edulcorante|edulcorante||S|ali|B2
+aditivo alimentar|aditivo alimentario||S|ali|B2
+alimento processado|alimento procesado||S|ali|B2
+ultraprocessado|ultraprocesado||A|ali|B2
+embalagem|envase||S|ali|B2
+prazo de validade|fecha de caducidad||S|ali|B2
+traçabilidade|trazabilidad||S|ali|B2
+gordura|grasa||S|ali|B2
+gordura saturada|grasa saturada||S|ali|B2
+açúcar adicionado|azúcares añadidos||S|ali|B2
+fibra alimentar|fibra alimentaria||S|ali|B2
+hidratos de carbono|hidratos de carbono||S|ali|B2
+glúten|gluten||S|ali|B2
+intolerância à lactose|intolerancia a la lactosa||S|ali|B2
+vegano|vegano||S|ali|B2
+biológico|ecológico (orgánico)||A|ali|B2
+agricultura biológica|agricultura ecológica||S|ali|B2
+porção|porción||S|ali|B2
+peso líquido|peso neto||S|ali|B2
+fermentação|fermentación||S|ali|B2
+nutriente|nutriente||S|ali|B2
+equilibrado|equilibrado||A|ali|B2
+emagrecer|adelgazar||V|ali|B2
+obesidade|obesidad||S|sla|B2
+colesterol|colesterol||S|sla|B2
+pressão arterial|presión arterial||S|sla|B2
+comboio|tren||S|tra|B2
+estação de comboios|estación de tren||S|tra|B2
+apeadeiro|apeadero||S|tra|B2
+ida e volta|ida y vuelta||S|tra|B2
+só ida|solo ida||S|tra|B2
+lugar reservado|asiento reservado||S|tra|B2
+vagão|vagón de mercancías||S|tra|B2
+carruagem|coche (de viajeros)||S|tra|B2
+locomotiva|locomotora||S|tra|B2
+maquinista|maquinista||S|pro|B2
+revisor|revisor||S|pro|B2
+transbordo|transbordo||S|tra|B2
+linha férrea|línea férrea||S|tra|B2
+passagem de nível|paso a nivel||S|tra|B2
+máquina de bilhetes|máquina de billetes||S|tra|B2
+primeira classe|primera clase||S|tra|B2
+compartimento|compartimento||S|tra|B2
+liteira|litera||S|tra|B2
+vagão-restaurante|vagón restaurante||S|tra|B2
+longa distância|larga distancia||S|tra|B2
+alta velocidade|alta velocidad||S|tra|B2
+suburbano|de cercanías||A|tra|B2
+validar o bilhete|validar el billete||E|tra|B2
+bagagem de mão|equipaje de mano||S|tra|B2
+reembolso|reembolso||S|tra|B2
+anular|anular (un billete)||V|tra|B2
+passe|abono de transporte||S|tra|B2
+comboio noturno|tren nocturno||S|tra|B2
+itinerário|itinerario||S|tra|B2
+ferrovia|ferrocarril||S|tra|B2
+plataforma|andén||S|tra|B2
+doer|doler||V|sla|B2
+dor|dolor||S|sla|B2
+lesão|lesión||S|sla|B2
+lesionar-se|lesionarse||V|sla|B2
+ferida|herida||S|sla|B2
+hemorragia|hemorragia||S|sla|B2
+hematoma|hematoma||S|sla|B2
+inchaço|hinchazón||S|sla|B2
+entorse|esguince||S|sla|B2
+luxação|luxación||S|sla|B2
+distensão|distensión muscular||S|sla|B2
+cãibra|calambre||S|sla|B2
+queimadura|quemadura||S|sla|B2
+contusão|contusión||S|sla|B2
+tontura|mareo||S|sla|B2
+vertigem|vértigo||S|sla|B2
+náusea|náusea||S|sla|B2
+enjoar|marearse||V|sla|B2
+reanimação|reanimación||S|sla|B2
+desfibrilhador|desfibrilador||S|sla|B2
+primeiros socorros|primeros auxilios||S|sla|B2
+penso rápido|tirita||S|sla|B2
+ligadura|vendaje||S|sla|B2
+gaze|gasa||S|sla|B2
+garrote|torniquete||S|sla|B2
+imobilizar|inmovilizar||V|sla|B2
+gesso|escayola||S|sla|B2
+muletas|muletas||S|sla|B2
+urgência|urgencia||S|sla|B2
+diagnóstico|diagnóstico||S|sla|B2
+inflamação|inflamación||S|sla|B2
+cicatriz|cicatriz||S|sla|B2
+teletrabalho|teletrabajo||S|lav|B2
+teletrabalhar|teletrabajar||V|lav|B2
+presencial|presencial||A|lav|B2
+a tempo parcial|a tiempo parcial||E|lav|B2
+horário flexível|horario flexible||S|lav|B2
+flexível|flexible||A|lav|B2
+conciliação|conciliación (laboral y familiar)||S|lav|B2
+jornada de trabalho|jornada laboral||S|lav|B2
+horas extraordinárias|horas extraordinarias||S|lav|B2
+subsídio de férias|paga extra de vacaciones||S|lav|B2
+subsídio de Natal|paga extra de Navidad||S|lav|B2
+videochamada|videollamada||S|tec|B2
+escritório|oficina||S|lav|B2
+equipa|equipo||S|lav|B2
+hierarquia|jerarquía||S|lav|B2
+colaborador|colaborador||S|lav|B2
+produtividade|productividad||S|lav|B2
+desempenho|desempeño||S|lav|B2
+avaliação|evaluación||S|lav|B2
+carga de trabalho|carga de trabajo||S|lav|B2
+trabalho por turnos|trabajo por turnos||S|lav|B2
+deslocação|desplazamiento||S|lav|B2
+deslocar-se|desplazarse||V|lav|B2
+licença parental|permiso parental||S|lav|B2
+baixa médica|baja médica||S|lav|B2
+banco de horas|banco de horas||S|lav|B2
+ecrã|pantalla||S|tec|B2
+ergonómico|ergonómico||A|lav|B2
+autonomia|autonomía||S|lav|B2
+delegar|delegar||V|lav|B2
+supervisão|supervisión||S|lav|B2
+formação|formación||S|stu|B2
+especialização|especialización||S|stu|B2
+aptidão|aptitud||S|stu|B2
+qualificação|cualificación||S|stu|B2
+qualificado|cualificado||A|stu|B2
+habilitações|titulación (estudios)||S|stu|B2
+certificação|certificación||S|stu|B2
+licenciatura|grado||S|stu|B2
+mestrado|máster||S|stu|B2
+doutoramento|doctorado||S|stu|B2
+pós-graduação|posgrado||S|stu|B2
+bacharelato|bachillerato||S|stu|B2
+estágio|prácticas||S|lav|B2
+estagiário|practicante||S|lav|B2
+aprendizagem|aprendizaje||S|stu|B2
+mentor|mentor||S|pro|B2
+orientação|orientación||S|stu|B2
+carreira|carrera profesional||S|lav|B2
+progressão|progresión||S|lav|B2
+promoção|ascenso||S|lav|B2
+rede de contactos|red de contactos||S|lav|B2
+entrevista de emprego|entrevista de trabajo||S|lav|B2
+experiência profissional|experiencia profesional||S|lav|B2
+vaga de emprego|vacante de empleo||S|lav|B2
+oferta de emprego|oferta de empleo||S|lav|B2
+desemprego|desempleo||S|lav|B2
+remuneração|remuneración||S|lav|B2
+liderança|liderazgo||S|lav|B2
+gestão|gestión||S|lav|B2
+empreendedorismo|emprendimiento||S|lav|B2
+inovação|innovación||S|lav|B2
+percurso profissional|trayectoria profesional||S|lav|B2

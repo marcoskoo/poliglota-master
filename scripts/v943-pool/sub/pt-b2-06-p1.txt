@@ -1,0 +1,283 @@
+gravidade|gravedad||S|sci|B2
+átomo|átomo||S|sci|B2
+molécula|molécula||S|sci|B2
+partícula|partícula||S|sci|B2
+eletrão|electrón||S|sci|B2
+protão|protón||S|sci|B2
+neutrão|neutrón||S|sci|B2
+núcleo|núcleo (atómico)||S|sci|B2
+buraco negro|agujero negro||S|sci|B2
+galáxia|galaxia||S|sci|B2
+constelação|constelación||S|sci|B2
+cometa|cometa||S|sci|B2
+asteroide|asteroide||S|sci|B2
+meteorito|meteorito||S|sci|B2
+telescópio|telescopio||S|sci|B2
+observatório|observatorio||S|sci|B2
+astrónomo|astrónomo||S|sci|B2
+sonda espacial|sonda espacial||S|sci|B2
+foguetão|cohete||S|sci|B2
+órbita|órbita||S|sci|B2
+eclipse|eclipse||S|sci|B2
+atmosfera|atmósfera||S|sci|B2
+oxigénio|oxígeno||S|sci|B2
+hidrogénio|hidrógeno||S|sci|B2
+densidade|densidad||S|sci|B2
+atrito|rozamiento||S|sci|B2
+inércia|inercia||S|sci|B2
+radiação|radiación||S|sci|B2
+velocidade da luz|velocidad de la luz||S|sci|B2
+física quântica|física cuántica||S|sci|B2
+supernova|supernova||S|sci|B2
+divulgação científica|divulgación científica||S|sci|B2
+romance|novela||S|let|B2
+conto|relato||S|let|B2
+ensaio|ensayo||S|let|B2
+biografia|biografía||S|let|B2
+autobiografia|autobiografía||S|let|B2
+diário|diario||S|let|B2
+narrador|narrador||S|let|B2
+personagem|personaje||S|let|B2
+protagonista|protagonista||S|let|B2
+enredo|trama||S|let|B2
+capítulo|capítulo||S|let|B2
+prólogo|prólogo||S|let|B2
+prefácio|prefacio||S|let|B2
+metáfora|metáfora||S|let|B2
+ironia|ironía||S|let|B2
+crítica|crítica (reseña)||S|let|B2
+estilo|estilo||S|let|B2
+narrativa|narrativa||S|let|B2
+verso|verso||S|let|B2
+estrofe|estrofa||S|let|B2
+ficção científica|ciencia ficción||S|let|B2
+banda desenhada|cómic||S|let|B2
+peça de teatro|obra de teatro||S|let|B2
+sátira|sátira||S|let|B2
+paródia|parodia||S|let|B2
+obra-prima|obra maestra||S|let|B2
+paráfrase|paráfrasis||S|let|B2
+sinopse|sinopsis||S|let|B2
+recensão|reseña (literaria)||S|let|B2
+contextualizar|contextualizar||V|let|B2
+sintetizar|sintetizar||V|let|B2
+ler nas entrelinhas|leer entre líneas||E|let|B2
+coluna vertebral|columna vertebral||S|cor|B2
+vértebra|vértebra||S|cor|B2
+articulação|articulación||S|cor|B2
+tendão|tendón||S|cor|B2
+ligamento|ligamento||S|cor|B2
+esqueleto|esqueleto||S|cor|B2
+cartilagem|cartílago||S|cor|B2
+pulmão|pulmón||S|cor|B2
+traqueia|tráquea||S|cor|B2
+diafragma|diafragma||S|cor|B2
+respiração|respiración||S|cor|B2
+cardíaco|cardíaco||A|cor|B2
+artéria|arteria||S|cor|B2
+veia|vena||S|cor|B2
+circulação|circulación (sanguínea)||S|cor|B2
+cérebro|cerebro||S|cor|B2
+neurónio|neurona||S|cor|B2
+sistema nervoso|sistema nervioso||S|cor|B2
+lombar|lumbar||A|cor|B2
+postura|postura||S|cor|B2
+alongamento|estiramiento||S|cor|B2
+flexibilidade|flexibilidad||S|cor|B2
+resistência|resistencia (física)||S|cor|B2
+hidratação|hidratación||S|cor|B2
+metabolismo|metabolismo||S|cor|B2
+pulso|pulso||S|cor|B2
+bem-estar|bienestar||S|cor|B2
+sedentarismo|sedentarismo||S|cor|B2
+hormona|hormona||S|cor|B2
+digestão|digestión||S|cor|B2
+equilíbrio|equilibrio||S|cor|B2
+habitat|hábitat||S|ani|B2
+espécie|especie||S|ani|B2
+mamífero|mamífero||S|ani|B2
+réptil|reptil||S|ani|B2
+anfíbio|anfibio||S|ani|B2
+ave de rapina|ave rapaz||S|ani|B2
+predador|depredador||S|ani|B2
+presa|presa||S|ani|B2
+cadeia alimentar|cadena alimentaria||S|ani|B2
+toca|madriguera||S|ani|B2
+migração|migración||S|ani|B2
+hibernação|hibernación||S|ani|B2
+acasalamento|apareamiento||S|ani|B2
+instinto|instinto||S|ani|B2
+manada|manada||S|ani|B2
+bando|bandada||S|ani|B2
+colmeia|colmena||S|ani|B2
+teia|telaraña||S|ani|B2
+domesticar|domesticar||V|ani|B2
+selvagem|salvaje||A|ani|B2
+vida selvagem|fauna salvaje||S|ani|B2
+fauna|fauna||S|ani|B2
+garra|garra||S|ani|B2
+pelagem|pelaje||S|ani|B2
+plumagem|plumaje||S|ani|B2
+camuflagem|camuflaje||S|ani|B2
+adaptação|adaptación||S|ani|B2
+herbívoro|herbívoro||S|ani|B2
+território|territorio||S|ani|B2
+rosnar|grunir||V|ani|B2
+rastejar|arrastrarse||V|ani|B2
+recife de coral|arrecife de coral||S|ani|B2
+extinção|extinción||S|ani|B2
+em perigo de extinção|en peligro de extinción||E|ani|B2
+conservação|conservación||S|nat|B2
+preservação|preservación||S|nat|B2
+proteção|protección||S|nat|B2
+área protegida|área protegida||S|nat|B2
+parque natural|parque natural||S|nat|B2
+reserva natural|reserva natural||S|nat|B2
+caça furtiva|caza furtiva||S|ani|B2
+contrabando|contrabando (de especies)||S|ani|B2
+desflorestação|deforestación||S|nat|B2
+reflorestação|repoblación forestal||S|nat|B2
+reintrodução|reintroducción (de especies)||S|ani|B2
+cativeiro|cautividad||S|ani|B2
+ameaça|amenaza||S|ani|B2
+ameaçado|amenazado||A|ani|B2
+vulnerável|vulnerable||A|ani|B2
+censo|censo||S|ani|B2
+monitorizar|monitorizar||V|ani|B2
+corredor ecológico|corredor ecológico||S|nat|B2
+espécie invasora|especie invasora||S|ani|B2
+endémico|endémico||A|ani|B2
+desaparecimento|desaparición||S|ani|B2
+sobrevivência|supervivencia||S|ani|B2
+sobreviver|sobrevivir||V|ani|B2
+pesca ilegal|pesca ilegal||S|ani|B2
+captura|captura||S|ani|B2
+libertar|liberar||V|ani|B2
+sensibilização|sensibilización||S|nat|B2
+reprodução em cativeiro|reproducción en cautividad||S|ani|B2
+preservar|preservar||V|nat|B2
+ecossistema|ecosistema||S|nat|B2
+biodiversidade|biodiversidad||S|nat|B2
+ambiental|ambiental||A|nat|B2
+impacto ambiental|impacto ambiental||S|nat|B2
+pegada ecológica|huella ecológica||S|nat|B2
+aquecimento global|calentamiento global||S|nat|B2
+efeito de estufa|efecto invernadero||S|nat|B2
+emissões|emisiones||S|nat|B2
+poluição|contaminación||S|nat|B2
+poluente|contaminante||S|nat|B2
+resíduos|residuos||S|nat|B2
+reciclagem|reciclaje||S|nat|B2
+reciclar|reciclar||V|nat|B2
+reutilizar|reutilizar||V|nat|B2
+reaproveitar|aprovechar (de nuevo)||V|nat|B2
+energia renovável|energía renovable||S|nat|B2
+energia solar|energía solar||S|nat|B2
+eólico|eólico||A|nat|B2
+hidroelétrico|hidroeléctrico||A|nat|B2
+painel solar|panel solar||S|nat|B2
+eficiência energética|eficiencia energética||S|nat|B2
+consumo energético|consumo energético||S|nat|B2
+recurso natural|recurso natural||S|nat|B2
+esgotar|agotar||V|nat|B2
+aterro sanitário|vertedero||S|nat|B2
+vegetação|vegetación||S|nat|B2
+desertificação|desertificación||S|nat|B2
+erosão|erosión||S|nat|B2
+qualidade do ar|calidad del aire||S|nat|B2
+escassez|escasez||S|nat|B2
+sustentável|sostenible||A|nat|B2
+previsão do tempo|previsión del tiempo||S|cli|B2
+boletim meteorológico|boletín meteorológico||S|cli|B2
+pressão atmosférica|presión atmosférica||S|cli|B2
+onda de calor|ola de calor||S|cli|B2
+depressão atmosférica|borrasca||S|cli|B2
+anticiclone|anticiclón||S|cli|B2
+frente fria|frente frío||S|cli|B2
+trovoada|tormenta (con truenos)||S|cli|B2
+trovão|trueno||S|cli|B2
+relâmpago|relámpago||S|cli|B2
+granizo|granizo||S|cli|B2
+saraivada|pedrisco||S|cli|B2
+aguaceiro|chaparrón||S|cli|B2
+nevoeiro|niebla||S|cli|B2
+geada|helada||S|cli|B2
+seca|sequía||S|cli|B2
+cheia|crecida||S|cli|B2
+tempestade|tempestad||S|cli|B2
+temporal|temporal (tormenta)||S|cli|B2
+rajada de vento|racha de viento||S|cli|B2
+furacão|huracán||S|cli|B2
+tornado|tornado||S|cli|B2
+sismo|terremoto||S|cli|B2
+tsunami|tsunami||S|cli|B2
+erupção vulcânica|erupción volcánica||S|cli|B2
+vulcão|volcán||S|cli|B2
+avalanche|alud||S|cli|B2
+incêndio florestal|incendio forestal||S|cli|B2
+orvalho|rocío||S|cli|B2
+humidade|humedad||S|cli|B2
+ameno|templado||A|cli|B2
+gélido|gélido||A|cli|B2
+duração|duración||S|tmp|B2
+demorar|tardar||V|tmp|B2
+atraso|retraso||S|tmp|B2
+adiar|aplazar||V|tmp|B2
+adiamento|aplazamiento||S|tmp|B2
+antecipar|adelantar||V|tmp|B2
+validade|validez||S|tmp|B2
+caducar|caducar||V|tmp|B2
+vencimento|vencimiento||S|tmp|B2
+vencer|vencer||V|tmp|B2
+intervalo|intervalo||S|tmp|B2
+ocasionalmente|ocasionalmente||D|tmp|B2
+esporadicamente|esporádicamente||D|tmp|B2
+periodicamente|periódicamente||D|tmp|B2
+regularmente|regularmente||D|tmp|B2
+constantemente|constantemente||D|tmp|B2
+de tempos a tempos|de vez en cuando||E|tmp|B2
+uma vez por semana|una vez por semana||E|tmp|B2
+provisório|provisional||A|tmp|B2
+definitivo|definitivo||A|tmp|B2
+iminente|inminente||A|tmp|B2
+gradualmente|gradualmente||D|tmp|B2
+prolongar|prolongar||V|tmp|B2
+prolongado|prolongado||A|tmp|B2
+encurtar|acortar||V|tmp|B2
+estender|extender||V|tmp|B2
+duradouro|duradero||A|tmp|B2
+efémero|efímero||A|tmp|B2
+intermitente|intermitente||A|tmp|B2
+recorrente|recurrente||A|tmp|B2
+pontual|puntual||A|tmp|B2
+vida noturna|vida nocturna||S|sve|B2
+espetáculo|espectáculo||S|sve|B2
+concerto|concierto||S|sve|B2
+sessão|sesión (de cine)||S|sve|B2
+bilheteira|taquilla||S|sve|B2
+fila de espera|cola||S|sve|B2
+pista de dança|pista de baile||S|sve|B2
+barulhento|ruidoso||A|sve|B2
+noite dentro|hasta altas horas de la noche||E|sve|B2
+ressaca|resaca||S|sve|B2
+fado|fado||S|mus|B2
+tasca|taberna||S|sve|B2
+esplanada|terraza||S|sve|B2
+exposição|exposición||S|sve|B2
+caminhada|caminata||S|sve|B2
+piquenique|pícnic||S|sve|B2
+acampar|acampar||V|sve|B2
+campismo|camping||S|sve|B2
+entretenimento|entretenimiento||S|sve|B2
+lazer|ocio||S|sve|B2
+tempo livre|tiempo libre||S|sve|B2
+passatempo|pasatiempo||S|sve|B2
+voluntariado|voluntariado||S|sve|B2
+amador|aficionado||A|sve|B2
+espectador|espectador||S|sve|B2
+palco|escenario||S|sve|B2
+lotação|aforo||S|sve|B2
+estreia|estreno||S|sve|B2
+cartaz|cartel (de espectáculos)||S|sve|B2
+convite|invitación||S|sve|B2
+romaria|romería||S|sve|B2

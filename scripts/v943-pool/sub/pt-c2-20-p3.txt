@@ -1,294 +1,280 @@
-modelação preditiva|modelización predictiva||S|tec|C2
-aprendizagem automática|aprendizaje automático||S|tec|C2
-rede neuronal|red neuronal||S|tec|C2
-extração de características|extracción de características||S|tec|C2
-sobreajustamento|sobreajuste (aprendizaje automático)||S|tec|C2
-mineração de dados|minería de datos||S|tec|C2
-reconhecimento de padrões|reconocimiento de patrones||S|tec|C2
-aprendizagem por reforço|aprendizaje por refuerzo||S|tec|C2
-tokenização|tokenización||S|tec|C2
-enviesamento algorítmico|sesgo algorítmico||S|tec|C2
-biometria|biometría||S|tec|C2
-heurística|heurística||S|sci|C2
-etiquetagem|etiquetado (anotación de datos)||S|tec|C2
-visão computacional|visión artificial||S|tec|C2
-esteganografia|esteganografía||S|tec|C2
-criptografia|criptografía||S|tec|C2
-cifra|cifrado (criptografía)||S|tec|C2
-criptoanálise|criptoanálisis||S|tec|C2
-chave simétrica|clave simétrica||S|tec|C2
-engenharia social|ingeniería social||S|tec|C2
-cifra homomórfica|criptografía homomórfica||S|tec|C2
-protocolo de consenso|protocolo de consenso||S|tec|C2
-carteira fria|cartera fría (almacenamiento en frío)||S|fin|C2
-custódia|custodia (de activos)||S|fin|C2
-chave assimétrica|clave asimétrica||S|tec|C2
-nó validador|nodo validador||S|tec|C2
-direito ao esquecimento|derecho al olvido||S|ist|C2
-ciberespionagem|ciberespionaje||S|tec|C2
-latência|latencia||S|tec|C2
-comutação de pacotes|conmutación de paquetes||S|tec|C2
-multiplexagem|multiplexado||S|tec|C2
-cabo submarino|cable submarino||S|tec|C2
-largura de banda|ancho de banda||S|tec|C2
-redundância|redundancia||S|tec|C2
-espelhamento|espejado (copia espejo)||S|tec|C2
-itinerância|roaming (itinerancia)||S|tec|C2
-espectro radioelétrico|espectro radioeléctrico||S|tec|C2
-núcleo de rede|núcleo de red||S|tec|C2
-linha dedicada|línea dedicada||S|tec|C2
-atenuação|atenuación (de señal)||S|tec|C2
-assinatura digital|firma digital||S|tec|C2
-interoperabilidade|interoperabilidad||S|tec|C2
-fissão|fisión||S|sci|C2
-fusão nuclear|fusión nuclear||S|sci|C2
-meia-vida|semivida (física)||S|sci|C2
-vaso de contenção|vaso de contención||S|sci|C2
-desativação|desmantelamiento (nuclear)||S|sci|C2
-enriquecimento|enriquecimiento (de uranio)||S|sci|C2
-interligação|interconexión (de redes)||S|tec|C2
-cogeração|cogeneración||S|tec|C2
-ciclo combinado|ciclo combinado||S|tec|C2
-blindagem|blindaje||S|sci|C2
-reserva fria|reserva en frío||S|tec|C2
-injeção na rede|inyección en red||S|tec|C2
-consumo de ponta|consumo en horas punta||S|tec|C2
-tarifa de acesso|tarifa de acceso||S|fin|C2
-empuxo|empuje (propulsión)||S|sci|C2
-trem de aterragem|tren de aterrizaje||S|sci|C2
-estol|entrada en pérdida (aeronáutica)||S|sci|C2
-envergadura|envergadura||S|sci|C2
-telemetria|telemetría||S|tec|C2
-módulo de aterragem|módulo de aterrizaje||S|sci|C2
-câmara de combustão|cámara de combustión||S|sci|C2
-turborreactor|turborreactor||S|sci|C2
-veículo de lançamento|vehículo de lanzamiento||S|sci|C2
-acoplagem|acoplamiento (espacial)||S|sci|C2
-amaragem|amerizaje||S|sci|C2
-empuxo vetorial|empuje vectorial||S|sci|C2
-sustentação|sustentación (aerodinámica)||S|sci|C2
-voo de ensaio|vuelo de pruebas||S|sci|C2
+reator de água pressurizada|reactor de agua a presión||L|tec|C2
+central de ciclo combinado|central de ciclo combinado||L|tec|C2
+enriquecimento de urânio|enriquecimiento de uranio||L|tec|C2
+combustível gasto|combustible gastado||L|tec|C2
+desmantelamento|desmantelamiento||S|tec|C2
+fusão nuclear|fusión nuclear||L|tec|C2
+criticidade|criticalidad||S|sci|C2
+blindagem biológica|blindaje biológico||L|sci|C2
+reprocessamento|reprocesamiento||S|sci|C2
+intermitência|intermitencia||S|sci|C2
+descarbonização|descarbonización||S|sci|C2
+bateria de fluxo|batería de flujo||L|tec|C2
+capacidade instalada|potencia instalada||L|tec|C2
+armazenamento de energia|almacenamiento de energía||L|tec|C2
+empuxo|empuje||S|tec|C2
+arrasto aerodinâmico|resistencia aerodinámica||L|tec|C2
+sustentação|sustentación (aerodinámica)||S|tec|C2
+pós-combustão|postcombustión||S|tec|C2
+ângulo de ataque|ángulo de ataque||L|tec|C2
+manobra orbital|maniobra orbital||L|tec|C2
+propulsor iónico|propulsor iónico||L|tec|C2
+travagem atmosférica|frenado atmosférico||L|tec|C2
+cabine pressurizada|cabina presurizada||L|tec|C2
+trem de aterragem|tren de aterrizaje||L|tec|C2
+voo suborbital|vuelo suborbital||L|tec|C2
+módulo de comando|módulo de mando||L|tec|C2
+satélite geoestacionário|satélite geoestacionario||L|tec|C2
+velocidade de escape|velocidad de escape||L|tec|C2
 atuador|actuador||S|tec|C2
-grau de liberdade|grado de libertad||S|sci|C2
-omnidirecional|omnidireccional||A|tec|C2
-servomecanismo|servomecanismo||S|tec|C2
-robotização|robotización||S|tec|C2
-manutenção preditiva|mantenimiento predictivo||S|lav|C2
-paragem de emergência|parada de emergencia||S|tec|C2
-célula robotizada|celda robotizada||S|tec|C2
+cinemática inversa|cinemática inversa||L|tec|C2
+braço articulado|brazo articulado||L|tec|C2
+fusão de sensores|fusión de sensores||L|tec|C2
+manipulador robótico|manipulador robótico||L|tec|C2
+célula de fabricação|celda de fabricación||L|tec|C2
+automação industrial|automatización industrial||L|tec|C2
+visão computacional|visión artificial||L|tec|C2
+controlo numérico|control numérico||L|tec|C2
+robô colaborativo|robot colaborativo||L|tec|C2
+paragem de emergência|parada de emergencia||L|tec|C2
 calibração|calibración||S|tec|C2
-tolerância dimensional|tolerancia dimensional||S|tec|C2
-estampagem|estampación (de chapa)||S|tec|C2
-corte a laser|corte láser||S|tec|C2
-maquinação|mecanizado||S|tec|C2
-fundição|fundición||S|tec|C2
-aridez|aridez||S|nat|C2
-isóbara|isobara||S|sci|C2
+servomecanismo|servomecanismo||S|tec|C2
+locomoção bípede|locomoción bípeda||L|tec|C2
+variabilidade interanual|variabilidad interanual||L|sci|C2
+circulação atmosférica|circulación atmosférica||L|sci|C2
+circulação termoalina|circulación termohalina||L|sci|C2
 albedo|albedo||S|sci|C2
-sumidouro de carbono|sumidero de carbono||S|nat|C2
-mitigação|mitigación||S|nat|C2
-descarbonização|descarbonización||S|nat|C2
-cenário de emissões|escenario de emisiones||S|nat|C2
-anomalia térmica|anomalía térmica||S|nat|C2
-circulação atmosférica|circulación atmosférica||S|nat|C2
-padrões de precipitação|patrones de precipitación||S|nat|C2
-retroação|retroalimentación (climática)||S|nat|C2
-modelo climático|modelo climático||S|nat|C2
-variabilidade interanual|variabilidad interanual||S|nat|C2
-acidificação dos oceanos|acidificación de los océanos||S|nat|C2
-ressurgência|surgencia (oceanografía)||S|nat|C2
-abissal|abisal||A|nat|C2
-planície abissal|llanura abisal||S|nat|C2
-banquisa|banquisa||S|nat|C2
-marés vivas|mareas vivas||S|nat|C2
-mangal|manglar||S|nat|C2
-estuário|estuario||S|nat|C2
-leito marinho|lecho marino||S|nat|C2
+forçamento radiativo|forzamiento radiativo||L|sci|C2
+neutralidade carbónica|neutralidad de carbono||L|sci|C2
+ciclogénese|ciclogénesis||S|sci|C2
+monção|monzón||S|nat|C2
+anomalia térmica|anomalía térmica||L|sci|C2
+índice de aridez|índice de aridez||L|sci|C2
+sumidouro de carbono|sumidero de carbono||L|sci|C2
+retroação climática|retroalimentación climática||L|sci|C2
+vento alísio|viento alisio||L|nat|C2
+vapor de água|vapor de agua||L|sci|C2
+massa de água|masa de agua||L|nat|C2
+coeficiente de maré|coeficiente de marea||L|nat|C2
 fitoplâncton|fitoplancton||S|nat|C2
-zooplâncton|zooplancton||S|nat|C2
 bentónico|bentónico||A|nat|C2
-cetáceo|cetáceo||S|ani|C2
-ecolocalização|ecolocalización||S|sci|C2
-maré negra|marea negra||S|nat|C2
-licenciamento ambiental|licenciamiento ambiental||S|nat|C2
-avaliação de impacto ambiental|evaluación de impacto ambiental||S|nat|C2
-ordenamento do território|ordenación del territorio||S|cit|C2
-compensação ambiental|compensación ambiental||S|nat|C2
-pegada ecológica|huella ecológica||S|nat|C2
-passivo ambiental|pasivo ambiental||S|nat|C2
-poluidor-pagador|quien contamina paga (principio)||L|nat|C2
-economia circular|economía circular||S|fin|C2
-crime ambiental|delito ambiental||S|ist|C2
-descontaminação|descontaminación||S|nat|C2
-remediação|remediación (de suelos)||S|nat|C2
-reflorestação|reforestación||S|nat|C2
-desertificação|desertización||S|nat|C2
-espécies invasoras|especies invasoras||S|nat|C2
-corolário|corolario||S|sci|C2
-axioma|axioma||S|sci|C2
-isomorfismo|isomorfismo||S|sci|C2
-homeomorfismo|homeomorfismo||S|sci|C2
-topologia|topología||S|sci|C2
-indecidibilidade|indecidibilidad (lógica)||S|sci|C2
-recursão|recursión||S|sci|C2
-conjectura|conjetura||S|sci|C2
-teoria dos conjuntos|teoría de conjuntos||S|sci|C2
-incompletude|incompletitud (de Gödel)||S|sci|C2
-biunívoco|biunívoco||A|sci|C2
-cardinalidade|cardinalidad||S|sci|C2
-infinitésimo|infinitesimal||S|sci|C2
-tautologia|tautología||S|sci|C2
-literacia|alfabetización (competencia lectora)||S|stu|C2
-avaliação sumativa|evaluación sumativa||S|stu|C2
-avaliação formativa|evaluación formativa||S|stu|C2
-currículo oculto|currículo oculto||S|stu|C2
-transversalidade|transversalidad||S|stu|C2
-metacognição|metacognición||S|stu|C2
-construtivismo|constructivismo||S|stu|C2
-reprovação|suspensión (de curso)||S|stu|C2
-prova de aferição|pruebas de diagnóstico||S|stu|C2
-educação de infância|educación infantil (en Portugal)||S|stu|C2
-doutoramento|doctorado||S|stu|C2
-sobredotação|sobredotación (altas capacidades)||S|stu|C2
-insucesso escolar|fracaso escolar||S|stu|C2
-formação contínua|formación continua||S|lav|C2
-assédio moral|acoso laboral||S|lav|C2
-escuta ativa|escucha activa||S|lav|C2
-gestão de desempenho|gestión del desempeño||S|lav|C2
-absentismo|absentismo laboral||S|lav|C2
-rotatividade|rotación de personal||S|lav|C2
+talude continental|talud continental||L|nat|C2
+surgência costeira|surgencia costera||L|nat|C2
+salinidade|salinidad||S|nat|C2
+batimetria|batimetría||S|nat|C2
+paúl|paúl (pantano)||S|nat|C2
+desova|desove (puesta de peces)||S|ani|C2
+planície abissal|llanura abisal||L|nat|C2
+fumarola hidrotermal|fumarola hidrotermal||L|nat|C2
+anóxico|anóxico||A|nat|C2
+corrente marinha|corriente marina||L|nat|C2
+declaração de impacto ambiental|declaración de impacto ambiental||L|ist|C2
+poluidor-pagador|quien contamina paga||L|ist|C2
+pegada ecológica|huella ecológica||L|nat|C2
+licença ambiental|licencia ambiental||L|ist|C2
+passivo ecológico|pasivo ecológico||L|ist|C2
+espécie invasora|especie invasora||L|nat|C2
+corredor verde|corredor verde||L|nat|C2
+economia circular|economía circular||L|nat|C2
+mitigação|mitigación||S|nat|C2
+serviços de ecossistemas|servicios de los ecosistemas||L|nat|C2
+litígio climático|litigio climático||L|ist|C2
+construção sustentável|construcción sostenible||L|nat|C2
+gestão de resíduos|gestión de residuos||L|nat|C2
+conservação da natureza|conservación de la naturaleza||L|nat|C2
+necrose|necrosis||S|cor|C2
+isquémico|isquémico||A|cor|C2
+metaplasia|metaplasia||S|cor|C2
+hiperplasia|hiperplasia||S|cor|C2
+apoptose|apoptosis||S|cor|C2
+carcinoma in situ|carcinoma in situ||L|sla|C2
+adenopatia|adenopatía||S|sla|C2
+fibrose|fibrosis||S|cor|C2
+estenose|estenosis||S|cor|C2
+úlcera de pressão|úlcera por presión||L|sla|C2
+proliferação|proliferación||S|cor|C2
+anastomose|anastomosis||S|cor|C2
+drenagem linfática|drenaje linfático||L|sla|C2
+lesão precursora|lesión precursora||L|sla|C2
+ontologia|ontología||S|ast|C2
+aporía|aporía||S|ast|C2
+paradoxo|paradoja||S|ast|C2
+virtuosismo|virtuosismo||S|ast|C2
+ente|ente||S|ast|C2
+perscrutar|escudriñar||V|ast|C2
+imarcessível|inmarcesible||A|ast|C2
+invulgar|insólito||A|ast|C2
+mesura|mesura||S|ast|C2
+desassossego|desasosiego||S|ast|C2
+sobranceria|soberbia (altivez)||S|ast|C2
+estupefacção|estupefacción||S|ast|C2
+diletantismo|diletantismo||S|ast|C2
+quimera|quimera (ilusión, monstruo)||S|ast|C2
+a posteriori|a posteriori||L|ast|C2
+ad hominem|ad hominem||L|ast|C2
+sine qua non|sine qua non||L|ast|C2
+modus vivendi|modus vivendi||L|ast|C2
+casus belli|casus belli||L|ast|C2
+ex libris|ex libris||L|ast|C2
+in extremis|in extremis||L|ast|C2
+non sequitur|non sequitur||L|ast|C2
+tabula rasa|tabula rasa||L|ast|C2
+húbris|hybris (desmesura)||S|ast|C2
+páthos|páthos||S|let|C2
+éthos|ethos||S|ast|C2
+saudosismo|saudosismo (nostalgia vital)||S|ast|C2
+alter ego|alter ego||L|ast|C2
+memento mori|memento mori||L|ast|C2
+alea iacta est|alea iacta est||L|ast|C2
+tempus fugit|tempus fugit||L|ast|C2
+habeas corpus|habeas corpus||L|ist|C2
+primus inter pares|primus inter pares||L|ast|C2
+sui generis|sui generis||L|ast|C2
+statu quo|statu quo||L|ast|C2
+iter criminis|iter criminis||L|ist|C2
+mutatis mutandis|mutatis mutandis||L|ast|C2
+vox populi|vox populi||L|ast|C2
+ultimato|ultimátum||S|ast|C2
+sic transit gloria mundi|sic transit gloria mundi||L|ast|C2
+vanitas vanitatum|vanitas vanitatum||L|ast|C2
+verba volant|verba volant (las palabras vuelan)||L|ast|C2
+antífrase|antífrasis||S|let|C2
+eufemização|eufemización||S|let|C2
+ironia velada|ironía velada||L|cmu|C2
+lítote|lítote||S|let|C2
+subtexto|subtexto||S|cmu|C2
+malícia|malignidad (segunda intención)||S|cmu|C2
+duplicidade|doblez||S|cmu|C2
+falsa modéstia|falsa modestia||L|cmu|C2
+mordacidade|mordacidad (agudeza mordaz)||S|cmu|C2
+nas entrelinhas|entre líneas||L|cmu|C2
+reticência|reticencia (puntos suspensivos)||S|let|C2
+sobreentendido|sobreentendido||S|cmu|C2
+escárnio|escarnio (burla)||S|cmu|C2
+duplo sentido|doble sentido||L|cmu|C2
+marosca|timo (engano)||S|cmu|C2
+fanfarrão|fanfarrón||S|cmu|C2
+patife|pícaro (sinvergüenza)||S|cmu|C2
+gamar em|encapricharse de||L|cmu|C2
+à bruta|a lo bestia||L|cmu|C2
+à socapa|a escondidas||L|cmu|C2
+engolir o choro|tragarse las lágrimas||L|cmu|C2
+levar tampa|llevar una bronca||L|cmu|C2
+escangalhar|destrozar||V|cmu|C2
+atoleimado|aturullado (pardillo)||A|cmu|C2
+pulha|pulla (indirecta)||S|cmu|C2
+ganda|enorme (muy grande, coloquial)||A|cmu|C2
+sarilho|lío (enredo)||S|cmu|C2
+atabalhoado|apresurado (aturullado)||A|cmu|C2
+arriba|acantilado||S|nat|C2
+restolho|rastrojo||S|nat|C2
+socalco|bancal (terraza de cultivo)||S|nat|C2
+matança do porco|matanza del cerdo||L|ali|C2
+eira|era (donde se trilla)||S|nat|C2
+laje|losa||S|cas|C2
+lagar|lagar (almazara)||S|ali|C2
+espigueiro|hórreo||S|nat|C2
+ceifa|siega||S|nat|C2
+azenha|aceña (molino de agua)||S|nat|C2
+varina|pescadora (vendedora de Lisboa)||S|pro|C2
+fadista|fadista||S|mus|C2
+saloio|campesino (de los alrededores de Lisboa)||S|nat|C2
+ceifeiro|segador||S|pro|C2
+desalento|desánimo||S|emo|C2
+abatimento|abatimiento||S|emo|C2
+enlevo|arrobamiento||S|emo|C2
+acanhamento|apocamiento (timidez)||S|emo|C2
+despeito|despecho||S|emo|C2
+desvanecimento|desvanecimiento (vanidad)||S|emo|C2
+assombro|asombro||S|emo|C2
+enternecer|enternecer||V|emo|C2
+malquerença|malquerencia||S|emo|C2
+desafeto|desafecto||S|emo|C2
+exasperação|exasperación||S|emo|C2
+irascível|irascible||A|emo|C2
+saudoso|añorante (nostálgico)||A|emo|C2
+pesar|pesar (aflicción)||S|emo|C2
+vantagem competitiva|ventaja competitiva||L|lav|C2
+cadeia de abastecimento|cadena de suministro||L|lav|C2
+reengenharia|reingeniería||S|lav|C2
+gestão intermédia|gestión intermedia||L|lav|C2
+plano de negócios|plan de negocio||L|fin|C2
+avaliação de desempenho|evaluación del desempeño||L|lav|C2
+deslocalização produtiva|deslocalización productiva||L|lav|C2
 subcontratação|subcontratación||S|lav|C2
-gestão de topo|dirección de primer nivel||S|lav|C2
-plano de carreiras|plan de carreras||S|lav|C2
-psicometria|psicometría||S|lav|C2
-satisfação no trabalho|satisfacción laboral||S|lav|C2
-quadro de efetivos|plantilla de personal||S|lav|C2
-esgotamento profissional|desgaste profesional (burnout)||S|lav|C2
-polivalência|polivalencia||S|lav|C2
-empregabilidade|empleabilidad||S|lav|C2
-deslocalização|deslocalización||S|fin|C2
-redimensionamento|redimensionamiento (de estructuras)||S|fin|C2
-acordo estratégico|acuerdo estratégico||S|fin|C2
-organograma|organigrama||S|lav|C2
-partes interessadas|partes interesadas||S|fin|C2
-matriz de risco|matriz de riesgos||S|fin|C2
-margem operacional|margen operativo||S|fin|C2
-ponto de equilíbrio|punto de equilibrio||S|fin|C2
-fluxo de caixa|flujo de caja||S|fin|C2
-verticalização|verticalización (integración vertical)||S|fin|C2
-rentabilização|rentabilización||S|fin|C2
-reestruturação|reestructuración||S|fin|C2
-conglomerado|conglomerado (empresarial)||S|fin|C2
-balanço social|balance social||S|fin|C2
-contencioso administrativo|contencioso administrativo||S|ist|C2
-recurso hierárquico|recurso de alzada||S|ist|C2
-recurso contencioso|recurso contencioso||S|ist|C2
-indeferimento|denegación (despacho administrativo)||S|ist|C2
-coima|multa (administrativa)||S|ist|C2
-caducidade|caducidad||S|ist|C2
-título executivo|título ejecutivo||S|ist|C2
-execução fiscal|procedimiento de apremio||S|ist|C2
-audiência dos interessados|audiencia a los interesados||S|ist|C2
-mandado|mandamiento (judicial)||S|ist|C2
-impugnação|impugnación||S|ist|C2
-silêncio administrativo|silencio administrativo||S|ist|C2
-auto de infracção|acta de infracción||S|ist|C2
-decreto regulamentar|decreto reglamentario||S|ist|C2
-escritura pública|escritura pública||S|ist|C2
-conservatória|oficina de registro (civil e predial)||S|ist|C2
-averbamento|anotación (no registro)||S|ist|C2
-testamento cerrado|testamento cerrado||S|ist|C2
-justificação notarial|acta de notoriedad||S|ist|C2
-habilitação|habilitación (notarial)||S|ist|C2
-predial|predial (contribución inmobiliaria)||A|fin|C2
-inscrição matricial|inscripción catastral||S|ist|C2
-ónus|gravamen (ônus reais)||S|ist|C2
-penhor|prenda (garantía real)||S|fin|C2
-trato sucessivo|tracto sucesivo||S|ist|C2
-emolumentos|aranceles (notariales)||S|ist|C2
-partilha|partición (hereditaria)||S|ist|C2
-tabelião|notario (en Portugal)||S|pro|C2
-penologia|penología||S|ist|C2
-ressocialização|resocialización||S|ist|C2
-reincidência|reincidencia||S|ist|C2
-detenção preventiva|prisión preventiva||S|ist|C2
-liberdade condicional|libertad condicional||S|ist|C2
-medida de segurança|medida de seguridad||S|ist|C2
-atenuante|atenuante||S|ist|C2
-agravante|agravante||S|ist|C2
-culposo|imprudente (derecho penal)||A|ist|C2
-criminologia|criminología||S|ist|C2
-vitimologia|victimología||S|ist|C2
-encarceramento|encarcelamiento||S|ist|C2
-periculosidade|peligrosidad||S|ist|C2
-regime aberto|régimen abierto||S|ist|C2
-ratificação|ratificación||S|ist|C2
-concertação|concertación internacional||S|ist|C2
-plataforma continental|plataforma continental||S|nat|C2
-águas territoriais|aguas territoriales||S|nat|C2
-genocídio|genocidio||S|ist|C2
-crimes de guerra|crímenes de guerra||S|ist|C2
-direito consuetudinário|derecho consuetudinario||S|ist|C2
-anistia|amnistía||S|ist|C2
-extraditar|extraditar||V|ist|C2
-sucessão de Estados|sucesión de Estados||S|ist|C2
-contencioso internacional|contencioso internacional||S|ist|C2
-direito brando|derecho blando||S|ist|C2
-costume internacional|costumbre internacional||S|ist|C2
-compromisso arbitral|compromiso arbitral||S|ist|C2
-sociedade anónima|sociedad anónima||S|fin|C2
-sociedade por quotas|sociedad de responsabilidad limitada||S|fin|C2
-pacto de sociedade|pacto de socios||S|fin|C2
-administrador de facto|administrador de hecho||S|fin|C2
-dever de lealdade|deber de lealtad||S|fin|C2
-responsabilidade ilimitada|responsabilidad ilimitada||S|fin|C2
-insolvência|insolvencia||S|fin|C2
-plano de insolvência|convenio de acreedores||S|fin|C2
-propriedade horizontal|propiedad horizontal||S|ist|C2
-cessão de crédito|cesión de crédito||S|ist|C2
-comodatório|comodatario||S|ist|C2
-moratória|moratoria||S|fin|C2
-juros de mora|intereses de demora||S|fin|C2
-sub-rogação|subrogación||S|ist|C2
-concertação social|concertación social||S|ist|C2
-negociação coletiva|negociación colectiva||S|lav|C2
-fecho patronal|cierre patronal||S|lav|C2
-piquete|piquete (de huelga)||S|lav|C2
-acordo de empresa|convenio de empresa||S|lav|C2
-justa causa|causa justa (laboral)||S|lav|C2
-comissão de trabalhadores|comité de empresa||S|lav|C2
-banco de horas|banco de horas||S|lav|C2
-profissão liberal|profesión liberal||S|pro|C2
-pré-aviso|preaviso||S|lav|C2
-despedimento improcedente|despido improcedente||S|lav|C2
-contrato a termo|contrato temporal||S|lav|C2
-isenção de horário|exención de horario||S|lav|C2
-trabalhador-estudante|trabajador-estudiante||S|lav|C2
-desavença|desavenencia||S|rel|C2
-conivência|connivencia||S|rel|C2
-desafeição|desafecto (desapego)||S|rel|C2
-beneplácito|beneplácito||S|rel|C2
-afago|halago (caricia)||S|rel|C2
-desvelo|desvelo (cuidado)||S|rel|C2
-amuar|amuar (aburrirse)||V|rel|C2
-entreajuda|ayuda mutua||S|rel|C2
-companheirismo|camaradería||S|rel|C2
-distanciamento|distanciamiento||S|rel|C2
+margem operacional|margen operativo||L|fin|C2
+direção de topo|alta dirección||L|lav|C2
+cultura organizacional|cultura organizacional||L|lav|C2
+conglomerado|conglomerado||S|fin|C2
+polivalência funcional|polivalencia funcional||L|lav|C2
+planeamento estratégico|planificación estratégica||L|lav|C2
+recrutamento e seleção|reclutamiento y selección||L|lav|C2
+entrevista por competências|entrevista por competencias||L|lav|C2
+rotação de pessoal|rotación de personal||L|lav|C2
+comprometimento organizacional|compromiso organizacional||L|lav|C2
+desvinculação|desvinculación||S|lav|C2
+formação contínua|formación continua||L|lav|C2
+plano de carreiras|plan de carrera||L|lav|C2
+expatriação|expatriación||S|lav|C2
+assédio laboral|acoso laboral||L|lav|C2
+fixação de objetivos|fijación de objetivos||L|lav|C2
+motivação intrínseca|motivación intrínseca||L|lav|C2
+liderança situacional|liderazgo situacional||L|lav|C2
+absenteísmo|absentismo||S|lav|C2
+remuneração variável|retribución variable||L|lav|C2
+diferenciação pedagógica|diferenciación pedagógica||L|stu|C2
+metodologias ativas|metodologías activas||L|stu|C2
+andragogia|andragogía||S|stu|C2
+currículo oculto|currículo oculto||L|stu|C2
+sala de aula invertida|aula invertida||L|stu|C2
+desistência escolar|abandono escolar||L|stu|C2
+mestrado integrado|máster integrado||L|stu|C2
+tutoria entre pares|tutoría entre iguales||L|stu|C2
+educação inclusiva|educación inclusiva||L|stu|C2
+grelha de observação|rúbrica de observación||L|stu|C2
+dislexia|dislexia||S|stu|C2
+unidade curricular|asignatura||L|stu|C2
+prática reflexiva|práctica reflexiva||L|stu|C2
+sucesso escolar|éxito escolar||L|stu|C2
+peritagem|peritaje||S|pro|C2
+mapa de medições|mapa de mediciones||L|pro|C2
+levantamento topográfico|levantamiento topográfico||L|pro|C2
+suporte básico de vida|soporte vital básico||L|sla|C2
+sondagem vesical|sondaje vesical||L|sla|C2
+punção lombar|punción lumbar||L|sla|C2
+imobilização|inmovilización||S|sla|C2
+torniquete|torniquete||S|sla|C2
+empreitada de obra pública|contrata de obra pública||L|ist|C2
+junta de dilatação|junta de dilatación||L|pro|C2
+betão armado|hormigón armado||L|pro|C2
+andaime|andamio||S|pro|C2
+topografia|topografía||S|sci|C2
+relatório técnico|informe técnico||L|pro|C2
+desavença|discrepancia (rifirrafe)||S|rel|C2
+conluio|confabulación (contubernio)||S|rel|C2
+condescendência|condescendencia||S|rel|C2
+acerto de contas|ajuste de cuentas||L|rel|C2
+esfarrapado|andrajoso||A|rel|C2
+menosprezo|menosprecio||S|rel|C2
+atravessar-se|interponerse||V|rel|C2
+reatar|reanudar||V|rel|C2
+desafogo|desahogo||S|rel|C2
+solícito|solícito||A|rel|C2
+esquivar-se|esquivarse||V|rel|C2
+descomedir-se|descomedirse (excederse)||V|rel|C2
 deferência|deferencia||S|rel|C2
-altivez|altivez||S|emo|C2
-mesura|mesura||S|rel|C2
-brandura|apacibilidad||S|emo|C2
-laparotomia|laparotomía||S|sla|C2
-anastomose|anastomosis||S|sla|C2
-deiscência|dehiscencia (quirúrgica)||S|sla|C2
-hemostasia|hemostasia||S|sla|C2
-cauterização|cauterización||S|sla|C2
-trocarte|trócar (instrumental)||S|sla|C2
-cateterismo|cateterismo||S|sla|C2
-esternotomia|esternotomía||S|sla|C2
-toracotomia|toracotomía||S|sla|C2
-cirurgia robótica|cirugía robótica||S|sla|C2
-bisturi elétrico|bisturí eléctrico||S|sla|C2
-reposição volémica|reposición volemica||S|sla|C2
-laparoscopia|laparoscopia||S|sla|C2
-dissecção|disección (quirúrgica)||S|sla|C2
+complacência|complacencia||S|rel|C2
+ária|aria||S|mus|C2
+libretista|libretista||S|pro|C2
+cenografia|escenografía||S|art|C2
+recitativo|recitativo||S|mus|C2
+tessitura|tessitura||S|mus|C2
+dodecafonismo|dodecafonismo||S|mus|C2
+teatro de revista|teatro de revista (género cómico)||L|art|C2
+monólogo interior|monólogo interior||L|let|C2
+verso branco|verso blanco||L|let|C2
+heterónimo|heterónimo||S|let|C2
+encenação|puesta en escena||S|art|C2
+fosso da orquestra|foso de la orquesta||L|art|C2
+antestreia|preestreno||S|art|C2
+partitura|partitura||S|mus|C2

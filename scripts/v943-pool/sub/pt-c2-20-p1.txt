@@ -1,294 +1,324 @@
-usucapião|usucapión||S|ist|C2
-usufruto|usufructo||S|ist|C2
-penhora|embargo (de bienes)||S|ist|C2
-cláusula-penal|cláusula penal||S|ist|C2
-tutela cautelar|tutela cautelar||S|ist|C2
-litisconsórcio|litisconsorcio||S|ist|C2
-exequente|ejecutante (de sentencia)||S|ist|C2
-executado|ejecutado||S|ist|C2
-comodato|comodato||S|ist|C2
-mutuante|mutuante (prestamista)||S|fin|C2
+usucapião|usucapión (adquisición por uso prolongado)||S|ist|C2
+cláusula penal|cláusula penal (sanción contractual)||L|ist|C2
+dolo|dolo (engaño intencionado)||S|ist|C2
 legítima|legítima (porción hereditaria forzosa)||S|ist|C2
-curatela|curatela||S|ist|C2
-legatário|legatario||S|ist|C2
-arras|arras (señal de contrato)||S|ist|C2
-arguido|imputado||S|ist|C2
-autos|autos (expediente judicial)||S|ist|C2
-aresto|aresto (sentencia)||S|ist|C2
-acórdão|sentencia (de tribunal colegiado)||S|ist|C2
-relator|magistrado ponente||S|pro|C2
-transitado em julgado|firme en autoridad de cosa juzgada||L|ist|C2
-segredo de justiça|secreto del sumario||L|ist|C2
-inquérito|instrucción (diligencias previas)||S|ist|C2
-taxa de justiça|tasas judiciales||S|ist|C2
-intimação|emplazamiento (notificación judicial)||S|ist|C2
-embargos|embargos (oposición a la ejecución)||S|ist|C2
-meritíssimo|meritísimo (el juez, jerga forense)||S|ist|C2
-assistente|acusación particular||S|ist|C2
-despacho saneador|auto de saneamiento||S|ist|C2
-revisão constitucional|revisión constitucional||S|ist|C2
-fiscalização da constitucionalidade|control de constitucionalidad||S|ist|C2
-decreto-lei|decreto-ley||S|ist|C2
-iniciativa legislativa|iniciativa legislativa||S|ist|C2
-maioria qualificada|mayoría cualificada||S|ist|C2
-moção de censura|moción de censura||S|ist|C2
+usufruto|usufructo||S|ist|C2
+penhor|prenda (garantía real)||S|ist|C2
+enfiteuse|enfiteusis (censo perpetuo)||S|ist|C2
+comodato|comodato (préstamo de uso)||S|ist|C2
+denúncia do contrato|resolución del contrato||L|ist|C2
+exceção de incumprimento|excepción de incumplimiento||L|ist|C2
+boa-fé objetiva|buena fe objetiva||L|ist|C2
+enriquecimento sem causa|enriquecimiento sin causa||L|ist|C2
+responsabilidade extracontratual|responsabilidad extracontractual||L|ist|C2
+coação|coacción (vicio de la voluntad)||S|ist|C2
+solidariedade passiva|solidaridad pasiva (deudores solidarios)||L|ist|C2
+arguido|imputado (procesado)||S|ist|C2
+contestação|contestación (escrito de defensa)||S|ist|C2
+articulados|artículos (escritos procesales)||S|ist|C2
+sentença transitada em julgado|sentencia firme||L|ist|C2
+nulidade processual|nulidad procesal||L|ist|C2
+preclusão|preclusión||S|ist|C2
+litispendência|litispendencia||S|ist|C2
+coisa julgada|cosa juzgada||L|ist|C2
+suplicatório|súplica (pedido al tribunal)||S|ist|C2
+despacho saneador|auto de saneamiento||L|ist|C2
+ônus da prova|carga de la prueba||L|ist|C2
+rol de testemunhas|lista de testigos||L|ist|C2
+instrução|instrucción (fase procesal)||S|ist|C2
+incidente de verificação|incidente de verificación de créditos||L|ist|C2
+citação edital|citación edictal||L|ist|C2
+soberania popular|soberanía popular||L|ist|C2
+referendo vinculativo|referéndum vinculante||L|ist|C2
+inconstitucionalidade por omissão|inconstitucionalidad por omisión||L|ist|C2
+reserva de lei|reserva de ley||L|ist|C2
+estado de sítio|estado de sitio||L|ist|C2
 prerrogativa|prerrogativa||S|ist|C2
-poder constituinte|poder constituyente||S|ist|C2
-imunidade parlamentar|inmunidad parlamentaria||S|ist|C2
-conflito de competências|conflicto de competencias||S|ist|C2
-referendar|refrendar||V|ist|C2
-promulgação|promulgación||S|ist|C2
-estatização|estatización||S|ist|C2
-garantismo|garantismo||S|ist|C2
-anamnese|anamnesis||S|sla|C2
-iatrogenia|yatrogenia||S|sla|C2
-comorbilidade|comorbilidad||S|sla|C2
-patognomónico|patognomónico||A|sla|C2
-nosocomial|nosocomial||A|sla|C2
-idiopático|idiopático||A|sla|C2
-etiologia|etiología||S|sla|C2
-sintomatologia|sintomatología||S|sla|C2
-perfusão|perfusión||S|sla|C2
-hemodiálise|hemodiálisis||S|sla|C2
-profilaxia|profilaxis||S|sla|C2
-auscultação|auscultación||S|sla|C2
-diagnóstico diferencial|diagnóstico diferencial||S|sla|C2
-vasoconstrição|vasoconstricción||S|sla|C2
+iniciativa legislativa|iniciativa legislativa||L|ist|C2
+decreto-lei|decreto ley||S|ist|C2
+mandato imperativo|mandato imperativo||L|ist|C2
+sufrágio|sufragio||S|ist|C2
+separação de poderes|separación de poderes||L|ist|C2
+imunidade parlamentar|inmunidad parlamentaria||L|ist|C2
+fiscalização preventiva|control preventivo de constitucionalidad||L|ist|C2
+regime semipresidencialista|régimen semipresidencialista||S|ist|C2
+interpretação conforme|interpretación conforme (a la Constitución)||L|ist|C2
+triagem|triaje||S|sla|C2
+alta hospitalar|alta hospitalaria||L|sla|C2
+doente ambulatório|paciente ambulatorio||L|sla|C2
+prognóstico reservado|pronóstico reservado||L|sla|C2
+exames complementares|pruebas complementarias||L|sla|C2
+anamnese|anamnesis (historia clínica)||S|sla|C2
+bloco operatório|quirófano (área quirúrgica)||L|sla|C2
+enfermaria|enfermería (sala de hospital)||S|sla|C2
+consulta externa|consulta externa||L|sla|C2
+internamento|ingreso hospitalario||S|sla|C2
+paragem cardiorrespiratória|parada cardiorrespiratoria||L|sla|C2
+prontuário|historia clínica||S|sla|C2
+sala de operações|quirófano||L|sla|C2
+escala de serviço|cuadro de guardia||L|sla|C2
+recolha de amostras|toma de muestras||L|sla|C2
+ensaio clínico aleatorizado|ensayo clínico aleatorizado||L|sla|C2
+efeito placebo|efecto placebo||L|sla|C2
 posologia|posología||S|sla|C2
 farmacocinética|farmacocinética||S|sla|C2
 biodisponibilidade|biodisponibilidad||S|sla|C2
-aleatorização|aleatorización||S|sci|C2
-grupo de controlo|grupo de control||S|sci|C2
-critério de inclusão|criterio de inclusión||S|sci|C2
-interação medicamentosa|interacción entre medicamentos||S|sla|C2
-efeito nocebo|efecto nocebo||S|sla|C2
-critério de avaliação|criterio de valoración||S|sci|C2
+interação medicamentosa|interacción medicamentosa||L|sla|C2
+efeito adverso|efecto adverso||L|sla|C2
+genérico|genérico (medicamento)||S|sla|C2
+substância ativa|principio activo||L|sla|C2
+contraindicação|contraindicación||S|sla|C2
+tolerabilidade|tolerabilidad||S|sla|C2
+braço do estudo|brazo del estudio||L|sla|C2
+critério de inclusão|criterio de inclusión||L|sla|C2
+via parentérica|vía parenteral||L|sla|C2
 farmacovigilância|farmacovigilancia||S|sla|C2
-excipiente|excipiente||S|sla|C2
-galénica|galénica (forma farmacéutica)||S|sla|C2
-adesão terapêutica|adherencia terapéutica||S|sla|C2
-polifarmácia|polifarmacia||S|sla|C2
-catatonia|catatonia||S|sla|C2
-hipomania|hipomanía||S|sla|C2
-disforia|disforia||S|sla|C2
-psicopatia|psicopatía||S|sla|C2
-compulsão|compulsión||S|sla|C2
-ruminação|rumiación (psiquiatría)||S|sla|C2
+despersonalização|despersonalización||S|sla|C2
+ideação suicida|ideación suicida||L|sla|C2
+fobia social|fobia social||L|sla|C2
+perturbação obsessivo-compulsiva|trastorno obsesivo-compulsivo||L|sla|C2
+perturbação de pânico|trastorno de pánico||L|sla|C2
+delírio persecutório|delirio persecutorio||S|sla|C2
 abulia|abulia||S|sla|C2
 anedonia|anedonia||S|sla|C2
-despersonalização|despersonalización||S|sla|C2
-delírio de referência|delirio de referencia||S|sla|C2
-psicofármaco|psicofármaco||S|sla|C2
-labilidade|labilidad (emocional)||S|sla|C2
-alexitimia|alexitimia||S|sla|C2
-dissociativo|disociativo||A|sla|C2
-obstinação terapêutica|encarnizamiento terapéutico||S|sla|C2
-consentimento informado|consentimiento informado||S|sla|C2
-objeção de consciência|objeción de conciencia||L|ist|C2
-maleficência|maleficencia (principio bioético)||S|sla|C2
-beneficência|beneficencia (principio bioético)||S|sla|C2
-confidencialidade|confidencialidad||S|sla|C2
-segredo médico|secreto médico||S|sla|C2
-imputabilidade|imputabilidad||S|ist|C2
-casuística|casuística||S|sla|C2
-deontologia|deontología||S|sla|C2
+catatonia|catatonía||S|sla|C2
+dissociação|disociación||S|sla|C2
+comorbilidade|comorbilidad||S|sla|C2
+paranoide|paranoico||A|sla|C2
+psicomotricidade|psicomotricidad||S|sla|C2
+esquizoafetivo|esquizoafectivo||A|sla|C2
+psicose puerperal|psicosis puerperal||L|sla|C2
+consentimento informado|consentimiento informado||L|sla|C2
+testamento vital|testamento vital||L|sla|C2
+dignidade humana|dignidad humana||L|sla|C2
+princípio de beneficência|principio de beneficencia||L|sla|C2
+não maleficência|no maleficencia||S|sla|C2
+alocamento de recursos escassos|asignación de recursos escasos||L|sla|C2
 eugenia|eugenesia||S|sla|C2
-redução de danos|reducción de daños||S|sla|C2
-subsidiariedade|subsidiariedad (principio)||S|ist|C2
-justiça distributiva|justicia distributiva||S|ist|C2
+distanásia|distanasia||S|sla|C2
+ortotanásia|ortotanasia||S|sla|C2
+comissão de ética|comité de ética||L|sla|C2
+confidencialidade do doente|secreto médico||L|sla|C2
+obstinação terapêutica|encarnizamiento terapéutico||L|sla|C2
+anonimização|anonimización||S|sla|C2
+objeção de consciência|objeción de conciencia||L|ist|C2
+balanço risco-benefício|balance riesgo-beneficio||L|sla|C2
+afrouxamento quantitativo|flexibilización cuantitativa||L|fin|C2
+juro de referência|tipo de interés de referencia||L|fin|C2
+estabilizadores automáticos|estabilizadores automáticos||S|fin|C2
+liquidez excedentária|liquidez excedente||L|fin|C2
+rácio|ratio (coeficiente)||S|fin|C2
+emissão de dívida|emisión de deuda||L|fin|C2
+leilão de títulos|subasta de valores||L|fin|C2
+dívida soberana|deuda soberana||L|fin|C2
+prima de risco|prima de riesgo||L|fin|C2
 estagflação|estanflación||S|fin|C2
-emissão fiduciária|emisión fiduciaria||S|fin|C2
-alívio quantitativo|flexibilización cuantitativa||S|fin|C2
-taxa diretora|tipo de interés de referencia||S|fin|C2
-prima de risco|prima de riesgo||S|fin|C2
-consolidação orçamental|consolidación fiscal||S|fin|C2
-mercado interbancário|mercado interbancario||S|fin|C2
-desinflação|desinflación||S|fin|C2
-deflator|deflactor||S|fin|C2
-ajustamento estrutural|ajuste estructural||S|fin|C2
-superávit primário|superávit primario||S|fin|C2
-dívida soberana|deuda soberana||S|fin|C2
-recessão técnica|recesión técnica||S|fin|C2
-paridade|paridad (de cambio)||S|fin|C2
-pauta aduaneira|arancel aduanero||S|fin|C2
-direitos antidumping|derechos antidumping||S|fin|C2
-balança comercial|balanza comercial||S|fin|C2
-termos de troca|términos de intercambio||S|fin|C2
-protecionismo|proteccionismo||S|fin|C2
-subsídio à exportação|subvención a la exportación||S|fin|C2
-câmara de compensação|cámara de compensación||S|fin|C2
-alfândega|aduana||S|tra|C2
-desalfandegamento|despacho aduanero||S|fin|C2
-contingentamento|contingentamiento (de importaciones)||S|fin|C2
-certificado de origem|certificado de origen||S|fin|C2
-livre-câmbio|libre cambio||S|fin|C2
-letra de câmbio|letra de cambio||S|fin|C2
-câmbio flutuante|cambio flotante||S|fin|C2
-balancete|balance de comprobación||S|fin|C2
-imparidade|deterioro (de valor en balance)||S|fin|C2
-parecer de auditoria|informe de auditoría||S|fin|C2
-incobrável|incobrable (deudor)||A|fin|C2
-réditos|réditos (intereses devengados)||S|fin|C2
-consolidação de contas|consolidación de cuentas||S|fin|C2
-escrituração|contabilización (registro de libros)||S|fin|C2
-valor justo|valor razonable||S|fin|C2
-exercício económico|ejercicio económico||S|fin|C2
-governação societária|gobierno corporativo||S|fin|C2
-aquisição hostil|adquisición hostil (OPA hostil)||S|fin|C2
-cisão|escisión (de sociedades)||S|fin|C2
-dissolução e liquidação|disolución y liquidación||S|fin|C2
-obrigações|bonos (títulos de deuda)||S|fin|C2
-permuta financeira|permuta financiera (swap)||S|fin|C2
-venda a descoberto|venta en corto||S|fin|C2
-margem de garantia|margen de garantía||S|fin|C2
-posição curta|posición corta||S|fin|C2
-colateral|colateral (en garantías)||S|fin|C2
-opção de compra|opción de compra||S|fin|C2
-beta|beta (riesgo sistemático)||S|fin|C2
+austeridade|austeridad||S|fin|C2
+abrandamento da atividade|desaceleración de la actividad||L|fin|C2
+aperto monetário|estrechamiento monetario||L|fin|C2
+disciplina orçamental|disciplina presupuestaria||L|fin|C2
+sustentabilidade das contas públicas|sostenibilidad de las cuentas públicas||L|fin|C2
+pauta aduaneira|arancel aduanero||L|fin|C2
+barreira não tarifária|barrera no arancelaria||L|fin|C2
+nação mais favorecida|nación más favorecida||L|fin|C2
+dumping|dumping (venta bajo coste)||S|fin|C2
+contingente de importação|contingente de importación||L|fin|C2
+balança comercial|balanza comercial||L|fin|C2
+desvalorização cambial|devaluación cambiaria||L|fin|C2
+letra de câmbio|letra de cambio||L|fin|C2
+desalfandegamento|despacho de aduanas||S|fin|C2
+certificado de origem|certificado de origen||L|fin|C2
+transitário|transitario (agente de aduanas)||S|pro|C2
+trocas comerciais|intercambios comerciales||L|fin|C2
+reciprocidade comercial|reciprocidad comercial||L|fin|C2
+balança de transações correntes|balanza por cuenta corriente||L|fin|C2
+livre prestação de serviços|libre prestación de servicios||L|fin|C2
+amortização acelerada|amortización acelerada||L|fin|C2
+valor justo|valor razonable||L|fin|C2
+prudência contabilística|prudencia contable||L|fin|C2
+imparidade|deterioro de valor||S|fin|C2
+provisão para créditos incobráveis|provisión para insolvencias||L|fin|C2
+balancete|balance de sumas y saldos||S|fin|C2
+lançamento contabilístico|asiento contable||L|fin|C2
+parecer sem ressalvas|informe de auditoría sin salvedades||L|fin|C2
+continuidade das operações|empresa en funcionamiento||L|fin|C2
+partidas dobradas|partida doble||L|fin|C2
+escrituração|contabilización (registro contable)||S|fin|C2
+aquisição alavancada|compra apalancada||L|fin|C2
+capital próprio|patrimonio neto||L|fin|C2
+demonstrações financeiras|estados financieros||L|fin|C2
+rácio de liquidez|ratio de liquidez||L|fin|C2
+instrumento derivado|instrumento derivado||L|fin|C2
+contrato a prazo|contrato a plazo||L|fin|C2
+venda a descoberto|venta en corto||L|fin|C2
+margem de garantia|margen de garantía||L|fin|C2
+ajuste diário|ajuste diario (liquidación de diferencias)||L|fin|C2
+valor temporal|valor temporal (de la opción)||L|fin|C2
+risco de contraparte|riesgo de contraparte||L|fin|C2
+teste de resistência|prueba de resistencia||L|fin|C2
+colateral|colateral (garantía real)||S|fin|C2
+marcação a mercado|valoración a mercado||L|fin|C2
 alavancagem|apalancamiento||S|fin|C2
-marcação ao mercado|valoración a mercado||S|fin|C2
-risco sistémico|riesgo sistémico||S|fin|C2
-teste de esforço|prueba de resistencia||S|fin|C2
-arbitragem|arbitraje (financiero)||S|fin|C2
-lastro|respaldo (de activos)||S|fin|C2
-corretagem|comisión de intermediación||S|fin|C2
-nucleótido|nucleótido||S|sci|C2
-epigenética|epigenética||S|sci|C2
-metilação|metilación||S|sci|C2
-polimorfismo|polimorfismo||S|sci|C2
-heterozigoto|heterocigoto||S|sci|C2
-telómero|telómero||S|sci|C2
-apoptose|apoptosis||S|sci|C2
-recombinante|recombinante||A|sci|C2
-meiose|meiosis||S|sci|C2
-plasmídeo|plásmido||S|sci|C2
-transcrição|transcripción||S|sci|C2
-genótipo|genotipo||S|sci|C2
-exoma|exoma||S|sci|C2
-penetrância|penetrancia||S|sci|C2
-seroconversão|seroconversión||S|sla|C2
-opsonização|opsonización||S|sci|C2
-fagocitose|fagocitosis||S|sci|C2
-imunossupressão|inmunosupresión||S|sla|C2
-sorologia|serología||S|sla|C2
+liquidez de mercado|liquidez de mercado||L|fin|C2
+ativo tóxico|activo tóxico||L|fin|C2
+opção de venda|opción de venta||L|fin|C2
+cobertura de câmbio|cobertura cambiaria||L|fin|C2
+codão|codón||S|sci|C2
+exão|exón||S|sci|C2
+polimorfismo genético|polimorfismo genético||L|sci|C2
+alelo recessivo|alelo recesivo||L|sci|C2
+epistasia|epistasia||S|sci|C2
+recombinação homóloga|recombinación homóloga||L|sci|C2
+elemento transponível|elemento transponible||L|sci|C2
+regulação epigenética|regulación epigenética||L|sci|C2
+transcrição reversa|transcripción inversa||L|sci|C2
+cadeia polipeptídica|cadena polipeptídica||L|sci|C2
+metilação da citosina|metilación de la citosina||L|sci|C2
+pleiotropia|pleiotropía||S|sci|C2
+clivagem enzimática|clivaje enzimático||L|sci|C2
+cariótipo|cariotipo||S|sci|C2
+dominância incompleta|dominancia incompleta||L|sci|C2
+anticorpo monoclonal|anticuerpo monoclonal||L|sci|C2
+imunidade humoral|inmunidad humoral||L|sci|C2
+imunossupressão|inmunosupresión||S|sci|C2
+cascata inflamatória|cascada inflamatoria||L|sci|C2
+citocina|citoquina||S|sci|C2
+sorotipo|serotipo||S|sci|C2
 patogenicidade|patogenicidad||S|sci|C2
-virulência|virulencia||S|sla|C2
-zoonose|zoonosis||S|sla|C2
-anticorpo monoclonal|anticuerpo monoclonal||S|sla|C2
-imunidade de grupo|inmunidad de grupo||S|sla|C2
-microbiota|microbiota||S|sla|C2
-antibiograma|antibiograma||S|sla|C2
-bacteriófago|bacteriófago||S|sci|C2
-esporulação|esporulación||S|sci|C2
+virulência|virulencia||S|sci|C2
+resistência antimicrobiana|resistencia antimicrobiana||L|sci|C2
+microbioma|microbioma||S|sci|C2
+hemocultura|hemocultivo||S|sci|C2
+soroconversão|seroconversión||S|sci|C2
+zona de inibição|halo de inhibición||L|sci|C2
+linfócito|linfocito||S|sci|C2
+anticorpo neutralizante|anticuerpo neutralizante||L|sci|C2
+plasticidade sináptica|plasticidad sináptica||L|sci|C2
+potencial de ação|potencial de acción||L|sci|C2
+neuroimagem|neuroimagen||S|sci|C2
+córtex pré-frontal|corteza prefrontal||L|sci|C2
+circuito cerebral|circuito cerebral||L|sci|C2
+mielinização|mielinización||S|sci|C2
+metacognição|metacognición||S|sci|C2
+degenerescência|degenerescencia||S|sci|C2
+atrofia cortical|atrofia cortical||L|sci|C2
+atenção dividida|atención dividida||L|sci|C2
+atenção seletiva|atención selectiva||L|sci|C2
+limiar de excitação|umbral de excitación||L|sci|C2
+vias dopaminérgicas|vías dopaminérgicas||L|sci|C2
 sinapse|sinapsis||S|sci|C2
-neurotransmissor|neurotransmisor||S|sci|C2
-plasticidade sináptica|plasticidad sináptica||S|sci|C2
-mielinação|mielinización||S|sci|C2
-afasia|afasia||S|sla|C2
-agnosia|agnosia||S|sla|C2
-apraxia|apraxia||S|sla|C2
-parestesia|parestesia||S|sla|C2
-espasticidade|espasticidad||S|sla|C2
-neuropatia|neuropatía||S|sla|C2
-neuroimagem|neuroimagen||S|sla|C2
-córtex pré-frontal|córtex prefrontal||S|sci|C2
-potencial de ação|potencial de acción||S|sci|C2
-neuroplasticidade|neuroplasticidad||S|sci|C2
+sistema límbico|sistema límbico||L|sci|C2
+grupo funcional|grupo funcional||L|sci|C2
 estereoquímica|estereoquímica||S|sci|C2
-tautomeria|tautomería||S|sci|C2
-estereoisómero|estereoisómero||S|sci|C2
-hidrólise|hidrólisis||S|sci|C2
-alotropia|alotropía||S|sci|C2
-eletronegatividade|electronegatividad||S|sci|C2
-ligação covalente|enlace covalente||S|sci|C2
-grupo funcional|grupo funcional||S|sci|C2
-titulação|valoración (análisis volumétrico)||S|sci|C2
-quelação|quelación||S|sci|C2
-isomeria|isomería||S|sci|C2
-ácido carboxílico|ácido carboxílico||S|sci|C2
-haleto|haluro||S|sci|C2
+quiralidade|quiralidad||S|sci|C2
+exotérmico|exotérmico||A|sci|C2
+catalisador heterogéneo|catalizador heterogéneo||L|sci|C2
+estequiometria|estequiometría||S|sci|C2
+ligação covalente|enlace covalente||L|sci|C2
 solvatação|solvatación||S|sci|C2
-decoerência|decoherencia||S|sci|C2
-emaranhamento|entrelazamiento||S|sci|C2
-superposição|superposición||S|sci|C2
-fermião|fermión||S|sci|C2
+titulação|valoración (titulación)||S|sci|C2
+amina|amina||S|sci|C2
+halogenação|halogenación||S|sci|C2
+polimerização por adição|polimerización por adición||L|sci|C2
+eletrodo de referência|electrodo de referencia||L|sci|C2
+azeótropo|azeótropo||S|sci|C2
+entrelaçamento quântico|entrelazamiento cuántico||L|sci|C2
+decoerência|descoherencia||S|sci|C2
+princípio da incerteza|principio de incertidumbre||L|sci|C2
+função de onda|función de onda||L|sci|C2
+inelástico|inelástico||A|sci|C2
+bóson de gauge|bosón de gauge||L|sci|C2
 antimatéria|antimateria||S|sci|C2
-efeito túnel|efecto túnel||S|sci|C2
-princípio da incerteza|principio de incertidumbre||S|sci|C2
-spin|espín||S|sci|C2
-função de onda|función de onda||S|sci|C2
-número quântico|número cuántico||S|sci|C2
-bóson|bosón||S|sci|C2
-hadrão|hadrón||S|sci|C2
-leptão|leptón||S|sci|C2
-aniquilação|aniquilación (de partículas)||S|sci|C2
-singularidade|singularidad (gravitacional)||S|sci|C2
-exoplaneta|exoplaneta||S|sci|C2
-lente gravitacional|lente gravitacional||S|sci|C2
-radiação de fundo|radiación de fondo||S|sci|C2
-quasar|cuásar||S|sci|C2
-heliopausa|heliopausa||S|sci|C2
-anã branca|enana blanca||S|sci|C2
-desvio para o vermelho|corrimiento al rojo||S|sci|C2
-apogeu|apogeo||S|sci|C2
-perigeu|perigeo||S|sci|C2
-paralaxe|paralaje||S|sci|C2
-ascensão reta|ascensión recta||S|sci|C2
-magnitude aparente|magnitud aparente||S|sci|C2
-espaço-tempo|espaciotiempo||S|sci|C2
-célula estaminal|célula madre||S|sci|C2
-edição genómica|edición genómica||S|sci|C2
-transgénico|transgénico||A|sci|C2
-clonagem terapêutica|clonación terapéutica||S|sci|C2
+quebra de simetria|rotura de simetría||L|sci|C2
+confinamento de cor|confinamiento de color||L|sci|C2
+decaimento beta|desintegración beta||L|sci|C2
+flutuação do vácuo|fluctuación del vacío||L|sci|C2
+partícula elementar|partícula elemental||L|sci|C2
+sobreposição de estados|superposición de estados||L|sci|C2
+teoria de cordas|teoría de cuerdas||L|sci|C2
+buraco negro supermassivo|agujero negro supermasivo||L|sci|C2
+anã branca|enana blanca||L|sci|C2
+radiação cósmica de fundo|radiación cósmica de fondo||L|sci|C2
+desvio para o vermelho|corrimiento al rojo||L|sci|C2
+lente gravitacional|lente gravitacional||L|sci|C2
+metalicidade|metalacidad (proporción de metales)||S|sci|C2
+colapso gravitacional|colapso gravitacional||L|sci|C2
+matéria escura fria|materia oscura fría||L|sci|C2
+cefeida|cefeida (estrella variable)||S|sci|C2
+trânsito planetário|tránsito planetario||L|sci|C2
+energia escura|energía oscura||L|sci|C2
+nucleossíntese|nucleosíntesis||S|sci|C2
+inflação cósmica|inflación cósmica||L|sci|C2
+nebulosa planetária|nebulosa planetaria||L|sci|C2
+plasmídeo|plásmido||S|sci|C2
+enzima de restrição|enzima de restricción||L|sci|C2
+edição genómica|edición genómica||L|sci|C2
+organismo geneticamente modificado|organismo genéticamente modificado||L|sci|C2
+cultura de tecidos|cultivo de tejidos||L|sci|C2
 biorreator|biorreactor||S|sci|C2
-bioinformática|bioinformática||S|sci|C2
-enzima de restrição|enzima de restricción||S|sci|C2
-xenotransplante|xenotrasplante||S|sla|C2
-probiótico|probiótico||A|ali|C2
-organoide|organoides||S|sci|C2
-biossensor|biosensor||S|tec|C2
-biobanco|biobanco||S|sci|C2
-criptopreservação|criopreservación||S|sci|C2
-imunoterapia|inmunoterapia||S|sla|C2
-desvio-padrão|desviación típica||S|sci|C2
-amostragem|muestreo||S|sci|C2
-enviesamento|sesgo||S|sci|C2
-erro padrão|error típico||S|sci|C2
-inferência|inferencia||S|sci|C2
-variável aleatória|variable aleatoria||S|sci|C2
-regressão linear|regresión lineal||S|sci|C2
-significância estatística|significación estadística||S|sci|C2
-poder estatístico|potencia estadística||S|sci|C2
-fidedignidade|fiabilidad (de datos)||S|sci|C2
-espúria|espuria (correlación engañosa)||A|sci|C2
-falácia ecológica|falacia ecológica||S|sci|C2
-revisão por pares|revisión por pares||S|sci|C2
-tabela de contingência|tabla de contingencia||S|sci|C2
+bioprospeção|bioprospección||S|sci|C2
+clonagem terapêutica|clonación terapéutica||L|sci|C2
+banco de germoplasma|banco de germoplasma||L|sci|C2
+micropropagação|micropropagación||S|sci|C2
+biossensor|biosensor||S|sci|C2
+rota metabólica|ruta metabólica||L|sci|C2
+proteína recombinante|proteína recombinante||L|sci|C2
+terapêutica génica|terapia génica||L|sla|C2
+inferência bayesiana|inferencia bayesiana||L|sci|C2
+significância estatística|significación estadística||L|sci|C2
+hipótese nula|hipótesis nula||L|sci|C2
+poder estatístico|potencia estadística||L|sci|C2
+enviesamento de seleção|sesgo de selección||L|sci|C2
+aleatorização por blocos|aleatorización por bloques||L|sci|C2
+análise em componentes principais|análisis de componentes principales||L|sci|C2
+replicação|replicación||S|sci|C2
+revisão por pares|revisión por pares||L|sci|C2
+desenho experimental|diseño experimental||L|sci|C2
+correlação espúria|correlación espuria||L|sci|C2
+força da associação|fuerza de la asociación||L|sci|C2
+crise de replicação|crisis de replicación||L|sci|C2
+regressão linear múltipla|regresión lineal múltiple||L|sci|C2
+vigilância epidemiológica|vigilancia epidemiológica||L|sla|C2
 letalidade|letalidad||S|sla|C2
-morbilidade|morbilidad||S|sla|C2
-vigilância epidemiológica|vigilancia epidemiológica||S|sla|C2
-soroprevalência|seroprevalencia||S|sla|C2
-notificação obrigatória|declaración obligatoria||S|sla|C2
-vigilância sentinela|vigilancia centinela||S|sla|C2
-desfecho|desenlace (resultado clínico)||S|sla|C2
-determinantes da saúde|determinantes de la salud||S|sla|C2
-equidade|equidad||S|sla|C2
-carga de doença|carga de enfermedad||S|sla|C2
-endémico|endémico||A|nat|C2
-transmissibilidade|transmisibilidad||S|sla|C2
-saúde ocupacional|salud laboral||S|lav|C2
-risco relativo|riesgo relativo||S|sla|C2
+incidência acumulada|incidencia acumulada||L|sla|C2
+inquérito serológico|estudio serológico||L|sla|C2
+determinantes da saúde|determinantes de la salud||L|sla|C2
+surto epidémico|brote epidémico||L|sla|C2
+notificação obrigatória|declaración obligatoria||L|sla|C2
+via de transmissão|vía de transmisión||L|sla|C2
+rastreamento de contactos|rastreo de contactos||L|sla|C2
+carga de doença|carga de enfermedad||L|sla|C2
+endemicidade|endemicidad||S|sla|C2
+zoonose|zoonosis||S|sla|C2
+transmissão comunitária|transmisión comunitaria||L|sla|C2
+vigilância sentinela|vigilancia centinela||L|sla|C2
+falha transformante|falla transformante||L|sci|C2
+câmara magmática|cámara magmática||L|sci|C2
+subducção|subducción||S|sci|C2
 orogenia|orogenia||S|sci|C2
-isostasia|isostasia||S|sci|C2
-diagénese|diagénesis||S|sci|C2
 metamorfismo|metamorfismo||S|sci|C2
-xisto|esquisto||S|nat|C2
-talude continental|talud continental||S|nat|C2
-corrente de turbidez|corriente de turbidez||S|nat|C2
-batimetria|batimetría||S|sci|C2
-moreia|morrena||S|nat|C2
-sismologia|sismología||S|sci|C2
-falha transformante|falla transformante||S|nat|C2
-plutonismo|plutonismo||S|sci|C2
-cratão|cratón||S|sci|C2
-piroclasto|piroclasto||S|sci|C2
+gneisse|gneis||S|sci|C2
+marga|marga||S|sci|C2
+estratigrafia|estratigrafía||S|sci|C2
+paleomagnetismo|paleomagnetismo||S|sci|C2
+sismógrafo|sismógrafo||S|sci|C2
+tsunamigénico|tsunamigénico||A|sci|C2
+aquífero confinado|acuífero confinado||L|sci|C2
+deriva dos continentes|deriva continental||L|sci|C2
+datação radiométrica|datación radiométrica||L|sci|C2
+jazigo mineral|yacimiento mineral||L|sci|C2
+topologia algébrica|topología algebraica||L|sci|C2
+espaço normado|espacio normado||L|sci|C2
+ponto de acumulação|punto de acumulación||L|sci|C2
+derivada parcial|derivada parcial||L|sci|C2
+integral imprópria|integral impropia||L|sci|C2
+demonstração por indução|demostración por inducción||L|sci|C2
+contrapositivo|contrapositivo||A|sci|C2
+silogismo categórico|silogismo categórico||L|sci|C2
+círculo vicioso|petición de principio||L|sci|C2
+quantificador existencial|cuantificador existencial||L|sci|C2
+antinomia|antinomia||S|sci|C2
+teorema de incompletude|teorema de incompletitud||L|sci|C2
+isomorfismo|isomorfismo||S|sci|C2
+hipótese do contínuo|hipótesis del continuo||L|sci|C2
+teoria dos conjuntos|teoría de conjuntos||L|sci|C2
