@@ -1,4 +1,4 @@
-/* v9.43 · PT bloque 2/13 · 700 entradas */
+/* v9.43 · PT bloque 2/16 · 700 entradas */
 export const PT_V943_2_RAW = `
 quinzena|quincena||S|tmp|A2
 coleção|colección||S|sve|A2

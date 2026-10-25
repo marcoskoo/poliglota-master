@@ -1,4 +1,4 @@
-/* v9.43 · FR bloque 8/11 · 700 entradas */
+/* v9.43 · FR bloque 8/16 · 700 entradas */
 export const FR_V943_8_RAW = `
 minéralogie|mineralogía||S|sci|C2
 gisement|yacimiento||S|sci|C2

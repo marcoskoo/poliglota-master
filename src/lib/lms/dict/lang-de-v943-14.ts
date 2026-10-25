@@ -1,4 +1,4 @@
-/* v9.43 · DE bloque 14/14 · 436 entradas */
+/* v9.43 · DE bloque 14/16 · 700 entradas */
 export const DE_V943_14_RAW = `
 die Küchenbrigade|brigada de cocina||S|ris|C2
 das Aromaprofil|perfil aromático||S|ris|C2
@@ -436,4 +436,268 @@ Staub aufwirbeln|levantar polvo||E|att|C2
 Öl ins Feuer gießen|echar leña al fuego||E|emo|C2
 die erste Geige spielen|llevar la voz cantante||E|mus|C2
 den Ton angeben|imponer el tono||E|cmu|C2
+grüßen|saludar||V|sal|A2
+der Abschied|despedida||S|sal|A2
+die Cousine|prima||S|fam|A2
+der Großvater|abuelo||S|fam|A2
+der Ehemann|esposo; marido||S|fam|A2
+die Hochzeit|boda||S|fam|A2
+das Paar|pareja||S|fam|A2
+das Badezimmer|cuarto de baño||S|cas|A2
+der Schreibtisch|escritorio||S|cas|A2
+das Waschbecken|lavabo||S|cas|A2
+die Kaffeemaschine|cafetera||S|cas|A2
+das Putzmittel|producto de limpieza||S|cas|A2
+das Waschmittel|detergente||S|cas|A2
+der Staub|polvo||S|cas|A2
+die Flasche|botella||S|cas|A2
+die Taschenlampe|linterna||S|cas|A2
+die Orange|naranja||S|ali|A2
+die Zitrone|limón||S|ali|A2
+die Birne|pera||S|ali|A2
+die Traube|uva||S|ali|A2
+die Erdbeere|fresa||S|ali|A2
+die Kirsche|cereza||S|ali|A2
+die Melone|melón||S|ali|A2
+der Pfirsich|melocotón||S|ali|A2
+die Gurke|pepino||S|ali|A2
+die Karotte|zanahoria||S|ali|A2
+die Paprika|pimiento||S|ali|A2
+das Joghurt|yogur||S|ali|A2
+der Kakao|cacao (bebida)||S|ali|A2
+die Linse|lenteja||S|ali|A2
+die Nuss|nuez||S|ali|A2
+geöffnet|abierto||A|cmp|A2
+geschlossen|cerrado||A|cmp|A2
+die Packung|paquete||S|cmp|A2
+die Dose|lata||S|cmp|A2
+das Kilo|kilo||S|cmp|A2
+das Gramm|gramo||S|cmp|A2
+der Liter|litro||S|cmp|A2
+das Stück|pieza; trozo||S|cmp|A2
+der Fahrer|conductor||S|tra|A2
+tanken|echar gasolina||V|tra|A2
+das Benzin|gasolina||S|tra|A2
+der Reifen|neumático||S|tra|A2
+die Bremse|freno||S|tra|A2
+die Klingel|timbre||S|tra|A2
+die Bahn|tren; ferrocarril||S|tra|A2
+der Helm|casco||S|tra|A2
+das Motorrad|motocicleta||S|tra|A2
+das Zelt|tienda de campaña||S|vig|A2
+der Schlafsack|saco de dormir||S|vig|A2
+das Lagerfeuer|hoguera||S|vig|A2
+grillen|hacer una barbacoa||V|vig|A2
+das Ziel|destino||S|vig|A2
+die Sonnencreme|crema solar||S|vig|A2
+das Ufer|orilla||S|vig|A2
+die Sauna|sauna||S|htl|A2
+sich erkälten|constiparse||V|sla|A2
+der Patient|paciente||S|sla|A2
+wehtun|doler||V|sla|A2
+das Dokument|documento||S|lav|A2
+der Stift|bolígrafo||S|lav|A2
+der Bleistift|lápiz||S|lav|A2
+das Heft|cuaderno||S|lav|A2
+das Lineal|regla||S|lav|A2
+der Radiergummi|goma de borrar||S|lav|A2
+der Hefter|grapadora||S|lav|A2
+der Bauer|agricultor||S|pro|A2
+der Briefträger|cartero||S|pro|A2
+der Feuerwehrmann|bombero||S|pro|A2
+das Klassenzimmer|aula||S|stu|A2
+die Tafel|pizarra||S|stu|A2
+das Wörterbuch|diccionario||S|stu|A2
+die Zeitschrift|revista||S|stu|A2
+die Mathematik|matemáticas||S|stu|A2
+die Biologie|biología||S|stu|A2
+die Physik|física||S|stu|A2
+die Grundschule|colegio de primaria||S|stu|A2
+die Fremdsprache|idioma extranjero||S|stu|A2
+der Text|texto||S|stu|A2
+die Übung|ejercicio||S|stu|A2
+das Thema|tema||S|stu|A2
+das Theater|teatro||S|cit|A2
+die Mauer|muro||S|cit|A2
+der Weg|camino||S|cit|A2
+die Richtung|dirección||S|cit|A2
+links|a la izquierda||D|cit|A2
+rechts|a la derecha||D|cit|A2
+geradeaus|todo recto||D|cit|A2
+die Adresse|dirección (domicilio)||S|cit|A2
+schneien|nevar||V|cli|A2
+regnen|llover||V|cli|A2
+die Temperatur|temperatura||S|cli|A2
+kühl|fresco||A|cli|A2
+trocken|seco||A|cli|A2
+frieren|pasar frío||V|cli|A2
+die Jahreszeit|estación del año||S|cli|A2
+die Turnschuhe|zapatillas de deporte||S|rop|A2
+die Kette|collar||S|rop|A2
+sich umziehen|cambiarse de ropa||V|rop|A2
+der Drucker|impresora||S|tec|A2
+löschen|borrar||V|tec|A2
+das Ladegerät|cargador||S|tec|A2
+der Kopfhörer|auriculares||S|tec|A2
+das Foto|foto||S|tec|A2
+fotografieren|hacer fotos||V|tec|A2
+die Kamera|cámara||S|tec|A2
+schießen|chutar||V|spt|A2
+der Ball|balón||S|spt|A2
+der Basketball|baloncesto||S|spt|A2
+das Tennis|tenis||S|spt|A2
+joggen|hacer footing||V|spt|A2
+reiten|montar a caballo||V|spt|A2
+das Stadion|estadio||S|spt|A2
+die Medaille|medalla||S|spt|A2
+das Klavier|piano||S|mus|A2
+die Flöte|flauta||S|mus|A2
+das Konzert|concierto||S|mus|A2
+der Musiker|músico||S|mus|A2
+Klavier spielen|tocar el piano||L|mus|A2
+üben|ensayar||V|mus|A2
+die Schauspielerin|actriz||S|cin|A2
+der Krimi|película policíaca||S|cin|A2
+die Werbung|anuncio||S|cin|A2
+das Programm|programación||S|cin|A2
+die Rolle|papel||S|cin|A2
+die Nachbarin|vecina||S|rel|A2
+gemeinsam|juntos||A|rel|A2
+die Pommes|patatas fritas||S|ris|A2
+salzen|salar||V|ris|A2
+bunt|de colores||A|col|A2
+die Farbe|color||S|col|A2
+die Form|forma||S|col|A2
+das Dreieck|triángulo||S|col|A2
+der Kreis|círculo||S|col|A2
+das Quadrat|cuadrado||S|col|A2
+rund|redondo||A|col|A2
+der Stern|estrella||S|col|A2
+die Lippe|labio||S|cor|A2
+die Brust|pecho||S|cor|A2
+die Kraft|fuerza||S|cor|A2
+stark|fuerte||A|cor|A2
+schwach|débil||A|cor|A2
+der Hamster|hámster||S|ani|A2
+das Meerschweinchen|conejo de Indias||S|ani|A2
+das Kaninchen|conejo||S|ani|A2
+das Schaf|oveja||S|ani|A2
+der Löwe|león||S|ani|A2
+der Tiger|tigre||S|ani|A2
+der Elefant|elefante||S|ani|A2
+der Bär|oso||S|ani|A2
+der Hase|liebre||S|ani|A2
+der Affe|mono||S|ani|A2
+die Möwe|gaviota||S|ani|A2
+die Taube|paloma||S|ani|A2
+die Biene|abeja||S|ani|A2
+die Ameise|hormiga||S|ani|A2
+der Schmetterling|mariposa||S|ani|A2
+die Spinne|araña||S|ani|A2
+die Insel|isla||S|nat|A2
+das Tal|valle||S|nat|A2
+die Wiese|pradera||S|nat|A2
+der Stein|piedra||S|nat|A2
+das Gras|hierba||S|nat|A2
+die Pflanze|planta||S|nat|A2
+die Rose|rosa||S|nat|A2
+die Tulpe|tulipán||S|nat|A2
+die Wurzel|raíz||S|nat|A2
+der Sand|arena||S|nat|A2
+die Welle|ola||S|nat|A2
+der Montag|lunes||S|tmp|A2
+der Dienstag|martes||S|tmp|A2
+der Mittwoch|miércoles||S|tmp|A2
+der Donnerstag|jueves||S|tmp|A2
+der Freitag|viernes||S|tmp|A2
+der Samstag|sábado||S|tmp|A2
+der Sonntag|domingo||S|tmp|A2
+der Januar|enero||S|tmp|A2
+der Februar|febrero||S|tmp|A2
+der März|marzo||S|tmp|A2
+der April|abril||S|tmp|A2
+der Mai|mayo||S|tmp|A2
+der Juni|junio||S|tmp|A2
+der Juli|julio||S|tmp|A2
+der August|agosto||S|tmp|A2
+der September|septiembre||S|tmp|A2
+der Oktober|octubre||S|tmp|A2
+der November|noviembre||S|tmp|A2
+der Dezember|diciembre||S|tmp|A2
+halb drei|las tres y media||E|tmp|A2
+immer|siempre||D|tmp|A2
+der Tanz|baile||S|sve|A2
+malen|pintar||V|sve|A2
+zeichnen|dibujar||V|sve|A2
+backen|hornear||V|sve|A2
+spazieren gehen|pasear||L|sve|A2
+Angst haben|tener miedo||L|emo|A2
+nervös|nervioso||A|emo|A2
+spannend|emocionante||A|emo|A2
+stolz|orgulloso||A|emo|A2
+telefonieren|hablar por teléfono||V|cmu|A2
+der Brief|carta||S|cmu|A2
+reden|hablar||V|cmu|A2
+zuhören|escuchar||V|cmu|A2
+der Wunsch|deseo||S|ast|A2
+wünschen|desear||V|ast|A2
+der Traum|sueño||S|ast|A2
+träumen|soñar||V|ast|A2
+der Lärm|ruido||S|ast|A2
+die Hilfe|ayuda||S|ast|A2
+die Lust|ganas||S|ast|A2
+Lust haben|tener ganas||L|ast|A2
+keine Ahnung|no tener ni idea||E|ast|A2
+der Pinsel|pincel||S|art|A2
+aber|pero||C|cnn|A2
+weil|porque||C|cnn|A2
+denn|porque||C|cnn|A2
+wenn|si; cuando||C|cnn|A2
+dass|que||C|cnn|A2
+ob|si (duda)||C|cnn|A2
+also|así que||D|cnn|A2
+doch|sin embargo||D|cnn|A2
+deswegen|por eso||D|cnn|A2
+ohne|sin||R|cnn|A2
+gegen|contra||R|cnn|A2
+durch|por||R|cnn|A2
+seit|desde||R|cnn|A2
+bis|hasta||R|cnn|A2
+die Kindertagesstätte|guardería infantil||S|fam|B1
+der Teenager|adolescente||S|fam|B1
+verwitwet|viudo||A|fam|B1
+das Verbot|prohibición||S|fam|B1
+sich verloben|prometerse||V|fam|B1
+die Braut|novia||S|fam|B1
+der Hochzeitstag|aniversario de boda||S|fam|B1
+die Warmmiete|alquiler con gastos incluidos||S|cas|B1
+der Mitbewohner|compañero de piso||S|cas|B1
+möbliert|amueblado||A|cas|B1
+die Terrasse|terraza||S|cas|B1
+das Gartentor|puerta del jardín||S|cas|B1
+die Zimmerpflanze|planta de interior||S|cas|B1
+die Dekoration|decoración||S|cas|B1
+der Hocker|taburete||S|cas|B1
+die Tischlampe|lámpara de mesa||S|cas|B1
+die Vase|jarrón||S|cas|B1
+der Bilderrahmen|marco de fotos||S|cas|B1
+der Parkettboden|suelo de parqué||S|cas|B1
+die Duschkabine|cabina de ducha||S|cas|B1
+die Sicherung|fusible||S|cas|B1
+der Heizkörper|radiador||S|cas|B1
+der Wecker|despertador||S|cas|B1
+der Hausbesitzer|propietario de la vivienda||S|cas|B1
+die Ruhezeit|horario de descanso||S|cas|B1
+die Immobilie|inmueble||S|fin|B1
+der Hauskauf|compra de vivienda||S|cas|B1
+die Maklergebühr|honorarios de la agencia||S|fin|B1
+das Hauptgericht|plato principal||S|ris|B1
+der Streichkäse|queso untable||S|ali|B1
+der Koriander|cilantro||S|ali|B1
+der Ahornsirup|sirope de arce||S|ali|B1
+die Diät|dieta||S|ali|B1
+glutenfrei|sin gluten||A|ali|B1
+laktosefrei|sin lactosa||A|ali|B1
+vegetarisch|vegetariano||A|ali|B1
+der Veganer|vegano||S|ali|B1
 `;

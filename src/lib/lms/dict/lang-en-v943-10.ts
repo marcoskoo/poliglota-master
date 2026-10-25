@@ -1,4 +1,4 @@
-/* v9.43 · EN bloque 10/13 · 700 entradas */
+/* v9.43 · EN bloque 10/14 · 700 entradas */
 export const EN_V943_10_RAW = `
 warehousing|almacenaje||S|lav|C1
 stockout|rotura de existencias||S|lav|C1

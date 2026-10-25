@@ -1,4 +1,4 @@
-/* v9.43 · DE bloque 3/14 · 700 entradas */
+/* v9.43 · DE bloque 3/16 · 700 entradas */
 export const DE_V943_3_RAW = `
 die Stressbewältigung|gestión del estrés||S|sla|B2
 der Kummer|pesar||S|emo|B2

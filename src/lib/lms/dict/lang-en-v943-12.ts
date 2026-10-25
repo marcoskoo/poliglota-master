@@ -1,4 +1,4 @@
-/* v9.43 · EN bloque 12/13 · 700 entradas */
+/* v9.43 · EN bloque 12/14 · 700 entradas */
 export const EN_V943_12_RAW = `
 equilibrium price|precio de equilibrio||L|fin|C2
 barrier to entry|barrera de entrada||L|fin|C2

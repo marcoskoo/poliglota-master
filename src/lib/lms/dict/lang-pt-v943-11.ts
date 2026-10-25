@@ -1,4 +1,4 @@
-/* v9.43 · PT bloque 11/13 · 700 entradas */
+/* v9.43 · PT bloque 11/16 · 700 entradas */
 export const PT_V943_11_RAW = `
 eletroforese|electroforesis||S|sci|C2
 proteína recombinante|proteína recombinante||L|sci|C2

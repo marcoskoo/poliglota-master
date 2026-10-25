@@ -100,6 +100,22 @@ function bandTargets(cur: Record<Level, number>): Record<Level, number> {
 const TYPE_DOC = `S=sustantivo V=verbo A=adjetivo D=adverbio E=expresión L=locución P=pronombre R=preposición C=conjunción I=interjección`;
 const CAT_DOC = `sal(saludos) fam(familia) cas(casa) ali(alimentación) cmp(compras) tra(transporte) vig(viajes) htl(hotel) sla(salud) lav(trabajo) stu(estudios) cit(ciudad) cli(clima) rop(ropa) tec(tecnología) spt(deporte) mus(música) cin(cine) rel(relaciones) fin(finanzas) ris(restaurante) pro(profesiones) att(actualidad) sci(ciencia) let(literatura) col(colores) cor(cuerpo) ani(animales) nat(naturaleza) tmp(tiempo) sve(ocio) emo(emociones) cmu(comunicación) ist(instituciones) cnn(conectores) ast(abstracto) art(arte)`;
 
+/** v2: escribe la lista COMPLETA de exclusión por lengua en archivo aparte.
+    Formato: palabras ordenadas alfabéticamente, separadas por comas, ~110 chars/línea.
+    Devuelve el nº de palabras escritas. */
+function writeExclFile(lang: string, lemmas: Map<string, { w: string; level: string }>): number {
+  const words = [...lemmas.values()].map((x) => x.w).sort((a, b) => a.localeCompare(b));
+  const lines: string[] = [];
+  let cur = "";
+  for (const w of words) {
+    if (cur.length + w.length + 2 > 110) { lines.push(cur); cur = w; }
+    else cur = cur ? `${cur}, ${w}` : w;
+  }
+  if (cur) lines.push(cur);
+  writeFileSync(`${POOL}/excl-${lang}.txt`, lines.join("\n"));
+  return words.length;
+}
+
 function sampleLemmas(lemmas: Map<string, { w: string; level: string }>, band: "easy" | "mid" | "hard", n: number): string[] {
   const bandLevels = new Set(band === "easy" ? ["A1", "A2"] : band === "mid" ? ["B1", "B2"] : ["C1", "C2"]);
   const inBand: string[] = [];
@@ -121,7 +137,7 @@ function sampleLemmas(lemmas: Map<string, { w: string; level: string }>, band: "
 
 interface Job {
   id: string; lang: string; langName: string; level: Level; count: number;
-  topics: string[]; excl: string[];
+  topics: string[]; excl: string[]; exclTotal: number;
 }
 
 /* ── registro de jobs emitidos (evita dobles coberturas) ──────────── */
@@ -161,9 +177,7 @@ function idTaken(id: string): boolean {
 }
 
 function jobMarkdown(j: Job): string {
-  const excl = j.excl.length
-    ? `\nPALABRAS QUE YA EXISTEN (NO las repitas; si das una variante distinta de la MISMA familia, máximo 2 por familia):\n${j.excl.join(", ")}\n`
-    : "\n(No hay lista de exclusión: este nivel está casi vacío.)\n";
+  const excl = `\n## Lista COMPLETA de exclusión (OBLIGATORIO)\nEl archivo /home/z/my-project/scripts/v943-pool/excl-${j.lang}.txt contiene TODAS las palabras que ya existen en el diccionario ${j.langName.toUpperCase()} (${j.exclTotal} lemas, ordenados alfabéticamente, separados por comas, ~1 línea cada 10-12 palabras).\nLÉELO COMPLETO (una sola llamada Read, son ~${Math.ceil(j.exclTotal / 11)} líneas) ANTES de generar. NINGUNA palabra de tus entradas puede aparecer en esa lista. Si una palabra candidata está en la lista, descártala y busca otra del subtema.\n\nMuestra aleatoria de ya-existentes (solo para que veas el estilo): ${j.excl.slice(0, 40).join(", ")}\n`;
   const parts = Math.ceil(j.count / 330);
   const perPart = Math.ceil(j.count / parts);
   return `# Job lexicográfico ${j.id} · ${j.langName.toUpperCase()} nivel ${j.level}
@@ -210,12 +224,14 @@ Devuelve SOLO este resumen: job, archivos creados, entradas totales, si la verif
 
 function main() {
   const args = process.argv.slice(2);
-  const perJob = args.includes("--count") ? Number(args[args.indexOf("--count") + 1]) : 950;
+  const perJob = args.includes("--count") ? Number(args[args.indexOf("--count") + 1]) : 800;
 
   const reg = loadReg().filter((e) => jobDone(e.id) ? false : existsSync(`${JOBS}/${e.id}.md`));
   const jobs: Job[] = [];
+  const exclTotals: Record<string, number> = {};
   for (const lang of ["it", "en", "pt", "fr", "de"]) {
     const { counts, lemmas } = current(lang);
+    exclTotals[lang] = writeExclFile(lang, lemmas);
     const tgt = bandTargets(counts);
     // déficit por nivel MENOS lo ya asignado a jobs pendientes
     const pending: Record<string, number> = {};
@@ -259,7 +275,7 @@ function main() {
         jobs.push({
           id,
           lang, langName: LANG_NAME[lang], level: lvl2, count: per,
-          topics: slice, excl: sampleLemmas(lemmas, band, 110),
+          topics: slice, excl: sampleLemmas(lemmas, band, 110), exclTotal: exclTotals[lang],
         });
       }
     }

@@ -80,6 +80,27 @@ function harvest(lang: string) {
   return { lines, byLevel, repo, dropped };
 }
 
+/* v2 FIX CUMULATIVO: extrae las líneas RAW de los bloques hub existentes.
+   El hub anterior YA está fusionado en el repo (los consumers lo importan),
+   por lo que el nuevo build debe REGRABAR esas líneas + las nuevas del pool.
+   Sin esto, cada rebuild perdería el contenido de hubs anteriores. */
+function hubLines(lang: string): string[] {
+  const out: string[] = [];
+  const re = new RegExp(`^lang-${lang}-v943-(\\d+)\\.ts$`);
+  const files = existsSync(SRC)
+    ? readdirSync(SRC).filter((f) => re.test(f)).sort((a, b) => Number(a.match(re)![1]) - Number(b.match(re)![1]))
+    : [];
+  for (const f of files) {
+    const m = readFileSync(`${SRC}/${f}`, "utf8").match(/= `\n([\s\S]*?)\n`;/);
+    if (!m) continue;
+    for (const raw of m[1].split("\n")) {
+      const t = raw.trim();
+      if (t && !t.startsWith("#")) out.push(t);
+    }
+  }
+  return out;
+}
+
 function bandTargets(cur: Record<Level, number>): Record<Level, number> {
   const t: Record<Level, number> = { ...cur };
   for (const lv of LEVELS) t[lv] = Math.max(t[lv], SHAPE[lv]);
@@ -105,8 +126,21 @@ function main() {
     if (tot < TOTAL || short.length) shortfall++;
     console.log(`${lang.toUpperCase()}: repo ${LEVELS.reduce((a, l) => a + repo[l], 0)} + pool ${lines.length} (desc ${dropped}) = ${tot}/16000 · ${LEVELS.map((l) => `${l}:${totals[l]}/${tgt[l]}`).join(" ")}${short.length ? ` · FALTA ${short.join(",")}` : " ✔"}`);
     if (dry || !lines.length) continue;
+    /* v2: bloques CUMULATIVOS = hub anterior (revalidado) + pool neto nuevo */
+    const hub = hubLines(lang);
+    const hubOk = hub.filter((line) => {
+      const fd = line.split("|");
+      if (fd.length < 6 || fd.length > 7) return false;
+      const [word, es, , t, cat, lvlRaw] = fd;
+      const lvl = (lvlRaw ?? "").trim().toUpperCase();
+      return !!(word && es && TYPES.has(t) && CATS.has(cat) && (LEVELS as readonly string[]).includes(lvl) && WORD_RE[lang].test(word) && ES_RE.test(es) && !/[`$]/.test(line));
+    });
+    const hubDropped = hub.length - hubOk.length;
+    const all = [...hubOk, ...lines];
     const blocks: string[][] = [];
-    for (let i = 0; i < lines.length; i += BLOCK) blocks.push(lines.slice(i, i + BLOCK));
+    for (let i = 0; i < all.length; i += BLOCK) blocks.push(all.slice(i, i + BLOCK));
+    if (hubDropped) console.log(`  · hub previo: ${hubOk.length} líneas regrabadas (${hubDropped} descartadas por formato)`);
+    else console.log(`  · hub previo: ${hubOk.length} líneas regrabadas`);
     blocks.forEach((b, i) => {
       const U = lang.toUpperCase();
       writeFileSync(`${SRC}/lang-${lang}-v943-${i + 1}.ts`, `/* v9.43 · ${U} bloque ${i + 1}/${blocks.length} · ${b.length} entradas */\nexport const ${U}_V943_${i + 1}_RAW = \`\n${b.join("\n")}\n\`;\n`);

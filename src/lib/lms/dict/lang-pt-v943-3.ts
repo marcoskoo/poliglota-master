@@ -1,4 +1,4 @@
-/* v9.43 · PT bloque 3/13 · 700 entradas */
+/* v9.43 · PT bloque 3/16 · 700 entradas */
 export const PT_V943_3_RAW = `
 mercado negro|mercado negro||L|fin|B1
 indústria|industria||S|fin|B1

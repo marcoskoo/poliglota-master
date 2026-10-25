@@ -1,4 +1,4 @@
-/* v9.43 · EN bloque 3/13 · 700 entradas */
+/* v9.43 · EN bloque 3/14 · 700 entradas */
 export const EN_V943_3_RAW = `
 law court|tribunal de justicia||S|ist|B2
 hearing|vista judicial||S|ist|B2

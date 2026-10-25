@@ -1,4 +1,4 @@
-/* v9.43 · DE bloque 9/14 · 700 entradas */
+/* v9.43 · DE bloque 9/16 · 700 entradas */
 export const DE_V943_9_RAW = `
 die Leserschaft|lectorado||S|let|C1
 die Wirkungsgeschichte|historia de los efectos||S|let|C1

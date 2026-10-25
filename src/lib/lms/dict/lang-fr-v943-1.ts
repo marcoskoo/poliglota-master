@@ -1,4 +1,4 @@
-/* v9.43 · FR bloque 1/11 · 700 entradas */
+/* v9.43 · FR bloque 1/16 · 700 entradas */
 export const FR_V943_1_RAW = `
 bon après-midi|buenas tardes||E|sal|A1
 je m'appelle|me llamo||E|sal|A1

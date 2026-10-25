@@ -13,6 +13,9 @@ import { PT_V943_10_RAW } from "./lang-pt-v943-10";
 import { PT_V943_11_RAW } from "./lang-pt-v943-11";
 import { PT_V943_12_RAW } from "./lang-pt-v943-12";
 import { PT_V943_13_RAW } from "./lang-pt-v943-13";
+import { PT_V943_14_RAW } from "./lang-pt-v943-14";
+import { PT_V943_15_RAW } from "./lang-pt-v943-15";
+import { PT_V943_16_RAW } from "./lang-pt-v943-16";
 
 /* v9.43 · PT MEGA 16.000 · bloques generados (ids pt943-m<lvl>-<slug>) */
-export const PT_V943: VocabWord[] = parseMega([PT_V943_1_RAW, PT_V943_2_RAW, PT_V943_3_RAW, PT_V943_4_RAW, PT_V943_5_RAW, PT_V943_6_RAW, PT_V943_7_RAW, PT_V943_8_RAW, PT_V943_9_RAW, PT_V943_10_RAW, PT_V943_11_RAW, PT_V943_12_RAW, PT_V943_13_RAW].join("\n"), "pt943");
+export const PT_V943: VocabWord[] = parseMega([PT_V943_1_RAW, PT_V943_2_RAW, PT_V943_3_RAW, PT_V943_4_RAW, PT_V943_5_RAW, PT_V943_6_RAW, PT_V943_7_RAW, PT_V943_8_RAW, PT_V943_9_RAW, PT_V943_10_RAW, PT_V943_11_RAW, PT_V943_12_RAW, PT_V943_13_RAW, PT_V943_14_RAW, PT_V943_15_RAW, PT_V943_16_RAW].join("\n"), "pt943");

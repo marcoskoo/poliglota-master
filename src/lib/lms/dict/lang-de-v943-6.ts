@@ -1,4 +1,4 @@
-/* v9.43 · DE bloque 6/14 · 700 entradas */
+/* v9.43 · DE bloque 6/16 · 700 entradas */
 export const DE_V943_6_RAW = `
 die Halbwertszeit|el periodo de semidesintegración||S|sci|C1
 das Quant|el cuanto de energía||S|sci|C1

@@ -1,4 +1,4 @@
-/* v9.43 · EN bloque 8/13 · 700 entradas */
+/* v9.43 · EN bloque 8/14 · 700 entradas */
 export const EN_V943_8_RAW = `
 capacity factor|factor de capacidad||S|tec|C1
 production tax credit|desgravación por generación renovable||S|fin|C1

@@ -1,4 +1,4 @@
-/* v9.43 · PT bloque 13/13 · 624 entradas */
+/* v9.43 · PT bloque 13/16 · 700 entradas */
 export const PT_V943_13_RAW = `
 poesia concreta|poesía concreta||L|let|C2
 círculo eleitoral|circunscripción electoral||L|att|C2
@@ -624,4 +624,80 @@ radiossonda|radiosonda||S|sci|C2
 célula convectiva|célula convectiva||L|cli|C2
 rajada|ráfaga||S|cli|C2
 vendaval|vendaval||S|cli|C2
+descendente|descendiente||S|fam|B1
+herança familiar|herencia familiar||L|fam|B1
+desacordo|desacuerdo||S|fam|B1
+cortinado|cortina||S|cas|B1
+empreiteiro|constructor||S|cas|B1
+confeccionar|elaborar platos||V|ali|B1
+vegetarianismo|vegetarianismo||S|sla|B1
+alimentação equilibrada|alimentación equilibrada||L|ali|B1
+dieta mediterrânica|dieta mediterránea||L|sla|B1
+curry|curry||S|ali|B1
+cafeína|cafeína||S|ali|B1
+anúncio publicitário|anuncio publicitario||L|cmp|B1
+seguimento do pedido|seguimiento del pedido||L|cmp|B1
+pagamento na entrega|pago contra reembolso||L|cmp|B1
+infração|infracción||S|tra|B1
+rebocar|remolcar||V|tra|B1
+mobilidade sustentável|movilidad sostenible||L|tra|B1
+cartão de transporte|abono de transporte||L|tra|B1
+despesas de viagem|gastos de viaje||L|vig|B1
+controlo de fronteiras|control de fronteras||L|vig|B1
+hotel de cinco estrelas|hotel de cinco estrellas||L|htl|B1
+moderação|moderación||S|sla|B1
+serviço nacional de saúde|sanidad pública||L|sla|B1
+anúncio de emprego|anuncio de empleo||L|lav|B1
+colaboração|colaboración||S|lav|B1
+flexibilidade horária|flexibilidad horaria||L|lav|B1
+exame final|examen final||L|stu|B1
+certificado de habilitações|título académico||L|stu|B1
+fazer um resumo|hacer un resumen||L|stu|B1
+aplicado|aplicado (estudioso)||A|stu|B1
+buraco na estrada|bache||L|cit|B1
+periferia|periferia||S|cit|B1
+recolha de lixo|recogida de basuras||L|cit|B1
+vaga de calor|ola de calor||L|cli|B1
+derreter|derretirse||V|cli|B1
+vestuário|vestimenta||S|rop|B1
+armarinho|mercería||S|rop|B1
+roupa usada|ropa de segunda mano||L|rop|B1
+rede social|red social||L|tec|B1
+comentar|comentar||V|tec|B1
+piratear|piratear||V|tec|B1
+vírus informático|virus informático||L|tec|B1
+fraude eletrónica|fraude electrónico||L|tec|B1
+falha no sistema|fallo del sistema||L|tec|B1
+meia-final|semifinal||S|spt|B1
+patrocinador|patrocinador||S|spt|B1
+escala musical|escala musical||L|mus|B1
+afinar|afinar||V|mus|B1
+rutura|ruptura||S|rel|B1
+perdão|perdón||S|rel|B1
+rede de apoio|red de apoyo||L|rel|B1
+integrar|integrar||V|ast|B1
+reembolso de impostos|devolución de impuestos||L|fin|B1
+crédito pessoal|préstamo personal||L|fin|B1
+mercado de ações|mercado bursátil||L|fin|B1
+dividendos|dividendos||S|fin|B1
+fundos de investimento|fondos de inversión||L|fin|B1
+reforma antecipada|jubilación anticipada||L|fin|B1
+reserva de mesa|reserva de mesa||L|ris|B1
+gestor|gestor||S|pro|B1
+consultoria jurídica|asesoría jurídica||L|pro|B1
+projeto de engenharia|proyecto de ingeniería||L|pro|B1
+terapeuta da fala|logopeda||S|pro|B1
+desenhador|dibujante||S|pro|B1
+produto interno bruto|producto interior bruto||L|att|B1
+crise financeira|crisis financiera||L|fin|B1
+consciência ambiental|conciencia ambiental||L|nat|B1
+estudo científico|estudio científico||L|sci|B1
+reação química|reacción química||L|sci|B1
+narrativa|narrativa||S|let|B1
+leitor|lector||S|let|B1
+cadeia alimentar|cadena alimentaria||L|ani|B1
+mamífero|mamífero||S|ani|B1
+migração|migración||S|ani|B1
+espécie em perigo|especie en peligro||L|ani|B1
+fauna e flora|fauna y flora||L|ani|B1
 `;

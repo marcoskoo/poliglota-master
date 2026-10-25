@@ -1,4 +1,4 @@
-/* v9.43 · EN bloque 2/13 · 700 entradas */
+/* v9.43 · EN bloque 2/14 · 700 entradas */
 export const EN_V943_2_RAW = `
 lullaby|nana||S|fam|A2
 paint|pintura||S|cas|A2

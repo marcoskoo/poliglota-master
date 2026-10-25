@@ -1,4 +1,4 @@
-/* v9.43 · IT bloque 1/6 · 700 entradas */
+/* v9.43 · IT bloque 1/7 · 700 entradas */
 export const IT_V943_1_RAW = `
 terza età|tercera edad||L|fam|B2
 educare|educar||V|fam|B2

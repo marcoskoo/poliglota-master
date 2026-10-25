@@ -1,4 +1,4 @@
-/* v9.43 · EN bloque 4/13 · 700 entradas */
+/* v9.43 · EN bloque 4/14 · 700 entradas */
 export const EN_V943_4_RAW = `
 shelter|refugio||S|nat|B2
 first responders|primeros intervinientes||L|nat|B2

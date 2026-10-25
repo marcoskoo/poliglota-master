@@ -1,4 +1,4 @@
-/* v9.43 · FR bloque 6/11 · 700 entradas */
+/* v9.43 · FR bloque 6/16 · 700 entradas */
 export const FR_V943_6_RAW = `
 intervieweur|entrevistador||S|pro|C1
 liberté de la presse|libertad de prensa||L|ist|C1

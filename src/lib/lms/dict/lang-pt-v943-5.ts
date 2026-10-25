@@ -1,4 +1,4 @@
-/* v9.43 · PT bloque 5/13 · 700 entradas */
+/* v9.43 · PT bloque 5/16 · 700 entradas */
 export const PT_V943_5_RAW = `
 reação adversa|reacción adversa||L|sla|C1
 excipiente|excipiente||S|sla|C1

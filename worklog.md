@@ -3067,3 +3067,11 @@ Work Log:
 - de-c2-15-p*.txt: 1150 entradas · awk OK · dup OK
 Stage Summary:
 - de-c2-15: 1150 entradas C2 alemán
+---
+Task ID: v9.43/final/pt-b2-08
+Agent: subagent
+Task: lexicón PT B2 job pt-b2-08
+Work Log:
+- pt-b2-08-p*.txt: 418 entradas · awk OK · dup OK
+Stage Summary:
+- pt-b2-08: 418 entradas B2 portugués

@@ -1,4 +1,4 @@
-/* v9.43 · DE bloque 1/14 · 700 entradas */
+/* v9.43 · DE bloque 1/16 · 700 entradas */
 export const DE_V943_1_RAW = `
 die Wohnungssuche|búsqueda de piso||S|cas|B1
 der Mietvertrag|contrato de alquiler||S|cas|B1

@@ -1,4 +1,4 @@
-/* v9.43 · DE bloque 7/14 · 700 entradas */
+/* v9.43 · DE bloque 7/16 · 700 entradas */
 export const DE_V943_7_RAW = `
 die Streuobstwiese|prado de frutales dispersos||S|nat|C1
 der Artenreichtum|riqueza de especies||S|sci|C1

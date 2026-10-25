@@ -1,4 +1,4 @@
-/* v9.43 · DE bloque 2/14 · 700 entradas */
+/* v9.43 · DE bloque 2/16 · 700 entradas */
 export const DE_V943_2_RAW = `
 das Erdbeben|terremoto||S|nat|B1
 die Naturkatastrophe|catástrofe natural||S|nat|B1

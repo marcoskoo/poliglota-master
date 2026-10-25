@@ -1,4 +1,4 @@
-/* v9.43 · FR bloque 2/11 · 700 entradas */
+/* v9.43 · FR bloque 2/16 · 700 entradas */
 export const FR_V943_2_RAW = `
 ordre du jour|orden del día||S|lav|B1
 participant|asistente||S|lav|B1

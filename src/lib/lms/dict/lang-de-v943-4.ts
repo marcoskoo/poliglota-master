@@ -1,4 +1,4 @@
-/* v9.43 · DE bloque 4/14 · 700 entradas */
+/* v9.43 · DE bloque 4/16 · 700 entradas */
 export const DE_V943_4_RAW = `
 die Konstruktion|construcción técnica||S|pro|B2
 der Bauplan|plano de obra||S|pro|B2

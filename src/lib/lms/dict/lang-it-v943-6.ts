@@ -1,4 +1,4 @@
-/* v9.43 · IT bloque 6/6 · 399 entradas */
+/* v9.43 · IT bloque 6/7 · 700 entradas */
 export const IT_V943_6_RAW = `
 preliminare di vendita|contrato de arras (preliminar de compraventa)||L|ist|C2
 obbligo di motivazione|deber de motivación (de las resoluciones)||L|ist|C2
@@ -399,4 +399,305 @@ strettoia|gatera (paso estrecho)||S|vig|C2
 bollettino nivologico|parte de nieve (avalanchas)||L|vig|C2
 clausola di non concorrenza|cláusula de no competencia||L|lav|C2
 affaticabilità|fatigabilidad (tolerancia al esfuerzo)||S|cor|C2
+separazione|separación||S|rel|B2
+divorziare|divorciarse||V|rel|B2
+locatore|arrendador||S|cas|B2
+caparra|fianza||S|cas|B2
+disdetta|desistimiento (del contrato)||S|cas|B2
+arredamento|mobiliario||S|cas|B2
+schiamazzi|ruidos (escándalo)||S|cas|B2
+pietanza|plato (de comida)||S|ris|B2
+cucina etnica|cocina étnica||L|ris|B2
+piatto unico|plato único||L|ris|B2
+abbuffarsi|darse un atracón||V|ali|B2
+saltare il pasto|saltarse una comida||E|ali|B2
+intolleranza al lattosio|intolerancia a la lactosa||L|ali|B2
+celiachia|celiaquía||S|sla|B2
+nutrizionista|nutricionista||S|pro|B2
+dieta equilibrata|dieta equilibrada||L|ali|B2
+apporto calorico|aporte calórico||L|ali|B2
+grassi saturi|grasas saturadas||L|ali|B2
+campagna pubblicitaria|campaña publicitaria||L|cmp|B2
+marchio|marca||S|cmp|B2
+foratura|pinchazo||S|tra|B2
+gomma di scorta|rueda de repuesto||L|tra|B2
+cancellazione del volo|cancelación del vuelo||L|vig|B2
+pensione completa|pensión completa||L|htl|B2
+servizio in camera|servicio de habitaciones||L|htl|B2
+soggiornare|alojarse||V|htl|B2
+farmacia di turno|farmacia de guardia||L|sla|B2
+sedentarietà|sedentarismo||S|sla|B2
+medico di famiglia|médico de cabecera||L|sla|B2
+saggio|ensayo||S|let|B2
+tendine|tendón||S|cor|B2
+postura|postura||S|cor|B2
+lasso di tempo|lapso de tiempo||L|tmp|B2
+imminente|inminente||A|tmp|B2
+serata|velada (salida nocturna)||S|sve|B2
+procrastinare|procrastinar||V|emo|B2
+frustrazione|frustración||S|emo|B2
+avanzamento|ascenso||S|lav|B2
+lavoro di squadra|trabajo en equipo||L|lav|B2
+telelavoro|teletrabajo||S|lav|B2
+ateneo|universidad||S|stu|B2
+lode|matrícula de honor||S|stu|B2
+edilizia|sector de la construcción||S|cit|B2
+modulistica|formularios (papeleo)||S|ist|B2
+ondata di calore|ola de calor||L|cli|B2
+tana|madriguera||S|ani|B2
+capo d'abbigliamento|prenda de vestir||L|rop|B2
+copia di sicurezza|copia de seguridad||L|tec|B2
+agonismo|competitividad (deportiva)||S|spt|B2
+esibizione|actuación||S|mus|B2
+crollo|desplome||S|fin|B2
+fondo pensione|fondo de pensiones||L|fin|B2
+consulente|consultor||S|pro|B2
+giuria|jurado||S|ist|B2
+coalizione|coalición||S|ist|B2
+persuadere|persuadir||V|cmu|B2
+mediazione|mediación||S|cmu|B2
+vicissitudine|vicisitud||S|ast|B2
+saggezza|sabiduría||S|ast|B2
+sito archeologico|yacimiento arqueológico||L|art|B2
+annullamento|anulación (de un acto)||S|ist|C1
+arbitrato|arbitraje||S|ist|C1
+clausola penale|cláusula penal||L|fin|C1
+diritto di recesso|derecho de desistimiento||L|ist|C1
+fideiussore|fiador (avalista)||S|pro|C1
+interdizione|interdicción (incapacitación)||S|ist|C1
+mora|mora (retraso en el pago)||S|fin|C1
+atto notarile|escritura pública (notarial)||L|ist|C1
+surroga|subrogación (novación del préstamo)||S|fin|C1
+stipula|stipulación (firma del contrato)||S|ist|C1
+litisconsorzio|litisconsorcio||S|ist|C1
+ricognizione|inspección ocular (reconocimiento)||S|ist|C1
+rogatoria|rogatoria (comisión judicial)||S|ist|C1
+eredità giacente|herencia yacente||L|ist|C1
+successione|sucesión (hereditaria)||S|ist|C1
+visura|nota simple (consulta registral)||S|ist|C1
+giudicato|cosa juzgada (fallo firme)||S|ist|C1
+lite pendente|pleito pendiente (litispendencia)||L|ist|C1
+spese di giustizia|costas judiciales||L|ist|C1
+transazione|transacción (acuerdo extrajudicial)||S|ist|C1
+legittimazione ad agire|legitimación (para comparecer en juicio)||L|ist|C1
+preterintenzione|preterintención (resultado no querido)||S|ist|C1
+colpa grave|culpa grave||L|ist|C1
+favoreggiamento|encubrimiento (favorecimiento)||S|ist|C1
+estorsione|extorsión (chantaje)||S|ist|C1
+paradiso fiscale|paraíso fiscal||L|fin|C1
+evasore|evasor (fugitivo fiscal)||S|pro|C1
+condono|condonación (indulto fiscal)||S|fin|C1
+libertà vigilata|libertad vigilada||L|ist|C1
+recidivo|reincidente||A|ast|C1
+mandante|mandante (instigador)||S|pro|C1
+abigeato|abigeato (hurto de ganado)||S|ist|C1
+vilipendio|ultraje (desprecio público)||S|ist|C1
+perquisizione|registro (domiciliario)||S|ist|C1
+ordinanza|providencia (auto judicial)||S|ist|C1
+archiviazione|sobreseimiento (archivo del caso)||S|ist|C1
+citazione in giudizio|citación judicial||L|ist|C1
+verbale di udienza|acta de la vista||L|ist|C1
+togato|togado (juez de carrera)||A|pro|C1
+semilibertà|semilibertad (permiso penitenciario)||S|ist|C1
+vizio di forma|vicio de forma||L|ist|C1
+perentorio|perentorio (improrrogable)||A|ast|C1
+imperizia|impericia (falta de pericia)||S|ast|C1
+incartamento|expediente (legajo)||S|ist|C1
+sbarramento|barrera (electoral)||S|ist|C1
+riserva di legge|reserva de ley||L|ist|C1
+ricorso amministrativo|recurso administrativo||L|ist|C1
+sanatoria|regularización (de obra ilegal)||S|cit|C1
+demaniale|de dominio público (demanial)||A|ist|C1
+trattato di non proliferazione|tratado de no proliferación||L|ist|C1
+autarchia|autarquía||S|att|C1
+multipolarità|multipolaridad||S|att|C1
+irredentismo|irredentismo||S|ast|C1
+criminologia|criminología||S|ast|C1
+penologia|penología||S|ast|C1
+risocializzazione|reinserción social||S|ast|C1
+criminalità organizzata|crimen organizado||L|att|C1
+eversivo|subversivo||A|att|C1
+fusione e acquisizione|fusión y adquisición||L|fin|C1
+azioni proprie|acciones propias (recompra)||L|fin|C1
+collegio sindacale|órgano de control (síndicos)||L|fin|C1
+storno|ajuste (asiento de reversión)||S|fin|C1
+chirografario|quirografario (sin garantía)||A|fin|C1
+gettito|recaudación (ingreso fiscal)||S|fin|C1
+titoli di Stato|deuda pública (bonos del Estado)||L|fin|C1
+cedola|cupón (del bono)||S|fin|C1
+girata|endoso (de efectos)||S|fin|C1
+avallo|aval (avales)||S|fin|C1
+tasso ufficiale di sconto|tipo oficial de descuento||L|fin|C1
+moneta legale|moneda de curso legal||L|fin|C1
+merito di credito|calificación crediticia||L|fin|C1
+proventi|proventos (rendimientos)||S|fin|C1
+riscatto|reembolso (canje de bonos)||S|fin|C1
+moratoria|moratoria||S|fin|C1
+obbligazionario|de renta fija||A|fin|C1
+attuariale|actuarial||A|fin|C1
+accisa|impuesto especial (sobre consumos)||S|fin|C1
+deducibilità|deducibilidad||S|fin|C1
+periodo d'imposta|periodo impositivo||L|fin|C1
+ravvedimento|rectificación espontánea (de la deuda)||S|fin|C1
+riscossione|recaudación (cobro)||S|fin|C1
+forfettario|a tanto alzado (régimen simplificado)||A|fin|C1
+addizionale|recargo (tributo adicional)||S|fin|C1
+capitolo di spesa|partida de gasto||L|fin|C1
+erario|erario (hacienda pública)||S|fin|C1
+patto di stabilità|pacto de estabilidad||L|fin|C1
+protezionismo|proteccionismo||S|att|C1
+elasticità|elasticidad (de la demanda)||S|fin|C1
+pensionistica|previsional (de pensiones)||A|fin|C1
+emolumenti|emolumentos (retribuciones)||S|lav|C1
+compartecipazione|comparticipación (a los resultados)||S|fin|C1
+capogruppo|matriz (empresa dominante)||S|fin|C1
+controllata|filial (empresa controlada)||S|fin|C1
+contrattualistica|contratística (práctica contractual)||S|fin|C1
+assemblea straordinaria|junta general extraordinaria||L|fin|C1
+camera di consiglio|sala de deliberación (los jueces a solas)||L|ist|C1
+somministrare|administrar (un fármaco)||V|sla|C1
+dialisi|diálisis||S|sla|C1
+trapianto di midollo|trasplante de médula||L|sla|C1
+terapia palliativa|cuidados paliativos||L|sla|C1
+cardiopatia|cardiopatía||S|sla|C1
+aritmia|arritmia (cardíaca)||S|sla|C1
+ipertrofia|hipertrofia||S|sla|C1
+distrofia|distrofia||S|sla|C1
+dispnea|disnea||S|sla|C1
+tachipnea|taquipnea||S|sla|C1
+cianosi|cianosis||S|sla|C1
+itterizia|ictericia||S|sla|C1
+cirrosi|cirrosis||S|sla|C1
+nefropatia|nefropatía||S|sla|C1
+proteinuria|proteinuria||S|sla|C1
+diuresi|diuresis||S|sla|C1
+enfisema|enfisema||S|sla|C1
+pancreatite|pancreatitis||S|sla|C1
+sepsi|sepsis||S|sla|C1
+acidosi|acidosis||S|sla|C1
+alcalosi|alcalosis||S|sla|C1
+chetosi|cetosis||S|sla|C1
+allergene|alérgeno||S|sla|C1
+melanoma|melanoma||S|sla|C1
+petecchia|petequia||S|cor|C1
+cheratosi|queratosis||S|sla|C1
+ematocrito|hematocrito||S|sla|C1
+trombocitopenia|trombocitopenia||S|sla|C1
+ematopoiesi|hematopoyesis||S|sla|C1
+fontanella|fontanela (mollera)||S|cor|C1
+catetere|catéter||S|sla|C1
+forcipe|fórceps||S|sla|C1
+cauterizzazione|cauterización||S|sla|C1
+cefalea|cefalea||S|sla|C1
+paralisi|parálisis||S|sla|C1
+narcolessia|narcolepsia||S|sla|C1
+psichiatria|psiquiatría||S|sla|C1
+allucinazione|alucinación||S|sla|C1
+delirio|delirio||S|sla|C1
+lobotomia|lobotomía||S|sla|C1
+ovocita|ovocito||S|sla|C1
+epatopatia|hepatopatía||S|sla|C1
+editing genetico|edición genética||L|sci|C1
+istocompatibilità|histocompatibilidad||S|sla|C1
+morbilità|morbilidad||S|sci|C1
+sterilizzazione|esterilización||S|sla|C1
+ganglio|ganglio (nervioso)||S|cor|C1
+cervelletto|cerebelo||S|cor|C1
+ipotalamo|hipotálamo||S|cor|C1
+spasmo|espasmo||S|sla|C1
+ematoma|hematoma||S|sla|C1
+benzene|benceno||S|sci|C1
+spettrometria|espectrometría||S|sci|C1
+peptide|péptido||S|sci|C1
+idrolisi|hidrólisis||S|sci|C1
+elettrolisi|electrólisis||S|sci|C1
+ammasso|cúmulo (globular)||S|nat|C1
+fissile|fisionable||A|sci|C1
+condensato|condensado (de Bose-Einstein)||S|sci|C1
+difrazione|difracción||S|sci|C1
+fotonica|fotónica||S|sci|C1
+risonanza|resonancia||S|sci|C1
+isteresi|histéresis (magnética)||S|sci|C1
+spurio|espurio||A|ast|C1
+confondente|de confusión (factor de confusión)||A|sci|C1
+rischio relativo|riesgo relativo||L|sla|C1
+prospettico|prospectivo (ensayo)||A|sla|C1
+lemme|lema||S|sci|C1
+virologia|virología||S|sci|C1
+cardiologia|cardiología||S|sla|C1
+endocrinologia|endocrinología||S|sla|C1
+nefrologia|nefrología||S|sla|C1
+allergologia|alergología||S|sla|C1
+emodinamica|hemodinámica||S|sla|C1
+antibiogramma|antibiograma||S|sla|C1
+mastectomia|mastectomía||S|sla|C1
+rivascolarizzazione|revascularización||S|sla|C1
+galenica|galénica (preparación magistral)||S|sla|C1
+reagente|reactivo||S|sci|C1
+protesi|prótesis||S|sla|C1
+acufene|acúfenos (tinnitus)||S|sla|C1
+ipoacusia|hipoacusia||S|sla|C1
+retinopatia|retinopatía||S|sla|C1
+omeostasi|homeostasis||S|sci|C1
+anabolismo|anabolismo||S|sci|C1
+catabolismo|catabolismo||S|sci|C1
+cogenerazione|cogeneración||S|tec|C1
+criticalità|criticidad (masa crítica)||S|sci|C1
+scudo termico|escudo térmico||L|tec|C1
+assetto di volo|actitud de vuelo||L|tec|C1
+deglutizione|deglución (acto de tragar)||S|cor|C1
+fonazione|fonación (emisión de voz)||S|cor|C1
+mobilizzazione|movilización (rehabilitadora)||S|sla|C1
+ludibrio|escarnio (motivo de burla)||S|let|C1
+amanuense|amanuense (copista)||S|pro|C1
+acrasia|acrasia (incontinencia volitiva)||S|ast|C1
+storicizzare|historizar||V|ast|C1
+ipercorrezione|hipercorrección||S|let|C1
+ellisse|elipsis||S|let|C1
+pleonasmo|pleonasmo||S|let|C1
+deittico|deíctico||A|let|C1
+narcisismo|narcisismo||S|emo|C1
+stigmatizzazione|estigmatización||S|ast|C1
+anomia|anomia||S|ast|C1
+sondaggio d'opinione|sondeo de opinión||L|att|C1
+patriarcato|patriarcado||S|ast|C1
+sensazionalismo|sensacionalismo||S|cmu|C1
+aria|aria (de ópera)||S|mus|C1
+cavatina|cavatina||S|mus|C1
+atonale|atonal||A|mus|C1
+conservazione preventiva|conservación preventiva||L|art|C1
+acquaforte|aguafuerte||S|art|C1
+viraggio|virado (tonalización)||S|art|C1
+primissimo piano|primerísimo primer plano||L|cin|C1
+cinema d'autore|cine de autor||L|cin|C1
+docimologia|docimología (evaluación)||S|stu|C1
+smanceria|zalema (carantoña)||S|emo|C1
+vessazione|vejación||S|emo|C1
+solerzia|diligencia (soltura)||S|emo|C1
+goffaggine|torpeza (desmaña)||S|emo|C1
+malagrazia|descortesía (mala educación)||S|emo|C1
+insolenza|insolencia||S|emo|C1
+protervia|desfachatamiento (insolencia arrogante)||S|emo|C1
+petulanza|petulancia (insistencia molesta)||S|emo|C1
+rincrescimento|pesar (sentimiento de pena)||S|emo|C1
+longanimità|longanimidad (paciencia longánime)||S|emo|C1
+meschinità|mezquindad||S|emo|C1
+grettezza|estrechezza (mezquindad)||S|emo|C1
+pacato|apacible (sosegado)||A|ast|C1
+sberleffo|burla (gesto de mofa)||S|cmu|C1
+altroché|claro que sí (por supuesto)||I|cmu|C1
+beninteso|por supuesto (entiéndase bien)||D|cmu|C1
+intendiamoci|entendámonos||E|cmu|C1
+maddai|vamos ya (no me digas)||I|cmu|C1
+per carità|por caridad (por favor no)||E|cmu|C1
+in un battibaleno|en un santiamén||L|tmp|C1
+trambusto|trastorno (jaleo)||S|cmu|C1
+baruffa|trifulca (reyerta)||S|cmu|C1
+polverone|polvorada (polémica)||S|cmu|C1
+biascicare|farfullar||V|cmu|C1
+articolare|articular (pronunciar con claridad)||V|cmu|C1
+scandire|escandir (deletrear)||V|cmu|C1
+ciarpame|trastos (chatarra)||S|cas|C1
+a monte|aguas arriba (en el origen)||L|cnn|C1
+sicché|por lo cual (así que)||C|cnn|C1
 `;
