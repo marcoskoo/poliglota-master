@@ -1,0 +1,273 @@
+der Kanon|canon literario||S|let|C1
+das Meisterwerk|obra maestra||S|let|C1
+die Rezeption|recepción (de una obra)||S|let|C1
+die Rezeptionsgeschichte|historia de la recepción||S|let|C1
+die Hermeneutik|hermenéutica||S|let|C1
+die Textkritik|crítica textual||S|let|C1
+die Kanonbildung|formación del canon||S|let|C1
+der Epigone|epígono||S|let|C1
+die Weltliteratur|literatura universal||S|let|C1
+die Intertextualität|intertextualidad||S|let|C1
+die Gattungsgeschichte|historia de los géneros||S|let|C1
+das Nachleben|supervivencia (de un clásico)||S|let|C1
+die Wirkungsgeschichte|historia de los efectos||S|let|C1
+der Stoff|tema literario||S|let|C1
+die Bearbeitung|reelaboración, adaptación||S|let|C1
+die Demoskopie|demoscopia||S|att|C1
+die Meinungsforschung|investigación de opinión||S|att|C1
+die Volksbefragung|consulta popular||S|att|C1
+die Zustimmungsquote|índice de aprobación||S|att|C1
+das Meinungsbild|estado de la opinión||S|att|C1
+die Befragung|encuesta||S|att|C1
+die Hochrechnung|proyección de resultados||S|att|C1
+die Repräsentativität|representatividad||S|att|C1
+die Wahlenthaltung|abstención electoral||S|att|C1
+die Mehrheitsfähigkeit|capacidad de aglutinar mayorías||S|att|C1
+die Stimmungslage|clima de opinión||S|att|C1
+die Nichtwählerschaft|abstencionistas (conjunto)||S|att|C1
+repräsentativ|representativo (muestral)||A|att|C1
+die Schwellenangst|miedo a desperdiciar el voto||S|att|C1
+die Wählerwanderung|migración de votos||S|att|C1
+die Waffenruhe|tregua||S|att|C1
+der Waffenstillstand|alto el fuego||S|att|C1
+die Abrüstung|desarme||S|att|C1
+die Friedenssicherung|mantenimiento de la paz||S|att|C1
+die Friedensmission|misión de paz||S|att|C1
+die Deeskalation|desescalada||S|att|C1
+die Geiselnahme|toma de rehenes||S|att|C1
+die Sicherheitsarchitektur|arquitectura de seguridad||S|att|C1
+die Verhandlungsführung|conducción de negociaciones||S|att|C1
+die Kriegspartei|parte beligerante||S|att|C1
+der Militärschlag|ataque militar||S|att|C1
+die Umsiedlung|reasentamiento (de población)||S|att|C1
+die Feindseligkeiten|hostilidades||S|att|C1
+der Pufferstaat|estado tapón||S|att|C1
+die Bündnisfreiheit|libertad de alianzas||S|att|C1
+das Völkerrecht|derecho internacional||S|ist|C1
+zwischenstaatlich|interestatal||A|ist|C1
+der Mitgliedstaat|estado miembro||S|ist|C1
+der Zusammenschluss|agrupación, fusión||S|ist|C1
+die Souveränitätsabtretung|cesión de soberanía||S|ist|C1
+die Vetomacht|potencia con derecho de veto||S|ist|C1
+das Abstimmungsverhalten|comportamiento en las votaciones||S|ist|C1
+die Beitrittsverhandlung|negociación de adhesión||S|ist|C1
+der Staatenbund|confederación de estados||S|ist|C1
+supranational|supranacional||A|ist|C1
+das Mandat|mandato||S|ist|C1
+der Gipfel|cumbre||S|ist|C1
+die Entschließung|resolución (parlamentaria)||S|ist|C1
+die Einstimmigkeit|unanimidad||S|ist|C1
+die Grundsicherung|prestación básica||S|ist|C1
+die Umverteilung|redistribución||S|ist|C1
+die Sozialleistung|prestación social||S|ist|C1
+die Bedürftigkeitsprüfung|comprobación de recursos||S|ist|C1
+der Fürsorgestaat|estado asistencial||S|ist|C1
+die Armutsgefährdung|riesgo de pobreza||S|ist|C1
+die Armutsfalle|trampa de la pobreza||S|ist|C1
+der Sozialstaat|estado social||S|ist|C1
+das Grundeinkommen|renta básica||S|ist|C1
+die Fürsorge|asistencia social||S|ist|C1
+die Erwerbsminderung|incapacidad laboral||S|ist|C1
+die Hinterbliebenenrente|pensión de supervivientes||S|ist|C1
+die Bürgerversicherung|seguro ciudadano||S|ist|C1
+die Altersvorsorge|previsión para la vejez||S|ist|C1
+die Protestwelle|ola de protestas||S|att|C1
+der Demonstrationszug|marcha de protesta||S|att|C1
+der Streikposten|piquete de huelga||S|att|C1
+der zivile Ungehorsam|desobediencia civil||S|att|C1
+die Graswurzelbewegung|movimiento de base||S|att|C1
+der Volksaufstand|insurrección popular||S|att|C1
+die Solidaritätsbekundung|muestra de solidaridad||S|att|C1
+der Boykottaufruf|llamamiento al boicot||S|att|C1
+das Protestcamp|campamento de protesta||S|att|C1
+die Menschenkette|cadena humana||S|att|C1
+der Sitzstreik|huelga sentada||S|att|C1
+die Kundgebung|acto público de protesta||S|att|C1
+das Widerstandsrecht|derecho de resistencia||S|att|C1
+die Auflehnung|rebelión||S|att|C1
+die Vetternwirtschaft|nepotismo||S|ist|C1
+der Amtsmissbrauch|abuso de autoridad||S|ist|C1
+die Rechtsbeugung|prevaricación||S|ist|C1
+die Vorteilsnahme|aceptación de ventajas indebidas||S|ist|C1
+die Steuerhinterziehung|evasión fiscal||S|ist|C1
+die Offenlegung|revelación (de intereses)||S|ist|C1
+die Rechenschaftspflicht|obligación de rendir cuentas||S|ist|C1
+die Kontrollfunktion|función de control||S|ist|C1
+der Ombudsmann|defensor del pueblo||S|ist|C1
+die Schwarzgeldaffäre|escándalo de dinero negro||S|ist|C1
+die Akteneinsicht|acceso a los expedientes||S|ist|C1
+die Lobbyarbeit|actividad de cabildeo||S|ist|C1
+die Einflussnahme|ejercicio de influencia||S|ist|C1
+die Bereicherung|enriquecimiento ilícito||S|ist|C1
+die Abwanderung|éxodo interno||S|att|C1
+der Wanderungssaldo|saldo migratorio||S|att|C1
+die Diaspora|diáspora||S|att|C1
+die Exilgemeinde|comunidad en el exilio||S|att|C1
+die Überalterung|envejecimiento de la población||S|att|C1
+die Geburtenziffer|tasa de natalidad||S|att|C1
+die Rückführung|retorno forzoso||S|att|C1
+die Einbürgerung|naturalización||S|att|C1
+die Duldung|permiso de tolerancia (migratorio)||S|att|C1
+der Familiennachzug|reagrupación familiar||S|att|C1
+der Migrationshintergrund|origen migratorio||S|att|C1
+der Schmelztiegel|crisol de culturas||S|att|C1
+die Landflucht|éxodo rural||S|att|C1
+der Bevölkerungswandel|transformación demográfica||S|att|C1
+die Ikonografie|iconografía||S|art|C1
+die Symbolsprache|lenguaje simbólico||S|art|C1
+das Sinnbild|símbolo, alegoría||S|art|C1
+das Attribut|atributo (iconográfico)||S|art|C1
+die Allegorie|alegoría||S|art|C1
+die Emblematik|emblematística||S|art|C1
+das Formenrepertoire|repertorio formal||S|art|C1
+die Bildsprache|lenguaje visual||S|art|C1
+die Chiffre|símbolo cifrado||S|art|C1
+das Andachtsbild|imagen devocional||S|art|C1
+die Programmatik|programática||S|art|C1
+die Lesart|lectura (interpretación)||S|art|C1
+die Deutung|interpretación||S|art|C1
+das Vexierbild|imagen de doble sentido||S|art|C1
+die Goldschmiedekunst|orfebrería||S|art|C1
+das Kunsthandwerk|artesanía artística||S|art|C1
+ziselieren|cincelar||V|art|C1
+die Treibarbeit|repujado||S|art|C1
+die Gravur|grabado||S|art|C1
+die Intarsie|marquetería||S|art|C1
+das Furnier|chapa de madera||S|art|C1
+die Fayence|fayenza||S|art|C1
+die Manufaktur|manufactura||S|art|C1
+die Formgebung|diseño, moldeo||S|art|C1
+der Zierrat|adorno||S|art|C1
+die Ornamentik|ornamentación||S|art|C1
+der Bronzeguss|fundición en bronce||S|art|C1
+der Entwurf|diseño, boceto||S|art|C1
+die Gebrauchsgrafik|diseño gráfico aplicado||S|art|C1
+die Belichtung|exposición (fotográfica)||S|art|C1
+die Blende|diafragma||S|art|C1
+der Belichtungsmesser|fotómetro||S|art|C1
+die Schärfentiefe|profundidad de campo||S|art|C1
+die Momentaufnahme|instantánea||S|art|C1
+der Bildausschnitt|encuadre||S|art|C1
+die Farbgebung|gama cromática||S|art|C1
+die Bildkomposition|composición de la imagen||S|art|C1
+die Inszenierung|puesta en escena||S|art|C1
+das Arrangement|disposición compositiva||S|art|C1
+das Stillleben|naturaleza muerta||S|art|C1
+der Schattenwurf|juego de sombras||S|art|C1
+das Gesamtkunstwerk|obra de arte total||S|art|C1
+der Abzug|copia fotográfica||S|art|C1
+der Strebepfeiler|contrafuerte||S|art|C1
+das Tonnengewölbe|bóveda de cañón||S|art|C1
+das Kreuzrippengewölbe|bóveda de crucería||S|art|C1
+die Blendarkade|arcada ciega||S|art|C1
+die Kassettendecke|techo artesonado||S|art|C1
+die Fassadengestaltung|diseño de fachada||S|art|C1
+der Grundriss|planta (arquitectónica)||S|art|C1
+der Aufriss|alzado||S|art|C1
+das Mauerwerk|mampostería||S|art|C1
+der Skelettbau|esqueleto estructural||S|art|C1
+die Nutzfläche|superficie útil||S|art|C1
+die Planungsphase|fase de proyecto||S|art|C1
+die Bausubstanz|estructura constructiva existente||S|art|C1
+die Attika|ático (cornisa ática)||S|art|C1
+der Ziergiebel|gablete decorativo||S|art|C1
+die Tanzcompagnie|compañía de danza||S|art|C1
+das Bewegungsvokabular|vocabulario de movimiento||S|art|C1
+der Ausdruckstanz|danza expresiva||S|art|C1
+die Probenarbeit|trabajo de ensayo||S|art|C1
+der Bühnentanz|danza escénica||S|art|C1
+das Bühnenbild|escenografía||S|art|C1
+die Statisterie|figuración||S|art|C1
+die Solotänzerin|bailarina solista||S|art|C1
+die Premiere|estreno||S|art|C1
+die Gastspieltournee|gira de invitación||S|art|C1
+die Arabeske|arabesca||S|art|C1
+die Schrittkombination|combinación de pasos||S|art|C1
+die Figurenzeichnung|caracterización del personaje||S|art|C1
+die Verkörperung|encarnación (de un papel)||S|art|C1
+der Halbleiter|semiconductor||S|tec|C1
+der Schaltkreis|circuito integrado||S|tec|C1
+der Mikrocontroller|microcontrolador||S|tec|C1
+die Taktfrequenz|frecuencia de reloj||S|tec|C1
+der Rechenkern|núcleo de cálculo||S|tec|C1
+der Befehlssatz|conjunto de instrucciones||S|tec|C1
+der Kühlkörper|disipador térmico||S|tec|C1
+die Wärmeableitung|disipación térmica||S|tec|C1
+der Chipentwurf|diseño de chips||S|tec|C1
+fotolithografisch|fotolitográfico||A|tec|C1
+die Dotierung|dopado (de semiconductores)||S|tec|C1
+der Festwertspeicher|memoria de solo lectura||S|tec|C1
+die Speicherhierarchie|jerarquía de memoria||S|tec|C1
+der Grafikprozessor|procesador gráfico||S|tec|C1
+die Chipproduktion|fabricación de chips||S|tec|C1
+die Datenkrake|pulpo acaparador de datos||S|tec|C1
+der Datenabgleich|cruce de datos||S|tec|C1
+die Informationsflut|avalancha informativa||S|tec|C1
+die Korrelationsanalyse|análisis de correlación||S|tec|C1
+der Ausreißer|valor atípico||S|tec|C1
+die Stichprobengröße|tamaño de la muestra||S|tec|C1
+die Abfragesprache|lenguaje de consultas||S|tec|C1
+das Prognosemodell|modelo predictivo||S|tec|C1
+die Visualisierung|visualización de datos||S|tec|C1
+die Prognosegüte|calidad de la predicción||S|tec|C1
+die Verzerrung|sesgo||S|tec|C1
+die Abfrage|consulta (a una base de datos)||S|tec|C1
+die Verschlagwortung|indexación por descriptores||S|tec|C1
+die Aggregation|agregación de datos||S|tec|C1
+die Blockchain|cadena de bloques||S|tec|C1
+die Unveränderlichkeit|inmutabilidad||S|tec|C1
+der Konsensmechanismus|mecanismo de consenso||S|tec|C1
+der Konsensalgorithmus|algoritmo de consenso||S|tec|C1
+der Hashwert|valor hash||S|tec|C1
+das verteilte Register|registro distribuido||S|tec|C1
+die Kryptographie|criptografía||S|tec|C1
+der Netzwerkknoten|nodo de red||S|tec|C1
+die digitale Signatur|firma digital||S|tec|C1
+die Ende-zu-Ende-Verschlüsselung|cifrado de extremo a extremo||S|tec|C1
+die Prüfsumme|suma de verificación||S|tec|C1
+manipulationssicher|a prueba de manipulación||A|tec|C1
+die Rückverfolgbarkeit|trazabilidad||S|tec|C1
+die Unumkehrbarkeit|irreversibilidad||S|tec|C1
+die Mustererkennung|reconocimiento de patrones||S|tec|C1
+der Fingerabdrucksensor|lector de huella dactilar||S|tec|C1
+die Iriserkennung|reconocimiento de iris||S|tec|C1
+die Stimmanalyse|análisis de voz||S|tec|C1
+die Merkmalsextraktion|extracción de rasgos||S|tec|C1
+der Schwellenwert|umbral||S|tec|C1
+die Identitätsfeststellung|identificación (de una persona)||S|tec|C1
+das Unterscheidungsmerkmal|rasgo distintivo||S|tec|C1
+die Bildsegmentierung|segmentación de imagen||S|tec|C1
+die Ganganalyse|análisis de la marcha||S|tec|C1
+die Kalibrierung|calibración||S|tec|C1
+der Referenzabgleich|cotejo con la referencia||S|tec|C1
+die Bildauflösung|resolución de imagen||S|tec|C1
+die Aufzeichnung|registro (de datos)||S|tec|C1
+das Sensornetzwerk|red de sensores||S|tec|C1
+die Vernetzung|interconexión||S|tec|C1
+der digitale Zwilling|gemelo digital||S|tec|C1
+die Smart City|ciudad inteligente||S|tec|C1
+die Verkehrssteuerung|gestión del tráfico||S|cit|C1
+das Leitsystem|sistema de control||S|tec|C1
+die Fernüberwachung|televigilancia||S|tec|C1
+die Abfallwirtschaft|gestión de residuos||S|nat|C1
+das Versorgungsnetz|red de suministro||S|tec|C1
+der Regelkreis|lazo de regulación||S|tec|C1
+die Fernwartung|mantenimiento remoto||S|tec|C1
+die Luftqualitätsmessung|medición de la calidad del aire||S|tec|C1
+das Parkleitsystem|sistema de guiado de aparcamiento||S|tec|C1
+die Echtzeitverarbeitung|procesamiento en tiempo real||S|tec|C1
+die Gestensteuerung|control por gestos||S|tec|C1
+die Spielwelt|mundo de juego||S|sve|C1
+die Spielmechanik|mecánica de juego||S|sve|C1
+der Schwierigkeitsgrad|nivel de dificultad||S|sve|C1
+das Eintauchen|inmersión||S|sve|C1
+die virtuelle Realität|realidad virtual||S|tec|C1
+die Simulationssoftware|software de simulación||S|tec|C1
+der Avatar|avatar||S|sve|C1
+die Interaktionsform|forma de interacción||S|tec|C1
+die Immersionstiefe|profundidad de inmersión||S|sve|C1
+das Leveldesign|diseño de niveles||S|sve|C1
+das Eingabegerät|dispositivo de entrada||S|tec|C1
+der Präsenzeffekt|efecto de presencia||S|sve|C1
+die Erzählstruktur|estructura narrativa||S|sve|C1
+die Computeranimation|animación por ordenador||S|tec|C1

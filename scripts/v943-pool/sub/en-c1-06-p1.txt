@@ -1,0 +1,197 @@
+tort|agravio||S|ist|C1
+injunction|prohibición judicial||S|ist|C1
+subpoena|citación judicial||S|ist|C1
+arraignment|lectura de cargos||S|ist|C1
+plea bargain|conformidad penal (acuerdo de culpabilidad)||L|ist|C1
+precedent|jurisprudencia||S|ist|C1
+habeas corpus|hábeas corpus||L|ist|C1
+garnishment|embargo de nómina||S|ist|C1
+class action|demanda colectiva||L|ist|C1
+fiduciary|fiduciario||A|fin|C1
+force majeure|fuerza mayor||L|ist|C1
+notwithstanding|no obstante||R|cnn|C1
+grand jury|jurado de acusación||L|ist|C1
+perjury|perjurio||S|ist|C1
+embezzlement|malversación||S|ist|C1
+money laundering|blanqueo de capitales||L|fin|C1
+racketeering|extorsión organizada||S|ist|C1
+gerrymandering|manipulación de distritos electorales||S|ist|C1
+filibuster|obstruccionismo parlamentario||S|ist|C1
+cloture|clausura del debate||S|ist|C1
+impeachment|proceso de destitución||S|ist|C1
+judicial review|control de constitucionalidad||L|ist|C1
+affirmative action|acción afirmativa||L|ist|C1
+statute of limitations|prescripción de delitos||L|ist|C1
+probate|validación de testamentos||S|ist|C1
+intestate|intestado||A|ist|C1
+codicil|codicilo||S|ist|C1
+easement|servidumbre de paso||S|ist|C1
+breach of contract|incumplimiento de contrato||L|ist|C1
+liquidated damages|daños pactados||L|ist|C1
+clemency|clemencia (derecho de gracia)||S|ist|C1
+jury nullification|anulación del jurado||L|ist|C1
+voir dire|interrogatorio de jurados||L|ist|C1
+malfeasance|conducta dolosa||S|ist|C1
+recidivism|reincidencia||S|ist|C1
+differential diagnosis|diagnóstico diferencial||L|sla|C1
+contraindication|contraindicación||S|sla|C1
+palliative care|cuidados paliativos||L|sla|C1
+triage|triaje||S|sla|C1
+intubation|intubación||S|sla|C1
+sedation|sedación||S|sla|C1
+inpatient|paciente ingresado||S|sla|C1
+outpatient|paciente ambulatorio||S|sla|C1
+biopsy|biopsia||S|sla|C1
+metastasize|metastatizar||V|sla|C1
+immunotherapy|inmunoterapia||S|sla|C1
+relapse|recaída||S|sla|C1
+remission|remisión||S|sla|C1
+bronchoscopy|broncoscopia||S|sla|C1
+endoscopy|endoscopia||S|sla|C1
+arthroscopy|artroscopia||S|sla|C1
+laparoscopic|laparoscópico||A|sla|C1
+catheter|catéter||S|sla|C1
+defibrillator|desfibrilador||S|sla|C1
+suture|sutura||S|sla|C1
+incision|incisión||S|sla|C1
+stent|endoprótesis||S|sla|C1
+comorbidity|comorbilidad||S|sla|C1
+prognosis|pronóstico||S|sla|C1
+etiology|etiología||S|sla|C1
+idiopathic|idiopático||A|sla|C1
+gangrene|gangrena||S|sla|C1
+seizure|crisis epiléptica||S|sla|C1
+lesion|lesión||S|sla|C1
+aphasia|afasia||S|sla|C1
+placebo effect|efecto placebo||L|sla|C1
+informed consent|consentimiento informado||L|sla|C1
+adverse event|reacción adversa||L|sla|C1
+randomized trial|ensayo aleatorizado||L|sci|C1
+double-blind|doble ciego||A|sci|C1
+pharmacokinetics|farmacocinética||S|sci|C1
+half-life|vida media||S|sci|C1
+off-label|fuera de indicación||A|sla|C1
+anticoagulant|anticoagulante||S|sla|C1
+opioid|opioide||S|sla|C1
+dosage|posología||S|sla|C1
+herd immunity|inmunidad de grupo||L|sla|C1
+vaccine hesitancy|renuencia a la vacunación||L|sla|C1
+screening|cribado||S|sla|C1
+prevalence|prevalencia||S|sla|C1
+morbidity|morbilidad||S|sla|C1
+outbreak|brote epidémico||S|sla|C1
+contact tracing|rastreo de contactos||L|sla|C1
+bipolar disorder|trastorno bipolar||L|sla|C1
+psychotropic|psicotrópico||A|sla|C1
+anhedonia|anhedonia||S|sla|C1
+hypomania|hipomanía||S|sla|C1
+dissociative|disociativo||A|sla|C1
+intrusive thoughts|pensamientos intrusivos||L|sla|C1
+cognitive behavioral therapy|terapia cognitivo-conductual||L|sla|C1
+psychopathology|psicopatología||S|sci|C1
+onset|inicio de una enfermedad||S|sla|C1
+bioethics|bioética||S|sci|C1
+euthanasia|eutanasia||S|sla|C1
+living will|testamento vital||L|sla|C1
+do not resuscitate|orden de no reanimar||L|sla|C1
+germline|línea germinal||S|sci|C1
+embryonic stem cell|célula madre embrionaria||L|sci|C1
+epidemiology|epidemiología||S|sci|C1
+monetary policy|política monetaria||L|fin|C1
+quantitative easing|flexibilización cuantitativa||L|fin|C1
+lender of last resort|prestamista de última instancia||L|fin|C1
+moral hazard|riesgo moral||L|fin|C1
+stagflation|estanflación||S|fin|C1
+default|impago||S|fin|C1
+deleveraging|desapalancamiento||S|fin|C1
+liquidity trap|trampa de liquidez||L|fin|C1
+reserve requirement|coeficiente de caja||L|fin|C1
+open market operations|operaciones de mercado abierto||L|fin|C1
+yield curve|curva de rendimientos||L|fin|C1
+basis point|punto básico||S|fin|C1
+counterparty|contraparte||S|fin|C1
+securitization|titulización||S|fin|C1
+leverage|apalancamiento||S|fin|C1
+hedge fund|fondo de cobertura||L|fin|C1
+hostile takeover|toma de control hostil||L|fin|C1
+short selling|venta en corto||L|fin|C1
+margin call|llamada de margen||L|fin|C1
+credit default swap|permuta de cobertura por impago||L|fin|C1
+volatility|volatilidad||S|fin|C1
+systemic risk|riesgo sistémico||L|fin|C1
+stress test|prueba de resistencia||L|fin|C1
+call option|opción de compra||L|fin|C1
+put option|opción de venta||L|fin|C1
+futures contract|contrato de futuros||L|fin|C1
+strike price|precio de ejercicio||L|fin|C1
+asset class|clase de activos||L|fin|C1
+tariff|arancel||S|fin|C1
+trade deficit|déficit comercial||L|fin|C1
+dumping|venta a pérdida (dumping)||S|fin|C1
+import quota|contingente de importación||L|fin|C1
+protectionism|proteccionismo||S|fin|C1
+free trade agreement|tratado de libre comercio||L|fin|C1
+customs union|unión aduanera||L|fin|C1
+sanctions|sanciones internacionales||S|fin|C1
+ledger|libro mayor||S|lav|C1
+bookkeeping|teneduría de libros||S|lav|C1
+accrual|devengo||S|fin|C1
+goodwill|fondo de comercio||S|fin|C1
+write-down|corrección de valor||S|fin|C1
+forensic accounting|contabilidad forense||L|lav|C1
+quarterly earnings|resultados trimestrales||L|fin|C1
+cash flow statement|estado de flujos de efectivo||L|fin|C1
+underwriter|suscriptor de riesgos||S|fin|C1
+buyout|adquisición total||S|fin|C1
+allele|alelo||S|sci|C1
+sequencing|secuenciación||S|sci|C1
+gene expression|expresión génica||L|sci|C1
+telomere|telómero||S|sci|C1
+mitochondrial|mitocondrial||A|sci|C1
+nucleotide|nucleótido||S|sci|C1
+translocation|translocación||S|sci|C1
+genotype|genotipo||S|sci|C1
+phenotype|fenotipo||S|sci|C1
+plasmid|plásmido||S|sci|C1
+polymerase chain reaction|reacción en cadena de la polimerasa||L|sci|C1
+gene editing|edición génica||L|sci|C1
+antibody|anticuerpo||S|sci|C1
+antigen|antígeno||S|sci|C1
+cytokine|citoquina||S|sci|C1
+autoimmune|autoinmune||A|sci|C1
+innate immunity|inmunidad innata||L|sci|C1
+pathogen|patógeno||S|sci|C1
+antimicrobial resistance|resistencia a los antimicrobianos||L|sci|C1
+assay|ensayo de laboratorio||S|sci|C1
+synapse|sinapsis||S|sci|C1
+neurotransmitter|neurotransmisor||S|sci|C1
+neuroimaging|neuroimagen||S|sci|C1
+myelin|mielina||S|sci|C1
+neuroplasticity|neuroplasticidad||S|sci|C1
+proprioception|propiocepción||S|sci|C1
+entanglement|entrelazamiento cuántico||S|sci|C1
+superposition|superposición de estados||S|sci|C1
+uncertainty principle|principio de incertidumbre||L|sci|C1
+particle accelerator|acelerador de partículas||L|sci|C1
+boson|bosón||S|sci|C1
+photon|fotón||S|sci|C1
+spacetime|espacio-tiempo||S|sci|C1
+singularity|singularidad||S|sci|C1
+entropy|entropía||S|sci|C1
+redshift|desplazamiento al rojo||S|sci|C1
+nebula|nebulosa||S|sci|C1
+event horizon|horizonte de sucesos||L|sci|C1
+exoplanet|exoplaneta||S|sci|C1
+dark matter|materia oscura||L|sci|C1
+pulsar|púlsar||S|sci|C1
+quasar|cuásar||S|sci|C1
+covalent bond|enlace covalente||L|sci|C1
+isotope|isótopo||S|sci|C1
+catalyst|catalizador||S|sci|C1
+aqueous|acuoso||A|sci|C1
+titration|valoración volumétrica||S|sci|C1
+chromatography|cromatografía||S|sci|C1
+spectroscopy|espectroscopía||S|sci|C1
+solubility|solubilidad||S|sci|C1
+allotrope|alótropo||S|sci|C1
+distillation|destilación||S|sci|C1

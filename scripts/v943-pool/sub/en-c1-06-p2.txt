@@ -1,0 +1,197 @@
+null hypothesis|hipótesis nula||L|sci|C1
+p-value|valor p||S|sci|C1
+standard deviation|desviación típica||L|sci|C1
+confounding variable|variable de confusión||L|sci|C1
+regression analysis|análisis de regresión||L|sci|C1
+sample size|tamaño de muestra||L|sci|C1
+peer review|revisión por pares||L|sci|C1
+causation|causalidad||S|sci|C1
+stratum|estrato||S|sci|C1
+deciduous|caducifolio||A|nat|C1
+subduction|subducción||S|sci|C1
+permafrost|perigelisol||S|nat|C1
+bedrock|roca madre||S|nat|C1
+pyroclastic flow|flujo piroclástico||L|nat|C1
+estuary|estuario||S|nat|C1
+axiom|axioma||S|sci|C1
+corollary|corolario||S|sci|C1
+conjecture|conjetura||S|sci|C1
+lemma|lema||S|sci|C1
+asymptote|asíntota||S|sci|C1
+tautology|tautología||S|sci|C1
+syllogism|silogismo||S|sci|C1
+trope|tópos literario||S|let|C1
+unreliable narrator|narrador no fiable||L|let|C1
+bildungsroman|novela de formación||S|let|C1
+pathetic fallacy|falacia patética||L|let|C1
+suspension of disbelief|suspensión de la incredulidad||L|cin|C1
+stream of consciousness|corriente de conciencia||L|let|C1
+intertextuality|intertextualidad||S|let|C1
+close reading|lectura atenta||L|let|C1
+literary canon|canon literario||L|let|C1
+source text|texto de origen||L|let|C1
+soliloquy|soliloquio||S|let|C1
+dystopian|distópico||A|let|C1
+polemic|polémica (escrito beligerante)||S|let|C1
+iambic pentameter|pentámetro yámbico||L|let|C1
+anaphora|anáfora||S|let|C1
+chiasmus|quiasmo||S|let|C1
+litotes|lítote||S|let|C1
+caesura|cesura||S|let|C1
+enjambment|encabalgamiento||S|let|C1
+assonance|asonancia||S|let|C1
+volta|vuelta del soneto||S|let|C1
+crevasse|grieta de glaciar||S|nat|C1
+storm surge|marea de tormenta||L|nat|C1
+jet stream|corriente en chorro||L|nat|C1
+forlorn|desamparado||A|emo|C1
+oftentimes|frecuentemente||D|tmp|C1
+yesteryear|antano||S|tmp|C1
+hapless|desdichado||A|emo|C1
+henceforth|en adelante||D|cnn|C1
+albeit|aunque||C|cnn|C1
+whereby|mediante el cual||R|cnn|C1
+ere|antes de (arcaico)||R|let|C1
+verily|en verdad||D|let|C1
+quoth|dijo (arcaico)||V|let|C1
+brethren|hermanos (arcaico)||S|rel|C1
+kith and kin|parientes y allegados||L|rel|C1
+wroth|furioso (arcaico)||A|emo|C1
+visage|rostro||S|let|C1
+onboarding|incorporación laboral||S|lav|C1
+burnout|agotamiento profesional||S|lav|C1
+wistful|añorante||A|emo|C1
+crestfallen|cabizbajo||A|emo|C1
+gut-wrenching|desgarrador||A|emo|C1
+ontology|ontología||S|ast|C1
+empiricism|empirismo||S|ast|C1
+determinism|determinismo||S|ast|C1
+free will|libre albedrío||L|ast|C1
+virtue ethics|ética de las virtudes||L|ast|C1
+deontology|deontología||S|ast|C1
+metaphysics|metafísica||S|ast|C1
+aesthetics|estética||S|art|C1
+sublime|lo sublime||S|art|C1
+phenomenology|fenomenología||S|ast|C1
+historiography|historiografía||S|sci|C1
+primary source|fuente primaria||L|stu|C1
+revisionism|revisionismo||S|ast|C1
+phonology|fonología||S|sci|C1
+syntax|sintaxis||S|sci|C1
+diachronic|diacrónico||A|sci|C1
+morpheme|morfema||S|sci|C1
+calque|calco||S|sci|C1
+loanword|préstamo léxico||S|sci|C1
+philology|filología||S|sci|C1
+false friend|falso amigo||L|stu|C1
+psychoanalysis|psicoanálisis||S|sci|C1
+the unconscious|el inconsciente||L|sci|C1
+repression|represión||S|sci|C1
+catharsis|catarsis||S|art|C1
+deliverable|entregable||S|lav|C1
+attachment theory|teoría del apego||L|sci|C1
+hegemony|hegemonía||S|ast|C1
+false consciousness|conciencia falsa||L|ast|C1
+othering|exotización del otro||S|sci|C1
+shuttle diplomacy|diplomacia itinerante||L|att|C1
+sphere of influence|esfera de influencia||L|att|C1
+proxy war|guerra subsidiaria||L|att|C1
+nonproliferation|no proliferación||S|att|C1
+deterrence|disuasión||S|att|C1
+peacekeeping|mantenimiento de la paz||S|att|C1
+rubric|rúbrica de evaluación||S|stu|C1
+supranational|supranacional||A|att|C1
+governance|gobernanza||S|ist|C1
+accountability|rendición de cuentas||S|ist|C1
+stakeholder|parte interesada||S|lav|C1
+lobbying|cabildeo||S|ist|C1
+welfare state|estado de bienestar||L|ist|C1
+opinion poll|sondeo de opinión||L|att|C1
+grassroots|de base (movimiento popular)||A|att|C1
+whistleblower|denunciante interno||S|pro|C1
+anomie|anomia||S|sci|C1
+benchmarking|evaluación comparativa||S|lav|C1
+gentrification|gentrificación||S|cit|C1
+diaspora|diáspora||S|sci|C1
+kinship|parentesco||S|sci|C1
+aging population|envejecimiento de la población||L|att|C1
+ethnography|etnografía||S|sci|C1
+fieldwork|trabajo de campo||S|sci|C1
+cosmogony|cosmogonía||S|sci|C1
+muckraking|periodismo de denuncia||S|att|C1
+op-ed|artículo de opinión||S|att|C1
+scoop|primicia||S|att|C1
+off the record|fuera de registro||L|att|C1
+leak|filtración||S|att|C1
+chromatic scale|escala cromática||L|mus|C1
+decant|decantar||V|ali|C1
+molt|muda||S|ani|C1
+dissonance|disonancia||S|mus|C1
+leitmotif|leimotiv (motivo recurrente)||S|mus|C1
+pas de deux|dúo de ballet||L|mus|C1
+curator|comisario de exposición||S|pro|C1
+provenance|procedencia||S|art|C1
+patina|pátina||S|art|C1
+forgery|falsificación||S|art|C1
+headhunter|cazatalentos||S|lav|C1
+gavel|martillo de subastas||S|fin|C1
+supply chain|cadena de suministro||L|lav|C1
+chiaroscuro|claroscuro||S|art|C1
+iconography|iconografía||S|art|C1
+inlay|taracea||S|art|C1
+depth of field|profundidad de campo||L|art|C1
+load-bearing wall|muro de carga||L|cit|C1
+buttress|contrafuerte||S|cit|C1
+cornice|cornisa||S|cit|C1
+skylight|claraboya||S|cit|C1
+zoning|zonificación||S|cit|C1
+auteur theory|teoría del autor||L|cin|C1
+mise-en-scene|puesta en escena||L|cin|C1
+montage|montaje||S|cin|C1
+jump cut|corte brusco||S|cin|C1
+typecasting|encasillamiento||S|cin|C1
+bamboozle|timar||V|cmu|C1
+chicanery|triquiñuela||S|ast|C1
+admittedly|hay que reconocerlo||D|cnn|C1
+hogwash|pamplinas||S|cmu|C1
+rigmarole|rollo engorroso||S|cmu|C1
+affidavit|declaración jurada||S|ist|C1
+y'all|vosotros||P|cmu|C1
+fixing to|estar a punto de||E|cmu|C1
+kitty-corner|en diagonal enfrente||D|cit|C1
+vexed|irritado||A|emo|C1
+aghast|estupefacto||A|emo|C1
+livid|lívido de rabia||A|emo|C1
+contrite|contrito||A|emo|C1
+rueful|compungido||A|emo|C1
+forbearance|longanimidad||S|ast|C1
+magnanimous|magnánimo||A|emo|C1
+temperance|templanza||S|ast|C1
+allude|aludir||V|cmu|C1
+equivocate|hablar con doblez||V|cmu|C1
+obfuscate|oscurecer deliberadamente||V|cmu|C1
+digress|divagar||V|cmu|C1
+extrapolate|extrapolar||V|sci|C1
+juxtapose|yuxtaponer||V|sci|C1
+conditio sine qua non|condición sine qua non||L|ast|C1
+per se|en sí mismo||L|ast|C1
+status quo|statu quo||L|ast|C1
+quid pro quo|toma y daca||L|cmu|C1
+prima facie|a primera vista||L|ast|C1
+ipso facto|ipso facto (por el mismo hecho)||L|ast|C1
+insulin resistance|resistencia a la insulina||L|sla|C1
+cold wallet|cartera fría||S|tec|C1
+malignancy|malignidad||S|sla|C1
+neurodegenerative|neurodegenerativo||A|sla|C1
+midwife|matrona||S|pro|C1
+prosthesis|prótesis||S|sla|C1
+arrhythmia|arritmia||S|sla|C1
+embolism|embolia||S|sla|C1
+retractor|separador quirúrgico||S|sla|C1
+due process|debido proceso||L|ist|C1
+tax evasion|evasión fiscal||L|fin|C1
+nonperforming loan|préstamo dudoso||L|fin|C1
+venture capital|capital riesgo||L|fin|C1
+oligopoly|oligopolio||S|fin|C1
+actuarial|actuarial||A|fin|C1
+microcredit|microcrédito||S|fin|C1

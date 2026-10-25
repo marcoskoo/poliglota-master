@@ -1,0 +1,272 @@
+die Prägung|impronta||S|sci|C1
+die Bindungstheorie|teoría del apego||S|sci|C1
+die Sozialisation|socialización||S|sci|C1
+die Begabtenförderung|fomento de talentos||S|stu|C1
+die Bildungsbeteiligung|participación educativa||S|stu|C1
+die Ausbildungsreife|madurez para la formación||S|stu|C1
+die Frustrationstoleranz|tolerancia a la frustración||S|sci|C1
+die Selbstwirksamkeit|autoeficacia||S|sci|C1
+die Empathiefähigkeit|capacidad de empatía||S|sci|C1
+die Verhaltensauffälligkeit|alteración de conducta||S|sci|C1
+die Kognition|cognición||S|sci|C1
+die Merkfähigkeit|capacidad de retención||S|sci|C1
+der Spieltrieb|instinto lúdico||S|sci|C1
+die Einzelförderung|apoyo individualizado||S|stu|C1
+die Kleinkindheit|primera infancia||S|sci|C1
+die Verdrängung|represión||S|sla|C1
+der Abwehrmechanismus|mecanismo de defensa||S|sla|C1
+die Übertragung|transferencia||S|sla|C1
+die Traumdeutung|interpretación de los sueños||S|sla|C1
+die Verhaltenstherapie|terapia conductual||S|sla|C1
+die Psychoedukation|psicoeducación||S|sla|C1
+das Krankheitsbild|cuadro clínico||S|sla|C1
+die Bewältigung|afrontamiento||S|sla|C1
+die Resilienz|resiliencia||S|sla|C1
+die Rückfallgefahr|riesgo de recaída||S|sla|C1
+die Zwangsstörung|trastorno obsesivo-compulsivo||S|sla|C1
+die Selbstfürsorge|autocuidado||S|sla|C1
+die Abstinenz|abstinencia||S|sla|C1
+die Zwangseinweisung|ingreso involuntario||S|sla|C1
+die Gegenübertragung|contratransferencia||S|sla|C1
+die Zügellosigkeit|desenfreno||S|ast|C1
+der Übermut|temeridad soberbia||S|ast|C1
+die Habsucht|avaricia||S|ast|C1
+die Feigheit|cobardía||S|ast|C1
+die Verschlagenheit|astucia ladina||S|ast|C1
+die Hinterlist|perfidia||S|ast|C1
+die Arglist|malicia||S|ast|C1
+die Großmut|magnanimidad||S|ast|C1
+die Seelengröße|grandeza de alma||S|ast|C1
+die Redlichkeit|probridad||S|ast|C1
+die Verkommenheit|depravación||S|ast|C1
+die Verschwiegenheit|discreción||S|ast|C1
+die Undankbarkeit|ingratitud||S|ast|C1
+die Rachsucht|sed de venganza||S|ast|C1
+die Selbsterkenntnis|autoconocimiento||S|ast|C1
+das Gründerteam|equipo fundador||S|lav|C1
+die Kapitalbeschaffung|captación de capital||S|fin|C1
+die Finanzierungsrunde|ronda de financiación||S|fin|C1
+die Skalierung|escalado||S|lav|C1
+der Markteintritt|entrada en el mercado||S|fin|C1
+die Exitstrategie|estrategia de salida||S|fin|C1
+die Ausgründung|empresa derivada (spin-off)||S|lav|C1
+das Geschäftsmodell|modelo de negocio||S|fin|C1
+die Geschäftsidee|idea de negocio||S|fin|C1
+die Kundenbindung|fidelización||S|fin|C1
+die Innovationsfreude|afán innovador||S|lav|C1
+die Marktnische|nicho de mercado||S|fin|C1
+das Fördergeld|subvención||S|fin|C1
+der Wachstumskurs|trayectoria de crecimiento||S|lav|C1
+die Pionierrolle|papel pionero||S|lav|C1
+die Wertschöpfungskette|cadena de valor||S|lav|C1
+der Warenfluss|flujo de mercancías||S|lav|C1
+die Disposition|planificación logística||S|lav|C1
+die Kommissionierung|preparación de pedidos||S|lav|C1
+die Lagerhaltung|gestión de almacén||S|lav|C1
+der Umschlagplatz|plataforma logística||S|lav|C1
+der Spediteur|transitario||S|pro|C1
+die Zollabfertigung|despacho aduanero||S|lav|C1
+die Sendungsverfolgung|seguimiento de envíos||S|lav|C1
+der Lieferengpass|interrupción del suministro||S|lav|C1
+das Distributionszentrum|centro de distribución||S|lav|C1
+die Bestandsaufnahme|inventario, balance||S|lav|C1
+die Auslastung|grado de ocupación||S|lav|C1
+die Vorlaufzeit|plazo de aprovisionamiento||S|lav|C1
+störanfällig|propenso a averías||A|tec|C1
+das Kaufverhalten|comportamiento de compra||S|fin|C1
+die Markenbindung|fidelidad de marca||S|fin|C1
+der Markenwert|valor de marca||S|fin|C1
+die Zielgruppenanalyse|análisis del público objetivo||S|fin|C1
+das Kauferlebnis|experiencia de compra||S|fin|C1
+die Preisgestaltung|política de precios||S|fin|C1
+der Anreiz|incentivo||S|fin|C1
+die Kundenrezension|reseña de clientes||S|fin|C1
+die Konsumsucht|adicción al consumo||S|sla|C1
+die Werbewirkung|eficacia publicitaria||S|fin|C1
+die Zielgruppensegmentierung|segmentación del público||S|fin|C1
+die Preisstaffelung|escalonamiento de precios||S|fin|C1
+das Konsumverhalten|comportamiento del consumidor||S|fin|C1
+die Werbebotschaft|mensaje publicitario||S|fin|C1
+die Absatzförderung|promoción de ventas||S|fin|C1
+die Normung|normalización||S|lav|C1
+die Zertifizierung|certificación||S|lav|C1
+die Zertifizierungsstelle|organismo de certificación||S|lav|C1
+die Typprüfung|homologación de tipo||S|lav|C1
+das Gütesiegel|sello de calidad||S|lav|C1
+die Konformitätserklärung|declaración de conformidad||S|lav|C1
+die Toleranzgrenze|límite de tolerancia||S|lav|C1
+der Ausschuss|piezas defectuosas (mermas)||S|lav|C1
+die Prozessstabilität|estabilidad del proceso||S|lav|C1
+das Qualitätsbewusstsein|conciencia de calidad||S|lav|C1
+die Nachbesserung|subsanación||S|lav|C1
+die Mängelrüge|reclamación por vicios||S|lav|C1
+die Stichprobenkontrolle|control por muestreo||S|lav|C1
+das Regelwerk|conjunto normativo||S|lav|C1
+die Auditierung|auditoría||S|lav|C1
+die Anhörung|audiencia (procedimental)||S|ist|C1
+der Tatbestand|tipo penal, hechos probados||S|ist|C1
+die Rechtsauffassung|criterio jurídico||S|ist|C1
+die Klageerwiderung|contestación a la demanda||S|ist|C1
+das Berufungsverfahren|procedimiento de apelación||S|ist|C1
+die Beweislast|carga de la prueba||S|ist|C1
+die Beweiswürdigung|valoración probatoria||S|ist|C1
+der Schadensersatzanspruch|pretensión indemnizatoria||S|ist|C1
+die Unterlassungserklärung|compromiso de cese||S|ist|C1
+die Vollstreckung|ejecución de títulos||S|ist|C1
+die Testamentsvollstreckung|ejecución testamentaria||S|ist|C1
+der Erbschein|certificado de herederos||S|ist|C1
+die Verjährungsfrist|plazo de prescripción||S|ist|C1
+das Ermittlungsverfahren|diligencias previas||S|ist|C1
+der Vergleich|transacción judicial||S|ist|C1
+die Anamnese|anamnesis||S|sla|C1
+der Behandlungsfehler|mala praxis médica||S|sla|C1
+die Indikation|indicación clínica||S|sla|C1
+die Kontraindikation|contraindicación||S|sla|C1
+die Differenzialdiagnose|diagnóstico diferencial||S|sla|C1
+der Krankheitsverlauf|evolución clínica||S|sla|C1
+die Unverträglichkeit|intolerancia||S|sla|C1
+die Wundversorgung|cura de heridas||S|sla|C1
+die Beatmung|ventilación mecánica||S|sla|C1
+der Kreislaufstillstand|parada circulatoria||S|sla|C1
+die Palliativversorgung|cuidados paliativos||S|sla|C1
+die Patientenverfügung|testamento vital||S|sla|C1
+die Überweisung|volante de derivación||S|sla|C1
+die Diagnosestellung|establecimiento del diagnóstico||S|sla|C1
+die Rehabilitation|rehabilitación||S|sla|C1
+die Wechselwirkung|interacción medicamentosa||S|sla|C1
+die Belastbarkeit|capacidad de carga||S|tec|C1
+der Verschleiß|desgaste||S|tec|C1
+die Materialermüdung|fatiga del material||S|tec|C1
+die Passgenauigkeit|precisión de ajuste||S|tec|C1
+der Wirkungsgrad|rendimiento (termodinámico)||S|tec|C1
+die Drehzahl|régimen de giro||S|tec|C1
+das Drehmoment|par motor||S|tec|C1
+die Abdichtung|estanqueidad||S|tec|C1
+die Tragfähigkeit|capacidad portante||S|tec|C1
+das Wartungsintervall|intervalo de mantenimiento||S|tec|C1
+die Unfallverhütung|prevención de accidentes||S|tec|C1
+die Prozessüberwachung|supervisión de proceso||S|tec|C1
+der Werkstoff|material técnico||S|tec|C1
+die Anlagentechnik|tecnología de instalaciones||S|tec|C1
+die Inbetriebnahme|puesta en marcha||S|tec|C1
+die Forschungsfrage|pregunta de investigación||S|stu|C1
+die Erhebung|recogida de datos||S|stu|C1
+die Zufallsauswahl|selección aleatoria||S|stu|C1
+das Forschungsdesign|diseño de investigación||S|stu|C1
+die Nullhypothese|hipótesis nula||S|stu|C1
+das Einschlusskriterium|criterio de inclusión||S|stu|C1
+der Gutachter|evaluador (de manuscritos)||S|pro|C1
+die Replikation|réplica del estudio||S|stu|C1
+der Kenntnisstand|estado de la cuestión||S|stu|C1
+die Methodenlehre|metodología||S|stu|C1
+die Verallgemeinerung|generalización||S|stu|C1
+die Erkenntnisgewinnung|obtención de conocimiento||S|stu|C1
+die Belegstelle|pasaje justificativo||S|stu|C1
+die Leitfrage|pregunta rectora||S|stu|C1
+die Hypothese|hipótesis||S|stu|C1
+der Antiquitätenhändler|marchante de antigüedades||S|pro|C1
+die Versteigerung|subasta||S|sve|C1
+das Auktionshaus|casa de subastas||S|sve|C1
+der Zuschlag|adjudicación (en subasta)||S|sve|C1
+das Höchstgebot|puja más alta||S|sve|C1
+die Provenienz|procedencia||S|art|C1
+der Liebhaberwert|valor de aficionado||S|sve|C1
+das Sammlerstück|pieza de colección||S|sve|C1
+der Echtheitsnachweis|prueba de autenticidad||S|sve|C1
+der Kunsthandel|comercio de arte||S|sve|C1
+die Rarität|pieza rara||S|sve|C1
+das Sammelgebiet|área de coleccionismo||S|sve|C1
+das Auktionslos|lote de subasta||S|sve|C1
+der Depotfund|hallazgo de depósito||S|sve|C1
+der Zuschlagspreis|precio de adjudicación||S|sve|C1
+die Spitzengastronomie|gastronomía de autor||S|ris|C1
+die Kreation|creación culinaria||S|ris|C1
+die Textur|textura||S|ali|C1
+die Aromatik|aromática||S|ali|C1
+die Reduktion|reducción (de salsa)||S|ali|C1
+die Degustation|degustación||S|ris|C1
+der Sommelier|sumiller||S|pro|C1
+die Speisenfolge|sucesión de platos (menú)||S|ris|C1
+der Gourmet|sibarita||S|ris|C1
+die Regionalität|carácter de proximidad||S|ali|C1
+verfeinern|refinar (un plato)||V|ali|C1
+die Raffinesse|sofisticación||S|ali|C1
+die Kochkunst|arte culinario||S|ali|C1
+die Küchenphilosophie|filosofía culinaria||S|ris|C1
+das Degustationsmenü|menú degustación||S|ris|C1
+das Feingefühl|delicadeza (tacto)||S|rel|C1
+der Fauxpas|desliz social||S|rel|C1
+die Gefälligkeit|favor, cortesía||S|rel|C1
+die Zweckgemeinschaft|comunidad de conveniencia||S|rel|C1
+die Zweckallianz|alianza de conveniencia||S|rel|C1
+die Vertrautheit|intimidad, confianza||S|rel|C1
+die Geselligkeit|sociabilidad||S|rel|C1
+die Umgangsformen|buenas maneras||S|rel|C1
+der Ehrengast|invitado de honor||S|rel|C1
+das Stelldichein|cita (tono elegante)||S|rel|C1
+Kontakte knüpfen|entablar contactos||E|rel|C1
+die Diskretion|discreción||S|rel|C1
+die Konversation|conversación distinguida||S|rel|C1
+der Salonlöwe|león de salón||S|rel|C1
+die Kordialität|cordialidad||S|rel|C1
+die Ausdauerfähigkeit|capacidad de resistencia||S|spt|C1
+die Regenerationsphase|fase de recuperación||S|spt|C1
+die Belastungsgrenze|límite de esfuerzo||S|spt|C1
+die Laktatmessung|medición de lactato||S|spt|C1
+das Übertraining|sobrentrenamiento||S|spt|C1
+die Muskelermüdung|fatiga muscular||S|cor|C1
+die Schnellkraft|fuerza explosiva||S|spt|C1
+der Flüssigkeitsmangel|deshidratación||S|cor|C1
+das Konditionstraining|entrenamiento físico||S|spt|C1
+die Leistungsgrenze|límite de rendimiento||S|spt|C1
+die Stressfraktur|fractura por estrés||S|sla|C1
+die Regenerationsfähigkeit|capacidad de recuperación||S|spt|C1
+die Ausdauerleistung|prestación de resistencia||S|spt|C1
+die Wettkampfvorbereitung|preparación competitiva||S|spt|C1
+der Pulsanstieg|elevación del pulso||S|cor|C1
+der Rassehund|perro de raza||S|ani|C1
+der Rassestandard|estándar de raza||S|ani|C1
+der Rappen|caballo de capa negra||S|ani|C1
+der Schimmel|caballo blanco||S|ani|C1
+der Traber|trotador||S|ani|C1
+die Gangart|aire (del caballo)||S|ani|C1
+der Hufschlag|pista de equitación||S|ani|C1
+der Hundesport|deporte canino||S|ani|C1
+die Wesensbeurteilung|evaluación del carácter||S|ani|C1
+die Welpenprägung|impronta del cachorro||S|ani|C1
+die Reitkunst|arte ecuestre||S|ani|C1
+der Zwinger|perrera||S|ani|C1
+der Galopp|galope||S|ani|C1
+das Springpferd|caballo de saltos||S|ani|C1
+die Dressurarbeit|trabajo de doma||S|ani|C1
+die Großwetterlage|situación meteorológica general||S|cli|C1
+die Windböe|racha de viento||S|cli|C1
+der Wirbelsturm|tormenta ciclónica||S|cli|C1
+die Niederschlagsmenge|volumen de precipitación||S|cli|C1
+der Starkregen|lluvia torrencial||S|cli|C1
+die Schadensbilanz|balance de daños||S|cli|C1
+die Vorhersagegenauigkeit|precisión del pronóstico||S|cli|C1
+die Hochdrucklage|situación anticiclónica||S|cli|C1
+der Kaltlufttropfen|gota de aire frío||S|cli|C1
+die Warnstufe|nivel de alerta||S|cli|C1
+der Wetterumschwung|cambio brusco del tiempo||S|cli|C1
+das Messnetz|red de observación||S|cli|C1
+der Blitzschlag|descarga de rayo||S|cli|C1
+die Kaltfront|frente frío||S|cli|C1
+die Zugbahn|trayectoria (de una borrasca)||S|cli|C1
+zweifellos|indudablemente||D|cnn|C1
+unbestritten|incuestionable||D|cnn|C1
+mitnichten|de ningún modo||D|cnn|C1
+bei weitem|con diferencia||E|cnn|C1
+allemal|con toda seguridad||D|cnn|C1
+fraglos|sin duda alguna||D|cnn|C1
+zugegebenermaßen|hay que reconocerlo||D|cnn|C1
+nichtsdestotrotz|no obstante||D|cnn|C1
+nichtsdestoweniger|pese a todo||D|cnn|C1
+zum Trotz|a despecho de||E|cnn|C1
+wohlgemerkt|nótese bien||D|cnn|C1
+nachdrücklich|con énfasis||D|cnn|C1
+das sei dahingestellt|eso queda por ver||E|cnn|C1
+bei allem Verständnis für|con toda la comprensión por||E|cnn|C1
+erst recht|con mayor razón||E|cnn|C1
+glattweg|lisa y llanamente||D|cnn|C1

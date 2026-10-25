@@ -1,0 +1,52 @@
+aîné|hermano mayor||S|fam|B2
+bail|contrato de alquiler||S|cas|B2
+déménagement|mudanza||S|cas|B2
+mijoter|cocinar a fuego lento||V|ali|B2
+date de péremption|fecha de caducidad||L|ali|B2
+sommelier|sumiller||S|ris|B2
+intolérance au lactose|intolerancia a la lactosa||L|sla|B2
+dépistage|cribado (detección precoz)||S|sla|B2
+mutuelle|seguro médico complementario||S|sla|B2
+entraîneur|entrenador||S|spt|B2
+réclamation|reclamación||S|cmp|B2
+frais de port|gastos de envío||L|cmp|B2
+amende|multa||S|tra|B2
+covoiturage|coche compartido||S|tra|B2
+douane|aduana||S|vig|B2
+embarquement|embarque||S|vig|B2
+chambre d'hôtes|casa de huéspedes||L|htl|B2
+lâcher prise|relajarse y tomar distancia||L|emo|B2
+procrastiner|procrastinar||V|emo|B2
+entretien d'embauche|entrevista de trabajo||L|lav|B2
+période d'essai|período de prueba||L|lav|B2
+convention collective|convenio colectivo||L|lav|B2
+télétravail|teletrabajo||S|lav|B2
+bourse d'études|beca de estudios||L|stu|B2
+fiche de révision|ficha de repaso||L|stu|B2
+bulletin de vote|papeleta electoral||L|ist|B2
+audience|vista (juicio)||S|ist|B2
+canicule|ola de calor||S|cli|B2
+défilé|desfile de moda||S|rop|B2
+influenceur|influencer||S|tec|B2
+mot de passe|contraseña||L|tec|B2
+notaire|notario||S|pro|B2
+développeur|desarrollador||S|pro|B2
+partition|partitura||S|mus|B2
+tournage|rodaje||S|cin|B2
+se disputer|pelearse||V|rel|B2
+mensualité|cuota mensual||S|fin|B2
+arnaque|estafa||S|fin|B2
+inflation|inflación||S|att|B2
+hypothèse|hipótesis||S|sci|B2
+vulgarisation|divulgación científica||S|sci|B2
+intrigue|trama||S|let|B2
+éolien|eólico||A|nat|B2
+échéance|vencimiento||S|tmp|B2
+boîte de nuit|discoteca||L|sve|B2
+randonnée|ruta de senderismo||S|sve|B2
+réfuter|refutar||V|cmu|B2
+trac|miedo escénico||S|cmu|B2
+en revanche|en cambio||L|cnn|B2
+quoique|aunque||C|cnn|B2
+équité|equidad||S|ast|B2
+voûte|bóveda||S|art|B2

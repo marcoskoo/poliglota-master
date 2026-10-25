@@ -1,0 +1,264 @@
+das Hemd|camisa||S|rop|A2
+die Bluse|blusa||S|rop|A2
+der Anzug|traje||S|rop|A2
+die Jacke|chaqueta||S|rop|A2
+das T-Shirt|camiseta||S|rop|A2
+das Kleid|vestido||S|rop|A2
+der Gürtel|cinturón||S|rop|A2
+die Krawatte|corbata||S|rop|A2
+der Schal|bufanda||S|rop|A2
+die Stiefel|botas||S|rop|A2
+die Turnschuhe|zapatillas de deporte||S|rop|A2
+der Ring|anillo||S|rop|A2
+die Kette|collar||S|rop|A2
+die Uhr|reloj||S|rop|A2
+der Schmuck|joyas||S|rop|A2
+die Sonnenbrille|gafas de sol||S|rop|A2
+ausziehen|quitarse (la ropa)||V|rop|A2
+sich umziehen|cambiarse de ropa||V|rop|A2
+probieren|probarse||V|rop|A2
+bügeln|planchar||V|rop|A2
+das Handy|móvil||S|tec|A2
+der Computer|ordenador||S|tec|A2
+der Laptop|portátil||S|tec|A2
+die Tastatur|teclado||S|tec|A2
+der Bildschirm|pantalla||S|tec|A2
+der Drucker|impresora||S|tec|A2
+drucken|imprimir||V|tec|A2
+die Datei|archivo||S|tec|A2
+herunterladen|descargar||V|tec|A2
+löschen|borrar||V|tec|A2
+das Ladegerät|cargador||S|tec|A2
+der Kopfhörer|auriculares||S|tec|A2
+das Foto|foto||S|tec|A2
+fotografieren|hacer fotos||V|tec|A2
+die Kamera|cámara||S|tec|A2
+der Sport|deporte||S|spt|A2
+der Verein|club||S|spt|A2
+trainieren|entrenar||V|spt|A2
+der Trainer|entrenador||S|spt|A2
+schwimmen|nadar||V|spt|A2
+das Tor|portería; gol||S|spt|A2
+schießen|chutar||V|spt|A2
+der Ball|balón||S|spt|A2
+der Basketball|baloncesto||S|spt|A2
+das Tennis|tenis||S|spt|A2
+das Fitnessstudio|gimnasio||S|spt|A2
+joggen|hacer footing||V|spt|A2
+reiten|montar a caballo||V|spt|A2
+das Stadion|estadio||S|spt|A2
+die Medaille|medalla||S|spt|A2
+das Klavier|piano||S|mus|A2
+die Geige|violín||S|mus|A2
+die Trompete|trompeta||S|mus|A2
+die Flöte|flauta||S|mus|A2
+das Schlagzeug|batería||S|mus|A2
+das Konzert|concierto||S|mus|A2
+der Musiker|músico||S|mus|A2
+das Lied|canción||S|mus|A2
+die Musik|música||S|mus|A2
+Klavier spielen|tocar el piano||L|mus|A2
+üben|ensayar||V|mus|A2
+der Schauspieler|actor||S|cin|A2
+die Schauspielerin|actriz||S|cin|A2
+die Vorstellung|sesión (de cine)||S|cin|A2
+die Komödie|comedia||S|cin|A2
+der Krimi|película policíaca||S|cin|A2
+die Serie|serie||S|cin|A2
+die Werbung|anuncio||S|cin|A2
+das Programm|programación||S|cin|A2
+die Rolle|papel||S|cin|A2
+die Freundin|amiga; novia||S|rel|A2
+die Beziehung|relación||S|rel|A2
+streiten|discutir||V|rel|A2
+das Gespräch|conversación||S|rel|A2
+der Nachbar|vecino||S|rel|A2
+die Nachbarin|vecina||S|rel|A2
+die Einladung|invitación||S|rel|A2
+feiern|celebrar||V|rel|A2
+gemeinsam|juntos||A|rel|A2
+sich verlieben|enamorarse||V|rel|A2
+verliebt|enamorado||A|rel|A2
+das Geld|dinero||S|fin|A2
+die Bank|banco||S|fin|A2
+die Kreditkarte|tarjeta de crédito||S|fin|A2
+die Münze|moneda||S|fin|A2
+der Schein|billete||S|fin|A2
+abheben|sacar (dinero)||V|fin|A2
+kostenlos|gratis||A|fin|A2
+sparen|ahorrar||V|fin|A2
+das Restaurant|restaurante||S|ris|A2
+der Appetit|apetito||S|ris|A2
+der Teller|plato||S|ris|A2
+die Suppe|sopa||S|ris|A2
+das Menü|menú||S|ris|A2
+die Portion|porción||S|ris|A2
+die Bestellung|pedido||S|ris|A2
+reservieren|reservar||V|ris|A2
+das Trinkgeld|propina||S|ris|A2
+die Pommes|patatas fritas||S|ris|A2
+der Nachtisch|postre||S|ris|A2
+das Essen|comida||S|ris|A2
+das Mittagessen|almuerzo||S|ris|A2
+der Imbiss|comida rápida||S|ris|A2
+salzen|salar||V|ris|A2
+grün|verde||A|col|A2
+schwarz|negro||A|col|A2
+weiß|blanco||A|col|A2
+grau|gris||A|col|A2
+braun|marrón||A|col|A2
+hell|claro||A|col|A2
+bunt|de colores||A|col|A2
+die Farbe|color||S|col|A2
+die Form|forma||S|col|A2
+das Dreieck|triángulo||S|col|A2
+der Kreis|círculo||S|col|A2
+das Quadrat|cuadrado||S|col|A2
+rund|redondo||A|col|A2
+der Stern|estrella||S|col|A2
+der Kopf|cabeza||S|cor|A2
+der Mund|boca||S|cor|A2
+die Lippe|labio||S|cor|A2
+der Zahn|diente||S|cor|A2
+der Bauch|tripa||S|cor|A2
+der Rücken|espalda||S|cor|A2
+die Brust|pecho||S|cor|A2
+das Herz|corazón||S|cor|A2
+der Magen|estómago||S|cor|A2
+das Blut|sangre||S|cor|A2
+die Stirn|frente||S|cor|A2
+die Kraft|fuerza||S|cor|A2
+stark|fuerte||A|cor|A2
+schwach|débil||A|cor|A2
+der Hamster|hámster||S|ani|A2
+das Meerschweinchen|conejo de Indias||S|ani|A2
+das Kaninchen|conejo||S|ani|A2
+die Kuh|vaca||S|ani|A2
+das Schaf|oveja||S|ani|A2
+die Ziege|cabra||S|ani|A2
+das Huhn|gallina||S|ani|A2
+der Hahn|gallo||S|ani|A2
+der Löwe|león||S|ani|A2
+der Tiger|tigre||S|ani|A2
+der Elefant|elefante||S|ani|A2
+der Bär|oso||S|ani|A2
+der Wolf|lobo||S|ani|A2
+der Fuchs|zorro||S|ani|A2
+der Hase|liebre||S|ani|A2
+das Eichhörnchen|ardilla||S|ani|A2
+der Affe|mono||S|ani|A2
+die Möwe|gaviota||S|ani|A2
+die Taube|paloma||S|ani|A2
+die Biene|abeja||S|ani|A2
+die Ameise|hormiga||S|ani|A2
+der Schmetterling|mariposa||S|ani|A2
+die Spinne|araña||S|ani|A2
+der See|lago||S|nat|A2
+das Meer|mar||S|nat|A2
+die Insel|isla||S|nat|A2
+das Tal|valle||S|nat|A2
+die Wiese|pradera||S|nat|A2
+das Feld|campo||S|nat|A2
+der Stein|piedra||S|nat|A2
+das Gras|hierba||S|nat|A2
+die Pflanze|planta||S|nat|A2
+die Rose|rosa||S|nat|A2
+die Tulpe|tulipán||S|nat|A2
+die Wurzel|raíz||S|nat|A2
+der Sand|arena||S|nat|A2
+die Welle|ola||S|nat|A2
+der Morgen|mañana||S|tmp|A2
+der Tag|día||S|tmp|A2
+der Montag|lunes||S|tmp|A2
+der Dienstag|martes||S|tmp|A2
+der Mittwoch|miércoles||S|tmp|A2
+der Donnerstag|jueves||S|tmp|A2
+der Freitag|viernes||S|tmp|A2
+der Samstag|sábado||S|tmp|A2
+der Sonntag|domingo||S|tmp|A2
+der Januar|enero||S|tmp|A2
+der Februar|febrero||S|tmp|A2
+der März|marzo||S|tmp|A2
+der April|abril||S|tmp|A2
+der Mai|mayo||S|tmp|A2
+der Juni|junio||S|tmp|A2
+der Juli|julio||S|tmp|A2
+der August|agosto||S|tmp|A2
+der September|septiembre||S|tmp|A2
+der Oktober|octubre||S|tmp|A2
+der November|noviembre||S|tmp|A2
+der Dezember|diciembre||S|tmp|A2
+halb drei|las tres y media||E|tmp|A2
+Wie spät ist es?|qué hora es||E|tmp|A2
+manchmal|a veces||D|tmp|A2
+immer|siempre||D|tmp|A2
+nie|nunca||D|tmp|A2
+das Hobby|afición||S|sve|A2
+die Party|fiesta||S|sve|A2
+tanzen|bailar||V|sve|A2
+der Tanz|baile||S|sve|A2
+malen|pintar||V|sve|A2
+zeichnen|dibujar||V|sve|A2
+sammeln|coleccionar||V|sve|A2
+kochen|cocinar||V|sve|A2
+backen|hornear||V|sve|A2
+der Spaziergang|paseo||S|sve|A2
+spazieren gehen|pasear||L|sve|A2
+der Feiertag|día festivo||S|sve|A2
+die Eintrittskarte|entrada||S|sve|A2
+glücklich|feliz||A|emo|A2
+die Freude|alegría||S|emo|A2
+sich freuen|alegrarse||V|emo|A2
+die Angst|miedo||S|emo|A2
+Angst haben|tener miedo||L|emo|A2
+nervös|nervioso||A|emo|A2
+ruhig|tranquilo||A|emo|A2
+langweilig|aburrido||A|emo|A2
+spannend|emocionante||A|emo|A2
+lustig|divertido||A|emo|A2
+stolz|orgulloso||A|emo|A2
+die Sorge|preocupación||S|emo|A2
+sich Sorgen machen|preocuparse||L|emo|A2
+die Überraschung|sorpresa||S|emo|A2
+die Frage|pregunta||S|cmu|A2
+fragen|preguntar||V|cmu|A2
+antworten|contestar||V|cmu|A2
+anrufen|llamar por teléfono||V|cmu|A2
+der Anruf|llamada||S|cmu|A2
+telefonieren|hablar por teléfono||V|cmu|A2
+der Brief|carta||S|cmu|A2
+die Briefmarke|sello||S|cmu|A2
+reden|hablar||V|cmu|A2
+zuhören|escuchar||V|cmu|A2
+wichtig|importante||A|ast|A2
+der Grund|motivo||S|ast|A2
+der Wunsch|deseo||S|ast|A2
+wünschen|desear||V|ast|A2
+der Traum|sueño||S|ast|A2
+träumen|soñar||V|ast|A2
+die Hoffnung|esperanza||S|ast|A2
+der Lärm|ruido||S|ast|A2
+die Hilfe|ayuda||S|ast|A2
+der Fehler|error||S|ast|A2
+die Lust|ganas||S|ast|A2
+Lust haben|tener ganas||L|ast|A2
+keine Ahnung|no tener ni idea||E|ast|A2
+der Künstler|artista||S|art|A2
+die Künstlerin|artista (mujer)||S|art|A2
+der Pinsel|pincel||S|art|A2
+die Ausstellung|exposición||S|art|A2
+aber|pero||C|cnn|A2
+oder|o||C|cnn|A2
+weil|porque||C|cnn|A2
+denn|porque||C|cnn|A2
+wenn|si; cuando||C|cnn|A2
+dass|que||C|cnn|A2
+ob|si (duda)||C|cnn|A2
+also|así que||D|cnn|A2
+doch|sin embargo||D|cnn|A2
+deswegen|por eso||D|cnn|A2
+ohne|sin||R|cnn|A2
+gegen|contra||R|cnn|A2
+durch|por||R|cnn|A2
+seit|desde||R|cnn|A2
+bis|hasta||R|cnn|A2

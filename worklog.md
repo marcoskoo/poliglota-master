@@ -2987,3 +2987,43 @@ Work Log:
 - it-c1-06-p*.txt: 908 entradas (303+303+302) · awk OK (6 campos) · dup OK (sin duplicados)
 Stage Summary:
 - it-c1-06: 908 entradas C1 italiano (derecho, economía, medicina, ciencia, humanidades, técnica, naturaleza)
+---
+Task ID: v9.43/final/fr-b2-20
+Agent: subagent
+Task: lexicón FR B2 job fr-b2-20
+Work Log:
+- fr-b2-20-p1.txt: 52 entradas · awk OK · dup OK
+Stage Summary:
+- fr-b2-20: 52 entradas B2 francés
+---
+Task ID: v9.43/final/fr-a2-19
+Agent: subagent
+Task: lexicón FR A2 job fr-a2-19
+Work Log:
+- fr-a2-19-p*.txt: 298 entradas · awk OK · dup OK
+Stage Summary:
+- fr-a2-19: 298 entradas A2 francés
+---
+Task ID: v9.43/final/en-c1-06
+Agent: subagent
+Task: lexicón EN C1 job en-c1-06
+Work Log:
+- en-c1-06-p*.txt: 394 entradas · awk OK · dup OK
+Stage Summary:
+- en-c1-06: 394 entradas C1 inglés
+---
+Task ID: v9.43/final/de-a2-01
+Agent: subagent
+Task: lexicón DE A2 job de-a2-01
+Work Log:
+- de-a2-01-p*.txt: 529 entradas · awk OK · dup OK
+Stage Summary:
+- de-a2-01: 529 entradas A2 alemán
+---
+Task ID: v9.43/final/de-c1-13
+Agent: subagent
+Task: lexicón DE C1 job de-c1-13
+Work Log:
+- de-c1-13-p*.txt: 817 entradas · awk OK · dup OK
+Stage Summary:
+- de-c1-13: 817 entradas C1 alemán (Hochdeutsch) en 3 archivos (273/272/272), formato 6 campos, subtemas del job cubiertos uniformemente

@@ -1,0 +1,265 @@
+Entschuldigung|perdón; disculpa||I|sal|A2
+grüßen|saludar||V|sal|A2
+Wie heißt du?|cómo te llamas||E|sal|A2
+der Abschied|despedida||S|sal|A2
+Herzlichen Glückwunsch!|felicidades||E|sal|A2
+Schönen Tag noch!|que tengas un buen día||E|sal|A2
+die Eltern|los padres||S|fam|A2
+das Kind|niño; niña||S|fam|A2
+der Onkel|tío||S|fam|A2
+die Cousine|prima||S|fam|A2
+der Cousin|primo||S|fam|A2
+der Neffe|sobrino||S|fam|A2
+die Nichte|sobrina||S|fam|A2
+der Enkel|nieto||S|fam|A2
+die Enkelin|nieta||S|fam|A2
+der Großvater|abuelo||S|fam|A2
+die Geschwister|hermanos||S|fam|A2
+der Ehemann|esposo; marido||S|fam|A2
+die Ehefrau|esposa||S|fam|A2
+die Hochzeit|boda||S|fam|A2
+das Paar|pareja||S|fam|A2
+der Zwilling|gemelo||S|fam|A2
+die Schwiegermutter|suegra||S|fam|A2
+der Stuhl|silla||S|cas|A2
+der Schrank|armario||S|cas|A2
+der Teppich|alfombra||S|cas|A2
+der Spiegel|espejo||S|cas|A2
+die Wand|pared||S|cas|A2
+der Balkon|balcón||S|cas|A2
+das Schlafzimmer|dormitorio||S|cas|A2
+das Badezimmer|cuarto de baño||S|cas|A2
+der Schreibtisch|escritorio||S|cas|A2
+das Waschbecken|lavabo||S|cas|A2
+die Toilette|váter; aseo||S|cas|A2
+die Glühbirne|bombilla||S|cas|A2
+die Steckdose|enchufe||S|cas|A2
+der Herd|cocina (aparato)||S|cas|A2
+der Backofen|horno||S|cas|A2
+die Spülmaschine|lavavajillas||S|cas|A2
+die Kaffeemaschine|cafetera||S|cas|A2
+der Eimer|cubo||S|cas|A2
+das Putzmittel|producto de limpieza||S|cas|A2
+das Waschmittel|detergente||S|cas|A2
+das Handtuch|toalla||S|cas|A2
+die Seife|jabón||S|cas|A2
+der Staub|polvo||S|cas|A2
+staubsaugen|pasar la aspiradora||V|cas|A2
+wischen|fregar (el suelo)||V|cas|A2
+die Gabel|tenedor||S|cas|A2
+das Besteck|cubiertos||S|cas|A2
+das Glas|vaso||S|cas|A2
+die Flasche|botella||S|cas|A2
+der Nagel|clavo||S|cas|A2
+die Leiter|escalera de mano||S|cas|A2
+die Taschenlampe|linterna||S|cas|A2
+die Banane|plátano||S|ali|A2
+die Orange|naranja||S|ali|A2
+die Zitrone|limón||S|ali|A2
+die Birne|pera||S|ali|A2
+die Traube|uva||S|ali|A2
+die Erdbeere|fresa||S|ali|A2
+die Kirsche|cereza||S|ali|A2
+die Melone|melón||S|ali|A2
+der Pfirsich|melocotón||S|ali|A2
+die Gurke|pepino||S|ali|A2
+die Karotte|zanahoria||S|ali|A2
+die Paprika|pimiento||S|ali|A2
+der Pilz|champiñón||S|ali|A2
+der Salat|lechuga||S|ali|A2
+das Hähnchen|pollo||S|ali|A2
+das Steak|filete||S|ali|A2
+das Schnitzel|escalope||S|ali|A2
+die Forelle|trucha||S|ali|A2
+der Lachs|salmón||S|ali|A2
+die Garnele|gamba||S|ali|A2
+der Käse|queso||S|ali|A2
+die Butter|mantequilla||S|ali|A2
+das Ei|huevo||S|ali|A2
+das Joghurt|yogur||S|ali|A2
+die Sahne|nata||S|ali|A2
+das Brötchen|bollo||S|ali|A2
+der Kuchen|tarta||S|ali|A2
+das Müsli|muesli||S|ali|A2
+der Reis|arroz||S|ali|A2
+die Nudeln|pasta||S|ali|A2
+die Haferflocken|copos de avena||S|ali|A2
+der Kaffee|café||S|ali|A2
+der Tee|té||S|ali|A2
+die Limonade|gaseosa||S|ali|A2
+der Kakao|cacao (bebida)||S|ali|A2
+der Pfeffer|pimienta||S|ali|A2
+der Zucker|azúcar||S|ali|A2
+der Knoblauch|ajo||S|ali|A2
+der Essig|vinagre||S|ali|A2
+die Soße|salsa||S|ali|A2
+die Linse|lenteja||S|ali|A2
+die Nuss|nuez||S|ali|A2
+die Erdnuss|cacahuete||S|ali|A2
+die Metzgerei|carnicería||S|cmp|A2
+die Drogerie|droguería||S|cmp|A2
+die Kasse|caja||S|cmp|A2
+der Kunde|cliente||S|cmp|A2
+die Kundin|clienta||S|cmp|A2
+der Preis|precio||S|cmp|A2
+der Rabatt|descuento||S|cmp|A2
+das Sonderangebot|oferta especial||S|cmp|A2
+billig|barato||A|cmp|A2
+die Tüte|bolsa||S|cmp|A2
+das Geschäft|tienda||S|cmp|A2
+die Öffnungszeiten|horario||S|cmp|A2
+geöffnet|abierto||A|cmp|A2
+geschlossen|cerrado||A|cmp|A2
+die Rechnung|factura||S|cmp|A2
+die Packung|paquete||S|cmp|A2
+die Dose|lata||S|cmp|A2
+das Kilo|kilo||S|cmp|A2
+das Gramm|gramo||S|cmp|A2
+das Pfund|libra (500 g)||S|cmp|A2
+der Liter|litro||S|cmp|A2
+das Stück|pieza; trozo||S|cmp|A2
+die Haltestelle|parada||S|tra|A2
+der Bus|autobús||S|tra|A2
+die U-Bahn|metro||S|tra|A2
+das Gleis|andén||S|tra|A2
+die Fahrkarte|billete||S|tra|A2
+der Fahrer|conductor||S|tra|A2
+das Auto|coche||S|tra|A2
+fahren|conducir; ir||V|tra|A2
+parken|aparcar||V|tra|A2
+die Tankstelle|gasolinera||S|tra|A2
+tanken|echar gasolina||V|tra|A2
+das Benzin|gasolina||S|tra|A2
+der Unfall|accidente||S|tra|A2
+der Reifen|neumático||S|tra|A2
+der Führerschein|carné de conducir||S|tra|A2
+die Verspätung|retraso||S|tra|A2
+das Flugzeug|avión||S|tra|A2
+fliegen|volar||V|tra|A2
+ankommen|llegar||V|tra|A2
+die Bremse|freno||S|tra|A2
+die Klingel|timbre||S|tra|A2
+die Bahn|tren; ferrocarril||S|tra|A2
+der Helm|casco||S|tra|A2
+das Motorrad|motocicleta||S|tra|A2
+der Urlaub|vacaciones||S|vig|A2
+das Zelt|tienda de campaña||S|vig|A2
+der Schlafsack|saco de dormir||S|vig|A2
+das Lagerfeuer|hoguera||S|vig|A2
+grillen|hacer una barbacoa||V|vig|A2
+der Grill|barbacoa||S|vig|A2
+wandern|hacer senderismo||V|vig|A2
+die Wanderung|excursión a pie||S|vig|A2
+das Ziel|destino||S|vig|A2
+die Sonnencreme|crema solar||S|vig|A2
+die Reise|viaje||S|vig|A2
+das Ufer|orilla||S|vig|A2
+übernachten|pasar la noche||V|vig|A2
+die Unterkunft|alojamiento||S|vig|A2
+Gute Reise!|buen viaje||E|vig|A2
+das Doppelzimmer|habitación doble||S|htl|A2
+das Frühstück|desayuno||S|htl|A2
+der Aufzug|ascensor||S|htl|A2
+der Empfang|recepción||S|htl|A2
+die Sauna|sauna||S|htl|A2
+die Aussicht|vista||S|htl|A2
+der Arzt|médico||S|sla|A2
+der Zahnarzt|dentista||S|sla|A2
+die Apotheke|farmacia||S|sla|A2
+das Wartezimmer|sala de espera||S|sla|A2
+die Tablette|pastilla||S|sla|A2
+das Pflaster|tirita||S|sla|A2
+der Husten|tos||S|sla|A2
+der Schnupfen|resfriado||S|sla|A2
+die Erkältung|constipado||S|sla|A2
+sich erkälten|constiparse||V|sla|A2
+die Krankheit|enfermedad||S|sla|A2
+das Krankenhaus|hospital||S|sla|A2
+die Spritze|inyección||S|sla|A2
+der Patient|paciente||S|sla|A2
+gesund|sano||A|sla|A2
+die Gesundheit|salud||S|sla|A2
+Gute Besserung!|que te mejores||E|sla|A2
+wehtun|doler||V|sla|A2
+die Untersuchung|revisión médica||S|sla|A2
+der Notfall|urgencia||S|sla|A2
+der Beruf|profesión||S|lav|A2
+der Kollege|compañero de trabajo||S|lav|A2
+der Chef|jefe||S|lav|A2
+die Firma|empresa||S|lav|A2
+das Gehalt|sueldo||S|lav|A2
+der Feierabend|fin de la jornada||S|lav|A2
+die Besprechung|reunión||S|lav|A2
+der Termin|cita||S|lav|A2
+das Dokument|documento||S|lav|A2
+der Kalender|calendario||S|lav|A2
+der Stift|bolígrafo||S|lav|A2
+der Bleistift|lápiz||S|lav|A2
+das Heft|cuaderno||S|lav|A2
+das Lineal|regla||S|lav|A2
+der Radiergummi|goma de borrar||S|lav|A2
+die Schere|tijeras||S|lav|A2
+der Hefter|grapadora||S|lav|A2
+der Koch|cocinero||S|pro|A2
+der Friseur|peluquero||S|pro|A2
+der Mechaniker|mecánico||S|pro|A2
+der Elektriker|electricista||S|pro|A2
+der Maler|pintor||S|pro|A2
+der Bauer|agricultor||S|pro|A2
+der Briefträger|cartero||S|pro|A2
+der Feuerwehrmann|bombero||S|pro|A2
+der Schneider|sastre||S|pro|A2
+die Schule|escuela||S|stu|A2
+der Unterricht|clase||S|stu|A2
+die Klasse|clase (grupo)||S|stu|A2
+das Klassenzimmer|aula||S|stu|A2
+die Tafel|pizarra||S|stu|A2
+der Stundenplan|horario de clases||S|stu|A2
+das Buch|libro||S|stu|A2
+das Wörterbuch|diccionario||S|stu|A2
+die Zeitschrift|revista||S|stu|A2
+die Mathematik|matemáticas||S|stu|A2
+die Geschichte|historia||S|stu|A2
+die Biologie|biología||S|stu|A2
+die Physik|física||S|stu|A2
+die Prüfung|examen||S|stu|A2
+die Grundschule|colegio de primaria||S|stu|A2
+die Universität|universidad||S|stu|A2
+das Studium|estudios universitarios||S|stu|A2
+das Fach|asignatura||S|stu|A2
+die Fremdsprache|idioma extranjero||S|stu|A2
+lernen|aprender; estudiar||V|stu|A2
+wiederholen|repetir||V|stu|A2
+die Stunde|hora (de clase)||S|stu|A2
+der Text|texto||S|stu|A2
+die Übung|ejercicio||S|stu|A2
+das Thema|tema||S|stu|A2
+die Kirche|iglesia||S|cit|A2
+das Schloss|castillo||S|cit|A2
+die Bibliothek|biblioteca||S|cit|A2
+das Theater|teatro||S|cit|A2
+der Zoo|zoo||S|cit|A2
+die Mauer|muro||S|cit|A2
+die Straße|calle||S|cit|A2
+der Weg|camino||S|cit|A2
+die Richtung|dirección||S|cit|A2
+links|a la izquierda||D|cit|A2
+rechts|a la derecha||D|cit|A2
+geradeaus|todo recto||D|cit|A2
+die Adresse|dirección (domicilio)||S|cit|A2
+die Polizei|policía||S|cit|A2
+die Feuerwehr|bomberos (cuerpo)||S|cit|A2
+der Wind|viento||S|cli|A2
+die Wolke|nube||S|cli|A2
+der Schnee|nieve||S|cli|A2
+schneien|nevar||V|cli|A2
+regnen|llover||V|cli|A2
+der Nebel|niebla||S|cli|A2
+das Gewitter|tormenta||S|cli|A2
+der Blitz|relámpago||S|cli|A2
+die Temperatur|temperatura||S|cli|A2
+warm|caluroso||A|cli|A2
+kühl|fresco||A|cli|A2
+trocken|seco||A|cli|A2
+frieren|pasar frío||V|cli|A2
+die Jahreszeit|estación del año||S|cli|A2

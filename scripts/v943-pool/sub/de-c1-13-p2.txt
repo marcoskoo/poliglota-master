@@ -1,0 +1,272 @@
+der Vulkanismus|vulcanismo||S|nat|C1
+die Magmakammer|cámara magmática||S|nat|C1
+der Vulkanausbruch|erupción volcánica||S|nat|C1
+die Aschewolke|nube de ceniza||S|nat|C1
+der Lavastrom|colada de lava||S|nat|C1
+die Caldera|caldera||S|nat|C1
+die Seismik|sísmica||S|sci|C1
+die Rutschung|desprendimiento de terreno||S|nat|C1
+der Bergsturz|derrumbe de montaña||S|nat|C1
+erosionsanfällig|propenso a la erosión||A|nat|C1
+die Frühwarnung|alerta temprana||S|nat|C1
+der Katastrophenschutz|protección civil||S|nat|C1
+der Ascheniederschlag|precipitación de ceniza||S|nat|C1
+das Erdbebenrisiko|riesgo sísmico||S|sci|C1
+die Gesteinsschmelze|roca fundida (magma)||S|nat|C1
+die Limnologie|limnología||S|nat|C1
+das Feuchtgebiet|zona húmeda||S|nat|C1
+der Auenwald|bosque de ribera||S|nat|C1
+die Flussaue|vega del río||S|nat|C1
+der Grundwasserspiegel|nivel freático||S|nat|C1
+die Wasserführung|caudal de un río||S|nat|C1
+der Nebenfluss|afluente||S|nat|C1
+die Gewässergüte|calidad de las aguas||S|nat|C1
+die Verlandung|colmatación||S|nat|C1
+das Schilf|carrizal||S|nat|C1
+die Uferböschung|talud de la orilla||S|nat|C1
+die Quellfassung|captación de manantial||S|nat|C1
+der Altarm|brazo muerto (de río)||S|nat|C1
+der Hochwasserschutz|defensa contra inundaciones||S|nat|C1
+die Renaturierung|renaturalización||S|nat|C1
+die Fruchtfolge|rotación de cultivos||S|nat|C1
+die Bodenbearbeitung|laboreo del suelo||S|nat|C1
+die Monokultur|monocultivo||S|nat|C1
+der Humusgehalt|contenido en humus||S|nat|C1
+die Bodenfruchtbarkeit|fertilidad del suelo||S|nat|C1
+die Beregnung|riego por aspersión||S|nat|C1
+die Überdüngung|sobrefertilización||S|nat|C1
+die Versiegelung|sellado del suelo||S|nat|C1
+die Agrarsubvention|subvención agraria||S|nat|C1
+die Agrarwirtschaft|sector agrario||S|nat|C1
+das Saatgut|semilla de siembra||S|nat|C1
+die Ertragsschwankung|fluctuación de las cosechas||S|nat|C1
+die Brache|barbecho||S|nat|C1
+der Pflanzenschutz|sanidad vegetal||S|nat|C1
+die Nährstoffauswaschung|lixiviación de nutrientes||S|nat|C1
+die Viehzucht|ganadería||S|ani|C1
+die Weidehaltung|cría en pastoreo||S|ani|C1
+die Mast|engorde de animales||S|ani|C1
+das Zuchttier|animal reproductor||S|ani|C1
+die Aquakultur|acuicultura||S|ani|C1
+die Teichwirtschaft|piscicultura de estanques||S|ani|C1
+der Fischbestand|población piscícola||S|ani|C1
+die Fangquote|cuota de captura||S|ani|C1
+der Beifang|captura accidental||S|ani|C1
+die Überfischung|sobrepesca||S|ani|C1
+das Milchvieh|ganado lechero||S|ani|C1
+die Stallhaltung|estabulación||S|ani|C1
+die Schlachtung|sacrificio de ganado||S|ani|C1
+das Grünfutter|forraje verde||S|ani|C1
+die Weidefläche|pastizal||S|ani|C1
+die Aufforstung|repoblación forestal||S|nat|C1
+der Kahlschlag|tala a matarrasa||S|nat|C1
+die Forstwirtschaft|silvicultura||S|nat|C1
+der Baumbestand|masa forestal||S|nat|C1
+die Brandgefahr|riesgo de incendio||S|nat|C1
+die Brandrodung|roza por fuego||S|nat|C1
+der Windwurf|derribo por viento||S|nat|C1
+der Borkenkäfer|escarabajo descortezador||S|ani|C1
+das Totholz|madera muerta||S|nat|C1
+die Dickung|monte bravo||S|nat|C1
+das Waldsterben|muerte del bosque||S|nat|C1
+die Baumgrenze|límite arbóreo||S|nat|C1
+das Löschflugzeug|avión cisterna||S|nat|C1
+die Feuerfront|frente de llamas||S|nat|C1
+die Holzernte|aprovechamiento maderero||S|nat|C1
+die Kreislaufwirtschaft|economía circular||S|nat|C1
+der Wertstoffhof|punto limpio||S|nat|C1
+die Müllverbrennung|incineración de residuos||S|nat|C1
+der Sondermüll|residuos peligrosos||S|nat|C1
+die Wiederverwertung|revalorización||S|nat|C1
+die Verwertungsquote|tasa de valorización||S|nat|C1
+der Sekundärrohstoff|materia prima secundaria||S|nat|C1
+das Einwegpfand|depósito de envases||S|nat|C1
+der Elektroschrott|residuos de aparatos eléctricos||S|nat|C1
+die Abfallvermeidung|prevención de residuos||S|nat|C1
+der Schadstoffeintrag|aporte de contaminantes||S|nat|C1
+die Recyclingquote|tasa de reciclaje||S|nat|C1
+die Rücknahmepflicht|obligación de retorno||S|nat|C1
+der Ressourcenverbrauch|consumo de recursos||S|nat|C1
+die Wegwerfmentalität|mentalidad de usar y tirar||S|nat|C1
+eigenwillig|de carácter muy particular||A|ast|C1
+kleinlich|mezquino, puntilloso||A|ast|C1
+großspurig|fanfarrón||A|ast|C1
+wankelmütig|voluble||A|ast|C1
+bedenkenlos|sin escrúpulos||A|ast|C1
+fragwürdig|cuestionable||A|ast|C1
+achtbar|digno de aprecio||A|ast|C1
+selbstgefällig|autocomplaciente||A|ast|C1
+hochmütig|soberbio||A|ast|C1
+leichtfertig|imprudente, frívolo||A|ast|C1
+tugendhaft|virtuoso||A|ast|C1
+niederträchtig|innoble||A|ast|C1
+undurchschaubar|inescrutable||A|ast|C1
+berechnend|calculador||A|ast|C1
+unbeirrbar|inquebrantable||A|ast|C1
+verschlagen|ladino||A|ast|C1
+einwenden|objetar||V|cmu|C1
+entkräften|refutar||V|cmu|C1
+widerlegen|rebatir||V|cmu|C1
+untermauern|reforzar (un argumento)||V|cmu|C1
+konzedieren|conceder (un punto)||V|cmu|C1
+beschwichtigen|aplacar||V|cmu|C1
+beschönigen|maquillar, disimular||V|cmu|C1
+darlegen|exponer||V|cmu|C1
+erörtern|discurrir sobre||V|cmu|C1
+bezichtigen|acusar de||V|cmu|C1
+plädieren|abogar por||V|cmu|C1
+herleiten|inferir||V|cmu|C1
+einlenken|ceder, transigir||V|cmu|C1
+insinuieren|insinuar||V|cmu|C1
+dementieren|desmentir||V|cmu|C1
+die Wesensart|índole||S|ast|C1
+die Bestrebung|aspiración, empeño||S|ast|C1
+das Vorstellungsvermögen|capacidad de representación||S|ast|C1
+die Begrenztheit|carácter limitado||S|ast|C1
+die Uneinigkeit|desacuerdo||S|ast|C1
+das Kernmerkmal|rasgo nuclear||S|ast|C1
+die Urteilskraft|capacidad de juicio||S|ast|C1
+die Erörterung|exposición razonada||S|ast|C1
+die Befindlichkeit|estado de ánimo||S|ast|C1
+das Denkvermögen|facultad de pensamiento||S|ast|C1
+die Gelehrsamkeit|erudición||S|ast|C1
+die Tragweite|alcance, trascendencia||S|ast|C1
+die Nachwirkung|repercusión posterior||S|ast|C1
+die Gesinnung|talante, convicción||S|ast|C1
+die Vorurteilslosigkeit|ausencia de prejuicios||S|ast|C1
+die Wahrhaftigkeit|veracidad||S|ast|C1
+die Unwahrheit|falsedad||S|ast|C1
+die Halbheit|tibieza, mediocridad||S|ast|C1
+die Verdrehung|tergiversación||S|ast|C1
+die Unterstellung|atribución maliciosa||S|ast|C1
+die Unaufrichtigkeit|falta de franqueza||S|ast|C1
+das Blendwerk|engaño ilusorio||S|ast|C1
+die Scheinheiligkeit|hipocresía||S|ast|C1
+die Augenwischerei|cortina de humo||S|ast|C1
+das Wunschdenken|pensamiento desiderativo||S|ast|C1
+die Geschichtsfälschung|falsificación histórica||S|ast|C1
+verfälschen|falsear||V|ast|C1
+entstellen|desfigurar, falsear||V|ast|C1
+das Machwerk|mamarracho, obra fraudulenta||S|ast|C1
+die Irreführung|engaño, confusión||S|ast|C1
+die Anmut|gracia||S|ast|C1
+die Erhabenheit|sublimidad||S|ast|C1
+die Lauterkeit|integridad||S|ast|C1
+die Falschheit|falsedad (de carácter)||S|ast|C1
+die Wohlanständigkeit|decencia||S|ast|C1
+die Geschmacklosigkeit|mal gusto||S|ast|C1
+die Feinsinnigkeit|finura de sensibilidad||S|ast|C1
+das Taktgefühl|tacto||S|ast|C1
+die Zwanglosigkeit|desenvoltura||S|ast|C1
+die Würdigung|apreciación, homenaje||S|ast|C1
+die Angemessenheit|adecuación||S|ast|C1
+die Maßlosigkeit|desmesura||S|ast|C1
+das Ebenmaß|armonía de proporciones||S|ast|C1
+verwerflich|reprobable||A|ast|C1
+die Schicklichkeit|decoro||S|ast|C1
+großteils|en su mayor parte||D|ast|C1
+weitaus|con mucho||D|ast|C1
+überwiegend|mayoritariamente||D|ast|C1
+annähernd|aproximadamente||D|ast|C1
+marginal|ínfimo||A|ast|C1
+unerheblich|insignificante||A|ast|C1
+geringfügig|leve||A|ast|C1
+das Hundertfache|cien veces tanto||S|ast|C1
+um ein Vielfaches|por mucho||E|ast|C1
+schätzungsweise|según estimaciones||D|ast|C1
+ausnahmslos|sin excepción||D|ast|C1
+überdurchschnittlich|por encima de la media||A|ast|C1
+ein gutes Stück|un buen trecho||E|ast|C1
+nahezu|casi||D|ast|C1
+verschwindend gering|ínfimo, despreciable||E|ast|C1
+der Euphemismus|eufemismo||S|cmu|C1
+der Dysphemismus|disfemismo||S|cmu|C1
+heimgehen|fallecer (eufemismo)||V|sla|C1
+die Sanierung|reestructuración (sanamiento)||S|fin|C1
+der Personalabbau|recorte de plantilla||S|lav|C1
+die Freisetzung|despido (eufemismo)||S|lav|C1
+die diplomatische Note|nota diplomática||S|ist|C1
+die Verbalnote|nota verbal||S|ist|C1
+die Anspielung|alusión||S|cmu|C1
+der Unterton|tono velado||S|cmu|C1
+friedensstiftend|propiciador de paz||A|ast|C1
+Unstimmigkeiten beilegen|zanjar desavenencias||E|cmu|C1
+beschwichtigend|conciliador||A|cmu|C1
+die Verbrämung|rebozo encubridor||S|cmu|C1
+der Kraftausdruck|expresión gruesa||S|cmu|C1
+das Weh|congoja||S|let|C1
+das Verhängnis|hado funesto||S|let|C1
+die Verklärung|transfiguración||S|let|C1
+die Wehmut|melancolía||S|let|C1
+das Dasein|existencia||S|let|C1
+die Trübsal|tribulación||S|let|C1
+das Minnelied|canción de amor medieval||S|let|C1
+der Minnesang|lírica amorosa medieval||S|let|C1
+das Trugbild|espejismo||S|let|C1
+das Loblied|loa||S|let|C1
+die Totenklage|planto||S|let|C1
+die Weise|melodía||S|mus|C1
+besingen|ensalzar||V|let|C1
+die Kunde|nueva, noticia (poético)||S|let|C1
+das Innere|el fuero interno||S|let|C1
+das Weib|mujer (arcaizante)||S|let|C1
+die Maid|doncella||S|let|C1
+der Knabe|mozuelo||S|let|C1
+das Haupt|cabeza (arcaizante)||S|let|C1
+sich gebaren|comportarse (arcaizante)||V|let|C1
+nimmer|nunca (arcaizante)||D|let|C1
+ferne|lejano (poético)||A|let|C1
+der Waidmann|cazador (arcaizante)||S|let|C1
+die Miene|fisonomía||S|let|C1
+der Degen|espada||S|let|C1
+die Fehde|feudo (lucha)||S|let|C1
+der Knappe|escudero||S|let|C1
+hold|grácil||A|let|C1
+das Verderbnis|corrupción, perdición||S|let|C1
+allenthalben|por doquier||D|let|C1
+demnach|por consiguiente||D|cnn|C1
+diesbezüglich|a este respecto||D|cnn|C1
+diesseits|a este lado de||R|cnn|C1
+infolgedessen|en consecuencia||D|cnn|C1
+mithin|por tanto||D|cnn|C1
+insofern|en la medida en que||D|cnn|C1
+sofern|siempre que||C|cnn|C1
+ungeachtet|a pesar de||R|cnn|C1
+geschweige denn|mucho menos||C|cnn|C1
+mitunter|a veces||D|cnn|C1
+gleichwohl|no obstante||D|cnn|C1
+indessen|empero||D|cnn|C1
+derart|de tal suerte||D|cnn|C1
+im Gegenzug|a cambio||E|cnn|C1
+des Weiteren|asimismo||E|cnn|C1
+zumal|tanto más cuanto que||C|cnn|C1
+andeuten|insinuar||V|cmu|C1
+durchblicken lassen|dejar entrever||E|cmu|C1
+heraufbeschwören|conjurar (desgracias)||V|cmu|C1
+einflüstern|soplar al oído||V|cmu|C1
+beichten|confesar||V|cmu|C1
+verschweigen|callar (algo)||V|cmu|C1
+ausplaudern|revelar (un secreto)||V|cmu|C1
+zuraunen|susurrar (con complicidad)||V|cmu|C1
+entgegnen|replicar||V|cmu|C1
+kontern|contraatacar verbalmente||V|cmu|C1
+beteuern|asegurar reiteradamente||V|cmu|C1
+beschwören|rogar encarecidamente||V|cmu|C1
+raunen|murmurar||V|cmu|C1
+kundtun|hacer saber||V|cmu|C1
+verlautbaren|hacer saber oficialmente||V|cmu|C1
+die ultima ratio|último recurso||L|ast|C1
+die conditio humana|condición humana||L|ast|C1
+in dubio pro reo|ante la duda, a favor del reo||L|ist|C1
+ad acta legen|archivar||L|cmu|C1
+a fortiori|con mayor razón||L|ast|C1
+per se|en sí||L|ast|C1
+das Für und Wider|pros y contras||E|ast|C1
+das Nonplusultra|lo no va más||S|ast|C1
+der Lapsus|desliz||S|ast|C1
+das Alter Ego|alter ego||S|ast|C1
+die Crux|la pega||S|ast|C1
+das Sowohl-als-auch|lo uno y lo otro||S|ast|C1
+in Grundzügen|a grandes rasgos||E|ast|C1
+die Quintessenz|quintaesencia||S|ast|C1
+de facto|de hecho||L|ast|C1

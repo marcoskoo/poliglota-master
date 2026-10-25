@@ -1,0 +1,150 @@
+bonjour|buenos días||E|sal|A2
+bonsoir|buenas noches (al llegar)||E|sal|A2
+bonne soirée|que pases buena tarde||E|sal|A2
+au revoir|adiós||E|sal|A2
+à bientôt|hasta pronto||E|sal|A2
+enchanté|encantado (de conocerte)||E|sal|A2
+merci|gracias||I|sal|A2
+de rien|de nada||E|sal|A2
+pardon|perdón||I|sal|A2
+je vous en prie|no hay de qué||E|sal|A2
+non merci|no, gracias||E|sal|A2
+bien sûr|por supuesto||E|sal|A2
+mari|marido||S|fam|A2
+femme|esposa (mujer)||S|fam|A2
+frère|hermano||S|fam|A2
+sœur|hermana||S|fam|A2
+oncle|tío||S|fam|A2
+tante|tía||S|fam|A2
+cousin|primo||S|fam|A2
+grand-mère|abuela||S|fam|A2
+grand-père|abuelo||S|fam|A2
+neveu|sobrino||S|fam|A2
+nièce|sobrina||S|fam|A2
+canapé|sofá||S|cas|A2
+fauteuil|butaca||S|cas|A2
+armoire|armario||S|cas|A2
+commode|cómoda||S|cas|A2
+table basse|mesa de centro||S|cas|A2
+miroir|espejo||S|cas|A2
+frigo|frigorífico||S|cas|A2
+four|horno||S|cas|A2
+lave-vaisselle|lavavajillas||S|cas|A2
+chambre|dormitorio||S|cas|A2
+salon|salón||S|cas|A2
+couloir|pasillo||S|cas|A2
+escalier|escalera||S|cas|A2
+fenêtre|ventana||S|cas|A2
+balcon|balcón||S|cas|A2
+mur|pared||S|cas|A2
+plafond|techo||S|cas|A2
+couteau|cuchillo||S|cas|A2
+fourchette|tenedor||S|cas|A2
+cuillère|cuchara||S|cas|A2
+assiette|plato||S|cas|A2
+tasse|taza||S|cas|A2
+poêle|sartén||S|cas|A2
+marmite|olla||S|cas|A2
+louche|cucharón||S|cas|A2
+aspirateur|aspiradora||S|cas|A2
+serpillière|fregona||S|cas|A2
+détergent|detergente||S|cas|A2
+lessive|detergente (para la ropa)||S|cas|A2
+éponge|esponja||S|cas|A2
+poubelle|cubo de basura||S|cas|A2
+seau|cubo||S|cas|A2
+marteau|martillo||S|cas|A2
+tournevis|destornillador||S|cas|A2
+clou|clavo||S|cas|A2
+vis|tornillo||S|cas|A2
+perceuse|taladro||S|cas|A2
+échelle|escalera de mano||S|cas|A2
+pomme|manzana||S|ali|A2
+fraise|fresa||S|ali|A2
+citron|limón||S|ali|A2
+raisin|uva||S|ali|A2
+pêche|melocotón||S|ali|A2
+abricot|albaricoque||S|ali|A2
+melon|melón||S|ali|A2
+prune|ciruela||S|ali|A2
+framboise|frambuesa||S|ali|A2
+carotte|zanahoria||S|ali|A2
+tomate|tomate||S|ali|A2
+pomme de terre|patata||S|ali|A2
+oignon|cebolla||S|ali|A2
+salade|lechuga||S|ali|A2
+courgette|calabacín||S|ali|A2
+champignon|champiñón||S|ali|A2
+épinard|espinaca||S|ali|A2
+poulet|pollo||S|ali|A2
+bœuf|carne de vacuno||S|ali|A2
+porc|carne de cerdo||S|ali|A2
+agneau|cordero||S|ali|A2
+moule|mejillón||S|ali|A2
+crevette|gamba||S|ali|A2
+thon|atún||S|ali|A2
+lait|leche||S|ali|A2
+beurre|mantequilla||S|ali|A2
+crème|nata||S|ali|A2
+fromage blanc|queso fresco||S|ali|A2
+pain|pan||S|ali|A2
+baguette|barra de pan||S|ali|A2
+biscuit|galleta||S|ali|A2
+farine|harina||S|ali|A2
+riz|arroz||S|ali|A2
+pâtes|pasta||S|ali|A2
+eau|agua||S|ali|A2
+thé|té||S|ali|A2
+bière|cerveza||S|ali|A2
+soda|refresco||S|ali|A2
+limonade|limonada||S|ali|A2
+sucre|azúcar||S|ali|A2
+vinaigre|vinagre||S|ali|A2
+moutarde|mostaza||S|ali|A2
+huile d'olive|aceite de oliva||S|ali|A2
+vanille|vainilla||S|ali|A2
+persil|perejil||S|ali|A2
+lentille|lenteja||S|ali|A2
+noix|nuez||S|ali|A2
+amande|almendra||S|ali|A2
+cacahuète|cacahuete||S|ali|A2
+sésame|sésamo||S|ali|A2
+pistache|pistacho||S|ali|A2
+magasin|tienda||S|cmp|A2
+librairie|librería||S|cmp|A2
+boulangerie|panadería||S|cmp|A2
+papeterie|papelería||S|cmp|A2
+épicerie|tienda de alimentación||S|cmp|A2
+charcuterie|charcutería||S|cmp|A2
+prix|precio||S|cmp|A2
+pièce|moneda||S|cmp|A2
+carte bleue|tarjeta bancaria||S|cmp|A2
+gratuit|gratis||A|cmp|A2
+réduction|descuento||S|cmp|A2
+bouteille|botella||S|cmp|A2
+boîte|caja||S|cmp|A2
+sac|bolsa||S|cmp|A2
+paquet|paquete||S|cmp|A2
+gramme|gramo||S|cmp|A2
+kilo|kilo||S|cmp|A2
+demi|medio||A|cmp|A2
+arrêt|parada (de autobús)||S|tra|A2
+ticket|billete de transporte||S|tra|A2
+station de métro|estación de metro||S|tra|A2
+correspondance|transbordo||S|tra|A2
+tarif|tarifa||S|tra|A2
+abonnement|abono||S|tra|A2
+conducteur|conductor||S|tra|A2
+volant|volante||S|tra|A2
+frein|freno||S|tra|A2
+feu rouge|semáforo||S|tra|A2
+panneau|señal de tráfico||S|tra|A2
+garer|aparcar||V|tra|A2
+accident|accidente||S|tra|A2
+permis de conduire|carné de conducir||S|tra|A2
+gare|estación de tren||S|tra|A2
+quai|andén||S|tra|A2
+wagon|vagón||S|tra|A2
+voie|vía||S|tra|A2
+contrôleur|revisor||S|tra|A2
+horaire|horario||S|tra|A2
