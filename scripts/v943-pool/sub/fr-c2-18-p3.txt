@@ -1,0 +1,293 @@
+accréditation|acreditación||S|ist|C2
+agrément|visado de conformidad (habilitación)||S|ist|C2
+homologation|homologación||S|ist|C2
+conformité|conformidad||S|ist|C2
+non-conformité|no conformidad||S|ist|C2
+tableau de bord|cuadro de mando||L|tra|C2
+indicateur de performance|indicador de rendimiento||L|tra|C2
+levée de réserves|levantamiento de reservas (fin de obra)||L|tra|C2
+échantillon témoin|muestra testigo (grupo de control)||L|tra|C2
+rebut|pieza defectuosa (merma)||S|tra|C2
+vétusté|vetustez||S|ast|C2
+assurance qualité|aseguramiento de la calidad||L|tra|C2
+zéro défaut|cero defectos||L|tra|C2
+rouage|engranaje (mecanismo de un sistema)||S|tra|C2
+étalonnage|calibración (de instrumentos)||S|tra|C2
+périodicité|periodicidad (frecuencia de los controles)||S|tmp|C2
+démarche qualité|proceso de calidad (enfoque de mejora)||L|tra|C2
+dérogation|dispensa (excepción autorizada)||S|ist|C2
+avis technique|dictamen técnico||L|tec|C2
+référentiel|marco de referencia (norma de certificación)||S|tra|C2
+protocole d'essai|protocolo de ensayo||L|tec|C2
+reprise|reproceso (rectificación de defectos)||S|tra|C2
+savoir-faire|saber hacer||S|pro|C2
+rapprochement|conciliación (cotejo de datos)||S|fin|C2
+lettrage|cotejo de partidas (conciliación contable)||S|fin|C2
+interopérabilité|interoperabilidad||S|tec|C2
+métrologie|metrología||S|tec|C2
+haute disponibilité|alta disponibilidad||L|tec|C2
+obsolescence programmée|obsolescencia programada||L|tec|C2
+écoconception|ecodiseño||S|tec|C2
+règle des quatre yeux|regla de los cuatro ojos (doble verificación)||L|tra|C2
+mise en demeure|requerimiento fehaciente||L|ist|C2
+exécutoire|ejecutivo (título con fuerza ejecutiva)||A|ist|C2
+signification|notificación (acto de notificar)||S|ist|C2
+exploit|diligencia (de notificación)||S|ist|C2
+astreinte|apremio (multa coercitiva)||S|ist|C2
+transaction|transacción (acuerdo que evita el pleito)||S|ist|C2
+désistement|desistimiento||S|ist|C2
+forclusion|preclusión (pérdida del derecho por plazo)||S|ist|C2
+péremption|caducidad (de la instancia)||S|ist|C2
+subrogation|subrogación||S|ist|C2
+novation|novación (sustitución de una obligación)||S|ist|C2
+clause pénale|cláusula penal||L|ist|C2
+clause abusive|cláusula abusiva||L|ist|C2
+lésion|lesión (desequilibrio del contrato)||S|ist|C2
+dol|dolo (maquinación engañosa)||S|ist|C2
+commettant|mandante (quien encarga)||S|ist|C2
+préposé|encargado (auxiliar del mandante)||S|ist|C2
+attendu|considerando (de una sentencia)||S|ist|C2
+dispositif|parte dispositiva (fallo de la sentencia)||S|ist|C2
+témoin à charge|testigo de cargo||L|ist|C2
+réquisitoire|escrito de calificación (pedimento del fiscal)||S|ist|C2
+plaidoirie|alegato de defensa||S|ist|C2
+non-lieu|sobreseimiento||S|ist|C2
+cassation|casación||S|ist|C2
+injonction|mandamiento (orden judicial)||S|ist|C2
+référé|procedimiento de urgencia (vía rápida)||S|ist|C2
+saisie|embargo (retención de bienes)||S|ist|C2
+consignation|consignación (depósito de fondos)||S|ist|C2
+tierce opposition|tercería (oposición de tercero)||L|ist|C2
+renvoi préjudiciel|reenvío prejudicial||L|ist|C2
+curatelle|curatela||S|ist|C2
+testament olographe|testamento ológrafo||L|ist|C2
+demande reconventionnelle|demanda reconvencional||L|ist|C2
+nosologie|nosología (clasificación de enfermedades)||S|sla|C2
+étiologie|etiología||S|sla|C2
+comorbidité|comorbilidad||S|sla|C2
+iatrogène|iatrogénico||A|sla|C2
+séquelle|secuela||S|sla|C2
+antalgique|analgésico||A|sla|C2
+posologie|posología||S|sla|C2
+prophylaxie|profilaxis||S|sla|C2
+nosocomial|nosocomial (contraído en el hospital)||A|sla|C2
+prévalence|prevalencia||S|sla|C2
+morbidité|morbilidad||S|sla|C2
+létalité|letalidad||S|sla|C2
+sérologie|serología||S|sla|C2
+ponction|punción||S|sla|C2
+ergothérapie|terapia ocupacional||S|sla|C2
+orthophoniste|logopeda (terapeuta del habla)||S|pro|C2
+galénique|galénico (forma del medicamento)||A|sla|C2
+pharmacopée|farmacopea||S|sla|C2
+contre-indication|contraindicación||S|sla|C2
+effet indésirable|efecto adverso||L|sla|C2
+observance|cumplimiento del tratamiento (adherencia)||S|sla|C2
+pronostic vital|pronóstico vital||S|sla|C2
+dégénératif|degenerativo||A|sla|C2
+cathéter|catéter||S|sla|C2
+atrophie|atrofia||S|sla|C2
+hypertrophie|hipertrofia||S|sla|C2
+diagnostic différentiel|diagnóstico diferencial||L|sla|C2
+anamnèse|anamnesis (historia clínica contada por el paciente)||S|sla|C2
+sémiologie|semiología (estudio de los signos)||S|sla|C2
+cancérologie|oncología||S|sla|C2
+hémogramme|hemograma||S|sla|C2
+sténose|estenosis||S|sla|C2
+cahier des charges|pliego de condiciones||L|tec|C2
+jeu|holgura (juego de montaje)||S|tec|C2
+étanchéité|estanqueidad||S|tec|C2
+porosité|porosidad||S|tec|C2
+ferraillage|ferrallado (armadura del hormigón)||S|tec|C2
+coffrage|encofrado||S|tec|C2
+voussoir|dovela||S|tec|C2
+tirant|tirante (anclaje)||S|tec|C2
+poutrelle|vigueta||S|tec|C2
+calorifugeage|aislamiento térmico (revestimiento)||S|tec|C2
+gisement|yacimiento (filón explotable)||S|nat|C2
+carottage|carotaje (testificación de sondeo)||S|tec|C2
+vilebrequin|cigüeñal||S|tec|C2
+bielle|biela||S|tec|C2
+soupape|válvula (de escape)||S|tec|C2
+ailette|aleta (refrigeración de motor)||S|tec|C2
+tuyère|tobera||S|tec|C2
+carlingue|cabina de mandos||S|tec|C2
+bâbord|babor||S|tra|C2
+tribord|estribor||S|tra|C2
+gîter|escorar (inclinar el barco)||V|tra|C2
+tangage|cabeceo||S|tra|C2
+roulis|balanceo (alabeo)||S|tra|C2
+note de calcul|memoria de cálculo||L|tec|C2
+profilé|perfil estructural||S|tec|C2
+clef de voûte|clave de bóveda (piedra angular)||L|ast|C2
+arc-boutant|arbotante||S|art|C2
+étai|puntal (apuntalamiento)||S|tec|C2
+groupe électrogène|grupo electrógeno||L|tec|C2
+délestage|deslastre (descarga de la red)||S|tec|C2
+arbalétrier|par de armadura (viga inclinada del tejado)||S|tec|C2
+jumeau numérique|gemelo digital||S|tec|C2
+mise en service|puesta en marcha||L|tec|C2
+comité de lecture|comité de lectores (pares)||L|stu|C2
+évaluation par les pairs|evaluación por pares||L|stu|C2
+facteur d'impact|factor de impacto||L|stu|C2
+article de fond|artículo de fondo||L|cmu|C2
+angle|ángulo (enfoque de un asunto)||S|cmu|C2
+chapeau|entradilla (copete del artículo)||S|cmu|C2
+cohorte|cohorte (muestra seguida en el tiempo)||S|sci|C2
+échantillonnage|muestreo||S|sci|C2
+écart-type|desviación típica||S|sci|C2
+significativité|significatividad (valor estadístico)||S|sci|C2
+en double aveugle|a doble ciego||L|sci|C2
+méta-analyse|metaanálisis||S|sci|C2
+réplication|réplica (repetición del estudio)||S|sci|C2
+reproductibilité|reproductibilidad||S|sci|C2
+interdisciplinarité|interdisciplinariedad||S|sci|C2
+doctorant|doctorando||S|stu|C2
+indexation|indexación||S|sci|C2
+bibliométrie|bibliometría||S|sci|C2
+périodique|revista (publicación seriada)||S|stu|C2
+actes|actas (de un congreso)||S|stu|C2
+vacataire|interino por horas||S|pro|C2
+accès ouvert|acceso abierto||S|stu|C2
+revue prédatrice|revista depredadora (que publica por dinero)||S|stu|C2
+bailleur de fonds|financiador||S|fin|C2
+article fleuve|artículo interminable||L|cmu|C2
+données primaires|datos primarios (de primera mano)||L|sci|C2
+travail de terrain|trabajo de campo||L|sci|C2
+observation participante|observación participante||L|sci|C2
+entretien semi-directif|entrevista semidirigida||L|sci|C2
+hypothèse nulle|hipótesis nula||L|sci|C2
+inférence|inferencia||S|sci|C2
+correcteur d'épreuves|corrector de pruebas||S|pro|C2
+calque|calco (préstamo traducido)||S|let|C2
+mise aux enchères|puesta en almoneda||L|fin|C2
+adjudication|adjudicación (remate)||S|fin|C2
+adjuder|adjudicar (rematar)||V|fin|C2
+prix de réserve|precio de reserva||L|fin|C2
+commissaire-priseur|comisario subastador||S|pro|C2
+provenance|procedencia (historia de la pieza)||S|art|C2
+codicille|codicilo (apéndice de un testamento)||S|ist|C2
+estampe|estampa (grabado)||S|art|C2
+eau-forte|aguafuerte||S|art|C2
+sérigraphie|serigrafía||S|art|C2
+épreuve|prueba (copia de una tirada)||S|art|C2
+tirage|tirada (número de ejemplares)||S|art|C2
+vélin|vitela||S|art|C2
+in-folio|en folio (formato de libro)||S|art|C2
+reliure|encuadernación||S|art|C2
+ex-libris|exlibris||S|art|C2
+incunable|incunable||S|art|C2
+palimpseste|palimpsesto||S|art|C2
+hagiographie|hagiografía (panegírico laudatorio)||S|let|C2
+maroquin|marroquín (piel de encuadernación)||S|art|C2
+bibelot|chuchería (adorno de poco valor)||S|cas|C2
+dénicher|descubrir con ojo de lince (dar caza)||V|cmp|C2
+chiner|buscar tesoros en el rastrillo||V|cmp|C2
+codicologie|codicología (estudio de manuscritos)||S|art|C2
+cabinet de curiosités|gabinete de curiosidades||S|art|C2
+patine|pátina||S|art|C2
+fleuron|florón (remate ornamental)||S|art|C2
+enluminure|iluminación (miniatura de códices)||S|art|C2
+lettrine|capitular (letra inicial iluminada)||S|art|C2
+scriptorium|scriptorium (taller de copistas)||S|art|C2
+philatélie|filatelia||S|art|C2
+numismatique|numismática||S|art|C2
+camée|cameo (relieve en piedra fina)||S|art|C2
+réduction|reducción (fondo concentrado)||S|ali|C2
+mijoter|cocer a fuego lento (con mimo)||V|ali|C2
+mijoté|guiso de fuego lento (potaje casero)||S|ali|C2
+fricassée|fricasada (guiso de ave en salsa blanca)||S|ali|C2
+blondir|dorar apenas (rehogar hasta que tome color)||V|ali|C2
+déglacer|desglasar||V|ali|C2
+décortiquer|descascarillar (desmenuzar a fondo)||V|ali|C2
+monter|montar (emulsionar una salsa)||V|ali|C2
+napper|napar (cubrir con salsa)||V|ali|C2
+liant|ligazón (lo que da cuerpo)||S|ali|C2
+roux|roux (mezcla de mantequilla y harina)||S|ali|C2
+fond de cuisson|fondo de cocción||L|ali|C2
+velouté|crema aterciopelada||S|ali|C2
+panure|empanado||S|ali|C2
+pocher|pochar||V|ali|C2
+canneler|acanalillar (hacer canales en la fruta)||V|ali|C2
+tailler|tallar (cortar en formas de cocina)||V|ali|C2
+fumet|fumet (aroma penetrante de vino o queso)||S|ali|C2
+breuvage|brebaje||S|ali|C2
+flaveur|carácter sutil del sabor||S|ali|C2
+dressage|emplatado||S|ali|C2
+feuilletage|hojaldre (láminas superpuestas)||S|ali|C2
+abaisser|estirar (la masa con el rodillo)||V|ali|C2
+foncer|forrar el molde||V|ali|C2
+chiqueter|acanalar el borde (muescas de masa)||V|ali|C2
+sous-vide|al vacío (cocción a temperatura controlada)||S|ali|C2
+effilocher|deshebrar||V|ali|C2
+brunoise|daditos de verdura (brunoise)||S|ali|C2
+chiffonade|tiras de hoja (chiffonade)||S|ali|C2
+grand cru|cosecha excepcional (grand cru)||S|ali|C2
+millésime|añada (año de vendimia)||S|ali|C2
+assemblage|coupage (mezcla de varietales)||S|ali|C2
+s'acoquiner|encanallarse (aliarse con malas compañías)||V|rel|C2
+faire corps avec|hacer causa común||L|rel|C2
+faire front commun|unirse en un frente común||L|rel|C2
+prendre fait et cause|abrazar la defensa de||L|rel|C2
+faire grise mine à|recibir con desdén||L|rel|C2
+être en froid avec|estar en tensión (enemistado)||L|rel|C2
+faire amende honorable|hacer amenda honrosa||L|rel|C2
+faire des courbettes|hacer reverencias (adular)||L|rel|C2
+faire tapisserie|hacer de adorno (quedarse de un lado)||L|rel|C2
+éconduire|despachar, poner de largo||V|rel|C2
+avanie|vejación (afrenta pública)||S|rel|C2
+quiproquo|quiproquo (malentendido por confusión de personas)||S|cmu|C2
+crier haro sur|pedir a gritos el oprobio de||L|cmu|C2
+la part du lion|la parte del león (la mayor porción)||L|rel|C2
+se déjuger|desdecirse (contradecirse en público)||V|cmu|C2
+désaveu|desautorización (retirada del apoyo)||S|rel|C2
+se désolidariser de|desligarse de||V|rel|C2
+faire les yeux doux|hacer ojitos (cortejar)||L|rel|C2
+jaser|chismorrear||V|cmu|C2
+flagornerie|lisonjería (adulación rastrera)||S|ast|C2
+flagorner|adular rastreramente||V|cmu|C2
+obséquieux|obsequioso (servil)||A|ast|C2
+empressement|celo solícito (afán en agradar)||S|rel|C2
+esprit de corps|espíritu de cuerpo||L|rel|C2
+bienséance|decoro (buen tono)||S|rel|C2
+crier sur les toits|gritarlo desde los tejados||L|cmu|C2
+faire salle comble|hacer sala llena (llenar el local)||L|rel|C2
+se fendre d'un sourire|conceder una sonrisa (a regañadientes)||L|rel|C2
+se fendre en quatre|desvivirse por (partirse en cuatro)||L|rel|C2
+sans façons|sin cumplidos||L|rel|C2
+faire un esclandre|armar un escándalo||L|rel|C2
+faire des gorges chaudes|hacer mofa y befa (regodearse)||L|cmu|C2
+se gargariser de|regodearse de (empaparse de)||V|cmu|C2
+claquage|desgarro muscular||S|cor|C2
+élongation|distensión (elongación muscular)||S|cor|C2
+contracture|contractura||S|cor|C2
+seuil anaérobie|umbral anaeróbico||L|spt|C2
+surcompensation|sobrecompensación (adaptación tras la carga)||S|spt|C2
+périodisation|periodización (planificación por ciclos)||S|spt|C2
+affûtage|puesta a punto (afinado precompetición)||S|spt|C2
+sur le régime|en racha (en su pico de forma)||L|spt|C2
+détente|impulso de salto (elevación)||S|spt|C2
+surentraînement|sobreentrenamiento||S|spt|C2
+pliométrie|pliometría (saltos con reacción)||S|spt|C2
+proprioception|propiocepción||S|cor|C2
+pugnacité|pugnacidad||S|ast|C2
+bravade|bravata (alarde de valentía)||S|ast|C2
+fourbu|molido (agotado, sin fuerzas)||A|cor|C2
+capacité vitale|capacidad vital (volumen de aire)||L|cor|C2
+mental d'acier|mental de acero||L|spt|C2
+coup de rein|golpe de riñón (empuje decisivo)||S|spt|C2
+banc d'essai|banco de pruebas||L|tec|C2
+hors course|fuera de carrera (descartado)||L|spt|C2
+sur la touche|en el banquillo (aparte)||L|spt|C2
+dans la foulée|a raíz de lo anterior (en el mismo impulso)||L|spt|C2
+payer de sa personne|desgañitarse por la causa||L|spt|C2
+puiser dans ses réserves|echar mano de las reservas||L|spt|C2
+flancher|venirse abajo||V|spt|C2
+gainage|estabilización del tronco (trabajo de core)||S|spt|C2
+fractionné|fraccionado (entrenamiento por intervalos)||S|spt|C2
+hécatombe|hecatombe (derrota aplastante)||S|spt|C2
+au bout du rouleau|al límite de sus fuerzas||L|cor|C2
+à bout de forces|sin fuerzas (agotado)||L|cor|C2
+le vent en poupe|viento en popa (con viento a favor)||L|spt|C2
+sans coup férir|sin disparar un tiro||L|ast|C2
+par acquit de conscience|por librar la conciencia||L|ast|C2

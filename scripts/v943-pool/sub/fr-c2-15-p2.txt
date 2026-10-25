@@ -1,0 +1,293 @@
+ellipse|elipsis narrativa||S|cin|C2
+raccord|continuidad (empalme de montaje)||S|cin|C2
+faux raccord|salto de montaje||S|cin|C2
+plan-séquence|plano secuencia||S|cin|C2
+caméra-épaule|cámara al hombro||S|cin|C2
+contrechamp|contraplano||S|cin|C2
+hors-champ|fuera de campo||S|cin|C2
+profondeur de champ|profundidad de campo||S|cin|C2
+mise en abyme|relato dentro del relato||S|cin|C2
+récit-cadre|relato marco||S|let|C2
+découpage|desglose (segmentación en planos)||S|cin|C2
+montage alterné|montaje alternado||S|cin|C2
+fondu enchaîné|fundido encadenado||S|cin|C2
+surimpression|sobreimpresión||S|cin|C2
+voix off|voz en off||S|cin|C2
+étalonnage|etalonaje (corrección de color)||S|cin|C2
+argentique|de película (analógico)||A|cin|C2
+cinéphilie|cinofilia||S|cin|C2
+cinémathèque|cinemateca||S|cin|C2
+repérage|localización de escenarios||S|cin|C2
+scripte|continuista||S|pro|C2
+régisseur|regidor (jefe de producción)||S|pro|C2
+accessoiriste|utilero||S|pro|C2
+diégèse|diegesis||S|cin|C2
+théorie des auteurs|teoría de los autores||S|cin|C2
+caméra-stylo|cámara-pluma||S|cin|C2
+photogénie|fotogenia||S|cin|C2
+contre-jour|contraluz||S|cin|C2
+chef opérateur|director de fotografía||S|pro|C2
+éreintage|crítica demoledora||S|cin|C2
+dithyrambe|ditirambo||S|let|C2
+panégyrique|panegírico||S|let|C2
+concubinage|concubinato||S|fam|C2
+se pacer|unirse civilmente (pacto civil de solidaridad)||V|fam|C2
+famille recomposée|familia reconstituida||S|fam|C2
+fratrie|fratría||S|fam|C2
+aïeux|antepasados||S|fam|C2
+progéniture|progénie||S|fam|C2
+lignée|estirpe||S|fam|C2
+postérité|posteridad||S|fam|C2
+morbidité|morbilidad||S|sci|C2
+sénescence|senescencia||S|sci|C2
+solde migratoire|saldo migratorio||S|sci|C2
+pyramide des âges|pirámide de población||S|sci|C2
+transition démographique|transición demográfica||S|sci|C2
+grand âge|vejez avanzada||S|fam|C2
+perte d'autonomie|pérdida de autonomía||S|sla|C2
+aidant familial|cuidador familiar||S|fam|C2
+curatelle|curatela||S|ist|C2
+garde alternée|custodia compartida||S|fam|C2
+pension alimentaire|pensión de alimentos||S|ist|C2
+prestation compensatoire|pensión compensatoria||S|ist|C2
+modes de garde|modalidades de cuidado infantil||S|fam|C2
+famille d'accueil|familia de acogida||S|fam|C2
+matriarcat|matriarcado||S|sci|C2
+patriarcat|patriarcado||S|sci|C2
+matrilinéaire|matrilineal||A|sci|C2
+patrilinéaire|patrilineal||A|sci|C2
+endogamie|endogamia||S|sci|C2
+exogamie|exogamia||S|sci|C2
+parentèle|parentela||S|fam|C2
+veuvage|viudedad||S|fam|C2
+monoparentalité|monoparentalidad||S|fam|C2
+homoparentalité|homoparentalidad||S|fam|C2
+mère porteuse|madre subrogada||S|fam|C2
+front bâti|frente edificado||S|cit|C2
+emprise au sol|ocupación en planta||S|cit|C2
+îlot|manzana||S|cit|C2
+trumeau|paño de muro entre vanos||S|cit|C2
+bossage|almohadillado||S|art|C2
+chapiteau|capitel||S|art|C2
+clé de voûte|clave de bóveda||S|art|C2
+arc-boutant|arbotante||S|art|C2
+contrefort|contrafuerte||S|art|C2
+oculus|óculo||S|art|C2
+rosace|rosetón||S|art|C2
+gargouille|gárgola||S|art|C2
+pinacle|pináculo||S|art|C2
+flèche|aguja (chapitel)||S|cit|C2
+beffroi|torre campanaria municipal||S|cit|C2
+donjon|torre del homenaje||S|cit|C2
+meurtrière|tronera||S|cit|C2
+herse|rastrillo (de fortaleza)||S|cit|C2
+mail|paseo arbolado||S|cit|C2
+passage couvert|paso comercial cubierto||S|cit|C2
+pilastre|pilastra||S|art|C2
+caryatide|cariátide||S|art|C2
+garde-corps|barandilla||S|cit|C2
+fronton|frontón (remate triangular)||S|art|C2
+tympan|tímpano (portada)||S|art|C2
+narthex|nártex||S|art|C2
+déambulatoire|deambulatorio||S|art|C2
+chevet|cabecera (ábside)||S|art|C2
+périurbanisation|periurbanización||S|cit|C2
+étalement urbain|dispersión urbana||S|cit|C2
+friche|terreno baldío industrial||S|cit|C2
+volumétrie|volumetría||S|art|C2
+verrière|cubierta acristalada||S|cit|C2
+terroir|terruño||S|ali|C2
+millésime|añada||S|ali|C2
+assemblage|ensamblaje (mezcla de vinos)||S|ali|C2
+élevage|crianza (en barrica)||S|ali|C2
+ouillage|reposición del vaciado de barricas||S|ali|C2
+soutirage|trasiego||S|ali|C2
+dégorgement|degüelle||S|ali|C2
+prise de mousse|toma de espuma||S|ali|C2
+blanc de blancs|blanco de blancos||S|ali|C2
+accords mets-vins|maridaje de platos y vinos||S|ali|C2
+vin de garde|vino de guarda||S|ali|C2
+longueur en bouche|persistencia en boca||S|ali|C2
+rétro-olfaction|retroolfacción||S|ali|C2
+caudalie|caudalía (unidad de persistencia)||S|ali|C2
+goût de bouchon|sabor a corcho||S|ali|C2
+crémant|crémant (espumoso regional)||S|ali|C2
+vin jaune|vino amarillo del Jura||S|ali|C2
+vendange tardive|vendimia tardía||S|ali|C2
+botrytisé|botritizado||A|ali|C2
+mutage|fortificación (parada de la fermentación)||S|ali|C2
+déglacer|desglasar||V|ali|C2
+napper|napar||V|ali|C2
+dressage|emplatado||S|ris|C2
+brunoise|brunoise (corte en daditos)||S|ali|C2
+feuilletage|hojaldre (laminado)||S|ali|C2
+chemiser|forrar (un molde)||V|ali|C2
+levain|masa madre||S|ali|C2
+sabayon|sabayón||S|ali|C2
+rouille|rouille (salsa picante provenzal)||S|ali|C2
+coup de feu|hora punta del servicio||S|ris|C2
+mise en place|puesta a punto previa||S|ris|C2
+goinfre|glotón||S|ali|C2
+ripailler|banquetear||V|ris|C2
+éthologie|etología||S|sci|C2
+imprégnation|impronta (fijación temprana)||S|ani|C2
+ritualisation|ritualización (de la conducta)||S|ani|C2
+parade nuptiale|cortejo nupcial||S|ani|C2
+toilettage|aseo recíproco||S|ani|C2
+épouillage|despiojado mutuo||S|ani|C2
+territorialité|territorialidad||S|ani|C2
+nidification|nidificación||S|ani|C2
+imago|imago (estado adulto del insecto)||S|ani|C2
+oothèque|ooteca||S|ani|C2
+holotype|holotipo||S|sci|C2
+nomenclature binomiale|nomenclatura binomial||S|sci|C2
+taxon|taxón||S|sci|C2
+clade|clado||S|sci|C2
+cladistique|cladística||S|sci|C2
+phylogénie|filogenia||S|sci|C2
+spéciation|especiación||S|sci|C2
+dérive génétique|deriva genética||S|sci|C2
+sélection sexuelle|selección sexual||S|sci|C2
+valeur sélective|aptitud darwiniana||S|sci|C2
+polyphage|polífago||A|ani|C2
+déprédateur|especie depredadora nociva||S|ani|C2
+niche écologique|nicho ecológico||S|nat|C2
+rélictuel|relicto||A|nat|C2
+estivation|estivación (letargo estival)||S|ani|C2
+diapause|diapausa||S|ani|C2
+torpeur|torpor||S|ani|C2
+stridulation|estridulación||S|ani|C2
+lépidoptère|lepidóptero||S|ani|C2
+hyménoptère|himencóptero||S|ani|C2
+cervidé|cérvido||S|ani|C2
+livrée|librea (aspecto del plumaje)||S|ani|C2
+grégaire|gregario||A|ani|C2
+herbier|herbario||S|nat|C2
+systématique|sistemática (taxonomía)||S|sci|C2
+ptéridophyte|pteridófito||S|nat|C2
+angiosperme|angiosperma||S|nat|C2
+entomogame|entomófilo (polinizado por insectos)||A|nat|C2
+zoochorie|zoocoria||S|nat|C2
+stipule|estípula||S|nat|C2
+pétiole|pecíolo||S|nat|C2
+vrille|zarcillo||S|nat|C2
+inflorescence|inflorescencia||S|nat|C2
+capitule|capítulo (inflorescencia)||S|nat|C2
+akène|aquenio||S|nat|C2
+silique|silicua||S|nat|C2
+stolon|estolón||S|nat|C2
+mosaïque paysagère|mosaico paisajístico||S|nat|C2
+corridor écologique|corredor ecológico||S|nat|C2
+trame verte|malla verde||S|nat|C2
+écotone|ecotono||S|nat|C2
+lisière|linde del bosque||S|nat|C2
+climax|clímax (comunidad madura)||S|nat|C2
+succession écologique|sucesión ecológica||S|nat|C2
+lande|brezal||S|nat|C2
+tourbière|turbera||S|nat|C2
+roselière|carrizal||S|nat|C2
+embroussaillement|matorralización||S|nat|C2
+sylviculture|silvicultura||S|nat|C2
+futaie|fustal (monte alto)||S|nat|C2
+litière|hojarasca (mantillo)||S|nat|C2
+mycorhize|micorriza||S|nat|C2
+espèce parapluie|especie paraguas||S|nat|C2
+écoumène|ecúmeno||S|nat|C2
+anthropisation|antropización||S|nat|C2
+historicité|historicidad||S|ast|C2
+diachronie|diacronía||S|ast|C2
+synchronie|sincronía||S|ast|C2
+longue durée|larga duración||S|ast|C2
+conjoncture|coyuntura||S|ast|C2
+lieu de mémoire|lugar de memoria||S|ast|C2
+devoir de mémoire|deber de memoria||S|ast|C2
+mémoriel|memorístico||A|ast|C2
+patrimonialisation|patrimonialización||S|art|C2
+atavisme|atavismo||S|sci|C2
+temporalité|temporalidad||S|ast|C2
+séculaire|secular (de siglos)||A|tmp|C2
+générationnel|generacional||A|tmp|C2
+intemporalité|intemporalidad||S|ast|C2
+instantanéité|instantaneidad||S|ast|C2
+fugacité|fugacidad||S|ast|C2
+évanescence|evanescencia||S|ast|C2
+impermanence|impermanencia||S|ast|C2
+élan vital|ímpetu vital||S|ast|C2
+anachronique|anacrónico||A|ast|C2
+anachronisme|anacronismo||S|ast|C2
+immémorial|inmemorial||A|tmp|C2
+achèvement|consumación||S|ast|C2
+périodisation|periodización||S|ast|C2
+palimpseste|palimpsesto||S|let|C2
+épigraphie|epigrafía||S|sci|C2
+lapidaire|lapidario (conciso)||A|cmu|C2
+sédimentation|sedimentación||S|sci|C2
+stratigraphie|estratigrafía||S|sci|C2
+archivistique|archivística||S|sci|C2
+dépouillement|vaciado (de archivos)||S|sci|C2
+heuristique|heurística||S|sci|C2
+cryptomonnaie|criptomoneda||S|fin|C2
+jeton|jetón (token digital)||S|fin|C2
+portefeuille numérique|monedero digital||S|fin|C2
+clé privée|clave privada||S|tec|C2
+minage|minado (de criptomonedas)||S|fin|C2
+hameçonnage|suplantación por correo (phishing)||S|tec|C2
+rançongiciel|secuestrador de datos (ransomware)||S|tec|C2
+chaîne de blocs|cadena de bloques||S|tec|C2
+registre distribué|registro distribuido||S|fin|C2
+contrat intelligent|contrato inteligente||S|fin|C2
+actif sous-jacent|activo subyacente||S|fin|C2
+dépositaire|depositario||S|fin|C2
+titrisation|titulización||S|fin|C2
+provisionnement|dotación a provisiones||S|fin|C2
+dépréciation|depreciación (deterioro)||S|fin|C2
+déductibilité|deducibilidad||S|fin|C2
+assiette fiscale|base imponible||S|fin|C2
+prélèvement à la source|retención en la fuente||S|fin|C2
+évasion fiscale|evasión fiscal||S|fin|C2
+optimisation fiscale|optimización fiscal||S|fin|C2
+niche fiscale|resquicia fiscal||S|fin|C2
+abattement|minoración en la base||S|fin|C2
+décote|prima de descuento||S|fin|C2
+volatilité|volatilidad||S|fin|C2
+bulle spéculative|burbuja especulativa||S|fin|C2
+vente à découvert|venta en corto||S|fin|C2
+appel de marge|llamada de garantías||S|fin|C2
+prime d'émission|prima de emisión||S|fin|C2
+coup d'accordéon|operación acordeón||S|fin|C2
+dilution|dilución (de capital)||S|fin|C2
+offre publique d'achat|oferta pública de adquisición||S|fin|C2
+obligation convertible|obligación convertible||S|fin|C2
+coupon couru|cupón corrido||S|fin|C2
+étude notariale|notaría||S|pro|C2
+clerc de notaire|oficial de notaría||S|pro|C2
+acte authentique|escritura pública||S|ist|C2
+acte sous seing privé|documento privado||S|ist|C2
+expédition|testimonio (copia autorizada)||S|ist|C2
+grosse|copia ejecutiva||S|ist|C2
+légalisation|legalización (apostilla)||S|ist|C2
+apostille|apostilla||S|ist|C2
+copie certifiée conforme|copia compulsada||S|ist|C2
+compulser|compulsar||V|ist|C2
+émolument|emolumento (arancel notarial)||S|fin|C2
+émargement|firma de recepción||S|ist|C2
+cadastre|catastro||S|ist|C2
+mainlevée|levantamiento (de embargo)||S|ist|C2
+surenchère|sobreprecio (mejora de postura)||S|fin|C2
+adjudication|adjudicación||S|ist|C2
+saisie|embargo||S|ist|C2
+licitation|licitación (venta en subasta)||S|ist|C2
+indivision|proindiviso||S|ist|C2
+usufruit|usufructo||S|ist|C2
+nu-propriété|nuda propiedad||S|ist|C2
+preneur|arrendatario||S|ist|C2
+avenant|anexo modificativo||S|ist|C2
+paraphe|rúbrica (iniciales de firma)||S|ist|C2
+force exécutoire|fuerza ejecutiva||S|ist|C2
+legs|legado||S|ist|C2
+testament olographe|testamento ológrafo||S|ist|C2
+dévolution successorale|devolución hereditaria||S|ist|C2
+quotité disponible|porción disponible||S|ist|C2
+réserve héréditaire|legítima hereditaria||S|ist|C2
+soulte|pago compensatorio||S|ist|C2
+déshérence|vacancia hereditaria||S|ist|C2

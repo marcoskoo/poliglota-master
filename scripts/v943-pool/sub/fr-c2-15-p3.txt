@@ -1,0 +1,293 @@
+recours gracieux|recurso graciable||S|ist|C2
+recours pour excès de pouvoir|recurso por exceso de poder||S|ist|C2
+sursis à exécution|suspensión de ejecución||S|ist|C2
+abrogation|abrogación||S|ist|C2
+abroger|abrogar||V|ist|C2
+circulaire|instrucción (circular administrativa)||S|ist|C2
+jurisprudence|jurisprudencia||S|ist|C2
+voie de fait|vía de hecho||S|ist|C2
+détournement de pouvoir|desviación de poder||S|ist|C2
+erreur manifeste d'appréciation|error manifiesto de apreciación||S|ist|C2
+délai de recours|plazo de recurso||S|ist|C2
+débouter|desestimar (una demanda)||V|ist|C2
+bien-fondé|lo fundado (bondad de la causa)||S|ist|C2
+grief|agravio (motivo de recurso)||S|ist|C2
+pourvoi en cassation|recurso de casación||S|ist|C2
+amiable compositeur|amigable componedor||S|ist|C2
+élection de domicile|domicilio convencional||S|ist|C2
+tacite reconduction|prórroga tácita||S|ist|C2
+exécution forcée|ejecución forzosa||S|ist|C2
+pouvoir discrétionnaire|potestad discrecional||S|ist|C2
+compétence liée|competencia reglada||S|ist|C2
+décision implicite|decisión tácita||S|ist|C2
+silence vaut rejet|el silencio equivale a rechazo||E|ist|C2
+fin de non-recevoir|excepción de inadmisibilidad||S|ist|C2
+irrecevabilité|inadmisibilidad||S|ist|C2
+séparation des pouvoirs|separación de poderes||S|ist|C2
+police administrative|policía administrativa||S|ist|C2
+hiérarchie des normes|jerarquía normativa||S|ist|C2
+constitutionnalité|constitucionalidad||S|ist|C2
+contrôle de légalité|control de legalidad||S|ist|C2
+déconcentration|desconcentración||S|ist|C2
+tutelle|tutela (control administrativo)||S|ist|C2
+prérogative de puissance publique|prerrogativa de poder público||S|ist|C2
+criminologie|criminología||S|sci|C2
+pénologie|penología||S|sci|C2
+victimologie|victimología||S|sci|C2
+aménagement de peine|ajuste de la pena||S|ist|C2
+sursis probatoire|suspensión condicional con prueba||S|ist|C2
+mise à l'épreuve|período de prueba (libertad vigilada)||S|ist|C2
+libération conditionnelle|libertad condicional||S|ist|C2
+grâce|indulto (perdón presidencial)||S|ist|C2
+amnistie|amnistía||S|ist|C2
+élargissement|puesta en libertad||S|ist|C2
+écrou|ingreso penitenciario||S|ist|C2
+mandat de dépôt|orden de ingreso penitenciario||S|ist|C2
+détention provisoire|prisión preventiva||S|ist|C2
+comparution immédiate|enjuiciamiento inmediato||S|ist|C2
+composition pénale|transacción penal||S|ist|C2
+cachot|celda de castigo||S|ist|C2
+surpopulation carcérale|sobrepoblación penitenciaria||S|ist|C2
+carcéral|carcelario||A|ist|C2
+bracelet électronique|pulsera telemática||S|tec|C2
+casier judiciaire|antecedentes penales||S|ist|C2
+blanchiment|blanqueo de capitales||S|fin|C2
+recel|receptación||S|ist|C2
+forfaiture|prevaricación grave||S|ist|C2
+concussion|concusión||S|ist|C2
+détournement de fonds|malversación de caudales||S|ist|C2
+abus de biens sociaux|uso indebido de bienes sociales||S|ist|C2
+délit d'initié|abuso de información privilegiada||S|ist|C2
+abus de faiblesse|aprovechamiento de la debilidad||S|ist|C2
+faux en écriture|falsedad documental||S|ist|C2
+harcèlement moral|acoso psicológico||S|ist|C2
+criminogène|criminógeno||A|sci|C2
+partie civile|acusación particular||S|ist|C2
+semi-liberté|semilibertad||S|ist|C2
+dénonciation|denuncia (de un tratado)||S|ist|C2
+entrée en vigueur|entrada en vigor||S|ist|C2
+clause de sauvegarde|cláusula de salvaguardia||S|ist|C2
+clause compromissoire|cláusula compromisoria||S|ist|C2
+déni de justice|denegación de justicia||S|ist|C2
+compromis|compromiso arbitral||S|ist|C2
+arbitrage|arbitraje||S|ist|C2
+sentence arbitrale|laudo arbitral||S|ist|C2
+exequatur|exequátur (reconocimiento de resoluciones extranjeras)||S|ist|C2
+conflit de juridictions|conflicto de jurisdicciones||S|ist|C2
+conflit de lois|conflicto de leyes||S|ist|C2
+loi de police|ley de aplicación inmediata||S|ist|C2
+immunité d'exécution|inmunidad de ejecución||S|ist|C2
+immunité de juridiction|inmunidad jurisdiccional||S|ist|C2
+note verbale|nota verbal||S|ist|C2
+protocole d'accord|protocolo de acuerdo||S|ist|C2
+préambule|preámbulo||S|let|C2
+coutume internationale|costumbre internacional||S|ist|C2
+droit mou|derecho blando||S|ist|C2
+juridictionnalisation|jurisdiccionalización||S|ist|C2
+ingérence|ingerencia||S|ist|C2
+extraterritorialité|extraterritorialidad||S|ist|C2
+extradition|extradición||S|ist|C2
+mandat d'arrêt européen|orden europea de detención||S|ist|C2
+entraide judiciaire|asistencia judicial mutua||S|ist|C2
+rétorsion|retorsión (represalia lícita)||S|ist|C2
+convention-cadre|convenio marco||S|ist|C2
+accord de réadmission|acuerdo de readmisión||S|ist|C2
+droit des gens|derecho de gentes||S|ist|C2
+apatride|apátrida||S|ist|C2
+subsidiarité|subsidiariedad||S|ist|C2
+proportionnalité|proporcionalidad||S|ist|C2
+société par actions simplifiée|sociedad por acciones simplificada||S|ist|C2
+statuts|estatutos sociales||S|ist|C2
+assemblée générale|junta general||S|ist|C2
+liquidateur|liquidador concursal||S|pro|C2
+mandataire judiciaire|síndico concursal||S|pro|C2
+redressement judiciaire|concurso de acreedores||S|ist|C2
+liquidation judiciaire|liquidación concursal||S|ist|C2
+procédure collective|procedimiento concursal||S|ist|C2
+période d'observation|período de observación||S|ist|C2
+plan de cession|plan de enajenación||S|ist|C2
+déclaration de créance|comunicación de créditos||S|ist|C2
+fusion-absorption|fusión por absorción||S|fin|C2
+scission|escisión societaria||S|ist|C2
+apport|aportación||S|fin|C2
+cession de fonds de commerce|transmisión del fondo de comercio||S|ist|C2
+fonds de commerce|fondo de comercio||S|ist|C2
+bail commercial|arrendamiento de local de negocio||S|ist|C2
+pas-de-porte|traspaso (canon de entrada)||S|ist|C2
+location-gérance|arrendamiento con gestión del negocio||S|ist|C2
+apporteur d'affaires|captador de negocios||S|pro|C2
+immatriculation|inscripción registral||S|ist|C2
+libération du capital|desembolso del capital||S|fin|C2
+actionnaire de référence|accionista de referencia||S|fin|C2
+lettre de change|letra de cambio||S|fin|C2
+billet à ordre|pagaré||S|fin|C2
+escompte|descuento comercial||S|fin|C2
+protêt|protesto (requerimiento cambiario)||S|fin|C2
+cautionnement|fianza||S|ist|C2
+nantissement|prenda (garantía mobiliaria)||S|ist|C2
+réserve de propriété|reserva de dominio||S|ist|C2
+clause pénale|cláusula penal||S|ist|C2
+déchéance|decaimiento (pérdida de un derecho)||S|ist|C2
+caducité|caducidad procesal||S|ist|C2
+convention collective|convenio colectivo||S|lav|C2
+accord de branche|acuerdo sectorial||S|lav|C2
+syndicat représentatif|sindicato representativo||S|lav|C2
+délégué syndical|delegado sindical||S|lav|C2
+délégué du personnel|delegado del personal||S|lav|C2
+comité social et économique|comité de empresa||S|lav|C2
+inaptitude|inaptitud (médica laboral)||S|lav|C2
+licenciement économique|despido colectivo||S|lav|C2
+rupture conventionnelle|extinción pactada||S|lav|C2
+prise d'acte|extinción a instancia del trabajador||S|lav|C2
+résiliation judiciaire|resolución judicial del contrato||S|lav|C2
+préavis|preaviso||S|lav|C2
+indemnité de licenciement|indemnización por despido||S|lav|C2
+solde de tout compte|finiquito||S|lav|C2
+certificat de travail|certificado de empresa||S|lav|C2
+clause de non-concurrence|cláusula de no competencia||S|lav|C2
+forfait-jours|pacto de jornada en días||S|lav|C2
+promesse d'embauche|promesa de contratación||S|lav|C2
+préavis de grève|preaviso de huelga||S|lav|C2
+droit de retrait|derecho de interrupción de la actividad||S|lav|C2
+droit d'alerte|derecho de alerta||S|lav|C2
+section syndicale|sección sindical||S|lav|C2
+conseil de prud'hommes|tribunal de lo social||S|ist|C2
+prud'homal|de lo social (laboral)||A|ist|C2
+départage|desempate||S|ist|C2
+marchandage|cesión ilegal de mano de obra||S|ist|C2
+prêt de main-d'œuvre|cesión temporal de trabajadores||S|lav|C2
+travail dissimulé|trabajo no declarado||S|lav|C2
+heures de délégation|horas de representación sindical||S|lav|C2
+règlement intérieur|reglamento de régimen interior||S|lav|C2
+requalification|recalificación (del contrato)||S|lav|C2
+représentativité|representatividad sindical||S|lav|C2
+hile|hilio||S|cor|C2
+mésentère|mesenterio||S|cor|C2
+péritoine|peritoneo||S|cor|C2
+épiploon|epiplón||S|cor|C2
+plèvre|pleura||S|cor|C2
+médiastin|mediastino||S|cor|C2
+parenchyme|parénquima||S|cor|C2
+pneumonectomie|neumonectomía||S|sla|C2
+cœlioscopie|laparoscopia||S|sla|C2
+laparotomie|laparotomía||S|sla|C2
+anastomose|anastomosis||S|sla|C2
+exérèse|exéresis||S|sla|C2
+curage|vaciado ganglionar||S|sla|C2
+cholédoque|colédoco||S|cor|C2
+jéjunum|yeyuno||S|cor|C2
+iléon|íleon||S|cor|C2
+arthrodèse|artrodesis||S|sla|C2
+arthroplastie|artroplastia||S|sla|C2
+ostéosynthèse|osteosíntesis||S|sla|C2
+fixateur externe|fijador externo||S|sla|C2
+écartateur|separador quirúrgico||S|sla|C2
+porte-aiguille|portagujas||S|sla|C2
+champ opératoire|campo quirúrgico||S|sla|C2
+hémostase|hemostasia||S|sla|C2
+surjet|punto de sutura continuo||S|sla|C2
+clampage|pinzamiento temporal||S|sla|C2
+énucléation|enucleación||S|sla|C2
+séquestre|secuestro (fragmento necrótico)||S|sla|C2
+bourgeonnement|granulación (de la herida)||S|sla|C2
+épithélialisation|epitelización||S|sla|C2
+adhérence|brida (adherencia quirúrgica)||S|cor|C2
+éventration|eventración||S|sla|C2
+thoracotomie|toracotomía||S|sla|C2
+angor|angor (angina de pecho)||S|sla|C2
+péricarde|pericardio||S|cor|C2
+endocardite|endocarditis||S|sla|C2
+tamponnade|taponamiento cardíaco||S|sla|C2
+fibrillation auriculaire|fibrilación auricular||S|sla|C2
+sténose|estenosis||S|sla|C2
+valvulopathie|valvulopatía||S|sla|C2
+cardiomyopathie|miocardiopatía||S|sla|C2
+coronarographie|coronariografía||S|sla|C2
+angioplastie|angioplastia||S|sla|C2
+pontage|derivación (bypass coronario)||S|sla|C2
+athérosclérose|aterosclerosis||S|sla|C2
+antiagrégant|antiagregante plaquetario||S|sla|C2
+épreuve d'effort|prueba de esfuerzo||S|sla|C2
+scintigraphie|gammagrafía||S|sla|C2
+lipothymie|lipotimia||S|sla|C2
+orthopnée|ortopnea||S|sla|C2
+sibilant|sibilancia||S|sla|C2
+spirométrie|espirometría||S|sla|C2
+bronchopneumopathie|bronconeumopatía||S|sla|C2
+fibrose pulmonaire|fibrosis pulmonar||S|sla|C2
+pneumopathie interstitielle|neumonía intersticial||S|sla|C2
+sarcoïdose|sarcoidosis||S|sla|C2
+pleurésie|pleuresía||S|sla|C2
+pneumothorax|neumotórax||S|sla|C2
+hémoptysie|hemoptisis||S|sla|C2
+oxygénothérapie|oxigenoterapia||S|sla|C2
+ventilation non invasive|ventilación no invasiva||S|sla|C2
+hippocratisme digital|dedos hipocráticos||S|sla|C2
+oxymétrie|oximetría||S|sla|C2
+hypoxémie|hipoxemia||S|sla|C2
+hypercapnie|hipercapnia||S|sla|C2
+hypophyse|hipófisis||S|cor|C2
+corticosurrénale|corticoadrenal||A|cor|C2
+corticothérapie|corticoterapia||S|sla|C2
+hyperthyroïdie|hipertiroidismo||S|sla|C2
+hypothyroïdie|hipotiroidismo||S|sla|C2
+thyroïdite|tiroiditis||S|sla|C2
+insulinorésistance|resistencia a la insulina||S|sla|C2
+diabétologie|diabetología||S|sla|C2
+hémoglobine glyquée|hemoglobina glucosilada||S|sla|C2
+pancréatite|pancreatitis||S|sla|C2
+acromégalie|acromegalia||S|sla|C2
+prolactinome|prolactinoma||S|sla|C2
+hypogonadisme|hipogonadismo||S|sla|C2
+ostéodensitométrie|osteodensitometría||S|sla|C2
+ostéomalacie|osteomalacia||S|sla|C2
+hyperparathyroïdie|hiperparatiroidismo||S|sla|C2
+calcémie|calcemia||S|sla|C2
+hypercalcémie|hipercalcemia||S|sla|C2
+hypokaliémie|hipopotasemia||S|sla|C2
+hyponatrémie|hiponatremia||S|sla|C2
+métabolisme de base|metabolismo basal||S|sla|C2
+adipocyte|adipocito||S|sla|C2
+dyslipidémie|dislipemia||S|sla|C2
+hypercholestérolémie|hipercolesterolemia||S|sla|C2
+acidocétose|cetoacidosis||S|sla|C2
+acidose métabolique|acidosis metabólica||S|sla|C2
+alcalose|alcalosis||S|sla|C2
+glycogénolyse|glucogenólisis||S|sla|C2
+néoglucogenèse|neoglucogénesis||S|sla|C2
+lipolyse|lipólisis||S|sla|C2
+lipogenèse|lipogénesis||S|sla|C2
+thyréostimuline|tirotropina||S|sla|C2
+dermatite|dermatitis||S|sla|C2
+prurit|prurito||S|sla|C2
+prurigo|prúrigo||S|sla|C2
+lichenification|lichenificación||S|sla|C2
+pustulose|pustulosis||S|sla|C2
+impétigo|impétigo||S|sla|C2
+érysipèle|erisipela||S|sla|C2
+dermohypodermite|dermohipodermatitis||S|sla|C2
+escarre|escara (úlcera por presión)||S|sla|C2
+épidermolyse|epidermólisis||S|sla|C2
+pemphigoïde|penfigoide||S|sla|C2
+érythrodermie|eritrodermia||S|sla|C2
+exanthème|exantema||S|sla|C2
+vasculite|vasculitis||S|sla|C2
+angio-œdème|angioedema||S|sla|C2
+anaphylaxie|anafilaxia||S|sla|C2
+choc anaphylactique|shock anafiláctico||S|sla|C2
+allergologie|alergología||S|sla|C2
+atopie|atopia||S|sla|C2
+dermocorticoïde|corticoide tópico||S|sla|C2
+kératolytique|queratolítico||A|sla|C2
+kératose|queratosis||S|sla|C2
+mélanome|melanoma||S|sla|C2
+onychomycose|onicomicosis||S|sla|C2
+séborrhée|seborrea||S|sla|C2
+couperose|cuperosis||S|sla|C2
+naevus|nevo||S|sla|C2
+photoprotection|fotoprotección||S|sla|C2
+photosensibilisation|fotosensibilización||S|sla|C2
+sclérodermie|esclerodermia||S|sla|C2
+hyperhidrose|hiperhidrosis||S|sla|C2
+xérose|xerosis||S|sla|C2
+desquamation|descamación||S|sla|C2

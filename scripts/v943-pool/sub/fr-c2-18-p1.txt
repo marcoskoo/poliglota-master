@@ -1,0 +1,293 @@
+perspicace|perspicaz||A|ast|C2
+avisé|meditado, que obra con juicio||A|ast|C2
+pondéré|ecuánime, sensato||A|ast|C2
+circonspect|circunspecto, cauteloso||A|ast|C2
+débonnaire|bonachón y de buen talante||A|emo|C2
+magnanime|magnánimo||A|ast|C2
+pusillanime|pusilánime||A|ast|C2
+versatile|voluble, inconstante||A|ast|C2
+fourbe|trapacero, falso||A|ast|C2
+félon|felón, desleal||A|ast|C2
+vénal|venal||A|ast|C2
+âpre|despiadado, agobiante (trato o carácter)||A|ast|C2
+procédurier|pleiteante, dado a litigar||A|ist|C2
+caustique|cáustico (agrio y mordaz)||A|cmu|C2
+mordant|mordaz, que hiere con ingenio||A|cmu|C2
+désinvolte|desenvuelto, desfachado||A|emo|C2
+nonchalant|desgarbado, indolente||A|emo|C2
+altier|altivo, soberbio||A|emo|C2
+retors|retorcido, artero||A|ast|C2
+conciliant|conciliador, transigente||A|rel|C2
+intransigeant|intransigente||A|ast|C2
+obligeant|atento, servicial||A|emo|C2
+mesquin|mezquino||A|ast|C2
+pingre|roñoso, tacaño||A|ast|C2
+prodigue|pródigo, derrochador||A|ast|C2
+chevaleresque|caballeresco||A|ast|C2
+veule|voluble y sin energía moral||A|ast|C2
+opiniâtre|porfiado, testarudo||A|ast|C2
+revêche|arisco, de trato áspero||A|emo|C2
+hargneux|irascible, rabioso||A|emo|C2
+ombrageux|susceptible, que se ofende con facilidad||A|emo|C2
+éclairé|lúcido, ilustrado (en el juicio)||A|ast|C2
+docte|docto, sapiente||A|ast|C2
+arguer|argüir, inferir||V|cmu|C2
+étayer|sostener con pruebas (una tesis)||V|cmu|C2
+corroborer|corroborar||V|cmu|C2
+infirmer|desvirtuar, refutar||V|cmu|C2
+répliquer|replicar||V|cmu|C2
+objecter|objetar||V|cmu|C2
+concéder|conceder||V|cmu|C2
+réfuter|refutar||V|cmu|C2
+récuser|recusar, rechazar la validez||V|cmu|C2
+tempérer|atemperar, matizar||V|cmu|C2
+asséner|soltar con contundencia (un argumento)||V|cmu|C2
+marteler|martillar, repetir con insistencia||V|cmu|C2
+énoncer|enunciar||V|cmu|C2
+proférer|profirir||V|cmu|C2
+grommeler|refunfuñar||V|cmu|C2
+fulminer|fulminar (proferir invectivas)||V|cmu|C2
+invectiver|lanzarse invectivas||V|cmu|C2
+tancer|increpar, llamar al orden||V|cmu|C2
+morigéner|reprender con ánimo de corrección||V|cmu|C2
+sermonner|sermonear, reprender moralizando||V|cmu|C2
+déplorer|deplorar||V|cmu|C2
+stigmatiser|estigmatizar||V|cmu|C2
+flétrir|marchitar (fig.: deshonrar)||V|cmu|C2
+décrier|denostar||V|cmu|C2
+encenser|loar sin mesura||V|cmu|C2
+débiter|soltar de corrido (palabras)||V|cmu|C2
+bredouiller|farfullar||V|cmu|C2
+marmotter|mascullar (rezongar entre dientes)||V|cmu|C2
+pester|despotricar||V|cmu|C2
+égratigner|arañar (criticar con sorna leve)||V|cmu|C2
+chicaner|discutir por nimiedades||V|cmu|C2
+ergoter|poner peros por prurito||V|cmu|C2
+disserter|disertar (tratar por extenso)||V|cmu|C2
+corpus|corpus (conjunto de datos)||S|stu|C2
+paradigme|paradigma||S|ast|C2
+axiome|axioma||S|ast|C2
+conjecture|conjetura||S|ast|C2
+corollaire|corolario||S|ast|C2
+postulat|postulado||S|ast|C2
+avancée|avance (progreso en un campo)||S|ast|C2
+état de l'art|estado de la cuestión||L|stu|C2
+problématique|problemática (enfoque de un problema)||S|ast|C2
+épistémologie|epistemología||S|ast|C2
+herméneutique|hermenéutica||S|ast|C2
+exégèse|exégesis||S|ast|C2
+glose|glosa (comentario erudito)||S|let|C2
+paléographie|paleografía||S|ast|C2
+dissertation|disertación (tesina)||S|stu|C2
+soutenance|defensa (de tesis)||S|stu|C2
+auditoire|auditorio, público||S|stu|C2
+chaire|cátedra||S|stu|C2
+agrégation|agregación (oposición docente francesa)||S|stu|C2
+érudition|erudición||S|ast|C2
+doxa|doxa (opinión común)||S|ast|C2
+hégémonie|hegemonía||S|ast|C2
+dialectique|dialéctica||S|ast|C2
+sophisme|sofisma||S|ast|C2
+syllogisme|silogismo||S|ast|C2
+acabit|calaña (tipo, especie)||S|ast|C2
+fourvoiement|extravío (del juicio)||S|ast|C2
+substrat|substrato||S|ast|C2
+socle|basamento (base de algo)||S|ast|C2
+ossature|osamenta (estructura de fondo)||S|ast|C2
+archétype|arquetipo||S|ast|C2
+heuristique|heurística (método del descubrimiento)||S|ast|C2
+fallacieux|falaz, engañoso||A|ast|C2
+mensonger|mentiroso (falso, aparente)||A|ast|C2
+imposture|impostura||S|ast|C2
+supercherie|superchería (engaño tramposo)||S|ast|C2
+mystification|mistificación (engaño que pasa por verdad)||S|ast|C2
+fabulation|fabulación (invención que se cree a medias verdad)||S|ast|C2
+affabulation|afabulación (relato inventado como verdadero)||S|ast|C2
+falsifier|falsificar||V|ast|C2
+falsification|falsificación||S|ast|C2
+démentir|desmentir||V|cmu|C2
+infondé|infundado||A|ast|C2
+spécieux|especioso (plausible pero falso)||A|ast|C2
+véridique|verídico||A|ast|C2
+véracité|veracidad||S|ast|C2
+lucide|lúcido (claro en el juicio)||A|ast|C2
+perspicacité|perspicacia||S|ast|C2
+clairvoyance|clarividencia, lucidez||S|ast|C2
+aveuglement|ceguera voluntaria (en el juicio)||S|ast|C2
+dissimulation|disimulo, ocultación||S|ast|C2
+travestir|travestir (disfrazar la verdad)||V|ast|C2
+travestissement|travestimiento (de la verdad)||S|ast|C2
+biaiser|obrar con doblez, hacer trampa||V|ast|C2
+duplicité|duplicidad||S|ast|C2
+fourberie|trapacería, felonía||S|ast|C2
+entourloupe|trampa, jugada sucia||S|ast|C2
+candeur|candidez, candor||S|ast|C2
+crédulité|credulidad||S|ast|C2
+incrédulité|incredulidad||S|ast|C2
+dupe|incauto (víctima del engaño)||S|ast|C2
+être dupe|ser engañado||E|ast|C2
+enjolissement|embellecimiento (de la realidad)||S|ast|C2
+leurre|señuelo (cebo engañoso)||S|ast|C2
+leurrer|engañar con señuelo||V|ast|C2
+langueur|languidez||S|let|C2
+alanguissement|derretimiento lánguido (desfallecimiento voluptuoso)||S|let|C2
+prestance|garbo, apostura||S|ast|C2
+panache|brío, aplomo con estilo||S|ast|C2
+alacrité|alacridad (viveza alegre)||S|ast|C2
+magnificence|magnificencia||S|ast|C2
+faste|fausto, suntuosidad||S|ast|C2
+démesure|desmesura||S|ast|C2
+raffinement|refinamiento||S|ast|C2
+dépouillement|despojamiento (austeridad desnuda)||S|ast|C2
+lascivité|lascivia||S|ast|C2
+dévergondage|desvergüenza (libertinaje)||S|ast|C2
+scabrosité|escabrosidad||S|ast|C2
+grivoiserie|salacidad (chiste verde)||S|ast|C2
+pudeur|recato, pudor||S|ast|C2
+impudeur|desvergüenza (falta de pudor)||S|ast|C2
+probité|probidad (honradez intachable)||S|ast|C2
+droiture|rectitud (honradez)||S|ast|C2
+perfidie|deslealtad artera||S|ast|C2
+vilenie|vileza||S|ast|C2
+infamie|infamia||S|ast|C2
+turpitude|turpitud||S|ast|C2
+abjection|abyección||S|ast|C2
+ignominie|ignominia||S|ast|C2
+opprobre|oprobio||S|ast|C2
+déchéance|degradación (pérdida de dignidad o derechos)||S|ast|C2
+grandiloquence|grandilocuencia||S|ast|C2
+éthéré|etéreo||A|ast|C2
+suavité|suavidad (dulzura melodiosa)||S|ast|C2
+diaphane|diáfano (translúcido y etéreo)||A|ast|C2
+opalin|opalino (con reflejos lechosos)||A|ast|C2
+clinquant|chillón, de relumbrón||A|ast|C2
+infime|ínfimo||A|ast|C2
+infinitésimal|infinitesimal||A|ast|C2
+dérisoire|irrisorio||A|ast|C2
+négligeable|despreciable (insignificante)||A|ast|C2
+substantiel|sustancioso, de consideración||A|ast|C2
+conséquent|de consideración, nada desdeñable||A|ast|C2
+exorbitant|exorbitante||A|ast|C2
+démesuré|desmesurado||A|ast|C2
+prohibitif|prohibitivo (precio)||A|ast|C2
+quasi|cuasi, a punto de||D|ast|C2
+sans commune mesure|sin común medida (desproporcionado)||L|ast|C2
+pour ainsi dire|por así decirlo||L|cmu|C2
+en l'occurrence|en este caso concreto||L|ast|C2
+en l'espèce|en el caso de que se trata||L|ast|C2
+au demeurant|por lo demás||L|ast|C2
+sommairement|sumariamente, de forma escueta||D|ast|C2
+succinctement|sucintamente||D|ast|C2
+un tant soit peu|en lo más mínimo||L|ast|C2
+à la marge|marginalmente, en pequeño número||L|ast|C2
+de justesse|por un pelo (con justeza)||L|ast|C2
+dans les grandes lignes|a grandes rasgos||L|ast|C2
+à des années-lumière|a años luz (de distancia)||L|ast|C2
+à vue d'œil|a ojos vistas (con rapidez visible)||L|ast|C2
+l'écrasante majorité|la abrumadora mayoría||L|ast|C2
+exiguïté|exigüidad||S|ast|C2
+exigu|exiguo||A|ast|C2
+ampleur|amplitud, envergadura||S|ast|C2
+pléthorique|pletórico (en exceso)||A|ast|C2
+pléthore|pletora (abundancia excesiva)||S|ast|C2
+raréfaction|rarefacción||S|ast|C2
+disette|carestía, escasez||S|ast|C2
+indigence|indigencia||S|ast|C2
+euphémisme|eufemismo||S|cmu|C2
+litote|lítote (atenuación que niega lo contrario)||S|let|C2
+péjoratif|peyorativo||A|cmu|C2
+connoter|connotar||V|cmu|C2
+passer l'éponge sur|pasar la esponga por (olvidar un agravio)||L|cmu|C2
+langue de bois|lengua de madera (lenguaje evasivo)||L|cmu|C2
+langue de vipère|lengua de víbora||L|cmu|C2
+avoir le verbe haut|hablar con desenfado (alzar el verbo)||L|cmu|C2
+s'en tenir à|atenerse a (no ir más allá)||L|cmu|C2
+de mise|de rigor (conveniente al caso)||L|cmu|C2
+de bon aloi|de buen tono||L|cmu|C2
+fleurer|huelear a, tener visos de||V|cmu|C2
+passer sous silence|silenciar (ocultar a propósito)||L|cmu|C2
+noyer le poisson|despistar (divagar para evadir)||L|cmu|C2
+prendre des gants|tomarse molestias (andarse con tiento)||L|cmu|C2
+sauf à|a reserva de (sin excluir que luego)||L|cmu|C2
+en mon âme et conscience|en conciencia (según mi fuero)||L|cmu|C2
+tordre le cou à|matar de raíz (refutar con dureza)||L|cmu|C2
+traîner dans la boue|arrastrar por el barro (denostar)||L|cmu|C2
+vilipender|vilipendiar||V|cmu|C2
+diatribe|diatriba||S|cmu|C2
+pamphlet|panfleto||S|cmu|C2
+libelle|libelo||S|cmu|C2
+brûlot|panfleto incendiario||S|cmu|C2
+antiphrase|antífrasis (ironía que dice lo contrario)||S|let|C2
+raillerie|burla (sarcasmo ligero)||S|cmu|C2
+railler|burlarse con sorna||V|cmu|C2
+persiflage|burla disimulada y elegante||S|cmu|C2
+gouaillerie|guasa (burla zumbona)||S|cmu|C2
+quolibet|pulla (dicho burlesco)||S|cmu|C2
+prendre congé|despedirse (con fórmula cortés)||L|cmu|C2
+cabale|intriga (cábala de corte)||S|ist|C2
+équivoque|equívoco (ambigüedad calculada)||S|cmu|C2
+ténèbres|tinieblas||S|let|C2
+sylphe|sílfide||S|let|C2
+ondoyant|ondulante (movedizo como el agua)||A|let|C2
+bruissement|susurro (murmullo de hojas o voces)||S|let|C2
+clapotis|chapoteo||S|let|C2
+geindre|gimir (lamentarse con gemidos)||V|let|C2
+larmoyer|lloriquear||V|let|C2
+ruisselet|arroyuelo||S|nat|C2
+sillon|surco (en la tierra o el rostro)||S|nat|C2
+chaumière|choza (casa de techo de paja)||S|nat|C2
+ramure|ramaje (copa del árbol)||S|nat|C2
+frondaison|fronda (masa de hojas)||S|nat|C2
+futaie|bosque alto (de árboles adultos)||S|nat|C2
+broussailles|zarzas, maleza||S|nat|C2
+fourré|matorral||S|nat|C2
+tison|tizón (ascua que se aviva)||S|nat|C2
+tisonner|remover los tizones (avivar el fuego)||V|nat|C2
+flambée|llamarada (arrebato)||S|nat|C2
+embrasement|incendio (gran llama que todo lo abraza)||S|nat|C2
+crépitement|crepitar (chisporroteo)||S|let|C2
+vaticiner|vaticinar (hablar como en trance)||V|let|C2
+augurer|augurar||V|let|C2
+augure|augurio||S|let|C2
+pressentiment|presagio, presentimiento||S|emo|C2
+funeste|funesto||A|let|C2
+inéluctable|ineluctable||A|ast|C2
+inexorable|inexorable||A|ast|C2
+trépas|tránsito, óbito||S|let|C2
+glaive|espada (acero guerrero)||S|let|C2
+palefroi|palafreno||S|let|C2
+destrier|caballo de guerra||S|let|C2
+s'éprendre de|enamorarse perdidamente de||V|rel|C2
+matois|taimado (astuto con malicia)||A|ast|C2
+céans|aquí dentro (en este lugar)||D|let|C2
+icelle|la susodicha (arcaísmo jurídico)||P|ist|C2
+ouï-dire|de oídas (rumor sin prueba)||S|cmu|C2
+argutie|argucia (sofistería pedante)||S|cmu|C2
+pécune|pecunios, dinero (jerga antigua)||S|fin|C2
+obole|óbolo (limosna pequeña)||S|fin|C2
+denrée|mercancía (género alimenticio)||S|fin|C2
+pitance|pitanza||S|ali|C2
+écuelle|escudilla||S|cas|C2
+goujat|gañán (criado grosero)||S|ast|C2
+damoiseau|jovenzuelo (doncel; por ext., presuntuoso)||S|let|C2
+damoiselle|doncella (dama; por ext., remilgada)||S|let|C2
+cuistre|pedante ignorante||S|ast|C2
+péroraison|perorata (remate del discurso)||S|cmu|C2
+prôner|predicar, proclamar (elogiar en público)||V|cmu|C2
+narguer|desafiar (mofarse a cara descubierta)||V|cmu|C2
+mignardise|remilgo (afectación dulzona)||S|ast|C2
+mièvrerie|cursilería (melosidad afectada)||S|ast|C2
+mièvre|cursi (remilgado y meloso)||A|ast|C2
+pruderie|mojigatería||S|ast|C2
+prude|mojigato (casto por ostentación)||A|ast|C2
+capharnaüm|desbarajuste total (caos)||S|cas|C2
+fourbi|pertrechos (material, chismes)||S|ast|C2
+godelureau|pisaverde||S|ast|C2
+vaurien|malviviente, granuja||S|ast|C2
+gredin|granuja (bellaco)||S|ast|C2
+maraud|malandro, pícaro||S|ast|C2
+rodomontade|rodomontada (jactancia fanfarrona)||S|cmu|C2
+fanfarronnade|fanfarronada (jactancia estridente)||S|cmu|C2
+réclame|reclamo (publicidad, voz irónica antigua)||S|fin|C2
+doléance|queja formal (agravio elevado a la autoridad)||S|ist|C2
+mander|mandar llamar (citar por escrito)||V|cmu|C2

@@ -1,0 +1,259 @@
+contestation|contestación (protesta)||S|att|C1
+cortège|comitiva (de manifestación)||S|att|C1
+défilé|desfile (de protesta)||S|att|C1
+gréviste|huelguista||S|att|C1
+piquet de grève|piquete informativo||L|att|C1
+bras de fer|pulso (enfrentamiento)||L|att|C1
+désobéissance civile|desobediencia civil||L|att|C1
+soulèvement|levantamiento||S|att|C1
+insurrection|insurrección||S|att|C1
+émeute|disturbios||S|att|C1
+répression|represión||S|att|C1
+maintien de l'ordre|mantenimiento del orden||L|att|C1
+gaz lacrymogène|gas lacrimógeno||L|att|C1
+barrage routier|bloqueo de carretera||L|att|C1
+blocus|bloqueo||S|att|C1
+revendication|reivindicación||S|att|C1
+revendicatif|reivindicativo||A|att|C1
+négociation collective|negociación colectiva||L|lav|C1
+syndicalisation|sindicalización||S|att|C1
+syndicalisme|sindicalismo||S|att|C1
+lutte des classes|lucha de clases||L|att|C1
+émancipation|emancipación||S|ast|C1
+rassemblement|concentración (acto)||S|att|C1
+mobilisation|movilización||S|att|C1
+cahier de doléances|cuaderno de quejas||L|att|C1
+doléance|queja (reivindicación)||S|att|C1
+fronde|fronda (rebeldía)||S|att|C1
+contestataire|contestatario||A|att|C1
+action collective|acción colectiva||L|att|C1
+désescalade|desescalada||S|att|C1
+dialogue social|diálogo social||L|att|C1
+barricade|barricada||S|att|C1
+délégation du personnel|delegación de personal||L|lav|C1
+détournement de fonds|malversación de caudales||L|att|C1
+pot-de-vin|soborno||S|att|C1
+clientélisme|clientelismo||S|att|C1
+favoritisme|favoritismo||S|att|C1
+népotisme|nepotismo||S|att|C1
+conflit d'intérêts|conflicto de intereses||L|att|C1
+pantouflage|paso del funcionario al sector privado||S|att|C1
+délit d'initié|abuso de información privilegiada||L|att|C1
+blanchiment d'argent|blanqueo de capitales||L|att|C1
+paradis fiscal|paraíso fiscal||L|fin|C1
+évasion fiscale|evasión fiscal||L|fin|C1
+imputabilité|imputabilidad||S|att|C1
+reddition des comptes|rendición de cuentas||L|att|C1
+lanceur d'alerte|denunciante (de irregularidades)||L|att|C1
+délateur|delator||S|att|C1
+inculpation|inculpación||S|att|C1
+mise en examen|imputación judicial||L|att|C1
+relaxe|absolución||S|att|C1
+malversation|malversación||S|att|C1
+opacité|opacidad||S|att|C1
+corrompre|corromper||V|att|C1
+pillage|saqueo||S|att|C1
+trafic d'influence|tráfico de influencias||L|att|C1
+abus de biens sociaux|apropiación de bienes sociales||L|att|C1
+dessous de table|pago por debajo de la mesa||L|att|C1
+commission occulte|comisión oculta||L|att|C1
+contrôle des comptes|fiscalización de cuentas||L|att|C1
+déclaration de patrimoine|declaración de patrimonio||L|att|C1
+incompatibilité|incompatibilidad (de cargos)||S|att|C1
+inéligibilité|inelegibilidad||S|att|C1
+irrégularité|irregularidad (contable)||S|att|C1
+confiscation|confiscación (de bienes)||S|att|C1
+dénatalité|desnatalidad||S|att|C1
+fécondité|fecundidad||S|att|C1
+transition démographique|transición demográfica||L|att|C1
+vieillissement|envejecimiento (de la población)||S|att|C1
+population vieillissante|población envejecida||L|att|C1
+pyramide des âges|pirámide de población||L|att|C1
+solde migratoire|saldo migratorio||L|att|C1
+flux migratoires|flujos migratorios||L|att|C1
+exilé|exiliado||S|att|C1
+émigré|emigrado||S|att|C1
+diaspora|diáspora||S|att|C1
+droit d'asile|derecho de asilo||L|att|C1
+demandeur d'asile|solicitante de asilo||L|att|C1
+expatrié|expatriado||S|att|C1
+rapatriement|repatriación||S|att|C1
+regroupement familial|reagrupación familiar||L|att|C1
+naturalisation|naturalización||S|att|C1
+régularisation|regularización (de sin papeles)||S|att|C1
+sans-papiers|sin papeles||S|att|C1
+démographe|demógrafo||S|pro|C1
+recensement|censo||S|att|C1
+recenser|censar||V|att|C1
+population active|población activa||L|att|C1
+exode rural|éxodo rural||L|att|C1
+mortalité infantile|mortalidad infantil||L|att|C1
+accroissement naturel|crecimiento natural||L|att|C1
+mobilité pendulaire|movilidad pendular||L|att|C1
+centre de rétention|centro de internamiento||L|att|C1
+renvoi|expulsión (de migrantes)||S|att|C1
+titre de séjour|permiso de residencia||L|att|C1
+intégration|integración (de inmigrantes)||S|att|C1
+assimilation|asimilación||S|att|C1
+brassage culturel|mestizaje cultural||L|att|C1
+iconographie|iconografía||S|art|C1
+iconoclasme|iconoclastia||S|art|C1
+symbolique|simbólica (sistema de símbolos)||S|art|C1
+symboliser|simbolizar||V|art|C1
+dévotionnel|devocional||A|art|C1
+sémiotique|semiótica||S|ast|C1
+sémiologie|semiología||S|ast|C1
+attribut|atributo (símbolo iconográfico)||S|art|C1
+hagiographie|hagiografía||S|art|C1
+bestiaire|bestiario||S|art|C1
+allégorique|alegórico||A|art|C1
+emblème|emblema||S|art|C1
+emblématique|emblemático||A|art|C1
+auréole|aureola||S|art|C1
+mandorle|mandorla||S|art|C1
+oriflamme|oriflama||S|art|C1
+blason|blasón||S|art|C1
+héraldique|heráldica||S|art|C1
+cimier|cimera (heráldica)||S|art|C1
+écu|escudo (de armas)||S|art|C1
+pétroglyphe|petroglifo||S|art|C1
+hiéroglyphe|jeroglífico||S|art|C1
+cartouche|cartucho (jeroglífico)||S|art|C1
+zoomorphe|zoomorfo||A|art|C1
+anthropomorphe|antropomorfo||A|art|C1
+talisman|talismán||S|art|C1
+imagerie populaire|imaginería popular||L|art|C1
+reliquaire|relicario||S|art|C1
+encensoir|incensario||S|art|C1
+lettrine|letra capitular||S|art|C1
+rinceau|roleo (ornamento vegetal)||S|art|C1
+sacraliser|sacralizar||V|art|C1
+orfèvrerie|orfebrería||S|art|C1
+ciselure|cincelado||S|art|C1
+repoussé|repujado||S|art|C1
+filigrane|filigrana||S|art|C1
+émaillerie|arte del esmalte||S|art|C1
+damasquinure|damasquinado||S|art|C1
+marqueterie|marquetería||S|art|C1
+camée|camafeo||S|art|C1
+laque|laca||S|art|C1
+tenture|tapiz (colgadura)||S|art|C1
+damasqué|adamascado||A|art|C1
+arts décoratifs|artes decorativas||L|art|C1
+ergonomie|ergonomía||S|sci|C1
+ergonomique|ergonómico||A|sci|C1
+maquettiste|maquetista||S|pro|C1
+ébéniste|ebanista||S|pro|C1
+ébénisterie|ebanistería||S|art|C1
+verrerie|cristalería (arte del vidrio)||S|art|C1
+vitrail|vidriera||S|art|C1
+mosaïste|mosaista||S|pro|C1
+dorure|dorado||S|art|C1
+argenture|plateado||S|art|C1
+sertissage|engastado||S|art|C1
+cabochon|cabujón||S|art|C1
+faïence|loza esmaltada||S|art|C1
+grès|gres (cerámica)||S|art|C1
+fonte d'art|fundición artística||L|art|C1
+applique|aplique (lámpara de pared)||S|art|C1
+liséré|cenefa||S|art|C1
+passementerie|pasamanería||S|art|C1
+stuc|estuco||S|art|C1
+boiserie|revestimiento de madera||S|art|C1
+argentique|analógico (fotografía química)||A|art|C1
+pellicule|carrete||S|art|C1
+révélation|revelado (fotográfico)||S|art|C1
+révélateur|revelador (fotografía)||S|art|C1
+tirage|copia (impresión fotográfica)||S|art|C1
+grain|grano (de la imagen)||S|art|C1
+contre-jour|contraluz||S|art|C1
+profondeur de champ|profundidad de campo||L|art|C1
+obturateur|obturador||S|art|C1
+diaphragme|diafragma||S|art|C1
+temps de pose|tiempo de exposición||L|art|C1
+cadrage|encuadre||S|art|C1
+gros plan|primer plano||L|cin|C1
+travelling|travelling (desplazamiento de cámara)||S|cin|C1
+panoramique|panorámica (giro de cámara)||S|cin|C1
+montage|montaje (cinematográfico)||S|cin|C1
+étalonnage|etalonaje (corrección de color)||S|cin|C1
+surexposition|sobreexposición||S|art|C1
+sous-exposition|subexposición||S|art|C1
+vignettage|viñeteado||S|art|C1
+installation|instalación (arte contemporáneo)||S|art|C1
+sérigraphie|serigrafía||S|art|C1
+taille-douce|calcografía||S|art|C1
+eau-forte|aguafuerte||S|art|C1
+burin|buril||S|art|C1
+lithographie|litografía||S|art|C1
+objectif|objetivo (lente)||S|art|C1
+plan d'ensemble|plano general||L|cin|C1
+champ-contrechamp|plano-contraplano||S|cin|C1
+lumière rasante|luz rasante||L|art|C1
+photomontage|fotomontaje||S|art|C1
+héliogravure|heliograbado||S|art|C1
+gaufrage|gofrado||S|art|C1
+arc-boutant|arbotante||S|art|C1
+contrefort|contrafuerte||S|art|C1
+linteau|dintel||S|art|C1
+chapiteau|capitel||S|art|C1
+colonnade|columnata||S|art|C1
+fronton|frontón||S|art|C1
+entablement|entablamento||S|art|C1
+corniche|cornisa||S|art|C1
+volute|voluta||S|art|C1
+cariatide|cariátide||S|art|C1
+rosace|rosetón||S|art|C1
+œil-de-bœuf|ojo de buey||S|art|C1
+lucarne|buhardilla||S|art|C1
+appentis|cobertizo||S|art|C1
+charpente|armadura (de cubierta)||S|art|C1
+colombage|entramado de madera||S|art|C1
+crépi|repellado||S|art|C1
+enduit|revoco||S|art|C1
+appareil|aparejo (de sillería)||S|art|C1
+avant-corps|cuerpo saliente||S|art|C1
+verrière|cerramiento acristalado||S|art|C1
+soubassement|zócalo||S|art|C1
+escalier en colimaçon|escalera de caracol||L|art|C1
+faîte|cumbrera||S|art|C1
+chéneau|canalón||S|art|C1
+clé de voûte|clave de bóveda||L|art|C1
+voussoir|dovela||S|art|C1
+trumeau|paño central (entre vanos)||S|art|C1
+archivolte|archivolta||S|art|C1
+pilastre|pilastra||S|art|C1
+perron|escalinata||S|art|C1
+chevet|cabecera (de la iglesia)||S|art|C1
+chorégraphie|coreografía||S|art|C1
+chorégraphe|coreógrafo||S|pro|C1
+pas de deux|pas de dos||L|art|C1
+chaussons de pointe|zapatillas de puntas||L|art|C1
+entrechat|entrechat (salto batido)||S|art|C1
+arabesque|arabesca||S|art|C1
+corps de ballet|cuerpo de baile||L|art|C1
+danseur étoile|bailarín estrella||L|pro|C1
+barre|barra (de danza)||S|art|C1
+déhanché|movimiento de cadera||S|art|C1
+cambré|arqueo hacia atrás||S|art|C1
+battement|battement (batido de pierna)||S|art|C1
+chassé|paso deslizado||S|art|C1
+saltimbanque|comediante ambulante||S|art|C1
+funambule|funámbulo||S|art|C1
+échasses|zancos||S|art|C1
+jongleur|juglar||S|art|C1
+escamoteur|prestidigitador||S|art|C1
+prestidigitation|prestidigitación||S|art|C1
+équilibriste|equilibrista||S|art|C1
+trapèze|trapecio||S|art|C1
+cascadeur|doble de acción||S|cin|C1
+adage|adagio (ejercicio a dúo)||S|art|C1
+maître de ballet|maestro de ballet||L|pro|C1
+répétiteur|maestro repetidor||S|pro|C1
+gestuelle|gestualidad||S|art|C1
+saut périlleux|salto mortal||L|art|C1
+contorsionniste|contorsionista||S|art|C1
+marionnettiste|titiritero||S|pro|C1
+théâtre d'ombres|teatro de sombras||L|art|C1
+spectacle vivant|espectáculo en vivo||L|art|C1
+récital|recital||S|mus|C1

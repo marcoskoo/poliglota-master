@@ -1,0 +1,293 @@
+chocolatine|chocolatina (pain au chocolat en el sudoeste)||S|ali|C2
+mas|masía (finca provenzal)||S|nat|C2
+bastide|bastida (casa señorial provenzal)||S|cit|C2
+draille|cañada (camino de trashumancia del sur)||S|nat|C2
+estive|estiva (pasto de alta montaña)||S|nat|C2
+garrigue|garriga (matorral mediterráneo calcáreo)||S|nat|C2
+tramontane|tramontana (viento del norte)||S|nat|C2
+autan|aután (viento del sur del sudoeste)||S|nat|C2
+mistral|mistral (viento frío del valle del Ródano)||S|nat|C2
+galoubet|galoubet (flauta provenzal de tres agujeros)||S|mus|C2
+santon|figurita de belén provenzal||S|art|C2
+farandole|farándola (danza provenzal encadenada)||S|mus|C2
+aubade|alborada (serenata al amanecer)||S|mus|C2
+tapenade|tapenade (pasta de aceitunas negras)||S|ali|C2
+aïoli|alioli (mayonesa de ajo provenzal)||S|ali|C2
+bouillabaisse|bullabesa (sopa de pescado marsellesa)||S|ali|C2
+bugne|frito de carnaval lionesa||S|ali|C2
+pogne|brioche tradicional del Delfinado||S|ali|C2
+fouace|hogaza dulce de Auvernia||S|ali|C2
+estaminet|estaminet (taberna campestre del norte de Francia)||S|ris|C2
+friterie|freiduría de patatas del norte de Francia||S|ris|C2
+bouchon|bouchon (taberna tradicional lionesa)||S|ris|C2
+baraque à frites|puesto de patatas fritas del norte||S|ris|C2
+cabas|saco de malla para la compra||S|cmp|C2
+cabanon|cabaña de campo provenzal||S|nat|C2
+cagnard|rinconcito resguardado del sol||S|nat|C2
+patois|patois (habla dialectal local)||S|cmu|C2
+grolle|taza de madera saboyana||S|ali|C2
+chiner|rebuscar gangas en los rastros||V|cmp|C2
+tantinet|pizca (un poquito)||S|ast|C2
+palanquée|monton (cantidad desmesurada)||S|ast|C2
+galurin|sombrero de fieltro (familiar)||S|rop|C2
+vogue|feria popular (regionalismo lionesa)||S|sve|C2
+amertume|amargura||S|emo|C2
+acrimonie|acritud||S|emo|C2
+hargne|mal genio persistente||S|emo|C2
+maussade|hosco||A|emo|C2
+morosité|desánimo generalizado||S|emo|C2
+saisissement|sobresalto||S|emo|C2
+désarroi|desasosiego||S|emo|C2
+accablement|abatimiento||S|emo|C2
+accabler|abrumar||V|emo|C2
+allégresse|regocijo||S|emo|C2
+attendrissement|enternecimiento||S|emo|C2
+apitoiement|compasión condescendiente||S|emo|C2
+magnanime|magnánimo||A|emo|C2
+magnanimité|magnanimidad||S|emo|C2
+pusillanime|pusilánime||A|emo|C2
+opiniâtreté|porfía||S|emo|C2
+outrecuidance|soberbia desmedida||S|emo|C2
+forfanterie|fanfarronería||S|emo|C2
+rodomontade|rodomontada||S|emo|C2
+ire|ira (registro literario)||S|emo|C2
+courroux|cólera violenta||S|emo|C2
+ombrageux|susceptible||A|emo|C2
+prendre ombrage|sentirse agraviado||E|emo|C2
+se faire de la bile|hacerse mala sangre||E|emo|C2
+avoir le cafard|tener la moral por los suelos||E|emo|C2
+flegme|sangre fría||S|emo|C2
+ataraxie|ataraxia||S|emo|C2
+mélancolie|melancolía||S|emo|C2
+nonchalance|desgana (indolencia elegante)||S|emo|C2
+insouciance|despreocupación||S|emo|C2
+farouche|arisco||A|emo|C2
+fougue|fogosidad||S|emo|C2
+compassionnel|asistencial (que suscita compasión)||A|emo|C2
+gouvernance|gobernanza||S|lav|C2
+arbitrer|decidir entre opciones||V|lav|C2
+feuille de route|hoja de ruta||S|lav|C2
+restructuration|reestructuración||S|lav|C2
+rationalisation|racionalización||S|lav|C2
+externalisation|externalización||S|lav|C2
+mutualisation|puesta en común de recursos||S|lav|C2
+dématérialisation|desmaterialización||S|lav|C2
+traçabilité|trazabilidad||S|lav|C2
+redevabilité|rendición de cuentas||S|lav|C2
+imputabilité|imputabilidad||S|lav|C2
+probité|probidad||S|lav|C2
+perspicacité|perspicacia||S|lav|C2
+frilosité|timidez inversora||S|lav|C2
+dérégulation|desregulación||S|lav|C2
+reconduction|renovación (de un contrato)||S|lav|C2
+montée en puissance|escalado de capacidad||S|lav|C2
+montée en gamme|subida de gama||S|fin|C2
+réingénierie|reingeniería||S|lav|C2
+ordonnancement|secuenciación (planificación)||S|lav|C2
+orchestrer|orquestar||V|lav|C2
+fédérer|aglutinar||V|lav|C2
+synergie|sinergia||S|lav|C2
+essaimage|desprendimiento de filiales||S|lav|C2
+recentrage|reorientación hacia el negocio principal||S|lav|C2
+adossement|adscripción a otra estructura||S|lav|C2
+reliquat|saldo pendiente||S|fin|C2
+quote-part|cuota parte||S|fin|C2
+guichet unique|ventanilla única||S|ist|C2
+levier|palanca (medida de impulso)||S|lav|C2
+effet de levier|efecto apalancamiento||S|fin|C2
+rémanence|persistencia de un efecto||S|ast|C2
+présélection|preselección||S|lav|C2
+fiche de poste|ficha del puesto||S|lav|C2
+intitulé|denominación (de un puesto)||S|lav|C2
+grille salariale|tabla salarial||S|lav|C2
+avantages en nature|retribución en especie||S|lav|C2
+intéressement|participación en beneficios||S|fin|C2
+épargne salariale|ahorro de empresa||S|fin|C2
+avancement|ascenso||S|lav|C2
+notation|evaluación del desempeño||S|lav|C2
+entretien annuel|entrevista anual de desempeño||S|lav|C2
+tutorat|tutoría||S|stu|C2
+mentorat|mentoría||S|lav|C2
+parrainage|apadrinamiento||S|lav|C2
+compagnonnage|aprendizaje por acompañamiento||S|lav|C2
+alternance|formación en alternancia||S|stu|C2
+mobilité interne|movilidad interna||S|lav|C2
+reclassement|recolocación||S|lav|C2
+reconversion|reconversión profesional||S|lav|C2
+absentéisme|absentismo||S|lav|C2
+présentéisme|presentismo||S|lav|C2
+pénibilité|penosidad||S|lav|C2
+polyvalence|polivalencia||S|lav|C2
+responsabilisation|corresponsabilización||S|lav|C2
+implication|implicación||S|lav|C2
+bienveillance|benevolencia||S|emo|C2
+plafond de verre|techo de cristal||S|lav|C2
+discrimination à l'embauche|discriminación en la contratación||S|lav|C2
+savoir-être|saber estar||S|lav|C2
+climat social|clima laboral||S|lav|C2
+dialogue social|diálogo social||S|lav|C2
+astreinte|guardia de disponibilidad||S|lav|C2
+flexisécurité|flexiseguridad||S|lav|C2
+andragogie|andragogía||S|stu|C2
+pédagogie différenciée|pedagogía diferenciada||S|stu|C2
+didactique|didáctica||S|stu|C2
+socioconstructivisme|socioconstructivismo||S|stu|C2
+béhaviorisme|conductismo||S|sci|C2
+métacognition|metacognición||S|stu|C2
+remédiation|refuerzo (recuperación didáctica)||S|stu|C2
+évaluation formative|evaluación formativa||S|stu|C2
+évaluation sommative|evaluación sumativa||S|stu|C2
+référentiel|referencial (marco de competencias)||S|stu|C2
+référentiel de compétences|perfil de competencias||S|stu|C2
+socle commun|núcleo de competencias básicas||S|stu|C2
+décrochage scolaire|abandono escolar||S|stu|C2
+redoublement|repetición de curso||S|stu|C2
+agrégation|agregación (oposiciones de enseñanza)||S|stu|C2
+habilitation|habilitación (acreditación docente)||S|stu|C2
+soutenance|defensa (de tesis)||S|stu|C2
+doctorant|doctorando||S|pro|C2
+pédant|pedante||S|stu|C2
+pédanterie|pedantería||S|stu|C2
+maïeutique|mayéutica||S|stu|C2
+hétérogénéité|heterogeneidad (del grupo clase)||S|stu|C2
+travaux dirigés|seminarios (clases prácticas)||S|stu|C2
+travaux pratiques|prácticas de laboratorio||S|stu|C2
+partiel|parcial (examen universitario)||S|stu|C2
+rattrapage|convocatoria de recuperación||S|stu|C2
+barème|baremo de corrección||S|stu|C2
+explication de texte|comentario de texto||S|stu|C2
+cursus|itinerario académico||S|stu|C2
+psychopédagogie|psicopedagogía||S|stu|C2
+éducabilité|educabilidad||S|stu|C2
+inégalités scolaires|desigualdades educativas||S|stu|C2
+reproduction sociale|reproducción social||S|sci|C2
+cabinet d'avocats|despacho de abogados||S|pro|C2
+greffier|secretario judicial||S|pro|C2
+parquet|fiscalía||S|ist|C2
+magistrature|magistratura||S|pro|C2
+délibéré|deliberación (en reserva para sentenciar)||S|ist|C2
+réquisitoire|escrito de acusación fiscal||S|ist|C2
+plaidoirie|informe oral (alegato)||S|ist|C2
+conclusions|alegaciones escritas||S|ist|C2
+assignation|citación judicial||S|ist|C2
+requête|solicitud procesal||S|ist|C2
+désistement|desistimiento||S|ist|C2
+saisine|facultad de acudir al juez||S|ist|C2
+connexité|conexidad||S|ist|C2
+contentieux|contencioso||S|ist|C2
+juge d'instruction|juez de instrucción||S|pro|C2
+mise en examen|imputación judicial||S|ist|C2
+signification|notificación (emplazamiento)||S|ist|C2
+attendus|considerandos||S|ist|C2
+dispositif|parte dispositiva (fallo)||S|ist|C2
+cahier des charges|pliego de condiciones||S|tec|C2
+homologation|homologación||S|tec|C2
+vétusté|vetustez||S|tec|C2
+banc d'essai|banco de pruebas||S|tec|C2
+remise en état|restablecimiento (reparación)||S|tec|C2
+soins palliatifs|cuidados paliativos||S|sla|C2
+posologie|posología||S|sla|C2
+biosimilaire|biosimilar||S|sla|C2
+bloc opératoire|quirófano||S|sla|C2
+iatrogène|iatrogénico||A|sla|C2
+nosocomial|nosocomial||A|sla|C2
+comorbidité|comorbilidad||S|sla|C2
+observance|cumplimiento terapéutico||S|sla|C2
+intubation|intubación||S|sla|C2
+connivence|connivencia||S|rel|C2
+égards|atenciones (miramientos)||S|rel|C2
+déférence|deferencia||S|rel|C2
+condescendance|condescendencia||S|rel|C2
+sollicitude|solicitud (esmero)||S|rel|C2
+indulgence|indulgencia||S|rel|C2
+rancœur|rencor||S|rel|C2
+bouder|estar a pucheros||V|rel|C2
+brouille|enfriamiento (pelea pasajera)||S|rel|C2
+raccommodement|avenencia||S|rel|C2
+faire la moue|poner morros||E|rel|C2
+se froisser|ofenderse||V|rel|C2
+froideur|frialdad||S|rel|C2
+empressement|afán solícito||S|rel|C2
+flagornerie|adulación servil||S|rel|C2
+enjôler|engatusar||V|rel|C2
+choyer|agasajar||V|rel|C2
+tenir à distance|mantener a distancia||E|rel|C2
+pudeur|pudor||S|rel|C2
+bienséance|decoro||S|rel|C2
+malséant|indecoroso||A|rel|C2
+indélicatesse|descortesía||S|rel|C2
+faux pas|metedura de pata||S|rel|C2
+indiscrétion|indiscreción||S|rel|C2
+fourbe|felón||A|rel|C2
+fourberie|felonía||S|rel|C2
+duplicité|doblez||S|rel|C2
+machiavélisme|maquiavelismo||S|ast|C2
+pingre|roñoso||A|rel|C2
+gouaille|guasa||S|rel|C2
+persiflage|sorna encubierta||S|cmu|C2
+caustique|cáustico (mordaz)||A|cmu|C2
+librettiste|libretista||S|pro|C2
+livret|libreto||S|mus|C2
+tessiture|tesitura||S|mus|C2
+contre-ténor|contratenor||S|mus|C2
+cantatrice|cantante de ópera||S|mus|C2
+colorature|coloratura||S|mus|C2
+récitatif|recitativo||S|mus|C2
+avant-scène|proscenio||S|art|C2
+quatrième mur|cuarta pared||S|art|C2
+didascalie|acotación teatral||S|art|C2
+aparté|aparte||S|art|C2
+stichomythie|esticomitia||S|let|C2
+canevas|esquema argumental||S|let|C2
+coup de théâtre|golpe de efecto teatral||S|art|C2
+vaudeville|vodevil||S|art|C2
+saynète|sainete||S|art|C2
+versification|versificación||S|let|C2
+alexandrin|alejandrino||S|let|C2
+césure|cesura||S|let|C2
+diérèse|diéresis||S|let|C2
+hémistiche|hemistiquio||S|let|C2
+enjambement|encabalgamiento||S|let|C2
+épître|epístola||S|let|C2
+villanelle|villanella||S|let|C2
+triolet|trioleta||S|let|C2
+pantoum|pantún||S|let|C2
+calligramme|caligrama||S|let|C2
+litote|lítotes||S|let|C2
+chiasme|quiasmo||S|let|C2
+métaphore filée|metáfora continuada||S|let|C2
+prosopopée|prosopopeya||S|let|C2
+catachrèse|catacresis||S|let|C2
+calembour|juego de palabras||S|let|C2
+ravitaillement|reabastecimiento||S|vig|C2
+bivouac|vivac||S|nat|C2
+descente en rappel|descenso en rápel||S|spt|C2
+arête|arista (filo de montaña)||S|nat|C2
+corniche|cornisa (carretera de cornisa)||S|nat|C2
+moraine|morrena||S|nat|C2
+sérac|serac (bloque de glaciar)||S|nat|C2
+crevasse|grieta de glaciar||S|nat|C2
+rimaye|rimaya (fosa al pie del glaciar)||S|nat|C2
+névé|nevero (nieve granulada)||S|nat|C2
+himalayisme|himalayismo||S|spt|C2
+cordée|cordada||S|spt|C2
+mousqueton|mosquetón||S|spt|C2
+piolet|piolet (piqueta de alpinismo)||S|spt|C2
+gouffre|sima||S|nat|C2
+aven|dolina (sima kárstica)||S|nat|C2
+tourmente|borrasca||S|nat|C2
+alizé|viento alisio||S|nat|C2
+raz-de-marée|maremoto||S|nat|C2
+taïga|taiga||S|nat|C2
+inlandsis|casquete glaciar continental||S|nat|C2
+éboulis|canchal (pedregal)||S|nat|C2
+lapiaz|lapiaz (lenar)||S|nat|C2
+oued|uadi (río temporero del Sáhara)||S|nat|C2
+erg|erg (mar de dunas)||S|nat|C2
+méharée|travesía en dromedario||S|vig|C2
+esquif|esquife||S|let|C2
+azimut|acimut||S|nat|C2
+bourrasque|ráfaga||S|nat|C2
+spéléologie|espeleología||S|spt|C2
+camp de base|campamento base||S|spt|C2
+acclimatation|aclimatación||S|nat|C2

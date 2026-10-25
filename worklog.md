@@ -2817,3 +2817,44 @@ Work Log:
 
 Stage Summary:
 - v9.43 DESPLEGADA: diccionario ×3 (57.000 lemas en 5 lenguas, packs v943 en bloques raw compactos con parse perezoso), todas las bandas CEFR A1→C1 al 100% en las 5 lenguas. PENDIENTE última milla C2: FR -7.361, PT -5.424, EN -3.148, DE -4.976, IT -2.092 → relanzar `bun scripts/v943-jobs.ts` + oleadas de subagentes + `bun scripts/v943-build.ts` + commit (el pipeline es auto-serve y los déficits se recalculan solos). OJO: el sandbox hace rollbacks selectivos — commitear tras cada oleada y verificar con git show --stat.
+
+---
+Task ID: v9.43/final/fr-c2-18
+Agent: subagent
+Task: lexicón FR C2 job fr-c2-18
+Work Log:
+- generado fr-c2-18-p*.txt con 879 entradas (p1: 293, p2: 293, p3: 293)
+- awk OK (todas las líneas con 6 campos) / duplicados OK (ninguno)
+- códigos de tipo/categoría validos, columna final C2 en el 100%, sin palabras de la lista de exclusión
+Stage Summary:
+- fr-c2-18: 879 entradas C2 de francés
+
+---
+Task ID: v9.43/final/fr-c1-08
+Agent: subagent
+Task: lexicón FR C1 job fr-c1-08
+Work Log:
+- generado fr-c1-08-p1.txt (259), p2 (259), p3 (259), p4 (258) con 1035 entradas C1 de francés de Francia (derecho, medicina, macroeconomía, finanzas, ciencias, literatura, filosofía, geopolítica, política pública)
+- awk OK (todas las líneas con 6 campos exactos) / duplicados OK (1 dup "forclusion" detectado y corregido → "clivage")
+- verificado: sin palabras de la lista de exclusión, códigos tipo/categoría válidos, última columna siempre C1
+Stage Summary:
+- fr-c1-08: 1035 entradas C1 de francés
+---
+Task ID: v9.43/final/fr-c2-15
+Agent: subagent
+Task: lexicón FR C2 job fr-c2-15
+Work Log:
+- generado fr-c2-15-p*.txt con 879 entradas (293 por archivo)
+- awk OK (todas las líneas con 6 campos) / duplicados OK (ninguno)
+- verificadas columnas (C2), códigos de tipo/categoría válidos y lista de exclusión respetada
+Stage Summary:
+- fr-c2-15: 879 entradas C2 de francés
+---
+Task ID: v9.43/final/fr-c1-11
+Agent: subagent
+Task: lexicón FR C1 job fr-c1-11
+Work Log:
+- generado fr-c1-11-p*.txt con 1035 entradas
+- awk OK / duplicados OK
+Stage Summary:
+- fr-c1-11: 1035 entradas C1 de francés

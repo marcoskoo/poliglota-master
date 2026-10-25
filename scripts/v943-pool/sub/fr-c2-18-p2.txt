@@ -1,0 +1,293 @@
+à cet égard|a este respecto||L|cnn|C2
+à cet effet|a tal efecto||L|cnn|C2
+en conséquence de quoi|en consecuencia de lo cual||L|cnn|C2
+de surcroît|por añadidura||L|cnn|C2
+qui plus est|es más||L|cnn|C2
+en amont|aguas arriba (antes de, en el origen)||L|cnn|C2
+en aval|aguas abajo (después de)||L|cnn|C2
+sous couvert de|so capa de||L|cnn|C2
+à quelques exceptions près|salvo contadas excepciones||L|cnn|C2
+sauf erreur|salvo error u omisión||L|cnn|C2
+pour peu que|por poco que (basta con que)||C|cnn|C2
+à supposer que|suponiendo que||C|cnn|C2
+quitte à|aun a costa de||L|cnn|C2
+d'ores et déjà|desde ahora mismo||L|tmp|C2
+n'en demeure pas moins|no por ello deja de ser cierto||L|cnn|C2
+en dernière analyse|en último análisis||L|cnn|C2
+à plus forte raison|con más razón||L|cnn|C2
+il n'empêche que|no por ello; con todo||L|cnn|C2
+en sus de|además de (por encima de)||L|cnn|C2
+sans préjudice de|sin perjuicio de||L|cnn|C2
+d'entrée de jeu|de entrada (desde el principio)||L|cnn|C2
+sous peine de|so pena de||L|cnn|C2
+au prix de|a costa de||L|cnn|C2
+dans le sillage de|a la estela de||L|cnn|C2
+à l'instar de|a semejanza de||L|cnn|C2
+au prorata de|prorrata de (en proporción a)||L|cnn|C2
+sous l'égide de|bajo la égida de||L|cnn|C2
+dans l'orbite de|en la órbita de||L|cnn|C2
+dans l'immédiat|de momento (por lo inmediato)||L|tmp|C2
+à dessein|a propósito (deliberadamente)||L|ast|C2
+de gaieté de cœur|de buen grado, por gusto||L|ast|C2
+insinuer|insinuar||V|cmu|C2
+sous-entendre|dar a entender (insinuar tácitamente)||V|cmu|C2
+laisser entendre que|dar a entender que||L|cmu|C2
+distiller|destilar (soltar gota a gota)||V|cmu|C2
+divulguer|divulgar||V|cmu|C2
+ébruiter|difundir (hacer público un asunto)||V|cmu|C2
+colporter|llevar de boca en boca (propagar rumores)||V|cmu|C2
+médire|hablar mal de (calumniar con sutileza)||V|cmu|C2
+calomnier|calumniar||V|cmu|C2
+dénigrer|denigrar||V|cmu|C2
+persifler|burlarse con fina ironía||V|cmu|C2
+houspiller|regañar con aspereza||V|cmu|C2
+glisser|deslizar (decir al pasar)||V|cmu|C2
+égrener|desgranar (ir diciendo una a una)||V|cmu|C2
+peser ses mots|medir las palabras||L|cmu|C2
+faire savoir|hacer saber||L|cmu|C2
+porter à la connaissance|poner en conocimiento||L|cmu|C2
+aviser|avisar, informar (comunicar oficialmente)||V|cmu|C2
+requérir|requerir||V|ist|C2
+souffler à l'oreille|soplar al oído (insinuar en secreto)||L|cmu|C2
+ne pas souffler mot|no decir esta boca es mía||L|cmu|C2
+bafouer|escarnecer (vejar en público)||V|cmu|C2
+outrer|desmesurar (llevar al extremo)||V|ast|C2
+s'enquérir de|informarse de||V|cmu|C2
+opiner du chef|asentir sin más||L|cmu|C2
+apostropher|apostrofar||V|cmu|C2
+faire part de|hacer partícipe de||L|cmu|C2
+rétorquer|retrucar (replicar con sorna)||V|cmu|C2
+assaillir de questions|acosar a preguntas||L|cmu|C2
+signifier|notificar (comunicar en forma)||V|ist|C2
+narrer|narrar||V|let|C2
+fustiger|fustigar (criticar con dureza)||V|cmu|C2
+clouer au pilori|poner en la picota||L|cmu|C2
+a fortiori|con mayor razón||L|cnn|C2
+a contrario|a la inversa (por lo contrario)||L|cnn|C2
+a posteriori|a posteriori (tras la experiencia)||L|cnn|C2
+ad hoc|ad hoc (para el caso concreto)||L|ast|C2
+ad hominem|ad hominem (contra la persona)||L|cmu|C2
+ad nauseam|hasta el hastío||L|ast|C2
+condition sine qua non|condición sine qua non||L|ast|C2
+de facto|de hecho (de facto)||L|ast|C2
+de jure|de derecho (de jure)||L|ast|C2
+in extenso|por extenso (sin resumir)||L|ast|C2
+in fine|al final (en fin de cuentas)||L|cnn|C2
+ex abrupto|de sopetón||L|cmu|C2
+ex nihilo|de la nada||L|ast|C2
+mutatis mutandis|mutatis mutandis (con los cambios debidos)||L|ast|C2
+ipso facto|ipso facto (en el acto)||L|ast|C2
+in situ|in situ (en el lugar)||L|ast|C2
+sine die|sine die (sin fecha fija)||L|ast|C2
+ad interim|interinamente (ad interim)||L|ast|C2
+urbi et orbi|urbi et orbi (a toda criatura)||L|cmu|C2
+un et indivisible|único e indivisible||L|ast|C2
+stricto sensu|en sentido estricto||L|ast|C2
+lato sensu|en sentido amplio||L|ast|C2
+in extremis|in extremis (en el último instante)||L|ast|C2
+en crescendo|en crescendo (por momentos)||L|ast|C2
+à qui mieux mieux|a ver quién más (a porfía)||L|ast|C2
+bon gré mal gré|de grado o por fuerza||L|ast|C2
+de gré ou de force|por las buenas o por las malas||L|ast|C2
+nolens volens|quiera o no||L|ast|C2
+do ut des|doy para que des||L|ast|C2
+ne varietur|sin cambio posible (ne varietur)||L|ast|C2
+en petto|en el fuero interno (en secreto)||L|ast|C2
+de visu|de visu (con los propios ojos)||L|ast|C2
+in vitro|in vitro (fuera del organismo)||L|sci|C2
+échelonner|escalonar (repartir por etapas)||V|stu|C2
+étayage|andamiaje (en pedagogía, soporte del aprendizaje)||S|stu|C2
+remédiation|refuerzo (apoyo educativo)||S|stu|C2
+psychomoteur|psicomotriz||A|sla|C2
+psychomotricité|psicomotricidad||S|sla|C2
+attachement|apego (vínculo afectivo temprano)||S|emo|C2
+empan|amplitud de la memoria de trabajo||S|sci|C2
+métacognition|métacognición||S|sci|C2
+élan vital|impulso vital||L|ast|C2
+décantation|decantación (maduración lenta de las ideas)||S|ast|C2
+imprégnation|impronta (impregnación temprana)||S|sci|C2
+pédopsychiatrie|psiquiatría infantojuvenil||S|sla|C2
+haut potentiel|alto potencial (superdotación)||L|stu|C2
+précocité|precocidad||S|stu|C2
+redoublement|repetición (de curso)||S|stu|C2
+châtiment|castigo, correctivo||S|stu|C2
+férule|férula (disciplina impuesta)||S|stu|C2
+émuler|emular||V|stu|C2
+émulation|emulación||S|stu|C2
+assiduité|asiduidad||S|stu|C2
+dissipé|disipado (inquieto, poco aplicado)||A|stu|C2
+candide|cándido (ingenuo)||A|ast|C2
+niais|bobalicón, simplón||A|ast|C2
+nigaud|atontado, lelo||A|ast|C2
+benêt|zopenco, corto de luces||A|ast|C2
+égocentrisme|egocentrismo||S|sla|C2
+stimulation précoce|estimulación temprana||L|stu|C2
+motricité fine|motricidad fina||L|cor|C2
+dyspraxie|dispraxia||S|sla|C2
+dyscalculie|discalculia||S|sla|C2
+savoir-être|saber estar||S|stu|C2
+décrochage scolaire|abandono escolar (desvinculación)||L|stu|C2
+mythomanie|mitomanía||S|sla|C2
+déni|negación (rechazo psíquico de la realidad)||S|sla|C2
+dénégation|desmentida (negación formal)||S|sla|C2
+refoulement|represión (apartar de la consciencia)||S|sla|C2
+refouler|reprimir||V|sla|C2
+sublimation|sublimación||S|sla|C2
+sublimer|sublimar||V|sla|C2
+catharsis|catarsis||S|sla|C2
+mélancolie|melancolía (cuadro depresivo grave)||S|sla|C2
+dysthymie|distimia||S|sla|C2
+hypochondrie|hipocondría||S|sla|C2
+sevrage|abstinencia forzosa (destete)||S|sla|C2
+rechute|recaída||S|sla|C2
+rémission|remisión (mejoría de la enfermedad)||S|sla|C2
+transfert|transferencia (vínculo con el terapeuta)||S|sla|C2
+contre-transfert|contratransferencia||S|sla|C2
+lâcher-prise|soltar el control (dejarse llevar)||S|sla|C2
+angélisme|angelismo (optimismo ingenuo)||S|sla|C2
+introspection|introspección||S|sla|C2
+affliction|aflicción||S|emo|C2
+désarroi|desasosiego, desconcierto||S|emo|C2
+sidération|aturdimiento (parálisis por shock)||S|sla|C2
+psychotrope|psicotrópico||A|sla|C2
+anxiolytique|ansiolítico||A|sla|C2
+antidépresseur|antidepresivo||A|sla|C2
+compulsion|compulsión (acto irrefrenable)||S|sla|C2
+mécanisme de défense|mecanismo de defensa||L|sla|C2
+morosité|desánimo, apatía||S|sla|C2
+faire son deuil|elaborar el duelo||L|sla|C2
+décompensation|descompensación (desbordamiento del equilibrio)||S|sla|C2
+remémoration|rememoración||S|sla|C2
+abréaction|abreacción||S|sla|C2
+passage à l'acte|paso al acto||L|sla|C2
+avarice|avaricia||S|ast|C2
+prodigalité|prodigalidad||S|ast|C2
+convoitise|concupiscencia (codicia)||S|ast|C2
+luxure|lujuria||S|ast|C2
+ivrognerie|borrachera habitual||S|ast|C2
+ébriété|ebriedad||S|ast|C2
+gloutonnerie|gula (glotonería)||S|ast|C2
+nonchalance|desgana (indolencia elegante)||S|ast|C2
+outrecuidance|presunción desmedida, altivez||S|ast|C2
+jactance|jactancia (habla fanfarrona)||S|cmu|C2
+morgue|altivez desdeñosa (orgullo frío)||S|ast|C2
+malveillance|malquerencia (intención de dañar)||S|ast|C2
+lâcheté|cobardía (flaqueza moral)||S|ast|C2
+vaillance|valentía (brío guerrero)||S|ast|C2
+abnégation|abnegación||S|ast|C2
+altruisme|altruismo||S|ast|C2
+sollicitude|solicitud (cuidado atento)||S|ast|C2
+mansuétude|mansedumbre (clemencia)||S|ast|C2
+clémence|clemencia||S|ast|C2
+vénalité|venalidad||S|ast|C2
+prévarication|prevaricación||S|ist|C2
+pharisaïsme|fariseísmo (hipocresía legalista)||S|ast|C2
+tartufferie|tartufería (hipocresía beata)||S|ast|C2
+magnanimité|magnanimidad||S|ast|C2
+intempérance|intemperancia (falta de templanza)||S|ast|C2
+voracité|voracidad||S|ast|C2
+rapacité|rapacidad||S|ast|C2
+casuistique|casuística||S|ast|C2
+galanterie|galantería (cortesía enamorada)||S|rel|C2
+bienfaisance|beneficencia||S|ast|C2
+miséricorde|misericordia||S|ast|C2
+piété|piedad||S|ast|C2
+sacrilège|sacrílego||A|ast|C2
+amorçage|capital semilla||S|fin|C2
+levée de fonds|ronda de financiación||L|fin|C2
+valorisation|valoración (de empresa)||S|fin|C2
+mise à l'échelle|escalado||L|tec|C2
+pivoter|pivotar (virar el modelo de negocio)||V|fin|C2
+itérer|iterar (repetir mejorando)||V|tec|C2
+itération|iteración||S|tec|C2
+incuber|incubar (apadrinar un proyecto naciente)||V|lav|C2
+incubateur|incubadora (de empresas)||S|lav|C2
+accélérateur|aceleradora (de startups)||S|lav|C2
+mentorat|mentoría||S|lav|C2
+désintermédiation|desintermediación||S|fin|C2
+effet d'annonce|efecto anuncio||L|fin|C2
+intrapreneuriat|emprendimiento interno||S|lav|C2
+essaimage|semillero (creación de empresas filiales)||S|lav|C2
+licorne|unicornio (startup valorada en mil millones)||S|fin|C2
+dilution|dilución (de la participación)||S|fin|C2
+évangéliser|evangelizar (ganar para la causa)||V|cmu|C2
+barrière à l'entrée|barrera de entrada||L|fin|C2
+effet de réseau|efecto de red||L|tec|C2
+ruissellement|goteo (derrame económico)||S|fin|C2
+produit d'appel|producto gancho||L|fin|C2
+actionnariat|accionariado||S|fin|C2
+titrisation|titulización (de activos)||S|fin|C2
+pacte d'associés|pacto de socios||L|fin|C2
+capital-risque|capital riesgo||S|fin|C2
+fructifier|fructificar||V|fin|C2
+trouver preneur|encontrar comprador||L|fin|C2
+point mort|punto de equilibrio||L|fin|C2
+capitaliser sur|capitalizar sobre||V|fin|C2
+faire florès|prosperar, hacer fortuna||L|fin|C2
+effet boule de neige|efecto bola de nieve||L|ast|C2
+réapprovisionnement|reabastecimiento||S|tra|C2
+achalandage|afluencia de clientela||S|fin|C2
+entrepôt|almacén (depósito aduanero)||S|tra|C2
+fret|flete (carga transportada)||S|tra|C2
+affrètement|fletamento (de barco o avión)||S|tra|C2
+traçabilité|trazabilidad||S|tra|C2
+groupage|agrupación de cargas (consolidación)||S|tra|C2
+dernier kilomètre|última milla (tramo final de entrega)||L|tra|C2
+logistique inverse|logística inversa||L|tra|C2
+obsolescence|obsolescencia (de producto o piezas)||S|tra|C2
+inventaire tournant|inventario rotativo||L|tra|C2
+franc de port|con portes pagadas||L|tra|C2
+prestataire|prestador (de servicios)||S|lav|C2
+externalisation|externalización (tercerización)||S|lav|C2
+goulot d'étranglement|cuello de botella (punto de congestión)||L|tra|C2
+cadence|cadencia (ritmo de producción)||S|tra|C2
+arrimage|estiba (trincaje de la carga)||S|tra|C2
+flux tendu|producción ajustada (flujo tenso)||L|tra|C2
+rupture de stock|rotura de stock (agotamiento)||L|tra|C2
+chaîne d'approvisionnement|cadena de suministro||L|tra|C2
+stock tampon|stock amortiguador (colchón)||L|tra|C2
+transitaire|transitario (agente de aduanas)||S|pro|C2
+circuit court|circuito corto||L|tra|C2
+centrale d'achat|central de compras||S|fin|C2
+marge arrière|margen oculto (retrocesiones del proveedor)||S|fin|C2
+zone franche|zona franca||L|tra|C2
+dédouanement|despacho de aduanas||S|tra|C2
+palettisation|paletización||S|tra|C2
+commissionnaire|comisionista de transporte||S|pro|C2
+ordonnancement|secuenciación (programación de tareas)||S|tra|C2
+temps de cycle|tiempo de ciclo||L|tra|C2
+déperdition|desperdicio (pérdida en el proceso)||S|tra|C2
+préparation de commandes|preparación de pedidos||L|tra|C2
+prescripteur|prescriptor (agente que influye en la decisión)||S|fin|C2
+prospection|prospección (búsqueda de clientes)||S|fin|C2
+démarchage|venta a domicilio (captación en la calle)||S|fin|C2
+marronnier|tema de temporada (asunto recurrente)||S|cmu|C2
+segmenter|segmentar||V|fin|C2
+segmentation|segmentación||S|fin|C2
+tunnel de conversion|embudo de conversión||L|fin|C2
+taux de conversion|tasa de conversión||L|fin|C2
+coût de revient|coste de producción (coste de lo vendido)||L|fin|C2
+panier moyen|ticket medio||L|fin|C2
+achat d'impulsion|compra por impulso||L|fin|C2
+fidélisation|fidelización||S|fin|C2
+parrainage|apadrinamiento (programa de referidos)||S|fin|C2
+placement de produit|emplazamiento de producto||L|cin|C2
+tête de gondole|cabecera de góndola||L|fin|C2
+linéaire|lineal (espacio de estantería)||S|fin|C2
+marque blanche|marca blanca||L|fin|C2
+notoriété|notoriedad (conocimiento de marca)||S|fin|C2
+ciblage|ciblado (fijación del público objetivo)||S|fin|C2
+effet d'entraînement|efecto arrastre||L|fin|C2
+écrémage|descremado (precio alto para pioneros)||S|fin|C2
+pénétration|penetración (de mercado)||S|fin|C2
+élasticité|elasticidad (de la demanda al precio)||S|fin|C2
+chaland|parroquiano (cliente)||S|fin|C2
+argumentaire|argumentario||S|fin|C2
+publicité comparative|publicidad comparativa||L|fin|C2
+vente croisée|venta cruzada||L|fin|C2
+montée en gamme|subida de gama||L|fin|C2
+achat groupé|compra agrupada||L|fin|C2
+prix d'appel|precio gancho||L|fin|C2
+effet de mode|efecto moda (efímero)||L|fin|C2
+propension|propensión (a consumir o ahorrar)||S|fin|C2
+taux d'équipement|tasa de equipamiento||L|fin|C2
