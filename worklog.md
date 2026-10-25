@@ -2797,3 +2797,23 @@ Task ID: v9.43/gen/de-c1-09 · Agent: subagent · lexicón DE C1: 817 entradas �
 Task ID: v9.43/gen/de-b2-07 · Agent: subagent · lexicón DE B2: 865 entradas · awk OK
 Task ID: v9.43/gen/de-c1-08 · Agent: subagent · lexicón DE C1: 817 entradas · awk OK
 Task ID: v9.43/gen/de-b2-04 · Agent: subagent · lexicón DE B2: 865 entradas · awk OK
+Task ID: v9.43/gen/fr-c2-16 · Agent: subagent · lexicón FR C2: 879 entradas · awk OK
+Task ID: v9.43/gen/pt-b1-02 · Agent: subagent · lexicón PT B1: 925 entradas · awk OK
+Task ID: v9.43/gen/it-c2-09 · Agent: subagent · lexicón IT C2: 827 entradas · awk OK
+Task ID: v9.43/gen/en-c1-03 · Agent: subagent · lexicón EN C1: 926 entradas · awk OK
+
+---
+Task ID: v9.43
+Agent: main (Super Z)
+Task: Diccionario y vocabulario CEFR 16.000 palabras/lengua (IT/EN/PT/FR/DE) — ampliación masiva del léxico
+
+Work Log:
+- Arquitectura: mega-parse extendido a A1/A2 (los packs v9.42 ya contenían ~700 entradas A1/A2 que se descartaban silenciosamente); refactor lazy de los dicts EN/PT/FR/DE (getENDict() etc. con caché + vocabFor/dictListFor/dictByIdFor perezosos) para que el arranque no pague el parseo de 57k entradas — cada lengua se parsea al abrirse por primera vez.
+- Pipeline lexicográfico v9.43 (coste 0 €): banco de ~250 subtemas por banda MCER (scripts/v943-topics.ts), generador de jobs autocontenidos con listas de exclusión por banda (scripts/v943-jobs.ts, registro jobs.json + IDs anti-colisión), ejecución por subagentes lexicógrafos (oleadas de 6, verificación wc+awk por job), builder que valida formato/charset/códigos, deduplica por normKey contra el repo y genera bloques raw compactos de 700 líneas + hubs (scripts/v943-build.ts, idempotente). El generador SDK (scripts/v943-gen.ts) quedó listo como recarga pero la cuota del chat API (429) estuvo agotada toda la sesión.
+- Infraestable: el sandbox sufrió ~7 rollbacks selectivos (borraban commits enteros de git incluido .git); se adoptó protocolo commit-verificado-tras-cada-oleada + restauración desde git; varios jobs "malditos" (fr-c2-15, fr-c1-11, fr-b2-07, pt-b1-03...) fallaban con 400/empty de forma persistente y se regeneraron con nuevos IDs cuando fue posible.
+- Resultado neto final (repo+pool, tras dedup): IT 13.908 · EN 12.852 · PT 10.576 · FR 8.639 · DE 11.024 = 57.000 lemas totales (base 18.925 → +38.075 netas, ×3). Bandas: todas las lenguas cumplen los objetivos CEFR acumulados A1→C1 (500/1000/2000/4000/8000); C2 parcial (80% EN, 87% IT, 66% PT, 73% DE, 54% FR).
+- QA: tsc 81 = baseline exacto (0 errores en tocados); eslint exit 0 en 9 archivos; build OK 15/15 (8.3s); E2E standalone :3462 con agent-browser: diccionario EN 12.818 con barras CEFR y búsqueda «kitten» OK, filtro C2, DE 10.999 «Didaktisches Wörterbuch» con objetivos GER en alemán, juegos DE (Memory/Blitz-Quiz/Galgenraten con categorías localizadas), viewport 390px sin overflow, 0 errores de página; capturas upload/v943-en-dictionary.png y v943-de-memory-mobile.png.
+- Deploy: SW im-v9-43-0; wiring: lang-XX.ts fusiona XX_V943 en dedupMerge (ids <lang>943-m<lvl>-<slug>), vocabulary.ts añade IT_V943 vía mergePacks.
+
+Stage Summary:
+- v9.43 DESPLEGADA: diccionario ×3 (57.000 lemas en 5 lenguas, packs v943 en bloques raw compactos con parse perezoso), todas las bandas CEFR A1→C1 al 100% en las 5 lenguas. PENDIENTE última milla C2: FR -7.361, PT -5.424, EN -3.148, DE -4.976, IT -2.092 → relanzar `bun scripts/v943-jobs.ts` + oleadas de subagentes + `bun scripts/v943-build.ts` + commit (el pipeline es auto-serve y los déficits se recalculan solos). OJO: el sandbox hace rollbacks selectivos — commitear tras cada oleada y verificar con git show --stat.
