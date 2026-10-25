@@ -1,0 +1,287 @@
+die Geschichtsschreibung|historiografía||S|stu|C2
+die Quellenkritik|crítica de fuentes||S|stu|C2
+die Überlieferung|transmisión (tradición)||S|let|C2
+das Geschichtsbewusstsein|conciencia histórica||S|stu|C2
+die Epochenschwelle|umbral de época||S|stu|C2
+der Historikerstreit|polémica de historiadores||S|stu|C2
+die Zeitgeschichte|historia contemporánea||S|stu|C2
+die Mentalitätsgeschichte|historia de las mentalidades||S|stu|C2
+die Geschichtsverfälschung|falsificación de la historia||S|att|C2
+die Vergangenheitsbewältigung|elaboración del pasado||S|ast|C2
+die Sprachwissenschaft|lingüística||S|stu|C2
+der Sprachwandel|cambio lingüístico||S|stu|C2
+die Lautverschiebung|desplazamiento consonántico||S|stu|C2
+das Morphem|morfema||S|stu|C2
+das Phonem|fonema||S|stu|C2
+die Wortbildung|formación de palabras||S|stu|C2
+die Etymologie|etimología||S|stu|C2
+das Lehnwort|préstamo léxico||S|stu|C2
+die Dialektologie|dialectología||S|stu|C2
+die Soziolinguistik|sociolingüística||S|stu|C2
+die Pragmatik|pragmática (lingüística)||S|stu|C2
+die Sprechakttheorie|teoría de los actos de habla||S|stu|C2
+das Korpus|corpus (lingüístico)||S|stu|C2
+die Fachsprache|lengua especializada||S|stu|C2
+das Unbewusste|el inconsciente||S|ast|C2
+die Traumdeutung|interpretación de los sueños||S|ast|C2
+die Übertragung|transferencia (psicoanálisis)||S|ast|C2
+die Gegenübertragung|contratransferencia||S|ast|C2
+die Libido|líbido||S|ast|C2
+der Triebverzicht|renuncia pulsional||S|ast|C2
+die Trauerarbeit|elaboración del duelo||S|ast|C2
+der Abwehrmechanismus|mecanismo de defensa||S|ast|C2
+die Psychoanalyse|psicoanálisis||S|ast|C2
+die Tiefenpsychologie|psicología profunda||S|ast|C2
+die Charakterstruktur|estructura caracterial||S|ast|C2
+die Machtpolitik|política de poder||S|att|C2
+der Pufferstaat|estado tapón||S|att|C2
+die Einflusssphäre|esfera de influencia||S|att|C2
+die Hegemonialmacht|potencia hegemónica||S|att|C2
+die Entspannungspolitik|política de distensión||S|att|C2
+die Vorherrschaft|hegemonía||S|att|C2
+die Aufrüstung|rearme||S|att|C2
+die Abrüstung|desarme||S|att|C2
+der Pakt|pacto||S|att|C2
+die Blockbildung|formación de bloques||S|att|C2
+der Kasus belli|casus belli||L|att|C2
+die Herrschaftslegitimation|legitimación del poder||S|att|C2
+die Staatsraison|razón de Estado||S|att|C2
+der Sozialvertrag|contrato social||S|att|C2
+die Volkssouveränität|soberanía popular||S|att|C2
+das Gewaltmonopol|monopolio de la fuerza||S|att|C2
+die Partizipation|participación ciudadana||S|att|C2
+die Zivilgesellschaft|sociedad civil||S|att|C2
+die Postdemokratie|posdemocracia||S|att|C2
+der Paternalismus|paternalismo||S|att|C2
+der Wohlfahrtsstaat|estado de bienestar||S|ist|C2
+die Sozialstruktur|estructura social||S|att|C2
+die soziale Mobilität|movilidad social||L|att|C2
+das Milieu|entorno sociocultural||S|att|C2
+die Entfremdung|alienación||S|ast|C2
+die Individualisierung|individualización||S|att|C2
+die Normierung|estandarización||S|att|C2
+die Rollenerwartung|expectativa de rol||S|att|C2
+die Anomie|anomia||S|att|C2
+die Vergesellschaftung|sociabilización||S|att|C2
+die Elitentheorie|teoría de las élites||S|att|C2
+die Ethnologie|etnología||S|stu|C2
+die Volkskunde|etnografía tradicional||S|stu|C2
+das Brauchtum|tradición popular||S|nat|C2
+der Initiationsritus|rito de iniciación||S|stu|C2
+die Kulturanthropologie|antropología cultural||S|stu|C2
+die Ethnografie|etnografía||S|stu|C2
+die Feldforschung|trabajo de campo||S|stu|C2
+der Kulturrelativismus|relativismo cultural||S|stu|C2
+der Ahnenkult|culto a los antepasados||S|stu|C2
+der Schamanismus|chamanismo||S|stu|C2
+die Recherche|documentación periodística||S|cmu|C2
+der Leitartikel|editorial (artículo de fondo)||S|cmu|C2
+der Aufmacher|apertura de portada||S|cmu|C2
+der Exklusivbericht|reportaje en exclusiva||S|cmu|C2
+die Nachrichtenlage|situación informativa||S|cmu|C2
+die Quellenlage|situación de las fuentes||S|cmu|C2
+die Enthüllung|revelación (escándalo)||S|cmu|C2
+die Berichterstattung|cobertura informativa||S|cmu|C2
+die Glosse|artículo satírico de opinión||S|cmu|C2
+die Medienlandschaft|panorama mediático||S|cmu|C2
+die Musikwissenschaft|musicología||S|mus|C2
+die Tonart|tonalidad||S|mus|C2
+die Tonleiter|escala musical||S|mus|C2
+die Synkope|síncopa||S|mus|C2
+die Dissonanz|disonancia||S|mus|C2
+das Vibrato|vibrato||S|mus|C2
+die Kadenz|cadencia musical||S|mus|C2
+der Choral|coral (himno)||S|mus|C2
+die Instrumentierung|instrumentación||S|mus|C2
+die Motette|motete||S|mus|C2
+die Restaurierung|restauración||S|art|C2
+die Museografie|museografía||S|art|C2
+der Konservator|conservador de museo||S|pro|C2
+das Depot|reserva de museo||S|art|C2
+die Provenienzforschung|investigación de procedencia||S|art|C2
+die Ausstellungsdidaktik|museografía didáctica||S|art|C2
+die Leihgabe|obra en préstamo||S|art|C2
+die Vitrine|vitrina||S|art|C2
+die Bildhauerei|escultura (arte)||S|art|C2
+der Farbauftrag|aplicación del color||S|art|C2
+die Komposition|composición artística||S|art|C2
+das Sfumato|esfumado||S|art|C2
+das Helldunkel|claroscuro||S|art|C2
+die Stilkunde|estilística (historia del estilo)||S|art|C2
+der Bildausschnitt|encuadre pictórico||S|art|C2
+das neuronale Netz|red neuronal||L|tec|C2
+das maschinelle Lernen|aprendizaje automático||L|tec|C2
+der Trainingsdatensatz|conjunto de datos de entrenamiento||S|tec|C2
+die Überanpassung|sobreajuste||S|tec|C2
+der Datenpool|depósito de datos||S|tec|C2
+die Zielgröße|variable objetivo||S|sci|C2
+die Voreingenommenheit|sesgo (prejuicio)||S|ast|C2
+die Abstraktionsfähigkeit|capacidad de abstracción||S|sci|C2
+der Entscheidungsbaum|árbol de decisión||S|tec|C2
+das Sprachmodell|modelo de lenguaje||S|tec|C2
+die Verschlüsselung|cifrado||S|tec|C2
+der Schlüsseltausch|intercambio de claves||S|tec|C2
+die Hashfunktion|función hash||S|tec|C2
+die Ende-zu-Ende-Verschlüsselung|cifrado de extremo a extremo||S|tec|C2
+der Trojaner|troyano||S|tec|C2
+die Schadsoftware|software malicioso||S|tec|C2
+die Sicherheitslücke|vulnerabilidad||S|tec|C2
+der Penetrationstest|prueba de intrusión||S|tec|C2
+das Botnetz|red de bots||S|tec|C2
+die Zwei-Faktor-Authentifizierung|autenticación de dos factores||S|tec|C2
+das Funknetz|red de telefonía móvil||S|tec|C2
+die Latenzzeit|latencia||S|tec|C2
+die Bandbreite|ancho de banda||S|tec|C2
+die Mobilfunkantenne|antena de telefonía móvil||S|tec|C2
+das Netzprotokoll|protocolo de red||S|tec|C2
+die Signallaufzeit|tiempo de propagación de la señal||S|tec|C2
+der Netzwerkknoten|nodo de red||S|tec|C2
+die Richtfunkstrecke|enlace radioeléctrico directo||S|tec|C2
+die Kernspaltung|fisión nuclear||S|sci|C2
+die Kernfusion|fusión nuclear||S|sci|C2
+der radioaktive Zerfall|desintegración radiactiva||L|sci|C2
+der Rückbau|desmantelamiento (nuclear)||S|sci|C2
+der Brennstab|barra de combustible||S|sci|C2
+der Druckwasserreaktor|reactor de agua a presión||S|sci|C2
+die Endlagerung|almacenamiento definitivo||S|sci|C2
+die Strahlenbelastung|exposición a la radiación||S|sci|C2
+die Trägerrakete|cohete portador||S|sci|C2
+das Triebwerk|motor de aeronave||S|tec|C2
+der Schub|empuje||S|sci|C2
+die Schwerelosigkeit|ingravidez||S|sci|C2
+der Wiedereintritt|reentrada atmosférica||S|sci|C2
+die Erdumlaufbahn|órbita terrestre||S|sci|C2
+der Bordcomputer|ordenador de a bordo||S|tec|C2
+die Luftfahrtindustrie|industria aeronáutica||S|pro|C2
+der Greifarm|brazo robótico||S|tec|C2
+die Bewegungssteuerung|control de movimiento||S|tec|C2
+die Sensorik|sensorística||S|tec|C2
+der Regelkreis|bucle de control||S|tec|C2
+der Automatisierungsgrad|grado de automatización||S|tec|C2
+die Montagestraße|línea de montaje||S|tec|C2
+die Ausfallrate|tasa de averías||S|tec|C2
+die Stillstandszeit|tiempo de inactividad||S|tec|C2
+die Klimatempfindlichkeit|sensibilidad climática||S|sci|C2
+die Klimamodellierung|modelización climática||S|sci|C2
+der Treibhausgasausstoß|emisión de gases de efecto invernadero||S|sci|C2
+die Klimakatastrophe|catástrofe climática||S|nat|C2
+der Meeresspiegelanstieg|subida del nivel del mar||S|sci|C2
+die Versauerung der Meere|acidificación de los océanos||L|sci|C2
+das Klimaschutzabkommen|acuerdo climático||S|sci|C2
+der Kipppunkt|punto de no retorno||S|sci|C2
+die Meeresströmung|corriente marina||S|sci|C2
+die Tiefsee|abismo marino||S|sci|C2
+der Gezeitenstrom|corriente de marea||S|sci|C2
+der Salzgehalt|salinidad||S|sci|C2
+das Plankton|plancton||S|sci|C2
+die Ozeanografie|oceanografía||S|sci|C2
+die Eisschmelze|deshielo||S|nat|C2
+der Tauchgang|inmersión (buceo)||S|sve|C2
+das Umweltaudit|auditoría ambiental||S|sci|C2
+die Umweltverträglichkeitsprüfung|evaluación de impacto ambiental||S|sci|C2
+die Eingriffsregelung|regla de intervención ambiental||S|ist|C2
+die Sanierungspflicht|obligación de descontaminar||S|ist|C2
+der Emissionshandel|comercio de emisiones||S|fin|C2
+die Kompensationsfläche|superficie de compensación||S|sci|C2
+die Sektion|autopsia||S|sla|C2
+das Präparat|preparado (muestra)||S|sla|C2
+die Zellveränderung|alteración celular||S|sla|C2
+die Bösartigkeit|malignidad||S|sla|C2
+das Karzinom|carcinoma||S|sla|C2
+die Gutartigkeit|benignidad||S|sla|C2
+die Leichenschau|inspección cadavérica||S|sla|C2
+der Pathologe|patólogo||S|pro|C2
+die Aporie|aporía||S|ast|C2
+die Tugendhaftigkeit|virtuosismo moral||S|ast|C2
+das Sakrale|lo sacro||S|ast|C2
+das Profane|lo profano||S|ast|C2
+die Sittlichkeit|eticidad||S|ast|C2
+die Willkür|arbitrariedad||S|ast|C2
+die Vergänglichkeit|carácter efímero||S|ast|C2
+das Vermächtnis|legado espiritual||S|ast|C2
+die Urteilskraft|capacidad de juicio||S|ast|C2
+die Gesinnung|disposición moral||S|ast|C2
+das Pensum|pensum (cuota de trabajo)||S|lav|C2
+die Maxime|máxima||S|ast|C2
+das Mirakel|milagro (arcaizante)||S|let|C2
+das Faktotum|hombre para todo||S|pro|C2
+die Koryphäe|corifeo (eminencia)||S|pro|C2
+das Nonplusultra|el no va más||S|ast|C2
+die Binsenweisheit|verdad de Perogrullo||S|ast|C2
+das Kuriosum|curiosidad (rareza)||S|ast|C2
+das Opus|opus (obra)||S|art|C2
+das Ohrwurm|canción pegadiza||S|mus|C2
+die Rarität|pieza rara||S|ast|C2
+der Inbegriff|encarnación, epítome||S|ast|C2
+unter vier Augen|en privado||E|cmu|C2
+Stein des Anstoßes|piedra de escándalo||L|ast|C2
+der springende Punkt|el quid de la cuestión||L|ast|C2
+ein zweischneidiges Schwert|arma de doble filo||L|ast|C2
+auf den Hund kommen|ir cuesta abajo||E|cmu|C2
+Öl ins Feuer gießen|echar leña al fuego||E|cmu|C2
+jemandem einen Bären aufbinden|dar gato por liebre||E|cmu|C2
+kalte Füße bekommen|acobardarse a última hora||E|emo|C2
+auf verlorenem Posten|en posición perdida||L|ast|C2
+über Leichen gehen|pasar por encima de todo||E|ast|C2
+die Skepsis|escepticismo||S|ast|C2
+die Ambivalenz|ambivalencia||S|ast|C2
+die Doppelbödigkeit|doble sentido||S|let|C2
+der Spott|burla (sarcasmo)||S|cmu|C2
+der Hohn|escarnio||S|cmu|C2
+die Schadenfreude|regodeo del mal ajeno||S|emo|C2
+die Andeutung|insinuación||S|cmu|C2
+das Stilmittel|recurso estilístico||S|let|C2
+die Doppeldeutigkeit|ambigüedad calculada||S|let|C2
+der Schlamassel|marrón (lío)||S|cmu|C2
+der Reinfall|fiasco||S|cmu|C2
+die Sauerei|canallada||S|cmu|C2
+das Gelaber|palique pesado||S|cmu|C2
+der Krimskrams|chatarra (baratijas)||S|cmu|C2
+das Machtwort|palabra autoritaria||S|cmu|C2
+die Schnapsidee|ocurrencia absurda||S|cmu|C2
+abzocken|timar||V|cmu|C2
+mogeln|hacer trampas||V|cmu|C2
+petzen|chivarse||V|cmu|C2
+pennen|dormir (argot)||V|cmu|C2
+das Gaudi|diversión festiva (sur de Alemania)||S|sve|C2
+die Bemme|tostada (regional)||S|ali|C2
+die Schrippe|panecillo (Berlín)||S|ali|C2
+die Kehrwoche|turno de limpieza comunitaria (suabo)||S|cas|C2
+die Vesper|merienda (regional)||S|ali|C2
+der Sonnabend|sábado (norte de Alemania)||S|tmp|C2
+die Jause|tentempié (Austria)||S|ali|C2
+das Tacheles|hablar sin rodeos||S|cmu|C2
+die Begierde|deseo (apetito)||S|emo|C2
+die Genugtuung|satisfacción (desagravio)||S|emo|C2
+die Entrüstung|indignación||S|emo|C2
+das Entsetzen|espanto||S|emo|C2
+die Verstörung|desazón||S|emo|C2
+der Kummer|pesar||S|emo|C2
+die Trostlosigkeit|desolación abatida||S|emo|C2
+die Erbitterung|rencor amargo||S|emo|C2
+die Zerknirschung|contrición||S|emo|C2
+das Entzücken|deleite||S|emo|C2
+die innere Unruhe|inquietud interior||L|emo|C2
+die Geschäftsleitung|dirección de la empresa||S|lav|C2
+der Aufsichtsrat|consejo de supervisión||S|lav|C2
+der Vorstand|junta directiva||S|lav|C2
+der Zuständigkeitsbereich|ámbito de competencias||S|lav|C2
+die Stellenbeschreibung|descripción del puesto||S|lav|C2
+die Kennzahl|indicador clave||S|lav|C2
+die Effizienzsteigerung|mejora de la eficiencia||S|lav|C2
+die Umstrukturierung|reestructuración||S|lav|C2
+die Führungskraft|directivo||S|pro|C2
+die Mitarbeiterbindung|retención de talento||S|lav|C2
+die Personalentwicklung|desarrollo de personal||S|lav|C2
+die Mitarbeitermotivation|motivación de los empleados||S|lav|C2
+die Arbeitszufriedenheit|satisfacción laboral||S|lav|C2
+die innere Kündigung|dimisión psicológica||L|lav|C2
+die Konfliktbewältigung|resolución de conflictos||S|lav|C2
+die Teamfähigkeit|capacidad de trabajo en equipo||S|lav|C2
+die Bildungspolitik|política educativa||S|ist|C2
+die Erziehungswissenschaft|ciencia de la educación||S|stu|C2
+die Lernzielkontrolle|evaluación de objetivos de aprendizaje||S|stu|C2
+die Hochbegabung|altas capacidades||S|stu|C2
+der Lehrermangel|escasez de docentes||S|stu|C2
+das Schulversagen|fracaso escolar||S|stu|C2
+die Bildungsgerechtigkeit|equidad educativa||S|stu|C2

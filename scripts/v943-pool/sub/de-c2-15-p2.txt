@@ -1,0 +1,288 @@
+die Genexpression|expresión génica||S|sci|C2
+die Sequenzierung|secuenciación||S|sci|C2
+das Allel|alelo||S|sci|C2
+der Genotyp|genotipo||S|sci|C2
+der Phänotyp|fenotipo||S|sci|C2
+die Meiose|meiosis||S|sci|C2
+die Mitose|mitosis||S|sci|C2
+die Transkription|transcripción génica||S|sci|C2
+die Translation|traducción proteica||S|sci|C2
+das Ribosom|ribosoma||S|sci|C2
+das Basenpaar|par de bases||S|sci|C2
+die Epigenetik|epigenética||S|sci|C2
+die Erbanlage|rasgo hereditario||S|sci|C2
+heterozygot|heterocigoto||A|sci|C2
+homozygot|homocigoto||A|sci|C2
+die Keimbahn|línea germinal||S|sci|C2
+die Somazelle|célula somática||S|sci|C2
+der Chromosomensatz|dotación cromosómica||S|sci|C2
+das Karyogramm|cariograma||S|sci|C2
+das Genom|genoma||S|sci|C2
+der Antikörper|anticuerpo||S|sci|C2
+das Antigen|antígeno||S|sci|C2
+die Immunität|inmunidad||S|sla|C2
+der Erreger|agente patógeno||S|sla|C2
+die Bakterienkultur|cultivo bacteriano||S|sci|C2
+die Resistenzbildung|desarrollo de resistencias||S|sci|C2
+die Sepsis|sepsis||S|sla|C2
+die Infektionskette|cadena epidemiológica||S|sla|C2
+das Krankheitsbild|cuadro clínico||S|sla|C2
+die Virulenz|virulencia||S|sci|C2
+das Neuron|neurona||S|sci|C2
+die Synapse|sinapsis||S|sci|C2
+das Axon|axón||S|sci|C2
+das Myelin|mielina||S|sci|C2
+der Kortex|corteza cerebral||S|sci|C2
+die Neuroplastizität|neuroplasticidad||S|sci|C2
+die Hirnwindung|circunvolución cerebral||S|sci|C2
+das limbische System|sistema límbico||L|sci|C2
+die Reizleitung|conducción nerviosa||S|sci|C2
+die Kognition|cognición||S|sci|C2
+die Merkfähigkeit|capacidad de retención||S|sci|C2
+die Einspeicherung|consolidación (memoria)||S|sci|C2
+das Arbeitsgedächtnis|memoria de trabajo||S|sci|C2
+die Kategorisierung|categorización||S|sci|C2
+die Sprachverarbeitung|procesamiento del lenguaje||S|sci|C2
+die Wahrnehmungsverzerrung|sesgo perceptivo||S|sci|C2
+die Verarbeitungsgeschwindigkeit|velocidad de procesamiento||S|sci|C2
+die Reaktionszeit|tiempo de reacción||S|sci|C2
+die Hirnaktivität|actividad cerebral||S|sci|C2
+elektrophysiologisch|electrofisiológico||A|sci|C2
+die Valenz|valencia (química)||S|sci|C2
+die Isomerie|isomería||S|sci|C2
+das Isotop|isótopo||S|sci|C2
+die Oxidationszahl|número de oxidación||S|sci|C2
+der Katalysator|catalizador||S|sci|C2
+die molare Masse|masa molar||L|sci|C2
+die Reaktionskinetik|cinética química||S|sci|C2
+das Lösungsmittel|disolvente||S|sci|C2
+die Titration|valoración titulométrica||S|sci|C2
+destillieren|destilar||V|sci|C2
+die Chromatografie|cromatografía||S|sci|C2
+die Retentionszeit|tiempo de retención||S|sci|C2
+die Kalibrierkurve|curva de calibración||S|sci|C2
+die Probenahme|muestreo||S|sci|C2
+das Reagenzglas|tubo de ensayo||S|sci|C2
+die Nachweisgrenze|límite de detección||S|sci|C2
+photometrisch|fotométrico||A|sci|C2
+gravimetrisch|gravimétrico||A|sci|C2
+die Leitfähigkeit|conductividad||S|sci|C2
+das Becherglas|vaso de precipitados||S|sci|C2
+die Quantenmechanik|mecánica cuántica||S|sci|C2
+die Unschärferelation|principio de incertidumbre||S|sci|C2
+die Verschränkung|entrelazamiento cuántico||S|sci|C2
+das Fermion|fermión||S|sci|C2
+das Boson|bosón||S|sci|C2
+das Quark|quark||S|sci|C2
+das Neutrino|neutrino||S|sci|C2
+der Teilchenbeschleuniger|acelerador de partículas||S|sci|C2
+die Elementarteilchenphysik|física de partículas||S|sci|C2
+die Superposition|superposición cuántica||S|sci|C2
+die Wahrscheinlichkeitsdichte|densidad de probabilidad||S|sci|C2
+quantisieren|cuantizar||V|sci|C2
+der Spin|espín||S|sci|C2
+die Wechselwirkung|interacción fundamental||S|sci|C2
+die Relativitätstheorie|teoría de la relatividad||S|sci|C2
+die Raumzeit|espacio-tiempo||S|sci|C2
+das Gravitationsfeld|campo gravitatorio||S|sci|C2
+der Welle-Teilchen-Dualismus|dualidad onda-corpúsculo||S|sci|C2
+die Fluktuation|fluctuación cuántica||S|sci|C2
+quantenphysikalisch|cuantofísico||A|sci|C2
+der Urknall|gran explosión (Big Bang)||S|sci|C2
+die Rotverschiebung|corrimiento al rojo||S|sci|C2
+der Ereignishorizont|horizonte de sucesos||S|sci|C2
+die Supernova|supernova||S|sci|C2
+der Rote Riese|gigante roja||L|sci|C2
+der Weiße Zwerg|enana blanca||L|sci|C2
+die Dunkelenergie|energía oscura||S|sci|C2
+die Dunkelmaterie|materia oscura||S|sci|C2
+die Gravitationswelle|onda gravitacional||S|sci|C2
+die Leuchtkraft|luminosidad||S|sci|C2
+die Kosmologie|cosmología||S|sci|C2
+der Sternhaufen|cúmulo estelar||S|sci|C2
+die Sternentstehung|formación estelar||S|sci|C2
+der Exoplanet|exoplaneta||S|sci|C2
+der Pulsar|púlsar||S|sci|C2
+die Radialgeschwindigkeit|velocidad radial||S|sci|C2
+die Himmelsmechanik|mecánica celeste||S|sci|C2
+spektroskopisch|espectroscópico||A|sci|C2
+die Emissionslinie|línea de emisión||S|sci|C2
+die Helligkeitsschwankung|variación de brillo||S|sci|C2
+die Genschere|tijera genética||S|sci|C2
+das Restriktionsenzym|enzima de restricción||S|sci|C2
+das Plasmid|plásmido||S|sci|C2
+die Mikroinjektion|microinyección||S|sci|C2
+die Stammzellforschung|investigación con células madre||S|sci|C2
+in vitro|in vitro||L|sci|C2
+die Bioethik|bioética||S|ast|C2
+die Gentherapie|terapia génica||S|sci|C2
+die Biosicherheit|bioseguridad||S|sci|C2
+die Stammzelllinie|línea de células madre||S|sci|C2
+die Stichprobe|muestra estadística||S|sci|C2
+die Standardabweichung|desviación típica||S|sci|C2
+der Korrelationskoeffizient|coeficiente de correlación||S|sci|C2
+die Regressionsanalyse|análisis de regresión||S|sci|C2
+die Nullhypothese|hipótesis nula||S|sci|C2
+das Konfidenzintervall|intervalo de confianza||S|sci|C2
+die Signifikanz|significación estadística||S|sci|C2
+signifikant|estadísticamente significativo||A|sci|C2
+der Störfaktor|variable de confusión||S|sci|C2
+die Repräsentativität|representatividad||S|sci|C2
+die Hochrechnung|proyección estadística||S|sci|C2
+die Messgenauigkeit|exactitud de medición||S|sci|C2
+der Messfehler|error de medición||S|sci|C2
+die Operationalisierung|operacionalización||S|sci|C2
+die Fallzahl|tamaño de la muestra||S|sci|C2
+die Zufallsstichprobe|muestra aleatoria||S|sci|C2
+die Kausalität|causalidad||S|sci|C2
+die Befragungsmethode|método de encuesta||S|sci|C2
+replizieren|replicar (un estudio)||V|sci|C2
+die Reliabilität|fiabilidad (de un instrumento)||S|sci|C2
+die Zoonose|zoonosis||S|sci|C2
+die Durchseuchung|grado de contagio en la población||S|sci|C2
+die Herdenimmunität|inmunidad de grupo||S|sci|C2
+die Infektiosität|infectividad||S|sci|C2
+die Letalität|letalidad||S|sci|C2
+die Mortalität|mortalidad||S|sci|C2
+die Morbidität|morbilidad||S|sci|C2
+die Übersterblichkeit|exceso de mortalidad||S|sci|C2
+die Meldepflicht|obligación de notificación||S|ist|C2
+die Kontaktnachverfolgung|rastreo de contactos||S|sla|C2
+der Erdkern|núcleo terrestre||S|sci|C2
+die Plattentektonik|tectónica de placas||S|sci|C2
+die Gebirgsbildung|orogénesis||S|sci|C2
+das Sedimentbecken|cuenca sedimentaria||S|sci|C2
+die Verwitterung|meteorización||S|sci|C2
+die Magmakammer|cámara magmática||S|sci|C2
+das Epizentrum|epicentro||S|sci|C2
+die Nachbeben|réplicas sísmicas||S|sci|C2
+der Tsunami|tsunami||S|nat|C2
+der Grundwasserleiter|acuífero||S|sci|C2
+die Lagerstätte|yacimiento mineral||S|sci|C2
+die Stratigrafie|estratigrafía||S|sci|C2
+die radiometrische Datierung|datación radiométrica||L|sci|C2
+die Gletscherschmelze|deshielo glaciar||S|nat|C2
+der Permafrost|permafrost||S|nat|C2
+die Erdkruste|corteza terrestre||S|sci|C2
+der Felssturz|desprendimiento de rocas||S|nat|C2
+die Hangrutschung|corrimiento de tierras||S|nat|C2
+das Erdmagnetfeld|campo geomagnético||S|sci|C2
+die Kontinentalverschiebung|deriva continental||S|sci|C2
+die Beweisführung|argumentación demostrativa||S|sci|C2
+der Lehrsatz|teorema||S|sci|C2
+das Axiom|axioma||S|sci|C2
+das Lemma|lema||S|sci|C2
+die Schlussfolgerung|inferencia||S|sci|C2
+deduktiv|deductivo||A|sci|C2
+induktiv|inductivo||A|sci|C2
+die Verknüpfung|conectiva lógica||S|sci|C2
+die Tautologie|tautología||S|sci|C2
+das Paradoxon|paradoja||S|ast|C2
+die Differentialrechnung|cálculo diferencial||S|sci|C2
+die Integralrechnung|cálculo integral||S|sci|C2
+die Stetigkeit|continuidad matemática||S|sci|C2
+die Konvergenz|convergencia||S|sci|C2
+divergent|divergente||A|sci|C2
+der Vektorraum|espacio vectorial||S|sci|C2
+die Gruppentheorie|teoría de grupos||S|sci|C2
+die Wahrscheinlichkeitstheorie|teoría de la probabilidad||S|sci|C2
+der Grenzwert|límite matemático||S|sci|C2
+das Fraktal|fractal||S|sci|C2
+die Rezeptionsästhetik|estética de la recepción||S|let|C2
+der Kanon|canon literario||S|let|C2
+die Intertextualität|intertextualidad||S|let|C2
+die Deutungshoheit|potestad interpretativa||S|let|C2
+die Werkanalyse|análisis de la obra||S|let|C2
+das Handlungsgerüst|estructura del argumento||S|let|C2
+die Erzählperspektive|perspectiva narrativa||S|let|C2
+das Leitmotiv|leitmotiv||S|let|C2
+die Figurenkonstellation|constelación de personajes||S|let|C2
+die Bedeutungsebene|nivel de significado||S|let|C2
+die Mehrdeutigkeit|ambigüedad semántica||S|let|C2
+die Konnotation|connotación||S|let|C2
+die Semantik|semántica||S|let|C2
+der Versfuß|pie métrico||S|let|C2
+das Reimschema|esquema de rimas||S|let|C2
+die Alliteration|aliteración||S|let|C2
+die Assonanz|asonancia||S|let|C2
+die Chiffre|cifra simbólica||S|let|C2
+das Sprachbild|imagen poética||S|let|C2
+die Verdichtung|condensación poética||S|let|C2
+die Anapher|anáfora (retórica)||S|let|C2
+die Klimax|clímax retórico||S|let|C2
+die Antithese|antítesis||S|let|C2
+die Hyperbel|hipérbole||S|let|C2
+die Litotes|lítote||S|let|C2
+die Ellipse|elipsis||S|let|C2
+das Oxymoron|oxímoron||S|let|C2
+die Inversion|hipérbaton||S|let|C2
+der Parallelismus|paralelismo||S|let|C2
+der Pleonasmus|pleonasmo||S|let|C2
+der Handlungsstrang|hilo argumental||S|let|C2
+der innere Monolog|monólogo interior||L|let|C2
+die Rückblende|flashback||S|cin|C2
+die Rahmenerzählung|relato marco||S|let|C2
+die erlebte Rede|estilo libre indirecto||L|let|C2
+das offene Ende|final abierto||L|let|C2
+die Dialogführung|conducción del diálogo||S|let|C2
+die Spannungskurve|curva de tensión narrativa||S|let|C2
+der Wendepunkt|punto de giro narrativo||S|let|C2
+die Auflösung|desenlace||S|let|C2
+der Abglanz|reflejo tenue||S|let|C2
+das Weh|congoja||S|let|C2
+das Zwielicht|penumbra||S|let|C2
+der Widerschein|resplandor reflejado||S|let|C2
+die Verklärung|transfiguración||S|let|C2
+die Wehmut|melancolía suave||S|emo|C2
+die Schwermut|melancolía profunda||S|emo|C2
+die Andacht|recogimiento||S|let|C2
+das Geläut|tañido de campanas||S|let|C2
+der Hain|arboleda||S|let|C2
+die Klippe|escollo||S|let|C2
+die Brandung|rompiente del mar||S|let|C2
+der Zenit|cenit||S|let|C2
+die Öde|desolación||S|let|C2
+der Abgrund|abismo||S|let|C2
+der Pfad|sendero||S|let|C2
+das Antlitz|rostro||S|let|C2
+das Gewand|vestidura||S|let|C2
+sich sehnen|anhelar||V|emo|C2
+die Woge|oleaje (poético)||S|let|C2
+die Erkenntnistheorie|epistemología||S|ast|C2
+der Erkenntnisgewinn|ganancia cognitiva||S|ast|C2
+das Ding an sich|la cosa en sí||L|ast|C2
+die Bedingung der Möglichkeit|condición de posibilidad||L|ast|C2
+das Apriori|a priori||S|ast|C2
+die Verifikation|verificación||S|ast|C2
+die Falsifikation|falsación||S|ast|C2
+fallibel|falible||A|ast|C2
+die Evidenz|evidencia apodíctica||S|ast|C2
+das Werturteil|juicio de valor||S|ast|C2
+die Deontologie|deontología||S|ast|C2
+der kategorische Imperativ|imperativo categórico||L|ast|C2
+die Tugendlehre|doctrina de la virtud||S|ast|C2
+die Willensfreiheit|libre albedrío||S|ast|C2
+die Zurechnungsfähigkeit|imputabilidad||S|ast|C2
+die Pflichtethik|ética del deber||S|ast|C2
+die Folgenabschätzung|evaluación de consecuencias||S|ast|C2
+die Gewissensnot|angustia de conciencia||S|ast|C2
+die Unparteilichkeit|imparcialidad||S|ast|C2
+maßgeblich|determinante||A|ast|C2
+die Ontologie|ontología||S|ast|C2
+das Seiende|el ente||S|ast|C2
+die Wesensbestimmung|determinación esencial||S|ast|C2
+die Endlichkeit|finitud||S|ast|C2
+die Kontingenz|contingencia||S|ast|C2
+die Immanenz|inmanencia||S|ast|C2
+die Transzendenz|trascendencia||S|ast|C2
+die Ästhetik|estética||S|art|C2
+das Erhabene|lo sublime||S|art|C2
+die Anmut|gracia||S|art|C2
+die Kunstauffassung|concepción del arte||S|art|C2
+die Formensprache|lenguaje plástico||S|art|C2
+die Bildwirkung|efecto pictórico||S|art|C2
+die Farbgebung|gama cromática||S|art|C2
+die Lichtregie|tratamiento de la luz||S|art|C2
+der Kunstdiskurs|discurso del arte||S|art|C2
+das Gesamtkunstwerk|obra de arte total||S|art|C2
+die Kunstrezeption|recepción artística||S|art|C2

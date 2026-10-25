@@ -1,0 +1,112 @@
+der Straftatbestand|tipo penal||S|ist|C1
+die Rechtsprechung|jurisprudencia||S|ist|C1
+der Erblasser|causante (testador)||S|ist|C1
+der Vergleich|transacción judicial||S|ist|C1
+verjähren|prescribir (un derecho o un delito)||V|ist|C1
+der Freispruch|absolución||S|ist|C1
+die Beweisaufnahme|práctica probatoria||S|ist|C1
+das Plädoyer|alegato final||S|ist|C1
+die Anklageschrift|escrito de acusación||S|ist|C1
+der Strafbefehl|decreto de condena (sin juicio)||S|ist|C1
+die Berufung|apelación||S|ist|C1
+die Revision|casación||S|ist|C1
+der Zeugenschutz|protección de testigos||S|ist|C1
+der Sachverständige|perito||S|pro|C1
+der Insolvenzverwalter|administrador concursal||S|pro|C1
+der Nießbrauch|usufructo||S|ist|C1
+das Vermächtnis|legado testamentario||S|ist|C1
+die Erbengemeinschaft|comunidad de herederos||S|ist|C1
+die Beurkundung|otorgamiento de escritura pública||S|ist|C1
+die Dienstbarkeit|servidumbre||S|ist|C1
+die Liegenschaft|finca registral||S|fin|C1
+der Verwaltungsakt|acto administrativo||S|ist|C1
+die Klagebefugnis|legitimación para demandar||S|ist|C1
+die Verfassungsbeschwerde|recurso de amparo||S|ist|C1
+der Schadensersatzanspruch|pretensión indemnizatoria||S|ist|C1
+die Vertragsstrafe|cláusula penal||S|ist|C1
+die Gewährleistung|garantía legal||S|ist|C1
+die Nichtigkeit|nulidad||S|ist|C1
+anfechten|impugnar||V|ist|C1
+vollstrecken|ejecutar (una sentencia)||V|ist|C1
+die Rechtsstaatlichkeit|Estado de derecho||S|ist|C1
+die Gewaltenteilung|separación de poderes||S|ist|C1
+der Grundrechtskatalog|catálogo de derechos fundamentales||S|ist|C1
+die Versammlungsfreiheit|libertad de reunión||S|ist|C1
+die Gewissensfreiheit|libertad de conciencia||S|ist|C1
+die Volkssouveränität|soberanía popular||S|ist|C1
+das Misstrauensvotum|moción de censura||S|ist|C1
+die Regierungsbildung|formación de gobierno||S|ist|C1
+der Föderalismus|federalismo||S|ist|C1
+das Völkerrecht|derecho internacional||S|ist|C1
+die Ratifikation|ratificación||S|ist|C1
+die Geheimdiplomatie|diplomacia secreta||S|ist|C1
+der Zolltarif|arancel aduanero||S|fin|C1
+die Handelsbilanz|balanza comercial||S|fin|C1
+das Freihandelsabkommen|acuerdo de libre comercio||S|fin|C1
+das Doppelbesteuerungsabkommen|convenio de doble imposición||S|fin|C1
+die Steuerhinterziehung|defraudación fiscal||S|fin|C1
+die Betriebsprüfung|inspección fiscal||S|fin|C1
+der Steuerbescheid|liquidación tributaria||S|fin|C1
+der Jahresabschluss|cuentas anuales||S|fin|C1
+die Rückstellung|provisión contable||S|fin|C1
+die Wirtschaftsprüfung|auditoría de cuentas||S|fin|C1
+der Aufsichtsrat|consejo de administración||S|fin|C1
+die Aktiengesellschaft|sociedad anónima||S|fin|C1
+die Gesellschafterversammlung|junta general de socios||S|fin|C1
+der Vorstand|consejo de dirección||S|fin|C1
+der Börsengang|salida a bolsa||S|fin|C1
+die Dividende|dividendo||S|fin|C1
+das Derivat|derivado financiero||S|fin|C1
+die Volatilität|volatilidad||S|fin|C1
+der Leitzins|tipo de interés director||S|fin|C1
+die Geldpolitik|política monetaria||S|fin|C1
+die Eigenkapitalquote|coeficiente de solvencia||S|fin|C1
+die Einlagensicherung|garantía de depósitos||S|fin|C1
+der Schuldenschnitt|quita de deuda||S|fin|C1
+die Umschuldung|reestructuración de deuda||S|fin|C1
+der Schuldenerlass|condonación de deuda||S|fin|C1
+der Versicherungsfall|siniestro||S|fin|C1
+die Deckungssumme|suma asegurada||S|fin|C1
+die Rückversicherung|reaseguro||S|fin|C1
+der Selbstbehalt|franquicia (parte a cargo del asegurado)||S|fin|C1
+die Preiselastizität|elasticidad-precio||S|fin|C1
+die Grenzkosten|coste marginal||S|fin|C1
+das Marktgleichgewicht|equilibrio de mercado||S|fin|C1
+die Marktbeherrschung|posición de dominio||S|fin|C1
+der Wohlfahrtsstaat|Estado de bienestar||S|ist|C1
+die Umverteilung|redistribución||S|fin|C1
+das Pro-Kopf-Einkommen|renta per cápita||S|fin|C1
+die Kaufkraftparität|paridad de poder adquisitivo||S|fin|C1
+das Wagniskapital|capital riesgo||S|fin|C1
+die Skalierung|escalado del negocio||S|fin|C1
+der Engpass|cuello de botella||S|lav|C1
+der Tarifvertrag|convenio colectivo||S|lav|C1
+die Kündigungsschutzklage|demanda por despido||S|lav|C1
+das Wettbewerbsverbot|pacto de no competencia||S|lav|C1
+die Schwarzarbeit|trabajo no declarado (economía sumergida)||S|lav|C1
+die Zielvereinbarung|acuerdo de objetivos||S|lav|C1
+die Stellenbeschreibung|descripción del puesto||S|lav|C1
+die Führungskraft|directivo||S|pro|C1
+die Personalentwicklung|desarrollo de personal||S|lav|C1
+die Arbeitszufriedenheit|satisfacción laboral||S|lav|C1
+die Konfliktbewältigung|gestión de conflictos||S|lav|C1
+die Fluktuation|rotación de personal||S|lav|C1
+die Prozessoptimierung|optimización de procesos||S|lav|C1
+die Aufklärungspflicht|deber de información al paciente||S|sla|C1
+der Behandlungsvertrag|contrato de asistencia sanitaria||S|sla|C1
+die Patientenverfügung|testamento vital||S|sla|C1
+die Sterbehilfe|eutanasia||S|sla|C1
+die Ethikkommission|comité de ética||S|ist|C1
+die Arzneimittelzulassung|autorización de medicamentos||S|sla|C1
+der Wirkstoff|principio activo||S|sla|C1
+die Nebenwirkung|efecto adverso||S|sla|C1
+die Placebogruppe|grupo placebo||S|sci|C1
+die Randomisierung|aleatorización||S|sci|C1
+der Proband|sujeto de ensayo clínico||S|sci|C1
+die Differenzialdiagnose|diagnóstico diferencial||S|sla|C1
+der Befund|hallazgo clínico||S|sla|C1
+die Biopsie|biopsia||S|sla|C1
+die Palliativversorgung|cuidados paliativos||S|sla|C1
+das Beatmungsgerät|respirador||S|sla|C1
+die Intensivstation|unidad de cuidados intensivos||S|sla|C1
+die Narkose|anestesia general||S|sla|C1

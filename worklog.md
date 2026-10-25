@@ -3027,3 +3027,43 @@ Work Log:
 - de-c1-13-p*.txt: 817 entradas · awk OK · dup OK
 Stage Summary:
 - de-c1-13: 817 entradas C1 alemán (Hochdeutsch) en 3 archivos (273/272/272), formato 6 campos, subtemas del job cubiertos uniformemente
+---
+Task ID: v9.43/final/de-c1-17
+Agent: subagent
+Task: lexicón DE C1 job de-c1-17
+Work Log:
+- de-c1-17-p*.txt: 223 entradas · awk OK · dup OK
+Stage Summary:
+- de-c1-17: 223 entradas C1 alemán
+---
+Task ID: v9.43/final/de-c2-18
+Agent: subagent
+Task: lexicón DE C2 job de-c2-18
+Work Log:
+- de-c2-18-p*.txt: 916 entradas (p1:306, p2:305, p3:305) · awk NF=6 OK · dup OK
+Stage Summary:
+- de-c2-18: 916 entradas C2 alemán (Hochdeutsch) DE→ES, ~174 subtemas cubiertos
+---
+Task ID: v9.43/final/de-b1-03
+Agent: subagent
+Task: lexicón DE B1 job de-b1-03 (retry)
+Work Log:
+- de-b1-03-p*.txt: 895 entradas · awk OK · dup OK
+Stage Summary:
+- de-b1-03: 895 entradas B1 alemán
+---
+Task ID: v9.43/final/de-b2-16
+Agent: subagent
+Task: lexicón DE B2 job de-b2-16
+Work Log:
+- de-b2-16-p*.txt: 811 entradas · awk OK · dup OK
+Stage Summary:
+- de-b2-16: 811 entradas B2 alemán
+---
+Task ID: v9.43/final/de-c2-15
+Agent: subagent
+Task: lexicón DE C2 job de-c2-15
+Work Log:
+- de-c2-15-p*.txt: 1150 entradas · awk OK · dup OK
+Stage Summary:
+- de-c2-15: 1150 entradas C2 alemán

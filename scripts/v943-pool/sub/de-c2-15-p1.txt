@@ -1,0 +1,288 @@
+der Nießbrauch|usufructo||S|ist|C2
+die Bürgschaft|fianza||S|ist|C2
+das Rücktrittsrecht|derecho de desistimiento||S|ist|C2
+der Vergleich|acuerdo transaccional||S|ist|C2
+das Plädoyer|alegato final||S|ist|C2
+der Freispruch|absolución||S|ist|C2
+die Bewährungsstrafe|condena en suspenso||S|ist|C2
+die Verjährung|prescripción (jurídica)||S|ist|C2
+der Erblasser|causante (herencia)||S|ist|C2
+das Pflichtteil|legítima hereditaria||S|ist|C2
+die Vollstreckung|ejecución de sentencia||S|ist|C2
+der Mahnbescheid|requerimiento de pago||S|ist|C2
+die Ladung|citación judicial||S|ist|C2
+der Zeugenschutz|protección de testigos||S|ist|C2
+der Meineid|perjurio||S|ist|C2
+die Rechtsbeugung|prevaricación||S|ist|C2
+die Urheberrechtsverletzung|infracción de derechos de autor||S|ist|C2
+die Gewaltenteilung|separación de poderes||S|ist|C2
+die Verfassungsbeschwerde|recurso de amparo||S|ist|C2
+die Gesetzesinitiative|iniciativa legislativa||S|ist|C2
+der Staatsanwalt|fiscal||S|pro|C2
+das Strafmaß|cuantía de la pena||S|ist|C2
+die Unterlassungserklärung|declaración de cese||S|ist|C2
+der Schadensersatzanspruch|derecho a indemnización||S|ist|C2
+die Nichtigkeit|nulidad||S|ist|C2
+anfechten|impugnar||V|ist|C2
+verjähren|prescribir (jurídico)||V|ist|C2
+die Erbengemeinschaft|comunidad de herederos||S|ist|C2
+der Vermächtnisnehmer|legatario||S|ist|C2
+der Treuhandvertrag|contrato fiduciario||S|ist|C2
+der Zivilprozess|proceso civil||S|ist|C2
+der Strafbefehl|orden de penalización||S|ist|C2
+die Hauptverhandlung|vista oral||S|ist|C2
+der Angeklagte|acusado||S|ist|C2
+der Zeugenstand|estrado de testigos||S|ist|C2
+die Beweisaufnahme|práctica de pruebas||S|ist|C2
+die Berufung|recurso de apelación||S|ist|C2
+die Revision|recurso de casación||S|ist|C2
+die Zwangsvollstreckung|ejecución forzosa||S|ist|C2
+der Gerichtsvollzieher|oficial judicial||S|pro|C2
+die Vertragsstrafe|cláusula penal||S|ist|C2
+die Gewährleistung|garantía legal||S|ist|C2
+die Rückabwicklung|rescisión contractual||S|ist|C2
+der Notar|notario||S|pro|C2
+die notarielle Beurkundung|fe pública notarial||L|ist|C2
+der Grundbucheintrag|inscripción registral||S|ist|C2
+die Apostille|apostilla||S|ist|C2
+der Erbschein|certificado de herederos||S|ist|C2
+die Testamentsvollstreckung|ejecución testamentaria||S|ist|C2
+das Nachlassgericht|juzgado de testamentarías||S|ist|C2
+die Grundrechte|derechos fundamentales||S|ist|C2
+der Föderalismus|federalismo||S|ist|C2
+das Ermächtigungsgesetz|ley de plenos poderes||S|ist|C2
+die Normenkontrolle|control de constitucionalidad||S|ist|C2
+der Verfassungsschutz|protección de la Constitución||S|ist|C2
+die Staatshaftung|responsabilidad patrimonial del Estado||S|ist|C2
+der Landesverrat|alta traición||S|ist|C2
+die Amnestie|amnistía||S|ist|C2
+das Begnadigungsrecht|derecho de gracia||S|ist|C2
+die Souveränität|soberanía||S|ist|C2
+die Anamnese|anamnesis (historia clínica)||S|sla|C2
+der Befund|hallazgo clínico||S|sla|C2
+die Differentialdiagnose|diagnóstico diferencial||S|sla|C2
+die Indikation|indicación terapéutica||S|sla|C2
+die Kontraindikation|contraindicación||S|sla|C2
+der Eingriff|intervención quirúrgica||S|sla|C2
+die Narkose|anestesia general||S|sla|C2
+die Intensivstation|unidad de cuidados intensivos||S|sla|C2
+das Aufnahmegespräch|entrevista de ingreso||S|sla|C2
+die Visite|ronda médica||S|sla|C2
+die Facharztweiterbildung|formación de especialista||S|sla|C2
+der Oberarzt|médico adjunto||S|pro|C2
+der Chefarzt|jefe de servicio (hospitalario)||S|pro|C2
+die Patientenkartei|historial del paciente||S|sla|C2
+der Heilungsverlauf|evolución clínica||S|sla|C2
+die Vorerkrankung|enfermedad previa||S|sla|C2
+die Folgeerkrankung|enfermedad secundaria||S|sla|C2
+die Arzneimittelwechselwirkung|interacción medicamentosa||S|sla|C2
+die Medikamenteneinnahme|toma de medicación||S|sla|C2
+die Notfallaufnahme|urgencias hospitalarias||S|sla|C2
+die Blutsenkung|velocidad de sedimentación||S|sla|C2
+das Blutbild|hemograma||S|sla|C2
+die Biopsie|biopsia||S|sla|C2
+die Gewebeprobe|muestra de tejido||S|sla|C2
+der Tastbefund|hallazgo palpatorio||S|sla|C2
+die Auskultation|auscultación||S|sla|C2
+die Perkussion|percusión (exploración)||S|sla|C2
+die Überweisung|derivación médica||S|sla|C2
+die Krankenakte|historia clínica||S|sla|C2
+der Verbandwechsel|cambio de apósito||S|sla|C2
+die Bioverfügbarkeit|biodisponibilidad||S|sci|C2
+die Dosierung|dosificación||S|sla|C2
+die Pharmakokinetik|farmacocinética||S|sci|C2
+der Wirkstoff|principio activo||S|sla|C2
+die Halbwertszeit|vida media (fármaco)||S|sci|C2
+die Applikationsform|forma de administración||S|sla|C2
+die Toleranzentwicklung|desarrollo de tolerancia||S|sla|C2
+der Placeboeffekt|efecto placebo||S|sci|C2
+die Arzneimittelzulassung|autorización de medicamentos||S|sla|C2
+die Verträglichkeit|tolerabilidad||S|sla|C2
+randomisieren|aleatorizar||V|sci|C2
+doppelblind|a doble ciego||A|sci|C2
+die Kohortenstudie|estudio de cohortes||S|sci|C2
+die Fall-Kontroll-Studie|estudio de casos y controles||S|sci|C2
+die Versuchsgruppe|grupo experimental||S|sci|C2
+die Studienleitung|dirección del ensayo||S|sci|C2
+die Ausschlusskriterien|criterios de exclusión||S|sci|C2
+der Studienarm|brazo del ensayo||S|sci|C2
+der Endpunkt|criterio de valoración||S|sci|C2
+die Metaanalyse|metaanálisis||S|sci|C2
+die Zwangsstörung|trastorno obsesivo-compulsivo||S|sla|C2
+die Schizophrenie|esquizofrenia||S|sla|C2
+der Wahn|delirio psicótico||S|sla|C2
+die Halluzination|alucinación||S|sla|C2
+die Katatonie|catatonía||S|sla|C2
+die Dissoziation|disociación||S|sla|C2
+der Narzissmus|narcisismo||S|sla|C2
+die Verdrängung|represión (psicoanálisis)||S|sla|C2
+die Psychose|psicosis||S|sla|C2
+die Neurose|neurosis||S|sla|C2
+komorbid|comórbido||A|sla|C2
+die Suizidalität|ideación suicida||S|sla|C2
+die Verhaltensstherapie|terapia de conducta||S|sla|C2
+die Traumafolgestörung|trastorno postraumático||S|sla|C2
+die Angststörung|trastorno de ansiedad||S|sla|C2
+die Persönlichkeitsstörung|trastorno de personalidad||S|sla|C2
+affektiv|afectivo||A|sla|C2
+die Affektkontrolle|control de impulsos||S|sla|C2
+die Sprachverarmung|pobreza del lenguaje||S|sla|C2
+der Realitätsverlust|pérdida del contacto con la realidad||S|sla|C2
+die Patientenverfügung|testamento vital||S|ist|C2
+die Sterbehilfe|eutanasia||S|sla|C2
+die informierte Einwilligung|consentimiento informado||L|sla|C2
+der Hirntod|muerte encefálica||S|sla|C2
+die Organspende|donación de órganos||S|sla|C2
+die Embryonenforschung|investigación con embriones||S|sci|C2
+die Menschenwürde|dignidad humana||S|ast|C2
+die Fürsorgepflicht|deber de protección||S|ist|C2
+die Schweigepflicht|secreto profesional||S|ist|C2
+die Therapiebegrenzung|limitación del esfuerzo terapéutico||S|sla|C2
+die Geldpolitik|política monetaria||S|fin|C2
+der Leitzins|tipo de interés director||S|fin|C2
+die Inflationsbekämpfung|lucha contra la inflación||S|fin|C2
+die Deflation|deflación||S|fin|C2
+die Stagflation|estanflación||S|fin|C2
+der Kaufkraftverlust|pérdida de poder adquisitivo||S|fin|C2
+die Währungsunion|unión monetaria||S|fin|C2
+die Kapitalflucht|fuga de capitales||S|fin|C2
+die Schuldenbremse|techo de gasto público||S|fin|C2
+die Haushaltskonsolidierung|consolidación fiscal||S|fin|C2
+die Konjunktur|ciclo económico||S|fin|C2
+antizyklisch|anticíclico||A|fin|C2
+der Aufschwung|recuperación económica||S|fin|C2
+die Binnenwirtschaft|economía interior||S|fin|C2
+die Geldmenge|oferta monetaria||S|fin|C2
+die Notenbank|banco central||S|fin|C2
+die Währungsreserven|reservas de divisas||S|fin|C2
+die Aufwertung|revaluación||S|fin|C2
+die Abwertung|devaluación||S|fin|C2
+die Außenhandelsbilanz|balanza comercial||S|fin|C2
+der Zolltarif|arancel aduanero||S|fin|C2
+die Ausfuhr|exportación||S|fin|C2
+die Einfuhrbeschränkung|restricción de importaciones||S|fin|C2
+das Handelshemmnis|barrera comercial||S|fin|C2
+die Subventionspolitik|política de subvenciones||S|fin|C2
+der Ausgleichszoll|derecho compensatorio||S|fin|C2
+das Handelsabkommen|acuerdo comercial||S|fin|C2
+der Binnenmarkt|mercado interior||S|fin|C2
+die Zollunion|unión aduanera||S|fin|C2
+das Ursprungszeugnis|certificado de origen||S|fin|C2
+der Zollfreibetrag|franquicia aduanera||S|fin|C2
+die Antidumpingmaßnahme|medida antidumping||S|fin|C2
+die Zollanmeldung|declaración aduanera||S|fin|C2
+der Exportüberschuss|superávit exportador||S|fin|C2
+das Leistungsbilanzdefizit|déficit por cuenta corriente||S|fin|C2
+die Rohstoffknappheit|escasez de materias primas||S|fin|C2
+der Lieferengpass|cuello de botella logístico||S|fin|C2
+die Schutzklausel|cláusula de salvaguardia||S|fin|C2
+die Meistbegünstigung|cláusula de nación más favorecida||S|fin|C2
+der Jahresabschluss|cuentas anuales||S|fin|C2
+die Buchführung|contabilidad por partida doble||S|fin|C2
+der Wirtschaftsprüfer|auditor de cuentas||S|pro|C2
+der Prüfvermerk|informe de auditoría||S|fin|C2
+die Bilanzierung|valoración contable||S|fin|C2
+die Rückstellung|provisión (contable)||S|fin|C2
+die Abschreibung|amortización||S|fin|C2
+der Firmenwert|fondo de comercio||S|fin|C2
+die Umsatzrendite|margen sobre ventas||S|fin|C2
+die Eigenkapitalquote|ratio de fondos propios||S|fin|C2
+das Fremdkapital|capital ajeno||S|fin|C2
+die Zahlungsunfähigkeit|insolvencia de pagos||S|fin|C2
+die Überschuldung|sobreendeudamiento||S|fin|C2
+der Insolvenzverwalter|administrador concursal||S|pro|C2
+der Konzernabschluss|cuentas consolidadas||S|fin|C2
+die Gewinn- und Verlustrechnung|cuenta de pérdidas y ganancias||S|fin|C2
+der Jahresüberschuss|beneficio del ejercicio||S|fin|C2
+die Wirtschaftlichkeitsprüfung|auditoría de eficiencia||S|fin|C2
+der Steuerberater|asesor fiscal||S|pro|C2
+die Betriebsprüfung|inspección fiscal||S|fin|C2
+der Terminkontrakt|contrato de futuros||S|fin|C2
+die Optionsprämie|prima de la opción||S|fin|C2
+der Leerverkauf|venta en corto||S|fin|C2
+die Kursvolatilität|volatilidad bursátil||S|fin|C2
+das Wertpapier|valor negociable||S|fin|C2
+die Rendite|rentabilidad||S|fin|C2
+die Dividende|dividendo||S|fin|C2
+der Kursgewinn|plusvalía bursátil||S|fin|C2
+die Anleihe|obligación||S|fin|C2
+die Absicherungsstrategie|estrategia de cobertura||S|fin|C2
+der Börsengang|salida a bolsa||S|fin|C2
+die Übernahme|adquisición corporativa||S|fin|C2
+die Fusion|fusión||S|fin|C2
+die Spekulationsblase|burbuja especulativa||S|fin|C2
+spekulieren|especular||V|fin|C2
+das Marktrisiko|riesgo de mercado||S|fin|C2
+die Bonität|solvencia crediticia||S|fin|C2
+das Emittentenrisiko|riesgo del emisor||S|fin|C2
+die Wertpapierleihe|préstamo de valores||S|fin|C2
+das Termingeschäft|operación a plazo||S|fin|C2
+das Schmerzensgeld|indemnización por daños y perjuicios||S|ist|C2
+die Widerklage|demanda reconvencional||S|ist|C2
+der Schiedsspruch|laudo arbitral||S|ist|C2
+die Schiedsgerichtsbarkeit|arbitraje||S|ist|C2
+die Prozesskosten|costas judiciales||S|ist|C2
+die Rechtsschutzversicherung|seguro de defensa jurídica||S|fin|C2
+der Tatbestand|hechos probados||S|ist|C2
+die Beweislast|carga de la prueba||S|ist|C2
+der Vorsatz|dolo||S|ist|C2
+die Fahrlässigkeit|negligencia||S|ist|C2
+die Unterlassung|omisión (jurídica)||S|ist|C2
+die Strafmilderung|atenuación de la pena||S|ist|C2
+die Verfahrenseinstellung|sobreseimiento||S|ist|C2
+die Haftstrafe|pena de prisión||S|ist|C2
+die Untersuchungshaft|prisión preventiva||S|ist|C2
+die Bewährungsauflage|condición de libertad condicional||S|ist|C2
+die Resozialisierung|reinserción social||S|ist|C2
+die Rückfälligkeit|reincidencia||S|ist|C2
+der Strafantrag|denuncia penal||S|ist|C2
+die Anzeige erstatten|presentar una denuncia||E|ist|C2
+der Herzkatheter|catéter cardíaco||S|sla|C2
+der Herzklappenfehler|valvulopatía||S|sla|C2
+das Herzversagen|insuficiencia cardíaca||S|sla|C2
+die Lungenembolie|embolia pulmonar||S|sla|C2
+das Lungenemphysem|enfisema pulmonar||S|sla|C2
+die Ateminsuffizienz|insuficiencia respiratoria||S|sla|C2
+der Atemstillstand|parada respiratoria||S|sla|C2
+die Beatmung|ventilación mecánica||S|sla|C2
+die Intubation|intubación||S|sla|C2
+die Reanimation|reanimación||S|sla|C2
+die Apnoe|apnea||S|sla|C2
+die Aspiration|broncoaspiración||S|sla|C2
+die Thrombose|trombosis||S|sla|C2
+die Gerinnung|coagulación||S|sla|C2
+die Bluttransfusion|transfusión de sangre||S|sla|C2
+der Laborwert|valor de laboratorio||S|sla|C2
+die Leberwerte|pruebas de función hepática||S|sla|C2
+der Kreißsaal|sala de partos||S|sla|C2
+die Frühgeburt|parto prematuro||S|sla|C2
+der Kaiserschnitt|cesárea||S|sla|C2
+die Ultraschalluntersuchung|ecografía||S|sla|C2
+die Preisniveaustabilität|estabilidad de precios||S|fin|C2
+das Inflationsziel|objetivo de inflación||S|fin|C2
+die Geldschöpfung|creación monetaria||S|fin|C2
+die Anleihenkäufe|compras de bonos||S|fin|C2
+der Kapitalmarkt|mercado de capitales||S|fin|C2
+das Zinsänderungsrisiko|riesgo de tipo de interés||S|fin|C2
+die Renditekurve|curva de rentabilidad||S|fin|C2
+die Kreditwürdigkeit|solvencia crediticia||S|fin|C2
+die Marktliquidität|liquidez de mercado||S|fin|C2
+der Tagesgeldsatz|tipo interbancario||S|fin|C2
+die Marktkapitalisierung|capitalización bursátil||S|fin|C2
+das Übernahmeangebot|oferta pública de adquisición||S|fin|C2
+der Unternehmenswert|valor de la empresa||S|fin|C2
+die Ertragskraft|capacidad de generación de beneficios||S|fin|C2
+die Dividendenrendite|rentabilidad por dividendo||S|fin|C2
+die Chartanalyse|análisis técnico gráfico||S|fin|C2
+die Berichtspflicht|obligación de información||S|fin|C2
+der Insiderhandel|tráfico de información privilegiada||S|fin|C2
+die Marktmanipulation|manipulación de mercado||S|fin|C2
+die Finanzaufsicht|supervisión financiera||S|fin|C2
+die Psychosomatik|psicosomática||S|sla|C2
+die Zwangsvorstellung|obsesión||S|sla|C2
+die Paranoia|paranoia||S|sla|C2
+der Größenwahn|megalomanía||S|sla|C2
+die Hypochondrie|hipocondría||S|sla|C2
+die Bulimie|bulimia||S|sla|C2
+die Magersucht|anorexia||S|sla|C2
+die Selbstverletzung|autolesión||S|sla|C2

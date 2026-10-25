@@ -1,0 +1,287 @@
+der Rechtsweg|vía judicial||S|ist|C2
+der Verwaltungsakt|acto administrativo||S|ist|C2
+der Widerspruchsbescheid|resolución de reposición||S|ist|C2
+die einstweilige Verfügung|medida cautelar||L|ist|C2
+der Vollstreckungsbescheid|mandamiento de ejecución||S|ist|C2
+die Klageerwiderung|contestación a la demanda||S|ist|C2
+das Versäumnisurteil|sentencia en rebeldía||S|ist|C2
+das Mahnverfahren|procedimiento monitorio||S|ist|C2
+die Urteilsbegründung|fundamentación de la sentencia||S|ist|C2
+die Kostenentscheidung|imposición de costas||S|ist|C2
+die Urkundenfälschung|falsificación de documentos||S|ist|C2
+die Beglaubigung|compulsión notarial||S|ist|C2
+die Akteneinsicht|consulta del expediente||S|ist|C2
+die Auflassung|otorgamiento notarial||S|ist|C2
+der Nachlass|masa hereditaria||S|ist|C2
+rechtskräftig|firme (resolución judicial)||A|ist|C2
+justiziabel|justiciable||A|ist|C2
+die Kriminologie|criminología||S|stu|C2
+der Serientäter|delincuente en serie||S|ist|C2
+die Spurensicherung|inspección ocular técnica||S|ist|C2
+die Rückfallquote|tasa de reincidencia||S|ist|C2
+das Völkerrecht|derecho internacional público||S|ist|C2
+das Asylrecht|derecho de asilo||S|ist|C2
+die Ratifikation|ratificación||S|ist|C2
+die Vorbehaltsklausel|cláusula de reserva||S|ist|C2
+das Gesellschaftsrecht|derecho de sociedades||S|ist|C2
+die Hauptversammlung|junta general de accionistas||S|fin|C2
+die Einlagenrückgewähr|restitución de aportaciones||S|ist|C2
+die Abspaltung|escisión societaria||S|fin|C2
+der Tarifvertrag|convenio colectivo||S|ist|C2
+der Kündigungsschutz|protección frente al despido||S|ist|C2
+die Abfindung|indemnización por despido||S|lav|C2
+die Elternzeit|permiso parental||S|lav|C2
+die Arbeitsgerichtsbarkeit|jurisdicción social||S|ist|C2
+die Steuerhinterziehung|evasión fiscal||S|fin|C2
+die Steuerfahndung|investigación tributaria||S|fin|C2
+der Freibetrag|mínimo exento||S|fin|C2
+die Selbstanzeige|regularización voluntaria||S|fin|C2
+der Progressionsvorbehalt|reserva de progresividad||S|fin|C2
+die Buchhaltung|contabilidad||S|fin|C2
+der Schuldendienst|servicio de la deuda||S|fin|C2
+der Gläubiger|acreedor||S|fin|C2
+das Ausfallrisiko|riesgo de impago||S|fin|C2
+die Risikovorsorge|dotación a insolvencias||S|fin|C2
+der Bankrott|quiebra||S|fin|C2
+die Kreditauskunft|informe de solvencia||S|fin|C2
+die Wertberichtigung|corrección valorativa||S|fin|C2
+die Unternehmensbewertung|valoración de empresas||S|fin|C2
+die Schadensregulierung|liquidación de siniestros||S|fin|C2
+der Versicherungsbeitrag|prima de seguro||S|fin|C2
+die Selbstbeteiligung|franquicia||S|fin|C2
+der Rückversicherer|reasegurador||S|pro|C2
+die Preiselastizität|elasticidad-precio||S|fin|C2
+der Grenznutzen|utilidad marginal||S|fin|C2
+die Konsumentenrente|excedente del consumidor||S|fin|C2
+die Entwicklungszusammenarbeit|cooperación al desarrollo||S|fin|C2
+die Strukturanpassung|ajuste estructural||S|fin|C2
+die Festkörperphysik|física del estado sólido||S|sci|C2
+die Kristallstruktur|estructura cristalina||S|sci|C2
+die Supraleitung|superconductividad||S|sci|C2
+die Stratosphäre|estratosfera||S|sci|C2
+der Ozonabbau|agotamiento del ozono||S|sci|C2
+die Lichtbrechung|refracción de la luz||S|sci|C2
+die Beugung|difracción||S|sci|C2
+die Entropie|entropía||S|sci|C2
+die Viskosität|viscosidad||S|sci|C2
+die Strömungslehre|mecánica de fluidos||S|sci|C2
+das Nanoteilchen|nanopartícula||S|sci|C2
+die Kohlenstoffnanoröhre|nanotubo de carbono||S|sci|C2
+die Wärmeleitfähigkeit|conductividad térmica||S|sci|C2
+die Stammesgeschichte|filogenia||S|sci|C2
+der Fossilienfund|hallazgo fósil||S|sci|C2
+die Begriffsbildung|formación de conceptos||S|stu|C2
+die Viruslast|carga viral||S|sla|C2
+die Punktmutation|mutación puntual||S|sci|C2
+die Replikation|replicación viral||S|sci|C2
+das Kapsid|cápside||S|sci|C2
+die homologe Rekombination|recombinación homóloga||L|sci|C2
+die Erbinformation|información genética||S|sci|C2
+die Magnetresonanztomografie|resonancia magnética||S|sci|C2
+das Elektroenzephalogramm|electroencefalograma||S|sci|C2
+die Bildgebung|obtención de imágenes diagnósticas||S|sci|C2
+die Schallgeschwindigkeit|velocidad del sonido||S|sci|C2
+der Resonanzkörper|caja de resonancia||S|mus|C2
+der Wärmestrom|flujo térmico||S|sci|C2
+die Fernerkundung|teledetección||S|sci|C2
+die Höhenlinie|curva de nivel||S|sci|C2
+der Jambus|yambo||S|let|C2
+der Trochäus|troqueo||S|let|C2
+die Zäsur|cesura||S|let|C2
+das Enjambement|encabalgamiento||S|let|C2
+das Bühnenbild|escenografía||S|art|C2
+die Regieanweisung|acotación escénica||S|cin|C2
+die Peripetie|peripecia||S|let|C2
+die Souffleuse|apuntadora||S|pro|C2
+der Verfremdungseffekt|efecto de distanciamiento||S|let|C2
+das Versmaß|metro poético||S|let|C2
+die Textkritik|crítica textual||S|stu|C2
+die Paläografie|paleografía||S|stu|C2
+die Übersetzungswissenschaft|traductología||S|stu|C2
+die Ausgangssprache|lengua de partida||S|stu|C2
+die Zielsprache|lengua de llegada||S|stu|C2
+die Komparatistik|literatura comparada||S|stu|C2
+der Zukunftsroman|novela de anticipación||S|let|C2
+der Essayismus|ensayismo||S|let|C2
+die Weltliteratur|literatura universal||S|let|C2
+der Kanonstreit|polémica del canon||S|let|C2
+die Demoskopie|demoscopia||S|att|C2
+die Meinungsforschung|investigación de opinión||S|att|C2
+das Meinungsklima|clima de opinión||S|att|C2
+die Friedenssicherung|mantenimiento de la paz||S|att|C2
+der Waffenstillstand|alto el fuego||S|att|C2
+die Deeskalation|desescalada||S|att|C2
+die Beitrittsverhandlung|negociación de adhesión||S|att|C2
+das Vetorecht|derecho de veto||S|ist|C2
+die Beschlussfassung|adopción de acuerdos||S|ist|C2
+die Grundsicherung|renta mínima||S|ist|C2
+die Pflegeversicherung|seguro de dependencia||S|ist|C2
+die Armutsgefährdung|riesgo de pobreza||S|ist|C2
+der zivile Ungehorsam|desobediencia civil||L|att|C2
+die Protestwelle|ola de protestas||S|att|C2
+die Skalierung|escalado||S|fin|C2
+die Bestechlichkeit|cohecho||S|ist|C2
+die Vetternwirtschaft|nepotismo||S|ist|C2
+die Rechenschaftspflicht|obligación de rendir cuentas||S|ist|C2
+der Geburtenrückgang|descenso de la natalidad||S|att|C2
+die Überalterung|envejecimiento poblacional||S|att|C2
+die Abwanderung|éxodo rural||S|att|C2
+die Diaspora|diáspora||S|att|C2
+die Markenpositionierung|posicionamiento de marca||S|fin|C2
+die Ikonologie|iconología||S|art|C2
+die Goldschmiedekunst|orfebrería||S|art|C2
+das Kunstgewerbe|artes decorativas||S|art|C2
+die Intarsie|taracea||S|art|C2
+die Belichtungszeit|tiempo de exposición||S|art|C2
+die Schärfentiefe|profundidad de campo||S|art|C2
+der Backsteinbau|arquitectura de ladrillo||S|cit|C2
+die Säulenordnung|orden arquitectónico||S|art|C2
+der Strebepfeiler|contrafuerte||S|art|C2
+die Kassettendecke|techo casetonado||S|art|C2
+der Spitzentanz|danza de puntas||S|sve|C2
+die Choreografie|coreografía||S|art|C2
+der Ausdruckstanz|danza expresiva||S|art|C2
+schätzungsweise|por estimación||D|sci|C2
+das Libretto|libreto||S|mus|C2
+die Ouvertüre|obertura||S|mus|C2
+die Koloratur|coloratura||S|mus|C2
+das Auge zudrücken|hacer la vista gorda||E|cmu|C2
+der Halbleiter|semiconductor||S|tec|C2
+der Schaltkreis|circuito integrado||S|tec|C2
+die Rechenleistung|capacidad de cómputo||S|tec|C2
+das Qualitätsmanagement|gestión de calidad||S|lav|C2
+die Datenanalyse|análisis de datos||S|tec|C2
+die Blockchain|cadena de bloques||S|fin|C2
+der Smart Contract|contrato inteligente||S|fin|C2
+die Kryptowährung|criptomoneda||S|fin|C2
+die Handelsplattform|plataforma de negociación||S|fin|C2
+die Volatilität|volatilidad||S|fin|C2
+die Geldwäsche|blanqueo de capitales||S|fin|C2
+die Iriserkennung|reconocimiento de iris||S|tec|C2
+die Stimmerkennung|reconocimiento de voz||S|tec|C2
+ad hoc|ad hoc||L|ast|C2
+das Sensornetz|red de sensores||S|tec|C2
+die Verkehrssteuerung|gestión del tráfico||S|cit|C2
+die Stadtentwicklung|desarrollo urbano||S|cit|C2
+die Immersion|inmersión (realidad virtual)||S|tec|C2
+die Spielmechanik|mecánica de juego||S|sve|C2
+der Avatar|avatar||S|tec|C2
+der Vulkanismus|vulcanismo||S|sci|C2
+die Eruptionswolke|nube eruptiva||S|sci|C2
+die Fließgewässer|aguas corrientes||S|nat|C2
+das Feuchtgebiet|humedal||S|nat|C2
+die Bodenbearbeitung|laboreo del suelo||S|nat|C2
+die Fruchtfolge|rotación de cultivos||S|nat|C2
+die Humusschicht|capa de humus||S|nat|C2
+die Massentierhaltung|ganadería intensiva||S|nat|C2
+die Überfischung|sobrepesca||S|nat|C2
+die Aquakultur|acuicultura||S|nat|C2
+der Kahlschlag|tala a matarrasa||S|nat|C2
+die Beschaffung|aprovisionamiento||S|lav|C2
+die Kreislaufwirtschaft|economía circular||S|nat|C2
+die Müllverbrennung|incineración de residuos||S|nat|C2
+die Wiederverwertung|revalorización||S|nat|C2
+die Deponie|vertedero controlado||S|nat|C2
+der Waldbrand|incendio forestal||S|nat|C2
+der Blütenstand|inflorescencia||S|nat|C2
+die Sprossachse|eje caulinar||S|nat|C2
+das Rudeltier|animal de manada||S|ani|C2
+die Balz|comportamiento de cortejo||S|ani|C2
+die Nahrungskette|cadena trófica||S|ani|C2
+das Territorialverhalten|comportamiento territorial||S|ani|C2
+die Artbestimmung|determinación de especie||S|sci|C2
+die Gleichzeitigkeit|simultaneidad||S|ast|C2
+die Erinnerungskultur|cultura de la memoria||S|ast|C2
+die Nachwirkung|repercusión posterior||S|ast|C2
+das Skalpell|bisturí||S|sla|C2
+die Wundversorgung|curación de heridas||S|sla|C2
+die Nahttechnik|técnica de sutura||S|sla|C2
+die Narbenbildung|formación de cicatrices||S|sla|C2
+die Schilddrüsenfunktion|función tiroidea||S|sla|C2
+der Blutzuckerwert|glucemia||S|sla|C2
+die Insulinresistenz|resistencia a la insulina||S|sla|C2
+die Schuppenflechte|psoriasis||S|sla|C2
+der Allergietest|prueba de alergia||S|sla|C2
+die Unwahrheit|falsedad||S|ast|C2
+die Strahlentherapie|radioterapia||S|sla|C2
+die Metastase|metástasis||S|sla|C2
+die Palliativversorgung|cuidados paliativos||S|sla|C2
+palliativ|paliativo||A|sla|C2
+invasiv|invasivo||A|sla|C2
+suggerieren|sugerir||V|cmu|C2
+der Nervenschmerz|dolor neuropático||S|sla|C2
+die Muskelatrophie|atrofia muscular||S|sla|C2
+der Krampfanfall|convulsión||S|sla|C2
+die Liquorpunktion|punción lumbar||S|sla|C2
+die Geburtskomplikation|complicación obstétrica||S|sla|C2
+das Neugeborene|recién nacido||S|sla|C2
+die Fraktur|fractura||S|sla|C2
+der Gipsverband|escayola||S|sla|C2
+die Krankengymnastik|fisioterapia||S|sla|C2
+die Achtsamkeit|atención plena||S|sla|C2
+der Impfdurchbruch|infección pese a vacunación||S|sla|C2
+das Gesundheitsamt|autoridad sanitaria||S|ist|C2
+die Tröpfcheninfektion|contagio por gotitas||S|sla|C2
+das Einvernehmen|entendimiento||S|rel|C2
+die Zuneigung|afecto||S|rel|C2
+das Zerwürfnis|desencuentro||S|rel|C2
+die Verbundenheit|identificación afectiva||S|rel|C2
+die Wanderschaft|vida de caminante||S|let|C2
+die Bergwelt|mundo de montaña||S|nat|C2
+der Starrsinn|obstinación||S|ast|C2
+die Sehnsucht|añoranza||S|emo|C2
+die Filmsprache|lenguaje cinematográfico||S|cin|C2
+das Auktionshaus|casa de subastas||S|fin|C2
+die Einstellungsgröße|escala de plano||S|cin|C2
+die Kleinfamilie|familia nuclear||S|fam|C2
+die Großfamilie|familia extensa||S|fam|C2
+die Patchworkfamilie|familia reconstituida||S|fam|C2
+die Bindungstheorie|teoría del apego||S|stu|C2
+die Rebsorte|variedad de uva||S|ris|C2
+der Weinausbau|crianza del vino||S|ris|C2
+der Säuregehalt|acidez||S|ris|C2
+die Flaschenreifung|envejecimiento en botella||S|ris|C2
+die Degustation|cata||S|ris|C2
+das Aromaprofil|perfil aromático||S|ris|C2
+die Garstufe|punto de cocción||S|ris|C2
+die Maßlosigkeit|desmesura||S|ast|C2
+die Konversation|conversación culta||S|cmu|C2
+das Geplänkel|intercambio de pullas||S|cmu|C2
+die Aussöhnung|reconciliación||S|rel|C2
+die Verstimmung|desavenencia||S|rel|C2
+die Ausdauerleistung|rendimiento de resistencia||S|spt|C2
+die Regenerationsphase|fase de recuperación||S|spt|C2
+die Hundezucht|cría canina||S|ani|C2
+die Pferdezucht|cría caballar||S|ani|C2
+die Sturmflut|marea de temporal||S|nat|C2
+die Bö|racha de viento||S|nat|C2
+ohnehin|de todos modos||D|cnn|C2
+freilich|eso sí||D|cnn|C2
+zugegebenermaßen|habría que admitirlo||D|cnn|C2
+unbestreitbar|innegable||A|cnn|C2
+mitnichten|en absoluto||D|cnn|C2
+erst recht|con mayor razón||L|cnn|C2
+der Stadtraum|espacio urbano||S|cit|C2
+die Freifläche|espacio libre||S|cit|C2
+der Klettersteig|vía ferrata||S|spt|C2
+die Seilschaft|cordada||S|spt|C2
+das Biwak|vivac||S|spt|C2
+abseilen|descender en rápel||V|spt|C2
+die Höhlenforschung|espeleología||S|spt|C2
+anmaßend|presuntuoso||A|ast|C2
+selbstgefällig|autocomplaciente||A|ast|C2
+kleinlich|mezquino||A|ast|C2
+großspurig|jactancioso||A|ast|C2
+bedenkenlos|sin escrúpulos||A|ast|C2
+rückgratlos|sin carácter||A|ast|C2
+unerschütterlich|inquebrantable||A|ast|C2
+unbeirrbar|imperturbable||A|ast|C2
+scharfsinnig|perspicaz||A|ast|C2
+geistreich|ingenioso||A|ast|C2
+widerlegen|refutar||V|cmu|C2
+konzedieren|conceder||V|cmu|C2
+abwägen|sopesar||V|cmu|C2
+differenzieren|matizar||V|cmu|C2
+untermauern|corroborar||V|cmu|C2
+per se|per se||L|ast|C2
+de facto|de facto||L|ast|C2

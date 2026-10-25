@@ -1,0 +1,111 @@
+das Genom|genoma||S|sci|C1
+die Sequenzierung|secuenciación (genética)||S|sci|C1
+die Epigenetik|epigenética||S|sci|C1
+das Allel|alelo||S|sci|C1
+die Meiose|meiosis||S|sci|C1
+die Genschere|tijera genética||S|sci|C1
+der Antikörper|anticuerpo||S|sci|C1
+die Immunsuppression|inmunosupresión||S|sci|C1
+die Autoimmunerkrankung|enfermedad autoinmunitaria||S|sla|C1
+die Virulenz|virulencia||S|sci|C1
+die Herdenimmunität|inmunidad de grupo||S|sla|C1
+die Inzidenz|incidencia (epidemiológica)||S|sci|C1
+die Prävalenz|prevalencia||S|sci|C1
+die Kohortenstudie|estudio de cohortes||S|sci|C1
+die Synapse|sinapsis||S|sci|C1
+die Neuroplastizität|neuroplasticidad||S|sci|C1
+die Chromatografie|cromatografía||S|sci|C1
+die Oxidationszahl|número de oxidación||S|sci|C1
+das Elementarteilchen|partícula elemental||S|sci|C1
+die Verschränkung|entrelazamiento cuántico||S|sci|C1
+der Teilchenbeschleuniger|acelerador de partículas||S|sci|C1
+die Gravitationswelle|onda gravitacional||S|sci|C1
+die Rotverschiebung|corrimiento al rojo||S|sci|C1
+der Ereignishorizont|horizonte de sucesos||S|sci|C1
+der Urknall|gran explosión inicial||S|sci|C1
+der Exoplanet|exoplaneta||S|sci|C1
+die Supraleitung|superconductividad||S|sci|C1
+die Entropie|entropía||S|sci|C1
+die Kernspaltung|fisión nuclear||S|sci|C1
+der Druckwasserreaktor|reactor de agua a presión||S|sci|C1
+die Trägerrakete|cohete lanzador||S|sci|C1
+die Schwerelosigkeit|ingravidez||S|sci|C1
+das neuronale Netz|red neuronal||L|tec|C1
+die Mustererkennung|reconocimiento de patrones||S|tec|C1
+der Entscheidungsbaum|árbol de decisión||S|tec|C1
+die Erzählperspektive|perspectiva narrativa||S|let|C1
+der Handlungsstrang|hilo argumental||S|let|C1
+der innere Monolog|monólogo interior||L|let|C1
+der Spannungsbogen|arco de tensión dramática||S|let|C1
+die Metonymie|metonimia||S|let|C1
+die Allegorie|alegoría||S|let|C1
+der Euphemismus|eufemismo||S|let|C1
+die Alliteration|aliteración||S|let|C1
+der Jambus|yambo||S|let|C1
+das Reimschema|esquema de rima||S|let|C1
+das Enjambement|encabalgamiento||S|let|C1
+der Chiasmus|quiasmo||S|let|C1
+die Katharsis|catarsis||S|let|C1
+die Regieanweisung|acotación||S|let|C1
+die Uraufführung|estreno absoluto||S|art|C1
+die Inszenierung|puesta en escena||S|art|C1
+das Bühnenbild|escenografía||S|art|C1
+die Novelle|novela corta||S|let|C1
+die Streitschrift|escrito polémico||S|let|C1
+der Verriss|crítica demoledora||S|let|C1
+das Morphem|morfema||S|stu|C1
+die Lautverschiebung|desplazamiento consonántico||S|stu|C1
+der Sprachwandel|cambio lingüístico||S|stu|C1
+die Textkritik|crítica textual||S|let|C1
+die Erkenntnistheorie|epistemología||S|ast|C1
+das Ding an sich|la cosa en sí||L|ast|C1
+der kategorische Imperativ|imperativo categórico||L|ast|C1
+der Utilitarismus|utilitarismo||S|ast|C1
+die Willensfreiheit|libre albedrío||S|ast|C1
+die Hermeneutik|hermenéutica||S|ast|C1
+das Erhabene|lo sublime||S|ast|C1
+die Ontologie|ontología||S|ast|C1
+der Nihilismus|nihilismo||S|ast|C1
+der Existenzialismus|existencialismo||S|ast|C1
+die Geschichtsschreibung|historiografía||S|stu|C1
+die Erinnerungskultur|cultura de la memoria||S|ast|C1
+der Zeitzeuge|testigo de su época||S|att|C1
+die Demoskopie|demoscopia||S|att|C1
+der Leitartikel|artículo de fondo||S|att|C1
+der Quellenschutz|protección de las fuentes||S|att|C1
+die Desinformation|desinformación||S|att|C1
+der Enthüllungsjournalismus|periodismo de investigación||S|att|C1
+der Wertewandel|cambio de valores||S|ast|C1
+die Entfremdung|alienación||S|ast|C1
+die Vetternwirtschaft|nepotismo (amiguismo)||S|att|C1
+die Resozialisierung|reinserción social||S|ist|C1
+die Plattentektonik|tectónica de placas||S|nat|C1
+die Magmakammer|cámara magmática||S|nat|C1
+die Gebirgsbildung|orogénesis||S|nat|C1
+der Grundwasserleiter|acuífero||S|nat|C1
+der Meeresspiegelanstieg|subida del nivel del mar||S|nat|C1
+der Permafrost|permafrost||S|nat|C1
+die Meeresströmung|corriente marina||S|nat|C1
+die Umweltverträglichkeitsprüfung|evaluación de impacto ambiental||S|ist|C1
+die Kreislaufwirtschaft|economía circular||S|fin|C1
+die Aufforstung|repoblación forestal||S|nat|C1
+die Monokultur|monocultivo||S|nat|C1
+die Fruchtfolge|rotación de cultivos||S|nat|C1
+die Wehmut|melancolía||S|emo|C1
+der Gram|pena profunda (poético)||S|let|C1
+die Wonne|gozo||S|let|C1
+die Schmach|afrenta||S|let|C1
+die Muße|ocio sereno||S|let|C1
+der Hort|refugio (poético)||S|let|C1
+das Gelübde|voto solemne||S|ast|C1
+die Gnade|clemencia||S|ast|C1
+die Arglist|astucia pérfida||S|emo|C1
+die Habsucht|avaricia||S|emo|C1
+wankelmütig|veleidoso||A|emo|C1
+schlagfertig|dotado de pronta réplica||A|cmu|C1
+hochtrabend|grandilocuente||A|cmu|C1
+wortkarg|parco en palabras||A|cmu|C1
+unter vier Augen|a solas (en privado)||L|cmu|C1
+schwarz auf weiß|por escrito||L|cmu|C1
+mithin|por consiguiente||D|cnn|C1
+gleichwohl|no obstante||D|cnn|C1

@@ -1,0 +1,271 @@
+die Kindheit|infancia||S|fam|B2
+das Kleinkind|niño de corta edad||S|fam|B2
+die Schwangerschaft|embarazo||S|fam|B2
+der Säugling|lactante||S|fam|B2
+die Geschwister|hermanos||S|fam|B2
+heranwachsen|crecer hasta la madurez||V|fam|B2
+verwitwt|viudo||A|fam|B2
+das Sorgerecht|patria potestad||S|fam|B2
+das Umgangsrecht|derecho de visitas||S|fam|B2
+der Erziehungsstil|estilo educativo||S|fam|B2
+das Taschengeld|paga semanal||S|fam|B2
+verwöhnen|mimar||V|fam|B2
+die Frechheit|descaro||S|fam|B2
+die Strafe|castigo||S|fam|B2
+die Kaution|fianza||S|cas|B2
+der Mietvertrag|contrato de alquiler||S|cas|B2
+die Nebenkosten|gastos adicionales del alquiler||S|cas|B2
+der Vermieter|casero||S|cas|B2
+kündigen|rescindir un contrato||V|cas|B2
+die Kündigungsfrist|plazo de preaviso||S|cas|B2
+einziehen|mudarse a una vivienda||V|cas|B2
+die Renovierung|reforma||S|cas|B2
+der Farbton|tono de color||S|cas|B2
+die Tapete|papel pintado||S|cas|B2
+die Bohrmaschine|taladro||S|cas|B2
+die Fliese|azulejo||S|cas|B2
+die Gardine|visillo||S|cas|B2
+streichen|pintar una pared||V|cas|B2
+die Spezialität|especialidad culinaria||S|ali|B2
+die Zutat|ingrediente||S|ali|B2
+die Speise|plato||S|ali|B2
+schmackhaft|sabroso||A|ali|B2
+die Vorspeise|entrante||S|ali|B2
+würzen|aderezar con especias||V|ali|B2
+das Gewürz|especia||S|ali|B2
+die Unverträglichkeit|intolerancia alimentaria||S|sla|B2
+vegan|vegano||A|ali|B2
+fettarm|bajo en grasa||A|ali|B2
+das Nahrungsmittel|alimento||S|ali|B2
+der Heißhunger|antojo voraz||S|ali|B2
+das Vollkornbrot|pan integral||S|ali|B2
+die Kalorienangabe|información calórica||S|ali|B2
+die Landesküche|cocina regional||S|ali|B2
+die Teigtasche|empanadilla||S|ali|B2
+der Safran|azafrán||S|ali|B2
+der Kreuzkümmel|comino||S|ali|B2
+die Gewürznelke|clavo de olor||S|ali|B2
+die Sojasoße|salsa de soja||S|ali|B2
+das Püree|puré||S|ali|B2
+der Rotwein|vino tinto||S|ali|B2
+die Weinprobe|cata de vinos||S|ali|B2
+das Weingut|bodega vitícola||S|ali|B2
+der Weinkenner|experto en vinos||S|ali|B2
+der Kaffeesatz|poso del café||S|ali|B2
+der Nachgeschmack|regusto||S|ali|B2
+die Röstung|tostado||S|ali|B2
+die Zielgruppe|público objetivo||S|cmp|B2
+das Sonderangebot|oferta especial||S|cmp|B2
+der Werbespot|anuncio publicitario||S|cmp|B2
+die Kaufsucht|adicción a las compras||S|cmp|B2
+die Rabattschlacht|guerra de descuentos||S|cmp|B2
+das Konsumverhalten|comportamiento de consumo||S|cmp|B2
+werben|hacer publicidad||V|cmp|B2
+die Rückgabe|devolución||S|cmp|B2
+der Kassenzettel|tique de compra||S|cmp|B2
+die Garantiezeit|período de garantía||S|cmp|B2
+die Reklamation|reclamación||S|cmp|B2
+der Umtausch|cambio de un artículo||S|cmp|B2
+mangelhaft|defectuoso||A|cmp|B2
+das Widerrufsrecht|derecho de desistimiento||S|cmp|B2
+die Beschwerde|queja formal||S|cmp|B2
+der Onlinehandel|comercio electrónico||S|cmp|B2
+die Sendungsverfolgung|seguimiento del envío||S|cmp|B2
+die Lieferzeit|plazo de entrega||S|cmp|B2
+der Gutschein|vale de compra||S|cmp|B2
+die Kundenbewertung|valoración de los clientes||S|cmp|B2
+der Warenkorb|cesta de la compra||S|cmp|B2
+die Bestellung|pedido||S|cmp|B2
+die Geschwindigkeitsbegrenzung|límite de velocidad||S|tra|B2
+der Blitzer|radar de velocidad||S|tra|B2
+die Panne|avería||S|tra|B2
+der Abschleppdienst|servicio de grúa||S|tra|B2
+der Bußgeldbescheid|multa||S|tra|B2
+überholen|adelantar||V|tra|B2
+die Werkstatt|taller||S|tra|B2
+die Mobilitätswende|transición de la movilidad||S|tra|B2
+das Elektroauto|coche eléctrico||S|tra|B2
+der Nahverkehr|transporte de cercanías||S|tra|B2
+das Carsharing|coche compartido||S|tra|B2
+die Umweltzone|zona de bajas emisiones||S|tra|B2
+der Fahrkartenautomat|máquina expendedora de billetes||S|tra|B2
+klimafreundlich|respetuoso con el clima||A|tra|B2
+die Dienstreise|viaje de negocios||S|lav|B2
+der Spesenbericht|informe de gastos||S|lav|B2
+das Reisegepäck|equipaje de viaje||S|vig|B2
+die Verspätung|retraso||S|vig|B2
+der Zwischenstopp|escala intermedia||S|vig|B2
+die Umbuchung|cambio de reserva||S|vig|B2
+stranden|quedarse tirado en el viaje||V|vig|B2
+der Grenzübergang|paso fronterizo||S|vig|B2
+das Visum|visado||S|vig|B2
+die Grenzkontrolle|control fronterizo||S|vig|B2
+der Zoll|aduana||S|vig|B2
+die Aufenthaltserlaubnis|permiso de residencia||S|vig|B2
+verzollen|declarar en la aduana||V|vig|B2
+die Einreisebestimmung|normativa de entrada||S|vig|B2
+die Hotelkategorie|categoría hotelera||S|htl|B2
+das Einzelzimmer|habitación individual||S|htl|B2
+die Halbpension|media pensión||S|htl|B2
+die Verpflegung|régimen de comidas||S|htl|B2
+die Gästebewertung|valoración de los huéspedes||S|htl|B2
+das Ferienhaus|casa de vacaciones||S|htl|B2
+die Sternebewertung|clasificación por estrellas||S|htl|B2
+die Vorsorgeuntersuchung|chequeo preventivo||S|sla|B2
+die Impfung|vacunación||S|sla|B2
+der Impfausweis|cartilla de vacunación||S|sla|B2
+das Gesundheitsbewusstsein|conciencia sobre la salud||S|sla|B2
+die Krebsfrüherkennung|detección precoz del cáncer||S|sla|B2
+vorbeugen|prevenir||V|sla|B2
+die Lebenserwartung|esperanza de vida||S|sla|B2
+der Bewegungsmangel|falta de ejercicio||S|sla|B2
+die Krankenkasse|seguro médico público||S|sla|B2
+die Zuzahlung|copago||S|sla|B2
+die Überweisung|remisión al especialista||S|sla|B2
+der Facharzt|médico especialista||S|sla|B2
+der Notfall|urgencia médica||S|sla|B2
+die Krankenversicherung|seguro de enfermedad||S|sla|B2
+das Wartezimmer|sala de espera||S|sla|B2
+das Wohlbefinden|bienestar||S|sla|B2
+der Burnout|agotamiento profesional||S|sla|B2
+die Entspannungstechnik|técnica de relajación||S|sla|B2
+die Achtsamkeit|atención plena||S|sla|B2
+die Atmung|respiración||S|sla|B2
+abschalten|desconectar mentalmente||V|sla|B2
+der Heilpraktiker|terapeuta de medicina alternativa||S|pro|B2
+das Selbstbewusstsein|seguridad en sí mismo||S|emo|B2
+die Bewerbung|solicitud de empleo||S|lav|B2
+der Lebenslauf|currículum||S|lav|B2
+das Anschreiben|carta de presentación||S|lav|B2
+das Zeugnis|certificado de notas o laboral||S|lav|B2
+die Berufserfahrung|experiencia laboral||S|lav|B2
+der Quereinsteiger|profesional reconvertido||S|lav|B2
+der Nebenjob|trabajo extra||S|lav|B2
+das Vorstellungsgespräch|entrevista de trabajo||S|lav|B2
+die Personalabteilung|departamento de personal||S|lav|B2
+die Probezeit|período de prueba||S|lav|B2
+der Arbeitsvertrag|contrato de trabajo||S|lav|B2
+der Einstellungstest|prueba de selección||S|lav|B2
+das Arbeitszeugnis|carta de recomendación laboral||S|lav|B2
+einstellen|contratar personal||V|lav|B2
+das Gehalt|sueldo||S|lav|B2
+die Beförderung|ascenso||S|lav|B2
+die Gehaltserhöhung|subida de sueldo||S|lav|B2
+die Kündigung|despido||S|lav|B2
+die Abfindung|indemnización por despido||S|lav|B2
+der Betriebsrat|comité de empresa||S|lav|B2
+der Vorgesetzte|superior jerárquico||S|lav|B2
+entlassen|despedir a un empleado||V|lav|B2
+die Führungskraft|directivo||S|lav|B2
+die Besprechung|reunión de trabajo||S|lav|B2
+das Protokoll|acta de reunión||S|lav|B2
+die Tagesordnung|orden del día||S|lav|B2
+die Arbeitsatmosphäre|ambiente de trabajo||S|lav|B2
+der Konsens|consenso||S|lav|B2
+vertagen|aplazar una decisión||V|lav|B2
+einberufen|convocar una reunión||V|lav|B2
+die Gewerkschaft|sindicato||S|lav|B2
+der Streik|huelga||S|lav|B2
+der Tarifvertrag|convenio colectivo||S|lav|B2
+die Tarifrunde|ronda de negociación colectiva||S|lav|B2
+der Arbeitsschutz|prevención de riesgos laborales||S|lav|B2
+die Mitbestimmung|participación de los trabajadores||S|lav|B2
+bestreiken|ir a la huelga en una empresa||V|lav|B2
+die Abschlussprüfung|examen final||S|stu|B2
+die Zulassung|admisión||S|stu|B2
+das Kolloquium|coloquio||S|stu|B2
+die Zwischenprüfung|examen intermedio||S|stu|B2
+das Sprachzertifikat|certificado de idiomas||S|stu|B2
+bestehen|aprobar un examen||V|stu|B2
+durchfallen|suspender un examen||V|stu|B2
+das Stipendium|beca||S|stu|B2
+die Studiengebühr|tasas universitarias||S|stu|B2
+die Seminararbeit|trabajo de seminario||S|stu|B2
+der Erstsemester|estudiante de primer curso||S|stu|B2
+die Immatrikulation|matriculación||S|stu|B2
+das Wohnheim|residencia de estudiantes||S|stu|B2
+der Hörsaal|aula magistral||S|stu|B2
+der Lernstoff|materia de estudio||S|stu|B2
+das Auswendiglernen|aprendizaje memorístico||S|stu|B2
+die Lerngruppe|grupo de estudio||S|stu|B2
+der Lerntyp|tipo de aprendiz||S|stu|B2
+wiederholen|repasar||V|stu|B2
+das Stichwort|palabra clave||S|stu|B2
+der Lernfortschritt|progreso en el aprendizaje||S|stu|B2
+der Leerstand|viviendas vacías||S|cit|B2
+die Gentrifizierung|gentrificación||S|cit|B2
+das Stadtviertel|barrio||S|cit|B2
+die Fußgängerzone|zona peatonal||S|cit|B2
+der Verkehrslärm|ruido del tráfico||S|cit|B2
+der Randbezirk|distrito periférico||S|cit|B2
+die Citymaut|peaje urbano||S|cit|B2
+das Bürgeramt|oficina de atención al ciudadano||S|ist|B2
+das Standesamt|registro civil||S|ist|B2
+die Mülltrennung|separación de residuos||S|cit|B2
+das Bürgerbegehren|iniciativa ciudadana||S|ist|B2
+die Wasserversorgung|suministro de agua||S|cit|B2
+das Einwohnermeldeamt|oficina de empadronamiento||S|ist|B2
+das Jugendamt|servicio de protección de menores||S|ist|B2
+der Klimawandel|cambio climático||S|cli|B2
+die Überschwemmung|inundación||S|cli|B2
+der Waldbrand|incendio forestal||S|cli|B2
+die Dürre|sequía||S|cli|B2
+der Orkan|huracán||S|cli|B2
+das Hochwasser|crecida||S|cli|B2
+der Starkregen|lluvia torrencial||S|cli|B2
+der Klimaschutz|protección del clima||S|cli|B2
+das Kleidungsstück|prenda de vestir||S|rop|B2
+die Naht|costura||S|rop|B2
+die Passform|ajuste de la prenda||S|rop|B2
+der Secondhandladen|tienda de segunda mano||S|rop|B2
+die Modeschau|desfile de moda||S|rop|B2
+der Saum|dobladillo||S|rop|B2
+die Modebranche|sector de la moda||S|rop|B2
+sich umziehen|cambiarse de ropa||V|rop|B2
+der Bildschirm|pantalla||S|tec|B2
+der Benutzername|nombre de usuario||S|tec|B2
+die Datenschutzrichtlinie|política de privacidad||S|tec|B2
+das Profilbild|foto de perfil||S|tec|B2
+posten|publicar contenido||V|tec|B2
+die Internetverbindung|conexión a internet||S|tec|B2
+die Bildschirmzeit|tiempo de pantalla||S|tec|B2
+der Cyberangriff|ciberataque||S|tec|B2
+der Datenmissbrauch|uso indebido de datos||S|tec|B2
+der Passwortdiebstahl|robo de contraseñas||S|tec|B2
+die Verschlüsselung|cifrado||S|tec|B2
+die Schadsoftware|software malicioso||S|tec|B2
+der Identitätsdiebstahl|robo de identidad||S|tec|B2
+die Sicherheitslücke|vulnerabilidad de seguridad||S|tec|B2
+der Quelltext|código fuente||S|tec|B2
+der Programmierer|programador||S|tec|B2
+die Programmiersprache|lenguaje de programación||S|tec|B2
+die Fehlermeldung|mensaje de error||S|tec|B2
+die Anwendung|aplicación informática||S|tec|B2
+das Betriebssystem|sistema operativo||S|tec|B2
+die Benutzeroberfläche|interfaz de usuario||S|tec|B2
+der Befehl|comando||S|tec|B2
+der Wettkampf|competición||S|spt|B2
+der Titelverteidiger|defensor del título||S|spt|B2
+der Profisport|deporte profesional||S|spt|B2
+das Trainingslager|concentración de entrenamiento||S|spt|B2
+der Rekordhalter|plusmarquista||S|spt|B2
+die Niederlage|derrota||S|spt|B2
+der Schiedsrichter|árbitro||S|spt|B2
+der Pokal|copa de campeón||S|spt|B2
+der Muskelkater|agujetas||S|sla|B2
+die Sehnenentzündung|tendinitis||S|sla|B2
+der Bänderriss|rotura de ligamentos||S|sla|B2
+die Prellung|contusión||S|sla|B2
+dehnen|estirar los músculos||V|sla|B2
+die Sportverletzung|lesión deportiva||S|sla|B2
+der Gips|escayola||S|sla|B2
+das Schienbein|espinilla||S|cor|B2
+die Tonart|tonalidad||S|mus|B2
+der Takt|compás||S|mus|B2
+die Tonleiter|escala musical||S|mus|B2
+das Notenblatt|hoja de partitura||S|mus|B2
+die Zugabe|bis en un concierto||S|mus|B2
+der Chor|coro||S|mus|B2
+die Bühne|escenario||S|mus|B2
+die Klangfarbe|timbre musical||S|mus|B2
+der Dirigent|director de orquesta||S|pro|B2

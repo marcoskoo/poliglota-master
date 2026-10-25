@@ -1,0 +1,298 @@
+die Vorsorge|prevención||S|sla|B1
+die Vorsorgeuntersuchung|chequeo preventivo||S|sla|B1
+der Facharzt|médico especialista||S|sla|B1
+die Überweisung|deriva (médica)||S|sla|B1
+die Praxis|consulta médica||S|sla|B1
+der Termin|cita||S|sla|B1
+die Krankenkasse|seguro médico público||S|sla|B1
+die Krankenversicherung|seguro de enfermedad||S|sla|B1
+die Zuzahlung|copago||S|sla|B1
+das Wartezimmer|sala de espera||S|sla|B1
+das Krankenhaus|hospital||S|sla|B1
+die Notaufnahme|urgencias||S|sla|B1
+der Rettungswagen|ambulancia||S|sla|B1
+der Notruf|número de emergencia||S|sla|B1
+die Apotheke|farmacia||S|sla|B1
+das Medikament|medicamento||S|sla|B1
+die Tablette|pastilla||S|sla|B1
+das Pflaster|tirita||S|sla|B1
+der Verband|vendaje||S|sla|B1
+verbinden|vendar||V|sla|B1
+die Wunde|herida||S|sla|B1
+die Prellung|contusión||S|sla|B1
+die Schwellung|hinchazón||S|sla|B1
+die Blutung|hemorragia||S|sla|B1
+die Narbe|cicatriz||S|sla|B1
+die Reha|rehabilitación||S|sla|B1
+der Notfall|emergencia||S|sla|B1
+das Schmerzmittel|analgésico||S|sla|B1
+die Nebenwirkung|efecto secundario||S|sla|B1
+der Impfpass|cartilla de vacunación||S|sla|B1
+die Organspende|donación de órganos||S|sla|B1
+die Blutspende|donación de sangre||S|sla|B1
+das Wohlbefinden|bienestar||S|sla|B1
+die Entspannung|relajación||S|sla|B1
+sich entspannen|relajarse||V|sla|B1
+die Meditation|meditación||S|sla|B1
+die Atemübung|ejercicio de respiración||S|sla|B1
+der Burnout|agotamiento laboral||S|sla|B1
+der Dauerstress|estrés constante||S|sla|B1
+der Ausgleich|equilibrio||S|sla|B1
+die Bewegung|actividad física||S|sla|B1
+der Blutzucker|azúcar en sangre||S|sla|B1
+abnehmen|adelgazar||V|sla|B1
+zunehmen|engordar||V|sla|B1
+das Übergewicht|sobrepeso||S|sla|B1
+das Körpergewicht|peso corporal||S|sla|B1
+der Schlaf|sueño||S|sla|B1
+die Schlafstörung|trastorno del sueño||S|sla|B1
+die Müdigkeit|cansancio||S|sla|B1
+das Nickerchen|cabeceada||S|sla|B1
+aufwachen|despertarse||V|sla|B1
+die Erholung|descanso||S|sla|B1
+ausgeruht|descansado||A|sla|B1
+das Fitnessstudio|gimnasio||S|spt|B1
+das Krafttraining|entrenamiento de fuerza||S|spt|B1
+das Ausdauertraining|entrenamiento de resistencia||S|spt|B1
+die Dehnübung|estiramiento||S|spt|B1
+der Muskelkater|agujetas||S|spt|B1
+der Wettkampf|competición||S|spt|B1
+die Meisterschaft|campeonato||S|spt|B1
+die Weltmeisterschaft|mundial||S|spt|B1
+der Rekord|récord||S|spt|B1
+der Weltrekord|récord mundial||S|spt|B1
+die Medaille|medalla||S|spt|B1
+das Turnier|torneo||S|spt|B1
+die Tabelle|clasificación||S|spt|B1
+das Finale|final||S|spt|B1
+der Fan|aficionado||S|spt|B1
+der Profi|profesional||S|spt|B1
+der Amateur|amateur||S|spt|B1
+der Bänderriss|rotura de ligamentos||S|sla|B1
+der Krampf|calambre||S|sla|B1
+die Zerrung|distensión muscular||S|sla|B1
+die Sportverletzung|lesión deportiva||S|sla|B1
+die Physiotherapie|fisioterapia||S|sla|B1
+das Aufwärmen|calentamiento||S|spt|B1
+aufwärmen|calentar||V|spt|B1
+der Sportverein|club deportivo||S|spt|B1
+der Verein|asociación||S|spt|B1
+die Mitgliedschaft|afiliación||S|spt|B1
+der Mitgliedsbeitrag|cuota de socio||S|spt|B1
+die Stellenanzeige|anuncio de empleo||S|lav|B1
+die Bewerbung|solicitud de empleo||S|lav|B1
+bewerben|solicitar un puesto||V|lav|B1
+der Lebenslauf|currículum||S|lav|B1
+das Anschreiben|carta de motivación||S|lav|B1
+das Zeugnis|certificado||S|lav|B1
+das Arbeitszeugnis|carta de recomendación||S|lav|B1
+die Referenz|referencia||S|lav|B1
+die Stellensuche|búsqueda de empleo||S|lav|B1
+die Qualifikation|cualificación||S|lav|B1
+qualifiziert|cualificado||A|lav|B1
+die Fachkraft|profesional cualificado||S|lav|B1
+der Fachkräftemangel|escasez de personal cualificado||S|lav|B1
+der Berufseinstieg|incorporación al mercado laboral||S|lav|B1
+das Vorstellungsgespräch|entrevista de trabajo||S|lav|B1
+der Bruttolohn|salario bruto||S|lav|B1
+der Nettolohn|salario neto||S|lav|B1
+der Tarifvertrag|convenio colectivo||S|lav|B1
+die Probezeit|periodo de prueba||S|lav|B1
+der Aufstieg|ascenso||S|lav|B1
+die Beförderung|ascenso||S|lav|B1
+die Kündigungsfrist|plazo de preaviso||S|lav|B1
+entlassen|despedir||V|lav|B1
+die Entlassung|despido||S|lav|B1
+der Betriebsrat|comité de empresa||S|lav|B1
+die Gewerkschaft|sindicato||S|lav|B1
+der Streik|huelga||S|lav|B1
+streiken|hacer huelga||V|lav|B1
+die Arbeitsbedingungen|condiciones de trabajo||S|lav|B1
+die Überstunden|horas extra||S|lav|B1
+das Homeoffice|teletrabajo||S|lav|B1
+die Bildschirmarbeit|trabajo ante pantalla||S|lav|B1
+die Gleitzeit|horario flexible||S|lav|B1
+die Elternzeit|permiso parental||S|lav|B1
+die Teilzeit|media jornada||S|lav|B1
+die Vollzeit|jornada completa||S|lav|B1
+der Nebenjob|trabajo extra||S|lav|B1
+die Besprechung|reunión||S|lav|B1
+die Tagesordnung|orden del día||S|lav|B1
+der Beschluss|acuerdo adoptado||S|lav|B1
+das Protokoll|acta||S|lav|B1
+die Aufgabenverteilung|reparto de tareas||S|lav|B1
+die Zusammenarbeit|colaboración||S|lav|B1
+der Teamgeist|espíritu de equipo||S|lav|B1
+die Dienstreise|viaje de negocios||S|lav|B1
+der Arbeitsplatz|puesto de trabajo||S|lav|B1
+die Einarbeitung|adaptación al puesto||S|lav|B1
+sich einarbeiten|incorporarse al puesto||V|lav|B1
+die Klausur|examen escrito||S|stu|B1
+die Abschlussprüfung|examen final||S|stu|B1
+die mündliche Prüfung|examen oral||S|stu|B1
+das Seminar|seminario||S|stu|B1
+das Studium|estudios universitarios||S|stu|B1
+der Studiengang|carrera universitaria||S|stu|B1
+der Master|máster||S|stu|B1
+das Staatsexamen|examen estatal||S|stu|B1
+die Immatrikulation|matriculación||S|stu|B1
+das Stipendium|beca||S|stu|B1
+die Fachhochschule|universidad de ciencias aplicadas||S|stu|B1
+die Hausarbeit|trabajo escrito||S|stu|B1
+das Referat|exposición oral||S|stu|B1
+die Mitschrift|apuntes||S|stu|B1
+das Vorlesungsverzeichnis|guía de cursos||S|stu|B1
+die Zulassung|admisión||S|stu|B1
+der Leistungsdruck|presión por el rendimiento||S|stu|B1
+die Lernstrategie|estrategia de aprendizaje||S|stu|B1
+der Lernstoff|materia de estudio||S|stu|B1
+die Karteikarte|ficha de estudio||S|stu|B1
+die Wiederholung|repaso||S|stu|B1
+zusammenfassen|resumir||V|stu|B1
+die Zusammenfassung|resumen||S|let|B1
+markieren|subrayar||V|stu|B1
+der Marker|rotulador fluorescente||S|stu|B1
+auswendig lernen|aprender de memoria||E|stu|B1
+der Austausch|intercambio||S|stu|B1
+der Austauschschüler|estudiante de intercambio||S|stu|B1
+das Auslandssemester|semestre en el extranjero||S|stu|B1
+die Auslandserfahrung|experiencia en el extranjero||S|stu|B1
+die Anerkennung|reconocimiento de créditos||S|stu|B1
+der Leistungsnachweis|crédito académico||S|stu|B1
+die Volkshochschule|escuela de adultos||S|stu|B1
+der Neubau|obra nueva||S|cit|B1
+der Altbau|edificio antiguo||S|cit|B1
+die Sanierung|rehabilitación urbana||S|cit|B1
+sanieren|rehabilitar||V|cit|B1
+die Baustelle|obra||S|cit|B1
+die Lärmbelästigung|molestia por ruido||S|cit|B1
+die Mülltonne|contenedor de basura||S|cit|B1
+die Mülltrennung|separación de residuos||S|cit|B1
+das Rathaus|ayuntamiento||S|ist|B1
+das Einwohnermeldeamt|oficina de empadronamiento||S|ist|B1
+die Bürgerberatung|atención al ciudadano||S|ist|B1
+die Einbürgerung|nacionalización||S|ist|B1
+der Aufenthaltstitel|permiso de estancia||S|ist|B1
+die Ausländerbehörde|oficina de extranjería||S|ist|B1
+die Behörde|administración pública||S|ist|B1
+der Ausweis|documento de identidad||S|ist|B1
+die Geburtsurkunde|certificado de nacimiento||S|ist|B1
+die Stadtbibliothek|biblioteca municipal||S|cit|B1
+der Klimawandel|cambio climático||S|cli|B1
+der Klimaschutz|protección del clima||S|cli|B1
+die Dürre|sequía||S|cli|B1
+der Waldbrand|incendio forestal||S|cli|B1
+der Orkan|huracán||S|cli|B1
+der Hagel|granizo||S|cli|B1
+der Sturm|borrasca||S|cli|B1
+die Sturmflut|marea de tormenta||S|cli|B1
+der Steinschlag|caída de piedras||S|cli|B1
+der Erdrutsch|corrimiento de tierras||S|cli|B1
+der Dammbruch|rotura de presa||S|cli|B1
+das Hochwasser|inundación||S|cli|B1
+die Lawine|alud||S|cli|B1
+der Tsunami|tsunami||S|cli|B1
+die Unwetterwarnung|alerta por mal tiempo||S|cli|B1
+die Wettervorhersage|previsión del tiempo||S|cli|B1
+das Gewitter|tormenta con rayos||S|cli|B1
+der Regenbogen|arcoíris||S|cli|B1
+bewölkt|nublado||A|cli|B1
+der Luftdruck|presión atmosférica||S|cli|B1
+die Luftfeuchtigkeit|humedad del aire||S|cli|B1
+das Thermometer|termómetro||S|cli|B1
+das soziale Netzwerk|red social||S|tec|B1
+der Beitrag|publicación||S|tec|B1
+posten|publicar en redes||V|tec|B1
+liken|dar a me gusta||V|tec|B1
+der Follower|seguidor||S|tec|B1
+der Influencer|influencer||S|tec|B1
+der Kommentar|comentario||S|cmu|B1
+kommentieren|comentar||V|cmu|B1
+das Profil|perfil||S|tec|B1
+die Privatsphäre|privacidad||S|tec|B1
+der Datenschutz|protección de datos||S|tec|B1
+die Datenschutzerklärung|política de privacidad||S|tec|B1
+die Datenpanne|filtración de datos||S|tec|B1
+das Passwort|contraseña||S|tec|B1
+der Benutzername|nombre de usuario||S|tec|B1
+der Trojaner|troyano||S|tec|B1
+der Hacker|hacker||S|tec|B1
+der Betrug|estafa||S|ist|B1
+der Betrüger|estafador||S|ist|B1
+programmieren|programar||V|tec|B1
+die Programmiersprache|lenguaje de programación||S|tec|B1
+der Quelltext|código fuente||S|tec|B1
+die Fehlermeldung|mensaje de error||S|tec|B1
+der Algorithmus|algoritmo||S|tec|B1
+die künstliche Intelligenz|inteligencia artificial||S|tec|B1
+der Nutzer|usuario||S|tec|B1
+der Bildschirm|pantalla||S|tec|B1
+herunterladen|descargar||V|tec|B1
+hochladen|subir un archivo||V|tec|B1
+die Cloud|nube||S|tec|B1
+das Update|actualización||S|tec|B1
+aktualisieren|actualizar||V|tec|B1
+die App|aplicación móvil||S|tec|B1
+der Flugmodus|modo avión||S|tec|B1
+der Akku|batería||S|tec|B1
+aufladen|cargar la batería||V|tec|B1
+die Benachrichtigung|notificación||S|tec|B1
+benachrichtigen|notificar||V|tec|B1
+der Rhythmus|ritmo||S|mus|B1
+die Melodie|melodía||S|mus|B1
+der Refrain|estribillo||S|mus|B1
+das Solo|solo musical||S|mus|B1
+die Band|banda||S|mus|B1
+der Auftritt|actuación||S|mus|B1
+die Bühne|escenario||S|mus|B1
+der Gitarrist|guitarrista||S|pro|B1
+das Schlagzeug|batería (instrumento)||S|mus|B1
+der Schlagzeuger|baterista||S|pro|B1
+die Geige|violín||S|mus|B1
+das Cello|violonchelo||S|mus|B1
+die Klarinette|clarinete||S|mus|B1
+die Querflöte|flauta travesera||S|mus|B1
+das Saxophon|saxofón||S|mus|B1
+die Orgel|órgano||S|mus|B1
+die Harfe|arpa||S|mus|B1
+der Chor|coro||S|mus|B1
+der Anwalt|abogado||S|pro|B1
+der Richter|juez||S|pro|B1
+der Staatsanwalt|fiscal||S|pro|B1
+der Notar|notario||S|pro|B1
+der Ingenieur|ingeniero||S|pro|B1
+der Architekt|arquitecto||S|pro|B1
+der Elektriker|electricista||S|pro|B1
+der Installateur|fontanero||S|pro|B1
+der Schreiner|carpintero||S|pro|B1
+der Konditor|pastelero||S|pro|B1
+der Friseur|peluquero||S|pro|B1
+der Optiker|óptico||S|pro|B1
+der Zahnarzt|dentista||S|pro|B1
+die Krankenschwester|enfermera||S|pro|B1
+der Pfleger|cuidador||S|pro|B1
+die Erzieherin|educadora infantil||S|pro|B1
+der Grundschullehrer|maestro de primaria||S|pro|B1
+der Dozent|docente||S|pro|B1
+der Journalist|periodista||S|pro|B1
+der Fotograf|fotógrafo||S|pro|B1
+der Moderator|presentador||S|pro|B1
+der Schriftsteller|escritor||S|pro|B1
+die Schlagzeile|titular||S|att|B1
+die Meldung|noticia||S|att|B1
+die Berichterstattung|cobertura informativa||S|att|B1
+die Umfrage|encuesta||S|att|B1
+die Wirtschaft|economía||S|att|B1
+das Wirtschaftswachstum|crecimiento económico||S|att|B1
+die Inflation|inflación||S|att|B1
+die Rezession|recesión||S|att|B1
+die Arbeitslosenquote|tasa de paro||S|att|B1
+der Mindestlohn|salario mínimo||S|att|B1
+die Kaufkraft|poder adquisitivo||S|att|B1
+die Staatsverschuldung|deuda pública||S|att|B1
+der Haushalt|presupuesto público||S|att|B1
+die Konjunktur|coyuntura||S|att|B1
+die Krise|crisis||S|att|B1
+der Fortschritt|progreso||S|att|B1
+die Globalisierung|globalización||S|att|B1
+die Nachfrage|demanda||S|att|B1

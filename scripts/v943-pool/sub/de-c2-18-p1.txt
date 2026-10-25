@@ -1,0 +1,306 @@
+der Nießbrauch|usufructo||S|ist|C2
+der Pflichtteil|legítima (derecho hereditario)||S|ist|C2
+die Sittenwidrigkeit|contrariedad a las buenas costumbres||S|ist|C2
+die Anfechtung|impugnación (de un contrato)||S|ist|C2
+die Gewährleistung|garantía legal||S|ist|C2
+die Vertragsstrafe|cláusula penal||S|ist|C2
+der Freispruch|absolución||S|ist|C2
+das Plädoyer|alegato final||S|ist|C2
+die Beweislast|carga de la prueba||S|ist|C2
+der Kronzeuge|testigo coronado||S|ist|C2
+das Versäumnisurteil|sentencia en rebeldía||S|ist|C2
+die Zwangsvollstreckung|ejecución forzosa||S|ist|C2
+die Verfassungsbeschwerde|recurso de amparo||S|ist|C2
+die Gewaltenteilung|separación de poderes||S|ist|C2
+der Fraktionszwang|disciplina de grupo parlamentario||S|ist|C2
+die Gesetzesinitiative|iniciativa legislativa||S|ist|C2
+die Rechtsverordnung|reglamento||S|ist|C2
+der Grundrechtseingriff|restricción de derechos fundamentales||S|ist|C2
+die Anamnese|anamnesis||S|sla|C2
+der Befund|hallazgo clínico||S|sla|C2
+die Differentialdiagnose|diagnóstico diferencial||S|sla|C2
+die Auskultation|auscultación||S|sla|C2
+die Intubation|intubación||S|sla|C2
+der Kreislaufstillstand|parada cardiaca||S|sla|C2
+der Wirkstoff|principio activo||S|sla|C2
+die Bioverfügbarkeit|biodisponibilidad||S|sci|C2
+die Halbwertszeit|vida media (de un fármaco)||S|sci|C2
+die Kontraindikation|contraindicación||S|sla|C2
+die Randomisierung|aleatorización||S|sci|C2
+das Nebenwirkungsprofil|perfil de efectos adversos||S|sla|C2
+die Wahnvorstellung|idea delirante||S|sla|C2
+die Katatonie|catatonía||S|sla|C2
+die Somatisierung|somatización||S|sla|C2
+die Anhedonie|anhedonia||S|sla|C2
+die Suizidalität|riesgo suicida||S|sla|C2
+die Zwangseinweisung|internamiento involuntario||S|sla|C2
+die Sterbehilfe|eutanasia||S|sla|C2
+die Patientenverfügung|testamento vital||S|sla|C2
+der Hirntod|muerte encefálica||S|sla|C2
+die Organentnahme|extracción de órganos||S|sla|C2
+die Menschenwürde|dignidad humana||S|ast|C2
+die Einwilligungsfähigkeit|capacidad de consentir||S|sla|C2
+der Leitzins|tipo de interés director||S|fin|C2
+die Stagflation|estanflación||S|fin|C2
+das Offenmarktgeschäft|operación de mercado abierto||S|fin|C2
+die Zahlungsbilanz|balanza de pagos||S|fin|C2
+die Schuldenbremse|freno al endeudamiento público||S|fin|C2
+die Neuverschuldung|nuevo endeudamiento||S|fin|C2
+der Zolltarif|arancel aduanero||S|fin|C2
+die Einfuhrbeschränkung|restricción a la importación||S|fin|C2
+das Handelshemmnis|barrera comercial||S|fin|C2
+der Ausgleichszoll|arancel compensatorio||S|fin|C2
+das Ursprungszeugnis|certificado de origen||S|fin|C2
+der Exportüberschuss|superávit exportador||S|fin|C2
+der Jahresabschluss|cuentas anuales||S|fin|C2
+der Konzernabschluss|cuentas consolidadas||S|fin|C2
+der Bestätigungsvermerk|informe de auditoría||S|fin|C2
+die Rückstellung|provisión (contable)||S|fin|C2
+der Börsengang|salida a bolsa||S|fin|C2
+die Hauptversammlung|junta general de accionistas||S|fin|C2
+das Derivat|derivado financiero||S|fin|C2
+der Basiswert|activo subyacente||S|fin|C2
+der Leerverkauf|venta en corto||S|fin|C2
+die Volatilität|volatilidad||S|fin|C2
+die Marktkapitalisierung|capitalización bursátil||S|fin|C2
+der Schuldenschnitt|quita de deuda||S|fin|C2
+die Meiose|meiosis||S|sci|C2
+das Allel|alelo||S|sci|C2
+die Transkription|transcripción genética||S|sci|C2
+das Ribosom|ribosoma||S|sci|C2
+die Keimbahn|línea germinal||S|sci|C2
+die Epigenetik|epigenética||S|sci|C2
+das Antigen|antígeno||S|sci|C2
+der Antikörper|anticuerpo||S|sci|C2
+der Erreger|agente patógeno||S|sci|C2
+die Resistenzentwicklung|desarrollo de resistencias||S|sci|C2
+der Abstrich|frotis||S|sla|C2
+die Bakterienkultur|cultivo bacteriano||S|sci|C2
+die Synapse|sinapsis||S|sci|C2
+das Axon|axón||S|sci|C2
+der Neurotransmitter|neurotransmisor||S|sci|C2
+die Hirnrinde|corteza cerebral||S|sci|C2
+die Bluthirnschranke|barrera hematoencefálica||S|sci|C2
+die Plastizität|plasticidad sináptica||S|sci|C2
+der Kohlenwasserstoff|hidrocarburo||S|sci|C2
+die Carbonylgruppe|grupo carbonilo||S|sci|C2
+die Titration|valoración (análisis químico)||S|sci|C2
+das Edelgas|gas noble||S|sci|C2
+die Stereochemie|estereoquímica||S|sci|C2
+die Löslichkeit|solubilidad||S|sci|C2
+die Verschränkung|entrelazamiento cuántico||S|sci|C2
+die Unschärferelation|principio de indeterminación||S|sci|C2
+die Wellenfunktion|función de onda||S|sci|C2
+der Tunneleffekt|efecto túnel||S|sci|C2
+das Neutrino|neutrino||S|sci|C2
+der Teilchenbeschleuniger|acelerador de partículas||S|sci|C2
+der Urknall|gran explosión inicial||S|sci|C2
+der Ereignishorizont|horizonte de sucesos||S|sci|C2
+die Rotverschiebung|desplazamiento al rojo||S|sci|C2
+die Gravitationswelle|onda gravitacional||S|sci|C2
+der Quasar|cuásar||S|sci|C2
+die dunkle Materie|materia oscura||S|sci|C2
+das Klonen|clonación||S|sci|C2
+die Genschere|tijeras genéticas||S|sci|C2
+die Stammzellforschung|investigación con células madre||S|sci|C2
+der Bioreaktor|biorreactor||S|sci|C2
+die Gentechnik|ingeniería genética||S|sci|C2
+die Keimzelle|célula germinal||S|sci|C2
+die Standardabweichung|desviación típica||S|sci|C2
+der Korrelationskoeffizient|coeficiente de correlación||S|sci|C2
+das Konfidenzintervall|intervalo de confianza||S|sci|C2
+die Stichprobengröße|tamaño muestral||S|sci|C2
+der Schätzfehler|error de estimación||S|sci|C2
+die Regressionsanalyse|análisis de regresión||S|sci|C2
+die Inzidenz|incidencia (epidemiológica)||S|sla|C2
+die Prävalenz|prevalencia||S|sla|C2
+das Ausbruchsgeschehen|brote epidémico||S|sla|C2
+die Kontaktverfolgung|rastreo de contactos||S|sla|C2
+die Durchseuchung|proporción de población infectada||S|sla|C2
+die Meldepflicht|obligación de declaración||S|sla|C2
+die Plattentektonik|tectónica de placas||S|sci|C2
+die Seismik|sísmica||S|sci|C2
+die Magmakammer|cámara magmática||S|sci|C2
+die Verwitterung|meteorización||S|sci|C2
+das Sedimentbecken|cuenca sedimentaria||S|sci|C2
+die Gebirgsbildung|orogénesis||S|sci|C2
+der Widerspruchsbeweis|demostración por reducción al absurdo||S|sci|C2
+die Knotentheorie|teoría de nudos||S|sci|C2
+der Eigenvektor|vector propio||S|sci|C2
+die Differentialrechnung|cálculo diferencial||S|sci|C2
+die Integralrechnung|cálculo integral||S|sci|C2
+das Axiomensystem|sistema axiomático||S|sci|C2
+die Erzählhaltung|postura narrativa||S|let|C2
+die Rahmenhandlung|trama marco||S|let|C2
+die Rezeptionsästhetik|estética de la recepción||S|let|C2
+das Bedeutungsspektrum|espectro semántico||S|let|C2
+die Textsorte|clase de texto||S|let|C2
+die Deutungshoheit|autoridad interpretativa||S|let|C2
+die Alliteration|aliteración||S|let|C2
+das Chiasmus|quiasmo||S|let|C2
+die Anapher|anáfora (retórica)||S|let|C2
+die Hyperbel|hipérbole||S|let|C2
+der Hexameter|hexámetro||S|let|C2
+der Jambus|yambo||S|let|C2
+der auktoriale Erzähler|narrador omnisciente||S|let|C2
+die Fokalisierung|focalización||S|let|C2
+die Erzählzeit|tiempo del relato||S|let|C2
+die erzählte Zeit|tiempo de la historia||S|let|C2
+das offene Ende|final abierto||S|let|C2
+der unzuverlässige Erzähler|narrador no fiable||S|let|C2
+das Weh|pena honda||S|let|C2
+die Waldeinsamkeit|soledad del bosque||S|let|C2
+der Abglanz|reflejo apagado||S|let|C2
+die Bleibe|morada||S|let|C2
+die Wonne|gozo||S|let|C2
+die Wehmut|melancolía suave||S|let|C2
+das Erkenntnisinteresse|interés cognoscitivo||S|ast|C2
+der Szientismus|cientificismo||S|ast|C2
+die Willensfreiheit|libre albedrío||S|ast|C2
+der kategorische Imperativ|imperativo categórico||S|ast|C2
+die Pflichtethik|ética del deber||S|ast|C2
+der Nihilismus|nihilismo||S|ast|C2
+das Sein|el ser||S|ast|C2
+das Dasein|existencia||S|ast|C2
+das Ding an sich|la cosa en sí||L|ast|C2
+die Negativität|negatividad||S|ast|C2
+das Erhabene|lo sublime||S|ast|C2
+die Urteilskraft|facultad de juzgar||S|ast|C2
+die Geschichtsschreibung|historiografía||S|ast|C2
+der Quellenwert|valor de la fuente||S|ast|C2
+der Zeitzeuge|testigo de la historia||S|ast|C2
+die Erinnerungskultur|cultura de la memoria||S|ast|C2
+die Periodisierung|periodización||S|ast|C2
+die Nachwirkung|repercusión posterior||S|ast|C2
+die Lautverschiebung|desplazamiento consonántico||S|let|C2
+das Morphem|morfema||S|let|C2
+die Konnotation|connotación||S|let|C2
+der Fachwortschatz|léxico especializado||S|let|C2
+die Etymologie|etimología||S|let|C2
+die Palatalisierung|palatalización||S|let|C2
+die Übertragung|transferencia (psicoanalítica)||S|sla|C2
+die Gegenübertragung|contratransferencia||S|sla|C2
+das Unbewusste|el inconsciente||S|sla|C2
+die Verdrängung|represión (psicoanalítica)||S|sla|C2
+die Sublimierung|sublimación||S|sla|C2
+die Kulturindustrie|industria cultural||S|ast|C2
+die Pufferzone|zona de amortiguación||S|att|C2
+die Einflusssphäre|esfera de influencia||S|att|C2
+das Machtvakuum|vacío de poder||S|att|C2
+die Friedensmission|misión de paz||S|att|C2
+das Verhandlungsmandat|mandato negociador||S|att|C2
+der Gewaltverzicht|renuncia al uso de la fuerza||S|att|C2
+die Herrschaftsform|forma de gobierno||S|ist|C2
+der Sozialstaat|Estado de bienestar||S|ist|C2
+die Politikberatung|asesoría política||S|ist|C2
+die Regulierungsbehörde|autoridad reguladora||S|ist|C2
+der Grundsatzbeschluss|decisión de principio||S|ist|C2
+die Mitbestimmung|codeterminación laboral||S|lav|C2
+die Individualisierung|individualización||S|ast|C2
+das Milieu|entorno social||S|ast|C2
+die Umwälzung|transformación radical||S|ast|C2
+die Entwurzelung|desarraigo||S|ast|C2
+der Wertewandel|cambio de valores||S|ast|C2
+die Überalterung|envejecimiento de la población||S|ast|C2
+die Ethnologie|etnología||S|ast|C2
+die Feldforschung|trabajo de campo||S|ast|C2
+die Volkskunde|estudio del folclore||S|ast|C2
+die Kulturanthropologie|antropología cultural||S|ast|C2
+der Schamanismus|chamanismo||S|ast|C2
+die Mündlichkeit|oralidad||S|ast|C2
+die Recherche|labor de documentación||S|cmu|C2
+der Leitartikel|editorial (periódico)||S|cmu|C2
+der Exklusivbericht|reportaje en exclusiva||S|cmu|C2
+die Vertrauensperson|fuente de confianza||S|cmu|C2
+die Gegendarstellung|derecho de réplica||S|cmu|C2
+die Pressefreiheit|libertad de prensa||S|cmu|C2
+die Tonart|tonalidad||S|mus|C2
+die Dissonanz|disonancia||S|mus|C2
+das Leitmotiv|motivo conductor||S|mus|C2
+der Kontrapunkt|contrapunto||S|mus|C2
+die Kadenz|cadencia||S|mus|C2
+der Generalbass|bajo continuo||S|mus|C2
+die Restaurierung|restauración (de obras)||S|art|C2
+die Provenienz|procedencia (de una obra)||S|art|C2
+das Museumsdepot|depósito de museo||S|art|C2
+die Dauerausstellung|exposición permanente||S|art|C2
+der Ausstellungskatalog|catálogo de exposición||S|art|C2
+das Kunstgutachten|informe pericial de arte||S|art|C2
+die Abbildlichkeit|carácter figurativo||S|art|C2
+die Avantgarde|vanguardia||S|art|C2
+die Ikonologie|iconología||S|art|C2
+die Formensprache|lenguaje formal||S|art|C2
+das Gesamtkunstwerk|obra de arte total||S|art|C2
+die Authentizität|autenticidad||S|art|C2
+das neuronale Netz|red neuronal||S|tec|C2
+die Trainingsdaten|datos de entrenamiento||S|tec|C2
+die Mustererkennung|reconocimiento de patrones||S|tec|C2
+die Überanpassung|sobreajuste||S|tec|C2
+der Entscheidungsbaum|árbol de decisión||S|tec|C2
+die Datenqualität|calidad de los datos||S|tec|C2
+die Verschlüsselung|cifrado||S|tec|C2
+der Schlüsselaustausch|intercambio de claves||S|tec|C2
+die Ende-zu-Ende-Verschlüsselung|cifrado de extremo a extremo||S|tec|C2
+die Schadsoftware|software malicioso||S|tec|C2
+der Penetrationstest|prueba de intrusión||S|tec|C2
+die Datenausspähung|espionaje de datos||S|tec|C2
+das Mobilfunknetz|red móvil||S|tec|C2
+die Latenzzeit|tiempo de latencia||S|tec|C2
+der Datenverkehr|tráfico de datos||S|tec|C2
+der Netzknoten|nodo de red||S|tec|C2
+die Funkzelle|celda (de telefonía)||S|tec|C2
+der Breitbandausbau|despliegue de banda ancha||S|tec|C2
+die Kernspaltung|fisión nuclear||S|sci|C2
+der Brennstab|barra de combustible||S|sci|C2
+das Containment|contención (nuclear)||S|sci|C2
+die Endlagerung|almacenamiento definitivo de residuos||S|sci|C2
+die Grundlast|carga base||S|sci|C2
+die Regelenergie|energía de regulación||S|sci|C2
+die Tragfläche|ala (de aeronave)||S|tec|C2
+der Schub|empuje||S|tec|C2
+die Landefähre|módulo de aterrizaje||S|tec|C2
+die Trägerrakete|cohete portador||S|tec|C2
+der Orbitalflug|vuelo orbital||S|tec|C2
+die Schwerelosigkeit|ingravidez||S|sci|C2
+der Roboterarm|brazo robótico||S|tec|C2
+die Mensch-Maschine-Schnittstelle|interfaz persona-máquina||S|tec|C2
+die Handhabungstechnik|tecnología de manipulación||S|tec|C2
+der Greifer|pinza (de robot)||S|tec|C2
+die Umrüstung|reconversión de instalaciones||S|tec|C2
+die Sensorik|técnica de sensores||S|tec|C2
+das Klimamodell|modelo climático||S|sci|C2
+die Rückkopplung|retroalimentación (climática)||S|sci|C2
+der Eisbohrkern|testigo de hielo||S|sci|C2
+der Permafrost|permafrost||S|sci|C2
+die Versauerung|acidificación (de los océanos)||S|sci|C2
+der Strahlungsantrieb|forzamiento radiativo||S|sci|C2
+die Meeresströmung|corriente marina||S|nat|C2
+das Plankton|plancton||S|nat|C2
+der Schelf|plataforma continental||S|nat|C2
+die Salinität|salinidad||S|sci|C2
+die Ozeanographie|oceanografía||S|sci|C2
+das Seebeben|maremoto||S|nat|C2
+die Umweltverträglichkeitsprüfung|evaluación de impacto ambiental||S|ist|C2
+die Sanierungspflicht|obligación de remediar||S|ist|C2
+der Emissionshandel|comercio de emisiones||S|ist|C2
+der Flächenverbrauch|consumo de suelo||S|nat|C2
+die Nachhaltigkeitsstrategie|estrategia de sostenibilidad||S|ist|C2
+der Artenschutz|protección de especies||S|nat|C2
+das Adenom|adenoma||S|sla|C2
+das Karzinom|carcinoma||S|sla|C2
+die Nekrose|necrosis||S|sla|C2
+die Metastase|metástasis||S|sla|C2
+der Knorpel|cartílago||S|cor|C2
+das Bindegewebe|tejido conjuntivo||S|cor|C2
+die Paradoxie|paradoja||S|ast|C2
+das Apriori|a priori||S|ast|C2
+die Tugend|virtud||S|ast|C2
+die Seinsvergessenheit|olvido del ser||S|ast|C2
+die Grundlegung|fundamentación||S|ast|C2
+die Unverfügbarkeit|carácter inasible||S|ast|C2
+das Ethos|ethos||S|ast|C2
+die Aporie|aporía||S|ast|C2
+der Dilettant|diletante||S|ast|C2
+die Peripetie|peripecia||S|let|C2
+der Habitus|habitus||S|ast|C2
+das Refugium|refugio||S|ast|C2

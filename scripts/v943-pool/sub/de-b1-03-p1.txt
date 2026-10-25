@@ -1,0 +1,299 @@
+die Kindheit|infancia||S|fam|B1
+das Kleinkind|niño de corta edad||S|fam|B1
+die Schwangerschaft|embarazo||S|fam|B1
+die Geburt|parto||S|fam|B1
+die Erziehung|crianza||S|fam|B1
+die Geschwister|hermanos||S|fam|B1
+der Zwilling|gemelo||S|fam|B1
+das Einzelkind|hijo único||S|fam|B1
+die Schwiegermutter|suegra||S|fam|B1
+der Schwiegersohn|yerno||S|fam|B1
+die Nichte|sobrina||S|fam|B1
+der Neffe|sobrino||S|fam|B1
+der Cousin|primo||S|fam|B1
+die Verwandtschaft|parientes||S|fam|B1
+der Stammbaum|árbol genealógico||S|fam|B1
+die Taufe|bautizo||S|fam|B1
+die Kindertagesstätte|guardería infantil||S|fam|B1
+die Pubertät|pubertad||S|fam|B1
+der Teenager|adolescente||S|fam|B1
+das Erwachsenenalter|edad adulta||S|fam|B1
+verwitwet|viudo||A|fam|B1
+die Ehefrau|esposa||S|fam|B1
+heiraten|casarse||V|fam|B1
+die Scheidung|divorcio||S|fam|B1
+der Familienstreit|discusión familiar||S|fam|B1
+erziehen|educar||V|fam|B1
+das Verbot|prohibición||S|fam|B1
+die Strafe|castigo||S|fam|B1
+verwöhnen|mimar||V|fam|B1
+die Betreuung|cuidado de niños||S|fam|B1
+die Patchworkfamilie|familia reconstituida||S|fam|B1
+die Gastfamilie|familia de acogida||S|fam|B1
+die Verlobung|compromiso de boda||S|fam|B1
+sich verloben|prometerse||V|fam|B1
+die Hochzeit|boda||S|fam|B1
+das Brautpaar|pareja de novios||S|fam|B1
+die Braut|novia||S|fam|B1
+der Bräutigam|novio||S|fam|B1
+die Trauung|ceremonia nupcial||S|fam|B1
+der Polterabend|despedida de soltería alemana||S|fam|B1
+der Hochzeitstag|aniversario de boda||S|fam|B1
+der Kinderwunsch|deseo de tener hijos||S|fam|B1
+die Generation|generación||S|fam|B1
+die Kindheitserinnerung|recuerdo de infancia||S|fam|B1
+der Zeitzeuge|testigo de una época||S|fam|B1
+der Umzug|mudanza||S|cas|B1
+umziehen|mudarse||V|cas|B1
+die Wohnungssuche|búsqueda de piso||S|cas|B1
+der Vermieter|casero||S|cas|B1
+der Mieter|inquilino||S|cas|B1
+die Miete|alquiler||S|cas|B1
+die Kaution|fianza||S|cas|B1
+der Mietvertrag|contrato de alquiler||S|cas|B1
+die Nebenkosten|gastos de comunidad||S|cas|B1
+kündigen|rescindir el contrato||V|cas|B1
+die Kaltmiete|alquiler sin gastos||S|cas|B1
+die Warmmiete|alquiler con gastos incluidos||S|cas|B1
+die Wohngemeinschaft|piso compartido||S|cas|B1
+der Mitbewohner|compañero de piso||S|cas|B1
+möbliert|amueblado||A|cas|B1
+der Flur|pasillo||S|cas|B1
+der Abstellraum|trastero||S|cas|B1
+der Keller|sótano||S|cas|B1
+der Dachboden|desván||S|cas|B1
+die Terrasse|terraza||S|cas|B1
+der Gartenzaun|valla del jardín||S|cas|B1
+das Gartentor|puerta del jardín||S|cas|B1
+der Quadratmeter|metro cuadrado||S|cas|B1
+die Zimmerpflanze|planta de interior||S|cas|B1
+der Teppich|alfombra||S|cas|B1
+die Dekoration|decoración||S|cas|B1
+der Vorhang|cortina||S|cas|B1
+der Sessel|butaca||S|cas|B1
+der Hocker|taburete||S|cas|B1
+der Einbauschrank|armario empotrado||S|cas|B1
+die Kommode|cómoda||S|cas|B1
+der Nachttisch|mesilla de noche||S|cas|B1
+die Matratze|colchón||S|cas|B1
+die Bettwäsche|ropa de cama||S|cas|B1
+das Kopfkissen|almohada||S|cas|B1
+die Stehlampe|lámpara de pie||S|cas|B1
+die Tischlampe|lámpara de mesa||S|cas|B1
+das Bücherregal|librería||S|cas|B1
+die Vase|jarrón||S|cas|B1
+der Bilderrahmen|marco de fotos||S|cas|B1
+die Tapete|papel pintado||S|cas|B1
+streichen|pintar paredes||V|cas|B1
+die Wandfarbe|color de pared||S|cas|B1
+die Renovierung|reforma||S|cas|B1
+renovieren|reformar||V|cas|B1
+die Fliese|azulejo||S|cas|B1
+der Parkettboden|suelo de parqué||S|cas|B1
+das Laminat|suelo laminado||S|cas|B1
+der Wasserhahn|grifo||S|cas|B1
+der Abfluss|desagüe||S|cas|B1
+verstopft|atascado||A|cas|B1
+die Duschkabine|cabina de ducha||S|cas|B1
+die Badewanne|bañera||S|cas|B1
+die Steckdose|enchufe||S|cas|B1
+die Glühbirne|bombilla||S|cas|B1
+die Sicherung|fusible||S|cas|B1
+der Heizkörper|radiador||S|cas|B1
+die Heizung|calefacción||S|cas|B1
+das Möbelstück|mueble||S|cas|B1
+der Wecker|despertador||S|cas|B1
+das Treppenhaus|escalera del edificio||S|cas|B1
+die Hausverwaltung|administración de fincas||S|cas|B1
+der Hausbesitzer|propietario de la vivienda||S|cas|B1
+die Eigentümerversammlung|junta de propietarios||S|cas|B1
+die Hausordnung|normas de convivencia||S|cas|B1
+die Einbauküche|cocina equipada||S|cas|B1
+die Ruhezeit|horario de descanso||S|cas|B1
+die Nachbarschaft|vecindario||S|cas|B1
+der Nachbar|vecino||S|cas|B1
+der Immobilienmarkt|mercado inmobiliario||S|fin|B1
+die Immobilie|inmueble||S|fin|B1
+der Hauskauf|compra de vivienda||S|cas|B1
+der Makler|agente inmobiliario||S|pro|B1
+die Maklergebühr|honorarios de la agencia||S|fin|B1
+das Eigenheim|vivienda en propiedad||S|cas|B1
+der Wohnungsmarkt|mercado de alquiler||S|cas|B1
+die Spezialität|especialidad||S|ali|B1
+die Zutat|ingrediente||S|ali|B1
+das Rezept|receta||S|ali|B1
+die Speisekarte|carta||S|ris|B1
+das Gericht|plato||S|ris|B1
+die Vorspeise|entrante||S|ris|B1
+die Nachspeise|postre||S|ris|B1
+das Hauptgericht|plato principal||S|ris|B1
+die Beilage|guarnición||S|ris|B1
+die Portion|ración||S|ris|B1
+die Mahlzeit|comida||S|ali|B1
+das Vollkornbrot|pan integral||S|ali|B1
+der Streichkäse|queso untable||S|ali|B1
+das Müsli|muesli||S|ali|B1
+die Haferflocken|copos de avena||S|ali|B1
+das Gewürz|especia||S|ali|B1
+der Pfeffer|pimienta||S|ali|B1
+der Zimt|canela||S|ali|B1
+der Koriander|cilantro||S|ali|B1
+der Ahornsirup|sirope de arce||S|ali|B1
+die Diät|dieta||S|ali|B1
+die Ernährung|alimentación||S|ali|B1
+die Unverträglichkeit|intolerancia||S|ali|B1
+die Laktoseintoleranz|intolerancia a la lactosa||S|ali|B1
+glutenfrei|sin gluten||A|ali|B1
+laktosefrei|sin lactosa||A|ali|B1
+vegetarisch|vegetariano||A|ali|B1
+der Veganer|vegano||S|ali|B1
+der Nährwert|valor nutricional||S|ali|B1
+das Vitamin|vitamina||S|ali|B1
+das Eiweiß|proteína||S|ali|B1
+das Kohlenhydrat|hidrato de carbono||S|ali|B1
+das Fertiggericht|plato precocinado||S|ali|B1
+der Süßstoff|edulcorante||S|ali|B1
+der Zuckergehalt|contenido de azúcar||S|ali|B1
+die Kalorie|caloría||S|ali|B1
+die Landesküche|cocina nacional||S|ali|B1
+die Frühlingsrolle|rollo de primavera||S|ali|B1
+die Reisnudeln|fideos de arroz||S|ali|B1
+die Kokosmilch|leche de coco||S|ali|B1
+der Sesam|sésamo||S|ali|B1
+die Kichererbse|garbanzo||S|ali|B1
+die Meeresfrüchte|marisco||S|ali|B1
+die Garnele|gamba||S|ali|B1
+der Tintenfisch|calamar||S|ali|B1
+der Spargel|espárrago||S|ali|B1
+die Aubergine|berenjena||S|ali|B1
+die Zucchini|calabacín||S|ali|B1
+der Rotwein|vino tinto||S|ali|B1
+die Weinprobe|cata de vinos||S|ali|B1
+der Winzer|viticultor||S|pro|B1
+der Korken|corcho||S|ali|B1
+die Kaffeebohne|grano de café||S|ali|B1
+die Kaffeemaschine|cafetera||S|ali|B1
+der Milchschaum|espuma de leche||S|ali|B1
+entkoffeiniert|descafeinado||A|ali|B1
+das Café|cafetería||S|ris|B1
+der Brunch|desayuno tardío||S|ris|B1
+das Frühstücksbuffet|bufé de desayuno||S|ris|B1
+die Limonade|refresco||S|ali|B1
+der Milchkaffee|café con leche||S|ris|B1
+das Gebäck|bollería||S|ali|B1
+die Sahne|nata||S|ali|B1
+die Torte|tarta||S|ali|B1
+das Sonderangebot|oferta especial||S|cmp|B1
+der Rabatt|descuento||S|cmp|B1
+der Gutschein|vale descuento||S|cmp|B1
+der Preisvergleich|comparación de precios||S|cmp|B1
+die Werbung|publicidad||S|cmp|B1
+der Werbespot|anuncio publicitario||S|cmp|B1
+die Zielgruppe|público objetivo||S|cmp|B1
+das Markenzeichen|marca registrada||S|cmp|B1
+die Marktforschung|estudio de mercado||S|cmp|B1
+das Einkaufszentrum|centro comercial||S|cmp|B1
+die Filiale|sucursal||S|cmp|B1
+das Warenhaus|grandes almacenes||S|cmp|B1
+das Schaufenster|escaparate||S|cmp|B1
+der Kassenzettel|ticket de compra||S|cmp|B1
+der Einkaufskorb|cesta de la compra||S|cmp|B1
+der Marktstand|puesto del mercado||S|cmp|B1
+die Kundin|clienta||S|cmp|B1
+die Rückgabe|devolución||S|cmp|B1
+der Umtausch|cambio de producto||S|cmp|B1
+umtauschen|cambiar un producto||V|cmp|B1
+die Reklamation|reclamación||S|cmp|B1
+reklamieren|reclamar||V|cmp|B1
+die Garantie|garantía||S|cmp|B1
+die Gewährleistung|garantía legal||S|cmp|B1
+der Mangel|defecto||S|cmp|B1
+mangelhaft|defectuoso||A|cmp|B1
+der Kundendienst|atención al cliente||S|cmp|B1
+die Beschwerde|queja||S|cmu|B1
+der Kaufvertrag|contrato de compra||S|cmp|B1
+das Angebot|oferta||S|cmp|B1
+der Aufpreis|suplemento||S|cmp|B1
+das Schnäppchen|chollo||S|cmp|B1
+der Ausverkauf|rebajas||S|cmp|B1
+die Lieferung|entrega||S|cmp|B1
+der Versand|envío||S|cmp|B1
+die Sendungsverfolgung|seguimiento del envío||S|cmp|B1
+die Lieferzeit|plazo de entrega||S|cmp|B1
+die Versandkosten|gastos de envío||S|cmp|B1
+die Verpackung|envase||S|cmp|B1
+die Kundenbewertung|valoración de clientes||S|cmp|B1
+die Bestellung|pedido||S|cmp|B1
+bestellen|pedir||V|cmp|B1
+der Warenkorb|carrito de compra||S|cmp|B1
+die Rückerstattung|reembolso||S|cmp|B1
+erstatten|reembolsar||V|cmp|B1
+der Onlineshop|tienda online||S|cmp|B1
+die Umkleidekabine|probador||S|rop|B1
+anprobieren|probarse||V|cmp|B1
+die Größe|talla||S|rop|B1
+das Kleidungsstück|prenda de vestir||S|rop|B1
+die Mode|moda||S|rop|B1
+modisch|a la moda||A|rop|B1
+die Baumwolle|algodón||S|rop|B1
+die Wolle|lana||S|rop|B1
+das Leinen|lino||S|rop|B1
+die Seide|seda||S|rop|B1
+die Kunstfaser|fibra sintética||S|rop|B1
+das Schnittmuster|patrón de costura||S|rop|B1
+die Nähmaschine|máquina de coser||S|rop|B1
+nähen|coser||V|rop|B1
+der Gürtel|cinturón||S|rop|B1
+die Kette|collar||S|rop|B1
+der Ohrring|pendiente||S|rop|B1
+die Saison|temporada||S|rop|B1
+der Trend|tendencia||S|att|B1
+trendig|a la última||A|rop|B1
+der Modeschöpfer|diseñador de moda||S|pro|B1
+die Verkehrsregel|norma de circulación||S|tra|B1
+die Geschwindigkeitsbegrenzung|límite de velocidad||S|tra|B1
+der Blitzer|radar||S|tra|B1
+das Bußgeld|multa||S|tra|B1
+die Panne|avería||S|tra|B1
+der Reifen|neumático||S|tra|B1
+der Winterreifen|neumático de invierno||S|tra|B1
+die Werkstatt|taller||S|tra|B1
+die Inspektion|revisión del coche||S|tra|B1
+der Ölwechsel|cambio de aceite||S|tra|B1
+die Hupe|bocina||S|tra|B1
+hupen|tocar el claxon||V|tra|B1
+der Sicherheitsgurt|cinturón de seguridad||S|tra|B1
+anschnallen|abrocharse el cinturón||V|tra|B1
+die Umleitung|desvío||S|tra|B1
+der Kreisverkehr|rotonda||S|tra|B1
+die Vorfahrt|prioridad de paso||S|tra|B1
+das Überholverbot|prohibición de adelantar||S|tra|B1
+die Zulassungsstelle|oficina de matriculación||S|tra|B1
+das Warndreieck|triángulo de emergencia||S|tra|B1
+der Abschleppwagen|grúa||S|tra|B1
+der Unfall|accidente||S|tra|B1
+die Fahrt|trayecto||S|tra|B1
+der Passagier|pasajero||S|tra|B1
+der Reisebus|autocar||S|tra|B1
+der Bahnsteig|andén||S|tra|B1
+das Gleis|vía||S|tra|B1
+der Fahrkartenautomat|máquina expendedora de billetes||S|tra|B1
+die Monatskarte|abono mensual||S|tra|B1
+die Tageskarte|billete diario||S|tra|B1
+die Einzelfahrt|billete sencillo||S|tra|B1
+die Tarifzone|zona tarifaria||S|tra|B1
+der Anschluss|correspondencia||S|tra|B1
+umsteigen|hacer transbordo||V|tra|B1
+der Nahverkehr|transporte de cercanías||S|tra|B1
+das Verkehrsnetz|red de transporte||S|tra|B1
+die S-Bahn|tren de cercanías||S|tra|B1
+der Fahrradständer|aparcabicis||S|tra|B1
+der Radweg|carril bici||S|tra|B1
+das Lastenrad|bici de carga||S|tra|B1
+das E-Bike|bici eléctrica||S|tra|B1
+der E-Scooter|patinete eléctrico||S|tra|B1
+das Carsharing|coche compartido||S|tra|B1
+die Mitfahrgelegenheit|viaje compartido||S|tra|B1
+die Umweltzone|zona de bajas emisiones||S|tra|B1
+die Feinstaubplakette|etiqueta medioambiental||S|tra|B1
+die Leihstation|estación de alquiler||S|tra|B1

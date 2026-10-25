@@ -1,0 +1,270 @@
+der Baustil|estilo arquitectónico||S|art|B2
+das Weltkulturerbe|patrimonio de la humanidad||S|art|B2
+die Kuppel|cúpula||S|art|B2
+der Kirchturm|campanario||S|art|B2
+die Fassade|fachada||S|art|B2
+das Fachwerkhaus|casa de entramado de madera||S|art|B2
+der Denkmalschutz|protección del patrimonio||S|art|B2
+der Grundriss|plano de planta||S|art|B2
+die Hausordnung|normas de convivencia del edificio||S|cas|B2
+der Nachbarstreit|conflicto entre vecinos||S|cas|B2
+die Ruhestörung|molestias por ruido||S|cas|B2
+das Treppenhaus|escalera del edificio||S|cas|B2
+die Eigentümerversammlung|reunión de propietarios||S|cas|B2
+das Mehrfamilienhaus|bloque de pisos||S|cas|B2
+die Mülltonne|cubo de basura||S|cas|B2
+die Wohnanlage|urbanización||S|cas|B2
+das Etikett|etiqueta del producto||S|ali|B2
+die Zutatenliste|lista de ingredientes||S|ali|B2
+der Nährwert|valor nutricional||S|ali|B2
+der Zuckeranteil|contenido de azúcar||S|ali|B2
+das Konservierungsmittel|conservante||S|ali|B2
+das Mindesthaltbarkeitsdatum|fecha de caducidad preferente||S|ali|B2
+der Aromastoff|aromatizante||S|ali|B2
+verarbeitet|procesado||A|ali|B2
+der Fernzug|tren de larga distancia||S|tra|B2
+das Gleis|andén||S|tra|B2
+der Schaffner|revisor||S|tra|B2
+umsteigen|hacer transbordo||V|tra|B2
+der Speisewagen|vagón restaurante||S|tra|B2
+die Bahnstrecke|línea ferroviaria||S|tra|B2
+der Liegewagen|vagón litera||S|tra|B2
+die Schwellung|hinchazón||S|sla|B2
+verbinden|vendar una herida||V|sla|B2
+die Wiederbelebung|reanimación||S|sla|B2
+der Notruf|llamada de emergencia||S|sla|B2
+der Verbandskasten|botiquín||S|sla|B2
+der Schmerz|dolor||S|sla|B2
+die Blutung|hemorragia||S|sla|B2
+Erste Hilfe leisten|prestar primeros auxilios||L|sla|B2
+das Homeoffice|teletrabajo||S|lav|B2
+die Teambesprechung|reunión de equipo||S|lav|B2
+die Vereinbarkeit|conciliación||S|lav|B2
+die Videokonferenz|videoconferencia||S|lav|B2
+die Kernarbeitszeit|horario presencial obligatorio||S|lav|B2
+die Gleitzeit|horario flexible||S|lav|B2
+der Arbeitsplatz|puesto de trabajo||S|lav|B2
+die Zeitersparnis|ahorro de tiempo||S|lav|B2
+die Fortbildung|formación continua||S|lav|B2
+der Lehrgang|curso de formación||S|lav|B2
+die Weiterbildung|reciclaje profesional||S|lav|B2
+die Zusatzqualifikation|cualificación adicional||S|lav|B2
+das Praktikum|prácticas||S|lav|B2
+die Kenntnisse|conocimientos||S|lav|B2
+der Werdegang|trayectoria profesional||S|lav|B2
+das Auslandssemester|semestre en el extranjero||S|stu|B2
+der Kulturaustausch|intercambio cultural||S|stu|B2
+der Sprachkurs|curso de idiomas||S|stu|B2
+die Gastfamilie|familia de acogida||S|stu|B2
+die Anerkennung|convalidación||S|stu|B2
+das Austauschprogramm|programa de intercambio||S|stu|B2
+die Unterkunft|alojamiento||S|vig|B2
+fließend|con fluidez||A|stu|B2
+der Immobilienmarkt|mercado inmobiliario||S|fin|B2
+die Maklergebühr|honorarios de la inmobiliaria||S|cas|B2
+der Baumangel|defecto de construcción||S|cas|B2
+das Eigenkapital|aportación propia||S|fin|B2
+die Tiefgarage|garaje subterráneo||S|cas|B2
+das Einfamilienhaus|casa unifamiliar||S|cas|B2
+die Wohngegend|zona residencial||S|cas|B2
+die Kundenrezension|reseña de un cliente||S|cmp|B2
+der Onlineshop|tienda online||S|cmp|B2
+der Preisvergleich|comparación de precios||S|cmp|B2
+die Verfügbarkeit|disponibilidad||S|cmp|B2
+die Wunschliste|lista de deseos||S|cmp|B2
+das Abonnement|suscripción||S|cmp|B2
+der Kundendienst|atención al cliente||S|cmp|B2
+die Bestellbestätigung|confirmación del pedido||S|cmp|B2
+der Akkustand|nivel de batería||S|tec|B2
+die Synchronisation|sincronización||S|tec|B2
+der Speicherplatz|espacio de almacenamiento||S|tec|B2
+der Flugmodus|modo avión||S|tec|B2
+die Benachrichtigung|notificación||S|tec|B2
+das Ladekabel|cable de carga||S|tec|B2
+das Datenvolumen|datos móviles contratados||S|tec|B2
+das Vereinsleben|vida asociativa||S|spt|B2
+die Mitgliedschaft|condición de socio||S|spt|B2
+der Vereinssport|deporte de club||S|spt|B2
+das Aufwärmen|calentamiento||S|spt|B2
+der Ausdauersport|deporte de resistencia||S|spt|B2
+die Sportart|modalidad deportiva||S|spt|B2
+der Spielplan|calendario de partidos||S|spt|B2
+das Fitnessstudio|gimnasio||S|spt|B2
+das Festivalgelände|recinto del festival||S|mus|B2
+die Eintrittskarte|entrada||S|mus|B2
+der Vorverkauf|venta anticipada||S|mus|B2
+das Open-Air-Konzert|concierto al aire libre||S|mus|B2
+der Tontechniker|técnico de sonido||S|pro|B2
+die Live-Aufnahme|grabación en directo||S|mus|B2
+mitsingen|cantar todos juntos||V|mus|B2
+der Streamingdienst|plataforma de streaming||S|cin|B2
+die Staffel|temporada de una serie||S|cin|B2
+die Folge|episodio||S|cin|B2
+der Cliffhanger|final en suspenso||S|cin|B2
+das Drehbuch|guion||S|cin|B2
+die Schauspielkunst|arte dramático||S|cin|B2
+streamen|ver en streaming||V|cin|B2
+die Hochzeit|boda||S|fam|B2
+die Verlobung|pedida de mano||S|fam|B2
+das Brautpaar|pareja de novios||S|fam|B2
+der Polterabend|fiesta previa a la boda||S|fam|B2
+der Trauzeuge|testigo de boda||S|fam|B2
+das Jubiläum|aniversario||S|fam|B2
+die Eheschließung|matrimonio civil||S|fam|B2
+der Kinderwunsch|deseo de tener hijos||S|fam|B2
+der Kontostand|saldo de la cuenta||S|fin|B2
+die Lastschrift|domiciliación bancaria||S|fin|B2
+das Kleingeld|dinero suelto||S|fin|B2
+die Ausgaben|gastos||S|fin|B2
+der Betrug|fraude||S|fin|B2
+die Brieftasche|cartera||S|fin|B2
+das Haushaltsbudget|presupuesto doméstico||S|fin|B2
+der Geldautomat|cajero automático||S|fin|B2
+das Kaffeehaus|cafetería tradicional||S|ris|B2
+der Milchschaum|espuma de leche||S|ali|B2
+die Hafermilch|bebida de avena||S|ali|B2
+der Zimt|canela||S|ali|B2
+das Frühstücksbuffet|bufé de desayuno||S|ris|B2
+der Tresen|mostrador||S|ris|B2
+die Kuchentheke|expositor de pasteles||S|ris|B2
+der Einbruch|robo en una vivienda||S|ist|B2
+die Rettungskraft|efectivo de rescate||S|ist|B2
+die Sperrung|corte de una vía||S|ist|B2
+der Vorfall|incidente||S|ist|B2
+die Fahndung|búsqueda policial||S|ist|B2
+die Evakuierung|evacuación||S|ist|B2
+festnehmen|detener a alguien||V|ist|B2
+der Tatverdächtige|sospechoso||S|ist|B2
+der Wissensdurst|sed de conocimiento||S|sci|B2
+der Dokumentarfilm|documental||S|cin|B2
+der Wissenschaftsjournalismus|periodismo científico||S|sci|B2
+die Denkfalle|sesgo cognitivo||S|sci|B2
+das Versuchsobjekt|conejillo de indias||S|sci|B2
+der Skeptiker|escéptico||S|sci|B2
+der Erfindergeist|espíritu inventor||S|sci|B2
+der Bestseller|superventas||S|let|B2
+der Lesekreis|club de lectura||S|let|B2
+der Klappentext|texto de contraportada||S|let|B2
+der Verlag|editorial||S|let|B2
+das Taschenbuch|libro de bolsillo||S|let|B2
+die Leseprobe|fragmento de muestra||S|let|B2
+das Vorwort|prólogo||S|let|B2
+die Buchmesse|feria del libro||S|let|B2
+der Wanderweg|sendero||S|nat|B2
+die Wanderung|excursión a pie||S|nat|B2
+die Schutzhütte|refugio de montaña||S|nat|B2
+der Gipfel|cumbre||S|nat|B2
+der Aussichtspunkt|mirador||S|nat|B2
+der Rastplatz|área de descanso||S|nat|B2
+der Naturpark|parque natural||S|nat|B2
+der Kurztrip|escapada corta||S|vig|B2
+der Reiseführer|guía de viaje||S|vig|B2
+die Rundfahrt|tour panorámico||S|vig|B2
+der Stadtrundgang|visita guiada a pie||S|vig|B2
+die Übernachtung|pernoctación||S|htl|B2
+der Kulturschock|choque cultural||S|vig|B2
+das Wahrzeichen|símbolo de la ciudad||S|vig|B2
+das Selbstwertgefühl|autoestima||S|emo|B2
+die Stärken und Schwächen|puntos fuertes y débiles||L|emo|B2
+die Lebensweise|estilo de vida||S|emo|B2
+sich abgewöhnen|perder una costumbre||V|emo|B2
+der Fortschritt|progreso||S|emo|B2
+die Selbsterkenntnis|autoconocimiento||S|emo|B2
+die Gelassenheit|calma||S|emo|B2
+das Missverständnis|malentendido||S|cmu|B2
+die Entschuldigung|disculpa||S|cmu|B2
+sich entschuldigen|pedir disculpas||V|cmu|B2
+sich beschweren|quejarse||V|cmu|B2
+verärgert|indignado||A|emo|B2
+zu Unrecht|sin motivo justificado||L|cmu|B2
+das Einlenken|dar el brazo a torcer||S|cmu|B2
+die Aufklärung|aclaración de un malentendido||S|cmu|B2
+der Ausweis|documento de identidad||S|ist|B2
+die Geburtsurkunde|certificado de nacimiento||S|ist|B2
+die Beglaubigung|compulsación notarial||S|ist|B2
+das Schreiben|escrito oficial||S|ist|B2
+der Nachweis|justificante||S|ist|B2
+die beglaubigte Kopie|copia compulsada||L|ist|B2
+die Zustellung|entrega oficial de una notificación||S|ist|B2
+übrigens|por cierto||D|cnn|B2
+jedenfalls|en cualquier caso||D|cnn|B2
+quasi|digamos||D|cnn|B2
+ausgerechnet|justamente para colmo||D|cnn|B2
+mit anderen Worten|en otras palabras||L|cnn|B2
+kurzum|en pocas palabras||D|cnn|B2
+und zwar|a saber||L|cnn|B2
+tja|bueno (resignación)||I|cnn|B2
+das Glück|suerte||S|ast|B2
+der Zufall|casualidad||S|ast|B2
+der Wandel|transformación||S|ast|B2
+die Gelegenheit|ocasión||S|ast|B2
+der Augenblick|instante||S|ast|B2
+das Schicksal|destino||S|ast|B2
+die Ahnung|idea (noción vaga)||S|ast|B2
+die Dauerausstellung|exposición permanente||S|art|B2
+die Sonderausstellung|exposición temporal||S|art|B2
+die Vitrine|vitrina||S|art|B2
+das Exponat|pieza expuesta||S|art|B2
+die Schatzkammer|cámara del tesoro||S|art|B2
+der Museumsbesuch|visita al museo||S|art|B2
+die Gemäldesammlung|pinacoteca||S|art|B2
+der Abflug|salida del vuelo||S|vig|B2
+die Bordkarte|tarjeta de embarque||S|vig|B2
+die Sicherheitskontrolle|control de seguridad||S|vig|B2
+das Handgepäck|equipaje de mano||S|vig|B2
+der Flugausfall|cancelación de vuelo||S|vig|B2
+die Zollkontrolle|control de aduanas||S|vig|B2
+die Durchsage|anuncio por megafonía||S|vig|B2
+an Bord gehen|embarcar||L|vig|B2
+die Bettwäsche|ropa de cama||S|htl|B2
+die Klimaanlage|aire acondicionado||S|htl|B2
+der Lärmpegel|nivel de ruido||S|htl|B2
+die Ausstattung|equipamiento||S|htl|B2
+die Zimmerreinigung|limpieza de habitaciones||S|htl|B2
+das Doppelzimmer|habitación doble||S|htl|B2
+die Aufenthaltsdauer|duración de la estancia||S|htl|B2
+die Einarbeitung|adaptación al puesto||S|lav|B2
+der Mentor|mentor||S|lav|B2
+die Kennenlernphase|fase de conocimiento mutuo||S|lav|B2
+die Rückmeldung|retroalimentación||S|lav|B2
+der Betriebsausflug|excursión de empresa||S|lav|B2
+der Kollegenkreis|círculo de colegas||S|lav|B2
+die Vertretung|sustitución||S|lav|B2
+die Überstunden|horas extra||S|lav|B2
+die Generation|generación||S|fam|B2
+die Kindheitserinnerung|recuerdo de la infancia||S|fam|B2
+die Jugendliebe|amor de juventud||S|fam|B2
+der Zeitzeuge|testigo de su época||S|fam|B2
+der Nachlass|legado||S|fam|B2
+das Familienalbum|álbum familiar||S|fam|B2
+die Anekdote|anécdota||S|fam|B2
+der Schlafrhythmus|ritmo de sueño||S|sla|B2
+die Müdigkeit|cansancio||S|sla|B2
+die Schlafstörung|trastorno del sueño||S|sla|B2
+die Erholung|descanso reparador||S|sla|B2
+die Tagesform|estado del día||S|sla|B2
+die Morgenroutine|rutina matinal||S|sla|B2
+der Mittagsschlaf|siesta||S|sla|B2
+der Biorhythmus|biorritmo||S|sla|B2
+die Absage|cancelación||S|cmu|B2
+absagen|cancelar||V|cmu|B2
+verlegen|aplazar o trasladar||V|tmp|B2
+die Verabredung|cita (compromiso)||S|cmu|B2
+kurzfristig|a última hora||A|tmp|B2
+der Zeitmangel|falta de tiempo||S|tmp|B2
+die Verschiebung|aplazamiento||S|tmp|B2
+das Haustier|mascota||S|ani|B2
+der Tierarzt|veterinario||S|pro|B2
+die Leine|correa||S|ani|B2
+das Fell|pelaje||S|ani|B2
+das Tierheim|protectora de animales||S|ani|B2
+der Kratzbaum|rascador||S|ani|B2
+abrichten|adiestrar||V|ani|B2
+der Welpe|cachorro||S|ani|B2
+die Fahrgemeinschaft|grupo de coche compartido||S|tra|B2
+die Mitfahrgelegenheit|viaje compartido en coche||S|tra|B2
+der Fahrpreis|tarifa del billete||S|tra|B2
+die Pünktlichkeit|puntualidad||S|tra|B2
+das Lastenrad|bicicleta de carga||S|tra|B2
+die Routenplanung|planificación de la ruta||S|tra|B2
+die Abfahrtszeit|hora de salida||S|tra|B2

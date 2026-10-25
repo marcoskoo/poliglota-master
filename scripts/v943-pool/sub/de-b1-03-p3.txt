@@ -1,0 +1,298 @@
+der Regisseur|director de cine||S|cin|B1
+die Regie|dirección (cine)||S|cin|B1
+das Drehbuch|guion||S|cin|B1
+drehen|rodar||V|cin|B1
+die Szene|escena||S|cin|B1
+die Handlung|trama||S|cin|B1
+der Hauptdarsteller|actor principal||S|cin|B1
+das Filmfestival|festival de cine||S|cin|B1
+die Untertitel|subtítulos||S|cin|B1
+der Streamingdienst|plataforma de streaming||S|cin|B1
+der Dokumentarfilm|documental||S|cin|B1
+die Trennung|separación||S|rel|B1
+sich trennen|separarse||V|rel|B1
+die Versöhnung|reconciliación||S|rel|B1
+der Kompromiss|acuerdo intermedio||S|rel|B1
+verzeihen|perdonar||V|rel|B1
+das Missverständnis|malentendido||S|cmu|B1
+das Vertrauen|confianza||S|rel|B1
+vertrauen|confiar||V|rel|B1
+die Untreue|infidelidad||S|rel|B1
+der Streit|discusión||S|rel|B1
+sich verabreden|quedar con alguien||V|rel|B1
+die Vielfalt|diversidad||S|ast|B1
+die Zugehörigkeit|sentido de pertenencia||S|ast|B1
+die Gleichberechtigung|igualdad de derechos||S|ist|B1
+die Benachteiligung|discriminación||S|ist|B1
+benachteiligt|desfavorecido||A|ist|B1
+die Barrierefreiheit|accesibilidad||S|ist|B1
+die Integration|integración||S|ist|B1
+die Inklusion|inclusión||S|ist|B1
+die Selbsthilfegruppe|grupo de autoayuda||S|ist|B1
+die Steuer|impuesto||S|fin|B1
+die Steuererklärung|declaración de la renta||S|fin|B1
+das Finanzamt|agencia tributaria||S|fin|B1
+das Darlehen|préstamo||S|fin|B1
+der Kredit|crédito||S|fin|B1
+die Hypothek|hipoteca||S|fin|B1
+die Baufinanzierung|financiación de la vivienda||S|fin|B1
+sparen|ahorrar||V|fin|B1
+die Geldanlage|inversión||S|fin|B1
+anlegen|invertir||V|fin|B1
+die Aktie|acción||S|fin|B1
+der Aktionär|accionista||S|fin|B1
+der Börsenkurs|cotización bursátil||S|fin|B1
+das Risiko|riesgo||S|ast|B1
+die Rente|pensión de jubilación||S|fin|B1
+die Rentenversicherung|seguro de pensiones||S|fin|B1
+der Ruhestand|jubilación||S|fin|B1
+in den Ruhestand gehen|jubilarse||E|fin|B1
+die Altersvorsorge|previsión para la vejez||S|fin|B1
+die Rechnung|factura||S|fin|B1
+die Gerichtsverhandlung|vista oral||S|ist|B1
+das Urteil|sentencia||S|ist|B1
+der Zeuge|testigo||S|ist|B1
+die Aussage|declaración ante el tribunal||S|ist|B1
+der Beklagte|demandado||S|ist|B1
+der Kläger|demandante||S|ist|B1
+die Klage|demanda||S|ist|B1
+der Prozess|proceso judicial||S|ist|B1
+der Antrag|solicitud||S|ist|B1
+die Unterschrift|firma||S|ist|B1
+die Wahl|votación||S|ist|B1
+wählen|votar||V|ist|B1
+die Volksabstimmung|referéndum||S|ist|B1
+der Bürgermeister|alcalde||S|pro|B1
+die Opposition|oposición||S|att|B1
+der Abgeordnete|diputado||S|pro|B1
+das Parlament|parlamento||S|ist|B1
+der Einbruch|robo con fuerza||S|ist|B1
+einbrechen|entrar a robar||V|ist|B1
+allerdings|sin embargo||D|cnn|B1
+folglich|en consecuencia||D|cnn|B1
+somit|así pues||D|cnn|B1
+einerseits|por un lado||D|cnn|B1
+andererseits|por otro lado||D|cnn|B1
+im Gegenteil|al contrario||E|cnn|B1
+das heißt|es decir||E|cnn|B1
+hingegen|en cambio||D|cnn|B1
+zumindest|al menos||D|cnn|B1
+vorausgesetzt|siempre que||E|cnn|B1
+abschließend|para terminar||D|cnn|B1
+zusammenfassend|en síntesis||D|cnn|B1
+zunächst|en primer lugar||D|cnn|B1
+anschließend|a continuación||D|cnn|B1
+letztendlich|al fin y al cabo||D|cnn|B1
+keineswegs|de ninguna manera||D|cnn|B1
+jedenfalls|en todo caso||D|cnn|B1
+eigentlich|en realidad||D|cnn|B1
+übrigens|por cierto||D|cnn|B1
+sozusagen|por así decirlo||D|cnn|B1
+in der Regel|por lo general||E|cnn|B1
+auf jeden Fall|sin duda||E|cnn|B1
+die Gerechtigkeit|justicia||S|ast|B1
+die Wahrheit|verdad||S|ast|B1
+die Schönheit|belleza||S|ast|B1
+die Freiheit|libertad||S|ast|B1
+die Verantwortung|responsabilidad||S|ast|B1
+die Pflicht|deber||S|ast|B1
+die Ursache|causa||S|ast|B1
+die Auswirkung|repercusión||S|ast|B1
+der Zufall|casualidad||S|ast|B1
+das Glück|suerte, felicidad||S|ast|B1
+das Schicksal|destino||S|ast|B1
+der Wandel|transformación||S|ast|B1
+der Unterschied|diferencia||S|ast|B1
+das Vorurteil|prejuicio||S|ast|B1
+die Gelegenheit|oportunidad||S|ast|B1
+die Gewohnheit|hábito||S|ast|B1
+die Veränderung|cambio||S|ast|B1
+verändern|cambiar||V|ast|B1
+sich ändern|cambiar por sí solo||V|ast|B1
+die Epoche|época||S|art|B1
+der Baustil|estilo arquitectónico||S|art|B1
+das Kunstwerk|obra de arte||S|art|B1
+die Skulptur|escultura||S|art|B1
+der Bildhauer|escultor||S|pro|B1
+die abstrakte Kunst|arte abstracto||S|art|B1
+der Expressionismus|expresionismo||S|art|B1
+der Impressionismus|impresionismo||S|art|B1
+die Renaissance|Renacimiento||S|art|B1
+das Denkmal|monumento||S|art|B1
+die Denkmalpflege|protección del patrimonio||S|art|B1
+das Weltkulturerbe|patrimonio de la humanidad||S|art|B1
+die Kuppel|cúpula||S|art|B1
+die Säule|columna||S|art|B1
+das Gewölbe|bóveda||S|art|B1
+das Fachwerkhaus|casa de entramado de madera||S|art|B1
+die Dauerausstellung|exposición permanente||S|art|B1
+die Sonderausstellung|exposición temporal||S|art|B1
+die Wissenschaft|ciencia||S|sci|B1
+der Wissenschaftler|científico||S|pro|B1
+die Hypothese|hipótesis||S|sci|B1
+das Experiment|experimento||S|sci|B1
+das Labor|laboratorio||S|sci|B1
+die Beobachtung|observación||S|sci|B1
+die Zelle|célula||S|sci|B1
+das Gewebe|tejido||S|sci|B1
+die Evolution|evolución||S|sci|B1
+die Fortpflanzung|reproducción||S|sci|B1
+die Fotosynthese|fotosíntesis||S|sci|B1
+die Nahrungskette|cadena alimentaria||S|sci|B1
+der Sauerstoff|oxígeno||S|sci|B1
+das Kohlendioxid|dióxido de carbono||S|sci|B1
+der Wasserstoff|hidrógeno||S|sci|B1
+das Molekül|molécula||S|sci|B1
+das Atom|átomo||S|sci|B1
+die Schwerkraft|gravedad||S|sci|B1
+das Teleskop|telescopio||S|sci|B1
+der Planet|planeta||S|sci|B1
+das schwarze Loch|agujero negro||S|sci|B1
+der Roman|novela||S|let|B1
+der Kriminalroman|novela policiaca||S|let|B1
+die Erzählung|relato||S|let|B1
+der Erzähler|narrador||S|let|B1
+das Sachbuch|libro de divulgación||S|let|B1
+der Bestseller|libro más vendido||S|let|B1
+der Klappentext|solapa||S|let|B1
+der Buchclub|club de lectura||S|let|B1
+das Gedicht|poema||S|let|B1
+das Zitat|cita textual||S|let|B1
+zitieren|citar||V|let|B1
+das Inhaltsverzeichnis|índice||S|let|B1
+das Skelett|esqueleto||S|cor|B1
+der Knochen|hueso||S|cor|B1
+der Muskel|músculo||S|cor|B1
+die Sehne|tendón||S|cor|B1
+das Gelenk|articulación||S|cor|B1
+die Wirbelsäule|columna vertebral||S|cor|B1
+die Hüfte|cadera||S|cor|B1
+der Knöchel|tobillo||S|cor|B1
+die Ferse|talón||S|cor|B1
+die Wade|pantorrilla||S|cor|B1
+die Niere|riñón||S|cor|B1
+die Leber|hígado||S|cor|B1
+der Darm|intestino||S|cor|B1
+das Rückenmark|médula espinal||S|cor|B1
+das Haustier|mascota||S|ani|B1
+der Tierarzt|veterinario||S|pro|B1
+das Halsband|collar (para animales)||S|ani|B1
+die Leine|correa||S|ani|B1
+anleinen|llevar con correa||V|ani|B1
+füttern|alimentar a un animal||V|ani|B1
+der Welpe|cachorro||S|ani|B1
+die Pfote|pata||S|ani|B1
+das Wildtier|animal salvaje||S|ani|B1
+der Lebensraum|hábitat||S|ani|B1
+das Rudel|manada||S|ani|B1
+der Vogelzug|migración de las aves||S|ani|B1
+der Winterschlaf|hibernación||S|ani|B1
+der Fressfeind|depredador||S|ani|B1
+das Fell|pelaje||S|ani|B1
+der Kratzbaum|rascador para gatos||S|ani|B1
+die Solarenergie|energía solar||S|nat|B1
+die Windkraft|energía eólica||S|nat|B1
+das Kraftwerk|central eléctrica||S|nat|B1
+der Stromverbrauch|consumo eléctrico||S|nat|B1
+der Ausstoß|emisión de gases||S|nat|B1
+das Grundwasser|agua subterránea||S|nat|B1
+die Wiederverwendung|reutilización||S|nat|B1
+wiederverwenden|reutilizar||V|nat|B1
+das Artensterben|extinción de especies||S|nat|B1
+der Artenschutz|protección de especies||S|nat|B1
+das Naturschutzgebiet|reserva natural||S|nat|B1
+die Wilderei|caza furtiva||S|nat|B1
+das Aussterben|extinción||S|nat|B1
+bedroht|amenazado||A|nat|B1
+die Frist|plazo||S|tmp|B1
+der Zeitpunkt|momento||S|tmp|B1
+die Dauer|duración||S|tmp|B1
+dauern|durar||V|tmp|B1
+ablaufen|vencer||V|tmp|B1
+gültig|válido||A|tmp|B1
+gelegentlich|ocasionalmente||D|tmp|B1
+wöchentlich|semanalmente||D|tmp|B1
+monatlich|mensualmente||D|tmp|B1
+jährlich|anualmente||D|tmp|B1
+ab und zu|de vez en cuando||E|tmp|B1
+kurzfristig|a última hora||A|tmp|B1
+die Discothek|discoteca||S|sve|B1
+die Tanzfläche|pista de baile||S|sve|B1
+die Sperrstunde|hora de cierre||S|sve|B1
+das Brettspiel|juego de mesa||S|sve|B1
+die Spielregel|regla del juego||S|sve|B1
+das Puzzle|puzle||S|sve|B1
+die Sammlung|colección||S|sve|B1
+sammeln|coleccionar||V|sve|B1
+die Briefmarke|sello de correos||S|sve|B1
+stricken|hacer punto||V|sve|B1
+häkeln|hacer ganchillo||V|sve|B1
+basteln|hacer manualidades||V|sve|B1
+die Motivation|motivación||S|emo|B1
+motivieren|motivar||V|emo|B1
+das Selbstbewusstsein|confianza en sí mismo||S|emo|B1
+die Überforderung|agobio||S|emo|B1
+überfordert|desbordado||A|emo|B1
+die Herausforderung|desafío||S|emo|B1
+die Zufriedenheit|satisfacción||S|emo|B1
+unzufrieden|insatisfecho||A|emo|B1
+die Geduld|paciencia||S|emo|B1
+ungeduldig|impaciente||A|emo|B1
+die Willenskraft|fuerza de voluntad||S|emo|B1
+die Ausdauer|perseverancia||S|emo|B1
+der innere Schweinehund|la pereza interior||S|emo|B1
+das Argument|argumento||S|cmu|B1
+der Beweis|prueba||S|cmu|B1
+beweisen|demostrar||V|cmu|B1
+widerlegen|refutar||V|cmu|B1
+der Einwand|objeción||S|cmu|B1
+ablehnen|rechazar||V|cmu|B1
+überzeugen|convencer||V|cmu|B1
+nachgeben|ceder||V|cmu|B1
+die Debatte|debate||S|cmu|B1
+das Für und Wider|pros y contras||E|cmu|B1
+die Ansicht|punto de vista||S|cmu|B1
+die Präsentation|presentación||S|cmu|B1
+das Publikum|público||S|cmu|B1
+der Zuhörer|oyente||S|cmu|B1
+verhandeln|negociar||V|cmu|B1
+die Verhandlung|negociación||S|cmu|B1
+unter vier Augen|en privado||E|cmu|B1
+sich beschweren|quejarse||V|cmu|B1
+absagen|cancelar una cita||V|cmu|B1
+verschieben|aplazar||V|cmu|B1
+der Reisepass|pasaporte||S|vig|B1
+das Visum|visado||S|vig|B1
+die Aufenthaltserlaubnis|permiso de residencia||S|vig|B1
+der Zoll|aduana||S|vig|B1
+die Einreise|entrada al país||S|vig|B1
+der Ausflug|excursión||S|vig|B1
+die Altstadt|casco antiguo||S|vig|B1
+der Städtetrip|escapada urbana||S|vig|B1
+der Abflug|despegue||S|vig|B1
+die Ankunft|llegada||S|vig|B1
+der Sicherheitscheck|control de seguridad||S|vig|B1
+das Handgepäck|equipaje de mano||S|vig|B1
+die Bordkarte|tarjeta de embarque||S|vig|B1
+der Umstieg|transbordo||S|tra|B1
+die Reservierung|reserva||S|vig|B1
+reservieren|reservar||V|vig|B1
+die Verspätung|retraso||S|vig|B1
+der Ausfall|cancelación de un tren||S|vig|B1
+ausfallen|cancelarse un tren||V|vig|B1
+der Wanderweg|sendero||S|vig|B1
+der Koffer|maleta||S|vig|B1
+die Hotelkategorie|categoría hotelera||S|htl|B1
+die Halbpension|media pensión||S|htl|B1
+die Vollpension|pensión completa||S|htl|B1
+all inklusive|todo incluido||E|htl|B1
+die Kurtaxe|tasa turística||S|htl|B1
+das Zustellbett|cama supletoria||S|htl|B1
+die Rezeption|recepción||S|htl|B1
+die Buchungsbestätigung|confirmación de la reserva||S|htl|B1
+die Stornierung|cancelación de la reserva||S|htl|B1
+stornieren|cancelar la reserva||V|htl|B1
+die Gästebewertung|valoración de huéspedes||S|htl|B1
+die Frühstückszeit|horario del desayuno||S|htl|B1
+die Zimmerreinigung|limpieza de habitaciones||S|htl|B1
+das Handtuch|toalla||S|htl|B1

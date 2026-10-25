@@ -1,0 +1,270 @@
+der Dreh|rodaje||S|cin|B2
+die Handlung|trama||S|cin|B2
+die Hauptrolle|papel protagonista||S|cin|B2
+die Nebenrolle|papel secundario||S|cin|B2
+die Premiere|estreno||S|cin|B2
+die Filmkritik|crítica de cine||S|cin|B2
+der Untertitel|subtítulo||S|cin|B2
+der Schnitt|montaje||S|cin|B2
+die Trennung|separación de pareja||S|rel|B2
+die Versöhnung|reconciliación||S|rel|B2
+die Liebesbeziehung|relación amorosa||S|rel|B2
+die Entfremdung|distanciamiento||S|rel|B2
+verzeihen|perdonar||V|rel|B2
+der Liebeskummer|desamor||S|rel|B2
+der Vertrauensverlust|pérdida de confianza||S|rel|B2
+der Zoff|conflicto (bronca)||S|rel|B2
+die Vielfalt|diversidad||S|att|B2
+die Chancengleichheit|igualdad de oportunidades||S|att|B2
+die Barrierefreiheit|accesibilidad||S|att|B2
+die Benachteiligung|desventaja||S|att|B2
+das Ehrenamt|voluntariado||S|att|B2
+die Ausgrenzung|exclusión social||S|att|B2
+die Selbsthilfegruppe|grupo de autoayuda||S|att|B2
+die Steuererklärung|declaración de la renta||S|fin|B2
+die Steuerhinterziehung|evasión fiscal||S|fin|B2
+der Freibetrag|importe exento||S|fin|B2
+das Finanzamt|agencia tributaria||S|fin|B2
+die Fristverlängerung|prórroga de plazo||S|fin|B2
+die Abgabe|tasa tributaria||S|fin|B2
+veranlagen|liquidar fiscalmente||V|fin|B2
+das Darlehen|préstamo bancario||S|fin|B2
+die Hypothek|hipoteca||S|fin|B2
+der Zinssatz|tipo de interés||S|fin|B2
+die Tilgung|amortización del préstamo||S|fin|B2
+die Restschuld|deuda pendiente||S|fin|B2
+die Kreditrate|cuota del préstamo||S|fin|B2
+die Bonität|solvencia crediticia||S|fin|B2
+die Zinsbindung|fijación del tipo de interés||S|fin|B2
+die Geldanlage|inversión de capital||S|fin|B2
+das Sparbuch|libreta de ahorros||S|fin|B2
+die Rendite|rentabilidad||S|fin|B2
+die Aktie|acción||S|fin|B2
+der Aktionär|accionista||S|fin|B2
+das Wertpapier|valor bursátil||S|fin|B2
+das Depot|cartera de valores||S|fin|B2
+die Rente|pensión de jubilación||S|fin|B2
+die Rentenversicherung|seguro de pensiones||S|fin|B2
+die Altersvorsorge|previsión para la vejez||S|fin|B2
+die Altersarmut|pobreza en la vejez||S|fin|B2
+der Ruhestand|jubilación||S|fam|B2
+das Einkommen|ingresos||S|fin|B2
+die Auszahlung|desembolso||S|fin|B2
+der Gourmet|gastrónomo||S|ris|B2
+die Speisekarte|carta||S|ris|B2
+der Küchenchef|jefe de cocina||S|ris|B2
+das Degustationsmenü|menú degustación||S|ris|B2
+reservieren|reservar||V|ris|B2
+das Trinkgeld|propina||S|ris|B2
+die Rechnung|cuenta||S|ris|B2
+der Rechtsanwalt|abogado||S|pro|B2
+der Notar|notario||S|pro|B2
+der Staatsanwalt|fiscal||S|pro|B2
+der Richter|juez||S|pro|B2
+der Jurist|jurista||S|pro|B2
+die Kanzlei|despacho de abogados||S|pro|B2
+die Rechtsberatung|asesoría jurídica||S|pro|B2
+der Ingenieur|ingeniero||S|pro|B2
+der Elektriker|electricista||S|pro|B2
+der Schweißer|soldador||S|pro|B2
+der Dachdecker|tejador||S|pro|B2
+der Klempner|fontanero||S|pro|B2
+der Landvermesser|topógrafo||S|pro|B2
+der Chemiker|químico||S|pro|B2
+der Mechaniker|mecánico||S|pro|B2
+der Krankenpfleger|enfermero||S|pro|B2
+die Pflegekraft|cuidador sanitario||S|pro|B2
+der Erzieher|educador infantil||S|pro|B2
+der Grundschullehrer|maestro de primaria||S|pro|B2
+der Apotheker|farmacéutico||S|pro|B2
+die Hebamme|matrona||S|pro|B2
+der Chirurg|cirujano||S|pro|B2
+der Psychologe|psicólogo||S|pro|B2
+der Grafiker|diseñador gráfico||S|pro|B2
+der Redakteur|redactor||S|pro|B2
+der Moderator|presentador||S|pro|B2
+der Synchronsprecher|actor de doblaje||S|pro|B2
+der Bildhauer|escultor||S|pro|B2
+der Verleger|editor de una editorial||S|pro|B2
+der Journalist|periodista||S|pro|B2
+der Schauspieler|actor||S|pro|B2
+die Bundesregierung|gobierno federal||S|att|B2
+der Bundeskanzler|canciller federal||S|att|B2
+die Opposition|oposición||S|att|B2
+die Koalition|coalición||S|att|B2
+die Mehrheit|mayoría||S|att|B2
+der Sozialstaat|estado del bienestar||S|att|B2
+die Außenpolitik|política exterior||S|att|B2
+die Inflation|inflación||S|att|B2
+die Rezession|recesión||S|att|B2
+die Arbeitslosigkeit|desempleo||S|att|B2
+die Wirtschaftskrise|crisis económica||S|att|B2
+die Kaufkraft|poder adquisitivo||S|att|B2
+der Fachkräftemangel|escasez de mano de obra cualificada||S|att|B2
+die Konjunktur|coyuntura económica||S|att|B2
+die Umweltverschmutzung|contaminación ambiental||S|nat|B2
+der Umweltschutz|protección del medio ambiente||S|nat|B2
+die Nachhaltigkeit|sostenibilidad||S|nat|B2
+die Artenvielfalt|biodiversidad||S|nat|B2
+die Wiederverwertung|reutilización||S|nat|B2
+das Ökosystem|ecosistema||S|nat|B2
+der Naturschutz|conservación de la naturaleza||S|nat|B2
+die Hypothese|hipótesis||S|sci|B2
+das Experiment|experimento||S|sci|B2
+der Versuchsaufbau|montaje experimental||S|sci|B2
+die Messung|medición||S|sci|B2
+die Auswertung|análisis de datos||S|sci|B2
+die Stichprobe|muestra estadística||S|sci|B2
+die Erkenntnis|hallazgo cognitivo||S|sci|B2
+die Beobachtung|observación||S|sci|B2
+die Zelle|célula||S|sci|B2
+der Stoffwechsel|metabolismo||S|sci|B2
+die Fotosynthese|fotosíntesis||S|sci|B2
+die Chemikalie|producto químico||S|sci|B2
+die chemische Reaktion|reacción química||L|sci|B2
+der Sauerstoff|oxígeno||S|sci|B2
+das Erbgut|material genético||S|sci|B2
+die Schwerkraft|gravedad||S|sci|B2
+das Teleskop|telescopio||S|sci|B2
+das Weltall|espacio exterior||S|sci|B2
+die Umlaufbahn|órbita||S|sci|B2
+die Geschwindigkeit|velocidad||S|sci|B2
+das Naturgesetz|ley natural||S|sci|B2
+der Lichtstrahl|rayo de luz||S|sci|B2
+der Roman|novela||S|let|B2
+die Erzählung|relato breve||S|let|B2
+der Krimi|novela policíaca||S|let|B2
+die Lyrik|lírica||S|let|B2
+die Metapher|metáfora||S|let|B2
+der Erzähler|narrador||S|let|B2
+die Inhaltsangabe|resumen del contenido||S|let|B2
+die Wirbelsäule|columna vertebral||S|cor|B2
+das Gelenk|articulación||S|cor|B2
+die Sehne|tendón||S|cor|B2
+die Lunge|pulmón||S|cor|B2
+die Leber|hígado||S|cor|B2
+das Blutbild|análisis de sangre||S|cor|B2
+der Kreislauf|circulación sanguínea||S|cor|B2
+der Lebensraum|hábitat||S|ani|B2
+das Wildtier|animal salvaje||S|ani|B2
+die Brutzeit|época de cría||S|ani|B2
+das Rudel|manada||S|ani|B2
+der Instinkt|instinto||S|ani|B2
+die Fortpflanzung|reproducción||S|ani|B2
+überwintern|hibernar||V|ani|B2
+der Artenschutz|protección de las especies||S|ani|B2
+die Wilderei|caza furtiva||S|ani|B2
+das Naturschutzgebiet|reserva natural||S|nat|B2
+das Zuchtprogramm|programa de cría en cautividad||S|ani|B2
+die Wiederansiedlung|reintroducción de especies||S|ani|B2
+die bedrohte Art|especie amenazada||L|ani|B2
+bedroht|amenazado||A|ani|B2
+die erneuerbaren Energien|energías renovables||L|nat|B2
+die Windkraft|energía eólica||S|nat|B2
+die Wasserkraft|energía hidroeléctrica||S|nat|B2
+die Biogasanlage|planta de biogás||S|nat|B2
+das Stromnetz|red eléctrica||S|nat|B2
+der Energieverbrauch|consumo energético||S|nat|B2
+der Atomausstieg|abandono de la energía nuclear||S|nat|B2
+das Windrad|aerogenerador||S|nat|B2
+das Gewitter|tormenta||S|cli|B2
+der Wolkenbruch|aguacero torrencial||S|cli|B2
+der Hagel|granizo||S|cli|B2
+die Kaltfront|frente frío||S|cli|B2
+die Vorhersage|previsión meteorológica||S|cli|B2
+der Wirbelsturm|torbellino||S|cli|B2
+die Niederschlagsmenge|cantidad de precipitación||S|cli|B2
+die Frist|plazo||S|tmp|B2
+die Dauer|duración||S|tmp|B2
+der Zeitraum|período de tiempo||S|tmp|B2
+die Fälligkeit|vencimiento||S|tmp|B2
+gelegentlich|ocasionalmente||D|tmp|B2
+ab und zu|de vez en cuando||L|tmp|B2
+das Intervall|intervalo||S|tmp|B2
+das Nachtleben|vida nocturna||S|sve|B2
+die Livemusik|música en directo||S|sve|B2
+der Türsteher|portero de discoteca||S|sve|B2
+die Cocktailbar|coctelería||S|sve|B2
+der Feierabend|fin de la jornada laboral||S|sve|B2
+die Sperrstunde|hora de cierre de los locales||S|sve|B2
+bummeln|pasear sin rumbo||V|sve|B2
+das Brettspiel|juego de mesa||S|sve|B2
+das Sammlerstück|pieza de colección||S|sve|B2
+das Schachbrett|tablero de ajedrez||S|sve|B2
+stricken|tejer||V|sve|B2
+häkeln|hacer ganchillo||V|sve|B2
+das Glücksspiel|juego de azar||S|sve|B2
+der Sammler|coleccionista||S|sve|B2
+der Würfel|dado||S|sve|B2
+der Antrieb|motivación interna||S|emo|B2
+die Eigenmotivation|automotivación||S|emo|B2
+der Frust|frustración||S|emo|B2
+der Anreiz|incentivo||S|emo|B2
+die Willenskraft|fuerza de voluntad||S|emo|B2
+der Selbstzweifel|duda sobre uno mismo||S|emo|B2
+der Ehrgeiz|ambición||S|emo|B2
+das Argument|argumento||S|cmu|B2
+der Beweis|prueba||S|cmu|B2
+widerlegen|refutar||V|cmu|B2
+die Behauptung|afirmación||S|cmu|B2
+das Gegenargument|contraargumento||S|cmu|B2
+die Schlussfolgerung|conclusión lógica||S|cmu|B2
+einwenden|objetar||V|cmu|B2
+der Vortrag|ponencia||S|cmu|B2
+die Folie|diapositiva||S|cmu|B2
+das Publikum|público asistente||S|cmu|B2
+der Redner|orador||S|cmu|B2
+das Lampenfieber|miedo escénico||S|emo|B2
+die Gliederung|esquema de la presentación||S|cmu|B2
+die Körpersprache|lenguaje corporal||S|cmu|B2
+der Applaus|aplauso||S|cmu|B2
+verhandeln|negociar||V|cmu|B2
+das Zugeständnis|concesión||S|cmu|B2
+der Kompromiss|compromiso||S|cmu|B2
+die Verhandlung|negociación||S|cmu|B2
+die Forderung|exigencia||S|cmu|B2
+nachgeben|ceder||V|cmu|B2
+der Entwurf|borrador||S|cmu|B2
+das Gericht|tribunal||S|ist|B2
+der Prozess|proceso judicial||S|ist|B2
+das Urteil|sentencia||S|ist|B2
+die Klage|demanda||S|ist|B2
+der Zeuge|testigo||S|ist|B2
+verurteilen|condenar||V|ist|B2
+der Angeklagte|acusado||S|ist|B2
+die Behörde|organismo público||S|ist|B2
+der Antrag|solicitud formal||S|ist|B2
+die Bescheinigung|certificado acreditativo||S|ist|B2
+einreichen|presentar una solicitud||V|ist|B2
+das Formular|formulario||S|ist|B2
+die Vorschrift|normativa||S|ist|B2
+in Kraft treten|entrar en vigor||L|ist|B2
+der Bescheid|notificación oficial||S|ist|B2
+der Wähler|elector||S|ist|B2
+die Wahlbeteiligung|participación electoral||S|ist|B2
+die Demokratie|democracia||S|ist|B2
+das Grundgesetz|ley fundamental||S|ist|B2
+die Meinungsfreiheit|libertad de expresión||S|ist|B2
+die Volksabstimmung|referéndum||S|ist|B2
+abstimmen|someter a votación||V|ist|B2
+allerdings|no obstante||D|cnn|B2
+demnach|por lo tanto||D|cnn|B2
+einerseits|por una parte||D|cnn|B2
+andererseits|por otra parte||D|cnn|B2
+folglich|por consiguiente||D|cnn|B2
+zwar|ciertamente||D|cnn|B2
+im Grunde|en el fondo||L|cnn|B2
+die Gerechtigkeit|justicia||S|ast|B2
+die Wahrheit|verdad||S|ast|B2
+die Schönheit|belleza||S|ast|B2
+die Würde|dignidad||S|ast|B2
+die Treue|fidelidad||S|ast|B2
+das Gewissen|conciencia moral||S|ast|B2
+die Lüge|mentira||S|ast|B2
+die Epoche|época artística||S|art|B2
+der Expressionismus|expresionismo||S|art|B2
+der Impressionismus|impresionismo||S|art|B2
+die Romantik|romanticismo||S|art|B2
+das Stillleben|naturaleza muerta||S|art|B2
+der Kubismus|cubismo||S|art|B2
+der Pinselstrich|trazo de pincel||S|art|B2
