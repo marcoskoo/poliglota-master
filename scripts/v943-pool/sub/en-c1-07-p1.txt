@@ -1,0 +1,65 @@
+legatee|legatario||S|ist|C1
+demurrer|excepción de insuficiencia||S|ist|C1
+interrogatories|interrogatorios escritos||S|ist|C1
+empanel|constituir el jurado||V|ist|C1
+sequestration|aislamiento (del jurado)||S|ist|C1
+unjust enrichment|enriquecimiento injusto||L|ist|C1
+privity|relación contractual directa||S|ist|C1
+fee simple|plena propiedad||L|ist|C1
+arraign|acusar formalmente en comparecencia||V|ist|C1
+actus reus|acto ilícito consumado||L|ist|C1
+reversible error|error anulatorio de la sentencia||L|ist|C1
+nolo contendere|declaración de no oposición||L|ist|C1
+plea colloquy|interrogatorio de conformidad culpable||L|ist|C1
+exclusionary rule|regla de exclusión probatoria||L|ist|C1
+bail hearing|vista de libertad provisional||L|ist|C1
+closing argument|alegato final||L|ist|C1
+admissible evidence|prueba admisible||L|ist|C1
+veto override|anulación del veto presidencial||L|ist|C1
+bicameralism|bicameralidad||S|ist|C1
+obiter dictum|considerando incidental||L|ist|C1
+ratio decidendi|fundamento jurídico de la decisión||L|ist|C1
+tracheostomy|traqueotomía||S|sla|C1
+nephrectomy|nefrectomía||S|sla|C1
+thrombolysis|trombólisis||S|sla|C1
+lymphadenopathy|linfadenopatía||S|sla|C1
+vasodilation|vasodilatación||S|sla|C1
+bronchodilator|broncodilatador||S|sla|C1
+immunosuppressant|inmunosupresor||S|sla|C1
+catheterization|cateterismo||S|sla|C1
+erythropoietin|eritropoyetina||S|sla|C1
+thrombocytopenia|trombocitopenia||S|sla|C1
+apraxia|apraxia||S|sla|C1
+agnosia|agnosia||S|sla|C1
+prosopagnosia|prosopagnosia||S|sla|C1
+depersonalization|despersonalización||S|sla|C1
+mood stabilizer|estabilizador del ánimo||L|sla|C1
+bioequivalence|bioequivalencia||S|sla|C1
+therapeutic index|margen terapéutico||L|sla|C1
+germline editing|edición de la línea germinal||L|sla|C1
+procyclical|procíclico||A|fin|C1
+discount window|ventanilla de descuento||L|fin|C1
+forward guidance|guía sobre tipos futuros||L|fin|C1
+recapitalization|recapitalización||S|fin|C1
+capital adequacy|adecuación de capital||L|fin|C1
+dark pool|mercado opaco||L|fin|C1
+high-frequency trading|negociación de alta frecuencia||L|fin|C1
+flash crash|desplome relámpago||L|fin|C1
+collateralized debt obligation|obligación de deuda colateralizada||L|fin|C1
+interest rate swap|permuta de tipos de interés||L|fin|C1
+investment grade|grado de inversión||L|fin|C1
+mezzanine financing|financiación subordinada||L|fin|C1
+goodwill impairment|deterioro del fondo de comercio||L|fin|C1
+off-balance-sheet|fuera de balance||A|fin|C1
+thin capitalization|subcapitalización||L|fin|C1
+hot money|capitales golondrina||L|fin|C1
+tax gap|brecha recaudatoria||L|fin|C1
+currency manipulation|manipulación monetaria||L|fin|C1
+free trade area|zona de libre comercio||L|fin|C1
+trade remedy|medida de defensa comercial||L|fin|C1
+tariff escalation|escalada arancelaria||L|fin|C1
+vesting period|período de consolidación de derechos||L|fin|C1
+binding arbitration|arbitraje vinculante||L|ist|C1
+loss adjuster|perito de seguros||S|pro|C1
+captive insurer|aseguradora cautiva||L|fin|C1
+supply chain disruption|interrupción de la cadena de suministro||L|lav|C1

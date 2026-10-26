@@ -1,0 +1,55 @@
+bachelor's degree|grado universitario||S|stu|B2
+dorm|residencia universitaria||S|stu|B2
+pothole|bache||S|cit|B2
+old town|casco antiguo||S|cit|B2
+next-door neighbor|vecino de al lado||S|cit|B2
+homeowners association|comunidad de propietarios||S|cit|B2
+block party|fiesta de barrio||S|cit|B2
+neighborhood watch|red vecinal de vigilancia||S|cit|B2
+emergency exit|salida de emergencia||S|cit|B2
+fire drill|simulacro de incendios||S|cit|B2
+surveillance camera|cámara de vigilancia||S|cit|B2
+waste collection|recogida de residuos||S|cit|B2
+heat wave|ola de calor||S|cli|B2
+rising sea levels|subida del nivel del mar||S|cli|B2
+browsing history|historial de navegación||S|tec|B2
+back up|hacer una copia de seguridad||E|tec|B2
+default settings|ajustes predeterminados||S|tec|B2
+playoffs|eliminatorias finales||S|spt|B2
+disqualified|descalificado||A|spt|B2
+gym membership|abono de gimnasio||S|spt|B2
+pick-up game|partido informal||S|spt|B2
+merch|productos oficiales||S|mus|B2
+season finale|final de temporada||S|cin|B2
+make up|reconciliarse||E|rel|B2
+shouting match|discusión acalorada||S|rel|B2
+silent treatment|hacer el vacío||E|rel|B2
+bridal shower|fiesta previa a la boda||S|rel|B2
+baby shower|fiesta por el nacimiento||S|rel|B2
+flake on|dejar plantado||E|rel|B2
+bail on|escaquearse de un plan||E|rel|B2
+cosigner|avalista||S|fin|B2
+monthly installment|cuota mensual||S|fin|B2
+compound interest|interés compuesto||S|fin|B2
+hidden fee|cargo oculto||S|fin|B2
+primary|primarias||S|ist|B2
+genetic|genético||A|sci|B2
+storytelling|arte de contar historias||S|let|B2
+best seller|superventas||S|let|B2
+protected area|espacio protegido||S|nat|B2
+single-use plastic|plástico de un solo uso||S|nat|B2
+hiking trail|sendero||S|nat|B2
+bouncer|portero de discoteca||S|sve|B2
+last call|última ronda||S|sve|B2
+designated driver|conductor alternativo||S|sve|B2
+peer pressure|presión de grupo||S|emo|B2
+New Year's resolution|propósito de año nuevo||S|emo|B2
+take a stand|tomar postura||E|cmu|B2
+deal breaker|condición innegociable||S|cmu|B2
+fill out a form|rellenar un formulario||E|ist|B2
+proof of address|justificante de domicilio||S|ist|B2
+pros and cons|el pro y el contra||E|cnn|B2
+injustice|injusticia||S|ast|B2
+accessibility|accesibilidad||S|ast|B2
+superstition|superstición||S|ast|B2
+every other day|cada dos días||E|tmp|B2

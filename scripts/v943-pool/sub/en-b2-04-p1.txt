@@ -1,0 +1,55 @@
+millennial|persona nacida entre 1981 y 1996||S|fam|B2
+grown-up|adulto||S|fam|B2
+child support|pensión de alimentos||S|fam|B2
+childcare|cuidado de los niños||S|fam|B2
+moving company|empresa de mudanzas||S|cas|B2
+countertop|encimera||S|cas|B2
+nightstand|mesilla de noche||S|cas|B2
+dresser|cómoda||S|cas|B2
+floor plan|plano de la vivienda||S|cas|B2
+staple food|alimento básico||S|ali|B2
+flavorful|sabroso||A|ali|B2
+takeout|comida para llevar||S|ali|B2
+gluten-free|sin gluten||A|ali|B2
+calorie intake|aporte calórico||S|ali|B2
+craft beer|cerveza artesanal||S|ali|B2
+drip coffee|café de filtro||S|ris|B2
+diner|restaurante de cocina americana||S|ris|B2
+entrée|plato principal||S|ris|B2
+food critic|crítico gastronómico||S|ris|B2
+ambience|ambiente||S|ris|B2
+rave review|reseña entusiasta||S|ris|B2
+consumerism|consumismo||S|cmp|B2
+checkout|proceso de pago||S|cmp|B2
+garage sale|mercadillo en casa||S|cmp|B2
+fashion trend|tendencia de moda||S|rop|B2
+tailored|a medida||A|rop|B2
+hiking boots|botas de montaña||S|rop|B2
+speeding ticket|multa por exceso de velocidad||S|tra|B2
+breakdown|avería||S|tra|B2
+carpool lane|carril para coches compartidos||S|tra|B2
+rideshare|viaje compartido en coche||S|tra|B2
+e-scooter|patinete eléctrico||S|tra|B2
+monthly pass|abono mensual||S|tra|B2
+charging station|estación de carga||S|tra|B2
+bike-share|alquiler de bicicletas||S|tra|B2
+hail a cab|parar un taxi||E|tra|B2
+rebook|cambiar un billete||V|vig|B2
+departure gate|puerta de embarque||S|vig|B2
+red-eye flight|vuelo nocturno||S|vig|B2
+standby|lista de espera de un vuelo||S|vig|B2
+opening hours|horario de apertura||S|vig|B2
+overbook|vender más habitaciones de las disponibles||V|htl|B2
+make a complaint|presentar una queja||E|htl|B2
+valet parking|servicio de aparcacoches||S|htl|B2
+public healthcare|sanidad pública||S|sla|B2
+deep breathing|respiración profunda||S|sla|B2
+chest compressions|compresiones torácicas||S|sla|B2
+sluggish|sin energía||A|sla|B2
+bloodstream|flujo sanguíneo||S|cor|B2
+job fair|feria de empleo||S|lav|B2
+background check|comprobación de antecedentes||S|lav|B2
+two weeks' notice|preaviso de dos semanas||S|lav|B2
+stepping stone|trampolín profesional||S|lav|B2
+paid time off|vacaciones retribuidas||S|lav|B2
+get up to speed|ponerse al día||E|lav|B2

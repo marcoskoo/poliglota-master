@@ -1,0 +1,105 @@
+disinflazione|desinflación||S|fin|C2
+operazioni di mercato aperto|operaciones de mercado abierto||L|fin|C2
+allentamento quantitativo|flexibilización cuantitativa||S|fin|C2
+aspettative inflazionistiche|expectativas inflacionarias||S|fin|C2
+punto base|punto básico||S|fin|C2
+prestito obbligazionario|emisión de bonos||S|fin|C2
+revisione legale|auditoría de cuentas||S|fin|C2
+principi contabili|principios contables||S|fin|C2
+sopravvenienze attive|ingresos sobrevenidos||L|fin|C2
+patrimonializzazione|refuerzo patrimonial||S|fin|C2
+requisito patrimoniale|requisito de capital||S|fin|C2
+incaglio|crédito en riesgo de impago||S|fin|C2
+corso legale|curso legal (poder liberatorio)||S|fin|C2
+risoluzione bancaria|resolución bancaria||S|fin|C2
+bail-in|rescate interno||S|fin|C2
+valore attuale netto|valor actual neto||S|fin|C2
+fusioni e acquisizioni|fusiones y adquisiciones||L|fin|C2
+potere di mercato|poder de mercado||S|fin|C2
+economie di scopo|economías de alcance||S|fin|C2
+barriera all'entrata|barrera de entrada||S|fin|C2
+servizio del debito|servicio de la deuda||S|fin|C2
+margine operativo|margen operativo||S|fin|C2
+scorta di sicurezza|stock de seguridad||S|fin|C2
+terziarizzazione|tercerización (externalización)||S|lav|C2
+acceleratore d'impresa|aceleradora de empresas||S|lav|C2
+standardizzazione|estandarización||S|lav|C2
+funzionigramma|cuadro de funciones||S|lav|C2
+portatore d'interesse|parte interesada||S|lav|C2
+welfare aziendale|bienestar corporativo||S|lav|C2
+attitudinale|aptitudinal||A|lav|C2
+psicometria|psicometría||S|sci|C2
+rotazione del personale|rotación de personal||S|lav|C2
+presentismo|presentismo||S|lav|C2
+percorso d'acquisto|recorrido de compra||S|fin|C2
+notorietà di marca|notoriedad de marca||S|fin|C2
+cibersicurezza|ciberseguridad||S|tec|C2
+fotodiodo|fotodiodo||S|tec|C2
+optoelettronica|optoelectrónica||S|sci|C2
+cinematica inversa|cinemática inversa||L|tec|C2
+telepresenza|telepresencia||S|tec|C2
+esoscheletro|exoesqueleto||S|tec|C2
+sovraadattamento|sobreajuste||S|tec|C2
+elettrolizzatore|electrolizador||S|tec|C2
+deposito geologico|almacén geológico de CO2||S|sci|C2
+museologia|museología||S|art|C2
+patinatura|patinado (acabado)||S|art|C2
+craquelé|craquelado (grietas del barniz)||S|art|C2
+iconologico|iconológico||A|art|C2
+suppellettile|aperos (trastos domésticos)||S|art|C2
+orologeria|relojería||S|art|C2
+niellatura|nielado||S|art|C2
+panneggio|drapeado (pliegues de tela)||S|art|C2
+acquatinta|aguatinta||S|art|C2
+puntasecca|punta seca||S|art|C2
+fotomontaggio|fotomontaje||S|cin|C2
+horror vacui|horror vacui||L|art|C2
+genius loci|genius loci||L|art|C2
+metopa|métopa||S|art|C2
+arriccio|arriciado (capa de enlucido)||S|art|C2
+cocciopesto|cocciopesto (opus signinum)||S|art|C2
+graffito|esgrafiado||S|art|C2
+scialbatura|encalado||S|art|C2
+pietra serena|pietra serena (arenisca toscana)||S|art|C2
+laterizio|ladrillo (material cerámico)||S|art|C2
+tessuto urbano|tejido urbano||S|cit|C2
+area dismessa|solar industrial abandonado||S|cit|C2
+borgata|barriada (barrio marginal)||S|cit|C2
+abbaino|ventana de tejado (buhardilla)||S|cas|C2
+frontone|frontón||S|art|C2
+pieve|pieve (iglesia bautismal rural)||S|art|C2
+paliotto|frontal de altar||S|art|C2
+tondo|tondo (relieve circular)||S|art|C2
+neuma|neuma||S|mus|C2
+notazione|notación||S|mus|C2
+accordatura|afinación||S|mus|C2
+rubato|tempo rubato||S|mus|C2
+contraddanza|contradanza||S|mus|C2
+gagliarda|gallarda||S|mus|C2
+pavana|pavana||S|mus|C2
+giravolta|vuelta rápida (giro)||S|art|C2
+campo e controcampo|campo y contracampo||L|cin|C2
+soggettista|guionista de argumento||S|pro|C2
+scaletta|escaleta (guion técnico)||S|cin|C2
+inquadratura soggettiva|plano subjetivo||L|cin|C2
+lazzo|lazo (chiste escénico)||S|let|C2
+terza pagina|tercera página (página cultural)||L|let|C2
+apoftegma|apotegma||S|let|C2
+paremiologia|paremiología||S|let|C2
+libello|libelo||S|let|C2
+filippica|filípica||S|let|C2
+zibaldone|zibaldone (cuaderno misceláneo)||S|let|C2
+centone|centón||S|let|C2
+memorialistica|literatura memorialística||S|let|C2
+bibliofilo|bibliófilo||S|let|C2
+pergamena|pergamino||S|let|C2
+traduzione simultanea|traducción simultánea||S|let|C2
+forestierizzazione|extranjerización (estrategia traductora)||S|let|C2
+falso amico|falso amigo||L|let|C2
+pedagogia|pedagogía||S|stu|C2
+pedagogista|pedagogo||S|pro|C2
+valutazione sommativa|evaluación sumativa||S|stu|C2
+curricolo implicito|currículo oculto||S|stu|C2
+strumenti compensativi|medidas compensatorias||L|stu|C2
+discalculia|discalculia||S|stu|C2
+disgrafia|disgrafía||S|stu|C2

@@ -1,0 +1,146 @@
+remissione completa|remisión completa||L|sla|C2
+cronicizzazione|cronificación||S|sla|C2
+fisiopatologia|fisiopatología||S|sla|C2
+paraneoplastico|paraneoplásico||A|sla|C2
+metastatizzazione|metastatización||S|sla|C2
+emostatico|hemostático||A|sla|C2
+anestesia spinale|anestesia raquídea||S|sla|C2
+sedazione profonda|sedación profunda||S|sla|C2
+direttive anticipate|instrucciones previas||L|sla|C2
+criteri di eleggibilità|criterios de elegibilidad||S|sla|C2
+esito primario|criterio de valoración principal||S|sla|C2
+rilascio prolungato|liberación prolongada||S|sla|C2
+genotossico|genotóxico||A|sla|C2
+teratogeno|teratógeno||A|sla|C2
+mutageno|mutágeno||A|sla|C2
+istologico|histológico||A|sla|C2
+anatomia patologica|anatomía patológica||S|sla|C2
+necroscopia|necropsia||S|sla|C2
+terreno di coltura|caldo de cultivo||L|sla|C2
+virulenza|virulencia||S|sla|C2
+nosofobia|nosofobia||S|sla|C2
+delirio di riferimento|delirio de referencia||S|sla|C2
+evitamento|evitación||S|sla|C2
+ipomania|hipomanía||S|sla|C2
+narcisismo maligno|narcisismo maligno||L|sla|C2
+parafilia|parafilia||S|sla|C2
+delirium tremens|delirium tremens||L|sla|C2
+anosognosia|anosognosia||S|sla|C2
+prosopoagnosia|prosopagnosia||S|sla|C2
+eminegligenza|heminegligencia||S|sla|C2
+discinesia|discinesia||S|sla|C2
+acatisia|acatisia (inquietud motora)||S|sla|C2
+mioclono|mioclono||S|sla|C2
+distonia|distonía||S|sla|C2
+cefalea a grappolo|cefalea en racimos||L|sla|C2
+radicolopatia|radiculopatía||S|sla|C2
+sclerosi a placche|esclerosis en placas||L|sla|C2
+ateroma|ateroma||S|sla|C2
+scompenso|descompensación||S|sla|C2
+extrasistole|extrasístole||S|sla|C2
+valvulopatia|valvulopatía||S|sla|C2
+troponina|troponina||S|sla|C2
+ortopnea|ortopnea||S|sla|C2
+broncospasmo|broncoespasmo||S|sla|C2
+ossimetria|oximetría||S|sla|C2
+ossigenoterapia|oxigenoterapia||S|sla|C2
+toracoscopia|toracoscopia||S|sla|C2
+versamento pleurico|derrame pleural||S|sla|C2
+tiroidite|tiroiditis||S|sla|C2
+ipertireosi|hipertiroidismo||S|sla|C2
+ipercortisolismo|hipercortisolismo||S|sla|C2
+emoglobina glicata|hemoglobina glucosilada||S|sla|C2
+sarcopenia|sarcopenia||S|sla|C2
+dislipidemia|dislipemia||S|sla|C2
+placenta previa|placenta previa||L|sla|C2
+antivaccinismo|antivacunismo||S|sla|C2
+rieducazione motoria|reeducación motora||S|sla|C2
+artroplastica|artroplastia||S|sla|C2
+piressia|piressia (fiebre)||S|sla|C2
+leucocitosi|leucocitosis||S|sla|C2
+neutropenia|neutropenia||S|sla|C2
+embolia polmonare|embolia pulmonar||S|sla|C2
+coagulopatia|coagulopatía||S|sla|C2
+diatesi emorragica|diátesis hemorrágica||S|sla|C2
+cuffia dei rotatori|manguito rotador||L|sla|C2
+sinoviale|sinovial||A|sla|C2
+pericardio|pericardio||S|cor|C2
+endocardite|endocarditis||S|sla|C2
+segreto medico|secreto médico||S|sla|C2
+introiezione|introyección||S|sla|C2
+ideale dell'io|ideal del yo||L|sla|C2
+catessi|catexia (investimiento libidinal)||S|sla|C2
+rimosso|lo reprimido (sustantivo)||S|sla|C2
+benzodiazepina|benzodiacepina||S|sla|C2
+ipnotico|hipnótico (sedante)||A|sla|C2
+chimerismo|quimerismo||S|sci|C2
+metilazione|metilación||S|sci|C2
+acetilazione|acetilación (de histonas)||S|sci|C2
+istone|histona||S|sci|C2
+endonucleasi|endonucleasa||S|sci|C2
+elicasi|helicasa||S|sci|C2
+traslocazione|translocación (cromosómica)||S|sci|C2
+aneuploidia|aneuploidía||S|sci|C2
+citogenetica|citogenética||S|sci|C2
+citofluorimetria|citometría de flujo||S|sci|C2
+immunoistochimica|inmunohistoquímica||S|sci|C2
+autofagia|autofagia||S|sci|C2
+senescenza cellulare|senescencia celular||S|sci|C2
+immunotolleranza|inmunotolerancia||S|sci|C2
+antibioticoresistenza|antibiorresistencia||S|sci|C2
+resistoma|resistoma||S|sci|C2
+molarità|molaridad||S|sci|C2
+molalità|molalidad||S|sci|C2
+chelante|quelante||S|sci|C2
+alchilico|alquílico||A|sci|C2
+amminico|amínico||A|sci|C2
+carbonilico|carbonílico||A|sci|C2
+carbossilico|carboxílico||A|sci|C2
+esterificazione|esterificación||S|sci|C2
+eluente|eluyente||S|sci|C2
+anfotero|anfótero||A|sci|C2
+banda di conduzione|banda de conducción||S|sci|C2
+dopante|dopante||S|sci|C2
+leptone|leptón||S|sci|C2
+adrone|hadrón||S|sci|C2
+scorie nucleari|residuos nucleares||S|sci|C2
+ignizione|ignición (fusión nuclear)||S|sci|C2
+confinamento magnetico|confinamiento magnético||S|sci|C2
+sali fusi|sales fundidas||S|sci|C2
+termoclino|termoclina||S|sci|C2
+magnetar|magnétar||S|sci|C2
+resto di supernova|remanente de supernova||S|sci|C2
+sequenza principale|secuencia principal||S|sci|C2
+zona abitabile|zona de habitabilidad||S|sci|C2
+inflazione cosmologica|inflación cósmica||S|sci|C2
+spaziotempo|espaciotiempo||S|sci|C2
+dilatazione del tempo|dilatación del tiempo||S|sci|C2
+interferometro|interferómetro||S|sci|C2
+galleria del vento|túnel de viento||L|sci|C2
+lanciatore orbitale|lanzador espacial||S|sci|C2
+detrito spaziale|desecho espacial||S|sci|C2
+covarianza|covarianza||S|sci|C2
+multicollinearità|multicolinealidad||S|sci|C2
+eteroschedasticità|heterocedasticidad||S|sci|C2
+endogeneità|endogeneidad||S|sci|C2
+revisione sistematica|revisión sistemática||S|sci|C2
+confondimento|sesgo de confusión||S|sci|C2
+stimatore|estimador (estadístico)||S|sci|C2
+serie storica|serie temporal||S|sci|C2
+stazionarietà|estacionariedad||S|sci|C2
+autocorrelazione|autocorrelación||S|sci|C2
+metodo dei minimi quadrati|método de mínimos cuadrados||L|sci|C2
+quantile|cuantil||S|sci|C2
+pseudocasuale|pseudoaleatorio||A|sci|C2
+ergodico|ergódico||A|sci|C2
+attrattore|atractor||S|sci|C2
+frattale|fractal||S|sci|C2
+assiomatica|axiomática||S|sci|C2
+incompletezza|incompletitud||S|sci|C2
+numerabilità|numerabilidad||S|sci|C2
+autovalore|autovalor||S|sci|C2
+diagonalizzazione|diagonalización||S|sci|C2
+logica modale|lógica modal||S|sci|C2
+proposizionale|proposicional||A|sci|C2
+tabella di verità|tabla de verdad||L|sci|C2
+tautologico|tautológico||A|ast|C2

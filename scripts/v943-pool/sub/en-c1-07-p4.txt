@@ -1,0 +1,182 @@
+trichotillomania|tricotilomanía||S|sla|C1
+flight of ideas|fuga de ideas||L|sla|C1
+conversion disorder|trastorno de conversión||L|sla|C1
+projective identification|identificación proyectiva||L|sla|C1
+drug holiday|pausa terapéutica||L|sla|C1
+peak plasma concentration|concentración plasmática máxima||L|sla|C1
+active metabolite|metabolito activo||L|sla|C1
+akathisia|acatisia||S|sla|C1
+hemoptysis|hemoptisis||S|sla|C1
+steatorrhea|esteatorrea||S|sla|C1
+ascites|ascitis||S|sla|C1
+empyema|empiema||S|sla|C1
+cor pulmonale|cor pulmonale||L|sla|C1
+pulsus paradoxus|pulso paradójico||L|sla|C1
+nephrotic syndrome|síndrome nefrótico||L|sla|C1
+cadaveric donor|donante cadáver||L|sla|C1
+polycythemia|policitemia||S|sla|C1
+cerebrospinal fluid|líquido cefalorraquídeo||L|sla|C1
+decorticate posture|postura de descorticación||L|sla|C1
+hyperreflexia|hiperreflexia||S|sla|C1
+radiculopathy|radiculopatía||S|sla|C1
+intention tremor|temblor intencional||L|sla|C1
+festinating gait|marcha festinante||L|sla|C1
+pressure ulcer|úlcera por presión||L|sla|C1
+anastomotic leak|fuga de anastomosis||L|sla|C1
+incarcerated hernia|hernia estrangulada||L|sla|C1
+hemoperitoneum|hemoperitoneo||S|sla|C1
+trauma bay|box de traumatología||S|sla|C1
+thoracostomy|toracostomía||S|sla|C1
+vasopressor support|soporte vasopresor||L|sla|C1
+breakthrough pain|dolor irruptivo||L|sla|C1
+multimodal analgesia|analgesia multimodal||L|sla|C1
+rebound tenderness|dolor de rebote||L|sla|C1
+antibiotic stewardship|uso prudente de antibióticos||L|sla|C1
+serial passage|pases seriados en cultivo||L|sci|C1
+episome|episoma||S|sci|C1
+founder effect|efecto fundador||L|sci|C1
+index fossil|fósil guía||L|sci|C1
+epilimnion|epilimnion||S|sci|C1
+primary production|producción primaria||L|sci|C1
+change detection|detección de cambios||L|sci|C1
+zero-point energy|energía del punto cero||L|sci|C1
+color charge|carga de color||L|sci|C1
+parton distribution|distribución de partones||L|sci|C1
+renormalization group|grupo de renormalización||L|sci|C1
+brane cosmology|cosmología de branas||L|sci|C1
+inflaton field|campo del inflatón||L|sci|C1
+sterile neutrino|neutrino estéril||L|sci|C1
+muon tomography|tomografía muónica||L|sci|C1
+beamline|línea de luz||S|sci|C1
+entangled pair|par entrelazado||L|sci|C1
+photonic crystal|cristal fotónico||L|sci|C1
+superlattice|superred||S|sci|C1
+strain hardening|endurecimiento por deformación||L|sci|C1
+differential privacy|privacidad diferencial||L|tec|C1
+credential stuffing|relleno de credenciales robadas||S|tec|C1
+cross-site scripting|inyección de scripts cruzada||S|tec|C1
+formal verification|verificación formal||L|tec|C1
+instruction set architecture|arquitectura de conjunto de instrucciones||L|tec|C1
+register renaming|renombre de registros||L|tec|C1
+photonic interconnect|interconexión fotónica||L|tec|C1
+gate oxide|óxido de puerta||L|sci|C1
+bare particular|particular desnudo||L|ast|C1
+counterpart theory|teoría de los contrapartes||L|ast|C1
+multiple realizability|realizabilidad múltiple||L|ast|C1
+knowledge argument|argumento del conocimiento||L|ast|C1
+global workspace|espacio de trabajo global||L|sci|C1
+access consciousness|conciencia de acceso||L|ast|C1
+wide content|contenido externo||L|ast|C1
+veil of ignorance|velo de ignorancia||L|ast|C1
+overlapping consensus|consenso entrecruzado||L|ast|C1
+testimonial injustice|injusticia testimonial||L|ast|C1
+higher-order evidence|evidencia de segundo orden||L|ast|C1
+reliabilism|fiabilismo||S|ast|C1
+peer disagreement|desacuerdo entre pares||L|ast|C1
+epistemic luck|suerte epistémica||L|ast|C1
+novel of ideas|novela de ideas||L|let|C1
+police procedural|procedimental policial||L|let|C1
+nested narrative|relato anidado||L|let|C1
+iterative narration|narración iterativa||L|let|C1
+hypertextuality|hipertextualidad||S|let|C1
+hidden polemic|polémica oculta||L|let|C1
+model reader|lector modelo||L|let|C1
+ostranenie|ostranenie||S|let|C1
+conative function|función conativa||L|let|C1
+symptomatic reading|lectura sintomática||L|let|C1
+counter-canon|contracanon||S|let|C1
+scribal culture|cultura escribal||L|let|C1
+ductus|ductus||S|let|C1
+rubrication|rubricación||S|let|C1
+presentation copy|ejemplar de cortesía||L|let|C1
+emendation|enmienda textual||S|let|C1
+frontispiece|frontispicio||S|let|C1
+patristics|patrística||S|let|C1
+bibliophilia|bibliofilia||S|let|C1
+cartulary|cartulario||S|let|C1
+scriptorium|scriptorium||S|let|C1
+bounded rationality|racionalidad limitada||L|ast|C1
+false consensus|consenso ilusorio||L|ast|C1
+representativeness heuristic|heurística de representatividad||L|ast|C1
+present bias|sesgo del presente||L|ast|C1
+libertarian paternalism|paternalismo libertario||L|ast|C1
+folk devil|demonio popular||S|ast|C1
+face-work|trabajo de imagen||S|cmu|C1
+spoiled identity|identidad deteriorada||L|ast|C1
+techniques of neutralization|técnicas de neutralización||L|ast|C1
+hot spot policing|policía de puntos calientes||L|ist|C1
+victimization survey|encuesta de victimización||L|sci|C1
+recidivism rate|tasa de reincidencia||L|ist|C1
+victim-offender mediation|mediación entre víctima y ofensor||L|ist|C1
+chaconne|chacona||S|mus|C1
+fugato|fugato||S|mus|C1
+subito|subito||D|mus|C1
+divisi|divisi||S|mus|C1
+just intonation|afinación justa||L|mus|C1
+quarter tone|cuarto de tono||L|mus|C1
+con sordino|con sordina||L|mus|C1
+sound mass|masa sonora||L|mus|C1
+lead sheet|hoja de acordes||L|mus|C1
+comping|acompañamiento armónico||S|mus|C1
+melisma|melisma||S|mus|C1
+program music|música programática||L|mus|C1
+alla prima|alla prima||L|art|C1
+bozzetto|bozzetto||S|art|C1
+relational aesthetics|estética relacional||L|art|C1
+technical art history|historia técnica del arte||L|art|C1
+foxing|oxidación puntual del papel||S|art|C1
+laid paper|papel verjurado||L|art|C1
+bomb cyclone|ciclón bomba||L|cli|C1
+hoarfrost|escarcha||S|cli|C1
+dry line|línea seca||L|cli|C1
+vorticity|vorticidad||S|cli|C1
+dropsonde|sonda paracaidista||S|cli|C1
+disdrometer|disdrómetro||S|cli|C1
+storm chasing|caza de tormentas||S|cli|C1
+stud book|libro genealógico||L|ani|C1
+flying change|cambio de pie al vuelo||L|ani|C1
+dressage test|reprise de doma||L|ani|C1
+bascule|bascule||S|ani|C1
+jump-off|desempate de salto||S|ani|C1
+natural horsemanship|doma natural||L|ani|C1
+sweet itch|dermatitis estival equina||L|ani|C1
+conformation showing|exposición de morfología canina||L|ani|C1
+flyball|flyball||S|ani|C1
+double coat|manto doble||L|ani|C1
+linebreeding|cría en línea||S|ani|C1
+puppy mill|cría clandestina de cachorros||L|ani|C1
+declawing|onicectomía||S|ani|C1
+crate training|adiestramiento con transportín||L|ani|C1
+reactive dog|perro reactivo||L|ani|C1
+bain-marie|baño maría||L|ris|C1
+food mill|pasapurés||L|ris|C1
+proofing basket|cesta de fermentación||L|ris|C1
+autolyse|autólisis de la masa||S|ris|C1
+scoring|greñado||S|ris|C1
+low and slow|a fuego lento y prolongado||L|ris|C1
+nappe consistency|punto de napado||L|ris|C1
+gastrique|gastrique||S|ris|C1
+persillade|persillade||S|ris|C1
+tetchy|irascible||A|emo|C1
+uxorious|uxorioso||A|emo|C1
+dolt|zoquete||S|emo|C1
+moonstruck|encandilado||A|emo|C1
+purple prose|prosa recargada||L|let|C1
+trite|trillado||A|let|C1
+solecism|solecismo||S|let|C1
+spoonerism|spoonerismo||S|let|C1
+howler|metedura de pata||S|cmu|C1
+give up the ghost|estirar la pata||L|cmu|C1
+off the rails|descarrilado||L|cmu|C1
+hold court|acaparar la conversación||L|cmu|C1
+push the envelope|forzar los límites||L|cmu|C1
+out of sorts|descentrado||L|emo|C1
+raison d'etre|razón de ser||L|ast|C1
+verboten|estrictamente prohibido||A|ast|C1
+not least because|sobre todo porque||L|cnn|C1
+it goes without saying|sobra decirlo||L|cnn|C1
+come what may|pase lo que pase||L|cnn|C1
+as and when|cuando proceda||L|cnn|C1
+haltingly|titubeando||D|cnn|C1
+yikes|uy||I|cmu|C1
+gee whiz|vaya||I|cmu|C1

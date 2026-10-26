@@ -1,0 +1,51 @@
+methylation|metilación||S|sci|C1
+intron|intrón||S|sci|C1
+spliceosome|espliceosoma||S|sci|C1
+synaptic pruning|poda sináptica||L|sci|C1
+nociceptor|nociceptor||S|sci|C1
+neutrino oscillation|oscilación de neutrinos||L|sci|C1
+ergosphere|ergosfera||S|sci|C1
+spaghettification|espaguetización||S|sci|C1
+kilonova|kilonova||S|sci|C1
+propensity score|puntuación de propensión||L|sci|C1
+data dredging|pesca de datos||L|sci|C1
+unconformity|discordancia estratigráfica||S|sci|C1
+truth table|tabla de verdad||L|sci|C1
+objective correlative|correlato objetivo||L|let|C1
+kenning|kenning||S|let|C1
+polyptoton|políptoton||S|let|C1
+epiphenomenalism|epifenomenalismo||S|ast|C1
+verificationism|verificacionismo||S|ast|C1
+emotivism|emotivismo||S|ast|C1
+antinomy|antinomia||S|ast|C1
+poltroon|cobarde||S|emo|C1
+linguistic turn|giro lingüístico||L|ast|C1
+multipolarity|multipolaridad||S|ist|C1
+nuclear umbrella|paraguas nuclear||L|ist|C1
+on background|bajo reserva de fuente||L|att|C1
+twelve-tone technique|dodecafonismo||L|mus|C1
+underdrawing|dibujo subyacente||S|art|C1
+zero-knowledge proof|prueba de conocimiento nulo||L|tec|C1
+federated learning|aprendizaje federado||L|tec|C1
+pebble-bed reactor|reactor de lecho de bolas||L|sci|C1
+orbital insertion|inserción orbital||L|sci|C1
+pro tanto|en la medida correspondiente||L|ast|C1
+ebullient|efervescente||A|emo|C1
+garrulous|gárrulo||A|emo|C1
+disconsolate|desconsolado||A|emo|C1
+decanting|decantación||S|ali|C1
+cultivar|cultivar||S|nat|C1
+allelopathy|alelopatía||S|nat|C1
+transit-oriented development|desarrollo orientado al transporte||L|cit|C1
+choreographic|coreográfico||A|art|C1
+revolving door|puerta giratoria||L|ist|C1
+scintilla|ápice||S|ast|C1
+throw shade|soltar indirectas||L|cmu|C1
+humblebrag|falsa modestia jactanciosa||S|cmu|C1
+moving the goalposts|cambiar las reglas a mitad de juego||L|cmu|C1
+doomscrolling|consumo compulsivo de malas noticias||S|tec|C1
+whereupon|tras lo cual||C|cnn|C1
+herein|en el presente documento||D|cnn|C1
+savoir faire|saber hacer||S|rel|C1
+joie de vivre|alegría de vivir||L|emo|C1
+esprit de corps|espíritu de cuerpo||L|rel|C1

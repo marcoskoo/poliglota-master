@@ -1,0 +1,733 @@
+absentee ballot
+acceptance speech
+ace a test
+action item
+active recall
+adjourn
+adolescent
+adopt a pet? no
+adopt don't shop? no
+advance screening
+advocacy group
+affiliate marketing
+agenda item
+all-purpose flour
+allergy season
+alumni network
+animal cruelty
+animal shelter
+animal shelter (test - was in candidates above)
+antibiotic-free
+antique shop
+application fee
+assistant coach
+audit a class
+author event? no
+autonomous vehicle
+award ceremony
+awards season
+baby steps
+back deck
+backstage pass
+bake sale
+baking powder
+baking soda
+ballot measure
+banned substance
+basement apartment
+bass player
+batch cooking
+battleground state
+beach read
+bed rest
+bedtime routine
+below market value
+benefits package
+bereavement leave
+best-by date
+birdcage
+birth order
+black ice
+black sheep
+blood drive
+blood work
+blowout
+bonus room
+book adaptation
+book launch
+book report
+book series
+book signing
+bootleg
+borrowing limit? no
+box-office hit? "box office" tested? add box-office hit
+brake fluid
+brake pads
+brand ambassador
+brand identity
+breaking story
+breeder
+breeding ground
+brick-and-mortar
+bumper-to-bumper
+burn out
+business casual
+business expense
+buyer's market
+call in sick
+call to order
+campaign finance
+campaign promise
+campaign trail
+can't put it down? too long
+captive breeding
+car battery
+car insurance
+car registration
+car rental
+car wash
+carbon neutral
+carbon tax
+carry-out
+casual Friday
+cat litter
+caucus
+centrist
+certified organic
+certified pre-owned
+chain of command
+chain store
+chance of rain
+character development
+charter school
+cheap seats
+check-engine light? weird hyphens. skip
+chef's table
+circle back
+civic engagement
+claim denial
+claim filing? no
+class presentation
+clean energy
+clear skies
+clearance rack
+clicker training? niche
+cliffhanger ending? cliffhanger alone tested? add
+clock in
+clock out
+close-knit
+closing date
+co-insurance
+coaching staff
+coffee break
+cold front
+cold turkey
+comeback win
+comfort food
+comic book
+coming of age
+coming-of-age story
+common cold
+community college
+companion animal? no
+concession speech
+condiment
+condo fees
+conservation status
+consignment shop
+constructive criticism
+coping strategy
+core curriculum
+core strength
+corner office
+covered services
+cram for
+cram session
+crate training
+crawl space
+credit check
+credit hours
+critically endangered
+critics' choice? no
+cult classic
+curb appeal
+curveball
+custody battle
+customer base
+customer loyalty
+cut back on
+damage control
+damaging winds
+dark horse
+day pass
+dead battery
+deadline extension
+debut album
+declare a major
+defroster
+dehydration
+dense fog
+developing story
+devour a book? no
+diagnostic test
+dipping sauce
+direct deposit
+direct report
+director's cut
+distemper? technical
+distracted driving
+dog biscuit? no
+dog bowl? no
+dog breed? no
+dog park
+dog run
+dog trainer
+dog treats? no
+doggy daycare
+doorbuster
+doorman building
+doping scandal
+double major
+down to the wire
+draft pick
+drift apart
+drive-in theater
+dropshipping
+drug testing
+drum solo
+dry rub
+due date reminder? no
+duplex
+dust storm
+ear infection
+early riser
+eat-in kitchen
+efficiency apartment
+electives
+electrolytes
+elevator pitch
+email marketing
+emergency alert
+emergency fund
+emissions test
+emotional regulation
+emotional support animal? long
+empty nester
+encore performance? no
+endangered list? no
+energy conservation
+energy efficiency
+exam room
+exhibition game
+exit ramp
+exotic pets? no
+expense account
+expired meter
+express lane
+extreme weather
+failure to yield
+fair play
+fall off the wagon
+family reunion
+family style
+family values
+farewell tour
+farm fresh
+farm-raised
+farmers market
+feed the dog? no
+field research
+figurative language
+figures of speech
+film noir? French. skip
+final exam
+financing options
+finger food
+fish tank
+fixed mindset
+flagship store
+flu season
+flunk out
+follow-up appointment
+follow-up meeting
+food hall
+food source
+food stall
+food web
+foul play
+frazzled
+freezing rain
+front page
+front-row seats
+fuel efficiency
+full coverage
+full-time student
+fundraiser
+fundraising
+funnel cloud
+furlough
+gale-force winds
+galley kitchen
+garlic powder
+gas gauge
+gender pay gap
+generic brand
+genre fiction
+get back on track
+get engaged
+get out the vote
+gold medal
+graduate school
+grand slam
+grass-fed
+green energy
+grocery list
+group project
+group stage
+grow apart
+growth mindset
+guard dog
+guest lecture
+guest room
+guided meditation
+guilty pleasure
+habitat restoration
+haggling
+hamster wheel
+hat trick
+head coach
+headline news
+heat advisory
+heat exhaustion
+heatstroke
+herding dog? no
+hiring freeze
+home appraisal
+home equity
+home equity loan
+home-field advantage
+homecoming
+hormone-free
+hot sauce
+house flipping
+housing bubble
+hybrid car
+hybrid schedule
+hypoallergenic? C1-ish. test
+hypothermia
+identical twins
+impound lot
+in print
+in season
+in tune
+in-network
+initiative
+insurance card
+insurance claim
+insurance premium? premium excluded
+intake form
+interstate
+isolated showers
+joint statement
+jump-start
+jumper cables
+key money
+kickoff meeting
+kitchen island
+knockoff
+knockout round
+kosher salt
+lab coat
+lab equipment
+lab report
+lab results
+lane closure
+laundry room
+lead guitarist
+lease agreement
+leash-free? no
+lecture notes
+left-wing
+legislature
+library card
+license renewal
+light reading
+limited release
+line of credit
+literary fiction
+litter box (test - not in final)
+live performance
+loan term
+local anesthesia
+locally grown
+long-term lease
+long-term parking
+loop in
+loss damage waiver? niche. skip
+low-impact
+low-rise
+lunch break
+made from scratch
+maid of honor
+mail-in ballot
+make peace with
+make the grade
+making-of? no
+market research
+marriage license
+master bedroom
+mating season
+me time
+meal prep
+media outlet
+medical history
+mental health day
+merge lane
+merit raise
+microchip
+micromanager
+middle child
+midlife crisis
+midterm exam
+miles per gallon
+minor in
+mixed breed
+mobile home
+moderate
+month-to-month
+monthly payment
+monthly premium
+mortgage broker
+mortgage rate
+mostly sunny
+movie theater
+multiplex
+multitasking
+nail-biter
+name brand
+narrative structure
+narrow victory
+native species
+natural gas
+nesting ground
+niche market
+night market
+nightstand read? no
+no-pets policy? no
+nominee
+nonprofit
+nosebleed seats
+nursery
+off the grid
+off-leash
+office politics
+official statement
+offseason
+offsite
+on edge
+on-ramp
+open enrollment
+open-air market
+open-book
+open-concept
+open-plan office
+opening night
+opening weekend
+opinion piece
+out of season
+out-of-network
+over-the-counter
+overdue fine
+page count? no
+paid promotion
+pantry staples
+parallel parking
+parent-teacher conference
+park and ride
+parking garage
+parking structure
+parking violation
+part-time job
+partisan politics
+partly cloudy
+pass a law
+pass with flying colors
+passive income
+pasture-raised
+pay cut
+pay grade
+pay scale
+peer support
+peer-reviewed
+penalty kick
+perfect pitch
+personal day
+pet deposit? hmm pets+housing. skip
+pet food (used? pet food was NOT in final ani. test)
+pet groomer
+pet insurance? no
+petri dish
+pharmaceutical
+photo finish
+picket fence
+pink eye
+piping hot
+plot device
+plot summary
+plug-in hybrid
+podium finish
+political spectrum
+pollen count
+pooper-scooper? crude. skip
+pop-up shop
+popular vote
+populist
+potluck
+pre-approval
+preheat
+prenuptial agreement
+prep time
+prerequisites
+prescription refill
+preseason
+press briefing
+press coverage
+press junket? niche
+price match
+privacy fence
+progress report
+progressive
+proof of insurance
+property tax
+propose to
+public forum
+public statement
+punch in
+punch out
+puppy mill? dark but real. test
+puppy training? no
+purebred dog? no
+put on hold
+qualifying round
+quiet hours
+quiet study? no
+rabies shot
+rainy day fund
+range anxiety
+rave reviews? rave review used-survived. skip
+reach a consensus
+reading assignment
+reading list
+reading nook
+ready-made
+recharged
+reckless driving
+record deal
+record holder
+recording studio
+red carpet
+red-light camera
+reference letter
+registered voter
+registration renewal
+regular season
+remote position
+renew a book
+rent control
+rent out
+rental car
+rental income
+repeal
+repeat customer
+replicate a study
+report card
+resale value
+rescue dog
+research funding
+research grant
+resistance training
+retirement community
+retirement fund
+retirement plan
+reunion tour
+right-wing
+road closure
+room for rent
+roommate agreement
+run in the family
+safety goggles
+salary cap
+salt shaker
+sandstorm
+scathing review
+scattered showers
+school board
+school district
+scope creep
+scratch post? "scratching post"
+scratching post
+screen adaptation
+screened porch
+scrimmage
+season opener
+second opinion
+security deposit
+self-acceptance
+self-awareness
+self-compassion
+self-employment
+self-evaluation
+sell-by date
+seller's market
+service dog
+severe weather
+shelf-stable
+shootout
+short sale
+short-term parking
+short-term rental
+shortlist? tested? was excluded (shortlist was in p1 lav... NOT in survivors → excluded)
+sick day
+side hustle
+side yard
+sign into law
+sinus infection
+slam dunk
+sleep cycle
+sleep hygiene
+sleet
+slip up
+slow burn? informal
+small business owner
+small wins
+smog check
+sneak preview? dated
+sold-out crowd? no
+soul food
+sound check
+sound engineer
+sourdough starter
+spa day
+spam folder
+spare tire
+special screening? no
+speed bump
+speed camera
+split the bills
+split-level
+sponsored post
+sportsmanship
+stage lights
+standstill
+status update
+sticker shock
+stock options
+stomach bug
+store brand
+store-bought
+storm damage
+storm shelter
+storm windows
+straight-to-video? no
+stray dog? stray used
+street parking
+street vendor
+strength training
+strep throat
+stressed out
+stretch goal
+student debt
+student union
+studio apartment
+study group
+study session
+summer reading
+support group
+survival of the fittest
+swap meet
+swing state
+table a discussion
+tailgating
+take a vote
+take minutes
+target market
+team-building
+tenure-track
+term limits
+terrarium? C1
+test anxiety
+test drive
+test tube
+theater geek? no
+theater production
+therapy dog
+therapy session
+thesis defense
+threatened species
+tidal power
+time management
+time sheet
+time-out
+tiny house
+tire pressure
+tire tread
+toll road
+tone-deaf
+touch base
+tough love
+towed
+town hall meeting
+trade-in value
+traffic circle
+traffic report
+traffic stop
+training camp
+trending topic
+turnpike
+two thumbs up? informal dated
+unanimous decision
+unnamed source
+unpaid leave
+up-and-coming
+upper management
+upset victory
+urgent care
+utilities included
+vacation rental
+valet service? valet parking used
+vanilla extract
+varsity team
+vet visit? no
+vinyl record
+visitation rights
+vital signs
+voter registration
+walk down the aisle
+walk the dog? test
+walk-in clinic
+walk-in closet
+walk-through
+walkable
+warm front
+watchdog? ambiguous. skip
+water bowl? no
+water cooler
+water source
+weather advisory
+weather pattern
+weather warning
+whole wheat
+wide release
+wild card
+wild-caught
+wildlife rescue
+windshield wipers
+wintry mix
+wiped out
+wiper blades
+word of mouth
+work ethic
+work-study
+world tour
+year-end review
+young adult

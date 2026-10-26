@@ -1,0 +1,417 @@
+01|figliastro
+01|vedovo
+01|primogenito
+01|convivenza
+01|maggiorenne
+01|gemello
+01|affido
+02|ramanzina
+02|viziato
+02|educativo
+02|scontro
+03|locazione
+03|deposito cauzionale
+03|subentro
+03|conduttore
+04|soffitta
+04|soppalco
+04|tramezzo
+04|infisso
+04|piastrella
+04|trapano
+04|mensola
+04|parquet
+04|tendaggio
+04|specchiera
+04|vernice
+05|casareccio
+05|pietanza
+05|saporito
+05|gustoso
+05|stuzzichino
+05|affettato
+05|condimento
+06|digiuno
+06|carente
+06|veganesimo
+07|piatto forte
+07|aromatico
+08|enoteca
+08|spumante
+08|corposo
+08|tannino
+08|sommelier
+08|macinato
+08|amaro
+09|pubblicitario
+09|promozionale
+09|tessera fedeltà
+10|conforme
+10|recesso
+10|sostituzione
+11|pacco smarrito
+11|tracciabilità
+11|pagamento alla consegna
+12|tangenziale
+12|tamponamento
+12|ruota di scorta
+12|soccorso stradale
+12|senso unico
+12|rotonda
+13|abusivo
+14|rimborso spese
+15|richiedente asilo
+15|espulsione
+15|clandestino
+15|permesso di lavoro
+16|alberghiero
+16|struttura ricettiva
+16|vista panoramica
+16|soggiorno
+17|fattore di rischio
+17|precoce
+17|controllo periodico
+17|diagnosi
+18|esenzione
+18|polizza
+18|reparto
+19|serenità
+19|appagamento
+19|frustrazione
+20|referenze
+20|requisito
+21|lettera di motivazione
+21|prova pratica
+21|selezione del personale
+22|supplenza
+22|trasferimento
+22|crescita professionale
+22|cassa integrazione
+23|tavola rotonda
+23|punto della situazione
+23|facilitatore
+24|picchetto
+24|contrattazione
+25|interrogazione
+25|compito in classe
+25|dottorato
+25|matricola
+25|appello
+25|rettore
+25|magistrale
+27|schematizzare
+27|mappa concettuale
+27|sottolineare
+28|quartiere dormitorio
+28|isola pedonale
+28|cementificazione
+28|piano regolatore
+28|edificabilità
+29|nettezza urbana
+29|acquedotto
+29|vigile urbano
+29|utenza
+30|ondata di calore
+30|allerta meteo
+30|esondazione
+31|sartoria
+31|alta moda
+31|sartoriale
+31|svendita
+32|diventare virale
+32|follower
+32|notifica push
+33|crittografare
+34|linguaggio di programmazione
+34|copia di backup
+34|password
+34|account
+35|podio
+35|pareggio
+35|calciomercato
+36|legamento crociato
+36|menisco
+36|stampella
+36|ingessatura
+36|riabilitazione
+36|lussazione
+36|antidolorifico
+37|accordatura
+37|conservatorio
+37|solfeggio
+37|solista
+38|montaggio
+38|incasso
+38|comparsa
+38|anteprima
+38|cinepresa
+38|scenografia
+39|mollare
+39|lasciarsi
+39|risentimento
+39|amareggiato
+39|gelosia
+40|sessismo
+40|omofobia
+40|pregiudizio
+40|vulnerabile
+41|aliquota
+41|sgravio
+41|accertamento
+41|imponibile
+42|ammortamento
+42|tasso variabile
+42|prestito personale
+42|ipoteca
+43|speculazione
+43|portafoglio
+43|obbligazione
+43|volatilità
+43|azionario
+46|procuratore
+46|giurista
+51|stagnazione
+51|deficit
+51|spesa pubblica
+51|mercato del lavoro
+51|congiuntura
+52|biodegradabile
+52|monouso
+52|ambientalista
+52|salvaguardia
+52|inquinante
+53|falsificare
+53|misurazione
+53|deduzione
+53|induzione
+54|enzima
+54|fermentazione
+54|ossidazione
+54|cromosoma
+54|reazione chimica
+55|materia oscura
+55|galassia
+55|particella
+55|radiazione
+55|astrofisica
+55|spaziale
+56|intreccio
+56|finzione
+56|saggista
+56|romanziere
+56|autobiografico
+56|incipit
+57|spina dorsale
+57|addominale
+57|tonificare
+57|vertebra
+57|allungamento
+58|impollinazione
+58|rapace
+58|anfibio
+58|carnivoro
+58|territoriale
+58|habitat
+59|allevamento intensivo
+59|endemico
+59|specie a rischio
+60|compostaggio
+60|isola ecologica
+60|idroelettrico
+60|geotermico
+60|stoccaggio
+60|energia pulita
+61|bassa pressione
+61|fronte freddo
+61|nevicata
+61|acquazzone
+61|annuvolato
+61|pioggia acida
+62|proroga
+62|differimento
+62|decennale
+62|posticipare
+63|ritrovo
+63|apericena
+64|uncinetto
+64|scacchiera
+64|acquerello
+64|marionetta
+64|plastilina
+64|gioco di carte
+65|autodisciplina
+65|gratificazione
+65|demotivato
+66|contestare
+66|smentire
+66|replica
+66|persuadere
+67|oratore
+67|esitante
+68|contropartita
+68|concedere
+68|reciprocità
+68|intesa
+68|vertenza
+69|assoluzione
+69|patteggiamento
+69|custodia cautelare
+69|arringa
+69|giuria
+69|ergastolo
+70|istanza
+70|protocollare
+70|marca da bollo
+70|raccomandata
+71|maggioritario
+71|proporzionale
+71|seggio elettorale
+71|broglie
+71|campagna elettorale
+71|spoglio
+73|equanime
+73|integrità
+73|saggezza
+73|sublime
+73|canone
+73|veridico
+73|estetica
+74|manierismo
+74|chiaroscuro
+74|impressionismo
+74|cubismo
+74|futurismo
+74|bottega
+74|capolavoro
+74|committente
+74|astrattismo
+75|chiostro
+75|porticato
+75|loggia
+75|volta
+75|rudere
+75|muratura
+75|campanile
+76|citofono
+76|pianerottolo
+76|vicinato
+76|assemblea di condominio
+76|conflittualità
+76|regolamento di condominio
+78|pendolare
+78|binario morto
+78|vagone letto
+80|telelavoro
+80|conciliazione
+80|lavoro agile
+82|mobilità internazionale
+82|ospitalità
+83|attico
+83|mansarda
+83|villetta a schiera
+83|catasto
+83|perizia
+83|casa popolare
+86|camminata veloce
+86|vita attiva
+87|turnée
+87|tifoso
+87|dal vivo
+88|episodio pilota
+88|finale di stagione
+88|spoiler
+89|addio al celibato
+89|confetto
+89|abito da sposa
+89|regalo di nozze
+89|matrimonio civile
+90|risparmiatore
+90|spese correnti
+90|scippo
+90|borsaiolo
+90|spicciolo
+92|devastante
+92|soccorritore
+92|scampare
+92|sfollato
+92|pronto intervento
+93|pseudoscienza
+93|sensazionalismo
+93|astronomo
+93|divulgatore
+94|bestseller
+94|esordiente
+94|romanzo rosa
+94|editore
+94|autobiografia
+94|saga
+95|belvedere
+95|parco nazionale
+96|centro storico
+96|museo civico
+97|autocritica
+97|accettazione
+97|coccolare
+97|perdonarsi
+97|sfiducia
+97|empatia
+97|gentilezza
+97|benessere interiore
+98|disservizio
+98|malumore
+98|incomprensione
+98|sbrigativo
+98|pretesa
+98|scontento
+99|inoltrare
+99|documentazione
+100|in effetti
+100|a ogni modo
+100|peraltro
+100|se non altro
+100|caso mai
+100|semmai
+100|in merito a
+100|a tal proposito
+100|mi spiego
+100|in pratica
+100|sostanzialmente
+100|in linea di massima
+101|imprevisto
+101|casualità
+101|evenienza
+101|svolta
+101|avvenimento
+101|imminente
+101|capriccio
+102|reperto
+102|biglietto ridotto
+102|cimelio
+102|museo archeologico
+102|galleria d'arte
+103|perquisizione
+103|navetta
+103|gate
+103|volo diretto
+104|colazione a buffet
+104|deposito bagagli
+104|frigobar
+104|camera vista mare
+104|camera matrimoniale
+105|ambientarsi
+105|timbrare il cartellino
+105|turno di notte
+105|adattamento
+107|sonnolenza
+107|sbadiglio
+107|appisolarsi
+107|alba
+107|riposante
+109|cucciolo
+109|crocchetta
+109|canile
+109|gabbia
+110|dare uno strappo
+110|bici condivisa
+110|corsa
+110|tassista

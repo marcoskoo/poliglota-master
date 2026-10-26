@@ -1,0 +1,103 @@
+circolo ermeneutico|círculo hermenéutico||L|let|C2
+lector in fabula|lector in fabula||L|let|C2
+intentio auctoris|intentio auctoris||L|let|C2
+eteroglossia|heteroglosia||S|let|C2
+carnivalizzazione|carnavalización||S|let|C2
+anaforia|anaforia||S|let|C2
+cataforica|catafórica||A|let|C2
+deissi|deixis||S|let|C2
+quadrato semiotico|cuadrado semiótico||S|let|C2
+semiosfera|semiosfera||S|let|C2
+modalizzazione|modalización||S|let|C2
+metalinguistico|metalingüístico||A|let|C2
+amartia|hamartia||S|let|C2
+protasi|prótasis||S|let|C2
+dispositio|dispositio||L|let|C2
+elocutio|elocutio||L|let|C2
+sillepsi|silepsis||S|let|C2
+brachilogia|braquilogía||S|let|C2
+amplificazione|amplificación (retórica)||S|let|C2
+sermocinatio|sermocinatio||L|let|C2
+adynaton|adynaton||L|let|C2
+epitalamio|epitalamio||S|let|C2
+epicedio|epicedio||S|let|C2
+panegirico|panegírico||S|let|C2
+menippea|menipea (sátira)||A|let|C2
+prosodia|prosodia||S|let|C2
+prosodico|prosódico||A|let|C2
+atono|átono (sílaba)||A|let|C2
+apofonia|apofonía||S|let|C2
+adstrato|adstrato||S|let|C2
+diatesi|diátesis (voz gramatical)||S|let|C2
+morfosintassi|morfosintaxis||S|let|C2
+ilocutivo|ilocutivo||A|let|C2
+perlocutivo|perlocutivo||A|let|C2
+enunciazione|enunciación||S|let|C2
+performativo|performativo||A|let|C2
+implicatura|implicatura||S|let|C2
+presupposizione|presuposición||S|let|C2
+sociolinguistica|sociolingüística||S|let|C2
+psicolinguistica|psicolingüística||S|let|C2
+glottologia|glotología||S|let|C2
+vezzeggiativo|hipocorístico (diminutivo)||A|let|C2
+lemmatizzazione|lematización||S|let|C2
+sincronico|sincrónico||A|let|C2
+archivistica|archivística||S|ast|C2
+revisionismo storico|revisionismo histórico||S|ast|C2
+episteme|episteme||S|ast|C2
+doxa|doxa (opinión)||S|ast|C2
+abduzione|abducción||S|ast|C2
+trascendentale|trascendental||A|ast|C2
+eidetico|eidético||A|ast|C2
+ontico|óntico||A|ast|C2
+entelechia|entelequia||S|ast|C2
+estetizzazione|estetización||S|art|C2
+deontologismo|deontologismo||S|ast|C2
+conseguenzialismo|consecuencialismo||S|ast|C2
+male radicale|mal radical||L|ast|C2
+fronesi|frónesis (prudencia aristotélica)||S|ast|C2
+intelligibile|inteligible||A|ast|C2
+ecceità|ecceidad (haecceidad)||S|ast|C2
+qualia|qualia||S|ast|C2
+compatibilismo|compatibilismo||S|ast|C2
+quietismo|quietismo||S|ast|C2
+riduzionismo|reduccionismo||S|ast|C2
+emergentismo|emergentismo||S|ast|C2
+eristico|erístico||A|ast|C2
+elenchico|eléncico||A|ast|C2
+desuetudine|desuetudine (desuso)||S|ast|C2
+razionalità strumentale|racionalidad instrumental||S|ast|C2
+unidimensionale|unidimensional||A|ast|C2
+società amministrata|sociedad administrada||L|ast|C2
+azione comunicativa|acción comunicativa||S|ast|C2
+etica del discorso|ética del discurso||S|ast|C2
+biopolitica|biopolítica||S|ast|C2
+governamentalità|gubernamentalidad||S|ast|C2
+discorsivo|discursivo||A|let|C2
+etnomusicologia|etnomusicología||S|mus|C2
+emico|émico (perspectiva interna)||A|ast|C2
+religiosità popolare|religiosidad popular||S|ast|C2
+poliginia|poliginia||S|ast|C2
+matrilinearità|matrilinealidad||S|ast|C2
+familismo amorale|familismo amoral||L|ast|C2
+trasformismo|transformismo (política italiana)||S|att|C2
+meritocrazia|meritocracia||S|att|C2
+geopolitico|geopolítico||A|att|C2
+deterrenza nucleare|disuasión nuclear||S|att|C2
+plutocrazia|plutocracia||S|att|C2
+casco blu|cascos azules||S|att|C2
+non allineamento|no alineamiento||S|att|C2
+direttiva quadro|directiva marco||S|ist|C2
+nota verbale|nota verbal||S|att|C2
+protocollare|protocolario||A|att|C2
+buoni uffici|buenos oficios||L|att|C2
+incidente diplomatico|incidente diplomático||S|att|C2
+voto utile|voto útil||S|att|C2
+gradimento|aceptación (popularidad)||S|att|C2
+comizio|mitin||S|att|C2
+ceto politico|clase política||S|att|C2
+arruffapopoli|demagogo (agitador populachero)||S|att|C2
+qualunquista|apolítico cínico||A|att|C2
+provincialotto|pueblerino presumido||S|emo|C2
+indignazione|indignación||S|emo|C2
+disfattista|derrotista||A|emo|C2

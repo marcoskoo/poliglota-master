@@ -1,0 +1,145 @@
+análise literária|análisis literario||L|let|B1
+poesia lírica|poesía lírica||L|let|B1
+género narrativo|género narrativo||L|let|B1
+alongar|estirar||V|cor|B1
+postura correta|postura correcta||L|cor|B1
+instinto de sobrevivência|instinto de supervivencia||L|ani|B1
+fauna ameaçada|fauna amenazada||L|ani|B1
+duração estimada|duración estimada||L|tmp|B1
+com regularidade|con regularidad||E|tmp|B1
+sem demora|sin demora||E|tmp|B1
+festa de arromba|fiesta memorable||L|sve|B1
+até de madrugada|hasta altas horas||E|tmp|B1
+programa cultural|programa cultural||L|sve|B1
+sair para jantar|salir a cenar||L|sve|B1
+tricotar|hacer punto||V|sve|B1
+colecionador de moedas|coleccionista de monedas||L|sve|B1
+ponto de cruz|punto de cruz||L|sve|B1
+desmotivado|desmotivado||A|emo|B1
+lidar com o stress|lidiar con el estrés||L|emo|B1
+sobrecarregado|sobrecargado||A|emo|B1
+contra-argumento|contraargumento||S|cmu|B1
+raciocínio lógico|razonamiento lógico||L|cmu|B1
+defender a tese|defender la tesis||L|cmu|B1
+apresentação oral|presentación oral||L|cmu|B1
+medo escénico|miedo escénico||L|cmu|B1
+falar em público|hablar en público||L|cmu|B1
+ponto de encontro|punto de encuentro||L|cmu|B1
+linguagem diplomática|lenguaje diplomático||L|cmu|B1
+proposta de compromisso|propuesta de compromiso||L|cmu|B1
+recusar uma oferta|rechazar una oferta||L|cmu|B1
+testemunha ocular|testigo ocular||L|ist|B1
+veredicto do júri|veredicto del jurado||L|ist|B1
+sentença judicial|sentencia judicial||L|ist|B1
+tribunal de comarca|tribunal de distrito||L|ist|B1
+senha de atendimento|número de turno||L|ist|B1
+prazo limite|fecha límite||L|ist|B1
+balcão único|ventanilla única||L|ist|B1
+apuramento dos votos|recuento de votos||L|ist|B1
+hipocrisia|hipocresía||S|ast|B1
+pintura a óleo|pintura al óleo||L|art|B1
+arte sacra|arte sacro||L|art|B1
+património construído|patrimonio arquitectónico||L|art|B1
+estilo gótico|estilo gótico||L|art|B1
+arquitetura religiosa|arquitectura religiosa||L|art|B1
+reunião de condomínio|reunión de la comunidad||L|cas|B1
+quota mensal|cuota de la comunidad||L|cas|B1
+regras de convivência|normas de convivencia||L|cit|B1
+lugar marcado|asiento reservado||L|tra|B1
+carro-restaurante|vagón restaurante||S|tra|B1
+revisor do comboio|revisor del tren||L|tra|B1
+arder|arder||V|sla|B1
+semana de quatro dias|semana de cuatro días||L|lav|B1
+direito à desconexão|derecho a la desconexión||L|lav|B1
+equilíbrio trabalho-família|equilibrio trabajo-familia||L|lav|B1
+orientação profissional|orientación profesional||L|lav|B1
+formação em serviço|formación en el puesto||L|lav|B1
+curso de aperfeiçoamento|curso de perfeccionamiento||L|lav|B1
+intercâmbio estudantil|intercambio estudiantil||L|stu|B1
+reconhecimento de créditos|reconocimiento de créditos||L|stu|B1
+choque cultural|choque cultural||L|stu|B1
+colega de quarto|compañero de cuarto||L|stu|B1
+semestre no estrangeiro|semestre en el extranjero||L|stu|B1
+valorização do imóvel|revalorización del inmueble||L|fin|B1
+visita ao imóvel|visita al inmueble||L|cas|B1
+entrada e prestações|entrada y cuotas||L|fin|B1
+avaliação do comprador|valoración del comprador||L|cmp|B1
+modo avião|modo avión||L|tec|B1
+carregador portátil|batería externa||L|tec|B1
+aplicação móvel|aplicación móvil||L|tec|B1
+clube desportivo|club deportivo||L|spt|B1
+exercício ao ar livre|ejercicio al aire libre||L|spt|B1
+aulas de grupo|clases en grupo||L|spt|B1
+vida ativa|vida activa||L|spt|B1
+bilhete geral|entrada general||L|mus|B1
+palco principal|escenario principal||L|mus|B1
+maratona de séries|maratón de series||L|cin|B1
+episódio piloto|episodio piloto||L|cin|B1
+plataforma de streaming|plataforma de streaming||L|cin|B1
+casamento civil|boda civil||L|fam|B1
+aniversário de casamento|aniversario de bodas||L|fam|B1
+bolo de noiva|tarta nupcial||L|fam|B1
+festa de família|fiesta familiar||L|fam|B1
+sem um tostão|sin blanca||E|fin|B1
+conta conjunta|cuenta conjunta||L|fin|B1
+gastos fixos|gastos fijos||L|fin|B1
+burla financeira|estafa financiera||L|fin|B1
+imperial|caña de cerveza||S|ris|B1
+descoberta científica|descubrimiento científico||L|sci|B1
+mito urbano|mito urbano||L|sci|B1
+curiosidade científica|curiosidad científica||L|sci|B1
+sucesso de vendas|éxito de ventas||L|let|B1
+percurso pedestre|ruta a pie||L|nat|B1
+flora e fauna|flora y fauna||L|nat|B1
+rota de montanha|ruta de montaña||L|nat|B1
+estadia curta|estancia corta||L|vig|B1
+cartão de transportes|abono de transportes||L|tra|B1
+disciplina diária|disciplina diaria||L|emo|B1
+rotina matinal|rutina matinal||L|emo|B1
+peço desculpa|pido disculpas||E|cmu|B1
+queixa formal|queja formal||L|cmu|B1
+lamentar o incómodo|lamentar las molestias||L|cmu|B1
+esclarecer dúvidas|aclarar dudas||L|cmu|B1
+cópia autenticada|copia compulsada||L|ist|B1
+renovação de documento|renovación de documento||L|ist|B1
+documentação em dia|documentación al día||L|ist|B1
+epá|uf, vaya||I|cnn|B1
+tipo|o sea (coloquial)||I|cnn|B1
+demora|dilación||S|tmp|B1
+ocasião especial|ocasión especial||L|ast|B1
+mudança de vida|cambio de vida||L|ast|B1
+museu de arte moderna|museo de arte moderno||L|art|B1
+excesso de bagagem|exceso de equipaje||L|vig|B1
+tapete rolante|cinta transportadora||L|vig|B1
+perdidos e achados|objetos perdidos||L|vig|B1
+saída tardia|salida tardía||L|htl|B1
+ar condicionado avariado|aire acondicionado averiado||L|htl|B1
+estacionamento do hotel|aparcamiento del hotel||L|htl|B1
+estadia prolongada|estancia prolongada||L|htl|B1
+reclamar do barulho|quejarse del ruido||L|htl|B1
+ambientar-se|adaptarse al puesto||V|lav|B1
+período de adaptação|período de adaptación||L|lav|B1
+primeiros meses de trabalho|primeros meses de trabajo||L|lav|B1
+recém-contratado|recién contratado||A|lav|B1
+entrada em funções|incorporación al puesto||L|lav|B1
+na minha época|en mi época||E|cnn|B1
+recordação de infância|recuerdo de infancia||L|fam|B1
+avós maternos|abuelos maternos||L|fam|B1
+história de família|historia familiar||L|fam|B1
+geração mais nova|generación más joven||L|fam|B1
+horário de sono|horario de sueño||L|sla|B1
+acordar cedo|despertarse temprano||L|sla|B1
+noite mal dormida|noche mal dormida||L|sla|B1
+cancelar à última hora|cancelar a última hora||L|cmu|B1
+antecedência|antelación||S|tmp|B1
+dar bolo|dejar plantado||L|rel|B1
+imprevisto de última hora|imprevisto de última hora||L|tmp|B1
+plano alternativo|plan alternativo||L|cmu|B1
+levar ao veterinário|llevar al veterinario||L|ani|B1
+castrar|castrar||V|ani|B1
+dar boleia|llevar a alguien en coche||L|tra|B1
+pedir boleia|pedir que te lleven en coche||L|tra|B1
+repartir os custos|repartir los costes||L|tra|B1
+condutor de aplicação|conductor de aplicación||L|tra|B1
+tarifa dinâmica|tarifa dinámica||L|tra|B1
+tempo de espera|tiempo de espera||L|tra|B1

@@ -1,0 +1,905 @@
+all things considered
+be that as it may
+in any case
+at any rate
+on balance
+by and large
+in a nutshell
+bottom line
+that said
+come to think of it
+now that you mention it
+so to speak
+as it were
+more or less
+give or take
+roughly speaking
+to be precise
+strictly speaking
+in theory
+in practice
+as a rule
+more often than not
+nine times out of ten
+once in a while
+every now and then
+now and then
+from now on
+from then on
+so far
+up to now
+any minute now
+in no time
+at the drop of a hat
+around the clock
+time and again
+time after time
+once and for all
+once in a lifetime
+in due course
+on the spot
+ahead of time
+behind schedule
+on schedule
+ahead of schedule
+behind the times
+ahead of its time
+in the nick of time
+kill time
+time flies
+take your time
+quality time
+right away
+right off the bat
+from the get-go
+off the top of my head
+now or never
+make or break
+sink or swim
+tighten your belt
+cash-strapped
+hard up
+well-off
+better off
+come into money
+money to burn
+day-to-day
+everyday life
+run errands
+errand
+chore
+household chores
+spring cleaning
+deep clean
+clear out
+declutter
+sort through
+get rid of
+hold on to
+part with
+let go of
+come to terms with
+make sense of
+come to light
+bring about
+look into
+set off
+set out
+put off
+put up with
+put together
+take apart
+take over
+take up
+give up on
+give in
+carry out
+turn out
+end up
+wind up
+drop by
+stop by
+drop off
+pick up on
+catch on
+keep up with
+run out of
+bump into
+come across
+stumble upon
+get along with
+hit it off
+get to know
+grow on someone
+look up to
+look down on
+stand up for
+stick up for
+stand up to
+talk into
+talk out of
+win over
+get over
+get back together
+work things out
+sort things out
+iron out
+smooth over
+make it up to
+on the rocks
+perfect match
+soulmate
+other half
+significant other
+love at first sight
+head over heels
+fall for
+have a crush on
+ask out
+blind date
+double date
+first date
+speed dating
+dating app
+online dating
+matchmaker
+break the ice
+icebreaker
+small talk
+chit-chat
+heart-to-heart
+open up
+keep a secret
+spill the beans
+let the cat out of the bag
+break a promise
+keep a promise
+go back on your word
+take your word for it
+get the word out
+spread the word
+in the public eye
+public figure
+role model
+claim to fame
+fifteen minutes of fame
+household name
+rise to fame
+shot to fame
+overnight success
+one-hit wonder
+has-been
+down and out
+rags to riches
+self-made
+social climber
+status symbol
+keep up with the Joneses
+conspicuous consumption
+retail therapy
+shopping spree
+window shopping
+impulse purchase
+buyer's market
+sellers' market
+market price
+fair price
+half price
+full price
+discount store
+outlet mall
+warehouse store
+bulk store
+membership store
+grocery run
+grocery shopping
+shopping cart
+shopping list
+checkout line
+cash register
+cashier
+sales clerk
+shop assistant
+customer service
+receipt (test)
+gift receipt
+store policy
+store credit
+exchange policy
+price adjustment
+money-back
+money-back guarantee
+satisfaction guaranteed
+as advertised
+false advertising
+misleading ad
+fine print
+read the fine print
+terms and conditions
+waiver
+disclaimer
+caveat emptor
+no refund
+store coupons
+promo code
+promotional code
+coupon code
+loyalty card
+loyalty program
+points card
+punch card
+gift certificate
+store credit (dup)
+sales tax
+receipt (dup)
+bag fee? no
+self-checkout
+express checkout
+express lane (dup)
+scan and go? no
+contactless
+tap and pay? no
+chip reader
+card reader
+cash only
+card only? no
+exact change
+break a bill
+small bills? no
+loose change
+coin jar? no
+piggy bank
+allowance (excluded)
+pocket money
+lunch money
+rainy day
+save up
+set aside
+put away
+squirrel away
+tightwad? no
+cheapskate
+penny pincher
+pinch pennies
+watch every penny
+on a budget
+tight budget
+shoestring budget
+cut corners
+cut costs
+cost-saving
+money-saving
+value for money
+bang for your buck
+day-to-day spending
+monthly expenses
+fixed expenses
+variable expenses
+discretionary spending
+disposable income
+spending habits
+spending freeze? no
+shopping ban? no
+no-spend? no
+frugal
+frugality
+thrifty
+thrifting
+thrift shop
+secondhand shop
+hand-me-down
+garage sale (dup)
+yard sale
+estate sale
+rummage sale
+white elephant? niche
+re-gift? no
+regifting
+unwanted gift
+return gift? no
+gift receipt (dup)
+keep the receipt
+receipt required
+proof of purchase
+original packaging
+unopened
+unworn
+tags attached? no
+with tags? no
+resale value (dup)
+resale market? no
+resell
+for sale
+on sale
+sale price
+markdown
+marked down
+marked up
+price gouging
+price fixing? technical
+price war
+undercut
+lowball
+lowball offer
+final offer
+take it or leave it
+meet in the middle
+split the difference
+drive a hard bargain
+bargain hunting
+haggle
+haggling (dup)
+barter
+trade-in
+part exchange? British
+payment plan
+layaway
+installment plan
+monthly payments (dup)
+deferred payment? technical
+buy now pay later
+finance charge
+carrying charge? no
+hidden costs
+hidden fees
+administrative fee
+processing fee
+service charge
+convenience fee
+delivery fee
+shipping and handling
+handling fee
+restocking fee
+cancellation fee
+change fee
+late fee
+overdue fee
+deposit (excluded)
+down payment (used)
+balance due
+amount due
+pay up front
+pay upfront
+pay in full
+pay off
+pay down
+payback time? no
+return on investment
+break even
+in the black
+in the red
+overdrawn
+bounced check
+overdraft protection
+overdraft fee
+insufficient funds
+declined card
+card declined
+maxed out
+max out a card
+credit limit
+credit history
+credit report
+credit bureaus? no
+credit counseling
+debt relief
+debt consolidation
+consolidation loan
+payday loan
+loan shark
+predatory lending
+interest-free
+zero percent? no
+interest accrues? technical
+accrued interest
+simple interest
+compound interest (dup)
+annual fee
+membership fee
+sign-up fee
+no-fee? no
+fee waiver
+waived fee? no
+free of charge
+at no charge
+free trial
+trial period
+trial offer
+money-back offer
+introductory offer
+introductory rate
+teaser rate? jargon
+fine print (dup)
+bait and switch
+too good to be true
+if it sounds too good to be true? long
+fall for a scam
+scam artist
+con artist
+con man
+grifter? C1
+swindle
+swindler
+duped
+ripped off
+rip someone off
+get scammed
+get ripped off
+online scam
+phishing scam (dup? phishing used)
+phishing email
+spam email
+junk mail
+chain letter? dated
+hoax
+prank
+prank call
+hoax call? no
+crank call? dated
+harassing calls? no
+stalker
+stalking
+harassment
+online harassment
+hate speech
+slur
+name-calling
+cyberbullying (used)
+trolling
+troll (used? troll was in p2 tec originally and did NOT survive → excluded)
+internet troll
+sock puppet
+catfish
+catfishing
+fake news (survived cand1? yes "fake news" in ok list)
+clickbait
+clickbait headline
+viral video
+viral post
+gone viral
+share count? no
+like count? no
+follower count
+engagement rate
+reach
+impressions? marketing jargon
+analytics
+traffic
+web traffic
+site traffic
+search engine
+search results
+top result? no
+search history
+search bar
+web browser
+browser tab
+open tab? no
+bookmark
+bookmarked
+pop-up
+pop-up ad
+pop-up blocker
+ad blocker
+advertising revenue
+ad revenue
+paywall
+subscription fee
+freemium
+in-app purchase
+app store? brand-ish generic... skip
+app icon
+home screen
+lock screen
+screen lock
+passcode lock? no
+screen mirroring? technical
+screen reader
+accessibility settings
+closed captions
+subtitles (excluded? "subtitles" was in p2 cin and didn't survive → excluded)
+audio description
+volume control? no
+mute button? no
+on mute? no
+on silent? no
+do not disturb
+sleep mode
+power saving
+battery saver
+low battery
+battery percentage? no
+charge your phone
+phone charger
+charging cable
+charging port
+wall adapter
+power bank
+portable charger
+phone case
+screen protector
+cracked screen
+shattered screen? no
+drop your phone? no
+water damage
+waterproof case
+phone plan
+data plan
+unlimited data
+data limit
+data overage? no
+out of data
+low on storage
+storage full
+free up space
+delete apps? no
+uninstall
+reinstall
+software update (survived? in cand1? "software update" — I didn't include. test)
+system update
+update available? no
+restart
+reboot
+factory reset
+reset your password
+forgot your password
+password reset
+reset link
+verification code
+login credentials? technical
+sign in
+sign out
+log out
+log out of
+signed in? no
+stay signed in? no
+remember me? no
+auto-fill
+autofill
+saved passwords
+password manager
+generate a password
+strong password
+weak password
+password strength
+security question
+two-step verification
+verified account
+blue check? no
+verified badge? no
+badge verification? no
+edit profile
+profile picture
+cover photo
+bio
+username (test - was excluded? username was dropped from final p2 tec. in cand1-ok? I see... not in cand1 list? Actually I had "username" in tec draft but didn't include in cand1. test)
+handle
+screen name? dated
+display name
+account settings
+privacy settings (used? privacy settings was in p2 tec... wait, privacy settings — was it in final p2? My final tec list: unfollow, hashtag, screen time, phishing, malware, firewall, data breach, two-factor authentication, cyberbullying, encryption, identity theft, browsing history, debug, source code, open source, back up, default settings, swipe, battery life, airplane mode. "privacy settings" NOT in final. test)
+account privacy? no
+private account
+public account? no
+followers only? no
+close friends? platform feature
+story (social media)
+stories (social media)? plural weird
+highlight? platform feature
+reel? platform-ish
+post a story? no
+go live
+live stream
+live streaming
+streaming service
+streaming platform
+binge-watching
+binge-watcher? no
+recommended for you? no
+watch next? no
+up next? no
+autoplay
+autoplay next? no
+turn off autoplay? no
+skip intro
+skip ad
+unskippable? no
+ad break
+mid-roll ad? jargon
+sponsored content (survived? "sponsored post" survived cand1; "sponsored content" test)
+branded content
+influencer marketing
+brand deal
+paid partnership
+affiliate link
+promo post? no
+giveaway
+social media giveaway? long
+enter a giveaway? no
+winner announced? no
+follower giveaway? no
+tag a friend? no
+tagged photos? no
+tagged in? no
+untag
+untag yourself? no
+photo tag? no
+hide a post? no
+report a post
+report abuse
+block a user? no
+blocked account? no
+restrict an account? no
+shadowban
+account suspended
+account banned? no
+permanently banned? no
+banned for life? no
+moderator
+content moderation
+community guidelines
+terms of service
+user agreement
+end-user license? technical
+acceptable use? no
+code of conduct
+report a violation? no
+report content? no
+flag as inappropriate
+flag for review? no
+removed content? no
+taken down
+takedown notice? technical
+cease and desist? legal jargon
+defamation
+slander
+libel
+gag order? niche
+prior restraint? technical
+free speech
+freedom of the press
+press freedom
+freedom of expression
+censorship
+self-censorship
+banned books
+book banning? no
+challenged books? no
+burning of books? no
+banned in schools? no
+age-appropriate
+parental guidance
+content warning
+trigger warning
+sensitive content
+graphic content
+explicit content
+mature content
+age restriction
+age-restricted
+rated R? no
+parental controls
+screen time limits
+family sharing? platform feature
+kids' account? no
+child lock? no
+parental approval? no
+safe search? no
+restricted mode? platform feature
+digital footprint
+online presence
+internet history
+clear history
+clear cookies
+clear cache
+cache and cookies? no
+private browsing
+incognito window? platform
+browse privately? no
+tracker
+trackers
+cross-site tracking? technical
+ad tracking
+targeted ads
+personalized ads
+behavioral advertising? technical
+data brokers? technical
+third-party apps
+app permissions
+grant access
+revoke access
+location services
+location sharing
+share location
+turn off location? no
+GPS tracking? acronym
+geolocation? technical
+pin your location? no
+check in
+checked in? no
+tag your location? no
+nearby friends? platform
+meetup
+meet up
+meet-up point? no
+meeting point
+rallying point? no
+common ground
+middle ground
+find common ground? long
+give and take
+compromise (excluded? "compromise" was in p2 cmu and did NOT survive → excluded. interesting)
+meet halfway (test)
+halfway point? no
+common denominator? math
+in common
+shared interests
+mutual friend
+mutual friends
+friend request
+friend zone? slang
+unfriend
+unfollowed? no
+follow back
+follow back? no
+mutuals? slang
+besties? slang
+close friend
+inner circle
+social circle
+circle of friends
+wider circle? no
+acquaintance
+mutual acquaintance? no
+on speaking terms
+not on speaking terms
+keep your distance
+give someone space
+need some space
+personal space
+boundaries (used set boundaries)
+emotional boundaries? no
+respect boundaries? no
+cross the line
+out of line
+step on someone's toes? informal
+put your foot in it? British
+put your foot in your mouth
+slip of the tongue
+slip of the tongue (dup)
+freudian slip? proper
+misspeak
+misquote
+quoted out of context
+taken out of context
+in context
+out of context
+read between the lines (used - survived)
+read too much into
+jump to conclusions
+draw conclusions
+rush to judgment
+reserve judgment
+pass judgment
+sit on the fence
+fence-sitter
+on the fence
+middle-of-the-road
+noncommittal
+hedging
+hedge your bets
+cover your bases
+play it safe
+play it by ear
+take a chance
+take a risk
+calculated risk
+risk assessment
+risk factor
+high-risk
+low-risk
+at your own risk
+no risk no reward? no
+nothing to lose
+the stakes are high
+raise the stakes
+stakeholder
+vested interest
+conflict of interest
+interested party? no
+third party
+third-party
+neutral party
+impartial
+partial
+take sides
+side with
+take someone's side
+on my side
+on your side
+see eye to eye
+agree to disagree
+disagreement
+point of contention
+sticking point
+deal-breaker (used deal breaker)
+non-negotiable
+deal or no deal? no
+seal the deal
+close the deal
+make a deal
+strike a deal
+sweeten the deal
+ package deal
+bundle deal
+group rate
+bulk discount
+volume discount
+trade discount? no
+employee discount
+student discount
+senior discount
+discounted tickets? no
+reduced admission? no
+group discount
+early-bird special
+early bird (used? early bird was dropped from final p1. test)
+happy hour (test)
+last call (used - survived)
+bar tab
+open bar
+cash bar? niche
+bar hop
+club hopping
+night out
+big night out? no
+paint the town red? dated
+let your hair down
+unwind
+chill out
+chill
+hang out (excluded? "hang out" was dropped from final sve. test)
+hangout
+hangout spot? no
+go out on the town? no
+paint the town (dup)
+stay in
+night in? no
+cosy night in? British spelling
+movie night
+game night
+board game night? long
+card game
+playing cards
+card deck? no
+deck of cards
+shuffle the deck
+deal the cards
+deal me in
+your turn
+my turn
+turn-taking? no
+winner takes all? no
+fair and square
+cheat at cards? no
+card shark? informal
+stack the deck
+loaded dice
+roll the dice
+dice roll? no
+snake eyes? jargon
+lucky streak
+winning streak
+losing streak
+on a roll
+beginner's luck
+push your luck
+luck out
+down on your luck
+lucky charm
+knock on wood
+cross your fingers
+jinx
+bad omen
+good omen
+superstitious (excluded? superstitious was dropped from final ast. test)

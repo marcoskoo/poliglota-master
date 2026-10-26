@@ -1,0 +1,69 @@
+allocution|alegato del condenado antes de la sentencia||S|ist|C1
+ejectment|desahucio por intrusión||S|ist|C1
+contingent fee|honorario condicionado al resultado||L|ist|C1
+hold-harmless agreement|acuerdo de exención de responsabilidad||L|ist|C1
+right of survivorship|derecho de acrecimiento||L|ist|C1
+visitation rights|derecho de visitas||L|ist|C1
+lienholder|acreedor con garantía real||S|ist|C1
+constructive eviction|resolución por inhabitabilidad||L|ist|C1
+rent abatement|rebaja de la renta||L|ist|C1
+integration clause|cláusula de integridad del pacto||L|ist|C1
+choice of law|norma de conflicto||L|ist|C1
+remittitur|reducción judicial de la indemnización||S|ist|C1
+mandamus petition|solicitud de mandamiento judicial||L|ist|C1
+subject-matter jurisdiction|jurisdicción objetiva||L|ist|C1
+class certification|admisión de la demanda colectiva||L|ist|C1
+products liability|responsabilidad por productos defectuosos||L|ist|C1
+bona fide purchaser|comprador de buena fe||L|ist|C1
+jury instruction|instrucción al jurado||L|ist|C1
+spoliation|destrucción u ocultación de pruebas||S|ist|C1
+preponderance of the evidence|prueba de mayor peso probabilístico||L|ist|C1
+sentence bargaining|negociación de la pena||L|ist|C1
+habitual offender|reincidente habitual||S|ist|C1
+indeterminate sentence|pena indeterminada||L|ist|C1
+consecutive sentences|penas sucesivas||L|ist|C1
+administrative segregation|aislamiento administrativo||L|ist|C1
+habeas corpus petition|solicitud de hábeas corpus||L|ist|C1
+execution warrant|orden de ejecución||L|ist|C1
+record sealing|sellado de antecedentes||L|ist|C1
+jury summons|citación para jurado||L|ist|C1
+turn state's evidence|declarar contra los coprocesados||L|ist|C1
+accessory after the fact|encubridor posterior al delito||L|ist|C1
+venue shopping|búsqueda del foro favorable||S|ist|C1
+comity of nations|cortesía internacional||L|ist|C1
+credible fear interview|entrevista de miedo creíble||L|ist|C1
+sanctuary city|ciudad santuario||L|cit|C1
+plat map|plano parcelario||L|ist|C1
+ground rent|renta del suelo||L|ist|C1
+self-help eviction|desahucio de hecho||L|ist|C1
+just cause eviction|desahucio justificado||L|ist|C1
+inclusionary zoning|zonificación inclusiva||L|cit|C1
+tax increment financing|financiación por incremento fiscal||L|fin|C1
+missing middle housing|vivienda intermedia||L|cit|C1
+road diet|dieta vial||L|cit|C1
+urban renewal|renovación urbana||L|cit|C1
+repo market|mercado de repos||L|fin|C1
+naked shorting|venta en corto sin préstamo de valores||L|fin|C1
+big bath accounting|castigo contable masivo||L|fin|C1
+earnings management|gestión del resultado contable||L|fin|C1
+carve-out transaction|colocación parcial de filial||L|fin|C1
+crown jewel defense|defensa de la joya de la corona||L|fin|C1
+business judgment rule|regla del juicio empresarial||L|ist|C1
+proxy contest|pugna por delegación de voto||L|fin|C1
+drag-along right|derecho de arrastre||L|fin|C1
+anti-dilution protection|protección antidilución||L|fin|C1
+bridge financing|financiación puente||L|fin|C1
+wage-price spiral|espiral salarios-precios||L|fin|C1
+risk-weighted asset|activo ponderado por riesgo||L|fin|C1
+resolution authority|autoridad de resolución bancaria||L|fin|C1
+moral suasion|presión moral||L|fin|C1
+covered interest parity|paridad cubierta de tipos||L|fin|C1
+fallen angel|bono degradado a categoría basura||S|fin|C1
+covenant-lite|con pactos financieros mínimos||A|fin|C1
+debtor-in-possession financing|financiación del concursado en posesión||L|fin|C1
+creditors' committee|junta de acreedores||L|fin|C1
+fraudulent transfer|transferencia en fraude de acreedores||L|ist|C1
+avoidance power|potestad de reintegración de la masa||L|ist|C1
+bar date|fecha límite de verificación de créditos||L|ist|C1
+wage garnishment|embargo de salario||L|ist|C1
+supersedeas bond|fianza de suspensión de ejecución||L|ist|C1

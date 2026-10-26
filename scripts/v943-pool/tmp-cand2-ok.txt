@@ -1,0 +1,763 @@
+ package deal
+GPS tracking? acronym
+acceptable use? no
+accessibility settings
+account banned? no
+account privacy? no
+account settings
+account suspended
+accrued interest
+ad blocker
+ad break
+ad revenue
+ad tracking
+administrative fee
+advertising revenue
+affiliate link
+age restriction
+age-appropriate
+age-restricted
+ahead of its time
+ahead of schedule
+allowance (excluded)
+amount due
+analytics
+annual fee
+any minute now
+app icon
+app permissions
+app store? brand-ish generic... skip
+around the clock
+as a rule
+as advertised
+ask out
+at no charge
+at the drop of a hat
+at your own risk
+auto-fill
+autofill
+autoplay
+autoplay next? no
+bad omen
+badge verification? no
+bag fee? no
+bait and switch
+balance due
+bang for your buck
+banned books
+banned for life? no
+banned in schools? no
+bar hop
+bar tab
+bargain hunting
+barter
+battery percentage? no
+battery saver
+beginner's luck
+behavioral advertising? technical
+behind schedule
+behind the times
+besties? slang
+better off
+big night out? no
+binge-watcher? no
+bio
+blind date
+block a user? no
+blocked account? no
+blue check? no
+board game night? long
+book banning? no
+bookmark
+bookmarked
+bottom line
+bounced check
+boundaries (used set boundaries)
+brand deal
+branded content
+break a bill
+break a promise
+break even
+browse privately? no
+browser tab
+bulk discount
+bulk store
+bump into
+bundle deal
+burning of books? no
+buy now pay later
+buyer's market
+cache and cookies? no
+calculated risk
+cancellation fee
+card deck? no
+card declined
+card game
+card only? no
+card reader
+card shark? informal
+carrying charge? no
+cash bar? niche
+cash only
+cash register
+cash-strapped
+catfish
+catfishing
+cease and desist? legal jargon
+chain letter? dated
+challenged books? no
+change fee
+charge your phone
+charging port
+cheapskate
+cheat at cards? no
+checked in? no
+checkout line
+child lock? no
+chill
+chip reader
+chit-chat
+chore
+circle of friends
+clear cache
+clear cookies
+clear history
+clear out
+clickbait headline
+close friend
+close friends? platform feature
+close the deal
+closed captions
+club hopping
+code of conduct
+coin jar? no
+come into money
+come to light
+come to terms with
+come to think of it
+common denominator? math
+common ground
+community guidelines
+compound interest (dup)
+compromise (excluded? "compromise" was in p2 cmu and did NOT survive → excluded. interesting)
+con artist
+con man
+consolidation loan
+contactless
+content moderation
+content warning
+convenience fee
+cost-saving
+cosy night in? British spelling
+coupon code
+cover photo
+cover your bases
+cracked screen
+crank call? dated
+credit bureaus? no
+credit counseling
+credit history
+credit limit
+credit report
+cross the line
+cross your fingers
+cross-site tracking? technical
+cut costs
+cyberbullying (used)
+data brokers? technical
+data limit
+data overage? no
+dating app
+day-to-day
+day-to-day spending
+deal me in
+deal or no deal? no
+deal the cards
+deal-breaker (used deal breaker)
+debt consolidation
+deck of cards
+declined card
+declutter
+deep clean
+deferred payment? technical
+delete apps? no
+delivery fee
+deposit (excluded)
+dice roll? no
+disagreement
+discount store
+discounted tickets? no
+discretionary spending
+display name
+disposable income
+do not disturb
+double date
+down and out
+down on your luck
+down payment (used)
+drive a hard bargain
+drop your phone? no
+duped
+early bird (used? early bird was dropped from final p1. test)
+early-bird special
+edit profile
+emotional boundaries? no
+employee discount
+end-user license? technical
+engagement rate
+enter a giveaway? no
+errand
+every now and then
+everyday life
+exact change
+exchange policy
+explicit content
+express checkout
+express lane (dup)
+factory reset
+fair and square
+fair price
+fake news (survived cand1? yes "fake news" in ok list)
+fall for a scam
+false advertising
+family sharing? platform feature
+fee waiver
+fence-sitter
+final offer
+finance charge
+find common ground? long
+fine print (dup)
+first date
+fixed expenses
+flag as inappropriate
+flag for review? no
+follow back
+follow back? no
+follower count
+follower giveaway? no
+followers only? no
+forgot your password
+free speech
+free up space
+freedom of expression
+freemium
+freudian slip? proper
+friend request
+friend zone? slang
+from the get-go
+from then on
+frugal
+frugality
+full price
+gag order? niche
+garage sale (dup)
+generate a password
+geolocation? technical
+get along with
+get back together
+get ripped off
+get scammed
+get the word out
+get to know
+gift certificate
+gift receipt (dup)
+give and take
+give or take
+give someone space
+give up on
+giveaway
+go back on your word
+go live
+go out on the town? no
+gone viral
+good omen
+grant access
+graphic content
+grifter? C1
+grocery run
+grocery shopping
+group discount
+group rate
+grow on someone
+haggling (dup)
+halfway point? no
+hand-me-down
+handling fee
+hang out (excluded? "hang out" was dropped from final sve. test)
+hangout
+hangout spot? no
+happy hour (test)
+harassing calls? no
+hard up
+has-been
+hate speech
+have a crush on
+heart-to-heart
+hedge your bets
+hidden costs
+hidden fees
+hide a post? no
+high-risk
+highlight? platform feature
+hit it off
+hoax
+hoax call? no
+hold on to
+home screen
+household name
+if it sounds too good to be true? long
+impartial
+impressions? marketing jargon
+impulse purchase
+in any case
+in common
+in context
+in due course
+in no time
+in practice
+in the black
+in the nick of time
+in the red
+in theory
+in-app purchase
+incognito window? platform
+inner circle
+installment plan
+insufficient funds
+interest accrues? technical
+interest-free
+interested party? no
+internet history
+internet troll
+introductory offer
+introductory rate
+iron out
+jinx
+jump to conclusions
+junk mail
+keep a promise
+keep a secret
+keep the receipt
+keep up with the Joneses
+keep your distance
+kids' account? no
+kill time
+knock on wood
+last call (used - survived)
+layaway
+let go of
+let your hair down
+like count? no
+live stream
+live streaming
+loaded dice
+loan shark
+location services
+location sharing
+lock screen
+log out of
+login credentials? technical
+look up to
+loose change
+losing streak
+love at first sight
+low on storage
+low-risk
+lowball
+lowball offer
+loyalty program
+luck out
+lucky charm
+lucky streak
+lunch money
+make a deal
+make it up to
+make or break
+make sense of
+markdown
+marked down
+marked up
+market price
+matchmaker
+mature content
+max out a card
+maxed out
+meet halfway (test)
+meet in the middle
+meet-up point? no
+meeting point
+meetup
+membership fee
+membership store
+mid-roll ad? jargon
+middle-of-the-road
+misleading ad
+misquote
+moderator
+money to burn
+money-back
+money-back offer
+money-saving
+monthly expenses
+monthly payments (dup)
+more or less
+movie night
+mute button? no
+mutual acquaintance? no
+mutual friend
+mutual friends
+mutuals? slang
+my turn
+name-calling
+nearby friends? platform
+need some space
+neutral party
+night in? no
+nine times out of ten
+no refund
+no risk no reward? no
+no-fee? no
+no-spend? no
+non-negotiable
+noncommittal
+not on speaking terms
+nothing to lose
+now and then
+now that you mention it
+on a budget
+on a roll
+on mute? no
+on my side
+on silent? no
+on speaking terms
+on the spot
+on your side
+once in a lifetime
+one-hit wonder
+online dating
+online harassment
+online presence
+online scam
+open bar
+open tab? no
+open up
+original packaging
+other half
+out of context
+out of data
+out of line
+outlet mall
+overdraft fee
+overdraft protection
+overdrawn
+overdue fee
+overnight success
+paid partnership
+paint the town (dup)
+paint the town red? dated
+parental approval? no
+parental controls
+parental guidance
+part exchange? British
+part with
+partial
+pass judgment
+passcode lock? no
+password manager
+password reset
+password strength
+pay down
+pay in full
+pay up front
+pay upfront
+payback time? no
+payday loan
+payment plan
+penny pincher
+perfect match
+permanently banned? no
+personal space
+personalized ads
+phishing email
+phishing scam (dup? phishing used)
+phone case
+phone charger
+phone plan
+photo tag? no
+pick up on
+piggy bank
+pin your location? no
+play it by ear
+play it safe
+playing cards
+pocket money
+point of contention
+points card
+pop-up ad
+pop-up blocker
+portable charger
+post a story? no
+power saving
+prank
+prank call
+predatory lending
+press freedom
+price adjustment
+price fixing? technical
+price gouging
+price war
+prior restraint? technical
+privacy settings (used? privacy settings was in p2 tec... wait, privacy settings — was it in final p2? My final tec list: unfollow, hashtag, screen time, phishing, malware, firewall, data breach, two-factor authentication, cyberbullying, encryption, identity theft, browsing history, debug, source code, open source, back up, default settings, swipe, battery life, airplane mode. "privacy settings" NOT in final. test)
+private account
+profile picture
+promo code
+promo post? no
+promotional code
+public account? no
+public figure
+punch card
+push your luck
+put together
+put your foot in it? British
+put your foot in your mouth
+quality time
+quoted out of context
+rags to riches
+rainy day
+raise the stakes
+rallying point? no
+rated R? no
+re-gift? no
+read between the lines (used - survived)
+read the fine print
+read too much into
+reboot
+receipt (dup)
+receipt (test)
+receipt required
+recommended for you? no
+reduced admission? no
+reel? platform-ish
+regifting
+reinstall
+remember me? no
+removed content? no
+report a post
+report a violation? no
+report abuse
+report content? no
+resale market? no
+resale value (dup)
+resell
+reserve judgment
+reset link
+reset your password
+respect boundaries? no
+restrict an account? no
+restricted mode? platform feature
+retail therapy
+return gift? no
+revoke access
+right away
+right off the bat
+rip someone off
+ripped off
+rise to fame
+roll the dice
+roughly speaking
+rummage sale
+rush to judgment
+safe search? no
+sales clerk
+sales tax
+satisfaction guaranteed
+saved passwords
+scam artist
+scan and go? no
+screen lock
+screen mirroring? technical
+screen name? dated
+screen protector
+screen reader
+screen time limits
+seal the deal
+search bar
+search history
+search results
+secondhand shop
+security question
+self-censorship
+self-made
+sellers' market
+senior discount
+sensitive content
+shadowban
+share count? no
+share location
+shared interests
+shattered screen? no
+shipping and handling
+shoestring budget
+shopping ban? no
+shopping spree
+shot to fame
+shuffle the deck
+side with
+sign in
+sign out
+sign-up fee
+signed in? no
+significant other
+simple interest
+sink or swim
+site traffic
+skip ad
+skip intro
+sleep mode
+slip of the tongue
+slip of the tongue (dup)
+slur
+small bills? no
+small talk
+smooth over
+snake eyes? jargon
+so to speak
+social circle
+social climber
+social media giveaway? long
+sock puppet
+software update (survived? in cand1? "software update" — I didn't include. test)
+sort things out
+sort through
+soulmate
+spam email
+speed dating
+spending freeze? no
+spending habits
+split the difference
+sponsored content (survived? "sponsored post" survived cand1; "sponsored content" test)
+spread the word
+spring cleaning
+squirrel away
+stack the deck
+stalker
+stalking
+stand up for
+stand up to
+status symbol
+stay in
+stay signed in? no
+step on someone's toes? informal
+sticking point
+stop by
+storage full
+store coupons
+store credit (dup)
+store policy
+stories (social media)? plural weird
+story (social media)
+strictly speaking
+strike a deal
+student discount
+stumble upon
+subscription fee
+subtitles (excluded? "subtitles" was in p2 cin and didn't survive → excluded)
+superstitious (excluded? superstitious was dropped from final ast. test)
+sweeten the deal
+swindle
+swindler
+system update
+tag a friend? no
+tag your location? no
+tagged in? no
+tagged photos? no
+tags attached? no
+take a chance
+take a risk
+take apart
+take it or leave it
+take sides
+take someone's side
+take up
+take your word for it
+takedown notice? technical
+taken down
+taken out of context
+talk into
+talk out of
+tap and pay? no
+targeted ads
+teaser rate? jargon
+terms and conditions
+the stakes are high
+third party
+third-party
+third-party apps
+thrift shop
+thrifting
+thrifty
+tight budget
+tightwad? no
+time after time
+to be precise
+too good to be true
+top result? no
+tracker
+trackers
+trade discount? no
+trade-in
+traffic
+trial offer
+trial period
+trigger warning
+troll (used? troll was in p2 tec originally and did NOT survive → excluded)
+trolling
+turn off autoplay? no
+turn off location? no
+turn-taking? no
+undercut
+unfollowed? no
+unfriend
+unlimited data
+unopened
+unskippable? no
+untag
+untag yourself? no
+unwanted gift
+unworn
+up next? no
+up to now
+update available? no
+user agreement
+username (test - was excluded? username was dropped from final p2 tec. in cand1-ok? I see... not in cand1 list? Actually I had "username" in tec draft but didn't include in cand1. test)
+variable expenses
+verification code
+verified account
+verified badge? no
+vested interest
+viral post
+viral video
+volume control? no
+volume discount
+waived fee? no
+wall adapter
+warehouse store
+watch every penny
+watch next? no
+water damage
+waterproof case
+weak password
+web browser
+web traffic
+well-off
+white elephant? niche
+wider circle? no
+win over
+winner announced? no
+winner takes all? no
+winning streak
+with tags? no
+work things out
+yard sale
+your turn
+zero percent? no

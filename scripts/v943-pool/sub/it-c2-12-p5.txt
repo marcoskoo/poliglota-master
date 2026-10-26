@@ -1,0 +1,124 @@
+lussureggiante|exuberante (frondoso)||A|let|C2
+estatico|extático||A|let|C2
+etera|hetera (cortesana griega)||S|let|C2
+aitante|apuesto (bien plantado)||A|let|C2
+belluino|beluino||A|let|C2
+sfarzoso|suntuoso (opulento)||A|let|C2
+languore|languidez||S|let|C2
+greve|pesado (grave, oneroso)||A|let|C2
+sudario|sudario||S|let|C2
+ferale|funesto||A|let|C2
+luttuoso|fúnebre (de duelo)||A|let|C2
+ghiribizzo|capricho (antojo absurdo)||S|let|C2
+soggiogare|sojuzgar||V|let|C2
+bramare|ansiar (desear con ardor)||V|emo|C2
+bramosia|ansia (codicia ardiente)||S|emo|C2
+anelare|anhelar||V|let|C2
+dipartirsi|partirse (fallecer, eufemismo)||V|let|C2
+dipartita|fallecimiento (partida)||S|let|C2
+speme|esperanza (arcaísmo poético)||S|let|C2
+innanzi|delante (arcaísmo: adelante)||D|let|C2
+alfine|por fin (arcaísmo literario)||D|let|C2
+favellare|hablar (arcaísmo: fablar)||V|let|C2
+esecrare|execrar||V|let|C2
+intemerato|intemerato (íntegro, puro)||A|let|C2
+magnanimo|magnánimo||A|let|C2
+munifico|munífico||A|let|C2
+miserando|lastimoso (digno de lástima)||A|let|C2
+opimo|opimo (fértil, abundante)||A|let|C2
+opulenza|opulencia||S|let|C2
+sontuoso|suntuoso||A|let|C2
+dissennato|insensato (demente)||A|let|C2
+insipiente|insipiente (falto de juicio)||A|let|C2
+misantropo|misántropo||S|let|C2
+desueto|desusado||A|let|C2
+schiatta|linaje (estirpe)||S|let|C2
+stocco|estoque (espada)||S|let|C2
+patibolo|patíbulo||S|let|C2
+impiccagione|ahorcamiento||S|ist|C2
+rintocco|campanada (redoble)||S|let|C2
+essequie|exequias||S|let|C2
+cordoglio|pesar (duelo)||S|emo|C2
+cippo|mojón (estela funeraria)||S|art|C2
+epitaffio|epitafio||S|let|C2
+lapidario|lapidario (conciso)||A|let|C2
+immemore|desmemoriado (olvidadizo)||A|emo|C2
+oblio|olvido||S|let|C2
+imperituro|imperecedero||A|let|C2
+transitorio|transitorio||A|tmp|C2
+interregno|interregno||S|ast|C2
+stasi|estancamiento (stasis)||S|ast|C2
+sconsolato|desconsolado||A|emo|C2
+desolazione|desolación||S|emo|C2
+mal di vivere|desgana de vivir||L|emo|C2
+avvilimento|abatimiento||S|emo|C2
+avvilire|envilecer||V|emo|C2
+tremebondo|tembloroso (tremebundo)||A|emo|C2
+temerità|temeridad||S|emo|C2
+ardire|osadía (audacia)||S|emo|C2
+valentia|valentía||S|emo|C2
+umor nero|bilis negra (malhumor)||L|emo|C2
+fiele|hiel (rencor)||S|let|C2
+furore|furia (furor)||S|emo|C2
+concitato|agitado (exaltado)||A|emo|C2
+concitazione|agitación (exaltación)||S|emo|C2
+irruenza|brusquedad (impetuosidad)||S|emo|C2
+esuberanza|exuberancia||S|emo|C2
+brio|brío||S|emo|C2
+alacre|ligero y diligente||A|lav|C2
+fervore|fervor||S|emo|C2
+assiduità|asiduidad||S|lav|C2
+volitivo|volitivo||A|emo|C2
+infaticabile|infatigable||A|lav|C2
+stacanovista|adicto al trabajo||A|lav|C2
+sgobbare|currar (trabajar sin descanso)||V|lav|C2
+indolenza|indolencia||S|emo|C2
+ozio|ocio (holganza)||S|emo|C2
+dilettantismo|diletantismo||S|emo|C2
+trascuratezza|desaliño (negligencia)||S|emo|C2
+babbeo|tonto (simple)||S|emo|C2
+becero|basto (grosero)||A|emo|C2
+verboso|verboso||A|cmu|C2
+prolioso|prolijo||A|cmu|C2
+confabulare|confabular (conspirar)||V|cmu|C2
+sermoneggiare|sermonear||V|cmu|C2
+maldicenza|murmuración (mala lengua)||S|emo|C2
+diceria|rumor (dicterio)||S|emo|C2
+insinuante|insinuante||A|cmu|C2
+subdolo|solapado||A|emo|C2
+insidioso|insidioso||A|emo|C2
+doppiezza|doblez||S|emo|C2
+doppio gioco|doble juego||L|emo|C2
+slealtà|deslealtad||S|emo|C2
+vendetta di sangue|venganza de sangre||L|att|C2
+oltraggioso|ultrajante||A|emo|C2
+mortificazione|mortificación||S|emo|C2
+asservimento|avasallamiento||S|emo|C2
+adulare|adular||V|emo|C2
+moine|zalemas (cortesanías)||S|emo|C2
+galanteria|galantería||S|emo|C2
+cerimonioso|ceremonioso||A|cmu|C2
+compiacenza|complacencia||S|emo|C2
+autocompiacimento|autocomplacencia||S|emo|C2
+compunzione|compunción||S|emo|C2
+remora|remordimiento (escrúpulo)||S|emo|C2
+deferente|deferente (trato respetuoso)||A|emo|C2
+timore reverenziale|temor reverencial||L|emo|C2
+fanfaronada|fanfarronada||S|emo|C2
+boria|soberbia (jactancia)||S|emo|C2
+albagia|soberbia (arrogancia)||S|let|C2
+spavaldo|altivo provocador||A|emo|C2
+irridente|burlón (irrisorio)||A|emo|C2
+sornione|socarrón||A|emo|C2
+sbeffeggio|escarnio (burla)||S|cmu|C2
+scherno|escarnio (burla)||S|emo|C2
+beffa|burla (engaño)||S|emo|C2
+ghigno|mueca (risa sardónica)||S|emo|C2
+anfibologico|anfibológico (ambiguo)||A|let|C2
+indubitabile|indubitable||A|ast|C2
+inconfutabile|irrefutable||A|ast|C2
+elusivo|evasivo||A|cmu|C2
+temporeggiare|dar largas (temporizar)||V|cmu|C2
+cincischiare|hurgar (tardar en hacer)||V|emo|C2
+tirarla per le lunghe|darle largas (prolongar)||L|cmu|C2
+andare per le spicce|ir al grano (sin rodeos)||L|cmu|C2

@@ -1,0 +1,140 @@
+diritto di superficie|derecho de superficie||S|ist|C2
+comunione ereditaria|comunidad hereditaria||S|ist|C2
+negozio giuridico|negocio jurídico||S|ist|C2
+lesione enorme|lesión enorme (desproporción dañosa)||S|ist|C2
+rescissione per lesione|rescisión por lesión||S|ist|C2
+penale convenzionale|pena convencional||S|ist|C2
+fideiussione omnibus|fianza omnibus||S|ist|C2
+evizione|evicción||S|ist|C2
+cottimo|destajo||S|lav|C2
+obbligazione propter rem|obligación propter rem||L|ist|C2
+danno esistenziale|daño existencial||S|ist|C2
+danno erariale|daño al erario||S|ist|C2
+rinvio pregiudiziale|reenvío prejudicial||S|ist|C2
+arbitrato rituale|arbitraje ritual||S|ist|C2
+arbitro amichevole componitore|árbitro amigable componedor||S|pro|C2
+impugnazione del lodo|impugnación del laudo||S|ist|C2
+ricorso per cassazione|recurso de casación||S|ist|C2
+sezioni unite|salas unidas||S|ist|C2
+massimario|repertorio de jurisprudencia||S|ist|C2
+revocatoria fallimentare|acción revocatoria concursal||S|ist|C2
+interdizione giudiziaria|interdicción judicial||S|ist|C2
+amministrazione di sostegno|administración de apoyo||S|ist|C2
+memoria conclusionale|escrito de conclusiones||S|ist|C2
+libero convincimento|libre valoración de la prueba||S|ist|C2
+prova per presunzioni|prueba por presunciones||S|ist|C2
+controesame|contrainterrogatorio||S|ist|C2
+ricusazione|recusación||S|ist|C2
+pignoramento presso terzi|embargo de créditos ante terceros||S|ist|C2
+vendita con incanto|subasta con licitación||S|ist|C2
+graduazione dei crediti|graduación de créditos||S|ist|C2
+concorso dei creditori|concurso de acreedores||S|ist|C2
+esdebitazione|exoneración de deudas||S|ist|C2
+creditore chirografario|acreedor quirografario||S|ist|C2
+riscossione coattiva|recaudación forzosa||S|ist|C2
+fermo amministrativo|inmovilización administrativa||S|ist|C2
+mora debendi|mora del deudor||L|ist|C2
+costituzione in mora|constitución en mora||L|ist|C2
+lite temeraria|pleito temerario||S|ist|C2
+rifusione delle spese|reembolso de costas||S|ist|C2
+atto pubblico|escritura pública||S|ist|C2
+notaio rogante|notario autorizante||S|pro|C2
+voltura catastale|cambio de titularidad registral||S|ist|C2
+accatastamento|inscripción catastral||S|ist|C2
+rendita catastale|renta catastral||S|ist|C2
+visura ipotecaria|nota simple registral||S|ist|C2
+convalida di sfratto|validación del desahucio||S|ist|C2
+sfratto per morosità|desahucio por impago||S|ist|C2
+occupazione senza titolo|ocupación sin título||S|ist|C2
+concessione edilizia|licencia de obra||S|ist|C2
+abuso edilizio|construcción ilegal||S|ist|C2
+sanatoria edilizia|regularización de obra ilegal||S|ist|C2
+incostituzionalità|inconstitucionalidad||S|ist|C2
+decretazione d'urgenza|decretación de urgencia||S|ist|C2
+circoscrizione elettorale|distrito electoral||S|ist|C2
+soglia di sbarramento|umbral electoral||S|ist|C2
+premio di maggioranza|prima de mayoría||S|ist|C2
+commissione parlamentare d'inchiesta|comisión parlamentaria de investigación||S|ist|C2
+indagine conoscitiva|indagación informativa parlamentaria||S|ist|C2
+leale cooperazione|cooperación leal||S|ist|C2
+annullamento d'ufficio|anulación de oficio||S|ist|C2
+termine perentorio|plazo perentorio||S|ist|C2
+interpretazione autentica|interpretación auténtica||S|ist|C2
+analogia iuris|analogía iuris||L|ist|C2
+causa di giustificazione|causa de justificación||S|ist|C2
+legittima difesa putativa|legítima defensa putativa||S|ist|C2
+beneficio d'inventario|a beneficio de inventario||L|ist|C2
+fedecomesso|fideicomiso||S|ist|C2
+sostituzione fedecommissoria|sustitución fideicomisoria||S|ist|C2
+garanzia per vizi occulti|garantía por vicios ocultos||S|ist|C2
+buona fede contrattuale|buena fe contractual||L|ist|C2
+giudizio abbreviato|juicio abreviado||S|ist|C2
+giudizio direttissimo|juicio inmediato en flagrancia||S|ist|C2
+cancelleria|secretaría judicial||S|ist|C2
+ufficiale giudiziario|agente judicial notificador||S|pro|C2
+lodo|laudo arbitral||S|ist|C2
+civilista|civilista||S|pro|C2
+penalista|penalista||S|pro|C2
+giuslavorista|jurista laboralista||S|pro|C2
+concorso formale di reati|concurso formal de delitos||S|ist|C2
+desistenza volontaria|desistimiento voluntario||S|ist|C2
+errore di proibizione|error de prohibición||S|ist|C2
+vizio totale di mente|trastorno mental transitorio||S|ist|C2
+seminfermità|semialienación mental||S|ist|C2
+perizia psichiatrica|pericia psiquiátrica||S|ist|C2
+delinquenza abituale|delincuencia habitual||S|ist|C2
+pentitismo|arrepentimiento cooperante||S|ist|C2
+attenuante|atenuante||S|ist|C2
+affidamento in prova|libertad provisional en prueba||S|ist|C2
+detenzione domiciliare|arresto domiciliario||S|ist|C2
+rieducazione del condannato|reeducación del condenado||S|ist|C2
+confisca per equivalente|comiso por equivalente||S|ist|C2
+espiazione|expiación (cumplimiento de pena)||S|ist|C2
+pericolosità sociale|peligrosidad social||S|ist|C2
+messa in stato di accusa|enjuiciamiento (proceso de responsabilidad)||S|ist|C2
+giustizia minorile|justicia de menores||S|ist|C2
+carcerario|carcelario||A|ist|C2
+deterrimento|disuasión (efecto disuasorio)||S|ist|C2
+prevenzione speciale|prevención especial||S|ist|C2
+etichettamento|etiquetado (estigma del desviado)||S|ist|C2
+criminogenesi|criminogénesis||S|ist|C2
+avviso di garanzia|notificación de imputación||S|ist|C2
+indagini difensive|investigaciones defensivas||S|ist|C2
+incriminato|imputado (procesado)||A|ist|C2
+insabbiamento|encubrimiento (tapamiento)||S|att|C2
+contraffattore|falsificador||S|pro|C2
+istigazione|instigación||S|ist|C2
+apologia del reato|apología del delito||L|ist|C2
+patto di non belligeranza|pacto de no beligerancia||S|ist|C2
+trattato bilaterale|tratado bilateral||S|ist|C2
+convenzione quadro|convenio marco||S|ist|C2
+risoluzione di controversie|resolución de diferencias||S|ist|C2
+parere consultivo|dictamen consultivo||S|ist|C2
+mandato d'arresto europeo|orden europea de detención||S|ist|C2
+apolide|apátrida||S|att|C2
+status di rifugiato|estatuto de refugiado||S|att|C2
+diritto di asilo|derecho de asilo||S|ist|C2
+trattenimento|retención (de extranjeros)||S|ist|C2
+espulsione amministrativa|expulsión administrativa||S|ist|C2
+carta stampata|prensa de papel||S|att|C2
+radiocronaca|radiocronica (narración radiofónica)||S|att|C2
+periodistico|periodístico||A|att|C2
+oscurantismo|oscurantismo||S|ast|C2
+sbirro|poli (despectivo: sbirro)||S|att|C2
+nolo|flete (arrendamiento de buque)||S|fin|C2
+misura di salvaguardia|medida de salvaguardia||S|fin|C2
+doganiere|aduano||S|pro|C2
+contrabbando|contrabando||S|ist|C2
+mercanzia di contrabbando|género de contrabando||S|ist|C2
+reintegro|readmisión||S|lav|C2
+sciopero a gatto selvaggio|huelga salvaje||S|lav|C2
+precariato del lavoro|precariedad laboral||S|lav|C2
+somministrazione di lavoro|trabajo temporal||S|lav|C2
+retribuzione variabile|retribución variable||S|lav|C2
+ammortizzatori sociali|prestaciones por desempleo||L|ist|C2
+prepensione|jubilación anticipada||S|lav|C2
+malattia professionale|enfermedad profesional||S|lav|C2
+imposta di registro|impuesto de actos jurídicos documentados||S|fin|C2
+imposta ipotecaria|impuesto hipotecario||S|fin|C2
+esenzione fiscale|exención fiscal||S|fin|C2
+rotazione degli ispettori|rotación de inspectores||S|ist|C2

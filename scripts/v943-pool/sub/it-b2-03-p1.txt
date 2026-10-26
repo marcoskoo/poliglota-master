@@ -1,0 +1,89 @@
+figliastro|hijastro||S|fam|B2
+ribelle|rebelde||A|fam|B2
+sfratto|desahucio||S|cas|B2
+inquilino|inquilino||S|cas|B2
+casareccio|de cocina casera||A|ali|B2
+lattosio|lactosa||S|ali|B2
+speziato|especiado||A|ali|B2
+sponsorizzare|patrocinar||V|cmp|B2
+pubblicitario|publicitario||A|cmp|B2
+reclamazione|reclamación||S|cmp|B2
+corriere|empresa de mensajería||S|cmp|B2
+pagamento alla consegna|pago contra reembolso||L|cmp|B2
+officina|taller (de automóviles)||S|tra|B2
+corsia ciclabile|carril bici||L|tra|B2
+rimborso spese|reembolso de gastos||L|vig|B2
+permesso di lavoro|permiso de trabajo||L|vig|B2
+stressante|estresante||A|emo|B2
+rilassante|relajante||A|sla|B2
+reclutamento|reclutamiento||S|lav|B2
+trasferimento|traslado||S|lav|B2
+tavola rotonda|mesa redonda||L|lav|B2
+contrattazione|negociación colectiva||S|lav|B2
+retribuito|remunerado||A|lav|B2
+attestato|certificado||S|stu|B2
+tasse universitarie|tasas universitarias||L|stu|B2
+fuori sede|(estudiante) de fuera||E|stu|B2
+ripasso|repaso||S|stu|B2
+mappa concettuale|mapa conceptual||L|stu|B2
+nettezza urbana|limpieza viaria||L|cit|B2
+tessile|textil||A|rop|B2
+cyberbullismo|ciberacoso||S|tec|B2
+diventare virale|hacerse viral||L|tec|B2
+fuga di dati|filtración de datos||L|tec|B2
+copia di backup|copia de seguridad||L|tec|B2
+finalista|finalista||S|spt|B2
+accessibilità|accesibilidad||S|ast|B2
+garante|avalista||S|fin|B2
+anzianità|antigüedad||S|lav|B2
+menù degustazione|menú degustación||L|ris|B2
+saldatore|soldador||S|pro|B2
+educatore|educador||S|pro|B2
+illustratore|ilustrador||S|pro|B2
+deputato|diputado||S|ist|B2
+costellazione|constelación||S|sci|B2
+narrazione|narración||S|let|B2
+nidificare|anidar||V|ani|B2
+svago|ocio||S|sve|B2
+lavorare a maglia|hacer punto||L|sve|B2
+forza di volontà|fuerza de voluntad||L|emo|B2
+parlare in pubblico|hablar en público||L|cmu|B2
+a quanto pare|al parecer||E|cnn|B2
+impressionismo|impresionismo||S|art|B2
+cupola|cúpula||S|art|B2
+pianerottolo|rellano||S|cas|B2
+additivo|aditivo||S|ali|B2
+pendolare|persona que viaja a diario||S|tra|B2
+bendare|vendar||V|sla|B2
+perfezionamento|perfeccionamiento||S|lav|B2
+riconoscimento dei crediti|convalidación de créditos||L|stu|B2
+agenzia immobiliare|inmobiliaria||L|cas|B2
+acquisto online|compra online||L|cmp|B2
+conferma d'ordine|confirmación del pedido||L|cmp|B2
+sfondo|fondo de pantalla||S|tec|B2
+amatoriale|de aficionados||A|spt|B2
+dal vivo|en directo||L|mus|B2
+piattaforma di streaming|plataforma de streaming||L|cin|B2
+episodio pilota|episodio piloto||L|cin|B2
+bomboniera|recuerdo de boda||S|rel|B2
+addio al celibato|despedida de soltero||L|rel|B2
+costo della vita|coste de la vida||L|fin|B2
+caffettiera|cafetera||S|ris|B2
+vandalismo|vandalismo||S|cit|B2
+telecamera di sorveglianza|cámara de vigilancia||L|cit|B2
+pseudoscienza|pseudociencia||S|sci|B2
+club di lettura|club de lectura||L|let|B2
+romanzo rosa|novela romántica||L|let|B2
+scarpone|bota de montaña||S|spt|B2
+città d'arte|ciudad de arte||L|vig|B2
+crescita personale|crecimiento personal||L|emo|B2
+disservizio|deficiencia en el servicio||S|cmu|B2
+sorte|suerte (sino)||S|ast|B2
+doganiere|agente de aduanas||S|vig|B2
+deposito bagagli|guardaequipaje||L|htl|B2
+tramandare|transmitir (un legado)||V|fam|B2
+sonnolenza|somnolencia||S|sla|B2
+spostare|mover (una cita)||V|tmp|B2
+canile|perrera||S|ani|B2
+dare uno strappo|llevar a alguien (en coche)||L|tra|B2
+condivisione dell'auto|coche compartido||L|tra|B2

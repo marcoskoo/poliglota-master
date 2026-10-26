@@ -1,0 +1,94 @@
+primeira infância|primera infancia||L|fam|B1
+maioridade|mayoría de edad||S|fam|B1
+padrinho de casamento|padrino de boda||L|fam|B1
+pôr limites|poner límites||L|fam|B1
+renda mensal|alquiler mensual||L|cas|B1
+obra de remodelação|obra de reforma||L|cas|B1
+orçamento da obra|presupuesto de la obra||L|cas|B1
+cozinha tradicional|cocina tradicional||L|ali|B1
+intolerância alimentar|intolerancia alimentaria||L|sla|B1
+cozer a vapor|cocer al vapor||L|ali|B1
+receita caseira|receta casera||L|ali|B1
+outdoor|valla publicitaria||S|cmp|B1
+folha de reclamações|hoja de reclamaciones||L|cmp|B1
+recibo de compra|recibo de compra||L|cmp|B1
+estado da encomenda|estado del pedido||L|cmp|B1
+alcoolémia|alcoholemia||S|tra|B1
+revisão do carro|revisión del coche||L|tra|B1
+radar de velocidade|radar de velocidad||L|tra|B1
+carril ciclável|carril bici||L|tra|B1
+partilha de carro|coche compartido||L|tra|B1
+passe de transporte|abono de transporte||L|tra|B1
+extraviar|extraviar||V|vig|B1
+voo cancelado|vuelo cancelado||L|vig|B1
+agenda apertada|agenda apretada||L|lav|B1
+controlo de fronteira|control de fronteras||L|vig|B1
+requerente|solicitante||S|ist|B1
+passaporte válido|pasaporte en regla||L|vig|B1
+visto de trabalho|visado de trabajo||L|vig|B1
+regime de alojamento|régimen de alojamiento||L|htl|B1
+reserva antecipada|reserva anticipada||L|htl|B1
+estilo de vida saudável|estilo de vida saludable||L|sla|B1
+dosear|dosificar||V|sla|B1
+consumo moderado|consumo moderado||L|sla|B1
+consulta de urgência|consulta de urgencias||L|sla|B1
+descontrair|relajarse||V|sla|B1
+meditação guiada|meditación guiada||L|sla|B1
+equilíbrio emocional|equilibrio emocional||L|emo|B1
+referências profissionais|referencias profesionales||L|lav|B1
+experiência relevante|experiencia relevante||L|lav|B1
+carreira profissional|carrera profesional||L|lav|B1
+ascensão profissional|ascenso profesional||L|lav|B1
+delegar tarefas|delegar tareas||L|lav|B1
+trabalho de equipa|trabajo en equipo||L|lav|B1
+dirigente sindical|dirigente sindical||L|lav|B1
+classificação final|calificación final||L|stu|B1
+curso intensivo|curso intensivo||L|stu|B1
+certificado de proficiência|certificado de competencia||L|stu|B1
+estudo dirigido|estudio dirigido||L|stu|B1
+fichas de leitura|fichas de lectura||L|stu|B1
+planeamento urbano|planeamiento urbano||L|cit|B1
+atendimento presencial|atención presencial||L|ist|B1
+vítima de catástrofe|víctima de catástrofe||L|nat|B1
+peça de vestuário|prenda de vestir||L|rop|B1
+tendência da moda|tendencia de la moda||L|rop|B1
+perfil falso|perfil falso||L|tec|B1
+ganhar seguidores|conseguir seguidores||L|tec|B1
+partilhar conteúdo|compartir contenido||L|tec|B1
+denunciar conteúdo|denunciar contenido||L|tec|B1
+presença online|presencia online||L|tec|B1
+cibercrime|ciberdelito||S|tec|B1
+fase de grupos|fase de grupos||L|spt|B1
+contratação de jogador|fichaje de un jugador||L|spt|B1
+ensaio da banda|ensayo de la banda||L|mus|B1
+regente de orquestra|director de orquesta||L|mus|B1
+estreia em festival|estreno en festival||L|cin|B1
+fim de relacionamento|fin de la relación||L|rel|B1
+discussão acesa|discusión acalorada||L|rel|B1
+perder o contacto|perder el contacto||L|rel|B1
+dedução fiscal|deducción fiscal||L|fin|B1
+isenção de imposto|exención de impuestos||L|fin|B1
+deduzir despesas|deducir gastos||L|fin|B1
+amortizar o crédito|amortizar el préstamo||L|fin|B1
+pedido de empréstimo|solicitud de préstamo||L|fin|B1
+poupança mensal|ahorro mensual||L|fin|B1
+investir a longo prazo|invertir a largo plazo||L|fin|B1
+ementa do dia|menú del día||L|ris|B1
+consultor fiscal|asesor fiscal||L|pro|B1
+desenhador técnico|delineante||L|pro|B1
+assistente social|trabajador social||L|pro|B1
+professor substituto|profesor sustituto||L|pro|B1
+guionista|guionista||S|cin|B1
+ceramista|ceramista||S|art|B1
+editor-chefe|editor jefe||L|pro|B1
+fotógrafo de moda|fotógrafo de moda||L|pro|B1
+projeto de lei|proyecto de ley||L|ist|B1
+discussão parlamentar|debate parlamentario||L|ist|B1
+reciclagem seletiva|reciclaje selectivo||L|nat|B1
+sobreexploração|sobreexplotación||S|nat|B1
+prova científica|prueba científica||L|sci|B1
+replicar um estudo|replicar un estudio||L|sci|B1
+variável experimental|variable experimental||L|sci|B1
+evoluir|evolucionar||V|sci|B1
+divisão celular|división celular||L|sci|B1
+órbita planetária|órbita planetaria||L|sci|B1

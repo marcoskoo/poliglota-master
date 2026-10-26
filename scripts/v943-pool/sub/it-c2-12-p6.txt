@@ -1,0 +1,81 @@
+a tradimento|a traición (inesperadamente)||L|cnn|C2
+di riffa o di raffa|a la fuerza (como sea)||L|cnn|C2
+a capofitto|de cabeza (a toda prisa)||L|cnn|C2
+per contro|en cambio||L|cnn|C2
+in punto di|a punto de||L|cnn|C2
+a mo' di|a modo de||L|cnn|C2
+al cospetto di|en presencia de (ante)||L|cnn|C2
+in seno a|en el seno de||L|cnn|C2
+a cavallo tra|a caballo entre||L|tmp|C2
+in capo a|al cabo de||L|tmp|C2
+di lì a poco|poco después||L|tmp|C2
+sul finire di|a finales de||L|tmp|C2
+in deroga a|en derogación de||L|cnn|C2
+hic et nunc|hic et nunc (aquí y ahora)||L|cnn|C2
+post mortem|post mortem||L|cnn|C2
+ante litteram|ante litteram||L|let|C2
+damnatio memoriae|damnatio memoriae||L|ast|C2
+tertium comparationis|tertium comparationis||L|let|C2
+pars construens|pars construens (parte constructiva)||L|let|C2
+horribile dictu|horribile dictu||L|let|C2
+apud|apud (según cita)||P|cnn|C2
+abbiocco|modorra (somnolencia postprandial)||S|sve|C2
+fattanza|bienestar placentero||S|emo|C2
+bislacco|estrambótico (rarito)||A|emo|C2
+coatto|macarra (choni agresivo)||A|emo|C2
+manovalanza|mano de obra (peonada)||S|lav|C2
+sbrindolato|harapiento (desaliñado)||A|rop|C2
+straccione|harapiento (vagabundo)||S|emo|C2
+accattone|pordiosero||S|emo|C2
+rigattiere|trapero (chatarrero)||S|pro|C2
+lupanare|lupanar||S|let|C2
+farabutto|canalla||S|emo|C2
+cireneo|cirineo (quien carga con lo ajeno)||S|let|C2
+catapecchia|cascarón (chabola)||S|cas|C2
+topaia|pocilga (cueva inmunda)||S|cas|C2
+antro|antro (cueva)||S|let|C2
+spelonca|espelunca (cueva)||S|let|C2
+covo|guarida (covo)||S|ani|C2
+sgomitare|hacerse sitio (dar codazos)||V|emo|C2
+scroccare|gorronear||V|ris|C2
+mangiapane a tradimento|gandul (vividor)||L|emo|C2
+pantofolaio|zapatón (casero)||S|emo|C2
+nullafacente|holgazán||A|emo|C2
+sfaccendato|haragán (desocupado)||A|emo|C2
+impiastro|pesado (inepto)||S|emo|C2
+piagnisteo|lloriqueo||S|emo|C2
+sfiancare|agotar (desfondar)||V|emo|C2
+allo stremo|al límite (exhausto)||L|emo|C2
+impietrire|petrificarse||V|emo|C2
+imbambolato|aturullado (idiotizado)||A|emo|C2
+sgraziato|desgarbado||A|emo|C2
+dinoccolato|descoyuntado (desgarbado)||A|emo|C2
+melenso|cursi (empalagoso)||A|emo|C2
+sdolcinato|azucarado (cursi)||A|emo|C2
+ampolloso|ampuloso||A|let|C2
+magniloquente|magnilocuente||A|let|C2
+aulico|áulico||A|let|C2
+burocratese|lengua burocrática||S|cmu|C2
+politichese|lengua de madera (jerga política)||S|cmu|C2
+insulso|insípido (soso)||A|emo|C2
+scipitezza|sosería (insipidez)||S|emo|C2
+sciapo|soso (insípido)||A|ali|C2
+stantio|rancio (pasado, no fresco)||A|ali|C2
+stucchevole|empalagoso||A|emo|C2
+bacchettone|mojigato||A|emo|C2
+perbenista|moralista aparente||A|emo|C2
+benpensante|de moral convencional||A|emo|C2
+spendaccione|derrochador (gastador)||S|emo|C2
+largizione|largueza (dadivosidad)||S|let|C2
+libertino|libertino||A|emo|C2
+lascivo|lascivo||A|emo|C2
+impudico|impúdico||A|emo|C2
+pudibondo|pudibundo||A|emo|C2
+libidine|libido (lascivia)||S|emo|C2
+voluttà|voluptuosidad||S|emo|C2
+esultanza|júbilo (regocijo)||S|emo|C2
+ingratitudine|ingratitud||S|emo|C2
+rappacificazione|reconciliación||S|emo|C2
+quisquilia|nimiedad||S|emo|C2
+stoccata|estocada (agudeza punzante)||S|cmu|C2
+sbirciare|ojear (mirar de reojo)||V|emo|C2

@@ -1,0 +1,61 @@
+metanarrazione|metanarración||S|let|C1
+saffico|sáfico||A|let|C1
+entelechia|entelequia||S|ast|C1
+riduzionismo|reduccionismo||S|ast|C1
+abduzione|abducción||S|ast|C1
+deissi|deíxis||S|stu|C1
+iponimo|hipónimo||S|stu|C1
+coerenza testuale|coherencia textual||L|stu|C1
+implicatura conversazionale|implicatura conversacional||L|stu|C1
+glottologia|glotología||S|stu|C1
+società dello spettacolo|sociedad del espectáculo||L|ast|C1
+episteme|episteme||S|ast|C1
+deterrenza nucleare|disuasión nuclear||L|att|C1
+apolide|apátrida||S|ast|C1
+buon ufficio|buenos oficios||L|att|C1
+meticciamento|mestizaje||S|ast|C1
+creolizzazione|criollización||S|ast|C1
+tessitura|tessitura||S|mus|C1
+aggiudicazione all'asta|adjudicación en subasta||L|art|C1
+puntasecca|punta seca||S|art|C1
+fuori campo|fuera de campo||L|cin|C1
+sottopancia|subtítulo sobreimpreso||S|cin|C1
+discesa del gradiente|descenso del gradiente||L|tec|C1
+riconoscimento biometrico|reconocimiento biométrico||L|tec|C1
+microarchitettura|microarquitectura||S|tec|C1
+analisi predittiva|analítica predictiva||L|tec|C1
+dispacciamento|despacho eléctrico||S|tec|C1
+manutenzione predittiva|mantenimiento predictivo||L|tec|C1
+franosità|inestabilidad de ladera||S|nat|C1
+piena centennale|crecida centenaria||L|nat|C1
+appassimento delle uve|pasificación de la uva||L|ali|C1
+sboccatura|degüello||S|ali|C1
+cicerchia|almorta||S|ali|C1
+scapece|escabeche||S|ali|C1
+pusillanimità|pusilanimidad||S|emo|C1
+sornione|socarrón||A|emo|C1
+prevaricare|prevaricar||V|cmu|C1
+prestito d'opera|cesión temporal de personal||L|lav|C1
+verbigrazia|por ejemplo||L|cnn|C1
+come a dire|por así decirlo||L|cnn|C1
+fuor di metafora|fuera de metáfora||L|cnn|C1
+posto che|puesto que||L|cnn|C1
+accingersi|disponerse a||V|cmu|C1
+avvedersi|darse cuenta||V|cmu|C1
+sibillino|sibilino||A|cmu|C1
+reddito di inclusione|renta de inclusión||L|ist|C1
+supercompensazione|supercompensación||S|spt|C1
+allevamento selettivo|cría selectiva||L|ani|C1
+nimbostrato|nimboestrato||S|cli|C1
+albori|albores||S|let|C1
+tetrago|tétrago||A|let|C1
+landa|páramo||S|nat|C1
+all'addiaccio|a la intemperie||L|let|C1
+piccineria|mezquindad||S|ast|C1
+per difetto|por defecto||L|ast|C1
+per eccesso|por exceso||L|ast|C1
+togliere il disturbo|irse sin molestar||L|cmu|C1
+senza contare che|aparte de que||L|cnn|C1
+tessuto urbano|trama urbana||L|cit|C1
+rifunzionalizzazione|refuncionalización||S|art|C1
+avvicendamento delle colture|rotación de cultivos||L|nat|C1

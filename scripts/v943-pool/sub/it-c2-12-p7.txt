@@ -1,0 +1,64 @@
+enologo|enólogo||S|pro|C2
+affinamento in botte|crianza en barrica||L|ris|C2
+tino|tinaja (depósito de fermentación)||S|ris|C2
+sapidità|sapidez||S|ris|C2
+macerazione|maceración||S|ris|C2
+svinatura|descube||S|ris|C2
+zuccheraggio|chaptalización (adición de azúcar)||S|ris|C2
+salumificio|fábrica de embutidos||S|pro|C2
+foraggiamento|forrajeo||S|ani|C2
+aposematico|aposemático||A|sci|C2
+omocromia|homocromía||S|sci|C2
+erpetologia|herpetología||S|sci|C2
+ornitologia|ornitología||S|sci|C2
+ittiologia|ictiología||S|sci|C2
+pedomorfosi|pedomorfosis||S|sci|C2
+avifauna|avifauna||S|ani|C2
+briofita|briofita||S|nat|C2
+entomofila|entomófila||A|nat|C2
+micorriza|micorriza||S|nat|C2
+rizosfera|rizosfera||S|nat|C2
+soprassuolo|masa forestal||S|nat|C2
+corridoio ecologico|corredor ecológico||S|nat|C2
+specie ombrella|especie paraguas||L|nat|C2
+rinaturalizzazione|renaturalización||S|nat|C2
+depauperamento|empobrecimiento||S|nat|C2
+benthos|bentos||S|sci|C2
+pelagico|pelágico||A|nat|C2
+demersale|demersal||A|nat|C2
+simbionte|simbionte||S|sci|C2
+parassitoidismo|parasitoidismo||S|sci|C2
+tefra|tefra||S|nat|C2
+dicco|dique (filón de roca)||S|nat|C2
+laccolite|lacolito||S|nat|C2
+batolite|batolito||S|nat|C2
+gneiss|gneis||S|nat|C2
+quarzite|cuarcita||S|nat|C2
+arenaria|arenisca||S|nat|C2
+torbidite|turbidita||S|nat|C2
+flysch|flysch||S|nat|C2
+milonite|milonita||S|nat|C2
+epirogenesi|epirogénesis||S|nat|C2
+isostasia|isostasia||S|nat|C2
+circo glaciale|circo glaciar||S|nat|C2
+drumlin|drumlin||S|nat|C2
+loess|loess||S|nat|C2
+piezometrico|piezométrico||A|sci|C2
+retroazione|retroalimentación||S|sci|C2
+aridità|aridez||S|nat|C2
+onda di piena|punta de crecida||L|nat|C2
+idrogeologico|hidrogeológico||A|nat|C2
+galaverna|cencellada||S|nat|C2
+geloni|sabañones||S|cor|C2
+assideramento|hipotermia (congelación)||S|sla|C2
+nevaio|nevero (campo de nieve)||S|nat|C2
+piccozza|piolet||S|spt|C2
+fortunale|temporal (galerna)||S|nat|C2
+scuderia|cuadra (escudería)||S|ani|C2
+criniera|crin||S|ani|C2
+ambio|ambio (paso del caballo)||S|ani|C2
+briglia|brida||S|ani|C2
+libro genealogico|libro de registro (studbook)||S|ani|C2
+defaticamento|descarga (recuperación activa)||S|spt|C2
+sovrallenamento|sobreentrenamiento||S|spt|C2
+peso forma|peso ideal||S|spt|C2

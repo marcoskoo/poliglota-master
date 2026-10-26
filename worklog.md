@@ -2843,3 +2843,11 @@ Work Log:
 - pt-c1-04-p*.txt: 444 entradas tras limpieza · awk OK · dup OK
 Stage Summary:
 - pt-c1-04: 444 entradas C1 portugués
+---
+Task ID: v9.43/r2/en-c1-07
+Agent: subagent
+Task: lexicón EN C1 en-c1-07 (v4)
+Work Log:
+- en-c1-07-p*.txt: 367 entradas tras limpieza · awk OK · dup OK
+Stage Summary:
+- en-c1-07: 367 entradas C1 inglés
