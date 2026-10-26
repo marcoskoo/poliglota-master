@@ -1,0 +1,43 @@
+spesuccia|gasto mínimo||S|fin|B2
+spuntino veloce|tentempié rápido||E|ali|B2
+sconto fedeltà|descuento por fidelidad||E|cmp|B2
+tiro a volo|tiro al vuelo||E|spt|B2
+tregua sindacale|tregua sindical||E|lav|B2
+smaltimento rifiuti|gestión de residuos||E|eco|B2
+tasso di scolarizzazione|tasa de escolarización||E|stu|B2
+taglio energetico|recorte energético||E|eco|B2
+serranda avvolgibile|persiana enrollable||S|cas|B2
+tutore ortopedico|tutor ortopédico||S|sla|B2
+trenino delle miniere|trenecito minero||E|vig|B2
+trasferta sportiva|partido fuera||E|spt|B2
+trattamento termale|tratamiento termal||E|sla|B2
+vendita flash|venta flash||E|cmp|B2
+versamento contributivo|aportación contributiva||E|fin|B2
+vestaglia de baño|albornoz||E|rop|B2
+vigile urbano|agente municipal||S|pro|B2
+vino novello|vino nuevo||E|ali|B2
+zaino in spalla|mochila a cuestas||E|vig|B2
+zoccoli|zuecos||S|rop|B2
+sbalzo termico|escalón térmico||E|cli|B2
+sbarramento di polizia|control policial||E|att|B2
+scadenza del contratto|vencimiento del contrato||E|fin|B2
+scandalo a mezzo stampa|escándalo mediático||E|cmu|B2
+schermaglia giornalistica|escaramuza periodística||E|cmu|B2
+scivolo idrico|tobogán acuático||S|sve|B2
+scolatura|escurrido||S|ali|B2
+scrivania ordinata|escritorio ordenado||E|lav|B2
+secondo parere|segunda opinión||E|sla|B2
+seduta di fisioterapia|sesión de fisioterapia||E|sla|B2
+segnalazione stradale|señalización vial||E|tra|B2
+serra idroponica|invernadero hidropónico||E|nat|B2
+servizio post-vendita|servicio posventa||E|fin|B2
+sfogo cutaneo|erupción cutánea||E|sla|B2
+sigla televisiva|sintonía (tv)||E|cin|B2
+simulazione d'esame|simulacro de examen||E|stu|B2
+smaltimento tossine|eliminación de toxinas||E|sla|B2
+soglia di accessibilità|umbral de accesibilidad||E|ist|B2
+solare termico|solar térmico||E|tec|B2
+sopralluogo tecnico|inspección técnica||E|tec|B2
+sosta vietata|estacionamiento prohibido||E|tra|B2
+sottoscrizione azionaria|suscripción accionarial||E|fin|B2
+sottovuoto alimentare|vacío alimentario||E|ali|B2

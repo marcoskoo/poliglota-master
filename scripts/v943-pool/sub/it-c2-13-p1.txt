@@ -1,0 +1,835 @@
+abbandonico|abandonista||A|ast|C2
+abicis|abc||S|stu|C2
+ablazione|ablación||S|sla|C2
+aborigen|aborigen||S|rel|C2
+abrasimetro|abrasímetro||S|tec|C2
+abruzzese|abruzzese||S|nat|C2
+accademismo|academicismo||S|art|C2
+accessorio processuale|accesorio procesal||E|ist|C2
+acidimetria|acidimetría||S|sci|C2
+aclimatazione botanica|aclimatación botánica||E|nat|C2
+acromatismo|acromatismo||S|art|C2
+acustica architettonica|acústica arquitectónica||E|art|C2
+additivo cementizio|aditivo cementante||E|tec|C2
+adenoma pituitario|adenoma hipofisario||E|sla|C2
+adesione filosofica|adesión filosófica||E|sci|C2
+adiaphoria|adiaforia||S|sci|C2
+adulterio intellettuale|adulterio intelectual||E|let|C2
+aerodinamica computazionale|aerodinámica computacional||E|sci|C2
+affectus|affectus||S|rel|C2
+aggregazione proteica|agregación proteica||E|sci|C2
+agiotaggio|agio (bolsa)||S|fin|C2
+agonismo sportivo|agonismo deportivo||E|spt|C2
+agostinianesimo|agustinianismo||S|rel|C2
+alabastrino|alabastrino||S|art|C2
+allegorismo|alegorismo||S|let|C2
+alluvionale|aluvional||A|nat|C2
+amigdala cerebrale|amígdala cerebral||E|sci|C2
+ammonimento giudiziario|amonestación judicial||E|ist|C2
+anfibologia|anfibología||S|let|C2
+angiografia|angiografía||S|sla|C2
+anglicanesimo|anglicanismo||S|rel|C2
+annotazione a margine|anotación al margen||E|let|C2
+antagonismo farmacologico|antagonismo farmacológico||E|sla|C2
+antropologia culturale|antropología cultural||E|sci|C2
+appalto integrato|contrato integrado||E|fin|C2
+approssimazione scientifica|aproximación científica||E|sci|C2
+araldico|heráldico||A|his|C2
+archetipico|arquetípico||A|sci|C2
+areopago|areópago||S|his|C2
+aristotelismo|aristotelismo||S|sci|C2
+aromatico|aromático||A|ali|C2
+arredamento navale|arredamiento naval||E|tra|C2
+arricchimento genetico|enriquecimiento genético||E|sci|C2
+arsenale veneziano|arsenal veneciano||E|his|C2
+artiglieria pesante|artillería pesada||E|his|C2
+ascesa vertiginosa|ascenso vertiginoso||E|fin|C2
+ascetismo monastico|ascetismo monástico||E|rel|C2
+assaggiatore|catador||S|pro|C2
+assedio|asedio||S|his|C2
+assoluzionismo|absolucionismo||S|rel|C2
+astrologia giudiziaria|astrología judicial||E|rel|C2
+ateismo militante|ateísmo militante||E|rel|C2
+atomismo logico|atomismo lógico||E|sci|C2
+attenuante processuale|atenuante procesal||E|ist|C2
+aubade|alborada||S|mus|C2
+audimutismo|audimutismo||S|sla|C2
+autarchia alimentare|autarquía alimentaria||E|eco|C2
+autodafé|autodefé||S|his|C2
+autofinanziamento partitico|autofinanciación partidista||E|ist|C2
+automatismo cardiaco|automatismo cardíaco||E|sla|C2
+autonomia processuale|autonomía procesal||E|ist|C2
+aviation fuel|combustible de aviación||E|sci|C2
+avigliana|aviglianés||A|nat|C2
+avvicendamento agrario|rotación agraria||E|nat|C2
+azionariato diffuso|accionariado difuso||E|fin|C2
+babbuino|babuino||S|ani|C2
+bacillo|bacilo||S|sci|C2
+badilata|palada||S|tec|C2
+balaustra|balaustrada||S|art|C2
+ballata|balada||S|mus|C2
+banditismo|bandolerismo||S|att|C2
+barbarie|barbarie||S|his|C2
+barocchetto|barroquito||S|art|C2
+bastione|baluarte||S|his|C2
+belva|fiera||S|ani|C2
+benefattore|benefactor||S|rel|C2
+benevolenza|benevolencia||S|emo|C2
+bete noire|bestia negra||E|cmu|C2
+bigottismo|beatería||S|rel|C2
+binomio inscindibile|binomio inseparable||E|sci|C2
+biocatalisi|biocatálisis||S|sci|C2
+biosfera profonda|biosfera profunda||E|sci|C2
+bislaccheria|estrambotez||S|emo|C2
+bivalenza|bivalencia||S|sci|C2
+blindato|blindado||S|tra|C2
+bollatura|sellado||S|ist|C2
+bombardamento strategico|bombardeo estratégico||E|his|C2
+bonsaismo|bonsaísmo||S|nat|C2
+borghesia mercantile|burguesía mercantil||E|his|C2
+borsaiuolo|carterista||S|att|C2
+botanica sistematica|botánica sistemática||E|sci|C2
+brevità ellittica|brevedad elíptica||E|let|C2
+brindisi augurale|brindis augural||E|sve|C2
+bucolica|bucólica||S|let|C2
+budellino|tripita||S|ali|C2
+buonismo|buenismo||S|rel|C2
+burocratizzazione|burocratización||S|ist|C2
+burroncello|barranco pequeño||S|nat|C2
+cabalistico|cabalístico||A|rel|C2
+cabotaggio costiero|cabotaje costero||E|tra|C2
+calamità naturale|calamidad natural||E|nat|C2
+calcografia|calcografía||S|art|C2
+calunnia processuale|calumnia procesal||E|ist|C2
+camaleontico|camaleónico||A|emo|C2
+camera iperbarica|cámara hiperbárica||E|sla|C2
+cantoria|coro (iglesia)||S|rel|C2
+capillarezza capillare|capilaridad||E|sci|C2
+captatio benevolentiae|captatio benevolentiae||E|let|C2
+caratura legale|ley (metal)||E|fin|C2
+carboidrato complesso|carbohidrato complejo||E|ali|C2
+cardiopatia congenita|cardiopatía congénita||E|sla|C2
+carestia|hambre (carestía)||S|his|C2
+carisma|carisma||S|rel|C2
+carnascialesco|carnavalesco||A|art|C2
+carotide|carótida||S|cor|C2
+casa canonica|casa rectoral||E|rel|C2
+castità|castidad||S|rel|C2
+catacomba|catacumba||S|rel|C2
+catalogazione filosofica|catalogación filosófica||E|sci|C2
+cattedrale romanica|catedral románica||E|art|C2
+cavillo processuale|cavilación procesal||E|ist|C2
+censorio|censor||A|ist|C2
+centrifugazione|centrifugación||S|sci|C2
+cerimonialità|ceremonialidad||S|rel|C2
+certosina|certosina||S|art|C2
+cervicale|cervical||A|cor|C2
+chiesa concattedrale|concatedral||S|rel|C2
+chirurgo pediatrico|cirujano pediátrico||S|pro|C2
+ciarpame culturale|trastos culturales||E|cmu|C2
+circoscrizione galattica|circunscripción galáctica||E|sci|C2
+cirrosi epatica|cirrosis hepática||E|sla|C2
+clamoroso|clamoroso||A|cmu|C2
+clausura monastica|clausura monástica||E|rel|C2
+clematide|clemátide||S|nat|C2
+clero diocesano|clero diocesano||E|rel|C2
+cliometrica|cliometría||S|sci|C2
+clorofilla clorofila|clorofila||S|sci|C2
+codicillo|codicilo||S|ist|C2
+coercitivo|coercitivo||A|ist|C2
+cognizione di causa|conocimiento de causa||E|cmu|C2
+colata di bronzo|colada de bronce||E|art|C2
+collaudo statico|prueba estática||E|tec|C2
+collegio elettorale|colegio electoral||E|ist|C2
+colmo della ironia|colmo de la ironía||E|cmu|C2
+colpo di Stato|golpe de estado||E|his|C2
+comandante|comandante||S|his|C2
+combustione interna|combustión interna||E|tec|C2
+commedia umoristica|comedia humorística||E|art|C2
+compattazione|compactación||S|tec|C2
+compensazione idrica|compensación hídrica||E|nat|C2
+complessità computazionale|complejidad computacional||E|sci|C2
+compianto funebre|planto fúnebre||E|rel|C2
+concattedrale|concatedral||S|rel|C2
+concentrazione mineraria|concentración minera||E|sci|C2
+concetto limite|concepto límite||E|sci|C2
+conciliazione fiscale|conciliación fiscal||E|fin|C2
+condanna esemplare|condena ejemplar||E|ist|C2
+condimento aromatico|condimento aromático||E|ali|C2
+conferenza episcopale|conferencia episcopal||E|rel|C2
+confessionalismo|confesionalismo||S|rel|C2
+conforto|consuelo||S|rel|C2
+congiuntivo congetturale|subjuntivo conjetural||E|let|C2
+consegna della pratica|entrega del expediente||E|fin|C2
+consapevolezza ecologica|conciencia ecológica||E|nat|C2
+consenso illuminato|consentimiento informado||E|sla|C2
+consuetudine costituzionale|costumbre constitucional||E|ist|C2
+contabilità preventiva|contabilidad previsional||E|fin|C2
+contaminazione genetica|contaminación genética||E|sci|C2
+contestazione processuale|contestación procesal||E|ist|C2
+continuità dinastica|continuidad dinástica||E|his|C2
+controaccusa|contraacusación||S|ist|C2
+controcorrente|contracorriente||S|ast|C2
+convegno di studi|congreso de estudios||E|stu|C2
+convivenza civile|convivencia civil||E|ist|C2
+copte|copto||S|rel|C2
+coreografia classica|coreografía clásica||E|art|C2
+coriaceo|coriáceo||A|ani|C2
+corredo dottrinale|acervo doctrinal||E|rel|C2
+corrispondenza epistolare|correspondencia epistolar||E|let|C2
+corteggiamento|cortejo||S|rel|C2
+coscienza ecologica|conciencia ecológica||E|nat|C2
+cosmologia quantistica|cosmología cuántica||E|sci|C2
+costituzione apostolica|constitución apostólica||E|rel|C2
+criminologia forense|criminología forense||E|ist|C2
+cristallinità|cristalinidad||S|sci|C2
+cristologia|cristología||S|rel|C2
+cronaca giudiziaria|crónica judicial||E|cmu|C2
+cristallizzazione sociale|cristalización social||E|sci|C2
+cubicolo|cubiculum||S|art|C2
+cubo magico|cubo mágico||E|sci|C2
+culto delle reliquie|culto de las reliquias||E|rel|C2
+cumulazione|acumulación||S|ist|C2
+curatore fallimentare|curador concursal||S|pro|C2
+dacrio|lágrima||S|let|C2
+deamicisiano|deamicisiano||A|let|C2
+debitorietà|endeudamiento||S|fin|C2
+decadenza dell'azione|caducidad de la acción||E|ist|C2
+decalcificazione|descalcificación||S|sla|C2
+decano del capitolo|decano del cabildo||E|rel|C2
+decorrenza|decurso||S|ist|C2
+deficienza enzimatica|deficiencia enzimática||E|sci|C2
+deismo|deísmo||S|rel|C2
+delineamento oratorio|delineamiento oratorio||E|let|C2
+deltaplano|ala delta||S|spt|C2
+dematerializzazione|desmaterialización||S|tec|C2
+demiurgo|demiurgo||S|sci|C2
+democrazia diretta|democracia directa||E|ist|C2
+denuncia di reato|denuncia penal||E|ist|C2
+deontologia professionale|deontología profesional||E|lav|C2
+deperimento organico|decaimiento orgánico||E|sla|C2
+deposito a garanzia|depósito de garantía||E|fin|C2
+derattizzazione|desratización||S|sla|C2
+derivazione fluviale|derivación fluvial||E|nat|C2
+desinenza grammaticale|desinencia gramatical||E|let|C2
+devozione popolare|devoción popular||E|rel|C2
+diaconia|diaconía||S|rel|C2
+diaframma muscolare|diafragma muscular||E|cor|C2
+diagnosticabile|diagnosticable||A|sla|C2
+diadochìa|diadoquía||S|his|C2
+dialettica hegeliana|dialéctica hegeliana||E|sci|C2
+didattica universitaria|didáctica universitaria||E|stu|C2
+dimissione ospedaliera|alta hospitalaria||E|sla|C2
+diplomatica (scienza)|diplomática||S|sci|C2
+diplontico|diplonte||A|sci|C2
+diserbo chimico|deshierbe químico||E|nat|C2
+disinfestazione|desinsectación||S|sla|C2
+dismisura|desmesura||S|ast|C2
+dispensazione sacramentale|dispensación sacramental||E|rel|C2
+disputa accademica|disputa académica||E|stu|C2
+dissuasore elettronico|disuasor electrónico||E|tra|C2
+distorsione professionale|distorsión profesional||E|lav|C2
+disubbidienza civile|desobediencia civil||E|ist|C2
+ditta individuale|empresa individual||E|fin|C2
+divaricazione|divaricación||S|spt|C2
+dodecasillabo|dodecasílabo||S|let|C2
+dolore acuto|dolor agudo||E|sla|C2
+dominio pubblico (diritto)|dominio público||E|ist|C2
+doping di Stato|dopaje de estado||E|spt|C2
+doratura a foglia|dorado a la hoja||E|art|C2
+dubitabile|dudoso||A|sci|C2
+eccellenza didattica|excelencia didáctica||E|stu|C2
+ecografia ostetrica|ecografía obstétrica||E|sla|C2
+economato|economato||S|ist|C2
+ectoplasma|ectoplasma||S|rel|C2
+edilizia sostenibile|construcción sostenible||E|tec|C2
+effigie numismatica|efigie numismática||E|art|C2
+egida|égida||S|rel|C2
+elaborazione del dolore|elaboración del dolor||E|sci|C2
+elezione diretta|elección directa||E|ist|C2
+elissoide|elipsoide||S|sci|C2
+emodialisi|hemodiálisis||S|sla|C2
+emorragia interna|hemorragia interna||E|sla|C2
+empatia emotiva|empatía emocional||E|sci|C2
+endogamia dinastica|endogamia dinástica||E|his|C2
+endoprotesi|endoprótesis||S|sla|C2
+enigmistica|enigmística||S|sve|C2
+ennegalogia|ennegalogy||S|sci|C2
+entomologia forense|entomología forense||E|sci|C2
+epatite virale|hepatitis viral||E|sla|C2
+epifania letteraria|epifanía literaria||E|let|C2
+epistemologia contemporanea|epistemología contemporánea||E|sci|C2
+equità processuale|equidad procesal||E|ist|C2
+eradicazione virale|erradicación viral||E|sla|C2
+eresia gnostica|herejía gnóstica||E|rel|C2
+ermafroditismo|hermafroditismo||S|sci|C2
+erudizione classica|erudición clásica||E|let|C2
+esautorazione|desautorización||S|ist|C2
+esecuzione musicale|ejecución musical||E|mus|C2
+esegesi biblica|exégesis bíblica||E|rel|C2
+esofagite|esofagitis||S|sla|C2
+esondazione fluviale|desborde fluvial||E|nat|C2
+esotericismo|esoterismo||S|rel|C2
+essenzialismo|esencialismo||S|sci|C2
+estasi contemplativa|éxtasis contemplativo||E|rel|C2
+estrazione mineraria|extracción minera||E|sci|C2
+etanolo biologico|etanol biológico||E|sci|C2
+etica della ricerca|ética de la investigación||E|sci|C2
+etnobotanica|etnobotánica||S|sci|C2
+etologia animale|etología animal||E|sci|C2
+eucaristia|eucaristía||S|rel|C2
+evangelizzazione|evangelización||S|rel|C2
+eversione|subversión||S|ist|C2
+evoluzionismo darwiniano|evolucionismo darwiniano||E|sci|C2
+fabbrica di santi|fábrica de santos||E|rel|C2
+falange macedone|falange macedonia||E|his|C2
+falsificazionismo|falsacionismo||S|sci|C2
+fanatismo calcistico|fanatismo futbolístico||E|spt|C2
+fanologia|fanología||S|rel|C2
+faraonico|faraónico||A|his|C2
+farmacologia clinica|farmacología clínica||E|sci|C2
+fattore di conversione|factor de conversión||E|sci|C2
+femminile astratto|femenino abstracto||E|let|C2
+ferro battuto|hierro forjado||E|art|C2
+fiammifereria|cerillera||S|tec|C2
+fideismo|fideísmo||S|rel|C2
+figurativismo|figurativismo||S|art|C2
+filatterio|filacterio||S|rel|C2
+filodiffusione musicale|difusión musical||E|mus|C2
+finalismo antropico|finalismo antrópico||E|sci|C2
+finanziamento partecipativo|financiación participativa||E|fin|C2
+fiscalità di scopo|fiscalidad finalística||E|fin|C2
+fisiocrazia|fisiocracia||S|eco|C2
+fitogeografia|fitogeografía||S|sci|C2
+fluttuazione valutaria|fluctuación cambiaria||E|fin|C2
+fognatura|alcantarillado||S|tec|C2
+fons et origo|fons et origo||E|rel|C2
+foro ecclesiastico|fuero eclesiástico||E|rel|C2
+fortilizio|fortaleza pequeña||S|his|C2
+frammentismo|fragmentismo||S|let|C2
+franco tiratore|francotirador||S|his|C2
+fregio dorico|friso dórico||E|art|C2
+frequenza cardiaca|frecuencia cardíaca||E|cor|C2
+frescatura|fresado||S|tec|C2
+fronzuto|frondoso||A|nat|C2
+fucina di idee|crisol de ideas||E|sci|C2
+fustellatura|troquelado||S|tec|C2
+galassia nana|galaxia enana||E|sci|C2
+galleria stradale|túnel de carretera||E|tra|C2
+galvanoplastica|galvanoplastia||S|tec|C2
+gargoyle|gárgola||S|art|C2
+gemellaggio commerciale|hermanamiento comercial||E|fin|C2
+gene dominante|gen dominante||E|sci|C2
+generativismo|generativismo||S|sci|C2
+gineceo|gineceo||S|sci|C2
+gioielleria artigianale|joyería artesanal||E|art|C2
+giornalismo partecipativo|periodismo participativo||E|cmu|C2
+giostra medievale|justa medieval||E|his|C2
+giustapposizione|yuxtaposición||S|let|C2
+gnosi|gnosis||S|rel|C2
+goduria|deleite||S|emo|C2
+gogna|picota||S|his|C2
+gonfaloniere|gonfaloniero||S|his|C2
+graduatoria di merito|lista de méritos||E|stu|C2
+grana (pellicola)|grano (película)||S|cin|C2
+grandine devastante|granizo devastador||E|cli|C2
+grido di battaglia|grito de guerra||E|his|C2
+guarnigione|guarnición||S|his|C2
+grottismo|trogloditismo||S|art|C2
+guerrafondaio|belicista||A|ist|C2
+idrogeologia|hidrogeología||S|sci|C2
+ideologia dominante|ideología dominante||E|sci|C2
+idolatria|idolatría||S|rel|C2
+igiene ambientale|higiene ambiental||E|nat|C2
+ilare|hilariante||A|emo|C2
+imbalsamazione|embalsamamiento||S|rel|C2
+impalcare|encastrar||V|tec|C2
+impermeabilizzazione bituminosa|impermeabilización bituminosa||E|tec|C2
+impertinenza procesual|impertinencia procesal||E|ist|C2
+impianto termico|instalación térmica||E|tec|C2
+impollinazione incrociata|polinización cruzada||E|nat|C2
+impressione digitale|impresión dactilar||E|ist|C2
+imprenditorialità giovanile|emprendeduría juvenil||E|eco|C2
+imputabilità penale|imputabilidad penal||E|ist|C2
+inalazione|inhalación||S|sla|C2
+inanizione|inanición||S|sla|C2
+incantesimo rituale|encantamiento ritual||E|rel|C2
+incrostazione calcarea|incrustación calcárea||E|tec|C2
+indulto presidenziale|indulto presidencial||E|ist|C2
+infanticidio|infanticidio||S|ist|C2
+infermeria carceraria|enfermería penitenciaria||E|sla|C2
+infibulazione|infibulación||S|rel|C2
+inflazione monetaria|inflación monetaria||E|eco|C2
+informazione classificata|información clasificada||E|ist|C2
+ingegneria tessile|ingeniería textil||E|tec|C2
+ingravidare|preñar||V|ani|C2
+innaffiatura automatizzata|riego automatizado||E|nat|C2
+innesto gemmario|injerto de yema||E|nat|C2
+innovazione dirompente|innovación disruptiva||E|tec|C2
+inquilino abusivo|okupa||S|cas|C2
+insediamento umano|poblamiento||E|nat|C2
+insindacabilità|no justiciabilidad||S|ist|C2
+insostenibilità|insostenibilidad||S|eco|C2
+intarsio ligneo|taracea de madera||E|art|C2
+intercettazione ambientale|escucha ambiental||E|ist|C2
+interdizione bancaria|interdicción bancaria||E|fin|C2
+intermittenza|intermitencia||S|sci|C2
+internamento|internamiento||S|his|C2
+interruzione di gravidanza|interrupción del embarazo||E|sla|C2
+interventismo|intervencionismo||S|ist|C2
+intifada palestinese|intifada palestina||E|att|C2
+invalidante|invalidante||A|sla|C2
+invasione normanna|invasión normanda||E|his|C2
+invenzione tipografica|invención tipográfica||E|let|C2
+invernata|invernada||S|nat|C2
+ironia tragica|ironía trágica||E|let|C2
+ispezione mineraria|inspección minera||E|tec|C2
+istoriato|istoriado||A|art|C2
+italianità|italianidad||S|rel|C2
+itterizzato|icterizado||A|sla|C2
+lampo di genio|destello de genio||E|art|C2
+lapidario epigrafico|lapidario epigráfico||E|sci|C2
+lassismo morale|laissez faire moral||E|rel|C2
+latifondismo|latifundismo||S|eco|C2
+lavorazione artigianale|elaboración artesanal||E|art|C2
+legge dell'entropia|ley de la entropía||E|sci|C2
+legittimazione processuale|legitimación procesal||E|ist|C2
+liturgia delle ore|liturgia de las horas||E|rel|C2
+lottizzazione abusiva|parcelación ilegal||E|ist|C2
+luminaria notturna|iluminación nocturna||E|cit|C2
+macelleria equina|carnicería equina||E|ali|C2
+magnetosfera|magnetosfera||S|sci|C2
+magistero ecclesiastico|magisterio eclesiástico||E|rel|C2
+mammografia|mamografía||S|sla|C2
+mandorle amare|almendras amargas||E|ali|C2
+manomorta|manomorta||S|his|C2
+manufatto ceramico|manufacto cerámico||E|art|C2
+marcatura forestale|señalética forestal||E|nat|C2
+marchio di fabbrica|marca de fábrica||E|fin|C2
+marea astronomica|marea astronómica||E|nat|C2
+marginalità urbana|marginalidad urbana||E|rel|C2
+marineria|marinería||S|tra|C2
+martellina|martillada||S|tec|C2
+materiale superconduttore|material superconductor||E|sci|C2
+meccanica relativistica|mecánica relativista||E|sci|C2
+meditazione trascendentale|meditación trascendental||E|rel|C2
+melanconia romantica|melancolía romántica||E|let|C2
+meningococco|meningococo||S|sla|C2
+mezzadria|aparcería||S|his|C2
+microchirurgia|microcirugía||S|sla|C2
+microclima urbano|microclima urbano||E|cit|C2
+misticismo orientale|misticismo oriental||E|rel|C2
+mitografia|mitografía||S|let|C2
+moderatismo|moderantismo||S|ist|C2
+modulazione armonica|modulación armónica||E|mus|C2
+molecola chirale|molécula quiral||E|sci|C2
+monachesimo benedettino|monacato benedictino||E|rel|C2
+monocultura del pensiero|monocultivo del pensamiento||E|sci|C2
+montanaro|montaraz||S|nat|C2
+monumentalismo|monumentalismo||S|art|C2
+moralismo sessuale|moralismo sexual||E|rel|C2
+morbillo esantematico|sarampión exantemático||E|sla|C2
+mosaico policromo|mosaico policromo||E|art|C2
+motu proprio|motu proprio||E|rel|C2
+mucillagine|mucílago||S|sci|C2
+mulsifero|multífero||A|sci|C2
+musulmano sunnita|musulmán suní||E|rel|C2
+mutevolezza d'animo|inconstancia anímica||E|emo|C2
+narratore autodiegetico|narrador autodiegético||E|let|C2
+nativismo|nativismo||S|sci|C2
+naufragio navale|naufragio naval||E|tra|C2
+nephewismo|nepotismo||S|ist|C2
+nevrastenia|neurastenia||S|sci|C2
+nomadismo digitale|nomadismo digital||E|tec|C2
+nonnismo|novatadas||S|stu|C2
+notariato|notariado||S|ist|C2
+numismatico|numismático||A|art|C2
+obelisco egizio|obelisco egipcio||E|art|C2
+obitorio|depósito de cadáveres||S|sla|C2
+occultamento di cadavere|ocultamiento de cadáver||E|ist|C2
+odissea marittima|odisea marítima||E|let|C2
+oligarchia finanziaria|oligarquía financiera||E|ist|C2
+omelia domenicale|homilía dominical||E|rel|C2
+omertà mafiosa|omertà mafiosa||E|att|C2
+omicidio efferato|homicidio atroz||E|att|C2
+omologazione comunitaria|homologación comunitaria||E|fin|C2
+omofobia|homofobia||S|rel|C2
+oncologia sperimentale|oncología experimental||E|sci|C2
+onomastica|onomástica||S|let|C2
+operosità|laboriosidad||S|lav|C2
+opposizione sindacale|oposición sindical||E|lav|C2
+oppressione fiscale|presión fiscal||E|fin|C2
+ordine monastico|orden monástica||E|rel|C2
+organizzazione criminale|organización criminal||E|att|C2
+organogramma|organigrama||S|fin|C2
+origenismo|origenismo||S|rel|C2
+ortodossia orientale|ortodoxia oriental||E|rel|C2
+ostracismo|ostracismo||S|his|C2
+otalgia|otalgia||S|sla|C2
+otturazione dentale|empaste dental||E|sla|C2
+pace dei sensi|paz de los sentidos||E|rel|C2
+pachiderma|paquidermo||S|ani|C2
+palafitta|palafito||S|his|C2
+palinodia|palinodia||S|cmu|C2
+pallone aerostatico|globo aerostático||E|tra|C2
+panorama letterario|panorama literario||E|let|C2
+papato avignonese|papado avignonés||E|rel|C2
+parafilassi|parálisis (prevención)||S|sci|C2
+parassimpatico|parasimpático||A|sci|C2
+parentado|parentela||S|fam|C2
+pargolo|pequeñuelo||S|fam|C2
+parità retributiva|igualdad salarial||E|lav|C2
+parlamento regionale|parlamento regional||E|ist|C2
+parto prematuro|parto prematuro||E|fam|C2
+passione teatrale|pasión teatral||E|art|C2
+pastorale giovanile|pastoral juvenil||E|rel|C2
+patente nautica|título náutico||E|spt|C2
+patologia degenerativa|patología degenerativa||E|sla|C2
+patrologia|patrología||S|rel|C2
+pediatria preventiva|pediatría preventiva||E|sla|C2
+penitenzieria|penitenciaria||S|rel|C2
+pensionamento anticipato|jubilación anticipada||E|fin|C2
+perdono penitenziale|perdón penitencial||E|rel|C2
+perforazione petrolifera|perforación petrolífera||E|sci|C2
+permeabilità|permeabilidad||S|sci|C2
+pernoctazione|pernoctación||S|vig|C2
+persecuzione religiosa|persecución religiosa||E|rel|C2
+pertinenza lessicale|pertenencia léxica||E|let|C2
+pessimismo cosmico|pesimismo cósmico||E|let|C2
+petrografia|petrografía||S|sci|C2
+pettegolamento|cotilleo||S|cmu|C2
+pianificazione familiare|planificación familiar||E|fam|C2
+piastra pettorale|placa pectoral||E|art|C2
+picchiaduro|juego de lucha||E|tec|C2
+pigrizia mentale|pereza mental||E|sci|C2
+pilotaggio giudiziario|pilotaje judicial||E|ist|C2
+pittura metafisica|pintura metafísica||E|art|C2
+piumaggio|plumaje||S|ani|C2
+pizzo mafioso|extorsión mafiosa||E|att|C2
+plasmidio|plásmido||S|sci|C2
+plausibilità|plausibilidad||S|sci|C2
+plebeismo|plebeyismo||S|his|C2
+plombarlo|plomar||V|fin|C2
+pneumatico tubeless|neumático sin cámara||E|tra|C2
+polarimetro|polarímetro||S|sci|C2
+poliedro|poliedro||S|sci|C2
+poliglottismo|poliglotismo||S|let|C2
+polo ospedaliero|polo hospitalario||E|sla|C2
+polo universitario|polo universitario||E|stu|C2
+pompaggio idraulico|bombeo hidráulico||E|tec|C2
+popolino|populacho||S|his|C2
+porfiria|porfiria||S|sla|C2
+porzione congrua|porción congrua||E|rel|C2
+possesso ventennale|posesión veintenal||E|ist|C2
+postazione avanzata|puesto avanzado||E|his|C2
+povertà dignitosa|pobreza digna||E|rel|C2
+prammatica|pragmática||S|let|C2
+prassi curiale|praxis curial||E|rel|C2
+preambolo costituzionale|preámbulo constitucional||E|ist|C2
+precarietà giovanile|precariedad juvenil||E|lav|C2
+precettazione|requisa||S|his|C2
+precipizio roccioso|precipicio rocoso||E|spt|C2
+predicazione itinerante|predicación itinerante||E|rel|C2
+pregiudizio epistemico|prejuicio epistémico||E|sci|C2
+prelatura personale|prelatura personal||E|rel|C2
+premurosa sollecitudine|esmerada solicitud||E|rel|C2
+preparazione atletica|preparación atlética||E|spt|C2
+prescrizione acquisitiva|usucapión||E|ist|C2
+presunzione di colpa|presunción de culpa||E|ist|C2
+pretermesso|preterido||A|ist|C2
+prevalenza statistica|prevalencia estadística||E|sci|C2
+primato morale|primacía moral||E|rel|C2
+primitivo cristianesimo|cristianismo primitivo||E|rel|C2
+principato|principado||S|his|C2
+privazione sensoriale|privación sensorial||E|sci|C2
+probabilità bayesiana|probabilidad bayesiana||E|sci|C2
+problematizzare|problematizar||V|sci|C2
+procreazione medicalmente assistita|procreación médicamente asistida||E|sla|C2
+procuratore capo|fiscal jefe||E|ist|C2
+produttore cinematografico|productor cinematográfico||E|cin|C2
+profanazione di luogo di culto|profanación de lugar de culto||E|rel|C2
+profumazione|perfumado||S|cmp|C2
+progenitore|progenitor||S|fam|C2
+programmazione didattica|programación didáctica||E|stu|C2
+progressione armonica|progresión armónica||E|mus|C2
+proiezione azimutale|proyección azimutal||E|sci|C2
+prolissità|prolijidad||S|let|C2
+promulgazione|promulgación||S|ist|C2
+pronipote|bisnieto||S|fam|C2
+proposito delittuoso|propósito delictivo||E|ist|C2
+proresistenza|proresistencia||S|sci|C2
+prosciugamento|desecación||S|nat|C2
+proselitismo|proselitismo||S|rel|C2
+prostata|próstata||S|cor|C2
+protoindustria|protoindustria||S|eco|C2
+prova schiacciante|prueba aplastante||E|ist|C2
+provvedimento disciplinare|medida disciplinar||E|ist|C2
+prudenza valutaria|prudencia cambiaria||E|fin|C2
+psichiatria forense|psiquiatría forense||E|sla|C2
+psicoanalisi applicata|psicoanálisis aplicado||E|sci|C2
+psicologia della forma|psicología de la forma||E|sci|C2
+pubblicazione edile|publicación registral||E|ist|C2
+pudicizia|pudibundez||S|rel|C2
+pulvinare|pulvinar||S|art|C2
+purgatorio|purgatorio||S|rel|C2
+quantismo|cuantismo||S|sci|C2
+quarantena fitosanitaria|cuarentena fitosanitaria||E|nat|C2
+quarantore|cuarenta horas||E|rel|C2
+querela per diffamazione|querella por difamación||E|ist|C2
+rabbioso|rabioso||A|emo|C2
+rabdomante|rabdomante||S|rel|C2
+raccomandata a mano|entrega en mano||E|fin|C2
+radiazione cosmica|radiación cósmica||E|sci|C2
+radioterapia oncologica|radioterapia oncológica||E|sla|C2
+ragguaglio|informe||S|ist|C2
+ragnatela|telaraña||S|ani|C2
+ramificazione idrografica|ramificación hidrográfica||E|nat|C2
+rapina a mano armata|atraco a mano armada||E|ist|C2
+raptus omicida|raptus homicida||E|att|C2
+rasoio a mano libera|navaja barbera||E|cmp|C2
+rassegnazione stoica|resignación estoica||E|rel|C2
+recesso contrattuale|desistimiento contractual||E|fin|C2
+recidività|reincidencia||S|ist|C2
+reclusione militare|reclusión militar||E|ist|C2
+reclutamento militare|reclutamiento militar||E|his|C2
+reconciliatio in extremis|reconciliación in extremis||E|rel|C2
+redenzione dei peccati|redención de los pecados||E|rel|C2
+riforma liturgica|reforma litúrgica||E|rel|C2
+referto autoptico|informe autópsico||E|sla|C2
+regalia|regalía||S|his|C2
+regia teatrale|dirección escénica||E|art|C2
+regolamentazione doganale|reglamentación aduanera||E|eco|C2
+reintegra nel posto di lavoro|readmisión laboral||E|lav|C2
+remissione dei peccati|remisión de los pecados||E|rel|C2
+repressione poliziesca|represión policial||E|att|C2
+res ipse loquitur|res ipse loquitur||E|ist|C2
+rescrizione|rescripto||S|rel|C2
+residenza obbligatoria|residencia obligatoria||E|ist|C2
+resipiscenza|resipiscencia||S|rel|C2
+retata|redada||S|att|C2
+reticolato|retenido (militar)||S|his|C2
+retorica forense|retórica forense||E|ist|C2
+retrodatazione|retrodatación||S|sci|C2
+revisione processuale|revisión procesal||E|ist|C2
+revoca della patente|revocación del carné||E|tra|C2
+rezione a catena|reacción en cadena||E|sci|C2
+rialzo tariffario|subida tarifaria||E|fin|C2
+riarmo militare|rearme militar||E|his|C2
+ribellismo|rebeldismo||S|his|C2
+ricaduta clinica|recaída clínica||E|sla|C2
+ricerche di mercato|investigación de mercados||E|fin|C2
+ricorso straordinario|recurso extraordinario||E|ist|C2
+ricovero psichiatrico|internamiento psiquiátrico||E|sla|C2
+riduzione carceraria|reducción penitenciaria||E|ist|C2
+riesame processuale|reeamen procesal||E|ist|C2
+rigore epistemico|rigor epistémico||E|sci|C2
+rilancio economico|relanzamiento económico||E|eco|C2
+rilegatura|encuadernación||S|let|C2
+rimozione psicologica|represión psicológica||E|sci|C2
+rinascita dell'agricoltura|renacer agrícola||E|eco|C2
+rinuncia all'eredità|renuncia a la herencia||E|ist|C2
+risarcimento danni morali|indemnización por daños morales||E|ist|C2
+rischio climatico|riesgo climático||E|cli|C2
+riserva di caccia|reserva de caza||E|nat|C2
+riso venere|arroz venere||E|ali|C2
+rispettabilità|respetabilidad||S|rel|C2
+ritenuta di garanzia|retención de garantía||E|fin|C2
+rituale funebre|ritual fúnebre||E|rel|C2
+riunione plenaria|reunión plenaria||E|ist|C2
+rivalutazione monetaria|revalorización monetaria||E|fin|C2
+rivoluzione francese|revolución francesa||E|his|C2
+robotizzazione|robotización||S|tec|C2
+roccaforte|plaza fuerte||S|his|C2
+romanziere popolare|novelista popular||E|let|C2
+ronzio di api|rumor de abejas||E|ani|C2
+rosario mariano|rosario mariano||E|rel|C2
+rottamazione|chatarrización||S|tra|C2
+roulotte|caravana||S|vig|C2
+ruberia|latrocinio||S|ist|C2
+rudere romano|ruina romana||E|art|C2
+rugbysta|jugador de rugby||S|spt|C2
+sacralizzazione|sacralización||S|rel|C2
+sacrestia maggiore|sacristía mayor||E|rel|C2
+saltimbanco|saltimbanqui||S|art|C2
+salvataggio|salvamento||S|spt|C2
+salvezza dell'anima|salvación del alma||E|rel|C2
+sambuca|sambuca||S|ali|C2
+santanità di vita|santidad de vida||E|rel|C2
+sapienza teologica|sapientia teológica||E|rel|C2
+sarcofago|sarcófago||S|art|C2
+sardella|aladaba||S|ani|C2
+satirico|satírico||A|let|C2
+sazietà|saciedad||S|ali|C2
+sbiancamento|blanqueamiento||S|tec|C2
+scalcinatura|desincrustado||S|tec|C2
+scalpellino|cantero||S|pro|C2
+scambio procaci|intercambio procaces||E|cmu|C2
+scandalo sanitario|escándalo sanitario||E|sla|C2
+scarnificazione|descarnado||S|sla|C2
+scavo stratigrafico|excavación estratigráfica||E|sci|C2
+scetticismo metodico|escepticismo metódico||E|sci|C2
+schermidore|esgrimidor||S|spt|C2
+schiusa|eclosión||S|nat|C2
+scialuppa di salvataggio|balsa salvavidas||E|tra|C2
+scisma anglicano|cisma anglicano||E|rel|C2
+scolorimento|decoloración||S|tec|C2
+scomunica maggiore|excomunión mayor||E|rel|C2
+scoperchiatura|destechamiento||S|tec|C2
+scorticatura|descortezado||S|nat|C2
+scrutinio elettorale|escrutinio electoral||E|ist|C2
+scultoreo|escultórico||A|art|C2
+scuola epicurea|escuela epicúrea||E|sci|C2
+sdoganamento doganale|despacho aduanero||E|eco|C2
+seduzione linguistica|seducción lingüística||E|let|C2
+seggiola|silla||S|cas|C2
+segreta processuale|pieza secreta||E|ist|C2
+sensitivity|sensibilidad||S|sci|C2
+sentimentalismo|sentimentalismo||S|let|C2
+sepolcro antroponimo|sepulcro antropónimo||E|rel|C2
+sequela processuale|encadenamiento procesal||E|ist|C2
+serein|sereno (meteo)||S|cli|C2
+sermone della montagna|sermón de la montaña||E|rel|C2
+serrafredda|invernadero frío||E|nat|C2
+sessuologia|sexología||S|sci|C2
+sfiducia politica|censura política||E|ist|C2
+sfoltimento|aclareo||S|nat|C2
+sfratto esecutivo|desahucio ejecutivo||E|ist|C2
+sfolgorio|deslumbramiento||S|art|C2
+sistemática botanica|sistemática botánica||E|sci|C2
+sodalizio goliardico|hermandad estudiantil||E|stu|C2
+soavità|suavidad||S|emo|C2
+soffiatura|soplado||S|art|C2
+soggezione|sujeción||S|rel|C2
+soldatesca|soldadesca||S|his|C2
+solidarietà caritativa|solidaridad caritativa||E|rel|C2
+solstizio d'estate|solsticio de verano||E|tmp|C2
+somalismo|somalismo||S|sci|C2
+sommergibile nucleare|submarino nuclear||E|tec|C2
+sommossa carceraria|motín penitenciario||E|ist|C2
+sondaggio sismico|sondeo sísmico||E|sci|C2
+sonnambulismo|sonambulismo||S|sci|C2
+soppressione dell'ordine|supresión de la orden||E|rel|C2
+soprassaggio|sobrepastoreo||S|nat|C2
+sopravvivenza al fallimento|supervivencia a la quiebra||E|fin|C2
+sorbio|serbal||S|nat|C2
+sordità percettiva|sordera perceptiva||E|sla|C2
+sostegno pubblico|apoyo público||E|fin|C2
+sottoscrizioni azionarie|suscripciones accionariales||E|fin|C2
+sottovuoto spinto|alto vacío||E|sci|C2
+spaccio internazionale|tráfico internacional||E|att|C2
+spartiacque idrografico|divortium aquarum||E|nat|C2
+spedizione punitiva|expedición punitiva||E|att|C2
+spersonalizzazione|despersonalización||S|sci|C2
+spessore morale|densidad moral||E|rel|C2
+spezie orientali|especias orientales||E|ali|C2
+spionaggio militare|espionaje militar||E|his|C2
+spiritualità francescana|espiritualidad franciscana||E|rel|C2
+splendore architettonico|esplendor arquitectónico||E|art|C2
+sprone marino|acicate marino||E|nat|C2
+spurgatura|purga||S|tec|C2
+squilibrato|desequilibrado||A|emo|C2
+stagnio|estaño||S|tec|C2
+staterella|estatera||S|his|C2
+statuaria|estatuaria||S|art|C2
+sterminio di massa|exterminio en masa||E|his|C2
+stesura del testamento|redacción del testamento||E|ist|C2
+still life|naturaleza muerta||E|art|C2
+storiografia moderna|historiografía moderna||E|sci|C2
+strozzatura|estrangulamiento||S|tec|C2
+strumentazione chirurgica|instrumental quirúrgico||E|sla|C2
+sudditanza|vasallaje||S|his|C2
+suggestione ipnotica|sugestión hipnótica||E|sci|C2
+suicidio rituale|suicidio ritual||E|rel|C2
+sussistenza monastica|subsistencia monástica||E|rel|C2
+sventura domestica|desgracia doméstica||E|fam|C2
+svista processuale|error procesal||E|ist|C2
+sympatia|simpatía||S|sci|C2
+tacitazione|silenciamiento||S|fin|C2
+taglio cesareo programmato|cesárea programada||E|sla|C2
+talassocrazia|talasocracia||S|his|C2
+tangenziale urbana|ronda urbana||E|tra|C2
+taratura strumentale|calibración instrumental||E|sci|C2
+tariffazione|tarificación||S|fin|C2
+tarsia marmorea|taracea marmórea||E|art|C2
+tassonomia scientifica|taxonomía científica||E|sci|C2
+tavolozza cromatica|paleta cromática||E|art|C2
+teatro di posa|plató||E|cin|C2
+tecnocra|tecnócrata||S|ist|C2
+teleriadiante|telerradiante||A|tec|C2
+temperamento melanconico|temperamento melancólico||E|sci|C2
+tempesta solare|tormenta solar||E|sci|C2
+tentennamento|titubeo||S|emo|C2
+teologia dogmatica|teología dogmática||E|rel|C2
+terziario avanzado|sector terciario avanzado||E|eco|C2
+testimone di giustizia|testigo de justicia||E|ist|C2
+testuggine|testudo||S|ani|C2
+tettoia|cobertizo||S|cas|C2
+timpanoplastica|timpanoplastia||S|sla|C2
+tinteggiatura|pintado||S|cas|C2
+tirannide|tiranía||S|his|C2
+tolleranza immunologica|tolerancia inmunológica||E|sci|C2
+tomografia assiale|tomografía axial||E|sla|C2
+tornitura|torneado||S|tec|C2
+torpore|torpor||S|emo|C2
+traffico internazionale|tráfico internacional||E|att|C2
+tragitto pendolare|trayecto pendular||E|tra|C2
+trapianto di fegato|trasplante de hígado||E|sla|C2
+trascendenza filosofica|trascendencia filosófica||E|sci|C2
+trattativa segreta|negociación secreta||E|ist|C2
+travaso dannunziano|trasvase dannunziano||E|let|C2
+trattato dogmatico|tratado dogmático||E|rel|C2
+travagliato|afligido||A|emo|C2
+tregua invernale|tregua invernal||E|spt|C2
+trentennale giubileo|jubileo treintañal||E|rel|C2
+tributo catastale|tributo catastral||E|fin|C2
+triconizzazione|conización||S|sla|C2
+trinità dogmatica|trinidad dogmática||E|rel|C2
+trono papale|trono papal||E|rel|C2
+trota salmonata|trucha asalmonada||E|ani|C2
+tubatura|tubería||S|tec|C2
+tumulazione|enterramiento||S|rel|C2
+turbativa processuale|turbación procesal||E|ist|C2
+turbolenza atmosferica|turbulencia atmosférica||E|tra|C2
+umiltà monastica|humildad monástica||E|rel|C2
+umorismo nero|humor negro||E|let|C2
+unzione degli infermi|unción de los enfermos||E|rel|C2
+urbanistica espansione|urbanística expansiva||E|cit|C2
+utenza televisiva|audiencia televisiva||E|cmu|C2
+vacanza pastorale|sede vacante||E|rel|C2
+vaccinazione obbligatoria|vacunación obligatoria||E|sla|C2
+valanga di neve|alud de nieve||E|nat|C2
+valicata|puerto de montaña||S|nat|C2
+validazione scientifica|validación científica||E|sci|C2
+valorizzazione ambientale|puesta en valor ambiental||E|nat|C2
+vanagloria mondana|vanagloria mundana||E|rel|C2
+vanità pittorica|vanidad pictórica||E|art|C2
+varietà sinominia|variedad sinonímica||E|let|C2
+vaso cinerario|urna cineraria||E|rel|C2
+vendemmia tardiva|vendimia tardía||E|nat|C2
+venditore ambulante|vendedor ambulante||E|pro|C2
+ventennale|veintenal||A|tmp|C2
+verifica fiscale|inspección fiscal||E|fin|C2
+verità rivelata|verdad revelada||E|rel|C2
+verniciatura antivegetativa|pintura antiincrustante||E|tra|C2
+versificazione metrica|versificación métrica||E|let|C2
+vertenza contrattuale|conflicto contractual||E|lav|C2
+vestizione|vestición||S|rel|C2
+viario stradale|viario||A|tra|C2
+vibrazione molecolare|vibración molecular||E|sci|C2
+vicenda mondana|aventura mundana||E|rel|C2
+videoteca|videoteca||S|cin|C2
+vigilia natalizia|víspera navideña||E|rel|C2
+villaggio neolitico|aldea neolítica||E|sci|C2
+vinificazione|vinificación||S|ali|C2
+violazione tributaria|infracción tributaria||E|fin|C2
+vipera berus|víbora común||E|ani|C2
+virtuosismo violinistico|virtuosismo violinístico||E|mus|C2
+visionarietà|visionariedad||S|sci|C2
+vista panoramica|vista panorámica||E|vig|C2
+vitalizio parlamentare|vitalicio parlamentario||E|ist|C2
+viticoltura eroica|viticultura heroica||E|nat|C2
+vulcanologia fisica|vulcanología física||E|sci|C2
+vulnerabilità sismica|vulnerabilidad sísmica||E|tec|C2
+zampillo d'acqua|chorro de agua||E|nat|C2
+zolla ferace|terreno fértil||E|nat|C2
+zuppa imperiale|sopa imperial||E|ali|C2

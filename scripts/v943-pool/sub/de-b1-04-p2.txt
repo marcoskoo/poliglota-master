@@ -7,14 +7,10 @@ der Spielzug|turno (jugada)||S|sve|B1
 präsentieren|presentar||V|cmu|B1
 entgegenkommen|ceder (mostrarse flexible)||V|cmu|B1
 die Diplomatie|diplomacia||S|cmu|B1
-die Kunstrichtung|corriente artística||S|art|B1
-die Nährwerttabelle|tabla nutricional||S|ali|B1
 die Rettungsstelle|urgencias (hospital)||S|sla|B1
 die Kenntnis|conocimientos (nociones)||S|lav|B1
 die Mietwohnung|piso de alquiler||S|cas|B1
-die Wohnfläche|superficie habitable||S|cas|B1
 der Breitensport|deporte popular||S|spt|B1
-das Haushaltsbuch|libro de cuentas domésticas||S|fin|B1
 die Kaffeepause|pausa de café||S|ris|B1
 der Espresso|espresso||S|ris|B1
 der Sachverhalt|hecho (asunto)||S|sci|B1
