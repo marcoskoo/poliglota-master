@@ -1,0 +1,113 @@
+maioridade|mayoría de edad||S|fam|B2
+padastro|padrastro||S|fam|B2
+bisneta|bisnieta||S|fam|B2
+batizar|bautizar||V|fam|B2
+embirrar|emperrarse||V|fam|B2
+desmamar|destetar||V|fam|B2
+berçário|guardería||S|fam|B2
+infantilizar|infantilizar||V|fam|B2
+mimos|mimos (cariño)||S|fam|B2
+letra miúda|letra pequeña (del contrato)||L|cas|B2
+camião de mudanças|camión de mudanzas||L|cas|B2
+desempacotar|desempaquetar||V|cas|B2
+caixote|cajón (de cartón)||S|cas|B2
+subarrendamento|subarriendo||S|cas|B2
+reboco|revoque||S|cas|B2
+estofos|tapicería||S|cas|B2
+candeeiro de pé|lámpara de pie||L|cas|B2
+ladrilho|baldosa||S|cas|B2
+moradia geminada|casa adosada||L|cas|B2
+dobradiça|bisagra||S|cas|B2
+estofador|tapicero||S|cas|B2
+rojões|trozos de cerdo fritos||S|ali|B2
+salpicão|salpicão (embutido ahumado)||S|ali|B2
+enchidos|embutidos||S|ali|B2
+entrecosto|costillar||S|ali|B2
+carapau|chicharro||S|ali|B2
+cavala|caballa||S|ali|B2
+peixe-espada|pez espada||S|ali|B2
+torresmos|cortezas de cerdo fritas||S|ali|B2
+ovos moles|dulce de yemas||S|ali|B2
+fios de ovos|hilos de huevo||S|ali|B2
+compota|compota||S|ali|B2
+guloseimas|golosinas||S|ali|B2
+massa de pimentão|pasta de pimiento||L|ali|B2
+feijão-frade|judía negra||S|ali|B2
+medronho|aguardiente de madroño||S|ali|B2
+ginja|guinda||S|ali|B2
+imperial|cerveza de barril (pequeña)||S|ali|B2
+leitão|cochinillo asado||S|ali|B2
+arroz doce|arroz con leche||S|ali|B2
+tremoços|altramuces||S|ris|B2
+rissol|croqueta (rissol)||S|ris|B2
+compulsão alimentar|atracón (comer compulsivo)||L|sla|B2
+azia|acidez estomacal||S|sla|B2
+indigestão|indigestión||S|sla|B2
+flatulência|flatulencia||S|sla|B2
+retenção de líquidos|retención de líquidos||L|sla|B2
+jejum intermitente|ayuno intermitente||L|sla|B2
+leguminosas|legumbres||S|ali|B2
+guloso|goloso||A|ali|B2
+isento de glúten|sin gluten||L|ali|B2
+cardamomo|cardamomo||S|ali|B2
+esparguete|espagueti||S|ali|B2
+tofu|tofu||S|ali|B2
+tempura|tempura||S|ali|B2
+encorpado|con cuerpo (vino)||A|ali|B2
+afrutado|afrutado||A|ali|B2
+resaca|resaca||S|ali|B2
+bebedeira|borrachera||S|ali|B2
+embriaguez|embriaguez||S|ali|B2
+destilado|destilado||S|ali|B2
+cimbalino|café espresso||S|ali|B2
+torrefação|tostado (del café)||S|ali|B2
+moagem|molienda||S|ali|B2
+cevada|cebada||S|ali|B2
+insípido|insípido||A|ali|B2
+letreiro|letrero||S|cmp|B2
+estorno|reembolso (contracargo)||S|cmp|B2
+defeito de fabrico|defecto de fabricación||L|cmp|B2
+recolha|recogida||S|cmp|B2
+faixa de rodagem|calzada||L|tra|B2
+mediana|mediano||S|tra|B2
+farolim|piloto (luz pequeña)||S|tra|B2
+capô|capó||S|tra|B2
+para-choques|parachoques||S|tra|B2
+para-brisas|parabrisas||S|tra|B2
+guincho|grúa||S|tra|B2
+carta por pontos|carné por puntos||L|tra|B2
+condução perigosa|conducción peligrosa||L|tra|B2
+passagem de peões|paso de peatones||L|tra|B2
+marcha-atrás|marcha atrás||L|tra|B2
+travão de mão|freno de mano||L|tra|B2
+metropolitano|metro||S|tra|B2
+recarga|recarga||S|tec|B2
+ajuda de custo|dieta (gastos de viaje)||L|fin|B2
+nota de despesas|nota de gastos||L|fin|B2
+despesas de representação|gastos de representación||L|fin|B2
+termo de responsabilidade|declaración de responsabilidad||L|ist|B2
+cartão de residência|tarjeta de residencia||L|ist|B2
+cônsul|cónsul||S|pro|B2
+requerente|solicitante||S|ist|B2
+recusa|denegación||S|ist|B2
+fronteiriço|fronterizo||A|ist|B2
+só alojamento|solo alojamiento||L|htl|B2
+governanta|gobernanta||S|pro|B2
+turoperador|turoperador||S|pro|B2
+dose de reforço|dosis de recuerdo||L|sla|B2
+expectativa de vida|esperanza de vida||L|sla|B2
+emagrecimento|adelgazamiento||S|sla|B2
+calmaria|calma||S|emo|B2
+salário bruto|salario bruto||L|fin|B2
+falir|quebrar (ir a la quiebra)||V|fin|B2
+mesada|asignación (paga)||S|fin|B2
+semanada|paga semanal||S|fin|B2
+esmola|limosna||S|fin|B2
+avarento|avaro||A|fin|B2
+sovina|roñoso (avariento)||A|fin|B2
+bolsa de emprego|bolsa de empleo||L|lav|B2
+escalão|escalón (tramo salarial)||S|fin|B2
+colação de grau|colación de grado||L|stu|B2
+época especial|segunda convocatoria||L|stu|B2
+colega de quarto|compañero de cuarto||L|stu|B2
+inspetor do trabalho|inspector de trabajo||S|pro|B2

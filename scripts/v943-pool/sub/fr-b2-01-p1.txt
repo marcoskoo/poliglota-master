@@ -1,0 +1,190 @@
+puériculture|puericultura||S|fam|B2
+mère au foyer|ama de casa||E|fam|B2
+portrait craché|retrato clavado||E|fam|B2
+remémorer|rememorar||V|fam|B2
+fessée|azote (castigo)||S|fam|B2
+confisquer|confiscar||V|fam|B2
+enfant gâté|niño consentido||E|fam|B2
+emménagement|instalación en la nueva vivienda||S|cas|B2
+sous-location|subarriendo||S|cas|B2
+dossier de location|expediente de alquiler||E|cas|B2
+déménageur|transportista de mudanzas||S|cas|B2
+carton de déménagement|caja de mudanza||E|cas|B2
+visite d'appartement|visita a un piso||E|cas|B2
+meublé|piso amueblado||S|cas|B2
+guéridon|mesita auxiliar||S|cas|B2
+vaisselier|aparador de vajillas||S|cas|B2
+chiffonnier|cómoda alta y estrecha||S|cas|B2
+patère|percha de pared||S|cas|B2
+lambris|chapa de madera decorativa||S|cas|B2
+couvre-lit|colcha||S|cas|B2
+méridienne|chaise longue||S|cas|B2
+couvreur|tejador||S|pro|B2
+paysagiste|paisajista||S|pro|B2
+isolation thermique|aislamiento térmico||E|cas|B2
+vide-ordures|conducto de basura||S|cas|B2
+rissoler|dorar en grasa||V|ali|B2
+chapelure|pan rallado||S|ali|B2
+bouquet garni|ramillete de hierbas||E|ali|B2
+blanquette|estofado de ternera en salsa blanca||S|ali|B2
+persillade|picada de ajo y perejil||S|ali|B2
+choucroute|chucrut||S|ali|B2
+bœuf bourguignon|ternera a la borgoñona||S|ali|B2
+cuisine du marché|cocina de mercado||E|ali|B2
+spécialité régionale|especialidad regional||E|ali|B2
+locavore|locávoro||S|ali|B2
+flexitarien|flexitariano||S|ali|B2
+nem|rollito de primavera vietnamita||S|ali|B2
+badiane|anís estrellado||S|ali|B2
+boulgour|bulgur||S|ali|B2
+citronnelle|hierba limón||S|ali|B2
+riz gluant|arroz glutinoso||S|ali|B2
+satiété|saciedad||S|ali|B2
+rassasier|saciar||V|ali|B2
+intolérance alimentaire|intolerancia alimentaria||E|ali|B2
+jeûne|ayuno||S|ali|B2
+régime sans sel|dieta sin sal||E|ali|B2
+sucre raffiné|azúcar refinado||S|ali|B2
+rééquilibrage alimentaire|reequilibrio alimentario||S|ali|B2
+indice de masse corporelle|índice de masa corporal||E|sla|B2
+barrique|barrica||S|ali|B2
+pétillant|espumoso||A|ali|B2
+consomérisme|consumismo||S|cmp|B2
+fideliser|fidelizar||V|cmp|B2
+jingle|sintonía publicitaria||S|cmp|B2
+achats impulsifs|compras impulsivas||E|cmp|B2
+médiateur de la consommation|mediador de consumo||E|cmp|B2
+bon de garantie|tarjeta de garantía||E|cmp|B2
+se faire rembourser|conseguir el reembolso||E|cmp|B2
+défaut de fabrication|defecto de fabricación||E|cmp|B2
+contre-remboursement|pago contra reembolso||S|cmp|B2
+colis suivi|envío con seguimiento||E|cmp|B2
+retour expéditeur|devolución al remitente||E|cmp|B2
+expéditeur|remitente||S|cmp|B2
+paiement en plusieurs fois|pago a plazos||E|cmp|B2
+plaquettes de frein|pastillas de freno||E|tra|B2
+dépanneuse|grúa||S|tra|B2
+sens interdit|dirección prohibida||E|tra|B2
+radar automatique|radar automático||E|tra|B2
+pneus hiver|neumáticos de invierno||E|tra|B2
+courroie|correa de distribución||S|tra|B2
+covoitureur|conductor que comparte coche||S|tra|B2
+titres de transport|títulos de transporte||E|tra|B2
+valider son titre|validar el billete||E|tra|B2
+déplacement domicile-travail|desplazamiento casa-trabajo||E|tra|B2
+tarif dynamique|tarifa dinámica||E|tra|B2
+défraiement|reembolso de gastos||S|lav|B2
+correspondance manquée|escala perdida||E|vig|B2
+itinéraire bis|desvío alternativo||E|vig|B2
+classe affaires|clase business||E|vig|B2
+vol retardé|vuelo retrasado||E|vig|B2
+bagages égarés|equipajes extraviados||E|vig|B2
+assurance annulation|seguro de cancelación||E|fin|B2
+demande d'asile|solicitud de asilo||E|vig|B2
+passeport biométrique|pasaporte biométrico||E|vig|B2
+visa de long séjour|visado de larga estancia||E|vig|B2
+camp de réfugiés|campo de refugiados||E|vig|B2
+supplément single|suplemento individual||E|htl|B2
+attrape-touristes|trampa para turistas||E|ris|B2
+tour-opérateur|touroperador||S|vig|B2
+formule tout compris|todo incluido||E|vig|B2
+station balnéaire|localidad costera||E|vig|B2
+chambres d'hôtes|casa rural||E|vig|B2
+bilan sanguin|analítica||E|sla|B2
+ticket modérateur|copago||E|sla|B2
+pharmacie de garde|farmacia de guardia||E|sla|B2
+santé mentale|salud mental||E|sla|B2
+parcours professionnel|trayectoria profesional||E|lav|B2
+poste à pourvoir|vacante||E|lav|B2
+stage rémunéré|prácticas remuneradas||E|lav|B2
+point faible|punto débil||E|lav|B2
+questions pièges|preguntas trampa||E|lav|B2
+mises en situation|dinámicas de selección||E|lav|B2
+entretien collectivo|entrevista grupal||E|lav|B2
+salaire brut|salario bruto||E|fin|B2
+salaire net|salario neto||E|fin|B2
+expérience requise|experiencia requerida||E|lav|B2
+échelon|escalafón||S|lav|B2
+charge de travail|carga de trabajo||E|lav|B2
+cohésion d'équipe|cohesión de equipo||E|lav|B2
+chômage partiel|suspensión temporal de empleo||E|lav|B2
+mention très bien|matrícula de honor||E|stu|B2
+sujet d'examen|tema de examen||E|stu|B2
+composition|examen escrito||S|stu|B2
+étudiant boursier|estudiante becado||E|stu|B2
+surligneur|rotulador fluorescente||S|stu|B2
+bachotage|estudio de última hora||S|stu|B2
+tissu urbain|trama urbana||E|cit|B2
+habitat insalubre|vivienda insalubre||E|cit|B2
+habitat collectif|vivienda colectiva||E|cit|B2
+espaces verts|zonas verdes||E|cit|B2
+pollution sonore|contaminación acústica||E|cit|B2
+nuisances|molestias||S|cit|B2
+logement social|vivienda social||E|cit|B2
+budget participatif|presupuesto participativo||E|cit|B2
+consultation citoyenne|consulta ciudadana||E|cit|B2
+élu local|cargo electo local||E|ist|B2
+éclairage public|alumbrado público||E|cit|B2
+alerte rouge|alerta roja||E|cli|B2
+plan d'urgence|plan de emergencia||E|cit|B2
+caniculaire|sofocante (de calor)||A|cli|B2
+escarpin|zapato de tacón||S|rop|B2
+cabine d'essayage|probador||E|rop|B2
+indémodable|que nunca pasa de moda||A|rop|B2
+industrie textile|industria textil||E|rop|B2
+confectionner|confeccionar||V|rop|B2
+teinture|teñido||S|rop|B2
+faire du lèche-vitrines|ir de escaparates||E|rop|B2
+désintox|desintoxicación digital||S|tec|B2
+faire le buzz|hacerse viral||E|tec|B2
+compte privé|perfil privado||E|tec|B2
+se désabonner|darse de baja||V|tec|B2
+influenceuse|influencer (mujer)||S|tec|B2
+double authentification|doble factor de autenticación||E|tec|B2
+téléverser|subir archivos||V|tec|B2
+ligne de commande|línea de comandos||E|tec|B2
+compilateur|compilador||S|tec|B2
+copier-coller|copiar y pegar||S|tec|B2
+maillot jaune|maillot amarillo||E|spt|B2
+match aller-retour|ida y vuelta||E|spt|B2
+disqualification|descalificación||S|spt|B2
+classement général|clasificación general||E|spt|B2
+sélection nationale|selección nacional||E|spt|B2
+phase finale|fase final||E|spt|B2
+record du monde|récord mundial||E|spt|B2
+fracture de fatigue|fractura por estrés||E|sla|B2
+commotion|conmoción cerebral||S|sla|B2
+béquilles|muletas||S|sla|B2
+ligament|ligamento||S|cor|B2
+symphonie|sinfonía||S|mus|B2
+concerto|concierto||S|mus|B2
+opus|opus||S|mus|B2
+bande-son|banda sonora||S|cin|B2
+plateau de tournage|plató||E|cin|B2
+sous-titré|subtitulado||A|cin|B2
+maquilleur|maquillador||S|cin|B2
+chagrin d'amour|desamor||S|rel|B2
+prendre ses distances|tomar distancias||E|rel|B2
+vie de couple|vida en pareja||E|rel|B2
+vivre-ensemble|convivencia||S|rel|B2
+malvoyant|persona con baja visión||S|rel|B2
+avis d'imposition|notificación de impuestos||E|fin|B2
+télédéclaration|declaración online||S|fin|B2
+investisseur|inversor||S|fin|B2
+pension de réversion|pensión de viudedad||E|fin|B2
+relevé de carrière|informe de vida laboral||E|fin|B2
+café gourmand|café con minipostres||E|ris|B2
+gastronome|gastrónomo||S|ris|B2
+géomètre|agrimensor||S|pro|B2
+ergothérapeute|terapeuta ocupacional||S|pro|B2
+documentaliste|documentalista||S|pro|B2
+pilote de ligne|piloto comercial||E|pro|B2
+hôtesse de l'air|azafata||E|pro|B2
+remaniement|remodelación de gobierno||S|ist|B2
+promesse électorale|promesa electoral||E|ist|B2
+flambée des prix|subida descontrolada de precios||E|fin|B2
+dette publique|deuda pública||E|fin|B2
+zéro déchet|residuo cero||E|nat|B2
+chlorophylle|clorofila||S|sci|B2
+levure|levadura||S|ali|B2
+étoile filante|estrella fugaz||E|nat|B2

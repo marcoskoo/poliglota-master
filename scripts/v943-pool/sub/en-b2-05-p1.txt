@@ -1,0 +1,86 @@
+joint custody|custodia compartida||L|fam|B2
+security deposit|fianza||L|cas|B2
+evict|desahuciar||V|cas|B2
+moving company|empresa de mudanzas||L|cas|B2
+countertop|encimera||S|cas|B2
+baseboard|rodapié||S|cas|B2
+throw pillow|cojín decorativo||L|cas|B2
+walk-in closet|vestidor||L|cas|B2
+food critic|crítico gastronómico||L|ali|B2
+gluten-free|sin gluten||A|ali|B2
+nutritional value|valor nutricional||L|ali|B2
+takeout|comida para llevar||S|ris|B2
+wine tasting|cata de vinos||L|ris|B2
+acquired taste|gusto adquirido||L|ris|B2
+consumerism|consumismo||S|cmp|B2
+checkout|proceso de pago||S|cmp|B2
+shipping cost|gastos de envío||L|cmp|B2
+in-store pickup|recogida en tienda||L|cmp|B2
+subscription box|caja de suscripción||L|cmp|B2
+speeding ticket|multa por exceso de velocidad||L|tra|B2
+tailgate|conducir pegado al coche de delante||V|tra|B2
+spare tire|rueda de repuesto||L|tra|B2
+tune-up|revisión del coche||S|tra|B2
+transit pass|abono de transporte||L|tra|B2
+walkable|transitable a pie||A|tra|B2
+rideshare|viaje compartido en aplicación||S|tra|B2
+car-sharing|coche compartido||S|tra|B2
+rebook|reprogramar un vuelo||V|vig|B2
+expense report|informe de gastos||L|vig|B2
+residence permit|permiso de residencia||L|vig|B2
+bellhop|botones||S|htl|B2
+overbooking|sobreventa de plazas||S|htl|B2
+preventive care|medicina preventiva||L|sla|B2
+chronic disease|enfermedad crónica||L|sla|B2
+out-of-pocket costs|gastos de bolsillo||L|sla|B2
+sleep hygiene|higiene del sueño||L|sla|B2
+recharge your batteries|recargar las pilas||E|sla|B2
+job fair|feria de empleo||L|lav|B2
+salary negotiation|negociación salarial||L|lav|B2
+two weeks' notice|preaviso de dos semanas||L|lav|B2
+background check|comprobación de antecedentes||L|lav|B2
+climb the corporate ladder|ascender en la empresa||E|lav|B2
+take the minutes|levantar acta||E|lav|B2
+touch base|ponerse al día brevemente||E|lav|B2
+action item|tarea asignada en la reunión||L|lav|B2
+transcript|expediente académico||S|stu|B2
+pull an all-nighter|trasnochar estudiando||E|stu|B2
+with flying colors|con nota sobresaliente||L|stu|B2
+office hours|horario de tutorías||L|stu|B2
+sophomore|estudiante de segundo año||S|stu|B2
+pothole|bache||S|cit|B2
+noise pollution|contaminación acústica||L|cit|B2
+housing shortage|escasez de vivienda||L|cit|B2
+tailor-made|a medida||A|rop|B2
+ghosting|cortar la comunicación sin explicación||S|tec|B2
+cyberattack|ciberataque||S|tec|B2
+password manager|gestor de contraseñas||L|tec|B2
+automate|automatizar||V|tec|B2
+user interface|interfaz de usuario||L|tec|B2
+playoffs|eliminatorias por el título||S|spt|B2
+home-field advantage|ventaja de jugar en casa||L|spt|B2
+standings|tabla de clasificación||S|spt|B2
+pull a muscle|distender un músculo||E|spt|B2
+stress fracture|fractura por estrés||L|spt|B2
+overuse injury|lesión por sobrecarga||L|spt|B2
+anti-inflammatory|antiinflamatorio||S|sla|B2
+end credits|créditos finales||L|cin|B2
+film crew|equipo de rodaje||L|cin|B2
+have a falling-out|tener un enfrentamiento||E|rel|B2
+make up|hacer las paces||E|rel|B2
+silent treatment|ley de hielo||L|rel|B2
+drift apart|irse distanciando||E|rel|B2
+accessibility|accesibilidad||S|ast|B2
+unconscious bias|sesgo inconsciente||L|ast|B2
+sign language|lengua de signos||L|ast|B2
+cosigner|avalista||S|fin|B2
+compound interest|interés compuesto||L|fin|B2
+wine pairing|maridaje||L|ris|B2
+underrated|infravalorado||A|ris|B2
+law firm|despacho de abogados||L|pro|B2
+dental hygienist|higienista dental||L|pro|B2
+copy editor|corrector de textos||L|pro|B2
+midterm elections|elecciones de medio mandato||L|att|B2
+housing bubble|burbuja inmobiliaria||L|att|B2
+go green|volverse ecológico||E|nat|B2
+magnetic field|campo magnético||L|sci|B2

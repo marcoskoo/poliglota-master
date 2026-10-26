@@ -1,0 +1,154 @@
+mensalmente|mensualmente||D|tmp|B2
+semestral|semestral||A|tmp|B2
+amiúde|a menudo||D|tmp|B2
+posteriormente|posteriormente||D|cnn|B2
+antecipadamente|con antelación||D|tmp|B2
+atempado|a tiempo (oportuno)||A|tmp|B2
+antecipação|anticipación||S|tmp|B2
+adiantamento|adelanto (anticipo)||S|fin|B2
+imprevisto|imprevisto||S|tmp|B2
+saída noturna|salida nocturna||L|sve|B2
+baile|baile (fiesta)||S|sve|B2
+naipe|palo (de cartas)||S|sve|B2
+trunfo|triunfo (carta que manda)||S|sve|B2
+aeromodelismo|aeromodelismo||S|sve|B2
+condomínio fechado|urbanización cerrada||L|cit|B2
+gelataria|heladería||S|cmp|B2
+cervejaria|cervecería||S|ris|B2
+grelhador|plancha (parrilla)||S|cas|B2
+batedeira|batidora||S|cas|B2
+espremedor|exprimidor||S|cas|B2
+abre-latas|abrelatas||S|cas|B2
+descascador|pelador||S|cas|B2
+rebozar|empanar (rebozar)||V|ali|B2
+enfarinhar|enharinar||V|ali|B2
+escaldar|escaldar||V|ali|B2
+marmita|fiambrera||S|ali|B2
+garrafão|garrafón (botellón)||S|ali|B2
+despensa|despensa||S|cas|B2
+tabuleiro|bandeja||S|ris|B2
+terrina|sopera||S|ris|B2
+saleiro|salero||S|ris|B2
+azeiteiro|aceitera||S|ris|B2
+naperon|mantel individual||S|ris|B2
+lanchar|tomar algo (merendar)||V|ris|B2
+marmelada|dulce de membrillo||S|ali|B2
+morcela|morcilla||S|ali|B2
+rabanadas|torrijas||S|ali|B2
+filhós|buñuelos||S|ali|B2
+coscorões|fruta de sartén||S|ali|B2
+folar|mona (pan de Pascua)||S|ali|B2
+bilhete de ida e volta|billete de ida y vuelta||L|tra|B2
+reserva de lugar|reserva de asiento||L|tra|B2
+engasgar|atragantarse||V|sla|B2
+reconversão|reconversión (profesional)||S|lav|B2
+aperfeiçoamento|perfeccionamiento||S|lav|B2
+estudos no estrangeiro|estudios en el extranjero||L|stu|B2
+exames nacionais|pruebas de acceso (exámenes nacionales)||L|stu|B2
+permuta|permuta (trueque)||S|fin|B2
+auriculares|auriculares||S|tec|B2
+pasta|carpeta||S|tec|B2
+camarote|palco (tribuna)||S|mus|B2
+antevisão|avance (tráiler)||S|cin|B2
+bolo de noivo|tarta nupcial||L|ali|B2
+banquete|banquete||S|rel|B2
+enxoval|ajuar||S|fam|B2
+namoro|noviazgo (cotilleo)||S|rel|B2
+flerte|coqueteo||S|rel|B2
+conto do vigário|cuento del lechero||L|fin|B2
+aldrabão|mentiroso (embaucador)||S|cmu|B2
+aldrabar|engañar (mentir)||V|cmu|B2
+gastador|derrochador||A|fin|B2
+rapto|secuestro||S|cit|B2
+desalojado|desalojado||A|cit|B2
+arruaceiro|gamberro (alborotador)||S|cit|B2
+arruaça|bronca (riña callejera)||S|cit|B2
+ordem pública|orden público||L|ist|B2
+carteirista|carterista||S|cit|B2
+mergulho|buceo||S|spt|B2
+binóculos|prismáticos||S|nat|B2
+íngreme|empinado||A|nat|B2
+anoitecer|anochecer||V|cli|B2
+hospedagem|hospedaje||S|htl|B2
+autocuidado|autocuidado||S|emo|B2
+constância|constancia||S|emo|B2
+tentação|tentación||S|emo|B2
+desleixo|desidia||S|emo|B2
+capricho|capricho (antojo)||S|emo|B2
+veleidade|veleidad (antojo)||S|ast|B2
+empenho|empeño||S|emo|B2
+lamúria|lamento (queja)||S|cmu|B2
+resmungo|refunfuño||S|cmu|B2
+guiché|ventanilla||S|ist|B2
+olha|mira (oye)||I|cmu|B2
+sei lá|qué sé yo||L|cmu|B2
+eternidade|eternidad||S|ast|B2
+glória|gloria||S|ast|B2
+nobreza|nobleza||S|ast|B2
+vaidade|vanidad||S|ast|B2
+cobiça|codicia||S|emo|B2
+ganância|avaricia (ansia)||S|emo|B2
+audácia|audacia||S|ast|B2
+covardia|cobardía||S|ast|B2
+romântico|romántico||A|art|B2
+esteira de bagagens|cinta de equipajes||L|vig|B2
+aquecedor|calefactor||S|cas|B2
+crachá|carné (acreditación)||S|lav|B2
+entrevistar|entrevistar||V|lav|B2
+sonolência|somnolencia||S|sla|B2
+bocejo|bostezo||S|cor|B2
+soneca|siesta||S|sla|B2
+vigor|vigor||S|cor|B2
+latir|ladrar||V|ani|B2
+desparasitação|desparasitación||S|sla|B2
+ronronar|ronear||V|ani|B2
+tagarela|hablador (cotilla)||S|cmu|B2
+gabar-se|presumir (fanfarronear)||V|cmu|B2
+cantada|piropo (proposición)||S|cmu|B2
+bem como|así como||L|cnn|B2
+gabinete|despacho (consulta)||S|cas|B2
+cabide|percha||S|cas|B2
+roupeiro|armario (de ropa)||S|cas|B2
+beliche|litera||S|cas|B2
+pestana|pestaña||S|cor|B2
+franja|flequillo||S|rop|B2
+madeixa|mechón||S|rop|B2
+penteado|peinado||S|rop|B2
+ousadia|audacia (osadía)||S|ast|B2
+atrevimento|osadía (descaro)||S|ast|B2
+deslumbrar|deslumbrar||V|emo|B2
+arrepio|escalofrío||S|emo|B2
+sobressalto|sobresalto (susto)||S|emo|B2
+febril|febril||A|sla|B2
+botiquim|botiquín||S|sla|B2
+óbito|óbito (defunción)||S|sla|B2
+chupeta|chupete||S|fam|B2
+biberão|biberón||S|fam|B2
+assobio|silbido||S|ani|B2
+migalha|migaja||S|ali|B2
+azarento|agorerío (trae mala suerte)||A|ast|B2
+quebra-cabeças|rompecabezas||S|sve|B2
+primeira página|primera página||L|att|B2
+gazeta|gaceta||S|att|B2
+mergulhador|buceador||S|spt|B2
+bolada|golpe (porrazón)||S|spt|B2
+valsar|valsar||V|mus|B2
+toirada|corrida de toros||S|spt|B2
+praça de touros|plaza de toros||L|cit|B2
+cursor|cursor||S|tec|B2
+ícone|icono||S|tec|B2
+badaladas|campanadas||S|cit|B2
+feirante|feriante (vendedor ambulante)||S|pro|B2
+tarimba|catre (camastro)||S|cas|B2
+fronha|funda de almohada||S|cas|B2
+capacho|felpudo||S|cas|B2
+espreguiçadeira|tumbona||S|sve|B2
+estores|estores (persianas enrollables)||S|cas|B2
+bengaleiro|perchero de paraguas||S|cas|B2
+aldraba|aldaba||S|cas|B2
+ferrolho|cerrojo (pestillo)||S|cas|B2
+greta|grieta||S|cas|B2
+levedura|levadura||S|ali|B2
+espátula|espátula||S|cas|B2
+escumadeira|espumadera||S|cas|B2
+peneira|tamiz (colador)||S|cas|B2

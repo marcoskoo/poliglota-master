@@ -1,0 +1,258 @@
+birrento|testarudo (rabioso)||A|fam|B2
+berrar|berrear (llorar a gritos)||V|fam|B2
+berreiro|berrido (llanto)||S|fam|B2
+guarda partilhada|custodia compartida||L|fam|B2
+casamento civil|matrimonio civil||L|fam|B2
+mosquiteiro|mosquitera||S|cas|B2
+toldo|toldo||S|cas|B2
+sanefa|cortinilla de puerta||S|cas|B2
+teto falso|falso techo||L|cas|B2
+puxador|tirador (de puerta)||S|cas|B2
+olho mágico|mirilla (de puerta)||S|cas|B2
+vedação|vallado (cerca)||S|cas|B2
+palhoça|choza||S|cas|B2
+adobe|adobe||S|cas|B2
+colcha|colcha||S|cas|B2
+penico|orinal (bacín)||S|cas|B2
+isqueiro|mechero||S|cmp|B2
+pé de cabra|pie de cabra (palanca)||S|cas|B2
+nível de bolhas|nivel de burbuja||S|cas|B2
+carrinho de mão|carretilla||S|cas|B2
+trincha|brocha||S|art|B2
+escorredor|escurridor||S|cas|B2
+escorrer|escurrir||V|ali|B2
+destampar|destapar||V|cas|B2
+caçarola|cazuela de barro||S|cas|B2
+sarrabulho|guiso de menudencias||S|ali|B2
+iscas|hígado empanado (iscas)||S|ris|B2
+tamboril|rape||S|ali|B2
+espadarte|pez espada (marrajo)||S|ali|B2
+sarda|sarda||S|ali|B2
+faneca|faneca||S|ali|B2
+biqueirão|boquerón grande||S|ali|B2
+lavagante|bogavante||S|ali|B2
+sapateira|nécora||S|ali|B2
+perceve|percebe||S|ali|B2
+amêijoa|almeja||S|ali|B2
+berbigão|berberecho||S|ali|B2
+choco|jibia (sepia)||S|ali|B2
+entremeada|panceta (tocino)||S|ali|B2
+chispa|carrillera de cerdo||S|ali|B2
+carolo|sémola de maíz||S|ali|B2
+massa tenra|lomo de cerdo||S|ali|B2
+lombinhos|solomillos||S|ali|B2
+posta|posta (filete)||S|ali|B2
+paio|embutido curado (paio)||S|ali|B2
+banha|manteca de cerdo||S|ali|B2
+polvilho|fécula de mandioca||S|ali|B2
+melaço|melaza||S|ali|B2
+doce de abóbora|dulce de calabaza||L|ali|B2
+chila|calabaza confitada (cidra)||S|ali|B2
+açúcar mascavado|azúcar moreno||L|ali|B2
+sal grosso|sal grueso||S|ali|B2
+flor de sal|flor de sal||S|ali|B2
+em conserva|en conserva||L|ali|B2
+fervura|hervor||S|ali|B2
+grelhado misto|parrilla mixta||L|ris|B2
+pão caseiro|pan casero||L|ali|B2
+pão de milho|pan de maíz||L|ali|B2
+tarteleta|tartaleta||S|ali|B2
+creme de pasteleiro|crema pastelera||L|ali|B2
+leite-creme|natillas de huevo||S|ali|B2
+pudim|flan||S|ali|B2
+nata batida|nata montada||L|ali|B2
+queques|magdalenas (muffins)||S|ali|B2
+em rodelas|en rodajas||L|ali|B2
+às tiras|en tiras||L|ali|B2
+em cubos|en dados||L|ali|B2
+esmigalhar|desmigajar||V|ali|B2
+degelar|descongelar||V|cas|B2
+lume brando|fuego lento||L|ali|B2
+lume baixo|fuego bajo||L|ali|B2
+cozer no vapor|cocer al vapor||L|ali|B2
+forma de bolo|molde de pastel||S|cas|B2
+bagaceira|alambique de aguardiente||S|ali|B2
+vinho maduro|vino crianza||L|ali|B2
+turnos rotativos|turnos rotatorios||L|lav|B2
+por conta própria|por cuenta propia||L|lav|B2
+dias úteis|días hábiles||L|tmp|B2
+folha de vencimento|nómina||L|fin|B2
+desconto em folha|descuento en nómina||L|fin|B2
+duodécimos|fraccionar la paga (duodécimos)||L|fin|B2
+sorteio|sorteo||S|cmp|B2
+venda direta|venta directa||L|cmp|B2
+multibanco|cajero automático||S|cmp|B2
+código de barras|código de barras||S|cmp|B2
+em jejum|en ayunas||L|sla|B2
+efeitos secundários|efectos secundarios||L|sla|B2
+hospital de dia|hospital de día||L|sla|B2
+eleições autárquicas|elecciones municipales||L|ist|B2
+eleições europeias|elecciones europeas||L|ist|B2
+cobertura jornalística|cobertura periodística||L|att|B2
+enviado especial|enviado especial||S|pro|B2
+baixo-relevo|bajorrelieve||S|art|B2
+alto-relevo|altorrelieve||S|art|B2
+painel de azulejos|panel de azulejos||S|art|B2
+imaginária|imaginería (tallas religiosas)||S|art|B2
+cruzeiro|cruceiro (cruce de piedra)||S|art|B2
+torre de menagem|torre del homenaje||L|art|B2
+cidadela|ciudadela||S|art|B2
+fortaleza|fortaleza||S|art|B2
+tecelagem|tejido (taller textil)||S|pro|B2
+tecelão|tejedor||S|pro|B2
+cestitaria|cestería||S|pro|B2
+vime|mimbre||S|nat|B2
+fiação|hilatura||S|pro|B2
+bordadeira|bordadora||S|pro|B2
+renda de bilros|encaje de bolillos||L|art|B2
+rendilheira|encajera||S|pro|B2
+quadrinha|coplilla||S|let|B2
+nanquim|tinta china||S|art|B2
+sanguínea|sanguina||S|art|B2
+paleta|paleta||S|art|B2
+espantalho|espantapájaros||S|nat|B2
+planalto|páramo (meseta)||S|nat|B2
+azinho|quejigo||S|nat|B2
+medronheiro|madroño (árbol)||S|nat|B2
+baixa-mar|bajamar (marea baja)||L|nat|B2
+preia-mar|pleamar (marea alta)||L|nat|B2
+ilhéu|islote||S|nat|B2
+lajedo|roca lisa (lancha)||S|nat|B2
+ventania|ventolera||S|cli|B2
+estio|estío||S|tmp|B2
+gavela|gavilla||S|nat|B2
+foice|guadaña||S|nat|B2
+ancinho|rastrillo||S|nat|B2
+charrua|arado de vertederas||S|nat|B2
+canga|yugo||S|nat|B2
+adubo|abono (fertilizante)||S|nat|B2
+lavrador|labrador||S|pro|B2
+caseiro|aparcero (encargado)||S|pro|B2
+rendeiro|arrendatario (aparcero)||S|pro|B2
+giesta|retama||S|nat|B2
+lentisco|lentisco||S|nat|B2
+faia|haya||S|nat|B2
+abeto|abeto||S|nat|B2
+teixo|tejo (árbol)||S|nat|B2
+papoula|amapola||S|nat|B2
+malmequer|mirasol||S|nat|B2
+goivo|alhelí||S|nat|B2
+madressilva|madreselva||S|nat|B2
+campanilha|campanilla||S|nat|B2
+bagas|bayas||S|nat|B2
+silvas|zarzas||S|nat|B2
+framboesa|frambuesa||S|nat|B2
+groselha|grosella||S|nat|B2
+mirtilo|arándano||S|nat|B2
+olival|olivar||S|nat|B2
+amendoeira|almendro||S|nat|B2
+limoeiro|limonero||S|nat|B2
+pessegueiro|melocotonero||S|nat|B2
+cerejeira|cerezo||S|nat|B2
+macieira|manzano||S|nat|B2
+ouriço-do-mar|erizo de mar||S|ani|B2
+cavalo-marinho|caballito de mar||S|ani|B2
+golfinho|delfín||S|ani|B2
+toninha|marsopa||S|ani|B2
+lontra|nutria||S|ani|B2
+castor|castor||S|ani|B2
+rebeco|rebeco (gamuza)||S|ani|B2
+marta|marta (garduña)||S|ani|B2
+gato-bravo|gato montés||S|ani|B2
+furão|hurón||S|ani|B2
+doninha|comadreja||S|ani|B2
+geneta|gineta||S|ani|B2
+toupeira|topo||S|ani|B2
+mocho|autillo||S|ani|B2
+peneireiro|cernícalo||S|ani|B2
+milhafre|milano||S|ani|B2
+guarda-rios|martín pescador||S|ani|B2
+poupa|abubilla||S|ani|B2
+rola|tórtola||S|ani|B2
+codorna|codorniz||S|ani|B2
+narceja|agachadiza||S|ani|B2
+maçarico|andarríos||S|ani|B2
+chapim|carbonero||S|ani|B2
+estorninho|estornino||S|ani|B2
+melro|mirlo||S|ani|B2
+pisco|petirrojo||S|ani|B2
+gaio|arrendajo (uraca)||S|ani|B2
+gralha|graja||S|ani|B2
+gafanhoto|langosta (saltamontes)||S|ani|B2
+libelinha|libélula||S|ani|B2
+louva-a-deus|mantis religiosa||S|ani|B2
+bicho-pau|insecto palo||S|ani|B2
+escaravelho|escarabajo||S|ani|B2
+moscardo|tábano||S|ani|B2
+casulo|capullo||S|ani|B2
+autoimagem|autoimagen||S|emo|B2
+aversão|aversión||S|emo|B2
+repugnância|repugnancia||S|emo|B2
+animosidade|animosidad||S|emo|B2
+invejoso|envidioso||A|emo|B2
+zelo|celo (esmero)||S|emo|B2
+antipatia|antipatía||S|emo|B2
+complacente|complaciente||A|emo|B2
+condescendente|condescendiente||A|cmu|B2
+modéstia|modestia||S|ast|B2
+lisura|integridad (honestidad)||S|ast|B2
+connivência|connivencia||S|ist|B2
+delator|delator (chivato)||S|ist|B2
+despromoção|descenso||S|spt|B2
+plantel|plantilla||S|spt|B2
+época desportiva|temporada deportiva||L|spt|B2
+pré-temporada|pretemporada||S|spt|B2
+claques|hinchada radical (ultras)||S|spt|B2
+pressão alta|presión alta (en el campo)||L|spt|B2
+contra-ataque|contragolpe (contraataque)||S|spt|B2
+lateral-direito|lateral derecho||S|spt|B2
+canto|saque de esquina||S|spt|B2
+salto à vara|salto con pértiga||L|spt|B2
+lançamento do peso|lanzamiento de peso||L|spt|B2
+estafetas|carreras de relevos||S|spt|B2
+regata|regata||S|spt|B2
+petanca|petanca||S|sve|B2
+abreviatura|abreviatura||S|let|B2
+sigla|sigla||S|let|B2
+acrónimo|acrónimo||S|let|B2
+anagrama|anagrama||S|sve|B2
+adivinha|adivinanza||S|sve|B2
+charada|charada||S|sve|B2
+trava-línguas|trabalenguas||S|let|B2
+gozador|burlador (guasón)||S|cmu|B2
+esperteza|listeza (astucia)||S|cmu|B2
+finório|fullero (pícaro)||A|cmu|B2
+risota|carcajada||S|emo|B2
+risinho|risita||S|emo|B2
+careta|mueca (careta)||S|cor|B2
+franzir|fruncir (el ceño)||V|cor|B2
+pestanejar|parpadear (pestañear)||V|cor|B2
+esbugalhar|sacar los ojos||V|cor|B2
+pancadaria|paliza (golpes)||S|cit|B2
+magusto|magosto (hoguera de castañas)||S|sve|B2
+santos populares|fiestas de los santos populares||L|sve|B2
+cavaquinho|cavaquinho (guitarra pequeña)||S|mus|B2
+cantoria|cantoría||S|mus|B2
+desgarrada|canto a desafío||S|mus|B2
+fandango|fandango||S|mus|B2
+malhão|malhão (danza popular)||S|mus|B2
+chamarrita|chamarrita (danza popular)||S|mus|B2
+petardo|petardo||S|sve|B2
+pândega|juerga (parranda)||S|sve|B2
+patuscada|juerga (verbena)||S|sve|B2
+em jeito de|a modo de||L|cnn|B2
+por um acaso|por casualidad||L|cnn|B2
+à partida|en principio (a primera vista)||L|cnn|B2
+dito isto|dicho esto||L|cnn|B2
+que digamos|por así decirlo||L|cnn|B2
+em qualquer caso|en cualquier caso||L|cnn|B2
+em absoluto|en absoluto||L|cnn|B2
+de jeito nenhum|de ninguna de las maneras||L|cnn|B2
+bugiganga|chuchería (baratija)||S|cmp|B2
+quinquilharia|quincallería||S|cmp|B2
+tarecos|trastos viejos||S|cas|B2
+tralha|trastos (chatarra)||S|cas|B2
+bedel|bedel (conserje)||S|pro|B2
+tesoureiro|tesorero||S|pro|B2
+zelador|conserje (encargado)||S|pro|B2
+crepe|crepe||S|ali|B2

@@ -1,0 +1,112 @@
+muscle mass|masa muscular||L|cor|B2
+nesting|anidación||S|ani|B2
+forage|buscar alimento||V|ani|B2
+wildlife sanctuary|santuario de fauna||L|ani|B2
+sleet|aguanieve||S|cli|B2
+gust|ráfaga de viento||S|cli|B2
+beforehand|de antemano||D|tmp|B2
+every other day|cada dos días||L|tmp|B2
+bar crawl|ruta de bares||L|sve|B2
+designated driver|conductor que no bebe||L|sve|B2
+roll the dice|tirar los dados||E|sve|B2
+procrastination|procrastinación||S|emo|B2
+cope with|hacer frente a||E|emo|B2
+stressed out|muy estresado||A|emo|B2
+common ground|punto en común||L|cmu|B2
+flawed|con fallos (razonamiento)||A|cmu|B2
+slide deck|presentación de diapositivas||L|cmu|B2
+elevator pitch|presentación relámpago||L|cmu|B2
+handout|documento repartido||S|cmu|B2
+reach a compromise|llegar a un acuerdo||E|cmu|B2
+counteroffer|contraoferta||S|cmu|B2
+jury duty|obligación de jurado||L|ist|B2
+processing time|plazo de tramitación||L|ist|B2
+bureaucratic|burocrático||A|ist|B2
+voter turnout|participación electoral||L|ist|B2
+swing state|estado indeciso||L|ist|B2
+ultimately|en última instancia||D|cnn|B2
+when it comes to|cuando se trata de||L|cnn|B2
+ironically|irónicamente||D|cnn|B2
+beauty standards|cánones de belleza||L|ast|B2
+self-portrait|autorretrato||S|art|B2
+old town|casco antiguo||L|art|B2
+gothic|gótico||A|art|B2
+homeowners association|comunidad de propietarios||L|cit|B2
+property manager|administrador de fincas||L|cit|B2
+quiet hours|horario de descanso||L|cit|B2
+block party|fiesta de barrio||L|cit|B2
+nutrition facts|declaración nutricional||L|ali|B2
+ultra-processed|ultraprocesado||A|ali|B2
+train conductor|revisor||L|tra|B2
+seat reservation|reserva de asiento||L|tra|B2
+chest compressions|compresiones torácicas||L|sla|B2
+stretcher|camilla||S|sla|B2
+hybrid work|trabajo híbrido||L|lav|B2
+on-the-job training|formación en el puesto||L|lav|B2
+transfer credits|convalidar asignaturas||E|stu|B2
+asking price|precio de salida||L|cas|B2
+up-and-coming|en alza||A|cas|B2
+verified purchase|compra verificada||L|cmp|B2
+leave a review|escribir una reseña||E|cmp|B2
+security checkpoint|control de seguridad||L|vig|B2
+checked baggage|equipaje facturado||L|vig|B2
+long-haul|de larga distancia||A|vig|B2
+miss your flight|perder el vuelo||E|vig|B2
+make a complaint|hacer una reclamación||E|htl|B2
+late check-out|salida tardía||L|htl|B2
+valet parking|aparcacoches||L|htl|B2
+learn the ropes|aprender lo básico||E|lav|B2
+get up to speed|ponerse al día||E|lav|B2
+fit in|encajar en el equipo||E|lav|B2
+the good old days|los viejos tiempos||L|tmp|B2
+worn out|hecho polvo||A|sla|B2
+catch up on sleep|recuperar el sueño||E|sla|B2
+ask someone out|invitar a salir a alguien||E|rel|B2
+take a rain check|dejarlo para otra ocasión||E|rel|B2
+play it by ear|improvisar sobre la marcha||E|rel|B2
+kibble|pienso para mascotas||S|ani|B2
+ride-hailing app|aplicación de VTC||L|tra|B2
+split the fare|dividir la tarifa||E|tra|B2
+park and ride|aparcamiento disuasorio||L|tra|B2
+wedding planner|organizador de bodas||L|fam|B2
+rehearsal dinner|cena de ensayo de boda||L|fam|B2
+pop the question|pedir matrimonio||E|fam|B2
+baby shower|fiesta de celebración del embarazo||L|fam|B2
+live paycheck to paycheck|vivir al día||E|fin|B2
+con artist|estafador||S|fin|B2
+coffee break|pausa para el café||L|ris|B2
+press charges|presentar una denuncia||E|ist|B2
+hit-and-run|atropello y fuga||S|ist|B2
+fun fact|dato curioso||L|sci|B2
+pitch a tent|montar la tienda de campaña||E|nat|B2
+skip the line|saltarse la cola||E|vig|B2
+hidden gem|joya escondida||L|vig|B2
+self-doubt|inseguridad en uno mismo||S|emo|B2
+get into the habit|adquirir la costumbre||E|emo|B2
+kick the habit|dejar el vicio||E|emo|B2
+consistency|constancia||S|emo|B2
+make yourself understood|hacerse entender||E|cmu|B2
+slip of the tongue|lapsus||L|cmu|B2
+get back to you|contestarte más tarde||E|cmu|B2
+clear up|aclarar (un malentendido)||E|cmu|B2
+certified copy|copia compulsada||L|ist|B2
+proof of address|justificante de domicilio||L|ist|B2
+renew|renovar (un documento)||V|ist|B2
+the thing is|la cuestión es||E|cnn|B2
+speaking of which|a propósito de eso||L|cnn|B2
+on second thought|pensándolo mejor||L|cnn|B2
+that reminds me|eso me recuerda||E|cnn|B2
+kill time|matar el tiempo||E|tmp|B2
+temporary exhibition|exposición temporal||L|art|B2
+suggested donation|donación sugerida||L|art|B2
+worth it|vale la pena||E|art|B2
+voice memo|nota de voz||L|tec|B2
+pickup game|partido informal||L|spt|B2
+recreational league|liga de aficionados||L|spt|B2
+gym membership|abono de gimnasio||L|spt|B2
+weekend warrior|deportista de fin de semana||L|spt|B2
+ticket resale|reventa de entradas||L|mus|B2
+lineup|cartel del festival||S|mus|B2
+season finale|final de temporada||L|cin|B2
+plot hole|agujero de guion||L|cin|B2
+pilot episode|episodio piloto||L|cin|B2

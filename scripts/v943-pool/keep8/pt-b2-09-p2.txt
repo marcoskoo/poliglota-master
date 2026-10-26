@@ -1,0 +1,80 @@
+saneamento|saneamiento||S|cit|B2
+recolha do lixo|recogida de basura||L|cit|B2
+aterro|vertedero||S|cit|B2
+edilidade|edilidad (gestión municipal)||S|ist|B2
+geotermia|geotermia||S|nat|B2
+rede elétrica|red eléctrica||L|nat|B2
+litoral|litoral||S|nat|B2
+duna|duna||S|nat|B2
+pântano|pantano||S|nat|B2
+criadouro|criadero||S|ani|B2
+lince|lince||S|ani|B2
+cegonha|cigüeña||S|ani|B2
+garça|garza||S|ani|B2
+abutre|buitre||S|ani|B2
+texugo|tejón||S|ani|B2
+javali|jabalí||S|ani|B2
+corça|corza||S|ani|B2
+lebre|liebre||S|ani|B2
+alfaiataria|sastrería||S|rop|B2
+farda|uniforme||S|rop|B2
+atacado|venta al por mayor||S|cmp|B2
+broche|broche||S|rop|B2
+xale|chal||S|rop|B2
+véu|velo||S|rop|B2
+depuração|depuración||S|tec|B2
+desenvolvimento|desarrollo||S|tec|B2
+banda larga|banda ancha||L|tec|B2
+digitalizar|digitalizar||V|tec|B2
+engenharia|ingeniería||S|pro|B2
+grande penalidade|penalti||L|spt|B2
+desclassificação|descalificación||S|spt|B2
+amigável|amistoso (partido)||A|spt|B2
+canoagem|piragüismo||S|spt|B2
+massagista|masajista||S|pro|B2
+sintonia|sintonía||S|mus|B2
+desafinar|desafinar||V|mus|B2
+maquilhagem|maquillaje||S|cin|B2
+figurinista|figurinista||S|cin|B2
+gala|gala||S|sve|B2
+noivar|prometerse (casarse)||V|rel|B2
+ruptura|ruptura (fin de relación)||S|rel|B2
+azedume|amargura||S|emo|B2
+ternura|ternura||S|emo|B2
+afetuoso|cariñoso||A|emo|B2
+consorte|consorte||S|fam|B2
+arquivista|archivero||S|pro|B2
+documentalista|documentalista||S|pro|B2
+promotor|fiscal (acusador)||S|pro|B2
+caçador|cazador||S|pro|B2
+editorial|editorial||S|att|B2
+periodicidade|periodicidad||S|att|B2
+patente|patente||S|sci|B2
+astronomia|astronomía||S|sci|B2
+percentagem|porcentaje||S|sci|B2
+pseudociência|pseudociencia||S|sci|B2
+desmascarar|desenmascarar||V|cmu|B2
+rima|rima||S|let|B2
+brochura|folleto (cuadernillo)||S|let|B2
+dor de costas|dolor de espalda||L|cor|B2
+torcicolo|tortícolis||S|cor|B2
+gratificante|gratificante||A|emo|B2
+autodisciplina|autodisciplina||S|emo|B2
+mau humor|mal humor||L|emo|B2
+irritadiço|irritable||A|emo|B2
+apatia|apatía||S|emo|B2
+contentamento|contento (satisfacción)||S|emo|B2
+serenidade|serenidad||S|emo|B2
+esperançoso|esperanzado||A|emo|B2
+sobrecarregado|sobrecargado||A|emo|B2
+desmotivado|desmotivado||A|emo|B2
+empático|empático||A|emo|B2
+eloquência|elocuencia||S|cmu|B2
+lisonjear|lisonjear||V|cmu|B2
+indício|indicio||S|ist|B2
+detido|detenido||S|ist|B2
+ilícito|ilícito||A|ist|B2
+preenchimento|cumplimentación||S|ist|B2
+injustiça|injusticia||S|ast|B2
+fatalidade|fatalidad||S|ast|B2
+permanência|permanencia||S|ast|B2

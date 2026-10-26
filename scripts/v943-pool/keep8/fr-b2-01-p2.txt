@@ -1,0 +1,208 @@
+style soutenu|registro elevado||E|let|B2
+courant littéraire|corriente literaria||E|let|B2
+registre familier|registro coloquial||E|let|B2
+narration|narración||S|let|B2
+musculature|musculatura||S|cor|B2
+oisillon|polluelo||S|ani|B2
+menacé d'extinction|amenazado de extinción||E|ani|B2
+faune sauvage|fauna salvaje||E|ani|B2
+faune et flore|fauna y flora||E|nat|B2
+décarboner|descarbonizar||V|nat|B2
+barrage hydroélectrique|presa hidroeléctrica||E|nat|B2
+déchets nucléaires|residuos nucleares||E|nat|B2
+ciel couvert|cielo cubierto||E|cli|B2
+front froid|frente frío||E|cli|B2
+à intervalles réguliers|a intervalos regulares||E|tmp|B2
+depuis peu|desde hace poco||E|tmp|B2
+fugace|fugaz||A|tmp|B2
+au fur et à mesure|a medida que||E|cnn|B2
+jeu de cartes|juego de cartas||E|sve|B2
+modélisme|aeromodelismo||S|sve|B2
+échiquier|tablero de ajedrez||S|sve|B2
+jeu d'argent|juego de azar||E|sve|B2
+figurine|figurita de colección||S|sve|B2
+démotivation|desmotivación||S|emo|B2
+manque de confiance|falta de confianza||E|emo|B2
+détermination|determinación||S|emo|B2
+maîtrise de soi|autocontrol||E|emo|B2
+peur de l'échec|miedo al fracaso||E|emo|B2
+doute de soi|inseguridad||E|emo|B2
+se changer les idées|despejarse||E|emo|B2
+preuve à l'appui|con pruebas en la mano||E|cmu|B2
+généralisation abusive|generalización abusiva||E|cmu|B2
+tranché|tajante||A|cmu|B2
+donner raison|dar la razón||E|cmu|B2
+exposé oral|exposición oral||E|cmu|B2
+capter l'attention|captar la atención||E|cmu|B2
+marchander|regatear||V|cmu|B2
+arriver à un accord|llegar a un acuerdo||E|cmu|B2
+user de diplomatie|usar de diplomacia||E|cmu|B2
+demander une contrepartie|pedir una contrapartida||E|cmu|B2
+contourner|sortear||V|cmu|B2
+ajournement|aplazamiento||S|ist|B2
+travaux d'intérêt général|trabajos de utilidad pública||E|ist|B2
+mis en examen|imputado||E|ist|B2
+règlement à l'amiable|acuerdo extrajudicial||E|ist|B2
+pièce justificative|documento acreditativo||E|ist|B2
+créneau horaire|franja horaria||E|ist|B2
+cachet de la poste|matasellos||E|ist|B2
+lettre recommandée|carta certificada||E|ist|B2
+livret de famille|libro de familia||E|ist|B2
+dépôt de dossier|presentación del expediente||E|ist|B2
+paperasse|papeleo||S|ist|B2
+bureaucratie|burocracia||S|ist|B2
+numéro de dossier|número de expediente||E|ist|B2
+carte d'électeur|tarjeta electoral||E|ist|B2
+programme électoral|programa electoral||E|ist|B2
+quoiqu'il en soit|sea como sea||E|cnn|B2
+perfide|pérfido||A|ast|B2
+splendeur|esplendor||S|ast|B2
+hypocrisie|hipocresía||S|ast|B2
+gouache|gouache||S|art|B2
+pigeonnier|palomar||S|art|B2
+syndic de copropriété|administrador de fincas||E|cas|B2
+règlement de copropriété|estatutos de la comunidad||E|cas|B2
+bruit de voisinage|ruidos de vecinos||E|cas|B2
+valeurs nutritionnelles|valores nutricionales||E|ali|B2
+teneur en sucre|contenido de azúcar||E|ali|B2
+indice glycémique|índice glucémico||E|ali|B2
+huile de palme|aceite de palma||E|ali|B2
+arôme artificiel|aroma artificial||E|ali|B2
+calories vides|calorías vacías||E|ali|B2
+sel ajouté|sal añadida||E|ali|B2
+wagon-lit|coche cama||S|tra|B2
+voiture restaurant|coche restaurante||E|tra|B2
+réservation obligatoire|reserva obligatoria||E|tra|B2
+contrôle des billets|control de billetes||E|tra|B2
+bouche-à-bouche|boca a boca||S|sla|B2
+évanouissement|desmayo||S|sla|B2
+perte de connaissance|pérdida de conocimiento||E|sla|B2
+ecchymose|cardenal (moratón)||S|cor|B2
+travail hybride|trabajo híbrido||E|lav|B2
+en distanciel|a distancia||E|lav|B2
+temps partiel|jornada parcial||E|lav|B2
+montée en compétences|desarrollo de competencias||E|lav|B2
+contrat d'apprentissage|contrato de formación||E|lav|B2
+certification professionnelle|certificación profesional||E|lav|B2
+organisme de formation|centro de formación||E|lav|B2
+webinaire|seminario web||S|lav|B2
+bourse de mobilité|beca de movilidad||E|stu|B2
+université partenaire|universidad asociada||E|stu|B2
+études à l'étranger|estudios en el extranjero||E|stu|B2
+étudiant étranger|estudiante extranjero||E|stu|B2
+échange universitaire|intercambio universitario||E|stu|B2
+accession à la propriété|acceso a la propiedad||E|cas|B2
+offre d'achat|oferta de compra||E|cas|B2
+investissement locatif|inversión en alquiler||E|fin|B2
+mise en vente|puesta en venta||E|cas|B2
+annonce immobilière|anuncio inmobiliario||E|cas|B2
+diagnostic énergétique|certificado energético||E|cas|B2
+avis en ligne|opiniones online||E|cmp|B2
+avis trompeur|opinión engañosa||E|cmp|B2
+suivre sa commande|hacer seguimiento del pedido||E|cmp|B2
+carte cadeau|tarjeta regalo||E|cmp|B2
+livraison offerte|envío gratis||E|cmp|B2
+stock disponible|stock disponible||E|cmp|B2
+forfait mobile|tarifa móvil||E|tec|B2
+appel manqué|llamada perdida||E|tec|B2
+mode avion|modo avión||E|tec|B2
+désinstaller|desinstalar||V|tec|B2
+notifications push|notificaciones push||E|tec|B2
+marche nordique|marcha nórdica||E|spt|B2
+entraînement fractionné|entrenamiento por intervalos||E|spt|B2
+séance d'entraînement|sesión de entrenamiento||E|spt|B2
+licence sportive|licencia deportiva||E|spt|B2
+chaussures de marche|botas de senderismo||E|spt|B2
+tenue de sport|ropa deportiva||E|spt|B2
+en première partie|como telonero||E|mus|B2
+scène ouverte|escenario abierto||E|mus|B2
+concert acoustique|concierto acústico||E|mus|B2
+festival de musique|festival de música||E|mus|B2
+replay|emisión a la carta||S|cin|B2
+s'accrocher à une série|engancharse a una serie||E|cin|B2
+voyage de noces|viaje de novios||E|vig|B2
+mariage civil|matrimonio civil||E|fam|B2
+mariage religieux|matrimonio religioso||E|fam|B2
+voile de mariée|velo de novia||E|rop|B2
+alliances|alianzas (anillos)||S|fam|B2
+joindre les deux bouts|llegar a fin de mes||E|fin|B2
+train de vie|nivel de vida||E|fin|B2
+être fauché|estar sin blanca||E|fin|B2
+rentrée d'argent|ingreso de dinero||E|fin|B2
+économe|ahorrador||A|fin|B2
+dépenses courantes|gastos corrientes||E|fin|B2
+fin du mois|final de mes||E|fin|B2
+croyance populaire|creencia popular||E|sci|B2
+légende urbaine|leyenda urbana||E|sci|B2
+conférence grand public|charla divulgativa||E|sci|B2
+à portée de tous|al alcance de todos||E|sci|B2
+curiosité scientifique|curiosidad científica||E|sci|B2
+liseuse|lector electrónico||S|tec|B2
+édition de poche|edición de bolsillo||E|let|B2
+sentier de randonnée|sendero||E|nat|B2
+forêt de feuillus|bosque de frondosas||E|nat|B2
+week-end prolongé|fin de semana largo||E|vig|B2
+ville d'art|ciudad de arte||E|vig|B2
+carnet de voyage|diario de viaje||E|vig|B2
+hôtellerie|sector hotelero||S|htl|B2
+fréquentation touristique|afluencia turística||E|vig|B2
+amour-propre|amor propio||S|emo|B2
+s'affirmer|afirmarse||V|emo|B2
+remise en question|autocrítica||S|emo|B2
+bonne résolution|buen propósito||E|emo|B2
+perfectionnisme|perfeccionismo||S|emo|B2
+dévaloriser|minusvalorar||V|emo|B2
+positiver|ver lo positivo||V|emo|B2
+rendez-vous en ligne|cita online||E|ist|B2
+standard|centralita||S|ist|B2
+guichetier|ventanilla (empleado)||S|pro|B2
+quoi qu'il arrive|pase lo que pase||E|cnn|B2
+justement|justamente||E|cnn|B2
+pour résumer|en resumen||E|cnn|B2
+coup du sort|golpe del destino||E|ast|B2
+au fil du temps|con el paso del tiempo||E|ast|B2
+renouveau|renovación||S|ast|B2
+essor|auge||S|ast|B2
+porter chance|dar suerte||E|ast|B2
+billet daté|entrada con fecha||E|art|B2
+exposition itinérante|exposición itinerante||E|art|B2
+visite libre|visita libre||E|art|B2
+conservateur de musée|conservador de museo||E|pro|B2
+enregistrement des bagages|facturación de equipaje||E|vig|B2
+salle d'embarquement|sala de embarque||E|vig|B2
+poids autorisé|peso permitido||E|vig|B2
+retrait des bagages|recogida de equipajes||E|vig|B2
+taxe d'aéroport|tasas de aeropuerto||E|vig|B2
+chambre non faite|habitación sin hacer||E|htl|B2
+surclassement|mejora de categoría||S|htl|B2
+consigne à bagages|guardaequipajes||E|htl|B2
+serviette de bain|toalla||E|htl|B2
+départ tardif|salida tardía||E|htl|B2
+période d'adaptation|período de adaptación||E|lav|B2
+binôme|pareja de trabajo||S|lav|B2
+attendre le feu vert|esperar el visto bueno||E|lav|B2
+badge|credencial de empresa||S|lav|B2
+à l'essai|a prueba||E|lav|B2
+courbe d'apprentissage|curva de aprendizaje||E|lav|B2
+d'antan|de antaño||E|tmp|B2
+écart générationnel|brecha generacional||E|fam|B2
+ancêtres|antepasados||S|fam|B2
+être du matin|ser madrugador||E|sla|B2
+oiseau de nuit|búho nocturno||E|sla|B2
+compter les moutons|contar ovejas||E|sla|B2
+reprendre des forces|reponer fuerzas||E|sla|B2
+reporter à plus tard|aplazar||E|tmp|B2
+annulation de dernière minute|cancelación de última hora||E|tmp|B2
+être pris au dépourvu|pillado por sorpresa||E|emo|B2
+confirmer sa venue|confirmar asistencia||E|cmu|B2
+vaccin antirabique|vacuna antirrábica||E|ani|B2
+miauler|maullar||V|ani|B2
+ronronner|ronronear||V|ani|B2
+refuge pour animaux|refugio de animales||E|ani|B2
+éduquer son chien|adiestrar al perro||E|ani|B2
+note du chauffeur|valoración del conductor||E|tra|B2
+flotte de véhicules|flota de vehículos||E|tra|B2
+point de rendez-vous|punto de encuentro||E|tra|B2
+trajet partagé|trayecto compartido||E|tra|B2
+abonnement transport|abono de transporte||E|tra|B2
+annuler la course|cancelar el trayecto||E|tra|B2
