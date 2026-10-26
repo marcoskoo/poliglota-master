@@ -1,0 +1,122 @@
+das Resistenzgen|gen de resistencia||S|sci|C1
+die Zwillingsstudie|estudio con gemelos||S|sci|C1
+der Erbgang|herencia genética||S|sci|C1
+die Expressivität|expresividad genética||S|sci|C1
+die Restriktionsendonuklease|endonucleasa de restricción||S|sci|C1
+die Differenzierungsfähigkeit|capacidad de diferenciación||S|sci|C1
+die Antigenpräsentation|presentación de antígenos||S|sci|C1
+der Antikörpertiter|título de anticuerpos||S|sci|C1
+die Autoimmunreaktion|reacción autoinmune||S|sci|C1
+die Zytokinfreisetzung|liberación de citoquinas||S|sci|C1
+der Zytokinsturm|tormenta de citoquinas||S|sci|C1
+die Lymphozytenzahl|recuento linfocitario||S|sci|C1
+die Sporenbildung|esporulación||S|sci|C1
+das Antibiogramm|antibiograma||S|sci|C1
+die Mutationsrate|tasa de mutación||S|sci|C1
+der Reservoirwirt|hospedador reservorio||S|sci|C1
+der Hirnstamm|tronco encefálico||S|sci|C1
+das Marklager|sustancia blanca subcortical||S|sci|C1
+das Aktionspotential|potencial de acción||S|sci|C1
+das Belohnungssystem|sistema de recompensa||S|sci|C1
+die Gedächtniskonsolidierung|consolidación de la memoria||S|sci|C1
+der Zirkadianrhythmus|ritmo circadiano||S|sci|C1
+die Hirnventrikel|ventrículos cerebrales||S|sci|C1
+die Blut-Hirn-Schranke|barrera hematoencefálica||S|sci|C1
+die Enkodierung|codificación en memoria||S|sci|C1
+die Hirndurchblutung|perfusión cerebral||S|sla|C1
+die Valenzschale|capa de valencia||S|sci|C1
+die Elektronenkonfiguration|configuración electrónica||S|sci|C1
+das Redoxgleichgewicht|equilibrio redox||S|sci|C1
+die Destillationskolonne|columna de destilación||S|sci|C1
+der Rückflusskühler|refrigerante de reflujo||S|sci|C1
+das Reaktionsgleichgewicht|equilibrio químico||S|sci|C1
+das Wellenpaket|paquete de ondas||S|sci|C1
+die Aufenthaltswahrscheinlichkeit|densidad de probabilidad||S|sci|C1
+die Quantenverschränkung|entrelazamiento cuántico||S|sci|C1
+das Eichboson|bosón de gauge||S|sci|C1
+die Raumkrümmung|curvatura del espacio||S|sci|C1
+die Exoplanetensuche|búsqueda de exoplanetas||S|sci|C1
+die Gravitationslinse|lente gravitacional||S|sci|C1
+die Bandstruktur|estructura de bandas||S|sci|C1
+die Bandlücke|banda prohibida||S|sci|C1
+die Gitterkonstante|parámetro de red||S|sci|C1
+die Phasengrenze|frontera de fase||S|sci|C1
+die Bruchzähigkeit|tenacidad a la fractura||S|sci|C1
+der Ermüdungsriss|grieta por fatiga||S|sci|C1
+die Korrosionsbeständigkeit|resistencia a la corrosión||S|sci|C1
+die Wellenfront|frente de onda||S|sci|C1
+das Interferenzmuster|patrón de interferencia||S|sci|C1
+die Lichtstreuung|dispersión de la luz||S|sci|C1
+die Grenzschicht|capa límite||S|sci|C1
+die Schätzfunktion|estimador||S|sci|C1
+der Standardfehler|error estándar||S|sci|C1
+der Signifikanztest|prueba de significación||S|sci|C1
+die Zufallsstreuung|dispersión aleatoria||S|sci|C1
+die Regressionsgerade|recta de regresión||S|sci|C1
+die Kontrollvariable|variable de control||S|sci|C1
+die Mehrebenenregression|regresión multinivel||S|sci|C1
+das Untersuchungsdesign|diseño del estudio||S|sci|C1
+die Umkehrfunktion|función inversa||S|sci|C1
+die Differenzierbarkeit|diferenciabilidad||S|sci|C1
+die Wahrheitstafel|tabla de verdad||S|sci|C1
+der Wahrheitswert|valor de verdad||S|sci|C1
+der Prädikatenkalkül|cálculo de predicados||S|sci|C1
+der Syllogismus|silogismo||S|sci|C1
+die vollständige Induktion|inducción completa||L|sci|C1
+das Ausbruchsmanagement|gestión de brotes||S|sci|C1
+die Surveillance|vigilancia epidemiológica||S|sci|C1
+die Isolierstation|unidad de aislamiento||S|sla|C1
+die Gesteinsschichtung|estratificación rocosa||S|sci|C1
+die Subduktionszone|zona de subducción||S|sci|C1
+der Magmaherd|cámara magmática||S|sci|C1
+die Bodensenkung|subsidencia del terreno||S|sci|C1
+das Massensterben|extinción masiva||S|sci|C1
+das Leitfossil|fósil guía||S|sci|C1
+die Radiokarbonmethode|método del carbono catorce||S|sci|C1
+das Auswurfmaterial|material eyectado||S|nat|C1
+die Ausbruchswarnung|alerta de erupción||S|nat|C1
+das Emissionsszenario|escenario de emisiones||S|sci|C1
+der Permafrostboden|suelo de permafrost||S|nat|C1
+die Treibhausgasbilanz|balance de gases de efecto invernadero||S|nat|C1
+die Klimaanpassung|adaptación climática||S|nat|C1
+der Höhenwind|viento en altura||S|nat|C1
+das Niederschlagsradar|radar de precipitación||S|tec|C1
+der Hagelschlag|granizada||S|nat|C1
+das Sturmtief|borrasca severa||S|nat|C1
+der Druckgradient|gradiente de presión||S|sci|C1
+die Strahlungsbilanz|balance radiativo||S|sci|C1
+die Böenfront|frente de rachas||S|nat|C1
+das Starkregenereignis|episodio de lluvias torrenciales||S|nat|C1
+die Ensemblevorhersage|predicción por conjuntos||S|sci|C1
+die Gezeitenströmung|corriente de marea||S|nat|C1
+die Tiefseeströmung|corriente oceánica profunda||S|nat|C1
+das Schelfmeer|mar de la plataforma continental||S|nat|C1
+die Planktonblüte|floración de plancton||S|nat|C1
+die Seegraswiese|pradera de fanerógamas marinas||S|nat|C1
+die Uferzone|zona litoral||S|nat|C1
+die Sprungschicht|termoclina||S|nat|C1
+der Immissionsschutz|protección contra inmisiones||S|ist|C1
+die Bodensanierung|descontaminación de suelos||S|nat|C1
+das Sickerwasser|agua de lixiviado||S|nat|C1
+der Mastbetrieb|explotación de engorde||S|nat|C1
+das Tierwohl|bienestar animal||S|ani|C1
+der Besatz|repoblación piscícola||S|nat|C1
+der Totholzanteil|proporción de madera muerta||S|nat|C1
+der Unterwuchs|sotobosque||S|nat|C1
+der Borkenkäferbefall|plaga de escolítidos||S|nat|C1
+die Kernschmelze|fusión del núcleo del reactor||S|tec|C1
+der Zwischenlager|almacén temporal de residuos||S|tec|C1
+der Schubvektor|vector de empuje||S|tec|C1
+das Leitwerk|empenaje||S|tec|C1
+die Landeklappe|flap de aterrizaje||S|tec|C1
+der Treibstoffvorrat|reserva de combustible||S|tec|C1
+der Weltraumschrott|basura espacial||S|tec|C1
+die Soll-Ist-Abweichung|desviación entre consigna y valor real||S|tec|C1
+der Paketverlust|pérdida de paquetes||S|tec|C1
+die Roaminggebühr|tarifa de itinerancia||S|tec|C1
+der Funkmast|antena de telefonía móvil||S|tec|C1
+die Generalisierungsfähigkeit|capacidad de generalización||S|tec|C1
+die Schlüssellänge|longitud de clave||S|tec|C1
+die Falschakzeptanzrate|tasa de falsa aceptación||S|tec|C1
+die Kartenprojektion|proyección cartográfica||S|sci|C1
+der Flächennutzungsplan|plan de usos del suelo||S|cit|C1

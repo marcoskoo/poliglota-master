@@ -1,0 +1,261 @@
+der Nachfahre|descendiente||S|fam|B2
+die Urenkelin|bisnieta||S|fam|B2
+die Patenschaft|apadrinamiento||S|fam|B2
+der Erbstreit|pleito de herencia||S|fam|B2
+der Familienclan|clan familiar||S|fam|B2
+der Nesthocker|poltrón ( que no se va de casa)||S|fam|B2
+die Krabbelgruppe|grupo de gateo||S|fam|B2
+die Lebensgefährtin|compañera de vida||S|rel|B2
+der Trotzkopf|cabeza dura ( niño rebelde)||S|fam|B2
+die Rabenmutter|madre desnaturalizada||S|fam|B2
+das Souterrain|semisótano||S|cas|B2
+die Souterrainwohnung|piso en semisótano||S|cas|B2
+die Mansarde|buhardilla||S|cas|B2
+der Lichtschacht|patio de luces||S|cas|B2
+der Vorgarten|jardín delantero||S|cas|B2
+die Laube|caseta de jardín||S|cas|B2
+der Carport|porche para coche||S|cas|B2
+der Stellplatz|plaza de aparcamiento||S|cas|B2
+die Zweitwohnung|segunda vivienda||S|cas|B2
+der Sanierungsstau|bolsa de reformas pendientes||S|cas|B2
+der Dämmstoff|material aislante||S|cas|B2
+die Heizkostenabrechnung|liquidación de gastos de calefacción||S|cas|B2
+der Stromzähler|contador de electricidad||S|cas|B2
+die Verbraucherzentrale|asociación de consumidores||S|cmp|B2
+die Küchenzeile|bloque de cocina en línea||S|cas|B2
+der Spitzboden|desván bajo techo||S|cas|B2
+der Schmand|crema agria espesa||S|ali|B2
+der Grünkohl|col rizada||S|ali|B2
+der Rosenkohl|colecito de Bruselas||S|ali|B2
+der Wirsing|col de Milán||S|ali|B2
+der Federweißer|vino nuevo turbio||S|ali|B2
+die Kelter|lagar||S|ali|B2
+der Trester|orujo||S|ali|B2
+der Grieß|sémola||S|ali|B2
+der Milchreis|arroz con leche||S|ali|B2
+das Spiegelei|huevo frito||S|ali|B2
+die Vorratskammer|despensa||S|cas|B2
+der Eisenmangel|carencia de hierro||S|sla|B2
+die Mangelernährung|desnutrición||S|sla|B2
+die Unterversorgung|carencia; déficit||S|sla|B2
+die Keuchhusten|tos ferina||S|sla|B2
+die Essattacke|ataque de atracón||S|sla|B2
+der Schlankheitswahn|obsesión con la delgadez||S|att|B2
+die Blutarmut|anemia||S|sla|B2
+der Hausbesuch|visita a domicilio||S|sla|B2
+der Kassenpatient|paciente del seguro público||S|sla|B2
+das Krankengeld|subsidio por enfermedad||S|sla|B2
+der Trödelmarkt|mercadillo de segunda mano||S|cmp|B2
+der Sonderposten|saldo||S|cmp|B2
+die Restposten|restos de stock||S|cmp|B2
+die Massenware|producto en serie||S|cmp|B2
+die Markenware|artículo de marca||S|cmp|B2
+das Markenbewusstsein|conciencia de marca||S|cmp|B2
+der Marktwert|valor de mercado||S|fin|B2
+der Aufschlag|recargo||S|cmp|B2
+der Gegenwert|contrapartida||S|fin|B2
+das Weihnachtsgeschäft|campaña de Navidad||S|cmp|B2
+der Geschenkgutschein|vale regalo||S|cmp|B2
+der Wunschzettel|lista de deseos||S|cmp|B2
+die Lieferanschrift|dirección de envío||S|cmp|B2
+die Beule|bulto; abolladura||S|tra|B2
+die Lackierung|lacado||S|tra|B2
+die Hauptuntersuchung|inspección técnica del vehículo||S|tra|B2
+die Rückrufaktion|campaña de retirada||S|tra|B2
+der Ersatzwagen|coche de sustitución||S|tra|B2
+die Schneeketten|cadenas de nieve||S|tra|B2
+der Geisterfahrer|conductor en contravía||S|tra|B2
+der Raser|conductor temerario||S|tra|B2
+der Falschparker|mal aparcado||S|tra|B2
+die Fahrerflucht|huida tras el accidente||S|tra|B2
+der Parkschein|resguardo de estacionamiento||S|tra|B2
+die Busspur|carril bus||S|tra|B2
+das Verkehrschaos|caos de tráfico||S|tra|B2
+das Verkehrsdelikt|infracción de tráfico||S|tra|B2
+der Bleifuß|pie de plomo||S|tra|B2
+das Glatteis|hielo en calzada||S|tra|B2
+der Schneematsch|nieve fundida sucia||S|cli|B2
+der Matsch|barro||S|cli|B2
+der Bahnübergang|paso a nivel||S|tra|B2
+die Weiche|agujas del tren||S|tra|B2
+die Verzollung|despacho de aduanas||S|vig|B2
+das Reisefieber|fiebre previa al viaje||S|vig|B2
+der Globetrotter|trotamundos||S|vig|B2
+die Herberge|albergue||S|htl|B2
+das Wohnmobil|autocaravana||S|vig|B2
+der Dienstweg|conducto oficial||S|ist|B2
+die Amtssprache|lengua oficial||S|ist|B2
+die Betriebsversammlung|asamblea de plantilla||S|lav|B2
+die Vertrauensarbeitszeit|jornada de confianza||S|lav|B2
+die Fließbandarbeit|trabajo en cadena||S|lav|B2
+die Akkordarbeit|trabajo a destajo||S|lav|B2
+die Federführung|dirección; liderazgo||S|lav|B2
+das Durchsetzungsvermögen|capacidad de imponerse||S|emo|B2
+die Eigeninitiative|iniciativa propia||S|lav|B2
+der Tatendrang|empuje por actuar||S|emo|B2
+die Auffassungsgabe|capacidad de comprensión||S|stu|B2
+der Tiefpunkt|momento más bajo||S|emo|B2
+der Kraftakt|esfuerzo mayúsculo||S|emo|B2
+die Lebensfreude|gusto por la vida||S|emo|B2
+die Antriebskraft|fuerza motriz||S|emo|B2
+das Pflichtbewusstsein|sentido del deber||S|lav|B2
+die Schmiererei|pintada; grafiti||S|cit|B2
+das Elendsviertel|barrio marginal||S|cit|B2
+die Notunterkunft|refugio de emergencia||S|cit|B2
+der Kiez|barrio popular||S|cit|B2
+der Aktionismus|activismo de gesto||S|att|B2
+die Zulassungsbeschränkung|restricción de acceso||S|stu|B2
+die Prüfungsangst|miedo a los exámenes||S|stu|B2
+das Selbststudium|estudio por cuenta propia||S|stu|B2
+der Lesesaal|sala de lectura||S|stu|B2
+das Referendariat|prácticas de funcionario||S|stu|B2
+der Leserbrief|carta al director||S|att|B2
+das Stimmungsbild|clima de opinión||S|att|B2
+die Auszählung|recuento||S|ist|B2
+die Wiederwahl|reelección||S|ist|B2
+die Abwahl|destitución por votación||S|ist|B2
+der Bürgerentscheid|referéndum local||S|ist|B2
+die Minderheitsregierung|gobierno en minoría||S|ist|B2
+der Stimmbruch|cambio de voz||S|mus|B2
+der Bücherwurm|rata de biblioteca||S|let|B2
+der Buchrücken|lomo del libro||S|let|B2
+der Wortlaut|tenor literal||S|let|B2
+der Schmöker|novela de evasión||S|let|B2
+die Farbenlehre|teoría del color||S|art|B2
+das Filmset|plató||S|cin|B2
+die Nachspielzeit|descuento; tiempo añadido||S|spt|B2
+der Anpfiff|pitido inicial||S|spt|B2
+das Kräftemessen|medida de fuerzas||S|spt|B2
+die Sportstätte|instalación deportiva||S|spt|B2
+der Tonsetzer|compositor||S|pro|B2
+die Spardose|hucha||S|fin|B2
+der Geizhals|roñoso||S|fin|B2
+der Winterspeck|rollitos de invierno||S|cor|B2
+der Glaser|vidriero||S|pro|B2
+der Küfer|tonelero||S|pro|B2
+der Tierpfleger|cuidador de animales||S|pro|B2
+der Flugbegleiter|auxiliar de vuelo||S|pro|B2
+die Futterstelle|comedero||S|ani|B2
+der Rummel|bullicio de feria||S|sve|B2
+das Festzelt|carpa de fiesta||S|sve|B2
+die Blaskapelle|banda de viento||S|mus|B2
+die Streiterei|pendencia||S|rel|B2
+der Wutausbruch|ataque de ira||S|emo|B2
+die Tracht|traje regional||S|rop|B2
+die Kleiderstange|perchero de barra||S|rop|B2
+der Kleiderbügel|percha||S|rop|B2
+anlässlich|con motivo de||R|cnn|B2
+mangels|por falta de||R|cnn|B2
+zwecks|a fin de||R|cnn|B2
+infolge|a consecuencia de||R|cnn|B2
+betreffend|referente a||R|cnn|B2
+im Vorfeld|con antelación||L|cnn|B2
+kurz und gut|en resumidas cuentas||L|cnn|B2
+derweil|mientras tanto||D|cnn|B2
+fortan|desde entonces||D|tmp|B2
+seither|de entonces acá||D|tmp|B2
+bei Weitem|con mucho||L|cnn|B2
+von Natur aus|por naturaleza||L|cnn|B2
+über Nacht|de la noche a la mañana||L|cnn|B2
+unter der Hand|por debajo del mantel||L|cnn|B2
+im Vertrauen|en confianza||L|cnn|B2
+hals über Kopf|a lo loco||L|cnn|B2
+aus dem Ruder laufen|irse de las manos||L|cnn|B2
+in Angriff nehmen|poner manos a la obra||L|lav|B2
+zur Seite stehen|apoyar; estar al lado||L|rel|B2
+ins Rollen bringen|poner en marcha||L|lav|B2
+zur Sprache kommen|salir a colación||L|cmu|B2
+in Betracht kommen|entrar en consideración||L|cnn|B2
+in Erwägung ziehen|sopesar||L|cnn|B2
+zur Kenntnis nehmen|tomar nota||L|cnn|B2
+ins Auge fassen|contemplar ( un proyecto)||L|cnn|B2
+unter die Lupe nehmen|examinar con lupa||L|cnn|B2
+auf die Probe stellen|poner a prueba||L|cnn|B2
+zur Schau stellen|exhibir; aparentar||L|cnn|B2
+das Wort ergreifen|tomar la palabra||L|cmu|B2
+ein Ende setzen|poner coto||L|cnn|B2
+über Wasser halten|mantener a flote||L|fin|B2
+über die Runden kommen|llegar a fin de mes||L|fin|B2
+auf dem Trockenen sitzen|estar sin blanca||L|fin|B2
+im Sande verlaufen|morir en el olvido||L|cnn|B2
+in den Sand setzen|hacer fracasar||L|cnn|B2
+auf Eis legen|aplazar; congelar||L|cnn|B2
+ausfindig machen|localizar||L|cnn|B2
+in Erfahrung bringen|averiguar||L|cnn|B2
+plagen|afligir||V|sla|B2
+beratschlagen|deliberar||V|cmu|B2
+durchwachsen|de todo un poco; irregular||A|ast|B2
+einläuten|inaugurar; anunciar||V|cnn|B2
+aufflackern|reavivarse; brotar de nuevo||V|cnn|B2
+erlahmen|amainar; perder fuerza||V|emo|B2
+ernten|cosechar; recibir a cambio||V|cnn|B2
+befremden|chiriar; extrañar||V|emo|B2
+befremdlich|extraño; desconcertante||A|emo|B2
+erbost|indignado||A|emo|B2
+ergründen|escudriñar||V|sci|B2
+ausloten|sondear||V|sci|B2
+ausmisten|limpiar a fondo; tirar lo viejo||V|cas|B2
+entrümpeln|vaciar trastos||V|cas|B2
+ausrangieren|retirar; dar de baja||V|cnn|B2
+verschrotten|chatarrizar||V|tra|B2
+ausbessern|reparar; remendar||V|cas|B2
+instandsetzen|reparar; poner a punto||V|cas|B2
+aufpolieren|rejuvenecer; abrillantar||V|cas|B2
+auffrischen|refrescar; repasar||V|stu|B2
+einüben|ensayar; practicar||V|stu|B2
+ankreuzen|marcar con una cruz||V|ist|B2
+ausfertigen|extender ( un documento)||V|ist|B2
+einfordern|reclamar con firmeza||V|cmu|B2
+anpöbeln|meterse con||V|cmu|B2
+aufspüren|dar con; rastrear||V|cnn|B2
+auskundschaften|sondear; averiguar||V|cnn|B2
+fortführen|proseguir||V|cnn|B2
+glitschig|resbaladizo||A|nat|B2
+strapazierfähig|resistente al uso||A|rop|B2
+langlebig|duradero||A|cmp|B2
+kurzlebig|efímero||A|nat|B2
+weitreichend|de amplio alcance||A|att|B2
+folgenreich|de graves consecuencias||A|att|B2
+wirkungslos|sin efecto||A|cnn|B2
+mühevoll|fatigoso||A|lav|B2
+kraftvoll|con brío||A|spt|B2
+ratlos|desconcertado||A|emo|B2
+fassungslos|consternado||A|emo|B2
+verblüfft|estupefacto||A|emo|B2
+verdutzt|despistado; desconcertado||A|emo|B2
+launisch|de humor variable||A|rel|B2
+streitsüchtig|pendenciero||A|rel|B2
+rechthaberisch|empeñado en tener razón||A|cmu|B2
+der Besserwisser|sabihondo||S|cmu|B2
+verschroben|estrafalario||A|art|B2
+freigiebig|desprendido||A|fin|B2
+genügsam|frugal||A|ali|B2
+maßvoll|con mesura||A|emo|B2
+unersättlich|insaciable||A|ali|B2
+flink|ligero de manos||A|nat|B2
+überstürzt|precipitado||A|cnn|B2
+voreilig|prematuro||A|cnn|B2
+erpicht|ávido de||A|emo|B2
+das Herzstück|corazón; pieza central||S|art|B2
+der Knackpunkt|quid de la cuestión||S|ast|B2
+der Zankapfel|manzana de la discordia||S|ast|B2
+der Streitpunkt|punto de fricción||S|ast|B2
+die Reibereien|roces; tiranteces||S|rel|B2
+die Schlammschlacht|campaña sucia||S|att|B2
+der Schlagabtausch|intercambio de golpes||S|cmu|B2
+der Aufreger|tema que indigna||S|att|B2
+das Geschwätz|cotilleo; charla vacía||S|cmu|B2
+der Kram|trastos||S|cas|B2
+die Plackerei|faena pesada||S|lav|B2
+der Fehlstart|salida en falso||S|ast|B2
+die Tränensäcke|bolsas bajo los ojos||S|cor|B2
+die Augenringe|ojeras||S|cor|B2
+die Mattigkeit|decaimiento||S|sla|B2
+die Kreislaufstörung|trastorno circulatorio||S|sla|B2
+das Herzrasen|palpitaciones||S|sla|B2
+die Gliederschmerzen|dolores musculares||S|sla|B2
+der Schüttelfrost|escalofrío febril||S|sla|B2
+die Blässe|palidez||S|cor|B2
+die Hornhaut|callo ( piel endurecida)||S|cor|B2
+das Fußpilz|pie de atleta||S|sla|B2
+das Seitenstechen|dolor de costado||S|spt|B2

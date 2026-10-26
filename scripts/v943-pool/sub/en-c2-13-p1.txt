@@ -1,0 +1,84 @@
+lochia|loquios||S|sla|C2
+kernicterus|kernícterus||S|sla|C2
+oligohydramnios|oligohidramnios||S|sla|C2
+galactagogue|galactógogo||S|sla|C2
+tocolysis|tocolisis||S|sla|C2
+shoulder dystocia|distocia de hombros||E|sla|C2
+uterine involution|involución uterina||E|sla|C2
+malunion|consolidación viciosa||S|sla|C2
+arthrodesis|artrodesis||S|sla|C2
+myofascial|miofascial||A|sla|C2
+antalgic gait|marcha antálgica||E|sla|C2
+osteotomy|osteotomía||S|sla|C2
+exoskeleton|exoesqueleto||S|sla|C2
+physiatrist|médico rehabilitador||S|pro|C2
+case-fatality rate|tasa de letalidad||E|sla|C2
+pharmacovigilance|farmacovigilancia||S|sla|C2
+infodemic|infodemia||S|sla|C2
+fomite|fómite||S|sla|C2
+smurfing|fraccionamiento de depósitos||S|fin|C2
+tax lien|embargo fiscal||E|fin|C2
+provisioning|dotación a provisiones||S|fin|C2
+amortization schedule|cuadro de amortización||E|fin|C2
+teaser rate|tipo inicial reducido||E|fin|C2
+bail-in|rescate interno||S|fin|C2
+enterprise value|valor de empresa||E|fin|C2
+stalking-horse offer|oferta señuelo||E|fin|C2
+price gouging|abuso de precios||E|fin|C2
+perverse incentive|incentivo perverso||E|fin|C2
+catastrophe bond|bono catástrofe||E|fin|C2
+untied aid|ayuda sin ataduras||E|fin|C2
+dependency theory|teoría de la dependencia||E|fin|C2
+resource curse|maldición de los recursos||E|fin|C2
+retention time|tiempo de retención||E|sci|C2
+matrix effect|efecto matriz||E|sci|C2
+supernatant|sobrenadante||S|sci|C2
+piezoelectricity|piezoelectricidad||S|sci|C2
+coercivity|coercitividad||S|sci|C2
+teleconnection|teleconexión||S|sci|C2
+emission inventory|inventario de emisiones||E|sci|C2
+proxy data|datos proxy||E|sci|C2
+index fossil|fósil guía||E|sci|C2
+hominin|homínino||S|sci|C2
+australopithecine|australopitecino||S|sci|C2
+diagenesis|diagénesis||S|sci|C2
+serotype|serotipo||S|sci|C2
+guide RNA|ARN guía||E|sci|C2
+off-target effect|efecto fuera de diana||E|sci|C2
+transgene|transgén||S|sci|C2
+reading frame|marco de lectura||E|sci|C2
+cortical thickness|grosor cortical||E|sci|C2
+electroencephalography|electroencefalografía||S|sci|C2
+event-related potential|potencial evocado||E|sci|C2
+resting-state network|red en estado de reposo||E|sci|C2
+aerogel|aerogel||S|sci|C2
+nanowire|nanohilo||S|sci|C2
+wettability|mojabilidad||S|sci|C2
+corrosion inhibitor|inhibidor de la corrosión||E|sci|C2
+interference pattern|figura de interferencia||E|sci|C2
+photonic crystal|cristal fotónico||E|sci|C2
+reverberation time|tiempo de reverberación||E|sci|C2
+beam splitter|divisor de haz||E|sci|C2
+refractive index|índice de refracción||E|sci|C2
+luminance|luminancia||S|sci|C2
+vortex shedding|desprendimiento de vórtices||E|sci|C2
+gazetteer|nomenclátor||S|sci|C2
+false color|falso color||E|sci|C2
+stichomythia|esticomitia||S|let|C2
+hemistich|hemistiquio||S|let|C2
+closet drama|drama de gabinete||E|let|C2
+masque|mascarada cortesana||S|let|C2
+hyperbaton|hipérbaton||S|let|C2
+polyptoton|políptoton||S|let|C2
+objective correlative|correlativo objetivo||E|let|C2
+elegiac couplet|dístico elegíaco||E|let|C2
+translation memory|memoria de traducción||E|let|C2
+synoptic|sinóptico||A|let|C2
+palinode|palinodia||S|let|C2
+obiter dicta|obiter dicta||L|let|C2
+utopianism|utopismo||S|let|C2
+heterotopia|heterotopía||S|let|C2
+novum|novum||S|let|C2
+reception studies|estudios de recepción||E|let|C2
+cento|centón||S|let|C2
+neoclassicism|neoclasicismo||S|art|C2

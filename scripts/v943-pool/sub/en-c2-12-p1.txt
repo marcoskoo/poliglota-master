@@ -1,0 +1,255 @@
+severability|separabilidad de cláusulas||S|ist|C2
+bailment|depósito de bienes||S|ist|C2
+unjust enrichment|enriquecimiento injusto||S|ist|C2
+privity of contract|relación contractual directa||S|ist|C2
+assignee|cesionario||S|ist|C2
+suretyship|fianza (aval)||S|ist|C2
+adverse possession|usucapión||S|ist|C2
+misappropriation|apropiación indebida||S|ist|C2
+anticipatory breach|incumplimiento anticipado||S|ist|C2
+earnest money|arras (señal de contrato)||S|ist|C2
+fee simple|plena propiedad||S|ist|C2
+life estate|usufructo vitalicio||S|ist|C2
+lessor|arrendador||S|ist|C2
+lessee|arrendatario||S|ist|C2
+chain of title|cadena de titularidad||S|ist|C2
+allocution|declaración previa a la sentencia||S|ist|C2
+peremptory challenge|recusación sin motivar||S|ist|C2
+nolo contendere|declaración de no discrepar los cargos||E|ist|C2
+actus reus|acto delictivo||S|ist|C2
+plea deal|pacto de confesión||S|ist|C2
+hearsay rule|regla contra el testimonio de oídas||S|ist|C2
+aggravating circumstance|circunstancia agravante||S|ist|C2
+extenuating circumstances|circunstancias atenuantes||S|ist|C2
+inculpatory|inculpatorio||A|ist|C2
+premeditation|premeditación||S|ist|C2
+penology|penología||S|ist|C2
+carceral|carcelario||A|ist|C2
+desistance|desistencia delictiva||S|ist|C2
+clearance rate|tasa de esclarecimiento||S|ist|C2
+diversion program|programa de medidas alternativas||S|ist|C2
+three strikes law|ley de tercera condena||S|ist|C2
+administrative segregation|aislamiento administrativo||S|ist|C2
+pretrial detention|prisión preventiva||S|ist|C2
+cash bail|fianza en efectivo||S|ist|C2
+stop and frisk|registro preventivo||E|ist|C2
+predictive policing|policía predictiva||S|ist|C2
+trace evidence|indicios traza||S|ist|C2
+toxicology screen|análisis toxicológico||S|ist|C2
+criminal profiling|elaboración de perfiles criminales||S|ist|C2
+ex parte|sin audiencia de la otra parte||E|ist|C2
+in camera|en sesión secreta||E|ist|C2
+obiter dictum|obiter dictum (dicho de paso)||S|ist|C2
+vacatur|anulación de la sentencia||S|ist|C2
+interlocutory appeal|recurso incidental||S|ist|C2
+collateral estoppel|preclusión colateral||S|ist|C2
+ripeness|maturez procesal||S|ist|C2
+mootness|academicidad de la cuestión||S|ist|C2
+safe harbor|puerto seguro (excepción legal)||S|ist|C2
+abuse of discretion|abuso discrecional||S|ist|C2
+res judicata|cosa juzgada||S|ist|C2
+res ipsa loquitur|la cosa habla por sí misma||E|ist|C2
+sub judice|sub judice (sometido a juicio)||E|ist|C2
+self-incrimination|autoincriminación||S|ist|C2
+qualified immunity|inmunidad cualificada||S|ist|C2
+erga omnes|erga omnes (frente a todos)||E|ist|C2
+peremptory norm|norma imperativa||S|ist|C2
+forum shopping|elección de foro favorable||S|ist|C2
+advisory opinion|opinión consultiva||S|ist|C2
+soft law|derecho blando||S|ist|C2
+crime of aggression|crimen de agresión||S|ist|C2
+proportionality|proporcionalidad (principio jurídico)||S|ist|C2
+selective incorporation|incorporación selectiva||S|ist|C2
+intermediate scrutiny|escrutinio intermedio||S|ist|C2
+federal preemption|preeminencia federal||S|ist|C2
+commerce clause|cláusula de comercio||S|ist|C2
+ex post facto law|ley retroactiva||S|ist|C2
+line-item veto|veto parcial||S|ist|C2
+recall election|elección revocatoria||S|ist|C2
+superdelegate|superdelegado||S|ist|C2
+grandfather clause|cláusula de excepción heredada||S|ist|C2
+interstate compact|acuerdo interestatal||S|ist|C2
+quo warranto|quo warranto (investigación del título de un cargo)||S|ist|C2
+business judgment rule|regla del criterio empresarial||S|ist|C2
+derivative suit|demanda derivada de socios||S|ist|C2
+golden handcuffs|esposas doradas (retención ejecutiva)||S|lav|C2
+squeeze-out|exclusión forzosa de minoritarios||S|ist|C2
+sectoral agreement|acuerdo sectorial||S|lav|C2
+strikebreaker|esquirol (rompehuelgas)||S|lav|C2
+union density|densidad sindical||S|lav|C2
+unfair labor practice|práctica laboral desleal||S|lav|C2
+constructive discharge|dimisión forzada||S|lav|C2
+discount window|ventanilla de descuento||S|fin|C2
+federal funds rate|tipo de interés de los fondos federales||S|fin|C2
+inverted yield curve|curva de rendimientos invertida||S|fin|C2
+repo market|mercado de repos||S|fin|C2
+fiat currency|moneda fiduciaria||S|fin|C2
+legal tender|curso legal||S|fin|C2
+wage-price spiral|espiral precios-salarios||S|fin|C2
+aggregate demand|demanda agregada||S|fin|C2
+aggregate supply|oferta agregada||S|fin|C2
+automatic stabilizers|estabilizadores automáticos||S|fin|C2
+Ricardian equivalence|equivalencia ricardiana||S|fin|C2
+flight to quality|huida hacia la calidad||S|fin|C2
+carry trade|aprovechamiento del diferencial de tipos||S|fin|C2
+currency peg|paridad fija de divisas||S|fin|C2
+competitive devaluation|devaluación competitiva||S|fin|C2
+capital controls|controles de capitales||S|fin|C2
+hot money|dinero especulativo volátil||S|fin|C2
+managed float|flotación gestionada||S|fin|C2
+currency war|guerra de divisas||S|fin|C2
+dollarization|dolarización||S|fin|C2
+real exchange rate|tipo de cambio real||S|fin|C2
+technical recession|recesión técnica||S|fin|C2
+hard landing|aterrizaje brusco||S|fin|C2
+participation rate|tasa de actividad||S|fin|C2
+nonfarm payrolls|empleo no agrícola||S|fin|C2
+jobless claims|solicitudes de prestación por desempleo||S|fin|C2
+structural unemployment|desempleo estructural||S|fin|C2
+frictional unemployment|desempleo friccional||S|fin|C2
+rational expectations|expectativas racionales||S|fin|C2
+adaptive expectations|expectativas adaptativas||S|fin|C2
+forward guidance|guía prospectiva de política||S|fin|C2
+inflation targeting|objetivo de inflación||S|fin|C2
+dual mandate|doble mandato||S|fin|C2
+capital adequacy|suficiencia de capital||S|fin|C2
+shadow banking|banca en la sombra||S|fin|C2
+quantitative tightening|endurecimiento cuantitativo||S|fin|C2
+most favored nation clause|cláusula de nación más favorecida||S|fin|C2
+antidumping duties|derechos antidumping||S|fin|C2
+trade remedy|medida de defensa comercial||S|fin|C2
+dispute settlement|solución de diferencias||S|fin|C2
+appellate body|órgano de apelación||S|fin|C2
+export control|control de exportaciones||S|fin|C2
+dual-use technology|tecnología de doble uso||S|fin|C2
+free trade zone|zona franca||S|fin|C2
+bonded warehouse|depósito aduanero||S|fin|C2
+letter of credit|carta de crédito documentaria||S|fin|C2
+nearshoring|relocalización en país cercano||S|fin|C2
+autarky|autarquía económica||S|fin|C2
+general ledger|libro mayor||S|fin|C2
+journal entry|asiento contable||S|fin|C2
+accounts receivable|cuentas a cobrar||S|fin|C2
+accounts payable|cuentas a pagar||S|fin|C2
+straight-line depreciation|amortización lineal||S|fin|C2
+intangible asset|activo intangible||S|fin|C2
+deferred tax|impuesto diferido||S|fin|C2
+material weakness|debilidad material de control||S|fin|C2
+restatement|reformulación de cuentas||S|fin|C2
+cook the books|falsear las cuentas||E|fin|C2
+window dressing|maquillaje de resultados||S|fin|C2
+qualified opinion|informe con salvedades||S|fin|C2
+mezzanine financing|financiación subordinada||S|fin|C2
+bridge loan|préstamo puente||S|fin|C2
+commercial paper|papel comercial||S|fin|C2
+interest rate swap|permuta de tipos de interés||S|fin|C2
+long position|posición larga||S|fin|C2
+short position|posición corta||S|fin|C2
+statistical arbitrage|arbitraje estadístico||S|fin|C2
+high-frequency trading|negociación de alta frecuencia||S|fin|C2
+dark pool|mercado alternativo de negociación||S|fin|C2
+order book|libro de órdenes||S|fin|C2
+bid-ask spread|horquilla comprador-vendedor||S|fin|C2
+expected shortfall|pérdida esperada extrema||S|fin|C2
+black swan event|evento cisne negro||S|fin|C2
+rehypothecation|rehipotecación de colaterales||S|fin|C2
+delta hedging|cobertura delta||S|fin|C2
+dynamic hedging|cobertura dinámica||S|fin|C2
+spot price|precio al contado||S|fin|C2
+backwardation|backwardation||S|fin|C2
+basis risk|riesgo de base||S|fin|C2
+convexity|convexidad||S|fin|C2
+yield to maturity|rendimiento hasta el vencimiento||S|fin|C2
+zero-coupon bond|bono cupón cero||S|fin|C2
+distressed debt|deuda en dificultades||S|fin|C2
+credit spread|diferencial de crédito||S|fin|C2
+recovery rate|tasa de recuperación||S|fin|C2
+pump and dump|esquema de bombeo y vaciado||E|fin|C2
+market manipulation|manipulación de mercado||S|fin|C2
+front-running|adelanto a la orden del cliente||S|fin|C2
+credit rating agency|agencia de calificación crediticia||S|fin|C2
+yield farming|recolección de rendimientos||S|fin|C2
+rug pull|estafa de fuga con criptoactivos||S|fin|C2
+hash rate|tasa de hash||S|fin|C2
+halving|reducción a la mitad de la recompensa||S|fin|C2
+payment rails|canales de pago||S|fin|C2
+neobank|neobanco||S|fin|C2
+economies of scope|economías de alcance||S|fin|C2
+span of control|tramo de control||S|lav|C2
+scope creep|desviación del alcance||S|lav|C2
+critical path|camino crítico||S|lav|C2
+diffusion of responsibility|difusión de la responsabilidad||S|lav|C2
+moonshot|proyecto de gran ambición||S|lav|C2
+personality inventory|inventario de personalidad||S|lav|C2
+organizational justice|justicia organizacional||S|lav|C2
+glass cliff|acantilado de cristal||S|lav|C2
+backward design|diseño inverso||S|stu|C2
+discovery learning|aprendizaje por descubrimiento||S|stu|C2
+interleaving|práctica intercalada||S|stu|C2
+dyscalculia|discalculia||S|stu|C2
+social promotion|promoción automática de curso||S|stu|C2
+achievement gap|brecha de rendimiento educativo||S|stu|C2
+grade retention|repetición de curso||S|stu|C2
+consanguinity|consanguinidad||S|fam|C2
+prenuptial agreement|acuerdo prematrimonial||S|fam|C2
+visitation rights|derecho de visitas||S|fam|C2
+assortative mating|apareamiento selectivo||S|fam|C2
+hypergamy|hipergamia||S|fam|C2
+serial monogamy|monogamia en serie||S|fam|C2
+geriatrics|geriatría||S|sla|C2
+esplanade|paseo marítimo||S|cit|C2
+pergola|pérgola||S|cit|C2
+rotunda|rotonda (edificio circular)||S|cit|C2
+apse|ábside||S|art|C2
+chancel|presbiterio||S|art|C2
+baptistery|bautisterio||S|art|C2
+cupola|cúpula pequeña||S|art|C2
+tracery|tracería calada||S|art|C2
+crenellation|almenado||S|art|C2
+machicolation|matacán||S|art|C2
+ribbed vault|bóveda de crucería||S|art|C2
+infill development|desarrollo en parcela vacante||S|cit|C2
+racking|trasiego del vino||S|ris|C2
+disgorgement|degüello (del cava)||S|ris|C2
+blind tasting|cata a ciegas||S|ris|C2
+emulsification|emulsionado||S|ris|C2
+watchdog journalism|periodismo de vigilancia||S|att|C2
+native advertising|publicidad nativa||S|att|C2
+dark money|dinero oscuro||S|att|C2
+opposition research|investigación de oponentes||S|att|C2
+on background|extraoficialmente (atribución limitada)||E|att|C2
+dateline|datación y lugar de la información||S|att|C2
+lede|entrante periodístico||S|att|C2
+kicker|remate periodístico||S|att|C2
+nut graf|párrafo de contexto||S|att|C2
+inverted pyramid|pirámide invertida||S|att|C2
+prior restraint|censura previa||S|att|C2
+actual malice|mala fe real||S|att|C2
+stringer|colaborador freelance||S|pro|C2
+fixer|auxiliar local de producción periodística||S|pro|C2
+embedded journalism|periodismo integrado||S|att|C2
+media literacy|alfabetización mediática||S|att|C2
+hegemon|potencia hegemónica||S|att|C2
+puppet regime|régimen títere||S|att|C2
+regime change|cambio de régimen||S|att|C2
+coercive diplomacy|diplomacia coercitiva||S|att|C2
+gunboat diplomacy|diplomacia de cañonero||S|att|C2
+revanchism|revanchismo||S|att|C2
+isolationism|aislacionismo||S|att|C2
+protectorate|protectorado||S|att|C2
+humanitarian intervention|intervención humanitaria||S|att|C2
+responsibility to protect|responsabilidad de proteger||S|att|C2
+rogue state|Estado canalla||S|att|C2
+diktat|diktat (imposición inaceptable)||S|att|C2
+despotism|despotismo||S|ist|C2
+partisanship|partidismo||S|ist|C2
+pork-barrel spending|gasto clientelar||S|ist|C2
+logrolling|trueque de votos||S|ist|C2
+earmark|asignación finalista||S|ist|C2
+illiberal democracy|democracia iliberal||S|ist|C2
+constitutionalism|constitucionalismo||S|ist|C2
+judicial independence|independencia judicial||S|ist|C2
+evidence-based policy|política basada en la evidencia||S|ist|C2
+public goods|bienes públicos||S|fin|C2
+externalities|externalidades||S|fin|C2
+tragedy of the commons|tragedia de los bienes comunes||S|ist|C2

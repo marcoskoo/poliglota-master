@@ -1,0 +1,77 @@
+das Verlöbnis|pedida; compromiso||S|fam|B2
+das Eheversprechen|promesa de matrimonio||S|fam|B2
+die Trauung|ceremonia ( civil o religiosa)||S|fam|B2
+die Hochzeitsgesellschaft|comitiva nupcial||S|fam|B2
+die Festrede|discurso de gala||S|sve|B2
+der Treuebruch|ruptura de fidelidad||S|rel|B2
+die Hackordnung|jerarquía establecida||S|lav|B2
+die Beziehungskrise|crisis de pareja||S|rel|B2
+die Fernbeziehung|relación a distancia||S|rel|B2
+der Kräutergarten|huerto de hierbas||S|cas|B2
+die Wildkräuter|hierbas silvestres||S|nat|B2
+der Bienenstock|colmena||S|ani|B2
+die Imkerei|apicultura||S|nat|B2
+die Vogelbeobachtung|observación de aves||S|nat|B2
+die Pilzsuche|búsqueda de setas||S|nat|B2
+der Streichelzoo|granja de animales para acariciar||S|ani|B2
+die Arzthelferin|asistente médica||S|pro|B2
+die Patientenverfügung|testamento vital||S|ist|B2
+die Organspende|donación de órganos||S|sla|B2
+die Blutspende|donación de sangre||S|sla|B2
+das Gesundheitswesen|sistema sanitario||S|sla|B2
+die Gesundheitsreform|reforma sanitaria||S|att|B2
+der Hexenschuss|lumbago||S|sla|B2
+die Fehlhaltung|mala postura||S|cor|B2
+das Konjunkturprogramm|programa de estímulo||S|fin|B2
+die Anschubfinanzierung|financiación inicial||S|fin|B2
+das Startkapital|capital inicial||S|fin|B2
+die Existenzgründung|creación de empresa||S|lav|B2
+der Familienbetrieb|empresa familiar||S|lav|B2
+die Schreinerei|carpintería||S|pro|B2
+der Lehrling|aprendiz||S|lav|B2
+der Gesellenbrief|carta de oficial||S|stu|B2
+der Koalitionsvertrag|acuerdo de coalición||S|att|B2
+der Kanzlerkandidat|candidato a canciller||S|att|B2
+der Spitzenkandidat|candidato principal||S|att|B2
+die Sperrklausel|cláusula de barrera||S|ist|B2
+die Zweitstimme|segundo voto||S|ist|B2
+der Wahlkreis|circunscripción||S|ist|B2
+das Wahlplakat|cartel electoral||S|ist|B2
+das Gedankenexperiment|experimento mental||S|sci|B2
+die Denkweise|manera de pensar||S|sci|B2
+der Gedankengang|hilo de razonamiento||S|sci|B2
+die Hirnforschung|investigación cerebral||S|sci|B2
+die Langzeitstudie|estudio longitudinal||S|sci|B2
+die Feldstudie|estudio de campo||S|sci|B2
+das Kulturleben|vida cultural||S|art|B2
+die Kulturschaffenden|creadores||S|art|B2
+die Literaturverfilmung|adaptación literaria||S|cin|B2
+der Antiheld|antihéroe||S|let|B2
+die Nebenfigur|personaje secundario||S|let|B2
+die Choreografie|coreografía||S|mus|B2
+die Anlageberatung|asesoría de inversión||S|fin|B2
+die Kontoführung|gestión de la cuenta||S|fin|B2
+der Dispokredit|descubierto||S|fin|B2
+die Lastschrift|domiciliación bancaria||S|fin|B2
+der Dauerauftrag|orden permanente||S|fin|B2
+die Küchenwaage|báscula de cocina||S|cas|B2
+die Vorbehalte|reticencias||S|cmu|B2
+wertschätzen|valorar; apreciar||V|cmu|B2
+heraufbeschwören|conjurar; desatar||V|cnn|B2
+heraufziehen|avecínarse amenazante||V|cli|B2
+einlenken|ceder; dar el brazo a torcer||V|cmu|B2
+umdenken|repensar; cambiar de enfoque||V|cnn|B2
+aufarbeiten|procesar; reelaborar||V|emo|B2
+verwinden|superar; asimilar||V|emo|B2
+ausmerzen|descartar; eliminar||V|cnn|B2
+ausräumen|despejar; retirar||V|cmu|B2
+entkräften|refutar||V|cmu|B2
+untermauern|respaldar con datos||V|cmu|B2
+konstatieren|constatar||V|cmu|B2
+bilanzieren|hacer balance||V|fin|B2
+resümieren|resumir||V|stu|B2
+skizzieren|esbozar||V|art|B2
+umschreiben|parafrasear; reformular||V|let|B2
+ausformulieren|redactar por extenso||V|stu|B2
+erahnen|entrever||V|emo|B2
+wittern|olfatear; presentir||V|emo|B2

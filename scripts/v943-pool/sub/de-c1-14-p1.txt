@@ -1,0 +1,105 @@
+die Schadensersatzpflicht|obligación de indemnizar daños y perjuicios||S|ist|C1
+der Erfüllungsort|lugar de cumplimiento de la obligación||S|ist|C1
+die Strafaussetzung zur Bewährung|condena en suspenso||L|ist|C1
+der Prozessvergleich|transacción judicial||S|ist|C1
+die Pfändung|embargo||S|ist|C1
+der Tatverdacht|sospecha delictiva||S|ist|C1
+die Durchsuchungsanordnung|orden de registro||S|ist|C1
+der Untersuchungsausschuss|comisión de investigación parlamentaria||S|ist|C1
+die Hehlerei|receptación||S|ist|C1
+der Maßregelvollzug|ejecución de medidas de seguridad||S|ist|C1
+die Urteilsabsprache|pacto sobre la sentencia||S|ist|C1
+der Grundrechtsverstoß|vulneración de derechos fundamentales||S|ist|C1
+die Kompetenzabgrenzung|delimitación de competencias||S|ist|C1
+der Ältestenrat|junta de portavoces||S|ist|C1
+das Eilverfahren|procedimiento de urgencia||S|ist|C1
+der Verfassungsbruch|quebrantamiento de la constitución||S|ist|C1
+die Volksgesetzgebung|legislación popular directa||S|ist|C1
+die Föderalismusreform|reforma del federalismo||S|ist|C1
+die Kommunalabgabe|tributo municipal||S|ist|C1
+die Nebenbestimmung|condición accesoria del acto administrativo||S|ist|C1
+das Rechtsschutzbedürfnis|interés procesal||S|ist|C1
+die Auflassungsvormerkung|anotación de transmisión futura||S|ist|C1
+der Nachlassverwalter|administrador de la herencia||S|ist|C1
+das Völkervertragsrecht|derecho de los tratados||S|ist|C1
+die Einrede|excepción procesal||S|ist|C1
+die Staatenimmunität|inmunidad de Estado||S|ist|C1
+die Vorstandssitzung|sesión del consejo de dirección||S|ist|C1
+der Formwechsel|cambio de forma societaria||S|ist|C1
+die Kapitalherabsetzung|reducción de capital||S|fin|C1
+das Bezugsrecht|derecho de suscripción preferente||S|fin|C1
+der Squeeze-out|exclusión de socios minoritarios||S|fin|C1
+die Unternehmensnachfolge|sucesión empresarial||S|fin|C1
+der Gewährleistungsausschluss|exclusión de garantía||S|ist|C1
+der Flächentarifvertrag|convenio sectorial||S|lav|C1
+die Dienstvereinbarung|acuerdo de empresa||S|lav|C1
+die Kriminalsoziologie|sociología criminal||S|ast|C1
+die Kriminalstatistik|estadística criminal||S|ast|C1
+die Tatbegehung|comisión del hecho delictivo||S|ist|C1
+die Rückfallhäufigkeit|tasa de reincidencia||S|ist|C1
+die Gefährlichkeitsprognose|predicción de peligrosidad||S|ist|C1
+die Viktimologie|victimología||S|ast|C1
+die Dunkelfeldforschung|estudio de la cifra oculta del delito||S|ast|C1
+das Asservat|pieza de convicción||S|ist|C1
+die Schmiergeldzahlung|pago de sobornos||S|fin|C1
+die Vorteilsannahme|aceptación de dádivas||S|ist|C1
+der Stimmenkauf|compra de votos||S|ist|C1
+das Amtsgeheimnis|secreto de oficio||S|ist|C1
+die Glaubhaftmachung|verosimilitud probatoria||S|ist|C1
+die Umsatzsteuervoranmeldung|autoliquidación del IVA||S|fin|C1
+der Vorsteuerabzug|deducción del IVA soportado||S|fin|C1
+der Grenzsteuersatz|tipo impositivo marginal||S|fin|C1
+die Palpation|palpación||S|sla|C1
+die Dosisanpassung|ajuste de dosis||S|sla|C1
+die Verumgruppe|grupo experimental||S|sla|C1
+die Verblindung|enmascaramiento del ensayo||S|sla|C1
+die Studienpopulation|población del estudio||S|sla|C1
+der Arzneistoff|principio activo||S|sla|C1
+die Entzugserscheinung|síntoma de abstinencia||S|sla|C1
+der Verfolgungswahn|delirio de persecución||S|sla|C1
+die Affektlage|estado afectivo||S|sla|C1
+der Mutismus|mutismo||S|sla|C1
+die Logorrhoe|logorrea||S|sla|C1
+die Agoraphobie|agorafobia||S|sla|C1
+der Aufklärungsbogen|documento de consentimiento informado||S|sla|C1
+die Behandlungsverweigerung|negativa a tratamiento||S|sla|C1
+die Organspendebereitschaft|disposición a la donación de órganos||S|sla|C1
+die Färbung|tinción histológica||S|sla|C1
+die Atypie|atipia celular||S|sla|C1
+die Metaplasie|metaplasia||S|sla|C1
+die Dysplasie|displasia||S|sla|C1
+die Apoptose|apoptosis||S|sla|C1
+die Fibrose|fibrosis||S|sla|C1
+die Sklerose|esclerosis||S|sla|C1
+die Ulzeration|ulceración||S|sla|C1
+die Karzinogenese|carcinogénesis||S|sla|C1
+die Tumorklassifikation|clasificación tumoral||S|sla|C1
+der Resektionsrand|margen de resección||S|sla|C1
+die Befundung|emisión de informes clínicos||S|sla|C1
+die Malignität|malignidad||S|sla|C1
+die Dignität|dignidad tumoral||S|sla|C1
+die Koronarstenose|estenosis coronaria||S|sla|C1
+das Herzkranzgefäß|arteria coronaria||S|cor|C1
+die Herzklappeninsuffizienz|insuficiencia valvular||S|sla|C1
+das Kammerflimmern|fibrilación ventricular||S|sla|C1
+die Atemwegsobstruktion|obstrucción de las vías respiratorias||S|sla|C1
+die künstliche Beatmung|ventilación mecánica||L|sla|C1
+die Blutzuckereinstellung|control glucémico||S|sla|C1
+der Chemotherapiezyklus|ciclo de quimioterapia||S|sla|C1
+das Tumorboard|comité tumoral||S|sla|C1
+die Symptomlinderung|alivio sintomático||S|sla|C1
+die Dysarthrie|disartria||S|sla|C1
+die Halbseitenlähmung|hemiplejia||S|sla|C1
+die Multiple Sklerose|esclerosis múltiple||L|sla|C1
+die Elektroenzephalografie|electroencefalografía||S|sla|C1
+die Reflexprüfung|exploración de reflejos||S|sla|C1
+die Fruchtwasseruntersuchung|amniocentesis||S|sla|C1
+die Frühgeburtlichkeit|prematuridad||S|sla|C1
+die Fehlbildung|malformación||S|sla|C1
+der Marknagel|clavo intramedular||S|sla|C1
+die Gelenkversteifung|artrodesis||S|sla|C1
+das Instrumentarium|instrumental quirúrgico||S|sla|C1
+der Haken|separador quirúrgico||S|sla|C1
+die Blutstillung|hemostasia||S|sla|C1
+die Pflegestufe|grado de dependencia||S|sla|C1
+das Pflegegeld|prestación por cuidado||S|sla|C1

@@ -1,0 +1,70 @@
+crosstab|tabla cruzada||S|sci|C2
+jus in bello|ius in bello||L|ist|C2
+rules of engagement|reglas de enfrentamiento||E|ist|C2
+hybrid warfare|guerra híbrida||E|ist|C2
+warlord|señor de la guerra||S|ist|C2
+accession treaty|tratado de adhesión||E|ist|C2
+convening power|capacidad de convocatoria||E|ist|C2
+derogation|derogación||S|ist|C2
+interregnum|interregno||S|ist|C2
+means testing|comprobación de recursos||E|ist|C2
+contributory pension|pensión contributiva||E|ist|C2
+intergenerational equity|equidad intergeneracional||E|ist|C2
+path dependency|dependencia de la senda||S|ist|C2
+retrenchment|recorte del Estado de bienestar||S|ist|C2
+activation policy|política de activación||E|ist|C2
+take-up rate|tasa de cobertura efectiva||E|ist|C2
+police crackdown|represión policial||E|att|C2
+kettling|acordonamiento policial||S|att|C2
+revolving door|puerta giratoria||E|ist|C2
+bid-rigging|colusión en licitaciones||S|fin|C2
+push-pull factor|factor de expulsión y atracción||E|sci|C2
+pronatalist|pronatalista||A|att|C2
+nimbus|nimbo||S|art|C2
+hieratic|hierático||A|art|C2
+gilt|dorado||S|art|C2
+ormolu|ormolú||S|art|C2
+cabriole leg|pata cabriola||E|art|C2
+silver gelatin print|copia a la gelatina de plata||E|art|C2
+photogram|fotograma sin cámara||S|art|C2
+encaustic|pintura encáustica||S|art|C2
+triforium|triforio||S|art|C2
+ribbed vault|bóveda de crucería||E|art|C2
+spandrel|albanega||S|art|C2
+rustication|rusticación||S|art|C2
+out-of-order execution|ejecución fuera de orden||E|tec|C2
+clock gating|desactivación del reloj||E|tec|C2
+data wrangling|depuración de datos||E|tec|C2
+stream processing|procesamiento en flujo||E|tec|C2
+hard fork|bifurcación dura||E|tec|C2
+smart meter|contador inteligente||E|tec|C2
+level design|diseño de niveles||E|tec|C2
+ray tracing|trazado de rayos||E|tec|C2
+liquefaction|licuefacción del suelo||S|nat|C2
+strike-slip fault|falla de desgarre||E|nat|C2
+phreatic eruption|erupción freática||E|nat|C2
+scoria|escoria volcánica||S|nat|C2
+macroinvertebrate|macroinvertebrado||S|ani|C2
+vernal pool|charca temporal||E|nat|C2
+no-till farming|no laboreo||E|nat|C2
+intercropping|cultivo asociado||S|nat|C2
+stock assessment|evaluación de stocks||E|ani|C2
+breeding stock|ganado de cría||E|ani|C2
+pastoralism|pastoralismo||S|ani|C2
+smokejumper|paracaidista forestal||S|pro|C2
+forest stand|rodal forestal||E|nat|C2
+coppicing|desmoche||S|nat|C2
+deposit-return scheme|sistema de depósito y retorno||E|nat|C2
+indomitable|indomable||A|ast|C2
+obstreperous|bronco y alborotador||A|ast|C2
+fractious|irritable e indisciplinado||A|ast|C2
+interpolate|intercalar||V|cmu|C2
+controvert|rebatir||V|cmu|C2
+traduce|calumniar||V|cmu|C2
+imbrication|imbricación||S|ast|C2
+facticity|facticidad||S|ast|C2
+interiority|interioridad||S|ast|C2
+corporeality|corporeidad||S|ast|C2
+paltering|engaño con verdades a medias||S|ast|C2
+confabulation|confabulación||S|sci|C2
+uncorroborated|sin corroborar||A|ast|C2

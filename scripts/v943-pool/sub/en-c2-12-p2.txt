@@ -1,0 +1,235 @@
+central line|vía central||S|sla|C2
+arterial line|vía arterial||S|sla|C2
+chest tube|drenaje torácico||S|sla|C2
+contrast agent|contraste radiológico||S|sla|C2
+ostomy|ostomía||S|sla|C2
+surgical flap|colgajo quirúrgico||S|sla|C2
+resect|reseccionar||V|sla|C2
+needle driver|portaagujas||S|sla|C2
+curette|cureta (legra)||S|sla|C2
+rongeur|gubia quirúrgica||S|sla|C2
+trephine|trépano||S|sla|C2
+external fixator|fijador externo||S|sla|C2
+craniotomy|craneotomía||S|sla|C2
+laparoscopy|laparoscopia||S|sla|C2
+anastomosis|anastomosis (unión quirúrgica)||S|sla|C2
+surgical drain|drenaje quirúrgico||S|sla|C2
+tracheostomy|traqueotomía||S|sla|C2
+endotracheal tube|tubo endotraqueal||S|sla|C2
+capnography|capnografía||S|sla|C2
+infusion pump|bomba de infusión||S|sla|C2
+auscultate|auscultar||V|sla|C2
+palpate|palpar (en exploración)||V|sla|C2
+otoscope|otoscopio||S|sla|C2
+defibrillate|desfibrilar||V|sla|C2
+readmission|reingreso hospitalario||S|sla|C2
+nosocomial infection|infección nosocomial||S|sla|C2
+antimicrobial stewardship|buen uso de antimicrobianos||S|sla|C2
+mechanical ventilation|ventilación mecánica||S|sla|C2
+spinal block|anestesia raquídea||S|sla|C2
+prodrug|profármaco||S|sla|C2
+competitive antagonist|antagonista competitivo||S|sla|C2
+randomization|aleatorización||S|sci|C2
+intention-to-treat analysis|análisis por intención de tratar||S|sci|C2
+orphan drug|medicamento huérfano||S|sla|C2
+contraindicated|contraindicado||A|sla|C2
+idiosyncratic reaction|reacción idiosincrásica||S|sla|C2
+adrenaline auto-injector|autoinyector de adrenalina||S|sla|C2
+human subjects|sujetos de investigación||S|sci|C2
+good clinical practice|buena práctica clínica||S|sci|C2
+ghost authorship|autoría encubierta||S|sci|C2
+vulnerable populations|poblaciones vulnerables||S|sla|C2
+biosimilar|biosimilar||S|sla|C2
+biologic|medicamento biológico||S|sla|C2
+nosology|nosología||S|sla|C2
+flat affect|afecto plano||S|sla|C2
+blunted affect|afecto embotado||S|sla|C2
+persecutory delusion|delirio persecutorio||S|sla|C2
+flight of ideas|fuga de ideas||S|sla|C2
+pressured speech|habla apresurada||S|sla|C2
+word salad|ensalada de palabras||S|sla|C2
+cyclothymia|ciclotimia||S|sla|C2
+rapid cycling|ciclado rápido||S|sla|C2
+psychotic break|brote psicótico||S|sla|C2
+negative symptoms|síntomas negativos||S|sla|C2
+depersonalization|despersonalización||S|sla|C2
+derealization|desrealización||S|sla|C2
+factitious disorder|trastorno facticio||S|sla|C2
+malingering|simulación de enfermedad||S|sla|C2
+callous-unemotional traits|rasgos fríos y carentes de empatía||S|sla|C2
+attachment style|estilo de apego||S|sla|C2
+insecure attachment|apego inseguro||S|sla|C2
+reaction formation|formación reactiva||S|sla|C2
+behavioral activation|activación conductual||S|sla|C2
+cognitive restructuring|reestructuración cognitiva||S|sla|C2
+treatment-resistant depression|depresión resistente al tratamiento||S|sla|C2
+vagus nerve stimulation|estimulación del nervio vago||S|sla|C2
+mood stabilizer|estabilizador del ánimo||S|sla|C2
+confabulation|confabulación||S|sla|C2
+prosopagnosia|prosopagnosia||S|sla|C2
+agnosia|agnosia||S|sla|C2
+dissociative amnesia|amnesia disociativa||S|sla|C2
+principlism|principialismo||S|sla|C2
+commodification of the body|comodificación del cuerpo||S|sla|C2
+organ trafficking|tráfico de órganos||S|sla|C2
+preimplantation genetic testing|diagnóstico genético preimplantacional||S|sla|C2
+germline editing|edición de la línea germinal||S|sla|C2
+human enhancement|mejora humana||S|sla|C2
+life-sustaining treatment|tratamiento de soporte vital||S|sla|C2
+resource allocation|asignación de recursos||S|sla|C2
+double effect|doble efecto||S|sla|C2
+conscientious objection|objeción de conciencia||S|sla|C2
+research ethics|ética de la investigación||S|sla|C2
+physician-assisted dying|muerte médicamente asistida||S|sla|C2
+vasoconstriction|vasoconstricción||S|sla|C2
+vasodilation|vasodilatación||S|sla|C2
+endothelium|endotelio||S|sla|C2
+aortic dissection|disección aórtica||S|sla|C2
+cardiomyopathy|miocardiopatía||S|sla|C2
+pericardium|pericardio||S|sla|C2
+myocardium|miocardio||S|sla|C2
+cardiac output|gasto cardiaco||S|sla|C2
+diastole|diástole||S|sla|C2
+systole|sístole||S|sla|C2
+deep vein thrombosis|trombosis venosa profunda||S|sla|C2
+plethysmography|pletismografía||S|sla|C2
+hypercapnia|hipercapnia||S|sla|C2
+pleura|pleura||S|sla|C2
+pleurisy|pleuresía||S|sla|C2
+pneumothorax|neumotórax||S|sla|C2
+hemothorax|hemotórax||S|sla|C2
+atelectasis|atelectasia||S|sla|C2
+stridor|estridor||S|sla|C2
+rales|estertores crepitantes||S|sla|C2
+surfactant|surfactante pulmonar||S|sla|C2
+arterial blood gas|gasometría arterial||S|sla|C2
+atrial fibrillation|fibrilación auricular||S|sla|C2
+exocrine gland|glándula exocrina||S|sla|C2
+ghrelin|grelina||S|sla|C2
+catabolism|catabolismo||S|sla|C2
+anabolism|anabolismo||S|sla|C2
+thermogenesis|termogénesis||S|sla|C2
+lipolysis|lipólisis||S|sla|C2
+acromegaly|acromegalia||S|sla|C2
+amenorrhea|amenorrea||S|sla|C2
+dysmenorrhea|dismenorrea||S|sla|C2
+precocious puberty|pubertad precoz||S|sla|C2
+osteopenia|osteopenia||S|sla|C2
+calcitonin|calcitonina||S|sla|C2
+angioedema|angioedema||S|sla|C2
+skin prick test|prueba cutánea de alergia||S|sla|C2
+stratum corneum|estrato córneo||S|sla|C2
+elastin|elastina||S|sla|C2
+actinic keratosis|queratosis actínica||S|sla|C2
+scleroderma|esclerodermia||S|sla|C2
+petechiae|petequias||S|sla|C2
+ecchymosis|equimosis||S|sla|C2
+purpura|púrpura (dermatológica)||S|sla|C2
+erythema|eritema||S|sla|C2
+fistula|fístula||S|sla|C2
+ascites|ascitis||S|sla|C2
+pallor|palidez||S|sla|C2
+dyspnea|disnea||S|sla|C2
+hemoptysis|hemoptisis||S|sla|C2
+hematemesis|hematemesis||S|sla|C2
+adjuvant therapy|terapia adyuvante||S|sla|C2
+neoadjuvant therapy|terapia neoadyuvante||S|sla|C2
+chemoresistance|quimiorresistencia||S|sla|C2
+brachytherapy|braquiterapia||S|sla|C2
+treatment regimen|pauta de tratamiento||S|sla|C2
+neutropenia|neutropenia||S|sla|C2
+thrombocytopenia|trombocitopenia||S|sla|C2
+cachexia|caquexia||S|sla|C2
+anticipatory grief|duelo anticipatorio||S|emo|C2
+breakthrough pain|dolor irruptivo||S|sla|C2
+radiation oncology|oncología radioterápica||S|sla|C2
+adenocarcinoma|adenocarcinoma||S|sla|C2
+glioma|glioma||S|sla|C2
+carcinoma in situ|carcinoma in situ||S|sla|C2
+transplant rejection|rechazo del trasplante||S|sla|C2
+immunosuppressant|inmunosupresor||S|sla|C2
+prodrome|pródromo||S|sla|C2
+thrombolysis|trombólisis||S|sla|C2
+thrombectomy|trombectomía||S|sla|C2
+apraxia|apraxia||S|sla|C2
+dyskinesia|discinesia||S|sla|C2
+chorea|corea||S|sla|C2
+myoclonus|mioclono||S|sla|C2
+fasciculation|fasciculación muscular||S|sla|C2
+spasticity|espasticidad||S|sla|C2
+paresis|paresia||S|sla|C2
+hemiparesis|hemiparesia||S|sla|C2
+polyneuropathy|polineuropatía||S|sla|C2
+radiculopathy|radiculopatía||S|sla|C2
+hydrocephalus|hidrocefalia||S|sla|C2
+intracranial pressure|presión intracraneal||S|sla|C2
+meninges|meninges||S|sla|C2
+electromyography|electromiografía||S|sla|C2
+mild cognitive impairment|deterioro cognitivo leve||S|sla|C2
+histopathology|histopatología||S|sla|C2
+immunohistochemistry|inmunohistoquímica||S|sla|C2
+frozen section|sección congelada intraoperatoria||S|sla|C2
+dysplasia|displasia||S|sla|C2
+neoplasia|neoplasia||S|sla|C2
+steatosis|esteatosis||S|sla|C2
+forensic pathology|patología forense||S|sla|C2
+DNA methylation|metilación del ADN||S|sci|C2
+histone|histona||S|sci|C2
+chromatin|cromatina||S|sci|C2
+intron|intrón||S|sci|C2
+exon|exón||S|sci|C2
+alternative splicing|ayuste alternativo||S|sci|C2
+operon|operón||S|sci|C2
+exonuclease|exonucleasa||S|sci|C2
+linkage disequilibrium|desequilibrio de ligamiento||S|sci|C2
+copy number variation|variación del número de copias||S|sci|C2
+chromosomal inversion|inversión cromosómica||S|sci|C2
+nondisjunction|no disyunción cromosómica||S|sci|C2
+gene knockout|inactivación génica (knockout)||S|sci|C2
+centromere|centrómero||S|sci|C2
+chromatid|cromátida||S|sci|C2
+purine|purina||S|sci|C2
+pyrimidine|pirimidina||S|sci|C2
+Mendelian inheritance|herencia mendeliana||S|sci|C2
+whole-genome sequencing|secuenciación completa del genoma||S|sci|C2
+hapten|hapteno||S|sci|C2
+opsonization|opsonización||S|sci|C2
+interleukin|interleucina||S|sci|C2
+interferon|interferón||S|sci|C2
+adaptive immunity|inmunidad adaptativa||S|sci|C2
+dendritic cell|célula dendrítica||S|sci|C2
+neutrophil|neutrófilo||S|sci|C2
+eosinophil|eosinófilo||S|sci|C2
+immune tolerance|tolerancia inmunológica||S|sci|C2
+autoimmunity|autoinmunidad||S|sci|C2
+quorum sensing|percepción de quórum||S|sci|C2
+vector-borne disease|enfermedad de transmisión vectorial||S|sci|C2
+microbiota|microbiota||S|sci|C2
+recombinant DNA|ADN recombinante||S|sci|C2
+RNA interference|interferencia por ARN||S|sci|C2
+directed evolution|evolución dirigida||S|sci|C2
+organoid|organoide||S|sci|C2
+totipotent|totipotente||A|sci|C2
+bioprinting|bioimpresión||S|sci|C2
+cell culture|cultivo celular||S|sci|C2
+neuromodulator|neuromodulador||S|sci|C2
+myelin sheath|vaina de mielina||S|sci|C2
+resting potential|potencial de reposo||S|sci|C2
+refractory period|periodo refractario||S|sci|C2
+depolarization|despolarización||S|sci|C2
+repolarization|repolarización||S|sci|C2
+basal ganglia|ganglios basales||S|sci|C2
+optogenetics|optogenética||S|sci|C2
+hemispatial neglect|omisión hemisférica||S|sci|C2
+blindsight|visión ciega||S|sci|C2
+default mode network|red de modo por defecto||S|sci|C2
+mirror neuron|neurona espejo||S|sci|C2
+engram|engrama (huella de memoria)||S|sci|C2
+reconsolidation|reconsolidación de la memoria||S|sci|C2
+glutamate|glutamato||S|sci|C2
+reproduction number|número reproductivo básico||S|sci|C2
+epidemiological transition|transición epidemiológica||S|sci|C2
+fecundity|fecundidad||S|sci|C2
+waterborne disease|enfermedad de origen hídrico||S|sci|C2
+foodborne illness|enfermedad de transmisión alimentaria||S|sci|C2
+endemicity|endemicidad||S|sci|C2

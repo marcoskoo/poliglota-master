@@ -1,0 +1,101 @@
+der Nestflüchter|hijo que se va de casa||S|fam|B2
+das Kindeswohl|bienestar del menor||S|fam|B2
+die Trotzphase|etapa de las rabietas||S|fam|B2
+der Hausarrest|castigo sin salir de casa||S|fam|B2
+die Pflegefamilie|familia de acogida||S|fam|B2
+der Junggesellenabschied|despedida de soltero||S|fam|B2
+die Silberhochzeit|bodas de plata||S|fam|B2
+die Familienberatung|asesoría familiar||S|fam|B2
+die Eheberatung|terapia de pareja||S|fam|B2
+die Scheidungsrate|tasa de divorcio||S|fam|B2
+die Lebensphase|etapa vital||S|fam|B2
+die Mietkaution|fianza del alquiler||S|cas|B2
+die Wohnungsbesichtigung|visita de piso||S|cas|B2
+der Mietspiegel|índice de alquileres||S|cas|B2
+der Untermieter|subarrendatario||S|cas|B2
+die Ummeldung|cambio de domicilio registrado||S|cas|B2
+die Dachgeschosswohnung|ático||S|cas|B2
+die Altbauwohnung|piso de edificio antiguo||S|cas|B2
+die Wohnfläche|superficie habitable||S|cas|B2
+die Wärmedämmung|aislamiento térmico||S|cas|B2
+die Fußbodenheizung|suelo radiante||S|cas|B2
+der Tapezierer|empapelador||S|pro|B2
+das Gerüst|andamio||S|cas|B2
+die Wohnwand|mueble modular de salón||S|cas|B2
+der Ohrensessel|sillón orejero||S|cas|B2
+das Schlafsofa|sofá cama||S|cas|B2
+die Pendelleuchte|lámpara colgante||S|cas|B2
+der Beistelltisch|mesa auxiliar||S|cas|B2
+der Läufer|alfombra de pasillo||S|cas|B2
+das Mobiliar|mobiliario||S|cas|B2
+die Raumgestaltung|diseño de interiores||S|cas|B2
+der Kostenvoranschlag|presupuesto previo||S|cmp|B2
+der Bratapfel|manzana asada||S|ali|B2
+der Bräter|bandeja de asado||S|ali|B2
+der Schmortopf|olla de guiso||S|ali|B2
+das Pflaumenmus|crema de ciruela||S|ali|B2
+der Lauch|puerro||S|ali|B2
+die Pastinake|chirivía||S|ali|B2
+die Kurkuma|cúrcuma||S|ali|B2
+der Sternanis|anís estrellado||S|ali|B2
+die Rote Bete|remolacha||S|ali|B2
+der Hopfen|lúpulo||S|ali|B2
+das Malz|malta||S|ali|B2
+der Korkenzieher|sacacorchos||S|ris|B2
+der Schaumwein|vino espumoso||S|ali|B2
+der Geschmackssinn|sentido del gusto||S|cor|B2
+die Geschmacksknospe|papila gustativa||S|cor|B2
+der Sternekoch|chef con estrellas||S|pro|B2
+die Nährwerttabelle|tabla nutricional||S|ali|B2
+das Völlegefühl|sensación de pesadez||S|sla|B2
+die Blähungen|flatulencias||S|sla|B2
+das Heilfasten|ayuno terapéutico||S|sla|B2
+die Fastenkur|cura de ayuno||S|sla|B2
+der Cholesterinwert|valor de colesterol||S|sla|B2
+das Essverhalten|comportamiento alimentario||S|ali|B2
+die Nahrungsergänzung|suplementación dietética||S|ali|B2
+der Werbeslogan|eslogan publicitario||S|cmp|B2
+der Werbetexter|redactor publicitario||S|pro|B2
+die Produktplatzierung|emplazamiento de producto||S|cmp|B2
+der Kaufimpuls|impulso de compra||S|cmp|B2
+der Kaufrausch|frenesí comprador||S|cmp|B2
+die Rückgabefrist|plazo de devolución||S|cmp|B2
+das Rückgaberecht|derecho de devolución||S|cmp|B2
+der Fabrikfehler|defecto de fábrica||S|cmp|B2
+das Kassenbon|ticket de compra||S|cmp|B2
+der Kaufbeleg|comprobante de compra||S|cmp|B2
+die Lieferfrist|plazo de entrega||S|cmp|B2
+der Käuferschutz|protección del comprador||S|cmp|B2
+das Fahrverbot|prohibición de conducir||S|tra|B2
+der Führerscheinentzug|retirada del carné||S|tra|B2
+die Bremsscheibe|disco de freno||S|tra|B2
+die Warnblinkanlage|luces de emergencia||S|tra|B2
+die Warnweste|chaleco reflectante||S|tra|B2
+die Rettungsgasse|carril de rescate||S|tra|B2
+die Reifenpanne|pinchazo||S|tra|B2
+die Freisprecheinrichtung|dispositivo de manos libres||S|tra|B2
+die Reichweitenangst|ansiedad por la autonomía||S|tra|B2
+der Ballungsraum|área metropolitana||S|cit|B2
+der Dienstwagen|coche de empresa||S|vig|B2
+der Anschlusszug|tren de conexión||S|vig|B2
+der Grenzposten|puesto fronterizo||S|vig|B2
+die Antragstellung|presentación de la solicitud||S|ist|B2
+das Antragsformular|formulario de solicitud||S|ist|B2
+der Papierkram|papeleo||S|ist|B2
+der Antragsteller|solicitante||S|ist|B2
+die Rundreise|circuito||S|vig|B2
+die Städtereise|escapada urbana||S|vig|B2
+die Reiseleitung|dirección de grupo||S|pro|B2
+der Speisesaal|comedor||S|htl|B2
+der Beitragssatz|tipo de cotización||S|sla|B2
+der Zusatzbeitrag|cotización adicional||S|sla|B2
+die Zahnzusatzversicherung|seguro dental complementario||S|sla|B2
+der Bereitschaftsdienst|guardia médica||S|sla|B2
+der Krankenhausaufenthalt|ingreso hospitalario||S|sla|B2
+die Wiedereingliederung|reincorporación gradual||S|sla|B2
+der Zellkern|núcleo celular||S|sci|B2
+die Zellteilung|división celular||S|sci|B2
+die Unterforderung|falta de reto; subestimulación||S|emo|B2
+die Vergebung|perdón||S|rel|B2
+der Vertrauensbruch|ruptura de confianza||S|rel|B2
+der Neuanfang|nuevo comienzo||S|rel|B2

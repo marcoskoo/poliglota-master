@@ -1,0 +1,84 @@
+das Stellenangebot|oferta de empleo||S|lav|B2
+die Initiativbewerbung|candidatura espontánea||S|lav|B2
+das Einstiegsgehalt|salario de entrada||S|lav|B2
+die Karriereleiter|escalera profesional||S|lav|B2
+der Karrieresprung|salto profesional||S|lav|B2
+die Doppelbelastung|doble carga||S|lav|B2
+die Firmenkultur|cultura empresarial||S|lav|B2
+der Wissensaustausch|intercambio de conocimientos||S|lav|B2
+der Notenschnitt|nota media||S|stu|B2
+der Einstufungstest|prueba de nivel||S|stu|B2
+das Studentenwohnheim|residencia de estudiantes||S|stu|B2
+die Semesterferien|vacaciones de semestre||S|stu|B2
+die Sprachbarriere|barrera idiomática||S|stu|B2
+die Landeskunde|estudios de cultura del país||S|stu|B2
+die Lernkartei|fichas de estudio||S|stu|B2
+das Nachschlagewerk|obra de consulta||S|stu|B2
+die Grünfläche|zona verde||S|cit|B2
+die Müllgebühr|tasa de basuras||S|cit|B2
+der Deich|dique||S|nat|B2
+der Fußabdruck|huella ecológica||S|nat|B2
+das Einwegplastik|plástico de un solo uso||S|nat|B2
+die Mehrwegflasche|botella retornable||S|nat|B2
+der Fachwerkbau|entramado de madera||S|art|B2
+der Pfeiler|pilar||S|art|B2
+der Backstein|ladrillo||S|art|B2
+das Modelabel|marca de moda||S|rop|B2
+der Laufsteg|pasarela||S|rop|B2
+die Kleiderordnung|código de vestimenta||S|rop|B2
+der Webstuhl|telar||S|rop|B2
+der Zeitfresser|devorador de tiempo||S|tec|B2
+die Filterblase|burbuja de filtro||S|tec|B2
+die Überwachungskamera|cámara de vigilancia||S|tec|B2
+das Rechenzentrum|centro de datos||S|tec|B2
+der Leistungssport|deporte de competición||S|spt|B2
+die Bestmarke|plusmarca||S|spt|B2
+der Abstiegskampf|lucha por no descender||S|spt|B2
+der Volkslauf|carrera popular||S|spt|B2
+der Musikgeschmack|gusto musical||S|mus|B2
+der Ohrwurm|canción pegadiza||S|mus|B2
+die Vorgruppe|grupo telonero||S|mus|B2
+der Nebendarsteller|actor de reparto||S|cin|B2
+das Feuilleton|sección cultural||S|att|B2
+das Hypothekardarlehen|préstamo hipotecario||S|fin|B2
+der Tilgungsplan|plan de amortización||S|fin|B2
+der Sollzins|tipo de interés||S|fin|B2
+das Festgeld|depósito a plazo||S|fin|B2
+die Rentenlücke|brecha de pensión||S|fin|B2
+die Lebenshaltungskosten|coste de la vida||S|fin|B2
+das Haushaltsbuch|libro de cuentas||S|fin|B2
+der Unternehmensberater|consultor||S|pro|B2
+der Bauingenieur|ingeniero de obra civil||S|pro|B2
+der Schornsteinfeger|deshollinador||S|pro|B2
+die Pflegefachkraft|profesional de enfermería||S|pro|B2
+der Außenhandel|comercio exterior||S|att|B2
+die Briefwahl|voto por correo||S|ist|B2
+der Stimmzettel|papeleta||S|ist|B2
+das Schwarze Loch|agujero negro||S|sci|B2
+der Durchbruch|avance||S|sci|B2
+der Ratgeber|manual de autoayuda||S|let|B2
+die Kunstrichtung|corriente artística||S|art|B2
+der Maulkorb|bozal||S|ani|B2
+der Aufschub|aplazamiento||S|tmp|B2
+auf lange Sicht|a largo plazo||L|tmp|B2
+mittelfristig|a medio plazo||D|tmp|B2
+der Rückblick|retrospectiva||S|tmp|B2
+die Bergtour|excursión de montaña||S|nat|B2
+das Naherholungsgebiet|zona recreativa cercana||S|nat|B2
+der Ansporn|acicate||S|emo|B2
+der Leistungdruck|presión por rendimiento||S|emo|B2
+der Erwartungsdruck|presión de expectativas||S|emo|B2
+die Zielsetzung|fijación de metas||S|emo|B2
+die Stellungnahme|declaración oficial||S|cmu|B2
+die Ansprache|alocución||S|cmu|B2
+der Verhandlungsspielraum|margen de maniobra||S|cmu|B2
+der Entschluss|determinación; decisión||S|ast|B2
+namens|a nombre de||R|cnn|B2
+demzufolge|por consiguiente||D|cnn|B2
+im Umkehrschluss|a la inversa||L|cnn|B2
+anders ausgedrückt|dicho de otro modo||E|cnn|B2
+im Prinzip|en principio||L|cnn|B2
+der Grundsatz|principio||S|ast|B2
+der Anstand|decencia||S|ast|B2
+die Stadtrundfahrt|tour urbano||S|vig|B2
+der Schlafmangel|falta de sueño||S|sla|B2

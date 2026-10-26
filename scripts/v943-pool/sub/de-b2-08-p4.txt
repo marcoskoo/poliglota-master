@@ -1,0 +1,120 @@
+die Schwägerschaft|parentesco político||S|fam|B2
+das Festessen|comida festiva||S|fam|B2
+die Bescherung|reparto de regalos||S|fam|B2
+der Adventskranz|corona de adviento||S|fam|B2
+die Weihnachtsfeier|fiesta de Navidad||S|sve|B2
+der Jahreswechsel|cambio de año||S|tmp|B2
+der Gartenzwerg|gnomo de jardín||S|cas|B2
+der Rasenmäher|cortacésped||S|cas|B2
+der Komposthaufen|montón de compost||S|cas|B2
+die Regentonne|barril de agua de lluvia||S|cas|B2
+die Gießkanne|regadera||S|cas|B2
+die Harke|rastrillo||S|cas|B2
+das Hochbeet|banco de cultivo elevado||S|cas|B2
+das Gewächshaus|invernadero||S|cas|B2
+das Blumenbeet|macizo de flores||S|cas|B2
+das Knabbergebäck|aperitivos salados||S|ali|B2
+der Rührkuchen|bizcocho||S|ali|B2
+die Buttercreme|crema de mantequilla||S|ali|B2
+der Hüttenkäse|requesón||S|ali|B2
+das Schmalz|manteca de cerdo||S|ali|B2
+der Räucherlachs|salmón ahumado||S|ali|B2
+die Hausapotheke|botiquín doméstico||S|sla|B2
+die Zahnspange|aparato dental||S|sla|B2
+die Wurzelbehandlung|tratamiento de conducto||S|sla|B2
+der Schnäppchenjäger|cazador de chollos||S|cmp|B2
+der Billigflieger|compañía aérea barata||S|vig|B2
+der Haustürverkauf|venta a domicilio||S|cmp|B2
+der Anwohnerparkplatz|plaza de residente||S|tra|B2
+der Fahrradhelm|casco de bicicleta||S|tra|B2
+die Helmpflicht|obligación de casco||S|tra|B2
+das Kopfsteinpflaster|empedrado; adoquines||S|cit|B2
+die Startbahn|pista de despegue||S|vig|B2
+der Strandkorb|silla de playa con toldo||S|vig|B2
+die Auslandskrankenversicherung|seguro médico de viaje||S|vig|B2
+die Reiserücktrittsversicherung|seguro de cancelación||S|vig|B2
+die Leistungsprämie|prima por rendimiento||S|lav|B2
+der Freizeitausgleich|compensación en tiempo libre||S|lav|B2
+der Bildungsurlaub|permiso formativo||S|lav|B2
+der Machtkampf|pulso de poder||S|lav|B2
+die Rangordnung|jerarquía||S|lav|B2
+der Zuständigkeitsbereich|ámbito competencial||S|lav|B2
+die Prüfungsordnung|normativa de exámenes||S|stu|B2
+die Anwesenheitspflicht|asistencia obligatoria||S|stu|B2
+der Studierendenausweis|carné de estudiante||S|stu|B2
+der Konversationskurs|curso de conversación||S|stu|B2
+die Einkaufsmeile|zona comercial peatonal||S|cit|B2
+die Markthalle|mercado cubierto||S|cit|B2
+die Fußgängerunterführung|paso subterráneo||S|cit|B2
+der Recyclinghof|punto de reciclaje||S|cit|B2
+der Sondermüll|residuos peligrosos||S|cit|B2
+die Bauernregel|refrán meteorológico||S|cli|B2
+der Herrenausstatter|tienda de caballero||S|rop|B2
+der Maßanzug|traje a medida||S|rop|B2
+der Akkustand|estado de la batería||S|tec|B2
+das Ladekabel|cable de carga||S|tec|B2
+die Kindersicherung|control parental||S|tec|B2
+die Altersfreigabe|clasificación por edades||S|cin|B2
+das Trainingslager|stage de entrenamiento||S|spt|B2
+die Loipe|pista de esquí de fondo||S|spt|B2
+die Eisbahn|pista de hielo||S|spt|B2
+der Eiskunstlauf|patinaje artístico||S|spt|B2
+die Ouvertüre|obertura||S|mus|B2
+die Harmonielehre|armonía ( teoría musical)||S|mus|B2
+die Außenaufnahme|plano en exteriores||S|cin|B2
+die Altersgrenze|edad límite||S|fin|B2
+die Risikobereitschaft|disposición al riesgo||S|fin|B2
+die Regierungserklärung|declaración de gobierno||S|att|B2
+die Koalitionspartner|socios de coalición||S|att|B2
+der Oppositionsführer|líder de la oposición||S|att|B2
+der Hinterbänkler|diputado de a pie||S|ist|B2
+der Volksvertreter|representante del pueblo||S|ist|B2
+der Rückschluss|conclusión retrospectiva||S|sci|B2
+der Denkansatz|enfoque||S|sci|B2
+der Erzählstrang|hilo narrativo||S|let|B2
+die Nebenhandlung|trama secundaria||S|let|B2
+der Handlungsbogen|arco narrativo||S|let|B2
+der Bildungsroman|novela de formación||S|let|B2
+die Schlüsselszene|escena clave||S|let|B2
+das Schlüsselerlebnis|experiencia formativa||S|emo|B2
+das Gesamtkunstwerk|obra de arte total||S|art|B2
+der Kunstsinn|sensibilidad artística||S|art|B2
+der Kunstbetrieb|circuito artístico||S|art|B2
+die Kunstszene|escena artística||S|art|B2
+der Kunstmarkt|mercado del arte||S|art|B2
+der Mäzen|mecenas||S|art|B2
+die Kulturförderung|patrocinio cultural||S|art|B2
+die Schenkung|donación; legado||S|art|B2
+das Vermächtnis|legado; última voluntad||S|art|B2
+der Nistkasten|nido artificial||S|ani|B2
+der Leckerbissen|manjar; golosina||S|ani|B2
+die Scheu|desconfianza; arrobo||S|ani|B2
+scheu|arisco; asustadizo||A|ani|B2
+der Beutegreifer|depredador||S|ani|B2
+der Greifvogel|ave rapaz||S|ani|B2
+die Tanzfläche|pista de baile||S|sve|B2
+die Kegelbahn|bolera||S|sve|B2
+der Gefühlsausbruch|arrebato||S|emo|B2
+die Gefühlsachterbahn|montaña rusa emocional||S|emo|B2
+die Gefühlswelt|mundo emocional||S|emo|B2
+die Gemütslage|estado de ánimo||S|emo|B2
+die Warmherzigkeit|calidez humana||S|emo|B2
+das Einverständnis|conformidad; consenso||S|cmu|B2
+die Missbilligung|desaprobación||S|cmu|B2
+der Unmut|disgusto||S|emo|B2
+die Missstimmung|malhumor; descontento||S|emo|B2
+die Unstimmigkeiten|desacuerdos; malentendidos||S|cmu|B2
+das Zerwürfnis|desavenencia; enfriamiento||S|rel|B2
+geringschätzen|despreciar||V|cmu|B2
+geringfügig|menudo; de poca monta||A|cnn|B2
+der Nichtsnutz|holgazán; inútil||S|ast|B2
+der Faulpelz|gandul||S|ast|B2
+das Luftschloss|castillo en el aire||S|ast|B2
+das Wunschdenken|pensamiento ilusorio||S|ast|B2
+der Handgriff|gesto; operación sencilla||S|cnn|B2
+der Kunstgriff|ardid||S|cnn|B2
+der Kniff|triquiñuela||S|cnn|B2
+die Fingerfertigkeit|destreza manual||S|spt|B2
+der Preiskrieg|guerra de precios||S|fin|B2
+der Kostendruck|presión de costes||S|fin|B2
+die Wahlhelfer|miembros de mesa||S|ist|B2

@@ -1,0 +1,87 @@
+prudish|mojigato||A|ast|C2
+prudery|mojigatería||S|ast|C2
+unseemly|indecoroso||A|ast|C2
+indelicate|indelicado||A|ast|C2
+panache|gallardía deslumbrante||S|ast|C2
+aplomb|aplomo||S|ast|C2
+sangfroid|sangre fría||S|ast|C2
+tastemaker|prescriptor de gusto||S|art|C2
+scintilla|ápice||S|ast|C2
+profusion|profusión||S|ast|C2
+plenitude|plenitud||S|ast|C2
+incommensurable|inconmensurable||A|ast|C2
+spin doctor|asesor de imagen||E|pro|C2
+strategic ambiguity|ambigüedad estratégica||E|ist|C2
+dappled|moteado de luz||A|let|C2
+susurration|susurro||S|let|C2
+argent|argénteo||A|let|C2
+eldritch|espectral y siniestro||A|let|C2
+burnished|bruñido||A|let|C2
+haply|por ventura||D|let|C2
+sennight|semana||S|let|C2
+thereupon|a continuación||D|cnn|C2
+whereupon|tras lo cual||D|cnn|C2
+hereof|de esto||D|cnn|C2
+as regards|con respecto a||E|cnn|C2
+purport|pretender ser||V|cmu|C2
+recant|retractarse públicamente||V|cmu|C2
+revile|denostar||V|cmu|C2
+vituperate|vituperar||V|cmu|C2
+rhapsodize|desbordarse en elogios||V|cmu|C2
+genuflect|doblar la rodilla||V|cmu|C2
+sub rosa|bajo secreto||L|ast|C2
+ex nihilo|de la nada||L|ast|C2
+ne plus ultra|el no va más||L|ast|C2
+peer tutoring|tutoría entre iguales||E|stu|C2
+delayed gratification|gratificación diferida||E|sci|C2
+cognitive distortion|distorsión cognitiva||E|emo|C2
+emotional dysregulation|desregulación emocional||E|emo|C2
+gaslighting|manipulación que hace dudar de la propia realidad||S|emo|C2
+licentiousness|libertinaje||S|ast|C2
+feckless|irresponsable y inútil||A|ast|C2
+sobriety|sobriedad||S|ast|C2
+seed round|ronda semilla||E|fin|C2
+carrying cost|coste de posesión||E|fin|C2
+picking|preparación de pedidos||S|lav|C2
+showrooming|ver en tienda y comprar en línea||S|fin|C2
+decoy effect|efecto señuelo||E|fin|C2
+brand recall|recuerdo de marca||E|fin|C2
+banner blindness|ceguera publicitaria||E|fin|C2
+root-cause analysis|análisis de causas raíz||E|lav|C2
+nonconformance|no conformidad||S|lav|C2
+actus reus|acto delictivo||L|ist|C2
+cauterization|cauterización||S|sla|C2
+gear ratio|relación de transmisión||E|tec|C2
+flywheel|volante de inercia||S|tec|C2
+soldering|soldadura blanda||S|tec|C2
+tribology|tribología||S|tec|C2
+fail-safe|a prueba de fallos||A|tec|C2
+dissertation defense|defensa de tesis||E|stu|C2
+buyer's premium|prima del comprador||E|fin|C2
+cabinet of curiosities|gabinete de curiosidades||E|art|C2
+sourdough starter|masa madre||E|ali|C2
+unctuous|untuoso||A|ali|C2
+backchannel|canal informal||S|cmu|C2
+ingratiating|adulador||A|rel|C2
+kowtow|someterse servilmente||V|rel|C2
+cardiac output|gasto cardíaco||E|cor|C2
+fast-twitch fiber|fibra de contracción rápida||E|cor|C2
+supercompensation|supercompensación||S|spt|C2
+stud farm|yeguada||E|ani|C2
+linebreeding|cruce en línea||S|ani|C2
+hackamore|jaquima sin bocado||S|ani|C2
+funnel cloud|nube embudo||E|cli|C2
+explosive cyclogenesis|ciclogénesis explosiva||E|cli|C2
+radiosonde|radiosonda||S|cli|C2
+outflow boundary|límite de salida||E|cli|C2
+incontrovertibly|incontrovertiblemente||D|cnn|C2
+emphatically|con contundencia||D|cnn|C2
+still and all|con todo||E|cnn|C2
+for all that|a pesar de todo||E|cnn|C2
+at all events|en todo caso||E|cnn|C2
+notwithstanding the foregoing|no obstante lo anterior||E|cnn|C2
+infill development|regeneración de solares interiores||E|cit|C2
+pocket park|parque de bolsillo||E|cit|C2
+tactical urbanism|urbanismo táctico||E|cit|C2
+transit-oriented development|desarrollo orientado al transporte||E|cit|C2
+stormwater management|gestión de aguas pluviales||E|cit|C2

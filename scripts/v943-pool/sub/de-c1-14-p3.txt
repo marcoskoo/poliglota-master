@@ -1,0 +1,93 @@
+der Leistungsbilanzüberschuss|superávit por cuenta corriente||S|fin|C1
+das Kreditereignis|evento de crédito||S|fin|C1
+die Kreditausfallwahrscheinlichkeit|probabilidad de impago||S|fin|C1
+die Feindübernahme|opa hostil||S|fin|C1
+der Schadensfreiheitsrabatt|bonificación por ausencia de siniestros||S|fin|C1
+die Mitarbeiterführung|dirección de personal||S|lav|C1
+das Kuratieren|curaduría||S|art|C1
+die Bildwissenschaft|ciencia de la imagen||S|art|C1
+die Helldunkelmalerei|pintura de claroscuro||S|art|C1
+die Pleinairmalerei|pintura al aire libre||S|art|C1
+die Staffelei|caballete||S|art|C1
+das Gewände|jamba de un portal||S|art|C1
+die Vorhangfassade|fachada ligera||S|art|C1
+das Strebewerk|arbotantes||S|art|C1
+das Dramolett|pieza dramática breve||S|let|C1
+das Litotes|lítote||S|let|C1
+die Erzählinstanz|instancia narrativa||S|let|C1
+der Bewusstseinsstrom|corriente de conciencia||S|let|C1
+die Erlebte Rede|estilo indirecto libre||L|let|C1
+der Dekonstruktivismus|deconstruccionismo||S|let|C1
+der Sang und Klang|sones y armonías||L|let|C1
+das Heldenlied|cantar de gesta||S|let|C1
+der Wortschwall|aluvión de palabras||S|let|C1
+das Himmelszelt|bóveda celeste||S|let|C1
+das Menetekel|presagio funesto||S|let|C1
+der gordische Knoten|nudo gordiano||S|let|C1
+der Wahnwitz|demencia absurda||S|emo|C1
+die Gesinnungsethik|ética de convicción||S|ast|C1
+die Verantwortungsethik|ética de responsabilidad||S|ast|C1
+die Zweckrationalität|racionalidad instrumental||S|ast|C1
+die Entzauberung der Welt|desencantamiento del mundo||L|ast|C1
+das In-der-Welt-sein|ser-en-el-mundo||S|ast|C1
+der Geschichtsrevisionismus|revisionismo histórico||S|ast|C1
+die Gleichzeitigkeit des Ungleichzeitigen|simultaneidad de lo no simultáneo||L|ast|C1
+der Sprachbund|área lingüística||S|let|C1
+die Isoglosse|isoglosa||S|let|C1
+der Fachjargon|jerga especializada||S|cmu|C1
+die Präsupposition|presuposición||S|let|C1
+der Variantenapparat|aparato crítico||S|let|C1
+der Einflussbereich|esfera de influencia||S|att|C1
+die humanitäre Intervention|intervención humanitaria||S|att|C1
+die Übergangsjustiz|justicia transicional||S|att|C1
+die Konfliktdeeskalation|desescalamiento del conflicto||S|att|C1
+der Aufstocker|trabajador pobre subsidiado||S|lav|C1
+die Prekarisierung|precarización||S|ast|C1
+der Individualisierungsprozess|proceso de individualización||S|ast|C1
+die teilnehmende Beobachtung|observación participante||L|ast|C1
+die Dichte Beschreibung|descripción densa||L|ast|C1
+die Conditio sine qua non|condición indispensable||L|ist|C1
+der Modus vivendi|modus vivendi||L|ast|C1
+die Sentenz|máxima sentenciosa||S|let|C1
+in flagranti|in fraganti||L|ist|C1
+das Gedöns|cachivaches sin importancia||S|cmu|C1
+der Klüngel|amiguismo ( Colonia )||S|cmu|C1
+der Erbsenzähler|tiquismiquis||S|cmu|C1
+keinen Mucks machen|no decir ni pío||E|cmu|C1
+auf die Palme bringen|sacar de quicio||L|emo|C1
+unter eine Decke stecken|confabularse||L|cmu|C1
+das Gwand|ropa ( sur y Austria )||S|rop|C1
+das Feudel|trapo de fregar ( norte )||S|cas|C1
+der Erdapfel|patata ( sur )||S|ali|C1
+die Unverfrorenheit|desfachatez||S|emo|C1
+die Unbeugsamkeit|inquebrantabilidad||S|emo|C1
+die Umsicht|previsión prudente||S|emo|C1
+der Ingrimm|furia contenida||S|emo|C1
+die Besonnenheit|serenidad reflexiva||S|emo|C1
+die Ergriffenheit|emocionamiento profundo||S|emo|C1
+dessen ungeachtet|no obstante ello||L|cnn|C1
+alles in allem|en suma||L|cnn|C1
+abwegig|descabellado||A|ast|C1
+abstrus|absurdo incoherente||A|ast|C1
+bewandert|versado||A|ast|C1
+borniert|obcecado||A|ast|C1
+feinsinnig|de sutil ingenio||A|ast|C1
+mondän|mundano y sofisticado||A|ast|C1
+apostrophieren|apostrofar||V|cmu|C1
+goutieren|apreciar en justa medida||V|ast|C1
+verunglimpfen|denigrar||V|ist|C1
+die Schnittfrequenz|frecuencia de montaje||S|cin|C1
+der Off-Kommentar|voz en off||S|cin|C1
+der Gerbstoff|tanino||S|ris|C1
+die Artbeschreibung|descripción de especie||S|sci|C1
+der Holotypus|holotipo||S|sci|C1
+die Territorialität|territorialidad||S|ani|C1
+das Beuteschema|esquema de presa etológico||S|ani|C1
+die Übersprungshandlung|conducta de desplazamiento||S|ani|C1
+die Laktatschwelle|umbral de lactato||S|spt|C1
+die Höhenanpassung|adaptación a la altitud||S|spt|C1
+die Zuchtschau|exposición de cría||S|ani|C1
+der Spaltensturz|caída en grieta||S|spt|C1
+die Höhlenbefahrung|exploración espeleológica||S|sve|C1
+der Straßenraum|espacio viario||S|cit|C1
+die Bebauungsdichte|densidad edificatoria||S|cit|C1
