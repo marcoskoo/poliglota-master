@@ -1,4 +1,4 @@
-/* v9.43 · EN bloque 7/14 · 700 entradas */
+/* v9.43 · EN bloque 7/18 · 700 entradas */
 export const EN_V943_7_RAW = `
 customary international law|derecho internacional consuetudinario||S|ist|C1
 stateless|apátrida||A|ist|C1

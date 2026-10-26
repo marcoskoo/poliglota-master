@@ -1,4 +1,4 @@
-/* v9.43 · EN bloque 6/14 · 700 entradas */
+/* v9.43 · EN bloque 6/18 · 700 entradas */
 export const EN_V943_6_RAW = `
 editorial board|consejo editorial||L|cmu|C1
 fact-checking|verificación de datos||S|cmu|C1

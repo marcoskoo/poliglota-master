@@ -1,4 +1,4 @@
-/* v9.43 · IT bloque 4/7 · 700 entradas */
+/* v9.43 · IT bloque 4/11 · 700 entradas */
 export const IT_V943_4_RAW = `
 leva finanziaria|apalancamiento financiero||S|fin|C1
 flottante|capital flotante (acciones en circulación)||S|fin|C1

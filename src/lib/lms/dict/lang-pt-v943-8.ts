@@ -1,4 +1,4 @@
-/* v9.43 · PT bloque 8/16 · 700 entradas */
+/* v9.43 · PT bloque 8/22 · 700 entradas */
 export const PT_V943_8_RAW = `
 neutropenia|neutropenia||S|sla|C1
 caquexia|caquexia||S|sla|C1

@@ -1,4 +1,4 @@
-/* v9.43 · FR bloque 9/16 · 700 entradas */
+/* v9.43 · FR bloque 9/24 · 700 entradas */
 export const FR_V943_9_RAW = `
 cagole|chulapa chillona||S|cmu|C2
 chocolatine|chocolatine (bollo de chocolate)||S|ali|C2

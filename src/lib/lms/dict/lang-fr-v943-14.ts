@@ -1,4 +1,4 @@
-/* v9.43 · FR bloque 14/16 · 700 entradas */
+/* v9.43 · FR bloque 14/24 · 700 entradas */
 export const FR_V943_14_RAW = `
 applique|aplique (lámpara de pared)||S|art|C1
 liséré|cenefa||S|art|C1

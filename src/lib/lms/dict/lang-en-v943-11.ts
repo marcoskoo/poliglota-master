@@ -1,4 +1,4 @@
-/* v9.43 · EN bloque 11/14 · 700 entradas */
+/* v9.43 · EN bloque 11/18 · 700 entradas */
 export const EN_V943_11_RAW = `
 syncretism|sincretismo||S|ast|C2
 rites of passage|ritos de paso||L|ast|C2

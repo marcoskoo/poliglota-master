@@ -1,4 +1,4 @@
-/* v9.43 · EN bloque 9/14 · 700 entradas */
+/* v9.43 · EN bloque 9/18 · 700 entradas */
 export const EN_V943_9_RAW = `
 epigram|epigrama||S|let|C1
 didactic|didáctico||A|let|C1

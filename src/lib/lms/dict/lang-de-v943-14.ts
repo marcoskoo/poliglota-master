@@ -1,4 +1,4 @@
-/* v9.43 · DE bloque 14/16 · 700 entradas */
+/* v9.43 · DE bloque 14/22 · 700 entradas */
 export const DE_V943_14_RAW = `
 die Küchenbrigade|brigada de cocina||S|ris|C2
 das Aromaprofil|perfil aromático||S|ris|C2

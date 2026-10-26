@@ -1,4 +1,4 @@
-/* v9.43 · FR bloque 11/16 · 700 entradas */
+/* v9.43 · FR bloque 11/24 · 700 entradas */
 export const FR_V943_11_RAW = `
 blasonnement|blasón heráldico||S|art|C2
 cuisine d'auteur|cocina de autor||E|ris|C2

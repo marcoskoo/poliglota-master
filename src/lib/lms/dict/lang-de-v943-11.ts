@@ -1,4 +1,4 @@
-/* v9.43 · DE bloque 11/16 · 700 entradas */
+/* v9.43 · DE bloque 11/22 · 700 entradas */
 export const DE_V943_11_RAW = `
 die Liquidität|liquidez||S|fin|C2
 die Solvenz|solvencia||S|fin|C2

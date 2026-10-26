@@ -1,4 +1,4 @@
-/* v9.43 · DE bloque 13/16 · 700 entradas */
+/* v9.43 · DE bloque 13/22 · 700 entradas */
 export const DE_V943_13_RAW = `
 das Tonnengewölbe|bóveda de cañón||S|art|C2
 der Kuppelbau|edificio cupulado||S|art|C2

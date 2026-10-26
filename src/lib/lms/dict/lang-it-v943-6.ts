@@ -1,4 +1,4 @@
-/* v9.43 · IT bloque 6/7 · 700 entradas */
+/* v9.43 · IT bloque 6/11 · 700 entradas */
 export const IT_V943_6_RAW = `
 preliminare di vendita|contrato de arras (preliminar de compraventa)||L|ist|C2
 obbligo di motivazione|deber de motivación (de las resoluciones)||L|ist|C2

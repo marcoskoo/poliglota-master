@@ -1,4 +1,4 @@
-/* v9.43 · EN bloque 5/14 · 700 entradas */
+/* v9.43 · EN bloque 5/18 · 700 entradas */
 export const EN_V943_5_RAW = `
 cloture|cierre del debate||S|ist|C1
 quorum|quórum||S|ist|C1

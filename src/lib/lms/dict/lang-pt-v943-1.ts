@@ -1,4 +1,4 @@
-/* v9.43 · PT bloque 1/16 · 700 entradas */
+/* v9.43 · PT bloque 1/22 · 700 entradas */
 export const PT_V943_1_RAW = `
 apelido|apellido||S|sal|A1
 despedida|despedida||S|sal|A1

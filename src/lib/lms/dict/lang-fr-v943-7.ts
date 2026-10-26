@@ -1,4 +1,4 @@
-/* v9.43 · FR bloque 7/16 · 700 entradas */
+/* v9.43 · FR bloque 7/24 · 700 entradas */
 export const FR_V943_7_RAW = `
 poème en prose|poema en prosa||L|let|C1
 vers libre|verso libre||L|let|C1

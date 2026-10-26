@@ -1,4 +1,4 @@
-/* v9.43 · PT bloque 6/16 · 700 entradas */
+/* v9.43 · PT bloque 6/22 · 700 entradas */
 export const PT_V943_6_RAW = `
 racionalismo|racionalismo||S|ast|C1
 fenomenologia|fenomenología||S|ast|C1

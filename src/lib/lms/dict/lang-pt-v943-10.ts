@@ -1,4 +1,4 @@
-/* v9.43 · PT bloque 10/16 · 700 entradas */
+/* v9.43 · PT bloque 10/22 · 700 entradas */
 export const PT_V943_10_RAW = `
 à luz de|a la luz de||L|cnn|C1
 à semelhança de|a semejanza de||L|cnn|C1

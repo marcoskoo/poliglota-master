@@ -1,4 +1,4 @@
-/* v9.43 · IT bloque 3/7 · 700 entradas */
+/* v9.43 · IT bloque 3/11 · 700 entradas */
 export const IT_V943_3_RAW = `
 grana|grano de la imagen||S|art|C1
 sovraesposizione|sobreexposición||S|art|C1

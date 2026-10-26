@@ -1,4 +1,4 @@
-/* v9.43 · FR bloque 12/16 · 700 entradas */
+/* v9.43 · FR bloque 12/24 · 700 entradas */
 export const FR_V943_12_RAW = `
 photo de famille|foto de familia||L|fam|B2
 rire aux éclats|reír a carcajadas||E|emo|B2

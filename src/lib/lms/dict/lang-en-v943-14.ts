@@ -1,4 +1,4 @@
-/* v9.43 · EN bloque 14/14 · 251 entradas */
+/* v9.43 · EN bloque 14/18 · 700 entradas */
 export const EN_V943_14_RAW = `
 osteosynthesis|osteosíntesis||S|sla|C2
 laminectomy|laminectomía||S|sla|C2
@@ -251,4 +251,453 @@ walkability|transitabilidad peatonal||S|cit|C2
 traffic calming|pacificación del tráfico||E|cit|C2
 public realm|espacio público||E|cit|C2
 wayfinding|señalización orientativa||S|cit|C2
+follow-up|seguimiento||S|lav|B2
+multiple choice|tipo test||L|stu|B2
+grown-up|adulto||S|fam|B2
+child support|pensión de alimentos||S|fam|B2
+childcare|cuidado de los niños||S|fam|B2
+moving company|empresa de mudanzas||S|cas|B2
+countertop|encimera||S|cas|B2
+nightstand|mesilla de noche||S|cas|B2
+dresser|cómoda||S|cas|B2
+floor plan|plano de la vivienda||S|cas|B2
+staple food|alimento básico||S|ali|B2
+flavorful|sabroso||A|ali|B2
+gluten-free|sin gluten||A|ali|B2
+calorie intake|aporte calórico||S|ali|B2
+craft beer|cerveza artesanal||S|ali|B2
+drip coffee|café de filtro||S|ris|B2
+diner|restaurante de cocina americana||S|ris|B2
+food critic|crítico gastronómico||S|ris|B2
+ambience|ambiente||S|ris|B2
+rave review|reseña entusiasta||S|ris|B2
+consumerism|consumismo||S|cmp|B2
+garage sale|mercadillo en casa||S|cmp|B2
+fashion trend|tendencia de moda||S|rop|B2
+tailored|a medida||A|rop|B2
+hiking boots|botas de montaña||S|rop|B2
+speeding ticket|multa por exceso de velocidad||S|tra|B2
+carpool lane|carril para coches compartidos||S|tra|B2
+rideshare|viaje compartido en coche||S|tra|B2
+e-scooter|patinete eléctrico||S|tra|B2
+monthly pass|abono mensual||S|tra|B2
+charging station|estación de carga||S|tra|B2
+bike-share|alquiler de bicicletas||S|tra|B2
+hail a cab|parar un taxi||E|tra|B2
+rebook|cambiar un billete||V|vig|B2
+departure gate|puerta de embarque||S|vig|B2
+red-eye flight|vuelo nocturno||S|vig|B2
+standby|lista de espera de un vuelo||S|vig|B2
+opening hours|horario de apertura||S|vig|B2
+overbook|vender más habitaciones de las disponibles||V|htl|B2
+make a complaint|presentar una queja||E|htl|B2
+valet parking|servicio de aparcacoches||S|htl|B2
+public healthcare|sanidad pública||S|sla|B2
+deep breathing|respiración profunda||S|sla|B2
+chest compressions|compresiones torácicas||S|sla|B2
+sluggish|sin energía||A|sla|B2
+bloodstream|flujo sanguíneo||S|cor|B2
+job fair|feria de empleo||S|lav|B2
+background check|comprobación de antecedentes||S|lav|B2
+two weeks' notice|preaviso de dos semanas||S|lav|B2
+stepping stone|trampolín profesional||S|lav|B2
+paid time off|vacaciones retribuidas||S|lav|B2
+get up to speed|ponerse al día||E|lav|B2
+bachelor's degree|grado universitario||S|stu|B2
+dorm|residencia universitaria||S|stu|B2
+pothole|bache||S|cit|B2
+old town|casco antiguo||S|cit|B2
+next-door neighbor|vecino de al lado||S|cit|B2
+homeowners association|comunidad de propietarios||S|cit|B2
+block party|fiesta de barrio||S|cit|B2
+neighborhood watch|red vecinal de vigilancia||S|cit|B2
+emergency exit|salida de emergencia||S|cit|B2
+fire drill|simulacro de incendios||S|cit|B2
+surveillance camera|cámara de vigilancia||S|cit|B2
+waste collection|recogida de residuos||S|cit|B2
+rising sea levels|subida del nivel del mar||S|cli|B2
+browsing history|historial de navegación||S|tec|B2
+default settings|ajustes predeterminados||S|tec|B2
+playoffs|eliminatorias finales||S|spt|B2
+disqualified|descalificado||A|spt|B2
+gym membership|abono de gimnasio||S|spt|B2
+pick-up game|partido informal||S|spt|B2
+merch|productos oficiales||S|mus|B2
+season finale|final de temporada||S|cin|B2
+shouting match|discusión acalorada||S|rel|B2
+silent treatment|hacer el vacío||E|rel|B2
+bridal shower|fiesta previa a la boda||S|rel|B2
+baby shower|fiesta por el nacimiento||S|rel|B2
+flake on|dejar plantado||E|rel|B2
+bail on|escaquearse de un plan||E|rel|B2
+cosigner|avalista||S|fin|B2
+monthly installment|cuota mensual||S|fin|B2
+compound interest|interés compuesto||S|fin|B2
+hidden fee|cargo oculto||S|fin|B2
+primary|primarias||S|ist|B2
+genetic|genético||A|sci|B2
+storytelling|arte de contar historias||S|let|B2
+protected area|espacio protegido||S|nat|B2
+single-use plastic|plástico de un solo uso||S|nat|B2
+hiking trail|sendero||S|nat|B2
+bouncer|portero de discoteca||S|sve|B2
+last call|última ronda||S|sve|B2
+designated driver|conductor alternativo||S|sve|B2
+peer pressure|presión de grupo||S|emo|B2
+New Year's resolution|propósito de año nuevo||S|emo|B2
+take a stand|tomar postura||E|cmu|B2
+deal breaker|condición innegociable||S|cmu|B2
+fill out a form|rellenar un formulario||E|ist|B2
+proof of address|justificante de domicilio||S|ist|B2
+pros and cons|el pro y el contra||E|cnn|B2
+injustice|injusticia||S|ast|B2
+accessibility|accesibilidad||S|ast|B2
+superstition|superstición||S|ast|B2
+every other day|cada dos días||E|tmp|B2
+empty nester|persona con el nido vacío||S|fam|B2
+midlife crisis|crisis de mediana edad||S|fam|B2
+child-rearing|crianza de los hijos||S|fam|B2
+hand-me-down|prenda heredada de hermanos||S|fam|B2
+joint custody|custodia compartida||S|fam|B2
+sole custody|custodia en exclusiva||S|fam|B2
+visitation rights|derecho de visitas||S|fam|B2
+prenuptial agreement|acuerdo prematrimonial||S|fam|B2
+walk down memory lane|rememorar el pasado||E|fam|B2
+the elderly|las personas mayores||S|fam|B2
+elderly care|cuidado de personas mayores||S|fam|B2
+security deposit|fianza||S|cas|B2
+studio apartment|estudio de una habitación||S|cas|B2
+rental agreement|contrato de alquiler||S|cas|B2
+eviction notice|orden de desahucio||S|cas|B2
+storage unit|trastero||S|cas|B2
+split the rent|repartirse el alquiler||E|cas|B2
+renter's insurance|seguro de hogar del inquilino||S|cas|B2
+homeowners insurance|seguro de hogar del propietario||S|cas|B2
+walk-in shower|ducha sin mampara||S|cas|B2
+hardwood floor|suelo de madera||S|cas|B2
+kitchen island|isla de cocina||S|cas|B2
+backsplash|salpicadero de la cocina||S|cas|B2
+light fixture|lámpara de techo||S|cas|B2
+throw pillow|cojín decorativo||S|cas|B2
+remodel|reformar||V|cas|B2
+power tool|herramienta eléctrica||S|cas|B2
+paint roller|rodillo de pintura||S|cas|B2
+curb appeal|atractivo exterior de la vivienda||S|cas|B2
+open-concept|de concepto abierto||A|cas|B2
+housewarming party|fiesta de estreno de casa||S|cas|B2
+house hunting|búsqueda de vivienda||S|cas|B2
+starter home|primera vivienda||S|cas|B2
+up-and-coming neighborhood|barrio en alza||S|cit|B2
+school district|distrito escolar||S|stu|B2
+local amenities|servicios de la zona||S|cit|B2
+quiet hours|horas de descanso||S|cas|B2
+package theft|robo de paquetes||S|cit|B2
+food desert|desierto alimentario||S|ali|B2
+food miles|kilómetros que recorre el alimento||S|ali|B2
+farmers market|mercado de productores||S|ali|B2
+potluck|comida en la que cada uno aporta un plato||S|ali|B2
+nutrition facts|información nutricional||S|ali|B2
+added sugars|azúcares añadidos||S|ali|B2
+artificial sweetener|edulcorante artificial||S|ali|B2
+best-by date|fecha de consumo preferente||S|ali|B2
+grass-fed|alimentado con hierba||A|ali|B2
+cage-free|criado sin jaulas||A|ali|B2
+sustainably sourced|de origen sostenible||A|ali|B2
+sugary drink|bebida azucarada||S|ali|B2
+empty calories|calorías vacías||S|ali|B2
+plant-based diet|dieta basada en vegetales||S|ali|B2
+lactose intolerant|intolerante a la lactosa||A|sla|B2
+cross-contamination|contaminación cruzada||S|sla|B2
+meatloaf|pan de carne||S|ali|B2
+cornbread|pan de maíz||S|ali|B2
+buffalo wings|alitas de búfalo||S|ali|B2
+mac and cheese|macarrones con queso||S|ali|B2
+schnitzel|escalope vienés||S|ali|B2
+wine tasting|cata de vinos||S|ris|B2
+acquired taste|gusto adquirido||S|ris|B2
+cold brew|café elaborado en frío||S|ris|B2
+coffee grinder|molinillo de café||S|ris|B2
+single-origin|de origen único||A|ris|B2
+flavor notes|notas de sabor||S|ris|B2
+coffee culture|cultura del café||S|ris|B2
+avocado toast|tostada de aguacate||S|ris|B2
+whipped cream|nata montada||S|ali|B2
+gratuity|propina||S|ris|B2
+tipping culture|cultura de la propina||S|ris|B2
+open a tab|abrir una cuenta en la barra||E|ris|B2
+targeted ads|publicidad dirigida||S|cmp|B2
+loyalty program|programa de fidelización||S|cmp|B2
+price match|igualación de precios||S|cmp|B2
+extended warranty|garantía ampliada||S|cmp|B2
+lifetime warranty|garantía de por vida||S|cmp|B2
+return label|etiqueta de devolución||S|cmp|B2
+product recall|retirada de producto||S|cmp|B2
+small claims court|juzgado de reclamaciones menores||S|ist|B2
+consumer protection|protección del consumidor||S|ist|B2
+file a claim|presentar una reclamación||E|cmp|B2
+expedited shipping|envío urgente||S|cmp|B2
+out for delivery|en reparto||E|cmp|B2
+delivery slot|franja de entrega||S|cmp|B2
+preorder|reservar antes del lanzamiento||V|cmp|B2
+size chart|tabla de tallas||S|cmp|B2
+subscription box|caja por suscripción||S|cmp|B2
+limited edition|edición limitada||S|cmp|B2
+runs small|quedar pequeño de talla||E|rop|B2
+fender bender|choque leve||S|tra|B2
+jumper cables|cables de arranque||S|tra|B2
+hit-and-run|fuga tras un accidente||S|tra|B2
+distracted driving|conducción distraída||S|tra|B2
+defensive driving|conducción defensiva||S|tra|B2
+blind spot|ángulo muerto||S|tra|B2
+tailgate|conducir demasiado cerca||V|tra|B2
+learner's permit|permiso de aprendizaje||S|tra|B2
+parallel parking|aparcamiento en línea||S|tra|B2
+run out of gas|quedarse sin gasolina||E|tra|B2
+check engine light|luz de avería del motor||S|tra|B2
+windshield wiper|limpiaparabrisas||S|tra|B2
+tune-up|revisión del coche||S|tra|B2
+speed bump|badén||S|tra|B2
+transit card|tarjeta de transporte||S|tra|B2
+e-bike|bicicleta eléctrica||S|tra|B2
+park and ride|aparcamiento disuasorio||S|tra|B2
+jaywalking|cruzar fuera del paso de peatones||S|tra|B2
+car sharing|coche compartido||S|tra|B2
+ride-hailing|transporte con conductor||S|tra|B2
+passenger seat|asiento del copiloto||S|tra|B2
+round-trip ticket|billete de ida y vuelta||S|vig|B2
+quiet car|coche silencioso||S|vig|B2
+platform change|cambio de andén||S|vig|B2
+service disruption|interrupción del servicio||S|vig|B2
+overnight train|tren nocturno||S|vig|B2
+streetcar|tranvía||S|tra|B2
+railroad crossing|paso a nivel||S|tra|B2
+long-haul flight|vuelo de largo recorrido||S|vig|B2
+pat-down|cacheo||S|vig|B2
+customs declaration|declaración de aduanas||S|vig|B2
+visa waiver|exención de visado||S|vig|B2
+overstay your visa|exceder la validez del visado||E|vig|B2
+bellhop|botones||S|htl|B2
+turndown service|servicio nocturno de habitación||S|htl|B2
+late check-out|salida tardía||S|htl|B2
+adjoining rooms|habitaciones contiguas||S|htl|B2
+bed and breakfast|alojamiento con desayuno||S|htl|B2
+full board|pensión completa||S|htl|B2
+half board|media pensión||S|htl|B2
+cancellation policy|política de cancelación||S|htl|B2
+non-refundable|no reembolsable||A|htl|B2
+manager on duty|encargado de turno||S|htl|B2
+hidden gem|joya escondida||S|vig|B2
+annual checkup|revisión anual||S|sla|B2
+screening test|prueba de cribado||S|sla|B2
+preventive care|atención preventiva||S|sla|B2
+prescription refill|renovación de receta||S|sla|B2
+over-the-counter|de venta libre||A|sla|B2
+urgent care|centro de urgencias||S|sla|B2
+medical record|historial clínico||S|sla|B2
+out of network|fuera del cuadro médico||E|sla|B2
+out-of-pocket costs|gastos a cargo del paciente||S|sla|B2
+doctor's note|justificante médico||S|sla|B2
+disability benefits|prestación por incapacidad||S|lav|B2
+blood sugar|azúcar en sangre||S|sla|B2
+panic attack|ataque de pánico||S|sla|B2
+therapy session|sesión de terapia||S|sla|B2
+support group|grupo de apoyo||S|sla|B2
+cartilage|cartílago||S|cor|B2
+hamstring|isquiotibial||S|cor|B2
+pins and needles|hormigueo||S|cor|B2
+numb|entumecido||A|cor|B2
+stop the bleeding|taponar la hemorragia||E|sla|B2
+apply pressure|hacer presión||E|sla|B2
+recovery position|posición lateral de seguridad||S|sla|B2
+go into shock|entrar en estado de shock||E|sla|B2
+good Samaritan|buen samaritano||S|sla|B2
+bystander|persona que presencia un suceso||S|sla|B2
+adhesive bandage|tirita||S|sla|B2
+sleep apnea|apnea del sueño||S|sla|B2
+networking event|evento para hacer contactos||S|lav|B2
+elevator pitch|presentación breve de uno mismo||S|lav|B2
+panel interview|entrevista con un comité||S|lav|B2
+benefits package|paquete de prestaciones||S|lav|B2
+signing bonus|prima de contratación||S|lav|B2
+stock options|opciones sobre acciones||S|lav|B2
+workers' rights|derechos laborales||S|lav|B2
+workplace harassment|acoso laboral||S|lav|B2
+agenda item|punto del orden del día||S|lav|B2
+take the minutes|levantar acta||E|lav|B2
+circle back|retomar el tema más tarde||E|lav|B2
+touch base|ponerse en contacto brevemente||E|lav|B2
+brainstorming session|sesión de lluvia de ideas||S|lav|B2
+all-hands meeting|reunión de toda la plantilla||S|lav|B2
+keep in the loop|mantener al corriente||E|lav|B2
+cross-functional team|equipo multifuncional||S|lav|B2
+time management|gestión del tiempo||S|lav|B2
+deadline extension|prórroga de plazo||S|lav|B2
+small talk|charla de cortesía||S|cmu|B2
+digital nomad|nómada digital||S|lav|B2
+hybrid work|trabajo híbrido||S|lav|B2
+out-of-office reply|respuesta de ausencia||S|lav|B2
+prioritize|priorizar||V|lav|B2
+spearhead|encabezar una iniciativa||V|lav|B2
+take initiative|tomar la iniciativa||E|lav|B2
+soft skills|competencias blandas||S|lav|B2
+transferable skills|competencias transferibles||S|lav|B2
+reskill|reciclarse profesionalmente||V|lav|B2
+crash course|curso intensivo||S|stu|B2
+continuing education|formación continua||S|stu|B2
+apprenticeship|aprendizaje en empresa||S|stu|B2
+trade school|escuela de oficios||S|stu|B2
+company culture|cultura empresarial||S|lav|B2
+employee handbook|manual del empleado||S|lav|B2
+timesheet|parte de horas||S|lav|B2
+job shadowing|aprendizaje por observación||S|lav|B2
+track record|historial de logros||S|lav|B2
+mentorship|mentoría||S|lav|B2
+onboarding process|proceso de acogida||S|lav|B2
+midterm exam|examen parcial||S|stu|B2
+pass with flying colors|aprobar con nota||E|stu|B2
+flunk|suspender un examen||V|stu|B2
+grade point average|nota media del expediente||S|stu|B2
+transcript|expediente académico||S|stu|B2
+letter of recommendation|carta de recomendación||S|stu|B2
+tuition waiver|exención de tasas||S|stu|B2
+elective course|asignatura optativa||S|stu|B2
+prerequisite|requisito previo||S|stu|B2
+semester abroad|semestre en el extranjero||S|stu|B2
+credit transfer|convalidación de créditos||S|stu|B2
+orientation week|semana de bienvenida||S|stu|B2
+freshman year|primer año universitario||S|stu|B2
+office hours|horario de tutorías||S|stu|B2
+dean's list|lista de honor||S|stu|B2
+dining hall|comedor universitario||S|stu|B2
+room and board|alojamiento y manutención||S|stu|B2
+community garden|huerto urbano||S|cit|B2
+trash pickup|recogida de basura||S|cit|B2
+snow removal|retirada de nieve||S|cit|B2
+street cleaning|limpieza viaria||S|cit|B2
+local ordinance|ordenanza municipal||S|cit|B2
+building permit|licencia de obras||S|cit|B2
+taxpayer money|dinero de los contribuyentes||S|cit|B2
+heat advisory|aviso por calor extremo||S|cli|B2
+mudslide|corrimiento de tierra||S|cli|B2
+hurricane season|temporada de huracanes||S|cli|B2
+evacuation route|ruta de evacuación||S|cli|B2
+emergency shelter|refugio de emergencia||S|cli|B2
+first responder|primer interviniente||S|cli|B2
+state of emergency|estado de emergencia||S|ist|B2
+earthquake drill|simulacro de terremoto||S|cli|B2
+survival kit|kit de supervivencia||S|cli|B2
+air quality alert|aviso de contaminación||S|cli|B2
+water restrictions|restricciones de agua||S|cli|B2
+rolling blackouts|apagones rotatorios||S|nat|B2
+energy efficiency|eficiencia energética||S|nat|B2
+microplastics|microplásticos||S|nat|B2
+organic farming|agricultura ecológica||S|nat|B2
+leave no trace|no dejar rastro||E|nat|B2
+storm drain|sumidero||S|cit|B2
+vintage clothing|ropa vintage||S|rop|B2
+capsule wardrobe|armario cápsula||S|rop|B2
+statement piece|prenda estrella||S|rop|B2
+business casual|vestimenta informal elegante||S|rop|B2
+costume jewelry|bisutería||S|rop|B2
+faux fur|piel sintética||S|rop|B2
+garment industry|industria textil||S|rop|B2
+operating system|sistema operativo||S|tec|B2
+open-source|de código abierto||A|tec|B2
+beta version|versión beta||S|tec|B2
+user interface|interfaz de usuario||S|tec|B2
+cloud backup|copia de seguridad en la nube||S|tec|B2
+app permissions|permisos de aplicaciones||S|tec|B2
+dark mode|modo oscuro||S|tec|B2
+clear the cache|borrar la caché||E|tec|B2
+screen protector|protector de pantalla||S|tec|B2
+unlocked phone|teléfono liberado||S|tec|B2
+contactless payment|pago sin contacto||S|tec|B2
+mobile wallet|monedero digital||S|tec|B2
+unlimited data|datos ilimitados||S|tec|B2
+robocall|llamada automática no deseada||S|tec|B2
+caller ID|identificador de llamadas||S|tec|B2
+group chat|grupo de mensajería||S|tec|B2
+read receipt|confirmación de lectura||S|tec|B2
+trending topic|tema tendencia||S|tec|B2
+hate speech|discurso de odio||S|tec|B2
+phishing scam|estafa de phishing||S|tec|B2
+password manager|gestor de contraseñas||S|tec|B2
+incognito mode|modo incógnito||S|tec|B2
+cookie policy|política de cookies||S|tec|B2
+ad blocker|bloqueador de publicidad||S|tec|B2
+spam filter|filtro de spam||S|tec|B2
+junk folder|carpeta de correo no deseado||S|tec|B2
+autoplay|reproducción automática||S|tec|B2
+sportsmanship|deportividad||S|spt|B2
+fair play|juego limpio||S|spt|B2
+wildcard|comodín||S|spt|B2
+home field advantage|ventaja de jugar en casa||S|spt|B2
+doping test|control antidopaje||S|spt|B2
+performance-enhancing drugs|sustancias dopantes||S|spt|B2
+instant replay|repetición instantánea||S|spt|B2
+free throw|tiro libre||S|spt|B2
+pulled muscle|distensión muscular||S|spt|B2
+stress fracture|fractura por estrés||S|spt|B2
+knee brace|rodillera||S|spt|B2
+sports drink|bebida isotónica||S|spt|B2
+strength training|entrenamiento de fuerza||S|spt|B2
+hydration|hidratación||S|spt|B2
+resting heart rate|frecuencia cardíaca en reposo||S|spt|B2
+debut album|primer álbum||S|mus|B2
+tribute band|banda tributo||S|mus|B2
+vinyl record|disco de vinilo||S|mus|B2
+turntable|giradiscos||S|mus|B2
+chord progression|progresión de acordes||S|mus|B2
+backup singer|corista||S|mus|B2
+perfect pitch|oído absoluto||S|mus|B2
+tone-deaf|sin oído musical||A|mus|B2
+a cappella|a capela||A|mus|B2
+open mic|micro abierto||S|mus|B2
+spoiler alert|aviso de spoilers||S|cin|B2
+pilot episode|episodio piloto||S|cin|B2
+character development|desarrollo de los personajes||S|cin|B2
+plot hole|agujero de guion||S|cin|B2
+casting call|convocatoria de casting||S|cin|B2
+director's cut|montaje del director||S|cin|B2
+blooper|toma falsa||S|cin|B2
+docuseries|docuserie||S|cin|B2
+reboot|reinicio de una franquicia||S|cin|B2
+arthouse film|cine de autor||S|cin|B2
+film buff|cinéfilo||S|cin|B2
+slow-paced|de ritmo lento||A|cin|B2
+whirlwind romance|romance vertiginoso||S|rel|B2
+pop the question|pedir matrimonio||E|rel|B2
+wedding vows|votos matrimoniales||S|rel|B2
+maid of honor|dama de honor||S|rel|B2
+make a toast|brindar||E|rel|B2
+save the date|apartar la fecha||E|rel|B2
+long-distance relationship|relación a distancia||S|rel|B2
+double date|cita doble||S|rel|B2
+clear the air|aclarar las cosas||E|rel|B2
+mutual friend|amigo en común||S|rel|B2
+rebound relationship|relación de rebote||S|rel|B2
+toxic relationship|relación tóxica||S|rel|B2
+irreconcilable differences|diferencias irreconciliables||S|rel|B2
+trial separation|separación de prueba||S|rel|B2
+play it by ear|improvisar sobre la marcha||E|rel|B2
+go with the flow|dejarse llevar||E|rel|B2
+take a rain check|dejarlo para otro día||E|rel|B2
+cultural identity|identidad cultural||S|ast|B2
+pay gap|brecha salarial||S|lav|B2
+hate crime|delito de odio||S|ist|B2
+sign language interpreter|intérprete de lengua de signos||S|pro|B2
+assistive technology|tecnología de apoyo||S|tec|B2
+nonprofit organization|organización sin ánimo de lucro||S|ist|B2
+food bank|banco de alimentos||S|ist|B2
+homeless shelter|albergue para personas sin hogar||S|ist|B2
+defense attorney|abogado defensor||S|pro|B2
+district attorney|fiscal de distrito||S|pro|B2
+public defender|defensor de oficio||S|pro|B2
+lab technician|técnico de laboratorio||S|pro|B2
+registered nurse|enfermero titulado||S|pro|B2
+nurse practitioner|enfermero de práctica avanzada||S|pro|B2
+guidance counselor|orientador escolar||S|pro|B2
+teacher's aide|ayudante de clase||S|pro|B2
+investigative journalist|periodista de investigación||S|pro|B2
+podcast host|presentador de pódcast||S|pro|B2
 `;

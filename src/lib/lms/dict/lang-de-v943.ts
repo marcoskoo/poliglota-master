@@ -16,6 +16,12 @@ import { DE_V943_13_RAW } from "./lang-de-v943-13";
 import { DE_V943_14_RAW } from "./lang-de-v943-14";
 import { DE_V943_15_RAW } from "./lang-de-v943-15";
 import { DE_V943_16_RAW } from "./lang-de-v943-16";
+import { DE_V943_17_RAW } from "./lang-de-v943-17";
+import { DE_V943_18_RAW } from "./lang-de-v943-18";
+import { DE_V943_19_RAW } from "./lang-de-v943-19";
+import { DE_V943_20_RAW } from "./lang-de-v943-20";
+import { DE_V943_21_RAW } from "./lang-de-v943-21";
+import { DE_V943_22_RAW } from "./lang-de-v943-22";
 
 /* v9.43 · DE MEGA 16.000 · bloques generados (ids de943-m<lvl>-<slug>) */
-export const DE_V943: VocabWord[] = parseMega([DE_V943_1_RAW, DE_V943_2_RAW, DE_V943_3_RAW, DE_V943_4_RAW, DE_V943_5_RAW, DE_V943_6_RAW, DE_V943_7_RAW, DE_V943_8_RAW, DE_V943_9_RAW, DE_V943_10_RAW, DE_V943_11_RAW, DE_V943_12_RAW, DE_V943_13_RAW, DE_V943_14_RAW, DE_V943_15_RAW, DE_V943_16_RAW].join("\n"), "de943");
+export const DE_V943: VocabWord[] = parseMega([DE_V943_1_RAW, DE_V943_2_RAW, DE_V943_3_RAW, DE_V943_4_RAW, DE_V943_5_RAW, DE_V943_6_RAW, DE_V943_7_RAW, DE_V943_8_RAW, DE_V943_9_RAW, DE_V943_10_RAW, DE_V943_11_RAW, DE_V943_12_RAW, DE_V943_13_RAW, DE_V943_14_RAW, DE_V943_15_RAW, DE_V943_16_RAW, DE_V943_17_RAW, DE_V943_18_RAW, DE_V943_19_RAW, DE_V943_20_RAW, DE_V943_21_RAW, DE_V943_22_RAW].join("\n"), "de943");

@@ -1,4 +1,4 @@
-/* v9.43 · PT bloque 9/16 · 700 entradas */
+/* v9.43 · PT bloque 9/22 · 700 entradas */
 export const PT_V943_9_RAW = `
 cuidados continuados|cuidados continuos||S|ist|C1
 apoio domiciliário|ayuda a domicilio||S|ist|C1

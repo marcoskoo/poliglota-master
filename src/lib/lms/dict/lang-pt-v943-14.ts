@@ -1,4 +1,4 @@
-/* v9.43 · PT bloque 14/16 · 700 entradas */
+/* v9.43 · PT bloque 14/22 · 700 entradas */
 export const PT_V943_14_RAW = `
 vida selvagem|vida salvaje||L|ani|B1
 humidade|humedad||S|cli|B1

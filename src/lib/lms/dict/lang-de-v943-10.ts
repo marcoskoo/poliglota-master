@@ -1,4 +1,4 @@
-/* v9.43 · DE bloque 10/16 · 700 entradas */
+/* v9.43 · DE bloque 10/22 · 700 entradas */
 export const DE_V943_10_RAW = `
 die Halbwahrheit|media verdad||S|cmu|C1
 die Scheinheiligkeit|hipocresía, beatería||S|ast|C1

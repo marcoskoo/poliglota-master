@@ -1,4 +1,4 @@
-/* v9.43 · FR bloque 4/16 · 700 entradas */
+/* v9.43 · FR bloque 4/24 · 700 entradas */
 export const FR_V943_4_RAW = `
 boucher|carnicero||S|pro|B1
 standardiste|telefonista||S|pro|B1

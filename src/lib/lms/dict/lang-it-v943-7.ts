@@ -1,4 +1,4 @@
-/* v9.43 · IT bloque 7/7 · 419 entradas */
+/* v9.43 · IT bloque 7/11 · 700 entradas */
 export const IT_V943_7_RAW = `
 di buon grado|de buena gana||L|emo|C1
 talora|a veces (tal vez)||D|ast|C1
@@ -419,4 +419,285 @@ fiutare|olfatear (husmear)||V|cmu|C2
 divisare|divisar||V|vig|C2
 avvistare|avistar||V|vig|C2
 scrutare|escrutar||V|cmu|C2
+figliastro|hijastro||S|fam|B2
+ribelle|rebelde||A|fam|B2
+sfratto|desahucio||S|cas|B2
+inquilino|inquilino||S|cas|B2
+casareccio|de cocina casera||A|ali|B2
+lattosio|lactosa||S|ali|B2
+speziato|especiado||A|ali|B2
+sponsorizzare|patrocinar||V|cmp|B2
+pubblicitario|publicitario||A|cmp|B2
+reclamazione|reclamación||S|cmp|B2
+corriere|empresa de mensajería||S|cmp|B2
+pagamento alla consegna|pago contra reembolso||L|cmp|B2
+officina|taller (de automóviles)||S|tra|B2
+corsia ciclabile|carril bici||L|tra|B2
+rimborso spese|reembolso de gastos||L|vig|B2
+permesso di lavoro|permiso de trabajo||L|vig|B2
+stressante|estresante||A|emo|B2
+rilassante|relajante||A|sla|B2
+reclutamento|reclutamiento||S|lav|B2
+trasferimento|traslado||S|lav|B2
+tavola rotonda|mesa redonda||L|lav|B2
+contrattazione|negociación colectiva||S|lav|B2
+retribuito|remunerado||A|lav|B2
+attestato|certificado||S|stu|B2
+tasse universitarie|tasas universitarias||L|stu|B2
+ripasso|repaso||S|stu|B2
+mappa concettuale|mapa conceptual||L|stu|B2
+nettezza urbana|limpieza viaria||L|cit|B2
+tessile|textil||A|rop|B2
+cyberbullismo|ciberacoso||S|tec|B2
+diventare virale|hacerse viral||L|tec|B2
+fuga di dati|filtración de datos||L|tec|B2
+copia di backup|copia de seguridad||L|tec|B2
+finalista|finalista||S|spt|B2
+accessibilità|accesibilidad||S|ast|B2
+garante|avalista||S|fin|B2
+anzianità|antigüedad||S|lav|B2
+saldatore|soldador||S|pro|B2
+educatore|educador||S|pro|B2
+illustratore|ilustrador||S|pro|B2
+deputato|diputado||S|ist|B2
+costellazione|constelación||S|sci|B2
+narrazione|narración||S|let|B2
+nidificare|anidar||V|ani|B2
+svago|ocio||S|sve|B2
+lavorare a maglia|hacer punto||L|sve|B2
+forza di volontà|fuerza de voluntad||L|emo|B2
+parlare in pubblico|hablar en público||L|cmu|B2
+a quanto pare|al parecer||E|cnn|B2
+impressionismo|impresionismo||S|art|B2
+cupola|cúpula||S|art|B2
+pianerottolo|rellano||S|cas|B2
+additivo|aditivo||S|ali|B2
+pendolare|persona que viaja a diario||S|tra|B2
+bendare|vendar||V|sla|B2
+perfezionamento|perfeccionamiento||S|lav|B2
+riconoscimento dei crediti|convalidación de créditos||L|stu|B2
+agenzia immobiliare|inmobiliaria||L|cas|B2
+acquisto online|compra online||L|cmp|B2
+conferma d'ordine|confirmación del pedido||L|cmp|B2
+sfondo|fondo de pantalla||S|tec|B2
+amatoriale|de aficionados||A|spt|B2
+dal vivo|en directo||L|mus|B2
+piattaforma di streaming|plataforma de streaming||L|cin|B2
+episodio pilota|episodio piloto||L|cin|B2
+bomboniera|recuerdo de boda||S|rel|B2
+addio al celibato|despedida de soltero||L|rel|B2
+costo della vita|coste de la vida||L|fin|B2
+caffettiera|cafetera||S|ris|B2
+vandalismo|vandalismo||S|cit|B2
+telecamera di sorveglianza|cámara de vigilancia||L|cit|B2
+pseudoscienza|pseudociencia||S|sci|B2
+club di lettura|club de lectura||L|let|B2
+romanzo rosa|novela romántica||L|let|B2
+scarpone|bota de montaña||S|spt|B2
+città d'arte|ciudad de arte||L|vig|B2
+crescita personale|crecimiento personal||L|emo|B2
+disservizio|deficiencia en el servicio||S|cmu|B2
+sorte|suerte (sino)||S|ast|B2
+doganiere|agente de aduanas||S|vig|B2
+deposito bagagli|guardaequipaje||L|htl|B2
+tramandare|transmitir (un legado)||V|fam|B2
+sonnolenza|somnolencia||S|sla|B2
+spostare|mover (una cita)||V|tmp|B2
+canile|perrera||S|ani|B2
+dare uno strappo|llevar a alguien (en coche)||L|tra|B2
+condivisione dell'auto|coche compartido||L|tra|B2
+spesuccia|gasto mínimo||S|fin|B2
+spuntino veloce|tentempié rápido||E|ali|B2
+sconto fedeltà|descuento por fidelidad||E|cmp|B2
+tiro a volo|tiro al vuelo||E|spt|B2
+tregua sindacale|tregua sindical||E|lav|B2
+tasso di scolarizzazione|tasa de escolarización||E|stu|B2
+serranda avvolgibile|persiana enrollable||S|cas|B2
+tutore ortopedico|tutor ortopédico||S|sla|B2
+trenino delle miniere|trenecito minero||E|vig|B2
+trasferta sportiva|partido fuera||E|spt|B2
+trattamento termale|tratamiento termal||E|sla|B2
+vendita flash|venta flash||E|cmp|B2
+versamento contributivo|aportación contributiva||E|fin|B2
+vigile urbano|agente municipal||S|pro|B2
+vino novello|vino nuevo||E|ali|B2
+zaino in spalla|mochila a cuestas||E|vig|B2
+zoccoli|zuecos||S|rop|B2
+sbalzo termico|escalón térmico||E|cli|B2
+sbarramento di polizia|control policial||E|att|B2
+scadenza del contratto|vencimiento del contrato||E|fin|B2
+scandalo a mezzo stampa|escándalo mediático||E|cmu|B2
+schermaglia giornalistica|escaramuza periodística||E|cmu|B2
+scivolo idrico|tobogán acuático||S|sve|B2
+scolatura|escurrido||S|ali|B2
+scrivania ordinata|escritorio ordenado||E|lav|B2
+secondo parere|segunda opinión||E|sla|B2
+seduta di fisioterapia|sesión de fisioterapia||E|sla|B2
+segnalazione stradale|señalización vial||E|tra|B2
+serra idroponica|invernadero hidropónico||E|nat|B2
+servizio post-vendita|servicio posventa||E|fin|B2
+sfogo cutaneo|erupción cutánea||E|sla|B2
+sigla televisiva|sintonía (tv)||E|cin|B2
+simulazione d'esame|simulacro de examen||E|stu|B2
+smaltimento tossine|eliminación de toxinas||E|sla|B2
+soglia di accessibilità|umbral de accesibilidad||E|ist|B2
+solare termico|solar térmico||E|tec|B2
+sopralluogo tecnico|inspección técnica||E|tec|B2
+sosta vietata|estacionamiento prohibido||E|tra|B2
+sottoscrizione azionaria|suscripción accionarial||E|fin|B2
+sottovuoto alimentare|vacío alimentario||E|ali|B2
+patrocinio gratuito|asistencia jurídica gratuita||L|ist|C1
+ricorso gerarchico|recurso jerárquico||L|ist|C1
+termini perentori|plazos perentorios||L|ist|C1
+penale convenzionale|cláusula penal||S|ist|C1
+ipoteca giudiziaria|hipoteca judicial||L|ist|C1
+apologia del reato|apología del delito||L|ist|C1
+frode processuale|fraude procesal||L|ist|C1
+nesso causale|nexo causal||L|ist|C1
+anamnesi patologica|antecedentes patológicos||L|sla|C1
+remissione completa|remisión completa||L|sla|C1
+emivita plasmatica|semivida plasmática||L|sla|C1
+sperimentazione in doppio cieco|ensayo doble ciego||L|sla|C1
+terapia anticoagulante|tratamiento anticoagulante||L|sla|C1
+insufficienza mitralica|insuficiencia mitral||L|sla|C1
+iperparatiroidismo|hiperparatiroidismo||S|sla|C1
+marcatore tumorale|marcador tumoral||L|sla|C1
+braquiterapia|braquiterapia||S|sla|C1
+cefalea a grappolo|cefalea en racimos||L|sla|C1
+anosognosia|anosognosia||S|sla|C1
+sincope vasovagale|síncope vasovagal||L|sla|C1
+sclerosi a placche|esclerosis en placas||L|sla|C1
+parkinsonismo|parkinsonismo||S|sla|C1
+gravidanza gemellare|embarazo gemelar||L|sla|C1
+ernia iatale|hernia de hiato||L|sla|C1
+colecistectomia|colecistectomía||S|sla|C1
+frattura comminuta|fractura conminuta||L|sla|C1
+rizoartrosi|rizartrosis||S|sla|C1
+innesto cutaneo|injerto cutáneo||L|sla|C1
+episodio maniacale|episodio maníaco||L|emo|C1
+delirio di riferimento|delirio de referencia||L|emo|C1
+autolesionismo|conducta autolesiva||S|emo|C1
+psicoeducazione|psicoeducación||S|sla|C1
+focolaio epidemico|brote epidémico||L|sla|C1
+microbiota intestinale|microbiota intestinal||L|sci|C1
+terreno di coltura|caldo de cultivo||L|sci|C1
+interleuchina|interleucina||S|sci|C1
+sequenziamento del genoma|secuenciación del genoma||L|sci|C1
+flusso genico|flujo génico||L|sci|C1
+esone|exón||S|sci|C1
+metilazione|metilación||S|sci|C1
+aneuploidia|aneuploidía||S|sci|C1
+ricaptazione della serotonina|recaptación de serotonina||L|sci|C1
+eminegligenza|heminegligencia||S|sci|C1
+memoria procedurale|memoria procedimental||L|sci|C1
+inibizione cognitiva|inhibición cognitiva||L|sci|C1
+cromatografia liquida|cromatografía líquida||L|sci|C1
+conduttometria|conductimetría||S|sci|C1
+cristallizzazione frazionata|cristalización fraccionada||L|sci|C1
+elettronegatività|electronegatividad||S|sci|C1
+sovrapposizione quantistica|superposición cuántica||L|sci|C1
+leptone|leptón||S|sci|C1
+gluone|gluón||S|sci|C1
+materia barionica|materia bariónica||L|sci|C1
+ammasso di galassie|cúmulo de galaxias||L|sci|C1
+inflazione cosmica|inflación cósmica||L|sci|C1
+endogeneità|endogeneidad||S|sci|C1
+regressione non lineare|regresión no lineal||L|sci|C1
+campione stratificato|muestra estratificada||L|sci|C1
+variabile latente|variable latente||L|sci|C1
+dimostrazione per assurdo|demostración por reducción al absurdo||L|sci|C1
+insiemistica|teoría de conjuntos||S|sci|C1
+isostasia|isostasia||S|nat|C1
+allentamento quantitativo|flexibilización cuantitativa||L|fin|C1
+creazione monetaria|creación monetaria||L|fin|C1
+massa monetaria|masa monetaria||L|fin|C1
+disinflazione|desinflación||S|fin|C1
+paniere dei prezzi|cesta de precios||L|fin|C1
+pareggio di bilancio|equilibrio presupuestario||L|fin|C1
+revisione legale dei conti|auditoría de cuentas||L|fin|C1
+ritorsione commerciale|represalia comercial||L|fin|C1
+metanarrazione|metanarración||S|let|C1
+saffico|sáfico||A|let|C1
+entelechia|entelequia||S|ast|C1
+riduzionismo|reduccionismo||S|ast|C1
+abduzione|abducción||S|ast|C1
+deissi|deíxis||S|stu|C1
+iponimo|hipónimo||S|stu|C1
+coerenza testuale|coherencia textual||L|stu|C1
+implicatura conversazionale|implicatura conversacional||L|stu|C1
+glottologia|glotología||S|stu|C1
+società dello spettacolo|sociedad del espectáculo||L|ast|C1
+episteme|episteme||S|ast|C1
+deterrenza nucleare|disuasión nuclear||L|att|C1
+apolide|apátrida||S|ast|C1
+buon ufficio|buenos oficios||L|att|C1
+meticciamento|mestizaje||S|ast|C1
+creolizzazione|criollización||S|ast|C1
+tessitura|tessitura||S|mus|C1
+aggiudicazione all'asta|adjudicación en subasta||L|art|C1
+puntasecca|punta seca||S|art|C1
+sottopancia|subtítulo sobreimpreso||S|cin|C1
+discesa del gradiente|descenso del gradiente||L|tec|C1
+riconoscimento biometrico|reconocimiento biométrico||L|tec|C1
+microarchitettura|microarquitectura||S|tec|C1
+analisi predittiva|analítica predictiva||L|tec|C1
+dispacciamento|despacho eléctrico||S|tec|C1
+manutenzione predittiva|mantenimiento predictivo||L|tec|C1
+franosità|inestabilidad de ladera||S|nat|C1
+piena centennale|crecida centenaria||L|nat|C1
+appassimento delle uve|pasificación de la uva||L|ali|C1
+sboccatura|degüello||S|ali|C1
+cicerchia|almorta||S|ali|C1
+scapece|escabeche||S|ali|C1
+pusillanimità|pusilanimidad||S|emo|C1
+sornione|socarrón||A|emo|C1
+prevaricare|prevaricar||V|cmu|C1
+prestito d'opera|cesión temporal de personal||L|lav|C1
+verbigrazia|por ejemplo||L|cnn|C1
+come a dire|por así decirlo||L|cnn|C1
+fuor di metafora|fuera de metáfora||L|cnn|C1
+posto che|puesto que||L|cnn|C1
+accingersi|disponerse a||V|cmu|C1
+avvedersi|darse cuenta||V|cmu|C1
+sibillino|sibilino||A|cmu|C1
+reddito di inclusione|renta de inclusión||L|ist|C1
+supercompensazione|supercompensación||S|spt|C1
+allevamento selettivo|cría selectiva||L|ani|C1
+nimbostrato|nimboestrato||S|cli|C1
+albori|albores||S|let|C1
+tetrago|tétrago||A|let|C1
+landa|páramo||S|nat|C1
+all'addiaccio|a la intemperie||L|let|C1
+piccineria|mezquindad||S|ast|C1
+per difetto|por defecto||L|ast|C1
+per eccesso|por exceso||L|ast|C1
+togliere il disturbo|irse sin molestar||L|cmu|C1
+senza contare che|aparte de que||L|cnn|C1
+tessuto urbano|trama urbana||L|cit|C1
+rifunzionalizzazione|refuncionalización||S|art|C1
+avvicendamento delle colture|rotación de cultivos||L|nat|C1
+abbacare|tumbar||V|spt|C1
+abborracciato|malhecho (mal hecho)||A|ast|C1
+abbellimento|embellecimiento||S|art|C1
+abboccamento|entrevista (negociación)||S|fin|C1
+abbottonare|abotonar||V|rop|C1
+abbrutimento|embrutecimiento||S|sci|C1
+abbellitore|decorador||S|pro|C1
+abdurre|inferir||V|sci|C1
+aberrazione cromosomica|aberración cromosómica||E|sci|C1
+abitabilità|habitabilidad||S|cas|C1
+abitino|vestidito||S|rop|C1
+abnorme|anormal||A|sci|C1
+abortività|tasa de abortos||S|sla|C1
+abrasione|abrasión||S|sci|C1
+abruzzese|abruzzese||A|nat|C1
+absorbenza|absorbancia||S|sci|C1
+accattonaggio|mendicidad||S|att|C1
+accelerazione di particelle|aceleración de partículas||E|sci|C1
+accentazione|acentuación||S|let|C1
+accesso di collera|acceso de cólera||E|emo|C1
+accessoriato|con accesorios||A|tec|C1
+acclimatazione|aclimatación||S|nat|C1
+accoglienza turistica|recepción turística||E|vig|C1
+accoltellamento|apuñalamiento||S|att|C1
 `;

@@ -14,6 +14,10 @@ import { EN_V943_11_RAW } from "./lang-en-v943-11";
 import { EN_V943_12_RAW } from "./lang-en-v943-12";
 import { EN_V943_13_RAW } from "./lang-en-v943-13";
 import { EN_V943_14_RAW } from "./lang-en-v943-14";
+import { EN_V943_15_RAW } from "./lang-en-v943-15";
+import { EN_V943_16_RAW } from "./lang-en-v943-16";
+import { EN_V943_17_RAW } from "./lang-en-v943-17";
+import { EN_V943_18_RAW } from "./lang-en-v943-18";
 
 /* v9.43 · EN MEGA 16.000 · bloques generados (ids en943-m<lvl>-<slug>) */
-export const EN_V943: VocabWord[] = parseMega([EN_V943_1_RAW, EN_V943_2_RAW, EN_V943_3_RAW, EN_V943_4_RAW, EN_V943_5_RAW, EN_V943_6_RAW, EN_V943_7_RAW, EN_V943_8_RAW, EN_V943_9_RAW, EN_V943_10_RAW, EN_V943_11_RAW, EN_V943_12_RAW, EN_V943_13_RAW, EN_V943_14_RAW].join("\n"), "en943");
+export const EN_V943: VocabWord[] = parseMega([EN_V943_1_RAW, EN_V943_2_RAW, EN_V943_3_RAW, EN_V943_4_RAW, EN_V943_5_RAW, EN_V943_6_RAW, EN_V943_7_RAW, EN_V943_8_RAW, EN_V943_9_RAW, EN_V943_10_RAW, EN_V943_11_RAW, EN_V943_12_RAW, EN_V943_13_RAW, EN_V943_14_RAW, EN_V943_15_RAW, EN_V943_16_RAW, EN_V943_17_RAW, EN_V943_18_RAW].join("\n"), "en943");

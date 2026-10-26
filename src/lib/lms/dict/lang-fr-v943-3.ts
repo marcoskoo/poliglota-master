@@ -1,4 +1,4 @@
-/* v9.43 · FR bloque 3/16 · 700 entradas */
+/* v9.43 · FR bloque 3/24 · 700 entradas */
 export const FR_V943_3_RAW = `
 impressionnisme|impresionismo||S|art|B1
 cubisme|cubismo||S|art|B1

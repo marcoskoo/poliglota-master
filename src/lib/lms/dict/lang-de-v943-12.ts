@@ -1,4 +1,4 @@
-/* v9.43 · DE bloque 12/16 · 700 entradas */
+/* v9.43 · DE bloque 12/22 · 700 entradas */
 export const DE_V943_12_RAW = `
 die Handhabung|manipulación (de piezas)||S|tec|C2
 die Fernüberwachung|monitorización remota||S|tec|C2

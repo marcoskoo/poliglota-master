@@ -1,4 +1,4 @@
-/* v9.43 · EN bloque 13/14 · 700 entradas */
+/* v9.43 · EN bloque 13/18 · 700 entradas */
 export const EN_V943_13_RAW = `
 torsion|torsión||S|pro|C2
 thermal expansion|dilatación térmica||S|pro|C2

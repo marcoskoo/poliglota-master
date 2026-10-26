@@ -1,4 +1,4 @@
-/* v9.43 · DE bloque 16/16 · 604 entradas */
+/* v9.43 · DE bloque 16/22 · 700 entradas */
 export const DE_V943_16_RAW = `
 die Grenzkosten|coste marginal||S|fin|C1
 das Marktgleichgewicht|equilibrio de mercado||S|fin|C1
@@ -604,4 +604,100 @@ die Uferpromenade|paseo ribereño||S|cit|C2
 die Stadterneuerung|regeneración urbana||S|cit|C2
 das Sicherungsgerät|dispositivo de aseguramiento||S|spt|C2
 die Hochtour|travesía de alta montaña||S|spt|C2
+der Gruß|saludo||S|sal|A2
+kennenlernen|conocer (a alguien por primera vez)||V|sal|A2
+danke schön|muchas gracias||E|sal|A2
+bitte schön|de nada||E|sal|A2
+sich bedanken|dar las gracias||V|sal|A2
+die Ananas|piña||S|ali|A2
+das Eigelb|yema||S|ali|A2
+die Scheibe|rebanada||S|ali|A2
+der Orangensaft|zumo de naranja||S|ali|A2
+das Mineralwasser|agua mineral||S|ali|A2
+die Konditorei|pastelería||S|cmp|A2
+der Geldschein|billete||S|fin|A2
+die Schachtel|caja||S|cmp|A2
+die Linie|línea||S|tra|A2
+die Abfahrt|salida (de un tren)||S|tra|A2
+der Fahrradhelm|casco (de bici)||S|tra|A2
+der Radfahrer|ciclista||S|tra|A2
+der Fahrradweg|carril bici||S|tra|A2
+die Kreuzfahrt|crucero||S|vig|A2
+das Bauchweh|dolor de tripa||S|sla|A2
+der Tropfen|gota||S|sla|A2
+die Packungsbeilage|prospecto||S|sla|A2
+die Putzfrau|señora de la limpieza||S|pro|A2
+der Schulhof|patio del colegio||S|stu|A2
+sich verspäten|llegar tarde||V|stu|A2
+die Erdkunde|geografía||S|stu|A2
+der Taschenrechner|calculadora||S|stu|A2
+das Arbeitsblatt|ficha de ejercicios||S|stu|A2
+der Turm|torre||S|cit|A2
+abbiegen|girar||V|cit|A2
+der Schneemann|muñeco de nieve||S|cli|A2
+die Sommerferien|vacaciones de verano||S|cli|A2
+der Stiefel|bota||S|rop|A2
+die Fernbedienung|mando a distancia||S|tec|A2
+der Link|enlace||S|tec|A2
+das Turnen|gimnasia||S|spt|A2
+der Schläger|raqueta||S|spt|A2
+die Volksmusik|música folclórica||S|mus|A2
+der Zeichentrick|dibujo animado||S|cin|A2
+die Fernsehserie|serie de televisión||S|cin|A2
+miteinander|el uno con el otro||D|rel|A2
+getrennt|separado (pagando cada uno lo suyo)||A|ris|A2
+dunkelblau|azul oscuro||A|col|A2
+hellblau|azul claro||A|col|A2
+der Wellensittich|periquito||S|ani|A2
+das Futter|comida para animales||S|ani|A2
+der Esel|burro||S|ani|A2
+der Stall|establo||S|ani|A2
+der Floh|pulga||S|ani|A2
+die Libelle|libélula||S|ani|A2
+der Hügel|colina||S|nat|A2
+die Wüste|desierto||S|nat|A2
+der Ast|rama||S|nat|A2
+der Samen|semilla||S|nat|A2
+die Sandburg|castillo de arena||S|nat|A2
+der Leuchtturm|faro||S|nat|A2
+der Vormittag|mañana (antes del mediodía)||S|tmp|A2
+das Datum|fecha||S|tmp|A2
+der Wochentag|día de la semana||S|tmp|A2
+die Gartenarbeit|jardinería||S|sve|A2
+das Schach|ajedrez||S|sve|A2
+das Kreuzworträtsel|crucigrama||S|sve|A2
+der Glückwunsch|felicitación||S|sve|A2
+neugierig|curioso||A|emo|A2
+frech|descarado||A|emo|A2
+der Buntstift|lápiz de colores||S|art|A2
+die Kreide|tiza||S|art|A2
+Gern geschehen|de nada||E|sal|A2
+der Kohl|col||S|ali|A2
+die Vanille|vainilla||S|ali|A2
+das Lenkrad|volante||S|tra|A2
+die Rückfahrkarte|billete de ida y vuelta||S|tra|A2
+die Abreise|salida del hotel||S|htl|A2
+die Pille|píldora||S|sla|A2
+der Umschlag|sobre||S|lav|A2
+der Locher|perforadora||S|lav|A2
+die Heftmaschine|grapadora||S|lav|A2
+die Informatik|informática||S|stu|A2
+die Oper|ópera||S|cit|A2
+das Polizeirevier|comisaría||S|cit|A2
+die Sandale|sandalia||S|rop|A2
+der Schnürsenkel|cordón||S|rop|A2
+der Stecker|clavija||S|tec|A2
+das Kabel|cable||S|tec|A2
+die Webseite|página web||S|tec|A2
+die Suchmaschine|buscador||S|tec|A2
+das Schwimmen|natación||S|spt|A2
+das Trikot|camiseta deportiva||S|spt|A2
+der Horrorfilm|película de terror||S|cin|A2
+der Western|película del Oeste||S|cin|A2
+die Clique|pandilla||S|rel|A2
+die Henne|gallina||S|ani|A2
+der Marienkäfer|mariquita||S|ani|A2
+die Sonnenblume|girasol||S|nat|A2
+der Lavendel|lavanda||S|nat|A2
+die Viertelstunde|cuarto de hora||S|tmp|A2
 `;

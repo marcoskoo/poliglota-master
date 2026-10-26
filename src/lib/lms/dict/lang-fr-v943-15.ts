@@ -1,4 +1,4 @@
-/* v9.43 · FR bloque 15/16 · 700 entradas */
+/* v9.43 · FR bloque 15/24 · 700 entradas */
 export const FR_V943_15_RAW = `
 consanguinité|consanguinidad||S|sci|C1
 allures|aires||S|ani|C1

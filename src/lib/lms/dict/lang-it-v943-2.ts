@@ -1,4 +1,4 @@
-/* v9.43 · IT bloque 2/7 · 700 entradas */
+/* v9.43 · IT bloque 2/11 · 700 entradas */
 export const IT_V943_2_RAW = `
 divisione dei poteri|división de poderes||L|ist|C1
 politicizzare|politizar||V|ist|C1

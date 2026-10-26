@@ -1,4 +1,4 @@
-/* v9.43 · DE bloque 15/16 · 700 entradas */
+/* v9.43 · DE bloque 15/22 · 700 entradas */
 export const DE_V943_15_RAW = `
 das Vitamin|vitamina||S|ali|B1
 die Frühlingsrolle|rollo de primavera||S|ali|B1

@@ -1,4 +1,4 @@
-/* v9.43 · IT bloque 5/7 · 700 entradas */
+/* v9.43 · IT bloque 5/11 · 700 entradas */
 export const IT_V943_5_RAW = `
 matrice|matriz||S|sci|C2
 asintoto|asíntota||S|sci|C2

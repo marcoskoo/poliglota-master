@@ -1,4 +1,4 @@
-/* v9.43 · EN bloque 1/14 · 700 entradas */
+/* v9.43 · EN bloque 1/18 · 700 entradas */
 export const EN_V943_1_RAW = `
 shopping list|lista de la compra||S|cmp|A2
 shop|tienda||S|cmp|A2

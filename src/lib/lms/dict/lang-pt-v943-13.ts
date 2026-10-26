@@ -1,4 +1,4 @@
-/* v9.43 · PT bloque 13/16 · 700 entradas */
+/* v9.43 · PT bloque 13/22 · 700 entradas */
 export const PT_V943_13_RAW = `
 poesia concreta|poesía concreta||L|let|C2
 círculo eleitoral|circunscripción electoral||L|att|C2

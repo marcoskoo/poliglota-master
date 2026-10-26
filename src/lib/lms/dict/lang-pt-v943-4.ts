@@ -1,4 +1,4 @@
-/* v9.43 · PT bloque 4/16 · 700 entradas */
+/* v9.43 · PT bloque 4/22 · 700 entradas */
 export const PT_V943_4_RAW = `
 intervenção|intervención||S|cmu|B2
 intervir|intervenir||V|cmu|B2

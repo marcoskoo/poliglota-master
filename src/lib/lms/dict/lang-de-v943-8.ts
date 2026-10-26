@@ -1,4 +1,4 @@
-/* v9.43 · DE bloque 8/16 · 700 entradas */
+/* v9.43 · DE bloque 8/22 · 700 entradas */
 export const DE_V943_8_RAW = `
 die Prokura|poder de representación mercantil||S|ist|C1
 die Gewinnverteilung|reparto de beneficios||S|ist|C1

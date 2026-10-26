@@ -1,4 +1,4 @@
-/* v9.43 · FR bloque 13/16 · 700 entradas */
+/* v9.43 · FR bloque 13/24 · 700 entradas */
 export const FR_V943_13_RAW = `
 contentieux prud'homal|litigio laboral||S|ist|C1
 inaptitude au poste|incapacidad para el puesto||L|lav|C1

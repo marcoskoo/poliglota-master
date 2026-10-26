@@ -1,4 +1,4 @@
-/* v9.43 · PT bloque 15/16 · 700 entradas */
+/* v9.43 · PT bloque 15/22 · 700 entradas */
 export const PT_V943_15_RAW = `
 cifra de bloco|cifrado de bloques||L|tec|C1
 função hash|función hash||L|tec|C1
