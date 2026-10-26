@@ -1,0 +1,31 @@
+primo direito|primo hermano||S|fam|B1
+criança mimada|niño mimado||S|fam|B1
+álbum de família|álbum familiar||S|fam|B1
+mudar de casa|mudarse de casa||E|cas|B1
+alcatifa|alfombra||S|cas|B1
+arroz de marisco|arroz de marisco||S|ris|B1
+intolerância alimentar|intolerancia alimentaria||S|sla|B1
+gelataria|heladería||S|ris|B1
+oferta limitada|oferta limitada||L|cmp|B1
+defeito de fábrica|defecto de fábrica||L|cmp|B1
+recolha na loja|recogida en tienda||L|cmp|B1
+cofrinho|hucha||S|fin|B1
+contramão|sentido contrario||S|tra|B1
+trotineta elétrica|patinete eléctrico||S|tra|B1
+dar boleia|llevar a alguien en coche||E|tra|B1
+bagagem perdida|equipaje perdido||S|vig|B1
+visto de trabalho|visado de trabajo||L|vig|B1
+vacina da gripe|vacuna de la gripe||S|sla|B1
+caixa de primeiros socorros|botiquín de primeros auxilios||L|sla|B1
+carta de apresentação|carta de presentación||L|lav|B1
+trabalhar em equipa|trabajar en equipo||E|lav|B1
+estágio de verão|prácticas de verano||S|lav|B1
+média final|nota media final||S|stu|B1
+disciplina optativa|asignatura optativa||S|stu|B1
+casamento civil|matrimonio civil||S|ist|B1
+noticiário|telediario||S|att|B1
+romance histórico|novela histórica||S|let|B1
+claque|hinchada||S|spt|B1
+gira de concertos|gira de conciertos||S|mus|B1
+série de época|serie de época||S|cin|B1
+privacidade digital|privacidad digital||S|tec|B1

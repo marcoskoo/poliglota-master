@@ -1,0 +1,35 @@
+cavaquinho|cavaquinho||S|mus|C2
+gaita-de-foles|gaita de fuelle||S|mus|C2
+maceração|maceración||S|ris|C2
+cocção|cocción||S|ali|C2
+confitar|confitar||V|ris|C2
+morcela|morcilla||S|ris|C2
+salga|salazón||S|ali|C2
+jugo|yugo||S|nat|C2
+charrua|arado de vertedera||S|nat|C2
+giesta|hiniesta (retama)||S|nat|C2
+ulmeiro|olmo||S|nat|C2
+cerne|duramen||S|nat|C2
+micélio|micelio||S|nat|C2
+milhafre|milano||S|ani|C2
+peneireiro|cernícalo||S|ani|C2
+andorinhão|vencejo||S|ani|C2
+cotovia|alondra||S|ani|C2
+geneta|gineta||S|ani|C2
+sem-vergonha|sinvergüenza||S|cmu|C2
+gentalha|gentuza (chusma)||S|let|C2
+esdrúxulo|estrumbótico||A|let|C2
+atavio|atavío||S|let|C2
+argúcia|agudeza (perspicacia)||S|ast|C2
+despautério|despropósito (disparate)||S|let|C2
+lassidão|lasitud||S|emo|C2
+transe|trance||S|emo|C2
+atrabilioso|atrabiliario||A|let|C2
+caturra|cabezota (porfiada)||A|emo|C2
+porfiar|porfiar (insistir)||V|let|C2
+arredio|arisco (huraño)||A|emo|C2
+verborreia|verborrea||S|cmu|C2
+macilento|macilento (demacrado)||A|cor|C2
+papada|papada||S|cor|C2
+goela|gaznate||S|cor|C2
+carmesim|carmesí||S|col|C2

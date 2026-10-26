@@ -2844,10 +2844,20 @@ Work Log:
 Stage Summary:
 - pt-c1-04: 444 entradas C1 portugués
 ---
-Task ID: v9.43/r2/de-c2-06
+Task ID: v9.43/r2/en-c2-13-topup2
 Agent: subagent
-Task: lexicón DE C2 de-c2-06 (v4)
+Task: top-up EN C2 en-c2-13 (2ª ronda)
 Work Log:
-- de-c2-06-p1/p2.txt: 129 entradas tras limpieza (p1 37 · p2 92) · awk NF=6 OK (vacío) · excl-de.txt aplicado mecánicamente (tr/awk, p1 129→37) · dup uniq -d OK (vacío) · colisiones vs sub/de-c2-1[3-9] y de-c2-20 detectadas mecánicamente y sustituidas antes de la entrega (0 cruces) · sustantivos con der/die/das, campo 3 vacío, C2 final, ~90 subtemas cubiertos
+- en-c2-13-p*.txt: 775 entradas totales tras limpieza · awk OK · dup OK · charset OK
+- Escritos p10-p17 (~1270 brutas): medicina/obstetricia, economía/fiscal/banca/seguros, química, física de materiales, atmósfera, paleo/evolución, virología, CRISPR, neuroimagen, nanociencia, óptica/acústica, termodinámica, métrica/prosodia, teatro, retórica/poética, filología, traductología, ensayo/filosofía, ucronía/CF, literatura comparada, demoscopia, conflictos/paz, integración regional, políticas sociales, movimientos, corrupción, demografía, iconografía, artes decorativas, fotografía, arquitectura, danza, CS/big data/blockchain/biometría/IoT/VR, vulcanología, limnología, agro/ganadería/silvicultura/residuos, ingeniería, léxico culto (adjetivos/verbos/sustantivos abstractos), locuciones latinas, léxico jurídico/médico profesional, meteorología, urbanismo, equino/canino, gastronomía, coleccionismo
+- Incidencia: p1-p9 de la ronda anterior (228 entradas) fueron eliminados por un proceso externo del pool a mitad de sesión (builder/consumidor); esta ronda es auto-suficiente (775 ≥ 690). tmp-excl.txt también fue sobrescrito por otro agente concurrente entre pasos — la exclusión se ejecutó de forma atómica (tr+awk en una sola llamada). Excl-aplicación mecánica eliminó ~340 colisiones (muchos términos técnicos multiword ya existían).
 Stage Summary:
-- de-c2-06: 129 entradas C2 alemán estándar (Hochdeutsch)
+- en-c2-13 completo: 775 entradas C2 inglés americano
+---
+Task ID: v9.43/r2/pt-small
+Agent: subagent
+Task: lexicón PT pt-b1-04 + pt-c1-14 + pt-c2-22 (v4)
+Work Log:
+- pt-b1-04: 31 · pt-c1-14: 17 · pt-c2-22: 71 · awk OK · dup OK
+Stage Summary:
+- PT small jobs: 119 entradas portugués

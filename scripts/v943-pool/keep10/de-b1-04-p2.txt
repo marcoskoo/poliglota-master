@@ -1,0 +1,41 @@
+die Figur|personaje||S|let|B1
+die Tierart|especie animal||S|ani|B1
+die Zucht|cría en cautividad||S|ani|B1
+der Ökostrom|electricidad verde||S|nat|B1
+das Gesellschaftsspiel|juego de mesa||S|sve|B1
+der Spielzug|turno (jugada)||S|sve|B1
+präsentieren|presentar||V|cmu|B1
+entgegenkommen|ceder (mostrarse flexible)||V|cmu|B1
+die Diplomatie|diplomacia||S|cmu|B1
+die Kunstrichtung|corriente artística||S|art|B1
+die Nährwerttabelle|tabla nutricional||S|ali|B1
+die Rettungsstelle|urgencias (hospital)||S|sla|B1
+die Kenntnis|conocimientos (nociones)||S|lav|B1
+die Mietwohnung|piso de alquiler||S|cas|B1
+die Wohnfläche|superficie habitable||S|cas|B1
+der Breitensport|deporte popular||S|spt|B1
+das Haushaltsbuch|libro de cuentas domésticas||S|fin|B1
+die Kaffeepause|pausa de café||S|ris|B1
+der Espresso|espresso||S|ris|B1
+der Sachverhalt|hecho (asunto)||S|sci|B1
+die Erklärung|explicación||S|sci|B1
+das Rätsel|enigma||S|sci|B1
+das Lesezeichen|marcador de libros||S|let|B1
+der Nationalpark|parque nacional||S|nat|B1
+das Ärgernis|contratiempo||S|cmu|B1
+der Schalter|ventanilla||S|ist|B1
+die Terminvereinbarung|cita concertada||S|ist|B1
+meiner Meinung nach|en mi opinión||L|cnn|B1
+der Katalog|catálogo||S|art|B1
+der Eintrittspreis|precio de entrada||S|art|B1
+die Gepäckaufgabe|facturación de equipaje||S|vig|B1
+die Abflugzeit|hora de despegue||S|vig|B1
+die Landebahn|pista de aterrizaje||S|vig|B1
+die Reinigungskraft|personal de limpieza||S|htl|B1
+der Arbeitstag|jornada laboral||S|lav|B1
+sich einleben|adaptarse (a un sitio nuevo)||V|lav|B1
+die Anweisung|instrucción||S|lav|B1
+das Koffein|cafeína||S|sla|B1
+der Kinoabend|noche de cine||S|rel|B1
+das Leckerli|premio (chuche para mascotas)||S|ani|B1
+das Mietrad|bici de alquiler||S|tra|B1

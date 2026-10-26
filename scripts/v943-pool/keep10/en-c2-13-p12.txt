@@ -1,0 +1,58 @@
+anapestic|anapéstico||A|let|C2
+trochaic|trocaico||A|let|C2
+spondaic|espondaico||A|let|C2
+synalepha|sinalefa||S|let|C2
+apocope|apócope||S|let|C2
+hemistich|hemistiquio||S|let|C2
+terza rima|terceto encadenado||E|let|C2
+feminine ending|desinencia femenina||E|let|C2
+ballad meter|metro de balada||E|let|C2
+masque|máscara cortesana||S|art|C2
+closet drama|drama de gabinete||E|let|C2
+morality play|drama moralizante||E|let|C2
+drawing-room comedy|comedia de salón||E|art|C2
+theater of the absurd|teatro del absurdo||E|art|C2
+black comedy|comedia negra||E|art|C2
+sightlines|líneas de visión||S|art|C2
+proscenium arch|arco de proscenio||E|art|C2
+comic timing|sentido del ritmo cómico||E|art|C2
+polyptoton|políptoton||S|let|C2
+hypallage|hipálage||S|let|C2
+praeteritio|preterición||S|let|C2
+epizeuxis|epizeuxis||S|let|C2
+diacope|diacopia||S|let|C2
+anadiplosis|anadíplosis||S|let|C2
+epanalepsis|epanalepsis||S|let|C2
+merism|merismo||S|let|C2
+isocolon|isocolon||S|let|C2
+parataxis|parataxis||S|let|C2
+hypotaxis|hipotaxis||S|let|C2
+circumlocution|circunlocución||S|let|C2
+lectio difficilior|lectio difficilior||E|let|C2
+diplomatic transcription|transcripción diplomática||E|let|C2
+translatability|traducibilidad||S|let|C2
+sight translation|traducción a la vista||E|let|C2
+consecutive interpreting|interpretación consecutiva||E|let|C2
+aphoristic|aforístico||A|let|C2
+gnomic|gnómico||A|let|C2
+oracular|oracular||A|let|C2
+sibylline|sibilino||A|let|C2
+voluntarism|voluntarismo||S|ast|C2
+nominalism|nominalismo||S|ast|C2
+lifeworld|mundo de la vida||S|ast|C2
+intersubjectivity|intersubjetividad||S|ast|C2
+conceptual history|historia de los conceptos||E|let|C2
+arcology|arcología||S|let|C2
+heterotopia|heterotopía||S|ast|C2
+technological singularity|singularidad tecnológica||S|tec|C2
+implied reader|lector implícito||E|let|C2
+hypotext|hipotexto||S|let|C2
+mock-epic|epopeya burlesca||E|let|C2
+antinovel|antinovela||S|let|C2
+social desirability bias|sesgo de deseabilidad social||E|sci|C2
+quota sampling|muestreo por cuotas||E|sci|C2
+sample weighting|ponderación muestral||E|sci|C2
+likely voter|votante probable||E|att|C2
+spiral of silence|espiral del silencio||E|att|C2
+priming|activación previa en medios||S|att|C2
+wedge issue|cuestión divisoria||E|att|C2

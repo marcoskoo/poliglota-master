@@ -1,0 +1,160 @@
+refractory|refractario||A|ast|C2
+ineffaceable|imposible de borrar||A|let|C2
+stolid|apático||A|ast|C2
+torpid|torpe y aletargado||A|ast|C2
+languorous|languiente||A|let|C2
+susurrant|susurrante||A|let|C2
+murmurous|murmurante||A|let|C2
+pestilent|pestilente||A|ast|C2
+peccant|pecador (culpable)||A|let|C2
+expiable|expiable||A|ast|C2
+remorseless|sin remisión||A|ast|C2
+unremitting|incesante e incansable||A|ast|C2
+inviolate|inviolado||A|let|C2
+sullied|mancillado||A|let|C2
+defiled|profanado||A|rel|C2
+beatific|beático||A|rel|C2
+seraphic|seráfico||A|rel|C2
+stygian|estigio||A|let|C2
+eleemosynary|benéfico asistencial||A|ast|C2
+munificent|múnifico||A|ast|C2
+unstinting|sin escatimar||A|ast|C2
+niggardly|roñoso||A|ast|C2
+parsimonious|parsimonioso||A|ast|C2
+penurious|paupérrimo||A|ast|C2
+impecunious|sin blanca||A|ast|C2
+well-heeled|pudiente||A|ast|C2
+provident|previsor||A|ast|C2
+improvident|mal administrador del dinero||A|ast|C2
+covetous|codicioso||A|let|C2
+rapacious|rapaz||A|ast|C2
+inveterate|inveterado||A|ast|C2
+grudging|de mala gana||A|ast|C2
+miserly|avariento||A|ast|C2
+avaricious|avaricioso||A|ast|C2
+fiendish|demoníaco||A|ast|C2
+sanctified|santificado||A|rel|C2
+tarnished|deslucido||A|art|C2
+unquenchable|insaciable e inextinguible||A|ast|C2
+unfailing|infalible||A|ast|C2
+implacable|implacable||A|ast|C2
+inexorable|inexorable||A|ast|C2
+muffled|amortiguado||A|ast|C2
+hushed|en silencio contenido||A|ast|C2
+moneyed|adinerado||A|ast|C2
+indelible|imborrable||A|ast|C2
+risible|risible||A|ast|C2
+waggish|festivo y burlón||A|let|C2
+jocose|jocoso||A|let|C2
+jocund|jocundo||A|let|C2
+mirthful|pleno de alegría||A|let|C2
+rapt|absorto||A|ast|C2
+enraptured|embelesado||A|ast|C2
+long-suffering|longánime||A|ast|C2
+pseudonymous|seudónimo||A|let|C2
+licentious|licencioso||A|let|C2
+abstemious|abstemio||A|ast|C2
+ribald|grosero y festivo||A|let|C2
+salacious|salaz||A|ast|C2
+sybaritic|sibarítico||A|ast|C2
+demure|recatado||A|ast|C2
+genteel|distinguido y fino||A|ast|C2
+opprobrium|oprobio||S|ast|C2
+obloquy|denuesto público||S|let|C2
+odium|odio execratorio||S|let|C2
+execration|execración||S|let|C2
+imprecation|imprecación||S|let|C2
+malediction|maldición (invocada)||S|rel|C2
+interdict|entredicho||S|ist|C2
+penury|penuria||S|ast|C2
+munificence|munificencia||S|ast|C2
+pusillanimity|pusilanimidad||S|ast|C2
+intrepidity|intrepidez||S|ast|C2
+gallantry|gallardía||S|ast|C2
+courtliness|cortesía caballeresca||S|ast|C2
+gentility|gentileza social||S|ast|C2
+largesse|largueza||S|ast|C2
+imperturbability|imperturbabilidad||S|ast|C2
+sufferance|tolerancia a regañadientes||S|let|C2
+acquiescence|aquiescencia||S|ast|C2
+demurral|reparo||S|cmu|C2
+faultfinding|crítica quisquillosa||S|ast|C2
+pedantry|pedantería||S|ast|C2
+edifying|edificante||A|ast|C2
+revelatory|revelador||A|ast|C2
+epiphanic|epifánico||A|let|C2
+satori|iluminación repentina||S|ast|C2
+voluptuary|voluptuario||S|let|C2
+inebriation|ebriedad||S|sla|C2
+inebriate|embriagar||V|sla|C2
+sobriquet|apodo||S|let|C2
+cognomen|cognomento||S|let|C2
+nom de plume|seudónimo literario||E|let|C2
+simper|sonreír con afectación||V|cmu|C2
+titter|risita nerviosa||S|cmu|C2
+derisory|irrisorio||A|ast|C2
+droll|cómico de modo singular||A|ast|C2
+mirth|regocijo||S|let|C2
+jubilation|júbilo||S|emo|C2
+exultation|exultación||S|emo|C2
+quibble|discutir por nimiedades||V|cmu|C2
+carp|criticar sin descanso||V|cmu|C2
+abjure|abjurar||V|ast|C2
+recant|retractarse||V|cmu|C2
+palinode|palinodia||S|let|C2
+forswear|renunciar bajo juramento||V|let|C2
+abnegate|abnegarse||V|ast|C2
+immolate|inmolarse||V|rel|C2
+expiate|expiar||V|rel|C2
+propitiate|propiciar (aplacar)||V|rel|C2
+conciliate|conciliar||V|cmu|C2
+assuage|mitigar (dolor)||V|cmu|C2
+sate|hartar||V|let|C2
+glut|sobreabundancia||S|fin|C2
+pall|empalagar||V|ast|C2
+junket|viaje de placer pagado||S|ast|C2
+gallivant|deambular de juerga||V|sve|C2
+traipse|ir de acá para allá||V|sve|C2
+aphelion|afelio||S|sci|C2
+perihelion|perihelio||S|sci|C2
+syzygy|sicigia||S|sci|C2
+libration|libración||S|sci|C2
+nutation|nutación||S|sci|C2
+occultation|ocultación (astronomía)||S|sci|C2
+ephemeris|efemérides (astronómicas)||S|sci|C2
+mythos|milito (imaginario fundacional)||S|let|C2
+eisegesis|eiségesis||S|let|C2
+pericope|perícopa||S|let|C2
+lectionary|leccionario||S|rel|C2
+versicle|versículo responsorial||S|rel|C2
+antiphon|antífona||S|rel|C2
+responsory|responsorio||S|rel|C2
+matins|maitines||S|rel|C2
+compline|completas||S|rel|C2
+breviary|breviario||S|rel|C2
+psalter|salterio||S|rel|C2
+monody|monodia||S|mus|C2
+canticle|cántico||S|rel|C2
+doxology|doxología||S|rel|C2
+martyrology|martirologio||S|rel|C2
+apocryphon|apócrifo (texto)||S|rel|C2
+pseudepigrapha|pseudoepígrafos||S|rel|C2
+eschatology|escatología||S|rel|C2
+eschatological|escatológico||A|rel|C2
+ecclesiology|eclesiología||S|rel|C2
+millenarian|milenarista||A|rel|C2
+heresiarch|heresiarca||S|rel|C2
+heterodox|heterodoxo||A|rel|C2
+heterodoxy|heterodoxia||S|rel|C2
+excommunication|excomunión||S|rel|C2
+hagiographic|hagiográfico||A|rel|C2
+hemoptysis|hemoptisis||S|sla|C2
+ascites|ascitis||S|sla|C2
+petechiae|petequias||S|sla|C2
+ecchymosis|equimosis||S|sla|C2
+dyspnea|disnea||S|sla|C2
+proteinuria|proteinuria||S|sla|C2
+diuresis|diuresis||S|sla|C2
+erythema|eritema||S|sla|C2
+fistula|fístula||S|sla|C2
+prolapse|prolapso||S|sla|C2

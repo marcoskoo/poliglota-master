@@ -1,0 +1,70 @@
+good offices|buenos oficios||E|ist|C2
+second-strike capability|capacidad de segundo ataque||E|ist|C2
+hybrid warfare|guerra híbrida||E|ist|C2
+rules of engagement|reglas de enfrentamiento||E|ist|C2
+reintegration|reinserción||S|ist|C2
+transitional justice|justicia transicional||E|ist|C2
+truth commission|comisión de la verdad||E|ist|C2
+humanitarian intervention|intervención humanitaria||E|ist|C2
+internally displaced person|persona desplazada interna||E|ist|C2
+burden-sharing|reparto de cargas||E|ist|C2
+frozen conflict|conflicto congelado||E|ist|C2
+protracted conflict|conflicto prolongado||E|ist|C2
+convergence criteria|criterios de convergencia||E|fin|C2
+troika|troika||S|ist|C2
+veto player|actor con poder de veto||E|ist|C2
+weighted voting|votación ponderada||E|ist|C2
+comitology|comitología||S|ist|C2
+accession negotiation|negociación de adhesión||E|ist|C2
+associate membership|asociación parcial||E|ist|C2
+founding treaty|tratado constitutivo||E|ist|C2
+negative income tax|impuesto negativo sobre la renta||E|fin|C2
+contributory pension|pensión contributiva||E|ist|C2
+means testing|comprobación de medios||E|ist|C2
+social protection|protección social||E|ist|C2
+activation policy|política de activación||E|ist|C2
+long-term care|cuidados de larga duración||E|ist|C2
+deinstitutionalization|desinstitucionalización||S|ist|C2
+out-of-pocket spending|gasto de bolsillo||E|fin|C2
+welfare-to-work|de la prestación al empleo||E|ist|C2
+take-up rate|tasa de captación||E|ist|C2
+food insecurity|inseguridad alimentaria||E|ali|C2
+housing first|vivienda primero||E|ist|C2
+cash benefit|prestación monetaria||E|ist|C2
+in-work benefit|prestación por empleo||E|ist|C2
+affinity group|grupo de afinidad||E|att|C2
+resource mobilization|movilización de recursos||E|att|C2
+collective identity|identidad colectiva||E|att|C2
+civil resistance|resistencia civil||E|ist|C2
+boycott campaign|campaña de boicot||E|att|C2
+grand corruption|corrupción de altos niveles||E|ist|C2
+asset recovery|recuperación de activos||E|fin|C2
+illicit enrichment|enriquecimiento ilícito||E|fin|C2
+transparency register|registro de transparencia||E|ist|C2
+oversight body|órgano de supervisión||E|ist|C2
+integrity pact|pacto de integridad||E|ist|C2
+revolving door|puerta giratoria||E|ist|C2
+asset forfeiture|decomiso de activos||E|ist|C2
+bribe-taking|cohecho||S|ist|C2
+counterurbanization|desurbanización||S|sci|C2
+population momentum|impulso demográfico||E|sci|C2
+second generation|segunda generación||E|sci|C2
+fertility decline|descenso de la fecundidad||E|sci|C2
+aging society|sociedad envejecida||E|sci|C2
+nimbus|aureola||S|art|C2
+hieratic|jerático||A|art|C2
+votive offering|exvoto||E|art|C2
+reliquary|relicario||S|art|C2
+predella|predela||S|art|C2
+physiognomy|fisiognomía||S|sci|C2
+emblem book|libro de emblemas||E|art|C2
+niello|nielado||S|art|C2
+damascening|damasquinado||S|art|C2
+verdigris|cardenillo||S|art|C2
+ewer|aguamanil||S|art|C2
+tureen|terrina||S|ris|C2
+censer|incensario||S|art|C2
+monstrance|custodia||S|art|C2
+ormolu|bronce dorado al mercurio||S|art|C2
+granulation|granulado||S|art|C2
+assay mark|contraste de garantía||E|art|C2

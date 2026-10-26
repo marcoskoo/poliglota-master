@@ -1,0 +1,79 @@
+chorionic villus sampling|biopsia de vellosidades coriónicas||E|sla|C2
+oligohydramnios|oligohidramnios||S|sla|C2
+polyhydramnios|polihidramnios||S|sla|C2
+meconium aspiration|aspiración de meconio||E|sla|C2
+kernicterus|ictericia nuclear||S|sla|C2
+umbilical cord prolapse|prolapso del cordón umbilical||E|sla|C2
+cryptorchidism|criptorquidia||S|sla|C2
+pyloric stenosis|estenosis pilórica||E|sla|C2
+vesicoureteral reflux|reflujo vesicoureteral||E|sla|C2
+shoulder dystocia|distocia de hombros||E|sla|C2
+surfactant replacement therapy|reposición de surfactante||E|sla|C2
+open reduction|reducción abierta||E|sla|C2
+malunion|consolidación viciosa||S|sla|C2
+arthrodesis|artrodesis||S|sla|C2
+ambulation|deambulación||S|sla|C2
+myofascial release|liberación miofascial||E|sla|C2
+phantom limb pain|dolor de miembro fantasma||E|sla|C2
+hydrotherapy|hidroterapia||S|sla|C2
+weight-bearing|con carga de peso||A|sla|C2
+case-fatality rate|tasa de letalidad||E|sla|C2
+herd immunity threshold|umbral de inmunidad de grupo||E|sla|C2
+wastewater surveillance|vigilancia en aguas residuales||E|sla|C2
+contact investigation|investigación de contactos||E|sla|C2
+outbreak response|respuesta a brotes||E|sla|C2
+transfer mispricing|manipulación de precios de transferencia||E|fin|C2
+beneficial ownership|titularidad real||E|fin|C2
+excise duty|impuesto especial||E|fin|C2
+estate tax|impuesto de sucesiones||E|fin|C2
+alternative minimum tax|mínimo tributable alternativo||E|fin|C2
+carryforward|arrastre de saldo||S|fin|C2
+safe harbor|puerto seguro fiscal||E|fin|C2
+arm's-length principle|principio de plena competencia||E|fin|C2
+permanent establishment|establecimiento permanente||E|fin|C2
+controlled foreign corporation|sociedad extranjera controlada||E|fin|C2
+double-taxation agreement|convenio de doble imposición||E|fin|C2
+provisioning|dotación a provisiones||S|fin|C2
+capital adequacy|solvencia regulatoria||E|fin|C2
+proprietary trading|negociación por cuenta propia||E|fin|C2
+originate-to-distribute|originar para distribuir||E|fin|C2
+wholesale funding|financiación mayorista||E|fin|C2
+credit covenant|cláusula de cumplimiento||E|fin|C2
+amortization schedule|cuadro de amortización||E|fin|C2
+subprime lending|concesión de créditos de alto riesgo||E|fin|C2
+debt-to-income ratio|ratio deuda sobre ingresos||E|fin|C2
+loan-to-value ratio|ratio de préstamo sobre valor||E|fin|C2
+liquidity coverage ratio|cociente de cobertura de liquidez||E|fin|C2
+interest-rate risk|riesgo de tipo de interés||E|fin|C2
+terminal value|valor de continuidad||E|fin|C2
+comparable company analysis|análisis de comparables||E|fin|C2
+goodwill impairment|deterioro del fondo de comercio||E|fin|C2
+drag-along right|derecho de arrastre||E|fin|C2
+tag-along right|derecho de venta conjunta||E|fin|C2
+fairness opinion|dictamen de equidad||E|fin|C2
+merger control|control de concentraciones||E|fin|C2
+antitrust clearance|autorización de competencia||E|fin|C2
+hostile bid|oferta hostil||E|fin|C2
+reverse merger|fusión inversa||E|fin|C2
+stock swap|canje de acciones||E|fin|C2
+oligopsony|oligopsonio||S|fin|C2
+general equilibrium|equilibrio general||E|fin|C2
+elasticity of demand|elasticidad de la demanda||E|fin|C2
+excess burden|sobrecoste fiscal||E|fin|C2
+incidence of taxation|incidencia fiscal||E|fin|C2
+entry barrier|barrera de entrada||E|fin|C2
+actuarial science|ciencia actuarial||E|fin|C2
+loss adjuster|perito de siniestros||E|pro|C2
+premium loading|recargo sobre la prima||E|fin|C2
+reinsurance treaty|tratado de reaseguro||E|fin|C2
+facultative reinsurance|reaseguro facultativo||E|fin|C2
+claims handling|gestión de siniestros||E|fin|C2
+catastrophe bond|bono de catástrofe||E|fin|C2
+bottom of the pyramid|base de la pirámide||E|fin|C2
+resource curse|maldición de los recursos||E|fin|C2
+dollarization|dolarización||S|fin|C2
+tariff escalation|escalada arancelaria||E|fin|C2
+export processing zone|zona franca de exportación||E|fin|C2
+unbanked|sin acceso a servicios financieros||A|fin|C2
+microfinance institution|institución de microfinanzas||E|fin|C2
+structural vulnerability|vulnerabilidad estructural||E|fin|C2

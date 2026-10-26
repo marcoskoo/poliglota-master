@@ -1,0 +1,41 @@
+der Hausarrest|castigo de no salir de casa||S|fam|B1
+die Wohnungsbesichtigung|visita a un piso||S|cas|B1
+der Bohrer|taladro||S|cas|B1
+der Hauptgang|plato principal||S|ris|B1
+sich ernähren|alimentarse||V|ali|B1
+die Gewürzmischung|mezcla de especias||S|ali|B1
+die Mittelmeerküche|cocina mediterránea||S|ali|B1
+der Weißwein|vino blanco||S|ali|B1
+die Rabattaktion|campaña de descuentos||S|cmp|B1
+konsumieren|consumir||V|cmp|B1
+das Rückgaberecht|derecho de devolución||S|cmp|B1
+der Defekt|defecto (avería)||S|cmp|B1
+der Führerscheinentzug|retirada del carné||S|tra|B1
+die Ladestation|estación de carga||S|tra|B1
+der Flugbegleiter|auxiliar de vuelo||S|vig|B1
+der Anschlusszug|tren de enlace||S|vig|B1
+das Gepäckstück|pieza de equipaje||S|vig|B1
+die Einreisebestimmungen|normas de entrada||S|vig|B1
+der Alkoholkonsum|consumo de alcohol||S|sla|B1
+die Zusatzversicherung|seguro complementario||S|sla|B1
+das Gesundheitssystem|sistema sanitario||S|sla|B1
+der Personaler|responsable de recursos humanos||S|lav|B1
+der Einsteiger|recién incorporado||S|lav|B1
+der Jobverlust|pérdida del empleo||S|lav|B1
+die Wiederholungsprüfung|examen de recuperación||S|stu|B1
+die Lerntechnik|técnica de estudio||S|stu|B1
+die Kommune|municipio||S|ist|B1
+der Laufsteg|pasarela||S|rop|B1
+der Hashtag|hashtag (etiqueta)||S|tec|B1
+das Nutzerkonto|cuenta de usuario||S|tec|B1
+die Datensicherheit|seguridad de los datos||S|tec|B1
+der Betrugsversuch|intento de fraude||S|tec|B1
+der Muskelriss|rotura muscular||S|spt|B1
+der Nebendarsteller|actor secundario||S|cin|B1
+integrieren|integrar||V|rel|B1
+die Mehrwertsteuer|IVA||S|fin|B1
+der Dispokredit|descubierto en cuenta||S|fin|B1
+der Anleger|inversor||S|fin|B1
+der Physiotherapeut|fisioterapeuta||S|pro|B1
+das Pflegeheim|residencia de ancianos||S|pro|B1
+das Bundesland|estado federado||S|ist|B1

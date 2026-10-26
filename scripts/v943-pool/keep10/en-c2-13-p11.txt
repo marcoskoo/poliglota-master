@@ -1,0 +1,76 @@
+retention time|tiempo de retención||E|sci|C2
+matrix effect|efecto matriz||E|sci|C2
+standard addition|método de adiciones estándar||E|sci|C2
+chromatogram|cromatograma||S|sci|C2
+hygroscopic|higroscópico||A|sci|C2
+titrant|valorante||S|sci|C2
+back-titration|retrovaloración||S|sci|C2
+ashing|cenizado||S|sci|C2
+carrier gas|gas portador||E|sci|C2
+stationary phase|fase estacionaria||E|sci|C2
+yield point|límite elástico||E|sci|C2
+coercivity|coercitividad||S|sci|C2
+remanence|remanencia||S|sci|C2
+piezoelectricity|piezoelectricidad||S|sci|C2
+dielectric constant|constante dieléctrica||E|sci|C2
+hysteresis loop|bucle de histéresis||E|sci|C2
+creep resistance|resistencia a la fluencia||E|sci|C2
+phase diagram|diagrama de fases||E|sci|C2
+teleconnection|teleconexión||S|cli|C2
+data assimilation|asimilación de datos||E|cli|C2
+potential vorticity|vorticidad potencial||E|cli|C2
+paleoclimate proxy|proxy paleoclimático||E|cli|C2
+emissions inventory|inventario de emisiones||E|cli|C2
+index fossil|fósil guía||E|sci|C2
+morphospace|espacio morfológico||S|sci|C2
+atavism|atavismo||S|sci|C2
+neoteny|neotenia||S|sci|C2
+coprolite|coprolito||S|sci|C2
+stem group|grupo troncal||E|sci|C2
+body plan|plan corporal||E|sci|C2
+heterochrony|heterocronía||S|sci|C2
+developmental plasticity|plasticidad del desarrollo||E|sci|C2
+lysogenic cycle|ciclo lisogénico||E|sci|C2
+provirus|provirus||S|sci|C2
+multiplicity of infection|multiplicidad de infección||E|sci|C2
+serial passage|pase seriado||E|sci|C2
+sterilizing immunity|inmunidad esterilizante||E|sla|C2
+needlestick injury|pinchazo accidental||E|sla|C2
+superinfection|sobreinfección||S|sla|C2
+viral latency|latencia viral||E|sci|C2
+zoonotic spillover|salto zoonótico||E|sci|C2
+live-attenuated vaccine|vacuna atenuada||E|sla|C2
+guide RNA|ARN guía||E|sci|C2
+off-target effect|efecto fuera de diana||E|sci|C2
+germline editing|edición de línea germinal||E|sci|C2
+prime editing|edición de búsqueda y sustitución||E|sci|C2
+transgene|transgén||S|sci|C2
+polygenic score|puntuación poligénica||E|sci|C2
+organoid|organoide||S|sci|C2
+blastocyst|blastocisto||S|sci|C2
+default mode network|red de modo por defecto||E|sci|C2
+cortical thickness|grosor cortical||E|sci|C2
+neuromodulation|neuromodulación||S|sla|C2
+electroencephalography|electroencefalografía||S|sla|C2
+event-related potential|potencial evocado||E|sci|C2
+cytoarchitecture|citoarquitectura||S|sci|C2
+sputtering|pulverización catódica||S|sci|C2
+surface plasmon resonance|resonancia de plasmón superficial||E|sci|C2
+atomic force microscope|microscopio de fuerza atómica||E|sci|C2
+aerogel|aerogel||S|sci|C2
+shape-memory alloy|aleación con memoria de forma||E|sci|C2
+thin-film deposition|depósito en capas finas||E|sci|C2
+photonic crystal|cristal fotónico||E|sci|C2
+population inversion|inversión de población||E|sci|C2
+gain medium|medio activo||E|sci|C2
+reverberation time|tiempo de reverberación||E|sci|C2
+impedance matching|adaptación de impedancias||E|sci|C2
+psychoacoustics|psicoacústica||S|sci|C2
+inharmonicity|inharmonicidad||S|mus|C2
+beat frequency|frecuencia de batido||E|sci|C2
+adiabatic process|proceso adiabático||E|sci|C2
+vorticity|vorticidad||S|sci|C2
+drag coefficient|coeficiente aerodinámico||E|sci|C2
+heat exchanger|intercambiador de calor||E|sci|C2
+specific heat|calor específico||E|sci|C2
+no-slip condition|condición de no deslizamiento||E|sci|C2

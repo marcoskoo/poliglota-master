@@ -1,0 +1,76 @@
+compassionate use|uso compasivo||E|sla|C2
+laparoscopy|laparoscopia||S|sla|C2
+surgical margin|margen quirúrgico||E|sla|C2
+breakthrough pain|dolor irruptivo||E|sla|C2
+neuropathic pain|dolor neuropático||E|sla|C2
+referred pain|dolor referido||E|sla|C2
+analgesic ladder|escalera analgésica||E|sla|C2
+loading dose|dosis de carga||E|sla|C2
+pharmacovigilance|farmacovigilancia||S|sla|C2
+formulary|guía farmacoterapéutica||S|sla|C2
+prior authorization|autorización previa||E|sla|C2
+standard of care|estándar asistencial||E|sla|C2
+clinical pathway|ruta asistencial||E|sla|C2
+grand rounds|sesión clínica docente||E|sla|C2
+osteopenia|osteopenia||S|sla|C2
+kinesiology|cinesiología||S|spt|C2
+overreaching|sobreentrenamiento agudo||S|spt|C2
+eccentric loading|carga excéntrica||E|spt|C2
+shoeing|herrado||S|ani|C2
+scent work|trabajo de rastreo||E|ani|C2
+forum shopping|búsqueda de foro favorable||S|ist|C2
+choice of law|elección de ley aplicable||E|ist|C2
+standard of proof|estándar probatorio||E|ist|C2
+contributory negligence|negligencia concurrente||E|ist|C2
+strict liability|responsabilidad objetiva||E|ist|C2
+vicarious liability|responsabilidad por hecho ajeno||E|ist|C2
+letter of the law|letra de la ley||E|ist|C2
+spirit of the law|espíritu de la ley||E|ist|C2
+color of law|bajo apariencia de ley||E|ist|C2
+expungement|cancelación de antecedentes||S|ist|C2
+dry line|línea seca||E|cli|C2
+hodograph|hodógrafa||S|cli|C2
+rawinsonde|radiosonda de viento||S|cli|C2
+rapid intensification|intensificación rápida||E|cli|C2
+rainband|banda lluviosa||S|cli|C2
+outflow boundary|límite de salida||E|cli|C2
+convective outlook|perspectiva convectiva||E|cli|C2
+incentive zoning|zonificación con incentivos||E|cit|C2
+form-based code|normativa de forma urbana||E|cit|C2
+transit-oriented development|desarrollo orientado al transporte||E|cit|C2
+accessory dwelling unit|vivienda anexa||E|cit|C2
+curb cut|rebaje de acera||E|cit|C2
+tactical urbanism|urbanismo táctico||E|cit|C2
+parklet|miniparque en calzada||S|cit|C2
+road diet|dieta de la calzada||E|cit|C2
+transfer of development rights|transferencia de edificabilidad||E|cit|C2
+transect|transecto urbano||S|cit|C2
+ragdoll physics|física de ragdoll||E|sve|C2
+simulator sickness|mareo del simulador||E|tec|C2
+ludonarrative dissonance|disonancia lúdico-narrativa||E|sve|C2
+ambrotype|ambrotipo||S|art|C2
+tintype|ferrotipo||S|art|C2
+photogravure|fotograbado||S|art|C2
+collodion process|proceso del colodión||E|art|C2
+silver gelatin|gelatina de plata||E|art|C2
+enlarger|ampliadora||S|art|C2
+rib vault|bóveda de crucería||E|art|C2
+triforium|triforio||S|art|C2
+ambulatory|deambulatorio||S|art|C2
+narthex|nártex||S|art|C2
+machicolation|matacán||S|art|C2
+rustication|almohadillado||S|art|C2
+terrazzo|terrazo||S|art|C2
+turnout|apertura de caderas||S|spt|C2
+conching|conchado||S|ris|C2
+couverture|cobertura de chocolate||S|ris|C2
+lacto-fermentation|lactofermentación||S|ali|C2
+dry-aging|maduración en seco||S|ris|C2
+vertical tasting|cata vertical||E|ris|C2
+blind tasting|cata a ciegas||E|ris|C2
+corkage fee|derecho de descorche||E|ris|C2
+nappe point|punto de nappe||E|ris|C2
+sous-vide cooking|cocción al vacío||E|ris|C2
+bidding increment|incremento de puja||E|fin|C2
+buyer's premium|prima del comprador||E|fin|C2
+thermoluminescence dating|datación por termoluminiscencia||E|sci|C2

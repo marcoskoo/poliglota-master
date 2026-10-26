@@ -1,0 +1,90 @@
+speculative execution|ejecución especulativa||E|tec|C2
+clock gating|apagado de reloj||E|tec|C2
+bus arbitration|arbitraje de bus||E|tec|C2
+eventual consistency|consistencia eventual||E|tec|C2
+star schema|esquema en estrella||E|tec|C2
+regularization|regularización||S|sci|C2
+loss function|función de pérdida||E|sci|C2
+data lineage|linaje de datos||S|tec|C2
+query optimizer|optimizador de consultas||E|tec|C2
+zero-knowledge proof|prueba de conocimiento nulo||E|tec|C2
+rug pull|estafa de salida||E|fin|C2
+latent space|espacio latente||E|sci|C2
+feature vector|vector de características||E|sci|C2
+iris recognition|reconocimiento de iris||E|tec|C2
+sensor node|nodo sensor||E|tec|C2
+shield volcano|volcán en escudo||E|nat|C2
+phreatic eruption|erupción freática||E|nat|C2
+seismic gap|laguna sísmica||E|nat|C2
+liquefaction|licuefacción||S|nat|C2
+paleoseismology|paleosismología||S|sci|C2
+slow slip event|deslizamiento lento||E|nat|C2
+epilimnion|epilimnion||S|nat|C2
+macrophyte|macrófito||S|nat|C2
+braided river|río trenzado||E|nat|C2
+vernal pool|charca temporal||E|nat|C2
+karst aquifer|acuífero kárstico||E|nat|C2
+baseflow|caudal base||S|nat|C2
+river gauging|aforo de ríos||E|nat|C2
+no-till farming|siembra directa||E|nat|C2
+intercropping|cultivo asociado||S|nat|C2
+pedology|edafología||S|sci|C2
+integrated pest management|manejo integrado de plagas||E|nat|C2
+landrace|variedad local||S|nat|C2
+fertigation|fertirrigación||S|nat|C2
+silvopasture|silvopastoreo||S|nat|C2
+backfat|grasa dorsal||S|ani|C2
+marbling|veteado graso||S|ali|C2
+transhumance|trashumancia||S|ani|C2
+culling|desvieje||S|ani|C2
+purse seine|red de cerco||S|ani|C2
+gillnet|red de enmalle||S|ani|C2
+fish ladder|escala de peces||E|ani|C2
+stock assessment|evaluación de existencias||E|ani|C2
+canopy closure|cierre de dosel||E|nat|C2
+fireline|línea de control||S|nat|C2
+fire whirl|torbellino de fuego||E|nat|C2
+burn scar|cicatriz de incendio||E|nat|C2
+serotiny|serotinia||S|nat|C2
+shelterwood system|método de entresaca por bosquetes||E|nat|C2
+landfill gas|gas de vertedero||E|nat|C2
+single-stream recycling|reciclaje monoflujo||E|nat|C2
+deposit-return scheme|sistema de retorno de envases||E|nat|C2
+remanufacturing|refabricación||S|lav|C2
+industrial symbiosis|simbiosis industrial||E|nat|C2
+anaerobic digestion|digestión anaerobia||E|nat|C2
+pyrolysis|pirólisis||S|sci|C2
+gasification|gasificación||S|sci|C2
+shim|calza de ajuste||S|tec|C2
+gusset|cartela||S|tec|C2
+swaging|estampado en frío||S|tec|C2
+broaching|brochado||S|tec|C2
+honing|rectificado de precisión||S|tec|C2
+countersinking|avellanado||S|tec|C2
+shot peening|granallado||S|tec|C2
+weld bead|cordón de soldadura||E|tec|C2
+fillet weld|soldadura en ángulo||E|tec|C2
+butt joint|junta a tope||E|tec|C2
+tolerance stack-up|acumulación de tolerancias||E|tec|C2
+plug gauge|calibre de tapón||S|tec|C2
+surface finish|acabado superficial||E|tec|C2
+kinematic coupling|acoplamiento cinemático||E|tec|C2
+stiction|adherencia estática||S|tec|C2
+galling|agarrotamiento||S|tec|C2
+fretting fatigue|fatiga por microdeslizamiento||E|tec|C2
+needle valve|válvula de aguja||E|tec|C2
+relief valve|válvula de alivio||E|tec|C2
+thrust bearing|rodamiento axial||E|tec|C2
+set screw|tornillo sin cabeza||E|tec|C2
+cotter pin|clavija de ajuste||E|tec|C2
+turnbuckle|tensor||S|tec|C2
+guy wire|cable de retenida||E|nat|C2
+sheave|polea acanalada||S|tec|C2
+hydraulic ram|ariete hidráulico||E|tec|C2
+erratum|fe de erratas||S|stu|C2
+corrigendum|fe de errores||S|stu|C2
+fixed effects|efectos fijos||E|sci|C2
+panel data|datos de panel||E|sci|C2
+multicollinearity|multicolinealidad||S|sci|C2
+robustness check|prueba de robustez||E|sci|C2
+blind review|revisión anónima||E|stu|C2

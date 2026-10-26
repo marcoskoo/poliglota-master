@@ -1,0 +1,166 @@
+pertinacious|pertinaz||A|ast|C2
+obstreperous|obstrepuloso||A|ast|C2
+captious|capcioso||A|ast|C2
+splenetic|bilioso||A|ast|C2
+equable|ecuánime||A|ast|C2
+temerarious|temerario||A|ast|C2
+dastardly|vil y cobarde||A|ast|C2
+redoubtable|temible||A|ast|C2
+indomitable|indomable||A|ast|C2
+fawning|adulador servil||A|ast|C2
+overweening|desmedidamente soberbio||A|ast|C2
+guileful|engañoso||A|ast|C2
+credulous|crédulo||A|ast|C2
+priggish|remilgado||A|ast|C2
+straitlaced|estirado||A|ast|C2
+unctuous|untuoso||A|ast|C2
+glib|de labios fáciles||A|ast|C2
+flippant|frívolo e irrespetuoso||A|ast|C2
+jaded|harto y desencantado||A|ast|C2
+world-weary|desencantado del mundo||A|ast|C2
+vitriolic|vitriólico||A|ast|C2
+acerbic|acerbo||A|ast|C2
+trenchant|mordaz y agudo||A|ast|C2
+sagacious|sagaz||A|ast|C2
+providential|providencial||A|ast|C2
+uncanny|inaudito e inquietante||A|ast|C2
+preternatural|preternatural||A|ast|C2
+eldritch|espectral y arcano||A|let|C2
+pellucid|diáfano||A|let|C2
+opalescent|opalescente||A|sci|C2
+pearlescent|nacarado||A|art|C2
+matchless|inigualable||A|ast|C2
+archetypal|arquetípico||A|let|C2
+estimable|digno de estima||A|ast|C2
+disreputable|de mala fama||A|ast|C2
+egregious|flagrante||A|ast|C2
+consummate|consumado||A|ast|C2
+masterful|magistral||A|ast|C2
+prodigious|prodigioso||A|ast|C2
+unwonted|insólito||A|let|C2
+sumptuous|suntuoso||A|art|C2
+opulent|opulento||A|ast|C2
+prodigal|pródigo||A|ast|C2
+profligate|disipado||A|ast|C2
+rakish|pícaro y elegante||A|ast|C2
+louche|de respetabilidad dudosa||A|ast|C2
+fetid|fétido||A|sci|C2
+noisome|nocivo y fétido||A|ast|C2
+malodorous|maloliente||A|ast|C2
+redolent|evocador||A|let|C2
+mordant|mordaz||A|ast|C2
+piquant|picante y gratamente estimulante||A|ali|C2
+unpalatable|difícil de aceptar||A|ast|C2
+sibilant|sibilante||A|let|C2
+raucous|atronador y bronco||A|ast|C2
+cacophonous|cacofónico||A|mus|C2
+dissonant|disonante||A|mus|C2
+euphonious|eufónico||A|mus|C2
+honeyed|meloso||A|ast|C2
+dulcet|dulce y suave||A|let|C2
+velvety|aterciopelado||A|ast|C2
+doleful|lamentaroso||A|let|C2
+disconsolate|desconsolado||A|emo|C2
+heartrending|desgarrador||A|ast|C2
+rousing|enardecedor||A|ast|C2
+bracing|tonificante||A|ast|C2
+soporific|soporífero||A|ast|C2
+spellbinding|que hechiza||A|art|C2
+enthralling|absorbente||A|art|C2
+riveting|apasionante||A|art|C2
+captivating|cautivador||A|art|C2
+alluring|seductor||A|ast|C2
+beguiling|encantador con resabio de engaño||A|ast|C2
+sensuous|sensual||A|ast|C2
+luscious|suculento||A|ali|C2
+ineluctable|ineluctable||A|ast|C2
+unfathomable|insondable||A|ast|C2
+irreproachable|irreprochable||A|ast|C2
+unimpeachable|incuestionable||A|ast|C2
+opprobrious|oprobioso||A|ast|C2
+denigratory|denigratorio||A|ast|C2
+compendious|compendioso||A|let|C2
+allusive|alusivo||A|let|C2
+mawkish|cursi y sentimentaloide||A|ast|C2
+cloying|empalagoso||A|ast|C2
+saccharine|azucarado||A|ast|C2
+maudlin|sentimental y lastimero||A|ast|C2
+propitious|propicio||A|ast|C2
+inauspicious|inauspicioso||A|ast|C2
+portentous|portentoso||A|let|C2
+bathetic|batético||A|let|C2
+quixotic|quijotesco||A|let|C2
+dyspeptic|displéyico||A|ast|C2
+descant|disertar con énfasis||V|let|C2
+prefigure|prefigurar||V|let|C2
+traduce|calumniar||V|cmu|C2
+vilipend|vilipendiar||V|cmu|C2
+eulogize|elogiar||V|cmu|C2
+venerate|venerar||V|rel|C2
+hallow|santificar||V|rel|C2
+fulminate|fulminar||V|cmu|C2
+dissertate|disertar||V|cmu|C2
+propound|someter a consideración||V|cmu|C2
+ratiocinate|raciocinar||V|ast|C2
+cogitate|cavilar||V|ast|C2
+perorate|perorar||V|cmu|C2
+declaim|declamar||V|let|C2
+adjure|conjurar||V|cmu|C2
+supplicate|suplicar||V|cmu|C2
+confabulate|confabular||V|sci|C2
+explicate|explicitar||V|cmu|C2
+verity|verdad intrínseca||S|let|C2
+periodicity|periodicidad||S|sci|C2
+circularity|circularidad||S|ast|C2
+vacuity|vacuidad||S|ast|C2
+inanity|inanidad||S|ast|C2
+fatuity|fatuidad||S|ast|C2
+perspicacity|perspicacia||S|ast|C2
+sagacity|sagacidad||S|ast|C2
+perspicuity|claridad expositiva||S|ast|C2
+guile|astucia dolosa||S|ast|C2
+artifice|artificio||S|ast|C2
+machination|maquinación||S|ast|C2
+connivance|connivencia||S|ist|C2
+ploy|ardid||S|ast|C2
+ruse|artimaña||S|ast|C2
+legerdemain|juego de manos||S|art|C2
+prestidigitation|prestidigitación||S|art|C2
+mountebank|charlatán||S|pro|C2
+bombast|lenguaje ampuloso||S|let|C2
+bluster|fanfarronería||S|cmu|C2
+braggadocio|fanfarronada||S|ast|C2
+rodomontade|rodomontada||S|let|C2
+grandiloquence|grandilocuencia||S|let|C2
+turgidity|turgidez ampulosa||S|let|C2
+verbosity|verbosidad||S|cmu|C2
+garrulity|garrulería||S|cmu|C2
+prolixity|prolijidad||S|let|C2
+laconism|laconismo||S|let|C2
+taciturnity|taciturnidad||S|ast|C2
+pithiness|concisión sabrosa||S|let|C2
+terseness|concisión tajante||S|let|C2
+forthrightness|franqueza resuelta||S|cmu|C2
+outspokenness|sinceridad sin tapujos||S|cmu|C2
+peccadillo|pecadillo||S|ast|C2
+foible|debilidad inofensiva||S|ast|C2
+gullibility|credulidad ingenua||S|ast|C2
+fallibility|falibilidad||S|ast|C2
+infallibility|infalibilidad||S|ast|C2
+derring-do|audacia temeraria||S|let|C2
+pari passu|a la par||L|fin|C2
+ex parte|ex parte||L|ist|C2
+obiter dictum|obiter dictum||L|ist|C2
+sub rosa|en secreto||L|ast|C2
+in utero|in utero||L|sla|C2
+sine die|sine die||L|ast|C2
+ab initio|desde el principio||L|ist|C2
+arguendo|por hipótesis||L|ist|C2
+res judicata|cosa juzgada||L|ist|C2
+passim|passim||D|let|C2
+putsch|golpe de Estado||S|ist|C2
+parvenu|advenedizo||S|ast|C2
+arriviste|arribista||S|ast|C2
+je ne sais quoi|no sé qué||E|ast|C2
+kvetch|quejarse persistentemente||V|cmu|C2
+shtick|número cómico propio||S|cin|C2

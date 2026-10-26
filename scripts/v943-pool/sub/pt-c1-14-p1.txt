@@ -1,0 +1,17 @@
+tutela cautelar|tutela cautelar||L|ist|C1
+parecer|dictamen (informe)||S|fin|C1
+decurso do prazo|transcurso del plazo||L|ist|C1
+ausculta|auscultación||S|sla|C1
+episódio depressivo|episodio depresivo||S|sla|C1
+taxa diretora|tipo de interés director||S|fin|C1
+teoria dos grafos|teoría de grafos||S|sci|C1
+falha tectónica|falla tectónica||L|sci|C1
+órbita terrestre baixa|órbita terrestre baja||S|sci|C1
+estilo indireto livre|estilo indirecto libre||S|let|C1
+sintagma|sintagma||S|let|C1
+razão de Estado|razón de Estado||L|ast|C1
+furo jornalístico|exclusiva periodística||S|att|C1
+núcleo museológico|núcleo museístico||S|art|C1
+gestão por objetivos|gestión por objetivos||S|lav|C1
+prova às cegas|cata a ciegas||L|ris|C1
+passamento|fallecimiento||S|ast|C1

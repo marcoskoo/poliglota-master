@@ -1,0 +1,36 @@
+contumácia|contumacia||S|ist|C2
+inimputabilidade|inimputabilidad||S|ist|C2
+esbulhar|usurpar (por la fuerza)||V|ist|C2
+prevaricar|prevaricar||V|ist|C2
+remissão de dívida|condonación de deuda||L|fin|C2
+dação em pagamento|dación en pago||L|fin|C2
+benfeitorias|mejoras (del inmueble)||S|fin|C2
+anatocismo|anatocismo||S|fin|C2
+patognomónico|patognomónico||A|sla|C2
+anhedonia|anhedonia||S|sla|C2
+superposição quântica|superposición cuántica||S|sci|C2
+descoerência|descoherencia||S|sci|C2
+hádron|hadrón||S|sci|C2
+esterificação|esterificação||S|sci|C2
+piezoelétrico|piezoeléctrico||A|sci|C2
+edição do genoma|edición del genoma||S|sci|C2
+autofagia|autofagia||S|sci|C2
+lógica difusa|lógica difusa||L|sci|C2
+idioleto|idiolecto||S|let|C2
+próclise|próclisis||S|let|C2
+ênclise|énclisis||S|let|C2
+antropónimo|antropónimo||S|let|C2
+escatologia|escatología||S|ast|C2
+herege|hereje||S|ast|C2
+blasfémia|blasfemia||S|ast|C2
+sacrilégio|sacrilegio||S|ast|C2
+sacrossanto|sacrosanto||A|let|C2
+grisalha|grisalla||S|art|C2
+sanguínea|sanguina||S|art|C2
+cabalete|caballete||S|art|C2
+confraria|cofradía||S|art|C2
+donaire|donaire||S|art|C2
+andor|andas (de procesión)||S|art|C2
+polirritmia|polirritmia||S|mus|C2
+apoiatura|apoyatura||S|mus|C2
+palheta|lengüeta (de un instrumento de viento)||S|mus|C2
