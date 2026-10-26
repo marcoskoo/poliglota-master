@@ -1,152 +1,86 @@
 [
  {
-  "id": "it-b2-03",
-  "lang": "it",
-  "level": "B2",
-  "count": 151
- },
- {
-  "id": "it-c1-07",
-  "lang": "it",
-  "level": "C1",
-  "count": 393
- },
- {
-  "id": "it-c2-12",
-  "lang": "it",
-  "level": "C2",
-  "count": 797
- },
- {
-  "id": "en-b2-04",
-  "lang": "en",
-  "level": "B2",
-  "count": 573
- },
- {
-  "id": "en-c1-07",
-  "lang": "en",
-  "level": "C1",
-  "count": 360
- },
- {
-  "id": "en-c2-12",
-  "lang": "en",
-  "level": "C2",
-  "count": 784
- },
- {
-  "id": "en-c2-13",
-  "lang": "en",
-  "level": "C2",
-  "count": 784
- },
- {
-  "id": "pt-b1-01",
-  "lang": "pt",
-  "level": "B1",
-  "count": 548
- },
- {
-  "id": "pt-b2-02",
-  "lang": "pt",
-  "level": "B2",
-  "count": 849
- },
- {
-  "id": "pt-b2-03",
-  "lang": "pt",
-  "level": "B2",
-  "count": 849
- },
- {
-  "id": "pt-c1-04",
-  "lang": "pt",
-  "level": "C1",
-  "count": 426
- },
- {
-  "id": "pt-c2-05",
-  "lang": "pt",
-  "level": "C2",
-  "count": 699
- },
- {
-  "id": "pt-c2-06",
-  "lang": "pt",
-  "level": "C2",
-  "count": 699
- },
- {
-  "id": "fr-a2-02",
-  "lang": "fr",
-  "level": "A2",
-  "count": 267
- },
- {
-  "id": "fr-b2-03",
-  "lang": "fr",
-  "level": "B2",
-  "count": 672
- },
- {
-  "id": "fr-b2-09",
-  "lang": "fr",
-  "level": "B2",
-  "count": 672
- },
- {
-  "id": "fr-c1-13",
-  "lang": "fr",
-  "level": "C1",
-  "count": 899
- },
- {
-  "id": "fr-c1-14",
-  "lang": "fr",
-  "level": "C1",
-  "count": 899
- },
- {
-  "id": "fr-c2-19",
-  "lang": "fr",
-  "level": "C2",
-  "count": 973
- },
- {
-  "id": "de-a2-02",
-  "lang": "de",
-  "level": "A2",
-  "count": 266
- },
- {
   "id": "de-b1-04",
   "lang": "de",
   "level": "B1",
   "count": 651
  },
  {
-  "id": "de-b2-08",
-  "lang": "de",
+  "id": "it-b2-04",
+  "lang": "it",
   "level": "B2",
-  "count": 614
+  "count": 54
  },
  {
-  "id": "de-c1-14",
-  "lang": "de",
+  "id": "it-c1-09",
+  "lang": "it",
   "level": "C1",
-  "count": 701
+  "count": 260
  },
  {
-  "id": "de-c2-19",
-  "lang": "de",
-  "level": "C2",
-  "count": 774
+  "id": "en-b2-05",
+  "lang": "en",
+  "level": "B2",
+  "count": 457
  },
  {
-  "id": "de-c2-20",
+  "id": "en-c2-14",
+  "lang": "en",
+  "level": "C2",
+  "count": 269
+ },
+ {
+  "id": "pt-b1-04",
+  "lang": "pt",
+  "level": "B1",
+  "count": 31
+ },
+ {
+  "id": "pt-b2-09",
+  "lang": "pt",
+  "level": "B2",
+  "count": 864
+ },
+ {
+  "id": "pt-c1-14",
+  "lang": "pt",
+  "level": "C1",
+  "count": 17
+ },
+ {
+  "id": "pt-c2-22",
+  "lang": "pt",
+  "level": "C2",
+  "count": 71
+ },
+ {
+  "id": "fr-b2-01",
+  "lang": "fr",
+  "level": "B2",
+  "count": 466
+ },
+ {
+  "id": "fr-c1-02",
+  "lang": "fr",
+  "level": "C1",
+  "count": 497
+ },
+ {
+  "id": "fr-c2-03",
+  "lang": "fr",
+  "level": "C2",
+  "count": 170
+ },
+ {
+  "id": "de-a2-05",
+  "lang": "de",
+  "level": "A2",
+  "count": 192
+ },
+ {
+  "id": "de-c2-06",
   "lang": "de",
   "level": "C2",
-  "count": 774
+  "count": 129
  }
 ]
