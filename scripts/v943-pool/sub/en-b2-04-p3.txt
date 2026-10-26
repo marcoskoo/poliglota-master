@@ -1,0 +1,117 @@
+sibling rivalry|rivalidad entre hermanos||S|fam|B2
+only child|hijo único||S|fam|B2
+empty nester|persona con el nido vacío||S|fam|B2
+midlife crisis|crisis de mediana edad||S|fam|B2
+nuclear family|familia nuclear||S|fam|B2
+blended family|familia reconstituida||S|fam|B2
+in-laws|familia política||S|fam|B2
+child-rearing|crianza de los hijos||S|fam|B2
+curfew|hora de volver a casa||S|fam|B2
+be grounded|estar castigado sin salir||E|fam|B2
+household chores|tareas del hogar||S|fam|B2
+hand-me-down|prenda heredada de hermanos||S|fam|B2
+joint custody|custodia compartida||S|fam|B2
+sole custody|custodia en exclusiva||S|fam|B2
+visitation rights|derecho de visitas||S|fam|B2
+alimony|pensión compensatoria||S|fam|B2
+prenuptial agreement|acuerdo prematrimonial||S|fam|B2
+common-law marriage|unión de hecho||S|fam|B2
+rite of passage|rito de paso||S|fam|B2
+generation gap|brecha generacional||S|fam|B2
+nursing home|residencia de ancianos||S|fam|B2
+heirloom|reliquia familiar||S|fam|B2
+walk down memory lane|rememorar el pasado||E|fam|B2
+the elderly|las personas mayores||S|fam|B2
+elderly care|cuidado de personas mayores||S|fam|B2
+security deposit|fianza||S|cas|B2
+sublet|subarrendar||V|cas|B2
+studio apartment|estudio de una habitación||S|cas|B2
+rental agreement|contrato de alquiler||S|cas|B2
+utility bill|factura de suministros||S|cas|B2
+eviction notice|orden de desahucio||S|cas|B2
+storage unit|trastero||S|cas|B2
+split the rent|repartirse el alquiler||E|cas|B2
+open house|jornada de puertas abiertas||S|cas|B2
+home inspection|inspección de la vivienda||S|cas|B2
+closing costs|gastos de escrituración||S|cas|B2
+renter's insurance|seguro de hogar del inquilino||S|cas|B2
+homeowners insurance|seguro de hogar del propietario||S|cas|B2
+walk-in shower|ducha sin mampara||S|cas|B2
+hardwood floor|suelo de madera||S|cas|B2
+kitchen island|isla de cocina||S|cas|B2
+backsplash|salpicadero de la cocina||S|cas|B2
+light fixture|lámpara de techo||S|cas|B2
+throw pillow|cojín decorativo||S|cas|B2
+wallpaper|papel pintado||S|cas|B2
+remodel|reformar||V|cas|B2
+fixer-upper|vivienda para reformar||S|cas|B2
+handyman|manitas||S|cas|B2
+power tool|herramienta eléctrica||S|cas|B2
+paint roller|rodillo de pintura||S|cas|B2
+curb appeal|atractivo exterior de la vivienda||S|cas|B2
+open-concept|de concepto abierto||A|cas|B2
+compost bin|compostador||S|cas|B2
+housewarming party|fiesta de estreno de casa||S|cas|B2
+house hunting|búsqueda de vivienda||S|cas|B2
+starter home|primera vivienda||S|cas|B2
+bidding war|guerra de pujas||S|fin|B2
+up-and-coming neighborhood|barrio en alza||S|cit|B2
+school district|distrito escolar||S|stu|B2
+local amenities|servicios de la zona||S|cit|B2
+quiet hours|horas de descanso||S|cas|B2
+package theft|robo de paquetes||S|cit|B2
+food truck|camión de comida||S|ali|B2
+food desert|desierto alimentario||S|ali|B2
+food miles|kilómetros que recorre el alimento||S|ali|B2
+farmers market|mercado de productores||S|ali|B2
+potluck|comida en la que cada uno aporta un plato||S|ali|B2
+portion control|control de las raciones||S|ali|B2
+nutrition facts|información nutricional||S|ali|B2
+ingredient list|lista de ingredientes||S|ali|B2
+added sugars|azúcares añadidos||S|ali|B2
+dietary fiber|fibra alimentaria||S|ali|B2
+artificial sweetener|edulcorante artificial||S|ali|B2
+best-by date|fecha de consumo preferente||S|ali|B2
+shelf life|periodo de conservación||S|ali|B2
+free-range|de corral||A|ali|B2
+grass-fed|alimentado con hierba||A|ali|B2
+cage-free|criado sin jaulas||A|ali|B2
+sustainably sourced|de origen sostenible||A|ali|B2
+sugary drink|bebida azucarada||S|ali|B2
+empty calories|calorías vacías||S|ali|B2
+plant-based diet|dieta basada en vegetales||S|ali|B2
+lactose intolerant|intolerante a la lactosa||A|sla|B2
+cross-contamination|contaminación cruzada||S|sla|B2
+marinade|adobo||S|ali|B2
+home-cooked meal|comida casera||S|ali|B2
+meatloaf|pan de carne||S|ali|B2
+cornbread|pan de maíz||S|ali|B2
+buffalo wings|alitas de búfalo||S|ali|B2
+mac and cheese|macarrones con queso||S|ali|B2
+wok|sartén wok||S|ali|B2
+dumpling|bola de masa rellena||S|ali|B2
+schnitzel|escalope vienés||S|ali|B2
+sommelier|sumiller||S|ris|B2
+wine tasting|cata de vinos||S|ris|B2
+vintage|añada||S|ris|B2
+full-bodied|con cuerpo||A|ris|B2
+oaky|con notas de roble||A|ris|B2
+aftertaste|regusto||S|ris|B2
+acquired taste|gusto adquirido||S|ris|B2
+vineyard|viñedo||S|ris|B2
+barista|barista||S|ris|B2
+cold brew|café elaborado en frío||S|ris|B2
+decaf|descafeinado||S|ris|B2
+oat milk|bebida de avena||S|ris|B2
+coffee grinder|molinillo de café||S|ris|B2
+single-origin|de origen único||A|ris|B2
+flavor notes|notas de sabor||S|ris|B2
+coffee culture|cultura del café||S|ris|B2
+avocado toast|tostada de aguacate||S|ris|B2
+pastry|pieza de bollería||S|ris|B2
+whipped cream|nata montada||S|ali|B2
+tasting menu|menú degustación||S|ris|B2
+fusion cuisine|cocina fusión||S|ris|B2
+gratuity|propina||S|ris|B2
+tipping culture|cultura de la propina||S|ris|B2
+open a tab|abrir una cuenta en la barra||E|ris|B2

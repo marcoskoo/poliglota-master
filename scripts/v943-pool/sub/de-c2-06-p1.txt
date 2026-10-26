@@ -1,0 +1,37 @@
+die Schadensersatzklage|demanda de indemnización||S|ist|C2
+die Ermächtigungsgrundlage|base habilitante (fundamento de la intervención)||S|ist|C2
+das Kavaliersdelikt|delito de guante blanco||S|ist|C2
+der Gesellschafterbeschluss|acuerdo de socios||S|fin|C2
+die Stimmbandlähmung|parálisis de las cuerdas vocales||S|sla|C2
+das Kindbettfieber|fiebre puerperal||S|sla|C2
+die Tumorresektion|resección del tumor||S|sla|C2
+der Gedankendrang|aceleración del pensamiento (fuga de ideas)||S|sla|C2
+der Beziehungswahn|delirio de referencia||S|sla|C2
+die Jahresabschlussprüfung|auditoría de cuentas anuales||S|fin|C2
+die Alterungsrückstellung|reserva de envejecimiento||S|fin|C2
+der Grenzpreis|precio de reserva||S|fin|C2
+die Rückkreuzung|retrocruzamiento||S|sci|C2
+das Nebengruppenelement|elemento del bloque d||S|sci|C2
+die Spinquantenzahl|número cuántico de espín||S|sci|C2
+die Kalibriergerade|recta de calibrado||S|sci|C2
+die Stammlinie|linaje evolutivo||S|sci|C2
+das Handlungsgefüge|estructura de la trama||S|let|C2
+das Sprechstück|pieza hablada (género dramático)||S|art|C2
+die Morphemgrenze|frontera de morfemas||S|stu|C2
+das Sozialgefüge|estructura social||S|ist|C2
+der Sextakkord|acorde de sexta||S|mus|C2
+die Dynamikbezeichnung|indicación dinámica||S|mus|C2
+die Schwachstellensuche|búsqueda de vulnerabilidades||S|tec|C2
+die Verarmungszone|zona de deplexión||S|tec|C2
+der Fischbesatz|repoblación piscícola||S|nat|C2
+die Humusauflage|mantillo (capa de humus)||S|nat|C2
+die Samenreife|maduración de la semilla||S|nat|C2
+die Markendehnung|extensión de marca||S|fin|C2
+die Fassreife|maduración en barrica||S|ris|C2
+die Schote|talego (cárcel, argot)||S|cmu|C2
+verhökern|malvender||V|cmp|C2
+das Lebewohl|despedida (adiós para siempre)||S|let|C2
+obwalten|prevalecer (regir)||V|ast|C2
+letztwillig|de última voluntad (testamentario)||A|ist|C2
+hinwiederum|a su vez (por su parte)||D|cnn|C2
+in Gänze|en su totalidad||L|ast|C2

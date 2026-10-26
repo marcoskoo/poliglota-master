@@ -1,0 +1,34 @@
+knock-in|inserción dirigida de gen||S|sci|C2
+somatic mosaicism|mosaicismo somático||E|sci|C2
+epigenome|epigenoma||S|sci|C2
+morphometry|morfometría||S|sci|C2
+stereotaxic|estereotáxico||A|sci|C2
+lesion-symptom mapping|correlación lesión-síntoma||E|sci|C2
+perfusion imaging|imagen de perfusión||E|sci|C2
+fullerene|fulereno||S|sci|C2
+indentation hardness|dureza por penetración||E|sci|C2
+numerical aperture|apertura numérica||E|sci|C2
+coherence length|longitud de coherencia||E|sci|C2
+speckle pattern|patrón de moteado||E|sci|C2
+harmonic distortion|distorsión armónica||E|sci|C2
+resonant frequency|frecuencia de resonancia||E|sci|C2
+ultrasonic testing|ensayo por ultrasonidos||E|tec|C2
+isopleth|isopleta||S|sci|C2
+spatial autocorrelation|autocorrelación espacial||E|sci|C2
+contour interval|equidistancia||E|sci|C2
+sprung rhythm|ritmo saltatorio||E|let|C2
+alliterative verse|verso aliterativo||E|let|C2
+stage direction|acotación||E|let|C2
+comic relief|desahogo cómico||E|let|C2
+epic theater|teatro épico||E|art|C2
+kitchen-sink drama|drama doméstico realista||E|art|C2
+anacoluthon|anacoluto||S|let|C2
+textual variant|variante textual||E|let|C2
+interlinear gloss|glosa interlineal||E|let|C2
+scribal error|error de copista||E|let|C2
+skopos theory|teoría del skopos||E|let|C2
+jeremiad|jeremíada||S|let|C2
+false dichotomy|falsa dicotomía||E|ast|C2
+received wisdom|opinión recibida||E|ast|C2
+critical dystopia|distopía crítica||E|let|C2
+distant reading|lectura distante||E|let|C2

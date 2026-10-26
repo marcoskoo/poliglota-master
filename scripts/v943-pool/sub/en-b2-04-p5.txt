@@ -1,0 +1,108 @@
+visa waiver|exención de visado||S|vig|B2
+green card|tarjeta de residencia||S|vig|B2
+dual citizenship|doble nacionalidad||S|vig|B2
+asylum seeker|solicitante de asilo||S|att|B2
+overstay your visa|exceder la validez del visado||E|vig|B2
+concierge|conserje||S|htl|B2
+bellhop|botones||S|htl|B2
+turndown service|servicio nocturno de habitación||S|htl|B2
+wake-up call|llamada de despertador||S|htl|B2
+late check-out|salida tardía||S|htl|B2
+adjoining rooms|habitaciones contiguas||S|htl|B2
+boutique hotel|hotel con encanto||S|htl|B2
+bed and breakfast|alojamiento con desayuno||S|htl|B2
+full board|pensión completa||S|htl|B2
+half board|media pensión||S|htl|B2
+no-show|cliente que no se presenta||S|htl|B2
+cancellation policy|política de cancelación||S|htl|B2
+non-refundable|no reembolsable||A|htl|B2
+housekeeping|servicio de limpieza||S|htl|B2
+manager on duty|encargado de turno||S|htl|B2
+city break|escapada urbana||S|vig|B2
+tourist trap|trampa para turistas||S|vig|B2
+off the beaten path|fuera de las rutas habituales||E|vig|B2
+hidden gem|joya escondida||S|vig|B2
+day trip|excursión de un día||S|vig|B2
+backpacker|mochilero||S|vig|B2
+package tour|viaje organizado||S|vig|B2
+currency exchange|cambio de divisas||S|fin|B2
+annual checkup|revisión anual||S|sla|B2
+screening test|prueba de cribado||S|sla|B2
+booster shot|dosis de recuerdo||S|sla|B2
+preventive care|atención preventiva||S|sla|B2
+prescription refill|renovación de receta||S|sla|B2
+over-the-counter|de venta libre||A|sla|B2
+generic drug|medicamento genérico||S|sla|B2
+urgent care|centro de urgencias||S|sla|B2
+bedside manner|trato con el paciente||S|sla|B2
+medical record|historial clínico||S|sla|B2
+referral|derivación a un especialista||S|sla|B2
+deductible|franquicia del seguro||S|sla|B2
+copay|copago||S|sla|B2
+insurance premium|prima del seguro||S|sla|B2
+pre-existing condition|enfermedad previa||S|sla|B2
+out of network|fuera del cuadro médico||E|sla|B2
+out-of-pocket costs|gastos a cargo del paciente||S|sla|B2
+doctor's note|justificante médico||S|sla|B2
+sick leave|baja por enfermedad||S|lav|B2
+maternity leave|permiso de maternidad||S|lav|B2
+disability benefits|prestación por incapacidad||S|lav|B2
+sedentary lifestyle|vida sedentaria||S|sla|B2
+power nap|siesta exprés||S|sla|B2
+night owl|trasnochador||S|sla|B2
+blood sugar|azúcar en sangre||S|sla|B2
+mindfulness|atención plena||S|sla|B2
+self-care|autocuidado||S|sla|B2
+panic attack|ataque de pánico||S|sla|B2
+therapy session|sesión de terapia||S|sla|B2
+support group|grupo de apoyo||S|sla|B2
+work-life balance|conciliación laboral y familiar||S|lav|B2
+sleep deprivation|privación de sueño||S|sla|B2
+spinal cord|médula espinal||S|cor|B2
+cartilage|cartílago||S|cor|B2
+tendon|tendón||S|cor|B2
+hamstring|isquiotibial||S|cor|B2
+pins and needles|hormigueo||S|cor|B2
+numb|entumecido||A|cor|B2
+blister|ampolla||S|cor|B2
+sprain|esguince||S|cor|B2
+stop the bleeding|taponar la hemorragia||E|sla|B2
+apply pressure|hacer presión||E|sla|B2
+recovery position|posición lateral de seguridad||S|sla|B2
+go into shock|entrar en estado de shock||E|sla|B2
+good Samaritan|buen samaritano||S|sla|B2
+bystander|persona que presencia un suceso||S|sla|B2
+defibrillator|desfibrilador||S|sla|B2
+adhesive bandage|tirita||S|sla|B2
+toss and turn|dar vueltas en la cama||E|sla|B2
+sleep in|dormir hasta tarde||E|sla|B2
+wide awake|totalmente despierto||A|sla|B2
+sleep apnea|apnea del sueño||S|sla|B2
+job opening|vacante||S|lav|B2
+staffing agency|empresa de selección||S|lav|B2
+headhunter|cazatalentos||S|lav|B2
+cover letter|carta de presentación||S|lav|B2
+networking event|evento para hacer contactos||S|lav|B2
+elevator pitch|presentación breve de uno mismo||S|lav|B2
+panel interview|entrevista con un comité||S|lav|B2
+salary expectations|expectativas salariales||S|lav|B2
+benefits package|paquete de prestaciones||S|lav|B2
+signing bonus|prima de contratación||S|lav|B2
+stock options|opciones sobre acciones||S|lav|B2
+probation period|período de prueba||S|lav|B2
+performance review|evaluación del rendimiento||S|lav|B2
+glass ceiling|techo de cristal||S|lav|B2
+severance pay|indemnización por despido||S|lav|B2
+resignation letter|carta de renuncia||S|lav|B2
+exit interview|entrevista de salida||S|lav|B2
+union dues|cuotas sindicales||S|lav|B2
+collective bargaining|negociación colectiva||S|lav|B2
+picket line|piquete de huelga||S|lav|B2
+wrongful termination|despido improcedente||S|lav|B2
+whistleblower|denunciante de irregularidades||S|lav|B2
+minimum wage|salario mínimo||S|lav|B2
+take-home pay|salario neto||S|lav|B2
+unemployment benefits|prestación por desempleo||S|lav|B2
+workers' rights|derechos laborales||S|lav|B2
+workplace harassment|acoso laboral||S|lav|B2
+shift work|trabajo por turnos||S|lav|B2

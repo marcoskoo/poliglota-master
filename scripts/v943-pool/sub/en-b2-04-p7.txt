@@ -1,0 +1,178 @@
+fast fashion|moda rápida||S|rop|B2
+vintage clothing|ropa vintage||S|rop|B2
+capsule wardrobe|armario cápsula||S|rop|B2
+statement piece|prenda estrella||S|rop|B2
+dress code|código de vestimenta||S|rop|B2
+business casual|vestimenta informal elegante||S|rop|B2
+costume jewelry|bisutería||S|rop|B2
+faux fur|piel sintética||S|rop|B2
+garment industry|industria textil||S|rop|B2
+sweatshop|taller de explotación laboral||S|rop|B2
+living wage|salario digno||S|lav|B2
+software update|actualización de software||S|tec|B2
+operating system|sistema operativo||S|tec|B2
+open-source|de código abierto||A|tec|B2
+source code|código fuente||S|tec|B2
+debug|depurar||V|tec|B2
+machine learning|aprendizaje automático||S|tec|B2
+artificial intelligence|inteligencia artificial||S|tec|B2
+beta version|versión beta||S|tec|B2
+user interface|interfaz de usuario||S|tec|B2
+cloud backup|copia de seguridad en la nube||S|tec|B2
+push notification|notificación push||S|tec|B2
+app permissions|permisos de aplicaciones||S|tec|B2
+dark mode|modo oscuro||S|tec|B2
+clear the cache|borrar la caché||E|tec|B2
+screen protector|protector de pantalla||S|tec|B2
+screen time|tiempo de pantalla||S|tec|B2
+power bank|batería externa||S|tec|B2
+charging cable|cable de carga||S|tec|B2
+unlocked phone|teléfono liberado||S|tec|B2
+fingerprint scanner|lector de huellas||S|tec|B2
+contactless payment|pago sin contacto||S|tec|B2
+mobile wallet|monedero digital||S|tec|B2
+unlimited data|datos ilimitados||S|tec|B2
+roaming charges|cargos por itinerancia||S|tec|B2
+dead zone|zona sin cobertura||S|tec|B2
+robocall|llamada automática no deseada||S|tec|B2
+caller ID|identificador de llamadas||S|tec|B2
+group chat|grupo de mensajería||S|tec|B2
+read receipt|confirmación de lectura||S|tec|B2
+go viral|hacerse viral||E|tec|B2
+trending topic|tema tendencia||S|tec|B2
+unfollow|dejar de seguir||V|tec|B2
+hate speech|discurso de odio||S|tec|B2
+cyberbullying|ciberacoso||S|tec|B2
+clickbait|cebo de clics||S|tec|B2
+misinformation|desinformación||S|tec|B2
+deepfake|vídeo manipulado hiperrealista||S|tec|B2
+echo chamber|cámara de eco||S|tec|B2
+filter bubble|burbuja de filtros||S|tec|B2
+digital detox|desintoxicación digital||S|tec|B2
+data breach|filtración de datos||S|tec|B2
+identity theft|robo de identidad||S|tec|B2
+phishing scam|estafa de phishing||S|tec|B2
+ransomware|secuestro de datos||S|tec|B2
+two-factor authentication|autenticación en dos pasos||S|tec|B2
+strong password|contraseña robusta||S|tec|B2
+password manager|gestor de contraseñas||S|tec|B2
+incognito mode|modo incógnito||S|tec|B2
+privacy settings|ajustes de privacidad||S|tec|B2
+terms of service|condiciones del servicio||S|tec|B2
+cookie policy|política de cookies||S|tec|B2
+ad blocker|bloqueador de publicidad||S|tec|B2
+spam filter|filtro de spam||S|tec|B2
+junk folder|carpeta de correo no deseado||S|tec|B2
+news feed|feed de noticias||S|tec|B2
+autoplay|reproducción automática||S|tec|B2
+streaming service|plataforma de streaming||S|cin|B2
+binge-watch|ver en maratón||V|cin|B2
+sportsmanship|deportividad||S|spt|B2
+fair play|juego limpio||S|spt|B2
+underdog|equipo en desventaja||S|spt|B2
+tiebreaker|desempate||S|spt|B2
+wildcard|comodín||S|spt|B2
+home field advantage|ventaja de jugar en casa||S|spt|B2
+away game|partido fuera de casa||S|spt|B2
+fan base|base de aficionados||S|spt|B2
+doping test|control antidopaje||S|spt|B2
+performance-enhancing drugs|sustancias dopantes||S|spt|B2
+instant replay|repetición instantánea||S|spt|B2
+free throw|tiro libre||S|spt|B2
+injury time|descuento||S|spt|B2
+sprained ankle|tobillo torcido||S|spt|B2
+pulled muscle|distensión muscular||S|spt|B2
+stress fracture|fractura por estrés||S|spt|B2
+concussion|conmoción cerebral||S|spt|B2
+knee brace|rodillera||S|spt|B2
+sports drink|bebida isotónica||S|spt|B2
+muscle soreness|agujetas||S|spt|B2
+warm-up|calentamiento||S|spt|B2
+cool-down|vuelta a la calma||S|spt|B2
+strength training|entrenamiento de fuerza||S|spt|B2
+cross-training|entrenamiento cruzado||S|spt|B2
+hydration|hidratación||S|spt|B2
+resting heart rate|frecuencia cardíaca en reposo||S|spt|B2
+physical therapy|fisioterapia||S|sla|B2
+record label|discográfica||S|mus|B2
+debut album|primer álbum||S|mus|B2
+opening act|telonero||S|mus|B2
+headliner|artista principal del cartel||S|mus|B2
+encore|bis||S|mus|B2
+set list|lista de canciones del concierto||S|mus|B2
+sound check|prueba de sonido||S|mus|B2
+tribute band|banda tributo||S|mus|B2
+vinyl record|disco de vinilo||S|mus|B2
+turntable|giradiscos||S|mus|B2
+chord progression|progresión de acordes||S|mus|B2
+sheet music|partitura||S|mus|B2
+backup singer|corista||S|mus|B2
+perfect pitch|oído absoluto||S|mus|B2
+tone-deaf|sin oído musical||A|mus|B2
+a cappella|a capela||A|mus|B2
+general admission|entrada de pie sin numerar||S|mus|B2
+open mic|micro abierto||S|mus|B2
+plot twist|giro de guion||S|cin|B2
+spoiler alert|aviso de spoilers||S|cin|B2
+cliffhanger|final en vilo||S|cin|B2
+pilot episode|episodio piloto||S|cin|B2
+story arc|arco narrativo||S|cin|B2
+character development|desarrollo de los personajes||S|cin|B2
+plot hole|agujero de guion||S|cin|B2
+cinematography|fotografía cinematográfica||S|cin|B2
+stunt double|doble de acción||S|cin|B2
+casting call|convocatoria de casting||S|cin|B2
+supporting role|papel secundario||S|cin|B2
+director's cut|montaje del director||S|cin|B2
+blooper|toma falsa||S|cin|B2
+behind the scenes|entre bastidores||E|cin|B2
+docuseries|docuserie||S|cin|B2
+reboot|reinicio de una franquicia||S|cin|B2
+arthouse film|cine de autor||S|cin|B2
+film buff|cinéfilo||S|cin|B2
+gripping|absorbente||A|cin|B2
+slow-paced|de ritmo lento||A|cin|B2
+whirlwind romance|romance vertiginoso||S|rel|B2
+pop the question|pedir matrimonio||E|rel|B2
+engagement ring|anillo de compromiso||S|rel|B2
+bachelor party|despedida de soltero||S|rel|B2
+bachelorette party|despedida de soltera||S|rel|B2
+wedding vows|votos matrimoniales||S|rel|B2
+best man|padrino de boda||S|rel|B2
+maid of honor|dama de honor||S|rel|B2
+newlyweds|recién casados||S|rel|B2
+make a toast|brindar||E|rel|B2
+save the date|apartar la fecha||E|rel|B2
+long-distance relationship|relación a distancia||S|rel|B2
+double date|cita doble||S|rel|B2
+make amends|reparar el daño||E|rel|B2
+clear the air|aclarar las cosas||E|rel|B2
+give the cold shoulder|dar la espalda||E|rel|B2
+bury the hatchet|enterrar el hacha de guerra||E|rel|B2
+estranged|distanciado||A|rel|B2
+reconciliation|reconciliación||S|rel|B2
+mutual friend|amigo en común||S|rel|B2
+rebound relationship|relación de rebote||S|rel|B2
+toxic relationship|relación tóxica||S|rel|B2
+irreconcilable differences|diferencias irreconciliables||S|rel|B2
+trial separation|separación de prueba||S|rel|B2
+change of plans|cambio de planes||S|rel|B2
+play it by ear|improvisar sobre la marcha||E|rel|B2
+go with the flow|dejarse llevar||E|rel|B2
+take a rain check|dejarlo para otro día||E|rel|B2
+melting pot|crisol de culturas||S|ast|B2
+cultural identity|identidad cultural||S|ast|B2
+equal opportunity|igualdad de oportunidades||S|ist|B2
+affirmative action|discriminación positiva||S|ist|B2
+pay gap|brecha salarial||S|lav|B2
+underrepresented|infrarrepresentado||A|ast|B2
+hate crime|delito de odio||S|ist|B2
+implicit bias|sesgo implícito||S|ast|B2
+microaggression|microagresión||S|ast|B2
+cultural appropriation|apropiación cultural||S|ast|B2
+sign language interpreter|intérprete de lengua de signos||S|pro|B2
+assistive technology|tecnología de apoyo||S|tec|B2
+nonprofit organization|organización sin ánimo de lucro||S|ist|B2
+social safety net|red de protección social||S|ist|B2
+food bank|banco de alimentos||S|ist|B2
+homeless shelter|albergue para personas sin hogar||S|ist|B2

@@ -1,0 +1,486 @@
+controlled foreign corporation
+look-through rule
+wash sale
+constructive sale
+like-kind exchange
+tax increment financing
+special assessment
+land value tax
+sin tax
+capital flight
+hot money
+capital controls
+macroprudential regulation
+countercyclical buffer
+loan-loss provision
+discount window
+lender of last resort
+quantitative tightening
+credit spread
+term premium
+equity risk premium
+bid-ask spread
+order book
+dark pool
+payment for order flow
+best execution
+clearing house
+central counterparty
+securities lending
+short squeeze
+naked shorting
+omnibus account
+notional amount
+mark-to-market
+value at risk
+expected shortfall
+model risk
+backtesting
+look-ahead bias
+survivorship bias
+data snooping
+cross-validation
+feature selection
+hyperparameter
+gradient boosting
+random forest
+few-shot learning
+zero-shot learning
+self-supervised learning
+federated learning
+differential privacy
+homomorphic encryption
+zero-knowledge proof
+flash loan
+impermanent loss
+liquidity pool
+automated market maker
+loss ratio
+combined ratio
+expense ratio
+actuarial reserve
+unearned premium
+claims-made policy
+occurrence policy
+errors and omissions
+directors and officers insurance
+reinsurance treaty
+quota share
+excess of loss
+retrocession
+named peril
+all-risk policy
+betterment
+indemnity period
+business interruption
+proof of loss
+subrogation waiver
+insurable risk
+fronting company
+captive insurer
+surplus lines
+underwriting manual
+experience rating
+credibility weighting
+burning cost
+exposure base
+per-occurrence limit
+aggregate limit
+umbrella policy
+self-insured retention
+loss portfolio transfer
+adverse development cover
+long-tail business
+new business strain
+commission clawback
+producer surplus
+compensating variation
+equivalent variation
+Engel curve
+Marshallian demand
+Hicksian demand
+contestable market
+X-inefficiency
+rent dissipation
+holdout problem
+club good
+common-pool resource
+double marginalization
+resale price maintenance
+tie-in sale
+limit pricing
+vertical restraints
+exclusive dealing
+network externality
+switching cost
+lock-in effect
+installed base
+inferior good
+snob effect
+money illusion
+adaptive expectations
+sticky prices
+menu cost
+efficiency wage
+search frictions
+time inconsistency
+commitment device
+inflation targeting
+forward guidance
+currency board
+impossible trinity
+sterilized intervention
+sudden stop
+debt intolerance
+fiscal dominance
+fiscal space
+primary balance
+automatic stabilizer
+fiscal multiplier
+twin deficits
+pork-barrel spending
+logrolling
+agency cost
+information asymmetry
+separating equilibrium
+pooling equilibrium
+cheap talk
+credible commitment
+repeated game
+folk theorem
+tit for tat
+grim trigger
+backward induction
+common knowledge
+mechanism design
+incentive compatibility
+revelation principle
+sealed-bid auction
+first-price auction
+second-price auction
+winner's curse
+combinatorial auction
+spectrum auction
+interlocutory appeal
+summary judgment
+directed verdict
+peremptory challenge
+venire
+jury nullification
+true bill
+nolle prosequi
+allocution
+presentence report
+downward departure
+restorative justice
+pretrial diversion
+expungement
+civil commitment
+conservatorship
+advance directive
+intestate succession
+probate estate
+lapsed legacy
+residuary estate
+per stirpes
+right of survivorship
+joint tenancy
+fee simple
+life estate
+future interest
+rule against perpetuities
+equitable servitude
+attractive nuisance
+assumption of risk
+comparative negligence
+last clear chance
+res ipsa loquitur
+negligence per se
+but-for causation
+intervening cause
+superseding cause
+strict liability
+products liability
+failure to warn
+design defect
+market share liability
+mass tort
+toxic tort
+bellwether trial
+multidistrict litigation
+spoliation of evidence
+work product doctrine
+attestation clause
+holographic will
+nuncupative will
+codicil
+escheat
+adverse possession
+color of title
+quiet title action
+lis pendens
+equitable remedy
+temporary restraining order
+preliminary injunction
+declaratory judgment
+mandamus
+per curiam
+en banc
+plurality opinion
+seriatim
+writ of certiorari
+appellate jurisdiction
+subject matter jurisdiction
+personal jurisdiction
+long arm statute
+forum non conveniens
+service of process
+default judgment
+arbitration clause
+small claims court
+planogram
+shelf talker
+endcap
+high-low pricing
+everyday low pricing
+price skimming
+penetration pricing
+cost-plus pricing
+charm pricing
+prestige pricing
+captive pricing
+two-part tariff
+bundle pricing
+psychological pricing
+slotting fee
+trade allowance
+mail-in rebate
+redemption rate
+private label
+brand architecture
+flanker brand
+fighter brand
+brand portfolio
+house of brands
+branded house
+co-branding
+ingredient branding
+sponsorship activation
+experiential marketing
+ambient marketing
+buzz marketing
+account-based marketing
+lead scoring
+lead nurturing
+customer acquisition cost
+cross-sell
+attach rate
+market basket analysis
+affinity analysis
+collaborative filtering
+geodemographic
+trade area analysis
+mystery shopping
+customer journey mapping
+omnichannel
+click and collect
+ship from store
+endless aisle
+dark store
+micro-fulfillment center
+last touch attribution
+multi-touch attribution
+attribution window
+view-through conversion
+incrementality testing
+holdout group
+marketing mix modeling
+share of voice
+share of shelf
+brand salience
+mental availability
+social listening
+voice of the customer
+service blueprint
+queue management
+balking
+reneging
+service level agreement
+takt time
+bottleneck analysis
+theory of constraints
+value stream mapping
+gemba walk
+andon cord
+changeover time
+first pass yield
+rolled throughput yield
+defects per million opportunities
+cost of poor quality
+prevention cost
+appraisal cost
+external failure cost
+return material authorization
+five whys
+fishbone diagram
+control chart
+upper control limit
+special cause variation
+common cause variation
+process capability index
+measurement system analysis
+inter-rater reliability
+test-retest reliability
+internal consistency
+criterion validity
+construct validity
+content validity
+discriminant validity
+convergent validity
+ecological validity
+cache hit
+cache miss
+speculative execution
+side-channel attack
+rowhammer
+fault injection
+privilege escalation
+attack surface
+threat model
+penetration testing
+vulnerability scan
+patch management
+infrastructure as code
+containerization
+service mesh
+ingress controller
+autoscaling
+sharding
+write-ahead log
+two-phase commit
+eventual consistency
+gossip protocol
+vector clock
+idempotency
+backpressure
+load shedding
+circuit breaker
+thundering herd
+cache stampede
+distributed tracing
+error budget
+incident response
+runbook
+canary release
+blue-green deployment
+feature flag
+rollback
+hotfix
+etalon
+entrance pupil
+exit pupil
+circle of confusion
+reciprocity failure
+push processing
+silver halide
+stop bath
+safelight
+dodging and burning
+cyanotype
+gum bichromate
+salt print
+ambrotype
+carte de visite
+cabinet card
+zoetrope
+praxinoscope
+chronophotography
+wet collodion
+albumen print
+woodburytype
+photogravure
+rotogravure
+mezzotint
+aquatint
+drypoint
+sfumato
+scumbling
+sgraffito
+fresco secco
+buon fresco
+intonaco
+sinopia
+verdigris
+smalt
+madder lake
+woad
+harlequinade
+pantaloon
+ballad opera
+satyr play
+fabliau
+psychomachia
+antimasque
+lazzi
+anadiplosis
+epanalepsis
+epizeuxis
+diacope
+symploce
+conduplicatio
+syllepsis
+paraprosdokian
+mondegreen
+eggcorn
+backronym
+calque
+semantic bleaching
+grammaticalization
+interlanguage
+affective filter
+metalinguistic feedback
+adjacency pair
+teleology
+deontology
+consequentialism
+eudaimonia
+phronesis
+techne
+kairos
+enthymeme
+sorites
+supervaluationism
+supervenience
+physicalism
+qualia
+aboutness
+enactivism
+multiple realizability
+epiphenomenalism
+panpsychism
+fallibilism
+performative utterance
+illocutionary force
+felicity conditions
+implicature
+compositionality
+deontic logic
+doxastic logic
+intuitionistic logic
+principle of bivalence
+truthmaker
+trope theory
+haecceity
+quiddity
+ipseity
+peripeteia
+anagnorisis
+dramatis personae
+comedy of humors
+revenge tragedy
+chivalric romance
+dream vision
+morality play
+miracle play
+commedia dell'arte
+verbatim theater

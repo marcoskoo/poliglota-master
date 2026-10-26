@@ -1,0 +1,35 @@
+volcanic winter|invierno volcánico||E|nat|C2
+outgassing|desgasificación||S|nat|C2
+blind thrust fault|falla ciega||E|nat|C2
+hypolimnion|hipolimnion||S|nat|C2
+riparian corridor|corredor ripario||E|nat|C2
+hydroperiod|hidroperiodo||S|nat|C2
+harrow|grada||S|nat|C2
+grain elevator|elevador de granos||E|nat|C2
+longlining|pesca con palangre||S|ani|C2
+roughage|forraje grosero||S|ani|C2
+litterfall|caída de hojarasca||S|nat|C2
+defoliation|defoliación||S|nat|C2
+closed-loop system|sistema de ciclo cerrado||E|nat|C2
+loquacious|locuaz||A|ast|C2
+univocal|unívoco||A|ast|C2
+nugatory|nugatorio||A|ast|C2
+otiose|ocioso e inútil||A|ast|C2
+maunder|divagar||V|cmu|C2
+asseverate|aseverar solemnemente||V|cmu|C2
+catechize|interrogar sistemáticamente||V|cmu|C2
+apostrophize|apostrofar||V|cmu|C2
+objurgate|reprender ásperamente||V|cmu|C2
+anathematize|anatematizar||V|cmu|C2
+stonewall|obstruir con evasivas||V|cmu|C2
+doxa|doxa||S|ast|C2
+calligraphic|caligráfico||A|art|C2
+immanent|inmanente||A|ast|C2
+sacrosanct|sacrosanto||A|ast|C2
+paltry|ínfimo y mezquino||A|ast|C2
+sparing|parco||A|ast|C2
+profuse|profuso||A|ast|C2
+bounteous|abundoso y generoso||A|let|C2
+nth degree|el enésimo grado||E|ast|C2
+unhoused|sin hogar||A|att|C2
+surgical strike|ataque quirúrgico||E|ist|C2

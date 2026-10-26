@@ -2843,3 +2843,11 @@ Work Log:
 - pt-c1-04-p*.txt: 444 entradas tras limpieza · awk OK · dup OK
 Stage Summary:
 - pt-c1-04: 444 entradas C1 portugués
+---
+Task ID: v9.43/r2/de-c2-06
+Agent: subagent
+Task: lexicón DE C2 de-c2-06 (v4)
+Work Log:
+- de-c2-06-p1/p2.txt: 129 entradas tras limpieza (p1 37 · p2 92) · awk NF=6 OK (vacío) · excl-de.txt aplicado mecánicamente (tr/awk, p1 129→37) · dup uniq -d OK (vacío) · colisiones vs sub/de-c2-1[3-9] y de-c2-20 detectadas mecánicamente y sustituidas antes de la entrega (0 cruces) · sustantivos con der/die/das, campo 3 vacío, C2 final, ~90 subtemas cubiertos
+Stage Summary:
+- de-c2-06: 129 entradas C2 alemán estándar (Hochdeutsch)

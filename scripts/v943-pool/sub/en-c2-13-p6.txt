@@ -1,0 +1,31 @@
+horse-race coverage|cobertura como carrera electoral||E|att|C2
+house effect|sesgo del sondeador||E|att|C2
+confidence-building measure|medida de fomento de la confianza||E|ist|C2
+denuclearization|desnuclearización||S|ist|C2
+peace enforcement|imposición de la paz||E|ist|C2
+track-two diplomacy|diplomacia de segunda vía||E|ist|C2
+opt-out clause|cláusula de exclusión voluntaria||E|ist|C2
+enhanced cooperation|cooperación reforzada||E|ist|C2
+supranationality|supranacionalidad||S|ist|C2
+community method|método comunitario||E|ist|C2
+workfare|prestación ligada al empleo||S|ist|C2
+flexicurity|flexiseguridad||S|ist|C2
+housing allowance|ayuda a la vivienda||E|ist|C2
+go-slow|huelga de celo||S|att|C2
+whistleblower protection|protección del denunciante||E|ist|C2
+procurement fraud|fraude en la contratación||E|ist|C2
+asset disclosure|declaración de bienes||E|ist|C2
+replacement fertility|fecundidad de reemplazo||E|sci|C2
+bestiary|bestiario||S|art|C2
+hierophany|jerofanía||S|art|C2
+glazing|vidriado||S|art|C2
+celadon|celadón||S|art|C2
+calotype|calotipo||S|art|C2
+toning|virado||S|art|C2
+dry plate|placa seca||E|art|C2
+process node|nodo tecnológico||E|tec|C2
+imputation|imputación de datos||S|sci|C2
+outlier detection|detección de anomalías||E|sci|C2
+self-custody|autocustodia||S|fin|C2
+gaze tracking|seguimiento de la mirada||E|tec|C2
+permadeath|muerte permanente||S|tec|C2

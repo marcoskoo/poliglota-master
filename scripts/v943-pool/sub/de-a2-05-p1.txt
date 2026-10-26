@@ -1,0 +1,32 @@
+bis bald|hasta pronto||E|sal|A2
+Gern geschehen|de nada||E|sal|A2
+der Kohl|col||S|ali|A2
+die Vanille|vainilla||S|ali|A2
+das Lenkrad|volante||S|tra|A2
+die Rückfahrkarte|billete de ida y vuelta||S|tra|A2
+die Abreise|salida del hotel||S|htl|A2
+die Pille|píldora||S|sla|A2
+der Umschlag|sobre||S|lav|A2
+der Locher|perforadora||S|lav|A2
+die Heftmaschine|grapadora||S|lav|A2
+die Informatik|informática||S|stu|A2
+die Oper|ópera||S|cit|A2
+das Polizeirevier|comisaría||S|cit|A2
+die Sandale|sandalia||S|rop|A2
+der Schnürsenkel|cordón||S|rop|A2
+der Stecker|clavija||S|tec|A2
+das Kabel|cable||S|tec|A2
+die Webseite|página web||S|tec|A2
+die Suchmaschine|buscador||S|tec|A2
+das Schwimmen|natación||S|spt|A2
+das Trikot|camiseta deportiva||S|spt|A2
+der Horrorfilm|película de terror||S|cin|A2
+der Western|película del Oeste||S|cin|A2
+die Clique|pandilla||S|rel|A2
+die Henne|gallina||S|ani|A2
+der Marienkäfer|mariquita||S|ani|A2
+die Sonnenblume|girasol||S|nat|A2
+der Lavendel|lavanda||S|nat|A2
+die Viertelstunde|cuarto de hora||S|tmp|A2
+der Luftballon|globo||S|sve|A2
+der Stolz|orgullo||S|emo|A2

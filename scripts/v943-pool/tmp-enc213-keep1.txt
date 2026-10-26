@@ -1,0 +1,191 @@
+chorioamnionitis
+hydrops fetalis
+caput succedaneum
+cephalohematoma
+subgaleal hemorrhage
+craniosynostosis
+positional plagiocephaly
+ankyloglossia
+osteopenia of prematurity
+intraventricular hemorrhage
+periventricular leukomalacia
+apnea of prematurity
+necrotizing enterocolitis
+bronchopulmonary dysplasia
+fetomaternal hemorrhage
+twin-to-twin transfusion syndrome
+amniotic band sequence
+gastroschisis
+omphalocele
+tracheoesophageal fistula
+esophageal atresia
+meconium ileus
+exchange transfusion
+cervical cerclage
+external cephalic version
+nuchal cord
+cord prolapse
+uterine atony
+cervical ripening
+polyhydramnios
+placenta previa
+postpartum hemorrhage
+preterm labor
+tocolytic
+grand multipara
+primipara
+gravidity
+nulliparity
+effacement
+biophysical profile
+nonstress test
+amniotic fluid index
+intrauterine growth restriction
+macrosomia
+rooming-in
+tongue-tie
+foremilk
+hindmilk
+neonatal abstinence syndrome
+chorionic villus sampling
+cordocentesis
+fetal fibronectin
+hyperbilirubinemia
+heterotopic ossification
+complex regional pain syndrome
+volar plate injury
+scaphoid fracture
+delayed union
+malrotation
+fasciotomy
+closed reduction
+open reduction
+internal fixation
+external fixation
+percutaneous pinning
+intramedullary nailing
+arthroscopic lavage
+chondral defect
+osteochondral lesion
+microfracture surgery
+autologous chondrocyte implantation
+meniscal repair
+partial meniscectomy
+syndesmotic injury
+turf toe
+sesamoiditis
+retrocalcaneal bursitis
+hallux rigidus
+polytrauma
+damage control surgery
+degloving injury
+replantation
+myoelectric prosthesis
+instrumented gait analysis
+timed up and go
+six-minute walk test
+functional independence measure
+manual muscle testing
+proprioceptive neuromuscular facilitation
+constraint-induced movement therapy
+task-specific training
+functional electrical stimulation
+foraminotomy
+corpectomy
+vertebroplasty
+scoliometer
+nonoperative management
+return to play
+isokinetic testing
+load management
+effective reproduction number
+generation interval
+serial interval
+secondary attack rate
+all-cause mortality
+years of life lost
+years lived with disability
+disability-adjusted life year
+quality-adjusted life year
+incremental cost-effectiveness ratio
+cost-utility analysis
+budget impact analysis
+health technology assessment
+essential medicines list
+de-escalation therapy
+empiric therapy
+definitive therapy
+breakthrough infection
+vaccine effectiveness
+immunogenicity
+catch-up campaign
+zero-dose child
+sentinel surveillance
+wastewater surveillance
+variant of concern
+variant under investigation
+superspreading event
+dispersion parameter
+source investigation
+outbreak response team
+infection prevention and control
+aerosol-generating procedure
+droplet precaution
+airborne precaution
+contact precaution
+environmental cleaning
+antisepsis
+cross-immunity
+serosurvey
+molecular surveillance
+genomic epidemiology
+phylogeography
+intermediate host
+dead-end host
+amplifying host
+vector competence
+larval source management
+indoor residual spraying
+larviciding
+integrated vector management
+extensively drug-resistant
+pandrug-resistant
+minimum inhibitory concentration
+susceptibility testing
+disk diffusion
+rapid diagnostic test
+positive predictive value
+negative predictive value
+likelihood ratio
+lead-time bias
+length-time bias
+overdiagnosis
+interval cancer
+incidentaloma
+cumulative incidence
+period prevalence
+point prevalence
+rate ratio
+population attributable fraction
+effect modification
+cluster randomized trial
+stepped-wedge design
+pragmatic trial
+noninferiority trial
+adaptive trial design
+master protocol
+umbrella trial
+basket trial
+platform trial
+enrichment design
+composite endpoint
+patient-reported outcome
+minimal clinically important difference
+intention-to-treat
+per-protocol analysis
+crossover trial
+washout period
+run-in period
+loss to follow-up
+core outcome set
+selective reporting

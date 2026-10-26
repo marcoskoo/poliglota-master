@@ -1,0 +1,41 @@
+calibration drift|deriva de calibración||E|lav|C2
+acceptance sampling|muestreo de aceptación||E|lav|C2
+process capability|capacidad del proceso||E|lav|C2
+burr|rebaba||S|tec|C2
+reaming|escariado||S|tec|C2
+knurling|moleteado||S|tec|C2
+galvanizing|galvanizado||S|tec|C2
+stress concentration|concentración de tensiones||E|tec|C2
+torque wrench|llave dinamométrica||E|tec|C2
+dowel|espiga||S|tec|C2
+spline|eje estriado||S|tec|C2
+jig|utillaje de sujeción||S|tec|C2
+feed rate|velocidad de avance||E|tec|C2
+endplay|juego axial||S|tec|C2
+tenure-track|en vías de titularidad||A|lav|C2
+principal investigator|investigador principal||E|pro|C2
+citation metrics|métricas de citación||E|stu|C2
+cicerone|sumiller de cerveza||S|pro|C2
+mother sauce|salsa madre||E|ris|C2
+cork taint|gusto a corcho||S|ris|C2
+name-drop|citar nombres para presumir||V|rel|C2
+jockey for position|disputarse la posición||E|rel|C2
+grease someone's palm|untar la mano a alguien||E|fin|C2
+commiserate|compadecerse||V|rel|C2
+exult|regocijarse||V|emo|C2
+gloat|regodearse||V|emo|C2
+bask in|deleitarse en||V|emo|C2
+mope|estar mustio||V|emo|C2
+detraining|desentrenamiento||S|spt|C2
+heart-rate variability|variabilidad de la frecuencia cardíaca||E|cor|C2
+fetlock|menudillo||S|ani|C2
+laminitis|laminitis||S|ani|C2
+lure coursing|caza de señuelo||E|ani|C2
+wall cloud|nube pared||E|cli|C2
+gust front|frente de rachas||E|cli|C2
+to put it bluntly|dicho sin rodeos||E|cnn|C2
+floor-area ratio|edificabilidad||E|cit|C2
+complete streets|calles completas||E|cit|C2
+green roof|cubierta vegetal||E|cit|C2
+bioswale|zanja de biorretención||S|cit|C2
+urban heat island|isla de calor urbana||E|cit|C2

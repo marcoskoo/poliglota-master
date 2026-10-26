@@ -1,0 +1,92 @@
+die Schiedsfähigkeit|arbitrabilidad||S|ist|C2
+die Pflichtteilsentziehung|desheredación de la legítima||S|ist|C2
+die Erbunwürdigkeit|indignidad sucesoria||S|ist|C2
+der Indizienbeweis|prueba indiciaria||S|ist|C2
+die Schuldfähigkeit|imputabilidad||S|ist|C2
+die Gnadenfrist|plazo de gracia||S|ist|C2
+das Volksbegehren|iniciativa popular (fase previa al referéndum)||S|ist|C2
+der Eigentumsvorbehalt|reserva de dominio||S|ist|C2
+der Erschließungsbeitrag|contribución de urbanización||S|ist|C2
+die Außenprüfung|inspección tributaria||S|fin|C2
+der Einheitswert|valor unitario (catastral)||S|fin|C2
+der Umtauschverhältnis|relación de canje||S|fin|C2
+das Giralgeld|dinero bancario (scriptural)||S|fin|C2
+die Sockelarbeitslosigkeit|desempleo estructural residual||S|fin|C2
+der Warenursprung|origen de las mercancías||S|fin|C2
+die Einfuhrumsatzsteuer|IVA de importación||S|fin|C2
+der Dammschnitt|episiotomía||S|sla|C2
+die Knochenmarkspunktion|punción de médula ósea||S|sla|C2
+die Anschlussheilbehandlung|rehabilitación posthospitalaria||S|sla|C2
+die Lungenauskultation|auscultación pulmonar||S|sla|C2
+die Gesundheitskompetenz|alfabetización sanitaria||S|sla|C2
+der Schuldwahn|delirio de culpa||S|sla|C2
+die Gehemmtheit|inhibición (frenos psíquicos)||S|ast|C2
+die Entblindung|desenmascaramiento del ensayo||S|sci|C2
+die Probandenversicherung|seguro de los participantes||S|sci|C2
+die Versuchsplanung|planificación experimental||S|sci|C2
+die Ausgleichsrechnung|ajuste por mínimos cuadrados||S|sci|C2
+die Urtitersubstanz|patrón primario (valoración)||S|sci|C2
+die Schmelzpunkterniedrigung|descenso del punto de fusión||S|sci|C2
+die Siedepunkterhöhung|ascenso del punto de ebullición||S|sci|C2
+der Streuquerschnitt|sección eficaz de dispersión||S|sci|C2
+die Drehimpulserhaltung|conservación del momento angular||S|sci|C2
+der Potentialtopf|pozo de potencial||S|sci|C2
+die Lichtaberration|aberración de la luz||S|sci|C2
+die Populationsdynamik|dinámica de poblaciones||S|sci|C2
+die Schwarzstartfähigkeit|arranque en isla (red eléctrica)||S|tec|C2
+der Aschenkegel|cono de ceniza||S|nat|C2
+die Frostverwitterung|criofractura (meteorización por hielo)||S|nat|C2
+die Böigkeit|rachas (turbulencia del viento)||S|cli|C2
+der Kaltluftsee|lago de aire frío||S|cli|C2
+das Brutrevier|territorio de cría||S|ani|C2
+die Ortstreue|fidelidad al lugar (filopatría)||S|ani|C2
+der Satzbauplan|esquema oracional (valencial)||S|stu|C2
+die Bedeutungsverschiebung|desplazamiento semántico||S|stu|C2
+der Sprachverfall|decaimiento del lenguaje||S|stu|C2
+die Schriftkunde|ciencia de la escritura (paleografía)||S|stu|C2
+die Erzählforschung|narratología (investigación narrativa)||S|let|C2
+die Vortragsbezeichnung|indicación de expresión||S|mus|C2
+die Lichtdramaturgie|dramaturgia lumínica||S|cin|C2
+das Ansichsein|ser en sí||S|ast|C2
+das Fürsichsein|ser para sí||S|ast|C2
+die Verstehenssoziologie|sociología comprensiva||S|ast|C2
+die Stadtschrumpfung|despoblamiento urbano||S|cit|C2
+die Zwischenstadt|ciudad difusa (periurbana)||S|cit|C2
+die Kernsanierung|rehabilitación integral||S|cit|C2
+die Deutungsmuster|patrón interpretativo||S|ast|C2
+die Extremismusprävention|prevención del extremismo||S|att|C2
+die Abschreckungswirkung|efecto disuasorio||S|att|C2
+die Machtprobe|pulso de fuerza||S|att|C2
+die Stellenbewertung|valoración de puestos||S|lav|C2
+die Entgeltgruppe|grupo salarial||S|lav|C2
+die Leseförderung|fomento de la lectura||S|stu|C2
+die Netzneutralität|neutralidad de la red||S|tec|C2
+die Datenhoheit|soberanía de datos||S|tec|C2
+die Genusssucht|afán desmedido de placer||S|ast|C2
+die Engstirnigkeit|mentalidad estrecha||S|ast|C2
+die Umständlichkeit|prolijidad (rodeos)||S|ast|C2
+die Pauschalisierung|generalización indiscriminada||S|cmu|C2
+das Gefasel|parloteo sin sentido||S|cmu|C2
+die Geschwollenheit|grandilocuencia (hinchazón)||S|let|C2
+die Spitzelei|pulla (agudeza mordaz)||S|cmu|C2
+die Bangigkeit|angustia (desasosiego)||S|emo|C2
+die Unverbindlichkeit|carácter no vinculante||S|ast|C2
+die Nachprüfbarkeit|verificabilidad||S|ast|C2
+verkünden|proclamar||V|rel|C2
+ersinnen|idear (inventar)||V|ast|C2
+ermessen|calibrar (sopesar)||V|ast|C2
+verwässern|diluir (desdibujar)||V|ast|C2
+sich verbeißen|encapricharse (obcecarse)||V|ast|C2
+in Worte kleiden|vestir con palabras||L|cmu|C2
+mit Sang und Klang|con todos los honores (plenamente)||E|let|C2
+schlechterdings|en absoluto (de ningún modo)||D|cnn|C2
+ehedem|en otros tiempos||D|tmp|C2
+gleichsam|por así decirlo||D|ast|C2
+wacker|valeroso (con empeño)||A|ast|C2
+unbedarft|ingenuo (despistado)||A|ast|C2
+das Kopfzerbrechen|quebradero de cabeza||S|emo|C2
+die Geistesarbeit|trabajo intelectual||S|ast|C2
+der Lebensmut|ánimo vital||S|emo|C2
+der Todesmut|arrojo temerario (desprecio del peligro)||S|ast|C2
+die Verschrobenheit|extravagancia (rareza excéntrica)||S|ast|C2
+die Zungenfertigkeit|soltura de palabra (labia)||S|cmu|C2

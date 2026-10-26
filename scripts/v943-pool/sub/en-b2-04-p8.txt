@@ -1,0 +1,155 @@
+defense attorney|abogado defensor||S|pro|B2
+district attorney|fiscal de distrito||S|pro|B2
+public defender|defensor de oficio||S|pro|B2
+paralegal|asistente legal||S|pro|B2
+civil engineer|ingeniero civil||S|pro|B2
+software engineer|ingeniero de software||S|pro|B2
+lab technician|técnico de laboratorio||S|pro|B2
+welder|soldador||S|pro|B2
+surveyor|topógrafo||S|pro|B2
+registered nurse|enfermero titulado||S|pro|B2
+nurse practitioner|enfermero de práctica avanzada||S|pro|B2
+physical therapist|fisioterapeuta||S|pro|B2
+guidance counselor|orientador escolar||S|pro|B2
+teacher's aide|ayudante de clase||S|pro|B2
+substitute teacher|profesor sustituto||S|pro|B2
+dog walker|paseador de perros||S|pro|B2
+news anchor|presentador de informativos||S|pro|B2
+photojournalist|fotorreportero||S|pro|B2
+investigative journalist|periodista de investigación||S|pro|B2
+podcast host|presentador de pódcast||S|pro|B2
+voice actor|actor de doblaje||S|pro|B2
+copywriter|redactor publicitario||S|pro|B2
+editor-in-chief|editor jefe||S|pro|B2
+fact-checker|verificador de datos||S|pro|B2
+ghostwriter|negro literario||S|let|B2
+screenwriter|guionista||S|cin|B2
+set designer|escenógrafo||S|pro|B2
+costume designer|figurinista||S|cin|B2
+makeup artist|maquillador||S|pro|B2
+illustrator|ilustrador||S|pro|B2
+park ranger|guardabosques||S|pro|B2
+civil servant|funcionario||S|pro|B2
+locksmith|cerrajero||S|pro|B2
+class-action lawsuit|demanda colectiva||S|ist|B2
+plea bargain|acuerdo de culpabilidad||S|ist|B2
+due process|debido proceso||S|ist|B2
+grand jury|jurado de acusación||S|ist|B2
+jury duty|servicio de jurado||S|ist|B2
+indictment|acusación formal||S|ist|B2
+misdemeanor|delito menor||S|ist|B2
+white-collar crime|delito de cuello blanco||S|ist|B2
+life sentence|cadena perpetua||S|ist|B2
+parole|libertad condicional||S|ist|B2
+restraining order|orden de alejamiento||S|ist|B2
+out-of-court settlement|acuerdo extrajudicial||S|ist|B2
+statute of limitations|prescripción del delito||S|ist|B2
+reasonable doubt|duda razonable||S|ist|B2
+court of appeals|tribunal de apelación||S|ist|B2
+testify|declarar ante el tribunal||V|ist|B2
+criminal record|antecedentes penales||S|ist|B2
+community service|trabajos en beneficio de la comunidad||S|ist|B2
+expert witness|testigo pericial||S|ist|B2
+take the stand|declarar como testigo||E|ist|B2
+rule of law|estado de derecho||S|ist|B2
+civil rights|derechos civiles||S|ist|B2
+breach of contract|incumplimiento de contrato||S|ist|B2
+eyewitness|testigo presencial||S|ist|B2
+mugging|atraco||S|ist|B2
+pickpocket|carterista||S|ist|B2
+shoplifting|robo en tiendas||S|ist|B2
+vandalism|vandalismo||S|ist|B2
+looting|saqueo||S|ist|B2
+burglary|robo en vivienda||S|ist|B2
+counterfeit money|dinero falsificado||S|ist|B2
+police report|denuncia policial||S|ist|B2
+file a police report|poner una denuncia||E|ist|B2
+tax return|declaración de la renta||S|fin|B2
+tax refund|devolución de la renta||S|fin|B2
+tax evasion|evasión fiscal||S|fin|B2
+capital gains|ganancias patrimoniales||S|fin|B2
+fiscal year|ejercicio fiscal||S|fin|B2
+checking account|cuenta corriente||S|fin|B2
+emergency fund|fondo de emergencia||S|fin|B2
+index fund|fondo indexado||S|fin|B2
+stockbroker|agente de bolsa||S|fin|B2
+dividend|dividendo||S|fin|B2
+bear market|mercado bajista||S|fin|B2
+volatility|volatilidad||S|fin|B2
+return on investment|rentabilidad de la inversión||S|fin|B2
+diversified portfolio|cartera diversificada||S|fin|B2
+risk tolerance|tolerancia al riesgo||S|fin|B2
+nest egg|colchón de ahorros||S|fin|B2
+side hustle|trabajo complementario||S|fin|B2
+passive income|ingresos pasivos||S|fin|B2
+disposable income|renta disponible||S|fin|B2
+financial literacy|educación financiera||S|fin|B2
+pyramid scheme|esquema piramidal||S|fin|B2
+con artist|estafador||S|fin|B2
+make ends meet|llegar a fin de mes||E|fin|B2
+live paycheck to paycheck|vivir al día||E|fin|B2
+tighten your belt|apretarse el cinturón||E|fin|B2
+cut back on|recortar el gasto en||V|fin|B2
+cut corners|escatimar medios||E|fin|B2
+tight budget|presupuesto ajustado||S|fin|B2
+bank statement|extracto bancario||S|fin|B2
+overdraft|descubierto bancario||S|fin|B2
+grace period|periodo de gracia||S|fin|B2
+direct debit|domiciliación bancaria||S|fin|B2
+pay off|saldar una deuda||V|fin|B2
+in the red|en números rojos||E|fin|B2
+shrinkflation|reducción de tamaño encubierta||S|fin|B2
+down payment|entrada de la hipoteca||S|fin|B2
+adjustable-rate mortgage|hipoteca a tipo variable||S|fin|B2
+refinancing|refinanciación||S|fin|B2
+foreclosure|ejecución hipotecaria||S|fin|B2
+payday loan|microcrédito con intereses altos||S|fin|B2
+predatory lending|concesión de préstamos abusivos||S|fin|B2
+loan forgiveness|condonación de préstamos||S|fin|B2
+credit score|puntuación crediticia||S|fin|B2
+retirement savings|ahorro para la jubilación||S|fin|B2
+early retirement|jubilación anticipada||S|fin|B2
+state pension|pensión pública||S|fin|B2
+venture capital|capital riesgo||S|fin|B2
+cash flow|flujo de caja||S|fin|B2
+profit margin|margen de beneficio||S|fin|B2
+quarterly earnings|resultados trimestrales||S|fin|B2
+overhead costs|gastos generales||S|fin|B2
+startup|empresa emergente||S|fin|B2
+midterm elections|elecciones de medio mandato||S|ist|B2
+executive order|decreto ejecutivo||S|ist|B2
+impeachment|juicio político||S|ist|B2
+filibuster|obstrucción parlamentaria||S|ist|B2
+gerrymandering|manipulación de distritos electorales||S|ist|B2
+lobbying|cabildeo||S|ist|B2
+ballot measure|iniciativa electoral||S|ist|B2
+voter turnout|participación electoral||S|ist|B2
+swing state|estado clave||S|ist|B2
+popular vote|voto popular||S|ist|B2
+campaign rally|mitin de campaña||S|ist|B2
+press secretary|portavoz de prensa||S|pro|B2
+grassroots movement|movimiento de base||S|ist|B2
+runoff election|segunda vuelta electoral||S|ist|B2
+absentee ballot|voto ausente||S|ist|B2
+early voting|voto anticipado||S|ist|B2
+exit poll|encuesta a pie de urna||S|ist|B2
+polling place|colegio electoral||S|ist|B2
+landslide victory|victoria aplastante||S|ist|B2
+smear campaign|campaña de descrédito||S|ist|B2
+run for office|presentarse a un cargo||E|ist|B2
+term limit|límite de mandatos||S|ist|B2
+town hall meeting|asamblea ciudadana||S|cit|B2
+inflation rate|tasa de inflación||S|att|B2
+recession|recesión||S|att|B2
+economic downturn|desaceleración económica||S|att|B2
+trade deficit|déficit comercial||S|att|B2
+tariff|arancel||S|att|B2
+national debt|deuda pública||S|att|B2
+government shutdown|cierre del gobierno||S|att|B2
+debt ceiling|límite de endeudamiento||S|att|B2
+consumer confidence|confianza del consumidor||S|att|B2
+purchasing power|poder adquisitivo||S|att|B2
+labor shortage|escasez de mano de obra||S|lav|B2
+labor market|mercado laboral||S|lav|B2
+gross domestic product|producto interior bruto||S|att|B2
+aging population|envejecimiento de la población||S|att|B2

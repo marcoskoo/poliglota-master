@@ -1,0 +1,100 @@
+targeted ads|publicidad dirigida||S|cmp|B2
+influencer marketing|marketing con influencers||S|cmp|B2
+brand loyalty|fidelidad a la marca||S|cmp|B2
+impulse buy|compra por impulso||S|cmp|B2
+buyer's remorse|arrepentimiento del comprador||S|cmp|B2
+focus group|grupo de discusión||S|cmp|B2
+jingle|sintonía publicitaria||S|cmp|B2
+product placement|emplazamiento de producto||S|cmp|B2
+loyalty program|programa de fidelización||S|cmp|B2
+fine print|letra pequeña||S|cmp|B2
+price match|igualación de precios||S|cmp|B2
+discount code|código de descuento||S|cmp|B2
+extended warranty|garantía ampliada||S|cmp|B2
+lifetime warranty|garantía de por vida||S|cmp|B2
+money-back guarantee|garantía de devolución del dinero||S|cmp|B2
+store credit|vale para la tienda||S|cmp|B2
+restocking fee|cargo por reposición||S|cmp|B2
+return policy|política de devoluciones||S|cmp|B2
+return label|etiqueta de devolución||S|cmp|B2
+proof of purchase|comprobante de compra||S|cmp|B2
+gift receipt|recibo para regalo||S|cmp|B2
+faulty|defectuoso||A|cmp|B2
+product recall|retirada de producto||S|cmp|B2
+wear and tear|desgaste por el uso||S|cmp|B2
+small claims court|juzgado de reclamaciones menores||S|ist|B2
+consumer protection|protección del consumidor||S|ist|B2
+file a claim|presentar una reclamación||E|cmp|B2
+free shipping|envío gratuito||S|cmp|B2
+expedited shipping|envío urgente||S|cmp|B2
+tracking number|número de seguimiento||S|cmp|B2
+out for delivery|en reparto||E|cmp|B2
+delivery slot|franja de entrega||S|cmp|B2
+curbside pickup|recogida en la acera||S|cmp|B2
+preorder|reservar antes del lanzamiento||V|cmp|B2
+out of stock|agotado||E|cmp|B2
+size chart|tabla de tallas||S|cmp|B2
+subscription box|caja por suscripción||S|cmp|B2
+free trial|prueba gratuita||S|cmp|B2
+add to cart|añadir a la cesta||E|cmp|B2
+haggle|regatear||V|cmp|B2
+bargain|chollo||S|cmp|B2
+rip-off|robo en el precio||S|cmp|B2
+overpriced|de precio abusivo||A|cmp|B2
+limited edition|edición limitada||S|cmp|B2
+thrift store|tienda de segunda mano||S|cmp|B2
+flea market|mercadillo||S|cmp|B2
+runs small|quedar pequeño de talla||E|rop|B2
+value for money|relación calidad-precio||S|cmp|B2
+fender bender|choque leve||S|tra|B2
+roadside assistance|asistencia en carretera||S|tra|B2
+jumper cables|cables de arranque||S|tra|B2
+hit-and-run|fuga tras un accidente||S|tra|B2
+distracted driving|conducción distraída||S|tra|B2
+defensive driving|conducción defensiva||S|tra|B2
+blind spot|ángulo muerto||S|tra|B2
+tailgate|conducir demasiado cerca||V|tra|B2
+toll booth|cabina de peaje||S|tra|B2
+learner's permit|permiso de aprendizaje||S|tra|B2
+parallel parking|aparcamiento en línea||S|tra|B2
+parking permit|permiso de aparcamiento||S|tra|B2
+run out of gas|quedarse sin gasolina||E|tra|B2
+check engine light|luz de avería del motor||S|tra|B2
+windshield wiper|limpiaparabrisas||S|tra|B2
+brake pad|pastilla de freno||S|tra|B2
+tune-up|revisión del coche||S|tra|B2
+speed bump|badén||S|tra|B2
+transit card|tarjeta de transporte||S|tra|B2
+bus lane|carril bus||S|tra|B2
+bike lane|carril bici||S|tra|B2
+e-bike|bicicleta eléctrica||S|tra|B2
+park and ride|aparcamiento disuasorio||S|tra|B2
+light rail|metro ligero||S|tra|B2
+commuter rail|tren de cercanías||S|tra|B2
+jaywalking|cruzar fuera del paso de peatones||S|tra|B2
+congestion charge|peaje urbano||S|cit|B2
+car sharing|coche compartido||S|tra|B2
+ride-hailing|transporte con conductor||S|tra|B2
+surge pricing|precio dinámico en hora punta||S|tra|B2
+pickup point|punto de recogida||S|tra|B2
+drop-off point|punto de bajada||S|tra|B2
+passenger seat|asiento del copiloto||S|tra|B2
+rush hour|hora punta||S|tra|B2
+round-trip ticket|billete de ida y vuelta||S|vig|B2
+rail pass|abono de tren||S|vig|B2
+sleeper car|coche cama||S|vig|B2
+quiet car|coche silencioso||S|vig|B2
+platform change|cambio de andén||S|vig|B2
+service disruption|interrupción del servicio||S|vig|B2
+overnight train|tren nocturno||S|vig|B2
+streetcar|tranvía||S|tra|B2
+railroad crossing|paso a nivel||S|tra|B2
+long-haul flight|vuelo de largo recorrido||S|vig|B2
+connecting flight|vuelo de conexión||S|vig|B2
+layover|escala||S|vig|B2
+jet lag|desfase horario||S|vig|B2
+baggage claim|recogida de equipajes||S|vig|B2
+carry-on|equipaje de mano||S|vig|B2
+pat-down|cacheo||S|vig|B2
+customs declaration|declaración de aduanas||S|vig|B2
+duty-free|libre de impuestos||A|vig|B2

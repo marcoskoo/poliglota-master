@@ -1,0 +1,141 @@
+agenda item|punto del orden del día||S|lav|B2
+take the minutes|levantar acta||E|lav|B2
+circle back|retomar el tema más tarde||E|lav|B2
+touch base|ponerse en contacto brevemente||E|lav|B2
+follow up|hacer seguimiento||E|lav|B2
+brainstorming session|sesión de lluvia de ideas||S|lav|B2
+all-hands meeting|reunión de toda la plantilla||S|lav|B2
+deliverable|entregable||S|lav|B2
+bottleneck|cuello de botella||S|lav|B2
+learning curve|curva de aprendizaje||S|lav|B2
+on the same page|estar coordinados y de acuerdo||E|lav|B2
+keep in the loop|mantener al corriente||E|lav|B2
+cross-functional team|equipo multifuncional||S|lav|B2
+team player|persona que trabaja en equipo||S|lav|B2
+time management|gestión del tiempo||S|lav|B2
+deadline extension|prórroga de plazo||S|lav|B2
+icebreaker|rompehielos||S|lav|B2
+small talk|charla de cortesía||S|cmu|B2
+remote work|teletrabajo||S|lav|B2
+coworking space|espacio de trabajo compartido||S|lav|B2
+digital nomad|nómada digital||S|lav|B2
+hybrid work|trabajo híbrido||S|lav|B2
+out-of-office reply|respuesta de ausencia||S|lav|B2
+workload|carga de trabajo||S|lav|B2
+burnout|agotamiento laboral||S|lav|B2
+prioritize|priorizar||V|lav|B2
+delegate|delegar||V|lav|B2
+spearhead|encabezar una iniciativa||V|lav|B2
+take initiative|tomar la iniciativa||E|lav|B2
+soft skills|competencias blandas||S|lav|B2
+transferable skills|competencias transferibles||S|lav|B2
+upskill|reciclarse en nuevas competencias||V|lav|B2
+reskill|reciclarse profesionalmente||V|lav|B2
+crash course|curso intensivo||S|stu|B2
+continuing education|formación continua||S|stu|B2
+vocational training|formación profesional||S|stu|B2
+apprenticeship|aprendizaje en empresa||S|stu|B2
+internship|prácticas||S|stu|B2
+trade school|escuela de oficios||S|stu|B2
+lifelong learning|aprendizaje a lo largo de la vida||S|stu|B2
+company culture|cultura empresarial||S|lav|B2
+employee handbook|manual del empleado||S|lav|B2
+timesheet|parte de horas||S|lav|B2
+job shadowing|aprendizaje por observación||S|lav|B2
+track record|historial de logros||S|lav|B2
+mentorship|mentoría||S|lav|B2
+onboarding process|proceso de acogida||S|lav|B2
+midterm exam|examen parcial||S|stu|B2
+pop quiz|examen sorpresa||S|stu|B2
+cheat sheet|chuleta||S|stu|B2
+cram|empollar para un examen||V|stu|B2
+pass with flying colors|aprobar con nota||E|stu|B2
+flunk|suspender un examen||V|stu|B2
+grade point average|nota media del expediente||S|stu|B2
+transcript|expediente académico||S|stu|B2
+letter of recommendation|carta de recomendación||S|stu|B2
+tuition fees|tasas universitarias||S|stu|B2
+tuition waiver|exención de tasas||S|stu|B2
+financial aid|ayudas al estudio||S|stu|B2
+elective course|asignatura optativa||S|stu|B2
+prerequisite|requisito previo||S|stu|B2
+syllabus|programa de la asignatura||S|stu|B2
+gap year|año sabático||S|stu|B2
+exchange program|programa de intercambio||S|stu|B2
+semester abroad|semestre en el extranjero||S|stu|B2
+host family|familia de acogida||S|stu|B2
+culture shock|choque cultural||S|stu|B2
+homesickness|añoranza||S|emo|B2
+language barrier|barrera idiomática||S|stu|B2
+credit transfer|convalidación de créditos||S|stu|B2
+orientation week|semana de bienvenida||S|stu|B2
+freshman year|primer año universitario||S|stu|B2
+office hours|horario de tutorías||S|stu|B2
+dean's list|lista de honor||S|stu|B2
+dining hall|comedor universitario||S|stu|B2
+room and board|alojamiento y manutención||S|stu|B2
+spaced repetition|repetición espaciada||S|stu|B2
+rote learning|aprendizaje memorístico||S|stu|B2
+note-taking|toma de apuntes||S|stu|B2
+plagiarism|plagio||S|stu|B2
+urban planning|planificación urbana||S|cit|B2
+gentrification|gentrificación||S|cit|B2
+urban sprawl|expansión urbana desmedida||S|cit|B2
+green space|espacio verde||S|cit|B2
+community garden|huerto urbano||S|cit|B2
+noise complaint|denuncia por ruido||S|cit|B2
+trash pickup|recogida de basura||S|cit|B2
+snow removal|retirada de nieve||S|cit|B2
+street cleaning|limpieza viaria||S|cit|B2
+streetlight|farola||S|cit|B2
+local ordinance|ordenanza municipal||S|cit|B2
+building permit|licencia de obras||S|cit|B2
+infrastructure|infraestructura||S|cit|B2
+taxpayer money|dinero de los contribuyentes||S|cit|B2
+heat advisory|aviso por calor extremo||S|cli|B2
+flash flood|riada||S|cli|B2
+mudslide|corrimiento de tierra||S|cli|B2
+storm surge|marea de tormenta||S|cli|B2
+wildfire|incendio forestal||S|cli|B2
+hurricane season|temporada de huracanes||S|cli|B2
+evacuation route|ruta de evacuación||S|cli|B2
+emergency shelter|refugio de emergencia||S|cli|B2
+first responder|primer interviniente||S|cli|B2
+state of emergency|estado de emergencia||S|ist|B2
+aftershock|réplica de un seísmo||S|cli|B2
+earthquake drill|simulacro de terremoto||S|cli|B2
+survival kit|kit de supervivencia||S|cli|B2
+air quality alert|aviso de contaminación||S|cli|B2
+water restrictions|restricciones de agua||S|cli|B2
+drought|sequía||S|cli|B2
+floodplain|zona inundable||S|nat|B2
+greenhouse gas|gas de efecto invernadero||S|nat|B2
+carbon footprint|huella de carbono||S|nat|B2
+carbon offset|compensación de carbono||S|nat|B2
+fossil fuels|combustibles fósiles||S|nat|B2
+renewable energy|energía renovable||S|nat|B2
+solar farm|planta solar||S|nat|B2
+wind farm|parque eólico||S|nat|B2
+hydroelectric power|energía hidroeléctrica||S|nat|B2
+power grid|red eléctrica||S|nat|B2
+rolling blackouts|apagones rotatorios||S|nat|B2
+energy efficiency|eficiencia energética||S|nat|B2
+planned obsolescence|obsolescencia programada||S|nat|B2
+upcycling|reciclaje creativo||S|nat|B2
+circular economy|economía circular||S|nat|B2
+microplastics|microplásticos||S|nat|B2
+e-waste|residuos electrónicos||S|tec|B2
+overfishing|sobrepesca||S|nat|B2
+deforestation|deforestación||S|nat|B2
+reforestation|repoblación forestal||S|nat|B2
+poaching|caza furtiva||S|ani|B2
+habitat loss|pérdida de hábitat||S|nat|B2
+invasive species|especie invasora||S|nat|B2
+biodiversity|biodiversidad||S|nat|B2
+wildlife corridor|corredor ecológico||S|nat|B2
+landfill|vertedero||S|nat|B2
+crop rotation|rotación de cultivos||S|nat|B2
+organic farming|agricultura ecológica||S|nat|B2
+trailhead|inicio de sendero||S|nat|B2
+leave no trace|no dejar rastro||E|nat|B2
+storm drain|sumidero||S|cit|B2

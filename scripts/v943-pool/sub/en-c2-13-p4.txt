@@ -1,0 +1,44 @@
+vernix|vérmix caseoso||S|sla|C2
+nuchal translucency|translucencia nucal||E|sla|C2
+kangaroo care|método canguro||E|sla|C2
+neonatal sepsis|sepsis neonatal||E|sla|C2
+perinatal asphyxia|asfixia perinatal||E|sla|C2
+cord blood|sangre de cordón umbilical||E|sla|C2
+talipes|pie zambo||S|sla|C2
+hip dysplasia|displasia de cadera||E|sla|C2
+neonatal jaundice|ictericia neonatal||E|sla|C2
+tenotomy|tenotomía||S|sla|C2
+gait training|reeducación de la marcha||E|sla|C2
+kyphoplasty|cifoplastia||S|sla|C2
+discectomy|discectomía||S|sla|C2
+compartment syndrome|síndrome compartimental||E|sla|C2
+bony callus|callo óseo||E|sla|C2
+orthosis|ortesis||S|sla|C2
+contracture|contractura||S|sla|C2
+force of infection|fuerza de infección||E|sla|C2
+syndemic|sinemia||S|sla|C2
+social gradient|gradiente social||E|sla|C2
+base erosion|erosión de la base imponible||E|fin|C2
+carryback|compensación retroactiva||S|fin|C2
+fractional-reserve banking|banca de reserva fraccionaria||E|fin|C2
+accretive|accretivo||A|fin|C2
+derivatization|derivatización||S|sci|C2
+gas chromatography|cromatografía de gases||E|sci|C2
+desiccator|desecador||S|sci|C2
+internal standard|patrón interno||E|sci|C2
+blank sample|muestra en blanco||E|sci|C2
+paramagnetic|paramagnético||A|sci|C2
+parameterization|parametrización||S|cli|C2
+reanalysis|reanálisis||S|cli|C2
+blocking pattern|patrón de bloqueo||E|cli|C2
+tropopause|tropopausa||S|cli|C2
+taphonomy|tafonomía||S|sci|C2
+biostratigraphy|bioestratigrafía||S|sci|C2
+phylogenetics|filogenética||S|sci|C2
+type specimen|ejemplar tipo||E|sci|C2
+stratigraphic column|columna estratigráfica||E|sci|C2
+homoplasy|homoplasia||S|sci|C2
+reassortment|reordenamiento genético||S|sci|C2
+viral tropism|tropismo viral||E|sci|C2
+reservoir host|hospedador reservorio||E|sci|C2
+viral shedding|excreción viral||E|sla|C2

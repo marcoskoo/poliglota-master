@@ -1,0 +1,42 @@
+thrice|tres veces||D|let|C2
+plaintive|lastimero||A|let|C2
+thenceforth|desde entonces||D|cnn|C2
+whereof|de lo cual||D|cnn|C2
+therewith|con ello||D|cnn|C2
+tarry|demorarse||V|let|C2
+churl|rústico grosero||S|let|C2
+knave|pícaro||S|let|C2
+damsel|doncella||S|let|C2
+bard|bardo||S|let|C2
+minstrel|juglar||S|mus|C2
+troubadour|trovador||S|mus|C2
+jester|bufón||S|let|C2
+courtier|cortesano||S|ist|C2
+herald|heraldo||S|let|C2
+almoner|limosnero||S|ist|C2
+contrariwise|al contrario||D|cnn|C2
+after a fashion|a su manera||E|cnn|C2
+in like manner|del mismo modo||E|cnn|C2
+double down|insistir con más ahínco||V|cmu|C2
+sidestep|esquivar hábilmente||V|cmu|C2
+muddy the waters|enturbiar las aguas||E|cmu|C2
+reframe|reencuadrar||V|cmu|C2
+post hoc|con posterioridad||L|sci|C2
+in extremis|en el último momento||L|sla|C2
+psychoeducation|psicoeducación||S|emo|C2
+acedia|acidia||S|ast|C2
+contrition|contrición||S|ast|C2
+venial sin|pecado venial||E|ast|C2
+cardinal virtue|virtud cardinal||E|ast|C2
+effrontery|desfachatez||S|ast|C2
+chutzpah|osadía descarada||S|ast|C2
+temerity|temeridad||S|ast|C2
+hockey-stick growth|crecimiento explosivo||E|fin|C2
+venture debt|préstamo de riesgo||E|fin|C2
+down round|ronda a la baja||E|fin|C2
+acqui-hire|adquisición para fichar al equipo||S|fin|C2
+ramp up|escalar la producción||V|lav|C2
+intermodal transport|transporte intermodal||E|tra|C2
+inventory shrinkage|merma de inventario||E|lav|C2
+palletize|paletizar||V|lav|C2
+bait and switch|venta engañosa con cebo||E|fin|C2

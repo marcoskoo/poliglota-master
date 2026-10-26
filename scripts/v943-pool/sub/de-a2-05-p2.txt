@@ -1,0 +1,149 @@
+bis morgen|hasta mañana||E|sal|A2
+bis gleich|hasta ahora mismo||E|sal|A2
+alles Gute|todo lo mejor||E|sal|A2
+Das macht nichts|no pasa nada||E|sal|A2
+der Ehepartner|cónyuge||S|fam|A2
+das Ehepaar|matrimonio||S|fam|A2
+die Stiefmutter|madrastra||S|fam|A2
+das Laken|sábana||S|cas|A2
+die Bettdecke|edredón||S|cas|A2
+die Gefriertruhe|congelador||S|cas|A2
+der Ventilator|ventilador||S|cas|A2
+das Arbeitszimmer|despacho||S|cas|A2
+die Diele|recibidor||S|cas|A2
+die Kaffeekanne|cafetera||S|cas|A2
+der Dosenöffner|abrelatas||S|cas|A2
+der Mopp|fregona||S|cas|A2
+der Wäscheständer|tendedero||S|cas|A2
+die Axt|hacha||S|cas|A2
+die Gartenschere|tijeras de podar||S|cas|A2
+die Grapefruit|pomelo||S|ali|A2
+die Wassermelone|sandía||S|ali|A2
+der Rucola|rúcula||S|ali|A2
+der Ingwer|jengibre||S|ali|A2
+das Lammfleisch|carne de cordero||S|ali|A2
+die Leberwurst|paté de hígado||S|ali|A2
+die Dorade|dorada||S|ali|A2
+die Languste|langosta||S|ali|A2
+der Mozzarella|mozzarella||S|ali|A2
+der Parmesan|parmesano||S|ali|A2
+das Toastbrot|pan de molde||S|ali|A2
+das Baguette|baguette||S|ali|A2
+der Cappuccino|capuchino||S|ali|A2
+das Sprudelwasser|agua con gas||S|ali|A2
+das Currypulver|curry en polvo||S|ali|A2
+der Balsamico|vinagre balsámico||S|ali|A2
+die Pistazie|pistacho||S|ali|A2
+die Cashewnuss|anacardo||S|ali|A2
+die Gärtnerei|vivero||S|cmp|A2
+die Spielwarenhandlung|tienda de juguetes||S|cmp|A2
+die Zahlung|pago||S|cmp|A2
+die Frischhaltefolie|film transparente||S|cmp|A2
+die Alufolie|papel de aluminio||S|cmp|A2
+die Bushaltestelle|parada de autobús||S|tra|A2
+der Busbahnhof|estación de autobuses||S|tra|A2
+das Handschuhfach|guantera||S|tra|A2
+die Windschutzscheibe|parabrisas||S|tra|A2
+die Lokomotive|locomotora||S|tra|A2
+die Schranke|barrera||S|tra|A2
+die Gepäckausgabe|recogida de equipajes||S|vig|A2
+der Sitzplatz|asiento||S|vig|A2
+das Mountainbike|bici de montaña||S|tra|A2
+der Schlauch|cámara de rueda||S|tra|A2
+der Kulturbeutel|neceser||S|vig|A2
+der Gaskocher|cocina de gas||S|vig|A2
+das Taschenmesser|navaja||S|vig|A2
+der Weckruf|llamada de despertador||S|htl|A2
+das Buffet|bufé||S|htl|A2
+das Duschgel|gel de ducha||S|htl|A2
+die Entzündung|inflamación||S|sla|A2
+der blaue Fleck|cardenal||S|sla|A2
+die Krücken|muletas||S|sla|A2
+die Röntgenaufnahme|radiografía||S|sla|A2
+die Augentropfen|gotas para los ojos||S|sla|A2
+die Hustentropfen|gotas para la tos||S|sla|A2
+der Fischer|pescador||S|pro|A2
+der Müllmann|basurero||S|pro|A2
+der Augenarzt|oculista||S|pro|A2
+die Heftklammer|grapa||S|lav|A2
+die Büroklammer|clip||S|lav|A2
+der Füller|pluma||S|lav|A2
+das Diktat|dictado||S|stu|A2
+der Aufsatz|redacción||S|stu|A2
+die Klassenfahrt|viaje de fin de curso||S|stu|A2
+der Deutschunterricht|clase de alemán||S|stu|A2
+die Rechtschreibung|ortografía||S|stu|A2
+die Kapelle|capilla||S|cit|A2
+die Kathedrale|catedral||S|cit|A2
+die Allee|avenida||S|cit|A2
+der Tunnel|túnel||S|cit|A2
+der Nieselregen|llovizna||S|cli|A2
+die Kältewelle|ola de frío||S|cli|A2
+der Platzregen|chaparrón||S|cli|A2
+die Schneeflocke|copo de nieve||S|cli|A2
+die Schneeballschlacht|guerra de bolas de nieve||S|cli|A2
+die Jeanshose|vaqueros||S|rop|A2
+der Kapuzenpullover|sudadera con capucha||S|rop|A2
+der Bikini|bikini||S|rop|A2
+der Gummistiefel|bota de agua||S|rop|A2
+die Umhängetasche|bolso bandolera||S|rop|A2
+der Sonnenschirm|sombrilla||S|rop|A2
+die Stereoanlage|equipo de música||S|tec|A2
+der Fotoapparat|cámara de fotos||S|tec|A2
+der Nutzername|nombre de usuario||S|tec|A2
+der Browser|navegador||S|tec|A2
+der Videoanruf|videollamada||S|cmu|A2
+das Adressbuch|agenda de contactos||S|cmu|A2
+der Torwart|portero||S|spt|A2
+der Stürmer|delantero||S|spt|A2
+die Stoppuhr|cronómetro||S|spt|A2
+die Turnmatte|colchoneta||S|spt|A2
+die Badekappe|gorro de baño||S|spt|A2
+die Mundharmonika|armónica||S|mus|A2
+das Tamburin|pandereta||S|mus|A2
+das Volkslied|canción popular||S|mus|A2
+das Wiegenlied|nana||S|mus|A2
+der Zeichentrickfilm|película de dibujos animados||S|cin|A2
+die Filmmusik|banda sonora||S|cin|A2
+das Happy End|final feliz||S|cin|A2
+der Freundeskreis|círculo de amigos||S|rel|A2
+die Hausparty|fiesta en casa||S|rel|A2
+der Witz|chiste||S|rel|A2
+die Bankkarte|tarjeta bancaria||S|fin|A2
+die Einzahlung|ingreso||S|fin|A2
+das Kartoffelpüree|puré de patatas||S|ris|A2
+die Spaghetti|espaguetis||S|ris|A2
+der Stammgast|cliente habitual||S|ris|A2
+das Rechteck|rectángulo||S|col|A2
+himmelblau|azul cielo||A|col|A2
+die Frisur|peinado||S|cor|A2
+der Backenzahn|muela||S|cor|A2
+der Bauchnabel|ombligo||S|cor|A2
+der Goldfisch|pez dorado||S|ani|A2
+die Schildkröte|tortuga||S|ani|A2
+der Ochse|buey||S|ani|A2
+das Kalb|ternero||S|ani|A2
+der Bauernhof|granja||S|ani|A2
+der Delfin|delfín||S|ani|A2
+das Krokodil|cocodrilo||S|ani|A2
+der Pfau|pavo real||S|ani|A2
+der Pinguin|pingüino||S|ani|A2
+die Zecke|garrapata||S|ani|A2
+die Raupe|oruga||S|ani|A2
+der Baumstamm|tronco||S|nat|A2
+die Narzisse|narciso||S|nat|A2
+die Nelke|clavel||S|nat|A2
+der Spätnachmittag|media tarde||S|tmp|A2
+die Morgendämmerung|alba||S|tmp|A2
+das Schaltjahr|año bisiesto||S|tmp|A2
+das Monatsende|fin de mes||S|tmp|A2
+die Spielregeln|reglas del juego||S|sve|A2
+die Wanderstiefel|botas de montaña||S|sve|A2
+der Adventskalender|calendario de adviento||S|sve|A2
+die Geburtstagstorte|tarta de cumpleaños||S|sve|A2
+die Erleichterung|alivio||S|emo|A2
+die Traurigkeit|tristeza||S|emo|A2
+pünktlich|puntual||A|emo|A2
+neidisch|envidioso||A|emo|A2
+die Ölfarbe|pintura al óleo||S|art|A2
+das Mosaik|mosaico||S|art|A2
