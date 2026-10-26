@@ -1,0 +1,117 @@
+mirabile dictu|cosa admirable de contarse||L|let|C1
+in vino veritas|la verdad está en el vino||L|ris|C1
+memento mori|recuerda que has de morir||L|let|C1
+summa summarum|en suma||L|cnn|C1
+aufs Ganze gesehen|en conjunto||L|cnn|C1
+an und für sich|en sí mismo||L|ast|C1
+bei alledem|con todo ello||L|cnn|C1
+von wegen|ja, claro (irónico)||L|cmu|C1
+rührselig|sentimentaloso||A|art|C1
+schmalzig|cursi y empalagoso||A|art|C1
+schwülstig|ampuloso||A|let|C1
+hanebüchen|absurdo descomunal||A|cmu|C1
+schal|mustio e insípido||A|let|C1
+verhärmt|avejentado por el sufrimiento||A|let|C1
+verdattert|aturullado||A|cmu|C1
+flügellahm|con las alas truncadas||A|let|C1
+herzzerreißend|desgarrador||A|emo|C1
+müßig|ocioso e inútil||A|ast|C1
+wohlweislich|con plena cautela||A|cmu|C1
+gedankenvoll|meditabundo||A|let|C1
+brenzlig|espinoso y comprometido||A|cmu|C1
+anflehen|suplicar||V|cmu|C1
+wehklagen|plañir||V|let|C1
+neiden|envidiar||V|emo|C1
+verprassen|derrochar en vicios||V|cmu|C1
+verplempern|malgastar||V|cmu|C1
+vertändeln|dilapidar en bagatelas||V|cmu|C1
+schnorren|gorronear||V|cmu|C1
+abbetteln|sonsacar con zalamerías||V|cmu|C1
+lavieren|maniobrar entre escollos||V|ast|C1
+taxieren|tasar||V|fin|C1
+veranschlagen|presupuestar||V|fin|C1
+überschlagen|calcular grosso modo||V|fin|C1
+sticheln|soltar puyas||V|cmu|C1
+spötteln|mofarse sutilmente||V|let|C1
+harren|aguardar (arcaico)||V|let|C1
+wähnen|creer erróneamente||V|let|C1
+mutmaßen|conjeturar||V|ast|C1
+schillern|irisar con destellos||V|art|C1
+zechen|empinar el codo||V|cmu|C1
+rühmen|encarecer||V|cmu|C1
+lobhudeln|halagar sin ton ni son||V|cmu|C1
+zuprosten|brindar a alguien||V|ris|C1
+aufwarten|agasajar con||V|ris|C1
+flunkern|soltar trolas||V|cmu|C1
+verscheiden|fallecer (literario)||V|let|C1
+das Dahinscheiden|fallecimiento (literario)||S|let|C1
+vergönnen|conceder por gracia||V|ast|C1
+missen|prescindir con pesar||V|ast|C1
+das Kopplungsmanöver|maniobra de acoplamiento||S|tec|C1
+der Sauerstoffgenerator|generador de oxígeno||S|tec|C1
+die Raumfahrttechnik|ingeniería aeroespacial||S|tec|C1
+die Wiedereintrittsgeschwindigkeit|velocidad de reentrada||S|tec|C1
+der Brutreaktor|reactor reproductor||S|tec|C1
+der Leichtwasserreaktor|reactor de agua ligera||S|tec|C1
+das Brennelement|elemento combustible||S|tec|C1
+die Einspeisevergütung|tarifa regulada de inyección||S|fin|C1
+der Stromnetzausbau|expansión de la red eléctrica||S|tec|C1
+die Blindleistung|potencia reactiva||S|tec|C1
+das Umspannwerk|subestación eléctrica||S|tec|C1
+der Dotierstoff|agente dopante||S|tec|C1
+der Ätzschritt|etapa de grabado||S|tec|C1
+die Chipausbeute|rendimiento de obleas||S|tec|C1
+die Aktuatorik|actuática||S|tec|C1
+die Regelstrecke|planta de regulación||S|tec|C1
+die Rückkopplungsschleife|bucle de realimentación||S|tec|C1
+die Bahnplanung|planificación de trayectorias||S|tec|C1
+die Greifvorrichtung|dispositivo de prensión||S|tec|C1
+die Mensch-Roboter-Interaktion|interacción humano-robot||S|tec|C1
+die Maßanalyse|análisis volumétrico||S|sci|C1
+die Referenzsubstanz|sustancia de referencia||S|sci|C1
+die Elution|elución||S|sci|C1
+die Röntgenfluoreszenzanalyse|análisis por fluorescencia de rayos X||S|sci|C1
+der Säureaufschluss|digestión ácida||S|sci|C1
+der Exsikkator|desecador||S|sci|C1
+die Abdampfschale|cápsula de evaporación||S|sci|C1
+der Stehkolben|matraz de fondo plano||S|sci|C1
+der Tropftrichter|embudo de llave||S|sci|C1
+die Zustandsdichte|densidad de estados||S|sci|C1
+die Eigenschwingung|frecuencia propia||S|sci|C1
+die Spannungsrisskorrosion|corrosión bajo tensión||S|sci|C1
+das Sintern|sinterizado||S|sci|C1
+der Sinterwerkstoff|material sinterizado||S|sci|C1
+die Härteprüfung|ensayo de dureza||S|sci|C1
+die Kerbschlagzähigkeit|tenacidad con entalla||S|sci|C1
+die Entropiebilanz|balance de entropía||S|sci|C1
+die laminare Strömung|flujo laminar||L|sci|C1
+die Wirbelschicht|lecho fluidizado||S|sci|C1
+die Kavitation|cavitación||S|sci|C1
+die akustische Impedanz|impedancia acústica||L|sci|C1
+die Schallabsorption|absorción acústica||S|sci|C1
+das Schallfeld|campo acústico||S|sci|C1
+die Lichtleitfaser|fibra óptica||S|tec|C1
+die Konvergenzrate|tasa de convergencia||S|sci|C1
+die Anfangsbedingung|condición inicial||S|sci|C1
+der Existenzbeweis|prueba de existencia||S|sci|C1
+die Äquivalenzumformung|transformación equivalente||S|sci|C1
+die Diagonalisierbarkeit|diagonalizabilidad||S|sci|C1
+der Eigenraum|subespacio propio||S|sci|C1
+die Zeilenstufenform|forma escalonada||S|sci|C1
+die Entscheidbarkeit|decidibilidad||S|sci|C1
+die Enzymkinetik|cinética enzimática||S|sci|C1
+die Substratbindung|unión al sustrato||S|sci|C1
+der Kofaktor|cofactor||S|sci|C1
+die Bindungsaffinität|afinidad de unión||S|sci|C1
+die Dissoziationskonstante|constante de disociación||S|sci|C1
+die Dehydrierung|deshidrogenación||S|sci|C1
+das Puffersystem|sistema tampón||S|sci|C1
+der Gewichtungsfaktor|factor de ponderación||S|tec|C1
+die Aktivierungsfunktion|función de activación||S|tec|C1
+die Rückpropagierung|retropropagación||S|tec|C1
+der Merkmalsraum|espacio de características||S|tec|C1
+die Dimensionsreduktion|reducción de dimensionalidad||S|tec|C1
+die Clusterbildung|agrupamiento de datos||S|tec|C1
+der Ausreißerwert|valor atípico||S|sci|C1
+das Schlüsselpaar|par de claves||S|tec|C1
+die Zertifikatskette|cadena de certificados||S|tec|C1

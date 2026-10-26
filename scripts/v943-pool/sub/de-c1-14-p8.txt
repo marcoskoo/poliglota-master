@@ -1,0 +1,118 @@
+die Spreizungszone|zona de expansión de dorsal oceánica||S|nat|C1
+der Magmaaufstieg|ascenso de magma||S|nat|C1
+die Eruptionssäule|columna eruptiva||S|nat|C1
+die Erdbebenwarte|observatorio sismológico||S|nat|C1
+die Scherwelle|onda de cizalla||S|sci|C1
+die Sackung|hundimiento gravitacional lento||S|nat|C1
+die Erosionsrinne|cárcava de erosión||S|nat|C1
+der Sedimenttransport|transporte de sedimentos||S|nat|C1
+das Tonmineral|mineral de la arcilla||S|nat|C1
+der Bodenhorizont|horizonte edáfico||S|nat|C1
+der Grundwasserstauer|acuitardo||S|nat|C1
+die Karstquelle|manantial kárstico||S|nat|C1
+die Sinterterrasse|terraza de toba caliza||S|nat|C1
+die Hochwassermarke|marca de crecida||S|nat|C1
+der Auwald|bosque de ribera||S|nat|C1
+die Torfschicht|capa de turba||S|nat|C1
+die Meereisbildung|formación de hielo marino||S|nat|C1
+die Eisbergkalbung|desprendimiento de icebergs||S|nat|C1
+das Gletschertor|boca del glaciar||S|nat|C1
+die Gletschermühle|molino glaciar||S|nat|C1
+die Moränenlandschaft|paisaje morrénico||S|nat|C1
+der Schwarze Raucher|fumarola negra abisal||L|nat|C1
+die Hydrothermalquelle|fuente hidrotermal||S|nat|C1
+das Benthos|bentos||S|nat|C1
+das Laichgebiet|zona de freza||S|nat|C1
+die Muschelzucht|mitilicultura||S|nat|C1
+die Ackerbrache|barbecho||S|nat|C1
+die Windbestäubung|polinización anemófila||S|nat|C1
+die Bestäubungsleistung|servicio de polinización||S|nat|C1
+die Direktvermarktung|venta directa desde la granja||S|fin|C1
+die Waldbrandstufe|nivel de riesgo de incendio forestal||S|nat|C1
+die Brandschneise|cortafuegos||S|nat|C1
+der Forstbetrieb|explotación forestal||S|nat|C1
+das Deponiegas|gas de vertedero||S|nat|C1
+die Müllverbrennungsanlage|planta incineradora||S|nat|C1
+der Trainingsumfang|volumen de entrenamiento||S|spt|C1
+die Akklimatisation|aclimatación a la altura||S|spt|C1
+die Sauerstoffschuld|deuda de oxígeno||S|spt|C1
+die Bergankunft|llegada en alto||S|spt|C1
+die Fluchtgruppe|fuga del pelotón||S|spt|C1
+die Turnriege|equipo de gimnasia||S|spt|C1
+der Sprungturm|trampolín de saltos||S|spt|C1
+die Klettersicherung|aseguramiento en escalada||S|spt|C1
+der Klemmknoten|nudo de bloqueo||S|spt|C1
+die Mehrseillängenroute|vía de varios largos||S|spt|C1
+der Standplatz|reunión en escalada||S|spt|C1
+der Quergang|travesía en escalada||S|spt|C1
+das Gipfelbuch|libro de cumbre||S|spt|C1
+die Bergwacht|servicio de rescate de montaña||S|spt|C1
+der Notbiwak|vivac de emergencia||S|spt|C1
+der Orientierungslauf|carrera de orientación||S|spt|C1
+die Skitour|travesía de esquí||S|spt|C1
+der Firn|neviza||S|nat|C1
+die Wechte|cornisa de nieve||S|nat|C1
+das Schneebrett|placa de nieve||S|nat|C1
+das Lawinensuchgerät|detector de víctimas de aludes||S|tec|C1
+der Lawinenwarndienst|servicio de alerta de aludes||S|nat|C1
+das Mostgewicht|peso del mosto||S|ris|C1
+das Degorgieren|degüelle||S|ris|C1
+die Fassreifung|crianza en barrica||S|ris|C1
+die Restsüße|azúcar residual||S|ris|C1
+die malolaktische Gärung|fermentación maloláctica||L|ris|C1
+die Molekularküche|cocina molecular||S|ris|C1
+das Nappieren|napar con salsa||S|ris|C1
+die Barrique|barrica de roble||S|ris|C1
+die Watschn|torta (sur de Alemania)||S|cmu|C1
+der Lackel|gandul (bávaro)||S|cmu|C1
+der Schmock|periodista venal||S|cmu|C1
+der Schmonzes|parlamento hueco||S|cmu|C1
+die Schundliteratur|literatura basura||S|let|C1
+Blech reden|soltar tonterías||E|cmu|C1
+flachsen|bromear||V|cmu|C1
+die Muffensausen|canguelo cerval||S|cmu|C1
+scheibchenweise|poco a poco||D|cmu|C1
+der Eiferer|fanático exaltado||S|ast|C1
+das Frauenzimmer|mujer (arcaico burlesco)||S|let|C1
+der Tunichtgut|vividor||S|let|C1
+das Balg|crío (arcaico)||S|let|C1
+der Wicht|miserable (arcaico)||S|let|C1
+das Seemannsgarn|patrañas de marinero||S|cmu|C1
+das Jägerlatein|exageraciones de cazador||S|cmu|C1
+das Schauermärchen|historia escalofriante exagerada||S|let|C1
+die Fisematenten|triquiñuelas||S|cmu|C1
+der Trübsinn|abatimiento melancólico||S|emo|C1
+die Verzagtheit|desánimo apocado||S|emo|C1
+der Kleinmut|pusilanimidad||S|ast|C1
+der Unmut|disgusto sordo||S|emo|C1
+die Boshaftigkeit|malicia||S|emo|C1
+die Verzückung|arrobamiento||S|emo|C1
+die Entrückung|arrobamiento místico||S|ast|C1
+das Gipfelglück|dicha de la cumbre||S|sve|C1
+die Unausweichlichkeit|inevitabilidad||S|ast|C1
+die Kulmination|culminación||S|ast|C1
+die Schimäre|quimera||S|let|C1
+der Schwärmer|soñador entusiasta||S|let|C1
+das Phantasma|fantasma mental||S|let|C1
+die Stichhaltigkeit|solidez argumental||S|ast|C1
+die Preisgabe|abandono forzoso||S|ast|C1
+das Strohfeuer|fuego de paja||S|ast|C1
+der Blender|farolero||S|cmu|C1
+die Schwindelei|embuste||S|cmu|C1
+das Bauernopfer|chivo expiatorio||S|ast|C1
+die schiefe Ebene|pendiente resbaladiza||L|ast|C1
+mit Hängen und Würgen|a duras penas||L|cmu|C1
+ins Stocken geraten|quedarse en blanco||L|cmu|C1
+ins Schleudern geraten|derrapar||L|cmu|C1
+der Löwenanteil|la parte del león||S|ast|C1
+für ein Butterbrot|por cuatro perras||L|cmp|C1
+der Hungerlohn|salario de hambre||S|lav|C1
+der Spottpreis|precio de risa||S|fin|C1
+in der Zwickmühle stecken|estar entre la espada y la pared||E|emo|C1
+Hohn sprechen|hablar con sorna hiriente||E|let|C1
+ex nihilo|de la nada||L|ast|C1
+in nuce|en germen||L|let|C1
+in statu nascendi|en estado naciente||L|sci|C1
+mutatis mutandis|mutatis mutandis||L|ast|C1
+per definitionem|por definición||L|ast|C1
+coram publico|a la vista de todos||L|ast|C1

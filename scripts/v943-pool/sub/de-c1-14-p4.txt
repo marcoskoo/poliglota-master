@@ -1,0 +1,61 @@
+der Testamentsvollstrecker|albacea||S|ist|C1
+die Vaterschaftsanerkennung|reconocimiento de paternidad||S|ist|C1
+der Unterhaltsvorschuss|anticipo de alimentos||S|ist|C1
+das Vorbehaltseigentum|reserva de dominio||S|ist|C1
+die Abtretung|cesión de crédito||S|ist|C1
+die Aufrechnung|compensación de deudas||S|ist|C1
+der Arrest|embargo preventivo||S|ist|C1
+die Eigenverwaltung|autoadministración concursal||S|fin|C1
+die Gläubigerbenachteiligung|perjuicio a los acreedores||S|fin|C1
+die Prozesskostenhilfe|justicia gratuita||S|ist|C1
+der Streitwert|cuantía del litigio||S|ist|C1
+die Klageabweisung|desestimación de la demanda||S|ist|C1
+die Vertagung|aplazamiento de la vista||S|ist|C1
+die Augenscheinnahme|inspección ocular||S|ist|C1
+die Beweislastumkehr|inversión de la carga de la prueba||S|ist|C1
+die Ahndung|sanción de un ilícito||S|ist|C1
+die Sicherungsverwahrung|custodia de seguridad||S|ist|C1
+die Führungsaufsicht|libertad vigilada judicial||S|ist|C1
+der Parteiverrat|prevaricación del defensor||S|ist|C1
+die Anklageerhebung|presentación de la acusación||S|ist|C1
+die Subsumtion|subsunción||S|ist|C1
+die Verfahrensrüge|motivo de casación procesal||S|ist|C1
+die Vorfrage|cuestión prejudicial||S|ist|C1
+die Rückverweisung|reenvío en derecho internacional privado||S|ist|C1
+die Statthaftigkeit|procedencia del recurso||S|ist|C1
+die Anscheinsvollmacht|apoderamiento aparente||S|ist|C1
+die Schutzbehauptung|alegación defensiva||S|ist|C1
+die Befangenheit|parcialidad motivo de recusación||S|ist|C1
+die üble Nachrede|calumnia||L|ist|C1
+das Gefälligkeitsgutachten|informe de complacencia||S|ist|C1
+das Transparenzregister|registro de transparencia||S|ist|C1
+die Vermögensauskunft|declaración de bienes||S|ist|C1
+a limine|de plano inadmisión liminar||L|ist|C1
+de lege lata|con arreglo al derecho vigente||L|ist|C1
+de lege ferenda|de lege ferenda derecho propuesto||L|ist|C1
+das Nonliquet|non liquet||L|ist|C1
+sub iudice|pendiente de resolución judicial||L|ist|C1
+die Kompetenzkompetenz|competencia sobre la competencia||S|ist|C1
+die Verfassungswidrigkeit|inconstitucionalidad||S|ist|C1
+die Richterbank|sala de magistrados||S|ist|C1
+die Organstreitigkeit|litigio constitucional entre órganos||S|ist|C1
+die Staatsräson|razón de Estado||S|ast|C1
+das Demokratieprinzip|principio democrático||S|ist|C1
+die Behördenzuständigkeit|competencia administrativa||S|ist|C1
+die Widerspruchsfrist|plazo de recurso administrativo||S|ist|C1
+die Ersetzungsbefugnis|facultad sustitutoria||S|ist|C1
+das Sonderopfer|sacrificio especial||S|ist|C1
+die Folgenbeseitigung|eliminación de consecuencias del acto||S|ist|C1
+das Sozialstaatsprinzip|principio de Estado social||S|ist|C1
+das Persönlichkeitsrecht|derecho al honor y la propia imagen||S|ist|C1
+die Verdachtsberichterstattung|información sobre meras sospechas||S|att|C1
+das Hintergrundgespräch|conversación en background||S|att|C1
+das Feuilleton|sección cultural||S|att|C1
+die Desinformationskampagne|campaña de desinformación||S|att|C1
+das Notaranderkonto|cuenta especial notarial||S|ist|C1
+der Grundbuchauszug|nota simple registral||S|ist|C1
+die Gewinnverwendung|aplicación del resultado||S|fin|C1
+der Abfindungsanspruch|derecho a indemnización por cese||S|lav|C1
+das Völkergewohnheitsrecht|derecho internacional consuetudinario||S|ist|C1
+das Berufungsgericht|tribunal de apelación||S|ist|C1
+die Sprungrevision|salto de casación||S|ist|C1

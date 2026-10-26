@@ -1,0 +1,66 @@
+die Zeitraffung|elipsis temporal||S|let|C1
+die Motivkette|cadena de motivos||S|let|C1
+die Dingsymbolik|simbolismo objetual||S|let|C1
+die Selbstreflexivität|autorreflexividad||S|let|C1
+der autobiografische Pakt|pacto autobiográfico||L|let|C1
+das Selbstzeugnis|testimonio autobiográfico||S|let|C1
+der Bildungsroman|novela de formación||S|let|C1
+der Schauerroman|novela gótica de terror||S|let|C1
+der Schelmenroman|novela picaresca||S|let|C1
+die Kalendergeschichte|relato de almanaque popular||S|let|C1
+der Schwank|fabliau||S|let|C1
+das Fastnachtsspiel|teatro carnavalesco medieval||S|let|C1
+der Meistergesang|canto de los maestros cantores||S|mus|C1
+der Hanswurst|personaje cómico popular vienés||S|let|C1
+das Volksschauspiel|teatro popular||S|let|C1
+das Zeugma|zeugma||S|let|C1
+der unreine Reim|rima imperfecta||L|let|C1
+das Reimpaar|pareado||S|let|C1
+die Verskadenz|cadencia del verso||S|let|C1
+das Silbenmaß|metro silábico||S|let|C1
+die Situationsironie|ironía situacional||S|let|C1
+die romantische Ironie|ironía romántica||L|let|C1
+die vierte Wand|cuarta pared||L|cin|C1
+die Halbtotale|plano medio largo||S|cin|C1
+die Vorausblende|flashforward||S|cin|C1
+der Zwischenschnitt|corte intercalado||S|cin|C1
+die subjektive Kamera|cámara subjetiva||L|cin|C1
+die Tonebene|plano sonoro||S|cin|C1
+das Produktplacement|emplazamiento de producto||S|cin|C1
+die Reihentechnik|técnica serial||S|mus|C1
+der Leitton|nota sensible||S|mus|C1
+die Klangfarbenmelodie|melodía de timbres||S|mus|C1
+die Mensuralnotation|notación mensural||S|mus|C1
+die Instrumentationslehre|tratado de instrumentación||S|mus|C1
+die Liedform|forma lied||S|mus|C1
+die Motiventwicklung|desarrollo motívico||S|mus|C1
+die Themaverarbeitung|elaboración temática||S|mus|C1
+das Ostinato|ostinato||S|mus|C1
+das Singspiel|drama musical cantado||S|mus|C1
+die Bühnenmusik|música escénica incidental||S|mus|C1
+die Malschicht|capa pictórica||S|art|C1
+die Stuckdecke|techo de estuco||S|art|C1
+der Stuckateur|estucador||S|pro|C1
+das Tafelbild|pintura sobre tabla||S|art|C1
+die Tuschzeichnung|dibujo a tinta||S|art|C1
+die Radiierung|aguafuerte||S|art|C1
+die Kaltnadelradierung|punta seca||S|art|C1
+die Beutekunst|arte saqueado en guerra||S|art|C1
+die Dauerleihgabe|depósito permanente en museo||S|art|C1
+die Museumspädagogik|pedagogía museística||S|art|C1
+das Schaudepot|depósito visitable||S|art|C1
+das Werkverzeichnis|catálogo razonado||S|art|C1
+das Mäzenatentum|mecenazgo||S|art|C1
+der Reliquienschrein|relicario||S|art|C1
+die Ikonenmalerei|pintura de iconos||S|art|C1
+der Ablass|indulgencia||S|ast|C1
+die Faktizität|facticidad||S|ast|C1
+die Intersubjektivität|intersubjetividad||S|ast|C1
+die Letztbegründung|fundamentación última||S|ast|C1
+die Erkenntniskritik|crítica del conocimiento||S|ast|C1
+der naturalistische Fehlschluss|falacia naturalista||L|ast|C1
+die Eudaimonie|eudaimonía||S|ast|C1
+die Güterabwägung|ponderación de bienes||S|ast|C1
+die Diskursethik|ética del discurso||S|ast|C1
+die Ideologiekritik|crítica de la ideología||S|ast|C1
+das Mönchtum|monacato||S|ast|C1

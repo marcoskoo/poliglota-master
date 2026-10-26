@@ -1,0 +1,70 @@
+lesão muscular|lesión muscular||L|spt|B1
+entorse de tornozelo|esguince de tobillo||L|spt|B1
+aquecimento antes do treino|calentamiento antes del entrenamiento||L|spt|B1
+partida amigável|partido amistoso||L|spt|B1
+jogo de volta|partido de vuelta||L|spt|B1
+resultado empatado|resultado empatado||L|spt|B1
+arbitragem contestada|arbitraje discutido||L|spt|B1
+desclassificação|descalificación||S|spt|B1
+final da taça|final de la copa||L|spt|B1
+atleta amador|atleta aficionado||L|spt|B1
+prova de rua|carrera popular||L|spt|B1
+bilheteira online|taquilla online||L|mus|B1
+lista de músicas|lista de canciones||L|mus|B1
+álbum ao vivo|álbum en directo||L|mus|B1
+letra da canção|letra de la canción||L|mus|B1
+instrumento de cordas|instrumento de cuerda||L|mus|B1
+coro amador|coro de aficionados||L|mus|B1
+concerto esgotado|concierto agotado||L|mus|B1
+banda de garagem|banda de garaje||L|mus|B1
+estreia de cinema|estreno de cine||L|cin|B1
+bilheteira do cinema|taquilla del cine||L|cin|B1
+sessão da meia-noite|sesión de medianoche||L|cin|B1
+filme legendado|película subtitulada||L|cin|B1
+filme dobrado|película doblada||L|cin|B1
+realizador premiado|director premiado||L|cin|B1
+prémio de interpretação|premio de interpretación||L|cin|B1
+cena final|escena final||L|cin|B1
+crítica negativa|crítica negativa||L|cin|B1
+acabar com o namoro|romper la relación||L|rel|B1
+ajustar contas|ajustar cuentas||L|rel|B1
+pedir desculpa primeiro|pedir perdón primero||L|rel|B1
+ter ciúmes|tener celos||L|rel|B1
+relação tóxica|relación tóxica||L|rel|B1
+apoio emocional|apoyo emocional||L|emo|B1
+pessoa de confiança|persona de confianza||L|rel|B1
+diversidade cultural|diversidad cultural||L|ast|B1
+declaração anual de rendimentos|declaración anual de la renta||L|fin|B1
+reter na fonte|retener en la fuente||L|fin|B1
+juro do crédito|interés del préstamo||L|fin|B1
+carteira de ações|cartera de acciones||L|fin|B1
+despesa inesperada|gasto inesperado||L|fin|B1
+sem fundos|sin fondos||E|fin|B1
+engenheira civil|ingeniera civil||L|pro|B1
+arquiteta paisagista|arquitecta paisajista||L|pro|B1
+enfermeiro de família|enfermero de familia||L|pro|B1
+educadora de infância|educadora infantil||L|pro|B1
+professora de música|profesora de música||L|pro|B1
+tradutora literária|traductora literaria||L|pro|B1
+segurança privada|guarda de seguridad||L|pro|B1
+eleições autárquicas|elecciones municipales||L|ist|B1
+abstenção eleitoral|abstención electoral||L|ist|B1
+inflação galopante|inflación galopante||L|att|B1
+preço da energia|precio de la energía||L|att|B1
+desemprego juvenil|paro juvenil||L|att|B1
+resultado conclusivo|resultado concluyente||L|sci|B1
+experiência controlada|experimento controlado||L|sci|B1
+citar fontes|citar las fuentes||L|stu|B1
+teoria confirmada|teoría confirmada||L|sci|B1
+reação em cadeia|reacción en cadena||L|sci|B1
+célula nervosa|célula nerviosa||L|sci|B1
+ausência de gravidade|ausencia de gravedad||L|sci|B1
+personagem principal|personaje principal||L|let|B1
+livro de bolso|libro de bolsillo||L|let|B1
+livro esgotado|libro agotado||L|let|B1
+editora independente|editorial independiente||L|let|B1
+dores nas costas|dolores de espalda||L|cor|B1
+ritmo cardíaco|ritmo cardíaco||L|cor|B1
+ave migratória|ave migratoria||L|ani|B1
+de dois em dois meses|cada dos meses||E|tmp|B1
+de quinze em quinze dias|cada quince días||E|tmp|B1

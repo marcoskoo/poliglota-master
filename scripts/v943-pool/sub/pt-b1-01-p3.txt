@@ -1,0 +1,80 @@
+educação dos filhos|educación de los hijos||L|fam|B1
+desobedecer aos pais|desobedecer a los padres||L|fam|B1
+filho adotado|hijo adoptado||L|fam|B1
+herança de família|herencia familiar||L|fam|B1
+discussão familiar|discusión familiar||L|fam|B1
+primo direito|primo hermano||L|fam|B1
+arrendamento temporário|alquiler temporal||L|cas|B1
+mudança de casa|mudanza de casa||L|cas|B1
+escritura da casa|escritura de la casa||L|cas|B1
+imóvel arrendado|inmueble alquilado||L|cas|B1
+vaga de garagem|plaza de garaje||L|cas|B1
+renda atrasada|alquiler atrasado||L|cas|B1
+azulejo de cozinha|azulejo de cocina||L|cas|B1
+tinta lavável|pintura lavable||L|cas|B1
+roupeiro embutido|armario empotrado||L|cas|B1
+bancada da cozinha|encimera de la cocina||L|cas|B1
+torneira a pingar|grifo que gotea||L|cas|B1
+soalho flutuante|suelo laminado||L|cas|B1
+retoque de tinta|retoque de pintura||L|cas|B1
+obra atrasada|obra retrasada||L|cas|B1
+material de construção|material de construcción||L|cas|B1
+divisória|tabique||S|cas|B1
+candeeiro de teto|lámpara de techo||L|cas|B1
+porta corrediça|puerta corredera||L|cas|B1
+bacalhau com natas|bacalao con nata||L|ali|B1
+doce regional|dulce regional||L|ali|B1
+enchido caseiro|embutido casero||L|ali|B1
+marisco fresco|marisco fresco||L|ali|B1
+sobremesa caseira|postre casero||L|ali|B1
+temperar a gosto|aliñar al gusto||L|ali|B1
+prato de entrada|plato de entrada||L|ali|B1
+azeite virgem extra|aceite de oliva virgen extra||L|ali|B1
+queijo curado|queso curado||L|ali|B1
+sopa do dia|sopa del día||L|ris|B1
+dose para dois|ración para dos||L|ris|B1
+comida picante|comida picante||L|ali|B1
+prato vegetariano|plato vegetariano||L|ali|B1
+rolo de primavera|rollito de primavera||L|ali|B1
+restaurante japonês|restaurante japonés||L|ali|B1
+copo de tinto|copa de tinto||L|ris|B1
+café duplo|café doble||L|ris|B1
+leite-creme|crema pastelera||L|ali|B1
+adega familiar|bodega familiar||L|ali|B1
+anúncio de televisão|anuncio de televisión||L|cmp|B1
+código promocional|código promocional||L|cmp|B1
+promoção de lançamento|promoción de lanzamiento||L|cmp|B1
+comparação de preços|comparación de precios||L|cmp|B1
+consumidor informado|consumidor informado||L|cmp|B1
+devolver o produto|devolver el producto||L|cmp|B1
+etiqueta de devolução|etiqueta de devolución||L|cmp|B1
+reembolso total|reembolso total||L|cmp|B1
+produto defeituoso|producto defectuoso||L|cmp|B1
+fatura de compra|factura de compra||L|cmp|B1
+loja física|tienda física||L|cmp|B1
+nota de crédito|nota de abono||L|cmp|B1
+levantamento na loja|recogida en tienda||L|cmp|B1
+avaliação de cinco estrelas|valoración de cinco estrellas||L|cmp|B1
+comentário de compra|comentario de compra||L|cmp|B1
+pagamento à cobrança|pago contra reembolso||L|cmp|B1
+encomenda atrasada|pedido retrasado||L|cmp|B1
+inspeção periódica|inspección técnica||L|tra|B1
+pneu careca|neumático liso||L|tra|B1
+bateria descarregada|batería descargada||L|tra|B1
+peça de substituição|pieza de recambio||L|tra|B1
+oficina mecânica|taller mecánico||L|tra|B1
+farol fundido|faro fundido||L|tra|B1
+carro de substituição|coche de sustitución||L|tra|B1
+trotineta elétrica|patinete eléctrico||L|tra|B1
+comboio suburbano|tren de cercanías||L|tra|B1
+escala longa|escala larga||L|vig|B1
+bilhete flexível|billete flexible||L|vig|B1
+passaporte caducado|pasaporte caducado||L|vig|B1
+renovação do visto|renovación del visado||L|vig|B1
+controlo alfandegário|control de aduanas||L|vig|B1
+toalha limpa|toalla limpia||L|htl|B1
+receção do hotel|recepción del hotel||L|htl|B1
+quarto com vista|habitación con vistas||L|htl|B1
+reserva de grupo|reserva de grupo||L|htl|B1
+categoria do hotel|categoría del hotel||L|htl|B1
+numerário|efectivo||S|fin|B1

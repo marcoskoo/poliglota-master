@@ -1,0 +1,90 @@
+vizinho de cima|vecino de arriba||L|cas|B1
+barulho de obras|ruido de obras||L|cas|B1
+obras no prédio|obras en el edificio||L|cas|B1
+portaria do prédio|portería del edificio||L|cas|B1
+assambleia de condóminos|reunión de propietarios||L|cas|B1
+zona comum|zona común||L|cas|B1
+tabela nutricional|tabla nutricional||L|ali|B1
+data de consumo preferente|fecha de consumo preferente||L|ali|B1
+conservar no frio|conservar en frío||L|ali|B1
+produto biológico|producto ecológico||L|ali|B1
+corante alimentar|colorante alimentario||L|ali|B1
+comer devagar|comer despacio||L|ali|B1
+bilhete de ida e volta|billete de ida y vuelta||L|tra|B1
+viagem de comboio|viaje en tren||L|tra|B1
+atraso do comboio|retraso del tren||L|tra|B1
+suplemento de lugar|suplemento de plaza||L|tra|B1
+estação de caminho-de-ferro|estación de tren||L|tra|B1
+linha ferroviária|línea ferroviaria||L|tra|B1
+compressa fria|compresa fría||L|sla|B1
+estancar o sangue|cortar la hemorragia||L|sla|B1
+queimadura leve|quemadura leve||L|sla|B1
+desfibrilador automático|desfibrilador automático||L|sla|B1
+curso de formação profissional|curso de formación profesional||L|lav|B1
+competências digitais|competencias digitales||L|tec|B1
+aprender com os erros|aprender de los errores||L|lav|B1
+disciplina opcional|asignatura optativa||L|stu|B1
+aulas práticas|clases prácticas||L|stu|B1
+bairro tranquilo|barrio tranquilo||L|cas|B1
+bairro operário|barrio obrero||L|cit|B1
+quintal|patio||S|cas|B1
+casa geminada|casa adosada||L|cas|B1
+valor de avaliação|valor de tasación||L|fin|B1
+comissão de mediação|honorarios de la agencia||L|fin|B1
+imposto sobre imóveis|impuesto sobre bienes inmuebles||L|fin|B1
+padaria da esquina|panadería de la esquina||L|ali|B1
+carro roubado|coche robado||L|cit|B1
+furto de carteira|hurto de cartera||L|cit|B1
+chamada de emergência|llamada de emergencia||L|cit|B1
+patrulha de segurança|patrulla de seguridad||L|cit|B1
+documentário de natureza|documental de naturaleza||L|sci|B1
+conhecimento científico|conocimiento científico||L|sci|B1
+dados recolhidos|datos recopilados||L|sci|B1
+publicar um estudo|publicar un estudio||L|sci|B1
+best-seller|superventas||S|let|B1
+leitura obrigatória|lectura obligatoria||L|let|B1
+prefácio do livro|prólogo del libro||L|let|B1
+trilho sinalizado|sendero señalizado||L|nat|B1
+caminhada matinal|caminata matinal||L|nat|B1
+parque de merendas|zona de pícnic||L|nat|B1
+calçado de montanha|calzado de montaña||L|nat|B1
+fim de semana cultural|fin de semana cultural||L|vig|B1
+hotel no centro|hotel en el centro||L|vig|B1
+viagem organizada|viaje organizado||L|vig|B1
+autoestima elevada|autoestima alta||L|emo|B1
+confiança em si mesmo|confianza en uno mismo||L|emo|B1
+objetivo realista|objetivo realista||L|emo|B1
+hábito diário|hábito diario||L|emo|B1
+reclamação por escrito|reclamación por escrito||L|cmu|B1
+falar com o gerente|hablar con el gerente||L|cmu|B1
+responder com educação|responder con educación||L|cmu|B1
+requerimento online|solicitud online||L|ist|B1
+marcação de cita|cita previa||L|ist|B1
+documento caducado|documento caducado||L|ist|B1
+carimbo oficial|sello oficial||L|ist|B1
+a propósito disso|a propósito de eso||E|cnn|B1
+no fundo|al fin y al cabo||E|cnn|B1
+golpe de sorte|golpe de suerte||L|ast|B1
+passagem do tempo|paso del tiempo||L|ast|B1
+verdade absoluta|verdad absoluta||L|ast|B1
+senso de justiça|sentido de la justicia||L|ast|B1
+museu municipal|museo municipal||L|art|B1
+pesagem da bagagem|pesaje del equipaje||L|vig|B1
+passageiro frequente|pasajero frecuente||L|vig|B1
+toalhas sujas|toallas sucias||L|htl|B1
+aquecimento central|calefacción central||L|htl|B1
+limpeza do quarto|limpieza de la habitación||L|htl|B1
+pequeno-almoço no quarto|desayuno en la habitación||L|htl|B1
+cartão de ponto|fichar el horario||L|lav|B1
+colega de equipa|compañero de equipo||L|lav|B1
+avô paterno|abuelo paterno||L|fam|B1
+neto mais velho|nieto mayor||L|fam|B1
+insónia passageira|insomnio pasajero||L|sla|B1
+cansaço acumulado|cansancio acumulado||L|sla|B1
+marcar um encontro|quedar con alguien||L|rel|B1
+coleira para cães|collar para perros||L|ani|B1
+ração do cachorro|pienso del cachorro||L|ani|B1
+adiestrar o cão|adiestrar al perro||L|ani|B1
+aplicação de transporte|aplicación de transporte||L|tra|B1
+tarifa noturna|tarifa nocturna||L|tra|B1
+estimativa de preço|estimación del precio||L|tra|B1

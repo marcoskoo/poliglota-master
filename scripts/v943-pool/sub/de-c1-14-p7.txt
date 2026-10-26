@@ -1,0 +1,60 @@
+die Repräsentativerhebung|encuesta representativa||S|att|C1
+die Konfliktbearbeitung|gestión constructiva de conflictos||S|att|C1
+der Schulterschluss|apoyo incondicional||S|att|C1
+die Beistandsklausel|cláusula de asistencia mutua||S|att|C1
+die Nichtverbreitung|no proliferación nuclear||S|att|C1
+die Abschreckungsdoktrin|doctrina de disuasión||S|att|C1
+der Stellvertreterkrieg|guerra subsidiaria||S|att|C1
+das Waffenstillstandsabkommen|acuerdo de alto el fuego||S|att|C1
+die Schutzverantwortung|responsabilidad de proteger||S|att|C1
+das Zuwanderungsgesetz|ley de inmigración||S|ist|C1
+die Diasporagemeinschaft|comunidad diaspórica||S|ast|C1
+der Altersquotient|tasa de dependencia de mayores||S|ast|C1
+der Mehrgenerationenhaushalt|hogar multigeneracional||S|ast|C1
+die Sozialstrukturanalyse|análisis de la estructura social||S|ast|C1
+der Sozialstrukturwandel|cambio de la estructura social||S|ast|C1
+der Rationalisierungsprozess|proceso de racionalización||S|ast|C1
+die Opportunitätsstruktur|estructura de oportunidad||S|ast|C1
+die Deprivation|privación relativa||S|ast|C1
+die Statusinkonsistenz|inconsistencia de estatus||S|ast|C1
+die Machtelite|élite del poder||S|ast|C1
+die Elitenforschung|estudio de las élites||S|ast|C1
+die Legitimitätskrise|crisis de legitimidad||S|ast|C1
+die Staatstätigkeit|actividad del Estado||S|ast|C1
+der Verbändestaat|Estado de grupos de interés||S|ast|C1
+die Umverteilungsgerechtigkeit|justicia distributiva||S|ast|C1
+der Obrigkeitsglaube|fe en la autoridad||S|ast|C1
+die geringfügige Beschäftigung|empleo de horas marginales||L|lav|C1
+der Führungsnachwuchs|cantera directiva||S|lav|C1
+die Nischenstrategie|estrategia de nicho||S|fin|C1
+die Diversifikationsstrategie|estrategia de diversificación||S|fin|C1
+die Markenführung|gestión de marca||S|fin|C1
+der Beteiligungsvertrag|pacto de socios||S|fin|C1
+die Aktienoption|opción sobre acciones||S|fin|C1
+die Nullfehlerproduktion|producción sin defectos||S|tec|C1
+die Verzollung|pago de derechos de aduana||S|fin|C1
+die Kompetenzstufe|nivel de competencia||S|stu|C1
+die Unterrichtssequenz|secuencia didáctica||S|stu|C1
+das Referendariat|fase de prácticas docentes||S|stu|C1
+die Forschungsförderung|financiación de la investigación||S|stu|C1
+der Sammelband|volumen colectivo||S|let|C1
+die Festschrift|volumen homenaje||S|let|C1
+die Editionsphilologie|filología editorial||S|let|C1
+das Stemma|stemma de manuscritos||S|let|C1
+die Minuskel|escritura minúscula antigua||S|let|C1
+die Frakturschrift|escritura gótica alemana||S|let|C1
+der Textzeuge|testimonio textual||S|let|C1
+das Rotwelsch|jerga marginal histórica||S|let|C1
+die Sprachinsel|isla lingüística||S|let|C1
+die Scheinentlehnung|préstamo aparente||S|let|C1
+die Dachsprache|lengua techo||S|let|C1
+die Ausbausprache|lengua elaborada||S|let|C1
+die Koine|koiné||S|let|C1
+der Lautwandel|cambio fonético||S|let|C1
+die Hypotaxe|hipotaxis||S|let|C1
+die Parataxe|parataxis||S|let|C1
+die Suppletion|supletismo||S|let|C1
+die Überlieferungslage|estado de la transmisión||S|stu|C1
+die Mentalitätengeschichte|historia de las mentalidades||S|stu|C1
+die Begriffsgeschichte|historia conceptual||S|stu|C1
+der Epochenumbruch|cambio de época||S|tmp|C1

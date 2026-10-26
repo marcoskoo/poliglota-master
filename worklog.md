@@ -2851,3 +2851,19 @@ Work Log:
 - en-c1-07-p*.txt: 367 entradas tras limpieza · awk OK · dup OK
 Stage Summary:
 - en-c1-07: 367 entradas C1 inglés
+---
+Task ID: v9.43/r2/pt-b1-01-topup
+Agent: subagent
+Task: top-up PT B1 pt-b1-01
+Work Log:
+- pt-b1-01-p*.txt: 544 entradas totales tras limpieza · awk OK · dup OK
+Stage Summary:
+- pt-b1-01 completo: 544 entradas B1 portugués
+---
+Task ID: v9.43/r2/de-c1-14-topup
+Agent: subagent
+Task: top-up DE C1 de-c1-14
+Work Log:
+- de-c1-14-p*.txt: 804 entradas totales tras limpieza · awk OK · dup OK
+Stage Summary:
+- de-c1-14 completo: 804 entradas C1 alemán

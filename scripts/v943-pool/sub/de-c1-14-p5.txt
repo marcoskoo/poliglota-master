@@ -1,0 +1,62 @@
+die Stentimplantation|implantación de stent||S|sla|C1
+die Bypassoperation|cirugía de bypass||S|sla|C1
+die Koronarangiografie|coronariografía||S|sla|C1
+das Belastungs-EKG|prueba de esfuerzo||S|sla|C1
+die Auswurffraktion|fracción de eyección||S|sla|C1
+die pulmonale Hypertonie|hipertensión pulmonar||L|sla|C1
+die Atemgasanalyse|análisis de gases respiratorios||S|sla|C1
+der Bronchialspasmus|broncoespasmo||S|sla|C1
+die Lungenfunktionsprüfung|prueba de función respiratoria||S|sla|C1
+der Diabetesfolgeschaden|complicación diabética crónica||S|sla|C1
+das Kontaktekzem|eccema de contacto||S|sla|C1
+die Hyposensibilisierung|inmunoterapia con alérgenos||S|sla|C1
+der Nävus|nevus||S|sla|C1
+die Narbenkorrektur|corrección de cicatrices||S|sla|C1
+das Dekubitalgeschwür|úlcera por presión||S|sla|C1
+die palliative Sedierung|sedación paliativa||L|sla|C1
+der Bestrahlungsplan|plan de radioterapia||S|sla|C1
+die Chemoresistenz|quimiorresistencia||S|sla|C1
+die Zytostatika|citostáticos||S|sla|C1
+die Feinnadelpunktion|punción con aguja fina||S|sla|C1
+die Hirnhautentzündung|meningitis||S|sla|C1
+das Hirnödem|edema cerebral||S|sla|C1
+der Insult|ictus||S|sla|C1
+die Demenzdiagnostik|diagnóstico de demencia||S|sla|C1
+die Gangstörung|trastorno de la marcha||S|sla|C1
+der Ruhetremor|temblor de reposo||S|sla|C1
+der Muskeleigenreflex|reflejo osteotendinoso||S|sla|C1
+die Nervenleitungsgeschwindigkeit|velocidad de conducción nerviosa||S|sla|C1
+die Somnolenz|somnolencia patológica||S|sla|C1
+der Wachkoma|estado vegetativo||S|sla|C1
+die Kindervorsorgeuntersuchung|exploración pediátrica preventiva||S|sla|C1
+die Pubertätsentwicklung|desarrollo puberal||S|sla|C1
+die Impfreaktion|reacción vacunal||S|sla|C1
+die Reproduktionsmedizin|medicina reproductiva||S|sla|C1
+die Samenspende|donación de semen||S|sla|C1
+die Narkoseeinleitung|inducción anestésica||S|sla|C1
+die Vollnarkose|anestesia general||S|sla|C1
+die Regionalanästhesie|anestesia regional||S|sla|C1
+der Beatmungsschlauch|tubo de ventilación||S|sla|C1
+die Nahtentfernung|retirada de puntos de sutura||S|sla|C1
+der Röntgenbefund|informe radiológico||S|sla|C1
+die Müttersterblichkeit|mortalidad materna||S|sla|C1
+die Schmerzstillung|analgésia||S|sla|C1
+der Bereitschaftsdienst|guardia médica||S|sla|C1
+die ambulante Pflege|atención sanitaria domiciliaria||L|sla|C1
+die Dosis-Wirkungs-Beziehung|relación dosis-efecto||S|sla|C1
+die Nachbeobachtung|periodo de seguimiento||S|sla|C1
+der Blutspiegel|concentración plasmática del fármaco||S|sla|C1
+die Körperdysmorphie|dismorfofobia||S|sla|C1
+die Derealisation|desrealización||S|sla|C1
+die Resilienzforschung|investigación sobre la resiliencia||S|sla|C1
+die Achtsamkeitsmeditation|meditación de atención plena||S|sla|C1
+die Psychodynamik|psicodinámica||S|sla|C1
+die narzisstische Kränkung|herida narcisista||L|sla|C1
+die postmortale Organspende|donación de órganos post mortem||L|sla|C1
+die Offenmarktoperation|operación de mercado abierto||S|fin|C1
+die Mindestreserve|coeficiente de reservas mínimas||S|fin|C1
+die Deflationsspirale|espiral deflacionaria||S|fin|C1
+der Antidumpingzoll|arancel antidumping||S|fin|C1
+der Schutzzoll|arancel protector||S|fin|C1
+die Devisenkontrolle|control de cambios||S|fin|C1
+der Freiverkehr|mercado bursátil continuo||S|fin|C1
