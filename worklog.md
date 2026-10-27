@@ -2877,3 +2877,20 @@ Work Log:
 
 Stage Summary:
 - v9.44 DESPLEGADA (commit 614c888): 84.748 lemas totales — IT 17.489 · EN 16.706 · PT 16.620 · FR 17.659 · DE 16.274. TODAS las lenguas superan 16.000 (=requisito CEFR C2) y todas las bandas A1→C1 cumplen los mínimos acumulados (500/1000/2000/4000/8000) con margen; C2 entre 4.403 y 5.217 por lengua. Meta 80.000 superada: +27.748 netas sobre v9.43 (57.000).
+
+---
+Task ID: v9.44-recon
+Agent: main (Super Z)
+Task: Continuar con lo pendiente — verificar/restaurar v9.44 tras rollback del sandbox y auditar frentes pendientes restantes
+
+Work Log:
+- Diagnóstico: el .git local fue rebobinado a e763891 (v9.43 r2 oleada 4) y el commit 614c888 (v9.44) no existía en la base de objetos local, PERO el working tree conservaba íntegro el contenido v9.44 (SW im-v9-44-0; bloques IT 11/EN 18/PT 22/FR 24/DE 22 + hubs) y el remoto GitHub conservaba la cadena completa (614c888 → 17a08c0 → fd9bec0).
+- Conteo con scripts/dict-count.ts sobre el árbol restaurado: IT 17.489 · EN 16.691 · PT 16.614 · FR 17.651 · DE 16.274 = 84.719 lemas (worklog previo reportó 84.748; diferencia de 29 por dedup normKey en el conteo). TODAS >16.000 y todas las bandas acumuladas CEFR A1→C1 cumplen los mínimos (500/1000/2000/4000/8000): peor caso A1+A2 DE 1.176, →B1 peor 3.550, →B2 peor 6.704, →C1 peor 11.738.
+- Validación: tsc 77 errores < baseline 81 (0 nuevos); next build OK (rutas completas, dynamic proxy OK); diff HEAD↔origin/main en src/ public/ worklog.md upload/ = vacío (contenido idéntico; el remoto además incluye scripts/v943-pool/tmp-* que el .gitignore local excluía).
+- git reset --hard origin/main → local realineado con la cadena v9.44 completa (HEAD=fd9bec0). Push no requerido (local era subconjunto del remoto). Commit local redundante 4d3d29d quedó colgante sin pérdida.
+- Producción verificada: https://poliglota-master.vercel.app/sw.js sirve im-v9-44-0, / responde 200; capturas E2E de producción del commit fd9bec0 confirman IT 17.485 voci, FR 17.624 entrées y búsquedas C2 OK.
+- Auditoría de frentes pendientes heredados (todos RESUELTOS en versiones ya desplegadas): Tutor IA multilingüe (v9.39, bug resuelto) · 90 noticias VOA/lengua ×5 = 450 con 450/450 imágenes webp en public/news (verificado por script) · conjugador/números/skills/situaciones/cultura/shadowing/pronunciación/test/vocabulario/gramática/juegos unificados multilingües (v9.39) · capa deep: 24 archivos deep-*.ts por lengua + 6 grammar-deep · cobertura fotográfica: 468 referencias literales con 0 faltantes (nuevo script scripts/verify-img-coverage.ts), familias dinámicas completas, 36,8 MB images + 30,6 MB news.
+- Huérfano detectado: public/italia.svg (465 B, sin referencias, reemplazado por logo.svg en v9.32) — dejado sin trackear, no afecta al despliegue.
+
+Stage Summary:
+- v9.44 CONFIRMADA COMPLETA Y DESPLEGADA: 84.719 lemas en 5 lenguas (todas >16.000 = requisito CEFR C2), bandas A1→C1 al 100%, producción sirviendo im-v9-44-0 con E2E previo en verde. Git local reconciliado con remoto (HEAD=fd9bec0). NO QUEDAN FRENTES PENDIENTES del lote original de 10 ni de los heredados (tutor/VOA/conjugador/deep/fotos): todo verificado en repo y producción. La meta de vocabulario CEFR 16.000/lengua está CERRADA.
