@@ -2966,3 +2966,4 @@ Work Log:
 
 Stage Summary:
 - v9.45 DESPLEGADA: los cuadros del Quadro MCER/CEFR/CECRL/GER muestran vocabulario y lecturas clásicas reales en las 5 lenguas — vocabulario por nivel con dedup (todas las bandas >0, C2 entre 4.401 y 5.216) y 96 lecturas clásicas nuevas (24/lengua, 4 por nivel A1→C2 cada una) que se suman a las 58 italianas históricas = 154 lecturas clásicas totales. La vista Readings ya no se oculta en EN/PT/FR/DE: cada lengua tiene su biblioteca con categorías localizadas, TTS en su idioma y UI traducida. Coste 0 €.
+- Verificación de producción (poliglota-master.vercel.app): SW im-v9-45-0 activo; CEFR framework EN con chip «16,691 English dictionary entries» y tabla vocab 769/847/2.179/3.304/4.805/4.787 + clásicas 4/nivel; Lectures FR «24 lectures disponibles». Captura: upload/v945-prod-fr-lectures.png.
