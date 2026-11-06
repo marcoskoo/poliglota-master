@@ -146,6 +146,10 @@ export function italianVoiceCount() {
 export function voiceCountFor(lang: LangCode) {
   return pools.get(lang)?.length ?? 0;
 }
+/** v9.45 · hay voz disponible para la lengua de estudio */
+export function hasVoiceFor(lang: LangCode) {
+  return (defaults.get(lang) ?? null) !== null;
+}
 export function defaultVoiceFor(lang: LangCode) {
   return defaults.get(lang) ?? null;
 }

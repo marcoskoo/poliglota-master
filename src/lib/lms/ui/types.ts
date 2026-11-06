@@ -206,6 +206,26 @@ export interface UiQuadroStrings {
   backToPath: string;
 }
 
+/* ═══ v9.45 · Vista Letture multilingüe (biblioteca clásica) ═══════ */
+export interface UiLettureStrings {
+  all: string;                       // filtro "todas las categorías"
+  levelsAll: string;                 // etiqueta del filtro de nivel (MCER/CEFR…)
+  countLine: (n: number) => string;  // "n letture disponibles · audio…"
+  meta: (n: number, dialogue: boolean, minutes: number, questions: number) => string;
+  mindTitle: string; mindBadge: string; mindDesc: string; explore: string;
+  backToList: string; backToText: string;
+  listenAll: string; stop: string; speedAria: string; subsLabel: string;
+  playPara: (i: number) => string; stopPara: (i: number) => string;
+  playLine: (speaker: string) => string; stopLine: (speaker: string) => string;
+  voiceWarning: string;
+  glossary: string; listenPron: string;
+  quizButton: (n: number) => string;
+  comprehension: (title: string) => string; quizLabel: (title: string) => string;
+  completed: (score: number, total: number, coins: number) => string; afterQuiz: string;
+  discussTitle: string; discussIntro: string; discussWithTutor: string;
+  doneTitle: string;
+}
+
 /* ═══ v9.19 · Lookups de datos compartidos entre vistas ═════════════
    Los datos de gamificación (logros, ligas, temas…) viven en módulos
    lib con valores históricos. El render usa u.data.X[key] ?? fallback:
@@ -737,6 +757,7 @@ export interface UiStrings {
   cloze: UiClozeStrings;
   mind: UiMindStrings;
   quadro: UiQuadroStrings;
+  letture: UiLettureStrings;
   /** v9.19 · interiores de las vistas de herramientas */
   data: UiDataStrings;
   plan: UiPlanStrings;

@@ -12,11 +12,11 @@ import {
 import { CAMBRIDGE, CB_LEVEL_OF } from "@/lib/lms/cambridge";
 import { langContent, levelOfUnit } from "@/lib/lms/lang";
 import { CERTS_BY_LANG, LANGS, SHIPPED_LEVELS, langOfId } from "@/lib/lms/languages";
-import { dictCountFor } from "@/lib/lms/dict/active";
+import { vocabFor } from "@/lib/lms/lang-extras";
+import { lettureFor } from "@/lib/lms/letture-lang";
+import { normKey } from "@/lib/lms/dict/mega-parse";
 import type { LangCode } from "@/lib/lms/types";
 import { GRAMMAR } from "@/lib/lms/grammar";
-import { VOCAB } from "@/lib/lms/vocabulary";
-import { LETTURE } from "@/lib/lms/letture";
 import { MIND_LIBRARY, mindLevel } from "@/lib/lms/extra/readings-mind";
 import { CB_CLOZE } from "@/lib/lms/extra/readings-cloze";
 import { useLms } from "@/lib/lms/store";
@@ -68,8 +68,9 @@ export function QuadroView() {
   const navigate = useLms((s) => s.navigate);
   const [gridLang, setGridLang] = useState<"es" | "it">("es");
 
-  /* ── cobertura real de la app por nivel MCER ── */
-  const coverage = useMemo(() => {
+  /* ── cobertura real de la app por nivel MCER (v9.45: vocabulario y
+     lecturas clásicas de la lengua activa en las 5 lenguas) ── */
+  const coverageData = useMemo(() => {
     const content = langContent(activeLang);
     const clozeAll = content?.cloze ?? {};
     const clozeByLevel: Record<string, number> = {};
@@ -78,7 +79,20 @@ export function QuadroView() {
       clozeByLevel[lv] = (clozeByLevel[lv] ?? 0) + texts.length;
     }
     const mindEntries = Object.entries(content?.mind ?? {}).flatMap(([unitId, rs]) => rs.map((r) => ({ unitId, reading: r })));
-    return CEFR_LEVELS.map((l) => {
+    /* lemas por nivel de la lengua activa (VOCAB ∪ DICT, dedup por normKey) */
+    const vocabByLevel: Record<string, number> = {};
+    const vocabSeen = new Set<string>();
+    let vocabTotal = 0;
+    for (const w of vocabFor(activeLang)) {
+      const k = normKey(w.it);
+      if (vocabSeen.has(k)) continue;
+      vocabSeen.add(k);
+      vocabTotal += 1;
+      vocabByLevel[w.level] = (vocabByLevel[w.level] ?? 0) + 1;
+    }
+    /* biblioteca clásica de la lengua activa (IT 58 · EN/PT/FR/DE 24) */
+    const classicList = lettureFor(activeLang);
+    const rows = CEFR_LEVELS.map((l) => {
       const units = (content?.courses ?? CAMBRIDGE).find((c) => c.level === l)?.units ?? [];
       const unitsDone = units.filter((u) => cambridgeProgress[u.id]?.done).length;
       return {
@@ -86,21 +100,20 @@ export function QuadroView() {
         units: units.length,
         unitsDone,
         grammar: activeLang === "it" ? GRAMMAR.filter((g) => g.level === l).length : Object.values(content?.deep ?? {}).length,
-        vocab: activeLang === "it" ? VOCAB.filter((w) => w.level === l).length : 0,
-        letture: activeLang === "it" ? LETTURE.filter((t) => t.level === l).length : 0,
+        vocab: vocabByLevel[l] ?? 0,
+        letture: classicList.filter((t) => t.level === l).length,
         mind: mindEntries.filter((e) => (levelOfUnit(e.unitId) ?? "A1") === l).length,
         cloze: clozeByLevel[l] ?? 0,
         cando: units.reduce((n, u) => n + u.cando.length, 0),
       };
     });
+    return { rows, vocabTotal };
   }, [cambridgeProgress, activeLang]);
+  const coverage = coverageData.rows;
 
   const totalCandoDone = Object.keys(candoDone).length;
-  /* lemas del diccionario de la lengua activa (hover) — v9.24: despacho
-     central con FR_DICT y DE_DICT; it conserva VOCAB histórico */
-  const covVocabCount = activeLang === "it"
-    ? VOCAB.length
-    : dictCountFor(activeLang);
+  /* lemas totales de la lengua activa (dedup VOCAB ∪ DICT) — hero chip */
+  const covVocabCount = coverageData.vocabTotal;
 
   /* ── nivel sugerido por la griglia (mediana conservadora) ── */
   const filled = CEFR_GRID.map((r) => langSelf[r.key]).filter(Boolean) as CefrLevel[];
@@ -340,7 +353,7 @@ export function QuadroView() {
                 <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 font-mono text-[11px] font-bold text-muted-it">
                   <span>{cov.units} {u.quadro.covUnits}</span>
                   <span>{cov.grammar} {u.quadro.covGrammar}</span>
-                  <span>{(activeLang === "it" ? cov.vocab : covVocabCount).toLocaleString(activeLang === "en" ? "en-US" : activeLang === "pt" ? "pt-PT" : "it-IT")} {u.quadro.covEntries}</span>
+                  <span>{cov.vocab.toLocaleString(activeLang === "en" ? "en-US" : activeLang === "pt" ? "pt-PT" : "it-IT")} {u.quadro.covEntries}</span>
                   <span>{cov.letture + cov.mind} {u.quadro.covReadings}</span>
                   {mine && <span className="text-verde-scuro dark:text-verde">{u.quadro.covDone(cov.unitsDone, cov.units)}</span>}
                 </div>

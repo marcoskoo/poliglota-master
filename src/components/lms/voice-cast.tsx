@@ -11,6 +11,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { Mic, Pause, Play } from "lucide-react";
 import { buildCast, onVoices, speak, type SpeakerVoice } from "@/lib/lms/tts";
+import type { LangCode } from "@/lib/lms/types";
 import { useLms } from "@/lib/lms/store";
 import { cn } from "@/lib/utils";
 
@@ -42,17 +43,18 @@ export function uniqueSpeakers(lines: { speaker?: string }[]): string[] {
   return out;
 }
 
-/** Asigna voces TTS a los personajes; se recalcula cuando cargan las voces del navegador. */
-export function useVoiceCast(lines: { speaker?: string }[]): Record<string, SpeakerVoice> {
+/** Asigna voces TTS a los personajes; se recalcula cuando cargan las voces del navegador.
+ *  v9.45 · lang opcional: voces de la lengua de estudio (it por defecto). */
+export function useVoiceCast(lines: { speaker?: string }[], lang: LangCode = "it"): Record<string, SpeakerVoice> {
   const speakers = useMemo(() => uniqueSpeakers(lines), [lines]);
   const key = speakers.join("¦");
-  const [cast, setCast] = useState<Record<string, SpeakerVoice>>(() => buildCast(speakers));
+  const [cast, setCast] = useState<Record<string, SpeakerVoice>>(() => buildCast(speakers, lang));
   useEffect(() => {
-    const upd = () => setCast(buildCast(key ? key.split("¦") : []));
+    const upd = () => setCast(buildCast(key ? key.split("¦") : [], lang));
     upd();
     const off = onVoices(upd);
     return () => { off(); };
-  }, [key]);
+  }, [key, lang]);
   return cast;
 }
 

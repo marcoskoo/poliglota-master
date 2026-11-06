@@ -1,27 +1,32 @@
 "use client";
 
-/* ── Letture & Storia (v9.0) ──────────────────────────────────────────
-   Biblioteca de lecturas largas con:
+/* ── Letture & Storia (v9.0) · multilingüe (v9.45) ───────────────────
+   Biblioteca de lecturas largas por lengua de estudio:
    · audio TTS sincronizado: párrafo activo resaltado + auto-scroll
    · velocidad ajustable y subtítulos ES conmutables
    · comprensión lectora (QuizEngine) con recompensas
-   · idee per discutir con deep-link al Tutor IA               */
+   · idee per discutir con deep-link al Tutor IA
+   v9.45: cada lengua tiene su biblioteca clásica propia (lettureFor):
+   IT 58 históricas + EN/PT/FR/DE 24 nuevas (A1→C2) con categorías
+   localizadas, voces TTS de la lengua activa y UI traducida.        */
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { motion } from "framer-motion";
 import { ArrowLeft, BookOpen, Check, Coins, Lightbulb, ListFilter, MessageCircle, Pause, Play, Square, Volume2 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useLms } from "@/lib/lms/store";
-import { speak, stopSpeaking, hasItalianVoice, onVoices } from "@/lib/lms/tts";
+import { speak, stopSpeaking, hasVoiceFor, onVoices } from "@/lib/lms/tts";
 import { useVoiceCast, SpeakerAvatar, SpeakerChip, VoiceCastNote, speakerIndexMap, uniqueSpeakers } from "../voice-cast";
-import { LETTURE, LETTURE_CATS, LETTURE_BY_ID, LETTURE_IMG, letturaExercises, type Lettura, type LetturaCat } from "@/lib/lms/letture";
+import { LETTURE_IMG, letturaExercises, type Lettura, type LetturaCat } from "@/lib/lms/letture";
+import { lettureFor, lettureByIdFor, lettureCatsFor } from "@/lib/lms/letture-lang";
 import { tutorFor } from "@/lib/lms/tutor-persona";
-import type { CefrLevel } from "@/lib/lms/types";
+import type { CefrLevel, LangCode } from "@/lib/lms/types";
 import { QuizEngine } from "../quiz-engine";
 import { VoiceHint } from "../audio-button";
 import { Mascot } from "../mascot";
 import { HoverWords } from "../hover-words";
 import { MindCollection } from "../mind-library";
+import { useUi } from "@/lib/lms/ui";
 
 const LEVELS: (CefrLevel | "tutti")[] = ["tutti", "A1", "A2", "B1", "B2", "C1", "C2"];
 const RATES = [0.75, 0.9, 1, 1.2];
@@ -38,26 +43,28 @@ export function LettureView() {
   const [cat, setCat] = useState<LetturaCat | "tutte">("tutte");
   const [level, setLevel] = useState<CefrLevel | "tutti">("tutti");
   /* v9.14: modo biblioteca clásica o colección Meditazione e consapevolezza
-     v9.17: en lenguas ≠ it la biblioteca clásica (italiana) se oculta:
-     la colección temática de la lengua activa es la vista por defecto. */
-  const activeLang0 = (useLms.getState().activeLang ?? "it") as import("@/lib/lms/types").LangCode;
+     v9.45: cada lengua tiene biblioteca clásica propia → «libri» por
+     defecto también en EN/PT/FR/DE. */
+  const activeLang0 = (useLms.getState().activeLang ?? "it") as LangCode;
   const [collection, setCollection] = useState<"libri" | "mente">(() =>
-    useLms.getState().navParams.mindId ? "mente" : activeLang0 === "it" ? "libri" : "mente"
+    useLms.getState().navParams.mindId ? "mente" : "libri"
   );
-  const activeLang = useLms((s) => s.activeLang) as import("@/lib/lms/types").LangCode;
+  const activeLang = useLms((s) => s.activeLang) as LangCode;
+  const u = useUi();
   // deep-link inicial (navParams.letturaId): la vista se monta ya en la lettura pedida
   const [openId, setOpenId] = useState<string | null>(() => {
     const p = useLms.getState().navParams.letturaId;
-    return p && LETTURE_BY_ID[p] ? p : null;
+    return p && lettureByIdFor(activeLang0)[p] ? p : null;
   });
 
   const readingsRead = useLms((s) => s.readingsRead);
 
-  const texts = useMemo(
-    () => LETTURE.filter((t) => (cat === "tutte" || t.cat === cat) && (level === "tutti" || t.level === level)),
-    [cat, level]
-  );
-  const text = openId ? LETTURE_BY_ID[openId] : null;
+  const texts = useMemo(() => {
+    const lib = lettureFor(activeLang);
+    return lib.filter((t) => (cat === "tutte" || t.cat === cat) && (level === "tutti" || t.level === level));
+  }, [cat, level, activeLang]);
+  const text = openId ? lettureByIdFor(activeLang)[openId] ?? null : null;
+  const cats = lettureCatsFor(activeLang);
 
   if (text) return <Reader key={text.id} text={text} onBack={() => setOpenId(null)} />;
 
@@ -65,7 +72,7 @@ export function LettureView() {
     return (
       <div className="space-y-6">
         <VoiceHint lang={activeLang} />
-        <MindCollection initialId={useLms.getState().navParams.mindId} onBack={() => setCollection(activeLang === "it" ? "libri" : "mente")} />
+        <MindCollection initialId={useLms.getState().navParams.mindId} onBack={() => setCollection("libri")} />
       </div>
     );
   }
@@ -82,24 +89,24 @@ export function LettureView() {
         <span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl bg-surface text-2xl shadow-sm">🧘</span>
         <span className="min-w-0 flex-1">
           <span className="flex flex-wrap items-center gap-2 font-display text-base font-bold">
-            Meditazione e consapevolezza
-            <span className="rounded-full bg-oro px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-white">colección por lengua</span>
+            {u.letture.mindTitle}
+            <span className="rounded-full bg-oro px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-white">{u.letture.mindBadge}</span>
           </span>
           <span className="mt-0.5 block text-sm leading-relaxed text-muted-it">
-            Meditación, espiritualidad, aquí y ahora, relajación física y mental · A1–C2 · 7 estrategias de comprensión · traducción al pasar el cursor
+            {u.letture.mindDesc}
           </span>
         </span>
         <span className="shrink-0 rounded-xl bg-verde px-4 py-2.5 text-xs font-bold text-white shadow-md shadow-verde/25 transition-transform group-hover:scale-105">
-          Esplora
+          {u.letture.explore}
         </span>
       </button>
 
       {/* filtros por categoría */}
       <div className="flex flex-wrap gap-2">
-        <FilterChip active={cat === "tutte"} onClick={() => setCat("tutte")}>Tutte</FilterChip>
-        {(Object.keys(LETTURE_CATS) as LetturaCat[]).map((c) => (
+        <FilterChip active={cat === "tutte"} onClick={() => setCat("tutte")}>{u.letture.all}</FilterChip>
+        {(Object.keys(cats) as LetturaCat[]).map((c) => (
           <FilterChip key={c} active={cat === c} onClick={() => setCat(c)}>
-            {LETTURE_CATS[c].emoji} {LETTURE_CATS[c].label}
+            {cats[c].emoji} {cats[c].label}
           </FilterChip>
         ))}
       </div>
@@ -107,14 +114,14 @@ export function LettureView() {
       <div className="flex flex-wrap gap-2">
         {LEVELS.map((l) => (
           <FilterChip key={l} active={level === l} onClick={() => setLevel(l)} small>
-            {l === "tutti" ? "MCER" : l}
+            {l === "tutti" ? u.letture.levelsAll : l}
           </FilterChip>
         ))}
       </div>
 
       <p className="text-sm text-muted-it">
         <ListFilter className="mr-1 inline h-4 w-4" aria-hidden="true" />
-        {texts.length} letture disponibles · audio sincronizado con resaltado · comprensión y debate incluidos
+        {u.letture.countLine(texts.length)}
       </p>
 
       <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
@@ -144,13 +151,13 @@ export function LettureView() {
               )}
               <div className={cn("p-5", img && "pt-4")}>
               {done && (
-                <span className="absolute right-3 top-3 flex h-7 w-7 items-center justify-center rounded-full bg-verde text-white shadow-md" title="Completata">
+                <span className="absolute right-3 top-3 flex h-7 w-7 items-center justify-center rounded-full bg-verde text-white shadow-md" title={u.letture.doneTitle}>
                   <Check className="h-4 w-4" aria-hidden="true" />
                 </span>
               )}
               <div className="flex items-center justify-between gap-2">
                 <span className={cn("rounded-full border px-2.5 py-1 text-[10px] font-bold uppercase", CAT_STYLES[t.cat])}>
-                  {LETTURE_CATS[t.cat].emoji} {LETTURE_CATS[t.cat].label}
+                  {cats[t.cat].emoji} {cats[t.cat].label}
                 </span>
                 <span className="rounded-full bg-inchiostro/5 px-2.5 py-1 font-mono text-[10px] font-bold uppercase text-muted-it dark:bg-inchiostro/15">
                   {t.level}
@@ -159,7 +166,7 @@ export function LettureView() {
               <p className="mt-3.5 font-display text-lg font-semibold leading-snug">{t.title}</p>
               <p className="mt-1 text-sm italic text-muted-it">{t.titleEs}</p>
               <p className="mt-2.5 text-xs text-muted-it">
-                {t.lines.length} {t.cat === "dialoghi" ? "battute" : "paragrafi"} · {t.minutes} min · {t.questions.length} domande
+                {u.letture.meta(t.lines.length, t.cat === "dialoghi", t.minutes, t.questions.length)}
               </p>
               </div>
             </motion.button>
@@ -194,7 +201,8 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
   const trackQuest = useLms((s) => s.trackQuest);
   const markReadingDone = useLms((s) => s.markReadingDone);
   const navigate = useLms((s) => s.navigate);
-  const activeLang = useLms((s) => s.activeLang) as import("@/lib/lms/types").LangCode;
+  const activeLang = useLms((s) => s.activeLang) as LangCode;
+  const u = useUi();
 
   const [rate, setRate] = useState(RATES.includes(settingsRate) ? settingsRate : 0.9);
   const [subs, setSubs] = useState(settingsSubs);
@@ -208,17 +216,18 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
   const lineRefs = useRef<(HTMLDivElement | null)[]>([]);
   const [voiceOk, setVoiceOk] = useState(true);
 
-  /* reparto de voces por personaje (v9.1): cada hablante con su propia voz TTS */
+  /* reparto de voces por personaje (v9.1): cada hablante con su propia voz TTS
+     v9.45: voces de la lengua de estudio activa */
   const speakers = useMemo(() => uniqueSpeakers(text.lines), [text.lines]);
-  const cast = useVoiceCast(text.lines);
+  const cast = useVoiceCast(text.lines, activeLang);
   const sIdx = useMemo(() => speakerIndexMap(text.lines.map((l) => l.speaker)), [text.lines]);
 
   useEffect(() => {
-    const upd = () => setVoiceOk(hasItalianVoice() || typeof window === "undefined");
+    const upd = () => setVoiceOk(hasVoiceFor(activeLang) || typeof window === "undefined");
     upd();
     const off = onVoices(upd);
     return () => { off(); };
-  }, []);
+  }, [activeLang]);
 
   const stopAll = useCallback(() => {
     cancelRef.current?.();
@@ -249,13 +258,14 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
         rate: rate * (p?.rateFactor ?? 1),
         pitch: p?.pitch ?? 1,
         voice: p?.voice ?? null,
+        lang: activeLang,
         onEnd: () => setTimeout(next, text.cat === "dialoghi" ? 420 : 320),
       });
     };
     setPlaying(true);
     next();
     cancelRef.current = () => { cancelRef.current = null; stopSpeaking(); };
-  }, [text.lines, text.cat, rate, trackQuest, cast]);
+  }, [text.lines, text.cat, rate, trackQuest, cast, activeLang]);
 
   /* reproducir una sola battuta (con la voz de su personaje) */
   const playLine = useCallback((idx: number) => {
@@ -268,9 +278,10 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
       rate: rate * (p?.rateFactor ?? 1),
       pitch: p?.pitch ?? 1,
       voice: p?.voice ?? null,
+      lang: activeLang,
       onEnd: () => { setLinePlaying(null); setActiveIdx(null); },
     });
-  }, [text.lines, rate, trackQuest, cast]);
+  }, [text.lines, rate, trackQuest, cast, activeLang]);
 
   const onFinishQuiz = useCallback((score: number, total: number) => {
     const r = markReadingDone(text.id);
@@ -282,13 +293,13 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
     return (
       <div>
         <button onClick={() => setQuizOpen(false)} className="mb-5 inline-flex min-h-11 items-center gap-2 text-sm font-bold text-muted-it transition-colors hover:text-verde">
-          <ArrowLeft className="h-4 w-4" aria-hidden="true" /> Torna al testo
+          <ArrowLeft className="h-4 w-4" aria-hidden="true" /> {u.letture.backToText}
         </button>
         <QuizEngine
           exercises={letturaExercises(text)}
-          title={`Comprensione · ${text.title}`}
+          title={u.letture.comprehension(text.title)}
           kind="prueba"
-          label={`Lettura: ${text.title}`}
+          label={u.letture.quizLabel(text.title)}
           skill="lettura"
           xpPerCorrect={12}
           onFinish={onFinishQuiz}
@@ -298,11 +309,11 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
             {/* v9.34 · Pappagallo celebra la lectura completada */}
             <Mascot pose="party" className="mx-auto h-16 w-16" />
             <p className="mt-2 font-display text-lg font-bold">
-              {result.score}/{result.total} · Lettura completata! {result.coins > 0 ? <>+{result.coins} <Coins className="inline h-4 w-4 text-oro" aria-hidden="true" /></> : null}
+              {u.letture.completed(result.score, result.total, result.coins)} {result.coins > 0 ? <Coins className="inline h-4 w-4 text-oro" aria-hidden="true" /> : null}
             </p>
-            <p className="mt-1 text-sm text-muted-it">Rileggi il testo o continua con le idee per discutere qui sotto.</p>
+            <p className="mt-1 text-sm text-muted-it">{u.letture.afterQuiz}</p>
             <button onClick={() => setQuizOpen(false)} className="mt-3 rounded-xl bg-verde px-5 py-2.5 text-sm font-bold text-white">
-              Torna al testo
+              {u.letture.backToText}
             </button>
           </div>
         )}
@@ -315,7 +326,7 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
   return (
     <div>
       <button onClick={() => { stopAll(); onBack(); }} className="mb-5 inline-flex min-h-11 items-center gap-2 text-sm font-bold text-muted-it transition-colors hover:text-verde">
-        <ArrowLeft className="h-4 w-4" aria-hidden="true" /> Tutte le letture
+        <ArrowLeft className="h-4 w-4" aria-hidden="true" /> {u.letture.backToList}
       </button>
 
       <article className="overflow-hidden rounded-3xl border border-soft bg-surface">
@@ -331,7 +342,7 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
             <div className="absolute inset-0 bg-gradient-to-t from-black/45 via-transparent to-transparent" aria-hidden="true" />
             <div className="absolute bottom-3 left-4 right-4">
               <span className={cn("rounded-full border bg-surface/90 px-2.5 py-1 text-[10px] font-bold uppercase backdrop-blur", CAT_STYLES[text.cat])}>
-                {LETTURE_CATS[text.cat].emoji} {LETTURE_CATS[text.cat].label}
+                {lettureCatsFor(activeLang)[text.cat].emoji} {lettureCatsFor(activeLang)[text.cat].label}
               </span>
             </div>
           </div>
@@ -342,12 +353,12 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
           <div>
             {!LETTURE_IMG[text.id] && (
               <span className={cn("rounded-full border px-2.5 py-1 text-[10px] font-bold uppercase", CAT_STYLES[text.cat])}>
-                {LETTURE_CATS[text.cat].emoji} {LETTURE_CATS[text.cat].label}
+                {lettureCatsFor(activeLang)[text.cat].emoji} {lettureCatsFor(activeLang)[text.cat].label}
               </span>
             )}
             <h2 className="mt-2.5 font-display text-2xl font-semibold sm:text-3xl">{text.title}</h2>
             <p className="mt-1 text-sm italic text-muted-it">
-              {text.titleEs} · {text.level} · {text.minutes} min · {text.questions.length} domande
+              {text.titleEs} · {u.letture.meta(text.lines.length, isDialogue, text.minutes, text.questions.length)}
             </p>
           </div>
         </div>
@@ -356,14 +367,14 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
         <div className="sticky top-2 z-10 mt-5 flex flex-wrap items-center gap-2 rounded-2xl border border-verde/25 bg-surface/95 p-3 shadow-sm backdrop-blur">
           {!playing ? (
             <button onClick={() => playFrom(0)} className="inline-flex min-h-11 items-center gap-2 rounded-xl bg-verde px-4 py-2.5 text-sm font-bold text-white shadow-md shadow-verde/25 transition-all hover:scale-105">
-              <Play className="h-4 w-4" aria-hidden="true" /> Ascolta tutto
+              <Play className="h-4 w-4" aria-hidden="true" /> {u.letture.listenAll}
             </button>
           ) : (
             <button onClick={stopAll} className="inline-flex min-h-11 items-center gap-2 rounded-xl bg-rosso px-4 py-2.5 text-sm font-bold text-white shadow-md transition-all hover:scale-105">
-              <Square className="h-4 w-4" aria-hidden="true" /> Ferma
+              <Square className="h-4 w-4" aria-hidden="true" /> {u.letture.stop}
             </button>
           )}
-          <div className="flex items-center gap-1" role="group" aria-label="Velocità audio">
+          <div className="flex items-center gap-1" role="group" aria-label={u.letture.speedAria}>
             {RATES.map((r) => (
               <button
                 key={r}
@@ -377,12 +388,12 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
           </div>
           <label className="ml-auto flex cursor-pointer items-center gap-2 text-xs font-semibold text-muted-it">
             <input type="checkbox" checked={subs} onChange={(e) => setSubs(e.target.checked)} className="h-4 w-4 accent-[var(--verde)]" />
-            Traduzione ES
+            {u.letture.subsLabel}
           </label>
         </div>
         {!voiceOk && (
           <p className="mt-2 rounded-xl border border-oro/40 bg-oro-tenue px-4 py-2 text-xs text-oro-scuro dark:text-oro">
-            🔈 Nessuna voce italiana rilevata: l&apos;audio userà la voce disponibile (meglio con Chrome o una voce it-IT installata).
+            {u.letture.voiceWarning}
           </p>
         )}
         {isDialogue && <VoiceCastNote speakers={speakers} cast={cast} className="mt-2" />}
@@ -414,7 +425,7 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
                       else if (playing) { playFrom(i); }
                       else { playLine(i); }
                     }}
-                    aria-label={active ? `Fermare il paragrafo ${i + 1}` : `Ascoltare il paragrafo ${i + 1}`}
+                    aria-label={active ? u.letture.stopPara(i) : u.letture.playPara(i)}
                     className={cn(
                       "mt-0.5 inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-full border transition-all",
                       active
@@ -436,7 +447,7 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
                             else if (playing) { playFrom(i); }
                             else { playLine(i); }
                           }}
-                          aria-label={active ? `Fermare la battuta di ${l.speaker}` : `Ascoltare la battuta di ${l.speaker}`}
+                          aria-label={active ? u.letture.stopLine(l.speaker ?? "") : u.letture.playLine(l.speaker ?? "")}
                           className={cn(
                             "inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-full border transition-all",
                             active
@@ -448,7 +459,7 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
                         </button>
                       </div>
                     )}
-                    <p className={cn("leading-[1.85] transition-colors", active ? "text-lg font-medium text-inchiostro dark:text-surface" : "text-lg")}><HoverWords text={l.it} /></p>
+                    <p className={cn("leading-[1.85] transition-colors", active ? "text-lg font-medium text-inchiostro dark:text-surface" : "text-lg")}><HoverWords text={l.it} lang={activeLang} /></p>
                     {subs && <p className="mt-1 text-sm italic text-muted-it">{l.es}</p>}
                   </div>
                 </div>
@@ -459,14 +470,14 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
 
         {/* glosario */}
         <div className="mt-6 rounded-2xl bg-crema-scura p-5 dark:bg-inchiostro/10">
-          <p className="mb-3 text-xs font-bold uppercase tracking-widest text-muted-it">Glossario</p>
+          <p className="mb-3 text-xs font-bold uppercase tracking-widest text-muted-it">{u.letture.glossary}</p>
           <div className="flex flex-wrap gap-2">
             {text.glossary.map((g, i) => (
               <button
                 key={i}
-                onClick={() => { trackQuest("listen"); speak(g.it, { rate }); }}
+                onClick={() => { trackQuest("listen"); speak(g.it, { rate, lang: activeLang }); }}
                 className="group inline-flex items-center gap-1.5 rounded-full border border-verde/25 bg-surface px-3 py-1.5 text-xs font-semibold transition-all hover:border-verde/60"
-                title="Ascolta la pronuncia"
+                title={u.letture.listenPron}
               >
                 <Volume2 className="h-3 w-3 text-verde opacity-60 group-hover:opacity-100" aria-hidden="true" />
                 <span className="font-display italic">{g.it}</span> · {g.es}
@@ -480,7 +491,7 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
           onClick={() => { stopAll(); setQuizOpen(true); }}
           className="mt-6 inline-flex min-h-12 w-full items-center justify-center gap-2 rounded-2xl bg-verde px-6 py-3 font-bold text-white shadow-lg shadow-verde/25 transition-all hover:scale-[1.01]"
         >
-          <BookOpen className="h-4 w-4" aria-hidden="true" /> Rispondi alle domande ({text.questions.length}) · +12 XP per risposta
+          <BookOpen className="h-4 w-4" aria-hidden="true" /> {u.letture.quizButton(text.questions.length)}
         </button>
         </div>
       </article>
@@ -488,10 +499,10 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
       {/* debate */}
       <section className="mt-6 rounded-3xl border border-oro/30 bg-oro-tenue/50 p-6 dark:bg-oro-tenue/20">
         <h3 className="flex items-center gap-2 font-display text-xl font-semibold">
-          <Lightbulb className="h-5 w-5 text-oro-scuro dark:text-oro" aria-hidden="true" /> Idee per discutere
+          <Lightbulb className="h-5 w-5 text-oro-scuro dark:text-oro" aria-hidden="true" /> {u.letture.discussTitle}
         </h3>
         <p className="mt-1.5 text-sm text-muted-it">
-          Usa estas preguntas para pensar, escribir o hablar. Cada idea puede abrirse directamente en el Tutor IA.
+          {u.letture.discussIntro}
         </p>
         <div className="mt-4 space-y-2.5">
           {text.discuss.map((d, i) => (
@@ -505,7 +516,7 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
                 onClick={() => navigate("tutor", { tutorSeed: tutorFor(activeLang).seedFromReading(d.it, text.level) })}
                 className="mt-2.5 ml-8.5 inline-flex min-h-9 items-center gap-1.5 rounded-xl border-2 border-verde/30 bg-verde-tenue px-3.5 py-1.5 text-xs font-bold text-verde-scuro transition-all hover:scale-105 dark:text-verde"
               >
-                <MessageCircle className="h-3.5 w-3.5" aria-hidden="true" /> Discutine con il Tutor IA
+                <MessageCircle className="h-3.5 w-3.5" aria-hidden="true" /> {u.letture.discussWithTutor}
               </button>
             </div>
           ))}
