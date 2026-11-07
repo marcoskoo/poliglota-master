@@ -9,6 +9,7 @@ import { useLms } from "@/lib/lms/store";
 import { getExercises } from "@/lib/lms/exercises";
 import { speakDialogue, stopSpeaking } from "@/lib/lms/tts";
 import { useVoiceCast, SpeakerAvatar, SpeakerChip, VoiceCastNote, DialogueLineButton, speakerIndexMap, uniqueSpeakers } from "../voice-cast";
+import { SpeedControl, useDialogueRate } from "../speed-control";
 import { QuizEngine } from "../quiz-engine";
 import { AudioButton } from "../audio-button";
 import { ImgWithFallback } from "../theme-img";
@@ -25,6 +26,8 @@ export function SituationsView() {
   const [openId, setOpenId] = useState<string | null>(navParams.situationId ?? null);
   const [playing, setPlaying] = useState<number | null>(null);
   const [quizOpen, setQuizOpen] = useState(false);
+  /* v9.46 · velocidad de lectura del diálogo (persistente) */
+  const [rate, setRate] = useDialogueRate();
 
   const situation = SITUATIONS.find((s) => s.id === openId);
 
@@ -91,16 +94,19 @@ export function SituationsView() {
           <section className="rounded-3xl border border-soft bg-surface p-5 sm:p-6">
             <div className="flex flex-wrap items-center justify-between gap-3">
               <h3 className="font-display text-xl font-semibold">Dialogo</h3>
-              <button
-                onClick={() =>
-                  playing === null
-                    ? speakDialogue(situation.dialogue, cast, { rate: 0.85, lang: activeLang, onIndex: (i) => setPlaying(i), onDone: () => setPlaying(null) })
-                    : (stopSpeaking(), setPlaying(null))
-                }
-                className="inline-flex min-h-10 items-center gap-2 rounded-xl bg-verde px-4 py-2 text-xs font-bold text-white transition-all hover:scale-105 dark:text-inchiostro"
-              >
-                {playing === null ? <><Play className="h-3.5 w-3.5" aria-hidden="true" /> Riproduci</> : <><Square className="h-3.5 w-3.5" aria-hidden="true" /> Stop</>}
-              </button>
+              <div className="flex flex-wrap items-center gap-2">
+                <button
+                  onClick={() =>
+                    playing === null
+                      ? speakDialogue(situation.dialogue, cast, { rate, lang: activeLang, onIndex: (i) => setPlaying(i), onDone: () => setPlaying(null) })
+                      : (stopSpeaking(), setPlaying(null))
+                  }
+                  className="inline-flex min-h-10 items-center gap-2 rounded-xl bg-verde px-4 py-2 text-xs font-bold text-white transition-all hover:scale-105 dark:text-inchiostro"
+                >
+                  {playing === null ? <><Play className="h-3.5 w-3.5" aria-hidden="true" /> Riproduci</> : <><Square className="h-3.5 w-3.5" aria-hidden="true" /> Stop</>}
+                </button>
+                <SpeedControl value={rate} onChange={setRate} />
+              </div>
             </div>
             <VoiceCastNote speakers={speakers} cast={cast} className="mt-3" />
             <div className="mt-4 max-h-[420px] space-y-2.5 overflow-y-auto pr-1 scrollbar-thin">
@@ -115,7 +121,7 @@ export function SituationsView() {
                         <p className="mt-1 text-sm text-muted-it">{line.es}</p>
                       </div>
                     </div>
-                    <DialogueLineButton line={line} cast={cast} rate={0.85} className="mt-1" />
+                    <DialogueLineButton line={line} cast={cast} rate={rate} className="mt-1" />
                   </div>
                 </div>
               ))}

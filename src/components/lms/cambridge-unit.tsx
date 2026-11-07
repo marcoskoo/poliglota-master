@@ -17,6 +17,7 @@ import { GRAMMAR_IMG } from "@/lib/lms/grammar";
 import { useLms } from "@/lib/lms/store";
 import { buildCast, speak, stopSpeaking, speakDialogue, type SpeakerVoice } from "@/lib/lms/tts";
 import { AudioButton } from "./audio-button";
+import { SpeedControl, useDialogueRate } from "./speed-control";
 import { HoverWords } from "./hover-words";
 import { ClozeReadings } from "./cloze-readings";
 import { MindReadings } from "./mind-readings";
@@ -137,6 +138,8 @@ export function CambridgeUnitView({ unitId, onBack }: { unitId: string; onBack: 
   const [step, setStep] = useState(0);
   const [showTr, setShowTr] = useState(false);
   const [playing, setPlaying] = useState(false);
+  /* v9.46 · velocidad de lectura del diálogo (persistente) */
+  const [dlgRate, setDlgRate] = useDialogueRate();
   const [essay, setEssay] = useState("");
   const [showModel, setShowModel] = useState(false);
   const [reviewPassed, setReviewPassed] = useState(false);
@@ -162,7 +165,7 @@ export function CambridgeUnitView({ unitId, onBack }: { unitId: string; onBack: 
   const playDialogue = () => {
     if (playing) { stopSpeaking(); setPlaying(false); return; }
     setPlaying(true);
-    speakDialogue(unit.dialogue, cast, { rate: 0.92, lang: ulang, onDone: () => setPlaying(false) });
+    speakDialogue(unit.dialogue, cast, { rate: dlgRate, lang: ulang, onDone: () => setPlaying(false) });
   };
 
   const nextStep = () => { if (step < CB_STEPS.length - 1) setStep(step + 1); };
@@ -272,6 +275,7 @@ export function CambridgeUnitView({ unitId, onBack }: { unitId: string; onBack: 
                   {showTr ? <EyeOff className="h-4 w-4" aria-hidden="true" /> : <Eye className="h-4 w-4" aria-hidden="true" />}
                   {showTr ? u.common.hideEs : u.common.showEs}
                 </button>
+                <SpeedControl value={dlgRate} onChange={setDlgRate} className="ml-auto" />
               </div>
               {/* v9.15 · hover de traducción en cada battuta del dialogo */}
               <p className="rounded-xl bg-crema-scura px-3.5 py-2 text-xs font-semibold text-muted-it dark:bg-inchiostro/10">
@@ -284,7 +288,7 @@ export function CambridgeUnitView({ unitId, onBack }: { unitId: string; onBack: 
                     <div className="min-w-0 flex-1">
                       <div className="flex items-start gap-2">
                         <p className="flex-1 leading-relaxed"><HoverWords text={l.it} lang={ulang} /></p>
-                        <AudioButton text={l.it} size="sm" lang={ulang} />
+                        <AudioButton text={l.it} size="sm" lang={ulang} rate={dlgRate} />
                       </div>
                       {showTr && <p className="mt-1.5 text-sm italic text-muted-it">{l.es}</p>}
                     </div>

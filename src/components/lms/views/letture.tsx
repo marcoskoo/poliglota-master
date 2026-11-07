@@ -17,6 +17,7 @@ import { cn } from "@/lib/utils";
 import { useLms } from "@/lib/lms/store";
 import { speak, stopSpeaking, hasVoiceFor, onVoices } from "@/lib/lms/tts";
 import { useVoiceCast, SpeakerAvatar, SpeakerChip, VoiceCastNote, speakerIndexMap, uniqueSpeakers } from "../voice-cast";
+import { SpeedControl, useDialogueRate } from "../speed-control";
 import { LETTURE_IMG, letturaExercises, type Lettura, type LetturaCat } from "@/lib/lms/letture";
 import { lettureFor, lettureByIdFor, lettureCatsFor } from "@/lib/lms/letture-lang";
 import { tutorFor } from "@/lib/lms/tutor-persona";
@@ -29,7 +30,6 @@ import { MindCollection } from "../mind-library";
 import { useUi } from "@/lib/lms/ui";
 
 const LEVELS: (CefrLevel | "tutti")[] = ["tutti", "A1", "A2", "B1", "B2", "C1", "C2"];
-const RATES = [0.75, 0.9, 1, 1.2];
 
 const CAT_STYLES: Record<LetturaCat, string> = {
   dialoghi: "border-azzurro/30 bg-azzurro/10 text-azzurro-scuro dark:text-azzurro",
@@ -196,7 +196,6 @@ function FilterChip({ active, onClick, children, small }: { active: boolean; onC
 /* ══════════ READER ════════════════════════════════════════════════ */
 
 function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
-  const settingsRate = useLms((s) => s.settings.audioRate);
   const settingsSubs = useLms((s) => s.settings.showSubtitles);
   const trackQuest = useLms((s) => s.trackQuest);
   const markReadingDone = useLms((s) => s.markReadingDone);
@@ -204,7 +203,8 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
   const activeLang = useLms((s) => s.activeLang) as LangCode;
   const u = useUi();
 
-  const [rate, setRate] = useState(RATES.includes(settingsRate) ? settingsRate : 0.9);
+  /* v9.46 · velocidad unificada con el resto de diálogos y persistente */
+  const [rate, setRate] = useDialogueRate();
   const [subs, setSubs] = useState(settingsSubs);
   const [activeIdx, setActiveIdx] = useState<number | null>(null);
   const [playing, setPlaying] = useState(false);        // riproduzione continua
@@ -374,18 +374,8 @@ function Reader({ text, onBack }: { text: Lettura; onBack: () => void }) {
               <Square className="h-4 w-4" aria-hidden="true" /> {u.letture.stop}
             </button>
           )}
-          <div className="flex items-center gap-1" role="group" aria-label={u.letture.speedAria}>
-            {RATES.map((r) => (
-              <button
-                key={r}
-                onClick={() => setRate(r)}
-                aria-pressed={rate === r}
-                className={cn("rounded-lg border-2 px-2.5 py-1.5 text-xs font-bold transition-all", rate === r ? "border-verde bg-verde-tenue text-verde-scuro dark:text-verde" : "border-soft")}
-              >
-                {r}×
-              </button>
-            ))}
-          </div>
+          {/* v9.46 · SpeedControl compartido: 0.75×–1.2× persistente */}
+          <SpeedControl value={rate} onChange={setRate} />
           <label className="ml-auto flex cursor-pointer items-center gap-2 text-xs font-semibold text-muted-it">
             <input type="checkbox" checked={subs} onChange={(e) => setSubs(e.target.checked)} className="h-4 w-4 accent-[var(--verde)]" />
             {u.letture.subsLabel}

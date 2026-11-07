@@ -12,6 +12,7 @@ import { CEFR_LEVELS, type CefrLevel } from "@/lib/lms/types";
 import { useLms } from "@/lib/lms/store";
 import { speak, stopSpeaking, speakDialogue } from "@/lib/lms/tts";
 import { useVoiceCast, SpeakerAvatar, SpeakerChip, VoiceCastNote, DialogueLineButton, speakerIndexMap, uniqueSpeakers } from "../voice-cast";
+import { SpeedControl, useDialogueRate } from "../speed-control";
 import { PLANS, todayUsage, planLimits } from "@/lib/lms/plans";
 import { QuizEngine } from "../quiz-engine";
 import { StepReveal } from "../step-reveal";
@@ -28,7 +29,8 @@ export function ListeningView() {
   const [openId, setOpenId] = useState<string | null>(null);
   const [playing, setPlaying] = useState<number | null>(null);
   const [quizOpen, setQuizOpen] = useState(false);
-  const [speed, setSpeed] = useState(0.85);
+  /* v9.46 · velocidad de lectura unificada y persistente (diálogos + palabras) */
+  const [speed, setSpeed] = useDialogueRate();
   const showSubs = useLms((s) => s.settings.showSubtitles);
 
   const tasks = useMemo(() => LISTENING.filter((t) => levelFilter === "all" || t.level === levelFilter), [LISTENING, levelFilter]);
@@ -71,17 +73,8 @@ export function ListeningView() {
           <VoiceHint />
           <div className="mt-2 flex flex-wrap items-center justify-between gap-3">
             <h2 className="font-display text-2xl font-semibold">{task.title}</h2>
-            <div className="flex items-center gap-1.5" role="group" aria-label="Velocidad del audio">
-              {([0.65, 0.85, 1.05] as const).map((r) => (
-                <button
-                  key={r}
-                  onClick={() => setSpeed(r)}
-                  className={cn("min-h-9 rounded-xl border-2 px-3 py-1.5 text-xs font-bold transition-all", speed === r ? "border-verde bg-verde-tenue text-verde-scuro dark:text-verde" : "border-soft")}
-                >
-                  {r === 0.65 ? "🐢 lento" : r === 0.85 ? "▶ normale" : "🐇 veloce"}
-                </button>
-              ))}
-            </div>
+            {/* v9.46 · presets unificados con el resto de reproductores de diálogo */}
+            <SpeedControl value={speed} onChange={setSpeed} />
           </div>
 
           {/* palabras sueltas */}
