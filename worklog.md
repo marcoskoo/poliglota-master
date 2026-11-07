@@ -3001,3 +3001,20 @@ Work Log:
 
 Stage Summary:
 - v9.47: TODOS los reproductores TTS de la app (Letture·Dialoghi, Ascolto, Situazioni, unità Cambridge, Radiogiornale y Shadowing) comparten ahora el mismo control de velocidad 0.75×/0.9×/1×/1.2× persistente; el Radiogiornale lo estrena en azzurro y Shadowing conserva «Lento» fijo a 0.62 (con fix del idioma TTS en EN/PT/FR/DE). Situazioni reali pasa de 6 a 20 diálogos por lengua en EN/PT/FR/DE (IT ya estaba en 20): 56 situaciones nuevas con vocabulario, diálogos traducidos, 112 ejercicios y role-plays, cubriendo A1→C1 con temas auténticos por cultura. Coste 0 €.
+
+---
+Task ID: v9.48
+Agent: main (Super Z)
+Task: Fotos realistas para las 56 situaciones nuevas v9.47 (+6 históricas de DE) — cobertura 100% en Situazioni reali
+
+Work Log:
+- Inventario: faltaban 62 fotos en public/images/situazioni/ — las 56 situaciones nuevas de v9.47 (14×EN/PT/FR/DE) más las 6 históricas de DE (sin foto desde v9.39, fallback emoji). Generadas las 62 para cobertura completa: 100/100 situaciones con foto en las 5 lenguas.
+- Manifiesto scripts/v948-sit-manifest.json: 62 prompts artesanales con contexto cultural por lengua (EE. UU. para EN: laundromat, rideshare, drugstore; pt-PT: padaria, tasca, CTT, autocarro; Francia: fromagerie, kiosque, épicerie, gare; Alemania: Bäckerei, Bürgeramt, Volksfest, Podiumsdiskussion), estilo fotográfico unificado «realistic professional photography, 50mm, shallow depth of field» y triple barrera anti-texto (no text/words/letters + not illustration/drawing/3D).
+- Generador scripts/v948-sit-generate.mjs (patrón v9.40/v9.41): SDK z-ai 1024×576, concurrencia 3 + pacing 2,5 s, backoff creciente en 429/5xx (15→90 s), escritura atómica tmp+rename, reanudable, flag --only y segunda pasada --pass2 con prompt sanitizado. 62/62 sin fallos; cuota API intacta.
+- Post-proceso scripts/v948-sit-process.mjs: sharp 1008×576 cover attention-crop, mozjpeg q82 → public/images/situazioni/ (mismo formato que las 39 históricas). Carpeta final: 101 archivos, 7,84 MB.
+- QA visual VLM (z-ai vision) de 8 muestras (2 por lengua): 7/8 PASS directo (calidad 8-9, 0 texto legible); de-sit-buergeramt regenerada con prompt más explícito (mostrador + sello en acción) → 9/10. Verificación mecánica: 62/62 jpg 1008×576 jpeg OK.
+- QA técnico: tsc 73 = baseline exacto (0 cambios de código fuente); bun run build OK; standalone :3473 → las 62 URLs 200 image/jpeg; E2E agent-browser EN → «Real situations» con 20/20 <img> reales (0 fallbacks, todas con naturalWidth>0), detalle «At the coffee shop» con la foto nueva, 0 errores de página/consola. Captura: upload/v948-en-situazioni-foto.png.
+- SW im-v9-48-0.
+
+Stage Summary:
+- v9.48: las 100 situaciones reales (5 lenguas × 20) tienen ahora foto realista propia generada con IA — 62 nuevas (56 de v9.47 + 6 DE históricas), prompts culturalmente fieles por país, formato idéntico al histórico (1008×576 jpg q82, ~60-90 KB), 0 cambios de código (solo assets estáticos + scripts). Coste 0 €.
