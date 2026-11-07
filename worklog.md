@@ -3015,6 +3015,7 @@ Work Log:
 - QA visual VLM (z-ai vision) de 8 muestras (2 por lengua): 7/8 PASS directo (calidad 8-9, 0 texto legible); de-sit-buergeramt regenerada con prompt más explícito (mostrador + sello en acción) → 9/10. Verificación mecánica: 62/62 jpg 1008×576 jpeg OK.
 - QA técnico: tsc 73 = baseline exacto (0 cambios de código fuente); bun run build OK; standalone :3473 → las 62 URLs 200 image/jpeg; E2E agent-browser EN → «Real situations» con 20/20 <img> reales (0 fallbacks, todas con naturalWidth>0), detalle «At the coffee shop» con la foto nueva, 0 errores de página/consola. Captura: upload/v948-en-situazioni-foto.png.
 - SW im-v9-48-0.
+- Producción verificada (commit ec4de04): https://poliglota-master.vercel.app/sw.js sirve im-v9-48-0; smoke 5/5 imágenes nuevas 200 image/jpeg y home 200.
 
 Stage Summary:
 - v9.48: las 100 situaciones reales (5 lenguas × 20) tienen ahora foto realista propia generada con IA — 62 nuevas (56 de v9.47 + 6 DE históricas), prompts culturalmente fieles por país, formato idéntico al histórico (1008×576 jpg q82, ~60-90 KB), 0 cambios de código (solo assets estáticos + scripts). Coste 0 €.
