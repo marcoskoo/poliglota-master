@@ -34,10 +34,11 @@ interface SpeedControlProps {
   value: number;
   onChange: (rate: number) => void;
   className?: string;
+  tone?: "verde" | "azzurro";   // v9.47 · azzurro = Radiogiornale
 }
 
 /** Grupo de botones 0.75× / 0.9× / 1× / 1.2× (etiquetado según lengua activa). */
-export function SpeedControl({ value, onChange, className }: SpeedControlProps) {
+export function SpeedControl({ value, onChange, className, tone = "verde" }: SpeedControlProps) {
   const u = useUi();
   return (
     <div className={cn("flex items-center gap-1", className)} role="group" aria-label={u.letture.speedAria}>
@@ -51,7 +52,9 @@ export function SpeedControl({ value, onChange, className }: SpeedControlProps) 
           className={cn(
             "rounded-lg border-2 px-2.5 py-1.5 text-xs font-bold transition-all",
             value === r
-              ? "border-verde bg-verde-tenue text-verde-scuro dark:text-verde"
+              ? tone === "azzurro"
+                ? "border-azzurro bg-azzurro/10 text-azzurro-scuro dark:text-azzurro"
+                : "border-verde bg-verde-tenue text-verde-scuro dark:text-verde"
               : "border-soft text-muted-it hover:border-verde/40"
           )}
         >

@@ -14,6 +14,7 @@ import { scoreSpeech, shadowVerdict, type ShadowScore } from "@/lib/lms/shadowin
 import { shadowPhrasesFor, ORAL_TASKS_IT_ONLY as ORAL_TASKS } from "@/lib/lms/lang-extras";
 import { CEFR_LEVELS, LEVEL_LABELS, type CefrLevel } from "@/lib/lms/types";
 import { speak } from "@/lib/lms/tts";
+import { SpeedControl, useDialogueRate } from "../speed-control";
 
 /* ── Tipos mínimos para Web Speech API (no están en lib.dom) ─────── */
 interface SRAlternative { transcript: string; confidence: number; }
@@ -199,6 +200,9 @@ function FrasiTab({ canRecognize, recognitionCtor, addXp, trackQuest, defaultLev
   const [score, setScore] = useState<ShadowScore | null>(null);
   const [manualDone, setManualDone] = useState(false);
   const [recognizing, setRecognizing] = useState(false);
+  /* v9.47 · velocidad de escucha ajustable y persistente (igual que los
+     diálogos); «Lento» sigue fijo a 0.62 como atajo pedagógico. */
+  const [rate, setRate] = useDialogueRate();
   const transcriptRef = useRef<string | null>(null);
   const rec = useRecorder();
   const phrase = list.length > 0 ? list[Math.min(idx, list.length - 1)] : undefined;
@@ -302,9 +306,10 @@ function FrasiTab({ canRecognize, recognitionCtor, addXp, trackQuest, defaultLev
           <span className="rounded-full bg-verde-tenue px-3 py-1 text-[11px] font-bold uppercase tracking-wider text-verde-scuro dark:text-verde">
             {phrase.level} · frase {idx + 1}/{list.length}
           </span>
-          <div className="flex items-center gap-2">
-            <AudioButton text={phrase.it} variant="full" label="Ascolta" />
-            <AudioButton text={phrase.it} rate={0.62} variant="full" label="Lento" />
+          <div className="flex flex-wrap items-center gap-2">
+            <AudioButton text={phrase.it} rate={rate} lang={lang} variant="full" label="Ascolta" />
+            <AudioButton text={phrase.it} rate={0.62} lang={lang} variant="full" label="Lento" />
+            <SpeedControl value={rate} onChange={setRate} />
           </div>
         </div>
 
@@ -434,7 +439,7 @@ function FrasiTab({ canRecognize, recognitionCtor, addXp, trackQuest, defaultLev
 
       {/* ayuda de velocidad */}
       <p className="flex flex-wrap items-center justify-center gap-4 text-xs text-muted-it">
-        <span className="inline-flex items-center gap-1.5"><Rabbit className="h-3.5 w-3.5" aria-hidden="true" /> Ascolta: velocidad normal</span>
+        <span className="inline-flex items-center gap-1.5"><Rabbit className="h-3.5 w-3.5" aria-hidden="true" /> Ascolta: a la velocidad que elijas (se recuerda)</span>
         <span className="inline-flex items-center gap-1.5"><Turtle className="h-3.5 w-3.5" aria-hidden="true" /> Lento: 60% más despacio, ideal para imitar</span>
       </p>
     </section>

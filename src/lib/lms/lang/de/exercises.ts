@@ -168,4 +168,118 @@ export const DE_EXERCISES: Exercise[] = [
   { id: "ex-de-sit-volksfest-2", type: "mc", level: "A2", topic: "ascolto", prompt: "¿Qué harán primero, antes de los fuegos artificiales?",
     options: ["Gleich ins Festzelt gehen", "Direkt zu den Fahrgeschäften", "Schon um 20 Uhr gehen", "Erst zur Live-Musik gehen"], answer: 3,
     explain: "„Lass uns erst zur Live-Musik gehen. Um 22 Uhr gibt es das Feuerwerk.“ Y luego brindan: „Dann stoßen wir schon mal an: Prost!“" },
+
+  /* ═══ v9.47 · 14 situaciones nuevas (ex-de-sit-*) ═══ */
+
+  /* de-sit-apotheke · A1 · En la farmacia */
+  { id: "ex-de-sit-apotheke-1", type: "mc", level: "A1", topic: "vocabolario", prompt: "¿Qué síntomas tiene el cliente de la farmacia?",
+    options: ["Fieber und Husten", "Nur Husten und Schnupfen", "Nur Fieber", "Kopfschmerzen und Fieber"], answer: 1,
+    explain: "„Haben Sie Fieber oder nur Husten und Schnupfen?“ — „Nur Husten und Schnupfen, zum Glück“: solo tos y mocos, sin fiebre." },
+  { id: "ex-de-sit-apotheke-2", type: "mc", level: "A1", topic: "vocabolario", prompt: "¿Qué recomienda la farmacéutica y cómo se toma?",
+    options: ["Einen rezeptfreien Sirup; dreimal täglich eine Tablette", "Antibiotika; zweimal täglich", "Einen Tee; so oft wie möglich", "Eine Salbe; einmal täglich"], answer: 0,
+    explain: "„Diesen rezeptfreien Sirup. Einnahme: dreimal täglich eine Tablette“: jarabe sin receta, tres pastillas al día. Die Einnahme = la toma." },
+
+  /* de-sit-bus · A1 · En el autobús */
+  { id: "ex-de-sit-bus-1", type: "mc", level: "A1", topic: "vocabolario", prompt: "¿Qué línea va al Hauptbahnhof y qué hay que hacer al subir?",
+    options: ["Linie 12; das Ticket entwerten", "Linie 21; umsteigen", "Linie 5; die Stopptaste drücken", "Linie 12; nichts"], answer: 0,
+    explain: "„Ja, Linie 12. Steigen Sie ein und entwerten Sie Ihr Ticket“: línea 12 y validar el billete. Entwerten es el verbo alemán para validar." },
+  { id: "ex-de-sit-bus-2", type: "mc", level: "A1", topic: "vocabolario", prompt: "¿Tiene que hacer transbordo y cuántas paradas son?",
+    options: ["Ja, zweimal; fünf Haltestellen", "Nein, direkt; fünf Haltestellen", "Nein, direkt; drei Haltestellen", "Ja, einmal; zehn Haltestellen"], answer: 1,
+    explain: "„Muss ich umsteigen? — Nein, der Bus fährt direkt“ y „Nur fünf. Ich sage Ihnen Bescheid“: directo y solo 5 paradas, el conductor avisa." },
+
+  /* de-sit-kiosk · A1 · En el kiosco */
+  { id: "ex-de-sit-kiosk-1", type: "mc", level: "A1", topic: "vocabolario", prompt: "¿Qué compra el cliente y qué más pide?",
+    options: ["Eine Tageszeitung und zwei Brötchen; einen Milchkaffee", "Zwei Zeitungen; ein Wasser", "Ein Brötchen; einen Espresso", "Eine Zeitung; Zigaretten"], answer: 0,
+    explain: "„Eine Tageszeitung und zwei Brötchen“ y añade „ein Milchkaffee zum Mitnehmen“: periódico, dos panecillos y café con leche para llevar." },
+  { id: "ex-de-sit-kiosk-2", type: "mc", level: "A1", topic: "vocabolario", prompt: "¿Cuánto cuesta y qué hace con el cambio?",
+    options: ["Vier siebzig; er wartet auf Kleingeld", "Vier siebzig; er lässt das Kleingeld da", "Sieben vierzig; er zahlt mit Karte", "Fünf siebzig; er beschwert sich"], answer: 1,
+    explain: "„Das macht vier siebzig“ (4,70 €) y paga con 5: „das Kleingeld können Sie behalten“ — deja el cambio como propina simbólica." },
+
+  /* de-sit-buergeramt · A2 · Registro de residencia */
+  { id: "ex-de-sit-buergeramt-1", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Qué tres documentos pide el funcionario para la Anmeldung?",
+    options: ["Pass, Hausvertrag und Wohnungsgeberbestätigung", "Pass, Führerschein und Gehaltsabrechnung", "Nur den Pass", "Pass, Meldebescheinigung und Steuer-ID"], answer: 0,
+    explain: "„Ihren Pass, den Hausvertrag und die Wohnungsgeberbestätigung“: pasaporte, contrato de vivienda y confirmación del arrendador (¡documento estrella del trámite!)." },
+  { id: "ex-de-sit-buergeramt-2", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Cuánto cuesta la tasa y qué pregunta final hace la nueva residente?",
+    options: ["Zehn Euro; nach der Steuer-ID", "Zwanzig Euro; nach dem Führerschein", "Zehn Euro; nach der Krankenkasse", "Kostenlos; nach dem Pass"], answer: 0,
+    explain: "„Die Gebühr beträgt zehn Euro“ y pregunta „welche Stelle ist für die Steuer-ID zuständig?“: 10 € de tasa y por la oficina del número fiscal." },
+
+  /* de-sit-bahnsteig · A2 · Control en el andén */
+  { id: "ex-de-sit-bahnsteig-1", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Por qué no es válido el billete de la viajera?",
+    options: ["Es ist von gestern und nicht aktiviert", "Es ist für einen anderen Zug", "Es ist gefälscht", "Sie hat keins"], answer: 0,
+    explain: "„Dieses Ticket ist von gestern. Es ist nicht gültig“ y ella admite „ich habe vergessen, es zu aktivieren“: era de ayer y sin activar." },
+  { id: "ex-de-sit-bahnsteig-2", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Cuánto es la multa y dónde tenía que hacer transbordo?",
+    options: ["Sechzig Euro; in Basel", "Sechzehn Euro; in Freiburg", "Sechzig Euro; in Zürich", "Hundert Euro; in Basel"], answer: 0,
+    explain: "„das erhöhte Entgelt: sechzig Euro“ y „Ich muss in Basel umsteigen“: 60 € de tarifa incrementada y transbordo en Basilea. Clásico sixty/sixteen alemán: sechzig ≠ sechzehn." },
+
+  /* de-sit-fahrrad · A2 · En el taller de bicis */
+  { id: "ex-de-sit-fahrrad-1", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Qué le pasa a la bici y qué hará el mecánico?",
+    options: ["Platter und rutschende Kette; neuer Schlauch und Kette nachspannen", "Nur platt; neue Bremse", "Kette rutscht; neues Rad", "Nichts; nur Kontrolle"], answer: 0,
+    explain: "„Mein Fahrrad ist platt und die Kette rutscht durch“ y el mecánico: „Der Schlauch muss neu, und die Kette spanne ich nach“: cámara nueva y tensar la cadena." },
+  { id: "ex-de-sit-fahrrad-2", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Qué más se revisa, cuánto cuesta y cuándo estará lista?",
+    options: ["Die Bremsen; ca. dreißig Euro; morgen früh", "Die Lichter; ca. dreizehn Euro; heute Abend", "Die Reifen; ca. hundert Euro; nächste Woche", "Nichts; gratis; sofort"], answer: 0,
+    explain: "„Können Sie auch die Bremsen prüfen? — Mach ich“, „ungefähr dreißig Euro“ y „Morgen früh ist die Reparatur fertig“: frenos, ~30 € y lista mañana temprano." },
+
+  /* de-sit-buchhandlung · A2 · En la librería */
+  { id: "ex-de-sit-buchhandlung-1", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Qué busca la clienta y qué edición queda disponible?",
+    options: ["Den neuen Roman von Juli Zeh; die Taschenbuchausgabe", "Einen Krimi; die Hardcover-Ausgabe", "Ein Sachbuch; nichts", "Den Bestseller von gestern; die erste Auflage"], answer: 0,
+    explain: "„Ich suche den neuen Roman von Juli Zeh“ y „Wir haben noch die Taschenbuchausgabe“: la nueva novela de Juli Zeh en edición de bolsillo." },
+  { id: "ex-de-sit-buchhandlung-2", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Qué servicios gratuitos menciona el librero?",
+    options: ["Einschlagen und Beratung", "Einschlagen; die Bestellung dauert zwei Tage und die Lieferung ist kostenlos erklärt", "Lieferung nach Hause; Lesezeichen", "Nichts ist kostenlos"], answer: 1,
+    explain: "„das [Einschlagen] ist kostenlos“ y „Die Lieferung einer Bestellung dauert zwei Tage“: envoltorio gratis y encargos en dos días. Es un regalo (Geschenk)." },
+
+  /* de-sit-bewerbung · B1 · Entrevista de trabajo */
+  { id: "ex-de-sit-bewerbung-1", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Cuáles son los puntos fuertes del candidato?",
+    options: ["Teamplayer, strukturiert, hat ein Team von vier geleitet", "Kreativ, aber unordentlich", "Alleine arbeitend, sehr schnell", "Stur aber zuverlässig"], answer: 0,
+    explain: "„Ich bin Teamplayer und arbeite strukturiert. In meiner letzten Stelle habe ich ein Team von vier geleitet“: trabajo en equipo, estructurado y liderazgo de 4 personas." },
+  { id: "ex-de-sit-bewerbung-2", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Qué le motiva y qué condiciones se ofrecen?",
+    options: ["Das Gehalt; CDD von sechs Monaten", "Die internationale Ausrichtung; Probezeit von drei Monaten, Einstieg im Mai", "Die Nähe zur Wohnung; unbefristeter Vertrag sofort", "Die Urlaubstage; Teilzeit"], answer: 1,
+    explain: "„Die internationale Ausrichtung“ le motiva y la empresa ofrece „eine Probezeit von drei Monaten“ con „Einstieg im Mai“: 3 meses de prueba e incorporación en mayo." },
+
+  /* de-sit-zahnarzt · B1 · En el dentista */
+  { id: "ex-de-sit-zahnarzt-1", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Por qué acude el paciente y qué encuentra el dentista?",
+    options: ["Zur Kontrolle, aber ein Zahn tut weh; eine alte Füllung ist gebrochen", "Nur Kontrolle; alles in Ordnung", "Zahnschmerzen; ein Weisheitszahn", "Prophylaxe; Karies"], answer: 0,
+    explain: "Viene „zur Kontrolle“ pero „unten links tut ein Zahn weh“ y el diagnóstico: „Eine alte Füllung ist gebrochen“: un empaste viejo se rompió." },
+  { id: "ex-de-sit-zahnarzt-2", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Quién paga el tratamiento y qué pide la asistenta al principio?",
+    options: ["Der Patient selbst; die Krankenkasse", "Die Krankenkasse übernimmt das; die Versichertenkarte", "Die Versicherung zahlt nichts; den Ausweis", "Halb/halb; die Adresse"], answer: 1,
+    explain: "Al llegar pide „die Versichertenkarte bitte“ y el dentista tranquiliza: „Die Krankenkasse übernimmt das“: lo cubre el seguro público." },
+
+  /* de-sit-bank · B1 · En el banco */
+  { id: "ex-de-sit-bank-1", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Qué quiere abrir el cliente y qué documentos se piden?",
+    options: ["Ein Girokonto; Ausweis und Meldebescheinigung", "Ein Sparkonto; nur den Ausweis", "Ein Tagesgeldkonto; Gehaltsnachweis", "Eine Kreditkarte; nichts"], answer: 0,
+    explain: "„Ich möchte ein Girokonto eröffnen“ y piden „Ihren Ausweis und eine Meldebescheinigung“: cuenta corriente + DNI y certificado de empadronamiento." },
+  { id: "ex-de-sit-bank-2", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Cuáles son las comisiones y qué es gratis?",
+    options: ["Drei Euro pro Monat immer; nichts", "Null Euro im ersten Jahr, danach drei pro Monat; EC-Karte inklusive, Überweisungen mit IBAN kostenlos", "Zehn Euro pro Jahr; alles extra", "Keine Gebühren; alles gratis"], answer: 1,
+    explain: "„Null Euro im ersten Jahr, danach drei pro Monat“, „Die EC-Karte ist inklusive“ y „mit der IBAN sogar kostenlos“: gratis el primer año, luego 3 €/mes." },
+
+  /* de-sit-versicherung · B2 · En la aseguradora */
+  { id: "ex-de-sit-versicherung-1", type: "mc", level: "B2", topic: "situazioni", prompt: "¿Qué siniestro declara y qué documentos lleva?",
+    options: ["Einen Autounfall; Fotos und Polizeibericht", "Einen Wasserschaden; Fotos und die Rechnung des Klempners", "Einen Diebstahl; die Polizei", "Einen Brandschaden; nichts"], answer: 1,
+    explain: "„Ich möchte einen Wasserschaden melden“ y la empleada pregunta „Haben Sie Fotos und die Rechnung des Klempners dabei?“: daño por agua con fotos y factura del fontanero." },
+  { id: "ex-de-sit-versicherung-2", type: "mc", level: "B2", topic: "situazioni", prompt: "¿Cuánto es la franquicia y cuándo viene el perito?",
+    options: ["Hundertfünfzig Euro; nächste Woche", "Zweihundertfünfzig Euro; diese Woche", "Zweihundertfünfzig Euro; sofort", "Fünfhundert Euro; morgen"], answer: 1,
+    explain: "„Zweihundertfünfzig Euro laut Police“ de Selbstbeteiligung y „Der Gutachter meldet sich diese Woche“: 250 € y el perito esta semana. El daño „wird reguliert“ según las cláusulas." },
+
+  /* de-sit-betriebsrat · B2 · Asamblea de empresa */
+  { id: "ex-de-sit-betriebsrat-1", type: "mc", level: "B2", topic: "situazioni", prompt: "¿Qué solicita el empleado y qué critica?",
+    options: ["Das Rederecht; die Kernzeiten sind zu starr", "Eine Pause; das Gehalt ist zu niedrig", "Eine Abstimmung; die Chefs", "Urlaub; die Überstunden"], answer: 0,
+    explain: "„Ich beantrage das Rederecht. Die Kernzeiten sind für viele zu starr“: solicita el turno de palabra porque las horas centrales fijas son muy rígidas." },
+  { id: "ex-de-sit-betriebsrat-2", type: "mc", level: "B2", topic: "situazioni", prompt: "¿Qué se decide y dónde queda registrado?",
+    options: ["Vertagt; im Protokoll", "Beschluss per Mehrheit: zwei Gleittage pro Monat; alles kommt ins Protokoll", "Abstimmung vertagt; nirgendwo", "Beschluss: keine Änderung; im Intranet"], answer: 1,
+    explain: "Se vota („Abstimmen“) la propuesta de „zwei Gleittage pro Monat“, gana „die Mehrheit“ y „Alles kommt ins Protokoll“: dos días flexibles al mes, registrado en el acta." },
+
+  /* de-sit-vortrag · C1 · Ponencia académica */
+  { id: "ex-de-sit-vortrag-1", type: "mc", level: "C1", topic: "situazioni", prompt: "¿Cuál es la objeción de la doctoranda?",
+    options: ["Die Stichprobe ist zu klein für die Verallgemeinerung", "Die Daten sind gefälscht", "Der Redner spricht zu schnell", "Das Thema ist irrelevant"], answer: 0,
+    explain: "„Ist Ihre Stichprobe nicht zu klein für diese Verallgemeinerung?“: ¿la muestra no es demasiado pequeña para esa generalización? Objeción clásica en el debate académico alemán." },
+  { id: "ex-de-sit-vortrag-2", type: "mc", level: "C1", topic: "situazioni", prompt: "¿Cómo matiza el ponente su afirmación?",
+    options: ["Er wiederholt sie stärker", "Er spricht lieber von einer Tendenz als von einem Beleg — bis zur Hauptstudie", "Er bricht den Vortrag ab", "Er widerspricht der Doktorandin"], answer: 1,
+    explain: "„Ich spreche lieber von einer Tendenz als von einem Beleg — bis zur Hauptstudie“: prefiere «tendencia» a «evidencia» hasta el estudio principal. Einschränken con elegancia." },
+
+  /* de-sit-podium · C1 · Mesa redonda */
+  { id: "ex-de-sit-podium-1", type: "mc", level: "C1", topic: "situazioni", prompt: "¿Qué tesis plantea la señora Weber de forma provocadora?",
+    options: ["Der Markt reguliert sich selbst", "Der Staat muss alles regulieren", "Die Statistik ist falsch", "Die Mieten sind zu niedrig"], answer: 0,
+    explain: "„Zugespitzt formuliert: Der Markt reguliert sich selbst — die Statistik belegt es“: el mercado se autorregula. Zugespitzt formuliert anuncia una tesis afilada." },
+  { id: "ex-de-sit-podium-2", type: "mc", level: "C1", topic: "situazioni", prompt: "¿Por qué contradice el señor Özdemir y qué concede al final?",
+    options: ["Die Statistik ignoriert die ländlichen Regionen; er lenkt ein — für die Städte mag das stimmen", "Die Daten sind alt; er bleibt hart", "Er hat andere Zahlen; er widerspricht weiter", "Kein Grund; er entschuldigt sich"], answer: 0,
+    explain: "„Ihre Statistik ignoriert die ländlichen Regionen“ y finalmente „Dann lenke ich ein — für die Städte mag das stimmen, fürs Land nicht“: contradice con datos y cede parcialmente. Einlenken = dar el brazo a torcer." },
 ];

@@ -30,8 +30,9 @@ import { speak, stopSpeaking, onVoices, voicesFor, defaultVoiceFor, prettyVoiceN
 import { VoiceHint } from "../audio-button";
 import { HoverWords } from "../hover-words";
 import { QuizEngine } from "../quiz-engine";
+import { SpeedControl, useDialogueRate, SPEED_RATES } from "../speed-control";
 import {
-  NEWS_BY_LANG, NEWS_CATS, NEWS_RATES, DEFAULT_RATE,
+  NEWS_BY_LANG, NEWS_CATS,
   newsCatLabel, newsExercises, newsSentences, newsWordCount,
   type NewsCat, type NewsItem,
 } from "@/lib/lms/news";
@@ -41,11 +42,9 @@ import type { CefrLevel, LangCode } from "@/lib/lms/types";
 
 const LEVELS: (CefrLevel | "tutti")[] = ["tutti", "A1", "A2", "B1", "B2", "C1", "C2"];
 
-/** velocidad inicial de la noticia: preset más cercano al default del nivel */
-function startRate(level: CefrLevel): number {
-  const target = DEFAULT_RATE[level];
-  return NEWS_RATES.reduce((best, r) => (Math.abs(r.value - target) < Math.abs(best - target) ? r.value : best), NEWS_RATES[0].value);
-}
+/* v9.47 · la velocidad inicial ya no es el default VOA del nivel: el
+   SpeedControl compartido arranca con la preferencia persistente del
+   usuario (settings.audioRate) y la recuerda entre noticias y vistas. */
 
 /** «§…§» delimita el segmento que se renderiza en negrita (ui.news.methodIntro). */
 function rich(text: string) {
@@ -177,7 +176,7 @@ export function NotizieView() {
                   {u.news.cardMeta(w, t.minutes, t.questions.length)}
                 </p>
                 <p className="mt-3 flex items-center gap-1.5 text-xs font-bold text-azzurro-scuro dark:text-azzurro">
-                  <Headphones className="h-3.5 w-3.5" aria-hidden="true" /> {u.news.listenCta(NEWS_RATES.length)}
+                  <Headphones className="h-3.5 w-3.5" aria-hidden="true" /> {u.news.listenCta(SPEED_RATES.length)}
                 </p>
               </div>
             </motion.button>
@@ -245,7 +244,8 @@ function Reader({ news, lang, onBack }: { news: NewsItem; lang: LangCode; onBack
   const navigate = useLms((s) => s.navigate);
   const loc = useUi().news; /* v9.28 · cromo del reader en la lengua de estudio */
 
-  const [rate, setRate] = useState(() => startRate(news.level));
+  /* v9.47 · velocidad unificada con el resto de reproductores (persistente) */
+  const [rate, setRate] = useDialogueRate();
   const [subs, setSubs] = useState(settingsSubs);
   const [mode, setMode] = useState<"lettura" | "ascolto">("lettura");
   const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
@@ -455,22 +455,8 @@ function Reader({ news, lang, onBack }: { news: NewsItem; lang: LangCode; onBack
                   <ChevronRight className="h-4 w-4" aria-hidden="true" />
                 </button>
               </div>
-              <div className="flex items-center gap-1" role="group" aria-label={loc.speedsAria}>
-                {NEWS_RATES.map((r, ri) => (
-                  <button
-                    key={r.value}
-                    onClick={() => setRate(r.value)}
-                    aria-pressed={rate === r.value}
-                    title={loc.rates[ri] ?? r.label}
-                    className={cn(
-                      "rounded-lg border-2 px-2.5 py-1.5 text-xs font-bold transition-all",
-                      rate === r.value ? "border-azzurro bg-azzurro/10 text-azzurro-scuro dark:text-azzurro" : "border-soft"
-                    )}
-                  >
-                    {r.value}×
-                  </button>
-                ))}
-              </div>
+              {/* v9.47 · SpeedControl compartido (tone azzurro del Radiogiornale) */}
+              <SpeedControl value={rate} onChange={setRate} tone="azzurro" />
               <button
                 onClick={() => setVoiceIdx((v) => { const nv = v + 1; return nv >= voices.length ? -1 : nv; })}
                 title={loc.voiceChange}
@@ -496,7 +482,7 @@ function Reader({ news, lang, onBack }: { news: NewsItem; lang: LangCode; onBack
             </div>
             <p className="mt-2 px-1 font-mono text-[10px] uppercase tracking-wider text-muted-it">
               {loc.playerStatus(
-                loc.rates[NEWS_RATES.findIndex((r) => r.value === rate)] ?? NEWS_RATES.find((r) => r.value === rate)?.label ?? `${rate}×`,
+                `${rate}×`,
                 flat.length,
                 mode === "ascolto"
               )}

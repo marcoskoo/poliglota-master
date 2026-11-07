@@ -173,4 +173,118 @@ export const PT_EXERCISES: Exercise[] = [
   { id: "pt-ex-sit-aluguer-2", type: "mc", level: "B1", topic: "situazioni", prompt: "El cuarto de baño de la habitación de Alfama es…",
     options: ["Privativo, só para o quarto", "Partilhado com a senhoria", "Inexistente no andar", "Partilhado com mais dois inquilinos"], answer: 3,
     explain: "«É partilhada com mais dois inquilinos». Además: caução de dos meses y contrato de un año renovable." },
+
+  /* ═══ v9.47 · 14 situaciones nuevas (pt-sit-*) ═══ */
+
+  /* pt-sit-padaria · Na padaria (A1) */
+  { id: "pt-ex-sit-padaria-1", type: "mc", level: "A1", topic: "situazioni", prompt: "En la panadería: ¿qué compra la clienta?",
+    options: ["Uma broa de milho e dois pães alentejanos", "Dois pães de mistura e um bolo", "Uma broa e dois bolos de laranja", "Três pães alentejanos"], answer: 0,
+    explain: "«Uma broa de milho e dois pães alentejanos, se faz favor»: pan de maíz + dos panes alentejanos, y aún añade una porción de bizcocho de naranja." },
+  { id: "pt-ex-sit-padaria-2", type: "mc", level: "A1", topic: "situazioni", prompt: "¿Cuánto cuesta y qué hace la clienta al pagar?",
+    options: ["Dois euros; paga exato", "Dois euros e trinta; dá cinco euros e deixa o troco", "Trinta euros; paga com multibanco", "Doze euros; pede fatura"], answer: 1,
+    explain: "«São dois euros e trinta cêntimos» y «Aqui tem cinco euros. Fique com o troco»: paga con cinco y deja el cambio (propina simbólica al padeiro)." },
+
+  /* pt-sit-autocarro · No autocarro (A1) */
+  { id: "pt-ex-sit-autocarro-1", type: "mc", level: "A1", topic: "situazioni", prompt: "¿Hacia dónde va el autobús y cuánto cuesta el título a bordo?",
+    options: ["Para a Baixa; dois euros", "Para São Bento; três euros", "Para a Casa da Música; um euro", "Para o aeroporto; cinco euros"], answer: 0,
+    explain: "«Este autocarro vai para a Baixa?» — «Vai, sim» y el billete a bordo cuesta «dois euros», validado en la máquina de entrada." },
+  { id: "pt-ex-sit-autocarro-2", type: "mc", level: "A1", topic: "situazioni", prompt: "¿Cuántas paradas faltan para São Bento?",
+    options: ["Uma", "Duas", "Três", "Quatro"], answer: 2,
+    explain: "«Três. Aviso-o quando chegarmos»: faltan tres y el conductor avisa al llegar. Paragem = parada." },
+
+  /* pt-sit-quiosque · No quiosque (A1) */
+  { id: "pt-ex-sit-quiosque-1", type: "mc", level: "A1", topic: "situazioni", prompt: "¿Qué edición del periódico queda y qué más compra el cliente?",
+    options: ["A edição de manhã; uma revista", "A edição da tarde; um boletim do Euromilhões", "A edição de ontem; um carimbo", "A edição especial; dois boletins"], answer: 1,
+    explain: "«Só ficou a edição da tarde» y pide «um boletim do Euromilhões, com duas chaves»: edición de la tarde + boleto con dos combinaciones." },
+  { id: "pt-ex-sit-quiosque-2", type: "mc", level: "A1", topic: "situazioni", prompt: "¿Cómo quiere los números del boleto y cuánto paga en total?",
+    options: ["Escolhidos por ele; seis euros", "Ao acaso; seis euros", "Ao acaso; cinco euros", "Da data de nascimento; sete euros"], answer: 1,
+    explain: "«Ao acaso, por favor» (al azar) y «São seis euros ao todo»: 1 € el periódico + 5 € el boleto." },
+
+  /* pt-sit-taxi · De táxi no Porto (A2) */
+  { id: "pt-ex-sit-taxi-1", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Qué ruta sugiere el taxista y por qué?",
+    options: ["O túnel, porque é mais rápido", "A ponte, porque tem uma vista linda", "A marginal, porque evita trânsito", "O centro, porque está calmo"], answer: 1,
+    explain: "«Quer que vá pela ponte ou pelo túnel? A ponte tem uma vista linda»: sugiere el puente por las vistas (¡la de D. Luís I!)." },
+  { id: "pt-ex-sit-taxi-2", type: "mc", level: "A2", topic: "situazioni", prompt: "¿De dónde viene la clienta y cuánto marca el taxímetro?",
+    options: ["De um jantar; nove euros", "De um concerto na Casa da Música; nove euros e quarenta", "Do aeroporto; dez euros", "Do teatro; dezassete euros"], answer: 1,
+    explain: "«Vim de um concerto na Casa da Música» y «O taxímetro marca nove euros e quarenta»: concierto + 9,40 €, pagando con diez y pidiendo recibo." },
+
+  /* pt-sit-centro-saude · No centro de saúde (A2) */
+  { id: "pt-ex-sit-centro-saude-1", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Qué síntomas describe el usuario?",
+    options: ["Febre e uma tosse seca, com dores no corpo e cansaço", "Dores de cabeça e vertigens", "Uma tosse com expectoração", "Febre alta e vómitos"], answer: 0,
+    explain: "«Ando com febre e uma tosse seca» y luego «Dores no corpo e cansaço. Já estou assim há quatro dias»: fiebre, tos seca, dolores y cansancio de 4 días." },
+  { id: "pt-ex-sit-centro-saude-2", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Qué le aconseja la recepcionista si la fiebre sube y qué pide él?",
+    options: ["Tomar um banho; uma receita", "Ir à farmácia; um exame", "Ir à urgência; um atestado para o trabalho", "Esperar mais uma semana; nada"], answer: 2,
+    explain: "«Se a febre subir, vá à urgência» y él pide «um atestado para o trabalho»: urgencias si empeora + justificante médico." },
+
+  /* pt-sit-tasca · Jantar na tasca (A2) */
+  { id: "pt-ex-sit-tasca-1", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Cuál es el plato del día y qué incluye la couvert?",
+    options: ["Bacalhau à Brás; pão, azeitonas e queijo", "Francesinha; pão e manteiga", "Bacalhau com natas; azeitonas só", "Polvo à lagareiro; sopa"], answer: 0,
+    explain: "«Bacalhau à Brás com batata palha» y «a couvert: pão, azeitonas e queijo»: bacalao a la Brás y couvert de pan, aceitunas y queso." },
+  { id: "pt-ex-sit-tasca-2", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Qué pide de beber y cómo cierra la cena?",
+    options: ["Uma cerveja; pede a conta", "Um jarro de vinho da casa; dois cafés com a conta", "Água com gás; um chá", "Vinho verde; uma sobremesa para levar"], answer: 1,
+    explain: "«Um jarro de vinho da casa» y «dois cafés com a conta, se faz favor»: jarra de vino de la casa y dos cafés junto con la cuenta." },
+
+  /* pt-sit-museu · No museu (A2) */
+  { id: "pt-ex-sit-museu-1", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Qué está incluido en la entrada y dónde empieza la exposición?",
+    options: ["A audioguia; sala três à direita", "A visita guiada; sala um", "O guarda-roupa; ala dos azulejos", "Nada; entrada principal"], answer: 0,
+    explain: "«A audioguia está incluída na entrada» y la exposición empieza «na sala três, à direita», aunque recomienda empezar por el ala del siglo XVIII." },
+  { id: "pt-ex-sit-museu-2", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Con qué condición se puede fotografiar y qué oferta adicional hay?",
+    options: ["Com flash; uma loja", "Sem flash; uma visita guiada às quinze", "Só com licença; um workshop", "Proibido; um café"], answer: 1,
+    explain: "«Sem flash, sim» y «Há uma visita guiada às quinze»: sin flash y visita guiada a las tres." },
+
+  /* pt-sit-emprego · Entrevista de emprego (B1) */
+  { id: "pt-ex-sit-emprego-1", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Qué experiencia tiene el candidato y qué idiomas habla?",
+    options: ["Quatro anos de atendimento, coordenação de cinco pessoas; português, espanhol e inglês", "Dois anos de vendas; português e inglês", "Cinco anos de gestão; português só", "Três anos de marketing; quatro línguas"], answer: 0,
+    explain: "«Trabalhei quatro anos no atendimento ao cliente e coordenei uma equipa de cinco pessoas» y «Falo português, espanhol e inglês»." },
+  { id: "pt-ex-sit-emprego-2", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Dónde se ve en cinco años y qué se hablará en la segunda entrevista?",
+    options: ["A abrir empresa própria; o horário", "Num papel de maior responsabilidade, a liderar a expansão ibérica; a remuneração", "No mesmo cargo; as férias", "A estudar fora; a formação"], answer: 1,
+    explain: "«Num papel de maior responsabilidade, a liderar a equipa de expansão ibérica» y la reclutadora: «Falamos da remuneração na segunda entrevista»." },
+
+  /* pt-sit-ctt · Nos CTT (B1) */
+  { id: "pt-ex-sit-ctt-1", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Cuánto pesa el paquete y cuánto cuesta cada opción?",
+    options: ["Dois quilos; normal dez euros, registado quinze", "Dois quilos e meio; normal doze euros, registado dezassete", "Três quilos; normal doze euros, registado vinte", "Dois quilos e meio; normal dezassete euros, registado doze"], answer: 1,
+    explain: "«Dois quilos e meio» en la balanza; envío normal «doze euros» y certificado «dezassete»: 2,5 kg, 12 € o 17 €." },
+  { id: "pt-ex-sit-ctt-2", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Qué elige el cliente y cuánto tarda?",
+    options: ["Normal, com seguro; cinco a dez dias", "Registado; três a cinco dias úteis", "Registado; um dia útil", "Normal; três a cinco dias úteis"], answer: 1,
+    explain: "Elige «registado» (hay libros dentro) y tarda «entre três e cinco dias úteis», con código de rastreio y seguro." },
+
+  /* pt-sit-banco · No banco (B1) */
+  { id: "pt-ex-sit-banco-1", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Qué quiere hacer el cliente y qué necesita?",
+    options: ["Levantar dinheiro; o cartão", "Uma transferência para Espanha; o IBAN do destinatário", "Abrir uma conta; um comprovativo", "Trocar dinheiro; o passaporte"], answer: 1,
+    explain: "«Queria fazer uma transferência para uma conta espanhola» y el funcionário pide «o IBAN do destinatário»." },
+  { id: "pt-ex-sit-banco-2", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Qué comisiones hay y qué producto intenta vender el empleado?",
+    options: ["Nenhuma na zona Euro; um depósito a prazo", "Cinco euros; um cartão de crédito", "Um por cento; um seguro de saúde", "Dez euros; uma conta conjunta"], answer: 0,
+    explain: "«Para a zona Euro, nenhuma» comisión y al final ofrece «um depósito a prazo com boa taxa»: ningún coste e intenta colocar un depósito a plazo." },
+
+  /* pt-sit-imobiliaria · Comprar casa (B2) */
+  { id: "pt-ex-sit-imobiliaria-1", type: "mc", level: "B2", topic: "situazioni", prompt: "¿Cómo se formaliza la propuesta y cuánto es la señal?",
+    options: ["Por palavra; cinco por cento", "Por escrito com valor e prazo; dez por cento depositado num advogado", "Por email; vinte por cento", "Verbalmente; um mês de renda"], answer: 1,
+    explain: "«Uma proposta de compra por escrito, com o valor e o prazo» y la señal es «dez por cento, depositado num advogado»." },
+  { id: "pt-ex-sit-imobiliaria-2", type: "mc", level: "B2", topic: "situazioni", prompt: "¿De cuánto deben contar los gastos de escritura y qué incluye?",
+    options: ["Cinco por cento, só o imposto", "Sete por cento do valor: imposto e honorários do notário", "Dez por cento, com registos", "Três por cento, só o notário"], answer: 1,
+    explain: "«Conte com o imposto e os honorários do notário, uns sete por cento do valor»: impuesto (IMT) + notario ≈ 7 %." },
+
+  /* pt-sit-reuniao · Reunião de equipa (B2) */
+  { id: "pt-ex-sit-reuniao-1", type: "mc", level: "B2", topic: "situazioni", prompt: "¿Qué desviación detecta el colega en su hoja de cálculo y qué sugiere?",
+    options: ["Oito por cento; adiar a compra de equipamento", "Dezoito por cento; cortar salários", "Oito por cento; cancelar o projeto", "Cinco por cento; pedir um orçamento novo"], answer: 0,
+    explain: "«Há um desvio de oito por cento. Sugiro adiar a compra de equipamento»: desviación del 8 % y propone aplazar la compra." },
+  { id: "pt-ex-sit-reuniao-2", type: "mc", level: "B2", topic: "situazioni", prompt: "¿Qué decisión se toma y qué se pide al final?",
+    options: ["Cancelar a compra; que se registe na ata", "Negociar com o fornecedor até quinta e apresentar a proposta na sexta; que alguém registe na ata", "Adiar tudo para o próximo mês; um novo orçamento", "Comprar já o equipamento; uma pausa"], answer: 1,
+    explain: "«Negocie até quinta e apresentamos a proposta na sexta» y el colega pregunta «Alguém regista isto na ata?»: negociar + acta." },
+
+  /* pt-sit-conferencia · Conferência académica (C1) */
+  { id: "pt-ex-sit-conferencia-1", type: "mc", level: "C1", topic: "situazioni", prompt: "¿Cuál es la cuestión metodológica de la investigadora?",
+    options: ["Que os dados são fabricados", "Que a amostra é pequena para generalizar os resultados", "Que a revisão por pares é desnecessária", "Que o painel é parcial"], answer: 1,
+    explain: "«A amostra não é pequena para generalizar os resultados?»: ¿la muestra no es pequeña para generalizar? El orador la reconoce como «pergunta justíssima»." },
+  { id: "pt-ex-sit-conferencia-2", type: "mc", level: "C1", topic: "situazioni", prompt: "¿Cómo responde el ponente y qué promete?",
+    options: ["Diz que são dados finais; nada", "Reconhece que são dados preliminares com limitações, mas o padrão é consistente; discutirá as limitações na publicação", "Rejeita a pergunta; termina a sessão", "Promete nova amostra; uma segunda conferência"], answer: 1,
+    explain: "«São dados preliminares, com as limitações que referiu, mas o padrão é consistente» y «volto a este painel na publicação para discutir as limitações em detalhe»." },
+
+  /* pt-sit-debate · Debate no rádio (C1) */
+  { id: "pt-ex-sit-debate-1", type: "mc", level: "C1", topic: "situazioni", prompt: "¿Qué matiz añade la invitada al panorama?",
+    options: ["Que os números pioraram", "Que os números melhoraram, mas a recuperação é desigual", "Que não há dados", "Que tudo depende do governo"], answer: 1,
+    explain: "«Permita-me que acrescente um matiz: os números melhoraram, mas a recuperação é desigual»: mejora desigual. Fórmula cortés para introducir un matiz." },
+  { id: "pt-ex-sit-debate-2", type: "mc", level: "C1", topic: "situazioni", prompt: "¿Por qué discrepa parcialmente el invitado?",
+    options: ["A estatística citada não inclui as regiões do interior", "Os dados são de há dez anos", "A convidada não entende de números", "O locutor é parcial"], answer: 0,
+    explain: "«A estatística que citou não inclui as regiões do interior, e aí o ponto essencial muda»: la estadística excluye las regiones del interior." },
 ];

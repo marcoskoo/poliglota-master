@@ -129,4 +129,118 @@ export const FR_EXERCISES: Exercise[] = [
     options: ["À deux mois de loyer, charges comprises", "À trois mois de loyer", "À un mois de loyer, hors charges", "Il n'y a pas de dépôt de garantie"], answer: 2, explain: "« À un mois de loyer, hors charges »: la fianza equivale a un mes de alquiler sin los gastos." },
   { id: "fr-ex-sit-logement-3", type: "mc", level: "B2", topic: "situazioni", prompt: "¿Quién puede actuar como garant de la candidata?",
     options: ["Son employeur", "Sa banque", "Un ami parisien", "Ses parents"], answer: 3, explain: "« Mes parents peuvent se porter garants »: sus padres se ofrecen como avalistas del expediente." },
+
+  /* ═══ v9.47 · 14 situaciones nuevas (fr-sit-*) ═══ */
+
+  /* fr-sit-fromagerie · À la fromagerie (A1) */
+  { id: "fr-ex-sit-fromagerie-1", type: "mc", level: "A1", topic: "situazioni", prompt: "En la quesería: ¿qué pide la clienta y en qué cantidad?",
+    options: ["Un morceau de comté de deux cents grammes et un petit chèvre", "Un camembert entier et un chèvre", "Trois cents grammes de comté", "Un plateau de fromages complet"], answer: 0,
+    explain: "« Je voudrais un morceau de comté » con « Deux cents grammes » y « un petit chèvre pour le soir »: 200 g de comté y un cabra pequeño." },
+  { id: "fr-ex-sit-fromagerie-2", type: "mc", level: "A1", topic: "situazioni", prompt: "¿Cuánto tiempo está madurado el comté y qué propone el quesero al final?",
+    options: ["Dix mois; une baguette", "Dix-huit mois; un camembert bien affiné pour le plateau", "Vingt-quatre mois; un reblochon", "Six mois; du beurre"], answer: 1,
+    explain: "« Il est affiné dix-huit mois » y sugiere « un camembert bien affiné pour votre plateau »: madurado 18 meses y un camembert para la tabla." },
+
+  /* fr-sit-kiosque · Au kiosque à journaux (A1) */
+  { id: "fr-ex-sit-kiosque-1", type: "mc", level: "A1", topic: "situazioni", prompt: "¿Qué compra el cliente en el quiosco?",
+    options: ["Le Monde du jour, un hebdomadaire économique et un carnet de timbres", "Un hebdomadaire et deux journaux", "Le Monde et une carte postale", "Un journal et un paquet de timbres"], answer: 0,
+    explain: "« Le Monde du jour », « un hebdomadaire économique » y « un carnet de timbres »: el periódico, un semanario y un bloc de sellos." },
+  { id: "fr-ex-sit-kiosque-2", type: "mc", level: "A1", topic: "situazioni", prompt: "¿Cuánto cuesta y cómo paga?",
+    options: ["Huit euros soixante; par carte", "Huit euros soixante; avec dix euros en monnaie", "Six euros quatre-vingts; exact", "Dix euros soixante; avec vingt euros"], answer: 1,
+    explain: "« Ça vous fera huit euros soixante » y paga « Voici dix euros » pidiendo cambio (« Vous faites de la monnaie ? »)." },
+
+  /* fr-sit-epicerie · À l'épicerie du coin (A1) */
+  { id: "fr-ex-sit-epicerie-1", type: "mc", level: "A1", topic: "situazioni", prompt: "¿Qué pide la clienta en la ultramarinos?",
+    options: ["Une baguette tradition et une bouteille de rouge", "Deux baguettes et de l'eau", "Une baguette et un journal", "Une bouteille de blanc et du fromage"], answer: 0,
+    explain: "« Une baguette tradition et une bouteille de rouge, s'il vous plaît »: barra tradicional y tinto, con la propuesta del patrón aceptada tras probar." },
+  { id: "fr-ex-sit-epicerie-2", type: "mc", level: "A1", topic: "situazioni", prompt: "¿Prueba el vino antes de comprarlo y cuánto paga?",
+    options: ["Non; sept euros", "Oui, et elle prend la bouteille; sept euros quatre-vingts", "Oui, mais elle refuse; huit euros", "Non; six euros quatre-vingts"], answer: 1,
+    explain: "El épicier ofrece « Vous goûtez ? », ella responde « Volontiers… Je la prends » y el total es « sept euros quatre-vingts » (7,80 €)." },
+
+  /* fr-sit-bus · Dans le bus parisien (A2) */
+  { id: "fr-ex-sit-bus-1", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Hacia dónde va el bus y qué debe hacer la pasajera al subir?",
+    options: ["À Nation; valider son ticket à la borne", "À Republique; acheter un ticket au conducteur", "Au terminus; composter son billet", "À Bastille; rien"], answer: 0,
+    explain: "« Ce bus va bien à Nation ? — Oui » y « validez votre ticket à la borne »: va a Nation y hay que validar en la máquina." },
+  { id: "fr-ex-sit-bus-2", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Dónde está el transbordo con el metro y qué pide el conductor?",
+    options: ["À Nation; de descendre", "À Republique; de pousser vers le fond et de céder sa place", "À Bastille; de garder le silence", "À Lyon; de composter"], answer: 1,
+    explain: "« Republique » es la correspondance y el conductor pide « poussez vers le fond » (empujen al fondo) y que alguien « cède sa place » a una señora." },
+
+  /* fr-sit-gare · À la gare (A2) */
+  { id: "fr-ex-sit-gare-1", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Qué billete compra y qué rama queda disponible?",
+    options: ["Un aller simple; la rame de 14h07", "Un aller-retour pour Lyon; la rame de 14h07", "Un aller-retour pour Paris; la rame de 15h", "Un billet de première; la rame de 14h07"], answer: 1,
+    explain: "« Un aller-retour pour Lyon » y como « l'heure de pointe est complète », queda « la rame de 14h07 »." },
+  { id: "fr-ex-sit-gare-2", type: "mc", level: "A2", topic: "situazioni", prompt: "¿De qué vía sale y qué no debe olvidar?",
+    options: ["Voie A; acheter un sandwich", "Voie B; composter son billet", "Voie B; réserver un siège", "Voie C; rien"], answer: 1,
+    explain: "« Voie B » (verificando el anuncio, puede cambiar) y « N'oubliez pas de composter votre billet »: validar el billete." },
+
+  /* fr-sit-medecin · Chez le médecin (A2) */
+  { id: "fr-ex-sit-medecin-1", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Qué síntomas tiene la paciente?",
+    options: ["Mal à la gorge depuis trois jours, toux et un peu de fièvre (38 degrés)", "Mal de tête et fatigue", "Mal au ventre et fièvre haute", "Toux sèche sans fièvre"], answer: 0,
+    explain: "« J'ai mal à la gorge depuis trois jours et je tousse beaucoup » con « Un peu, 38 degrés hier soir »: garganta, tos y fiebre leve." },
+  { id: "fr-ex-sit-medecin-2", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Cuál es el diagnóstico y el tratamiento?",
+    options: ["Une grippe; des antibiotiques", "Une angine virale; un sirop et du repos", "Une allergie; un spray", "Un rhume; rien du tout"], answer: 1,
+    explain: "« C'est une angine virale. Je vous fais une ordonnance : un sirop et du repos »: angina vírica, jarabe y reposo. Y pregunta por el reembolso automático." },
+
+  /* fr-sit-bricolage · Au magasin de bricolage (A2) */
+  { id: "fr-ex-sit-bricolage-1", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Qué busca el cliente y qué pregunta clave hace el vendedor?",
+    options: ["Des vis et des chevilles pour une étagère; « pour du plâtre ou du béton ? »", "Un foret et de la peinture; « quelle couleur ? »", "Une étagère complète; « quel budget ? »", "Une perceuse; « quelle marque ? »"], answer: 0,
+    explain: "« Des vis et des chevilles pour fixer une étagère » y la pregunta clave: « Pour du plâtre ou du béton ? » — cambia el taco según la pared." },
+  { id: "fr-ex-sit-bricolage-2", type: "mc", level: "A2", topic: "situazioni", prompt: "¿Qué consejo de pro da el vendedor y qué ofrece gratis?",
+    options: ["Percer doucement pour ne pas fissurer; le devis pour la peinture", "Acheter deux kits; la livraison", "Peindre d'abord; un foret gratuit", "Louer une perceuse; rien"], answer: 0,
+    explain: "« Percez doucement pour ne pas fissurer » (taladre despacio para no agrietar) y « le devis pour la peinture est gratuit »." },
+
+  /* fr-sit-entretien · L'entretien d'embauche (B1) */
+  { id: "fr-ex-sit-entretien-1", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Cuál es la trayectoria del candidato?",
+    options: ["Cinq ans en marketing digital, dont deux comme chef de projet", "Trois ans en vente, puis manager", "Deux ans comme chef de projet seulement", "Cinq ans dans la finance"], answer: 0,
+    explain: "« J'ai travaillé cinq ans dans le marketing digital, dont deux comme chef de projet »: 5 años, 2 como jefe de proyecto. « Dont » = de los cuales." },
+  { id: "fr-ex-sit-entretien-2", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Qué tipo de contrato se ofrece y con qué condición?",
+    options: ["Un CDD d'un an; sans période d'essai", "Un CDI avec une période d'essai de deux mois", "Un stage; six mois d'essai", "Un CDI; sans essai"], answer: 1,
+    explain: "« Le poste est en CDI avec une période d'essai de deux mois »: contrato indefinido con 2 meses de prueba." },
+
+  /* fr-sit-restaurant · Réserver au restaurant (B1) */
+  { id: "fr-ex-sit-restaurant-1", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Para cuándo y cuántas personas es la reserva?",
+    options: ["Samedi, deux personnes", "Dimanche, quatre personnes", "Samedi, quatre personnes", "Vendredi, deux personnes"], answer: 0,
+    explain: "« Réserver une table pour samedi, deux personnes »: sábado para dos, a las 20 horas (también había terraza a las 19)." },
+  { id: "fr-ex-sit-restaurant-2", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Qué necesidad alimentaria especial se anota?",
+    options: ["Végétarien", "Sans gluten", "Allergie aux fruits secs", "Sans lactose"], answer: 1,
+    explain: "« L'un de nous mange sans gluten » y el camarero: « le chef adaptera le menu du marché »: cocina sin gluten." },
+
+  /* fr-sit-banque · À la banque (B1) */
+  { id: "fr-ex-sit-banque-1", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Por qué necesita el RIB tan rápido el cliente?",
+    options: ["Pour voyager", "Il vient d'arriver en France pour travailler", "Pour un achat en ligne", "Pour un crédit"], answer: 1,
+    explain: "« Je viens d'arriver en France pour travailler. Il me faut un RIB vite »: acaba de llegar a trabajar y necesita los datos bancarios (para la nómina)." },
+  { id: "fr-ex-sit-banque-2", type: "mc", level: "B1", topic: "situazioni", prompt: "¿Cuánto cuesta la apertura y qué tarjeta sugiere la asesora?",
+    options: ["Vingt euros; une carte classique", "Gratuite; la carte premium avec découvert autorisé", "Cinquante euros; une carte à débit différé", "Gratuite; aucune carte"], answer: 1,
+    explain: "« L'ouverture est gratuite » y aconseja « la carte premium avec découvert autorisé »: apertura gratis + tarjeta premium con descubierto." },
+
+  /* fr-sit-assurance · À l'agence d'assurance (B2) */
+  { id: "fr-ex-sit-assurance-1", type: "mc", level: "B2", topic: "situazioni", prompt: "¿Qué tipo de siniestro declara el cliente y qué documento pide el agente?",
+    options: ["Un accident de voiture; la facture du garage", "Un dégât des eaux; le constat rempli avec le voisin", "Un vol; la plainte", "Un incendie; les photos"], answer: 1,
+    explain: "« J'ai eu un dégât des eaux » (daño por agua) y el agente pregunta por « le constat » firmado por ambas partes." },
+  { id: "fr-ex-sit-assurance-2", type: "mc", level: "B2", topic: "situazioni", prompt: "¿De cuánto es la franquicia y cuándo pasa el perito?",
+    options: ["Cinquante euros; sous trois jours", "Cent cinquante euros; sous cinq jours ouvrés", "Deux cents euros; sous dix jours", "Aucune franchise; immédiatement"], answer: 1,
+    explain: "« Cent cinquante euros » de franchise y « L'expert passera évaluer les dégâts sous cinq jours ouvrés »: 150 € y 5 días hábiles." },
+
+  /* fr-sit-reunion · La réunion de travail (B2) */
+  { id: "fr-ex-sit-reunion-1", type: "mc", level: "B2", topic: "situazioni", prompt: "¿Qué desviación presupuestaria se detecta y qué se propone?",
+    options: ["Six pour cent sur la communication; reporter la campagne", "Six pour cent sur les salaires; licencier", "Seize pour cent; annuler le projet", "Deux pour cent; rien"], answer: 0,
+    explain: "« Un dépassement de six pour cent sur la communication. Je propose de reporter la campagne »: desviación del 6 % y aplazar la campaña." },
+  { id: "fr-ex-sit-reunion-2", type: "mc", level: "B2", topic: "situazioni", prompt: "¿Cuál es la síntesis final de la reunión?",
+    options: ["Renégociation jeudi, validation vendredi, compte rendu lundi", "Validation jeudi, renégociation vendredi", "Tout est annulé", "Décision reportée au mois prochain"], answer: 0,
+    explain: "« En synthèse : renégociation jeudi, validation vendredi, compte rendu lundi »: la responsible cierra con el calendario completo." },
+
+  /* fr-sit-colloque · Le colloque universitaire (C1) */
+  { id: "fr-ex-sit-colloque-1", type: "mc", level: "C1", topic: "situazioni", prompt: "¿Cuál es la crítica metodológica de la interviniente?",
+    options: ["Le corpus est trop étroit pour conclure", "Les résultats sont faux", "Le chercheur n'est pas crédible", "La méthodologie est parfaite"], answer: 0,
+    explain: "« Votre corpus n'est-il pas trop étroit pour conclure ? »: ¿el corpus no es demasiado estrecho? Pregunta en estilo interrogativo culto con inversión." },
+  { id: "fr-ex-sit-colloque-2", type: "mc", level: "C1", topic: "situazioni", prompt: "¿Cómo matiza el investigador su afirmación?",
+    options: ["Il refuse tout débat", "« À chaud, je dirais tendance forte plutôt que règle »", "Il retire sa communication", "Il attaque l'intervenante"], answer: 1,
+    explain: "« J'accepte la nuance : à chaud, je dirais « tendance forte » plutôt que « règle » »: acepta el matiz y reformula con « plutôt que » (en vez de)." },
+
+  /* fr-sit-debat · Le débat radiophonique (C1) */
+  { id: "fr-ex-sit-debat-1", type: "mc", level: "C1", topic: "situazioni", prompt: "¿Qué subraya la experta sobre las cifras oficiales?",
+    options: ["Elles sont fausses", "La tendance est à la baisse, mais lente", "Elles ne sortent que demain", "Elle refuse de les commenter"], answer: 1,
+    explain: "« Permettez-moi d'insister sur les chiffres officiels : la tendance est à la baisse, mais lente »: baja lenta. La fórmula permite-moi d'insister refuerza con cortesía." },
+  { id: "fr-ex-sit-debat-2", type: "mc", level: "C1", topic: "situazioni", prompt: "¿Por qué no zanja la experta en antena y qué propone?",
+    options: ["Elle n'a pas de données; elle conclut", "Elle n'a pas le droit; elle raccroche", "Elle ne peut trancher sur l'antenne, mais les deux lectures sont compatibles avec les données trimestrielles", "Elle attend l'avis du modérateur"], answer: 2,
+    explain: "« Je ne peux trancher sur l'antenne, mais les deux lectures sont compatibles si l'on regarde les données trimestrielles »: las dos lecturas son compatibles con los datos trimestrales." },
 ];
